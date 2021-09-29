@@ -1,7 +1,3 @@
-# Holotools
-
-Holotools is the code base used by the Holobiome team
-
 ## Installation
 
 Use the package manager [pip]
