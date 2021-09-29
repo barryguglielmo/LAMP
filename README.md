@@ -1,3 +1,8 @@
+# LAMP
+Lanugage Automated Machine Learning by Python.<br>
+This tool was built for my master's thesis. It is a natural language processor (NLP)
+that utilizes pytorch and scipy to make predictions of pathogenicity of bacteria 
+based off of semantic analysis of scientific abstracts.
 ## Installation
 
 Use the package manager [pip]
