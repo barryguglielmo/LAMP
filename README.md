@@ -15,9 +15,9 @@ pip install lamp
 ## Usage
 
 ```python
-from lamp.sentences import word_stats, word_cloud # trimming algorithms
+from lamp.pipeline import *
 
-word_cloud(word_stats(['This is one','This is two']))
+lamp_pipeline(**args)
 ```
 
 ## Contributing
