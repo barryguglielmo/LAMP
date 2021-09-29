@@ -1,6 +1,8 @@
-# Holotools
-
-Holotools is the code base used by the Holobiome team
+# LAMP
+Lanugage Automated Machine Learning by Python.<br>
+This tool was built for my master's thesis in biotechnology from Harvard University: Extension School. It is a natural language processor (NLP)
+that utilizes pytorch, huggingface, and scipy to make predictions of pathogenicity of bacteria 
+based off of semantic analysis of scientific abstracts.
 
 ## Installation
 
