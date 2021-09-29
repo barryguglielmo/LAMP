@@ -1,0 +1,63 @@
+
+1. J Anim Sci Biotechnol. 2020 Sep 9;11:92. doi: 10.1186/s40104-020-00492-9.
+eCollection 2020.
+
+Dietary protocatechuic acid ameliorates inflammation and up-regulates intestinal 
+tight junction proteins by modulating gut microbiota in LPS-challenged piglets.
+
+Hu R(1), He Z(2), Liu M(1)(3), Tan J(1), Zhang H(4), Hou DX(2), He J(1), Wu S(1).
+
+Author information: 
+(1)Hunan Collaborative Innovation Center for Utilization of Botanical Functional 
+Ingredients, College of Animal Science and Technology, Hunan Agricultural
+University, Changsha, 410128 China.
+(2)Department of Food Science and Biotechnology, Faculty of Agriculture,
+Kagoshima University, Kagoshima, 890-0065 Japan.
+(3)Beijing China-Agri HongKe Bio-Technology Co., Ltd., Beijing, 102206 China.
+(4)State Key Laboratory of Animal Nutrition, Institute of Animal Sciences,
+Chinese Academy of Agricultural Sciences , Beijing, 100193 China.
+
+Background: Weaning is one of the major factors that cause stress and intestinal 
+disease in piglets. Protocatechuic acid (PCA) is an active plant phenolic acid
+which exists in Chinese herb, Duzhong (Eucommia ulmoides Oliver), and is also
+considered as the main bioactive metabolite of polyphenol against oxidative
+stress and inflammation. This study aimed to investigate the effect of PCA on
+growth performance, intestinal barrier function, and gut microbiota in a weaned
+piglet model challenged with lipopolysaccharide (LPS).
+Methods: Thirty-six piglets (Pig Improvement Company line 337 × C48, 28 d of age,
+8.87 kg ± 0.11 kg BW) were randomly allocated into 3 treatments and fed with a
+basal diet (CTL), a diet added 50 mg/kg of aureomycin (AUR), or a diet
+supplemented with 4000 mg/kg of PCA, respectively. The piglets were challenged
+with LPS (10 μg/kg BW) on d 14 and d 21 by intraperitoneal injection during the
+21-d experiment. Animals (n = 6 from each group) were sacrificed after being
+anesthetized by sodium pentobarbital at 2 h after the last injection of LPS. The 
+serum was collected for antioxidant indices and inflammatory cytokines analysis, 
+the ileum was harvested for detecting mRNA and protein levels of tight junction
+proteins by PCR and immunohistochemical staining, and the cecum chyme was
+collected for intestinal flora analysis using 16S rRNA gene sequencing.
+Results: Dietary supplementation of PCA or AUR significantly increased the
+expression of tight junction proteins including ZO-1 and claudin-1 in intestinal 
+mucosa, and decreased the serum levels of thiobarbituric acid reactive substances
+(TBARS) and IL-6, as compared with CTL group. In addition, PCA also decreased the
+serum levels of IL-2 and TNF-α (P < 0.05). Analysis of gut microbiota indicated
+that PCA increased the Firmicutes/Bacteroidetes ratio (P < 0.05). Spearman's
+correlation analysis at the genus level revealed that PCA reduced the relative
+abundance of Prevotella 9, Prevotella 2, Holdemanella, and Ruminococcus torques
+group (P < 0.05), and increased the relative abundance of Roseburia and
+Desulfovibrio (P < 0.05), whereas AUR had no significant effect on these
+bacteria.
+Conclusions: These results demonstrated that both PCA and AUR had protective
+effect on oxidative stress, inflammation and intestinal barrier function in
+piglets challenged with LPS, and PCA potentially exerted the protective function 
+by modulating intestinal flora in a way different from AUR.
+Holdemanella:
+
+© The Author(s) 2020.
+
+DOI: 10.1186/s40104-020-00492-9 
+PMCID: PMC7487840
+PMID: 32944233 
+
+Conflict of interest statement: Competing interestsThe authors declare that they 
+have no conflict of interest.
+

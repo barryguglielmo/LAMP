@@ -1,0 +1,39 @@
+
+1. Int J Syst Evol Microbiol. 2020 Mar;70(3):1578-1584. doi: 10.1099/ijsem.0.003937.
+
+Weissella muntiaci sp. nov., isolated from faeces of Formosan barking deer
+(Muntiacus reevesi).
+
+Lin ST(1), Wang LT(1), Wu YC(1), Guu JJ(1), Tamura T(2), Mori K(2), Huang L(1),
+Watanabe K(1)(3).
+
+Author information: 
+(1)Bioresource Collection and Research Center (BCRC), Food Industry Research and 
+Development Institute, 331 Shih-Pin Rd., Hsinchu 30062, Taiwan, ROC.
+(2)Biological Resource Center (NBRC), National Institute of Technology and
+Evaluation (NITE), 2-5-8 Kazusakamatari, Kisarazu, Chiba 292-0818, Japan.
+(3)Department of Animal Science and Technology, College of Bioresources and
+Agriculture, National Taiwan University, No. 50, Ln. 155, Sec. 3, Keelung Rd.,
+Taipei 10673, Taipei, Taiwan, ROC.
+
+A Gram-stain-positive strain, 8 H-2T, was isolated from faeces of Reeves' muntjac
+(Muntiacus reevesi) barking deer in Taiwan. Cells of the strain were short
+rod-shaped, non-motile, non-haemolytic, asporogenous, facultatively anaerobic,
+heterofermentative and did not exhibit catalase and oxidase activities.
+Comparative analyses of 16S rRNA, pheS and dnaA gene sequences demonstrated that 
+the novel strain was a member of the genus Weissella. On the basis of 16S rRNA
+gene sequence similarities, the type strains of Weissella oryzae (99.2 %),
+Weissella confusa (97.8 %), Weissella cibaria (97.6 %) and Weissella soli
+(97.3 %) were the closest neighbours to strain 8 H-2T. The concatenated
+housekeeping gene sequence (pheS and dnaA) similarities of 8 H-2T to closely
+related type strains were 72.5-84.9 %, respectively. The genomic DNA G+C content 
+was 40.5 mol%. The average nucleotide identity and digital DNA-DNA hybridization 
+values with these type strains were 70.2-75.4% and 25.1-30.1 %, respectively.
+Phenotypic and genotypic test results demonstrated that strain 8 H-2T represents 
+a novel species belonging to the genus Weissella, for which the name Weissella
+muntiaci sp. nov. is proposed. The type strain is 8 H-2T (=BCRC 81133T=NBRC
+113537T).
+
+DOI: 10.1099/ijsem.0.003937 
+PMID: 32228749  [Indexed for MEDLINE]
+

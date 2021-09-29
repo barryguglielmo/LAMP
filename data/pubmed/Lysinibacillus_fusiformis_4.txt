@@ -1,0 +1,55 @@
+
+1. Curr Microbiol. 2020 Aug;77(8):1558-1568. doi: 10.1007/s00284-020-01976-7. Epub
+2020 Apr 4.
+
+Screening and Optimization of Newly Isolated Thermotolerant Lysinibacillus
+fusiformis Strain SK for Protease and Antifungal Activity.
+
+Khadka S(1)(2)(3), Adhikari S(4), Thapa A(5)(3), Panday R(6), Adhikari M(6),
+Sapkota S(1)(7)(3), Regmi RS(1), Adhikari NP(5)(3), Proshad R(8)(3), Koirala
+N(9)(10).
+
+Author information: 
+(1)Department of Microbiology, Birendra Multiple Campus, Tribhuvan University,
+Chitwan, Bharatpur, 44200, Nepal.
+(2)State Key Laboratory of Environmental Aquatic Chemistry, Research Center for
+Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing, 100085, China.
+(3)University of Chinese Academy of Sciences, Beijing, 100049, China.
+(4)Department of Microbiology, Birendra Multiple Campus, Tribhuvan University,
+Chitwan, Bharatpur, 44200, Nepal. sanadh26@gmail.com.
+(5)State Key Laboratory of Alpine Ecology and Biodiversity, Institute of Tibetan 
+Plateau Research, Chinese Academy of Sciences, Beijing, 100101, China.
+(6)Department of Biomedical Engineering, College of Life Science and Technology, 
+Huazhong University of Science and Technology, Wuhan, 430074, China.
+(7)State Key Laboratory of Respiratory Disease, Guangzhou Institute of
+Biomedicine and Health, Chinese Academy of Sciences, Guangzhou, 510530, China.
+(8)Key Laboratory of Mountain Surface Process and Ecological Regulation,
+Institute of Mountain Hazards and Environment, Chinese Academy of Sciences,
+Chengdu, 610041, China.
+(9)Department of Natural Products Research, Dr. Koirala Research Institute for
+Biotechnology and Biodiversity, Kathmandu, 44613, Nepal.
+(10)Faculty of Science and Technology, University of Macau, Macau SAR, 999078,
+China.
+
+The current study was designed to isolate, identify and characterize a Bacillus
+sp. capable of producing protease and exhibiting antifungal activity. A highly
+potent bacterium capable of producing protease abundantly was isolated from the
+soil collected from the waste pit near Microbiology Laboratory of Birendra
+Multiple Campus, Bharatpur and later on identified as Lysinibacillus fusiformis
+strain SK on the basis of morphological, physiological, biochemical and 16S rDNA 
+gene sequencing techniques. The strain SK showed 98.36% similarity with L.
+fusiformis strain NBRC 15717. Using R-programming statistical analysis tool, the 
+optimum incubation time for the highest average protease production (APP) (47.2
+U/mL) was found to be 22 h at 50 °C and both incubation time and temperature
+showed a significant impact on the production of protease (P < 0.01). The maximum
+average relative protease activity (ARPA) was observed at pH 7.8 and 48 °C,
+whereas the least ARPA was observed in the presence of 80 g/L NaCl and 10 g/L
+HgCl2 (P  < 0.01). The newly isolated bacterial strain also exhibited strong
+antifungal activity against aflatoxigenic Aspergillus flavus and Aspergillus
+parasiticus suggesting that it can be a potential candidate for protease
+production and activity over a wider range of temperature and pH as well as for
+synthesizing effective antifungal compounds.
+
+DOI: 10.1007/s00284-020-01976-7 
+PMID: 32248284 
+

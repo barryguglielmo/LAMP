@@ -1,0 +1,43 @@
+
+1. ACS Omega. 2020 Mar 23;5(13):7379-7391. doi: 10.1021/acsomega.9b04410.
+eCollection 2020 Apr 7.
+
+Stabilization of Various Zero-Valent Metal Nanoparticles on a Superabsorbent
+Polymer for the Removal of Dyes, Nitrophenol, and Pathogenic Bacteria.
+
+Ali HSHM(1), Khan SA(2).
+
+Author information: 
+(1)Department of Biological Sciences, Faculty of Science, King Abdulaziz
+University, KSA, Jeddah 21589, Saudi Arabia.
+(2)Department of Chemistry, University of Swabi, Swabi Anbar23561, Khyber
+Pakhtunkhwa, Pakistan.
+
+In this work, a superabsorbent polymer, sodium polyacrylate, also known as water 
+ball (WB), loaded with Ni, Cu, and Ag zero-valent metal nanoparticles (MNPs) was 
+applied for environmental remediation. WBs loaded with Ni, Cu, and Ag NPs were
+evaluated for their catalytic performance against the reduction of 4-nitrophenol 
+(4-NP) to 4-aminophenol (4-AP) and decolorization of methyl orange (MO), Congo
+red (CR), and methylene blue (MB) dyes. The apparent rate constants (K app) for
+the reduction of 4-NP to 4-AP in the presence of Ni, Cu, and Ag NPs were 2.1 ×
+10-1, 2.9 × 10-1, and 4.6 × 10-1 min-1, respectively, indicating the strongest
+activity of WB loaded with Ag NPs as compared to the other two catalysts.
+Similarly, WB loaded with Ag NPs showed the highest K app values compared to the 
+other two catalysts. Among all of the bacteria studied, except Providencia
+stuartii and Streptococcus mutans, the zone of inhibition of Ag was higher as
+compared to that of the Ni and Cu NPs, however, slightly low from that of the
+reference standard tetracycline TE30. Furthermore, the synthesized catalysts were
+extensively characterized through X-ray diffraction (XRD), Fourier-transform
+infrared spectroscopy (FTIR), thermogravimetric analysis (TGA), field emission
+scanning electron microscopy (FESEM), and X-ray photoelectron spectroscopy (XPS) 
+analyses.
+
+Copyright © 2020 American Chemical Society.
+
+DOI: 10.1021/acsomega.9b04410 
+PMCID: PMC7144176
+PMID: 32280879 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

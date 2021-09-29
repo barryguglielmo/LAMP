@@ -1,0 +1,44 @@
+
+1. Vaccines (Basel). 2020 Sep 4;8(3). pii: E503. doi: 10.3390/vaccines8030503.
+
+Bacillus subtilis and Pseudomonas fluorescens Trigger Common and Distinct
+Systemic Immune Responses in Arabidopsis thaliana Depending on the Pathogen
+Lifestyle.
+
+Nguyen NH(1), Trotel-Aziz P(1), Villaume S(1), Rabenoelina F(1), Schwarzenberg
+A(2), Nguema-Ona E(2), Clément C(1), Baillieul F(1), Aziz A(1).
+
+Author information: 
+(1)Induced Resistance and Plant Bioprotection EA 4707, SFR Condorcet FR-CNRS
+3417, UFR Sciences, Campus Moulin de la Housse, University of Reims, CEDEX 02,
+51687 Reims, France.
+(2)Centre Mondial de l'Innovation, Groupe Roullier, 35401 Saint-Malo, France.
+
+Plants harbor various beneficial bacteria that modulate their innate immunity,
+resulting in induced systemic resistance (ISR) against various pathogens.
+However, the immune mechanisms underlying ISR triggered by Bacillus spp. and
+Pseudomonas spp. against pathogens with different lifestyles are not yet clearly 
+elucidated. Here, we show that root drenching of Arabidopsis plants with
+Pseudomonas fluorescensPTA-CT2 and Bacillus subtilis PTA-271 can induce ISR
+against the necrotrophic fungus B. cinerea and the hemibiotrophic bacterium
+Pseudomonas syringae Pst DC3000. In the absence of pathogen infection, both
+beneficial bacteria do not induce any consistent change in systemic immune
+responses. However, ISR relies on priming faster and robust expression of marker 
+genes for the salicylic acid (SA), jasmonic acid (JA), and ethylene (ET)
+signaling pathways upon pathogen challenge. These responses are also associated
+with increased levels of SA, JA, and abscisic acid (ABA) in the leaves of
+bacterized plants after infection. The functional study also points at priming of
+the JA/ET and NPR1-dependent defenses as prioritized immune pathways in ISR
+induced by both beneficial bacteria against B. cinerea. However, B.
+subtilis-triggered ISR against Pst DC3000 is dependent on SA, JA/ET, and NPR1
+pathways, whereas P. fluorescens-induced ISR requires JA/ET and NPR1 signaling
+pathways. The use of ABA-insensitive mutants also pointed out the crucial role of
+ABA signaling, but not ABA concentration, along with JA/ET signaling in primed
+systemic immunity by beneficial bacteria against Pst DC3000, but not against B.
+cinerea. These results clearly indicate that ISR is linked to priming plants for 
+enhanced common and distinct immune pathways depending on the beneficial strain
+and the pathogen lifestyle.
+
+DOI: 10.3390/vaccines8030503 
+PMID: 32899695 
+

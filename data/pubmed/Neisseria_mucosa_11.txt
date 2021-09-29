@@ -1,0 +1,63 @@
+
+1. J Clin Med. 2020 Apr 13;9(4). pii: E1109. doi: 10.3390/jcm9041109.
+
+Comparative Study of Salivary, Duodenal, and Fecal Microbiota Composition Across 
+Adult Celiac Disease.
+
+Panelli S(1)(2), Capelli E(2)(3), Lupo GFD(2)(3)(4), Schiepatti A(5), Betti E(6),
+Sauta E(7), Marini S(3), Bellazzi R(3)(7), Vanoli A(8), Pasi A(9), Cacciatore
+R(9), Bacchi S(2)(3), Balestra B(10), Pastoris O(10), Frulloni L(11), Corazza
+GR(6), Biagi F(5), Ciccocioppo R(11).
+
+Author information: 
+(1)Department of Biomedical and Clinical Sciences "L. Sacco", Pediatric Clinical 
+Research Center "Invernizzi", University of Milan, 20122 Milan, Italy.
+(2)Laboratory of Immunology and Genetic Analysis, Department of Earth and
+Environmental Science, University of Pavia, 27100 Pavia, Italy.
+(3)Centre for Health Technologies, University of Pavia, 27100 Pavia, Italy.
+(4)Department for Sustainable Food Processes, Università Cattolica del Sacro
+Cuore, 29122 Piacenza, Italy.
+(5)Gastroenterology Unit, I.R.C.C.S. Pavia, I.C.S. Maugeri, University of Pavia, 
+27100 Pavia, Italy.
+(6)Department of Internal Medicine and Therapeutics, Fondazione I.R.C.C.S.
+Policlinico San Matteo and University of Pavia, 27100 Pavia, Italy.
+(7)Laboratory of Bioinformatics, Mathematical Modelling and Synthetic Biology,
+Department of Electrical, Computer and Biomedical Engineering, University of
+Pavia, 27100 Pavia, Italy.
+(8)Unit of Anatomic Pathology, Department of Molecular Medicine, University of
+Pavia and Fondazione I.R.C.C.S. Policlinico San Matteo, 27100 Pavia, Italy.
+(9)Laboratory of Immunogenetics, Department of Transfusion Medicine and
+Immuno-Hematology, Fondazione I.R.C.C.S. Policlinico S. Matteo, 27100 Pavia,
+Italy.
+(10)Laboratory of Pharmacogenetics, Department of Biology and Biotechnology,
+University of Pavia, 27100 Pavia, Italy.
+(11)Gastroenterology Unit, Department of Medicine, A.O.U.I. Borgo Roma and
+University of Verona, 37134 Verona, Italy.
+
+BACKGROUND: Growing evidence suggests that an altered microbiota composition
+contributes to the pathogenesis and clinical features in celiac disease (CD). We 
+performed a comparative analysis of the gut microbiota in adulthood CD to
+evaluate whether: (i) dysbiosis anticipates mucosal lesions, (ii) gluten-free
+diet restores eubiosis, (iii) refractory CD has a peculiar microbial signature,
+and (iv) salivary and fecal communities overlap the mucosal one.
+METHODS: This is a cross-sectional study where a total of 52 CD patients,
+including 13 active CD, 29 treated CD, 4 refractory CD, and 6 potential CD, were 
+enrolled in a tertiary center together with 31 controls. A 16S rRNA-based
+amplicon metagenomics approach was applied to determine the microbiota structure 
+and composition of salivary, duodenal mucosa, and stool samples, followed by
+appropriate bioinformatic analyses.
+RESULTS: A reduction of both α- and β-diversity in CD, already evident in the
+potential form and achieving nadir in refractory CD, was evident. Taxonomically, 
+mucosa displayed a significant abundance of Proteobacteria and an expansion of
+Neisseria, especially in active patients, while treated celiacs showed an
+intermediate profile between active disease and controls. The saliva community
+mirrored the mucosal one better than stool.
+CONCLUSION: Expansion of pathobiontic species anticipates villous atrophy and
+achieves the maximal divergence from controls in refractory CD. Gluten-free diet 
+results in incomplete recovery. The overlapping results between mucosal and
+salivary samples indicate the use of saliva as a diagnostic fluid.
+
+DOI: 10.3390/jcm9041109 
+PMCID: PMC7231226
+PMID: 32294965 
+

@@ -1,0 +1,55 @@
+
+1. Vet Microbiol. 2020 Sep 25;250:108867. doi: 10.1016/j.vetmic.2020.108867. [Epub
+ahead of print]
+
+The SPI-19 encoded T6SS is required for Salmonella Pullorum survival within avian
+macrophages and initial colonization in chicken dependent on inhibition of host
+immune response.
+
+Xian H(1), Yuan Y(2), Yin C(3), Wang Z(3), Ji R(3), Chu C(3), Jiao X(3), Li Q(4).
+
+Author information: 
+(1)Key Laboratory of Prevention and Control of Biological Hazard Factors (Animal 
+Origin) for Agri-food Safety and Quality, Ministry of Agriculture of China,
+Yangzhou University, China; Jiangsu Key Lab of Zoonosis/Jiangsu Co-Innovation
+Center for Prevention and Control of Important Animal Infectious Diseases and
+Zoonoses, Yangzhou University, China.
+(2)Jiangsu Key Lab of Zoonosis/Jiangsu Co-Innovation Center for Prevention and
+Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou
+University, China; Joint International Research Laboratory of Agriculture and
+Agri-Product Safety, Yangzhou University, China.
+(3)Key Laboratory of Prevention and Control of Biological Hazard Factors (Animal 
+Origin) for Agri-food Safety and Quality, Ministry of Agriculture of China,
+Yangzhou University, China; Jiangsu Key Lab of Zoonosis/Jiangsu Co-Innovation
+Center for Prevention and Control of Important Animal Infectious Diseases and
+Zoonoses, Yangzhou University, China; Joint International Research Laboratory of 
+Agriculture and Agri-Product Safety, Yangzhou University, China.
+(4)Key Laboratory of Prevention and Control of Biological Hazard Factors (Animal 
+Origin) for Agri-food Safety and Quality, Ministry of Agriculture of China,
+Yangzhou University, China; Jiangsu Key Lab of Zoonosis/Jiangsu Co-Innovation
+Center for Prevention and Control of Important Animal Infectious Diseases and
+Zoonoses, Yangzhou University, China; Joint International Research Laboratory of 
+Agriculture and Agri-Product Safety, Yangzhou University, China. Electronic
+address: qcli@yzu.edu.cn.
+
+SalmonellaPathogenicity Island 19 (SPI-19) encoded type VI secretion system
+(T6SS) is a virulence factor present in few serotypes of S. enterica, including
+S. Dublin, S. Gallinarum and S. Pullorum. Comparative genomic sequence analysis
+revealed that the gene clusters of SPI-19 showed high homology to T6SS2 locus
+from avian pathogenic Escherichia coli, implying the similar T6SS locus is
+potentially related to the host adaption of both pathogens. Deletion of SPI-19 in
+S. Pullorum caused the dramatically decreased invasion into chicken LMH
+epithelial cells and HD-11 macrophages, and affected survival of Salmonella
+within both cells. In addition, deletion of SPI-19 caused the decreased
+colonization of S. Pullorum in chicken liver, spleen, ileum, and cecum at the
+initial infection stage, and induced rapid bacterial clearance. However, the
+SPI-19/T6SS had no effect on bacterial killing activity and induction of
+cytotoxicity to HD-11 macrophages. Further analysis demonstrated SPI-19/T6SS was 
+involved in mediating the inhibition of host Th1 and Th2 immune responses,
+resulting in persistent colonization of S. Pullorum in hosts.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.vetmic.2020.108867 
+PMID: 33010573 
+

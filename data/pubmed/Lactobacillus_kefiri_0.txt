@@ -1,0 +1,51 @@
+
+1. J Biol Chem. 2020 Aug 13. pii: jbc.RA120.013934. doi: 10.1074/jbc.RA120.013934.
+[Epub ahead of print]
+
+Immunostimulation by Lactobacillus kefiri S-layer proteins with distinct
+glycosylation patterns requires different lectin partners.
+
+Malamud M(1), Cavallero G(2), Casabuono AC(3), Lepenies B(1), Serradell MLA(4),
+Couto AS(5).
+
+Author information: 
+(1)University of Veterinary Medicine Hannover, Germany.
+(2)Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales,
+Argentina.
+(3)Departamento de Química Orgánica - Consejo Nacional de Investigaciones
+Científicas y Técnicas, Centro de Investigación en Hidratos de Carbono
+(CIHIDECAR), Universidad de Buenos Aires, Argentina.
+(4)Departamento de Ciencias Biológicas, Facultad de Ciencias Exactas, Universidad
+Nacional de La Plata, Argentina.
+(5)Organic Chemistry Department, CIHIDECAR, Argentina.
+
+S-layer (glyco)-proteins (SLPs) form a nanostructured envelope that covers the
+surface of different prokaryotes and show immunomodulatory activity. Previously, 
+we have demonstrated that the S-layer glycoprotein from probiotic Lactobacillus
+kefiri CIDCA 8348 (SLP-8348) is recognized by Mincle (macrophage inducible C-type
+lectin receptor) and its adjuvanticity depends on the integrity of its glycans.
+However, the glycan's structure has not been described so far. Herein, we analyze
+the glycosylation pattern of three SLPs, SLP-8348, SLP-8321, and SLP-5818, and
+explore how these patterns impact their recognition by C-type lectin receptors
+(CLRs) and the immunomodulatory effect of the L. kefiri SLPs on
+antigen-presenting cells. HPAEC-PAD performed after β-elimination showed glucose 
+as the major component in the O-glycans of the three SLPs, however, some
+differences in the length of hexose chains were observed. No N-glycosylation
+signals were detected in SLP-8348 and SLP-8321, but SLP-5818 was observed to have
+two sites carrying complex N-glycans based on a site-specific analysis and a
+glycomic workflow of the permethylated glycans. SLP-8348 was previously shown to 
+enhance LPS-induced activation on both RAW264.7 macrophages and murine BMDCs; we 
+now show SLP-8321 and SLP-5818 have a similar effect regardless of the
+differences in their glycosylation patterns. Studies performed with BMDCs from
+CLR-deficient mice revealed that the immunostimulatory activity of SLP-8321
+depends on its recognition by Mincle, whereas SLP-5818's effects are dependent on
+SignR3 (murine ortholog of human DC-SIGN). These findings encourage further
+investigation of both the potential application of these SLPs as new adjuvants
+and the protein glycosylation mechanisms in these bacteria.
+
+Published under license by The American Society for Biochemistry and Molecular
+Biology, Inc.
+
+DOI: 10.1074/jbc.RA120.013934 
+PMID: 32817316 
+

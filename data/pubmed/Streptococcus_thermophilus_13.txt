@@ -1,0 +1,44 @@
+
+1. Protein Expr Purif. 2020 Aug 29;177:105743. doi: 10.1016/j.pep.2020.105743. [Epub
+ahead of print]
+
+Heterologous expression of cobalamin dependent class-III enzymes.
+
+Halliwell T(1), Fisher K(1), Payne KAP(2), Rigby SEJ(1), Leys D(3).
+
+Author information: 
+(1)Manchester Institute of Biotechnology, University of Manchester, 131 Princess 
+Street, Manchester, M1 7DN, UK.
+(2)Manchester Institute of Biotechnology, University of Manchester, 131 Princess 
+Street, Manchester, M1 7DN, UK; Future Biomanufacturing Research Hub (FutureBRH),
+Manchester Institute of Biotechnology, University of Manchester, 131 Princess
+Street, Manchester, M1 7DN, UK.
+(3)Manchester Institute of Biotechnology, University of Manchester, 131 Princess 
+Street, Manchester, M1 7DN, UK. Electronic address: david.leys@manchester.ac.uk.
+
+The family of cobalamin class-III dependent enzymes is composed of the reductive 
+dehalogenases (RDases) and related epoxyqueuosine reductases. RDases are crucial 
+for the energy conserving process of organohalide respiration. These enzymes have
+the ability to reductively cleave carbon-halogen bonds, present in a number of
+environmentally hazardous pollutants, making them of significant interest for
+bioremediation applications. Unfortunately, it is difficult to obtain sufficient 
+yields of pure RDase isolated from organohalide respiring bacteria for
+biochemical studies. Hence, robust heterologous expression systems are required
+that yield the active holo-enzyme which requires both iron-sulphur cluster and
+cobalamin incorporation. We present a comparative study of the heterologous
+expression strains Bacillus megaterium, Escherichia coli HMS174(DE3), Shimwellia 
+blattae and a commercial strain of Vibrio natrigenes, for cobalamin class-III
+dependent enzymes expression. The Nitratireductor pacificus pht-3B reductive
+dehalogenase (NpRdhA) and the epoxyqueuosine reductase from Streptococcus
+thermophilus (StoQ) were used as model enzymes. We also analysed whether
+co-expression of the cobalamin transporter BtuB, supports increased cobalamin
+incorporation into these enzymes in E. coli. We conclude that while expression in
+Bacillus megaterium resulted in the highest levels of cofactor incorporation,
+co-expression of BtuB in E. coli presents an appropriate balance between cofactor
+incorporation and protein yield in both cases.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pep.2020.105743 
+PMID: 32871253 
+

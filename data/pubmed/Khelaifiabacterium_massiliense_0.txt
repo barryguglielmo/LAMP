@@ -1,0 +1,44 @@
+
+1. Sci Rep. 2020 Oct 2;10(1):16415. doi: 10.1038/s41598-020-73607-x.
+
+Subspecies-specific sequence detection for differentiation of Mycobacterium
+abscessus complex.
+
+Minias A(1), Żukowska L(2), Lach J(3), Jagielski T(4), Strapagiel D(3), Kim
+SY(5), Koh WJ(5), Adam H(6), Bittner R(6), Truden S(7), Žolnir-Dovč M(7), Dziadek
+J(8).
+
+Author information: 
+(1)Institute of Medical Biology, Polish Academy of Sciences, ul. Lodowa 106,
+93-232, Lodz, Poland. aminias@cbm.pan.pl.
+(2)BioMedChem Doctoral School of the University of Lodz, The Institutes of the
+Polish Academy of Sciences, Lodz, Poland.
+(3)Biobank Lab, Department of Molecular Biophysics, Faculty of Biology and
+Environmental Protection, University of Lodz, Lodz, Poland.
+(4)Department of Medical Microbiology, Institute of Microbiology, Faculty of
+Biology, University of Warsaw, Warsaw, Poland.
+(5)Division of Pulmonary and Critical Care Medicine, Department of Medicine,
+Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, South 
+Korea.
+(6)Diagnostic Services, Shared Health, Winnipeg, MB, Canada.
+(7)National Reference Laboratory for Mycobacteria, University Clinic of
+Respiratory and Allergic Diseases, Golnik, Slovenia.
+(8)Institute of Medical Biology, Polish Academy of Sciences, ul. Lodowa 106,
+93-232, Lodz, Poland.
+
+Mycobacterium abscessus complex (MABC) is a taxonomic group of rapidly growing,
+nontuberculous mycobacteria that are found as etiologic agents of various types
+of infections. They are considered as emerging human pathogens. MABC consists of 
+3 subspecies-M. abscessus subsp. bolletti, M. abscessus subsp. massiliense and M.
+abscessus subsp. abscessus. Here we present a novel method for subspecies
+differentiation of M. abscessus named Subspecies-Specific Sequence Detection
+(SSSD). This method is based on the presence of signature sequences present
+within the genomes of each subspecies of MABC. We tested this method against a
+virtual database of 1505 genome sequences of MABC. Further, we detected signature
+sequences of MABC in 45 microbiological samples through DNA hybridization. SSSD
+showed high levels of sensitivity and specificity for differentiation of
+subspecies of MABC, comparable to those obtained by rpoB sequence typing.
+
+DOI: 10.1038/s41598-020-73607-x 
+PMID: 33009494 
+

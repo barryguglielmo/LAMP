@@ -1,0 +1,48 @@
+
+1. Biotechnol Lett. 2020 Aug 6. doi: 10.1007/s10529-020-02980-4. [Epub ahead of
+print]
+
+Increasing the level of 4-vinylguaiacol in top-fermented wheat beer by secretory 
+expression of ferulic acid decarboxylase from Bacillus pumilus in brewer's yeast.
+
+Xu L(1)(2)(3), Zhang H(1), Cui Y(4), Zeng D(1), Bao X(5).
+
+Author information: 
+(1)College of Bioengineering, Key Laboratory of Shandong Microbial Engineering,
+State Key Laboratory of Biobased Material and Green Papermaking, Qilu University 
+of Technology, Shandong Academy of Sciences, Jinan, 250353, Shandong, China.
+(2)Shandong Sunkeen Biological Company, 6789 Xingfuhe Road, Jining, 273517,
+Shandong, China.
+(3)State Key Laboratory of Microbial Technology, Institute of Microbial
+Technology, Shandong University, 72 Binhai Road, Qingdao, 266237, Shandong,
+China.
+(4)College of Bioengineering, Key Laboratory of Shandong Microbial Engineering,
+State Key Laboratory of Biobased Material and Green Papermaking, Qilu University 
+of Technology, Shandong Academy of Sciences, Jinan, 250353, Shandong, China.
+cuiyunqian@126.com.
+(5)College of Bioengineering, Key Laboratory of Shandong Microbial Engineering,
+State Key Laboratory of Biobased Material and Green Papermaking, Qilu University 
+of Technology, Shandong Academy of Sciences, Jinan, 250353, Shandong, China.
+baoxm@qlu.edu.cn.
+
+OBJECTIVE: The objective is to explore the effects of enhancing the activity of
+yeast ferulic acid decarboxylase (FDC1) on the level of 4-vinylguaiacol (4-VG)
+and the consumption of its precursor ferulic acid (FA) in top-fermented wheat
+beer.
+RESULTS: Expression of Bacillus pumilus FDC1 in brewer's yeast showed a better
+effect on the FDC1 activity than overexpression of the endogenous enzyme. The
+4-VG content was increased by 34%, and the consumption time of FA was shortened
+from 48 to 12 h. Since the intracellular accumulation of the FDC1 substrate did
+not increase over time, to reduce the FA transport burden on cells and shorten
+the decarboxylation time, B. pumilus FDC1 was further secreted extracellularly.
+The resulted strain showed a 65% increase in 4-VG content in the FA-containing
+medium, and produced about 3 mg L-1 4-VG in the top-fermented wheat beer,
+increasing by 61% than control. However, further increasing the secretory
+expression level of FDC1 only accelerated FA consumption.
+CONCLUSIONS: These results suggested that appropriate secretion of bacterial FDC1
+into wort could be used as a potential alternative strategy to increase the level
+of 4-VG in top-fermented wheat beer.
+
+DOI: 10.1007/s10529-020-02980-4 
+PMID: 32761466 
+

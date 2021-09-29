@@ -1,0 +1,55 @@
+
+1. J Clin Microbiol. 2020 Aug 24;58(9). pii: e00730-20. doi: 10.1128/JCM.00730-20.
+Print 2020 Aug 24.
+
+Comparative Genomics and Antimicrobial Resistance Profiling of Elizabethkingia
+Isolates Reveal Nosocomial Transmission and In Vitro Susceptibility to
+Fluoroquinolones, Tetracyclines, and Trimethoprim-Sulfamethoxazole.
+
+Burnard D(#)(1)(2)(3), Gore L(#)(4), Henderson A(1), Ranasinghe A(1), Bergh H(4),
+Cottrell K(1), Sarovich DS(2)(3), Price EP(2)(3), Paterson DL(1), Harris
+PNA(5)(4).
+
+Author information: 
+(1)University of Queensland Centre for Clinical Research, Royal Brisbane and
+Woman's Hospital, Herston, Queensland, Australia.
+(2)Genecology Research Centre, University of the Sunshine Coast, Sippy Downs,
+Queensland, Australia.
+(3)Sunshine Coast Health Institute, Birtinya, Queensland, Australia.
+(4)Central Microbiology, Pathology Queensland, Queensland Health, Herston,
+Queensland, Australia.
+(5)University of Queensland Centre for Clinical Research, Royal Brisbane and
+Woman's Hospital, Herston, Queensland, Australia p.harris@uq.edu.au.
+(#)Contributed equally
+
+The Elizabethkingia genus has gained global attention in recent years as
+containing sporadic, worldwide, nosocomial pathogens. Elizabethkingia spp. are
+intrinsically multidrug resistant, primarily infect immunocompromised
+individuals, and are associated with high mortality (∼20 to 40%). As yet, gaps
+remain in our understanding of transmission, global strain relatedness,
+antimicrobial resistance, and effective therapy. Over a 16-year period, 22
+clinical and 6 hospital environmental isolates were collected from Queensland,
+Australia. Identification using matrix-assisted laser desorption ionization-time 
+of flight mass spectrometry (MALDI-TOF MS) (Vitek MS) and whole-genome sequencing
+was compared with a global strain data set. Phylogenomic reconstruction robustly 
+identified 22 Elizabethkingia anophelis, 3 Elizabethkingia miricola, 2
+Elizabethkingia meningoseptica, and 1 Elizabethkingia bruuniana isolates, most of
+which branched as unique lineages. Global analysis revealed that some Australian 
+E. anophelis isolates are genetically closely related to strains from the United 
+States, England, and Asia. Comparative genomics of clinical and environmental
+strains identified evidence of nosocomial transmission in patients, indicating
+probable infection from a hospital reservoir. Furthermore, broth microdilution
+against 39 antimicrobials revealed almost ubiquitous resistance to
+aminoglycosides, carbapenems, cephalosporins, and penicillins. Like other
+international strains, our isolates expressed susceptibility to minocycline and
+levofloxacin and the less common trimethoprim-sulfamethoxazole. Our study
+demonstrates important new insights into the genetic diversity, environmental
+persistence, and transmission of and potential effective therapy for Australian
+Elizabethkingia species.
+
+© Crown copyright 2020.
+
+DOI: 10.1128/JCM.00730-20 
+PMCID: PMC7448627 [Available on 2021-02-24]
+PMID: 32580952 
+

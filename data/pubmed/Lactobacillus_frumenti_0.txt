@@ -1,0 +1,58 @@
+
+1. J Anim Sci Biotechnol. 2019 Dec 5;10:95. doi: 10.1186/s40104-019-0399-5.
+eCollection 2019.
+
+Lactobacillus frumenti mediates energy production via fatty acid β-oxidation in
+the liver of early-weaned piglets.
+
+Wang Z(1)(2)(3), Hu J(1)(2)(3), Zheng W(1)(2)(3), Yang T(1)(2)(3), Wang
+X(1)(2)(3), Xie C(1)(2)(3), Yan X(1)(2)(3).
+
+Author information: 
+(1)1State Key Laboratory of Agricultural Microbiology, College of Animal Sciences
+and Technology, Huazhong Agricultural University, Wuhan, Hubei 430070 China.
+(2)The Cooperative Innovation Center for Sustainable Pig Production, Wuhan, Hubei
+430070 China.
+(3)Hubei Provincial Engineering Laboratory for Pig Precision Feeding and Feed
+Safety Technology, Wuhan, Hubei 430070 China.
+
+Background: Early-weaning of piglets is often accompanied by severe disorders,
+especially diarrhea. The gut microbiota and its metabolites play a critical role 
+in the maintenance of the physiologic and metabolic homeostasis of the host. Our 
+previous studies have demonstrated that oral administration of Lactobacillus
+frumenti improves epithelial barrier functions and confers diarrhea resistance in
+early-weaned piglets. However, the metabolic response to L. frumenti
+administration remains unclear. Then, we conducted simultaneous serum and hepatic
+metabolomic analyses in early-weaned piglets administered by L. frumenti or
+phosphate-buffered saline (PBS).
+Results: A total of 100 6-day-old crossbred piglets (Landrace × Yorkshire) were
+randomly divided into two groups and piglets received PBS (sterile, 2 mL) or L.
+frumenti (suspension in PBS, 108 CFU/mL, 2 mL) by oral administration once per
+day from 6 to 20 days of age. Piglets were weaned at 21 days of age. Serum and
+liver samples for metabolomic analyses were collected at 26 days of age.
+Principal components analysis (PCA) showed that L. frumenti altered metabolism in
+serum and liver. Numerous correlations (P < 0.05) were identified among the serum
+and liver metabolites that were affected by L. frumenti. Concentrations of
+guanosine monophosphate (GMP), inosine monophosphate (IMP), and uric acid were
+higher in serum of L. frumenti administration piglets. Pathway analysis indicated
+that L. frumenti regulated fatty acid and amino acid metabolism in serum and
+liver. Concentrations of fatty acid β-oxidation related metabolites in serum
+(such as 3-hydroxybutyrylcarnitine, C4-OH) and liver (such as acetylcarnitine)
+were increased after L. frumenti administration.
+Conclusions: Our findings suggest that L. frumenti regulates lipid metabolism and
+amino acid metabolism in the liver of early-weaned piglets, where it promotes
+fatty acid β-oxidation and energy production. High serum concentrations of
+nucleotide intermediates, which may be an alternative strategy to reduce the
+incidence of diarrhea in early-weaned piglets, were further detected. These
+findings broaden our understanding of the relationships between the gut
+microbiota and nutrient metabolism in the early-weaned piglets.
+
+© The Author(s). 2019.
+
+DOI: 10.1186/s40104-019-0399-5 
+PMCID: PMC6894312
+PMID: 31827788 
+
+Conflict of interest statement: Competing interestsThe authors declare that they 
+have no competing interests.
+

@@ -1,0 +1,48 @@
+
+1. Int J Mol Sci. 2020 Jan 7;21(2). pii: E373. doi: 10.3390/ijms21020373.
+
+Campylobacter concisus Impairs Sodium Absorption in Colonic Epithelium via ENaC
+Dysfunction and Claudin-8 Disruption.
+
+Nattramilarasu PK(1), Bücker R(1), Lobo de Sá FD(1), Fromm A(1), Nagel O(1), Lee 
+IM(1), Butkevych E(1), Mousavi S(2), Genger C(2), Kløve S(2), Heimesaat MM(2),
+Bereswill S(2), Schweiger MR(3), Nielsen HL(4)(5), Troeger H(6), Schulzke JD(1).
+
+Author information: 
+(1)Institute of Clinical Physiology/Nutritional Medicine, Medical Department,
+Division of Gastroenterology, Infectiology and Rheumatology,
+Charité-Universitätsmedizin Berlin, 12203 Berlin, Germany.
+(2)Institute of Microbiology, Infectious Diseases and Immunology,
+Charité-Universitätsmedizin Berlin, Campus Benjamin Franklin, 14195 Berlin,
+Germany.
+(3)Laboratory for Epigenetics and Tumour genetics, University Hospital Cologne
+and Centre for Molecular Medicine Cologne, 50931 Cologne, Germany.
+(4)Department of Clinical Microbiology, Aalborg University Hospital, 9000
+Aalborg, Denmark.
+(5)Department of Clinical Medicine, Aalborg University, 9000 Aalborg, Denmark.
+(6)Medical Department, Division of Gastroenterology, Infectiology and
+Rheumatology, Charité-Universitätsmedizin Berlin, 12203 Berlin, Germany.
+
+The epithelial sodium channel (ENaC) can increase the colonic absorptive capacity
+for salt and water. Campylobacter concisus is a common pathogenic
+epsilonproteobacterium, causing enteritis and diarrhea. It can induce barrier
+dysfunction in the intestine, but its influence on intestinal transport function 
+is still unknown. Therefore, our study aimed to characterize C. concisus effects 
+on ENaC using the HT-29/B6-GR/MR (epithelial cell line HT-29/B6 transfected with 
+glucocorticoid and mineralocorticoid receptors) cell model and mouse colon. In
+Ussing chambers, C. concisus infection inhibited ENaC-dependent Na+ transport as 
+indicated by a reduction in amiloride-sensitive short circuit current (-55%, n = 
+15, p < 0.001). This occurred via down-regulation of β- and γ-ENaC mRNA
+expression and ENaC ubiquitination due to extracellular signal-regulated kinase
+(ERK)1/2 activation, predicted by Ingenuity Pathway Analysis (IPA). In parallel, 
+C. concisus reduced the expression of the sealing tight junction (TJ) protein
+claudin-8 and induced claudin-8 redistribution off the TJ domain of the
+enterocytes, which facilitates the back leakage of Na+ ions into the intestinal
+lumen. In conclusion, C. concisus caused ENaC dysfunction via
+interleukin-32-regulated ERK1/2, as well as claudin-8-dependent barrier
+dysfunction-both of which contribute to Na+ malabsorption and diarrhea.
+
+DOI: 10.3390/ijms21020373 
+PMCID: PMC7013563
+PMID: 31936044  [Indexed for MEDLINE]
+

@@ -1,0 +1,38 @@
+
+1. Sci Rep. 2020 Sep 28;10(1):15919. doi: 10.1038/s41598-020-72792-z.
+
+Strain-specific strategies of 2'-fucosyllactose, 3-fucosyllactose, and
+difucosyllactose assimilation by Bifidobacterium longum subsp. infantis Bi-26 and
+ATCC 15697.
+
+Zabel BE(1), Gerdes S(2), Evans KC(2), Nedveck D(2), Singles SK(3), Volk B(3),
+Budinoff C(2).
+
+Author information: 
+(1)Genomics and Microbiome Science, DuPont Nutrition and Biosciences, Madison,
+WI, USA. bryan.zabel@dupont.com.
+(2)Genomics and Microbiome Science, DuPont Nutrition and Biosciences, Madison,
+WI, USA.
+(3)Advanced Analytical, DuPont Nutrition and Biosciences, Wilmington, DE, USA.
+
+Human milk provides essential nutrients for infant nutrition. A large proportion 
+of human milk is composed of human milk oligosaccharides (HMOs), which are
+resistant to digestion by the infant. Instead, HMOs act as a bioactive and
+prebiotic enriching HMO-utilizing bacteria and cause systematic changes in the
+host. Several species of Bifidobacterium have been shown to utilize HMOs by
+conserved, as well as species-specific pathways, but less work has been done to
+study variation within species or sub-species. B. longum subsp. infantis is a
+prevalent species in the breast-fed infant gut and the molecular mechanisms of
+HMO utilization for the type strain B. longum subsp. infantis ATCC 15697 (type
+strain) have been well characterized. We used growth, transcriptomic, and
+metabolite analysis to characterize key differences in the utilization of 2'FL,
+3FL and DFL (FLs) between B. longum subsp. infantis Bi-26 (Bi-26) and the type
+strain. Bi-26 grows faster, produces unique metabolites, and has a distinct
+global gene transcription response to FLs compared to the type strain. Taken
+together the findings demonstrate major strain specific adaptations in Bi-26 to
+efficient utilization of FLs.
+
+DOI: 10.1038/s41598-020-72792-z 
+PMCID: PMC7522266
+PMID: 32985563 
+

@@ -1,0 +1,53 @@
+
+1. J Allergy Clin Immunol. 2020 Jul 4. pii: S0091-6749(20)30953-2. doi:
+10.1016/j.jaci.2020.06.024. [Epub ahead of print]
+
+Staphylococcus epidermidis protease EcpA can be a deleterious component of the
+skin microbiome in atopic dermatitis.
+
+Cau L(1), Williams MR(2), Butcher AM(2), Nakatsuji T(2), Kavanaugh JS(3), Cheng
+JY(2), Shafiq F(2), Higbee K(2), Hata TR(2), Horswill AR(4), Gallo RL(5).
+
+Author information: 
+(1)Department of Dermatology, University of California San Diego, San Diego,
+Calif; R&D Department, SILAB, Brive, France.
+(2)Department of Dermatology, University of California San Diego, San Diego,
+Calif.
+(3)Department of Immunology and Microbiology, University of Colorado Anschutz,
+Medical Campus, Aurora, Colo.
+(4)Department of Immunology and Microbiology, University of Colorado Anschutz,
+Medical Campus, Aurora, Colo; Department of Veterans Affairs Eastern Colorado
+Health Care System, Aurora, Colo.
+(5)Department of Dermatology, University of California San Diego, San Diego,
+Calif; Center for Microbiome Innovation, University of California San Diego, San 
+Diego, Calif. Electronic address: rgallo@ucsd.edu.
+
+BACKGROUND: Staphylococcus aureus and Staphylococcus epidermidis are the most
+abundant bacteria found on the skin of patients with atopic dermatitis (AD). S
+aureus is known to exacerbate AD, whereas S epidermidis has been considered a
+beneficial commensal organism.
+OBJECTIVE: In this study, we hypothesized that S epidermidis could promote skin
+damage in AD by the production of a protease that damages the epidermal barrier.
+METHODS: The protease activity of S epidermidis isolates was compared with that
+of other staphylococcal species. The capacity of S epidermidis to degrade the
+barrier and induce inflammation was examined by using human keratinocyte tissue
+culture and mouse models. Skin swabs from atopic and healthy adult subjects were 
+analyzed for the presence of S epidermidis genomic DNA and mRNA.
+RESULTS: S epidermidis strains were observed to produce strong cysteine protease 
+activity when grown at high density. The enzyme responsible for this activity was
+identified as EcpA, a cysteine protease under quorum sensing control. EcpA was
+shown to degrade desmoglein-1 and LL-37 in vitro, disrupt the physical barrier,
+and induce skin inflammation in mice. The abundance of S epidermidis and
+expression of ecpA mRNA were increased on the skin of some patients with AD, and 
+this correlated with disease severity. Another commensal skin bacterial species, 
+Staphylococcus hominis, can inhibit EcpA production by S epidermidis.
+CONCLUSION: S epidermidis has commonly been regarded as a beneficial skin
+microbe, whereas S aureus has been considered deleterious. This study suggests
+that the overabundance of S epidermidis found on some atopic patients can act
+similarly to S aureus and damage the skin by expression of a cysteine protease.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.jaci.2020.06.024 
+PMID: 32634452 
+

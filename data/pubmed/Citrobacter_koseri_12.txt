@@ -1,0 +1,46 @@
+
+1. Indian J Ophthalmol. 2020 Jan;68(1):23-28. doi: 10.4103/ijo.IJO_947_19.
+
+Study of biofilm formation in bacterial isolates from contact lens wearers.
+
+Raksha L(1), Gangashettappa N(2), Shantala GB(1), Nandan BR(2), Sinha D(1).
+
+Author information: 
+(1)Department of Microbiology, Bangalore Medical College and Research Institute, 
+Bengaluru, Karnataka, India.
+(2)Department of Ophthalmology, Bangalore Medical College and Research Institute,
+Bengaluru, Karnataka, India.
+
+Purpose: To detect biofilm forming capacity of bacterial isolates obtained from
+the conjunctiva, contact lens and accessories of contact lens wearers using
+phenotypic and genotypic methods.
+Methods: Bacterial strains were collected from the conjunctiva, contact lens and 
+lens storage cases of contact lens wearers. The phenotypic detection of biofilm
+production was done using the tube method and congo red agar method. The
+biofilm-forming related genes, icaA, of Coagulase negative Staphylococcus (CONS) 
+and Staphylococcus aureus, and pslA, of P. aeruginosa, were detected using PCR.
+Results: A total of 265 bacterial isolates which included S. aureus, CONS,
+Pseudomonas, Nil-fermenter Gram-negative bacilli (NFGNB), Bacillus spp,
+Diphtheroids, Micrococci, Klebsiella pneumonia, Klebsiella oxytoca, E. coli,
+Proteus mirabilis, Proteus vulgaris, Citrobacter koseri, Citrobacter freundii,
+Enterobacter cloacae, Moraxella were obtained. Of the 265 isolates, 53.5% were
+moderately positive, 33.2% strongly positive and 13.2% negative for biofilm
+production by tube method and 36.6% were moderately positive, 40% strongly
+positive and 23.3% negative for biofilm production by congo red agar method. Of
+the four S. aureus isolates, two (50%) showed the presence of icaA gene. Of the
+23 CONS isolates, three (13%) showed the presence of icaA gene. All the
+Pseudomonas isolates were negative for presence pslA (1119 bp) gene though most
+of them were phenotypically positive for biofilm formation.
+Conclusion: Most of the bacterial isolates obtained from contact lens wearers had
+the potential to produce biofilms. Tube method and Congo red agar method
+exhibited significant statistical correlation (P-value = 0.006) and picked up a
+good number of biofilm-forming isolates, hence may be used for detection of
+biofilm production. The absence of biofilm-forming gene did not rule out the
+possibility for phenotypic biofilm production by bacteria.
+
+DOI: 10.4103/ijo.IJO_947_19 
+PMCID: PMC6951123
+PMID: 31856459 
+
+Conflict of interest statement: None
+

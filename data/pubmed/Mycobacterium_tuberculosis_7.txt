@@ -1,0 +1,48 @@
+
+1. Brief Bioinform. 2020 Oct 3. pii: bbaa246. doi: 10.1093/bib/bbaa246. [Epub ahead 
+of print]
+
+Capacity building for whole genome sequencing of Mycobacterium tuberculosis and
+bioinformatics in high TB burden countries.
+
+Rivière E(1), Heupink TH(1), Ismail N(2), Dippenaar A(1), Clarke C(2), Abebe
+G(3), Heusden P(4), Warren R(5), Meehan CJ(6), Van Rie A(7).
+
+Author information: 
+(1)University of Antwerp.
+(2)Stellenbosch University.
+(3)Mycobacteriology Research Center in Jimma, Ethiopia.
+(4)South African National Bioinformatics Institute (SANBI).
+(5)SAMRC Centre for Tuberculosis Research.
+(6)University of Bradford.
+(7)Tuberculosis Omics Research Consortium.
+
+BACKGROUND: Whole genome sequencing (WGS) is increasingly used for Mycobacterium 
+tuberculosis (Mtb) research. Countries with the highest tuberculosis (TB) burden 
+face important challenges to integrate WGS into surveillance and research.
+METHODS: We assessed the global status of Mtb WGS and developed a 3-week training
+course coupled with long-term mentoring and WGS infrastructure building. Training
+focused on genome sequencing, bioinformatics and development of a locally
+relevant WGS research project. The aim of the long-term mentoring was to support 
+trainees in project implementation and funding acquisition. The focus of WGS
+infrastructure building was on the DNA extraction process and bioinformatics.
+FINDINGS: Compared to their TB burden, Asia and Africa are grossly
+underrepresented in Mtb WGS research. Challenges faced resulted in adaptations to
+the training, mentoring and infrastructure building. Out-of-date laptop hardware 
+and operating systems were overcome by using online tools and a Galaxy WGS
+analysis pipeline. A case studies approach created a safe atmosphere for students
+to formulate and defend opinions. Because quality DNA extraction is paramount for
+WGS, a biosafety level 3 and general laboratory skill training session were
+added, use of commercial DNA extraction kits was introduced and a 2-week training
+in a highly equipped laboratory was combined with a 1-week training in the local 
+setting.
+INTERPRETATION: By developing and sharing the components of and experiences with 
+a sequencing and bioinformatics training program, we hope to stimulate capacity
+building programs for Mtb WGS and empower high-burden countries to play an
+important role in WGS-based TB surveillance and research.
+
+© The Author(s) 2020. Published by Oxford University Press.
+
+DOI: 10.1093/bib/bbaa246 
+PMID: 33009560 
+

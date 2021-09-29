@@ -1,0 +1,54 @@
+
+1. Immunohorizons. 2020 Oct 2;4(10):573-584. doi: 10.4049/immunohorizons.2000051.
+
+Activation-Induced Marker Expression Identifies Mycobacterium
+tuberculosis-Specific CD4 T Cells in a Cytokine-Independent Manner in
+HIV-Infected Individuals with Latent Tuberculosis.
+
+Barham MS(1), Whatney WE(1), Khayumbi J(2), Ongalo J(2), Sasser LE(1), Campbell
+A(3), Franczek M(3), Kabongo MM(3), Ouma SG(2), Hayara FO(2), Gandhi NR(3)(4),
+Day CL(5)(6).
+
+Author information: 
+(1)Emory Vaccine Center, Emory University, Atlanta, GA 30329.
+(2)Center for Global Health Research, Kenya Medical Research Institute, Kisumu
+40100, Kenya.
+(3)Department of Epidemiology, Rollins School of Public Health, Emory University,
+Atlanta, GA 30322.
+(4)Division of Infectious Diseases, Department of Medicine, Emory University
+School of Medicine, Atlanta, GA 30322; and.
+(5)Emory Vaccine Center, Emory University, Atlanta, GA 30329; cday@emory.edu.
+(6)Department of Microbiology and Immunology, Emory University School of
+Medicine, Atlanta, GA 30322.
+
+HIV infection is a significant risk factor for reactivation of latent
+Mycobacterium tuberculosis infection (LTBI) and progression to active
+tuberculosis disease, yet the mechanisms whereby HIV impairs T cell immunity to
+M. tuberculosis have not been fully defined. Evaluation of M.
+tuberculosis-specific CD4 T cells is commonly based on IFN-γ production, yet
+increasing evidence indicates the immune response to M. tuberculosis is
+heterogeneous and encompasses IFN-γ-independent responses. We hypothesized that
+upregulation of surface activation-induced markers (AIM) would facilitate
+detection of human M. tuberculosis-specific CD4 T cells in a cytokine-independent
+manner in HIV-infected and HIV-uninfected individuals with LTBI. PBMCs from
+HIV-infected and HIV-uninfected adults in Kenya were stimulated with CFP-10 and
+ESAT-6 peptides and evaluated by flow cytometry for upregulation of the
+activation markers CD25, OX40, CD69, and CD40L. Although M. tuberculosis-specific
+IFN-γ and IL-2 production was dampened in HIV-infected individuals, M.
+tuberculosis-specific CD25+OX40+ and CD69+CD40L+ CD4 T cells were detectable in
+the AIM assay in both HIV-uninfected and HIV-infected individuals with LTBI.
+Importantly, the frequency of M. tuberculosis-specific AIM+ CD4 T cells was not
+directly impacted by HIV viral load or CD4 count, thus demonstrating the
+feasibility of AIM assays for analysis of M. tuberculosis-specific CD4 T cells
+across a spectrum of HIV infection states. These data indicate that AIM assays
+enable identification of M. tuberculosis-specific CD4 T cells in a
+cytokine-independent manner in HIV-uninfected and HIV-infected individuals with
+LTBI in a high-tuberculosis burden setting, thus facilitating studies to define
+novel T cell correlates of protection to M. tuberculosis and elucidate mechanisms
+of HIV-associated dysregulation of antimycobacterial immunity.
+
+Copyright © 2020 The Authors.
+
+DOI: 10.4049/immunohorizons.2000051 
+PMID: 33008839 
+

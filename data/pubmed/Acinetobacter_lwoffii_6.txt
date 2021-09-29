@@ -1,0 +1,52 @@
+
+1. J Microbiol Methods. 2020 Jun;173:105937. doi: 10.1016/j.mimet.2020.105937. Epub 
+2020 May 5.
+
+A novel comprehensive efficacy test for textiles intended for use in the
+healthcare setting.
+
+Nicoloro JM(1), Wen J(2), Queiroz S(1), Sun Y(2), Goodyear N(3).
+
+Author information: 
+(1)Department of Biomedical and Nutritional Sciences, University of Massachusetts
+Lowell, Lowell, MA, USA.
+(2)Department of Chemistry, University of Massachusetts Lowell, Lowell, MA, USA.
+(3)Department of Biomedical and Nutritional Sciences, University of Massachusetts
+Lowell, Lowell, MA, USA. Electronic address: Nancy_Goodyear@uml.edu.
+
+Soft surfaces, including textiles are found throughout healthcare settings.
+Pathogens can survive for long periods of time on textiles, and can be
+transferred to and from the skin. Antimicrobial fabrics are used as an
+engineering control to prevent infection. Efficacy testing standards have
+limitations, including single microorganism challenges, multiple fabric plies
+tested, and lengthy contact times. We developed a novel method that better models
+in-use conditions through testing standardized mixtures of pathogens and normal
+skin microorganisms, artificial soils, and a 15-min contact time. Reproducible
+growth of all microorganisms from frozen stocks was achieved using this method. A
+novel rechargeable, monitorable N-halamine cotton cellulose fabric, containing
+5885 ± 98 ppm of active chlorine, was evaluated with the new method using PBS,
+artificial sweat, and artificial sweat plus 5% serum as soil. Pathogens tested
+included Acinetobacter baumannii, Candida albicans, Escherichia coli,
+vancomycin-resistant Enterococcus faecalis, methicillin-resistant Staphylococcus 
+aureus, methicillin-susceptible Staphylococcus aureus, and Pseudomonas
+aeruginosa. Each was tested singly and in the presence of a representative normal
+skin flora mixture, including: Acinetobacter lwoffii, Corynebacterium striatum,
+Micrococcus luteus, and Staphylococcus epidermidis. When tested singly, all
+microorganisms were reduced by 3.00 log10 or greater, regardless of artificial
+soil. In mixture, 4.00 log10 or greater reductions were achieved for all
+microorganisms. These results suggest that the novel testing method can be used
+to provide more comprehensive and realistic efficacy information for
+antimicrobial textiles intended for use in healthcare. Furthermore, the
+N-halamine fabric demonstrated efficacy against multiple pathogens, singly and in
+mixtures, regardless of the presence of artificial soils.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.mimet.2020.105937 
+PMID: 32387116 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

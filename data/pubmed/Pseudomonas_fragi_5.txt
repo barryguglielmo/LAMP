@@ -1,0 +1,56 @@
+
+1. Microb Cell Fact. 2020 May 14;19(1):104. doi: 10.1186/s12934-020-01357-6.
+
+Valorization of Gelidium amansii for dual production of D-galactonic acid and
+5-hydroxymethyl-2-furancarboxylic acid by chemo-biological approach.
+
+Liu P(1), Xie J(1), Tan H(2), Zhou F(1), Zou L(2), Ouyang J(3)(4)(5).
+
+Author information: 
+(1)College of Forestry, Nanjing Forestry University, Nanjing, 210037, People's
+Republic of China.
+(2)Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest
+Resources, College of Chemical Engineering, Nanjing Forestry University, Nanjing,
+210037, People's Republic of China.
+(3)Key Laboratory of Forestry Genetics & Biotechnology (Nanjing Forestry
+University), Ministry of Education, Nanjing, 210037, People's Republic of China. 
+hgouyj@njfu.edu.cn.
+(4)Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest
+Resources, College of Chemical Engineering, Nanjing Forestry University, Nanjing,
+210037, People's Republic of China. hgouyj@njfu.edu.cn.
+(5)Jiangsu Province Key Laboratory of Green Biomass-based Fuels and Chemicals,
+Nanjing, 210037, People's Republic of China. hgouyj@njfu.edu.cn.
+
+BACKGROUND: Marine macroalgae Gelidium amansii is a promising feedstock for
+production of sustainable biochemicals to replace petroleum and edible biomass.
+Different from terrestrial lignocellulosic biomass, G. amansii is comprised of
+high carbohydrate content and has no lignin. In previous studies, G. amansii
+biomass has been exploited to obtain fermentable sugars along with suppressing
+5-hydroxymethylfurfural (HMF) formation for bioethanol production. In this study,
+a different strategy was addressed and verified for dual production of
+D-galactose and HMF, which were subsequently oxidized to D-galactonic acid and
+5-hydroxymethyl-2-furancarboxylic acid (HMFCA) respectively via Pseudomonas
+putida.
+RESULTS: G. amansii biomass was hydrolyzed by dilute acid to form D-galactose and
+HMF. The best result was attained after pretreatment with 2% (w/w) HCl at 120 °C 
+for 40 min. Five different Pseudomonas sp. strains including P. putida ATCC
+47054, P. fragi ATCC 4973, P. stutzeri CICC 10402, P. rhodesiae CICC 21960, and
+P. aeruginosa CGMCC 1.10712, were screened for highly selective oxidation of
+D-galactose and HMF. Among them, P. putida ATCC 47054 was the outstanding
+suitable biocatalyst converting D-galactose and HMF to the corresponding acids
+without reduced or over-oxidized products. It was plausible that the
+pyrroloquinoline quinone-dependent glucose dehydrogenase and undiscovered
+molybdate-dependent enzyme(s) in P. putida ATCC 47054 individually played pivotal
+role for D-galactose and HMF oxidation. Taking advantage of its excellent
+efficiency and high selectivity, a maximum of 55.30 g/L D-galactonic acid and
+11.09 g/L HMFCA were obtained with yields of 91.1% and 98.7% using G. amansii
+hydrolysates as substrate.
+CONCLUSIONS: Valorization of G. amansii biomass for dual production of
+D-galactonic acid and HMFCA can enrich the product varieties and improve the
+economic benefits. This study also demonstrates the perspective of making full
+use of marine feedstocks to produce other value-added products.
+
+DOI: 10.1186/s12934-020-01357-6 
+PMCID: PMC7227364
+PMID: 32410635 
+

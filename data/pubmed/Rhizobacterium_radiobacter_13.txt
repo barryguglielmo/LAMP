@@ -1,0 +1,47 @@
+
+1. Phytopathology. 2019 Nov;109(11):1859-1868. doi: 10.1094/PHYTO-05-19-0178-R. Epub
+2019 Oct 2.
+
+Two Novel Genomospecies in the Agrobacterium tumefaciens Species Complex
+Associated with Rose Crown Gall.
+
+Mafakheri H(1), Taghavi SM(1), Puławska J(2), de Lajudie P(3), Lassalle F(4),
+Osdaghi E(1).
+
+Author information: 
+(1)Department of Plant Protection, College of Agriculture, Shiraz University,
+Shiraz 71441-65186, Iran.
+(2)Research Institute of Horticulture, 96-100 Skierniewice, Poland.
+(3)IRD (Institut de recherche pour le développement), Campus de Baillarguet TA
+A-82/J, Laboratoire des Symbioses Tropicales et Méditerranéennes, 34398
+Montpellier Cédex 5, France.
+(4)Department of Infectious Disease Epidemiology, St. Mary's Hospital Campus,
+Imperial College London, London W2 1NY, United Kingdom.
+
+In this study, we explored the pathogenicity and phylogenetic position of
+Agrobacterium spp. strains isolated from crown gall tissues on annual, perennial,
+and ornamental plants in Iran. Of the 43 strains studied, 10 strains were
+identified as Allorhizobium vitis (formerly Agrobacterium vitis) using the
+species-specific primer pair PGF/PGR. Thirty-three remaining strains were studied
+using multilocus sequence analysis of four housekeeping genes (i.e., atpD, gyrB, 
+recA, and rpoB), from which seven strains were identified as A. larrymoorei and
+one strain was identified as A. rubi (Rer); the remaining 25 strains were
+scattered within the A. tumefaciens species complex. Two strains were identified 
+as genomospecies 1 (G1), seven strains were identified as A. radiobacter (G4),
+seven strains were identified as A. deltaense (G7), two strains were identified
+as A. nepotum (G14), and one strain was identified as "A. viscosum" (G15). The
+strains Rnr, Rnw, and Rew as well as the two strains OT33 and R13 all isolated
+from rose and the strain Ap1 isolated from apple were clustered in three atypical
+clades within the A. tumefaciens species complex. All but eight strains (i.e.,
+Nec10, Ph38, Ph49, fic9, Fic72, R13, OT33, and Ap1) were pathogenic on tomato and
+sunflower seedlings in greenhouse conditions, whereas all but three strains
+(i.e., fic9, Fic72, and OT33) showed tumorigenicity on carrot root discs. The
+phylogenetic analysis and nucleotide diversity statistics suggested the existence
+of two novel genomospecies within the A. tumefaciens species complex, which we
+named "G19" and "G20." Hence, we propose the strains Rew, Rnw, and Rnr as the
+members of "G19" and the strains R13 and OT33 as the members of G20, whereas the 
+phylogenetic status of the atypical strain Ap1 remains undetermined.
+
+DOI: 10.1094/PHYTO-05-19-0178-R 
+PMID: 31298994  [Indexed for MEDLINE]
+

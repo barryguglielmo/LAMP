@@ -1,0 +1,52 @@
+
+1. Plant Biotechnol J. 2020 Jul 10. doi: 10.1111/pbi.13447. [Epub ahead of print]
+
+A microalgal-based preparation with synergistic cellulolytic and detoxifying
+action towards chemical-treated lignocellulose.
+
+Benedetti M(1), Barera S(1), Longoni P(2), Guardini Z(1), Herrero Garcia N(1),
+Bolzonella D(1), Lopez-Arredondo D(3)(4), Herrera-Estrella L(5)(4),
+Goldschmidt-Clermont M(6), Bassi R(1), Dall'Osto L(1).
+
+Author information: 
+(1)Dipartimento di Biotecnologie, Università di Verona, Verona, Italy.
+(2)Faculty of Science, Institute of Biology, University of Neuchâtel, Neuchâtel, 
+Switzerland.
+(3)StelaGenomics Mexico, S de RL de CV, Irapuato, Guanajuato, Mexico.
+(4)Institute of Genomics for Crop Abiotic Stress Tolerance, Texas Tech
+University, Lubbock, TX, USA.
+(5)Laboratorio Nacional de Genómica para la Biodiversidad, Centro de
+Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,
+Irapuato, Guanajuato, Mexico.
+(6)Department of Botany and Plant Biology, University of Geneva, Geneva,
+Switzerland.
+
+High-temperature bioconversion of lignocellulose into fermentable sugars has
+drawn attention for efficient production of renewable chemicals and biofuels,
+because competing microbial activities are inhibited at elevated temperatures and
+thermostable cell wall degrading enzymes are superior to mesophilic enzymes.
+Here, we report on the development of a platform to produce four different
+thermostable cell wall degrading enzymes in the chloroplast of Chlamydomonas
+reinhardtii. The enzyme blend was composed of the cellobiohydrolase CBM3GH5 from 
+C. saccharolyticus, the β-glucosidase celB from P. furiosus, the endoglucanase B 
+and the endoxylanase XynA from T. neapolitana. In addition, transplastomic
+microalgae were engineered for the expression of phosphite dehydrogenase D from
+Pseudomonas stutzeri, allowing for growth in non-axenic media by selective
+phosphite nutrition. The cellulolytic blend composed of the glycoside hydrolase
+(GH) domain GH12/GH5/GH1 allowed the conversion of alkaline-treated
+lignocellulose into glucose with efficiencies ranging from 14% to 17% upon 48h of
+reaction and an enzyme loading of 0.05% (w/w). Hydrolysates from treated
+cellulosic materials with extracts of transgenic microalgae boosted both the
+biogas production by methanogenic bacteria and the mixotrophic growth of the
+oleaginous microalga Chlorella vulgaris. Notably, microalgal treatment suppressed
+the detrimental effect of inhibitory by-products released from the alkaline
+treatment of biomass, thus allowing for efficient assimilation of
+lignocellulose-derived sugars by C. vulgaris under mixotrophic growth.
+
+© 2020 The Authors. Plant Biotechnology Journal published by Society for
+Experimental Biology and The Association of Applied Biologists and John Wiley &
+Sons Ltd.
+
+DOI: 10.1111/pbi.13447 
+PMID: 32649019 
+

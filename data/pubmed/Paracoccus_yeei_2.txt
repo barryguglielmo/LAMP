@@ -1,0 +1,39 @@
+
+1. Environ Microbiol Rep. 2020 Jun;12(3):355-360. doi: 10.1111/1758-2229.12843.
+
+Involvement of membrane vesicles in long-chain-AHL delivery in Paracoccus
+species.
+
+Morinaga K(1), Nagakubo T(2), Nomura N(2)(3), Toyofuku M(2)(3).
+
+Author information: 
+(1)Graduate School of Life and Environmental Sciences, University of Tsukuba,
+1-1-1 Tennodai, Tsukuba, Ibaraki, 305-8572, Japan.
+(2)Faculty of Life and Environmental Sciences, University of Tsukuba, 1-1-1
+Tennodai, Tsukuba, Ibaraki, 305-8572, Japan.
+(3)Microbiology Research Center for Sustainability (MiCS), University of Tsukuba,
+1-1-1 Tennodai, Tsukuba, Ibaraki, 305-8572, Japan.
+
+Bacteria are known to communicate with each other through signalling molecules
+that regulate gene expression within the population. However, the way in which
+hydrophobic signals are released and transmitted among bacterial population is
+not well understood. Recent studies show that membrane vesicles (MVs) are
+involved in delivering hydrophobic signals, such as in
+N-hexadecanoyl-l-homoserine lactone (C16-HSL) signalling in Paracoccus
+denitrificans Pd1222. In this study, we identified the AHLs produced in
+Paracoccus aminophilus JCM7686, Paracoccus aminovorans NBRC16711, Paracoccus
+thiocyanatus JCM20756, Paracoccus versutus JCM20754 and Paracoccus yeei ATCC
+BAA-599, and show that the main AHL produced in all the strains is C16-HSL. Our
+results show that these Paracoccus species also release MVs that carry C16-HSL,
+but at different proportions. Most of the strains carry C16-HSL in MVs, while in 
+P. aminophilus JCM7686, very little C16-HSL was detected in MVs, but was found in
+other fractions of the supernatant. Given the utilization of a common signal, we 
+showed that these Paracoccus species can share signals with P. denitrificans
+Pd1222, and examined the role of MVs in signalling. Our study provides new
+insights into the way in which bacteria communicate using hydrophobic signals.
+
+© 2020 Society for Applied Microbiology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/1758-2229.12843 
+PMID: 32291967 
+

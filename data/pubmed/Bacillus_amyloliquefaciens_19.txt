@@ -1,0 +1,42 @@
+
+1. Curr Microbiol. 2020 Sep 11. doi: 10.1007/s00284-020-02191-0. [Epub ahead of
+print]
+
+Screening for Candidate Genes Associated with Biocontrol Mechanisms of Bacillus
+pumilus DX01 Using Tn5 Transposon Mutagenesis and a 2-DE-Based Comparative
+Proteomic Analysis.
+
+Chen Y(1), Liu T(2), Li Q(2), Ma Y(2), Cheng J(2), Xu L(2).
+
+Author information: 
+(1)Department of Resources and Environment, School of Agriculture and Biology,
+Shanghai Jiao Tong University, Shanghai, 200240, China. ypchen7274@sjtu.edu.cn.
+(2)Department of Resources and Environment, School of Agriculture and Biology,
+Shanghai Jiao Tong University, Shanghai, 200240, China.
+
+A total of 1467 mutants of the biocontrol bacterium Bacillus pumilus DX01 were
+obtained by Tn5 insertional mutagenesis and subjected to the determination of
+antagonistic capabilities. Compared with the wild-type strain DX01, the mutant
+M25 was identified to have the most significant reduction in antagonistic
+capability against the phytopathogen Bipolaris maydis and extracellular
+proteinase activity. The integration site of the exogenous T-DNA in the genome of
+mutant M25 was revealed in the coding region of malony CoA-ACP transacylase
+(MCAT) gene (mcat), which belongs to a polyketide synthase (PKS) gene cluster,
+DX01pks of B. pumilus DX01. Furthermore, the whole DX01pks gene cluster was
+cloned using Illumina Solexa sequencing technology, and it has a modular
+framework different from the other two gene clusters involved in polyketide
+synthesis in B. amyloliquefaciens FZB42 (pks1) and B. subtilis 168 (pksX).
+Finally, in order to gain more insights into the molecular mechanisms of
+biocontrol of B. pumilus DX01, the changes in the relative level of expression of
+total proteins between the original strain DX01 and the mutant M25 were detected 
+by 2-DE-based proteomic analysis. A total of twenty differentially expressed
+proteins were identified upon the mcat gene transposition mutagenesis. Of these
+proteins, seven proteins were up-regulated in expression level and the other
+proteins were down-regulated. Taken together, the results in this study showed
+that Tn5 transposon mutagenesis of B. pumilus DX01 can lead to a significant
+change of antiphytopathogen ability, and the DX01pks gene cluster possibly play a
+potential role in the biocontrol processes of this bacterium.
+
+DOI: 10.1007/s00284-020-02191-0 
+PMID: 32915287 
+

@@ -1,0 +1,47 @@
+
+1. J Biotechnol. 2019 Nov 10;305:18-22. doi: 10.1016/j.jbiotec.2019.08.019. Epub
+2019 Aug 28.
+
+Development of an in vivo fluorescence based gene expression reporter system for 
+Clostridium tyrobutyricum.
+
+Cheng C(1), Lin M(2), Jiang W(3), Zhao J(3), Li W(4), Yang ST(5).
+
+Author information: 
+(1)School of Bioengineering, Dalian University of Technology, Dalian 116024,
+China; William G. Lowrie Department of Chemical and Biomolecular Engineering, The
+Ohio State University, 151 Woodruff Ave., Columbus, OH 43210, USA.
+(2)Bioprocessing Innovative Company, 4734 Bridle Path Ct., Dublin, OH 43017, USA.
+(3)William G. Lowrie Department of Chemical and Biomolecular Engineering, The
+Ohio State University, 151 Woodruff Ave., Columbus, OH 43210, USA.
+(4)William G. Lowrie Department of Chemical and Biomolecular Engineering, The
+Ohio State University, 151 Woodruff Ave., Columbus, OH 43210, USA; School of
+Environment, Harbin Institute of Technology, Harbin 150090, China.
+(5)William G. Lowrie Department of Chemical and Biomolecular Engineering, The
+Ohio State University, 151 Woodruff Ave., Columbus, OH 43210, USA. Electronic
+address: yang.15@osu.edu.
+
+C. tyrobutyricum, an acidogenic Clostridium, has aroused increasing interest due 
+to its potential to produce biofuel efficiently. However, construction of
+recombinant C. tyrobutyricum for enhanced biofuel production has been impeded by 
+the limited genetic engineering tools. In this study, a flavin mononucleotide
+(FMN)-dependent fluorescent protein Bs2-based gene expression reporter system was
+developed to monitor transformation and explore in vivo strength and regulation
+of various promoters in C. tyrobutyricum and C. acetobutylicum. Unlike green
+fluorescent protein (GFP) and its variants, Bs2 can emit green light without
+oxygen, which makes it extremely suitable for promoter screening and
+transformation confirmation in organisms grown anaerobically. The expression
+levels of bs2 under thiolase promoters from C. tyrobutyricum and C.
+acetobutylicum were measured and compared based on fluorescence intensities. The 
+capacities of the two promoters in driving secondary alcohol dehydrogenase (adh) 
+gene for isopropanol production in C. tyrobutyricum were distinguished,
+confirming that this reporter system is a convenient, effective and reliable tool
+for promoter strength assay and real time monitoring in C. tyrobutyricum, while
+demonstrating the feasibility of producing isopropanol in C. tyrobutyricum for
+the first time.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jbiotec.2019.08.019 
+PMID: 31472166  [Indexed for MEDLINE]
+

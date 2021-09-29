@@ -1,0 +1,39 @@
+
+1. Mol Microbiol. 2020 Sep 4. doi: 10.1111/mmi.14599. [Epub ahead of print]
+
+A holin/peptidoglycan hydrolase-dependent protein secretion system.
+
+Palmer T(1), Finney A(2), Saha CK(3), Atkinson GC(3), Sargent F(2).
+
+Author information: 
+(1)Microbes in Health & Disease, Newcastle University Biosciences Institute,
+Faculty of Medical Sciences, Newcastle University, Newcastle upon Tyne, NE2 4HH, 
+United Kingdom.
+(2)Plant & Microbial Biology, School of Natural and Environmental Sciences,
+Faculty of Science, Agriculture & Engineering, Newcastle University, Newcastle
+upon Tyne, NE2 4BF, United Kingdom.
+(3)Department of Molecular Biology and Umeå Centre for Microbial Research, Umeå
+University, Sweden.
+
+Gram-negative bacteria have evolved numerous pathways to secrete proteins across 
+their complex cell envelopes. Here, we describe a protein secretion system which 
+uses a holin membrane protein in tandem with a cell wall editing enzyme to
+mediate the secretion of substrate proteins from the periplasm to the cell
+exterior. The identity of the cell wall editing enzymes employed was found to
+vary across biological systems. For instance, the chitinase secretion pathway of 
+Serratia marcescens uses an endopeptidase to facilitate secretion, whereas the
+secretion of Typhoid toxin in Salmonella enterica serovar Typhi relies on a
+muramidase. Various families of holins are also predicted to be involved. Genomic
+analysis indicates that this pathway is conserved and implicated in the secretion
+of hydrolytic enzymes and toxins for a range of bacteria. The pairing of holins
+from different families with various types of peptidoglycan hydrolases suggests
+that this secretion pathway evolved multiple times. We suggest that the
+complementary bodies of evidence presented is sufficient to propose that the
+pathway be named the Type 10 Secretion System (TXSS). Potential mechanisms for
+secretion across the outer membrane are discussed.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1111/mmi.14599 
+PMID: 32885520 
+

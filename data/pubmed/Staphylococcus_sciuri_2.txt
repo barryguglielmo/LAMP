@@ -1,0 +1,39 @@
+
+1. Microb Drug Resist. 2020 Aug 18. doi: 10.1089/mdr.2020.0189. [Epub ahead of
+print]
+
+Staphylococcus sciuri as a Reservoir of mecA to Staphylococcus aureus in
+Non-Migratory Seabirds from a Remote Oceanic Island.
+
+Saraiva MMS(1), de Leon CMCG(2), Silva NMVD(2), Raso TF(3), Serafini PP(4),
+Givisiez PEN(2), Gebreyes WA(5)(6), Oliveira CJB(2)(6).
+
+Author information: 
+(1)Laboratory of Ornithopathology, Department of Veterinary Pathology, Sao Paulo 
+State University, Jaboticabal, Brazil.
+(2)Department of Animal Science, Federal University of Paraiba, Areia, Brazil.
+(3)Department of Pathology, School of Veterinary Medicine and Animal Science,
+University of Sao Paulo, Sao Paulo, Brazil.
+(4)National Center for Wild Bird Conservation and Research, Chico Mendes
+Institute for Biodiversity Conservation, Florianopolis, Brazil.
+(5)Department of Preventive Veterinary Medicine, College of Veterinary Medicine, 
+The Ohio State University, Columbus, Ohio, USA.
+(6)Global One Health Initiative, The Ohio State University, Columbus, Ohio, USA.
+
+Aim: Genomic analysis of a methicillin-resistant Staphylococcus aureus (MRSA)
+strain cultured from a non-migratory seabird at Fernando de Noronha Archipelago
+(Brazilian oceanic islands) was carried out to investigate the potential origin
+of MRSA genetic determinants in an ecological setting with minimal or absent
+antimicrobial selective pressure, and minimal interaction with humans and
+domestic animals. Results: The study determined mecA gene homology and the
+phylogenetic relatedness with mecA described in Staphylococcus sciuri, which was 
+the major Staphylococcus spp. cultured from the birds. Our findings corroborate
+in silico assumptions that the mecA gene in MRSA strains clinically relevant for 
+humans and animals originates from S. sciuri ancestors. Conclusion:
+Coagulase-negative staphylococci seem to be natural reservoirs of
+methicillin-resistant genes to S. aureus, even in environments with very low
+antimicrobial selection pressure.
+
+DOI: 10.1089/mdr.2020.0189 
+PMID: 32816627 
+

@@ -1,0 +1,49 @@
+
+1. J Exp Clin Cancer Res. 2020 Sep 29;39(1):202. doi: 10.1186/s13046-020-01677-w.
+
+FadA promotes DNA damage and progression of Fusobacterium nucleatum-induced
+colorectal cancer through up-regulation of chk2.
+
+Guo P(1), Tian Z(2), Kong X(2), Yang L(2), Shan X(2), Dong B(3), Ding X(2), Jing 
+X(2), Jiang C(2), Jiang N(2), Yu Y(4).
+
+Author information: 
+(1)Department of Neurosurgery, The Affiliated Hospital of Qingdao University,
+Qingdao, 266003, People's Republic of China.
+(2)Department of Gastroenterology, The Affiliated Hospital of Qingdao University,
+No. 16, Jiangsu Road, Qingdao, 266003, Shandong Province, People's Republic of
+China.
+(3)Department of Endocrinology and Metabolism, The Affiliated Hospital of Qingdao
+University, Qingdao, 266003, People's Republic of China.
+(4)Department of Gastroenterology, The Affiliated Hospital of Qingdao University,
+No. 16, Jiangsu Road, Qingdao, 266003, Shandong Province, People's Republic of
+China. yananyu1985@163.com.
+
+BACKGROUND: Globally, colorectal cancer (CRC) affects more than 1 million people 
+each year. In addition to non-modifiable and other environmental risk factors,
+Fusobacterium nucleatum infection has been linked to CRC recently. In this study,
+we explored mechanisms underlying the role of Fusobacterium nucleatum infection
+in the progression of CRC in a mouse model.
+METHODS: C57BL/6 J-Adenomatous polyposis coli (APC) Min/J mice [APC (Min/+)] were
+treated with Fusobacterium nucleatum (109 cfu/mL, 0.2 mL/time/day, i.g.,
+12 weeks), saline, or FadA knockout (FadA-/-) Fusobacterium nucleatum. The
+number, size, and weight of CRC tumors were determined in isolated tumor masses. 
+The human CRC cell lines HCT29 and HT116 were treated with lentiviral vectors
+overexpressing chk2 or silencing β-catenin. DNA damage was determined by Comet
+assay and γH2AX immunofluorescence assay and flow cytometry. The mRNA expression 
+of chk2 was determined by RT-qPCR. Protein expression of FadA, E-cadherin,
+β-catenin, and chk2 were determined by Western blot analysis.
+RESULTS: Fusobacterium nucleatum treatment promoted DNA damage in CRC in APC
+(Min/+) mice. Fusobacterium nucleatum also increased the number of CRC cells that
+were in the S phase of the cell cycle. FadA-/- reduced tumor number, size, and
+burden in vivo. FadA-/- also reduced DNA damage, cell proliferation, expression
+of E-cadherin and chk2, and cells in the S phase. Chk2 overexpression elevated
+DNA damage and tumor growth in APC (Min/+) mice.
+CONCLUSIONS: In conclusion, this study provided evidence that Fusobacterium
+nucleatum induced DNA damage and cell growth in CRC through FadA-dependent
+activation of the E-cadherin/β-catenin pathway, leading to up-regulation of chk2.
+
+DOI: 10.1186/s13046-020-01677-w 
+PMCID: PMC7523382
+PMID: 32993749 
+

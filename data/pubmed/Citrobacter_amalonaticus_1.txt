@@ -1,0 +1,69 @@
+
+1. mSphere. 2020 Apr 8;5(2). pii: e00080-20. doi: 10.1128/mSphere.00080-20.
+
+Early OXA-48-Producing Enterobacterales Isolates Recovered in a Spanish Hospital 
+Reveal a Complex Introduction Dominated by Sequence Type 11 (ST11) and ST405
+Klebsiella pneumoniae Clones.
+
+Gijón D(1)(2), Tedim AP(1)(3), Valverde A(1)(4), Rodríguez I(1)(3), Morosini
+MI(1)(2), Coque TM(1)(3), Manrique M(5), Pareja E(5), Tobes R(5), Ruiz-Garbajosa 
+P(1)(2), Cantón R(6)(2).
+
+Author information: 
+(1)Servicio de Microbiología, Hospital Universitario Ramón y Cajal and Instituto 
+Ramón y Cajal de Investigación Sanitaria (IRYCIS), Madrid, Spain.
+(2)Spanish Network for Research in Infectious Diseases (REIPI), Instituto de
+Salud Carlos III, Madrid, Spain.
+(3)Centro de Investigación Biomédica en Red de Epidemiología y Salud Pública
+(CIBER-ESP), Barcelona, Spain.
+(4)Centro de Vigilancia Sanitaria Veterinaria (VISAVET), Universidad Complutense,
+Madrid, Spain.
+(5)Oh no sequences! Research Group, Era7 Bioinformatics, Granada, Spain.
+(6)Servicio de Microbiología, Hospital Universitario Ramón y Cajal and Instituto 
+Ramón y Cajal de Investigación Sanitaria (IRYCIS), Madrid, Spain
+rafael.canton@salud.madrid.org.
+
+Carbapenemase-producing Enterobacterales (CPE) have become an important public
+health concern. In our hospital, VIM enzymes were first detected in 2005,
+Klebsiella pneumoniae carbapenemase (KPC) enzymes in 2009, and OXA-48 enzymes in 
+2012. We assess the population biology of the first OXA-48-producing
+Enterobacterales isolates recovered in our hospital (2012 to 2013) where
+infections by other carbapenemases had been endemic for several years. Over a
+21-month period, 71 isolates (61 Klebsiella pneumoniae, 5 Escherichia coli, 2
+Klebsiella aerogenes, and 1 each of Enterobacter cloacae, Klebsiella oxytoca, and
+Citrobacter amalonaticus) recovered from clinical and surveillance specimens from
+57 patients (22.8% nonhospitalized) were investigated for OXA-48-like-producing
+enzymes. Analyses for characterization and determination of the location of the
+bla OXA-48 gene, plasmid transferability, sequence, and clonal relatedness were
+performed. Most of the isolates also coproduced CTX-M-15 (57/71, 80.3%) and/or
+VIM-1 (7/71, 9.8%). K. pneumoniae was predominantly identified as sequence type
+11 (ST11) (63.4%) and ST405 (9.8%) and E. coli as ST540, ST1406, ST3163, and
+ST4301. The bla OXA-48 gene was part of Tn1999.2 located at the tir gene of
+plasmids (ca. ≥50 kb) of the IncL/M group, also carrying bla VIM-1 and bla
+CTX-M-15 genes. We selected one ST11 K. pneumoniae isolate for whole-genome
+sequencing in which we studied the plasmid containing the bla OXA-48 gene. This
+plasmid was compared with indexed plasmids existing in NCBI database by the use
+of BRIG and MAUVE. Our data suggest a rapid spread of bla OXA-48 genes between
+commonly isolated high-risk clones of Enterobacterales species, frequently
+associated with antibiotic resistance. Moreover, the emergence of the
+multiresistant ST11 K. pneumoniae clone among nonhospitalized patients emphasizes
+the difficulty of preventing its dissemination into the community.IMPORTANCE We
+present results of microbiological analysis of the first Enterobacterales
+isolates that were isolated in 2012 in our institution expressing OXA-48
+carbapenemase. This enzyme confers resistance to carbapenems, an important group 
+of antibiotics widely used in the hospitals. OXA-48 carbapenemase is currently
+present in many parts of the world, but it is found particularly frequently in
+the Mediterranean area. It was disseminated at the Ramón y Cajal Hospital and
+found to be associated with a particular Klebsiella pneumoniae strain, so-called 
+high-risk clone ST11, which was previously found in our institution in
+association with other enzymes such as CTX-M-15, VIM-1, and KPC-3. This clone
+might have acquired a plasmid harboring the bla OXA-48 gene. Our results point
+out the importance of local epidemiology in the dissemination and maintenance of 
+multidrug-resistant bacteria.
+
+Copyright © 2020 Gijón et al.
+
+DOI: 10.1128/mSphere.00080-20 
+PMCID: PMC7142293
+PMID: 32269151 
+

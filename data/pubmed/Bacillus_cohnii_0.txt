@@ -1,0 +1,50 @@
+
+1. Int J Biol Macromol. 2020 Aug 28. pii: S0141-8130(20)34294-X. doi:
+10.1016/j.ijbiomac.2020.08.197. [Epub ahead of print]
+
+Structural and biochemical characterization of an extremely thermostable
+FMN-dependent NADH-indigo reductase from Bacillus smithii.
+
+Yoneda K(1), Yoshioka M(2), Sakuraba H(3), Araki T(2), Ohshima T(4).
+
+Author information: 
+(1)Department of Bioscience, School of Agriculture, Tokai University, 9-1-1
+Toroku, Higashi-ku, Kumamoto-shi, Kumamoto 862-8652, Japan. Electronic address:
+kyoneda@agri.u-tokai.ac.jp.
+(2)Department of Bioscience, School of Agriculture, Tokai University, 9-1-1
+Toroku, Higashi-ku, Kumamoto-shi, Kumamoto 862-8652, Japan.
+(3)Department of Applied Biological Science, Faculty of Agriculture, Kagawa
+University, 2393 Ikenobe, Miki-cho, Kita-gun, Kagawa 761-0795, Japan.
+(4)Department of Biomedical Engineering, Faculty of Engineering, Osaka Institute 
+of Technology, 5-16-1 Ohmiya, Asahi-ku, Osaka 535-8585, Japan.
+
+The FMN-dependent NADH-indigo reductase gene from the thermophilic bacterium
+Bacillus smithii was overexpressed in Escherichia coli. The expressed enzyme
+functioned as a highly thermostable indigo reductase that retained complete
+activity even after incubation at 100 °C for 10 min. Furthermore, B. smithii
+indigo reductase exhibited high stability over a wider pH range and longer
+storage periods compared with indigo reductases previously identified from other 
+sources. The enzyme catalyzed the reduction of various azo compounds and indigo
+carmine. The crystal structures of the wild-type enzyme in complex with
+FMN/N-cyclohexyl-2-aminoethanesulfonate (CHES) and the Y151F mutant enzyme in
+complex with FMN were determined by the molecular replacement method and refined 
+at resolutions of 1.97 and 1.95 Å, respectively. Then, indigo carmine molecule
+was modeled into the active site using the molecular docking simulation and the
+binding mode of indigo carmine was elucidated. In addition, the structure of B.
+smithii indigo reductase, which is relatively less stable Bacillus cohnii indigo 
+reductase, was constructed by homology modeling. The factor contributing to the
+considerably higher thermostability of B. smithii indigo reductase was analyzed
+by comparing its structure with that of B. cohnii indigo reductase, which
+revealed that intersubunit aromatic interactions (F105-F172' and F172-F105') may 
+be responsible for the high thermostability of B. smithii indigo reductase.
+Notably, site-directed mutagenesis results showed that F105 plays a major role in
+the intersubunit aromatic interaction.
+
+Copyright © 2018. Published by Elsevier B.V.
+
+DOI: 10.1016/j.ijbiomac.2020.08.197 
+PMID: 32861785 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no conflicts of interest.
+

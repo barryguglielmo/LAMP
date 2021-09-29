@@ -1,0 +1,49 @@
+
+1. Ecotoxicol Environ Saf. 2020 Sep 15;201:110879. doi:
+10.1016/j.ecoenv.2020.110879. Epub 2020 Jun 16.
+
+New application of rutin: Repair the toxicity of emerging perfluoroalkyl
+substance to Pseudomonas stutzeri.
+
+Qian Y(1), Zhang Y(1), Zuh AA(1), Qiao W(2).
+
+Author information: 
+(1)Department of Environmental Engineering, College of Biology and the
+Environment, Nanjing Forestry University, Nanjing, 210037, China.
+(2)Department of Environmental Engineering, College of Biology and the
+Environment, Nanjing Forestry University, Nanjing, 210037, China. Electronic
+address: hgqwc@njfu.edu.cn.
+
+Per- and polyfluoroalkyl substances (PFASs) are toxic to microorganisms, thereby 
+affecting microbial communities in sludge and soil, but how to repair the
+toxicity of microorganisms remains unclear. In this study, rutin, an antioxidant,
+was added into a culture medium with an aerobic denitrification bacteria,
+Pseudomonas stutzeri, under the exposure of sodium
+perfluorononyloxy-benzenesulfonate (OBS) to evaluate the repair mechanisms of
+rutin to the toxicity of OBS to the bacteria. The results showed that rutin could
+repair the damage of OBS to cell structures, and reduce the death rates of the
+bacteria under OBS exposure. The dosage of rutin reduced the effect on the
+inhibition of denitrification ability of P. stutzeri under OBS exposure. Compared
+with the bacteria exposed to single OBS, the dosage of rutin resulted in that the
+death rates recovered from 96.2% to 66.4%, the growth inhibition rate decreased
+from 46.5% to 15.8%, the total nitrogen removal rate recovered from 66.9% to
+100%, and the NO2- content recovered from 34.5 mg/L to 0.22 mg/L. The expressions
+of key denitrification genes (napA, nirS, norB, nosZ) were recovered after adding
+rutin under OBS exposure. Rutin changed the positive rate of reactive oxygen
+species, the relative superoxide dismutase and catalase activities in the
+bacteria which exposed to OBS. The mechanism by which rutin repaired the toxicity
+of OBS to P. stutzeri related to inhibiting the activities of antioxidant and
+denitrification enzymes rather than affecting the expressions of genes involved
+in these enzymes. This study sheds light on the repair method of micro-organics
+and reveals the repair mechanisms under PFASs exposure.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ecoenv.2020.110879 
+PMID: 32559694  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

@@ -1,0 +1,57 @@
+
+1. Infect Immun. 2019 Dec 17;88(1). pii: e00741-19. doi: 10.1128/IAI.00741-19. Print
+2019 Dec 17.
+
+Dysregulation of Intestinal Microbiota Elicited by Food Allergy Induces
+IgA-Mediated Oral Dysbiosis.
+
+Matsui S(1)(2), Kataoka H(3)(4), Tanaka JI(5), Kikuchi M(2), Fukamachi H(1),
+Morisaki H(1), Matsushima H(6), Mishima K(5), Hironaka S(7), Takaki T(8),
+Okahashi N(9), Maruoka Y(2), Kuwata H(1).
+
+Author information: 
+(1)Department of Oral Microbiology, Showa University, Tokyo, Japan.
+(2)Department of Special Needs Dentistry, Division of Community-Based
+Comprehensive Dentistry, Showa University, Tokyo, Japan.
+(3)Department of Oral Microbiology, Showa University, Tokyo, Japan
+hideok@dent.asahi-u.ac.jp.
+(4)Department of Oral Microbiology, Division of Oral Infections and Health
+Sciences, Asahi University, Gifu, Japan.
+(5)Department of Oral Diagnostic Sciences, Division of Pathology, Showa
+University, Tokyo, Japan.
+(6)Department of Pediatric Dentistry, Showa University, Tokyo, Japan.
+(7)Department of Special Needs Dentistry, Division of Hygiene and Oral Health,
+Showa University, Tokyo, Japan.
+(8)Division of Electron Microscopy, Showa University, Tokyo, Japan.
+(9)Center for Frontier Oral Science, Osaka University Graduate School of
+Dentistry, Suita, Osaka, Japan.
+
+Food allergy is a life-threatening response to specific foods, and microbiota
+imbalance (dysbiosis) in gut is considered a cause of this disease. Meanwhile,
+the host immune response also plays an important role in the disease. Notably,
+interleukin 33 (IL-33) released from damaged or necrotic intestinal epithelial
+cells facilitates IL-2-producing CD4 helper T (Th2) responses. However, causal
+relationships between the gut and oral dysbiosis and food allergy remain unknown.
+In this study, we analyzed effects of gut and oral dysbiosis on development of
+food allergy. A murine model of food allergy was established via ovalbumin (OVA) 
+injection in BALB/c mice. Viable fecal bacteria were identified using
+matrix-assisted laser desorption ionization-time of flight mass spectrometry
+(MALDI-TOF MS). il33 expression in colon-26 mouse colon cells stimulated by
+isolated fecal bacteria was quantified by real-time PCR. Intestinal T cells from 
+the mice were analyzed by flow cytometry. Salivary IgA levels were quantified by 
+enzyme-linked immunosorbent assay (ELISA), and IgA-bound oral bacteria were
+detected by flow cytometry. Among fecal bacteria, the abundance of Citrobacter
+sp. increased in the feces of allergic mice and induced il33 expression in
+colon-26 cells. Orally administered Citrobacter koseri JCM1658 exacerbated
+systemic allergic symptoms and reduced intestinal Th17 cells. Salivary IgA and
+IgA-bound oral bacteria increased in the allergic mice. Based on the results
+described above, food allergy induced both gut and oral dysbiosis. Citrobacter
+sp. aggravated allergy symptoms by inducing IL-33 release from intestinal
+epithelial cells.
+
+Copyright © 2019 Matsui et al.
+
+DOI: 10.1128/IAI.00741-19 
+PMCID: PMC6921656
+PMID: 31611274  [Indexed for MEDLINE]
+

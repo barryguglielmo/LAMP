@@ -1,0 +1,87 @@
+
+1. mBio. 2020 Aug 25;11(4). pii: e01851-20. doi: 10.1128/mBio.01851-20.
+
+Cervicovaginal Microbiome Composition Is Associated with Metabolic Profiles in
+Healthy Pregnancy.
+
+Oliver A(1), LaMere B(2), Weihe C(3), Wandro S(4), Lindsay KL(5), Wadhwa
+PD(5)(6), Mills DA(7)(8), Pride DT(9)(10), Fiehn O(11), Northen T(12), de Raad
+M(12), Li H(13), Martiny JBH(3), Lynch S(2), Whiteson K(14).
+
+Author information: 
+(1)Department of Molecular Biology and Biochemistry, University of California,
+Irvine.
+(2)Division of Gastroenterology, Department of Medicine, University of
+California, San Francisco, San Francisco.
+(3)Department of Ecology and Evolutionary Biology, University of California,
+Irvine, Irvine, California, USA.
+(4)Center for Microbiome Innovation, University of California, San Diego, San
+Diego, California, USA.
+(5)Department of Pediatrics and the Development, Health and Disease Research
+Program, College of Health Sciences, University of California, Irvine, Irvine,
+California, USA.
+(6)Department of Psychiatry and Human Behavior, College of Health Sciences,
+University of California, Irvine, Irvine, California, USA.
+(7)Department of Food Science and Technology, University of California, Davis,
+Davis, California, USA.
+(8)Department of Viticulture & Enology, University of California, Davis, Davis,
+California, USA.
+(9)Department of Pathology, University of California, San Diego, San Diego,
+California, USA.
+(10)Department of Medicine, University of California, San Diego, San Diego,
+California, USA.
+(11)West Coast Metabolomics Center, University of California, Davis, Davis,
+California, USA.
+(12)Environmental Genomics and Systems Biology Division, Lawrence Berkeley
+National Laboratory, Berkeley, California, USA.
+(13)Department of Molecular and Medical Pharmacology, Crump Institute for
+Molecular Imaging, David Geffen School of Medicine, University of California, Los
+Angeles, Los Angeles, California, USA.
+(14)Department of Molecular Biology and Biochemistry, University of California,
+Irvine katrine@uci.edu.
+
+Microbes and their metabolic products influence early-life immune and microbiome 
+development, yet remain understudied during pregnancy. Vaginal microbial
+communities are typically dominated by one or a few well-adapted microbes which
+are able to survive in a narrow pH range and are adapted to live on host-derived 
+carbon sources, likely sourced from glycogen and mucin present in the vaginal
+environment. We characterized the cervicovaginal microbiomes of 16 healthy women 
+throughout the three trimesters of pregnancy. Additionally, we analyzed saliva
+and urine metabolomes using gas chromatography-time of flight mass spectrometry
+(GC-TOF MS) and liquid chromatography-tandem mass spectrometry (LC-MS/MS)
+lipidomics approaches for samples from mothers and their infants through the
+first year of life. Amplicon sequencing revealed most women had either a simple
+community with one highly abundant species of Lactobacillus or a more diverse
+community characterized by a high abundance of Gardnerella, as has also been
+previously described in several independent cohorts. Integrating GC-TOF MS and
+lipidomics data with amplicon sequencing, we found metabolites that distinctly
+associate with particular communities. For example, cervicovaginal microbial
+communities dominated by Lactobacillus crispatus have high mannitol levels, which
+is unexpected given the characterization of L. crispatus as a homofermentative
+Lactobacillus species. It may be that fluctuations in which Lactobacillus
+dominate a particular vaginal microbiome are dictated by the availability of host
+sugars, such as fructose, which is the most likely substrate being converted to
+mannitol. Overall, using a multi-"omic" approach, we begin to address the genetic
+and molecular means by which a particular vaginal microbiome becomes vulnerable
+to large changes in composition.IMPORTANCE Humans have a unique vaginal
+microbiome compared to other mammals, characterized by low diversity and often
+dominated by Lactobacillus spp. Dramatic shifts in vaginal microbial communities 
+sometimes contribute to the presence of a polymicrobial overgrowth condition
+called bacterial vaginosis (BV). However, many healthy women lacking BV symptoms 
+have vaginal microbiomes dominated by microbes associated with BV, resulting in
+debate about the definition of a healthy vaginal microbiome. Despite substantial 
+evidence that the reproductive health of a woman depends on the vaginal
+microbiota, future therapies that may improve reproductive health outcomes are
+stalled due to limited understanding surrounding the ecology of the vaginal
+microbiome. Here, we use sequencing and metabolomic techniques to show novel
+associations between vaginal microbes and metabolites during healthy pregnancy.
+We speculate these associations underlie microbiome dynamics and may contribute
+to a better understanding of transitions between alternative vaginal microbiome
+compositions.
+
+Copyright © 2020 Oliver et al.
+
+DOI: 10.1128/mBio.01851-20 
+PMCID: PMC7448280
+PMID: 32843557 
+

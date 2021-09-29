@@ -1,0 +1,35 @@
+
+1. Genomics. 2020 Sep 28. pii: S0888-7543(20)31300-8. doi:
+10.1016/j.ygeno.2020.09.057. [Epub ahead of print]
+
+The genomic attributes of Cd-resistant, hydrocarbonoclastic Bacillus subtilis SR1
+for rhizodegradation of benzo(a)pyrene under co-contaminated conditions.
+
+Kotoky R(1), Pandey P(2).
+
+Author information: 
+(1)Department of Microbiology, Assam University, Silchar 788011, India.
+(2)Department of Microbiology, Assam University, Silchar 788011, India.
+Electronic address: piyushddn@gmail.com.
+
+Bacillus subtilis SR1 is a metal resistant, polyaromatic hydrocarbon-degrading
+bacterium isolated from petroleum contaminated sites. This study reports the
+characteristics of the genome of the isolate containing one circular chromosome
+(4,093,698 bp) annotated into 4155 genes and 4095 proteins. The genome analysis
+confirmed the presence of multiple catabolic genes: aromatic ring-hydroxylating
+dioxygenase (COG2146), aromatic ring hydroxylase (COG2368), catechol 2, 3
+dioxygenase (COG2514), 4-hydroxybenzoate decarboxylase (COG0043),
+carboxymuconolactone decarboxylase (COG0599) responsible for the catabolism of
+aromatic hydrocarbons along with the genes for biosurfactant production and
+functional genes (czcD and cadA) for resistance to cadmium, zinc, and cobalt. Gas
+Chromatography-Mass spectroscopy analysis revealed up to 35% in-vitro degradation
+of benzo(a)pyrene after 21 days of growth along with the production of different 
+intermediate metabolites. The pot trial analysis in the greenhouse condition
+validated the rhizodegradation of BaP, which was significantly higher in the
+presence of plant-microbe association (85%) than degradation in bulk soil (68%).
+
+Copyright © 2019. Published by Elsevier Inc.
+
+DOI: 10.1016/j.ygeno.2020.09.057 
+PMID: 33002627 
+

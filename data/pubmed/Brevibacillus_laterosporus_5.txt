@@ -1,0 +1,53 @@
+
+1. Micron. 2020 Apr;131:102827. doi: 10.1016/j.micron.2020.102827. Epub 2020 Jan 13.
+
+Probing the surface ultrastructure of Brevibacillus laterosporus using atomic
+force microscopy.
+
+Alzahrani K(1), Shukla AK(2), Alam J(3), Niazy AA(4), Alsouwaileh AM(5), Alhoshan
+M(6), Khalid J(7), Alghamadi HS(4).
+
+Author information: 
+(1)Department of Physics and Astronomy, King Abdullah Institute for
+Nanotechnology, King Saud University, Riyadh 11451, Saudi Arabia; King Abdullah
+Institute for Nanotechnology, King Saud University, Riyadh 11451, Saudi Arabia.
+(2)King Abdullah Institute for Nanotechnology, King Saud University, Riyadh
+11451, Saudi Arabia. Electronic address: ashukla@ksu.edu.sa.
+(3)King Abdullah Institute for Nanotechnology, King Saud University, Riyadh
+11451, Saudi Arabia.
+(4)Molecular and Cell Biology Laboratory, College of Dentistry, King Saud
+University, Riyadh 11545, Saudi Arabia.
+(5)Department of Chemistry, College of Science, King Saud University, Riyadh
+11451, Saudi Arabia.
+(6)King Abdullah Institute for Nanotechnology, King Saud University, Riyadh
+11451, Saudi Arabia; Department of Chemical Engineering, College of Engineering, 
+King Saud University, P.O. Box 800, Riyadh 11421, Saudi Arabia.
+(7)Department of Botany and Microbiology, College of Science, King Saud
+University, Riyadh 11451, Saudi Arabia.
+
+One of the main obstacles to studying the surface ultrastructure of microbial
+cells by atomic force microscopy (AFM) is determining how to immobilize live
+cells on the AFM substrates. Each method has its own advantages and
+disadvantages. The aim of this study was to characterize a new simple and
+inexpensive method using two types of polyethersulfone (PES) membrane filters
+that differ in pore size (micropore and nanopore) to immobilize live and dead
+Brevibacillus laterosporus for AFM imaging. B. laterosporus was easily trapped by
+the microporous PES membrane, facilitating the successful AFM scanning of the
+bacterial surface ultrastructure. In addition, B. laterosporus strongly attached 
+to the nanoporous membranes and withstood the pulling forces exerted by the AFM
+tip during scanning. These methods of immobilization did not affect the cell
+viability. The nanostructure and roughness of the bacterial surface were also
+observed for live, fixed, and air-dried cells. Live and dead bacteria displayed
+similar morphologies at low resolution, while at high resolution, live bacteria
+displayed a more convoluted surface ("brain-like structure").
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.micron.2020.102827 
+PMID: 31951938  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

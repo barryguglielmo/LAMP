@@ -1,0 +1,38 @@
+
+1. Microorganisms. 2019 Nov 8;7(11). pii: E540. doi: 10.3390/microorganisms7110540.
+
+Comparison of Six Commercial Meat Starter Cultures for the Fermentation of Yellow
+Mealworm (Tenebrio molitor) Paste.
+
+An B(1), Sam C(2), Dries V(1), Ruben S(1), Christel V(2), Mik VB(1), Bart L(2),
+Leen VC(1).
+
+Author information: 
+(1)Lab4Food, Department of Microbial and Molecular Systems (M2S), KU Leuven,
+Campus Geel, B-2440 Geel, Belgium.
+(2)Laboratory for Process Microbial Ecology and Bioinspirational Management
+(PME&BIM), Department of Microbial and Molecular Systems (M2S), KU Leuven, Campus
+De Nayer, B-2860 Sint-Katelijne-Waver, Belgium.
+
+In this study, six commercial meat starters, each consisting of a pure strain of 
+a lactic acid-fermenting bacterium (including Lactococcus lactis, Lactobacillus
+curvatus, L. farciminis, L. plantarum, L. sakei, and Pediococcus acidilactici),
+were tested for their ability to ferment a paste produced from the yellow
+mealworm (Tenebrio molitor). During fermentation, microbial counts, pH, and the
+bacterial community composition were determined. In addition, UPLC-MS was applied
+to monitor the consumption of glucose and the production of glutamic (Glu) and
+aspartic (Asp) acid. All tested starters were able to ferment the mealworm paste,
+judged by a pH reduction from 6.68 to 4.60-4.95 within 72 h. Illumina amplicon
+sequencing showed that all starters were able to colonize the substrate eciently.
+Moreover, the introduction of the starter cultures led to the disappearance of
+Bacillus and Clostridium species, which were the dominant microorganisms in
+un-inoculated samples. Of the six cultures tested, Lactobacillus farciminis was
+most promising as its application resulted in the largest increase (±25 mg/100 g 
+of paste) in the content of free glutamic and aspartic acid. These amino acids
+are responsible for the appreciated umami flavour in fermented food products and 
+might stimulate the acceptance of insects and their consumption.
+
+DOI: 10.3390/microorganisms7110540 
+PMCID: PMC6920846
+PMID: 31717367 
+

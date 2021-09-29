@@ -1,0 +1,49 @@
+
+1. Int J Biol Macromol. 2020 Oct 15;161:389-397. doi:
+10.1016/j.ijbiomac.2020.05.235. Epub 2020 May 30.
+
+The presence of resistant starch-degrading amylases in Bifidobacterium
+adolescentis of the human gut.
+
+Jung DH(1), Seo DH(2), Kim YJ(3), Chung WH(4), Nam YD(5), Park CS(6).
+
+Author information: 
+(1)Bacteria Research Team, Nakdonggang National Institute of Biological
+Resources, Sangju 37242, Republic of Korea.
+(2)Department of Food Science and Technology, College of Agriculture and Life
+Sciences, Jeonbuk National University, Jeonju 54896, Republic of Korea.
+(3)Graduate School of Biotechnology and Institute of Life Science and Resources, 
+Kyung Hee University, Yongin 17104, Republic of Korea.
+(4)Research Group of Healthcare, Korea Food Research Institute, Wanju 55365,
+Republic of Korea.
+(5)Research Group of Healthcare, Korea Food Research Institute, Wanju 55365,
+Republic of Korea; Department of Food Biotechnology, Korea University of Science 
+and Technology, Daejeon 34113, Republic of Korea.
+(6)Graduate School of Biotechnology and Institute of Life Science and Resources, 
+Kyung Hee University, Yongin 17104, Republic of Korea. Electronic address:
+cspark@khu.ac.kr.
+
+Resistant starch (RS) is a complex prebiotic carbohydrate beneficial to the human
+gut. In the present study, four genes encoding for putative amylolytic enzymes,
+likely to be responsible for RS-degradation, were identified in the genome of
+Bifidobacterium adolescentis P2P3 by comparative genomic analysis. Our results
+showed that only three enzymes (RSD1, RSD2, and RSD3) exhibited non-gelatinized
+high amylose corn starch (HACS)-degrading activity in addition to typical
+α-amylase activity. These three RS-degrading enzymes (RSD) were composed of
+multiple domains, including signal peptide, catalytic domain, carbohydrate
+binding domains, and putative cell wall-anchoring domains. Typical catalytic
+domains were conserved by exhibiting seven typical conserved regions (I-VII)
+found mostly in α-amylases. Analysis of enzymatic activity revealed that RSD2
+displayed stronger activity toward HACS-granules than RSD1 and RSD3. Comparative 
+genomics in combination with enzymatic experiments confirmed that RSDs might be
+the key enzymes used by RS-degrading bifidobacteria to degrade RS in a particular
+ecological niche, such as the human gut.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2020.05.235 
+PMID: 32479932 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no conflict of interest.
+

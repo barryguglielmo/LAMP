@@ -1,0 +1,43 @@
+
+1. 3 Biotech. 2020 Feb;10(2):73. doi: 10.1007/s13205-020-2050-8. Epub 2020 Jan 28.
+
+Studies on expression levels of pil Q and fli P genes during bio-electrogenic
+process in Kluyvera georgiana MCC 3673.
+
+Thapa BS(1), Chandra TS(1).
+
+Author information: 
+(1)Department of Biotechnology, Indian Institute of Technology Madras, Chennai,
+Tamil Nadu 600036 India.
+
+The bacterium Kluyvera georgiana MCC 3673 transfers electrons directly to the
+electrode for bio-electricity generation in microbial fuel cell (MFC). This could
+be due to the formation of biofilm on the surface of electrode or with through
+the extracellular appendages, or both. The role of extracellular appendages pili 
+and flagella in exo-electron transfer mechanism was investigated. The expression 
+level of the genes fli P and pil Q for pili and flagella, respectively, in K.
+georgiana MCC 3673 was compared in MFC and in shake flask. The transcript
+analysis was done by qRT-PCR at different times and conditions. The expression
+level of pil Q transcript in K. georgiana MCC 3673 showed over twofold higher
+expression during bio-electrogenic process, compared to the one inoculated in
+shake flask. Similarly, fli P had also showed similar kind of expression in MFC
+compared to that in shake flask. Higher level of pil Q and fli P transcripts were
+observed throughout bio-electrogenic process. The level of pil Q was found to be 
+nearly fourfold higher in biofilm-forming cells forming compared to the cells in 
+suspension form. The obtained results suggest that flagella have a role in
+movement of bacterium towards electrode for donating the electron in absence of
+oxygen, and pili aiding in adhering on the surface of electrode and forming
+biofilm. The cumulative effect of fli P and pil Q resulted in exo-electron
+transfer to the electrode and bio-electricity generation process. The open
+circuit potential (OCV) of + 0.7 V was produced with the maximum power density of
+393 ± 14 mW/m2 in MFC.
+
+© King Abdulaziz City for Science and Technology 2020.
+
+DOI: 10.1007/s13205-020-2050-8 
+PMCID: PMC6987287 [Available on 2021-02-01]
+PMID: 32051806 
+
+Conflict of interest statement: Conflict of interestThe authors declare that they
+have no conflict of interest.
+

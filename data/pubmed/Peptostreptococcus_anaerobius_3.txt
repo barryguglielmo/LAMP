@@ -1,0 +1,46 @@
+
+1. Front Physiol. 2020 Feb 6;11:65. doi: 10.3389/fphys.2020.00065. eCollection 2020.
+
+Identification of Serum-Based Metabolic Feature and Characteristic Metabolites in
+Paraquat Intoxicated Mouse Models.
+
+Yu Y(1), Gao Z(2), Lou J(1), Mao Z(1), Li K(1), Chu C(1), Hu L(1), Li Z(1), Deng 
+C(1), Fan H(1), Chen P(1), Huang H(1), Yu Y(1), Ding J(1), Li D(1), Chen F(1)(3).
+
+Author information: 
+(1)Department of Forensic Medicine, School of Basic Medical Science, Nanjing
+Medical University, Nanjing, China.
+(2)Clinical Acupuncture and Moxibustion Department, Second School of Clinical
+Medicine, Nanjing University of Chinese Medicine, Nanjing, China.
+(3)Key Laboratory of Targeted Intervention of Cardiovascular Disease,
+Collaborative Innovation Center for Cardiovascular Disease Translational
+Medicine, Nanjing Medical University, Nanjing, China.
+
+Paraquat (PQ) is a widely used herbicide which can cause high mortality to
+humans. However, relatively few studies focus on metabolic feature of PQ
+intoxication for investigating the underlying mechanisms. Here we performed
+non-targeted metabolomics profiling of serum samples from acute and chronic PQ
+intoxicated mouse models by gas chromatography time-of-flight mass spectrometry
+(GC-TOF/MS) to identify metabolic feature and characteristic metabolites of acute
+and chronic PQ intoxication. Results showed that 3-indolepropionic acid (IPA) and
+pathway of glycine, serine, and threonine metabolism were significantly altered
+after acute PQ intoxication; 2-hydroxybutyric acid and the ratio of
+L-serine/glycine were of significance between acute and chronic PQ intoxication. 
+Then targeted metabolomics profiling was conducted by liquid chromatography-mass 
+spectrometry (LC-MS) analysis to confirm the changes of IPA after acute PQ
+intoxication. Moreover, IPA-producing gut bacteria in feces were quantified by
+qRT-PCR to explain the varied IPA serum concentration. Clostridium botulinum and 
+Peptostreptococcus anaerobius were significantly suppressed after acute PQ
+intoxication. The data suggested that PQ caused oxidative damage partially
+through suppression of anti-oxidative metabolite producing gut bacteria. In
+conclusion, we identified characteristic metabolites and pathway of acute and
+chronic PQ intoxication which could be potential biomarkers and therapeutic
+targets.
+
+Copyright © 2020 Yu, Gao, Lou, Mao, Li, Chu, Hu, Li, Deng, Fan, Chen, Huang, Yu, 
+Ding, Li and Chen.
+
+DOI: 10.3389/fphys.2020.00065 
+PMCID: PMC7017841
+PMID: 32116775 
+

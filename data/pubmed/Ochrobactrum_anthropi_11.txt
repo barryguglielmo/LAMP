@@ -1,0 +1,48 @@
+
+1. Appl Microbiol Biotechnol. 2019 Nov;103(21-22):8853-8861. doi:
+10.1007/s00253-019-10160-2. Epub 2019 Oct 23.
+
+Biosynthesis of bismuth selenide nanoparticles using chalcogen-metabolizing
+bacteria.
+
+Kuroda M(1), Suda S(1), Sato M(1), Ayano H(1)(2), Ohishi Y(1), Nishikawa H(3),
+Soda S(4), Ike M(5).
+
+Author information: 
+(1)Division of Sustainable Energy and Environmental Engineering, Graduate School 
+of Engineering, Osaka University, 2-1 Yamadaoka, Suita, Osaka, 565-0871, Japan.
+(2)Kurita Water Industries Ltd, 1-1 Kawada, Nogi-machi, Shimotsuga-Gun, Tochigi, 
+329-0105, Japan.
+(3)Joining and Welding Research Institute, Osaka University, 11-1 Mihogaoka,
+Osaka, Ibaraki, 567-0047, Japan.
+(4)Department of Civil and Environmental Engineering, College of Science and
+Engineering, Ritsumeikan University, 1-1-1 Noji-higashi, Kusatsu, Shiga,
+525-8577, Japan.
+(5)Division of Sustainable Energy and Environmental Engineering, Graduate School 
+of Engineering, Osaka University, 2-1 Yamadaoka, Suita, Osaka, 565-0871, Japan.
+ike@see.eng.osaka-u.ac.jp.
+
+Cost and energy reductions in the production process of bismuth chalcogenide (BC)
+semiconductor materials are essential to make thermoelectric generators comprised
+of BCs profitable and CO2 neutral over their life cycle. In this study, as an
+eco-friendly production method, bismuth selenide (Bi2Se3) nanoparticles were
+synthesized using the following five strains of chalcogen-metabolizing bacteria: 
+Pseudomonas stutzeri NT-I, Pseudomonas sp. RB, Stenotrophomonas maltophilia TI-1,
+Ochrobactrum anthropi TI-2, and O. anthropi TI-3 under aerobic conditions. All
+strains actively volatilized selenium (Se) by reducing selenite, possibly to
+organoselenides. In the growth media containing bismuth (Bi) and Se, all strains 
+removed Bi and Se concomitantly and synthesized nanoparticles containing Bi and
+Se as their main components. Particles synthesized by strain NT-I had a
+theoretical elemental composition of Bi2Se3, whereas those synthesized by other
+strains contained a small amount of sulfur in addition to Bi and Se, making
+strain NT-I the best Bi2Se3 synthesizer among the strains used in this study. The
+particle sizes were 50-100 nm in diameter, which is sufficiently small for
+nanostructured semiconductor materials that exhibit quantum size effect.
+Successful synthesis of Bi2Se3 nanoparticles could be attributed to the high
+Se-volatilizing activities of the bacterial strains. Selenol-containing compounds
+as intermediates of Se-volatilizing metabolic pathways, such as methane selenol
+and selenocysteine, may play an important role in biosynthesis of Bi2Se3.
+
+DOI: 10.1007/s00253-019-10160-2 
+PMID: 31642950  [Indexed for MEDLINE]
+

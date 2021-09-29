@@ -1,0 +1,51 @@
+
+1. Cell Mol Life Sci. 2020 Apr 24. doi: 10.1007/s00018-020-03514-x. [Epub ahead of
+print]
+
+Fucosidases from the human gut symbiont Ruminococcus gnavus.
+
+Wu H(1), Rebello O(2), Crost EH(1), Owen CD(3)(4), Walpole S(5), Bennati-Granier 
+C(1), Ndeh D(1), Monaco S(5), Hicks T(5), Colvile A(3)(4)(6), Urbanowicz PA(2),
+Walsh MA(3)(4), Angulo J(5)(7)(8), Spencer DIR(2), Juge N(9).
+
+Author information: 
+(1)The Gut Microbes and Health Institute Strategic Programme, Quadram Institute
+Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK.
+(2)Ludger Ltd, Culham Science Centre, Abingdon, OX14 3EB, UK.
+(3)Diamond Light Source Ltd, Diamond House, Harwell Science and Innovation
+Campus, Didcot, OX11 0DE, UK.
+(4)Research Complex at Harwell, Harwell Science and Innovation Campus, Didcot,
+OX11 0FA, UK.
+(5)School of Pharmacy, University of East Anglia, Norwich Research Park, Norwich,
+NR4 7TJ, UK.
+(6)The John Innes Centre, Norwich Research Park, Norwich, NR4 7UH, UK.
+(7)Departamento de Química Orgánica, Universidad de Sevilla, C/ Prof. García
+González, 1, 41012, Sevilla, Spain.
+(8)Instituto de Investigaciones Químicas (CSIC-US), Avda. Américo Vespucio, 49,
+41092, Sevilla, Spain.
+(9)The Gut Microbes and Health Institute Strategic Programme, Quadram Institute
+Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK.
+nathalie.juge@quadram.ac.uk.
+
+The availability and repartition of fucosylated glycans within the
+gastrointestinal tract contributes to the adaptation of gut bacteria species to
+ecological niches. To access this source of nutrients, gut bacteria encode
+α-L-fucosidases (fucosidases) which catalyze the hydrolysis of terminal
+α-L-fucosidic linkages. We determined the substrate and linkage specificities of 
+fucosidases from the human gut symbiont Ruminococcus gnavus. Sequence similarity 
+network identified strain-specific fucosidases in R. gnavus ATCC 29149 and E1
+strains that were further validated enzymatically against a range of defined
+oligosaccharides and glycoconjugates. Using a combination of glycan microarrays, 
+mass spectrometry, isothermal titration calorimetry, crystallographic and
+saturation transfer difference NMR approaches, we identified a fucosidase with
+the capacity to recognize sialic acid-terminated fucosylated glycans (sialyl
+Lewis X/A epitopes) and hydrolyze α1-3/4 fucosyl linkages in these substrates
+without the need to remove sialic acid. Molecular dynamics simulation and docking
+showed that 3'-Sialyl Lewis X (sLeX) could be accommodated within the binding
+site of the enzyme. This specificity may contribute to the adaptation of R.
+gnavus strains to the infant and adult gut and has potential applications in
+diagnostic glycomic assays for diabetes and certain cancers.
+
+DOI: 10.1007/s00018-020-03514-x 
+PMID: 32333083 
+

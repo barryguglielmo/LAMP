@@ -1,0 +1,53 @@
+
+1. Vet Microbiol. 2020 Jun;245:108710. doi: 10.1016/j.vetmic.2020.108710. Epub 2020 
+May 5.
+
+Streptococcus uberis strains originating from bovine uteri provoke upregulation
+of pro-inflammatory factors mRNA expression of endometrial epithelial cells in
+vitro.
+
+Ballas P(1), Gabler C(2), Wagener K(3), Drillich M(3), Ehling-Schulz M(4).
+
+Author information: 
+(1)Functional Microbiology, Institute for Microbiology, Department of
+Pathobiology, University of Veterinary Medicine Vienna, Vienna, Austria; Clinical
+Unit for Herd Health Management in Ruminants, Department for Farm Animals and
+Veterinary Public Health, University of Veterinary Medicine, Vienna, Austria.
+(2)Institute of Veterinary Biochemistry, Department of Veterinary Medicine, Freie
+Universität Berlin, Berlin, Germany.
+(3)Clinical Unit for Herd Health Management in Ruminants, Department for Farm
+Animals and Veterinary Public Health, University of Veterinary Medicine, Vienna, 
+Austria.
+(4)Functional Microbiology, Institute for Microbiology, Department of
+Pathobiology, University of Veterinary Medicine Vienna, Vienna, Austria.
+Electronic address: Monika.Ehling-Schulz@vetmeduni.ac.at.
+
+Streptococcus uberis is an opportunistic pathogen involved in various infections 
+of cattle. It is a well-known etiological agent of bovine mastitis and has
+recently also been linked to postpartum endometritis in dairy cows. S. uberis is 
+frequently isolated from the uterus of postpartum cows but its actual
+contribution to host pathophysiology is unknown and information on S. uberis
+virulence factors potentially involved in the disease is lacking. To gain first
+insights into the role of S. uberis in the pathology of bovine endometritis, a
+cell-culture-based infection model was employed to study inflammatory host
+responses and investigate cytotoxic effects. A comprehensive strain panel,
+comprising 53 strains previously isolated from bovine uteri, was compiled and
+screened for known virulence factor genes. Isolates showing distinct virulence
+gene patterns were used to study their impact on cellular viability and influence
+on mRNA expression of pro-inflammatory factors in endometrial epithelial cells.
+Our study revealed that S. uberis negatively impacts the viability of endometrial
+epithelial cells and provokes an upregulation of specific pro-inflammatory
+factors, although with certain strains having a greater effect than others.
+Especially, mRNA expression of IL1A and CXCL8 as well as CXCL1/2 and PTGS2 was
+found to be stimulated by S. uberis. These results suggest that S. uberis might
+indeed contribute to the establishment of bovine endometritis.
+
+Copyright © 2020 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.vetmic.2020.108710 
+PMID: 32456828 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that the research was performed without any commercial or financial
+affiliation that could be deemed as a potential conflict of interest.
+

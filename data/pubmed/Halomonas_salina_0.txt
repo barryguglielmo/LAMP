@@ -1,0 +1,43 @@
+
+1. J Biosci Bioeng. 2020 Aug;130(2):200-204. doi: 10.1016/j.jbiosc.2020.04.003. Epub
+2020 May 7.
+
+Primary purification of intracellular Halomonas salina ectoine using ionic
+liquids-based aqueous biphasic system.
+
+Ng HS(1), Wan PK(1), Ng TC(1), Lan JC(2).
+
+Author information: 
+(1)Faculty of Applied Sciences, UCSI University, UCSI Heights, 56000 Cheras,
+Kuala Lumpur, Malaysia.
+(2)Biorefinery and Bioprocessing Engineering Laboratory, Department of Chemical
+Engineering and Materials Science, Yuan Ze University, Chungli, Taoyuan 320,
+Taiwan. Electronic address: lanchiwei@saturn.yzu.edu.tw.
+
+Ectoine is a zwitterionic amino acid derivative that can be naturally sourced
+from halophilic microorganisms. The increasing demands of ectoine in various
+industries have urged the researches on the cost-effective approaches on
+production of ectoine. Ionic liquids-based aqueous biphasic system (ILABS) was
+applied to recover Halomonas salina ectoine from cells hydrolysate. The
+1-butyl-3-methylimidazolium tetrafluoroborate (Bmim)BF4 was used in the ILABS and
+the recovery efficiency of ILABS to recover ectoine from H. salina cells lysate
+was evaluated by determining the effects of phase composition; pHs; crude loading
+and additional neutral salt (NaCl). The hydrophilic ectoine was targeted to
+partition to the hydrophilic salt-rich phase. A total yield (YB) of 96.32% ± 1.08
+of ectoine was obtained with ILABS of phase composition of 20% (w/w) (Bmim)BF4
+and 30% (w/w) sulfate salts; system pH of 5.5 when the 20% (w/w) of crude
+feedstock was applied to the ILABS. There was no significant enhancement on the
+ectoine recovery efficiency using the ILABS when NaCl was added, therefore the
+ILABS composition without the additional neutral salt was recommended for the
+primary purification of ectoine. Partition coefficient (KE) of 30.80 ± 0.42,
+purity (PE) of 95.82% and enrichment factor (Ef) of 1.92 were recorded with the
+optimum (Bmim)BF4/sulfate ILABS. These findings have provided an insight on the
+feasibility of recovery of intracellular biomolecules using the green
+solvent-based aqueous system in one single-step operation.
+
+Copyright © 2020 The Society for Biotechnology, Japan. Published by Elsevier B.V.
+All rights reserved.
+
+DOI: 10.1016/j.jbiosc.2020.04.003 
+PMID: 32389469  [Indexed for MEDLINE]
+

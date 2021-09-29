@@ -1,0 +1,40 @@
+
+1. Aging (Albany NY). 2020 Jan 6;12(1):260-287. doi: 10.18632/aging.102614. Epub
+2020 Jan 6.
+
+CircNF1-419 improves the gut microbiome structure and function in AD-like mice.
+
+Diling C(1), Longkai Q(1), Yinrui G(1), Yadi L(1)(2), Xiaocui T(1), Xiangxiang
+Z(1)(3), Miao Z(1)(4), Ran L(5), Ou S(1), Dongdong W(1), Yizhen X(1), Xujiang
+Y(2), Yang BB(1), Qingping W(1).
+
+Author information: 
+(1)State Key Laboratory of Applied Microbiology Southern China, Guangdong
+Provincial Key Laboratory of Microbial Culture Collection and Application,
+Guangdong Open Laboratory of Applied Microbiology, Guangdong Institute of
+Microbiology, Guangdong Academy of Sciences, Guangzhou 510070, China.
+(2)Guangdong Pharmaceutical University, Guangzhou 510006, China.
+(3)Academy of Life Sciences, Jinan University, Guangdong Province, Guangzhou
+510000, China.
+(4)Chengdu University of Traditional Chinese Medicine, Chengdu 610075, China.
+(5)Department of Physiology, Shantou University Medical College, Shantou 515063, 
+China.
+
+Our pre-experiments found that the brain circRNA sequence profiles and gut
+microbiota in AD-like mice were changed, as circNF1-419 could enhance autophagy
+to ameliorate senile dementia in AD-like mice, so we conclude that there might
+some connections between circRNA and gut microbiome. Therefore, we use the
+over-expressed circNF1-419 adeno-associated virus (AAV) animal system with the
+aim of identifying possible connections. Our results showed that over-expression 
+of circNF1-419 in brain not only influenced the cholinergic system of brain, but 
+also changed the gut microbiota composition as the Candidatus Arthromitus,
+Lachnospiraceae FCS020 group, Lachnospiraceae UCG-006, and [Eubacterium]
+xylanophilum group, and the intestinal homeostasis and physiology, and even the
+gut microbiota trajectory in new born mice. These findings demonstrate a link
+between circRNA and gut microbiome, enlarge the 'microbiome- transcriptome'
+linkage library and provide more information on gut-brain axis.
+
+DOI: 10.18632/aging.102614 
+PMCID: PMC6977659
+PMID: 31905172 
+

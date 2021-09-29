@@ -1,0 +1,56 @@
+
+1. J Biol Chem. 2019 Nov 22;294(47):17915-17930. doi: 10.1074/jbc.RA119.010206. Epub
+2019 Sep 17.
+
+Structural and functional aspects of mannuronic acid-specific PL6 alginate lyase 
+from the human gut microbe Bacteroides cellulosilyticus.
+
+Stender EGP(1), Dybdahl Andersen C(1), Fredslund F(2), Holck J(1), Solberg A(3), 
+Teze D(1), Peters GHJ(4), Christensen BE(3), Aachmann FL(3), Welner DH(2),
+Svensson B(5).
+
+Author information: 
+(1)Department of Biotechnology and Biomedicine, Technical University of Denmark, 
+DK-2800 Kgs. Lyngby, Denmark.
+(2)Novo Nordisk Foundation Center for Biosustainability, Technical University of 
+Denmark, DK-2800 Kgs. Lyngby, Denmark.
+(3)Department of Biotechnology and Food Science, NTNU, Norwegian University of
+Science and Technology, N-7491 Trondheim, Norway.
+(4)Department of Chemistry, Technical University of Denmark, DK-2800 Kgs. Lyngby,
+Denmark.
+(5)Department of Biotechnology and Biomedicine, Technical University of Denmark, 
+DK-2800 Kgs. Lyngby, Denmark bis@bio.dtu.dk.
+
+Alginate is a linear polysaccharide from brown algae consisting of 1,4-linked
+β-d-mannuronic acid (M) and α-l-guluronic acid (G) arranged in M, G, and mixed MG
+blocks. Alginate was assumed to be indigestible in humans, but bacteria isolated 
+from fecal samples can utilize alginate. Moreover, genomes of some human gut
+microbiome-associated bacteria encode putative alginate-degrading enzymes. Here, 
+we genome-mined a polysaccharide lyase family 6 alginate lyase from the gut
+bacterium Bacteroides cellulosilyticus (BcelPL6). The structure of recombinant
+BcelPL6 was solved by X-ray crystallography to 1.3 Å resolution, revealing a
+single-domain, monomeric parallel β-helix containing a 10-step asparagine ladder 
+characteristic of alginate-converting parallel β-helix enzymes. Substitutions of 
+the conserved catalytic site residues Lys-249, Arg-270, and His-271 resulted in
+activity loss. However, imidazole restored the activity of BcelPL6-H271N to 2.5% 
+that of the native enzyme. Molecular docking oriented tetra-mannuronic acid for
+syn attack correlated with M specificity. Using biochemical analyses, we found
+that BcelPL6 initially releases unsaturated oligosaccharides of a degree of
+polymerization of 2-7 from alginate and polyM, which were further degraded to di-
+and trisaccharides. Unlike other PL6 members, BcelPL6 had low activity on polyMG 
+and none on polyG. Surprisingly, polyG increased BcelPL6 activity on alginate
+7-fold. LC-electrospray ionization-MS quantification of products and lack of
+activity on NaBH4-reduced octa-mannuronic acid indicated that BcelPL6 is an
+endolyase that further degrades the oligosaccharide products with an intact
+reducing end. We anticipate that our results advance predictions of the
+specificity and mode of action of PL6 enzymes.
+
+© 2019 Stender et al.
+
+DOI: 10.1074/jbc.RA119.010206 
+PMCID: PMC6879350
+PMID: 31530640  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts
+of interest with the contents of this article.
+

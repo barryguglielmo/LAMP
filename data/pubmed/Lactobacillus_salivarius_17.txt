@@ -1,0 +1,64 @@
+
+1. Front Microbiol. 2020 Jun 26;11:1438. doi: 10.3389/fmicb.2020.01438. eCollection 
+2020.
+
+Antibiotic Resistance-Susceptibility Profiles of Enterococcus faecalis and
+Streptococcus spp. From the Human Vagina, and Genome Analysis of the Genetic
+Basis of Intrinsic and Acquired Resistances.
+
+Sirichoat A(1)(2), Flórez AB(1)(3), Vázquez L(1)(3), Buppasiri P(4), Panya M(5), 
+Lulitanond V(2), Mayo B(1)(3).
+
+Author information: 
+(1)Departamento de Microbiología y Bioquímica, Instituto de Productos Lácteos de 
+Asturias (IPLA-CSIC), Villaviciosa, Spain.
+(2)Department of Microbiology, Research and Diagnostic Center for Emerging
+Infectious Diseases (RCEID), Faculty of Medicine, Khon Kaen University, Khon
+Kaen, Thailand.
+(3)Instituto de Investigación Sanitaria del Principado de Asturias (IISPA),
+Oviedo, Spain.
+(4)Department of Obstetrics and Gynecology, Faculty of Medicine, Khon Kaen
+University, Khon Kaen, Thailand.
+(5)College of Medicine and Public Health, Ubon Ratchathani University, Ubon
+Ratchathani, Thailand.
+
+The spread of antibiotic resistance is a major public health concern worldwide.
+Commensal bacteria from the human genitourinary tract can act as reservoirs of
+resistance genes playing a role in their transfer to pathogens. In this study,
+the minimum inhibitory concentration of 16 antibiotics to 15 isolates from the
+human vagina, identified as Enterococcus faecalis, Streptococcus anginosus, and
+Streptococcus salivarius, was determined. Eight isolates were considered
+resistant to tetracycline, five to clindamycin and quinupristin-dalfopristin, and
+four to rifampicin. To investigate the presence of antimicrobial resistance
+genes, PCR analysis was performed in all isolates, and five were subjected to
+whole-genome sequencing analysis. PCR reactions identified tet(M) in all
+tetracycline-resistant E. faecalis isolates, while both tet(M) and tet(L) were
+found in tetracycline-resistant S. anginosus isolates. The tet(M) gene in E.
+faecalis VA02-2 was carried within an entire copy of the transposon Tn916. In S. 
+anginosus VA01-10AN and VA01-14AN, the tet(M) and tet(L) genes were found
+contiguous with one another and flanked by genes encoding DNA mobilization and
+plasmid replication proteins. Amplification and sequencing suggested the lsaA
+gene to be complete in all E. faecalis isolates resistant to clindamycin and
+quinupristin-dalfopristin, while the gene contain mutations rendering to a
+non-functional LsaA in susceptible isolates. These results were subsequently
+confirmed by genome analysis of clindamycin and quinupristin-dalfopristin
+resistant and susceptible E. faecalis strains. Although a clinical breakpoint to 
+kanamycin for S. salivarius has yet to be established, S. salivarius VA08-2AN
+showed an MIC to this antibiotic of 128 μg mL-1. However, genes involved in
+kanamycin resistance were not identified. Under the assayed conditions, neither
+tet(L) nor tet(M) from either E. faecalis or S. anginosus was transferred by
+conjugation to recipient strains of E. faecalis, Lactococcus lactis, or
+Lactobacillus plantarum. Nonetheless, the tet(L) gene from S. anginosus VA01-10AN
+was amplified by PCR, and cloned and expressed in Escherichia coli, to which it
+provided a resistance of 48-64 μg mL-1 to tetracycline. Our results expand the
+knowledge of the antibiotic resistance-susceptibility profiles of vaginal
+bacteria and provide the genetic basis of their intrinsic and acquired
+resistance.
+
+Copyright © 2020 Sirichoat, Flórez, Vázquez, Buppasiri, Panya, Lulitanond and
+Mayo.
+
+DOI: 10.3389/fmicb.2020.01438 
+PMCID: PMC7333779
+PMID: 32695087 
+

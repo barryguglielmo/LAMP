@@ -1,0 +1,44 @@
+
+1. Eur J Pharmacol. 2020 Sep 28;887:173596. doi: 10.1016/j.ejphar.2020.173596. [Epub
+ahead of print]
+
+Anti-tumor effect of a recombinant Bifidobacterium strain secreting a
+claudin-targeting molecule in a mouse breast cancer model.
+
+Shimizu Y(1), Isoda K(2), Taira Y(2), Taira I(2), Kondoh M(3), Ishida I(2).
+
+Author information: 
+(1)Department of Pharmaceutical Sciences, Teikyo Heisei University, 4-21-2,
+Nakano, Nakano-ku, Tokyo, 164-8530, Japan. Electronic address:
+shimizu-y@thu.ac.jp.
+(2)Department of Pharmaceutical Sciences, Teikyo Heisei University, 4-21-2,
+Nakano, Nakano-ku, Tokyo, 164-8530, Japan.
+(3)Graduate School of Pharmaceutical Sciences, Osaka University, 1-6 Yamadaoka,
+Suita, Osaka, 565-0871, Japan.
+
+Bifidobacterium is a nonpathogenic strain of anaerobic bacteria that selectively 
+localizes and proliferates in tumors. It has emerged as a specific carrier of
+anticancer proteins against malignant tumors. Claudins are tetraspanin
+transmembrane proteins that form tight junctions. Claudin-4 is overexpressed in
+certain epithelial malignant cancers. The C-terminal fragment of the Clostridium 
+perfringens enterotoxin (C-CPE), an exotoxin without the cytotoxic domain,
+strongly binds to claudin-4. The C-CPE fusion toxin (C-CPE-PE23), which targets
+claudin-4, strongly suppresses tumor growth; however, C-CPE fusion toxins exhibit
+hepatic toxicity. In this study, we successfully generated a strain of
+Bifidobacterium longum that secreted C-CPE-PE23 (B. longum-C-CPE-PE23) and was
+specific to and cross reactive with human and mouse claudin-4. We evaluated the
+therapeutic potential of this strain against triple-negative breast cancer using 
+a mouse model. C-CPE-PE23 decreased cell viability in a dose-dependent manner in 
+human and mouse breast cancer cell lines. After intravenous injection,
+Bifidobacterium was specifically distributed in the tumors of mice bearing breast
+cancer tumors. Moreover, B. longum-C-CPE-PE23 significantly suppressed tumor
+growth in mice with breast cancer without serious side effects, such as weight
+loss or hepatic and renal damage. We suggest that B. longum-C-CPE-PE23 is a good 
+candidate for breast cancer treatment. Bifidobacterium could also be used as a
+drug delivery system for hepatotoxic agents.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ejphar.2020.173596 
+PMID: 32979353 
+

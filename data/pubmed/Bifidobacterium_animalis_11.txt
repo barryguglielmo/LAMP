@@ -1,0 +1,35 @@
+
+1. Front Microbiol. 2020 Jul 28;11:1811. doi: 10.3389/fmicb.2020.01811. eCollection 
+2020.
+
+Optimization of Viability Treatment Essential for Accurate Droplet Digital PCR
+Enumeration of Probiotics.
+
+Kiefer A(1), Tang P(1), Arndt S(1), Fallico V(1), Wong C(1).
+
+Author information: 
+(1)DuPont Nutrition & Biosciences, Madison, WI, United States.
+
+Improvements offered by viability droplet digital PCR (v-ddPCR) include increased
+precision, specificity and decreased time to results making for an attractive
+alternative method to traditional plate count enumeration of probiotic products. 
+A major hurdle faced in v-ddPCR, however, is distinguishing between live and dead
+cells. The objective of this study was to evaluate a combination of PMA and EMA
+(PE51) for viability treatment of freeze-dried probiotic powders. Lactobacillus
+acidophilus La-14 and Bifidobacterium animalis subsp. lactis Bi-07 were analyzed 
+over a 2-log PE51 concentration gradient to investigate the efficiency across
+genus and assay targets. Results suggest a need to optimize viability dye
+concentration based on the genera of the organism, but also the assay target,
+even when analyzing the same organism. When optimized for PE51 concentration,
+strain specific v-ddPCR assays for both La-14 and Bi-07 were demonstrated to
+agree with plate count enumeration results. In conclusion, while these v-ddPCR
+assays require highly specific optimization, they are better suited for the
+future of the probiotic industry and are suggested to be implemented in probiotic
+product testing.
+
+Copyright © 2020 Kiefer, Tang, Arndt, Fallico and Wong.
+
+DOI: 10.3389/fmicb.2020.01811 
+PMCID: PMC7399075
+PMID: 32849418 
+

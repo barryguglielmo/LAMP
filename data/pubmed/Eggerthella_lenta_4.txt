@@ -1,0 +1,63 @@
+
+1. J Am Soc Nephrol. 2020 Jun;31(6):1358-1369. doi: 10.1681/ASN.2019101131. Epub
+2020 May 7.
+
+Perturbations of the Gut Microbiome and Metabolome in Children with Calcium
+Oxalate Kidney Stone Disease.
+
+Denburg MR(1)(2)(3), Koepsell K(4), Lee JJ(5), Gerber J(3)(6), Bittinger K(5),
+Tasian GE(7)(3)(4).
+
+Author information: 
+(1)Division of Nephrology, Department of Pediatrics, The Children's Hospital of
+Philadelphia, Perelman School of Medicine at the University of Pennsylvania,
+Philadelphia, Pennsylvania.
+(2)Department of Biostatistics, Epidemiology, and Informatics, Perelman School of
+Medicine at the University of Pennsylvania, Philadelphia, Pennsylvania.
+(3)Center for Pediatric Clinical Effectiveness, The Children's Hospital of
+Philadelphia, Philadelphia, Pennsylvania.
+(4)Division of Pediatric Urology, Department of Surgery, The Children's Hospital 
+of Philadelphia, Philadelphia, Pennsylvania.
+(5)Division of Gastroenterology, Department of Pediatrics, Hepatology, and
+Nutrition, The Children's Hospital of Philadelphia, Philadelphia, Pennsylvania.
+(6)Division of Infectious Diseases, Department of Pediatrics, The Children's
+Hospital of Philadelphia, Perelman School of Medicine at the University of
+Pennsylvania, Philadelphia, Pennsylvania.
+(7)Department of Biostatistics, Epidemiology, and Informatics, Perelman School of
+Medicine at the University of Pennsylvania, Philadelphia, Pennsylvania
+tasiang@chop.edu.
+
+BACKGROUND: The relationship between the composition and function of gut
+microbial communities and early-onset calcium oxalate kidney stone disease is
+unknown.
+METHODS: We conducted a case-control study of 88 individuals aged 4-18 years,
+which included 44 individuals with kidney stones containing ≥50% calcium oxalate 
+and 44 controls matched for age, sex, and race. Shotgun metagenomic sequencing
+and untargeted metabolomics were performed on stool samples.
+RESULTS: Participants who were kidney stone formers had a significantly less
+diverse gut microbiome compared with controls. Among bacterial taxa with a
+prevalence >0.1%, 31 taxa were less abundant among individuals with
+nephrolithiasis. These included seven taxa that produce butyrate and three taxa
+that degrade oxalate. The lower abundance of these bacteria was reflected in
+decreased abundance of the gene encoding butyryl-coA dehydrogenase (P=0.02). The 
+relative abundance of these bacteria was correlated with the levels of 18 fecal
+metabolites, and levels of these metabolites differed in individuals with kidney 
+stones compared with controls. The oxalate-degrading bacterial taxa identified as
+decreased in those who were kidney stone formers were components of a larger
+abundance correlation network that included Eggerthella lenta and several
+Lactobacillus species. The microbial (α) diversity was associated with age of
+stone onset, first decreasing and then increasing with age. For the individuals
+who were stone formers, we found the lowest α diversity among individuals who
+first formed stones at age 9-14 years, whereas controls displayed no age-related 
+differences in diversity.
+CONCLUSIONS: Loss of gut bacteria, particularly loss of those that produce
+butyrate and degrade oxalate, associates with perturbations of the metabolome
+that may be upstream determinants of early-onset calcium oxalate kidney stone
+disease.
+
+Copyright © 2020 by the American Society of Nephrology.
+
+DOI: 10.1681/ASN.2019101131 
+PMCID: PMC7269359 [Available on 2021-06-01]
+PMID: 32381601 
+

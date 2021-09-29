@@ -1,0 +1,39 @@
+
+1. Vet Ophthalmol. 2020 Mar;23(2):252-258. doi: 10.1111/vop.12714. Epub 2019 Sep 30.
+
+Streptococcus canis multilocus sequence typing in a case series of dogs with
+ulcerative keratitis.
+
+Enache AE(1), Mitchell C(1), Kafarnik C(1), Waller AS(1).
+
+Author information: 
+(1)Animal Health Trust, Newmarket, UK.
+
+OBJECTIVE: To determine whether four isolates of Streptococcus canis (S canis)
+recovered from dogs diagnosed with ulcerative keratitis at the Animal Health
+Trust (AHT) were genetically related to other ocular isolates that are registered
+in the online database.
+ANIMAL STUDIED: Four S canis corneal isolates.
+PROCEDURES: Clinical and laboratory records between 2016 and 2017 were searched
+for dogs with ulcerative keratitis for which microbiology analysis was consistent
+with the growth of S canis. Genomic DNA was extracted for sequencing (Illumina
+MiSeq), and multilocus sequence types (STs) were determined using MLST 1.8
+relative to the 44 sequence types of S canis available. A neighbor-joining tree
+was constructed in MEGA v4.0. A two-sided Fisher's exact test was used to
+determine any associations between the isolated strains and ocular infections of 
+dogs.
+RESULTS: Four strains were isolated from pugs (cases 1-4) with ulcerative
+keratitis. Genome sequencing identified ST-27 (case 1), ST-9 (case 3), and ST-13 
+(cases 2 and 4). STs 13 and 27 are members of Clonal Complex (CC)-13. Analysis of
+the multilocus sequence typing database revealed that CC-13 strains accounted for
+six of the twelve isolates recovered from the eye exudates of dogs (P = .0078).
+CONCLUSIONS: There is early evidence that the CC-13 group of S canis is
+associated with ocular infections in dogs. We provide draft genome sequences
+toward the future identification of virulence mechanisms associated with
+streptococcal keratitis in dogs.
+
+© 2019 American College of Veterinary Ophthalmologists.
+
+DOI: 10.1111/vop.12714 
+PMID: 31566875 
+

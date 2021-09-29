@@ -1,0 +1,44 @@
+
+1. ACS Synth Biol. 2020 Apr 17;9(4):883-892. doi: 10.1021/acssynbio.9b00515. Epub
+2020 Mar 26.
+
+Designing an Artificial Pathway for the Biosynthesis of a Novel Phenazine N-Oxide
+in Pseudomonas chlororaphis HT66.
+
+Guo S(1), Liu R(1), Wang W(1), Hu H(1)(2), Li Z(1), Zhang X(1).
+
+Author information: 
+(1)State Key Laboratory of Microbial Metabolism, School of Life Sciences and
+Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.
+(2)National Experimental Teaching Center for Life Sciences and Biotechnology,
+Shanghai Jiao Tong University, Shanghai 200240, China.
+
+Aromatic N-oxides are valuable due to their versatile chemical, pharmaceutical,
+and agricultural applications. Natural phenazine N-oxides possess potent
+biological activities and can be applied in many ways; however, few N-oxides have
+been identified. Herein, we developed a microbial system to synthesize phenazine 
+N-oxides via an artificial pathway. First, the N-monooxygenase NaphzNO1 was
+predicted and screened in Nocardiopsis sp. 13-12-13 through a product comparison 
+and gene sequencing. Subsequently, according to similarities in the chemical
+structures of substrates, an artificial pathway for the synthesis of a phenazine 
+N-oxide in Pseudomonas chlororaphis HT66 was designed and established using three
+heterologous enzymes, a monooxygenase (PhzS) from P. aeruginosa PAO1, a
+monooxygenase (PhzO) from P. chlororaphis GP72, and the N-monooxygenase NaphzNO1.
+A novel phenazine derivative, 1-hydroxyphenazine N'10-oxide, was obtained in an
+engineered strain, P. chlororaphis HT66-SN. The phenazine N-monooxygenase
+NaphzNO1 was identified by metabolically engineering the phenazine-producing
+platform P. chlororaphis HT66. Moreover, the function of NaphzNO1, which can
+catalyze the conversion of 1-hydroxyphenazine but not that of 2-hydroxyphenazine,
+was confirmed in vitro. Additionally, 1-hydroxyphenazine N'10-oxide demonstrated 
+substantial cytotoxic activity against two human cancer cell lines, MCF-7 and
+HT-29. Furthermore, the highest microbial production of 1-hydroxyphenazine
+N'10-oxide to date was achieved at 143.4 mg/L in the metabolically engineered
+strain P3-SN. These findings demonstrate that P. chlororaphis HT66 has the
+potential to be engineered as a platform for phenazine-modifying gene
+identification and derivative production. The present study also provides a
+promising alternative for the sustainable synthesis of aromatic N-oxides with
+unique chemical structures by N-monooxygenase.
+
+DOI: 10.1021/acssynbio.9b00515 
+PMID: 32197042 
+

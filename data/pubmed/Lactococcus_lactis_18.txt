@@ -1,0 +1,54 @@
+
+1. Front Microbiol. 2020 Aug 13;11:1805. doi: 10.3389/fmicb.2020.01805. eCollection 
+2020.
+
+Mutations Selected After Exposure to Bacteriocin Lcn972 Activate a Bce-Like
+Bacitracin Resistance Module in Lactococcus lactis.
+
+Campelo AB(1), López-González MJ(1)(2), Escobedo S(1)(2), Janzen T(3), Neves
+AR(3), Rodríguez A(1)(2), Martínez B(1)(2).
+
+Author information: 
+(1)DairySafe group, Department of Technology and Biotechnology of Dairy Products,
+Instituto de Productos Lácteos de Asturias (IPLA), Consejo Superior de
+Investigaciones Científicas (CSIC), Villaviciosa, Spain.
+(2)Instituto de Investigación Sanitaria del Principado de Asturias (ISPA),
+Oviedo, Spain.
+(3)Chr. Hansen A/S, Hørsholm, Denmark.
+
+Resistance against antimicrobial peptides (AMPs) is often mediated by
+detoxification modules that rely on sensing the AMP through a BceAB-like
+ATP-binding cassette (ABC) transporter that subsequently activates a cognate
+two-component system (TCS) to mount the cell response. Here, the Lactococcus
+lactis ABC transporter YsaDCB is shown to constitute, together with TCS-G, a
+detoxification module that protects L. lactis against bacitracin and the
+bacteriocin Lcn972, both AMPs that inhibit cell wall biosynthesis. Initially,
+increased expression of ysaDCB was detected by RT-qPCR in three L. lactis
+resistant to Lcn972, two of which were also resistant to bacitracin. These
+mutants shared, among others, single-point mutations in ysaB coding for the
+putative Bce-like permease. These results led us to investigate the function of
+YsaDCB ABC-transporter and study the impact of these mutations. Expression in
+trans of ysaDCB in L. lactis NZ9000, a strain that lacks a functional
+detoxification module, enhanced resistance to both AMPs, demonstrating its role
+as a resistance factor in L. lactis. When the three different ysaB alleles from
+the mutants were expressed, all of them outperformed the wild-type transporter in
+resistance against Lcn972 but not against bacitracin, suggesting a distinct mode 
+of protection against each AMP. Moreover, P ysaD promoter fusions, designed to
+measure the activation of the detoxification module, revealed that the ysaB
+mutations unlock transcriptional control by TCS-G, resulting in constitutive
+expression of the ysaDCB operon. Finally, deletion of ysaD was also performed to 
+get an insight into the function of this gene. ysaD encodes a secreted peptide
+and is part of the ysaDCB operon. YsaD appears to modulate signal relay between
+the ABC transporter and TCS-G, based on the different response of the P ysaD
+promoter fusions when it is not present. Altogether, the results underscore the
+unique features of this lactococcal detoxification module that warrant further
+research to advance in our overall understanding of these important resistance
+factors in bacteria.
+
+Copyright © 2020 Campelo, López-González, Escobedo, Janzen, Neves, Rodríguez and 
+Martínez.
+
+DOI: 10.3389/fmicb.2020.01805 
+PMCID: PMC7438565
+PMID: 32903467 
+

@@ -1,0 +1,55 @@
+
+1. Infect Drug Resist. 2020 Feb 20;13:597-605. doi: 10.2147/IDR.S232514. eCollection
+2020.
+
+Carbapenem-Resistant Enterobacter hormaechei ST1103 with IMP-26 Carbapenemase and
+ESBL Gene bla SHV-178.
+
+Gou JJ(#)(1), Liu N(#)(1)(2), Guo LH(2), Xu H(2), Lv T(2), Yu X(2), Chen YB(2),
+Guo XB(1), Rao YT(1), Zheng BW(2).
+
+Author information: 
+(1)Department of Laboratory Medicine, The First Affiliated Hospital of Zhengzhou 
+University, Zhengzhou 450052, People's Republic of China.
+(2)Collaborative Innovation Center for Diagnosis and Treatment of Infectious
+Diseases, State Key Laboratory for Diagnosis and Treatment of Infectious
+Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang
+University, Hangzhou 310003, People's Republic of China.
+(#)Contributed equally
+
+Purpose: To investigate the occurrence and genetic characteristics of the bla
+IMP-26-positive plasmid from a multidrug-resistant clinical isolate, Enterobacter
+hormaechei L51.
+Methods: Species identification was determined by MALDI-TOF MS and Sanger
+sequencing. Antimicrobial susceptibility testing was performed by the agar
+dilution and broth microdilution. Whole-genome sequencing was conducted using
+Illumina HiSeq 4000-PE150 and PacBio Sequel platforms, and the genome was
+annotated by the RAST annotation server. The ANI analysis of genomes was
+performed using OAT. Phylogenetic reconstruction and analyses were performed
+using the Harvest suite based on the core-genome SNPs of 61 publicly available E.
+hormaechei genomes.
+Results: The E. hormaechei L51 genome consists of a 5,018,729 bp circular
+chromosome and a 343,918 bp conjugative IncHI2/2A plasmid pEHZJ1 encoding bla
+IMP-26 which surrounding genetic context was intI1-bla IMP-26-ltrA-qacE∆1-sul1. A
+new sequence type (ST1103) was assigned for the isolate L51 which was resistant
+to cephalosporins, carbapenems, but sensitive to piperacillin-tazobactam,
+amikacin, tigecycline, trimethoprim-sulfamethoxazole and colistin. Phylogenetic
+analysis demonstrated that E. hormaechei L51 belonged to the same subspecies as
+the reference strain E. hormaechei SCEH020042, however 18,248 divergent SNP were 
+identified. Resistance genes in pEHZJ1 including aac(3)-IIc, aac(6') -IIc, bla
+SHV-178, bla DHA-1, bla TEM-1, bla IMP-26, ereA2, catII, fosA5, qnrB4, tet(D),
+sul1 and dfrA19.
+Conclusion: In our study, we identified a conjugative IncHI2/2A plasmid carrying 
+bla IMP-26 and bla SHV-178 in E. hormaechei ST1103, a novel multidrug-resistant
+strain isolated from China, and describe the underlying resistance mechanisms of 
+the strain and detailed genetic context of mega plasmid pEHZJ1.
+
+© 2020 Gou et al.
+
+DOI: 10.2147/IDR.S232514 
+PMCID: PMC7039083
+PMID: 32110070 
+
+Conflict of interest statement: The authors report no conflicts of interest in
+this work.
+

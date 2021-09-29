@@ -1,0 +1,51 @@
+
+1. Pediatr Infect Dis J. 2020 Apr;39(4):318-324. doi: 10.1097/INF.0000000000002579.
+
+Enterococcal Bacteremia in Children With Malignancies and Following Hematopoietic
+Stem Cell Transplantation: A 15-Year Single-Center Experience.
+
+Friedman G(1)(2), Stepensky P(3), Abu Ahmad W(4), Masarwa R(5), Temper V(6),
+Oster Y(6), Amit S(6), Averbuch D(1)(2).
+
+Author information: 
+(1)From the Pediatric Infectious Diseases.
+(2)Pediatric Department.
+(3)Stem Cell Transplantation Department.
+(4)Braun School of Public Health and Community Medicine.
+(5)Division of Clinical Pharmacy, School of Pharmacy.
+(6)Department of Clinical Microbiology and Infectious Diseases, Hadassah Hebrew
+University Medical Center, Jerusalem, Israel.
+
+BACKGROUND: Data on enterococcal bacteremia (EB) in immunocompromised children
+are scarce. We aimed to describe EB in children with hematologic malignancies
+(HM), solid tumors and/or following allogeneic hematopoietic stem cell
+transplantation (HSCT) and analyze their ampicillin and vancomycin resistance.
+METHODS: We conducted an observational retrospective study in the tertiary-care
+Hadassah University Medical Center (2001-2015). We collected demographic,
+clinical and laboratory data on EB and compared ampicillin and vancomycin
+sensitive with resistant episodes.
+RESULTS: Fifty-six of 1123 children developed 74 episodes of EB; 62.1%
+Enterococcus faecium, 36.5% Enterococcus faecalis; and 1.4% Enterococcus
+gallinarum. EB developed in 12.1% of HSCT patients, 5.1% of HM, 6.3% of
+neuroblastoma and 1.0% of other solid tumors patients. Of these episodes, 85.1%
+were nosocomial, and 71.6% developed while on antibiotic therapy. Resistance
+rates were: to ampicillin, 57.6%; to vancomycin (vancomycin-resistant
+enterococci), 21.6%; and higher rates among E. faecium. Among
+vancomycin-resistant enterococci, 1 of 16 was linezolid and 2 of 10 daptomycin
+resistant. Overall 7- and 30-day mortality rates were 2.7% and 5.4%,
+respectively. Thirty-day mortality was 18.2% in recurrent episodes and 0% in the 
+first-time EB episodes (P = 0.006). In multivariate analysis, high treatment
+intensity was associated with ampicillin resistance [odds ratio (OR) = 3.18, 95% 
+confidence interval (CI): 1.31-9.12], prior penicillin exposure (OR = 7.50, 95%
+CI: 1.41-39.81) and breakthrough on vancomycin (OR = 18.83, 95% CI: 3.31-101.14) 
+with vancomycin resistance.
+CONCLUSIONS: EB occurs mainly as a nosocomial infection in children receiving
+high-intensity chemotherapy, especially in those with neuroblastoma, HM and
+following HSCT. Antibiotic resistance is common. Vancomycin resistance can occur 
+regardless of previous vancomycin use. Prognosis in immunocompromised children
+with EB is better than previously reported. Recurrent EB is associated with
+increased mortality.
+
+DOI: 10.1097/INF.0000000000002579 
+PMID: 31990889 
+

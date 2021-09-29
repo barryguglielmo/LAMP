@@ -1,0 +1,50 @@
+
+1. Dev Comp Immunol. 2020 Dec;113:103779. doi: 10.1016/j.dci.2020.103779. Epub 2020 
+Jul 29.
+
+The immune response of a warm water fish orange-spotted grouper (Epinephelus
+coioides) infected with a typical cold water bacterial pathogen Aeromonas
+salmonicida is AhR dependent.
+
+Huang L(1), Qi W(2), Zuo Y(2), Alias SA(3), Xu W(4).
+
+Author information: 
+(1)Fisheries College, Fujian Engineering Research Center of Aquatic Breeding and 
+Healthy Aquaculture, Jimei University, Xiamen, Fujian, PR China. Electronic
+address: lixinghuang@outlook.com.
+(2)Fisheries College, Key Laboratory of Healthy Mariculture for the East China
+Sea, Ministry of Agriculture, Jimei University, Xiamen, Fujian, PR China.
+(3)Institute of Ocean and Earth Science (IOES), C308, Institute of Postgraduate
+Studies Building, University of Malaya, 50603, Kuala Lumpur, Malaysia.
+(4)Third Institute of Oceanography, Ministry of Natural Resources, Xiamen,
+361005, PR China. Electronic address: xuwei@tio.org.cn.
+
+The present study reported the first pathogenic Aeromonas salmonicida (SRW-OG1)
+isolated from the warm water fish orange-spotted grouper (Epinephelus coioides), 
+and investigated the function of Aryl hydrocarbon receptor (AhR), a
+ligand-dependent transcriptional factor which has been recently found to be
+closely associated with immune response in mammals and E. coioides. Our results
+showed that AhR was activated by an unknown ligand in the spleen, intestine and
+macrophages. Meanwhile, ahr1a and ahr1b were significantly increased in the
+spleen, intestine and macrophages, whereas ahr2 was only increased in the
+intestine, which indicated that the contribution of AhR2 to the immune response
+may be less than that of AhR1a and AhR1b. Some key genes involved in the
+macrophage inflammatory response, bacterial recognition, and intestinal immunity 
+were significantly up-regulated in the SRW-OG1 infected E. coioides.
+Nevertheless, declining macrophage ROS production and down-regulation of related 
+genes were also observed, suggesting that SRW-OG1 utilized its virulence
+mechanisms to prevent macrophage ROS production. Furthermore, AhR inhibitor 3',
+4'-DMF and the silence of ahr1a or ahr1b significantly rescued the increased
+IL-1β and IL-8 induced by SRW-OG1 infection, which proved that the induction of
+IL-1β and IL-8 in E. coioides macrophages was mediated by AhR. However, BPI/LBP, 
+ROS production and related genes were not affected by AhR. The survival rate and 
+immune escape rate of SRW-OG1 in the ahr1a/ahr1b knocked-down and 3', 4'-DMF
+treated macrophages were significantly increased compared with those in wild type
+macrophages. Taken together, it was preliminarily confirmed that ahr1a and ahr1b 
+played an important role in the immune response against A. salmonicida SRW-OG1.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.dci.2020.103779 
+PMID: 32735958 
+

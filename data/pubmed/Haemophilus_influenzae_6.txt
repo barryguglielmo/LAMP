@@ -1,0 +1,48 @@
+
+1. Front Microbiol. 2020 Aug 31;11:558482. doi: 10.3389/fmicb.2020.558482.
+eCollection 2020.
+
+In vitro Photodynamic Therapy of Polymicrobial Biofilms Commonly Associated With 
+Otitis Media.
+
+Bair KL(1), Shafirstein G(2), Campagnari AA(1)(3).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Jacobs School of Medicine,
+University at Buffalo, State University of New York, Buffalo, NY, United States.
+(2)Department of Cell Stress Biology, Photodynamic Therapy Center, Roswell Park
+Comprehensive Cancer Center, Buffalo, NY, United States.
+(3)The Witebsky Center for Microbial Pathogenesis and Immunology, University at
+Buffalo, State University of New York, Buffalo, NY, United States.
+
+Otitis media (OM) is a prevalent pediatric infection characterized by painful
+inflammation of the middle ear. There are more than 700 million cases of OM
+diagnosed globally each year, with 50% of affected children under 5 years of age.
+Further, OM is the most common reason for children to receive antibiotic
+treatment in developed countries. The most recent work on this dynamic disease
+indicates that biofilms and polymicrobial infections play a role in recurrent OM 
+and chronic OM, which are difficult to eradicate using standard antibiotic
+protocols. Antimicrobial photodynamic therapy (aPDT) is a promising new strategy 
+for the treatment of resistant bacteria and persistent biofilms which lead to
+chronic infections. While PDT continues to be successfully used for oncological, 
+dermatological, and dental applications, our work focuses on the efficacy of aPDT
+as it relates to otopathogens responsible for OM. Previous studies from our
+laboratory and others have shown that non-typeable Haemophilus influenzae,
+Streptococcus pneumoniae and Moraxella catarrhalis, the three most common
+otopathogens, are susceptible to different forms of aPDT. However, many cases of 
+OM involve multiple bacteria and to date no one has investigated the efficacy of 
+this technology on these complex polymicrobial biofilms. We treated polymicrobial
+biofilms of the three most common otopathogens with the photosensitizer Chlorin
+e6 (Ce6) and a continuous wave 405 ± 10 nm light emitted diode. Our data show
+significant bactericidal activity on polymicrobial biofilms associated with OM.
+These studies indicate that aPDT warrants further analysis as a possible
+treatment for OM and our results provide the foundation for future studies
+designed to identify the optimal aPDT parameters for polymicrobial
+biofilm-associated infections of the middle ear.
+
+Copyright © 2020 Bair, Shafirstein and Campagnari.
+
+DOI: 10.3389/fmicb.2020.558482 
+PMCID: PMC7487423
+PMID: 32983076 
+

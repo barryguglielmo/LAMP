@@ -1,0 +1,38 @@
+
+1. Front Bioeng Biotechnol. 2020 Sep 2;8:1034. doi: 10.3389/fbioe.2020.01034.
+eCollection 2020.
+
+Directed Evolution of Pseudomonas fluorescens Lipase Variants With Improved
+Thermostability Using Error-Prone PCR.
+
+Guan L(1), Gao Y(1), Li J(1), Wang K(1), Zhang Z(1), Yan S(1), Ji N(1), Zhou
+Y(1), Lu S(1).
+
+Author information: 
+(1)Institute of Food Processing, Heilongjiang Academy of Sciences, Harbin, China.
+
+Lipases catalyze the hydrolysis of fats and oils, and have been widely used in
+various industrial fields. However, bacterial lipases have a lower
+thermostability in industrial processes, which was a limiting factor in their
+industrial application. In this study, we obtained an improve variant of
+Pseudomonas fluorescens lipase (PFL) with enhanced thermostability using
+classical error-prone PCR. Wild-type PFL showed an optimal temperature and pH of 
+50°C and pH 7.5, respectively. Due to the low thermostability of PFL, a library
+containing over 3000 individual mutants as constructed using error-prone PCR.
+Screening for thermotolerance yielded the mutants L218P and P184C/M243C with T m 
+values of 62.5 and 66.0°C, which was 2.5 and 6°C higher than that of the WT,
+respectively. The combination of the two mutants (P184C/M243C/L218P) resulted in 
+an approximately additive effect with a T m value of 68.0°C. Although the
+increase of T m was not substantial, the mutant also had dramatically increased
+methanol tolerance. Structural analysis revealed that the introduction of a
+disulfide bond between P184C and M243C and the substitution of Pro to reduce the 
+flexibility of a loop increased the thermostability of PFL, which provides a
+theoretical foundation for improving the thermostability and methanol tolerance
+of lipase family I.1 to resist the harsh conditions of industrial processes.
+
+Copyright © 2020 Guan, Gao, Li, Wang, Zhang, Yan, Ji, Zhou and Lu.
+
+DOI: 10.3389/fbioe.2020.01034 
+PMCID: PMC7492553
+PMID: 32984290 
+

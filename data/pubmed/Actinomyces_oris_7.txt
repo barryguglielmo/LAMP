@@ -1,0 +1,35 @@
+
+1. Acta Crystallogr F Struct Biol Commun. 2020 Jan 1;76(Pt 1):8-13. doi:
+10.1107/S2053230X1901642X. Epub 2020 Jan 1.
+
+The adhesive PitA pilus protein from the early dental plaque colonizer
+Streptococcus oralis: expression, purification, crystallization and X-ray
+diffraction analysis.
+
+Kumari Yadav R(1), Krishnan V(1).
+
+Author information: 
+(1)Laboratory of Structural Microbiology, Regional Centre for Biotechnology, NCR 
+Biotech Science Cluster, Faridabad 121 001, India.
+
+PitA is the putative tip adhesin of the pilus islet 2 (PI-2)-encoded
+sortase-dependent pilus in the Gram-positive Streptococcus oralis, an
+opportunistic pathogen that often flourishes within the diseased human oral
+cavity. Early colonization by S. oralis and its interaction with Actinomyces oris
+seeds the development of oral biofilm or dental plaque. Here, the PI-2 pilus
+plays a vital role in mediating adherence to host surfaces and other bacteria. A 
+recombinant form of the PitA adhesin has now been produced and crystallized.
+Owing to the large size (∼100 kDa), flexibility and complicated folding of PitA, 
+obtaining diffraction-quality crystals has been a challenge. However, by the use 
+of limited proteolysis with α-chymotrypsin, the diffraction quality of the PitA
+crystals was considerably enhanced to 2.16 Å resolution. These crystals belonged 
+to space group P1, with unit-cell parameters a = 61.48, b = 70.87, c = 82.46 Å, α
+= 80.08, β = 87.02, γ = 87.70°. The anomalous signal from the terbium derivative 
+of α-chymotrypsin-treated PitA crystals prepared with terbium crystallophore
+(Tb-Xo4) was sufficient to obtain an interpretable electron-density map via
+terbium SAD phasing.
+
+DOI: 10.1107/S2053230X1901642X 
+PMCID: PMC6957113 [Available on 2022-01-01]
+PMID: 31929180  [Indexed for MEDLINE]
+

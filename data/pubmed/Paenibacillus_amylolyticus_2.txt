@@ -1,0 +1,58 @@
+
+1. Microb Pathog. 2020 Jun;143:104118. doi: 10.1016/j.micpath.2020.104118. Epub 2020
+Mar 6.
+
+Microbial radiosensitization using combined treatments of essential oils and
+irradiation- part B: Comparison between gamma-ray and X-ray at different dose
+rates.
+
+Shankar S(1), Follett P(2), Ayari S(3), Hossain F(1), Salmieri S(1), Lacroix
+M(4).
+
+Author information: 
+(1)Research Laboratories in Sciences Applied to Food, Canadian Irradiation
+Center, INRS-Institute Armand-Frappier, 531, Boulevard des Prairies, Laval,
+Quebec, H7V 1B7, Canada.
+(2)United States Department of Agriculture, Agricultural Research Service, U.S.
+Pacific Basin Agricultural Research Center, 64 Nowelo Street, Hilo, HI, 96720,
+USA.
+(3)Research Laboratories in Sciences Applied to Food, Canadian Irradiation
+Center, INRS-Institute Armand-Frappier, 531, Boulevard des Prairies, Laval,
+Quebec, H7V 1B7, Canada; National Center for Nuclear Sciences and Technologies
+(CNSTN), Tunis Cedex, 2020, Tunisia.
+(4)Research Laboratories in Sciences Applied to Food, Canadian Irradiation
+Center, INRS-Institute Armand-Frappier, 531, Boulevard des Prairies, Laval,
+Quebec, H7V 1B7, Canada. Electronic address: Monique.Lacroix@iaf.inrs.ca.
+
+Stored rice and rice products are prone to contamination by pathogenic fungi and 
+bacteria such as Aspergillus niger, Bacillus cereus, and Paenibacillus
+amylolyticus. Treatment with antimicrobial essential oils (EOs) and irradiation
+are options to control spoilage organisms. Microbial samples with or without
+fumigation with an oregano/thyme EO mixture were irradiated at 0.5, 0.75, 1.0,
+1.5, 2.0, 2.5, 3.0 and 3.5 kGy for calculation of a D10 value. The relative
+sensitivity was calculated as the ratio of D10 values for the irradiation plus
+oregano and thyme EO combination and irradiation alone treatments. In all cases, 
+irradiation plus fumigation with the oregano and thyme EO mixture showed
+increased efficacy compared with irradiation alone. The relative sensitivity of
+γ-ray irradiation against A. niger was 1.22, 1.33, and 1.24 for radiation dose
+rates of 10.445, 4.558, and 0.085 kGy/h, respectively, however against B. cereus 
+it was 1.28, 1.45, and 1.49, and against P. amylolyticus it was 1.35, 1.33, and
+1.38, for respective γ-ray irradiation dose rates. The relative sensitivity of
+X-ray irradiation against A. niger, B. cereus, and P. amylolyticus was 1.63,
+1.21, and 1.31, respectively, at the X-ray dose rate of 0.76 kGy/h. The results
+showed that the relative sensitivity of γ-ray irradiation was higher against the 
+two bacteria than the fungus, whereas X-ray showed higher sensitivity against the
+fungus than the two bacteria. There was no consistent positive or negative
+relationship between dose rate and relative sensitivity. The results demonstrated
+the potential of an oregano and thyme EOs mixture as an antimicrobial agent and
+its efficacy to increase the radiosensitization of A. niger, B. cereus, and P.
+amylolyticus during γ-ray or X-ray irradiation treatments.
+
+Published by Elsevier Ltd.
+
+DOI: 10.1016/j.micpath.2020.104118 
+PMID: 32147410 
+
+Conflict of interest statement: Declaration of competing interest There is no
+conflict of interest.
+

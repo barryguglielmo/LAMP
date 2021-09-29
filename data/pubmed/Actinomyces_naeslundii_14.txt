@@ -1,0 +1,44 @@
+
+1. Microorganisms. 2020 Jan 31;8(2). pii: E194. doi: 10.3390/microorganisms8020194.
+
+Streptococcus mutans and Actinomyces naeslundii Interaction in Dual-Species
+Biofilm.
+
+de Oliveira RVD(1), Bonafé FSS(1), Spolidorio DMP(1), Koga-Ito CY(2), Farias
+AL(1), Kirker KR(3), James GA(3), Brighenti FL(1).
+
+Author information: 
+(1)School of Dentistry, São Paulo State University (UNESP), Araraquara, SP
+14801-385, Brazil.
+(2)São José dos Campos Institute of Science and Technology, São Paulo State
+University (UNESP), São José dos Campos, SP 12245-000, Brazil.
+(3)Centre for Biofilm Engineering, Montana State University, Bozeman, MT 59717,
+USA.
+
+The study of bacterial interaction between Streptococcus mutans and Actinomyces
+naeslundii may disclose important features of biofilm interspecies relationships.
+The aim of this study was to characterize-with an emphasis on biofilm formation
+and composition and metabolic activity-single- and dual-species biofilms of S.
+mutans or A. naeslundii, and to use a drip flow reactor (DFR) to evaluate biofilm
+stress responses to 0.2% chlorhexidine diacetate (CHX). Single- and dual-species 
+biofilms were grown for 24 h. The following factors were evaluated: cell
+viability, biomass and total proteins in the extracellular matrix,
+2,3-bis(2-methoxy-4-nitro-5-sulfophenyl)-2H-tetrazolium-5-carboxanilide-"XTT"-red
+uction and lactic acid production. To evaluate stress response, biofilms were
+grown in DFR. Biofilms were treated with CHX or 0.9% sodium chloride (NaCl;
+control). Biofilms were plated for viability assessment. Confocal laser-scanning 
+microscopy (CLSM) was also performed. Data analysis was carried out at 5%
+significance level. S. mutans viability and lactic acid production in
+dual-species biofilms were significantly reduced. S. mutans showed a higher
+resistance to CHX in dual-species biofilms. Total protein content, biomass and
+XTT reduction showed no significant differences between single- and dual-species 
+biofilms. CLSM images showed the formation of large clusters in dual-species
+biofilms. In conclusion, dual-species biofilms reduced S. mutans viability and
+lactic acid production and increased S. mutans' resistance to chlorhexidine.
+
+DOI: 10.3390/microorganisms8020194 
+PMCID: PMC7074783
+PMID: 32023892 
+
+Conflict of interest statement: The authors declare no conflict of interest
+

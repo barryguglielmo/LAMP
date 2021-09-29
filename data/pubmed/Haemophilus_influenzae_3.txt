@@ -1,0 +1,36 @@
+
+1. Vaccines (Basel). 2020 Sep 24;8(4). pii: E559. doi: 10.3390/vaccines8040559.
+
+Possible Cross-Reactivity between SARS-CoV-2 Proteins, CRM197 and Proteins in
+Pneumococcal Vaccines May Protect Against Symptomatic SARS-CoV-2 Disease and
+Death.
+
+Root-Bernstein R(1).
+
+Author information: 
+(1)Department of Physiology, Michigan State University, East Lansing, MI 48824,
+USA.
+
+Various studies indicate that vaccination, especially with pneumococcal vaccines,
+protects against symptomatic cases of SARS-CoV-2 infection and death. This paper 
+explores the possibility that pneumococcal vaccines in particular, but perhaps
+other vaccines as well, contain antigens that might be cross-reactive with
+SARS-CoV-2 antigens. Comparison of the glycosylation structures of SARS-CoV-2
+with the polysaccharide structures of pneumococcal vaccines yielded no obvious
+similarities. However, while pneumococcal vaccines are primarily composed of
+capsular polysaccharides, some are conjugated to cross-reacting material CRM197, 
+a modified diphtheria toxin, and all contain about three percent protein
+contaminants, including the pneumococcal surface proteins PsaA, PspA and probably
+PspC. All of these proteins have very high degrees of similarity, using very
+stringent criteria, with several SARS-CoV-2 proteins including the spike protein,
+membrane protein and replicase 1a. CRM197 is also present in Haemophilus
+influenzae type b (Hib) and meningitis vaccines. Equivalent similarities were
+found at lower rates, or were completely absent, among the proteins in
+diphtheria, tetanus, pertussis, measles, mumps, rubella, and poliovirus vaccines.
+Notably, PspA and PspC are highly antigenic and new pneumococcal vaccines based
+on them are currently in human clinical trials so that their effectiveness
+against SARS-CoV-2 disease is easily testable.
+
+DOI: 10.3390/vaccines8040559 
+PMID: 32987794 
+

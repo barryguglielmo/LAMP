@@ -1,0 +1,39 @@
+
+1. Int J Syst Evol Microbiol. 2020 May;70(5):3572-3576. doi: 10.1099/ijsem.0.004090.
+
+Conservation of Rhodococcus equi (Magnusson 1923) Goodfellow and Alderson 1977
+and rejection of Rhodococcus hoagii (Morse 1912) Kämpfer et al. 2014.
+
+Vázquez-Boland JA(1), Scortti M(1), Meijer WG(2).
+
+Author information: 
+(1)Microbial Pathogenesis Group, Edinburgh Medical School (Biomedical Sciences - 
+Infection Medicine), University of Edinburgh, Chancellor's Building, Little
+France campus, Edinburgh EH16 4SB, UK.
+(2)UCD School of Biomolecular and Biomedical Science, University College Dublin, 
+Dublin 4, Ireland.
+
+A recent taxonomic study confirmed the synonymy of Rhodococcus equi (Magnusson
+1923) Goodfellow and Alderson 1977 and Corynebacterium hoagii (Morse 1912)
+Eberson 1918. As a result, both R. equi and C. hoagii were reclassified as
+Rhodococcus hoagii comb. nov. in application of the principle of priority of the 
+Prokaryotic Code. Because R. equi is a well-known animal and zoonotic human
+pathogen, and a bacterial name solidly established in the veterinary and medical 
+literature, we and others argued that the nomenclatural change may cause error
+and confusion and be potentially perilous. We have now additionally found that
+the nomenclatural type of the basonym C. hoagii, ATCC 7005T, does not correspond 
+with the original description of the species C. hoagii in the early literature.
+Its inclusion as the C. hoagii type on the Approved Lists 1980 results in a
+change in the characters of the taxon and in C. hoagii designating two different 
+bacteria. Moreover, ATCC 7005, the only strain in circulation under the name C.
+hoagii, does not have a well documented history; it is unclear why it was
+deposited as C. hoagii and a possible mix-up with a Corynebacterium (Rhodococcus)
+equi isolate is a reasonable assumption. We therefore request the rejection of
+Rhodococcus hoagii as a nomen ambiguum, nomen dubium and nomen perplexum in
+addition to nomen periculosum, and conservation of the name Rhodococcus equi,
+according to Rules 56ab of the Code.
+
+DOI: 10.1099/ijsem.0.004090 
+PMCID: PMC7395624
+PMID: 32375930  [Indexed for MEDLINE]
+

@@ -1,0 +1,47 @@
+
+1. 3 Biotech. 2020 Jun;10(6):262. doi: 10.1007/s13205-020-02252-y. Epub 2020 May 20.
+
+Statistical optimization of culture conditions of mesophillic gamma-glutamyl
+transpeptidase from Bacillus altitudinis IHB B1644.
+
+Sharma E(1)(2), Gulati A(3), Gulati A(1).
+
+Author information: 
+(1)1Food and Nutraceuticals Division, CSIR-Institute of Himalayan Bioresource
+Technology, Council of Scientific and Industrial Research (CSIR), PO Box 6,
+Palampur, Himachal Pradesh 176061 India.
+(2)2Department of Molecular Biology and Biochemistry, Guru Nanak Dev University, 
+Amritsar, Punjab India.
+(3)3Department of Biotechnology, CSIR-Institute of Himalayan Bioresource
+Technology, PO Box 6, Palampur, Himachal Pradesh 176061 India.
+
+Microbial gamma-glutamyl transpeptidase (GGT) is a key enzyme in production of
+several γ-glutamyl compounds with food and pharmaceutical applications. Bacterial
+GGTs are not commercially available in the market owing to their low production
+from various sources. Thus, the study was focused on achieving the higher GGT
+production from B. altitudinis IHB B1644 by optimizing the culture conditions
+using one-variable-at-a-time (OVAT) strategy. A mesophillic temperature of 28 °C,
+agitation 200 rpm and neutral pH 7 were found to be optimal for higher GGT titre.
+Among the medium components, the monosaccharide glucose served as the best carbon
+source over disaccharides, and yeast extract was the preferred organic nitrogen
+source over inorganic nitrogen sources. The statistical approaches
+(Plakett-Burman and response surface methodology) were further employed for the
+optimization of medium components. Medium composition: 0.1% w/v glucose, 0.3% w/v
+yeast extract, 0.03% w/v magnesium sulphate, 0.20% w/v potassium dihydrogen
+phosphate and 2.5% w/v sodium chloride with inoculum size (1% v/v) was suitable
+for higher GGT titres (449 U ml-1). Time kinetics showed the stability of enzyme 
+up to 96 h of incubation suggesting its application in the industrial use. The
+proposed strategy resulted in 2.6-fold increase in the GGT production compared to
+that obtained in the unoptimized medium. The results demonstrated that RSM was
+fitting to identify the optimum production conditions and this finding should be 
+of great importance for commercial GGT production.
+
+© King Abdulaziz City for Science and Technology 2020.
+
+DOI: 10.1007/s13205-020-02252-y 
+PMCID: PMC7239960 [Available on 2021-06-01]
+PMID: 32477849 
+
+Conflict of interest statement: Conflict of interestThe authors declare that they
+have no conflict of interest.
+

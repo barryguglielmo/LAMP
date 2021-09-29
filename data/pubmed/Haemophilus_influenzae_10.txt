@@ -1,0 +1,42 @@
+
+1. Genes (Basel). 2020 Sep 21;11(9). pii: E1099. doi: 10.3390/genes11091099.
+
+Gene Polymorphisms of TLR4 and TLR9 and Haemophilus influenzae Meningitis in
+Angolan Children.
+
+Tenhu E(1), Teräsjärvi J(1), Cruzeiro ML(2), Savonius O(3), Rugemalira E(3),
+Roine I(4), He Q(1)(5), Pelkonen T(2)(3).
+
+Author information: 
+(1)Institute of Biomedicine, Research Center of Infections and Immunity,
+University of Turku, 20520 Turku, Finland.
+(2)Hospital Pediátrico David Bernardino, Luanda 00000, Angola.
+(3)Children's Hospital, Pediatric Research Center, University of Helsinki,
+Helsinki University Hospital, 00029 Helsinki, Finland.
+(4)Faculty of Medicine, University Diego Portales, Santiago 8370109, Chile.
+(5)Department of Medical Microbiology, Capital Medical University, Beijing
+100069, China.
+
+Bacterial meningitis (BM) is a severe disease caused by various bacterial
+pathogens. Toll-like receptors (TLRs) protect humans from invading pathogens. In 
+this study, we determined whether single nucleotide polymorphisms (SNPs) of TLR4 
+and TLR9 are associated with susceptibility to and outcome of BM in Angolan
+children. Samples were taken from 241 patients and 265 age-matched ethnic
+controls. The SNPs TLR4 rs4986790 (896A > G) and TLR9 rs187084 (-1486T > C) were 
+determined by high-resolution melting analysis (HRMA). The frequency of variant
+genotypes in TLR4 was significantly higher in patients with Haemophilus
+influenzae meningitis than controls (odds ratio (OR), 2.5; 95% confidence
+interval (CI), 1.2-5.4; p = 0.021), whereas the frequency of variant genotypes in
+TLR9 was significantly lower in patients with H. influenzae meningitis than
+controls (OR, 0.4; 95% CI, 0.2-0.9; p = 0.036). No such differences were found
+with other causative pathogens, such as Streptococcus pneumoniae and Neisseria
+meningitidis. At the time of discharge, patients with meningitis caused by
+Gram-negative bacteria who were carriers of variant TLR4 genotypes had a higher
+risk of ataxia (OR, 12.91; 95% CI, 1.52-109.80; p = 0.019) and other neurological
+sequelae (OR, 11.85; 95% CI, 1.07-131.49; p = 0.044) than those with the
+wild-type TLR4 genotype. Our study suggests an association between H. influenzae 
+meningitis and genetic variation between TLR4 and TLR9 in Angolan children.
+
+DOI: 10.3390/genes11091099 
+PMID: 32967147 
+

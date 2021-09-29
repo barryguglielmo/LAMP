@@ -1,0 +1,38 @@
+
+1. J Appl Microbiol. 2020 Jul 12. doi: 10.1111/jam.14780. [Epub ahead of print]
+
+DNA extraction method influences human milk bacterial profiles.
+
+Cheema AS(1), Stinson LF(1), Lai CT(1), Geddes DT(1), Payne MS(2).
+
+Author information: 
+(1)School of Molecular Sciences, The University of Western Australia, Perth, WA, 
+Australia.
+(2)Division of Obstetrics and Gynaecology, The University of Western Australia,
+Perth, WA, Australia.
+
+AIMS: To evaluate four DNA extraction methods to elucidate the most effective
+method for bacterial DNA recovery from human milk (HM).
+METHODS AND RESULTS: Human milk DNA was extracted using the following methods:
+(i) Qiagen MagAttract Microbial DNA Isolation Kit (kit QM), (ii) Norgen Milk
+Bacterial DNA Isolation Kit (kit NM), (iii) Qiagen MagAttract Microbiome DNA/RNA 
+Isolation Kit (kit MM) and (iv) TRIzol LS Reagent (method LS). The full-length
+16S rRNA gene was sequenced. Kits MM and method LS were unable to extract
+detectable levels of DNA in 9/11 samples. Detectable levels of DNA were recovered
+from all samples using kits NM (mean = 0·68 ng μl-1 ) and QM (mean = 0·55 ng μl-1
+). For kits NM and QM, the greatest number of reads were associated with
+Staphylococcus epidermidis, Streptococcus vestibularis, Propionibacterium acnes, 
+Veillonella dispar and Rothia mucilaginosa. Contamination profiles varied
+substantially between kits, with one bacterial species detected in negative
+extraction controls generated with kit QM and six with kit NM.
+CONCLUSIONS: Kit QM is the most suitable of the kits tested for the extraction of
+bacterial DNA from human milk.
+SIGNIFICANCE AND IMPACT OF THE STUDY: Choice of extraction method impacts the
+efficiency of bacterial DNA extraction from human milk and the resultant
+bacterial community profiles generated from these samples.
+
+© 2020 The Society for Applied Microbiology.
+
+DOI: 10.1111/jam.14780 
+PMID: 32654260 
+

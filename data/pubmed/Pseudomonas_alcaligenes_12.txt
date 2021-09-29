@@ -1,0 +1,69 @@
+
+1. Appl Environ Microbiol. 2020 Mar 2;86(6). pii: e02608-19. doi:
+10.1128/AEM.02608-19. Print 2020 Mar 2.
+
+Microbial Community Distribution and Core Microbiome in Successive Wound Grades
+of Individuals with Diabetic Foot Ulcers.
+
+Jnana A(1), Muthuraman V(1), Varghese VK(2), Chakrabarty S(2), Murali TS(1),
+Ramachandra L(3), Shenoy KR(3), Rodrigues GS(3), Prasad SS(3), Dendukuri D(4),
+Morschhauser A(5), Nestler J(6), Peter H(7), Bier FF(7), Satyamoorthy K(8).
+
+Author information: 
+(1)Department of Biotechnology, Manipal School of Life Sciences, Manipal Academy 
+of Higher Education, Manipal, Karnataka, India.
+(2)Department of Cell and Molecular Biology, Manipal School of Life Sciences,
+Manipal Academy of Higher Education, Manipal, Karnataka, India.
+(3)Department of Surgery, Kasturba Medical College, Manipal Academy of Higher
+Education, Manipal, Karnataka, India.
+(4)Achira Laboratories Pvt. Ltd., Bangalore, Karnataka, India.
+(5)Fraunhofer Institute for Electronic Nano Systems, Chemnitz, Germany.
+(6)BiFlow Systems GmbH, Chemnitz, Germany.
+(7)Fraunhofer Institute for Cell Therapy and Immunology, Branch Bioanalytics and 
+Bioprocesses IZI-BB, Potsdam, Germany.
+(8)Department of Cell and Molecular Biology, Manipal School of Life Sciences,
+Manipal Academy of Higher Education, Manipal, Karnataka, India
+ksatyamoorthy@manipal.edu.
+
+Diabetic foot ulcer (DFU) is a major complication of diabetes with high morbidity
+and mortality rates. The pathogenesis of DFUs is governed by a complex milieu of 
+environmental and host factors. The empirical treatment is initially based on
+wound severity since culturing and profiling the antibiotic sensitivity of
+wound-associated microbes is time-consuming. Hence, a thorough and rapid analysis
+of the microbial landscape is a major requirement toward devising evidence-based 
+interventions. Toward this, 122 wound (100 diabetic and 22 nondiabetic) samples
+were sampled for their bacterial community structure using both culture-based and
+next-generation 16S rRNA-based metagenomics approach. Both the approaches showed 
+that the Gram-negative microbes were more abundant in the wound microbiome. The
+core microbiome consisted of bacterial genera, including Alcaligenes,
+Pseudomonas, Burkholderia, and Corynebacterium in decreasing order of average
+relative abundance. Despite the heterogenous nature and extensive sharing of
+microbes, an inherent community structure was apparent, as revealed by a cluster 
+analysis based on Euclidean distances. Facultative anaerobes (26.5%) were
+predominant in Wagner grade 5, while strict anaerobes were abundant in Wagner
+grade 1 (26%). A nonmetric dimensional scaling analysis could not clearly
+discriminate samples based on HbA1c levels. Sequencing approach revealed the
+presence of major culturable species even in samples with no bacterial growth in 
+culture-based approach. Our study indicates that (i) the composition of core
+microbial community varies with wound severity, (ii) polymicrobial species
+distribution is individual specific, and (iii) antibiotic susceptibility varies
+with individuals. Our study suggests the need to evolve better-personalized care 
+for better wound management therapies.IMPORTANCE Chronic nonhealing diabetic foot
+ulcers (DFUs) are a serious complication of diabetes and are further exacerbated 
+by bacterial colonization. The microbial burden in the wound of each individual
+displays diverse morphological and physiological characteristics with unique
+patterns of host-pathogen interactions, antibiotic resistance, and virulence.
+Treatment involves empirical decisions until definitive results on the causative 
+wound pathogens and their antibiotic susceptibility profiles are available.
+Hence, there is a need for rapid and accurate detection of these polymicrobial
+communities for effective wound management. Deciphering microbial communities
+will aid clinicians to tailor their treatment specifically to the microbes
+prevalent in the DFU at the time of assessment. This may reduce DFUs associated
+morbidity and mortality while impeding the rise of multidrug-resistant microbes.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.02608-19 
+PMCID: PMC7054093
+PMID: 31924616 
+

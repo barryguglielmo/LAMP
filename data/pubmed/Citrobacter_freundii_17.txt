@@ -1,0 +1,50 @@
+
+1. Braz J Microbiol. 2020 Aug 1. doi: 10.1007/s42770-020-00355-5. [Epub ahead of
+print]
+
+Conjugative plasmidic AmpC detected in Escherichia coli, Proteus mirabilis and
+Klebsiella pneumoniae human clinical isolates from Portugal.
+
+Santiago GS(1), Gonçalves D(2)(3), da Silva Coelho I(4), de Mattos de Oliveira
+Coelho S(4), Neto Ferreira H(2).
+
+Author information: 
+(1)Department of Veterinary Microbiology and Immunology, Universidade Federal
+Rural do Rio de Janeiro, BR 465, Km 07, Seropédica, RJ, Brazil.
+gabriellissantiago@outlook.com.
+(2)Laboratory of Biological Science 18.P5.E3, Faculty of Pharmacy of Universidade
+do Porto Porto and UCIBIO, Jorge Viterbo Ferreira, 228, Porto, Portugal.
+(3)ISAVE - Instituto Superior de Saúde, Castelo de Almourol, 13 - Apartado 49,
+Amares, Portugal.
+(4)Department of Veterinary Microbiology and Immunology, Universidade Federal
+Rural do Rio de Janeiro, BR 465, Km 07, Seropédica, RJ, Brazil.
+
+AmpC is a type of β-lactamase enzyme produced by bacteria; these enzymes are
+classified in Class C and Group 1, and these confer resistance to cephamycin.
+Enterobacterales producing AmpC are reported worldwide and have great clinical
+importance due to therapeutic restriction and epidemiological importance once the
+easy dissemination by plasmidic genes to other bacteria is a real threat. These
+genes are naturally found in some enterobacteria as Enterobacter cloacae,
+Morganella morganii, and Citrobacter freundii, but other species have
+demonstrated similar resistance phenotype of AmpC production. Genes carried in
+plasmids have been described in these species conferring resistance to cefoxitin 
+and causing therapeutic failure in some bacterial infections. This work detected 
+and described five clinical strains of Escherichia coli, Proteus mirabilis, and
+Klebsiella pneumoniae that presented plasmid ampC (pAmpC) isolated from the north
+of Portugal collected in 2009. AmpC production was confirmed by inhibition of the
+enzyme by cloxacillin and boronic acid in agar diffusion tests. Also, PCR
+(polymerase chain reaction) was performed for the detection of gene universal to 
+AmpC, blaampC, and others to AmpC group: blaACC, blaCIT, blaCMY, blaDHA, and
+blaEBC. The conjugation in liquid medium for 24 h was realized to determine if
+gene is localized in chromosome or plasmid. The isolates and their conjugants
+showed phenotypic characteristics and blaCMY and blaCIT were detected by PCR
+corroborating the AmpC characteristics observed in these bacteria. Confirmation
+of transfer of plasmid containing genes encoding AmpC is of high epidemiological 
+relevance to the hospital studied and demonstrated the importance of AmpC
+surveillance and studies in hospital and community environments in order to
+choose the appropriate therapy for bacterial infections.
+
+DOI: 10.1007/s42770-020-00355-5 
+PMCID: PMC7395798
+PMID: 32740783 
+

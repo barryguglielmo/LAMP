@@ -1,0 +1,46 @@
+
+1. Front Microbiol. 2020 Jun 24;11:1256. doi: 10.3389/fmicb.2020.01256. eCollection 
+2020.
+
+Colonization of Mice With Amoxicillin-Associated Klebsiella variicola Drives
+Inflammation via Th1 Induction and Treg Inhibition.
+
+Lin H(1), Wang Q(1)(2), Liu L(1), Chen Z(1), Das R(1), Zhao Y(1), Mao D(3), Luo
+Y(1).
+
+Author information: 
+(1)Ministry of Education Key Laboratory of Pollution Processes and Environmental 
+Criteria, College of Environmental Sciences and Engineering, Nankai University,
+Tianjin, China.
+(2)Hebei Key Laboratory of Air Pollution Cause and Impact (preparatory), College 
+of Energy and Environmental Engineering, Hebei University of Engineering, Handan,
+China.
+(3)School of Medicine, Nankai University, Tianjin, China.
+
+β-Lactam antibiotics can increase the resistance and virulence of individual
+intestinal microorganisms, which may affect host physiology and health.
+Klebsiella, a crucial gut inhabitant, has been confirmed to be resistant to most 
+β-lactam antibiotics and contributes to the etiology of inflammatory bowel
+disease (IBD). In this study, the influence of amoxicillin (AMO) on Klebsiella
+and its role in colitis was investigated in an antibiotic cocktail (ABx) murine
+model. The results suggested that a 7-day AMO treatment significantly enriched
+the abundance of Klebsiella and enhanced serum resistance, antibiotic resistance,
+and biofilm formation ability of Klebsiella variicola (K. variicola) compared to 
+the wild-type strain in the control group mice. Colonization of mice with the
+AMO-associated K. variicola could induce Th1 cells and inhibit Treg
+differentiation to promote inflammation in ABx murine model. In addition,
+inoculation of AMO-associated K. variicola in dextran sodium sulfate
+(DSS)-induced colitis murine model mice also confirmed that K. variicola
+colonization exacerbated inflammation as assessed by increased TNF-α, IFN-γ,
+IL-17a, and disease activity (DAI) levels; decreased colon length and bodyweight;
+and a disrupted Th1/Treg balance. The results of our study demonstrate that AMO
+enhances Klebsiella virulence in mice by disrupting the T cell equilibrium to
+exacerbate colitis, thereby providing a reference for proper antibiotic
+prescription.
+
+Copyright © 2020 Lin, Wang, Liu, Chen, Das, Zhao, Mao and Luo.
+
+DOI: 10.3389/fmicb.2020.01256 
+PMCID: PMC7326774
+PMID: 32670220 
+

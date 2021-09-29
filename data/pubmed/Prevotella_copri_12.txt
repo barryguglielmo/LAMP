@@ -1,0 +1,56 @@
+
+1. J Immunol. 2020 Aug 1;205(3):842-852. doi: 10.4049/jimmunol.1901000. Epub 2020
+Jun 22.
+
+Critical Role of Intestinal Microbiota in ATF3-Mediated Gut Immune Homeostasis.
+
+Cao Y(1)(2)(3), Wang X(1)(2)(3), Yang Q(3), Deng H(1)(3), Liu Y(4), Zhou P(2), Xu
+H(2), Chen D(5), Feng D(6), Zhang H(3), Wang H(7), Zhou J(8)(2)(3).
+
+Author information: 
+(1)Joint Program in Immunology, Affiliated Guangzhou Women and Children's Medical
+Center, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou 510623,
+China.
+(2)Department of Immunology, Key Laboratory of Immune Microenvironment and
+Disease (Ministry of Education), School of Basic Medical Sciences, Tianjin
+Medical University, Tianjin 300070, China.
+(3)Institute of Human Virology, Zhongshan School of Medicine, Sun Yat-sen
+University, Guangzhou 510080, China.
+(4)Department of Pathology, The First Affiliated Hospital of Sun Yat-sen
+University, Guangzhou 510080, China.
+(5)Department of Laboratory Medicine, The First Affiliated Hospital of Sun
+Yat-sen University, Guangzhou 510080, China.
+(6)Department of Pulmonary and Critical Care Medicine, The Third Affiliated
+Hospital of Sun Yat-sen University, Guangzhou 510630, China; and.
+(7)CAS Key Laboratory of Molecular Virology and Immunology, Institut Pasteur of
+Shanghai, Chinese Academy of Sciences, Shanghai 200031, China zhoujie@tmu.edu.cn 
+hkwang@ips.ac.cn.
+(8)Joint Program in Immunology, Affiliated Guangzhou Women and Children's Medical
+Center, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou 510623,
+China; zhoujie@tmu.edu.cn hkwang@ips.ac.cn.
+
+Secretory Ig A (sIgA) plays an important role in the maintenance of intestinal
+homeostasis via cross-talk with gut microbiota. The defects in sIgA production
+could elicit dysbiosis of commensal microbiota and subsequently facilitate the
+development of inflammatory bowel disease. Our previous study revealed activating
+transcription factor 3 (ATF3) as an important regulator of follicular helper T
+(TFH) cells in gut. ATF3 deficiency in CD4+ T cells impaired the development of
+gut TFH cells, and therefore diminished sIgA production, which increased the
+susceptibility to murine colitis. However, the potential role of microbiota in
+ATF3-mediated gut homeostasis remains incompletely understood. In this study, we 
+report that both Atf3-/- and CD4creAtf3fl/fl mice displayed profound dysbiosis of
+gut microbiota when compared with their littermate controls. The proinflammatory 
+Prevotella taxa, especially Prevotella copri, were more abundant in
+ATF3-deficient mice when compared with littermate controls. This phenotype was
+obviously abrogated by adoptive transfer of either TFH cells or IgA+ B cells.
+Importantly, depletion of gut microbiota dramatically alleviated the severity of 
+colitis in Atf3-/- mice, whereas transfer of microbiota from Atf3-/- mice to
+wild-type recipients increased their susceptibility to colitis. Collectively,
+these observations indicate the importance of IgA-microbiota interaction in
+ATF3-mediated gut homeostasis.
+
+Copyright © 2020 by The American Association of Immunologists, Inc.
+
+DOI: 10.4049/jimmunol.1901000 
+PMID: 32571839 
+

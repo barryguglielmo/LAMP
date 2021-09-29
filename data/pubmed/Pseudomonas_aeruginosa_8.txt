@@ -1,0 +1,51 @@
+
+1. Biochim Biophys Acta Gen Subj. 2020 Sep 30:129756. doi:
+10.1016/j.bbagen.2020.129756. [Epub ahead of print]
+
+Structural and molecular dynamic studies of Pseudomonas aeruginosa OdaA reveal
+the regulation role of a C-terminal hinge element.
+
+Zhao NL(1), Zhang QQ(2), Zhao C(1), Liu L(3), Li T(1), Li CC(1), He LH(1), Zhu
+YB(1), Song YJ(1), Liu HX(4), Bao R(5).
+
+Author information: 
+(1)Center of Infectious Diseases, State Key Laboratory of Biotherapy, West China 
+Hospital, Sichuan University and Collaborative Innovation Center, Chengdu, China.
+(2)School of Pharmacy, Lanzhou University, Lanzhou 730000, China.
+(3)Department of dermatology, The Affiliated Hospital of Southwest Medical
+University, Luzhou, China.
+(4)School of Pharmacy, Lanzhou University, Lanzhou 730000, China. Electronic
+address: hxliu@lzu.edu.cn.
+(5)Center of Infectious Diseases, State Key Laboratory of Biotherapy, West China 
+Hospital, Sichuan University and Collaborative Innovation Center, Chengdu, China.
+Electronic address: baorui@scu.edu.cn.
+
+BACKGROUND: Crotonase superfamily members exhibit great catalytic diversity
+towards various acyl-CoA substrates. A common CoA moiety binding pattern is
+usually observed in this family, understanding the substrate-binding mechanism
+would facilitate the rational engineering of crotonases for improved properties.
+METHODS: We applied X-ray crystallography to investigate a putative enoyl-CoA
+hydratase/isomerase OdaA in Pseudomonas aeruginosa. Thermal shift assay (TSA)
+were performed to explore the binding of OdaA with CoA thioester substrates.
+Furthermore, we performed molecular dynamics (MD) simulations to elucidate the
+dynamics of its CoA-binding site.
+RESULTS: We solved the crystal structures of the apo and CoA-bound OdaA. Thermal 
+shift assay (TSA) showed that CoA thioester substrates bind to OdaA with a
+different degree. MD simulations demonstrated that the C-terminal alpha helix
+underwent a structural transition and a hinge region would associate with this
+conformational change.
+CONCLUSIONS: TSA in combination with MD simulations elucidate that the dynamics
+of C-terminal alpha helix in CoA-binding, and a hinge region play an important
+role in conformational change.
+GENERAL SIGNIFICANCE: Those results help to extend our knowledge about the nature
+of crotonases and would be informative for future mechanistic studies and
+industry applications.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.bbagen.2020.129756 
+PMID: 33010351 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+have no competing interests.
+

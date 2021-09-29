@@ -1,0 +1,42 @@
+
+1. Food Sci Nutr. 2019 Dec 5;8(1):150-161. doi: 10.1002/fsn3.1285. eCollection 2020 
+Jan.
+
+The Man-PTS subunit ⅡC is responsible for the sensitivity of Listeria
+monocytogenes to durancin GL.
+
+Wu X(1)(2), Ju X(1)(2), Du L(2), Wang L(2), He R(2), Chen Z(1).
+
+Author information: 
+(1)School of Food Science and Technology Jiangnan University Wuxi China.
+(2)College of Food Science and Engineering Nanjing University of Finance and
+Economics Nanjing China.
+
+Target cell recognition is an important issue in the realization of bacteriocin's
+activity. In this report, we provide genetic and biochemical evidence of durancin
+GL, a new bacteriocin produced by Enterococcus durans 41D, and use ⅡC subunit in 
+the mannose phosphotransferase system (Man-PTS) of Listeria monocytogenes as
+target/receptor. First, the L. monocytogenes mutants with Man-PTS IIC or IID
+deletion were constructed with the vector pHoss1. Then, the utilization of
+glucose and mannose and the sensitivity to durancin GL of the mutant strains were
+investigated. Afterward, the interactions between durancin GL and the subunits of
+IIC or IID in Man-PTS of L. monocytogenes were characterized by yeast two-hybrid 
+system. The results showed that the L. monocytogenes mutants with either IIC or
+IID deletion were not only resistant to durancin GL, but also their absorption
+and utilization of glucose and mannose were not disturbed by the presence of
+durancin GL. Finally, in situ detection of the interaction between durancin GL
+and Man-PTS subunits of IIC or IID by yeast two-hybrid system revealed that there
+was a strong interaction between durancin GL and Man-PTS subunit IIC. However,
+the interaction between durancin GL and Man-PTS subunit IID was not present or
+weak. Based on the experimental evidence above, the Man-PTS subunit IIC is
+responsible for the sensitivity of L. monocytogenes to bacteriocin durancin GL.
+
+© 2019 The Authors. Food Science & Nutrition published by Wiley Periodicals, Inc.
+
+DOI: 10.1002/fsn3.1285 
+PMCID: PMC6977476
+PMID: 31993141 
+
+Conflict of interest statement: The authors declare that they have no conflict of
+interest.
+

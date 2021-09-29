@@ -1,0 +1,42 @@
+
+1. Nat Commun. 2020 Oct 2;11(1):4948. doi: 10.1038/s41467-020-18770-5.
+
+Antibiotic export by MexB multidrug efflux transporter is allosterically
+controlled by a MexA-OprM chaperone-like complex.
+
+Glavier M(1)(2), Puvanendran D(3)(4), Salvador D(1)(2), Decossas M(1)(2), Phan
+G(5), Garnier C(5), Frezza E(5), Cece Q(3)(4), Schoehn G(6), Picard M(3)(4),
+Taveau JC(1)(2), Daury L(1)(2), Broutin I(7), Lambert O(8)(9).
+
+Author information: 
+(1)University of Bordeaux, CBMN UMR 5248, Bordeaux INP, F-33600, Pessac, France.
+(2)CNRS, CBMN UMR5248, F-33600, Pessac, France.
+(3)Laboratoire de Biologie Physico-Chimique des Protéines Membranaires,
+Université de Paris, UMR 7099 CNRS, F-75005, Paris, France.
+(4)Institut de Biologie Physico-Chimique, F-75005, Paris, France.
+(5)Laboratoire CiTCoM, Université de Paris, CNRS, 75006, Paris, France.
+(6)Université Grenoble Alpes, CNRS, CEA, Institute for Structural Biology (IBS), 
+38000, Grenoble, France.
+(7)Laboratoire CiTCoM, Université de Paris, CNRS, 75006, Paris, France.
+isabelle.broutin@parisdescartes.fr.
+(8)University of Bordeaux, CBMN UMR 5248, Bordeaux INP, F-33600, Pessac, France. 
+o.lambert@cbmn.u-bordeaux.fr.
+(9)CNRS, CBMN UMR5248, F-33600, Pessac, France. o.lambert@cbmn.u-bordeaux.fr.
+
+The tripartite multidrug efflux system MexAB-OprM is a major actor in Pseudomonas
+aeruginosa antibiotic resistance by exporting a large variety of antimicrobial
+compounds. Crystal structures of MexB and of its Escherichia coli homolog AcrB
+had revealed asymmetric trimers depicting a directional drug pathway by a
+conformational interconversion (from Loose and Tight binding pockets to Open gate
+(LTO) for drug exit). It remains unclear how MexB acquires its LTO form. Here by 
+performing functional and cryo-EM structural investigations of MexB at various
+stages of the assembly process, we unveil that MexB inserted in lipid membrane is
+not set for active transport because it displays an inactive LTC form with a
+Closed exit gate. In the tripartite complex, OprM and MexA form a corset-like
+platform that converts MexB into the active form. Our findings shed new light on 
+the resistance nodulation cell division (RND) cognate partners which act as
+allosteric factors eliciting the functional drug extrusion.
+
+DOI: 10.1038/s41467-020-18770-5 
+PMID: 33009415 
+

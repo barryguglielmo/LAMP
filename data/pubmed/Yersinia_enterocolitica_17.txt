@@ -1,0 +1,39 @@
+
+1. J Vis Exp. 2020 Jun 16;(160). doi: 10.3791/60842.
+
+Synthesis of Functionalized Magnetic Nanoparticles, Their Conjugation with the
+Siderophore Feroxamine and its Evaluation for Bacteria Detection.
+
+Martínez-Matamoros D(1), Castro-García S(1), Ojeda Romano G(2), Balado M(3),
+Rodríguez J(1), Lemos ML(3), Jiménez C(4).
+
+Author information: 
+(1)Centro de Investigacións Científicas Avanzadas (CICA), Departamento de
+Química, Facultade de Ciencias, Universidade da Coruña.
+(2)Centro de Investigacións Científicas Avanzadas (CICA), Unidad de Comunicación 
+y Divulgación, Universidade da Coruña.
+(3)Department of Microbiology and Parasitology, Institute of Aquaculture,
+Universidade de Santiago de Compostela.
+(4)Centro de Investigacións Científicas Avanzadas (CICA), Departamento de
+Química, Facultade de Ciencias, Universidade da Coruña; carlos.jimenez@udc.es.
+
+In the present work, the synthesis of magnetic nanoparticles, its coating with
+SiO2, followed by its amine functionalization with (3-aminopropyl)triethoxysilane
+(APTES) and its conjugation with deferoxamine, a siderophore recognized by
+Yersinia enterocolitica, using a succinyl moiety as a linker are described.
+Magnetic nanoparticles (MNP) of magnetite (Fe3O4) were prepared by solvothermal
+method and coated with SiO2 (MNP@SiO2) using the Stöber process followed by
+functionalization with APTES (MNP@SiO2@NH2). Then, feroxamine was conjugated with
+the MNP@SiO2@NH2 by carbodiimide coupling to give MNP@SiO2@NH2@Fa. The morphology
+and properties of the conjugate and intermediates were examined by eight
+different methods including powder X-Ray diffraction (XRD), Fourier transform
+infrared spectroscopy (FT-IR), Raman spectroscopy, X-ray photoelectron
+spectroscopy (XPS), transmission electron microscopy (TEM) and energy dispersive 
+X-Ray (EDX) mapping. This exhaustive characterization confirmed the formation of 
+the conjugate. Finally, in order to evaluate the capacity and specificity of the 
+nanoparticles, they were tested in a capture bacteria assay using Yersinia
+enterocolitica.
+
+DOI: 10.3791/60842 
+PMID: 32628159 
+

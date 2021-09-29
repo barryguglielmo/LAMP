@@ -1,0 +1,44 @@
+
+1. NPJ Biofilms Microbiomes. 2020 Jun 24;6(1):25. doi: 10.1038/s41522-020-0135-0.
+
+Streptococcus mutans adhesion force sensing in multi-species oral biofilms.
+
+Wang C(1), van der Mei HC(2), Busscher HJ(3), Ren Y(1).
+
+Author information: 
+(1)Department of Orthodontics, W.J. Kolff Institute, University of Groningen and 
+University Medical Center Groningen, Groningen, The Netherlands.
+(2)Department of Biomedical Engineering, W.J. Kolff Institute, University of
+Groningen and University Medical Center Groningen, Groningen, The Netherlands.
+h.c.van.der.mei@umcg.nl.
+(3)Department of Biomedical Engineering, W.J. Kolff Institute, University of
+Groningen and University Medical Center Groningen, Groningen, The Netherlands.
+
+Bacteria utilize chemical and mechanical mechanisms to sense their environment,
+to survive hostile conditions. In mechanical sensing, intra-bilayer pressure
+profiles change due to deformation induced by the adhesion forces bacteria
+experience on a surface. Emergent properties in mono-species Streptococcus mutans
+biofilms, such as extracellular matrix production, depend on the adhesion forces 
+that streptococci sense. Here we determined whether and how salivary-conditioning
+film (SCF) adsorption and the multi-species nature of oral biofilm influence
+adhesion force sensing and associated gene expression by S. mutans. Hereto,
+Streptococcus oralis, Actinomyces naeslundii, and S. mutans were grown together
+on different surfaces in the absence and presence of an adsorbed SCF. Atomic
+force microscopy and RT-qPCR were used to measure S. mutans adhesion forces and
+gene expressions. Upon SCF adsorption, stationary adhesion forces decreased on a 
+hydrophobic and increased on a hydrophilic surface to around 8 nN. Optical
+coherence tomography showed that triple-species biofilms on SCF-coated surfaces
+with dead S. oralis adhered weakly and often detached as a contiguous sheet.
+Concurrently, S. mutans displayed no differential adhesion force sensing on
+SCF-coated surfaces in the triple-species biofilms with dead S. oralis, but once 
+live S. oralis were present S. mutans adhesion force sensing and gene expression 
+ranked similar as on surfaces in the absence of an adsorbed SCF. Concluding, live
+S. oralis may enzymatically degrade SCF components to facilitate direct contact
+of biofilm inhabitants with surfaces and allow S. mutans adhesion force sensing
+of underlying surfaces to define its appropriate adaptive response. This
+represents a new function of initial colonizers in multi-species oral biofilms.
+
+DOI: 10.1038/s41522-020-0135-0 
+PMCID: PMC7314845
+PMID: 32581220 
+

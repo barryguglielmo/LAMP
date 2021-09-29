@@ -1,0 +1,50 @@
+
+1. Front Microbiol. 2019 Nov 1;10:2449. doi: 10.3389/fmicb.2019.02449. eCollection
+2019.
+
+Mutual Metabolic Interactions in Co-cultures of the Intestinal Anaerostipes
+rhamnosivorans With an Acetogen, Methanogen, or Pectin-Degrader Affecting
+Butyrate Production.
+
+Bui TPN(1), Schols HA(2), Jonathan M(2), Stams AJM(1), de Vos WM(1)(3), Plugge
+CM(1).
+
+Author information: 
+(1)Laboratory of Microbiology, Wageningen University & Research, Wageningen,
+Netherlands.
+(2)Laboratory of Food Chemistry, Wageningen University & Research, Wageningen,
+Netherlands.
+(3)Human Microbiome Research Programme, Faculty of Medicine, University of
+Helsinki, Helsinki, Finland.
+
+The human intestinal tract harbors diverse and complex microbial communities that
+have a vast metabolic capacity including the breakdown of complex carbohydrates
+into short chain fatty acids, acetate, propionate, and butyrate. As butyrate is
+beneficial for gut health there is much attention on butyrogenic bacteria and
+their role in the colonic anaerobic food chain. However, our understanding how
+production of butyrate by gut microorganisms is controlled by interactions
+between different species and environmental nutrient availability is very
+limited. To address this, we set up experimental in vitro co-culture systems to
+study the metabolic interactions of Anaerostipes rhamnosivorans, a butyrate
+producer with each of its partners; Blautia hydrogenotrophica, an acetogen;
+Methanobrevibacter smithii, a methanogen and Bacteroides thetaiotaomicron, a
+versatile degrader of plant cell wall pectins; through corresponding specific
+cross-feeding. In all co-cultures, A. rhamnosivorans was able to benefit from its
+partner for enhanced butyrate formation compared to monocultures. Interspecies
+transfer of hydrogen or formate from A. rhamnosivorans to the acetogen B.
+hydrogenotrophica and in turn of acetate from the acetogen to the butyrogen were 
+essential for butyrate formation. A. rhamnosivorans grown on glucose supported
+growth of M. smithii via interspecies formate/hydrogen transfer enhancing
+butyrate formation. In the co-culture with pectin, lactate was released by B.
+thetaiotaomicron which was concomitantly used by A. rhamnosivorans for the
+production of butyrate. Our findings indicate enhanced butyrate formation through
+microbe-microbe interactions between A. rhamnosivorans and an acetogen, a
+methanogen or a pectin-degrader. Such microbial interactions enhancing butyrate
+formation may be beneficial for colonic health.
+
+Copyright © 2019 Bui, Schols, Jonathan, Stams, de Vos and Plugge.
+
+DOI: 10.3389/fmicb.2019.02449 
+PMCID: PMC6839446
+PMID: 31736896 
+

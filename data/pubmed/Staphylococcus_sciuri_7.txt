@@ -1,0 +1,35 @@
+
+1. Microorganisms. 2020 May 5;8(5). pii: E668. doi: 10.3390/microorganisms8050668.
+
+Staphylococcus sciuri Strain LCHXa is a Free-Living Lithium-Tolerant Bacterium
+Isolated from Salar de Atacama, Chile.
+
+Salazar-Ardiles C(1), Caimanque T(1), Galetović A(1), Vilo C(1), Araya JE(2),
+Flores N(1), Gómez-Silva B(1).
+
+Author information: 
+(1)Laboratorio de Bioquímica, Departamento Biomédico, and Centre for
+Biotechnology and Bioengineering, CeBiB, Universidad de Antofagasta, Antofagasta 
+1270300, Chile.
+(2)Laboratorio de Parasitología y Biología Molecular, and Centre for
+Biotechnology and Bioengineering, CeBiB, Universidad de Antofagasta, Antofagasta 
+1270300, Chile.
+
+In addition to the industrial and biomedical applications of lithium, information
+on the tolerance of microorganisms to high Li concentrations in natural
+biological systems is limited. Strain LCHXa is a novel free-living Gram-positive,
+non-motile bacterium strain isolated from water samples taken at Laguna Chaxa, a 
+non-industrial water body with the highest soluble Li content (33 mM LiCl) within
+the Salar de Atacama basin in northern Chile. Enrichment was conducted in
+Luria-Bertani (LB) medium supplemented with 1 M LiCl. Strain LCHXa was a
+Novobiocin-resistant and coagulase negative Staphylococcus. Phylogenetically,
+strain LCHXa belongs to the species Staphylococcus sciuri. Strain LCHXa grew
+optimally in LB medium at pH 6-8 and 37 °C, and it was able to sustain growth at 
+molar Li concentrations at 2 M LiCl, with a decrease in the specific growth rate 
+of 85%. Osmoregulation in strain LCHXa partially involves glycine betaine and
+glycerol as compatible solutes.
+
+DOI: 10.3390/microorganisms8050668 
+PMCID: PMC7285145
+PMID: 32380652 
+

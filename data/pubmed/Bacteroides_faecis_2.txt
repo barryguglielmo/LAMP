@@ -1,0 +1,65 @@
+
+1. Appl Environ Microbiol. 2020 Jun 17;86(13). pii: e00405-20. doi:
+10.1128/AEM.00405-20. Print 2020 Jun 17.
+
+A Soluble Fiber Diet Increases Bacteroides fragilis Group Abundance and
+Immunoglobulin A Production in the Gut.
+
+Nakajima A(1), Sasaki T(2), Itoh K(3), Kitahara T(4), Takema Y(4), Hiramatsu
+K(5), Ishikawa D(6), Shibuya T(6), Kobayashi O(6), Osada T(6), Watanabe S(6),
+Nagahara A(6).
+
+Author information: 
+(1)Department of Gastroenterology, Juntendo University School of Medicine, Tokyo,
+Japan anakaji@juntendo.ac.jp.
+(2)Animal Research Center, Sapporo Medical University School of Medicine,
+Sapporo, Japan.
+(3)Biotechnical Center, Japan SLC, Inc., Shizuoka, Japan.
+(4)Kao Corporation, Tokyo, Japan.
+(5)Center of Excellence for Infection Control Science, Graduate School of
+Medicine, Juntendo University, Tokyo, Japan.
+(6)Department of Gastroenterology, Juntendo University School of Medicine, Tokyo,
+Japan.
+
+Immunoglobulin A (IgA) is essential for defense of the intestinal mucosa against 
+harmful pathogens. Previous studies have shown that Bacteroidetes, the major
+phylum of gut microbiota together with Firmicutes, impact IgA production.
+However, the relative abundances of species of Bacteroidetes responsible for IgA 
+production were not well understood. In the present study, we identified some
+specific Bacteroidetes species that were associated with gut IgA induction by
+hsp60-based profiling of species distribution among Bacteroidetes The levels of
+IgA and the expression of the gene encoding activation-induced cytidine deaminase
+(AID) in the large intestine lamina propria, which is crucial for class switch
+recombination from IgM to IgA, were increased in soluble high-fiber diet
+(sHFD)-fed mice. We found that Bacteroides acidifaciens was the most abundant
+Bacteroidetes species in both sHFD- and normal diet-fed mice. In addition, the
+gut IgA levels were associated with the relative abundance of Bacteroides
+fragilis group species such as Bacteroides faecis, Bacteroides caccae, and
+Bacteroides acidifaciens Conversely, the ratio of B. acidifaciens to other
+Bacteroidetes species was reduced in insoluble high-fiber diet fed- and no-fiber 
+diet-fed mice. To investigate whether B. acidifaciens increases IgA production,
+we generated B. acidifaciens monoassociated mice and found increased gut IgA
+production and AID expression. Collectively, soluble dietary fiber increases the 
+ratio of gut Bacteroides fragilis group, such as B. acidifaciens, and IgA
+production. This might improve gut immune function, thereby protecting against
+bowel pathogens and reducing the incidence of inflammatory bowel
+diseases.IMPORTANCE Immunoglobulin A (IgA) is essential for defense of the
+intestinal mucosa against harmful pathogens. Gut microbiota impact IgA
+production, but the specific species responsible for IgA production remain
+largely elusive. Previous studies have shown that IgA and Bacteroidetes, the
+major phyla of gut microbiota, were increased in soluble high-fiber diet-fed
+mice. We show here that the levels of IgA in the gut and the expression of
+activation-induced cytidine deaminase (AID) in the large intestine lamina
+propria, which is crucial for class switch recombination from IgM to IgA, were
+correlated with the abundance of Bacteroides fragilis group species such as
+Bacteroides faecis, Bacteroides caccae, and Bacteroides acidifaciens B.
+acidifaciens monoassociated mice increased gut IgA production and AID expression.
+Soluble dietary fiber may improve gut immune function, thereby protecting against
+bowel pathogens and reducing inflammatory bowel diseases.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.00405-20 
+PMCID: PMC7301863 [Available on 2020-12-17]
+PMID: 32332136 
+

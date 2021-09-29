@@ -1,0 +1,56 @@
+
+1. Front Microbiol. 2020 Aug 25;11:1985. doi: 10.3389/fmicb.2020.01985. eCollection 
+2020.
+
+Molecular Characteristics and Zoonotic Potential of Salmonella Weltevreden From
+Cultured Shrimp and Tilapia in Vietnam and China.
+
+Hounmanou YMG(1), Dalsgaard A(1)(2), Sopacua TF(1), Uddin GMN(1),
+Leekitcharoenphon P(3), Hendriksen RS(3), Olsen JE(1), Larsen MH(1).
+
+Author information: 
+(1)Department of Veterinary and Animal Sciences, Faculty of Health and Medical
+Sciences, University of Copenhagen, Copenhagen, Denmark.
+(2)School of Chemical and Biological Engineering, Nanyang Technological
+University, Singapore, Singapore.
+(3)Research Group for Genomic Epidemiology, National Food Institute, Technical
+University of Denmark, Kongens Lyngby, Denmark.
+
+Salmonella Weltevreden is increasingly reported from aquatic environments,
+seafood, and patients in several Southeast Asian countries. Using genome-wide
+analysis, we characterized S. Weltevreden isolated from cultured shrimp and
+tilapia from Vietnam and China to study their genetic characteristics and
+relatedness to clinical isolates of S. Weltevreden ST-365. The phylogenetic
+analysis revealed up to 312 single-nucleotide polymorphism (SNP) difference
+between tilapia isolates, whereas isolates from shrimp were genetically more
+closely related. Epidemiologically unrelated isolates from Vietnam were closely
+related to isolates from China, e.g., 20 SNPs differences between strains 28V and
+75C. In comparison with strains from other parts of the world, our environmental 
+isolates predominantly clustered within the continental South Asia lineage,
+constituted mostly of strains from human stool with as low as seven SNPs
+difference, e.g., 30V versus Cont_ERR495254. All sequenced isolates were MLST
+type ST-365 and contained the major virulence-related genes encoded by the
+Salmonella Pathogenicity Islands 1-5. Ten of the isolates harbored the IncFII(S) 
+plasmid similar to the virulence genes-mediated plasmid pSPCV of S. Paratyphi C, 
+and one isolate had the IncQ1 plasmid on the same contig with strA/B, sul2, and
+tetA resistance genes similar to the IncQ1 type, pNUC of S. Typhimurium. A
+pangenomic analysis yielded 7891 genes including a core genome of 4892 genes,
+with a closely related accessory genome content between clinical and
+environmental isolates (Benjamini p > 0.05). In a search for differences that
+could explain the higher prevalence of S. Weltevreden in aquatic samples, genomes
+were compared with those of other Salmonella enterica serovars. S. Weltevreden
+revealed specific regions harboring glpX (Fructose-1;6-bisphosphatase; class II),
+rfbC (dTDP-4-dehydrorhamnose 3;5-epimerase), and cmtB (PTS Mannitol-specific
+cryptic phosphotransferase enzyme IIA component) involved in carbohydrate
+biosynthesis pathways. Our study builds grounds for future experiments to
+determine genes or pathways that are essential when S. Weltevreden are in aquatic
+environments and microbial interactions providing survival advantages to S.
+Weltevreden in such environments.
+
+Copyright © 2020 Hounmanou, Dalsgaard, Sopacua, Uddin, Leekitcharoenphon,
+Hendriksen, Olsen and Larsen.
+
+DOI: 10.3389/fmicb.2020.01985 
+PMCID: PMC7477899
+PMID: 32983012 
+

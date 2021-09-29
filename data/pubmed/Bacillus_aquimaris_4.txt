@@ -1,0 +1,38 @@
+
+1. Biotechnol Appl Biochem. 2019 Nov;66(6):955-961. doi: 10.1002/bab.1811. Epub 2019
+Sep 30.
+
+Calcium ion induced thermodynamic stability, bisubstrate specificity, and
+differential organic solvent tolerance of a predominantly β-sheet serine protease
+from Bacillus aquimaris VITP4.
+
+Thaz CJ(1), Jayaraman G(1).
+
+Author information: 
+(1)School of Bio Sciences and Technology, Vellore Institute of Technology,
+Vellore, India.
+
+The present study was aimed to get insights on the role of calcium ions on the
+thermodynamic stability, substrate specificity, and organic solvent compatibility
+of the extracellular protease produced by Bacillus aquimaris VITP4. Presence of
+Ca2+ enhanced the activity of the enzyme in the temperature range of 30-60 °C and
+increased the half-life from 164 to 234 Min. Circular dichroism experiments
+indicated that the temperature of half-denaturation (Tm ) of the protease
+increased from 76 to 86 °C. As judged by fluorescence emission profiles, the
+overall fold of the enzyme around the tryptophan residues could be similar.
+Further, thermal inactivation experiments revealed that the enzyme followed first
+order kinetics, with increase in energy for inactivation (Eai ) by
+24.2 ± 1.2 kJ mol -1 in the presence of Ca2+ . Studies with synthetic peptides as
+well as with bovine serum albumin signified preferential hydrolysis of the
+peptide bonds at the C-terminus of alanine residues (with a kcat /KM of
+141,400 M-1  Sec-1 ) and at the C-terminus of arginine residues with a lower
+specificity (72,400 M-1  Sec-1 ), indicating bisubstrate specificity of the
+enzyme. The enzyme was found to be compatible with organic solvents (50%, v/v)
+such as acetonitrile and butanol, indicating possible application under demanding
+nonaqueous conditions.
+
+© 2019 International Union of Biochemistry and Molecular Biology, Inc.
+
+DOI: 10.1002/bab.1811 
+PMID: 31486109  [Indexed for MEDLINE]
+

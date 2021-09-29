@@ -1,0 +1,35 @@
+
+1. J Agric Food Chem. 2020 Aug 12;68(32):8557-8567. doi: 10.1021/acs.jafc.0c02660.
+Epub 2020 Jul 31.
+
+Short-Chain Cello-oligosaccharides: Intensification and Scale-up of Their
+Enzymatic Production and Selective Growth Promotion among Probiotic Bacteria.
+
+Zhong C(1), Ukowitz C(2), Domig KJ(2), Nidetzky B(1)(3).
+
+Author information: 
+(1)Institute of Biotechnology and Biochemical Engineering, Graz University of
+Technology, Graz 8010, Austria.
+(2)Institute of Food Science, Department of Food Science and Technology,
+University of Natural Resources and Life Sciences (BOKU), Vienna 1190, Austria.
+(3)Austrian Centre of Industrial Biotechnology (acib), Graz 8010, Austria.
+
+Short-chain cello-oligosaccharides (COS; degree of polymerization, DP ≤ 6) are
+promising water-soluble dietary fibers. An efficient approach to their bottom-up 
+synthesis is from sucrose and glucose using glycoside phosphorylases. Here, we
+show the intensification and scale up (20 mL; gram scale) of COS production to 93
+g/L product and in 82 mol % yield from sucrose (0.5 M). The COS were comprised of
+DP 3 (33 wt %), DP 4 (34 wt %), DP 5 (24 wt %), and DP 6 (9 wt %) and involved
+minimal loss (≤10 mol %) to insoluble fractions. After isolation (≥95% purity;
+≥90% yield), the COS were examined for growth promotion of probiotic strains.
+Benchmarked against inulin, trans-galacto-oligosaccharides, and cellobiose, COS
+showed up to 4.1-fold stimulation of cell density for Clostridium butyricum,
+Lactococcus lactis subsp. lactis, Lactobacillus paracasei subsp. paracasei, and
+Lactobacillus rhamnosus but were less efficient with Bifidobacterium sp. This
+study shows the COS as selectively functional carbohydrates with prebiotic
+potential and demonstrates their efficient enzymatic production.
+
+DOI: 10.1021/acs.jafc.0c02660 
+PMCID: PMC7458430
+PMID: 32687709 
+

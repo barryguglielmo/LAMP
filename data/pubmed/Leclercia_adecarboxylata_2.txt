@@ -1,0 +1,43 @@
+
+1. Folia Microbiol (Praha). 2020 Aug 28. doi: 10.1007/s12223-020-00816-2. [Epub
+ahead of print]
+
+RamA, a transcriptional regulator conferring florfenicol resistance in Leclercia 
+adecarboxylata R25.
+
+Cheng C(1), Ying Y(2), Zhou D(3), Zhu L(1), Lu J(2), Li A(4), Bao Q(2), Zhu M(5).
+
+Author information: 
+(1)Vocational and Technical College, Lishui University, Lishui, 323000, China.
+(2)Medical Research Center, Taizhou Hospital of Zhejiang Province, Taizhou,
+317000, Zhejiang, China.
+(3)School of Laboratory Medicine and Life Sciences/Institute of Biomedical
+Informatics, Wenzhou Medical University, Wenzhou, 325035, Zhejiang, China.
+(4)The Fifth Affiliated Hospital, Wenzhou Medical University, Lishui, 323000,
+Zhejiang, China.
+(5)Department of Clinical Laboratory, Zhejiang Hospital, Hangzhou, 310013,
+Zhejiang, China. zhumei_d@163.com.
+
+Due to the inappropriate use of florfenicol in agricultural practice, florfenicol
+resistance has become increasingly serious. In this work, we studied the novel
+florfenicol resistance mechanism of an animal-derived Leclercia adecarboxylata
+strain R25 with high-level florfenicol resistance. A random genomic DNA library
+was constructed to screen the novel florfenicol resistance gene. Gene cloning,
+gene knockout, and complementation combined with the minimum inhibitory
+concentration (MIC) detection were conducted to determine the function of the
+resistance-related gene. Sequencing and bioinformatics methods were applied to
+analyze the structure of the resistance gene-related sequences. Finally, we
+obtained a regulatory gene of an RND (resistance-nodulation-cell division)
+system, ramA, that confers resistance to florfenicol and other antibiotics. The
+ramA-deleted variant (LA-R25ΔramA) decreased the level of resistance against
+florfenicol and several other antibiotics, while a ramA-complemented strain
+(pUCP24-prom-ramA/LA-R25ΔramA) restored the drug resistance. The whole-genome
+sequencing revealed that there were five RND efflux pump genes (mdtABC, acrAB,
+acrD, acrEF, and acrAB-like) encoded over the chromosome, and ramA located
+upstream of the acrAB-like genes. The results of this work suggest that ramA
+confers resistance to florfenicol and other structurally unrelated antibiotics,
+presumably by regulating the RND efflux pump genes in L. adecarboxylata R25.
+
+DOI: 10.1007/s12223-020-00816-2 
+PMID: 32857336 
+

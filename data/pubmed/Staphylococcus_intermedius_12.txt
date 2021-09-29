@@ -1,0 +1,54 @@
+
+1. J Clin Microbiol. 2019 Oct 23;57(11). pii: e00721-19. doi: 10.1128/JCM.00721-19. 
+Print 2019 Nov.
+
+Performance of Five Commercial Identification Platforms for Identification of
+Staphylococcus delphini.
+
+Canver MC(1), Tekle T(2), Compton ST(3), Callan K(1), Burd EM(4), Zimmer BL(5),
+Bemis DA(#)(3), Carroll KC(#)(6), Westblade LF(#)(7)(8).
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New
+York, New York, USA.
+(2)Johns Hopkins Hospital, Baltimore, Maryland, USA.
+(3)Department of Biomedical and Diagnostic Sciences, University of Tennessee
+College of Veterinary Medicine, Knoxville, Tennessee, USA.
+(4)Department of Pathology and Laboratory Medicine, Emory University School of
+Medicine, Atlanta, Georgia, USA.
+(5)Beckman Coulter, Inc., Sacramento, California, USA.
+(6)Johns Hopkins University School of Medicine, Baltimore, Maryland, USA
+kcarrol7@jhmi.edu law9067@med.cornell.edu.
+(7)Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New
+York, New York, USA kcarrol7@jhmi.edu law9067@med.cornell.edu.
+(8)Division of Infectious Diseases, Department of Medicine, Weill Cornell
+Medicine, New York, New York, USA.
+(#)Contributed equally
+
+The Staphylococcus intermedius group (SIG) is a collection of coagulase-positive 
+staphylococci consisting of four distinct species, namely, Staphylococcus
+cornubiensis, Staphylococcus delphini, Staphylococcus intermedius, and
+Staphylococcus pseudintermedius SIG members are animal pathogens and rare causes 
+of human infection. Accurate identification of S. pseudintermedius has important 
+implications for interpretation of antimicrobial susceptibility testing data and 
+may be important for other members of the group. Therefore, we sought to evaluate
+the performance of five commercially available identification platforms with 21
+S. delphini isolates obtained from a variety of animal and geographic sources.
+Here, we show that automated biochemical platforms were unable to identify S.
+delphini to the species level, a function of its omission from their databases,
+but could identify isolates to the SIG level with various degrees of success.
+However, all automated systems misidentified at least one isolate as
+Staphylococcus aureus One matrix-assisted laser desorption ionization-time of
+flight mass spectrometry (MALDI-TOF MS) system was able to identify S. delphini
+to the species level, suggesting that MALDI-TOF MS is the best option for
+distinguishing members of the SIG. With the exception of S. pseudintermedius, it 
+is unclear if other SIG members should be routinely identified to the species
+level; however, as our understanding of their role in animal and human diseases
+increases, it may be necessary and important to do so.
+
+Copyright © 2019 American Society for Microbiology.
+
+DOI: 10.1128/JCM.00721-19 
+PMCID: PMC6813025
+PMID: 31413084  [Indexed for MEDLINE]
+

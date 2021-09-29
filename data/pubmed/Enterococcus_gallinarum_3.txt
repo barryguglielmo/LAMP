@@ -1,0 +1,47 @@
+
+1. Microb Drug Resist. 2020 Mar 16. doi: 10.1089/mdr.2019.0095. [Epub ahead of
+print]
+
+Whole Genome Sequence Analysis of the First Vancomycin-Resistant Enterococcus
+faecium Isolates from a Libyan Hospital in Tripoli.
+
+Ahmed MO(1), Elramalli AK(2), Baptiste KE(3), Daw MA(4), Zorgani A(4), Brouwer
+E(5), Willems RJL(5), Top J(5).
+
+Author information: 
+(1)Department of Microbiology and Parasitology, Faculty of Veterinary Medicine,
+University of Tripoli, Tripoli, Libya.
+(2)Department of Microbiology, Tripoli Medical Center, Tripoli, Libya.
+(3)Department of Veterinary Medicine, Danish Medicines Agency, Copenhagen,
+Denmark.
+(4)Department of Medical Microbiology and Immunology, Faculty of Medicine,
+University of Tripoli, Tripoli, Libya.
+(5)Department of Medical Microbiology, UMCU, Utrecht, The Netherlands.
+
+The purpose of the study was to investigate the molecular characteristics and
+genetic relatedness of the first reported cases of vancomycin-resistant
+enterococci (VRE) from the Tripoli Medical Center, Libya. In total, 43 VRE
+isolates were obtained from various clinical sites throughout the years
+2013-2014, including 40 vanA-type and 2 vanB-type vancomycin-resistant
+Enterococcus faecium isolates and 1 vanC1-type Enterococcus gallinarum. Of the 42
+E. faecium, 19 isolates were subjected to whole genome sequencing. Core genome
+multilocus sequence typing (cgMLST) analysis revealed three sequence clusters
+(SCs) of clonally related isolates, which were linked to different hospital
+wards. The first two VRE isolates, isolated early 2013 from patients in the
+medical intensive care unit, were grouped in SC1 (MLST [ST] 78, vanB) and
+differed in only 3 of 1423 cgMLST alleles. The SC2 (n = 16, special care baby
+unit, neonatal intensive care unit, pediatric surgery ward, and oncology ward)
+and SC3 (n = 1, antenatal ward) were all ST80 vanA-VRE, but the single SC3
+isolate differed in 233 alleles compared with SC2. Within SC2, isolates differed 
+in 1-23 alleles. Comparison with a larger database of E. faecium strains
+indicated that all isolates clustered within the previously defined hospital
+clade A1. A combination of Resfinder and mlplasmid analysis identified the
+presence of resistance genes on different plasmid predicted genetic elements
+among different SCs. In conclusion, this study documents the first isolates
+causing outbreaks with VRE in the Libyan health care system. Further surveillance
+efforts using molecular typing methods to monitor spread of multidrug-resistant
+bacteria in the Libyan health care system are urgently needed.
+
+DOI: 10.1089/mdr.2019.0095 
+PMID: 32181678 
+

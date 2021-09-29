@@ -1,0 +1,41 @@
+
+1. Microorganisms. 2020 Apr 9;8(4). pii: E539. doi: 10.3390/microorganisms8040539.
+
+Genome-Scale Metabolic Network Reconstruction and In Silico Analysis of Hexanoic 
+acid Producing Megasphaera elsdenii.
+
+Lee NR(1)(2), Lee CH(1), Lee DY(3), Park JB(2).
+
+Author information: 
+(1)Department of Bioscience and Biotechnology, Konkuk University, Seoul 05029,
+Korea.
+(2)Department of Food Science and Engineering, Ewha Womans University, Seoul
+03760, Korea.
+(3)School of Chemical Engineering, Sungkyunkwan University, 2066 Seobu-ro,
+Jangan-gu, Suwon, Gyeonggi-do 16419, Korea.
+
+Hexanoic acid and its derivatives have been recently recognized as value-added
+materials and can be synthesized by several microbes. Of them, Megasphaera
+elsdenii has been considered as an interesting hexanoic acid producer because of 
+its capability to utilize a variety of carbons sources. However, the cellular
+metabolism and physiology of M. elsdenii still remain uncharacterized. Therefore,
+in order to better understand hexanoic acid synthetic metabolism in M. elsdenii, 
+we newly reconstructed its genome-scale metabolic model, iME375, which accounts
+for 375 genes, 521 reactions, and 443 metabolites. A constraint-based analysis
+was then employed to evaluate cell growth under various conditions. Subsequently,
+a flux ratio analysis was conducted to understand the mechanism of bifurcated
+hexanoic acid synthetic pathways, including the typical fatty acid synthetic
+pathway via acetyl-CoA and the TCA cycle in a counterclockwise direction through 
+succinate. The resultant metabolic states showed that the highest hexanoic acid
+production could be achieved when the balanced fractional contribution via
+acetyl-CoA and succinate in reductive TCA cycle was formed in various cell growth
+rates. The highest hexanoic acid production was maintained in the most perturbed 
+flux ratio, as phosphoenolpyruvate carboxykinase (pck) enables the bifurcated
+pathway to form consistent fluxes. Finally, organic acid consuming simulations
+suggested that succinate can increase both biomass formation and hexanoic acid
+production.
+
+DOI: 10.3390/microorganisms8040539 
+PMCID: PMC7232489
+PMID: 32283671 
+

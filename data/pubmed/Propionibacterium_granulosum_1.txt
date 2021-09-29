@@ -1,0 +1,47 @@
+
+1. J Clin Med. 2020 Jan 8;9(1). pii: E168. doi: 10.3390/jcm9010168.
+
+Characterization and Analysis of the Skin Microbiota in Acne: Impact of Systemic 
+Antibiotics.
+
+Park SY(1), Kim HS(1)(2), Lee SH(2), Kim S(1).
+
+Author information: 
+(1)Department of Biomedicine & Health Sciences, The Catholic University of Korea,
+222 Banpo-daero, Seocho-gu, Seoul 06591, Korea.
+(2)Department of Dermatology, Incheon St. Mary's Hospital, The Catholic
+University of Korea, Seoul 06591, Korea.
+
+Systemic antibiotics are extensively used to control moderate to severe acne.
+Hence, it is crucial to understand their impact on the skin microbiota, which is 
+supposedly perturbed. The purpose of this study was to compare the makeup and
+diversity of the skin microbiota in acne patients before and after taking oral
+antibiotics. A longitudinal cohort study was performed on 20 participants with
+moderate to severe facial acne with no recent use of oral and topical
+antibiotics/retinoids. Patients were prescribed oral doxycycline, 100 mg, twice
+daily for six weeks. Skin areas on the cheek were sampled for 16S ribosomal RNA
+gene sequencing at baseline, and after six weeks of doxycycline treatment. Ten
+males and 10 females aged 11 to 44 years with a median Investigator's Global
+Assessment score of 3 (moderate) were enrolled. At baseline, Cutibacterium acnes 
+(formerly Propionibacterium acnes) was the most dominant species followed by
+Staphylococcus epidermidis. Acne severity showed a positive correlation with the 
+abundance of Cutibacterium acnes. Across all subjects, antibiotic treatment
+reduced clinical acne grades and was associated with a 1.96-fold reduction in the
+relative abundance of Cutibacterium acnes (p = 0.01, 95% CI -22% to -3%). Marked 
+changes were also identified in other bacterial species, such as Cutibacterium
+granulosum (formerly Propionibacterium granulosum), which increased by 4.46-fold 
+(p = 0.02, 95% CI 0.004% to 0.9%) in the treated samples. In general, antibiotics
+administration was associated with an increase in bacterial diversity (alpha
+diversity). Principal coordinates analysis showed mild clustering of samples by
+patient (analysis of similarity, R = 0.135, p = 0.04) whereas there was scant
+clustering with treatment (ANOSIM, R = 0.005; p = 0.29). In conclusion, we found 
+individuals with acne to have a unique microbial signature. Acne treatment with
+systemic antibiotics was associated with changes in the composition and diversity
+of skin microbiota, especially Cutibacterium acnes, which correlates with acne
+severity. Our study provides insight into the skin microbiota in acne and how it 
+is modulated by systemic antibiotics.
+
+DOI: 10.3390/jcm9010168 
+PMCID: PMC7019264
+PMID: 31936262 
+

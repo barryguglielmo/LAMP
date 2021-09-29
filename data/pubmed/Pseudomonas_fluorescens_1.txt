@@ -1,0 +1,56 @@
+
+1. Sci Rep. 2020 Oct 1;10(1):16369. doi: 10.1038/s41598-020-73266-y.
+
+Biochemical evidence of both copper chelation and oxygenase activity at the
+histidine brace.
+
+Brander S(1), Horvath I(2), Ipsen JØ(3), Peciulyte A(4), Olsson L(4),
+Hernández-Rollán C(5), Nørholm MHH(5), Mossin S(6), Leggio LL(7), Probst C(8),
+Thiele DJ(8), Johansen KS(9)(10).
+
+Author information: 
+(1)Department of Geoscience and Natural Resource Management, University of
+Copenhagen, 1958, Frederiksberg, Denmark.
+(2)Division of Chemical Biology, Department of Biology and Biological
+Engineering, Chalmers University of Technology, Kemivägen 10, 412 96, Gothenburg,
+Sweden.
+(3)Department of Plant and Environmental Sciences, University of Copenhagen,
+1871, Frederiksberg, Denmark.
+(4)Division of Industrial Biotechnology, Department of Biology and Biological
+Engineering, Chalmers University of Technology, Kemivägen 10, 412 96, Gothenburg,
+Sweden.
+(5)Novo Nordisk Foundation Center for Biosustainability, Technical University of 
+Denmark, 2800, Kgs. Lyngby, Denmark.
+(6)Centre for Catalysis and Sustainable Chemistry, Department of Chemistry,
+Technical University of Denmark, 2800, Kgs. Lyngby, Denmark.
+(7)Department of Chemistry, University of Copenhagen, 2100, Copenhagen Ø,
+Denmark.
+(8)Department of Biochemistry, Pharmacology and Cancer Biology and Molecular
+Genetics and Microbiology, Duke University School of Medicine, Durham, NC, 27710,
+USA.
+(9)Department of Geoscience and Natural Resource Management, University of
+Copenhagen, 1958, Frederiksberg, Denmark. ksj@ign.ku.dk.
+(10)Division of Industrial Biotechnology, Department of Biology and Biological
+Engineering, Chalmers University of Technology, Kemivägen 10, 412 96, Gothenburg,
+Sweden. ksj@ign.ku.dk.
+
+Lytic polysaccharide monooxygenase (LPMO) and copper binding protein CopC share a
+similar mononuclear copper site. This site is defined by an N-terminal histidine 
+and a second internal histidine side chain in a configuration called the
+histidine brace. To understand better the determinants of reactivity, the
+biochemical and structural properties of a well-described cellulose-specific LPMO
+from Thermoascus aurantiacus (TaAA9A) is compared with that of CopC from
+Pseudomonas fluorescens (PfCopC) and with the LPMO-like protein Bim1 from
+Cryptococcus neoformans. PfCopC is not reduced by ascorbate but is a very strong 
+Cu(II) chelator due to residues that interacts with the N-terminus. This first
+biochemical characterization of Bim1 shows that it is not redox active, but very 
+sensitive to H2O2, which accelerates the release of Cu ions from the protein.
+TaAA9A oxidizes ascorbate at a rate similar to free copper but through a
+mechanism that produce fewer reactive oxygen species. These three biologically
+relevant examples emphasize the diversity in how the proteinaceous environment
+control reactivity of Cu with O2.
+
+DOI: 10.1038/s41598-020-73266-y 
+PMCID: PMC7529816
+PMID: 33004835 
+

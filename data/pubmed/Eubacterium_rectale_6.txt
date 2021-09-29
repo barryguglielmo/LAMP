@@ -1,0 +1,55 @@
+
+1. Genome Biol. 2020 Jun 8;21(1):138. doi: 10.1186/s13059-020-02042-y.
+
+Analysis of 1321 Eubacterium rectale genomes from metagenomes uncovers complex
+phylogeographic population structure and subspecies functional adaptations.
+
+Karcher N(1), Pasolli E(2), Asnicar F(1), Huang KD(1)(3), Tett A(1), Manara S(1),
+Armanini F(1), Bain D(4), Duncan SH(4), Louis P(4), Zolfo M(1), Manghi P(1),
+Valles-Colomer M(1), Raffaetà R(5), Rota-Stabelli O(3), Collado MC(6), Zeller
+G(7), Falush D(8), Maixner F(9), Walker AW(4), Huttenhower C(10)(11), Segata
+N(12).
+
+Author information: 
+(1)Department CIBIO, University of Trento, Trento, Italy.
+(2)Department of Agriculture, University of Naples, Naples, Italy.
+(3)Fondazione Edmund Mach, S. Michele all'Adige, Italy.
+(4)Rowett Institute, University of Aberdeen, Aberdeen, UK.
+(5)Free University of Bozen-Bolzano, Bolzano, Italy.
+(6)IATA-CSIC, Valencia, Spain.
+(7)EMBL, Heidelberg, Germany.
+(8)University of Bath, Bath, UK.
+(9)Institute for Mummy studies, Eurac Research, Bolzano, Italy.
+(10)Harvard T.H. Chan School of Public Health, Boston, MA, USA.
+(11)The Broad Institute, Cambridge, MA, USA.
+(12)Department CIBIO, University of Trento, Trento, Italy.
+nicola.segata@unitn.it.
+
+BACKGROUND: Eubacterium rectale is one of the most prevalent human gut bacteria, 
+but its diversity and population genetics are not well understood because
+large-scale whole-genome investigations of this microbe have not been carried
+out.
+RESULTS: Here, we leverage metagenomic assembly followed by a reference-based
+binning strategy to screen over 6500 gut metagenomes spanning geography and
+lifestyle and reconstruct over 1300 E. rectale high-quality genomes from
+metagenomes. We extend previous results of biogeographic stratification,
+identifying a new subspecies predominantly found in African individuals and
+showing that closely related non-human primates do not harbor E. rectale.
+Comparison of pairwise genetic and geographic distances between subspecies
+suggests that isolation by distance and co-dispersal with human populations might
+have contributed to shaping the contemporary population structure of E. rectale. 
+We confirm that a relatively recently diverged E. rectale subspecies specific to 
+Europe consistently lacks motility operons and that it is immotile in vitro,
+probably due to ancestral genetic loss. The same subspecies exhibits expansion of
+its carbohydrate metabolism gene repertoire including the acquisition of a
+genomic island strongly enriched in glycosyltransferase genes involved in
+exopolysaccharide synthesis.
+CONCLUSIONS: Our study provides new insights into the population structure and
+ecology of E. rectale and shows that shotgun metagenomes can enable population
+genomics studies of microbiota members at a resolution and scale previously
+attainable only by extensive isolate sequencing.
+
+DOI: 10.1186/s13059-020-02042-y 
+PMCID: PMC7278147
+PMID: 32513234 
+

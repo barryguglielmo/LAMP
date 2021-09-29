@@ -1,0 +1,52 @@
+
+1. Mol Biol Rep. 2020 Aug;47(8):6445-6449. doi: 10.1007/s11033-020-05663-5. Epub
+2020 Jul 22.
+
+WGS-based characterization of the potentially beneficial Enterococcus faecium EFD
+from a beehive.
+
+Dimov SG(1), Guyrova A(2), Vladimirova A(2), Dimitrov M(2), Peykov S(2), Strateva
+T(3).
+
+Author information: 
+(1)Faculty of Biology, Department of Genetics, Sofia University "St. Kliment
+Ohridski", Sofia, Bulgaria. svetoslav@biofac.uni-sofia.bg.
+(2)Faculty of Biology, Department of Genetics, Sofia University "St. Kliment
+Ohridski", Sofia, Bulgaria.
+(3)Faculty of Medicine, Department of Medical Microbiology, Medical University - 
+Sofia, Sofia, Bulgaria.
+
+Nowadays, due to their potential application as probiotics for humans or animals,
+many beneficial lactic acid bacteria have been isolated from different natural
+environments. These include members of the genus Enterococcus - quite specific
+due to their ambiguous nature, varying from pathogens to probiotics. In our work 
+we present a whole-genome sequencing (WGS)-based approach for assessing the
+potential of bacteriocin-producing Enterococcus isolates from beehives to serve
+as natural preserving agents against bacterial infections associated with
+honeybees. Potential Enterococcus spp. isolates from pollen granules were tested 
+with the well diffusion assay for bacteriocin activity against Paenibacillus
+larvae, the causative agent of the American foulbrood disease (AFB). Two of them 
+gave positive results and were determined at species level by 16S rRNA genes
+sequencing. They were then subjected to WGS using the Illumina HiSeq platform.
+The resulting raw data reads were processed and further analyzed by using only
+freely available web-based tools (the Shovill pipeline, QUAST, BAGEL4, ResFinder,
+VirulenceFinder and PlasmidFinder). The analysis revealed that both of them
+represent clonally identical isolates of the same strain. This specific strain
+was named Enterococcus faecium EFD, and was genotyped by the MLST-2.0 Server.
+Five bacteriocin genes were found in the assembled genome, providing a possible
+explanation for the antimicrobial properties of the isolate. The protein nature
+of the inhibitory agent/s was confirmed by treatment with proteinase K. No
+resistance determinants for clinically important antibiotics and functional
+virulence factor genes were detected. The bioinformatic analyses of the draft
+genome sequence suggest that E. faecium EFD is not pathogenic.The observation
+that E. faecium EFD was present within more than one of the beehives in the
+apiary proposes the idea that E. faecium EFD is there as a part of the normal
+beehive microbiota. This finding, in combination with its antibacterial activity 
+against P. larvae, highlights this novel isolate as a potential natural
+preserving agent against AFB. Furthermore, the WGS-based approach reported here
+proved to be very cost- and time- efficient, for screening the applicability of
+new pro- and prebiotic Enterococcus strains as beehive protection agents.
+
+DOI: 10.1007/s11033-020-05663-5 
+PMID: 32696346 
+

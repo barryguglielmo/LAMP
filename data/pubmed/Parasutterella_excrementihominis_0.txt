@@ -1,0 +1,51 @@
+
+1. Nutrients. 2020 Aug 27;12(9). pii: E2610. doi: 10.3390/nu12092610.
+
+Differences in Gut Microbiome Composition between Senior Orienteering Athletes
+and Community-Dwelling Older Adults.
+
+Fart F(1), Rajan SK(1), Wall R(1), Rangel I(1), Ganda-Mall JP(1)(2), Tingö L(1), 
+Brummer RJ(1), Repsilber D(1), Schoultz I(1), Lindqvist CM(1).
+
+Author information: 
+(1)School of Medical Sciences, Faculty of Medicine and Health, Örebro University,
+702 81 Örebro, Sweden.
+(2)Laboratory of Translational Mucosal Immunology, Digestive Diseases Research
+Unit, Vall d'Hebron Institut de Recerca, Hospital Universitari Vall d'Hebron,
+08035 Barcelona, Spain.
+
+BACKGROUND: Gastrointestinal (GI) health is an important aspect of general
+health. Gastrointestinal symptoms are of specific importance for the elderly, an 
+increasing group globally. Hence, promoting the elderly's health and especially
+gastrointestinal health is important. Gut microbiota can influence
+gastrointestinal health by modulation of the immune system and the gut-brain
+axis. Diverse gut microbiota have been shown to be beneficial; however, for the
+elderly, the gut microbiota is often less diverse. Nutrition and physical
+activity, in particular, are two components that have been suggested to influence
+composition or diversity.
+MATERIALS AND METHODS: In this study, we compared gut microbiota between two
+groups of elderly individuals: community-dwelling older adults and physically
+active senior orienteering athletes, where the latter group has less
+gastrointestinal symptoms and a reported better well-being. With this approach,
+we explored if certain gut microbiota were related to healthy ageing. The
+participant data and faecal samples were collected from these two groups and the 
+microbiota was whole-genome sequenced and taxonomically classified with
+MetaPhlAn.
+RESULTS: The physically active senior orienteers had a more homogeneous
+microbiota within the group and a higher abundance of Faecalibacterium
+prausnitzii compared to the community-dwelling older adults. Faecalibacterium
+prausnitzii has previously shown to have beneficial properties. Senior orienteers
+also had a lower abundance of Parasutterella excrementihominis and Bilophila
+unclassified, which have been associated with impaired GI health. We could not
+observe any difference between the groups in terms of Shannon diversity index.
+Interestingly, a subgroup of community-dwelling older adults showed an atypical
+microbiota profile as well as the parameters for gastrointestinal symptoms and
+well-being closer to senior orienteers.
+CONCLUSIONS: Our results suggest specific composition characteristics of healthy 
+microbiota in the elderly, and show that certain components of nutrition as well 
+as psychological distress are not as tightly connected with composition or
+diversity variation in faecal microbiota samples.
+
+DOI: 10.3390/nu12092610 
+PMID: 32867153 
+

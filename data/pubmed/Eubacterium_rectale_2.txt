@@ -1,0 +1,39 @@
+
+1. Biochem Eng J. 2019 Nov 15;151. pii: 107338. doi: 10.1016/j.bej.2019.107338. Epub
+2019 Aug 13.
+
+Metabolic modeling of bacterial co-culture systems predicts enhanced carbon
+monoxide-to-butyrate conversion compared to monoculture systems.
+
+Li X(1), Henson MA(1).
+
+Author information: 
+(1)Department of Chemical Engineering and Institute for Applied Life Sciences,
+University of Massachusetts, Amherst, MA, 01003, USA.
+
+We used metabolic modeling to computationally investigate the potential of
+bacterial coculture system designs for CO conversion to the platform chemical
+butyrate. By taking advantage of the native capabilities of wild-type strains, we
+developed two anaerobic coculture designs by combining Clostridium
+autoethanogenum for CO-to-acetate conversion with bacterial strains that offer
+high acetate-to-butyrate conversion capabilities: the environmental bacterium the
+human gut bacteriumEubacterium rectale. When grown in continuous stirred tank
+reactor on a 70/0/30 CO/H2/N2 gas mixture, the C. autoethanogenum-C Kluyveri
+co-culture was predicted to offer no mprovement in butyrate volumetric
+productivity compared to an engineered C. autoethanogenum monoculture despite
+utilizing vinyl acetate as a secondary carbon source for C. kluyveri growth
+enhancement. A coculture consisting of C. autoethanogenum and C. kluyveri
+engineered in silico to eliminate hexanoate synthesis was predicted to enhance
+both butyrate productivity and titer. The C. autoethanogenum-E. rectale coculture
+offered similar improvements in butyrate productivity without the need for
+metabolic engineering when glucose was provided as a secondary carbon source to
+enhance E. rectale growth. A bubble column model developed to assess the
+potential for large-scale butyrate production of the C. autoethanogenum-E.
+rectale design predicted that a 40/30/30 CO/H2/N2 gas mixture and a 5 m column
+length would be preferred to enhance C. autoethanogenum growth and counteract CO 
+inhibitory effects on E. rectale.
+
+DOI: 10.1016/j.bej.2019.107338 
+PMCID: PMC7449128 [Available on 2020-11-15]
+PMID: 32863734 
+

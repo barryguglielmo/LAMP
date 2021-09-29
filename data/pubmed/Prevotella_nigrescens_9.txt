@@ -1,0 +1,51 @@
+
+1. PLoS One. 2020 May 11;15(5):e0232912. doi: 10.1371/journal.pone.0232912.
+eCollection 2020.
+
+Confocal Raman microscopy to identify bacteria in oral subgingival biofilm
+models.
+
+Kriem LS(1), Wright K(2), Ccahuana-Vasquez RA(3), Rupp S(1).
+
+Author information: 
+(1)Fraunhofer Institute for Interfacial Engineering and Biotechnology, Stuttgart,
+Germany.
+(2)Procter & Gamble, Egham, England, United Kingdom.
+(3)Procter & Gamble, Kronberg, Germany.
+
+The study of oral disease progression, in relation to the accumulation of
+subgingival biofilm in gingivitis and periodontitis is limited, due to either the
+ability to monitor plaque in vitro. When compared, optical spectroscopic
+techniques offer advantages over traditional destructive or biofilm staining
+approaches, making it a suitable alternative for the analysis and continued
+development of three-dimensional structures. In this work, we have developed a
+confocal Raman spectroscopy analysis approach towards in vitro subgingival plaque
+models. The main objective of this study was to develop a method for
+differentiating multiple oral subgingival bacterial species in planktonic and
+biofilm conditions, using confocal Raman microscopy. Five common subgingival
+bacteria (Fusobacterium nucleatum, Streptococcus mutans, Veillonella dispar,
+Actinomyces naeslundii and Prevotella nigrescens) were used and differentiated
+using a 2-way orthogonal Partial Least Square with Discriminant Analysis
+(O2PLS-DA) for the collected spectral data. In addition to planktonic growth,
+mono-species biofilms cultured using the 'Zürich Model' were also analyzed. The
+developed method was successfully used to predict planktonic and mono-species
+biofilm species in a cross validation setup. The results show differences in the 
+presence and absence of chemical bands within the Raman spectra. The O2PLS-DA
+model was able to successfully predict 100% of all tested planktonic samples and 
+90% of all mono-species biofilm samples. Using this approach we have shown that
+Confocal Raman microscopy can analyse and predict the identity of planktonic and 
+mono-species biofilm species, thus enabling its potential as a technique to map
+oral multi-species biofilm models.
+
+DOI: 10.1371/journal.pone.0232912 
+PMCID: PMC7213720
+PMID: 32392236  [Indexed for MEDLINE]
+
+Conflict of interest statement: There are no conflicts of interest declared for
+this paper beyond the affiliations of the coauthors with P&G, with Renzo Alberto 
+Ccahuana-Vasquez being a recognized expert in Oral Care and Kevin Wright an R&D
+microbiologist. There is no IP associated with this publication for any of the
+partners and no technologies pertaining to products either in development or on
+the market have been used in this work. This does not alter our adherence to PLOS
+ONE policies on sharing data and materials.
+

@@ -1,0 +1,46 @@
+
+1. Faraday Discuss. 2020 Jul 28. doi: 10.1039/d0fd00026d. [Epub ahead of print]
+
+Integration of bio-responsive silver in 1D photonic crystals: towards the
+colorimetric detection of bacteria.
+
+Paternò GM(1), Moscardi L(2), Donini S(1), Ross AM(3), Pietralunga SM(4), Dalla
+Vedova N(1), Normani S(1), Kriegel I(5), Lanzani G(2), Scotognella F(2).
+
+Author information: 
+(1)Center for Nano Science and Technology, Istituto Italiano di Tecnologia (IIT),
+Via Pascoli 10, Milano, 20133, Italy. Giuseppe.Paterno@iit.it.
+(2)Center for Nano Science and Technology, Istituto Italiano di Tecnologia (IIT),
+Via Pascoli 10, Milano, 20133, Italy. Giuseppe.Paterno@iit.it and Physics
+Department, Politecnico di Milano, Piazza L. da Vinci 32, 20133 Milano, Italy.
+(3)Physics Department, Politecnico di Milano, Piazza L. da Vinci 32, 20133
+Milano, Italy.
+(4)Center for Nano Science and Technology, Istituto Italiano di Tecnologia (IIT),
+Via Pascoli 10, Milano, 20133, Italy. Giuseppe.Paterno@iit.it and Institute for
+Photonics and Nanotechnologies (IFN), Consiglio Nazionale delle Ricerche (CNR),
+Piazza L. da Vinci 32, 20133 Milano, Italy.
+(5)Department of Nanochemistry, Istituto Italiano di Tecnologia (IIT), via
+Morego, 30, 16163 Genova, Italy.
+
+The colour purity and versatility of fabrication of one-dimensional photonic
+crystals (1D PhCs) make them ideal candidates for colorimetric sensing of a
+variety of analytes. For instance, the detection of bacterial contaminants in
+food via colorimetric sensors can be highly appealing, as most of the existing
+detection techniques are in general time-consuming and the read-out requires
+specialised personnel. Here, we present a colorimetric sensor based on hybrid
+plasmonic/photonic 1D crystals. We demonstrate that the modification of the
+silver plasmon resonance brought about by the effective silver/bacterium
+interaction can be translated into the visible spectral region, producing a
+change in the structural colour. In addition, we observe a superior colorimetric 
+sensitivity against the Gram negative Escherichia coli compared to the Gram
+positive Micrococcus luteus, a result that we attribute to the more efficient
+electrostatic interaction and cellular adhesion between the silver surface and
+the Gram-negative bacteria outer membrane. This approach demonstrates that in
+principle an easy colorimetric detection of bacterial contaminants can be
+achieved through the use of bio-responsive plasmonic materials, such as silver,
+whose selective electrostatic interaction with bacterial cell wall is well-known 
+and occurs without the need of chemical functionalisation.
+
+DOI: 10.1039/d0fd00026d 
+PMID: 32720674 
+

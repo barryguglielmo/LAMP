@@ -1,0 +1,62 @@
+
+1. Pol J Microbiol. 2020 Sep;69(1):99-108. doi: 10.33073/pjm-2020-013. Epub 2020 Mar
+11.
+
+Oligotrophic Nitrification and Denitrification Bacterial Communities in a
+Constructed Sewage Treatment Ecosystem and Nitrogen Removal of Delftia
+tsuruhatensis NF4.
+
+Yang R(1), Li J(1), Wei-Xie L(1), Shao L(1).
+
+Author information: 
+(1)College of Environment and Ecology, Chengdu University of Technology , China.
+
+Oligotrophic nitrifiers and denitrifiers play important roles in the removal of
+nitrogen from wastewater. Here, we studied the dominant bacterial populations of 
+the sewage treatment ecosystem (STE) water from different processes and those of 
+culture on oligotrophic heterotrophic nitrification (OHN) medium and oligotrophic
+aerobic denitrification (OAD) medium, using co-analysis of Illumina HiSeq DNA
+sequencing and traditional culture methods. The results showed that the STE water
+had no dominant population of oligotrophic nitrifiers or oligotrophic
+denitrifiers. However, after culturing on OHN medium and OAD medium, the core
+genera Pseudomonas, Aeromonas, and Acinetobacter that have the nitrogen removal
+capacity in oligotrophic environments, dominated in the bacterial community. The 
+principal component analysis (PCA) showed that the bacterial community in the
+constructed rapid infiltration (CRI) effluent water of STE had high similarity
+with those of cultures on OHN medium and OAD medium, which prompt the special
+purification role of nitrogen in the CRI system. The sodium alginate immobilized 
+OAD bacteria strain Delftia tsuruhatensis NF4 was isolated from the CRI system,
+with total nitrogen (TN) removal efficiency of 43.3% in sterilized STE influent
+water, and 60.1% in OAD medium on day three. The immobilization significantly
+influenced the TN and nitrate removal efficiency in OAD medium (p < 0.05), but
+not in sterilized STE influent water (p > 0.05). This study would lay the
+foundation for resource discovery of oligotrophic heterotrophic nitrifiers and
+aerobic denitrifiers in STE and further functional application of them on the
+bioremediation of wastewater.Oligotrophic nitrifiers and denitrifiers play
+important roles in the removal of nitrogen from wastewater. Here, we studied the 
+dominant bacterial populations of the sewage treatment ecosystem (STE) water from
+different processes and those of culture on oligotrophic heterotrophic
+nitrification (OHN) medium and oligotrophic aerobic denitrification (OAD) medium,
+using co-analysis of Illumina HiSeq DNA sequencing and traditional culture
+methods. The results showed that the STE water had no dominant population of
+oligotrophic nitrifiers or oligotrophic denitrifiers. However, after culturing on
+OHN medium and OAD medium, the core genera Pseudomonas, Aeromonas, and
+Acinetobacter that have the nitrogen removal capacity in oligotrophic
+environments, dominated in the bacterial community. The principal component
+analysis (PCA) showed that the bacterial community in the constructed rapid
+infiltration (CRI) effluent water of STE had high similarity with those of
+cultures on OHN medium and OAD medium, which prompt the special purification role
+of nitrogen in the CRI system. The sodium alginate immobilized OAD bacteria
+strain Delftia tsuruhatensis NF4 was isolated from the CRI system, with total
+nitrogen (TN) removal efficiency of 43.3% in sterilized STE influent water, and
+60.1% in OAD medium on day three. The immobilization significantly influenced the
+TN and nitrate removal efficiency in OAD medium (p < 0.05), but not in sterilized
+STE influent water (p > 0.05). This study would lay the foundation for resource
+discovery of oligotrophic heterotrophic nitrifiers and aerobic denitrifiers in
+STE and further functional application of them on the bioremediation of
+wastewater.
+
+DOI: 10.33073/pjm-2020-013 
+PMCID: PMC7256856
+PMID: 32189483  [Indexed for MEDLINE]
+

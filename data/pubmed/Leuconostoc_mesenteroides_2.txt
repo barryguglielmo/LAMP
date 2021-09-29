@@ -1,0 +1,45 @@
+
+1. Biochem Biophys Res Commun. 2020 Sep 29. pii: S0006-291X(20)31857-X. doi:
+10.1016/j.bbrc.2020.09.105. [Epub ahead of print]
+
+Production of electricity and reduction of high-fat diet-induced IL-6 by glucose 
+fermentation of Leuconostoc mesenteroides.
+
+Yang JJ(1), Rahim AR(2), Yang AJ(2), Chuang TH(3), Huang CM(4).
+
+Author information: 
+(1)Department of Life Sciences, National Central University, Taiwan.
+(2)Department of Biomedical Sciences and Engineering, National Central
+University, Taiwan.
+(3)Immunology Research Center, National Health Research Institutes, Taiwan.
+(4)Department of Biomedical Sciences and Engineering, National Central
+University, Taiwan. Electronic address: chunming@ncu.edu.tw.
+
+Electrogenic bacteria can mediate electron transfer to conserve energy and
+promote growth. To examine bacterial electrogenicity, an L. mesenteroides EH-1
+strain was cultured in rich media in the presence and absence of 2% glucose.
+After 12 h incubation, glucose triggered fermentation of L. mesenteroides EH-1 to
+produce >10 mmol/l acetate and elicit electricity measured by voltage changes.
+The electricity production was mediated by glucose fermentation since
+pre-treatment of L. mesenteroides EH-1 with furfural, a fermentation inhibitor,
+completely diminished the voltage increases. The deficiency of furfural
+pre-treated L. mesenteroides EH-1 in electricity production can be restored by
+the external addition of acetate into the bacterial culture, suggesting the
+function of acetate as an electron donor. Oral administration of HFD-fed mice
+with L. mesenteroides EH-1 in the presence or absence of glucose significantly
+attenuated the high level of pro-inflammatory IL-6 cytokine in blood. Bacterial
+electricity can be elicited by fermentation. Supplementation of fermenting and
+electrogenic L. mesenteroides EH-1 may provide a novel approach for the reduction
+of pro-inflammatory IL-6 cytokine that increased in chronic inflammation,
+autoimmune diseases, cancers, and infections.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2020.09.105 
+PMID: 33008603 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

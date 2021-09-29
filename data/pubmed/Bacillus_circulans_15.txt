@@ -1,0 +1,41 @@
+
+1. Sci Rep. 2019 Oct 25;9(1):15295. doi: 10.1038/s41598-019-51822-5.
+
+Crystal structure of the catalytic unit of GH 87-type α-1,3-glucanase Agl-KA from
+Bacillus circulans.
+
+Yano S(1), Suyotha W(2), Oguro N(1), Matsui T(3), Shiga S(1), Itoh T(4), Hibi
+T(4), Tanaka Y(3), Wakayama M(5), Makabe K(6).
+
+Author information: 
+(1)Department of Biochemical Engineering, Graduate School of Sciences and
+Engineering, Yamagata University, Jonan, Yonezawa, Yamagata, 992-8510, Japan.
+(2)Department of Industrial Biotechnology, Faculty of Agro-industry, Prince of
+Songkla University, Hat Yai, 90112, Thailand.
+(3)Graduate School of Life Sciences, Tohoku University, Sendai, 980-8577, Japan.
+(4)Department of Bioscience and Biotechnology, Faculty of Biotechnology, Fukui
+Prefectural University, Eiheiji-cho, Yoshida-gun, Fukui, 910-1195, Japan.
+(5)Department of Biotechnology, Faculty of Life Sciences, Ritsumeikan University,
+Kusatsu, Shiga, 525-8577, Japan.
+(6)Department of Biochemical Engineering, Graduate School of Sciences and
+Engineering, Yamagata University, Jonan, Yonezawa, Yamagata, 992-8510, Japan.
+makabe@yz.yamagata-u.ac.jp.
+
+Glycoside hydrolase (GH) 87-type α-1,3-glucanase hydrolyses the α-1,3-glucoside
+linkages of α-1,3-glucan, which is found in fungal cell walls and extracellular
+polysaccharides produced by oral Streptococci. In this study, we report on the
+molecular structure of the catalytic unit of GH 87-type α-1,3-glucanase, Agl-KA, 
+from Bacillus circulans, as determined by x-ray crystallography at a resolution
+of 1.82 Å. The catalytic unit constitutes a complex structure of two tandemly
+connected domains-the N-terminal galactose-binding-like domain and the C-terminal
+right-handed β-helix domain. While the β-helix domain is widely found among
+polysaccharide-processing enzymes, complex formation with the
+galactose-binding-like domain was observed for the first time. Biochemical assays
+showed that Asp1067, Asp1090 and Asp1091 are important for catalysis, and these
+residues are indeed located at the putative substrate-binding cleft, which forms 
+a closed end and explains the product specificity.
+
+DOI: 10.1038/s41598-019-51822-5 
+PMCID: PMC6814745
+PMID: 31653959 
+

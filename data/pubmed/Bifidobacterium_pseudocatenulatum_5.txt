@@ -1,0 +1,53 @@
+
+1. Front Microbiol. 2020 May 26;11:1088. doi: 10.3389/fmicb.2020.01088. eCollection 
+2020.
+
+The Diversity of the CRISPR-Cas System and Prophages Present in the Genome
+Reveals the Co-evolution of Bifidobacterium pseudocatenulatum and Phages.
+
+Wang G(1), Liu Q(1), Pei Z(1), Wang L(1), Tian P(1), Liu Z(2), Zhao J(1)(3)(4),
+Zhang H(1)(3)(5)(6)(7), Chen W(1)(3)(6)(8).
+
+Author information: 
+(1)State Key Laboratory of Food Science and Technology, Jiangnan University,
+Wuxi, China.
+(2)State Key Laboratory of Dairy Biotechnology, Shanghai Engineering Research
+Center of Dairy Biotechnology, Dairy Research Institute, Bright Dairy & Food Co.,
+Ltd., Shanghai, China.
+(3)School of Food Science and Technology, Jiangnan University, Wuxi, China.
+(4)International Joint Research Laboratory for Probiotics, Jiangnan University,
+Wuxi, China.
+(5)(Yangzhou) Institute of Food Biotechnology, Jiangnan University, Yangzhou,
+China.
+(6)National Engineering Research Center for Functional Food, Jiangnan University,
+Wuxi, China.
+(7)Wuxi Translational Medicine Research Center and Jiangsu Translational Medicine
+Research Institute Wuxi Branch, Wuxi, China.
+(8)Beijing Innovation Centre of Food Nutrition and Human Health, Beijing
+Technology and Business University, Beijing, China.
+
+Diverse CRISPR-Cas systems constitute an indispensable part of the bacterial
+adaptive immune system against viral infections. However, to escape from this
+immune system, bacteriophages have also evolved corresponding anti-defense
+measures. We investigated the diversity of CRISPR-Cas systems and the presence of
+prophages in the genomes of 66 Bifidobacterium pseudocatenulatum strains. Our
+findings revealed a high occurrence of complete CRISPR-Cas systems (62%, 41/66)
+in the B. pseudocatenulatum genomes. Subtypes I-C, I-U and II-A, were found to be
+widespread in this species. No significant association was found between the
+number of bacterial CRISPR spacers and its host's age. This study on prophages
+within B. pseudocatenulatum genomes revealed that prophage genes related to
+distinct functional modules became degraded at different levels, indicating that 
+these prophages were not likely to enter lytic cycle spontaneously. Further, the 
+evolutionary analysis of prophages in this study revealed that they might be
+derived from different phage ancestors. Notably, self-targeting phenomenon within
+B. pseudocatenulatum and Anti-CRISPR (Acr) coding genes in prophages was
+observed. Overall, our results indicate that the competition between B.
+pseudocatenulatum and phages is a major driving factor for the genomic diversity 
+of both partners.
+
+Copyright © 2020 Wang, Liu, Pei, Wang, Tian, Liu, Zhao, Zhang and Chen.
+
+DOI: 10.3389/fmicb.2020.01088 
+PMCID: PMC7264901
+PMID: 32528454 
+

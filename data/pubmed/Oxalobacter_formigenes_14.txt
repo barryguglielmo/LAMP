@@ -1,0 +1,37 @@
+
+1. Urolithiasis. 2020 Feb;48(1):1-8. doi: 10.1007/s00240-019-01144-y. Epub 2019 Jun 
+14.
+
+Induction of enteric oxalate secretion by Oxalobacter formigenes in mice does not
+require the presence of either apical oxalate transport proteins Slc26A3 or
+Slc26A6.
+
+Hatch M(1).
+
+Author information: 
+(1)Department of Pathology, Immunology and Laboratory Medicine, College of
+Medicine, University of Florida, Gainesville, FL, 32610, USA. hatchma@ufl.edu.
+
+Oxalobacter sp. promotion of enteric oxalate excretion, correlating with
+reductions in urinary oxalate excretion, was previously reported in rats and
+mice, but the mechanistic basis for this affect has not been described. The main 
+objective of the present study was to determine whether the apical oxalate
+transport proteins, PAT1 (slc26a6) and DRA (slc26a3), are involved in mediating
+the Oxalobacter-induced net secretory flux across colonized mouse cecum and
+distal colon. We measured unidirectional and net fluxes of oxalate across tissues
+removed from colonized PAT1 and DRA knockout (KO) mice and also across two double
+knockout (dKO) mouse models with primary hyperoxaluria, type 1 (i.e., deficient
+in alanine-glyoxylate aminotransferase; AGT KO), including PAT1/AGT dKO and
+DRA/AGT dKO mice compared to non-colonized mice. In addition, urinary oxalate
+excretion was measured before and after the colonization procedure. The results
+demonstrate that Oxalobacter can induce enteric oxalate excretion in the absence 
+of either apical oxalate transporter and urinary oxalate excretion was reduced in
+all colonized genotypes fed a 1.5% oxalate-supplemented diet. We conclude that
+there are other, as yet unidentified, oxalate transporters involved in mediating 
+the directional changes in oxalate transport across the Oxalobacter-colonized
+mouse large intestine.
+
+DOI: 10.1007/s00240-019-01144-y 
+PMCID: PMC6911034 [Available on 2021-02-01]
+PMID: 31201468 
+

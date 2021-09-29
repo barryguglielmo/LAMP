@@ -1,0 +1,47 @@
+
+1. Sci Rep. 2020 Sep 16;10(1):15208. doi: 10.1038/s41598-020-72237-7.
+
+Characterization of the nucleotide-binding domain NsrF from the BceAB-type
+ABC-transporter NsrFP from the human pathogen Streptococcus agalactiae.
+
+Furtmann F(1), Porta N(2), Hoang DT(1), Reiners J(3), Schumacher J(1), Gottstein 
+J(1), Gohlke H(2)(4), Smits SHJ(5)(6).
+
+Author information: 
+(1)Institute of Biochemistry, Heinrich-Heine-Universität Düsseldorf,
+Universitätsstraße 1, 40225, Düsseldorf, Germany.
+(2)Institute for Pharmaceutical and Medicinal Chemistry,
+Heinrich-Heine-Universität Düsseldorf, Universitätsstraße 1, 40225, Düsseldorf,
+Germany.
+(3)Center for Structural Studies, Heinrich-Heine-Universität Düsseldorf,
+Universitätsstraße 1, 40225, Düsseldorf, Germany.
+(4)John von Neumann Institute for Computing (NIC), Jülich Supercomputing Centre
+(JSC), Institute of Biological Information Processing (IBI-7: Structural
+Biochemistry),, Forschungszentrum Jülich GmbH, Wilhelm-Johnen-Straße, 52425,
+Jülich, Germany.
+(5)Institute of Biochemistry, Heinrich-Heine-Universität Düsseldorf,
+Universitätsstraße 1, 40225, Düsseldorf, Germany. sander.smits@hhu.de.
+(6)Center for Structural Studies, Heinrich-Heine-Universität Düsseldorf,
+Universitätsstraße 1, 40225, Düsseldorf, Germany. sander.smits@hhu.de.
+
+Treatment of bacterial infections is a great challenge of our era due to the
+various resistance mechanisms against antibiotics. Antimicrobial peptides are
+considered to be potential novel compound as antibiotic treatment. However, some 
+bacteria, especially many human pathogens, are inherently resistant to these
+compounds, due to the expression of BceAB-type ABC transporters. This rather new 
+transporter family is not very well studied. Here, we report the first full
+characterization of the nucleotide binding domain of a BceAB type transporter
+from Streptococcus agalactiae, namely SaNsrF of the transporter SaNsrFP, which
+confers resistance against nisin and gallidermin. We determined the NTP
+hydrolysis kinetics and used molecular modeling and simulations in combination
+with small angle X-ray scattering to obtain structural models of the SaNsrF
+monomer and dimer. The fact that the SaNsrFH202A variant displayed no ATPase
+activity was rationalized in terms of changes of the structural dynamics of the
+dimeric interface. Kinetic data show a clear preference for ATP as a substrate,
+and the prediction of binding modes allowed us to explain this selectivity over
+other NTPs.
+
+DOI: 10.1038/s41598-020-72237-7 
+PMCID: PMC7494861
+PMID: 32938989 
+

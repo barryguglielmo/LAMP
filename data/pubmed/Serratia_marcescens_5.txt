@@ -1,0 +1,56 @@
+
+1. Front Microbiol. 2020 Aug 20;11:1923. doi: 10.3389/fmicb.2020.01923. eCollection 
+2020.
+
+Is Long-Term Heavy Metal Exposure Driving Carriage of Antibiotic Resistance in
+Environmental Opportunistic Pathogens: A Comprehensive Phenomic and Genomic
+Assessment Using Serratia sp. SRS-8-S-2018.
+
+Gendy S(1), Chauhan A(2), Agarwal M(2), Pathak A(2), Rathore RS(2), Jaswal R(2).
+
+Author information: 
+(1)School of Allied Health Sciences, Florida A&M University, Tallahassee, FL,
+United States.
+(2)Environmental Biotechnology Laboratory, School of the Environment, FSH Science
+Research Center, Florida A&M University, Tallahassee, FL, United States.
+
+The carriage of both, heavy metal and antibiotic resistance appears to be a
+common trait in bacterial communities native to long-term contaminated habitats, 
+including the Savannah River Site (SRS). There is widespread soil contamination
+at the SRS; a United States Department of Energy (DOE) facility with long-term
+contamination from past industrial and nuclear weapons production activities. To 
+further evaluate the genomic and metabolic traits that underpin metal and
+antibiotic resistance, a robust mercury (Hg) and uranium (U)-resistant strain-
+SRS-8-S-2018, was isolated. Minimum inhibitory concentration of this strain
+revealed resistance to Hg (10 μg/ml) and U (5 mM), the two main heavy metal
+contaminants at the SRS. Metabolic assessment of strain SRS-8-S-2018 using Biolog
+metabolic fingerprinting analysis revealed preference for carbohydrate
+utilization followed by polymers, amino acids, carboxy acids, and esters; this
+physiological activity diminished when Hg stress was provided at 1 and 3 μg/ml
+and completely ceased at 5 μg/ml Hg, indicating that continued release of Hg will
+have negative metabolic impacts to even those microorganisms that possess high
+resistance ability. Development of antibiotic resistance in strain SRS-8-S-2018
+was evaluated at a functional level using phenomics, which confirmed broad
+resistance against 70.8% of the 48 antibiotics tested. Evolutionary and adaptive 
+traits of strain SRS-8-S-2018 were further assessed using genomics, which
+revealed the strain to taxonomically affiliate with Serratia marcescens species, 
+possessing a genome size of 5,323,630 bp, 5,261 proteins (CDS), 55 genes for
+transfer RNA (tRNA), and an average G + C content of 59.48. Comparative genomics 
+with closest taxonomic relatives revealed 360 distinct genes in SRS-8-S-2018,
+with multiple functions related to both, antibiotic and heavy metal resistance,
+which likely facilitates the strain's survival in a metalliferous soil habitat.
+Comparisons drawn between the environmentally isolated Serratia SRS-8-S-2018 with
+31 other strains revealed a closer functional association with medically relevant
+isolates suggesting that propensity of environmental Serratia isolates in
+acquiring virulence traits, as a function of long-term exposure to heavy metals, 
+which is facilitating development, recruitment and proliferation of not only
+metal resistant genes (MRGs) but antibiotic resistant genes (ARGs), which can
+potentially trigger future bacterial pathogen outbreaks emanating from
+contaminated environmental habitats.
+
+Copyright © 2020 Gendy, Chauhan, Agarwal, Pathak, Rathore and Jaswal.
+
+DOI: 10.3389/fmicb.2020.01923 
+PMCID: PMC7468404
+PMID: 32973703 
+

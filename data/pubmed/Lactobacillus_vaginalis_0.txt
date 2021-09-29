@@ -1,0 +1,58 @@
+
+1. Int J Food Microbiol. 2020 May 16;321:108548. doi:
+10.1016/j.ijfoodmicro.2020.108548. Epub 2020 Feb 3.
+
+Histamine production in Lactobacillus vaginalis improves cell survival at low pH 
+by counteracting the acidification of the cytosol.
+
+Diaz M(1), Del Rio B(2), Ladero V(3), Redruello B(4), Fernández M(5), Martin
+MC(6), Alvarez MA(7).
+
+Author information: 
+(1)Dairy Research Institute (IPLA-CSIC), Paseo Rio Linares s/n, 33300
+Villaviciosa, Spain. Electronic address: Maria.Diaz@quadram.ac.uk.
+(2)Dairy Research Institute (IPLA-CSIC), Paseo Rio Linares s/n, 33300
+Villaviciosa, Spain; Molecular Microbiology Group, Instituto de Investigación
+Sanitaria del Principado de Asturias (ISPA), Oviedo, Spain. Electronic address:
+beadelrio@ipla.csic.es.
+(3)Dairy Research Institute (IPLA-CSIC), Paseo Rio Linares s/n, 33300
+Villaviciosa, Spain; Molecular Microbiology Group, Instituto de Investigación
+Sanitaria del Principado de Asturias (ISPA), Oviedo, Spain. Electronic address:
+ladero@ipla.csic.es.
+(4)Dairy Research Institute (IPLA-CSIC), Paseo Rio Linares s/n, 33300
+Villaviciosa, Spain. Electronic address: bredruel@ipla.csic.es.
+(5)Dairy Research Institute (IPLA-CSIC), Paseo Rio Linares s/n, 33300
+Villaviciosa, Spain; Molecular Microbiology Group, Instituto de Investigación
+Sanitaria del Principado de Asturias (ISPA), Oviedo, Spain. Electronic address:
+mfernandez@ipla.csic.es.
+(6)Dairy Research Institute (IPLA-CSIC), Paseo Rio Linares s/n, 33300
+Villaviciosa, Spain. Electronic address: mcm@ipla.csic.es.
+(7)Dairy Research Institute (IPLA-CSIC), Paseo Rio Linares s/n, 33300
+Villaviciosa, Spain; Molecular Microbiology Group, Instituto de Investigación
+Sanitaria del Principado de Asturias (ISPA), Oviedo, Spain. Electronic address:
+maag@ipla.csic.es.
+
+Histamine, one of the most toxic and commonly encountered biogenic amines (BA) in
+food, is produced by the microbial decarboxylation of histidine. It may
+accumulate at high concentrations in fish and fermented food. Cheese has some of 
+the highest histamine concentrations, the result of the histidine-decarboxylase
+activity of certain lactic acid bacteria (LAB). The present work describes the
+nucleotide sequence and transcriptional organization of the gene cluster
+responsible for histamine biosynthesis (the HDC cluster) in Lactobacillus
+vaginalis IPLA 11064 isolated from cheese. The influence of histidine
+availability and pH on histamine production and the expression of the HDC cluster
+genes is also examined. As expected, the results suggest that the production of
+histamine under acidic conditions improves cell survival by maintaining the
+cytosol at an appropriate pH. However, the transcriptional regulation of the HDC 
+cluster is quite different from that described in other dairy histamine-producing
+LAB, probably due to the lack of a termination-antitermination system in the
+histidyl-tRNA synthetase gene (hisS).
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijfoodmicro.2020.108548 
+PMID: 32050139  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no conflict of interest.
+

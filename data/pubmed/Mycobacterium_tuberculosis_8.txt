@@ -1,0 +1,37 @@
+
+1. Epidemiology. 2020 Sep 29. doi: 10.1097/EDE.0000000000001271. [Epub ahead of
+print]
+
+Time since infection and risks of future disease for individuals with
+Mycobacterium tuberculosis infection in the United States.
+
+Menzies NA, Swartwood N, Testa C, Malyuta Y, Hill AN, Marks SM, Cohen T, Salomon 
+JA.
+
+BACKGROUND: Risk of tuberculosis (TB) declines over time since Mycobacterium
+tuberculosis infection, but progression to clinical disease is still possible
+decades later. In the United States, most TB cases result from progression of
+latent TB infection (LTBI) acquired over 2 years ago.
+METHODS: We synthesized evidence on TB natural history and incidence trends using
+a transmission-dynamic model. For the 2020 US population, we estimated average
+time since infection and annual, cumulative, and remaining lifetime risks of
+progression to TB, by nativity and age.
+RESULTS: For a newly infected adult with no other risk factors for progression to
+TB, estimated rates of progression declined from 38 [95% uncertainty interval:
+33, 46] to 0.38 [0.32, 0.45] per 1000 person-years between the 1st and 25th year 
+since infection. Cumulative risk over the 25 years from new infection was 7.9%
+[7.0, 8.9]. In 2020, estimated average age of individuals with prevalent
+infection was 62 [61,63] for the US-born population, 55 [54, 55] for non-US-born,
+and 57 [56, 58] overall. Average risks of developing TB over the remaining
+lifetime were 1.2% [1.0, 1.4] for US-born, 2.2% [1.8, 2.6] for non-US-born, and
+1.9% [1.6, 2.2] for the general population. Risk estimates were higher for
+younger age groups.
+CONCLUSIONS: Our analysis suggests that, while newly infected individuals face
+appreciable lifetime TB risks, most US individuals with LTBI were infected long
+ago, and face low future risks of developing TB. Better approaches are needed for
+identifying recently infected individuals and those with elevated progression
+risks.
+
+DOI: 10.1097/EDE.0000000000001271 
+PMID: 33009253 
+

@@ -1,0 +1,61 @@
+
+1. Infect Dis Obstet Gynecol. 2020 Jul 2;2020:3176407. doi: 10.1155/2020/3176407.
+eCollection 2020.
+
+Prevalence of Genotypes and Subtypes of Gardnerella vaginalis in South African
+Pregnant Women.
+
+Pillay K(1), Nzimande S(1), Naicker M(1), Ramsuran V(2)(3), Tinarwo P(4), Abbai
+N(1).
+
+Author information: 
+(1)School of Clinical Medicine Laboratory, College of Health Sciences, University
+of KwaZulu-Natal, South Africa.
+(2)KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), School of
+Laboratory Medicine and Medical Sciences, University of KwaZulu-Natal, Umbilo
+Road, Durban, Private Bag 7, Congella, 4013, South Africa.
+(3)Centre for the AIDS Programme of Research in South Africa (CAPRISA),
+University of KwaZulu-Natal, Umbilo Road, Durban, Private Bag 7, Congella, 4013, 
+South Africa.
+(4)Department of Biostatistics, Nelson R. Mandela School of Medicine, University 
+of KwaZulu-Natal, Durban, South Africa.
+
+Background: Gardnerella vaginalis, a microorganism highly linked to bacterial
+vaginosis (BV), is understudied in terms of genotypic heterogeneity in South
+African populations. This study investigated the prevalence of G. vaginalis
+genotypes in BV-positive, BV-intermediate, and BV-negative South African pregnant
+women.
+Methods: The study population included n = 354 pregnant women recruited from a
+public hospital in Durban, South Africa. The women provided self-collected
+vaginal swabs for BV diagnosis by Nugent scoring. For the genotyping assays, the 
+16S rRNA and sialidase A genes from BV-negative, BV-intermediate, and BV-positive
+samples were amplified with G. vaginalis-specific primers. The16S rRNA amplicon
+was digested with TaqI to generate genotyping profiles, and subtypes were
+determined by correlating BamHI and HindIII digestion profiles. Phylogenetic
+analysis was performed on the 16S rRNA and sialidase A sequences. The data
+analysis was performed with R Statistical Computing software, version 3.6.2.
+Results: Two different genotypes, GT1 and GT2, were detected. The most prevalent 
+genotype was GT1. Four subtypes (1, 2B, 2AB, and 2C) were shown to be present.
+The most prevalent subtype was 2B, followed by subtypes 1, 2C, and 2AB. The
+phylogenetic analysis of the 16S rRNA showed the presence of 5 clusters. The tree
+displayed clusters which contained sequences from the same BV group with
+different genotypes and subtypes. Clusters with sequences from across the BV
+groups carrying the same genotype and subtype were present. Diversity of the
+sialidase A across BV groups and genotypes was observed. Finally, the study did
+not find a significant association (p > 0.05) between reported symptoms of
+abnormal vaginal discharge and genotype harboured.
+Conclusion: This study provided the first report on the diversity of G. vaginalis
+in South African pregnant women. Diversity assessments of G. vaginalis with
+respect to genotypes and virulence factors may aid in a greater understanding of 
+the pathogenesis of this microorganism.
+
+Copyright © 2020 Kayla Pillay et al.
+
+DOI: 10.1155/2020/3176407 
+PMCID: PMC7352148
+PMID: 32694908 
+
+Conflict of interest statement: The authors declare that they have no financial
+or personal relationship(s) that may have inappropriately influenced them in
+writing this article.
+

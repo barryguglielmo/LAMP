@@ -1,0 +1,50 @@
+
+1. BMC Microbiol. 2020 Sep 11;20(1):279. doi: 10.1186/s12866-020-01959-5.
+
+Oral Lactobacillus strains reduce cytotoxicity and cytokine release from
+peripheral blood mononuclear cells exposed to Aggregatibacter
+actinomycetemcomitans subtypes in vitro.
+
+Pahumunto N(1), Basic A(2), Östberg AK(2), Teanpaisan R(1), Dahlen G(3).
+
+Author information: 
+(1)Common Oral Diseases and Epidemiology Research Center and Department of
+Stomatology, Faculty of Dentistry, Prince of Songkla University, Hat Yai,
+Thailand.
+(2)Department of Oral Microbiology and Immunology, Institute of Odontology,
+Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.
+(3)Department of Oral Microbiology and Immunology, Institute of Odontology,
+Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.
+gunnar.dahlen@odontologi.gu.se.
+
+BACKGROUND: This study evaluated the effect of oral lactobacilli on the
+cytotoxicity and cytokine release from peripheral blood mononuclear cells (PBMCs)
+when exposed to Aggregatibacter actinomycetemcomitans subtypes in vitro. The
+supernatants and cell wall extracts (CWEs) of eight A. actinomycetemcomitans
+strains, representing different subtypes, and three Lactobacillus strains were
+used. The PBMCs from six blood donors were exposed to supernatants and CWEs of A.
+actinomycetemcomitans or Lactobacillus strains alone or combinations and
+untreated cells as control. The cytotoxicity was determined by trypan blue
+exclusion method and IL-1β secretion by ELISA. TNF-α, IL-6, and IL-8 secretions
+were measured using Bioplex Multiplex Immunoassay.
+RESULTS: Supernatants or CWEs from all bacterial strains showed cytotoxicity and 
+IL-1β secretion and the subtypes of A. actinomycetemcomitans showed generally a
+significantly higher effect on PBMCs than that of the Lactobacillus strains. Two 
+highly toxic A. actinomycetemcomitans strains (JP2 and JP2-like) induced a higher
+response than all other strains. When combined, Lactobacillus significantly
+reduced the toxicity and the IL-1β secretion induced by A. acinomycetemcomitans. 
+The effect varied between the subtypes and the reduction was highest for the JP2 
+and JP2-like strains. The Lactobacillus paracasei strain SD1 had a higher
+reducing effect than the other Lactobacillus strains. This strain had a
+consistent reducing effect on all subtypes of A. actinomycetemcomitans
+cytotoxicity, and release of IL-1β, IL-6, IL-8, and TNF-α from PBMCs of the blood
+donors. A strong and significant variation in cytokine release between the six
+blood donors was noticed.
+CONCLUSIONS: Lactobacillus spp. and L. paracasei SD1 in particular, showed a
+limited but statistically significant reducing interaction with A.
+actinomycetemcomitans toxicity and release of cytokines in vitro.
+
+DOI: 10.1186/s12866-020-01959-5 
+PMCID: PMC7488720
+PMID: 32917132 
+

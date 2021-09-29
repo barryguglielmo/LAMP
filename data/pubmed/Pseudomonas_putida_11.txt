@@ -1,0 +1,30 @@
+
+1. Environ Sci Technol. 2020 Sep 24. doi: 10.1021/acs.est.0c04347. [Epub ahead of
+print]
+
+Effects of Electrokinetic Phenomena on Bacterial Deposition monitored by Quartz
+Crystal Microbalance with Dissipation Monitoring (QCM-D).
+
+Shan Y, Liu L, Liu Y, Harms H, Wick LY.
+
+Bacterial deposition is the first step in the formation of microbial biofilms in 
+environmental technology, and there is high interest in controlling such
+deposition. Earlier work indicated that direct electric current (DC) fields could
+influence bacterial deposition in percolation columns. Here, a time-resolved
+quartz crystal microbalance with dissipation monitoring (QCM-D) and
+microscopy-based cell counting were used to quantify DC field effects on the
+deposition of bacterial strains Pseudomonas putida KT2440 and Pseudomonas
+fluorescens LP6a at varying electrolyte concentrations and weak electric field
+strengths (0-2 V cm-1). DC-induced frequency (Δf) shifts, dissipation energy
+(ΔD), and ratios thereof (Δf/ΔD) proved as good indicators of the rigidity of
+cell attachment. We interpreted QCM-D signals using a theoretical approach
+calculating the attractive DLVO-force and the shear and drag forces acting on a
+bacterium near collector surfaces in a DC electric field. We found that changes
+in DC-induced deposition of bacteria depended on the relative strengths of
+electrophoretic drag and electroosmotic shear forces. This could enable the
+prediction and electrokinetic control of microbial deposition on surfaces in
+natural and manmade ecosystems.
+
+DOI: 10.1021/acs.est.0c04347 
+PMID: 32969650 
+

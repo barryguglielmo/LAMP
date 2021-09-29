@@ -1,0 +1,34 @@
+
+1. Int J Syst Evol Microbiol. 2020 Apr;70(4):2359-2365. doi: 10.1099/ijsem.0.004048.
+Epub 2020 Feb 17.
+
+Exiguobacterium flavidum sp. nov., isolated from the Red Maple Lake.
+
+Meng X(1), Chang YQ(1), Zhou LY(1), Du ZJ(1)(2).
+
+Author information: 
+(1)Marine College, Shandong University, Weihai, Shandong, 264209, PR China.
+(2)State key Laboratory of Microbial Technology, Shandong University, Qingdao,
+Shandong, 266237, PR China.
+
+A Gram-stain-positive, motile, facultatively anaerobic, non-sporing, and
+rod-shaped bacterial strain, designated HF60T, was isolated from the Red Maple
+Lake of Guizhou Province, China. The DNA G+C content of the strain HF60T was
+55.0 %. The predominant isoprenoid quinones were identified as MK-7 (56.4 %) and 
+MK-8 (35.7 %). The major polar lipids were phosphatidylethanolamine,
+phosphatidylglycerol, diphosphatidylglycerol and aminophosphoglycolipid. The
+major fatty acids were anteiso-C13 : 0, iso-C15 : 0, C16 : 0 and iso-C13 : 0. The
+strain had cell wall peptidoglycan type A3α l-Lys-Gly. Phylogenetic analyses
+based on 16S rRNA gene sequences indicated that strain HF60T belonged to the
+genus Exiguobacterium and was most closely related to Exiguobacterium sibiricum
+JCM 13490T (97.2 % 16S rRNA gene sequence similarity), followed by
+Exiguobacterium undae DSM 14481T (97.1 %), Exiguobacterium antarcticum DSM 14480T
+(96.9 %) and Exiguobacterium aurantiacum NBRC 14763T (94.5 %). The differential
+phenotypic properties, together with the phylogenetic and genetic distinctiveness
+indicated that strain HF60T can be considered to represent a novel species of the
+genus Exiguobacterium, for which the name Exiguobacterium flavidum sp. nov. is
+proposed, The type strain is HF60T (=MCCC 1H00336T=KCTC 33987T).
+
+DOI: 10.1099/ijsem.0.004048 
+PMID: 32065575  [Indexed for MEDLINE]
+

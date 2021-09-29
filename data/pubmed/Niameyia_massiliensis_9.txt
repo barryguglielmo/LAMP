@@ -1,0 +1,93 @@
+
+1. Gastroenterology. 2020 Sep;159(3):944-955.e8. doi: 10.1053/j.gastro.2020.05.048. 
+Epub 2020 May 20.
+
+Alterations in Gut Microbiota of Patients With COVID-19 During Time of
+Hospitalization.
+
+Zuo T(1), Zhang F(1), Lui GCY(2), Yeoh YK(3), Li AYL(4), Zhan H(1), Wan Y(1),
+Chung ACK(1), Cheung CP(1), Chen N(1), Lai CKC(5), Chen Z(5), Tso EYK(6), Fung
+KSC(7), Chan V(6), Ling L(8), Joynt G(8), Hui DSC(2), Chan FKL(9), Chan PKS(10), 
+Ng SC(11).
+
+Author information: 
+(1)Center for Gut Microbiota Research, Faculty of Medicine, The Chinese
+University of Hong Kong, Shatin, Hong Kong, China; State Key Laboratory for
+Digestive Disease, Institute of Digestive Disease, Li Ka Shing Institute of
+Health Science, The Chinese University of Hong Kong, Shatin, Hong Kong, China;
+Department of Medicine and Therapeutics, Faculty of Medicine, The Chinese
+University of Hong Kong, Shatin, Hong Kong, China.
+(2)Department of Medicine and Therapeutics, Faculty of Medicine, The Chinese
+University of Hong Kong, Shatin, Hong Kong, China; Stanley Ho Centre for Emerging
+Infectious Diseases, The Chinese University of Hong Kong, Shatin, Hong Kong,
+China.
+(3)Center for Gut Microbiota Research, Faculty of Medicine, The Chinese
+University of Hong Kong, Shatin, Hong Kong, China; Department of Microbiology,
+The Chinese University of Hong Kong, Shatin, Hong Kong, China.
+(4)Department of Medicine and Therapeutics, Faculty of Medicine, The Chinese
+University of Hong Kong, Shatin, Hong Kong, China.
+(5)Department of Microbiology, The Chinese University of Hong Kong, Shatin, Hong 
+Kong, China.
+(6)Department of Medicine and Geriatrics, United Christian Hospital, Hong Kong,
+China.
+(7)Department of Pathology, United Christian Hospital, Hong Kong, China.
+(8)Department of Anaesthesia and Intensive Care, Faculty of Medicine, The Chinese
+University of Hong Kong, Shatin, Hong Kong, China.
+(9)Center for Gut Microbiota Research, Faculty of Medicine, The Chinese
+University of Hong Kong, Shatin, Hong Kong, China; Department of Medicine and
+Therapeutics, Faculty of Medicine, The Chinese University of Hong Kong, Shatin,
+Hong Kong, China.
+(10)Center for Gut Microbiota Research, Faculty of Medicine, The Chinese
+University of Hong Kong, Shatin, Hong Kong, China; Department of Microbiology,
+The Chinese University of Hong Kong, Shatin, Hong Kong, China. Electronic
+address: paulkschan@cuhk.edu.hk.
+(11)Center for Gut Microbiota Research, Faculty of Medicine, The Chinese
+University of Hong Kong, Shatin, Hong Kong, China; State Key Laboratory for
+Digestive Disease, Institute of Digestive Disease, Li Ka Shing Institute of
+Health Science, The Chinese University of Hong Kong, Shatin, Hong Kong, China;
+Department of Medicine and Therapeutics, Faculty of Medicine, The Chinese
+University of Hong Kong, Shatin, Hong Kong, China. Electronic address:
+siewchienng@cuhk.edu.hk.
+
+BACKGROUND & AIMS: Although severe acute respiratory syndrome coronavirus 2
+(SARS-CoV-2) infects gastrointestinal tissues, little is known about the roles of
+gut commensal microbes in susceptibility to and severity of infection. We
+investigated changes in fecal microbiomes of patients with SARS-CoV-2 infection
+during hospitalization and associations with severity and fecal shedding of
+virus.
+METHODS: We performed shotgun metagenomic sequencing analyses of fecal samples
+from 15 patients with Coronavirus Disease 2019 (COVID-19) in Hong Kong, from
+February 5 through March 17, 2020. Fecal samples were collected 2 or 3 times per 
+week from time of hospitalization until discharge; disease was categorized as
+mild (no radiographic evidence of pneumonia), moderate (pneumonia was present),
+severe (respiratory rate ≥30/min, or oxygen saturation ≤93% when breathing
+ambient air), or critical (respiratory failure requiring mechanical ventilation, 
+shock, or organ failure requiring intensive care). We compared microbiome data
+with those from 6 subjects with community-acquired pneumonia and 15 healthy
+individuals (controls). We assessed gut microbiome profiles in association with
+disease severity and changes in fecal shedding of SARS-CoV-2.
+RESULTS: Patients with COVID-19 had significant alterations in fecal microbiomes 
+compared with controls, characterized by enrichment of opportunistic pathogens
+and depletion of beneficial commensals, at time of hospitalization and at all
+timepoints during hospitalization. Depleted symbionts and gut dysbiosis persisted
+even after clearance of SARS-CoV-2 (determined from throat swabs) and resolution 
+of respiratory symptoms. The baseline abundance of Coprobacillus, Clostridium
+ramosum, and Clostridium hathewayi correlated with COVID-19 severity; there was
+an inverse correlation between abundance of Faecalibacterium prausnitzii (an
+anti-inflammatory bacterium) and disease severity. Over the course of
+hospitalization, Bacteroides dorei, Bacteroides thetaiotaomicron, Bacteroides
+massiliensis, and Bacteroides ovatus, which downregulate expression of
+angiotensin-converting enzyme 2 (ACE2) in murine gut, correlated inversely with
+SARS-CoV-2 load in fecal samples from patients.
+CONCLUSIONS: In a pilot study of 15 patients with COVID-19, we found persistent
+alterations in the fecal microbiome during the time of hospitalization, compared 
+with controls. Fecal microbiota alterations were associated with fecal levels of 
+SARS-CoV-2 and COVID-19 severity. Strategies to alter the intestinal microbiota
+might reduce disease severity.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.gastro.2020.05.048 
+PMCID: PMC7237927
+PMID: 32442562  [Indexed for MEDLINE]
+

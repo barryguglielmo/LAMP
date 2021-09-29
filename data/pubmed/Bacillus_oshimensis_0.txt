@@ -1,0 +1,39 @@
+
+1. Int J Syst Evol Microbiol. 2020 Mar;70(3):1843-1849. doi: 10.1099/ijsem.0.003982.
+
+Bacillus miscanthi sp. nov., a alkaliphilic bacterium from the rhizosphere of
+Miscanthus sacchariflorus.
+
+Shin B(1), Park C(1), Lee BH(2), Lee KE(2), Park W(1).
+
+Author information: 
+(1)Laboratory of Molecular Environmental Microbiology, Department of
+Environmental Science and Ecological Engineering, Korea University, Seoul, 02841,
+Republic of Korea.
+(2)National Institute of Biological Resources, Incheon, 22689, Republic of Korea.
+
+A novel bacterial strain, designated AK13T (=KACC 21401T=DSM 109981T), was
+isolated from the rhizosphere of Miscanthus sacchariflorus. Strain AK13T was
+found to be an aerobic, Gram-stain-positive, endospore-forming and rod-shaped
+bacterium. It formed yellow circular colonies with smooth convex surfaces. The
+genomic DNA G+C content of strain AK13T was estimated to be 40 mol%. Phylogenetic
+analysis based on 16S rRNA gene sequence similarity showed that this strain was
+most closely related to Bacillus lehensis MLB2T (99.4 %), Bacillus oshimensis
+K11T (98.8 %) and Bacillus patagoniensis PAT 05T (96.6 %). The average nucleotide
+identity values between strain AK13T and B. lehensis MLB2T, B. oshimensis K11T
+and B. patagoniensis PAT 05T were 90.93, 91.05 and 71.87 %, respectively, with
+the digital DNA-DNA hybridization values of 42.7, 42.6 and 18.8 %, respectively. 
+Cells grew at 5-40 °C (optimum, 28-35 °C), pH 6.5-13 (optimum, pH 8-9) and in the
+presence of 0-13.0 % (w/v) NaCl (optimum, 1 %). The cell wall of strain AK13T
+contained meso-diaminopimelic acid, and the major isoprenoid quinone was MK-7.
+Results of fatty acid methyl ester analysis revealed that iso-C15 : 0 was the
+predominant cellular fatty acid. Two-dimensional thin-layer chromatography
+analysis indicated that the major polar lipids were diphosphatidylglycerol,
+phosphatidylglycerol, phosphatidylethanolamine and glycolipid. The genotypic and 
+phenotypic characteristics suggested that strain AK13T represented a novel
+species of the genus Bacillus, and thus the name Bacillus miscanthi sp. nov. is
+proposed.
+
+DOI: 10.1099/ijsem.0.003982 
+PMID: 31951191  [Indexed for MEDLINE]
+

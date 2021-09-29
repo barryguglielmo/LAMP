@@ -1,0 +1,41 @@
+
+1. Biodegradation. 2020 Oct 3. doi: 10.1007/s10532-020-09915-w. [Epub ahead of
+print]
+
+Biotransformation of pentachlorophenol by an indigenous Bacillus cereus AOA-CPS1 
+isolated from wastewater effluent in Durban, South Africa.
+
+Aregbesola OA(1), Mokoena MP(1), Olaniran AO(2).
+
+Author information: 
+(1)Discipline of Microbiology, School of Life Sciences, College of Agriculture,
+Engineering and Science, University of KwaZulu-Natal (Westville Campus), Private 
+Bag X54001, Durban, 4000, Republic of South Africa.
+(2)Discipline of Microbiology, School of Life Sciences, College of Agriculture,
+Engineering and Science, University of KwaZulu-Natal (Westville Campus), Private 
+Bag X54001, Durban, 4000, Republic of South Africa. olanirana@ukzn.ac.za.
+
+Pentachlorophenol (PCP) is a recalcitrant biocide that bioaccumulates in the
+environment due to its persistent nature and has been listed as a priority
+pollutant due to its toxicological and health effects. In this study, a novel
+PCP-degrading Bacillus cereus strain AOA-CPS1 (BcAOA) was isolated from
+wastewater and characterized for PCP biotransformation in a batch reactor. The
+degradation kinetics were elucidated via substrate inhibition models, while PCP
+biotransformation was established by spectrophotometric and GC-MS analysis. BcAOA
+shared 95% sequence homology with Bacillus cereus strain XS2 and is closely
+related to some B. cereus strains which are previously reported to degrade PCP
+and other related pollutants. BcAOA degraded 74% of 350 mg l-1 of PCP within 9
+days in a batch culture. The biotransformation of PCP by BcAOA followed the first
+and zero-order kinetics at low and high PCP concentration, respectively, with
+biokinetic constants: maximum biotransformation rate (0.0996 mg l-1 h-1);
+substrate inhibition constant (723.75 mg l-1); half-saturation constant
+(171.198 mg l-1) and R2 (0.98). The genes (pcpABCDE, cytochrome P450) encoding
+the enzymes involved in the biodegradation of PCP were amplified from the genomic
+DNA of BcAOA. Further, depending upon the genes amplified and identified
+metabolites using GC-MS, two different PCP biotransformation pathways were
+proposed in this study. Cloning and expression of the catabolic genes are
+underway to map out the concise pathway for PCP biotransformation by BcAOA.
+
+DOI: 10.1007/s10532-020-09915-w 
+PMID: 33011889 
+

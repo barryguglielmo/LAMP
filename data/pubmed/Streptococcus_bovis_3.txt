@@ -1,0 +1,48 @@
+
+1. ACS Infect Dis. 2020 Sep 2. doi: 10.1021/acsinfecdis.0c00314. [Epub ahead of
+print]
+
+A Cyclic di-GMP Network Is Present in Gram-Positive Streptococcus and
+Gram-Negative Proteus Species.
+
+Liu Y, Lee C, Li F, Trček J(1), Bähre H(2), Guo RT(3), Chen CC(3), Chernobrovkin 
+A, Zubarev R(4), Römling U.
+
+Author information: 
+(1)Faculty of Natural Sciences and Mathematics, Department of Biology, University
+of Maribor, 2000 Maribor, Slovenia.
+(2)Research Core Unit Metabolomics, Hannover Medical School, D-30625 Hannover,
+Germany.
+(3)State Key Laboratory of Biocatalysis and Enzyme Engineering, Hubei
+Collaborative Innovation Center for Green Transformation of Bio-Resources, Hubei 
+Key Laboratory of Industrial Biotechnology, School of Life Sciences, Hubei
+University, Wuhan, 430062, P.R. China.
+(4)Department of Pharmacological & Technological Chemistry, I.M. Sechenov First
+Moscow State Medical University, Moscow, 119146, Russia.
+
+The ubiquitous cyclic di-GMP (c-di-GMP) network is highly redundant with numerous
+GGDEF domain proteins as diguanylate cyclases and EAL domain proteins as c-di-GMP
+specific phosphodiesterases comprising those domains as two of the most abundant 
+bacterial domain superfamilies. One hallmark of the c-di-GMP network is its
+exalted plasticity as c-di-GMP turnover proteins can rapidly vanish from species 
+within a genus and possess an above average transmissibility. To address the
+evolutionary forces of c-di-GMP turnover protein maintenance, conservation, and
+diversity, we investigated a Gram-positive and a Gram-negative species, which
+preserved only one single clearly identifiable GGDEF domain protein. Species of
+the family Morganellaceae of the order Enterobacterales exceptionally show
+disappearance of the c-di-GMP signaling network, but Proteus spp. still retained 
+one diguanylate cyclase. As another example, in species of the bovis, pyogenes,
+and salivarius subgroups as well as Streptococcus suis and Streptococcus henryi
+of the genus Streptococcus, one candidate diguanylate cyclase was frequently
+identified. We demonstrate that both proteins encompass PAS (Per-ARNT-Sim)-GGDEF 
+domains, possess diguanylate cyclase catalytic activity, and are suggested to
+signal via a PilZ receptor domain at the C-terminus of type 2 glycosyltransferase
+constituting BcsA cellulose synthases and a cellulose synthase-like protein CelA,
+respectively. Preservation of the ancient link between production of
+cellulose(-like) exopolysaccharides and c-di-GMP signaling indicates that this
+functionality is even of high ecological importance upon maintenance of the last 
+remnants of a c-di-GMP signaling network in some of today's free-living bacteria.
+
+DOI: 10.1021/acsinfecdis.0c00314 
+PMID: 32786278 
+

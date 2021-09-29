@@ -1,0 +1,54 @@
+
+1. Shock. 2020 Jul 15. doi: 10.1097/SHK.0000000000001593. [Epub ahead of print]
+
+Prevention of Severe Intestinal Barrier Dysfunction Through a Single-Species
+Probiotics Is Associated With the Activation of Microbiome-Mediated
+Glutamate-Glutamine Biosynthesis.
+
+Leng Y(1)(2), Jiang C(3)(2), Xing X(4), Tsai MS(2), Snyder M(2), Zhai A(5), Yao
+G(1).
+
+Author information: 
+(1)Department of Intensive Care Unit, Peking University Third Hospital, Beijing
+100191, China.
+(2)Department of Genetics, Stanford University School of Medicine, Stanford, CA
+94304, USA.
+(3)Life Sciences Institute, Zhejiang University, Hangzhou 310058, China.
+(4)Department of Molecular Diagnostics, Peking University Cancer Hospital,
+100142, China.
+(5)Department of Microbiology, Harbin Medical University, Harbin 150081, China.
+
+INTRODUCTION: Intra-abdominal hypertension (IAH), the leading complication in the
+intensive care unit, significantly disturbs the gut microbial composition by
+decreasing the relative abundance of Lactobacillus and increasing the relative
+abundance of opportunistic infectious bacteria.
+METHODS: To evaluate the preventative effect of Lactobacillus-based probiotics on
+IAH-induced intestinal barrier damages, a single-species probiotics (L92) and a
+multi-species probiotics (VSL#3) were introduced orally to Sprague-Dawley rats
+for 7 days before inducing IAH. The intestinal histology and permeability to
+macromolecules (fluoresceine isothiocyanate, FITC-dextran, N = 8 for each group),
+the parameters of immunomodulatory and oxidative responses [Monocyte chemotactic 
+protein 1(MCP-1), interleukin-1β (IL-1β), interleukin-4 (IL-4), interleukin-10
+(IL-10), malonaldehyde (MDA), glutathione peroxidase (GSH- Px), catalase (CAT),
+and superoxide dismutase (SOD); N = 4 for each group], and the microbiome
+profiling (N = 4 for each group) were analyzed.
+RESULTS: 7-day pretreatments of L92 significantly alleviated the IAH-induced
+increase in intestinal permeability to FITC-dextran and histological
+damage(P < 0.0001), accompanied with the suppression of inflammatory and
+oxidative activation. The increase of MCP-1 and IL-1β were significantly
+inhibited (P < 0.05); the anti-inflammatory cytokines, IL-4 and IL-10 were
+maintained at high levels; and the suppression of CAT (P < 0.05) were
+significantly reversed when pretreated with L92. On the contrary, no significant 
+protective effects were observed in the VSL#3-pretreated group. Among the 84
+identified species, 260 MetaCyc pathways, and 217 Kyoto Encyclopedia of Genes and
+Genomes (KEGG) pathways, the protective effects of L92 were correlated with an
+increased relative abundance of Bacteroides finegoldii, Odoribacter splanchnicus,
+and the global activation of amino acid biosynthesis pathways, especially the
+glutamate-glutamine biosynthesis pathway.
+CONCLUSIONS: 7-day pretreatment with a single-species probiotics can prevent IAH 
+induced severe intestinal barrier dysfunction, potentially through microbial
+modulation.
+
+DOI: 10.1097/SHK.0000000000001593 
+PMID: 32694391 
+

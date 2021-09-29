@@ -1,0 +1,54 @@
+
+1. Sci Rep. 2020 Sep 21;10(1):15397. doi: 10.1038/s41598-020-71720-5.
+
+Smectite clay minerals reduce the acute toxicity of quaternary alkylammonium
+compounds towards potentially pathogenic bacterial taxa present in manure and
+soil.
+
+Heyde BJ(1), Glaeser SP(2), Bisping L(1)(3), Kirchberg K(4), Ellinghaus R(4),
+Siemens J(1), Mulder I(5).
+
+Author information: 
+(1)Institute of Soil Sciences and Soil Conservation, iFZ Research Centre for
+Biosystems, Land Use and Nutrition, Justus Liebig University, Heinrich-Buff-Ring 
+26-32, 35392, Gießen, Germany.
+(2)Institute for Applied Microbiology, iFZ Research Centre for Biosystems, Land
+Use and Nutrition, Justus Liebig University, Heinrich-Buff-Ring 26-32, 35392,
+Gießen, Germany. Stefanie.Glaeser@umwelt.uni-giessen.de.
+(3)Institute for Applied Microbiology, iFZ Research Centre for Biosystems, Land
+Use and Nutrition, Justus Liebig University, Heinrich-Buff-Ring 26-32, 35392,
+Gießen, Germany.
+(4)Institute of Physical Chemistry, Justus Liebig University, Heinrich-Buff-Ring 
+17, 35392, Gießen, Germany.
+(5)Institute of Soil Sciences and Soil Conservation, iFZ Research Centre for
+Biosystems, Land Use and Nutrition, Justus Liebig University, Heinrich-Buff-Ring 
+26-32, 35392, Gießen, Germany. Ines.Mulder@umwelt.uni-giessen.de.
+
+Quaternary alkylammonium compounds (QAACs) are a group of cationic surfactants
+which are disinfectants with numerous industrial and agricultural applications
+and frequently released into the environment. One recent hypothesis is that
+bacteria present in soil will be protected from acute toxic effects of QAACs in
+the presence of expandable layer silicates due to interlayer sorption. We
+therefore studied bacterial growth kinetics with high temporal resolution and
+determined minimal inhibitory concentrations (MICs) of two QAACs,
+benzyldimethyldodecylammonium chloride (BAC-C12) and
+didecyldimethylammonium chlorid (DADMAC-C10), for eight strains of different
+bacterial taxa (Escherichia coli, Acinetobacter, Enterococcus faecium,
+Enterococcus faecalis, and Pseudomonas fluorescens) in relation to QAAC sorption 
+to smectite and kaolinite. The MICs of BAC-C12 and DADMAC-C10 were in the absence
+of smectite and kaolinite in the order of 10 to 30 µg mL-1 and 1.0 to 3.5 µg mL-1
+for all strains except the more sensitive Acinetobacter strain. For all tested
+strains and both tested QAACs, the presence of smectite increased apparent MIC
+values while kaolinite had no effect on MICs. Sorption curves without bacteria
+showed that smectite sorbed larger amounts of QAACs than kaolinite. Correcting
+nominal QAAC concentrations employed in toxicity tests for QAAC sorption using
+the sorption curves explained well the observed shifts in apparent MICs.
+Transmission electron microscopy (TEM) demonstrated that the interlayer space of 
+smectite expanded from 13.7 ± 1 Å to 19.9 ± 1.5 Å after addition of BAC-C12. This
+study provides first evidence that low charge 2:1 expandable layer silicates can 
+play an important role for buffering QAAC toxicity in soils.
+
+DOI: 10.1038/s41598-020-71720-5 
+PMCID: PMC7505985
+PMID: 32958787 
+

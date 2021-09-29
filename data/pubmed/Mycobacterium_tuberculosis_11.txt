@@ -1,0 +1,41 @@
+
+1. Bioorg Med Chem. 2020 Sep 24;28(22):115784. doi: 10.1016/j.bmc.2020.115784. [Epub
+ahead of print]
+
+Synthesis and structure-activity relationships for tetrahydroisoquinoline-based
+inhibitors of Mycobacterium tuberculosis.
+
+Lu GL(1), Tong AST(1), Conole D(1), Sutherland HS(1), Choi PJ(1), Franzblau
+SG(2), Upton AM(3), Lotlikar MU(3), Cooper CB(3), Denny WA(4), Palmer BD(5).
+
+Author information: 
+(1)Auckland Cancer Society Research Centre, School of Medical Sciences, Private
+Bag 92019, Auckland 1142, New Zealand.
+(2)Institute for Tuberculosis Research, College of Pharmacy, University of
+Illinois at Chicago, 833 South Wood Street, Chicago, IL 60612, USA.
+(3)Global Alliance for TB Drug Development, 40 Wall St, NY 10005, USA.
+(4)Auckland Cancer Society Research Centre, School of Medical Sciences, Private
+Bag 92019, Auckland 1142, New Zealand; Maurice Wilkins Centre, University of
+Auckland, Private Bag 92019, Auckland 1142, New Zealand. Electronic address:
+b.denny@auckland.ac.nz.
+(5)Auckland Cancer Society Research Centre, School of Medical Sciences, Private
+Bag 92019, Auckland 1142, New Zealand; Maurice Wilkins Centre, University of
+Auckland, Private Bag 92019, Auckland 1142, New Zealand.
+
+A series of 5,8-disubstituted tetrahydroisoquinolines were shown to be effective 
+inhibitors of M. tb in culture and modest inhibitors of M. tb ATP synthase. There
+was a broad general trend of improved potency with higher lipophilicity. Large
+substituents (e.g., Bn) at the tetrahydroquinoline 5-position were
+well-tolerated, while N-methylpiperazine was the preferred 8-substituent.
+Structure-activity relationships for 7-linked side chains showed that the nature 
+of the 7-linking group was important; -CO- and -COCH2- linkers were less
+effective than -CH2- or -CONH- ones. This suggests that the positioning of a
+terminal aromatic ring is important for target binding. Selected compounds showed
+much faster rates of microsomal clearance than did the clinical ATP synthase
+inhibitor bedaquiline, and modest inhibition of mycobacterial ATP synthase.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.bmc.2020.115784 
+PMID: 33007562 
+

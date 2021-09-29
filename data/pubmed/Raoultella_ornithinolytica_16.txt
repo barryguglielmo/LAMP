@@ -1,0 +1,41 @@
+
+1. Sci Rep. 2020 Feb 11;10(1):2360. doi: 10.1038/s41598-020-59341-4.
+
+Coexistence of the blaNDM-1-carrying plasmid pWLK-NDM and the blaKPC-2-carrying
+plasmid pWLK-KPC in a Raoultella ornithinolytica isolate.
+
+Dang B(1), Zhang H(2), Li Z(2), Ma S(3), Xu Z(4).
+
+Author information: 
+(1)College of Tobacco Science, Henan Agricultural University, Zhengzhou, 450002, 
+China. dangbingjun@henau.edu.cn.
+(2)College of Tobacco Science, Henan Agricultural University, Zhengzhou, 450002, 
+China.
+(3)College of Resources and Environmental Sciences, Henan Agricultural
+University, Zhengzhou, 450002, China.
+(4)College of Tobacco Science, Henan Agricultural University, Zhengzhou, 450002, 
+China. zichengxu@henau.edu.cn.
+
+To date, blaNDM and blaKPC genes have been found predominantly in clinical
+settings around the world. In contrast, bacteria harbouring these two genes from 
+natural environments are relatively less well studied compared to those found in 
+clinical settings. In this study, a carbapenem-resistant Raoultella
+ornithinolytica strain, WLK218, was isolated from urban river sediment in
+Zhengzhou City, Henan Province, China. This isolate was subjected to PCR and
+antimicrobial susceptibility testing. PCR results showed that this isolate was
+positive for both the blaNDM-1 and blaKPC-2 genes. The antimicrobial
+susceptibility testing results showed that this isolate exhibited resistance or
+intermediate resistance to all the antibiotics tested except for streptomycin
+(susceptible) and cefepime (susceptible-dose dependent). The complete genome
+sequence of the WLK218 isolate was then determined by using a combination of the 
+PacBio and Illumina sequencing technologies. The de novo assembly of the genome
+generated one chromosome and six plasmids. Among the six plasmids, the blaNDM-1
+gene was carried on the IncX3 plasmid pWLK-NDM, while the blaKPC-2 gene was
+located on the untypeable plasmid pWLK-KPC. This is the first report of an
+environmental Raoultella ornithinolytica isolate co-harbouring the blaNDM-1 and
+blaKPC-2 genes.
+
+DOI: 10.1038/s41598-020-59341-4 
+PMCID: PMC7012882
+PMID: 32047243 
+

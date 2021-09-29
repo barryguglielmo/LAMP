@@ -1,0 +1,40 @@
+
+1. Int J Syst Evol Microbiol. 2020 Sep 17. doi: 10.1099/ijsem.0.004470. [Epub ahead 
+of print]
+
+Cerasibacillus terrae sp. nov., isolated from maize field, and emended
+description of Cerasibacillus quisquiliarum Nakamura et al. 2004.
+
+Lin SY(1), Tsai CF(1), Hameed A(1), Young CC(2)(1).
+
+Author information: 
+(1)Department of Soil and Environmental Sciences, College of Agriculture and
+Natural Resources, National Chung Hsing University, Taichung City, Taiwan, ROC.
+(2)Innovation and Development Center of Sustainable Agriculture, National Chung
+Hsing University, Taichung, Taiwan, ROC.
+
+A polyphasic taxonomic approach was used to characterize a Gram-stain-positive
+bacterium, designated strain CC-CFT480T, isolated from soil sampled in a maize
+field in Taiwan, ROC. Cells of strain CC-CFT480T were rod-shaped, motile with
+polar flagella, catalase-positive and oxidase-positive. Optimal growth occurred
+at 30 °С, pH 8 and 3 % NaCl. Phylogenetic analyses based on 16S rRNA genes
+revealed a distinct taxonomic position attained by strain CC-CFT480T associated
+with Cerasibacillus quisquiliarum (97.2 % sequence identity), Virgibacillus soli 
+(95.7 %), Virgibacillus carmonensis (95.4 %) and Virgibacillus byunsanensis
+(95.2 %), and lower sequence similarity values to other species. Average
+nucleotide identity (ANI) and digital DNA-DNA hybridization (dDDH) values between
+strain CC-CFT480T and C. quisquiliarum were 74.2 and 20.1 %, respectively. Strain
+CC-CFT480T contained iso-C15:0, C16:1 ω7c alcohol and iso-C17:1 ω10c as the
+predominant fatty acids. The polar lipid profile consisted of
+diphosphatidylglycerol, phosphatidylethanolamine, phosphatidylglycerol, two
+unknown aminophospholipids, one uncharacterized aminophospholipid and two unknown
+phospholipids. The major polyamine was spermidine. The DNA G+C content was 34.8
+mol% and the predominant quinone was menaquinone 7 (MK-7). Based on its distinct 
+phylogenetic, phenotypic and chemotaxonomic traits together with results of
+comparative 16S rRNA gene sequence, ANI and dDDH analyses, strain CC-CFT480T is
+proposed to represent a novel Cerasibacillus species, for which the name
+Cerasibacillus terrae sp. nov. (type strain CC-CFT480T=BCRC 81216T=JCM 33498T).
+
+DOI: 10.1099/ijsem.0.004470 
+PMID: 32941128 
+

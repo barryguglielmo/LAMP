@@ -1,0 +1,40 @@
+
+1. Genes (Basel). 2020 Sep 3;11(9). pii: E1042. doi: 10.3390/genes11091042.
+
+Newly Emerged Serotype 1c of Shigella flexneri: Multiple Origins and Changing
+Drug Resistance Landscape.
+
+Parajuli P(1), Minh BQ(2), Verma NK(1).
+
+Author information: 
+(1)Division of Biomedical Science and Biochemistry, Research School of Biology,
+The Australian National University, Canberra, ACT 2601, Australia.
+(2)Research School of Computer Science & Research School of Biology, The
+Australian National University, Canberra, ACT 2601, Australia.
+
+Bacillary dysentery caused by Shigella flexneri is a major cause of under-five
+mortality in developing countries, where a novel S. flexneri serotype 1c has
+become very common since the 1980s. However, the origin and diversification of
+serotype 1c remain poorly understood. To understand the evolution of serotype 1c 
+and their antimicrobial resistance, we sequenced and analyzed the whole-genome of
+85 clinical isolates from the United Kingdom, Egypt, Bangladesh, Vietnam, and
+Japan belonging to serotype 1c and related serotypes of 1a, 1b and Y/Yv. We
+identified up to three distinct O-antigen modifying genes in S. flexneri 1c
+strains, which were acquired from three different bacteriophages. Our analysis
+shows that S. flexneri 1c strains have originated from serotype 1a and serotype
+1b strains after the acquisition of bacteriophage-encoding gtrIc operon. The
+maximum-likelihood phylogenetic analysis using core genes suggests two distinct
+S. flexneri 1c lineages, one specific to Bangladesh, which originated from
+ancestral serotype 1a strains and the other from the United Kingdom, Egypt, and
+Vietnam originated from ancestral serotype 1b strains. We also identified 63
+isolates containing multiple drug-resistant genes in them conferring resistance
+against streptomycin, sulfonamide, quinolone, trimethoprim, tetracycline,
+chloramphenicol, and beta-lactamase. Furthermore, antibiotic susceptibility
+assays showed 83 (97.6%) isolates as either complete or intermediate resistance
+to the WHO-recommended first- and second-line drugs. This changing drug
+resistance pattern demonstrates the urgent need for drug resistance surveillance 
+and renewed treatment guidelines.
+
+DOI: 10.3390/genes11091042 
+PMID: 32899396 
+

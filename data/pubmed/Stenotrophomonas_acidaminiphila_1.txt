@@ -1,0 +1,43 @@
+
+1. R Soc Open Sci. 2019 Nov 6;6(11):190562. doi: 10.1098/rsos.190562. eCollection
+2019 Nov.
+
+Biotransformation of chlorothalonil by strain Stenotrophomonas acidaminiphila BJ1
+isolated from farmland soil.
+
+Zhang Q(1), Liu H(1), Saleem M(2), Wang C(1).
+
+Author information: 
+(1)Key Lab of Integrated Crop Pest Management of Shandong Province, College of
+Plant Health and Medicine, Qingdao Agricultural University, Qingdao 266109,
+People's Republic of China.
+(2)Department of Biological Sciences, Alabama State University, Montgomery, AL
+36101, USA.
+
+Chlorothalonil is a widely used fungicide, but the contamination of soil and
+water environments by this chemical causes potential threats to biodiversity.
+Given the metabolic potential of soil microorganisms, there is a need for
+developing microbiological approaches to degrade persistent compounds, such as
+chlorothalonil, in contaminated sites. Here in this study, we isolated a
+bacterial strain (namely, BJ1) capable of degrading chlorothalonil from a
+chlorothalonil-contaminated farmland soil in the Shandong Province, China. Using 
+16S rDNA gene sequencing, morphological and biological characteristics, we
+identified the strain BJ1 as Stenotrophomonas acidaminiphila. The strain BJ1 uses
+chlorothalonil as a sole carbon source. At initial concentrations of 50, 100, 200
+and 300 mg l-1, it degraded 91.5%, 89.4%, 86.5% and 83.5% of chlorothalonil after
+96 h of inoculation under optimum conditions (30°C and pH 7.0). Two metabolites, 
+methyl-2,5,6-trichloro-3-cyano-4-methoxy-benzoate and
+methyl-3-cyano-2,4,5,6-tetrachlorobenzoate, were detected and identified based on
+HPLC-MS analysis, which suggests that the strain BJ1 metabolized chlorothalonil
+through the hydroxylation of chloro-group and hydration of cyano-group. The
+results of this study highlight the great potential for this bacterium to be used
+in chlorothalonil pollution remediation.
+
+© 2019 The Authors.
+
+DOI: 10.1098/rsos.190562 
+PMCID: PMC6894561
+PMID: 31827822 
+
+Conflict of interest statement: The authors declare no competing interests.
+

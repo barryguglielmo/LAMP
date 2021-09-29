@@ -1,0 +1,52 @@
+
+1. Microb Pathog. 2020 Aug;145:104226. doi: 10.1016/j.micpath.2020.104226. Epub 2020
+Apr 27.
+
+Large-scale identification of trans-translation substrates targeted by tmRNA in
+Aeromonas veronii.
+
+Peng M(1), Cao X(1), Tang Y(1), Li H(1), Ma X(2), Liu Z(3).
+
+Author information: 
+(1)Key Laboratory of Tropical Biological Resources of Ministry of Education,
+School of Life and Pharmaceutical Sciences, Hainan University, 570228, Haikou,
+China.
+(2)Key Laboratory of Tropical Biological Resources of Ministry of Education,
+School of Life and Pharmaceutical Sciences, Hainan University, 570228, Haikou,
+China. Electronic address: 993034@hainanu.edu.cn.
+(3)Key Laboratory of Tropical Biological Resources of Ministry of Education,
+School of Life and Pharmaceutical Sciences, Hainan University, 570228, Haikou,
+China. Electronic address: zhuliu@hainanu.edu.cn.
+
+Transfer-messenger RNA (tmRNA) is ubiquitous in bacteria, acting as the core
+component for the trans-translation system that contributes to label the
+aberrantly synthesized peptides for degradation and to release the stalled
+ribosomes. Deletion of tmRNA causes a variety of phenotypes related to important 
+physiological processes in bacteria. To illustrate the molecular mechanism of the
+versatility of tmRNA in aquatic pathogen Aeromonas veronii, we mutated the
+C-terminal nucleotides of tmRNA (MutmRNA) for encoding a tag containing six
+histidine residues (His6tag), so as to capture and enrich the trans-translation
+substrates from the cell lysates through a Ni2+-NTA affinity chromatograph. The
+results showed that the concentrated substrates were detected as distinct and
+specific bands in western blotting using anti-His antibody, demonstrating that
+specific defective mRNAs were frequently and intensively rescued by
+trans-translation during the translation process in A. veronii. The substrates
+were analyzed by LC-MS/MS and further identified by searching a theoretically
+constructed database specific for A. veronii. Total of 24 potential substrates
+were identified, with various functions involved in metabolism, as well as
+structure and signal-based cellular events. Among the identified substrates, PspA
+and AsmA were labeled by Flag, and expressed in the presence of the modified
+trans-translation system in E. coli. Their labelings with MutmRNA were validated 
+by purification through Ni2+-NTA column followed by western blotting using
+anti-Flag antibody. This study provided the most abundant set of endogenous
+targets for tmRNA in A. veronii, and facilitated further investigations about the
+molecular mechanism and signal pathway of tmRNA-mediated trans-translation.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.micpath.2020.104226 
+PMID: 32353577 
+
+Conflict of interest statement: Declaration of competing interest No conflicts of
+interest statement for this article.
+

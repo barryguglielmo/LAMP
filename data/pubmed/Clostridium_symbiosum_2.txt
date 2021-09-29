@@ -1,0 +1,43 @@
+
+1. Front Microbiol. 2020 Mar 31;11:480. doi: 10.3389/fmicb.2020.00480. eCollection
+2020.
+
+Molecular and Low-Resolution Structural Characterization of the Na+-Translocating
+Glutaconyl-CoA Decarboxylase From Clostridium symbiosum.
+
+Vitt S(1)(2), Prinz S(3), Hellwig N(4), Morgner N(4), Ermler U(1), Buckel W(2).
+
+Author information: 
+(1)Department of Molecular Membrane Biology, Max Planck Institute of Biophysics, 
+Frankfurt, Germany.
+(2)Faculty of Biology, Philipps-Universität Marburg, Marburg, Germany.
+(3)Department of Structural Biology, Max Planck Institute of Biophysics,
+Frankfurt, Germany.
+(4)Institute of Physical and Theoretical Chemistry, Goethe University Frankfurt, 
+Frankfurt, Germany.
+
+Some anaerobic bacteria use biotin-dependent Na+-translocating decarboxylases
+(Bdc) of β-keto acids or their thioester analogs as key enzymes in their energy
+metabolism. Glutaconyl-CoA decarboxylase (Gcd), a member of this protein family, 
+drives the endergonic translocation of Na+ across the membrane with the exergonic
+decarboxylation of glutaconyl-CoA (ΔG 0' ≈-30 kJ/mol) to crotonyl-CoA. Here, we
+report on the molecular characterization of Gcd from Clostridium symbiosum based 
+on native PAGE, size exclusion chromatography (SEC) and laser-induced liquid bead
+ion desorption mass spectrometry (LILBID-MS). The obtained molecular mass of ca. 
+400 kDa fits to the DNA sequence-derived mass of 379 kDa with a subunit
+composition of 4 GcdA (65 kDa), 2 GcdB (35 kDa), GcdC1 (15 kDa), GcdC2 (14 kDa), 
+and 2 GcdD (10 kDa). Low-resolution structural information was achieved from
+preliminary electron microscopic (EM) measurements, which resulted in a 3D
+reconstruction model based on negative-stained particles. The Gcd structure is
+built up of a membrane-spanning base primarily composed of the GcdB dimer and a
+solvent-exposed head with the GcdA tetramer as major component. Both globular
+parts are bridged by a linker presumably built up of segments of GcdC1, GcdC2 and
+the 2 GcdDs. The structure of the highly mobile Gcd complex represents a template
+for the global architecture of the Bdc family.
+
+Copyright © 2020 Vitt, Prinz, Hellwig, Morgner, Ermler and Buckel.
+
+DOI: 10.3389/fmicb.2020.00480 
+PMCID: PMC7145394
+PMID: 32300335 
+

@@ -1,0 +1,45 @@
+
+1. Toxins (Basel). 2020 Sep 11;12(9). pii: E586. doi: 10.3390/toxins12090586.
+
+Diversity of the Genomes and Neurotoxins of Strains of Clostridium botulinum
+Group I and Clostridium sporogenes Associated with Foodborne, Infant and Wound
+Botulism.
+
+Brunt J(1)(2), van Vliet AHM(3), Carter AT(2), Stringer SC(2), Amar C(4), Grant
+KA(4), Godbole G(4), Peck MW(2).
+
+Author information: 
+(1)Department of Chemical Engineering and Biotechnology, University of Cambridge,
+Philippa Fawcett Drive, Cambridge CB3 0AS, UK.
+(2)Gut Health and Food Safety, Quadram Institute, Norwich Research Park, Norwich 
+NR4 7UQ, UK.
+(3)School of Veterinary Medicine, Faculty of Health and Medical Sciences,
+University of Surrey, Guildford GU2 7AL, UK.
+(4)Gastrointestinal Pathogens Unit, National Infection Service, Public Health
+England, London NW9 5EQ, UK.
+
+Clostridium botulinum Group I and Clostridium sporogenes are closely related
+bacteria responsible for foodborne, infant and wound botulism. A comparative
+genomic study with 556 highly diverse strains of C. botulinum Group I and C.
+sporogenes (including 417 newly sequenced strains) has been carried out to
+characterise the genetic diversity and spread of these bacteria and their
+neurotoxin genes. Core genome single-nucleotide polymorphism (SNP) analysis
+revealed two major lineages; C. botulinum Group I (most strains possessed
+botulinum neurotoxin gene(s) of types A, B and/or F) and C. sporogenes (some
+strains possessed a type B botulinum neurotoxin gene). Both lineages contained
+strains responsible for foodborne, infant and wound botulism. A new C. sporogenes
+cluster was identified that included five strains with a gene encoding botulinum 
+neurotoxin sub-type B1. There was significant evidence of horizontal transfer of 
+botulinum neurotoxin genes between distantly related bacteria. Population
+structure/diversity have been characterised, and novel associations discovered
+between whole genome lineage, botulinum neurotoxin sub-type variant,
+epidemiological links to foodborne, infant and wound botulism, and geographic
+origin. The impact of genomic and physiological variability on the botulism risk 
+has been assessed. The genome sequences are a valuable resource for future
+research (e.g., pathogen biology, evolution of C. botulinum and its neurotoxin
+genes, improved pathogen detection and discrimination), and support enhanced risk
+assessments and the prevention of botulism.
+
+DOI: 10.3390/toxins12090586 
+PMID: 32932818 
+

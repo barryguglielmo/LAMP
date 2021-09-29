@@ -1,0 +1,32 @@
+
+1. Biomolecules. 2020 Feb 24;10(2). pii: E348. doi: 10.3390/biom10020348.
+
+Sequencing and Analysis of the Genome of Propionibacterium Freudenreichii T82
+Strain: Importance for Industry.
+
+Piwowarek K(1), Lipińska E(1), Hać-Szymańczuk E(1), Kieliszek M(1), Kot AM(1).
+
+Author information: 
+(1)Department of Food Biotechnology and Microbiology, Institute of Food Sciences,
+Warsaw University of Life Sciences-SGGW, Nowoursynowska 159 c, 02-776 Warsaw,
+Poland.
+
+The genome of Propionibacterium freudenreichii ssp. freudenreichii T82, which has
+a chromosome containing 2,585,340 nucleotides with 67.3% GC content
+(guanine-cytosine content), is described in this paper. The total number of genes
+is 2308, of which 2260 are protein-coding genes and 48 are RNA genes. According
+to the genome analysis and the obtained results, the T82 strain can produce
+various compounds such as propionic acid, trehalose, glycogen, and B group
+vitamins (e.g., B6, B9, and B12). From protein-coding sequences (CDSs), genes
+related to stress adaptation, biosynthesis, metabolism, transport, secretion, and
+defense machinery were detected. In the genome of the T82 strain, sequences
+corresponding to the CRISPR loci (Clustered Regularly Interspaced Short
+Palindromic Repeats), antibiotic resistance, and restriction-modification system 
+were found.
+
+DOI: 10.3390/biom10020348 
+PMCID: PMC7072396
+PMID: 32102319 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

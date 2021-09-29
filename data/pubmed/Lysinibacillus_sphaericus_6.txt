@@ -1,0 +1,42 @@
+
+1. J Biomol Struct Dyn. 2020 Jun 30:1-10. doi: 10.1080/07391102.2020.1784792. [Epub 
+ahead of print]
+
+Computational analysis identifies druggable mutations in human rBAT mediated
+Cystinuria.
+
+Pandey B(1), Aarthy M(2), Sharma M(1), Singh SK(2), Kumar V(3).
+
+Author information: 
+(1)Radiation Biology & Health Sciences Division, Bhabha Atomic Research Centre,
+Mumbai, India.
+(2)Computer-aided drug design Lab, Department of Bioinformatics, Alagappa
+University, Karaikudi, India.
+(3)Homi Bhabha National Institute, Mumbai, India.
+
+Culex quinquefasciatus Cqm1 protein acts as the receptor for Lysinibacillus
+sphaericus mosquito-larvicidal binary (BinAB) toxin that is used worldwide for
+mosquito control. We found amino acid transporter protein, rBAT, as
+phylogenetically closest Cqm1 homolog in humans. The present study reveals large 
+evolutionary distance between Cqm1 and rBAT, and rBAT ectodomain lacks the
+sequence motif which serves as binding-site for the BinAB toxin. Thus, BinAB
+toxin can be expected to remain safe for humans. rBAT (heavy subunit; SLC3A1) and
+catalytic b0,+AT (light subunit; SLC7A9), linked by single disulfide bond,
+mediate renal reabsorption of cystine and dibasic amino acids in Na+ independent 
+manner. Mutations in rBAT cause type I Cystinuria disease which shows global
+prevalence, and rBAT can be thought as an important pharmacological target.
+However, 3D structures of rBAT and b0,+AT, the two components of b0,+ heteromeric
+amino acid transporter systems, are not available. We constructed a reliable
+homology model of rBAT using Cqm1 coordinates and that of transmembrane b0,+AT
+subunit using LAT1 coordinates. Mapping of pathogenic mutations onto rBAT
+ectodomain revealed their scattered distribution throughout the rBAT protein.
+Further, our computational simulations-based scoring of several known deleterious
+mutations of rBAT revealed that mutations those do not compromise the protein
+fold and stability, are localized on the same face of the molecule. These
+residues are expected to interact with the b0,+AT transporter. The present study 
+thus identifies druggable sites on rBAT that could be targeted for the treatment 
+of type I Cystinuria.Communicated by Ramaswamy H. Sarma.
+
+DOI: 10.1080/07391102.2020.1784792 
+PMID: 32602810 
+

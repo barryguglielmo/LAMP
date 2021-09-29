@@ -1,0 +1,57 @@
+
+1. Sci Total Environ. 2020 Oct 20;740:140186. doi: 10.1016/j.scitotenv.2020.140186. 
+Epub 2020 Jun 15.
+
+Survivor microbial populations in post-chlorinated wastewater are strongly
+associated with untreated hospital sewage and include ceftazidime and meropenem
+resistant populations.
+
+Beattie RE(1), Skwor T(2), Hristova KR(3).
+
+Author information: 
+(1)Department of Biological Sciences, Marquette University, 1428 W Clybourn
+Street, Milwaukee 53233, WI, USA. Electronic address:
+rachelle.bailey@marquette.edu.
+(2)Department of Biomedical Sciences, University of Wisconsin - Milwaukee,
+Milwaukee 53211, WI, USA. Electronic address: skwor@uwm.edu.
+(3)Department of Biological Sciences, Marquette University, 1428 W Clybourn
+Street, Milwaukee 53233, WI, USA. Electronic address:
+krassimira.hristova@marquette.edu.
+
+Wastewater treatment plant (WWTP) effluent has been implicated in the spread of
+antibiotic resistant bacteria (ARB), including pathogens, as the WWTP environment
+contains multiple selective pressures that may increase mutation rates, pathogen 
+survivability, and induce gene transfer between bacteria. In WWTPs receiving
+hospital sewage, this selective effect may be more pronounced due to increased
+concentrations of antibiotics, ARB, and clinical pathogens from hospital sewage. 
+To determine the extent to which hospital sewage contributes to the microbial
+community of disinfected wastewater which is released into the environment, we
+used 16S rRNA sequencing of hospital sewage, WWTP influent, primary effluent,
+Post-Chlorinated Effluent, and receiving sediments in a combined sewage system to
+track changes in microbial community composition. We also sequenced the
+culturable survivor community resistant to β-lactam antibiotics within
+disinfected effluent. Using molecular source tracking, we found that the hospital
+sewage microbiome contributes an average of 11.49% of the microbial community in 
+Post-Chlorinated Effluents, suggesting microorganisms identified within hospital 
+sewage can survive or are enriched by the chlorination disinfection process.
+Additionally, we identified 28 potential pathogens to the species level, seven of
+which remained detectable in Post-Chlorinated Effluent and environmental
+sediments. When Post-Chlorinated Effluents were cultured on media containing
+β-lactam antibiotics ceftazidime and meropenem, a diverse antibiotic resistant
+survivor community was identified including potential human pathogens Bacillus
+cereus, Bacillus pumilus, and Chryseobacterium indologenes. Together, these
+results indicate that although wastewater treatment does significantly reduce
+pathogenic loads and ARBs, their continual presence in disinfected wastewater and
+receiving sediments suggests additional treatment and microbial tracking systems 
+are needed to reduce human and animal health risks.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2020.140186 
+PMID: 32569917  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

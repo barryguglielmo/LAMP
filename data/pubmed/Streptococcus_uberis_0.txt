@@ -1,0 +1,45 @@
+
+1. Antibiotics (Basel). 2020 Sep 19;9(9). pii: E621. doi:
+10.3390/antibiotics9090621.
+
+Characterization of the Bacteriophage-Derived Endolysins PlySs2 and PlySs9 with
+In Vitro Lytic Activity against Bovine Mastitis Streptococcus uberis.
+
+Vander Elst N(1)(2)(3)(4), Linden SB(2), Lavigne R(3), Meyer E(1), Briers Y(4),
+Nelson DC(2).
+
+Author information: 
+(1)Laboratory of Biochemistry, Department of Pharmacology, Toxicology and
+Biochemistry, Faculty of Veterinary Medicine, Ghent University, 9820 Merelbeke,
+Belgium.
+(2)Laboratory of Antimicrobial Discovery, Institute for Bioscience and
+Biotechnology Research, University of Maryland, Rockville, MD 20850, USA.
+(3)Laboratory of Gene Technology, Department of Biosystems, KU Leuven, 3001
+Heverlee, Belgium.
+(4)Laboratory of Applied Biotechnology, Department of Biotechnology, Ghent
+University, 9000 Ghent, Belgium.
+
+Bovine mastitis, an infection of the cow's mammary gland, is frequently caused by
+Streptococcus uberis and causes major economic losses in the dairy industry. The 
+intramammary administration of antibiotics currently remains the predominant
+preventive and therapeutic measure. These antimicrobial compounds, of which some 
+are considered critical in human health care, are frequently applied as dry
+therapy resulting in their consistent overuse. Therefore, the use of antibiotics 
+in the dairy sector is being questioned. We here identified two endolysins, i.e.,
+PlySs2 and PlySs9, respectively derived from Streptococcus suis serotype-2 and -9
+prophages, with lytic activity against S. uberis in an in vitro setting. Both
+endolysins gave clear lysis zones in spot-on-plate assays and caused a reduction 
+of the optical density in a turbidity reduction assay. In depth characterization 
+identified PlySs9 as the more potent endolysin over PlySs2 with a lower MIC value
+and about one additional log of killing. PlySs2 and PlySs9 were challenged to a
+panel of subclinical and clinical S. uberis milk isolates and were both able to
+lyse all strains tested. Molecular dissection of these endolysins in catalytic
+and cell wall binding subdomains resulted in major loss of killing and binding
+activity, respectively. Taken together, we here propose PlySs2 and PlySs9 as
+candidate compounds to the current antimicrobial arsenal known against bovine
+mastitis-causing S. uberis as future add-on or replacement strategy to the
+currently used intramammary antibiotics.
+
+DOI: 10.3390/antibiotics9090621 
+PMID: 32961696 
+

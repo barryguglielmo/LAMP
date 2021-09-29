@@ -1,0 +1,81 @@
+
+1. Nature. 2020 Jul;583(7817):596-602. doi: 10.1038/s41586-020-2499-y. Epub 2020 Jul
+15.
+
+Ageing hallmarks exhibit organ-specific temporal signatures.
+
+Schaum N(1)(2), Lehallier B(2), Hahn O(2), Pálovics R(2), Hosseinzadeh S(3), Lee 
+SE(2), Sit R(3), Lee DP(2)(4), Losada PM(2), Zardeneta ME(2)(4), Fehlmann T(5),
+Webber JT(3), McGeever A(3), Calcuttawala K(2), Zhang H(2), Berdnik D(2), Mathur 
+V(2), Tan W(3), Zee A(3), Tan M(3); Tabula Muris Consortium, Pisco AO(3),
+Karkanias J(3), Neff NF(3), Keller A(2)(5), Darmanis S(3), Quake SR(6)(7),
+Wyss-Coray T(8)(9)(10)(11).
+
+Collaborators: Almanzar N, Antony J, Baghel AS, Bakerman I, Bansal I, Barres BA, 
+Beachy PA, Berdnik D, Bilen B, Brownfield D, Cain C, Chan CKF, Chen MB, Clarke
+MF, Conley SD, Darmanis S, Demers A, Demir K, de Morree A, Divita T, du Bois H,
+Ebadi H, Espinoza FH, Fish M, Gan Q, George BM, Gillich A, Gòmez-Sjöberg R, Green
+F, Genetiano G, Gu X, Gulati GS, Hahn O, Haney MS, Hang Y, Harris L, He M,
+Hosseinzadeh S, Huang A, Huang KC, Iram T, Isobe T, Ives F, Jones R, Kao KS,
+Karkanias J, Karnam G, Keller A, Kershner AM, Khoury N, Kim SK, Kiss BM, Kong W, 
+Krasnow MA, Kumar ME, Kuo CS, Y Lam J, Lee DP, Lee SE, Lehallier B, Leventhal O, 
+Li G, Li Q, Liu L, Lo A, Lu WJ, Lugo-Fagundo MF, Manjunath A, May AP, Maynard A, 
+McGeever A, McKay M, McNerney MW, Merrill B, Metzger RJ, Mignardi M, Min D,
+Nabhan AN, Neff NF, Ng KM, Nguyen PK, Noh J, Nusse R, Pálovics R, Patkar R, Peng 
+WC, Penland L, Pisco AO, Pollard K, Puccinelli R, Qi Z, Quake SR, Rando TA,
+Rulifson EJ, Schaum N, Segal JM, Sikandar SS, Sinha R, Sit RV, Sonnenburg J,
+Staehli D, Szade K, Tan M, Tan W, Tato C, Tellez K, Dulgeroff LBT, Travaglini KJ,
+Tropini C, Tsui M, Waldburger L, Wang BM, van Weele LJ, Weinberg K, Weissman IL, 
+Wosczyna MN, Wu SM, Wyss-Coray T, Xiang J, Xue S, Yamauchi KA, Yang AC, Yerra LP,
+Youngyunpipatkul J, Yu B, Zanini F, Zardeneta ME, Zee A, Zhao C, Zhang F, Zhang
+H, Zhang MJ, Zhou L, Zou J.
+
+Author information: 
+(1)Institute for Stem Cell Biology and Regenerative Medicine, Stanford University
+School of Medicine, Stanford, CA, USA.
+(2)Department of Neurology and Neurological Sciences, Stanford University School 
+of Medicine, Stanford, CA, USA.
+(3)Chan Zuckerberg Biohub, San Francisco, CA, USA.
+(4)Veterans Administration Palo Alto Healthcare System, Palo Alto, CA, USA.
+(5)Chair for Clinical Bioinformatics, Saarland University, Saarbrücken, Germany.
+(6)Chan Zuckerberg Biohub, San Francisco, CA, USA. steve@quake-lab.org.
+(7)Department of Bioengineering, Stanford University, Stanford, CA, USA.
+steve@quake-lab.org.
+(8)Department of Neurology and Neurological Sciences, Stanford University School 
+of Medicine, Stanford, CA, USA. twc@stanford.edu.
+(9)Veterans Administration Palo Alto Healthcare System, Palo Alto, CA, USA.
+twc@stanford.edu.
+(10)Paul F. Glenn Center for the Biology of Aging, Stanford University School of 
+Medicine, Stanford, CA, USA. twc@stanford.edu.
+(11)Wu Tsai Neurosciences Institute, Stanford University School of Medicine,
+Stanford, CA, USA. twc@stanford.edu.
+
+Ageing is the single greatest cause of disease and death worldwide, and
+understanding the associated processes could vastly improve quality of life.
+Although major categories of ageing damage have been identified-such as altered
+intercellular communication, loss of proteostasis and eroded mitochondrial
+function1-these deleterious processes interact with extraordinary complexity
+within and between organs, and a comprehensive, whole-organism analysis of ageing
+dynamics has been lacking. Here we performed bulk RNA sequencing of 17 organs and
+plasma proteomics at 10 ages across the lifespan of Mus musculus, and integrated 
+these findings with data from the accompanying Tabula Muris Senis2-or 'Mouse
+Ageing Cell Atlas'-which follows on from the original Tabula Muris3. We reveal
+linear and nonlinear shifts in gene expression during ageing, with the associated
+genes clustered in consistent trajectory groups with coherent biological
+functions-including extracellular matrix regulation, unfolded protein binding,
+mitochondrial function, and inflammatory and immune response. Notably, these gene
+sets show similar expression across tissues, differing only in the amplitude and 
+the age of onset of expression. Widespread activation of immune cells is
+especially pronounced, and is first detectable in white adipose depots during
+middle age. Single-cell RNA sequencing confirms the accumulation of T cells and B
+cells in adipose tissue-including plasma cells that express immunoglobulin
+J-which also accrue concurrently across diverse organs. Finally, we show how gene
+expression shifts in distinct tissues are highly correlated with corresponding
+protein levels in plasma, thus potentially contributing to the ageing of the
+systemic circulation. Together, these data demonstrate a similar yet asynchronous
+inter- and intra-organ progression of ageing, providing a foundation from which
+to track systemic sources of declining health at old age.
+
+DOI: 10.1038/s41586-020-2499-y 
+PMID: 32669715 
+

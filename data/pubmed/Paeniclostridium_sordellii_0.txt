@@ -1,0 +1,67 @@
+
+1. Cell. 2020 Jul 23;182(2):345-356.e16. doi: 10.1016/j.cell.2020.06.005. Epub 2020 
+Jun 25.
+
+Recognition of Semaphorin Proteins by P. sordellii Lethal Toxin Reveals
+Principles of Receptor Specificity in Clostridial Toxins.
+
+Lee H(1), Beilhartz GL(2), Kucharska I(2), Raman S(2), Cui H(2), Lam MHY(1),
+Liang H(3), Rubinstein JL(4), Schramek D(5), Julien JP(6), Melnyk RA(7), Taipale 
+M(8).
+
+Author information: 
+(1)Donnelly Centre for Cellular and Biomolecular Research, University of Toronto,
+Toronto, ON M5S 3E1, Canada.
+(2)Program in Molecular Medicine, The Hospital for Sick Children Research
+Institute, Toronto, ON M5G 0A4, Canada.
+(3)Program in Molecular Medicine, The Hospital for Sick Children Research
+Institute, Toronto, ON M5G 0A4, Canada; Department of Biochemistry, University of
+Toronto, Toronto, ON M5S 1A8, Canada.
+(4)Program in Molecular Medicine, The Hospital for Sick Children Research
+Institute, Toronto, ON M5G 0A4, Canada; Department of Biochemistry, University of
+Toronto, Toronto, ON M5S 1A8, Canada; Department of Medical Biophysics,
+University of Toronto, Toronto, ON M5G 1L7, Canada.
+(5)Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON M5G 
+1X5, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON
+M5S 1A8, Canada.
+(6)Program in Molecular Medicine, The Hospital for Sick Children Research
+Institute, Toronto, ON M5G 0A4, Canada; Department of Biochemistry, University of
+Toronto, Toronto, ON M5S 1A8, Canada; Department of Immunology, University of
+Toronto, Toronto, ON M5S 1A8, Canada; Molecular Architecture of Life Program,
+Canadian Institute for Advanced Research (CIFAR), Toronto, ON M5G 1M1, Canada.
+Electronic address: jean-philippe.julien@sickkids.ca.
+(7)Program in Molecular Medicine, The Hospital for Sick Children Research
+Institute, Toronto, ON M5G 0A4, Canada; Department of Biochemistry, University of
+Toronto, Toronto, ON M5S 1A8, Canada. Electronic address:
+roman.melnyk@sickkids.ca.
+(8)Donnelly Centre for Cellular and Biomolecular Research, University of Toronto,
+Toronto, ON M5S 3E1, Canada; Department of Molecular Genetics, University of
+Toronto, Toronto, ON M5S 1A8, Canada; Molecular Architecture of Life Program,
+Canadian Institute for Advanced Research (CIFAR), Toronto, ON M5G 1M1, Canada.
+Electronic address: mikko.taipale@utoronto.ca.
+
+Pathogenic clostridial species secrete potent toxins that induce severe host
+tissue damage. Paeniclostridium sordellii lethal toxin (TcsL) causes an almost
+invariably lethal toxic shock syndrome associated with gynecological infections. 
+TcsL is 87% similar to C. difficile TcdB, which enters host cells via Frizzled
+receptors in colon epithelium. However, P. sordellii infections target vascular
+endothelium, suggesting that TcsL exploits another receptor. Here, using
+CRISPR/Cas9 screening, we establish semaphorins SEMA6A and SEMA6B as TcsL
+receptors. We demonstrate that recombinant SEMA6A can protect mice from
+TcsL-induced edema. A 3.3 Å cryo-EM structure shows that TcsL binds SEMA6A with
+the same region that in TcdB binds structurally unrelated Frizzled. Remarkably,
+15 mutations in this evolutionarily divergent surface are sufficient to switch
+binding specificity of TcsL to that of TcdB. Our findings establish semaphorins
+as physiologically relevant receptors for TcsL and reveal the molecular basis for
+the difference in tissue targeting and disease pathogenesis between highly
+related toxins.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2020.06.005 
+PMCID: PMC7316060
+PMID: 32589945 
+
+Conflict of interest statement: Declaration of Interests The authors declare no
+competing interests.
+

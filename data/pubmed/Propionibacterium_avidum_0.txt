@@ -1,0 +1,49 @@
+
+1. Chemosphere. 2020 Nov;258:127392. doi: 10.1016/j.chemosphere.2020.127392. Epub
+2020 Jun 17.
+
+Revealing antimicrobial resistance in stormwater with MinION.
+
+Białasek M(1), Miłobędzka A(2).
+
+Author information: 
+(1)Department of Cancer Biology, Institute of Biology, Warsaw University of Life 
+Sciences, Nowoursynowska 159, 02-776, Warsaw, Poland; Department of Physiological
+Sciences, Faculty of Veterinary Medicine, Warsaw University of Life Sciences,
+Nowoursynowska 159, 02-776, Warsaw, Poland. Electronic address:
+maciej_bialasek@sggw.pl.
+(2)Department of Water Technology and Environmental Engineering, University of
+Chemistry and Technology Prague, Technická 5, 166 28, Prague 6, Czech Republic.
+Electronic address: milobeda@vscht.cz.
+
+Discharge of urban stormwater containing organic matter, heavy metals and
+sometime human feces, to the natural aquatic reservoirs without any treatment is 
+not only an environmental problem. It can lead to prevalence of antibiotic
+resistant bacteria in stormwater systems and transmission of antibiotic
+resistance genes to the environment. We performed antibiotic resistome
+identification and virus detection in stormwater samples from Stockholm, using
+publicly available metagenomic sequencing MinION data. A MinION platform offers
+low-cost, precise environmental metagenomics analysis. 37 groups of antibiotic
+resistant bacteria (ARB), 11 resistance types with 26 resistance mechanisms -
+antibiotic resistance genes (ARGs) giving tolerance to the aminoglycoside,
+beta-lactams, fosmidomycin, MLS, multidrug and vancomycin were identified using
+ARGpore pipeline. The majority of the identified bacteria species were related to
+the natural environment such as soil and were not dangerous to human. Alarmingly,
+human pathogenic bacteria carrying resistance to antibiotics currently used
+against them (Bordetella resistant to macrolides and multidrug resistant
+Propionibacterium avidum) were also found in the samples. Most abundant viruses
+identified belonged to Caudovirales and Herpesvirales and they were not carrying 
+ARGs. Unlike the virome, resistome and ARB were not unique for stormwater
+sampling points. This results underline the need for extensive monitoring of the 
+microbial community structure in the urban stormwater systems to assess
+antimicrobial resistance spread.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.chemosphere.2020.127392 
+PMCID: PMC7297696
+PMID: 32947654  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors,
+Maciej Białasek and Aleksandra Miłobędzka declare no conflict of interest.
+

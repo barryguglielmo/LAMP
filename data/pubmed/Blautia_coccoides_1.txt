@@ -1,0 +1,54 @@
+
+1. J Antimicrob Chemother. 2020 Sep 1;75(9):2411-2415. doi: 10.1093/jac/dkaa220.
+
+Emergence of vancomycin- and teicoplanin-resistant Enterococcus faecium via
+vanD5-harbouring large genomic island.
+
+Sato T(1), Wada T(2), Shinagawa M(3), Fukushima Y(4), Nakajima C(4)(5), Suzuki
+Y(4)(5), Takahashi S(3)(6), Yokota SI(1).
+
+Author information: 
+(1)Department of Microbiology, Sapporo Medical University School of Medicine,
+Sapporo, Japan.
+(2)Department of International Health, Institute of Tropical Medicine, Nagasaki
+University, Nagasaki, Japan.
+(3)Division of Laboratory Medicine, Sapporo Medical University Hospital, Sapporo,
+Japan.
+(4)Division of Bioresources, Hokkaido University Research Center for Zoonosis
+Control, Sapporo, Japan.
+(5)Global Station for Zoonosis Control, Global Institution for Collaborative
+Research and Education (GI-CoRE), Hokkaido University, Sapporo, Japan.
+(6)Department of Infection Control and Laboratory Medicine, Sapporo Medical
+University School of Medicine, Sapporo, Japan.
+
+BACKGROUND: Treatment of VRE is of clinical concern. While certain numbers of
+vanD-type VRE have been isolated, only two vanD5-harbouring Enterococcus faecium 
+isolates have been reported in Canada and Japan.
+METHODS: We report the isolation of vanD5-type E. faecium and the first ever
+determination of the whole-genome sequence to investigate the possible mechanisms
+of the acquisition of the vanD5 gene cluster in E. faecium.
+RESULTS: Two vanD5-harbouring vancomycin-resistant E. faecium were isolated from 
+the skin (SMVRE19) and faeces (SMVRE20) of a patient with a skin ulcer in Japan. 
+The isolates exhibited vancomycin and teicoplanin MIC values of 128 mg/L, whilst 
+the previous isolates of vanD5-harbouring E. faecium were only resistant to
+vancomycin. SMVRE19 and SMVRE20 were clones related to ST18, which is also seen
+in vanA- and vanB-type VRE. These isolates harboured an insertion element,
+ISEfm1, in the ddl gene, similar to a previously described teicoplanin-resistant 
+vanD3-type E. faecium. The vanD5 gene cluster was integrated into the SMVRE20
+chromosome as a part of a large genomic island (approximately 127 kb), similar to
+other recently spreading vanD variants in the Netherlands. The genomic island
+shared the greatest similarity with a part of the Blautia coccoides genome
+sequence, except for the region surrounding the vanD gene cluster.
+CONCLUSIONS: This study reports that emergence of vancomycin- and
+teicoplanin-resistant vanD5-type E. faecium occurred via acquisition of the vanD5
+cluster and ISEfm1 insertion into ddl. Considering the genetic similarity between
+the various VRE strains, the current study should serve as a warning against the 
+spread of vanD5-type VRE.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the
+British Society for Antimicrobial Chemotherapy. All rights reserved. For
+permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jac/dkaa220 
+PMID: 32585683 
+

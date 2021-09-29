@@ -1,0 +1,45 @@
+
+1. Microbiol Res. 2020 Sep 25;242:126601. doi: 10.1016/j.micres.2020.126601. [Epub
+ahead of print]
+
+Sapindus mukorossi Gaertn. and its bioactive metabolite oleic acid impedes
+methicillin-resistant Staphylococcus aureus biofilm formation by down regulating 
+adhesion genes expression.
+
+Selvaraj A(1), Valliammai A(1), Premika M(1), Priya A(1), Bhaskar JP(2), Krishnan
+V(2), Pandian SK(3).
+
+Author information: 
+(1)Department of Biotechnology, Alagappa University, Karaikudi, 630 003, Tamil
+Nadu, India.
+(2)ITC, Life Sciences and Technology Centre, Bengaluru, India.
+(3)Department of Biotechnology, Alagappa University, Karaikudi, 630 003, Tamil
+Nadu, India. Electronic address: pandiansk@gmail.com.
+
+Plants are boon to the mankind due to plenty of metabolites with medicinal
+values. Though plants have traditionally been used to treat various diseases,
+their biological values are not completely explored yet. Sapindus mukorossi is
+one such ethnobotanical plant identified for various biological activities. As
+biofilm formation and biofilm mediated drug resistance of methicillin-resistant
+Staphylococcus aureus (MRSA) have raised as serious global issue, search for
+antibiofilm agents has gained greater importance. Notably, antibiofilm potential 
+of S. mukorossi is still unexplored. The aim of the study is to explore the
+effect of S. mukorossi methanolic extract (SMME) on MRSA biofilm formation and
+adhesive molecules production. Significantly, SMME exhibited 82 % of biofilm
+inhibition at 250 μg/mL without affecting the growth and microscopic analyses
+evidenced the concentration dependent antibiofilm activity of SMME. In vitro
+assays exhibited the reduction in slime, cell surface hydrophobicity,
+autoaggregation, extracellular polysaccharides substance and extracellular DNA
+synthesis upon SMME treatment. Further, qPCR analysis confirmed the ability of
+SMME to interfere with the expression of adhesion genes associated with biofilm
+formation such as icaA, icaD, fnbA, fnbB, clfA, cna, and altA. GC-MS analysis and
+molecular docking study revealed that oleic acid is responsible for the
+antibiofilm activity. FT-IR analysis validated the presence of oleic acid in
+SMME. These results suggest that SMME can be used as a promising therapeutic
+agent against MRSA biofilm-associated infections.
+
+Copyright © 2020 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.micres.2020.126601 
+PMID: 33010587 
+

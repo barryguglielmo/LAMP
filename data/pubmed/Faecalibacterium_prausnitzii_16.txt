@@ -1,0 +1,56 @@
+
+1. Int J Environ Res Public Health. 2020 Jul 15;17(14). pii: E5120. doi:
+10.3390/ijerph17145120.
+
+Evaluation of Changes in Gut Microbiota in Patients with Crohn's Disease after
+Anti-Tnfα Treatment: Prospective Multicenter Observational Study.
+
+Sanchis-Artero L(1), Martínez-Blanch JF(2), Manresa-Vera S(2), Cortés-Castell
+E(3), Rodriguez-Morales J(1), Cortés-Rizo X(1).
+
+Author information: 
+(1)Inflammatory Bowel Disease Unit. Department of Digestive Diseases, Hospital of
+Sagunto, Av. Ramón y Cajal s/n, 46520 Sagunto, Valencia, Spain.
+(2)Genomics Laboratory. ADM-Lifesequencing. Parque Científico Universidad de
+Valencia. Catedrático Agustín Escardino Benlloch, 9. Edificio 2, 46980 Paterna,
+Valencia, Spain.
+(3)Department of Pharmacology, Pediatrics and Organic Chemistry Miguel Hernández 
+University, Carretera de Valencia-Alicante S/N, 03550 San Juan de Alicante,
+Alicante, Spain.
+
+Background: Crohn's disease is believed to result from the interaction between
+genetic susceptibility, environmental factors and gut microbiota, leading to an
+aberrant immune response. The objectives of this study are to evaluate the
+qualitative and quantitative changes in the microbiota of patients with Crohn's
+disease after six months of anti-tumor-necrosis factor (anti-TNFα) (infliximab or
+adalimumab) treatment and to determine whether these changes lead to the recovery
+of normal microbiota when compared to a control group of healthy subjects. In
+addition, we will evaluate the potential role of the Faecalibacterium
+prausnitzii/Escherichia coli and Faecalibacterium prausnitzii/Clostridium
+coccoides ratios as indicators of therapeutic response to anti-TNFα drugs.
+Methods/Design: This prospective multicenter observational study will comprise a 
+total of 88 subjects: 44 patients with Crohn's disease scheduled to start
+anti-TNFα treatment as described in the drug specifications to control the
+disease and 44 healthy individuals who share the same lifestyle and eating
+habits. The presence of inflammatory activity will be determined by the
+Harvey-Bradshaw index, analytical parameters in blood, including C-reactive
+protein, and fecal calprotectin levels at commencement of the study, at three
+months and at six months, allowing the classification of patients into responders
+and non-responders. Microbiota composition and the quantitative relationship
+between Faecalibacterium prausnitzii and Escherichia coli and between
+Faecalibacterium prausnitzii and Clostridium coccoides group as indicators of
+dysbiosis will be studied at inclusion and six months after initiation of
+treatment using ultra sequencing with Illumina technology and comparative
+bioinformatics analysis for the former relationship, and digital droplet PCR
+using stool samples for the latter. Upon inclusion, patients will complete a
+survey of dietary intake for the three days prior to stool collection, which will
+be repeated six months later in a second collection to minimize dietary bias.
+Discussion: In this study, massive sequencing, a reliable new tool, will be
+applied to identify early biomarkers of response to anti-TNF treatment in
+patients with Crohn's disease to improve clinical management of these patients,
+reduce morbidity rates and improve efficiency.
+
+DOI: 10.3390/ijerph17145120 
+PMCID: PMC7399935
+PMID: 32679874 
+

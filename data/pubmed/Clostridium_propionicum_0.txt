@@ -1,0 +1,50 @@
+
+1. Biotechnol Bioeng. 2020 Jul;117(7):2187-2197. doi: 10.1002/bit.27354. Epub 2020
+Apr 21.
+
+Biosynthesis and characterization of
+poly(d-lactate-co-glycolate-co-4-hydroxybutyrate).
+
+Choi SY(1), Chae TU(1)(2), Shin J(3), Im JA(1)(4), Lee SY(1)(2)(4).
+
+Author information: 
+(1)Metabolic and Biomolecular Engineering National Research Laboratory, Systems
+Metabolic Engineering and Systems Healthcare Cross-Generation Collaborative
+Laboratory, Department of Chemical and Biomolecular Engineering (BK21 Plus
+Program), Institute for the BioCentury, Korea Advanced Institute of Science and
+Technology (KAIST), Yuseong-gu, Daejeon, Republic of Korea.
+(2)Applied Science Research Institute, Korea Advanced Institute of Science and
+Technology (KAIST), Yuseong-gu, Daejeon, Republic of Korea.
+(3)Center for Bio-based Chemistry, Green Chemistry and Engineering Division,
+Korea Research Institute of Chemical Technology, Yuseong-gu, Daejeon, Republic of
+Korea.
+(4)BioProcess Engineering Research Center and Bioinformatics Research Center,
+Korea Advanced Institute of Science and Technology (KAIST), Yuseong-gu, Daejeon, 
+Republic of Korea.
+
+Poly(d-lactate-co-glycolate-co-4-hydroxybutyrate) [poly(d-LA-co-GA-co-4HB)] and
+poly(d-lactate-co-glycolate-co-4-hydroxybutyrate-co-d-2-hydroxybutyrate)
+[poly(d-LA-co-GA-co-4HB-co-d-2HB)] are of interest for their potential
+applications as new biomedical polymers. Here we report their enhanced production
+by metabolically engineered Escherichia coli. To examine the polymer properties, 
+poly(d-LA-co-GA-co-4HB) polymers having various monomer compositions
+(3.4-41.0mol% of 4HB) were produced by culturing the engineered E. coli strain
+expressing xylBC from Caulobacter crescentus, evolved phaC1 from Pseudomonas sp. 
+MBEL 6-19 (phaC1437), and evolved pct from Clostridium propionicum (pct540) in a 
+medium supplemented with sodium 4HB at various concentrations. To produce these
+polymers without 4HB feeding, the 4HB biosynthetic pathway was additionally
+constructed by expressing Clostridium kluyveri sucD and 4hbD. The engineered E.
+coli expressing xylBC, phaC1437, pct540, sucD, and 4hbD successfully produced
+poly(d-LA-co-GA-co-4HB-co-d-2HB) and poly(d-LA-co-GA-co-4HB) from glucose and
+xylose. Through modulating the expression levels of the heterologous genes and
+performing fed-batch cultures, the polymer content and titer could be increased
+to 65.76wt% and 6.19g/L, respectively, while the monomer fractions in the
+polymers could be altered as desired. The polymers produced, in particular, the
+4HB-rich polymers showed viscous and sticky properties suggesting that they might
+be used as medical adhesives.
+
+© 2020 Wiley Periodicals, Inc.
+
+DOI: 10.1002/bit.27354 
+PMID: 32281652 
+

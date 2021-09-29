@@ -1,0 +1,61 @@
+
+1. Appl Environ Microbiol. 2020 Aug 18;86(17). pii: e01435-20. doi:
+10.1128/AEM.01435-20. Print 2020 Aug 18.
+
+Protein A-Mediated Binding of Staphylococcus spp. to Antibodies in Flow
+Cytometric Assays and Reduction of This Binding by Using Fc Receptor Blocking
+Reagent.
+
+Cronin UP(1), Girardeaux L(2), O'Meara E(3), Wilkinson MG(3).
+
+Author information: 
+(1)Department of Biological Sciences, University of Limerick, Castletroy, Ireland
+ultan.cronin@ul.ie.
+(2)LEGTPA Bordeaux Blanquefort (Lycée Agro-Viticole de Blanquefort), Blanquefort,
+Bordeaux, France.
+(3)Department of Biological Sciences, University of Limerick, Castletroy,
+Ireland.
+
+Staphylococcus aureus and other coagulase-positive Staphylococcus spp. bind the
+Fc region of IgG antibodies through expression of protein A (SpA). These species 
+have consequently been a source of false-positive signals in antibody-based
+assays designed to detect other target bacteria. Here, flow cytometry was used to
+study the influence of a number of factors on the SpA-mediated binding of single 
+cells to an anti-human IgG antibody, including strain, heat killing, overnight
+storage, growth phase, cell physiology, surface adhesion, and growth in model
+food systems. Through the costaining of antibody-stained cells with the
+permeability dye propidium iodide and calcein violet AM, the cell physiological
+status was related to SpA-mediated antibody binding. Generally, permeabilized
+cells lacking esterase activity did not strongly bind antibody. The binding of a 
+number of commercially available polyclonal IgG antibodies to non-Staphylococcus 
+spp. was also characterized. Not all SpA-expressing species showed strong binding
+of mouse IgG, and one species not known to express SpA showed strong binding.
+Most SpA-expressing strains bound rabbit IgG antibodies to some extent, whereas
+only one strain bound goat IgG. To reduce or eliminate SpA-mediated IgG binding, 
+the following products were evaluated as blocking reagents and applied prior to
+staining with primary or secondary antibody: normal rabbit serum, mouse IgG
+isotype control, goat IgG, and a commercial FcR blocking reagent. Only the FcR
+blocking reagent consistently reduced SpA-mediated binding of Staphylococcus spp.
+to antibodies against other species and could be recommended as a blocking
+reagent in immunoassays designed to detect non-Staphylococcus species.IMPORTANCE 
+This study characterizes a widespread but little-studied problem associated with 
+the antibody-based detection of microbes-the Staphylococcus protein A
+(SpA)-mediated binding of IgG antibodies-and offers a solution: the use of
+commercial FcR blocking reagent. A common source of false-positive signals in the
+detection of microbes in clinical, food, or environmental samples can be
+eliminated by applying this study's findings. Using flow cytometry, the authors
+demonstrate the extent of heterogeneity in a culture's SpA-mediated binding of
+antibodies and that the degree of SpA-mediated antibody binding is strain, growth
+phase, and food matrix dependent and influenced by simulated food processing
+treatments and cell adherence. In addition, our studies of SpA-mediated binding
+of Staphylococcus spp. to antibodies against other bacterial species produced a
+very nuanced picture, leading us to recommend testing against multiple strains of
+S. aureus and S. hyicus of all antibodies to be incorporated into any immunoassay
+designed to detect a non-Staphylococcus spp.
+
+Copyright © 2020 Cronin et al.
+
+DOI: 10.1128/AEM.01435-20 
+PMCID: PMC7440785
+PMID: 32591386 
+

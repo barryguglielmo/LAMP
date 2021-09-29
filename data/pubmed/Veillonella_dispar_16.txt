@@ -1,0 +1,50 @@
+
+1. Clin Oral Investig. 2019 Nov;23(11):4163-4172. doi: 10.1007/s00784-019-02855-7.
+Epub 2019 Apr 1.
+
+A metagenomic study of patients with alveolar osteitis after tooth extraction. A 
+preliminary case-control study.
+
+Aguilar-Durán L(1), Figueiredo R(2)(3), Seminago R(4), Roig FJ(5), Llorens C(6), 
+Valmaseda-Castellón E(1)(7).
+
+Author information: 
+(1)Facultat de Medicina i Ciències de la Salut (Odontologia), Universitat de
+Barcelona, Campus de Bellvitge, Pavello de Govern 2a planta, Despatx 2.9, 08907, 
+L'Hospitalet de Llobregat, Spain.
+(2)Facultat de Medicina i Ciències de la Salut (Odontologia), Universitat de
+Barcelona, Campus de Bellvitge, Pavello de Govern 2a planta, Despatx 2.9, 08907, 
+L'Hospitalet de Llobregat, Spain. ruipfigueiredo@hotmail.com.
+(3)IDIBELL Institute, Barcelona, Spain. ruipfigueiredo@hotmail.com.
+(4)Genomics Unit, CCiTUB, University of Barcelona, Barcelona, Spain.
+(5)ERI BioTecMed, University of Valencia, Valencia, Spain.
+(6)CCiT, University of Barcelona, Barcelona, Spain.
+(7)IDIBELL Institute, Barcelona, Spain.
+
+OBJECTIVE: To identify the microbiome in sockets with alveolar osteitis and
+compare it with a control group using metagenomic techniques.
+MATERIALS AND METHODS: A case-control study was conducted in subjects that had
+undergone a tooth extraction. Microbiological samples were taken from the sockets
+of 10 patients with dry socket after tooth extraction (AO group) and 10 patients 
+in whom exodontia resulted in no postoperative complications (control group).
+Bacterial DNA was isolated, and the 16S rRNA gene was amplified and sequenced.
+Multiplexed tag-encoded sequencing of DNA from the samples was performed, and the
+reads were processed by Metagenomic Rapid Annotation.
+RESULTS: A total of 151 different species were found: 55 bacteria were only found
+in the AO group, 51 were specific to the control group, and 45 were common to
+both groups. The most frequently found genera in both groups were Prevotella.
+Prevotella nanceiensis, Actinomyces odontolyticus, Treponema maltophilum,
+Veillonella dispar, Tannerella forsythia, and Leuconostoc mesenteroides were
+found in several patients with alveolar osteitis, with an abundance greater than 
+0.5%, and were absent in all the control group samples.
+CONCLUSIONS: Patients who develop alveolar osteitis after dental extractions
+might have a different microbiota from that of patients without postoperative
+complications. Since this is a preliminary report, further research is needed to 
+assess whether bacteria play an important role in the etiology of dry socket.
+CLINICAL RELEVANCE: This study seems to indicate that bacteria may play an
+important role in the alveolar osteitis etiology. Thus, new prevention and
+treatment strategies should be considered.
+
+DOI: 10.1007/s00784-019-02855-7 
+PMID: 30937543  [Indexed for MEDLINE]
+

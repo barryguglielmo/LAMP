@@ -1,0 +1,38 @@
+
+1. Data Brief. 2020 Jun 10;31:105824. doi: 10.1016/j.dib.2020.105824. eCollection
+2020 Aug.
+
+Draft genome sequence data of Paenibacillus Polymyxa strain TH2H2, isolated from 
+a tomato flower in Korea.
+
+Cho G(1), Kim DR(2), Jeon CW(1), Kwak YS(2).
+
+Author information: 
+(1)Division of Applied Life Science (BK21Plus), Gyeongsang National University,
+Jinju 52828, Republic of Korea.
+(2)Department of Plant Medicine and RILS, Gyeongsang National University, Jinju
+52828, Republic of Korea.
+
+Members of the genus Paenibacillus are known for their production of useful
+substances, and some species of the genus are recognized to be plant
+growth-promoting rhizobacteria. Paenibacillus polymyxa TH2H2, isolated from a
+tomato flower, had antifungal activity. Here, the draft genome sequence of
+Paenibacillus polymyxa TH2H2 is reported. The 5,983,104-bp genome, with a G+C
+content of 45.31%, comprised 5,221 protein-coding genes, 64 ribosomal RNA and 100
+transfer RNA. Three intact antibiotic biosynthesis gene clusters were identified 
+using antiSMASH. These encoded the antifungal agent fusaricidin and two
+antibacterial agents, tridecaptin and polymyxin. Sequence data have been
+deposited in the DDBJ/ENA/GenBank database under the accession number
+RPDG01000000. The version described in this paper is RPDG00000000.1. The
+BioProject ID in the GenBank database is PRJNA505713.
+
+© 2020 The Authors.
+
+DOI: 10.1016/j.dib.2020.105824 
+PMCID: PMC7305405
+PMID: 32577455 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships which have, or could be
+perceived to have, influenced the work reported in this article.
+

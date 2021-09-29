@@ -1,0 +1,45 @@
+
+1. Appl Microbiol Biotechnol. 2020 Sep 22. doi: 10.1007/s00253-020-10906-3. [Epub
+ahead of print]
+
+Construction of lactic acid-tolerant Saccharomyces cerevisiae by using
+CRISPR-Cas-mediated genome evolution for efficient D-lactic acid production.
+
+Mitsui R(1), Yamada R(2), Matsumoto T(1), Yoshihara S(3), Tokumoto H(3), Ogino
+H(1).
+
+Author information: 
+(1)Department of Chemical Engineering, Osaka Prefecture University, 1-1
+Gakuen-cho, Naka-ku, Sakai, Osaka, 599-8531, Japan.
+(2)Department of Chemical Engineering, Osaka Prefecture University, 1-1
+Gakuen-cho, Naka-ku, Sakai, Osaka, 599-8531, Japan.
+yamada@chemeng.osakafu-u.ac.jp.
+(3)Department of Biological Sciences, Osaka Prefecture University, 1-1
+Gakuen-cho, Naka-ku, Sakai, Osaka, 599-8531, Japan.
+
+Lactic acid (LA) is chemically synthesized or fermentatively produced using
+glucose as substrate, mainly using lactic acid bacteria. Polylactic acid is used 
+as a biodegradable bioplastic for packaging materials, medical materials, and
+filaments for 3D printers. In this study, we aimed to construct a LA-tolerant
+yeast to reduce the neutralization cost in LA production. The pHLA2-51 strain was
+obtained through a previously developed genome evolution strategy, and
+transcriptome analysis revealed the gene expression profile of the mutant yeast. 
+Furthermore, the expression of the genes associated with glycolysis and the LA
+synthesis pathway in the LA-tolerant yeast was comprehensively and randomly
+modified to construct a D-LA-producing, LA-tolerant yeast. In detail, DNA
+fragments expressing thirteen genes, HXT7, HXK2, PGI1, PFK1, PFK2, FBA1, TPI1,
+TDH3, PGK1, GPM1, ENO2, and PYK2, and D-lactate dehydrogenase (D-LDH) from
+Leuconostoc mesenteroides were randomly integrated into the genomic DNA in the
+LA-tolerant yeast. The resultant engineered yeast produced about 33.9 g/L of D-LA
+from 100 g/L glucose without neutralizing agents in a non-neutralized condition
+and 52.2 g/L of D-LA from 100 g/L glucose with 20 g/L CaCO3 in a semi-neutralized
+condition. Our research provides valuable insights into non-neutralized
+fermentative production of LA. KEY POINTS: • Lactic acid (LA) tolerance of yeast 
+was improved by genome evolution. • The transcription levels of 751 genes were
+changed under LA stress. • Rapid LA production with semi-neutralization was
+achieved by modifying glycolysis. • A versatile yeast strain construction method 
+based on the CRISPR system was proposed.
+
+DOI: 10.1007/s00253-020-10906-3 
+PMID: 32960291 
+

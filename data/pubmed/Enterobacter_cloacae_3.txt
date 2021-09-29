@@ -1,0 +1,55 @@
+
+1. Infect Drug Resist. 2020 Sep 11;13:3113-3124. doi: 10.2147/IDR.S269971.
+eCollection 2020.
+
+Carbapenemase Producers Among Extensive Drug-Resistant Gram-Negative Pathogens
+Recovered from Febrile Neutrophilic Patients in Egypt.
+
+Mabrouk SS(1), Abdellatif GR(1), El-Ansary MR(2), Aboshanab KM(3), Ragab YM(4).
+
+Author information: 
+(1)Department of Microbiology, Faculty of Pharmacy, Ahram Canadian University
+(ACU), 6th of October, Giza, Egypt.
+(2)Department of Biochemistry, Modern University for Technology and Information
+(MTI), Cairo, Egypt.
+(3)Department of Microbiology and Immunology, Faculty of Pharmacy, Ain Shams
+University (ASU), Cairo, Egypt.
+(4)Department of Microbiology & Immunology, Faculty of Pharmacy, Cairo University
+(CU), Cairo, Egypt.
+
+Purpose: This study aimed to detect the prevalence of carbapenemase producers
+(CPs) among extensive drug-resistant (XDR)-carbapenemase producing Gram-negative 
+bacteria (GNB) recovered from various clinical specimens of hospitalized
+neutrophilic febrile patients in two major tertiary care hospitals in Egypt.
+Methods: Standard methods were used to evaluate the antimicrobial susceptibility 
+of clinical isolates according to the guidelines of the Clinical and Laboratory
+Standards Institute (CLSI). Phenotypic and genotypic analysis of CPs were carried
+out and statistically analyzed using standard methods.
+Results: Three hundred and forty-two GNB were obtained from 342 clinical
+specimens during the period of the study, where 162 (47%) were enterobacterial
+isolates, including, 63 (18.4%) Escherichia coli, 87 (25.4%) Klebsiella spp., 5
+(1.46%) Enterobacter cloacae, 5 (1.46%) Salmonella spp. and 2 (0.6%) Proteus and 
+180 (53%) were non-fermentative bacilli including, 129 (37.7%), Acinetobacter
+baumannii, and 51 (14.9%), Pseudomonas spp. Out of the 342 GNB, 188 (54.9%)
+isolates were multi-drug resistant (MDR). Of these, 52 (27.6%) were XDR as well
+as CPs as confirmed phenotypically. The MIC of imipenem against the XDR GNB
+against showed either low (11 isolates; 21.1%; MIC range =4-32 µg/mL) or high
+levels of resistance (41 isolates; 78.8%; MIC range = 64-≥1024). The most
+prevalent carbapenem resistance (CR) genes were blaKPC (63.5%) followed by
+blaOXA-48 (55.7%) and blaVIM (28.8%). No significant association could be
+observed between the MIC level and the presence of CR genes (P value >0.05).
+Conclusion: High prevalence of MDR (54.9%) and XDR (27.6%) GNB pathogens
+associated with high levels of resistance to carbapenems were observed. All XDR
+GNB were CPs and tested positive for at least one of the CR genes. However, most 
+of them (78.8%) showed a high level of CR (MIC range = 64-≥1024) with no
+significant association with the CR genes.
+
+© 2020 Mabrouk et al.
+
+DOI: 10.2147/IDR.S269971 
+PMCID: PMC7495499
+PMID: 32982326 
+
+Conflict of interest statement: The authors declare that they have no competing
+interests for this work.
+

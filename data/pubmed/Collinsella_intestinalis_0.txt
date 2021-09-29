@@ -1,0 +1,55 @@
+
+1. Cell Host Microbe. 2019 Oct 9;26(4):463-477.e8. doi: 10.1016/j.chom.2019.09.001. 
+Epub 2019 Oct 1.
+
+Bioremediation of a Common Product of Food Processing by a Human Gut Bacterium.
+
+Wolf AR(1), Wesener DA(1), Cheng J(1), Houston-Ludlam AN(2), Beller ZW(1),
+Hibberd MC(1), Giannone RJ(3), Peters SL(3), Hettich RL(3), Leyn SA(4), Rodionov 
+DA(4), Osterman AL(5), Gordon JI(6).
+
+Author information: 
+(1)Edison Family Center for Genome Sciences and Systems Biology, Washington
+University School of Medicine, Saint Louis, MO 63110, USA; Center for Gut
+Microbiome and Nutrition Research, Washington University School of Medicine,
+Saint Louis, MO 63110, USA.
+(2)Edison Family Center for Genome Sciences and Systems Biology, Washington
+University School of Medicine, Saint Louis, MO 63110, USA.
+(3)Chemical Sciences Division, Oak Ridge National Laboratory, Oak Ridge, TN
+37830, USA.
+(4)A. A. Kharkevich Institute for Information Transmission Problems, Russian
+Academy of Sciences, Moscow, 127994, Russia; Infectious and Inflammatory Disease 
+Center, Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA 92037,
+USA.
+(5)Infectious and Inflammatory Disease Center, Sanford Burnham Prebys Medical
+Discovery Institute, La Jolla, CA 92037, USA.
+(6)Edison Family Center for Genome Sciences and Systems Biology, Washington
+University School of Medicine, Saint Louis, MO 63110, USA; Center for Gut
+Microbiome and Nutrition Research, Washington University School of Medicine,
+Saint Louis, MO 63110, USA. Electronic address: jgordon@wustl.edu.
+
+Comment in
+    Cell Host Microbe. 2019 Oct 9;26(4):446-448.
+
+Dramatic increases in processed food consumption represent a global health
+threat. Maillard reaction products (MRPs), which are common in processed foods,
+form upon heat-induced reaction of amino acids with reducing sugars and include
+advanced glycation end products with deleterious health effects. To examine how
+processed foods affect the microbiota, we fed gnotobiotic mice, colonized with 54
+phylogenetically diverse human gut bacterial strains, defined sugar-rich diets
+containing whey as the protein source or a matched amino acid mixture. Whey or
+ϵ-fructoselysine, an MRP in whey and many processed foods, selectively increases 
+Collinsella intestinalis absolute abundance and induces Collinsella expression of
+genomic loci directing import and metabolism of ϵ-fructoselysine to innocuous
+products. This locus is repressed by glucose in C. aerofaciens, whose abundance
+decreases with whey, but is not repressed in C. intestinalis. Identifying gut
+organisms responding to and degrading potentially harmful processed food
+components has implications for food science, microbiome science, and public
+health.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.chom.2019.09.001 
+PMCID: PMC6801109 [Available on 2020-10-09]
+PMID: 31585844  [Indexed for MEDLINE]
+

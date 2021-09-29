@@ -1,0 +1,54 @@
+
+1. Benef Microbes. 2019 Dec 9;10(8):893-900. doi: 10.3920/BM2019.0069. Epub 2019 Oct
+10.
+
+Lactobacilli intra-tracheal administration protects from Pseudomonas aeruginosa
+pulmonary infection in mice - a proof of concept.
+
+Fangous MS(1)(2), Alexandre Y(3), Hymery N(3), Gouriou S(2), Arzur D(2)(3), Blay 
+GL(3)(4), Berre RL(2)(5).
+
+Author information: 
+(1)Laboratoire de Microbiologie, CH Cornouaille, Rue Yves Thepot, 29000 Quimper, 
+France.
+(2)Univ Brest, Inserm, EFS, UMR 1078, GGB, 22 avenue Camille Desmoulins, 29200
+Brest, France.
+(3)Université de Brest, EA 3882-Laboratoire Universitaire de Biodiversité et
+d'Écologie Microbienne (LUBEM), Parvis Blaise Pascal, Technopôle Brest-Iroise,
+29280 Plouzané, France.
+(4)Univ Brest, CNRS, IRD, Ifremer, LEMAR, 29280 Plouzane, France.
+(5)Département de Médecine Interne et Pneumologie, CHRU La Cavale-Blanche, Bd
+Tanguy Prigent, 29200 Brest, France.
+
+The spreading of antibiotic resistance is a major public health issue, which
+requires alternative treatments to antibiotics. Lactobacilli have shown abilities
+to prevent pneumonia in clinical studies when given by oral route, certainly
+through the gut-lung axis involvement. Rationally, respiratory administration of 
+lactobacilli has been developed and studied in murine model, to prevent from
+respiratory pathogens. It allows a direct effect of probiotics into the
+respiratory system. To our knowledge, no study has ever focused on the effect of 
+probiotic intra-respiratory administration to prevent from Pseudomonas aeruginosa
+(PA) pneumonia, a major respiratory pathogen associated with high morbidity
+rates. In this study, we evaluated the beneficial activity of three Lactobacillus
+strains (Lactobacillus fermentum K.C6.3.1E, Lactobacillus zeae Od.76,
+Lactobacillus paracasei ES.D.88) previously screened by ourselves and known to be
+particularly efficient in vitro in inhibiting PAO1 virulence factors. Cytotoxic
+assays in alveolar epithelial cell line A549 were performed, followed by the
+comparison of two lactobacilli prophylactic protocols (one or two
+administrations) by intra-tracheal administration in a C57BL/6 murine model of PA
+pneumonia. A549 cells viability was improved from 23 to 75% when lactobacilli
+were administered before PAO1 incubation, demonstrating a protective effect
+(P<0.001). A significant decrease of 2 log of PAO1 was observed 4 h after PAO1
+instillation (3×106 cfu/mouse) in both groups receiving lactobacilli (9×106
+cfu/mouse) compared to PAO1 group (P<0.05). One single prophylactic
+administration of lactobacilli significantly decreased the secretion by 50% in
+bronchoalveolar lavages of interleukin (IL)-6 and tumour necrosis factor-α
+compared to PAO1. No difference of secretion was observed for the IL-10
+secretion, whatever the prophylactic study design. This is the first study
+highlighting that direct lung administration of Lactobacillus strains protect
+against PA pneumonia. Next step will be to decipher the mechanisms involved
+before developing this novel approach for human applications.
+
+DOI: 10.3920/BM2019.0069 
+PMID: 31965833  [Indexed for MEDLINE]
+

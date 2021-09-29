@@ -1,0 +1,50 @@
+
+1. Nature. 2020 Aug;584(7820):274-278. doi: 10.1038/s41586-020-2564-6. Epub 2020 Aug
+5.
+
+Mucosal or systemic microbiota exposures shape the B cell repertoire.
+
+Li H(1), Limenitakis JP(1), Greiff V(2), Yilmaz B(1), Schären O(3), Urbaniak
+C(4), Zünd M(1), Lawson MAE(1), Young ID(1), Rupp S(1), Heikenwälder M(5), McCoy 
+KD(1), Hapfelmeier S(3), Ganal-Vonarburg SC(6), Macpherson AJ(7).
+
+Author information: 
+(1)Maurice Müller Laboratories (DBMR), Universitätsklinik für Viszerale Chirurgie
+und Medizin Inselspital, University of Bern, Bern, Switzerland.
+(2)Department of Immunology, University of Oslo, Oslo, Norway.
+(3)Institute for Infectious Diseases, University of Bern, Bern, Switzerland.
+(4)McMaster University Medical Centre, Hamilton, Ontario, Canada.
+(5)Division of Chronic Inflammation and Cancer, German Cancer Research Center
+(DKFZ), Heidelberg, Germany.
+(6)Maurice Müller Laboratories (DBMR), Universitätsklinik für Viszerale Chirurgie
+und Medizin Inselspital, University of Bern, Bern, Switzerland.
+stephanie.ganal@dbmr.unibe.ch.
+(7)Maurice Müller Laboratories (DBMR), Universitätsklinik für Viszerale Chirurgie
+und Medizin Inselspital, University of Bern, Bern, Switzerland.
+andrew.macpherson@dbmr.unibe.ch.
+
+Colonization by the microbiota causes a marked stimulation of B cells and
+induction of immunoglobulin, but mammals colonized with many taxa have highly
+complex and individualized immunoglobulin repertoires1,2. Here we use a
+simplified model of defined transient exposures to different microbial taxa in
+germ-free mice3 to deconstruct how the microbiota shapes the B cell pool and its 
+functional responsiveness. We followed the development of the immunoglobulin
+repertoire in B cell populations, as well as single cells by deep sequencing.
+Microbial exposures at the intestinal mucosa generated oligoclonal responses that
+differed from those of germ-free mice, and from the diverse repertoire that was
+generated after intravenous systemic exposure to microbiota. The IgA
+repertoire-predominantly to cell-surface antigens-did not expand after dose
+escalation, whereas increased systemic exposure broadened the IgG repertoire to
+both microbial cytoplasmic and cell-surface antigens. These microbial exposures
+induced characteristic immunoglobulin heavy-chain repertoires in B cells, mainly 
+at memory and plasma cell stages. Whereas sequential systemic exposure to
+different microbial taxa diversified the IgG repertoire and facilitated
+alternative specific responses, sequential mucosal exposure produced limited
+overlapping repertoires and the attrition of initial IgA binding specificities.
+This shows a contrast between a flexible response to systemic exposure with the
+need to avoid fatal sepsis, and a restricted response to mucosal exposure that
+reflects the generic nature of host-microbial mutualism in the mucosa.
+
+DOI: 10.1038/s41586-020-2564-6 
+PMID: 32760003  [Indexed for MEDLINE]
+

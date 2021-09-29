@@ -1,0 +1,44 @@
+
+1. Biochimie. 2020 Jan;168:185-189. doi: 10.1016/j.biochi.2019.11.003. Epub 2019 Nov
+9.
+
+Metabolic shift in the production of corrinoid compounds by Lactobacillus
+coryniformis in the absence of purines.
+
+Torres AC(1), Elean M(1), Hebert EM(1), Saavedra L(2), Taranto MP(3).
+
+Author information: 
+(1)Centro de Referencia para Lactobacilos (CERELA)-CONICET, San Miguel de
+Tucumán, Tucumán, Argentina.
+(2)Centro de Referencia para Lactobacilos (CERELA)-CONICET, San Miguel de
+Tucumán, Tucumán, Argentina. Electronic address: lucila@cerela.org.ar.
+(3)Centro de Referencia para Lactobacilos (CERELA)-CONICET, San Miguel de
+Tucumán, Tucumán, Argentina. Electronic address: ptaranto@cerela.org.ar.
+
+Lactobacillus coryniformis CRL 1001 and L. reuteri CRL 1098 have the complete
+genes necessary to synthesize pseudo-cobalamin as final product in a vitamin B12 
+free commercial medium. Unlike vitaminB12 (the most biologically active form),
+the pseudo-cobalamin contains adenine instead of 5,6-dimethlbenzimidazole (DMB)
+in the Coα-ligand. Considering the vitamin B12-gene clusters of these bacteria,
+the aim of this work was to analyze the production of corrinoids with DMB
+(vitamin B12) instead of adenine (pseudo-B12) as lower ligand base in a vitamin
+B12 free chemically defined medium (CDM) without purines. Genome-wide screening
+of genes related to purine metabolism showed that both strains possess all pur
+genes necessary for the synthesis of inositol monophosphate, the main precursor
+for purine biosynthesis. Accordingly, both strains were able to grow in B12 free 
+CDM without purines, with the supplementation of different synthetic
+intermediaries. Isolated compounds with positive vitamin B12 activity were
+quantified and characterized by LC/MS-MS. Total corrinoids values were higher for
+both strains in comparison to those obtained in vitaminB12 free commercial
+medium. Interestingly, CRL 1001 strain synthesized cobalamin, suggesting that
+this strain is able to activate DMB as nitrogenous base instead adenine when it
+is in excess in a purine-free medium. The present paper represents the first
+demonstration of a partial metabolic shift to produce vitamin B12 in a
+Lactobacillus strain.
+
+Copyright © 2019 Elsevier B.V. and Société Française de Biochimie et Biologie
+Moléculaire (SFBBM). All rights reserved.
+
+DOI: 10.1016/j.biochi.2019.11.003 
+PMID: 31715214  [Indexed for MEDLINE]
+

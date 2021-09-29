@@ -1,0 +1,56 @@
+
+1. BJOG. 2020 Jan;127(2):217-227. doi: 10.1111/1471-0528.15799. Epub 2019 Jun 5.
+
+Specific class of intrapartum antibiotics relates to maturation of the infant gut
+microbiota: a prospective cohort study.
+
+Coker MO(1), Hoen AG(1)(2), Dade E(1), Lundgren S(1), Li Z(3), Wong AD(4), Zens
+MS(1), Palys TJ(1), Morrison HG(5), Sogin ML(5), Baker ER(6), Karagas MR(1)(2),
+Madan JC(1)(6).
+
+Author information: 
+(1)Department of Epidemiology, The Geisel School of Medicine at Dartmouth,
+Hanover, NH, USA.
+(2)Center for Molecular Epidemiology, The Geisel School of Medicine at Dartmouth,
+Hanover, NH, USA.
+(3)Department of Biostatistics, University of Florida, Gainesville, FL, USA.
+(4)The Dartmouth Institute, Lebanon, NH, USA.
+(5)Josephine Bay Paul Center, Marine Biological Laboratory, Woods Hole, MA, USA.
+(6)Division of Neonatology, Department of Pediatrics, Children's Hospital at
+Dartmouth, Lebanon, NH, USA.
+
+OBJECTIVE: To evaluate the potential impact of intrapartum antibiotics, and their
+specific classes, on the infant gut microbiota in the first year of life.
+DESIGN: Prospective study of infants in the New Hampshire Birth Cohort Study
+(NHBCS).
+SETTINGS: Rural New Hampshire, USA.
+POPULATION OR SAMPLE: Two hundred and sixty-six full-term infants from the NHBCS.
+METHODS: Intrapartum antibiotic use during labour and delivery was abstracted
+from medical records. Faecal samples collected at 6 weeks and 1 year of age were 
+characterised by 16S rRNA sequencing, and metagenomics analysis in a subset of
+samples.
+EXPOSURES: Maternal exposure to antibiotics during labour and delivery.
+MAIN OUTCOME MEASURE: Taxonomic and functional profiles of faecal samples.
+RESULTS: Infant exposure to intrapartum antibiotics, particularly to two or more 
+antibiotic classes, was independently associated with lower microbial diversity
+scores as well as a unique bacterial community at 6 weeks (GUnifrac, P = 0.02).
+At 1 year, infants in the penicillin-only group had significantly lower α
+diversity scores than infants not exposed to intrapartum antibiotics. Within the 
+first year of life, intrapartum exposure to penicillins was related to a
+significantly lower increase in several taxa including Bacteroides, use of
+cephalosporins was associated with a significantly lower rise over time in
+Bifidobacterium and infants in the multi-class group experienced a significantly 
+higher increase in Veillonella dispar.
+CONCLUSIONS: Our findings suggest that intrapartum antibiotics alter the
+developmental trajectory of the infant gut microbiome, and specific antibiotic
+types may impact community composition, diversity and keystone immune training
+taxa.
+TWEETABLE ABSTRACT: Class of intrapartum antibiotics administered during delivery
+relates to maturation of infant gut microbiota.
+
+© 2019 Royal College of Obstetricians and Gynaecologists.
+
+DOI: 10.1111/1471-0528.15799 
+PMCID: PMC6803026
+PMID: 31006170  [Indexed for MEDLINE]
+

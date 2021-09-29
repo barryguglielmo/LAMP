@@ -1,0 +1,38 @@
+
+1. Nat Commun. 2020 Sep 24;11(1):4844. doi: 10.1038/s41467-020-18696-y.
+
+Structural basis of mammalian mucin processing by the human gut O-glycopeptidase 
+OgpA from Akkermansia muciniphila.
+
+Trastoy B(1), Naegeli A(2), Anso I(1), Sjögren J(3), Guerin ME(4)(5).
+
+Author information: 
+(1)Structural Biology Unit, Center for Cooperative Research in Biosciences (CIC
+bioGUNE), Basque Research and Technology Alliance (BRTA), Bizkaia Technology
+Park, Building 801A, 48160, Derio, Spain.
+(2)Genovis AB, Box 790, 22007, Lund, Sweden.
+(3)Genovis AB, Box 790, 22007, Lund, Sweden. jonathan.sjogren@genovis.com.
+(4)Structural Biology Unit, Center for Cooperative Research in Biosciences (CIC
+bioGUNE), Basque Research and Technology Alliance (BRTA), Bizkaia Technology
+Park, Building 801A, 48160, Derio, Spain. mrcguerin@gmail.com.
+(5)IKERBASQUE, Basque Foundation for Science, 48013, Bilbao, Spain.
+mrcguerin@gmail.com.
+
+Akkermansia muciniphila is a mucin-degrading bacterium commonly found in the
+human gut that promotes a beneficial effect on health, likely based on the
+regulation of mucus thickness and gut barrier integrity, but also on the
+modulation of the immune system. In this work, we focus in OgpA from A.
+muciniphila, an O-glycopeptidase that exclusively hydrolyzes the peptide bond
+N-terminal to serine or threonine residues substituted with an O-glycan. We
+determine the high-resolution X-ray crystal structures of the unliganded form of 
+OgpA, the complex with the glycodrosocin O-glycopeptide substrate and its
+product, providing a comprehensive set of snapshots of the enzyme along the
+catalytic cycle. In combination with O-glycopeptide chemistry, enzyme kinetics,
+and computational methods we unveil the molecular mechanism of O-glycan
+recognition and specificity for OgpA. The data also contribute to understanding
+how A. muciniphila processes mucins in the gut, as well as analysis of
+post-translational O-glycosylation events in proteins.
+
+DOI: 10.1038/s41467-020-18696-y 
+PMID: 32973204 
+

@@ -1,0 +1,48 @@
+
+1. Microorganisms. 2020 Sep 5;8(9). pii: E1360. doi: 10.3390/microorganisms8091360.
+
+Akkermansia muciniphila is Negatively Correlated with Hemoglobin A1c in
+Refractory Diabetes.
+
+Shih CT(1), Yeh YT(2)(3)(4), Lin CC(2)(3), Yang LY(5), Chiang CP(3)(6)(7).
+
+Author information: 
+(1)Department of Family Medicine, Fooyin University Hospital, Pingtung 92849,
+Taiwan.
+(2)Department of Education and Research, Fooyin University Hospital, Pingtung
+92849, Taiwan.
+(3)Department of Medical Laboratory Sciences and Biotechnology, Fooyin
+University, Kaohsiung 83102, Taiwan.
+(4)Aging and Disease Prevention Research Center, Fooyin University, Kaohsiung
+83102, Taiwan.
+(5)Department of Community Health Center, Fooyin University Hospital, Pingtung
+92849, Taiwan.
+(6)Department of Surgery, Kaohsiung Medical University Hospital, Kaohsiung 80756,
+Taiwan.
+(7)Division of Breast Surgery, Department of Surgery, Kaohsiung Medical
+University Hospital, Kaohsiung 80756, Taiwan.
+
+Patients with refractory diabetes are defined as type 2 diabetes (T2D) patients; 
+they cannot achieve optimal glycemic control and exhibit persistent elevations of
+hemoglobin A1c (HbA1c) ≥8% while on appropriate therapy. Hyperglycemia can lead
+to severe microvascular/macrovascular complications. However, in contrast to T2D,
+few studies have focused specifically on the gut microbiota in refractory
+diabetes. To examine this issue, we recruited 79 subjects with T2D and refractory
+diabetes (RT2D), and all subjects received standard therapy with Metformin or
+other hypoglycemic agents with or without insulin for at least one year. The
+α-diversity displayed no significant difference, whereas the β-diversity showed a
+marginal significance (p = 0.054) between T2D and RT2D. The evaluation of
+taxonomic indices revealed reductions in both Akkermansia muciniphila and
+Fusobacterium and a corresponding enrichment of Bacteroides vulgatus, Veillonella
+denticariosi among those with RT2D. These microbial markers distinguished RT2D
+from T2D with an acceptable degree of discrimination (area under the curve (AUC) 
+= 0.719, p < 0.01) and were involved in several glucose-related functional
+pathways. Furthermore, the relative abundance of Akkermansia muciniphila was
+negatively correlated with HbA1c. Our combined results reveal unique features of 
+the gut microbiota in RT2D and suggest that the evaluation of the gut microbiota 
+could provide insights into the mechanisms underlying glycemic control and the
+impact of therapeutic modalities in patients with RT2D.
+
+DOI: 10.3390/microorganisms8091360 
+PMID: 32899513 
+

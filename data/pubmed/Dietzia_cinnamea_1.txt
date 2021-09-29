@@ -1,0 +1,38 @@
+
+1. Arch Microbiol. 2020 Sep;202(7):1701-1708. doi: 10.1007/s00203-020-01879-y. Epub 
+2020 Apr 15.
+
+Adaptative transcriptional response of Dietzia cinnamea P4 strain to sunlight
+simulator.
+
+Procópio L(1), Pádula M(2), van Elsas JD(3), Seldin L(4).
+
+Author information: 
+(1)Industrial Microbiology and Bioremediation Department, Universidade Federal Do
+Rio de Janeiro, Caxias, Rio de Janeiro, Brazil. lucianoprocopio@caxias.ufrj.br.
+(2)Laboratório de Diagnóstico Molecular E Hematologia, Faculdade de Farmácia,
+Universidade Federal Do Rio de Janeiro, Rio de Janeiro, RJ, Brazil.
+(3)Microbial Ecology Laboratory, Goningen University, Groningen, The Netherlands.
+(4)Laboratório de Genética Microbiana, Instituto de Microbiologia Paulo de Góes, 
+Universidade Federal Do Rio de Janeiro, Rio de Janeiro, RJ, Brazil.
+
+Responses to sunlight exposure of the oil-degrading Dietzia cinnamea P4 strain
+were evaluated by transcriptional levels of SOS genes, photoreactivation and
+genes involved in tolerance to high levels of reactive oxygen species. The P4
+strain was exposed for 1 and 2 h and the magnitude of level changes in the mRNA
+was evaluated by qPCR. The results described the activation of the SOS system,
+with the decline of the repressor lexA gene levels and the concomitant increase
+of recA and uvrAD genes levels. The genes that participate in the
+photoreactivation process were also responsive to sunlight. The phrB gene
+encoding deoxyribodipyrimidine photo-lyase had its expression increased after 1-h
+exposure, while the phytAB genes showed a progressive increase over the studied
+period. The protective genes against reactive oxygen species, catalases,
+superoxides, peroxidases, and thioredoxins, had their expression rates detected
+under the conditions validated in this study. These results show a fast and
+coordinated response of genes from different DNA repair and tolerance mechanisms 
+employed by strain P4, suggesting a complex concerted protective action against
+environmental stressors.
+
+DOI: 10.1007/s00203-020-01879-y 
+PMID: 32296869  [Indexed for MEDLINE]
+

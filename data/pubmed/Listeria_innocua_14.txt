@@ -1,0 +1,68 @@
+
+1. Appl Environ Microbiol. 2020 Aug 18;86(17). pii: e01165-20. doi:
+10.1128/AEM.01165-20. Print 2020 Aug 18.
+
+Differential Modulation of Listeria monocytogenes Fitness, In Vitro Virulence,
+and Transcription of Virulence-Associated Genes in Response to the Presence of
+Different Microorganisms.
+
+Zilelidou EA(1), Milina V(1), Paramithiotis S(1), Zoumpopoulou G(2), Poimenidou
+SV(1), Mavrogonatou E(3), Kletsas D(3), Papadimitriou K(4), Tsakalidou E(2),
+Skandamis PN(5).
+
+Author information: 
+(1)Agricultural University of Athens, Department of Food Science and Human
+Nutrition, Laboratory of Food Quality Control and Hygiene, Athens, Greece.
+(2)Agricultural University of Athens, Department of Food Science and Human
+Nutrition, Laboratory of Dairy Research, Athens, Greece.
+(3)Laboratory of Cell Proliferation and Ageing, Institute of Biosciences and
+Applications, National Centre for Scientific Research Demokritos, Athens, Greece.
+(4)Department of Food Science and Technology, School of Agriculture and Food,
+University of Peloponnese, Kalamata, Greece.
+(5)Agricultural University of Athens, Department of Food Science and Human
+Nutrition, Laboratory of Food Quality Control and Hygiene, Athens, Greece
+pskan@aua.gr.
+
+Interactions between Listeria monocytogenes and food-associated or environmental 
+bacteria are critical not only for the growth but also for a number of key
+biological processes of the microorganism. In this regard, limited information
+exists on the impact of other microorganisms on the virulence of L. monocytogenes
+In this study, the growth of L. monocytogenes was evaluated in a single culture
+or in coculture with L. innocua, Bacillus subtilis, Lactobacillus plantarum, or
+Pseudomonas aeruginosa in tryptic soy broth (10°C/10 days and 37°C/24 h).
+Transcriptional levels of 9 key virulence genes (inlA, inlB, inlC, inlJ, sigB,
+prfA, hly, plcA, and plcB) and invasion efficiency and intracellular growth in
+Caco-2 cells were determined for L. monocytogenes following growth in mono- or
+coculture for 3 days at 10°C or 9 h at 37°C. The growth of L. monocytogenes was
+negatively affected by the presence of L. innocua and B. subtilis, while the
+effect of cell-to-cell contact on L. monocytogenes growth was dependent on the
+competing microorganism. Cocultivation affected the in vitro virulence properties
+of L. monocytogenes in a microorganism-specific manner, with L. innocua mainly
+enhancing and B. subtilis reducing the invasion of the pathogen in Caco-2 cells. 
+Assessment of the mRNA levels of L. monocytogenes virulence genes in the presence
+of the four tested bacteria revealed a complex pattern in which the observed up- 
+or downregulation was only partially correlated with growth or in vitro virulence
+and mainly suggested that L. monocytogenes may display a microorganism-specific
+transcriptional response.IMPORTANCE Listeria monocytogenes is the etiological
+agent of the severe foodborne disease listeriosis. Important insight regarding
+the physiology and the infection biology of this microorganism has been acquired 
+in the past 20 years. However, despite the fact that L. monocytogenes coexists
+with various microorganisms throughout its life cycle and during transmission
+from the environment to foods and then to the host, there is still limited
+knowledge related to the impact of surrounding microorganisms on L.
+monocytogenes' biological functions. In this study, we showed that L.
+monocytogenes modulates specific biological activities (i.e., growth and
+virulence potential) as a response to coexisting microorganisms and
+differentially alters the expression of virulence-associated genes when
+confronted with different bacterial genera and species. Our work suggests that
+the interaction with different bacteria plays a key role in the survival
+strategies of L. monocytogenes and supports the need to incorporate biotic
+factors into the research conducted to identify mechanisms deployed by this
+organism for establishment in different environments.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.01165-20 
+PMCID: PMC7440802 [Available on 2021-02-18]
+PMID: 32591377 
+

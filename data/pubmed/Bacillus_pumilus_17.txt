@@ -1,0 +1,49 @@
+
+1. AMB Express. 2020 Aug 20;10(1):152. doi: 10.1186/s13568-020-01089-1.
+
+The inhibitory effects of metabolites from Bacillus pumilus on potato virus Y and
+the induction of early response genes in Nicotiana tabacum.
+
+Shen S(1)(2)(3)(4)(5), Li W(6)(7)(8)(9).
+
+Author information: 
+(1)Guizhou University, Guiyang, 550025, Guizhou, China.
+(2)Academy of Agriculture and Forestry Sciences, Qinghai University, 810016,
+Xining, Qinghai, China.
+(3)Key Laboratory of Potato Breeding of Qinghai Province, Xining, 810016,
+Qinghai, China.
+(4)State Key Laboratory of Plateau Ecology and Agriculture, Xining, 810016,
+Qinghai, China.
+(5)The Tibet Plateau Biotechnology Key Lab of Ministry of Education, Xining,
+810016, Qinghai, China.
+(6)Academy of Agriculture and Forestry Sciences, Qinghai University, 810016,
+Xining, Qinghai, China. lwbabylw@163.com.
+(7)Key Laboratory of Potato Breeding of Qinghai Province, Xining, 810016,
+Qinghai, China. lwbabylw@163.com.
+(8)State Key Laboratory of Plateau Ecology and Agriculture, Xining, 810016,
+Qinghai, China. lwbabylw@163.com.
+(9)The Tibet Plateau Biotechnology Key Lab of Ministry of Education, Xining,
+810016, Qinghai, China. lwbabylw@163.com.
+
+To develop a new antiviral preparation from a microbial source, the halophilic
+bacterium Bacillus pumilus E303035 was isolated from a soil sample collected at
+Qarhan Salt Lake in Qinghai, China. The inhibitory activity of an ethyl acetate
+extract of its fermentation broth was higher than that of an n-butanol extract.
+After isolation and purification, 9 compounds were obtained: cyclo(L-Leu-L-Pro)
+(1), cyclo(L-Pro-L-Tyr) (2), Brevianamide F (3), 2-(3-Indolyl) ethanol (4),
+N-[2-(1H-indol-3-yl) ethyl] acetamide (5), 3, 3-di(1H-indol-3-yl)propane-1,2-diol
+(6), Lincomycin B (7), dibutylphthalate (8), and p-hydroxyphenethyl alcohol (9). 
+Compounds 1, 5, and 9 showed inhibitory activities against potato virus Y (PVY). 
+Compounds 1, 4, and 9 had significant inhibitory activity against genes HC-pro,
+P3, and Nib, compound 5 against gene P3, and compounds 1 and 4 against NIa.
+Compounds 1, 4, 5, and 9 had significant inhibitory activity against genes VPg
+and 6K1. Active compounds 1, 5, and 9 had various effects on the expression of
+viral genes related to pathogenesis. Expression of genes cullin and XTH was
+up-regulated and CP was down-regulated, compared to the positive control. In
+conclusion, compounds 1, 5, and 9 might be considered as potential antiviral
+agents for future development.
+
+DOI: 10.1186/s13568-020-01089-1 
+PMCID: PMC7441133
+PMID: 32816147 
+

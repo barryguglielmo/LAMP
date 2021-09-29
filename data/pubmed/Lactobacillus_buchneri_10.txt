@@ -1,0 +1,48 @@
+
+1. J Microbiol. 2020 Jun;58(6):445-455. doi: 10.1007/s12275-020-9596-3. Epub 2020
+Mar 28.
+
+Comparative genomics of Lactobacillus species as bee symbionts and description of
+Lactobacillus bombintestini sp. nov., isolated from the gut of Bombus ignitus.
+
+Heo J(1), Kim SJ(1), Kim JS(1), Hong SB(1), Kwon SW(2).
+
+Author information: 
+(1)Agricultural Microbiology Division, National Institute of Agricultural
+Sciences, Rural Development Administration, Jeollabuk-do, 55365, Republic of
+Korea.
+(2)Agricultural Microbiology Division, National Institute of Agricultural
+Sciences, Rural Development Administration, Jeollabuk-do, 55365, Republic of
+Korea. swkwon1203@korea.kr.
+
+The Lactobacillus genus is widely used for fermentation of plant materials and
+dairy products. These species are typically found in highly specialized
+environments, with the bee gut serving as one of the niche locations in which
+Lactobacillus is detected. Lactobacillus species isolated from the bee gut and
+bee-related habitats were phylogenetically classified into three distinct groups,
+Lactobacillus kunkeei, Firm-4, and Firm-5. The L. kunkeei group was clearly
+differentiated from other members of the Lactobacillus buchneri group isolated
+from non-bee habitats. In comparison with non-bee members of the L. buchneri
+group, three bee-symbiotic Lactobacillus groups had a small-sized genome with low
+G + C content and showed a sharp reduction in the number of genes involved in
+energy production, carbohydrate transport and metabolism, and amino acid
+transport and metabolism. In addition, all three groups lacked the mutY gene,
+which encodes A/G-specific adenine glycosylase. The phylogenetic dendrogram based
+on the presence or absence of 1,199 functional genes indicated that these
+bee-symbiotic groups experienced convergent evolution. The occurrence of
+convergent evolution is thought to stem from the three bee-symbiotic groups
+sharing a similar habitat, i.e., the bee gut. The causative factor underlying
+genomic reduction was postulated to be mutY, which was absent in all three
+groups. Here, a novel strain, BHWM-4T, isolated from the gut of Bombus ignites
+was studied using polyphasic taxonomy and classified as a new member of the L.
+kunkeei group. The strain was Gram-positive, facultative anaerobic, and
+rod-shaped. The 16S ribosomal RNA gene sequence and genome analysis revealed that
+strain BHWM-4T was clustered into the L. kunkeei group, forming a compact cluster
+with L. kunkeei and Lactobacillus apinorum. Biochemical, chemotaxonomic, and
+genotypic data of strain BHWM-4T supports the proposal of a novel species,
+Lactobacillus bombintestini sp. nov., whose type strain is BHWM-4T (= KACC 19317 
+= NBRC 113067T).
+
+DOI: 10.1007/s12275-020-9596-3 
+PMID: 32222941 
+

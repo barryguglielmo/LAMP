@@ -1,0 +1,64 @@
+
+1. Biotechnol Biofuels. 2020 Jun 26;13:112. doi: 10.1186/s13068-020-01752-6.
+eCollection 2020.
+
+Dynamic simulation of continuous mixed sugar fermentation with increasing cell
+retention time for lactic acid production using Enterococcus mundtii QU 25.
+
+Wang Y(#)(1)(2), Chan KL(#)(2), Abdel-Rahman MA(3)(4), Sonomoto K(3), Leu SY(2).
+
+Author information: 
+(1)Department of Biological Science, College of Life Sciences, Sichuan Normal
+University, Chengdu, 610101 Sichuan China.
+(2)Department of Civil and Environmental Engineering, Hong Kong Polytechnic
+University, Kowloon, Hong Kong.
+(3)Laboratory of Microbial Technology, Division of Systems Bioengineering,
+Department of Bioscience and Biotechnology, Faculty of Agriculture, Graduate
+School, Kyushu University, Motooka, Nishi-ku, Fukuoka, Japan.
+(4)Botany and Microbiology Department, Faculty of Science (Boys), Al-Azhar
+University, PN:11884, Nasr City, Cairo, Egypt.
+(#)Contributed equally
+
+Erratum in
+    Biotechnol Biofuels. 2020 Aug 9;13:140.
+
+Background: The simultaneous and effective conversion of both pentose and hexose 
+in fermentation is a critical and challenging task toward the lignocellulosic
+economy. This study aims to investigate the feasibility of an innovative
+co-fermentation process featuring with a cell recycling unit (CF/CR) for mixed
+sugar utilization. A l-lactic acid-producing strain Enterococcus mundtii QU 25
+was applied in the continuous fermentation process, and the mixed sugars were
+utilized at different productivities after the flowing conditions were changed. A
+mathematical model was constructed with the experiments to optimize the
+biological process and clarify the cell metabolism through kinetics analysis. The
+structured model, kinetic parameters, and achievement of the fermentation
+strategy shall provide new insights toward whole sugar fermentation via real-time
+monitoring for process control and optimization.
+Results: Significant carbon catabolite repression in co-fermentation using a
+glucose/xylose mixture was overcome by replacing glucose with cellobiose, and the
+ratio of consumed pentose to consumed hexose increased significantly from 0.096
+to 0.461 by mass. An outstanding product concentration of 65.2 g L-1 and
+productivity of 13.03 g L-1 h-1 were achieved with 50 g L-1 cellobiose and
+30 g L-1 xylose at an optimized dilution rate of 0.2 h-1, and the cell retention 
+time gradually increased. Among the total lactic acid production, xylose
+contributed to more than 34% of the mixed sugars, which was close to the related 
+contents in agricultural residuals. The model successfully simulated the
+transition of sugar consumption, cell growth, and lactic acid production among
+the batch, continuous process, and CF/CR systems.
+Conclusion: Cell retention time played a critical role in balancing pentose and
+hexose consumption, cell decay, and lactic acid production in the CF/CR process. 
+With increasing cell concentration, consumption of mixed sugars increased with
+the productivity of the final product; hence, the impact of substrate inhibition 
+was reduced. With the validated parameters, the model showed the highest accuracy
+simulating the CF/CR process, and significantly longer cell retention times
+compared to hydraulic retention time were tested.
+
+© The Author(s) 2020.
+
+DOI: 10.1186/s13068-020-01752-6 
+PMCID: PMC7318410
+PMID: 32607127 
+
+Conflict of interest statement: Competing interestsThe authors declare that they 
+have no competing interests.
+

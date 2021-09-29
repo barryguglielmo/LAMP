@@ -1,0 +1,51 @@
+
+1. J Vet Sci. 2020 Jul;21(4):e57. doi: 10.4142/jvs.2020.21.e57.
+
+Molecular subtyping and antimicrobial susceptibility of Streptococcus
+dysgalactiae subspecies equisimilis isolates from clinically diseased pigs.
+
+Oh SI(1)(2), Kim JW(1), Kim J(1), So B(1), Kim B(2), Kim HY(3).
+
+Author information: 
+(1)Animal Disease Diagnostic Division, Animal and Plant Quarantine Agency,
+Gimcheon 39660, Korea.
+(2)College of Veterinary Medicine, Jeonbuk National University, Iksan 54596,
+Korea.
+(3)Animal Disease Diagnostic Division, Animal and Plant Quarantine Agency,
+Gimcheon 39660, Korea. kimhy@korea.kr.
+
+BACKGROUND: Streptococcus dysgalactiae subspecies equisimilis (SDSE) acts as an
+etiological agent for lameness, neurological signs, and high mortality in pigs.
+Despite its importance in pig industries and zoonotic potential, little is known 
+about the effects of this pathogen.
+OBJECTIVES: This study aimed to determine the molecular characteristics and
+antimicrobial resistance of SDSE strains isolated from diseased pigs.
+METHODS: A total 11 SDSE isolates were obtained from diseased pigs. Bacterial
+identification, PCR for virulence genes, emm typing, and antimicrobial resistance
+genes, multilocus sequence typing, and antimicrobial susceptibility test were
+performed.
+RESULTS: Nine isolates were from piglets, and 8 showed lameness, sudden death, or
+neurological signs. The isolates were PCR-positive for sla (100%), sagA (100%),
+and scpA (45.5%), and only 1 isolate amplified the emm gene (stL2764). Eight
+different sequence types were detected, categorized into 2 clonal complexes and 4
+singletons. All the isolates in this study were included in a small cluster,
+which also contained other strains derived from humans and horses. The minimum
+inhibitory concentrations for the tested beta-lactams were low, while those for
+macrolides, tetracyclines, and fluoroquinolones were relatively high. PCR
+analysis of the macrolide and tetracycline resistance genes demonstrated that the
+isolates carried erm(B) (18.2%, n = 2), mef(A/E) (9.1%, n = 1), tet(M) (18.2%, n 
+= 2), and tet(O) (90.2%, n = 10). Two isolates presented a mutation in parC,
+which is associated with fluoroquinolone resistance.
+CONCLUSION: This study provided insight into swine-derived SDSE, as it is related
+to veterinary medicine, and elucidated its zoonotic potential, in the context of 
+molecular epidemiology and antimicrobial resistance in public health.
+
+© 2020 The Korean Society of Veterinary Science.
+
+DOI: 10.4142/jvs.2020.21.e57 
+PMCID: PMC7402932
+PMID: 32735095 
+
+Conflict of interest statement: The authors have no conflicts of interest to
+declare.
+

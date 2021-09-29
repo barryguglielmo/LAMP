@@ -1,0 +1,49 @@
+
+1. PLoS One. 2020 Aug 28;15(8):e0238252. doi: 10.1371/journal.pone.0238252.
+eCollection 2020.
+
+Environmental gut bacteria in European honey bees (Apis mellifera) from Australia
+and their relationship to the chalkbrood disease.
+
+Khan S(1), Somerville D(2), Frese M(3), Nayudu M(3).
+
+Author information: 
+(1)Faculty of Health, University of Canberra, Canberra, Australia.
+(2)NSW Department of Primary Industries, Goulburn, NSW, Australia.
+(3)Faculty of Science and Technology, University of Canberra, Canberra,
+Australia.
+
+We report on aerobic "environmental" bacteria isolated from European honey bees
+(Apis mellifera). We determined the number of culturable aerobic bacteria in the 
+gut of nurse bees sampled from locations around Australia. Bees from healthy
+colonies had 107-108 aerobic bacteria per g of bee gut, while bees from colonies 
+with chalkbrood consistently had significantly fewer bacteria (104-105 bacteria
+per g). When colonies recovered from chalkbrood, bacterial numbers returned to
+normal levels, suggesting that counting aerobic bacteria in the gut could be used
+to predict an outbreak of the disease. Furthermore, Western Australian bees from 
+the "Better Bees" program (bred to promote hygienic behaviour) had significantly 
+higher numbers of aerobic gut bacteria compared to regular bees from healthy
+colonies. Bacteria with the ability to inhibit the chalkbrood pathogen were found
+in most bees from regular colonies (> 60%) but only in a few "Better Bees" (10%).
+Phylogenetic analysis of aerobic bacterial isolates that inhibited the chalkbrood
+pathogen revealed a close relationship (>97% sequence identity) to the genera
+Bacillus, Klebsiella, Pantoea, Hafnia, and Enterobacter (bacteria that have
+previously been isolated from honey bees), but we also isolated Maccrococcus and 
+Frigoribacterium species (bacteria that were not previously identified in bees). 
+Finally, we investigated the ability of bacteria to inhibit the chalkbrood fungus
+Ascosphaera apis. Mass spectroscopy analysis revealed that the bee gut isolates
+Frigoribacterium sp. and Bacillus senegalensis produce gluconic acid. We further 
+found that this simple sugar is involved in chalkbrood fungal hyphal lysis and
+cytoplasmic leakage. Our findings suggest that "environmental" gut bacteria may
+help bees to control the chalkbrood pathogen.
+
+DOI: 10.1371/journal.pone.0238252 
+PMCID: PMC7455043
+PMID: 32857797 
+
+Conflict of interest statement: AgriFutures (formerly known as Rural Industry
+Research & Development Corporation) is an Australian government body that funds
+basic and applied research. Therefore, AgriFutures should not be considered a
+“commercial funder”. We confirm that the involvement of AgriFutures “does not
+alter our adherence to PLOS ONE policies on sharing data and materials”
+

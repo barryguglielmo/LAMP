@@ -1,0 +1,54 @@
+
+1. BMC Pharmacol Toxicol. 2020 Sep 5;21(1):66. doi: 10.1186/s40360-020-00443-0.
+
+Dramatic neurological and biological effects by botulinum neurotoxin type A on
+SH-SY5Y neuroblastoma cells, beyond the blockade of neurotransmitter release.
+
+Wang L(1), Ringelberg CS(2), Singh BR(3)(4).
+
+Author information: 
+(1)Prime Bio, Inc., North Dartmouth, MA, 02747, USA.
+(2)Genomics and Molecular Biology Shared Resource, Geisel School of Medicine at
+Dartmouth, Hanover, NH, 03755, USA.
+(3)Prime Bio, Inc., North Dartmouth, MA, 02747, USA. bsingh@primebio.net.
+(4)Institute of Advanced Sciences, Botulinum Research Center, North Dartmouth,
+MA, 02747, USA. bsingh@primebio.net.
+
+BACKGROUND: Gene expression profile analysis on mammalian cell lines and animal
+models after exposure to botulinum neurotoxin (BoNT) has been investigated in
+several studies in recent years. Microarray analysis provides a powerful tool for
+identifying critical signaling pathways involved in the biological and
+inflammatory responses to BoNT and helps determine the mechanism of the function 
+of botulinum toxins. One of the pivotal clinical characteristics of BoNT is its
+prolonged on-site effects. The role of BoNT on the blockage of neurotransmitter
+acetylcholine release in the neuromuscular junction has been well established.
+However, the effects of the treatment time of BoNT on the human cellular model
+and its potential mechanism remain to be defined.
+METHODS: This study aimed to use gene microarray technology to compare the two
+physiological critical time points of BoNT type A (BoNT/A) treatment of human
+neuroblastoma cells and to advance our understanding of the profound biological
+influences that toxin molecules play in the neuronal cellular system. SH-SY5Y
+neuroblastoma cells were treated with BoNT/A for 4 and 48 h, which represent the 
+time needed for the entrance of toxin into the cells and the time necessary for
+the initial appearance of the on-site effects after BoNT application,
+respectively.
+RESULTS: A comparison of the two time points identified 122 functional groups
+that are significantly changed. The top five groups are alternative splicing,
+phosphoprotein, nucleus, cytoplasm, and acetylation. Furthermore, after 48 h,
+there were 744 genes significantly up-regulated, and 624 genes significantly
+down-regulated (p‹ 0.01). These genes fell into the following neurological and
+biological annotation groups: Nervous system development, proteinaceous
+extracellular matrix, signaling pathways regulating pluripotency of stem cells,
+cellular function and signal transduction, and apoptosis. We have also noticed
+that the up-regulated groups contained neuronal cell development, nervous system 
+development, and metabolic processes. In contrast, the down-regulated groups
+contained many chromosomes and cell cycle categories.
+CONCLUSIONS: The effects of BoNT/A on neuronal cells extend beyond blocking the
+neurotransmitter release, and that BoNT/A is a multifunctional molecule that can 
+evoke profound cellular responses which warrant a more in-depth understanding of 
+the mechanism of the toxin's effects after administration.
+
+DOI: 10.1186/s40360-020-00443-0 
+PMCID: PMC7487822
+PMID: 32891179 
+

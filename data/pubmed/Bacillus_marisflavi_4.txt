@@ -1,0 +1,50 @@
+
+1. BMC Microbiol. 2020 Jan 21;20(1):18. doi: 10.1186/s12866-020-1705-2.
+
+An operon consisting of a P-type ATPase gene and a transcriptional regulator gene
+responsible for cadmium resistances in Bacillus vietamensis 151-6 and Bacillus
+marisflavi 151-25.
+
+Yu X(1), Ding Z(1), Ji Y(1)(2), Zhao J(1), Liu X(1), Tian J(3), Wu N(4), Fan
+Y(1).
+
+Author information: 
+(1)Biotechnology Research Institute, Chinese Academy of Agricultural Sciences,
+Beijing, China.
+(2)College of Life Science and Technology, Jinan University, Guangzhou,
+Guangdong, China.
+(3)Biotechnology Research Institute, Chinese Academy of Agricultural Sciences,
+Beijing, China. tianjian@caas.cn.
+(4)Biotechnology Research Institute, Chinese Academy of Agricultural Sciences,
+Beijing, China. wuningfeng@caas.cn.
+
+BACKGROUND: Cadmium (Cd) is a severely toxic heavy metal to most microorganisms. 
+Many bacteria have developed Cd2+ resistance.
+RESULTS: In this study, we isolated two different Cd2+ resistance Bacillus sp.
+strains, Bacillus vietamensis 151-6 and Bacillus marisflavi 151-25, which could
+be grown in the presence of Cd2+ at concentration up to 0.3 mM and 0.8 mM,
+respectively. According to the genomic sequencing, transcriptome analysis under
+cadmium stress, and other related experiments, a gene cluster in plasmid p25 was 
+found to be a major contributor to Cd2+ resistance in B. marisflavi 151-25. The
+cluster in p25 contained orf4802 and orf4803 which encodes an ATPase transporter 
+and a transcriptional regulator protein, respectively. Although 151-6 has much
+lower Cd2+ resistance than 151-25, they contained similar gene cluster, but in
+different locations. A gene cluster on the chromosome containing orf4111, orf4112
+and orf4113, which encodes an ATPase transporter, a cadmium efflux system
+accessory protein and a cadmium resistance protein, respectively, was found to
+play a major role on the Cd2+ resistance for B. vietamensis 151-6.
+CONCLUSIONS: This work described cadmium resistance mechanisms in newly isolated 
+Bacillus vietamensis 151-6 and Bacillus marisflavi 151-25. Based on homologies to
+the cad system (CadA-CadC) in Staphylococcus aureus and analysis of transcriptome
+under Cd2+ induction, we inferred that the mechanisms of cadmium resistance in B.
+marisflavi 151-25 was as same as the cad system in S. aureus. Although Bacillus
+vietamensis 151-6 also had the similar gene cluster to B. marisflavi 151-25 and
+S. aureus, its transcriptional regulatory mechanism of cadmium resistance was not
+same. This study explored the cadmium resistance mechanism for B. vietamensis
+151-6 and B. marisflavi 151-25 and has expanded our understanding of the
+biological effects of cadmium.
+
+DOI: 10.1186/s12866-020-1705-2 
+PMCID: PMC6975044
+PMID: 31964334 
+

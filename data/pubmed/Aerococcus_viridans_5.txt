@@ -1,0 +1,56 @@
+
+1. BMC Microbiol. 2020 Sep 18;20(1):290. doi: 10.1186/s12866-020-01949-7.
+
+Biological observations in microbiota analysis are robust to the choice of 16S
+rRNA gene sequencing processing algorithm: case study on human milk microbiota.
+
+Moossavi S(1)(2)(3)(4)(5), Atakora F(6)(7), Fehr K(6)(7), Khafipour E(8)(9).
+
+Author information: 
+(1)Digestive Oncology Research Center, Digestive Disease Research Institute,
+Tehran University of Medical Sciences, Tehran, Iran. moossavs@myumanitoba.ca.
+(2)Department of Medical Microbiology and Infectious Diseases, University of
+Manitoba, Winnipeg, MB, Canada. moossavs@myumanitoba.ca.
+(3)Children's Hospital Research Institute of Manitoba, Winnipeg, MB, Canada.
+moossavs@myumanitoba.ca.
+(4)Developmental Origins of Chronic Diseases in Children Network (DEVOTION),
+Winnipeg, MB, Canada. moossavs@myumanitoba.ca.
+(5)Present Address Department of Physiology and Pharmacology & Mechanical and
+Manufacturing Engineering, University of Calgary, Calgary, AB, Canada.
+moossavs@myumanitoba.ca.
+(6)Children's Hospital Research Institute of Manitoba, Winnipeg, MB, Canada.
+(7)Department of Pediatrics and Child Health, University of Manitoba, Winnipeg,
+MB, Canada.
+(8)Department of Animal Science, University of Manitoba, Winnipeg, MB, Canada.
+(9)Present Address Microbiome Research and Technical Support, Cargill Animal
+Nutrition, Diamond V brand, Cedar Rapids, USA.
+
+BACKGROUND: In recent years, the microbiome field has undergone a shift from
+clustering-based methods of operational taxonomic unit (OTU) designation based on
+sequence similarity to denoising algorithms that identify exact amplicon sequence
+variants (ASVs), and methods to identify contaminating bacterial DNA sequences
+from low biomass samples have been developed. Although these methods improve
+accuracy when analyzing mock communities, their impact on real samples and
+downstream analysis of biological associations is less clear.
+RESULTS: Here, we re-processed our recently published milk microbiota data using 
+Qiime1 to identify OTUs, and Qiime2 to identify ASVs, with or without contaminant
+removal using decontam. Qiime2 resolved the mock community more accurately,
+primarily because Qiime1 failed to detect Lactobacillus. Qiime2 also considerably
+reduced the average number of ASVs detected in human milk samples (364 ± 145 OTUs
+vs. 170 ± 73 ASVs, p < 0.001). Compared to the richness, the estimated diversity 
+measures had a similar range using both methods albeit statistically different
+(inverse Simpson index: 14.3 ± 8.5 vs. 15.6 ± 8.7, p = 0.031) and there was
+strong consistency and agreement for the relative abundances of the most abundant
+bacterial taxa, including Staphylococcaceae and Streptococcaceae. One notable
+exception was Oxalobacteriaceae, which was overrepresented using Qiime1
+regardless of contaminant removal. Downstream statistical analyses were not
+impacted by the choice of algorithm in terms of the direction, strength, and
+significance of associations of host factors with bacterial diversity and overall
+community composition.
+CONCLUSION: Overall, the biological observations and conclusions were robust to
+the choice of the sequencing processing methods and contaminant removal.
+
+DOI: 10.1186/s12866-020-01949-7 
+PMCID: PMC7501722
+PMID: 32948144 
+

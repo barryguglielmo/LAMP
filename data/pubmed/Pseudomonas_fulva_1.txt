@@ -1,0 +1,40 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jan;70(1):364-372. doi: 10.1099/ijsem.0.003763.
+
+Pseudomonas phragmitis sp. nov., isolated from petroleum polluted river sediment.
+
+Li J(1), Wang LH(1), Xiang FG(1), Ding WL(1), Xi LJ(1), Wang MQ(2)(1), Xiao
+ZJ(1), Liu JG(1).
+
+Author information: 
+(1)State Key Laboratory of Heavy Oil Processing & Center for Bioengineering and
+Biotechnology, College of Chemical Engineering, China University of Petroleum
+(East China), Qingdao 266580, PR China.
+(2)Shandong Peanut Research Institute, Qingdao 266100, PR China.
+
+A Gram-stain-negative, rod-shaped bacterium, motile by means of a single polar
+flagellum, designated S-6-2T, was isolated from petroleum polluted river sediment
+in Huangdao, Shandong Province, PR China. The 16S rRNA gene sequence analysis
+revealed that S-6-2T represented a member of the genus Pseudomonas, sharing the
+highest sequence similarities with Pseudomonas parafulva (97.5 %) and Pseudomonas
+fulva (97.5 %). Phylogenetic analysis based on 16S rRNA gene, concatenated 16S
+rRNA, gyrB, rpoB and rpoD genes and genome core-genes indicated that S-6-2T was
+affiliated with the members of the Pseudomonas pertucinogena group. The average
+nucleotide identity (ANI) and genome-to-genome distance between the whole genome 
+sequences of S-6-2T and closely related species of the genus Pseudomonas within
+the P. pertucinogena group were less than 77.94 % and 20.5 %, respectively.
+Differences in phenotypic characteristics were also found between S-6-2T and the 
+closely related species. The major cellular fatty acids (>10 %) were summed
+feature 8 (C18 : 1ω7c/ C18  : 1ω6c), C16 : 0, C17 : 0cyclo and C12 : 0. The
+predominant respiratory quinone was ubiquinone 9. The major polar lipids were
+diphosphatidylglycerol (DPG), phosphatidylglycerol (PG), phosphatidylethanolamine
+(PE), one unidentified lipid (L1), two unidentified phospholipids (PL1 and PL2)
+and an aminophospholipid (APL). The DNA G+C content of the genome of S-6-2T was
+60.1 mol%. On the basis of the evidence from the polyphasic taxonomic study,
+strain S-6-2T can be classified as representative of a novel species of the genus
+Pseudomonas, for which the name Pseudomonas phragmitis sp. nov. is proposed. The 
+type strain is S-6-2T (=CGMCC 1.15798T=KCTC 52539T).
+
+DOI: 10.1099/ijsem.0.003763 
+PMID: 31661054  [Indexed for MEDLINE]
+

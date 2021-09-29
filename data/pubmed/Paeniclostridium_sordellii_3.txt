@@ -1,0 +1,52 @@
+
+1. Cell Host Microbe. 2020 May 13;27(5):782-792.e7. doi: 10.1016/j.chom.2020.03.007.
+Epub 2020 Apr 16.
+
+Genome-Wide CRISPR Screen Identifies Semaphorin 6A and 6B as Receptors for
+Paeniclostridium sordellii Toxin TcsL.
+
+Tian S(1), Liu Y(2), Wu H(3), Liu H(1), Zeng J(1), Choi MY(4), Chen H(3), Gerhard
+R(5), Dong M(6).
+
+Author information: 
+(1)Department of Urology, Boston Children's Hospital, Boston, MA 02115, USA;
+Department of Surgery and Department of Microbiology, Harvard Medical School,
+Boston, MA 02115, USA.
+(2)Department of Urology, Boston Children's Hospital, Boston, MA 02115, USA;
+Department of Surgery and Department of Microbiology, Harvard Medical School,
+Boston, MA 02115, USA; Department of Nephrology, The First Hospital of Jilin
+University, Changchun 130012, China.
+(3)The Vascular Biology Program, Department of Surgery, Boston Children's
+Hospital and Harvard Medical School, MA 02115, USA.
+(4)Division of Genetics, Brigham and Women's Hospital and Harvard Medical School,
+Boston, MA 02115, USA.
+(5)Institute of Toxicology, Hannover Medical School, Hannover, 30625, Germany.
+(6)Department of Urology, Boston Children's Hospital, Boston, MA 02115, USA;
+Department of Surgery and Department of Microbiology, Harvard Medical School,
+Boston, MA 02115, USA. Electronic address: min.dong@childrens.harvard.edu.
+
+The exotoxin TcsL is a major virulence factor in Paeniclostridium (Clostridium)
+sordellii and responsible for the high lethality rate associated with
+P. sordellii infection. Here, we present a genome-wide CRISPR-Cas9-mediated
+screen using a human lung carcinoma cell line and identify semaphorin (SEMA) 6A
+and 6B as receptors for TcsL. Disrupting SEMA6A/6B expression in several distinct
+human cell lines and primary human endothelial cells results in reduced TcsL
+sensitivity, while SEMA6A/6B over-expression increases their sensitivity. TcsL
+recognizes the extracellular domain (ECD) of SEMA6A/6B via a region homologous to
+the receptor-binding site in Clostridioides difficile toxin B (TcdB), which binds
+the human receptor Frizzled. Exchanging the receptor-binding interfaces between
+TcsL and TcdB switches their receptor-binding specificity. Finally,
+administration of SEMA6A-ECD proteins protects human cells from TcsL toxicity and
+reduces TcsL-induced damage to lung tissues and the lethality rate in mice. These
+findings establish SEMA6A and 6B as pathophysiologically relevant receptors for
+TcsL.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.chom.2020.03.007 
+PMCID: PMC7228847 [Available on 2021-05-13]
+PMID: 32302524 
+
+Conflict of interest statement: Declaration of Interests The authors declare no
+competing interests.
+

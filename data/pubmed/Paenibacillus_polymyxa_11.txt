@@ -1,0 +1,50 @@
+
+1. J Ind Microbiol Biotechnol. 2020 Jul;47(6-7):551-562. doi:
+10.1007/s10295-020-02275-7. Epub 2020 Jun 3.
+
+Control of the polymyxin analog ratio by domain swapping in the nonribosomal
+peptide synthetase of Paenibacillus polymyxa.
+
+Yuan Y(1)(2), Xu QM(3), Yu SC(1), Sun HZ(1)(2), Cheng JS(4)(5), Yuan YJ(1)(2).
+
+Author information: 
+(1)Frontiers Science Center for Synthetic Biology and Key Laboratory of Systems
+Bioengineering (Ministry of Education), School of Chemical Engineering and
+Technology, Tianjin University, Yaguan Road 135, Jinnan District, Tianjin,
+300350, People's Republic of China.
+(2)SynBio Research Platform, Collaborative Innovation Centre of Chemical Science 
+and Engineering (Tianjin), School of Chemical Engineering and Technology, Tianjin
+University, Yaguan Road 135, Jinnan District, Tianjin, 300350, People's Republic 
+of China.
+(3)Tianjin Key Laboratory of Animal and Plant Resistance, College of Life
+Science, Tianjin Normal University, Binshuixi Road 393, Xiqing District, Tianjin,
+300387, People's Republic of China. qmxu0929@126.com.
+(4)Frontiers Science Center for Synthetic Biology and Key Laboratory of Systems
+Bioengineering (Ministry of Education), School of Chemical Engineering and
+Technology, Tianjin University, Yaguan Road 135, Jinnan District, Tianjin,
+300350, People's Republic of China. jscheng@tju.edu.cn.
+(5)SynBio Research Platform, Collaborative Innovation Centre of Chemical Science 
+and Engineering (Tianjin), School of Chemical Engineering and Technology, Tianjin
+University, Yaguan Road 135, Jinnan District, Tianjin, 300350, People's Republic 
+of China. jscheng@tju.edu.cn.
+
+Polymyxins are used as the last-line therapy against multidrug-resistant
+bacteria. However, their further clinical development needs to solve problems
+related to the presence of heterogeneous analogs, but there is still no platform 
+or methods that can regulate the biosynthesis of polymyxin analogs. In this
+study, we present an approach to swap domains in the polymyxin gene cluster to
+regulate the production of different analogs. Following adenylation domain
+swapping, the proportion of polymyxin B1 increased from 41.36 to 52.90%, while
+that of B1-1 decreased from 18.25 to 3.09%. The ratio of polymyxin B1 and B3
+following starter condensation domain swapping changed from 41.36 and 16.99 to
+55.03 and 6.39%, respectively. The two domain-swapping strains produced 62.96% of
+polymyxin B1, 6.70% of B3 and 3.32% of B1-1. This study also revealed the
+presence of overflow fluxes between acetoin, 2,3-butanediol and polymyxin. To our
+best knowledge, this is the first report of engineering the polymyxin synthetase 
+gene cluster in situ to regulate the relative proportions of polymyxin analogs.
+This research paves a way for regulating lipopeptide analogs and will facilitate 
+the development of novel lipopeptide derivatives.
+
+DOI: 10.1007/s10295-020-02275-7 
+PMID: 32495197 
+

@@ -1,0 +1,48 @@
+
+1. J Microbiol. 2019 Dec;57(12):1073-1078. doi: 10.1007/s12275-019-9268-3. Epub 2019
+Nov 4.
+
+Anaerotignum faecicola sp. nov., isolated from human faeces.
+
+Choi SH(1), Kim JS(1), Park JE(1), Lee KC(1), Eom MK(1), Oh BS(1), Yu SY(1), Kang
+SW(1), Han KI(1), Suh MK(1), Lee DH(2), Yoon H(2), Kim BY(3), Lee JH(3), Lee
+JH(1), Lee JS(4)(5), Park SH(6).
+
+Author information: 
+(1)Korean Collection for Type Cultures, Korea Research Institute of Bioscience
+and Biotechnology (KRIBB), Jeongeup, 56212, Republic of Korea.
+(2)Seoul National University Bundang Hospital, Seongnam, 13620, Republic of
+Korea.
+(3)ChunLab, Inc., Seoul, 06725, Republic of Korea.
+(4)Korean Collection for Type Cultures, Korea Research Institute of Bioscience
+and Biotechnology (KRIBB), Jeongeup, 56212, Republic of Korea. jslee@kribb.re.kr.
+(5)University of Science and Technology (UST), Daejeon, 34113, Republic of Korea.
+jslee@kribb.re.kr.
+(6)Korean Collection for Type Cultures, Korea Research Institute of Bioscience
+and Biotechnology (KRIBB), Jeongeup, 56212, Republic of Korea.
+biopark@kribb.re.kr.
+
+A strictly anaerobic bacterium, designated as strain KGMB-03357T, was isolated
+from the faeces of a healthy Korean selected by Bundang Seoul National University
+based on health status. Cells of strain KGMB03357T are Gram-stain-positive,
+non-motile, non-spore-forming, and observed as straight or curved rods. The
+isolate grew at 10-45°C (optimum temperature of 40°C) and a pH range of 5.1-10.5 
+(optimum pH of 6.8). Analysis of phylogenetic trees based on the 16S rRNA gene
+sequences revealed that strain KGMB03357T forms a lineage within the genus
+Anaerotignum, and is most closely related to Anaerotignum lactatifermentans G17T 
+(= KCTC 15066T, 96.1%), Anaerotignum propionicum DSM 1682T (= KCTC 5582T, 94.9%),
+Anaerotignum neopropionicum DSM 03847T (= KCTC 15564T, 94.9%), and Anaerotignum
+aminivorans SH021T (= KCTC 15705T, 94.8%). The ANI values between strain KGMB
+03357T and members of the genus Anaerotignum were 73.3-71.0%, which are below the
+ANI criterion for interspecies identity. The DNA G + C content based on the
+whole-genome sequence is 47.3 mol%. The major cellular fatty acids of strain
+KGMB03357T are C16:0, C18:0, C18∶1 cis 9, and anteiso-C15∶0. Strain KGMB03357T
+contains meso-diaminopimelic acid as the diagnostic amino acid in the cell wall
+peptidoglycan. Based on the phenotypic, phylogenetic, and genomic properties,
+strain KGMB 03357T represents a novel species of the genus Anaerotignum, for
+which the name Anaerotignum faecicola sp. nov. is proposed. The type strain is
+KGMB03357T (= KCTC 15736T = DSM 107953T).
+
+DOI: 10.1007/s12275-019-9268-3 
+PMID: 31680219  [Indexed for MEDLINE]
+

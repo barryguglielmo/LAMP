@@ -1,0 +1,30 @@
+
+1. Biosci Biotechnol Biochem. 2020 May;84(5):1056-1061. doi:
+10.1080/09168451.2020.1715783. Epub 2020 Jan 20.
+
+Symbiotic riboflavin degradation by Microbacterium and Nocardioides bacteria.
+
+Kanazawa H(1), Ozaki S(1), Doi Y(1), Masuo S(1), Takaya N(1).
+
+Author information: 
+(1)Faculty of Life and Environmental Sciences, Microbiology Research Center for
+Sustainability, University of Tsukuba, Tsukuba, Japan.
+
+Unlike its biosynthetic mechanisms and physiological function, current
+understanding of riboflavin degradation in soil is limited to a few bacteria that
+decompose it to lumichrome. Here, we isolated six Microbacterium and three
+Nocardioides strains. These strains utilized riboflavin and lumichrome,
+respectively, as carbon sources. Among these strains, we identified
+Microbacterium paraoxydans R16 (R16) and Nocardioides nitrophenolicus L16 (L16), 
+which were isolated form the same enrichment culture. Co-cultured R16 and L16
+reconstituted a riboflavin-degrading interspecies consortium, in which the R16
+strain degraded riboflavin to lumichrome and ᴅ-ribose. The L16 strain utilized
+the lumichrome as a carbon source, indicating that R16 is required for L16 to
+grow in the consortium. Notably, rates of riboflavin degradation and growth were 
+increased in co-cultured, compared with monocultured R16 cells. These results
+indicated that a beneficial symbiotic interaction between M. paraoxydans R16 and 
+N. nitrophenolicus L16 results in the ability to degrade riboflavin.
+
+DOI: 10.1080/09168451.2020.1715783 
+PMID: 31959067 
+

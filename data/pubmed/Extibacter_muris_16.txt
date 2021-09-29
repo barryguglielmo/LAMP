@@ -1,0 +1,46 @@
+
+1. Int J Parasitol. 2020 Aug;50(9):707-718. doi: 10.1016/j.ijpara.2020.06.001. Epub 
+2020 Jul 11.
+
+Development of caecaloids to study host-pathogen interactions: new insights into 
+immunoregulatory functions of Trichuris muris extracellular vesicles in the
+caecum.
+
+Duque-Correa MA(1), Schreiber F(2), Rodgers FH(2), Goulding D(2), Forrest S(2),
+White R(3), Buck A(3), Grencis RK(4), Berriman M(2).
+
+Author information: 
+(1)Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton CB10 1SA, UK.
+Electronic address: md19@sanger.ac.uk.
+(2)Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton CB10 1SA, UK.
+(3)Institute of Immunology & Infection Research, School of Biological Sciences,
+University of Edinburgh, Edinburgh EH9 3FL, UK.
+(4)Lydia Becker Institute of Immunology and Inflammation, Wellcome Trust Centre
+for Cell Matrix Research and Faculty of Biology, Medicine and Health, University 
+of Manchester, Manchester M13 9PT, UK.
+
+The caecum, an intestinal appendage in the junction of the small and large
+intestines, displays a unique epithelium that serves as an exclusive niche for a 
+range of pathogens including whipworms (Trichuris spp.). While protocols to grow 
+organoids from small intestine (enteroids) and colon (colonoids) exist, the
+conditions to culture organoids from the caecum have yet to be described. Here,
+we report methods to grow, differentiate and characterise mouse adult stem
+cell-derived caecal organoids, termed caecaloids. We compare the cellular
+composition of caecaloids with that of enteroids, identifying differences in
+intestinal epithelial cell populations that mimic those found in the caecum and
+small intestine. The remarkable similarity in the intestinal epithelial cell
+composition and spatial conformation of caecaloids and their tissue of origin
+enables their use as an in vitro model to study host interactions with important 
+caecal pathogens. Thus, exploiting this system, we investigated the responses of 
+caecal intestinal epithelial cells to extracellular vesicles secreted/excreted by
+the intracellular helminth Trichuris muris. Our findings reveal novel
+immunoregulatory effects of whipworm extracellular vesicles on the caecal
+epithelium, including the downregulation of responses to nucleic acid recognition
+and type-I interferon signalling.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ijpara.2020.06.001 
+PMCID: PMC7435689
+PMID: 32659277 
+

@@ -1,0 +1,58 @@
+
+1. BMC Vet Res. 2020 Jul 11;16(1):237. doi: 10.1186/s12917-020-02437-w.
+
+Saccharomyces cerevisiae fermentation products (SCFP) stabilize the ruminal
+microbiota of lactating dairy cows during periods of a depressed rumen pH.
+
+Tun HM(1)(2), Li S(1), Yoon I(3), Meale SJ(4), Azevedo PA(1), Khafipour E(5)(6), 
+Plaizier JC(7).
+
+Author information: 
+(1)Department of Animal Science, University of Manitoba, Winnipeg, MB, Canada.
+(2)Present address: HKU-Pasteur Research Pole, School of Public Health, Li Ka
+Shing Faculty of Medicine, The University of Hong Kong, Hong Kong, Hong Kong SAR.
+(3)Diamond V, Cedar Rapids, IA, USA.
+(4)School of Agriculture and Food Science, University of Queensland Gatton
+campus, Gatton, Australia.
+(5)Department of Animal Science, University of Manitoba, Winnipeg, MB, Canada.
+Ehsan_Khafipour@diamondv.com.
+(6)Present Address: Diamond V, Cedar Rapids, IA, USA.
+Ehsan_Khafipour@diamondv.com.
+(7)Department of Animal Science, University of Manitoba, Winnipeg, MB, Canada.
+plaizier@umanitoba.ca.
+
+BACKGROUND: Effects of Saccharomyces cerevisiae fermentation products (SCFP) on
+rumen microbiota were determined in vitro and in vivo under a high and a
+depressed pH. The in vitro trial determined the effects of Original XPC and
+NutriTek (Diamond V, Cedar Rapids, IA) at doses of 1.67 and 2.33 g/L,
+respectively, on the abundances of rumen bacteria under a high pH (> 6.3) and a
+depressed pH (5.8-6.0) using quantitative PCR (qPCR). In the in vivo trial eight 
+rumen-cannulated lactating dairy cows were used in a cross-over design. Cows were
+randomly assigned to SCFP treatments (Original XPC, Diamond V, Cedar Rapids, IA) 
+or control (No SCFP) before two 5-week experimental periods. During the second
+period, SCFP treatments were reversed. Cows on the SCFP treatment were
+supplemented with 14 g/d of SCFP and 126 g/d of ground corn. Other cows received 
+140 g/d ground corn. During the first 4 wk. of each period, cows received a basal
+diet containing 153 g/kg of starch. During week 5 of both periods, the rumen pH
+was depressed by a SARA challenge. This included replacing 208 g/kg of the basal 
+diet with pellets of ground wheat and barley, resulting in a diet that contained 
+222 g/kg DM of starch. Microbial communities in rumen liquid digesta were
+examined by pyrosequencing, qPCR, and shotgun metagenomics.
+RESULTS: During the in vitro experiment, XPC and NutriTek increased the relative 
+abundances of Ruminococcus flavefaciens, and Fibrobacter succinogenes determined 
+at both the high and the depressed pH, with NutriTek having the largest effect.
+The relative abundances of Prevotella brevis, R. flavefaciens, ciliate protozoa, 
+and Bifidobacterium spp. were increased by XPC in vivo. Adverse impacts of the in
+vivo SARA challenge included reductions of the richness and diversity of the
+rumen microbial community, the abundances of Bacteroidetes and ciliate protozoa
+in the rumen as determined by pyrosequencing, and the predicted functionality of 
+rumen microbiota as determined by shotgun metagenomics. These reductions were
+attenuated by XPC supplementation.
+CONCLUSIONS: The negative effects of grain-based SARA challenges on the
+composition and predicted functionality of rumen microbiota are attenuated by
+supplementation with SCFP.
+
+DOI: 10.1186/s12917-020-02437-w 
+PMCID: PMC7353776
+PMID: 32653000 
+

@@ -1,0 +1,49 @@
+
+1. ISME J. 2020 Jul;14(7):1639-1650. doi: 10.1038/s41396-020-0630-6. Epub 2020 Mar
+24.
+
+US nativity and dietary acculturation impact the gut microbiome in a diverse US
+population.
+
+Peters BA(1)(2), Yi SS(1), Beasley JM(3), Cobbs EN(1), Choi HS(1), Beggs DB(1),
+Hayes RB(1)(4), Ahn J(5)(6).
+
+Author information: 
+(1)Department of Population Health, NYU School of Medicine, New York, NY, USA.
+(2)Department of Epidemiology and Population Health, Albert Einstein College of
+Medicine, Bronx, NY, USA.
+(3)Department of Medicine, NYU School of Medicine, New York, NY, USA.
+(4)NYU Perlmutter Cancer Center, New York, NY, USA.
+(5)Department of Population Health, NYU School of Medicine, New York, NY, USA.
+Jiyoung.Ahn@nyumc.org.
+(6)NYU Perlmutter Cancer Center, New York, NY, USA. Jiyoung.Ahn@nyumc.org.
+
+Little is known regarding the impact of immigrant acculturation on the gut
+microbiome. We characterized differences in the gut microbiome between
+racially/ethnically diverse US immigrant and US-born groups, and determined the
+impact of dietary acculturation on the microbiome. Stool samples were collected
+from 863 US residents, including US-born (315 White, 93 Black, 40 Hispanic) and
+foreign-born (105 Hispanic, 264 Korean) groups. We determined dietary
+acculturation from dissimilarities based on food frequency questionnaires, and
+used 16S rRNA gene sequencing to characterize the microbiome. Gut microbiome
+composition differed across study groups, with the largest difference between
+foreign-born Koreans and US-born Whites, and significant differences also
+observed between foreign-born and US-born Hispanics. Differences in
+sub-operational taxonomic unit (s-OTU) abundance between foreign-born and US-born
+groups tended to be distinct from differences between US-born groups. Bacteroides
+plebeius, a seaweed-degrading bacterium, was strongly enriched in foreign-born
+Koreans, while Prevotella copri and Bifidobacterium adolescentis were strongly
+enriched in foreign-born Koreans and Hispanics, compared with US-born Whites.
+Dietary acculturation in foreign-born participants was associated with specific
+s-OTUs, resembling abundance in US-born Whites; e.g., a Bacteroides plebeius
+s-OTU was depleted in highly diet-acculturated Koreans. In summary, we observed
+that US nativity is a determinant of the gut microbiome in a US resident
+population. Dietary acculturation may result in loss of native species in
+immigrants, though further research is necessary to explore whether
+acculturation-related microbiome alterations have consequences for immigrant
+health.
+
+DOI: 10.1038/s41396-020-0630-6 
+PMCID: PMC7305110 [Available on 2021-07-01]
+PMID: 32210364 
+

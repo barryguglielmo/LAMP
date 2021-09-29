@@ -1,0 +1,46 @@
+
+1. Int J Syst Evol Microbiol. 2020 Sep;70(9):5165-5171. doi: 10.1099/ijsem.0.004404.
+Epub 2020 Aug 26.
+
+The status of the genus Prolinoborus (Pot et al. 1992) and the species
+Prolinoborus fasciculus (Pot et al. 1992).
+
+Glaeser SP(1), Pulami D(1), Blom J(2), Eisenberg T(3), Goesmann A(2), Bender
+J(4), Wilharm G(5), Kämpfer P(1).
+
+Author information: 
+(1)Institut für Angewandte Mikrobiologie, Justus-Liebig-Universität Giessen,
+D-35392 Giessen, Germany.
+(2)Institute for Bioinformatics and Systems Biology, Justus-Liebig-Universität
+Giessen, D-35392 Giessen, Germany.
+(3)Landesbetrieb Hessisches Landeslabor (LHL), D-35392 Giessen, Germany.
+(4)Fachgebiet 13 Nosokomiale Infektionserreger und Antibiotikaresistenzen, Robert
+Koch-Institut, Bereich Wernigerode, D-38855 Wernigerode, Germany.
+(5)Projektgruppe P2, Robert Koch-Institut, Bereich Wernigerode, D-38855
+Wernigerode, Germany.
+
+On the basis of two other publications (Yarza et al. 2013; Nemec et al. 2019) and
+on the basis of resequencing of the 16S rRNA gene of Prolinoborus fasciculus CIP 
+103579T it is concluded that Prolinoborus fasciculus CIP 103579T, which is the
+only available strain of the species from culture collections, does not conform
+to the original description given by Pot et al. (1992). The strain investigated
+is a member of the genus Acinetobacter within the Moraxellaceae, a family of the 
+Gammaproteobacteria and not a member of the Betaproteobacteria as originally
+proposed. Prolinoborus fasciculus CIP 103579T shared 99.8 % 16S rRNA gene
+sequence similarity with Acinetobacter lwoffii DSM 2403T. The two strains
+clustered together by rpoB- and core genome-based phylogenetic analyses and
+shared an average nucleotide identity of 96.47% (reciprocal, 96.56 %) and a
+digital genome distance calculation (GGDC) value of 66.9 %. Furthermore, the two 
+strains shared matrix-assisted laser desorption/ionization time of flight MS
+profiles to a high extent and showed highly similar cellular fatty acid profiles 
+and physiological substrate utilization patterns. It is proposed that the
+Judicial commission consider (1) that the strain currently deposited as CIP
+103579 be recognized as a member of Acinetobacter lwoffii; (2) placing
+Prolinoborus fasciculus (Pot et al. 1992) on the list of rejected names if a
+suitable replacement strain, or a neotype strain cannot be found within 2 years
+of publication of this request; and (3) place the genus name Prolinoborus (Pot et
+al. 1992) on the list of rejected names [Recommendation 20D (3) of the Code].
+
+DOI: 10.1099/ijsem.0.004404 
+PMID: 32845831 
+

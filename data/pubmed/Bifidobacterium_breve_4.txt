@@ -1,0 +1,48 @@
+
+1. BMC Microbiol. 2020 Sep 10;20(1):277. doi: 10.1186/s12866-020-01962-w.
+
+Genotyping and plant-derived glycan utilization analysis of Bifidobacterium
+strains from mother-infant pairs.
+
+Kan Z(1), Luo B(1), Cai J(1), Zhang Y(1), Tian F(2), Ni Y(3).
+
+Author information: 
+(1)School of Food Science and Technology, Shihezi University, Xinjiang, China.
+(2)School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu,
+China.
+(3)School of Food Science and Technology, Shihezi University, Xinjiang, China.
+niyqlzu@sina.com.
+
+BACKGROUND: Bifidobacteria are important probiotics; some of the beneficial
+effects of bifidobacteria are achieved by the hydrolysis of glycans in the human 
+gut. However, because the diet of breastfed infants typically lacks plant-derived
+glycans, in the gut environment of mothers and their breastfed infants, the
+mother will intake a variety of plant-derived glycans, such as from onions and
+bananas, through her diet. Under this assumption, we are interested in whether
+the same species of bifidobacteria isolated from mother-infant pairs present a
+distinction in their hydrolysis of plant-derived carbohydrates.
+RESULTS: Among the 36 Bifidobacterium strains, bifidobacterial carbohydrate
+utilization showed two trends related to the intestinal environment where the
+bacteria lived. Compared with infant-type bifidobacterial strains, adult-type
+bifidobacterial strains preferred to use plant-derived glycans. Of these strains,
+10 isolates, 2 Bifidobacterium pseudocatenulatum (B. pseudocatenulatum), 2
+Bifidobacterium pseudolongum (B. pseudolongum), 2 Bifidobacterium bifidum (B.
+bifidum), 2 Bifidobacterium breve (B. breve), and 2 Bifidobacterium longum (B.
+longum), were shared between the mother-infant pairs. Moreover, the repetitive
+sequence-based polymerase chain reaction (rep-PCR) results illustrated that B.
+pseudolongum and B. bifidum showed genotypic similarities of 95.3 and 98.2%,
+respectively. Combined with the carbohydrate fermentation study, these results
+indicated that the adult-type strains have a stronger ability to use
+plant-derived glycans than infant-type strains. Our work suggests that
+bifidobacterial carbohydrate metabolism differences resulted in the selective
+adaptation to the distinct intestinal environment of an adult or breastfed
+infant.
+CONCLUSIONS: The present study revealed that the different gut environments can
+lead to the differences in the polysaccharide utilization in the same strains of 
+bifidobacterial strains, suggesting a further goal of investigating the exact
+expression of certain enzymes in response to specific carbon sources.
+
+DOI: 10.1186/s12866-020-01962-w 
+PMCID: PMC7488109
+PMID: 32912151 
+

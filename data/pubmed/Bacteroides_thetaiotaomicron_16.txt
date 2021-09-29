@@ -1,0 +1,44 @@
+
+1. Nat Microbiol. 2020 Sep;5(9):1170-1181. doi: 10.1038/s41564-020-0746-5. Epub 2020
+Jun 29.
+
+Phase-variable capsular polysaccharides and lipoproteins modify bacteriophage
+susceptibility in Bacteroides thetaiotaomicron.
+
+Porter NT(1), Hryckowian AJ(2), Merrill BD(3), Fuentes JJ(1), Gardner JO(3),
+Glowacki RWP(1), Singh S(1), Crawford RD(4), Snitkin ES(1), Sonnenburg JL(3),
+Martens EC(5).
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of Michigan, Ann Arbor, 
+MI, USA.
+(2)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, CA, USA. hryckowian@medicine.wisc.edu.
+(3)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, CA, USA.
+(4)Department of Computational Medicine and Bioinformatics, University of
+Michigan, Ann Arbor, MI, USA.
+(5)Department of Microbiology and Immunology, University of Michigan, Ann Arbor, 
+MI, USA. emartens@umich.edu.
+
+A variety of cell surface structures dictate interactions between bacteria and
+their environment, including their viruses (bacteriophages). Members of the human
+gut Bacteroidetes characteristically produce several phase-variable capsular
+polysaccharides (CPSs), but their contributions to bacteriophage interactions are
+unknown. To begin to understand how CPSs have an impact on Bacteroides-phage
+interactions, we isolated 71 Bacteroides thetaiotaomicron-infecting
+bacteriophages from two locations in the United States. Using B. thetaiotaomicron
+strains that express defined subsets of CPSs, we show that CPSs dictate host
+tropism for these phages and that expression of non-permissive CPS variants is
+selected under phage predation, enabling survival. In the absence of CPSs, B.
+thetaiotaomicron escapes bacteriophage predation by altering expression of eight 
+distinct phase-variable lipoproteins. When constitutively expressed, one of these
+lipoproteins promotes resistance to multiple bacteriophages. Our results reveal
+important roles for Bacteroides CPSs and other cell surface structures that allow
+these bacteria to persist under bacteriophage predation, and hold important
+implications for using bacteriophages therapeutically to target gut symbionts.
+
+DOI: 10.1038/s41564-020-0746-5 
+PMCID: PMC7482406 [Available on 2020-12-29]
+PMID: 32601452 
+

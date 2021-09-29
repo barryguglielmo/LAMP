@@ -1,0 +1,60 @@
+
+1. Am J Obstet Gynecol. 2020 Aug 27. pii: S0002-9378(20)30862-0. doi:
+10.1016/j.ajog.2020.08.034. [Epub ahead of print]
+
+A Specific Bacterial DNA Signature in the Vagina of Australian Women in
+Mid-Pregnancy Predicts High Risk of Spontaneous Preterm Birth (The Predict1000
+Study).
+
+Payne MS(1), Newnham JP(2), Doherty DA(2), Furfaro LL(3), Pendal NL(3), Loh
+DE(4), Keelan JA(2).
+
+Author information: 
+(1)Division of Obstetrics and Gynaecology, University of Western Australia,
+Subiaco, WA 6008, Australia; Women and Infants Research Foundation, Subiaco, WA
+6008, Australia. Electronic address: matthew.payne@uwa.edu.au.
+(2)Division of Obstetrics and Gynaecology, University of Western Australia,
+Subiaco, WA 6008, Australia; Women and Infants Research Foundation, Subiaco, WA
+6008, Australia.
+(3)Division of Obstetrics and Gynaecology, University of Western Australia,
+Subiaco, WA 6008, Australia.
+(4)Women and Infants Research Foundation, Subiaco, WA 6008, Australia.
+
+BACKGROUND: Intrauterine infection accounts for about one quarter of cases of
+spontaneous preterm birth (sPTB); however, at present it is not possible to
+efficiently identify pregnant women at risk in order to deliver preventative
+treatments.
+OBJECTIVE: To establish a vaginal microbial DNA test for Australian women in
+mid-pregnancy that will identify those at increased risk of sPTB.
+STUDY DESIGN: 1000 women with singleton pregnancies were recruited in Perth,
+Australia. Mid-vaginal swabs were collected between 12- and 23-weeks' gestation. 
+DNA was extracted for detection of 23 risk-related microbial DNA targets by qPCR.
+Obstetric history, pregnancy outcome and demographics were recorded.
+RESULTS: After excluding 64 women due to losses to follow-up and insufficient
+sample for microbial analyses, the final cohort consisted of 936 women of
+predominantly Caucasian ethnicity (74.3%). The overall PTB rate was 12.6% (118
+births); the sPTB rate <37 weeks' was 6.2% (2.9% ≤34 weeks'), while the PPROM
+rate was 4.2%. No single individual microbial target predicted increased sPTB
+risk. Conversely, women who subsequently delivered at term had higher amounts of 
+either Lactobacillus crispatus, Lactobacillus gasseri or Lactobacillus jensenii
+DNA in their vaginal swabs (13.8% sPTB vs 31.2% term; P=0.005). In the remaining 
+women, a specific microbial DNA signature was identified that was strongly
+predictive of sPTB risk, consisting of DNA from G. vaginalis (clade 4), L. iners 
+and U. parvum (serovars 3 and/or 6). Risk prediction was improved if F. nucleatum
+detection was included in the test algorithm. The final algorithm, which we
+called the 'GLU' test, was able to detect women at risk of sPTB <37 weeks' and
+≤34 weeks', with sensitivities of 37.9% and 44.4%, respectively; likelihood
+ratios (+/-) were 2.22/0.75 and 2.52/0.67, respectively. PPROM was more than
+twice as common in GLU-positive women. Adjusting for maternal demographics,
+ethnicity, and clinical history, did not improve prediction. Only a previous
+history of sPTB was more effective at predicting sPTB than a GLU-positive result 
+(OR 3.6).
+CONCLUSIONS: We have identified a vaginal bacterial DNA signature that identifies
+women with a singleton pregnancy who are at increased risk of sPTB and may
+benefit from targeted antimicrobial therapy.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.ajog.2020.08.034 
+PMID: 32861687 
+

@@ -1,0 +1,43 @@
+
+1. Inflammation. 2020 Sep 10. doi: 10.1007/s10753-020-01339-1. [Epub ahead of print]
+
+Effects of Lactobacillus casei Strain T2 (IBRC-M10783) on the Modulation of
+Th17/Treg and Evaluation of miR-155, miR-25, and IDO-1 Expression in a
+Cuprizone-Induced C57BL/6 Mouse Model of Demyelination.
+
+Gharehkhani Digehsara S(1), Name N(1), Esfandiari B(2), Karim E(1), Taheri S(2), 
+Tajabadi-Ebrahimi M(1), Arasteh J(3).
+
+Author information: 
+(1)Department of Biology, Central Tehran Branch, Islamic Azad University, Tehran,
+Iran.
+(2)Department of Biology, Islamshahr Branch, Islamic Azad University, Islamshahr,
+Iran.
+(3)Department of Biology, Central Tehran Branch, Islamic Azad University, Tehran,
+Iran. j.arasteh@iauctb.ac.ir.
+
+Multiple sclerosis (MS) is a complex inflammatory disease in which demyelination 
+occurs in the central nervous system affecting approximately 2.5 million people
+worldwide. Recent reports have shown that the gut microbiome plays a crucial role
+in the functioning of the immune system in inflammatory diseases such as MS. In
+this study, the cuprizone-induced demyelination mouse model was used to
+investigate the effect of Lactobacillus casei strain T2 (IBRC-M10783) on the
+alleviation of these mice. Female C57BL/6 mice (8-10 weeks old) were divided into
+6 groups: group 1, normal control; group 2, cuprizone control (oral
+administration of cuprizone 0.2% w/w for 4 weeks); group 3, probiotic control
+(oral administration of 1 × 109 CFU/ml probiotic for 4 weeks); group 4, treatment
+1 (probiotic for 4 weeks then cuprizone for 4 weeks); group 5, treatment 2
+(cuprizone for 4 weeks then probiotic for 4 weeks); and group 6, treatment 3
+(cuprizone for 4 weeks then probiotic for 4 weeks with vitamin D3 at a dose of
+20 IU/day). Then, TGF-β and IL-17 were measured by ELISA, and the expression of
+miR-155, miR-25, and IDO-1 was evaluated by real-time PCR. Among the measured
+microRNAs, the results showed that there was a significant decrease in miR-155
+expression between the treatment 1 group and the cuprizone group. In the case of 
+IL-17, the results also showed a significant reduction between the three
+treatment groups and the cuprizone group. These observations suggest that L.
+casei can reduce proinflammatory cytokines and reduce demyelinating symptoms in
+the mouse model.
+
+DOI: 10.1007/s10753-020-01339-1 
+PMID: 32914363 
+

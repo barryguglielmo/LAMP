@@ -1,0 +1,49 @@
+
+1. Int J Mol Sci. 2020 Jun 29;21(13). pii: E4608. doi: 10.3390/ijms21134608.
+
+Lactobacillus plantarum DR7 Modulated Bowel Movement and Gut Microbiota
+Associated with Dopamine and Serotonin Pathways in Stressed Adults.
+
+Liu G(1), Chong HX(2), Chung FY(2), Li Y(1), Liong MT(2).
+
+Author information: 
+(1)CAS Key Laboratory of Microbial Physiological and Metabolic Engineering, State
+Key Laboratory of Microbial Resources, Institute of Microbiology, Chinese Academy
+of Sciences, Beijing 100101, China.
+(2)School of Industrial Technology, Universiti Sains Malaysia, Penang 11800,
+Malaysia.
+
+We have previously reported that the administration of Lactobacillus plantarum
+DR7 for 12 weeks reduced stress and anxiety in stressed adults as compared to the
+placebo group, in association with changes along the brain neurotransmitters
+pathways of serotonin and dopamine-norepinephrine. We now aim to evaluate the
+effects of DR7 on gut functions, gut microbiota compositional changes, and
+determine the correlations between microbiota changes and the pathways of brain
+neurotransmitters. The administration of DR7 prevented an increase of defecation 
+frequency over 12 weeks as compared to the placebo (p = 0.044), modulating the
+increase of stress-induced bowel movement. Over 12 weeks, alpha diversity of gut 
+microbiota was higher in DR7 than the placebo group across class (p = 0.005) and 
+order (p = 0.018) levels, while beta diversity differed between groups at class
+and order levels (p < 0.001). Differences in specific bacterial groups were
+identified, showing consistency at different taxonomic levels that survived
+multiplicity correction, along the phyla of Bacteroides and Firmicutes and along 
+the classes of Deltaproteobacteria and Actinobacteria. Bacteroidetes,
+Bacteroidia, and Bacteroidales which were reduced in abundance in the placebo
+group showed opposing correlation with gene expression of dopamine beta hydrolase
+(DBH, dopamine pathway; p < 0.001), while Bacteroidia and Bacteroidales showed
+correlation with tryptophan hydroxylase-II (TPH2, serotonin pathway; p = 0.001). 
+A correlation was observed between DBH and Firmicutes (p = 0.002), Clostridia (p 
+< 0.001), Clostridiales (p = 0.001), Blautia (p < 0.001), and Romboutsia (p <
+0.001), which were increased in abundance in the placebo group. Blautia was also 
+associated with TDO (p = 0.001), whereas Romboutsia had an opposing correlation
+with TPH2 (p < 0.001). Deltaproteobacteria and Desulfovibrionales which were
+decreased in abundance in the placebo group showed opposing correlation with DBH 
+(p = 0.001), whereas Bilophila was associated with TPH2 (p = 0.001). Our present 
+data showed that physiological changes induced by L. plantarum DR7 could be
+associated with changes in specific taxa of the gut microbiota along the
+serotonin and dopamine pathways.
+
+DOI: 10.3390/ijms21134608 
+PMCID: PMC7370301
+PMID: 32610495 
+

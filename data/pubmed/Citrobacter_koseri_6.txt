@@ -1,0 +1,53 @@
+
+1. Eur J Clin Microbiol Infect Dis. 2020 Oct;39(10):1845-1853. doi:
+10.1007/s10096-020-03909-5. Epub 2020 May 6.
+
+Implementation of the eazyplex® CSF direct panel assay for rapid laboratory
+diagnosis of bacterial meningitis: 32-month experience at a tertiary care
+university hospital.
+
+D'Inzeo T(1)(2), Menchinelli G(2), De Angelis G(2), Fiori B(1)(2), Liotti FM(2), 
+Morandotti GA(1), Sanguinetti M(3)(4), Posteraro B(2)(5), Spanu T(1)(2).
+
+Author information: 
+(1)Dipartimento di Scienze di Laboratorio e Infettivologiche, Fondazione
+Policlinico Universitario A. Gemelli IRCCS, Rome, Italy.
+(2)Dipartimento di Scienze Biotecnologiche di base, Cliniche Intensivologiche e
+Perioperatorie, Università Cattolica del Sacro Cuore, Rome, Italy.
+(3)Dipartimento di Scienze di Laboratorio e Infettivologiche, Fondazione
+Policlinico Universitario A. Gemelli IRCCS, Rome, Italy.
+maurizio.sanguinetti@unicatt.it.
+(4)Dipartimento di Scienze Biotecnologiche di base, Cliniche Intensivologiche e
+Perioperatorie, Università Cattolica del Sacro Cuore, Rome, Italy.
+maurizio.sanguinetti@unicatt.it.
+(5)Dipartimento di Scienze Gastroenterologiche, Endocrino-Metaboliche e
+Nefro-Urologiche, Fondazione Policlinico Universitario A. Gemelli IRCCS, Rome,
+Italy.
+
+We aimed to report a 32-month laboratory experience with the eazyplex® CSF direct
+panel assay for the rapid diagnosis of meningitis due to six most common
+bacterial species (Escherichia coli, Haemophilus influenzae, Listeria
+monocytogenes, Neisseria meningitidis, Streptococcus agalactiae, and
+Streptococcus pneumoniae). We included all cerebrospinal fluid (CSF) samples from
+patients admitted with a clinical suspicion of meningitis/encephalitis between
+May 2016 and December 2018 at our hospital. In addition to the eazyplex® assay,
+both Gram stain microscopy and culture were performed, and results were confirmed
+with 16S rRNA PCR/sequencing. Patients' demographics and relevant clinical
+information were collected. Of 135 studied patients, 44 (32.6%) had a
+microbiologically documented diagnosis of meningitis. Overall, we identified 21
+S. pneumoniae, 10 N. meningitidis, 6 L. monocytogenes, 3 E. coli, 2 Streptococcus
+pyogenes, 1 S. agalactiae, and 1 Citrobacter koseri as aetiological agents. The
+eazyplex® assay allowed identification in 40 (90.9%) cases, with four not
+identified cases due to microorganisms not included in the panel at the time of
+testing. Thirty-two (72.7%) cases had positive culture results, whereas 28
+(63.6%) cases had positive Gram stain results. Notably, combining Gram stain and 
+eazyplex® assay allowed identification in 100% of cases. After notification of
+rapid results, physicians modified the empiric antibiotic therapy, which became
+appropriate in three patients (all with L. monocytogenes meningitis). The
+eazyplex® CSF panel assay worked better than culture in detecting the most common
+agents of bacterial meningitis and accelerated the diagnosis leading to timely
+initiation or continuation of appropriate antibiotic therapy.
+
+DOI: 10.1007/s10096-020-03909-5 
+PMID: 32377878 
+

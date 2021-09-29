@@ -1,0 +1,46 @@
+
+1. Microb Pathog. 2020 Mar;140:103947. doi: 10.1016/j.micpath.2019.103947. Epub 2019
+Dec 23.
+
+Antitumor effect of exopolysaccharide produced by Bacillus mycoides.
+
+Farag MMS(1), Moghannem SAM(2), Shehabeldine AM(2), Azab MS(2).
+
+Author information: 
+(1)Botany and Microbiology Department, Faculty of Science, Al-Azhar University,
+Nasr City, Cairo, 11884, Egypt. Electronic address: mohamed.farag@azhar.edu.eg.
+(2)Botany and Microbiology Department, Faculty of Science, Al-Azhar University,
+Nasr City, Cairo, 11884, Egypt.
+
+Recently, microbial exopolysaccharides (EPSs) have offered very large field for
+medical applications owing to their bioactive characteristics. This study aimed
+to obtain antitumor EPS and to optimize its production using different
+optimization approaches. Eighty EPSs-producing bacteria were obtained from mud
+samples. Isolate BS4 was selected as the most potent antitumor EPS-producer and
+identified as Bacillus mycoides BS4 using 16S rRNA gene sequence analysis. Cell
+viability and antitumor activity of produced EPS were investigated using
+microscopic examination and MTT assay. Interestingly, the produced EPS exhibited 
+low cytotoxicity against normal cell baby hamster kidney (BHK) with IC50 at 254
+μgml-1 while it exhibited an inhibitory effect against cancer cells of human
+hepatocellular carcinoma (HepG2) and Colorectal adenocarcinoma cells (Caco-2)
+with IC50 of 138 μgml-1 and 159 μgml-1, respectively. The purified EPS was
+characterized using Fourier transform infrared, gel permeation chromatography and
+gas chromatography-mass spectroscopy. It showed molecular weight of 1.90 × 104 Da
+and consists of galactose, mannose, glucose and glucuronic acid. The factors
+affecting EPS production were optimized using one-factor-at-a time and
+statistical optimization methods. The Placket-Burman (PB) design results
+indicated that sugarcane molasses, peptone and shaking conditions were the most
+significant variables, which were further optimized by Response Surface
+Methodology (RSM). The optimum conditions for EPS production were 8.0% (w/v)
+sugarcane molasses, 6 gL‒1 peptone and 300 rpm that produce 8.02gL‒1 of EPS. This
+indicates the potentiality of Bacillus mycoides BS4 for production of EPS with
+biomedical applications.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.micpath.2019.103947 
+PMID: 31874230 
+
+Conflict of interest statement: Declaration of competing interest The Authors
+declares that they have no conflict of interest.
+

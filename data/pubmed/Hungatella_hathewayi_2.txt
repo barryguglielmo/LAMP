@@ -1,0 +1,50 @@
+
+1. Nat Commun. 2020 Jun 25;11(1):3218. doi: 10.1038/s41467-020-16990-3.
+
+Alterations of gut microbiota contribute to the progression of unruptured
+intracranial aneurysms.
+
+Li H(1), Xu H(1), Li Y(2), Jiang Y(2), Hu Y(3), Liu T(1), Tian X(1), Zhao X(4),
+Zhu Y(4), Wang S(5), Zhang C(6), Ge J(1), Wang X(1), Wen H(1), Bai C(1), Sun
+Y(1), Song L(1), Zhang Y(1), Hui R(1), Cai J(7), Chen J(8).
+
+Author information: 
+(1)State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National
+Center for Cardiovascular Diseases, Chinese Academy of Medical Sciences and
+Peking Union Medical College, Beijing, 100037, China.
+(2)Department of Interventional Neuroradiology, Beijing Neurosurgical Institute
+and Beijing Tiantan Hospital, Capital Medical University, Beijing, 100050, China.
+(3)Department of Cardiology, Cangzhou Central Hospital, Cangzhou, 061000, China.
+(4)Department of Biomedical Engineering, School of Medicine, Tsinghua University,
+Beijing, 100084, China.
+(5)Chinese PLA General Hospital and Chinese PLA Medical College, Beijing, 100853,
+China.
+(6)Novogene Bioinformatics Institute, Beijing, 100083, China.
+(7)Hypertension Center, Fuwai Hospital, State Key Laboratory of Cardiovascular
+Disease of China, National Center for Cardiovascular Diseases of China, Chinese
+Academy of Medical Sciences and Peking Union Medical College, Beijing, 100037,
+China.
+(8)State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National
+Center for Cardiovascular Diseases, Chinese Academy of Medical Sciences and
+Peking Union Medical College, Beijing, 100037, China. chendragon1976@aliyun.com.
+
+Unruptured intracranial aneurysm (UIA) is a life-threatening cerebrovascular
+condition. Whether changes in gut microbial composition participate in the
+development of UIAs remains largely unknown. We perform a case-control
+metagenome-wide association study in two cohorts of Chinese UIA patients and
+control individuals and mice that receive fecal transplants from human donors.
+After fecal transplantation, the UIA microbiota is sufficient to induce UIAs in
+mice. We identify UIA-associated gut microbial species link to changes in
+circulating taurine. Specifically, the abundance of Hungatella hathewayi is
+markedly decreased and positively correlated with the circulating taurine
+concentration in both humans and mice. Consistently, gavage with H. hathewayi
+normalizes the taurine levels in serum and protects mice against the formation
+and rupture of intracranial aneurysms. Taurine supplementation also reverses the 
+progression of intracranial aneurysms. Our findings provide insights into a
+potential role of H. hathewayi-associated taurine depletion as a key factor in
+the pathogenesis of UIAs.
+
+DOI: 10.1038/s41467-020-16990-3 
+PMCID: PMC7316982
+PMID: 32587239  [Indexed for MEDLINE]
+

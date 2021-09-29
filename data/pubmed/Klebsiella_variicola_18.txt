@@ -1,0 +1,33 @@
+
+1. Nat Microbiol. 2019 Dec;4(12):2039-2043. doi: 10.1038/s41564-019-0566-7. Epub
+2019 Sep 30.
+
+A conjugative plasmid that augments virulence in Klebsiella pneumoniae.
+
+Yang X(1), Wai-Chi Chan E(1), Zhang R(2), Chen S(3)(4).
+
+Author information: 
+(1)State Key Laboratory of Chemical Biology and Drug Discovery, Department of
+Applied Biology and Chemical Technology, The Hong Kong Polytechnic University,
+Hung Hom, Hong Kong.
+(2)Department of Clinical Laboratory Medicine, Second Affiliated Hospital of
+Zhejiang University, Hangzhou, China.
+(3)State Key Laboratory of Chemical Biology and Drug Discovery, Department of
+Applied Biology and Chemical Technology, The Hong Kong Polytechnic University,
+Hung Hom, Hong Kong. shechen@cityu.edu.hk.
+(4)Department of Infectious Diseases and Public Health, Jockey Club College of
+Veterinary Medicine and Life Sciences, City University of Hong Kong, Kowloon,
+Hong Kong. shechen@cityu.edu.hk.
+
+A virulence-encoding plasmid, p15WZ-82_Vir, which formed as a result of the
+integration of a 100-kb fragment of the hypervirulence plasmid pLVPK into a
+conjugative IncFIB plasmid, was recovered from a clinical Klebsiella variicola
+strain. Such a plasmid could be conjugated to carbapenem-resistant Klebsiella
+strains, enabling them to simultaneously express the carbapenem resistance- and
+hypervirulence-associated phenotypes. Unlike the non-conjugative pLVPK plasmid,
+emergence of p15WZ-82_Vir may promote rapid dissemination of virulence-encoding
+elements among Gram-negative bacterial pathogens.
+
+DOI: 10.1038/s41564-019-0566-7 
+PMID: 31570866  [Indexed for MEDLINE]
+

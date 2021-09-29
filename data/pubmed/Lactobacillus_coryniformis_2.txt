@@ -1,0 +1,67 @@
+
+1. Int J Syst Evol Microbiol. 2020 Apr;70(4):2467-2484. doi: 10.1099/ijsem.0.004060.
+Epub 2020 Feb 26.
+
+Lactobacillus hegangensis sp. nov., Lactobacillus suibinensis sp. nov.,
+Lactobacillus daqingensis sp. nov., Lactobacillus yichunensis sp. nov.,
+Lactobacillus mulanensis sp. nov., Lactobacillus achengensis sp. nov.,
+Lactobacillus wuchangensis sp. nov., Lactobacillus gannanensis sp. nov.,
+Lactobacillus binensis sp. nov. and Lactobacillus angrenensis sp. nov., isolated 
+from Chinese traditional pickle and yogurt.
+
+Long GY(1), Wei YX(1), Tu W(1), Gu CT.
+
+Author information: 
+(1)College of Life Sciences, Northeast Agricultural University, Harbin 150030, PR
+China.
+
+Fourteen Gram-stain-positive bacterial strains were isolated from Chinese
+traditional pickle and yogurt. The strains were characterized using a polyphasic 
+taxonomic approach, including 16S rRNA gene sequence analysis, pheS gene sequence
+analysis, rpoA gene sequence analysis, fatty acid methyl ester analysis,
+determination of DNA G+C content, determination of average nucleotide identity
+(ANI), in silico DNA-DNA hybridization (isDDH) and an analysis of phenotypic
+features. The data demonstrated that the 14 strains represented ten novel species
+belonging to the genus Lactobacillus, strains 73-4T, 247-3T, 143-4(a)T, 33-1T,
+143-6T, 247-4T, 17-4T, 143-1T, 735-2T and M1530-1T were designated as the type
+strains. Strains 73-4T and 247-3T were phylogenetically related to the type
+strains of Lactobacillus camelliae and Lactobacillus jixianensis, having
+97.0-98.9 % 16S rRNA gene sequence similarities, 83.9-87.2 % pheS gene sequence
+similarities and 86.8-93.3 % rpoA gene sequence similarities. Strains 143-4(a)T
+and 33-1T were phylogenetically related to the type strains of Lactobacillus
+rhamnosus, Lactobacillus paracasei and Lactobacillus casei, having 93.6-96.5 %
+16S rRNA gene sequence similarities, 73.9-77.2 % pheS gene sequence similarities 
+and 76.1-77.6 % rpoA gene sequence similarities. Strains 143-6T, 247-4T, 17-4T
+and 143-1T were phylogenetically related to the type strains of Lactobacillus
+concavus, Lactobacillus dextrinicus and Lactobacillus bayanensis, exhibiting
+95.5-99.9 % 16S rRNA gene sequence similarities, 76.5-83.1 % pheS gene sequence
+similarities and 83.6-98.3 % rpoA gene sequence similarities. Strain 735-2T was
+phylogenetically related to the type strains of Lactobacillus zhaoyuanensis,
+Lactobacillus jiayinensis and Lactobacillus coryniformis, having 98.2-99.1 % 16S 
+rRNA gene sequence similarities, 82.8-84.1 % pheS gene sequence similarities and 
+93.0-93.9 % rpoA gene sequence similarities. Strain M1530-1T was phylogenetically
+related to the type strains of Lactobacillus suantsaiihabitans and Lactobacillus 
+brevis, having 99.5 and 99.0 % 16S rRNA gene sequence similarities, 90.3 and
+81.7 % pheS gene sequence similarities and 97.7 and 91.1 % rpoA gene sequence
+similarities. The ANI and isDDH values between strains 73-4T, 247-3T, 143-4(a)T, 
+33-1T, 143-6T, 247-4T, 17-4T, 143-1T, 735-2T, M1530-1T and type strains of
+phylogenetically related species were less than 86.8 % and 33.9 % respectively,
+confirming that they represent ten novel species within the genus Lactobacillus. 
+Based upon the data of polyphasic characterization obtained in the present study,
+ten novel species, Lactobacillus hegangensis sp. nov., Lactobacillus suibinensis 
+sp. nov., Lactobacillus daqingensis sp. nov., Lactobacillus yichunensis sp. nov.,
+Lactobacillus mulanensis sp. nov., Lactobacillus achengensis sp. nov.,
+Lactobacillus wuchangensis sp. nov., Lactobacillus gannanensis sp. nov.,
+Lactobacillus binensis sp. nov. and Lactobacillus angrenensis sp. nov., are
+proposed and the type strains are 73-4T (=NCIMB 15177T=CCM 8912T=CCTCC AB
+2018407T), 247-3T (=NCIMB 15176T=JCM 33275T), 143-4(a)T (=NCIMB 15173T=CCM
+8948T=JCM 33273T=CCTCC AB 2018390T), 33-1T (=NCIMB 15169T=CCM 8947T=JCM
+33272T=CCTCC AB 2018405T), 143-6T (=NCIMB 15162T=CCM 8951T=JCM 33274T=CCTCC AB
+2018411T), 247-4T (=NCIMB 15155T=CCM 8897T=LMG 31059T=CCTCC AB 2018410T), 17-4T
+(=NCIMB 15161T=CCM 8946T=JCM 33271T=CCTCC AB 2018406T), 143-1T (=NCIMB 15157T=CCM
+8937T=CCTCC AB 2018409T), 735-2T (=NCIMB 15190T=CCM 8925T=LMG 31186T) and
+M1530-1T (=NCIMB 15150T=CCM 8893T=LMG 31046T=CCTCC AB 2018402T), respectively.
+
+DOI: 10.1099/ijsem.0.004060 
+PMID: 32101512  [Indexed for MEDLINE]
+

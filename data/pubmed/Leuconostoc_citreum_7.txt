@@ -1,0 +1,49 @@
+
+1. J Biol Chem. 2020 Jul 10;295(28):9474-9489. doi: 10.1074/jbc.RA120.013028. Epub
+2020 May 14.
+
+A specific oligosaccharide-binding site in the alternansucrase catalytic domain
+mediates alternan elongation.
+
+Molina M(1), Moulis C(1), Monties N(1), Guieysse D(1), Morel S(1), Cioci G(2),
+Remaud-Siméon M(2).
+
+Author information: 
+(1)Toulouse Biotechnology Institute (TBI), Université de Toulouse, CNRS, INRAE,
+INSA, Toulouse, France.
+(2)Toulouse Biotechnology Institute (TBI), Université de Toulouse, CNRS, INRAE,
+INSA, Toulouse, France remaud@insa-toulouse.fr cioci@insa-toulouse.fr.
+
+Microbial α-glucans produced by GH70 (glycoside hydrolase family 70)
+glucansucrases are gaining importance because of the mild conditions for their
+synthesis from sucrose, their biodegradability, and their current and anticipated
+applications that largely depend on their molar mass. Focusing on the
+alternansucrase (ASR) from Leuconostoc citreum NRRL B-1355, a well-known
+glucansucrase catalyzing the synthesis of both high- and low-molar-mass
+alternans, we searched for structural traits in ASR that could be involved in the
+control of alternan elongation. The resolution of five crystal structures of a
+truncated ASR version (ASRΔ2) in complex with different gluco-oligosaccharides
+pinpointed key residues in binding sites located in the A and V domains of ASR.
+Biochemical characterization of three single mutants and three double mutants
+targeting the sugar-binding pockets identified in domain V revealed an
+involvement of this domain in alternan binding and elongation. More strikingly,
+we found an oligosaccharide-binding site at the surface of domain A, distant from
+the catalytic site and not previously identified in other glucansucrases. We
+named this site surface-binding site (SBS) A1. Among the residues lining the
+SBS-A1 site, two (Gln700 and Tyr717) promoted alternan elongation. Their
+substitution to alanine decreased high-molar-mass alternan yield by a third,
+without significantly impacting enzyme stability or specificity. We propose that 
+the SBS-A1 site is unique to alternansucrase and appears to be designed to bind
+alternating structures, acting as a mediator between the catalytic site and the
+sugar-binding pockets of domain V and contributing to a processive elongation of 
+alternan chains.
+
+© 2020 Molina et al.
+
+DOI: 10.1074/jbc.RA120.013028 
+PMCID: PMC7363119 [Available on 2021-07-10]
+PMID: 32409580 
+
+Conflict of interest statement: Conflict of interest—The authors declare that
+they have no conflicts of interest with the contents of this article.
+

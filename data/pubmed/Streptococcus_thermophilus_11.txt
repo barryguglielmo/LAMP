@@ -1,0 +1,43 @@
+
+1. J Dairy Sci. 2020 Sep 4. pii: S0022-0302(20)30668-8. doi: 10.3168/jds.2020-18672.
+[Epub ahead of print]
+
+Short communication: Genome-wide identification of new reference genes for
+reverse-transcription quantitative PCR in Streptococcus thermophilus based on
+RNA-sequencing analysis.
+
+Xiong ZQ(1), Fan YZ(1), Song X(1), Xia YJ(1), Zhang H(1), Ai LZ(2).
+
+Author information: 
+(1)Shanghai Engineering Research Center of Food Microbiology, School of Medical
+Instrument and Food Engineering, University of Shanghai for Science and
+Technology, Shanghai 200093, China.
+(2)Shanghai Engineering Research Center of Food Microbiology, School of Medical
+Instrument and Food Engineering, University of Shanghai for Science and
+Technology, Shanghai 200093, China. Electronic address: ailianzhong1@126.com.
+
+Streptococcus thermophilus, one of the most important industrial lactic acid
+bacteria, is widely used for the production of fermented dairy products such as
+yogurt and cheese. The accuracy of gene expression-based analyses (e.g.,
+reverse-transcription quantitative real-time PCR) relies heavily on the selection
+of reliable reference genes (RG), which provides the basis for correctly
+interpreting expression data. However, many traditional RG are not stably
+expressed in different systems. Here we used RNA-sequencing to systematically
+investigate gene expression variation at the genome scale and identify more
+stable RG in S. thermophilus. In total, 21 putative candidate RG were identified 
+with variation coefficient values <10.0 based on the expression of all 1,911
+genes under 4 different experimental conditions. We selected and validated 12 RG 
+chosen from transcriptomes by using reverse-transcription quantitative real-time 
+PCR, and ranked their expression stability by statistical algorithms geNorm and
+NormFinder. Compared with traditional RG 16S rRNA, genes encoding glycine-tRNA
+ligase subunit β GlyS and fatty acid-binding protein DegV were more stable under 
+all 4 treatments, which have never been used as RG in S. thermophilus. Our
+finding provides the foundation for more precise analysis of gene expression in
+S. thermophilus and other lactic acid bacteria species.
+
+Copyright © 2020 American Dairy Science Association. Published by Elsevier Inc.
+All rights reserved.
+
+DOI: 10.3168/jds.2020-18672 
+PMID: 32896392 
+

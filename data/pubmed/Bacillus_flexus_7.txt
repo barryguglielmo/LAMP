@@ -1,0 +1,41 @@
+
+1. Water Environ Res. 2020 Apr;92(4):569-578. doi: 10.1002/wer.1246. Epub 2019 Oct
+11.
+
+Response surface methodology mediated optimization of Indanthrene Blue RS by a
+novel isolated bacterial strain Bacillus flexus TS8.
+
+Mohanty SS(1), Kumar A(1).
+
+Author information: 
+(1)Department of Chemical Engineering, National Institute of Technology Rourkela,
+Rourkela, Odisha, India.
+
+The enhanced decolorization and detoxification of Indanthrene Blue RS dye, under 
+aerobic conditions, by a novel isolated anthraquinone-degrading bacterium,
+Bacillus flexus TS8, has been presented in this paper. The optimal decolorization
+conditions were determined by response surface methodology based on Box-Behnken
+design. The results indicated that the strain TS8 possessed the highest
+decolorization efficacy at pH 10.26, temperature 30.97 ºC and an inoculum size of
+10.48% (v/v). It also revealed that about 98.01% of 100 mg/L of Indanthrene Blue 
+RS could be decolorized within 24 hr under these optimized conditions. The
+subsequent degradation of the dye and the formation of metabolites were studied
+using analytical techniques such as UV-Vis spectroscopy, FTIR, and ESI/LC-MS
+analysis. The UV-Vis analysis of the colorless bacterial cells demonstrated that 
+Bacillus sp. TS8 possessed this decolorizing activity through biodegradation. The
+degraded products obtained from ESI/LC-MS analysis were identified as
+1-hydroxyanthracene-9, 10-dione (m/z-224), 1, 4-di-hydroxyanthracene-9, 10-dione 
+(m/z-240), and phthalic acid (m/z-168). This study investigated the highest
+decolorization efficacy of strain TS8 to be utilized in the biological treatment 
+of wastewaters containing anthraquinone dyes. PRACTITIONER POINTS: Enhanced
+decolorization of anthraquinone dye wastewater. Ninety-eight percentage of dye
+decolorization was obtained within 24 hr. Optimization of process parameters
+through the response surface methodology. ESI/LC-MS analysis identified phthalic 
+acid as the end product of Indanthrene Blue RS degradation. Degradation pathway
+for Indanthrene Blue RS is outlined.
+
+© 2019 Water Environment Federation.
+
+DOI: 10.1002/wer.1246 
+PMID: 31556198  [Indexed for MEDLINE]
+

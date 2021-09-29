@@ -1,0 +1,64 @@
+
+1. EBioMedicine. 2020 May;55:102766. doi: 10.1016/j.ebiom.2020.102766. Epub 2020 May
+11.
+
+A dysregulated bile acid-gut microbiota axis contributes to obesity
+susceptibility.
+
+Wei M(1), Huang F(1), Zhao L(2), Zhang Y(1), Yang W(2), Wang S(1), Li M(1), Han
+X(1), Ge K(1), Qu C(1), Rajani C(3), Xie G(4), Zheng X(1), Zhao A(1), Bian Z(5), 
+Jia W(6).
+
+Author information: 
+(1)Shanghai Key Laboratory of Diabetes Mellitus and Centre for Translational
+Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital,
+Shanghai, 200233, China.
+(2)School of Chinese Medicine, Hong Kong Baptist University, Hong Kong SAR,
+China.
+(3)University of Hawaii Cancer Centre, 701 Ilalo st, Honolulu, HI 96813, USA.
+(4)Shanghai Key Laboratory of Diabetes Mellitus and Centre for Translational
+Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital,
+Shanghai, 200233, China; University of Hawaii Cancer Centre, 701 Ilalo st,
+Honolulu, HI 96813, USA.
+(5)School of Chinese Medicine, Hong Kong Baptist University, Hong Kong SAR,
+China. Electronic address: bzxiang@hkbu.edu.hk.
+(6)Shanghai Key Laboratory of Diabetes Mellitus and Centre for Translational
+Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital,
+Shanghai, 200233, China; University of Hawaii Cancer Centre, 701 Ilalo st,
+Honolulu, HI 96813, USA; School of Chinese Medicine, Hong Kong Baptist
+University, Hong Kong SAR, China. Electronic address: wjia@cc.hawaii.edu.
+
+BACKGROUND: The composition of the bile acid (BA) pool is closely associated with
+obesity and is modified by gut microbiota. Perturbations of gut microbiota shape 
+the BA composition, which, in turn, may alter important BA signaling and affect
+host metabolism.
+METHODS: We investigated BA composition of high BMI subjects from a human cohort 
+study and a high fat diet (HFD) obesity prone (HF-OP) / HFD obesity resistant
+(HF-OR) mice model. Gut microbiota was analysed by metagenomics sequencing. GLP-1
+secretion and gene regulation studies involved ELISA, qPCR, Western blot,
+Immunohistochemistry, and Immunofluorescence staining.
+FINDINGS: We found that the proportion of non-12-OH BAs was significantly
+decreased in the unhealthy high BMI subjects. The HF-OR mice had an enhanced
+level of non-12-OH BAs. Non-12-OH BAs including ursodeoxycholate (UDCA),
+chenodeoxycholate (CDCA), and lithocholate (LCA) were decreased in the HF-OP mice
+and associated with altered gut microbiota. Clostridium scindens was decreased in
+HF-OP mice and had a positive correlation with UDCA and LCA. Gavage of
+Clostridium scindens in mice increased the levels of hepatic non-12-OH BAs,
+accompanied by elevated serum 7α-hydroxy-4-cholesten-3-one (C4) levels. In HF-OP 
+mice, altered BA composition was associated with significantly downregulated
+expression of GLP-1 in ileum and PGC1α, UCP1 in brown adipose tissue. In
+addition, we identified that UDCA attenuated the high fat diet-induced obesity
+via enhancing levels of non-12-OH BAs.
+INTERPRETATION: Our study highlights that dysregulated BA signaling mediated by
+gut microbiota contributes to obesity susceptibility, suggesting modulation of
+BAs could be a promising strategy for obesity therapy.
+
+Copyright © 2020 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ebiom.2020.102766 
+PMCID: PMC7225614
+PMID: 32408110 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no conflicts of interests.
+

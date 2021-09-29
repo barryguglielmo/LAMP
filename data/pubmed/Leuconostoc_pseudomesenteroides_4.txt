@@ -1,0 +1,36 @@
+
+1. Insects. 2020 Jul 25;11(8). pii: E471. doi: 10.3390/insects11080471.
+
+The Gram-Positive Bacterium Leuconostoc pseudomesenteroides Shows Insecticidal
+Activity against Drosophilid and Aphid Pests.
+
+Hiebert N(1), Kessel T(2), Skaljac M(1), Spohn M(1), Vilcinskas A(1)(2), Lee
+KZ(1).
+
+Author information: 
+(1)Fraunhofer Institute for Molecular Biology and Applied Ecology, Ohlebergsweg
+12, D-35394 Giessen, Germany.
+(2)Institute for Insect Biotechnology, Justus-Liebig University of Giessen,
+Heinrich-Buff-Ring 26, D-35392 Giessen, Germany.
+
+Insect pests reduce global crop yields by up to 20%, but the most effective
+control measures are currently based on environmentally hazardous chemical
+pesticides. An alternative, ecologically beneficial pest-management strategy
+involves the use of microbial pathogens (or active compounds and extracts derived
+from them) that naturally target selected insect pests. A novel strain of the
+bacterium Leuconostoc pseudomesenteroides showed promising activity in our
+preliminary tests. Here, we investigated its effects in more detail, focusing on 
+drosophilid and aphid pests by testing the survival of two species representing
+the family Drosophilidae (Drosophila suzukii and D. melanogaster) and one
+representing the family Aphididae (Acyrthosiphon pisum). We used oral and septic 
+infection models to administer living bacteria or cell-free extracts to adult
+flies and aphid nymphs. We found that infection with living bacteria
+significantly reduced the survival of our insect models, whereas the
+administration of cell-free extracts had a significant effect only in aphids.
+These results confirm that L. pseudomesenteroides has potential as a new
+biocontrol agent for sustainable pest management.
+
+DOI: 10.3390/insects11080471 
+PMCID: PMC7469177
+PMID: 32722463 
+

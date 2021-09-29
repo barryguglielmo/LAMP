@@ -1,0 +1,48 @@
+
+1. Foods. 2020 Sep 5;9(9). pii: E1242. doi: 10.3390/foods9091242.
+
+A Novel Weissella cibaria Strain UTNGt21O Isolated from Wild Solanum quitoense
+Fruit: Genome Sequence and Characterization of a Peptide with Highly Inhibitory
+Potential toward Gram-Negative Bacteria.
+
+Tenea GN(1), Hurtado P(1), Ortega C(1).
+
+Author information: 
+(1)Biofood and Nutraceutics Research and Development Group, Faculty of
+Engineering in Agricultural and Environmental Sciences, Technical University of
+the North, Av. 17 de Julio s-21 Barrio El Olivo, 100150 Ibarra, Ecuador.
+
+A novel Weissella cibaria strain UTNGt21O from the fruit of the Solanum quitoense
+(naranjilla) shrub produces a peptide that inhibits the growth of both Salmonella
+enterica subsp. enterica ATCC51741 and Escherichia coli ATCC25922 at different
+stages. A total of 31 contigs were assembled, with a total length of 1,924,087
+bases, 20 contig hits match the core genome of different groups within Weissella,
+while for 11 contigs no match was found in the database. The GT content was
+39.53% and the genome repeats sequences constitute around 186,760 bases of the
+assembly. The UTNGt21O matches the W. cibaria genome with 83% identity and no
+gaps (0). The sequencing data were deposited in the NCBI Database (BioProject
+accessions: PRJNA639289). The antibacterial activity and interaction mechanism of
+the peptide UTNGt21O on target bacteria were investigated by analyzing the
+growth, integrity, and morphology of the bacterial cells following treatment with
+different concentrations (1×, 1.5× and 2× MIC) of the peptide applied alone or in
+combination with chelating agent ethylenediaminetetraacetic acid (EDTA) at 20 mM.
+The results indicated a bacteriolytic effect at both early and late target growth
+at 3 h of incubation and total cell death at 6 h when EDTA was co-inoculated with
+the peptide. Based on BAGEL 4 (Bacteriocin Genome Mining Tool) a putative
+bacteriocin having 33.4% sequence similarity to enterolysin A was detected within
+the contig 12. The interaction between the peptide UTNGt21O and the target
+strains caused permeability in a dose-, time- response manner, with Salmonella
+(3200 AU/mL) more susceptible than E. coli (6400 AU/mL). The results indicated
+that UTNGt21O may damage the integrity of the cell target, leading to release of 
+cytoplasmic components followed by cell death. Differences in membrane shape
+changes in target cells treated with different doses of peptide were observed by 
+transmission electronic microscopy (TEM). Spheroplasts with spherical shapes were
+detected in Salmonella while larger shaped spheroplasts with thicker and deformed
+membranes along with filamentous cells were observed in E. coli upon the
+treatment with the UTNGt21O peptide. These results indicate the promising
+potential of the putative bacteriocin released by the novel W. cibaria strain
+UTNGt21O to be further tested as a new antimicrobial substance.
+
+DOI: 10.3390/foods9091242 
+PMID: 32899506 
+

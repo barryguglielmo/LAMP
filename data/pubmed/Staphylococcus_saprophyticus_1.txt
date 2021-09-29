@@ -1,0 +1,47 @@
+
+1. Front Microbiol. 2020 Aug 25;11:2061. doi: 10.3389/fmicb.2020.02061. eCollection 
+2020.
+
+The Genome of Staphylococcus epidermidis O47.
+
+Raue S(1)(2), Fan SH(2), Rosenstein R(3), Zabel S(1), Luqman A(2)(4), Nieselt
+K(1), Götz F(2).
+
+Author information: 
+(1)Institute for Bioinformatics and Medical Informatics, University of Tübingen, 
+Tübingen, Germany.
+(2)Microbial Genetics, Interfaculty Institute of Microbiology and Infection
+Medicine Tübingen (IMIT), University of Tübingen, Tübingen, Germany.
+(3)Infection Biology, Interfaculty Institute for Microbiology and Infection
+Medicine Tübingen (IMIT), University of Tübingen, Tübingen, Germany.
+(4)Biology Department, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia.
+
+The skin colonizing coagulase-negative Staphylococcus epidermidis causes
+nosocomial infections and is an important opportunistic and highly adaptable
+pathogen. To gain more insight into this species, we sequenced the genome of the 
+biofilm positive, methicillin susceptible S. epidermidis O47 strain (hereafter
+O47). This strain belongs to the most frequently isolated sequence type 2. In
+comparison to the RP62A strain, O47 can be transformed, which makes it a
+preferred strain for molecular studies. S. epidermidis O47's genome has a single 
+chromosome of about 2.5 million base pairs and no plasmid. Its oriC sequence has 
+the same directionality as S. epidermidis RP62A, S. carnosus, S. haemolyticus, S.
+saprophyticus and is inverted in comparison to Staphylococcus aureus and S.
+epidermidis ATCC 12228. A phylogenetic analysis based on all S. epidermidis
+genomes currently available at GenBank revealed that O47 is closest related to
+DAR1907. The genome of O47 contains genes for the typical global regulatory
+systems known in staphylococci. In addition, it contains most of the genes
+encoding for the typical virulence factors for S. epidermidis but not for S.
+aureus with the exception of a putative hemolysin III. O47 has the typical S.
+epidermidis genetic islands and several mobile genetic elements, which include
+staphylococcal cassette chromosome (SCC) of about 54 kb length and two prophages 
+φO47A and φO47B. However, its genome has no transposons and the smallest number
+of insertion sequence (IS) elements compared to the other known S. epidermidis
+genomes. By sequencing and analyzing the genome of O47, we provide the basis for 
+its utilization in genetic and molecular studies of biofilm formation.
+
+Copyright © 2020 Raue, Fan, Rosenstein, Zabel, Luqman, Nieselt and Götz.
+
+DOI: 10.3389/fmicb.2020.02061 
+PMCID: PMC7477909
+PMID: 32983045 
+

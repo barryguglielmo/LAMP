@@ -1,0 +1,39 @@
+
+1. Proteomics. 2020 Aug 21:e2000117. doi: 10.1002/pmic.202000117. [Epub ahead of
+print]
+
+Comparative Proteomic Analysis Reveals Complex Responses to Bordetella
+bronchiseptica Infections in the Spleen of Rabbits.
+
+Xiao C(1), Huang Y(1), Wei Q(1), Liu Y(1), Ji Q(1), Li K(1), Bao G(1).
+
+Author information: 
+(1)Institute of Animal Husbandry and Veterinary Science, Zhejiang Academy of
+Agricultural Sciences, Shiqiao Road 145#, Hangzhou, 310021, China.
+
+Bordetella bronchiseptica (B. bronchiseptica) causes a respiratory disease in
+rabbits. To determine the proteins of B. bronchiseptica in rabbits related to the
+disease, differentially accumulated proteins in B. bronchiseptica-infected cells 
+are identified by comparative proteomic analysis. Comparative proteomic analysis 
+detects 5814 proteins and quantifies 4854 of these. Fifty eight upregulated and
+38 downregulated proteins are identified in spleen tissue after B. bronchiseptica
+infection of rabbits (both p < 0.05). The significantly enriched Kyoto
+Encyclopedia of Genes and Genomes (KEGG) pathways are ribosome, biosynthesis of
+amino acids, biosynthesis of amino acids, protein export, and carbon metabolism
+etc. (all p < 0.01). Significantly enriched KEGG pathways include 'ocu03010
+ribosome' (a); 'ocu00260 glycine, serine threonine metabolism'. Analyses of
+control and infected spleen cells detect responses to B. bronchiseptica
+infection. Many differentially affected proteins are evident, and reflect
+different biological changes and diverse subcellular localizations between
+control and infected spleen cells. Infection markedly alters the expressions of
+proteins linked to the serine protease system, with the 'phagosome,'
+'biosynthesis of amino acids,' 'glycine, serine threonine metabolism,'
+'intestinal immune network for IgA production', and 'amino sugar and nucleotide
+sugar metabolism' associated with B. bronchiseptica infection. The result will
+inform studies of responses to B. bronchiseptica infections in rabbits.
+
+© 2020 Wiley-VCH GmbH.
+
+DOI: 10.1002/pmic.202000117 
+PMID: 32820866 
+

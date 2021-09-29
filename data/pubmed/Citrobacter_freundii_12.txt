@@ -1,0 +1,85 @@
+
+1. mSphere. 2020 Aug 19;5(4). pii: e00525-20. doi: 10.1128/mSphere.00525-20.
+
+Tracking of Antibiotic Resistance Transfer and Rapid Plasmid Evolution in a
+Hospital Setting by Nanopore Sequencing.
+
+Peter S(1)(2), Bosio M(#)(3)(4), Gross C(#)(5), Bezdan D(3), Gutierrez J(6),
+Oberhettinger P(7)(2), Liese J(7)(2), Vogel W(8), Dörfel D(8)(9), Berger L(5),
+Marschal M(7)(2), Willmann M(7)(2), Gut I(6)(10), Gut M(6)(10), Autenrieth
+I(7)(2), Ossowski S(11)(5)(10).
+
+Author information: 
+(1)Institute of Medical Microbiology and Hygiene, University of Tübingen,
+Tübingen, Germany silke.peter@med.uni-tuebingen.de
+stephan.ossowski@med.uni-tuebingen.de.
+(2)German Center for Infection Research (DZIF), Partner Site Tübingen, Tübingen, 
+Germany.
+(3)Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and
+Technology, Barcelona, Spain.
+(4)Barcelona Supercomputing Center, BSC, Barcelona, Spain.
+(5)Institute of Medical Genetics and Applied Genomics, University of Tübingen,
+Tübingen, Germany.
+(6)CNAG-CRG, Centre for Genomic Regulation (CRG), Barcelona Institute of Science 
+and Technology (BIST), Barcelona, Spain.
+(7)Institute of Medical Microbiology and Hygiene, University of Tübingen,
+Tübingen, Germany.
+(8)Medical Center, Department of Hematology, Oncology, Immunology, Rheumatology &
+Pulmonology, University of Tübingen, Tübingen, Germany.
+(9)Clinical Collaboration Unit Translational Immunology, German Cancer Consortium
+(DKTK) and German Cancer Research Center (DKFZ), Partner Site Tübingen, Tübingen,
+Germany.
+(10)Universitat Pompeu Fabra (UPF), Barcelona, Spain.
+(11)Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and
+Technology, Barcelona, Spain silke.peter@med.uni-tuebingen.de
+stephan.ossowski@med.uni-tuebingen.de.
+(#)Contributed equally
+
+Infections with multidrug-resistant bacteria often leave limited or no treatment 
+options. The transfer of antimicrobial resistance genes (ARG) carrying plasmids
+between bacterial species by horizontal gene transfer represents an important
+mode of expansion of ARGs. Here, we demonstrate the application of Nanopore
+sequencing in a hospital setting for monitoring transfer and rapid evolution of
+antibiotic resistance plasmids within and across multiple species. In 2009, we
+experienced an outbreak with extensively multidrug-resistant Pseudomonas
+aeruginosa harboring the carbapenemase-encoding bla IMP-8 gene. In 2012, the
+first Citrobacter freundii and Citrobacter cronae strains harboring the same gene
+were detected. Using Nanopore and Illumina sequencing, we conducted comparative
+analysis of all bla IMP-8 bacteria isolated in our hospital over a 6-year period 
+(n = 54). We developed the computational platform plasmIDent for Nanopore-based
+characterization of clinical isolates and monitoring of ARG transfer, comprising 
+de novo assembly of genomes and plasmids, plasmid circularization, ARG
+annotation, comparative genome analysis of multiple isolates, and visualization
+of results. Using plasmIDent, we identified a 40-kb plasmid carrying bla IMP-8 in
+P. aeruginosa and C. freundii, verifying the plasmid transfer. Within C.
+freundii, the plasmid underwent further evolution and plasmid fusion, resulting
+in a 164-kb megaplasmid, which was transferred to C. cronae Multiple
+rearrangements of the multidrug resistance gene cassette were detected in P.
+aeruginosa, including deletions and translocations of complete ARGs. In summary, 
+plasmid transfer, plasmid fusion, and rearrangement of the ARG cassette mediated 
+the rapid evolution of opportunistic pathogens in our hospital. We demonstrated
+the feasibility of near-real-time monitoring of plasmid evolution and ARG
+transfer in clinical settings, enabling successful countermeasures to contain
+plasmid-mediated outbreaks.IMPORTANCE Infections with multidrug-resistant
+bacteria represent a major threat to global health. While the spread of
+multidrug-resistant bacterial clones is frequently studied in the hospital
+setting, surveillance of the transfer of mobile genetic elements between
+different bacterial species was difficult until recent advances in sequencing
+technologies. Nanopore sequencing technology was applied to track antimicrobial
+gene transfer in a long-term outbreak of multidrug-resistant Pseudomonas
+aeruginosa, Citrobacter freundii, and Citrobacter cronae in a German hospital
+over 6 years. We developed a novel computational pipeline, pathoLogic, which
+enables de novo assembly of genomes and plasmids, antimicrobial resistance gene
+annotation and visualization, and comparative analysis. Applying this approach,
+we detected plasmid transfer between different bacterial species as well as
+plasmid fusion and frequent rearrangements of the antimicrobial resistance gene
+cassette. This study demonstrated the feasibility of near-real-time tracking of
+plasmid-based antimicrobial resistance gene transfer in hospitals, enabling
+countermeasures to contain plasmid-mediated outbreaks.
+
+Copyright © 2020 Peter et al.
+
+DOI: 10.1128/mSphere.00525-20 
+PMCID: PMC7440845
+PMID: 32817379 
+

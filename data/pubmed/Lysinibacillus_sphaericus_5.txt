@@ -1,0 +1,60 @@
+
+1. J Proteomics. 2020 Sep 15;227:103918. doi: 10.1016/j.jprot.2020.103918. Epub 2020
+Jul 24.
+
+Identification of Lysinibacillus sphaericus Binary toxin binding proteins in a
+malarial mosquito cell line by proteomics: A novel approach towards improving
+mosquito control.
+
+Riaz MA(1), Adang MJ(2), Hua G(3), Rezende TMT(4), Rezende AM(4), Shen GM(5).
+
+Author information: 
+(1)Department of Entomology, College of Agriculture, University of Sargodha,
+Sargodha 40100, Pakistan; Department of Entomology, University of Georgia,
+Athens, GA 30602-2603, United States.
+(2)Department of Entomology, University of Georgia, Athens, GA 30602-2603, United
+States; Department of Biochemistry and Molecular Biology, University of Georgia, 
+Athens, GA 30602-2603, United States. Electronic address: adang@uga.edu.
+(3)Department of Entomology, University of Georgia, Athens, GA 30602-2603, United
+States.
+(4)Department of Entomology, University of Georgia, Athens, GA 30602-2603, United
+States; Instituto Aggeu Magalhaes-FIOCRUZ, Recife, PE 50740-465, Brazil.
+(5)Department of Entomology, University of Georgia, Athens, GA 30602-2603, United
+States; College of Plant Protection, Southwest University, Chongqing, China.
+
+Bacterial insecticidal proteins, such as the Bin toxin from Lysinibacillus
+sphaericus, could be used more extensively to control insecticide resistant
+mosquitoes. This study was aimed at identification of mosquito cell proteins
+binding Bin toxin. Results showed that purified toxin was toxic to Anopheles
+gambiae larvae and Ag55 cultured cells. Clathrin heavy chain (an endocytosis
+protein) and glycolytic enzymes such as pyruvate kinase, enolase and
+dihydrolipoamide dehydrogenase were identified as binders of Bin toxin. The
+viability of Ag55 cells in the presence of endocytosis inhibitor, pitstop2, was
+significantly decreased upon Bin treatment, while the inhibitor chlorpromazine
+did not affect Bin toxicity. Bin toxin treatment decreased ATP production and
+mitochondrial respiration in Ag55 cells, whereas non-mitochondrial oxygen
+consumption significantly increased after Bin toxin treatment. These findings are
+steps towards understanding how Bin toxin kills mosquitoes. SIGNIFICANCE:
+Mosquitoes are vectors of pathogens causing human diseases such as dengue fever, 
+yellow fever, zika virus and malaria. An insecticidal toxin from Lysinibacillus
+sphaericus called Binary, or Bin, toxin could be used more extensively to control
+insecticide resistant mosquitoes. Bin toxin enter cells in susceptible mosquitoes
+and induces apoptosis or autophagy. In the current research, we used the malaria 
+mosquito Anopheles gambiae Ag55 cell line as a model. A proteomic-based approach 
+identified proteins that interact with Bin toxin. Interacting proteins include
+clathrin heavy chain (endocytosis protein) and glycolysis enzymes such as
+pyruvate kinase, enolase and dihydrolipoamide dehydrogenase. In Ag55 cell
+toxicity assays, an endocytosis inhibitor, pitstop2, increased Bin toxicity. Real
+time assays with a Seahorse™ flux analyzer showed that Bin significantly affects 
+mitochondrial respiration, a result consistent with cell death via apoptosis or
+autophagy. These research findings add insights into how an unusual binary
+protein exploits cellular machinery to kill mosquitoes.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jprot.2020.103918 
+PMID: 32712372 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare they have no conflict of interest.
+

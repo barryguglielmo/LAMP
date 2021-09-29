@@ -1,0 +1,40 @@
+
+1. Nat Commun. 2020 Jun 1;11(1):2730. doi: 10.1038/s41467-020-16512-1.
+
+AcrIF9 tethers non-sequence specific dsDNA to the CRISPR RNA-guided surveillance 
+complex.
+
+Hirschi M(1), Lu WT(2), Santiago-Frangos A(3), Wilkinson R(3), Golden SM(3),
+Davidson AR(4), Lander GC(5), Wiedenheft B(6).
+
+Author information: 
+(1)Department of Integrative Structural and Computational Biology, The Scripps
+Research Institute, 10550 North Torrey Pines Road, La Jolla, CA, 92121, USA.
+(2)Department of Molecular Genetics, and Department of Biochemistry, University
+of Toronto, 661 University Avenue, Room 1634, Toronto, ON, M5G 1M1, Canada.
+(3)Department of Microbiology and Immunology, Montana State University, 1156
+South 11th Avenue, Bozeman, MT, 59717, USA.
+(4)Department of Molecular Genetics, and Department of Biochemistry, University
+of Toronto, 661 University Avenue, Room 1634, Toronto, ON, M5G 1M1, Canada.
+Alan.davidson@utoronto.ca.
+(5)Department of Integrative Structural and Computational Biology, The Scripps
+Research Institute, 10550 North Torrey Pines Road, La Jolla, CA, 92121, USA.
+glander@scripps.edu.
+(6)Department of Microbiology and Immunology, Montana State University, 1156
+South 11th Avenue, Bozeman, MT, 59717, USA. bwiedenheft@gmail.com.
+
+Bacteria have evolved sophisticated adaptive immune systems, called CRISPR-Cas,
+that provide sequence-specific protection against phage infection. In turn,
+phages have evolved a broad spectrum of anti-CRISPRs that suppress these immune
+systems. Here we report structures of anti-CRISPR protein IF9 (AcrIF9) in complex
+with the type I-F CRISPR RNA-guided surveillance complex (Csy). In addition to
+sterically blocking the hybridization of complementary dsDNA to the CRISPR RNA,
+our results show that AcrIF9 binding also promotes non-sequence-specific
+engagement with dsDNA, potentially sequestering the complex from target DNA.
+These findings highlight the versatility of anti-CRISPR mechanisms utilized by
+phages to suppress CRISPR-mediated immune systems.
+
+DOI: 10.1038/s41467-020-16512-1 
+PMCID: PMC7264359
+PMID: 32483187  [Indexed for MEDLINE]
+

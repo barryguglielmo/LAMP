@@ -1,0 +1,49 @@
+
+1. PLoS One. 2020 Jul 28;15(7):e0236036. doi: 10.1371/journal.pone.0236036.
+eCollection 2020.
+
+Changes in the vaginal microbiota following antibiotic treatment for Mycoplasma
+genitalium, Chlamydia trachomatis and bacterial vaginosis.
+
+Ahrens P(1), Andersen LO(1), Lilje B(1), Johannesen TB(1), Dahl EG(1)(2)(3), Baig
+S(1), Jensen JS(1), Falk L(2)(3).
+
+Author information: 
+(1)Department of Bacteriology, Parasitology and Mycology, Statens Serum Institut,
+Copenhagen, Denmark.
+(2)Department of Dermatovenereology, Linköping University Hospital, Linköping,
+Sweden.
+(3)Department of Biomedical and Clinical Sciences, Linköping University,
+Linköping, Sweden.
+
+The human vagina harbor a rich microbiota. The optimal state is dominated by
+lactobacilli that help to maintain health and prevent various diseases. However, 
+the microbiota may rapidly change to a polymicrobial state that has been linked
+to a number of diseases. In the present study, the temporal changes of the
+vaginal microbiota in patients treated for sexually transmitted diseases or
+bacterial vaginosis (BV) and in untreated controls were studied for 26 days. The 
+patients included 52 women treated with azithromycin, tetracyclines or
+moxifloxacin for present or suspected infection with Chlamydia trachomatis or
+Mycoplasma genitalium. Women with concurrent BV were also treated with
+metronidazole. The controls were 10 healthy women of matching age. The microbiota
+was analyzed by 16S rRNA gene deep sequencing, specific qPCRs and microscopy.
+There was generally good correlation between Nugent score and community state
+type (CST) and qPCR confirmed the sequencing results. By sequencing, more than
+600 different taxa were found, but only 33 constituted more than 1 ‰ of the
+sequences. In both patients and controls the microbiota could be divided into
+three different community state types, CST-I, CST-III and CST-IV. Without
+metronidazole, the microbiota remained relatively stable regarding CST although
+changes were seen during menstrual periods. Administration of metronidazole
+changed the microbiota from CST-IV to CST-III in approximately 50% of the treated
+patients. In contrast, the CST was generally unaffected by azithromycin or
+tetracyclines. In 30% of the BV patients, Gardnerella vaginalis was not
+eradicated by metronidazole. The majority of women colonized with Ureaplasma
+parvum remained positive after azithromycin while U. urealyticum was eradicated.
+
+DOI: 10.1371/journal.pone.0236036 
+PMCID: PMC7386580
+PMID: 32722712  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

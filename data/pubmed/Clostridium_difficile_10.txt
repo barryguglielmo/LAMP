@@ -1,0 +1,47 @@
+
+1. J Clin Pharm Ther. 2020 Sep 27. doi: 10.1111/jcpt.13277. [Epub ahead of print]
+
+Short-course versus long-course antibiotic treatment in patients with
+uncomplicated gram-negative bacteremia: A systematic review and meta-analysis.
+
+Li X(1)(2), Liu C(1), Mao Z(2), Li Q(2), Qi S(1)(2), Zhou F(2).
+
+Author information: 
+(1)Medical School of Chinese PLA, Beijing, China.
+(2)Department of Critical Care Medicine, The First Medical Centre, Chinese PLA
+General Hospital, Beijing, China.
+
+WHAT IS KNOWN AND OBJECTIVE: Gram-negative bacteremia remains a major health
+problem around the world. The optimal duration of antibiotic treatment has been
+poorly defined, and there are significant differences of opinion between
+clinicians. We conducted this systematic review and meta-analysis to compare the 
+clinical outcomes of short-course and long-course treatments in patients with
+uncomplicated gram-negative bacteremia.
+METHODS: We searched public databases (PubMed, EMBASE and Cochrane Library) to
+identify eligible studies. The primary outcomes were all-cause mortality and the 
+incidence of recurrent bacteremia through day 30. We used the Cochrane risk of
+bias assessment tool to evaluate the risk of bias for randomized controlled
+trials (RCTs) and the Newcastle-Ottawa Scale for non-RCTs.
+RESULTS AND DISCUSSION: Six studies involving 2689 patients were included in the 
+systematic review and meta-analysis. No significant difference was found between 
+short-course and long-course antibiotic treatments in 30-day mortality (risk
+ratio [RR] 0.85; 95% confidence interval [CI] 0.65-1.13; P = .26), 30-day
+recurrent bacteremia (RR 1.07; 95% CI 0.68-1.67; P = .78), 90-day mortality (RR
+0.84; 95% CI 0.57-1.24; P = .38), 90-day recurrent bacteremia (RR 0.98; 95% CI
+0.50-1.89; P = .94), adverse events (RR 1.14; 95% CI 0.89-1.45; P = .30),
+Clostridium difficile infection (RR 0.86; 95% CI 0.40-1.86; P = .71) or
+resistance development (RR 1.19; 95% CI 0.66-2.14; P = .57).
+WHAT IS NEW AND CONCLUSION: Short-course was non-inferior to long-course
+antibiotic treatments for patients with uncomplicated gram-negative bacteremia.
+Considering the drug-related side effects and cost-effectiveness, a shorter
+duration of antibiotic treatment may be preferable for this particular
+population. However, additional high-quality RCTs are needed to further assess
+whether a shorter course of antibiotic treatment is of greater benefit for
+patients with uncomplicated gram-negative bacteremia.
+
+© 2020 The Authors. Journal of Clinical Pharmacy and Therapeutics published by
+John Wiley & Sons Ltd.
+
+DOI: 10.1111/jcpt.13277 
+PMID: 32981149 
+

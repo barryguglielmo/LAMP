@@ -1,0 +1,50 @@
+
+1. Microb Genom. 2020 Jan;6(1). doi: 10.1099/mgen.0.000303.
+
+Comparative genomic analysis identifies X-factor (haemin)-independent Haemophilus
+haemolyticus: a formal re-classification of 'Haemophilus intermedius'.
+
+Harris TM(1), Price EP(2)(1), Sarovich DS(2)(1), Nørskov-Lauritsen N(3),
+Beissbarth J(1), Chang AB(4)(1), Smith-Vaughan HC(5)(1).
+
+Author information: 
+(1)Child Health Division, Menzies School of Health Research, Darwin, NT,
+Australia.
+(2)GeneCology Research Centre, University of the Sunshine Coast, Sippy Downs,
+QLD, Australia.
+(3)Department of Clinical Microbiology, Aarhus University Hospital, Aarhus,
+Denmark.
+(4)Department of Respiratory and Sleep Medicine, Queensland Children's Hospital, 
+Brisbane, QLD, Australia.
+(5)School of Medicine, Griffith University, Gold Coast, QLD, Australia.
+
+The heterogeneous and highly recombinogenic genus Haemophilus comprises several
+species, some of which are pathogenic to humans. All share an absolute
+requirement for blood-derived factors during growth. Certain species, such as the
+pathogen Haemophilus influenzae and the commensal Haemophilus haemolyticus, are
+thought to require both haemin (X-factor) and nicotinamide adenine dinucleotide
+(NAD, V-factor), whereas others, such as the informally classified 'Haemophilus
+intermedius subsp. intermedius', and Haemophilus parainfluenzae, only require
+V-factor. These differing growth requirements are commonly used for species
+differentiation, although a number of studies are now revealing issues with this 
+approach. Here, we perform large-scale phylogenomics of 240 Haemophilus spp.
+genomes, including five 'H. intermedius' genomes generated in the current study, 
+to reveal that strains of the 'H. intermedius' group are in fact
+haemin-independent H. haemolyticus (hiHh). Closer examination of these hiHh
+strains revealed that they encode an intact haemin biosynthesis pathway, unlike
+haemin-dependent H. haemolyticus and H. influenzae, which lack most haemin
+biosynthesis genes. Our results suggest that the common ancestor of modern-day H.
+haemolyticus and H. influenzae lost key haemin biosynthesis loci, likely as a
+consequence of specialized adaptation to otorhinolaryngeal and respiratory niches
+during their divergence from H. parainfluenzae. Genetic similarity analysis
+demonstrated that the haemin biosynthesis loci acquired in the hiHh lineage were 
+likely laterally transferred from a H. parainfluenzae ancestor, and that this
+event probably occurred only once in hiHh. This study further challenges the
+validity of phenotypic methods for differentiating among Haemophilus species, and
+highlights the need for whole-genome sequencing for accurate characterization of 
+species within this taxonomically challenging genus.
+
+DOI: 10.1099/mgen.0.000303 
+PMCID: PMC7067038
+PMID: 31860436 
+

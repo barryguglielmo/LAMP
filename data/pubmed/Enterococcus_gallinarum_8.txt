@@ -1,0 +1,46 @@
+
+1. PLoS One. 2019 Oct 10;14(10):e0223890. doi: 10.1371/journal.pone.0223890.
+eCollection 2019.
+
+Vancomycin-resistance gene cluster, vanC, in the gut microbiome of acute leukemia
+patients undergoing intensive chemotherapy.
+
+Rashidi A(1), Zhu Z(2)(3), Kaiser T(2)(3), Manias DA(4), Holtan SG(1), Rehman
+TU(5), Weisdorf DJ(1), Khoruts A(3)(5), Dunny GM(4), Staley C(2)(3).
+
+Author information: 
+(1)Division of Hematology, Oncology, and Transplantation, Department of Medicine,
+University of Minnesota, Minneapolis, MN, United States of America.
+(2)Department of Surgery, University of Minnesota, Minneapolis, MN, United States
+of America.
+(3)BioTechnology Institute, University of Minnesota, St. Paul, MN, United States 
+of America.
+(4)Department of Microbiology and Immunology, University of Minnesota,
+Minneapolis, MN, United States of America.
+(5)Division of Gastroenterology, Hepatology, and Nutrition, Department of
+Medicine, University of Minnesota, Minneapolis, MN, United States of America.
+
+Two recent reports suggested that the less common, less virulent enterococcal
+species, Enterococcus gallinarum and E. casseliflavus, with low-level vancomycin 
+resistance due to chromosomally encoded vanC1 and vanC2/3, may influence host
+immunity. We reported that peri-transplant gut colonization with E. gallinarum
+and E. casseliflavus is associated with lower mortality after allogeneic
+hematopoietic cell transplantation (HCT). Because most acute leukemia patients
+undergoing HCT have received intensive chemotherapy (usually requiring prolonged 
+hospitalization) for their underlying disease before HCT, we hypothesized that
+some may have acquired vanC-positive enterococci during chemotherapy. Therefore, 
+we evaluated the presence of the vanC gene cluster using vanC1 and vanC2/3 qPCR
+in thrice-weekly collected stool samples from 20 acute leukemia patients
+undergoing intensive chemotherapy. We found that an unexpectedly large proportion
+of patients have detectable vanC1 and vanC2/3 (15% and 35%, respectively) in at
+least one stool sample. Comparing qPCR results with 16S rRNA gene sequencing
+results suggested that E. gallinarum may reach high abundances, potentially
+persisting into HCT and influencing transplant outcomes.
+
+DOI: 10.1371/journal.pone.0223890 
+PMCID: PMC6786763
+PMID: 31600332  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

@@ -1,0 +1,44 @@
+
+1. Mol Biotechnol. 2019 Nov;61(11):826-835. doi: 10.1007/s12033-019-00205-2.
+
+Molecular Cloning, Expression and Biochemical Characterization of a Family 5
+Glycoside Hydrolase First Endo-Mannanase (RfGH5_7) from Ruminococcus flavefaciens
+FD-1 v3.
+
+Goyal D(1), Kumar K(1), Centeno MSJ(2), Thakur A(1), Pires VMR(3), Bule P(2),
+Fontes CMGA(2)(3), Goyal A(4).
+
+Author information: 
+(1)Department of Biosciences and Bioengineering, Indian Institute of Technology
+Guwahati, Guwahati, Assam, 781039, India.
+(2)CIISA - Faculdade de Medicina Veterinária, Universidade de Lisboa, Avenida da 
+Universidade Técnica, 1300-477, Lisbon, Portugal.
+(3)NZYTech - Genes & Enzymes, Estrada do Paço do Lumiar, Campus do Lumiar,
+Edifício E - R/C, 1649-038, Lisbon, Portugal.
+(4)Department of Biosciences and Bioengineering, Indian Institute of Technology
+Guwahati, Guwahati, Assam, 781039, India. arungoyl@iitg.ernet.in.
+
+The cellulosomal enzyme, RfGH51/2, of Ruminococcus flavefaciens contains an
+N-terminal module, a family 5 glycoside hydrolase GH5_4 with a putative
+endoglucanase activity, while C-terminal domain is a putative endo-mannanase
+(GH5_7). The two putative catalytic modules are separated by family 80
+carbohydrate binding module (CBM80) having wide ligand specificity. The putative 
+endo-mannanase module, GH5_7 (RfGH5_7), was cloned, expressed in Escherichia coli
+BL-21(DE3) cells and purified. SDS-PAGE analysis of purified RfGH5_7 showed
+molecular size ~ 35 kDa. Substrate specificity analysis of RfGH5_7 showed maximum
+activity against locust bean galactomannan (298.5 U/mg) followed by konjac
+glucomannan (256.2 U/mg) and carob galactomannan (177.2 U/mg). RfGH5_7 showed
+maximum activity at optimum pH 6.0 and temperature 60 °C. RfGH5_7 displayed
+stability in between pH 6.0 and 9.0 and thermostability till 50 °C. 10 mM Ca2+
+ions increased the enzyme activity by 33%. The melting temperature of RfGH5_7 was
+84 °C that was not affected by Ca2+ ions or chelating agents. RfGH5_7 showed,
+Vmax, 389 U/mg and Km, 0.92 mg/mL for locust bean galactomannan. TLC analysis
+revealed that RfGH5_7 hydrolysed locust bean galactomannan predominantly to
+mannose, mannobiose, mannotriose and higher degree of polymerization of
+manno-oligosaccharides indicating an endo-acting catalytic mechanism. This study 
+revealed a highly active and thermostable endo-mannanase with considerable
+biotechnological potential.
+
+DOI: 10.1007/s12033-019-00205-2 
+PMID: 31435842  [Indexed for MEDLINE]
+

@@ -1,0 +1,43 @@
+
+1. Antibiotics (Basel). 2020 Apr 28;9(5). pii: E214. doi:
+10.3390/antibiotics9050214.
+
+Plasticity of Coagulase-Negative Staphylococcal Membrane Fatty Acid Composition
+and Implications for Responses to Antimicrobial Agents.
+
+Tiwari KB(1), Gatto C(2), Wilkinson BJ(2).
+
+Author information: 
+(1)A-TEK Inc., 1430 Spring Hill Road, McLean, VA 22102, USA.
+(2)School of Biological Sciences, Illinois State University, Normal, IL 61761,
+USA.
+
+Staphylococcus aureus demonstrates considerable membrane lipid plasticity in
+response to different growth environments, which is of potential relevance to
+response and resistance to various antimicrobial agents. This information is not 
+available for various species of coagulase-negative staphylococci, which are
+common skin inhabitants, can be significant human pathogens, and are resistant to
+multiple antibiotics. We determined the total fatty acid compositions of
+Staphylococcus auricularis, Staphylococcus capitis, Staphylococcus epidermidis,
+Staphylococcus haemolyticus, Staphylococcus hominis, Staphylococcus
+saprophyticus, and Staphylococcus aureus for comparison purposes. Different
+proportions of branched-chain and straight-chain fatty acids were observed
+amongst the different species. However, growth in cation-supplemented
+Mueller-Hinton broth significantly increased the proportion of branched-chain
+fatty acids, and membrane fluidities as measured by fluorescence anisotropy.
+Cation-supplemented Mueller-Hinton broth is used for routine determination of
+antimicrobial susceptibilities. Growth in serum led to significant increases in
+straight-chain unsaturated fatty acids in the total fatty acid profiles, and
+decreases in branched-chain fatty acids. This indicates preformed fatty acids can
+replace biosynthesized fatty acids in the glycerolipids of coagulase-negative
+staphylococci, and indicates that bacterial fatty acid biosynthesis system II may
+not be a good target for antimicrobial agents in these organisms. Even though the
+different species are expected to be exposed to skin antimicrobial fatty acids,
+they were susceptible to the major skin antimicrobial fatty acid sapienic acid
+(C16:1Δ6). Certain species were not susceptible to linoleic acid (C18:2Δ9,12),
+but no obvious relationship to fatty acid composition could be discerned.
+
+DOI: 10.3390/antibiotics9050214 
+PMCID: PMC7277709
+PMID: 32354049 
+

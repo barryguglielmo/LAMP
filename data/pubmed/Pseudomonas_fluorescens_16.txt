@@ -1,0 +1,38 @@
+
+1. Int J Environ Res Public Health. 2020 Sep 3;17(17). pii: E6422. doi:
+10.3390/ijerph17176422.
+
+Enhancement of Contact Lens Disinfection by Combining Disinfectant with Visible
+Light Irradiation.
+
+Hoenes K(1), Spellerberg B(2), Hessling M(1).
+
+Author information: 
+(1)Institute of Medical Engineering and Mechatronics, Ulm University of Applied
+Sciences, Albert-Einstein-Allee 55, 89081 Ulm, Germany.
+(2)Institute of Medical Microbiology and Hygiene, University of Ulm,
+Albert-Einstein-Allee 11, 89081 Ulm, Germany.
+
+Multiple use contact lenses have to be disinfected overnight to reduce the risk
+of infections. However, several studies demonstrated that not only microorganisms
+are affected by the disinfectants, but also ocular epithelial cells, which come
+into contact via residuals at reinsertion of the lens. Visible light has been
+demonstrated to achieve an inactivation effect on several bacterial and fungal
+species. Combinations with other disinfection methods often showed better results
+compared to separately applied methods. We therefore investigated contact lens
+disinfection solutions combined with 405 nm irradiation, with the intention to
+reduce the disinfectant concentration of ReNu Multiplus, OptiFree Express or
+AOSept while maintaining adequate disinfection results due to combination
+benefits. Pseudomonads, staphylococci and E. coli were studied with disk
+diffusion assay, colony forming unit (cfu) determination and growth delay. A log 
+reduction of 4.49 was achieved for P. fluorescens in 2 h for 40% ReNu Multiplus
+combined with an irradiation intensity of 20 mW/cm2 at 405 nm. For AOSept the
+combination effect was so strong that 5% of AOSept in combination with light
+exhibited the same result as 100% AOSept alone. Combination of disinfectants with
+visible violet light is therefore considered a promising approach, as a reduction
+of potentially toxic ingredients can be achieved.
+
+DOI: 10.3390/ijerph17176422 
+PMCID: PMC7504152
+PMID: 32899295 
+

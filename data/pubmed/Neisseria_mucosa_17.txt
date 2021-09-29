@@ -1,0 +1,71 @@
+
+1. Gut. 2020 Sep;69(9):1598-1607. doi: 10.1136/gutjnl-2019-319696. Epub 2019 Dec 19.
+
+Effect of Helicobacter pylori on gastrointestinal microbiota: a population-based 
+study in Linqu, a high-risk area of gastric cancer.
+
+Guo Y(#)(1), Zhang Y(#)(1)(2), Gerhard M(2)(3)(4), Gao JJ(1), Mejias-Luque
+R(2)(3)(4), Zhang L(1), Vieth M(2)(5), Ma JL(1), Bajbouj M(2)(6), Suchanek
+S(2)(7), Liu WD(8), Ulm K(2)(9), Quante M(2)(6), Li ZX(1)(2), Zhou T(1), Schmid
+R(2)(6), Classen M(2)(6), Li WQ(1)(2), You WC(10)(2), Pan KF(10)(2).
+
+Author information: 
+(1)Key Laboratory of Carcinogenesis and Translational Research (Ministry of
+Education/Beijing), Department of Cancer Epidemiology, Peking University Cancer
+Hospital & Institute, Beijing, China.
+(2)PYLOTUM Key joint laboratory for upper GI cancer, Technische Universität
+München/Peking University Cancer Hospital & Institute, Munich/Beijing,
+Germany/China.
+(3)Institute of Medical Microbiology, Immunology and Hygiene, Technische
+Universität München, Munich, Germany.
+(4)German Center for Infection Research, Partner Site Munich, Munich, Germany.
+(5)Institute of Pathology, Klinikum Bayreuth, Bayreuth, Germany.
+(6)II. Medizinische Klinik, Klinikum Rechts der Isar, Technische Universität
+München, Munich, Germany.
+(7)Department of Medicine, 1st Faculty of Medicine, Military University Hospital,
+Charles University, Prague, Czech Republic.
+(8)Linqu Public Health Bureau, Linqu, Shandong, China.
+(9)Institute of Medical Informatics, Statistics and Epidemiology, Technische
+Universität München, Munich, Germany.
+(10)Key Laboratory of Carcinogenesis and Translational Research (Ministry of
+Education/Beijing), Department of Cancer Epidemiology, Peking University Cancer
+Hospital & Institute, Beijing, China pankaifeng2002@yahoo.com
+weichengyou@yahoo.com.
+(#)Contributed equally
+
+OBJECTIVE: Gastrointestinal microbiota may be involved in Helicobacter
+pylori-associated gastric cancer development. The aim of this study was to
+explore the possible microbial mechanisms in gastric carcinogenesis and potential
+dysbiosis arising from H. pylori infection.
+DESIGN: Deep sequencing of the microbial 16S ribosomal RNA gene was used to
+investigate alterations in paired gastric biopsies and stool samples in 58
+subjects with successful and 57 subjects with failed anti-H. pylori treatment,
+relative to 49 H. pylori negative subjects.
+RESULTS: In H. pylori positive subjects, richness and Shannon indexes increased
+significantly (both p<0.001) after successful eradication and showed no
+difference to those of negative subjects (p=0.493 for richness and p=0.420 for
+Shannon index). Differential taxa analysis identified 18 significantly altered
+gastric genera after eradication. The combination of these genera into a
+Microbial Dysbiosis Index revealed that the dysbiotic microbiota in H. pylori
+positive mucosa was associated with advanced gastric lesions (chronic atrophic
+gastritis and intestinal metaplasia/dysplasia) and could be reversed by
+eradication. Strong coexcluding interactions between Helicobacter and
+Fusobacterium, Neisseria, Prevotella, Veillonella, Rothia were found only in
+advanced gastric lesion patients, and were absent in normal/superficial gastritis
+group. Changes in faecal microbiota included increased Bifidobacterium after
+successful H. pylori eradication and more upregulated drug-resistant functional
+orthologs after failed treatment.
+CONCLUSION: H. pylori infection contributes significantly to gastric microbial
+dysbiosis that may be involved in carcinogenesis. Successful H. pylori
+eradication potentially restores gastric microbiota to a similar status as found 
+in uninfected individuals, and shows beneficial effects on gut microbiota.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/gutjnl-2019-319696 
+PMCID: PMC7456744
+PMID: 31857433 
+
+Conflict of interest statement: Competing interests: None declared.
+

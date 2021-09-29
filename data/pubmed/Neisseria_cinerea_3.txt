@@ -1,0 +1,56 @@
+
+1. Genome Biol Evol. 2020 Feb 1;12(2):3938-3950. doi: 10.1093/gbe/evaa023.
+
+Meningococcal Disease-Associated Prophage-Like Elements Are Present in Neisseria 
+gonorrhoeae and Some Commensal Neisseria Species.
+
+Al Suwayyid BA(1)(2)(3), Rankine-Wilson L(1)(2), Speers DJ(4)(5), Wise MJ(1)(6), 
+Coombs GW(7)(8), Kahler CM(1)(2).
+
+Author information: 
+(1)The Marshall Centre for Infectious Diseases Research and Training, The
+University of Western Australia, Crawley, Australia.
+(2)School of Biomedical Sciences, The University of Western Australia, Crawley,
+Australia.
+(3)Ministry of Education, Riyadh, Saudi Arabia.
+(4)Department of Microbiology, PathWest Laboratory Medicine WA, Queen Elizabeth
+II Medical Centre, Nedlands, Australia.
+(5)School of Medicine and Pharmacology, University of Western Australia, Crawley,
+Australia.
+(6)Computer Science and Software Engineering, The University of Western
+Australia, Crawley, Australia.
+(7)Department of Microbiology, PathWest Laboratory Medicine WA, Fiona Stanley
+Hospital, Murdoch, Australia.
+(8)Antimicrobial Resistance and Infectious Diseases Research Laboratory, School
+of Veterinary Life Sciences, Murdoch University, Australia.
+
+Neisseria spp. possess four genogroups of filamentous prophages, termed Nf1 to 4.
+A filamentous bacteriophage from the Nf1 genogroup termed meningococcal
+disease-associated phage (MDA φ) is associated with clonal complexes of Neisseria
+meningitidis that cause invasive meningococcal disease. Recently, we recovered an
+isolate of Neisseria gonorrhoeae (ExNg63) from a rare case of gonococcal
+meningitis, and found that it possessed a region with 90% similarity to Nf1
+prophages, specifically, the meningococcal MDA φ. This led to the hypothesis that
+the Nf1 prophage may be more widely distributed amongst the genus Neisseria. An
+analysis of 92 reference genomes revealed the presence of intact Nf1 prophages in
+the commensal species, Neisseria lactamica and Neisseria cinerea in addition to
+the pathogen N. gonorrhoeae. In N. gonorrhoeae, Nf1 prophages had a restricted
+distribution but were present in all representatives of MLST ST1918. Of the 160
+phage integration sites identified, only one common insertion site was found
+between one isolate of N. gonorrhoeae and N. meningitidis. There was an absence
+of any obvious conservation of the receptor for prophage entry, PilE, suggesting 
+that the phage may have been obtained by natural transformation. An examination
+of the restriction modification systems and mutated mismatch repair systems with 
+prophage presence suggested that there was no obvious preference for these hosts.
+A timed phylogeny inferred that N. meningitidis was the donor of the Nf1
+prophages in N. lactamica and N. gonorrhoeae. Further work is required to
+determine whether Nf1 prophages are active and can act as accessory colonization 
+factors in these species.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the
+Society for Molecular Biology and Evolution.
+
+DOI: 10.1093/gbe/evaa023 
+PMCID: PMC7058167
+PMID: 32031617 
+

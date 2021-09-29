@@ -1,0 +1,39 @@
+
+1. FEMS Microbiol Rev. 2020 Sep 29. pii: fuaa033. doi: 10.1093/femsre/fuaa033. [Epub
+ahead of print]
+
+Lifestyle, metabolism and environmental adaptation in Lactococcus lactis.
+
+Kleerebezem M(1), Bachmann H(2)(3), van Pelt-KleinJan E(2)(4), Douwenga S(2)(4), 
+Smid EJ(5), Teusink B(2), van Mastrigt O(5).
+
+Author information: 
+(1)Host Microbe Interactomics Group, Animal Sciences Department, Wageningen
+University, De Elst 1, 6708WD Wageningen, the Netherlands.
+(2)Systems Bioinformatics, Vrije Universiteit Amsterdam, De Boelelaan 1108, 1081 
+HZ Amsterdam, the Netherlands.
+(3)NIZO food research, Kernhemseweg 2, 6718 ZB Ede, the Netherlands.
+(4)TiFN Food & Nutrition, Nieuwe Kanaal 9A, 6709 PA Wageningen, the Netherlands.
+(5)Laboratory of Food Microbiology, Wageningen University, Bornse Weilanden 9,
+6708WG Wageningen, the Netherlands.
+
+Lactococcus lactis serves as a paradigm organism for the lactic acid bacteria
+(LAB). Extensive research into the molecular biology, metabolism and physiology
+of several model strains of this species has been fundamental for our
+understanding of the LAB. Genomic studies have provided new insights in the
+species L. lactis, including the resolution of the genetic basis of its
+subspecies division, as well as the control mechanisms involved in the
+fine-tuning of growth-rate and energy metabolism. In addition, it has enabled
+novel approaches to study lactococcal lifestyle adaptations to the dairy
+application environment, including its adjustment to near-zero growth rates that 
+are particularly relevant in the context of cheese ripening. This review
+highlights various insights in these areas and exemplifies the strength of
+combining experimental evolution with functional genomics and bacterial
+physiology research to expand our fundamental understanding of the L. lactis
+lifestyle under different environmental conditions.
+
+© FEMS 2020.
+
+DOI: 10.1093/femsre/fuaa033 
+PMID: 32990728 
+

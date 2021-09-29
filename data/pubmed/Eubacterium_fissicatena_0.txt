@@ -1,0 +1,56 @@
+
+1. Cancers (Basel). 2020 Sep 6;12(9). pii: E2531. doi: 10.3390/cancers12092531.
+
+Gut Microbiome Associated with the Psychoneurological Symptom Cluster in Patients
+with Head and Neck Cancers.
+
+Bai J(1), Bruner DW(1), Fedirko V(2), Beitler JJ(3), Zhou C(4), Gu J(4), Zhao
+H(4), Lin IH(5), Chico CE(6), Higgins KA(3), Shin DM(7), Saba NF(7), Miller
+AH(6), Xiao C(8).
+
+Author information: 
+(1)Nell Hodgson Woodruff School of Nursing, Emory University, Atlanta, GA 30322, 
+USA.
+(2)Rollins School of Public Health, Winship Cancer Institute, Emory University,
+Atlanta, GA 30322, USA.
+(3)Department of Radiation Oncology, School of Medicine, Emory University,
+Atlanta, GA 30322, USA.
+(4)Department Biostatistics, Yale School of Public Health, Yale University, New
+Haven, CT 06520, USA.
+(5)Department of Epidemiology and Biostatistics, Memorial Sloan-Kettering Cancer 
+Center, New York, NY 10017, USA.
+(6)Department of Psychiatry and Behavioral Sciences, School of Medicine, Emory
+University, Atlanta, GA 30322, USA.
+(7)Department of Hematology and Medical Oncology, School of Medicine, Emory
+University, Atlanta, GA 30322, USA.
+(8)School of Nursing, Yale University, New Haven, CT 06477, USA.
+
+Cancer patients experience a cluster of co-occurring psychoneurological symptoms 
+(PNS) related to cancer treatments. The gut microbiome may affect severity of the
+PNS via neural, immune, and endocrine signaling pathways. However, the link
+between the gut microbiome and PNS has not been well investigated in cancer
+patients, including those with head and neck cancers (HNCs). This pilot study
+enrolled 13 patients with HNCs, who reported PNS using the Patient-Reported
+Outcomes version of the Common Terminology Criteria for Adverse Events (CTCAEs). 
+Stool specimens were collected to analyze patients' gut microbiome. All data were
+collected pre- and post-radiation therapy (RT). Associations between the
+bacterial abundances and the PNS clusters were analyzed using the linear
+discriminant analysis effect size; functional pathway analyses of 16S rRNA V3-V4 
+bacterial communities were conducted using Tax4fun. The high PNS cluster had a
+greater decrease in microbial evenness than the low PNS cluster from pre- to
+post-RT. The high and low PNS clusters showed significant differences using
+weighted UniFrac distance. Those individuals with the high PNS cluster were more 
+likely to have higher abundances in phylum Bacteroidetes, order Bacteroidales,
+class Bacteroidia, and four genera (Ruminiclostridium9, Tyzzerella,
+Eubacterium_fissicatena, and DTU089), while the low PNS cluster had higher
+abundances in family Acidaminococcaceae and three genera (Lactococcus,
+Phascolarctobacterium, and Desulfovibrio). Both glycan metabolism
+(Lipopolysaccharide biosynthesis) and vitamin metabolism (folate biosynthesis and
+lipoic acid metabolism) were significantly different between the high and low PNS
+clusters pre- and post-RT. Our preliminary data suggest that the diversity and
+abundance of the gut microbiome play a potential role in developing PNS among
+cancer patients.
+
+DOI: 10.3390/cancers12092531 
+PMID: 32899975 
+

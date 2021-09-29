@@ -1,0 +1,49 @@
+
+1. Front Microbiol. 2020 Jul 2;11:960. doi: 10.3389/fmicb.2020.00960. eCollection
+2020.
+
+The Discovery of New Antilisterial Proteins From Paenibacillus polymyxa Kp10 via 
+Genome Mining and Mass Spectrometry.
+
+Mokhtar NFK(1)(2), Hashim AM(2)(3), Hanish I(3), Zulkarnain A(2), Raja Nhari
+RMH(2), Abdul Sani AA(4), Abbasiliasi S(2), Ariff A(5), Mustafa S(2)(3)(5), Rahim
+RA(1)(6).
+
+Author information: 
+(1)Department of Cell and Molecular Biology, Faculty of Biotechnology and
+Biomolecular Sciences, Universiti Putra Malaysia, Selangor, Malaysia.
+(2)Halal Products Research Institute, Putra Infoport, Universiti Putra Malaysia, 
+Selangor, Malaysia.
+(3)Department of Microbiology, Faculty of Biotechnology and Biomolecular
+Sciences, Universiti Putra Malaysia, Selangor, Malaysia.
+(4)Mass Spectrometry Technology Section, Malaysia Genome Institute, National
+Institute of Biotechnology Malaysia, Kajang, Malaysia.
+(5)Bioprocessing and Biomanufacturing Research Centre, Faculty of Biotechnology
+and Biomolecular Sciences, Universiti Putra Malaysia, Selangor, Malaysia.
+(6)Chancellory, Universiti Teknikal Malaysia Melaka, Malacca, Malaysia.
+
+The inhibitory properties of novel antimicrobial proteins against food-borne
+pathogens such as Listeria monocytogenes offer extensive benefits to the food and
+medical industries. In this study, we have identified antimicrobial proteins from
+a milk curd-derived bacterial isolate that exhibits antilisterial activity using 
+genome mining and mass spectrometry analysis. The analysis of the draft genome
+sequence identified the isolate as Paenibacillus polymyxa Kp10, and predicted the
+presence of antimicrobial paenibacillin, paenilan, paeninodin, sactipeptides,
+thiazole-oxazole modified microcin, and histone-like DNA binding protein HU
+encoded in its genome. Interestingly, nanoLC-MS/MS analysis identified two
+histone-like DNA binding proteins HU as predicted in silico earlier, exhibiting
+antilisterial activity. Additionally, translation initiation factor IF-1 and 50S 
+ribosomal protein L29 were also discovered by the mass spectrometry in the active
+fractions. The antilisterial activity of the four proteins was verified through
+heterologous protein expression and antimicrobial activity assay in vitro. This
+study has identified structural regulatory proteins from Paenibacillus possessing
+antilisterial activity with potential future application in the food and medical 
+industries.
+
+Copyright © 2020 Mokhtar, Hashim, Hanish, Zulkarnain, Raja Nhari, Abdul Sani,
+Abbasiliasi, Ariff, Mustafa and Rahim.
+
+DOI: 10.3389/fmicb.2020.00960 
+PMCID: PMC7343975
+PMID: 32714281 
+

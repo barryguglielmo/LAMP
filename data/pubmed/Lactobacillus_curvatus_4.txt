@@ -1,0 +1,48 @@
+
+1. Int J Food Microbiol. 2020 Oct 16;331:108689. doi:
+10.1016/j.ijfoodmicro.2020.108689. Epub 2020 Jun 11.
+
+Interspecies assertiveness of Lactobacillus curvatus and Lactobacillus sakei in
+sausage fermentations.
+
+Janßen D(1), Dworschak L(1), Ludwig C(2), Ehrmann MA(1), Vogel RF(3).
+
+Author information: 
+(1)Technische Universität München, Lehrstuhl für Technische Mikrobiologie,
+Freising, Germany.
+(2)Bayerisches Zentrum für biomolekulare Massenspektrometrie (BayBioMS),
+Technische Universität München, Freising, Germany.
+(3)Technische Universität München, Lehrstuhl für Technische Mikrobiologie,
+Freising, Germany. Electronic address: rudi.vogel@tum.de.
+
+Lactobacillus (L.) curvatus and L. sakei contain strains, which are assertive in 
+sausage fermentation. Previous work has demonstrated differences in assertiveness
+at strain level within one species, and revealed either exclusion of competitors 
+by complementary partner strains or their inhibition by single strains. This work
+addresses interspecies differences in the assertiveness of L. curvatus and L.
+sakei. Strain sets of L. curvatus and L. sakei were employed as starters in a
+fermented sausage model and their abundancy upon fermentation was determined by
+strain-specific MALDI-TOF MS identification. Generally, single or groups of L.
+sakei strains outcompeted L. curvatus strains. In multiple growth tests employing
+mMRS and mMSM it could be shown that assertive L. sakei strains can be predicted 
+along their μ max in mMSM. Still, L. curvatus TMW 1.624 could suppress all L.
+curvatus and most L. sakei strains in competitive settings. This could be
+referred to its expression of several bacteriocins, which are active against all 
+of the L. curvatus strains. Strain specific differences could be demonstrated in 
+the susceptibility of L. sakei to bacteriocins, and in oxidative stress
+tolerance, which is higher in co-existing L. sakei strains than in the
+bacteriocin producer. This suggests that tolerance to bacteriocins and oxidative 
+stress represent additional determinants for assertiveness, above previously
+reported bacteriocin production versus metabolic complementarism of partner
+strains.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijfoodmicro.2020.108689 
+PMID: 32623291 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

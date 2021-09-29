@@ -1,0 +1,57 @@
+
+1. J Infect Chemother. 2020 Aug;26(8):795-801. doi: 10.1016/j.jiac.2020.03.008. Epub
+2020 Apr 10.
+
+Effect of probiotics on gut microbiome in patients with administration of
+surgical antibiotic prophylaxis: A randomized controlled study.
+
+Kaku N(1), Matsumoto N(2), Sasaki D(2), Tsuda K(3), Kosai K(4), Uno N(4),
+Morinaga Y(4), Tagami A(3), Adachi S(3), Hasegawa H(4), Osaki M(3), Yanagihara
+K(4).
+
+Author information: 
+(1)Department of Laboratory Medicine, Nagasaki University Hospital, Nagasaki,
+Japan; Department of Laboratory Medicine, Nagasaki University Graduate School of 
+Biomedical Sciences, Nagasaki, Japan. Electronic address: kaku-ngs@umin.ac.jp.
+(2)Department of Laboratory Medicine, Nagasaki University Hospital, Nagasaki,
+Japan.
+(3)Department of Orthopaedic Surgery, Nagasaki University Graduate School of
+Biomedical Sciences, Nagasaki, Japan.
+(4)Department of Laboratory Medicine, Nagasaki University Hospital, Nagasaki,
+Japan; Department of Laboratory Medicine, Nagasaki University Graduate School of 
+Biomedical Sciences, Nagasaki, Japan.
+
+Surgical antibiotic prophylaxis (SAP) is recommended for the prevention of
+surgical site infections. However, there is a concern about adverse effects of
+SAP, such as antibiotic-associated diarrhea (AAD). To prevent AAD, administration
+of probiotics has been investigated. Although recent advances in next-generation 
+sequencing makes it possible to analyze the gut microbiome, the effect of
+probiotics on the gut microbiome in the patients with SAP remains unknown. To
+test a hypothesis that SAP influences the gut microbiome and probiotics prevent
+the influence, a randomized controlled study was conducted with patients who
+underwent spinal surgery at Nagasaki University Hospital. After obtaining
+informed consent, the patients were automatically classified into the
+non-probiotics group and the probiotics group. In the probiotics group, the
+patients took 1 g of Enterococcus faecium 129 BIO 3B-R, 3 times a day on
+postoperative days (PODs) 1-5. The feces of all patients were sampled before
+administration of SAP and on PODs 5 and 10. We compared alpha and beta diversity 
+and differential abundance analysis of the gut microbiome before and after SAP.
+During the study period, a total of 33 patients were evaluated, comprising 17
+patients in the non-probiotics group and 16 in the probiotics group. There was no
+significant difference between the groups regarding patient characteristics. In
+alpha and beta diversity, there were no significant differences among all
+combinations. In differential abundance analysis at operational taxonomic unit
+level, Streptococcus gallolyticus and Roseburia were significantly increased in
+the non-probiotics group and significantly decreased in the probiotics group.
+
+Copyright © 2020 Japanese Society of Chemotherapy and The Japanese Association
+for Infectious Diseases. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jiac.2020.03.008 
+PMID: 32284181 
+
+Conflict of interest statement: Declaration of Competing Interest Kaku N and
+Yanagihara K received lecture fee from Biofermin Pharmaceutical Ltd (Kobe, Hyogo,
+Japan). Matsumoto N, Sasaki D, Tsuda K, Kosai K, Uno N, Morinaga Y, Tagami A,
+Adachi S, and Hasegawa H declare no potential conflict of interest.
+

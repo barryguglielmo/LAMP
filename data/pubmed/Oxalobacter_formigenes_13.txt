@@ -1,0 +1,46 @@
+
+1. J Infect Dis. 2019 Oct 22;220(11):1848-1858. doi: 10.1093/infdis/jiz370.
+
+Development of a Humanized Murine Model for the Study of Oxalobacter formigenes
+Intestinal Colonization.
+
+Pebenito AM(1), Liu M(2), Nazzal L(1), Blaser MJ(1)(3)(4).
+
+Author information: 
+(1)Department of Medicine, New York University School of Medicine, New York.
+(2)Sackler Institute of Graduate Biomedical Sciences, New York University School 
+of Medicine, New York.
+(3)Department of Microbiology, New York University School of Medicine, New York.
+(4)Center for Advanced Biotechnology and Medicine, Rutgers University,
+Piscataway, New Jersey.
+
+BACKGROUND: Oxalobacter formigenes are bacteria that colonize the human gut and
+degrade oxalate, a component of most kidney stones. Findings of clinical and
+epidemiological studies suggest that O. formigenes colonization reduces the risk 
+for kidney stones. We sought to develop murine models to allow investigating O.
+formigenes in the context of its native human microbiome.
+METHODS: For humanization, we transplanted pooled feces from healthy,
+noncolonized human donors supplemented with a human O. formigenes strain into
+recipient mice. We transplanted microbiota into mice that were treated with
+broad-spectrum antibiotics to suppress their native microbiome, were germ free,
+or received humanization without pretreatment or received sham gavage (controls).
+RESULTS: All humanized mice were stably colonized with O. formigenes through 8
+weeks after gavage, whereas mice receiving sham gavage remained uncolonized (P < 
+.001). Humanization significantly changed the murine intestinal microbial
+community structure (P < .001), with humanized germ-free and antibiotic-treated
+groups overlapping in β-diversity. Both germ-free and antibiotic-treated mice had
+significantly increased numbers of human species compared with sham-gavaged mice 
+(P < .001).
+CONCLUSIONS: Transplanting mice with human feces and O. formigenes introduced new
+microbial populations resembling the human microbiome, with stable O. formigenes 
+colonization; such models can define optimal O. formigenes strains to facilitate 
+clinical trials.
+
+© The Author(s) 2019. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiz370 
+PMCID: PMC6804336 [Available on 2020-10-22]
+PMID: 31328778  [Indexed for MEDLINE]
+

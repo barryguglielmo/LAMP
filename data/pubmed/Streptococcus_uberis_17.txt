@@ -1,0 +1,59 @@
+
+1. Vet Microbiol. 2020 Mar;242:108592. doi: 10.1016/j.vetmic.2020.108592. Epub 2020 
+Jan 22.
+
+Mechanisms of β-lactam resistance of Streptococcus uberis isolated from bovine
+mastitis cases.
+
+McDougall S(1), Clausen L(2), Ha HJ(3), Gibson I(4), Bryan M(5), Hadjirin N(6),
+Lay E(6), Raisen C(6), Ba X(6), Restif O(6), Parkhill J(7), Holmes MA(6).
+
+Author information: 
+(1)Cognosco, Anexa FVC, Morrinsville, New Zealand. Electronic address:
+smcdougall@anexafvc.co.nz.
+(2)Cognosco, Anexa FVC, Morrinsville, New Zealand.
+(3)Animal Health Laboratory, Ministry for Primary Industry, Upper Hutt, New
+Zealand.
+(4)New Zealand Veterinary Pathology, Hamilton, New Zealand.
+(5)VetSouth, Winton, New Zealand.
+(6)Department of Veterinary Medicine, University of Cambridge, Madingley Road,
+Cambridge, UK.
+(7)Department of Veterinary Medicine, University of Cambridge, Madingley Road,
+Cambridge, UK; Wellcome Sanger Institute, Hinxton, UK.
+
+A number of veterinary clinical pathology laboratories in New Zealand have been
+reporting emergence of increased minimum in inhibitory concentrations for
+β-lactams in the common clinical bovine mastitis pathogen Streptococcus uberis.
+The objective of this study was to determine the genetic basis of this increase
+in MIC for β-lactams amongst S. uberis. Illumina sequencing and determination of 
+oxacillin MIC was performed on 265 clinical isolates. Published sequences of the 
+five penicillin binding proteins pbp1a, pbp1b, pbp2a, pbp2b, and pbp2x were used 
+to identify, extract and align these sequences from the study isolates. Amino
+acid substitutions resulting from single nucleotide polymorphisms (SNP) within
+these genes were analysed for associations with elevated (≥ 0.5 mg/L) oxacillin
+MIC together with a genome wide association study. The population structure of
+the study isolates was approximated using a phylogenetic tree generated from an
+alignment of the core genome. A total of 53 % of isolates had MIC ≥ 0.5 mg/L for 
+oxacillin. A total of 101 substitutions within the five pbp were identified, of
+which 11 were statistically associated with an MIC ≥ 0.5 mg/L. All 140 isolates
+which exhibited an increased β-lactam MIC had SNPs leading to pbp2x E381K and
+Q554E substitutions. The phylogenetic tree indicated that the genotype and
+phenotype associated with the increased MIC for oxacillin were present in several
+different lineages suggesting that acquisition of this increased β-lactam MIC had
+occurred in multiple geographically distinct regions. Reanalysis of the data from
+the intervention studies from which the isolates were originally drawn found a
+tendency for the pbp2x E381K substitution to be associated with lower cure rates.
+It is concluded that there is geographically and genetically widespread presence 
+of pbp substitutions associated with reduced susceptibility to β-lactam
+antimicrobials. Additionally, presence of pbp substitutions tended to be
+associated with poorer cure rate outcomes following antimicrobial therapy for
+clinical mastitis.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.vetmic.2020.108592 
+PMID: 32122596 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no competing interests.
+

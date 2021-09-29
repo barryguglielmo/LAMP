@@ -1,0 +1,48 @@
+
+1. Antibiotics (Basel). 2020 Jul 7;9(7). pii: E387. doi: 10.3390/antibiotics9070387.
+
+Broad-Spectrum Cephalosporin-Resistant and/or Fluoroquinolone-Resistant
+Enterobacterales Associated with Canine and Feline Urogenital Infections.
+
+Loncaric I(1), Misic D(2)(3), Szostak MP(1), Künzel F(4), Schäfer-Somi S(5),
+Spergser J(1).
+
+Author information: 
+(1)Institute of Microbiology, University of Veterinary Medicine, 1210 Vienna,
+Austria.
+(2)Faculty of Biotechnology and Food Science, Wroclaw University of Environmental
+and Life Sciences, 51-630 Wrocław, Poland.
+(3)Faculty of Veterinary Medicine, University of Belgrade, 11000 Belgrade,
+Serbia.
+(4)Clinic for Small Animals, Internal Medicine Unit, University of Veterinary
+Medicine, 1210 Vienna, Austria.
+(5)Department for Small Animals and Horses, Platform for AI and ET, University of
+Veterinary Medicine, 1210 Vienna, Austria.
+
+The aim of the present study was to characterize Enterobacterales resistant to
+3rd and 4th generation cephalosporins, carbapenems and/or fluoroquinolones,
+isolated from dogs and cats with urogenital infections. In total, 36 strains
+(Escherichia coli (n = 28), Klebsiella pneumoniae (n = 3), Serratia marcescens,
+Raoultella ornithinolytica, Proteus mirabilis, Citrobacter portucalensis and
+Enterobacter cloacae (each n = 1)) were included in the present study, 28 from
+Austria and 8 from Serbia. Isolates were characterized by a polyphasic approach
+including susceptibility pheno- and genotyping and microarray-based assays.
+Escherichia (E.) coli isolates were additionally characterized by two-locus (fumC
+and fimH) sequence phylotyping and multi-locus sequence typing (MLST) of selected
+isolates. MLST of carbapenem-resistant Enterobacter cloacae isolates was also
+performed. Among E. coli, the most dominant phylogenetic group was B1 (27.8%),
+followed by C, (16.6%), A and Clade II (5.5% each), B2 and F (2.77% each). The
+most predominant β-lactam resistance genes were blaTEM (70%) and blaCTX-M
+(38.8%), blaCMY (25%). blaNDM was detected in one carbapenem-resistant
+Enterobacter cloacae ST114. The most common ST among selected E. coli was 744
+(10.7% isolates). The pandemic clones ST131 and ST648 carrying CTX-M-15 were also
+detected. Remaining STs belonged to 469, 1287, 1463 and 1642. E. coli clonotyping
+revealed 20 CH types. Based on the presence of certain virulence genes, three
+isolates were categorized as ExPEC/UPEC. The most prevalent virulence factors
+were fimH detected in 61%, iucD and iss both in 55%, iroN in 27.8%, papC in 13.8%
+and sat in 8.3% isolates.
+
+DOI: 10.3390/antibiotics9070387 
+PMCID: PMC7399855
+PMID: 32645942 
+

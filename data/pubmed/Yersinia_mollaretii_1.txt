@@ -1,0 +1,52 @@
+
+1. Sci Adv. 2020 Mar 11;6(11):eaaz2094. doi: 10.1126/sciadv.aaz2094. eCollection
+2020 Mar.
+
+Inverse control of Rab proteins by Yersinia ADP-ribosyltransferase and
+glycosyltransferase related to clostridial glucosylating toxins.
+
+Ost GS(1)(2), Wirth C(3), Bogdanović X(3), Kao WC(3), Schorch B(1), Aktories
+PJK(1), Papatheodorou P(1), Schwan C(1), Schlosser A(4), Jank T(1), Hunte
+C(3)(5)(6), Aktories K(1)(5).
+
+Author information: 
+(1)Institut für Experimentelle und Klinische Pharmakologie und Toxikologie,
+Medizinische Fakultät, Albert-Ludwigs-Universität Freiburg, 79104 Freiburg,
+Germany.
+(2)Institut für Biologie, Fakultät für Biologie, Albert-Ludwigs-Universität
+Freiburg, 79104 Freiburg, Germany.
+(3)Institut für Biochemie und Molekularbiologie, ZBMZ, Medizinische Fakultät,
+Albert-Ludwigs-Universität Freiburg, 79104 Freiburg, Germany.
+(4)Rudolf-Virchow-Zentrum für Experimentelle Biomedizin, Universität Würzburg,
+97080 Würzburg, Germany.
+(5)Centre for Biological Signalling Studies (BIOSS), Albert-Ludwigs-Universität
+Freiburg, 79104 Freiburg, Germany.
+(6)CIBSS-Centre for Integrative Biological Signalling Studies, University of
+Freiburg, 79104 Freiburg, Germany.
+
+We identified a glucosyltransferase (YGT) and an ADP-ribosyltransferase (YART) in
+Yersinia mollaretii, highly related to glucosylating toxins from Clostridium
+difficile, the cause of antibiotics-associated enterocolitis. Both Yersinia
+toxins consist of an amino-terminal enzyme domain, an autoprotease domain
+activated by inositol hexakisphosphate, and a carboxyl-terminal translocation
+domain. YGT N-acetylglucosaminylates Rab5 and Rab31 at Thr52 and Thr36,
+respectively, thereby inactivating the Rab proteins. YART ADP-ribosylates Rab5
+and Rab31 at Gln79 and Gln64, respectively. This activates Rab proteins by
+inhibiting GTP hydrolysis. We determined the crystal structure of the
+glycosyltransferase domain of YGT (YGTG) in the presence and absence of UDP at
+1.9- and 3.4-Å resolution, respectively. Thereby, we identified a previously
+unknown potassium ion-binding site, which explains potassium ion-dependent
+enhanced glycosyltransferase activity in clostridial and related toxins. Our
+findings exhibit a novel type of inverse regulation of Rab proteins by toxins and
+provide new insights into the structure-function relationship of
+glycosyltransferase toxins.
+
+Copyright © 2020 The Authors, some rights reserved; exclusive licensee American
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works. Distributed under a Creative Commons Attribution NonCommercial License 4.0
+(CC BY-NC).
+
+DOI: 10.1126/sciadv.aaz2094 
+PMCID: PMC7065874
+PMID: 32195351 
+

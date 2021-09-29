@@ -1,0 +1,55 @@
+
+1. Eur J Gastroenterol Hepatol. 2020 Jul 14. doi: 10.1097/MEG.0000000000001842.
+[Epub ahead of print]
+
+Concomitant decrease of double-positive lymphocyte population CD4CD8αα and
+Faecalibacterium prausnitzii in patients with colorectal cancer.
+
+Touchefeu Y(1)(2), Duchalais E(1)(2), Bruley des Varannes S(1)(2), Alameddine
+J(3), Mirallie E(1), Matysiak-Budnik T(1)(2), Le Bastard Q(4)(5), Javaudin
+F(4)(5), Rimbert M(6)(7), Jotereau F(3), Montassier E(4)(5)(8)(9).
+
+Author information: 
+(1)Institut des Maladies de l'Appareil Digestif, CHU Nantes.
+(2)INSERM U1235.
+(3)CRCINA, INSERM, Université d'Angers, Université de Nantes.
+(4)Université de Nantes, Microbiotas Hosts Antibiotics and bacterial Resistances 
+(MiHAR).
+(5)Department of Emergency Medicine, CHU Nantes.
+(6)Laboratoire d'immunologie, CIMNA, CHU de Nantes.
+(7)Centre de Recherche en Transplantation et Immunologie (CRTI), UMR 1064,
+INSERM.
+(8)EA3826 Thérapeutiques Anti-Infectieuses, Institut de Recherche en Santé 2
+Nantes Biotech, Medical University of Nantes.
+(9)Surgical Intensive Care Unit, Hotel Dieu, CHU Nantes, Nantes, France.
+
+INTRODUCTION AND AIMS: Changes in the composition of the gut microbiota in
+patients with colorectal cancer (CRC) compatible with a contribution of the gut
+microbiota in carcinogenesis have been reported. In particular, a decrease
+Faecalibacterium prausnitzii has been identified. A CD4CD8αα, double-positive
+lymphocyte population (DP8α) has recently been demonstrated in the human colon
+and blood with regulatory functions and specificity for F. prausnitzii. Here, we 
+aimed to detect dysbiosis in the fecal microbiome of patients with CRC by
+metagenomic analysis, and to look for changes in the levels of DP8α circulating T
+cells specific for F. prausnitzii in these patients.
+PATIENTS AND METHODS: Patients with CRC and control subjects were prospectively
+included. None had received antibiotics in the previous month or any anti-tumor
+treatment. A stool sample was collected for each participant, and analyzed by
+shotgun sequencing. The DP8α T cell population was identified and quantified on
+fresh whole blood by flow cytometry with anti-CD45, anti-CD3, anti-CD4 and
+anti-CD8α co-labeling.
+RESULTS: Twenty-one patients with CRC and 20 controls subjects were included. We 
+found that mean relative abundance of five species was significantly decreased in
+CRC patients compared with controls, including F. prausnitzii, Barnesiella
+intestinihominis, Alistipes finegoldii, Bacteroides eggerthii and Eubacterium
+siraeum. We also found that the DP8α T cell population was significantly
+decreased in the blood of CRC patients compared with controls.
+CONCLUSION: In our work, we showed that a reduced abundance of F. prausnitzii in 
+CRC patients was associated to a significant decrease in the circulating DP8α
+Treg population, suggesting a potential involvement of reduced activity of DP8α T
+cells in colonic carcinogenesis. These findings open new diagnostic and
+therapeutic strategies for CRC.
+
+DOI: 10.1097/MEG.0000000000001842 
+PMID: 32675782 
+

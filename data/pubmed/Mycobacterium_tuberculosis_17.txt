@@ -1,0 +1,31 @@
+
+1. Protein Sci. 2020 Oct 2. doi: 10.1002/pro.3962. [Epub ahead of print]
+
+The pMy vector series: a versatile cloning platform for the recombinant
+production of mycobacterial proteins in Mycobacterium smegmatis.
+
+Beckham K(1), Staack S(1), Wilmanns M(1)(2), Parret A(1).
+
+Author information: 
+(1)European Molecular Biology Laboratory, Hamburg Unit, Hamburg, Germany.
+(2)University Hamburg Clinical Centre Hamburg-Eppendorf, Hamburg, Germany.
+
+Structural and biophysical characterization of molecular mechanisms of
+disease-causing pathogens, such as Mycobacterium tuberculosis, often requires
+recombinant expression of large amounts highly pure protein. For the production
+of mycobacterial proteins, overexpression in the fast-growing and non-pathogenic 
+species Mycobacterium smegmatis has several benefits over the standard
+Escherichia coli expression strains. However, unlike for E. coli, the range of
+expression vectors currently available is limited. Here we describe the
+development of the pMy vector series, a set of expression plasmids for
+recombinant production of single proteins and protein complexes in M. smegmatis. 
+By incorporating an alternative selection marker, we show that these plasmids can
+also be used for co-expression studies. All vectors in the pMy vector series are 
+available in the Addgene repository (www.addgene.com). This article is protected 
+by copyright. All rights reserved.
+
+© 2020 The Protein Society.
+
+DOI: 10.1002/pro.3962 
+PMID: 33006405 
+

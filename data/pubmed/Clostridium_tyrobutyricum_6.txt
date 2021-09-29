@@ -1,0 +1,46 @@
+
+1. Front Bioeng Biotechnol. 2020 May 15;8:449. doi: 10.3389/fbioe.2020.00449.
+eCollection 2020.
+
+Fe3O4@chitosan Microspheres Coating as Cytoprotective Exoskeletons for the
+Enhanced Production of Butyric Acid With Clostridium tyrobutyricum Under Acid
+Stress.
+
+Liu T(1)(2), Jiang C(2), Zhu L(3), Jiang L(2), Huang H(4).
+
+Author information: 
+(1)College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech
+University, Nanjing, China.
+(2)College of Food Science and Light Industry, Nanjing Tech University, Nanjing, 
+China.
+(3)College of Chemical and Molecular Engineering, Nanjing Tech University,
+Nanjing, China.
+(4)College of Pharmaceutical Science, Nanjing Tech University, Nanjing, China.
+
+The introduction of inorganic nano-materials may endow microbial cells with
+unique new features, including greater resistance to adverse abiotic stress. The 
+aim of this work was to enhance the acid tolerance of Clostridium tyrobutyricum
+ATCC 25755 by coating cells with self-assembled Fe3O4@chitosan (Fe3O4@CS)
+microspheres, and thereby increase the production of butyric acid. The optimal
+coating efficiency of 81.19% was obtained by systematically optimizing the three 
+operational parameters temperature, rpm and mass ratio, which were determined to 
+be 37°C, 80 rpm and 1:2, respectively. Physicochemical characterization was used 
+to assess the superparamagnetism, thermostability and subsize of Fe3O4@CS
+attached to the cells. Compared to free cells, C. tyrobutyricum coated with
+Fe3O4@CS (CtFC) exhibited stronger acid tolerance at low pH. At a pH of 4 or 5,
+the levels of ROS, MDA, LDH, and SOD caused by the acid environment in free cells
+were significant higher than in CtFC. Moreover, without adding NaOH, CtFC
+fermentation showed a higher butyric acid titer (37.60 vs. 31.56 g/L) compared to
+free-cell fermentation. At the same time, an average butyric acid yield of 0.46
+g/g in each repeated-batch fermentation was also obtained by taking advantage of 
+the biocatalyst's reusability and convenient separation from the fermentation
+broth via an external magnetic force. Overall, the developed CtFC illustrates a
+new paradigm for developing an economical and reusable biocatalyst for industrial
+application in butyric acid production.
+
+Copyright © 2020 Liu, Jiang, Zhu, Jiang and Huang.
+
+DOI: 10.3389/fbioe.2020.00449 
+PMCID: PMC7243709
+PMID: 32500066 
+

@@ -1,0 +1,47 @@
+
+1. Vet Microbiol. 2020 Jan;240:108472. doi: 10.1016/j.vetmic.2019.108472. Epub 2019 
+Oct 24.
+
+Matrix-assisted laser desorption ionization-time of flight mass
+spectrometry-based method for accurate discrimination of Staphylococcus
+schleiferi subspecies.
+
+Assumpção YM(1), Teixeira IM(2), Paletta ACC(1), Ferreira EO(3), Pinto TCA(3),
+Penna BA(4).
+
+Author information: 
+(1)Universidade Federal Fluminense, Instituto Biomédico, Niterói, RJ (Rua
+Professor Hernani Melo No 101, São Domingos, Niterói, RJ, CEP: 24210-130, Brazil.
+(2)Universidade Federal Fluminense, Instituto Biomédico, Niterói, RJ (Rua
+Professor Hernani Melo No 101, São Domingos, Niterói, RJ, CEP: 24210-130, Brazil;
+Universidade Federal Do Rio De Janeiro, Instituto De Microbiologia Paulo De Góes,
+Rio De Janeiro, RJ (Av. Carlos Chagas Filho, 373, Bloco I, 2° Andar, CEP
+21941-902, Brazil.
+(3)Universidade Federal Do Rio De Janeiro, Instituto De Microbiologia Paulo De
+Góes, Rio De Janeiro, RJ (Av. Carlos Chagas Filho, 373, Bloco I, 2° Andar, CEP
+21941-902, Brazil.
+(4)Universidade Federal Fluminense, Instituto Biomédico, Niterói, RJ (Rua
+Professor Hernani Melo No 101, São Domingos, Niterói, RJ, CEP: 24210-130, Brazil.
+Electronic address: bpenna@id.uff.br.
+
+S. schleiferi is one of the main species isolated from canine otitis externa,
+pyoderma and from apparently healthy dogs. The species is divided into two
+subspecies, S. schleiferi schleiferi and S. schleiferi coagulans. MALDI-TOF MS
+does not distinguish correctly these two subspecies. This study aimed to identify
+biomarkers that could possibly discriminate Staphylococcus schleiferi subspecies 
+by MALDI-TOF MS. Twelve strains (eight S. schleiferi schleiferi and four S.
+schleiferi coagulans) were firstly identified. Each isolate was submitted to a
+protein extraction protocol and subjected to spectrometry on Bruker Microflex LT 
+mass spectrometer. Spectra were analyzed with the BioNumerics software v7.6. Our 
+results showed that spectra clustered according to subspecies, and a set of five 
+MALDI-TOF MS biomarkers were selected to enable the discrimination of S.
+schleiferi subspecies. In addition, these biomarkers were predicted to represent 
+highly conserved proteins, which could contribute to the identification of
+subspecies-specific proteins that could be used for improved subspecies
+identification in clinical samples.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.vetmic.2019.108472 
+PMID: 31902510  [Indexed for MEDLINE]
+

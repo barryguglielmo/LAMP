@@ -1,0 +1,58 @@
+
+1. Occup Environ Med. 2019 Nov;76(11):801-807. doi: 10.1136/oemed-2019-106031. Epub 
+2019 Sep 25.
+
+Changes in the gut microbiota during and after commercial helium-oxygen
+saturation diving in China.
+
+Yuan Y(1), Zhao G(2), Ji H(3), Peng B(1), Huang Z(3), Jin W(3), Chen X(4), Guan
+H(5), Tang G(4), Zhang H(3), Jiang Z(6).
+
+Author information: 
+(1)Department of Neurophysiology and Neuropharmacology, Institute of Special
+Environmental Medicine and Co-innovation Center of Neuroregeneration, Nantong
+University, Nantong, China.
+(2)Department of Clinical Medicine, Henan East Branch of the Third Affiliated
+Hospital, Zhengzhou University, Shangqiu, China.
+(3)Diving Medical Support Center, Shanghai Salvage Ministry of Transport,
+Shanghai, China.
+(4)Department of Saturation Diving, Shenzhen DIV Diving Engineering Co. Ltd,
+Shenzhen, China.
+(5)Nantong Third People's Hospital, Nantong University, Nantong, China.
+(6)Department of Neurophysiology and Neuropharmacology, Institute of Special
+Environmental Medicine and Co-innovation Center of Neuroregeneration, Nantong
+University, Nantong, China jiangzl@ntu.edu.cn.
+
+OBJECTIVES: The influence of commercial helium-oxygen saturation diving on
+divers' gut microbiotas was assessed to provide dietary suggestion.
+METHODS: Faecal samples of 47 divers working offshore were collected before (T1),
+during (T2) and after (T3) saturation diving. Their living and excursion depths
+were 55-134 metres underwater with a saturation duration of 12-31 days and PaO2
+of 38-65 kPa. The faecal samples were examined through 16S ribosomal DNA amplicon
+sequencing based on the Illumina sequencing platform to analyse changes in the
+bacteria composition in the divers' guts.
+RESULTS: Although the α and β diversity of the gut microbiota did not change
+significantly, we found that living in a hyperbaric environment of helium-oxygen 
+saturation decreased the abundance of the genus Bifidobacterium, an obligate
+anaerobe, from 2.43%±3.83% at T1 to 0.79%±1.23% at T2 and 0.59%±0.79% at T3.
+Additionally, the abundance of some short-chain fatty acid (SCFA)-producing
+bacteria, such as Fusicatenibacter, Faecalibacterium, rectale group and
+Anaerostipes, showed a decreased trend in the order of before, during and after
+diving. On the contrary, the abundance of species, such as Lactococcus garvieae, 
+Actinomyces odontolyticus, Peptoclostridium difficile, Butyricimonas virosa,
+Streptococcus mutans, Porphyromonas asaccharolytica and A. graevenitzii, showed
+an increasing trend, but most of them were pathogens.
+CONCLUSIONS: Occupational exposure to high pressure in a helium-oxygen saturation
+environment decreased the abundance of Bifidobacterium and some SCFA-producing
+bacteria, and increased the risk of pathogenic bacterial infection.
+Supplementation of the diver diet with probiotics or prebiotics during saturation
+diving might prevent these undesirable changes.
+
+© Author(s) (or their employer(s)) 2019. No commercial re-use. See rights and
+permissions. Published by BMJ.
+
+DOI: 10.1136/oemed-2019-106031 
+PMID: 31554647  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+

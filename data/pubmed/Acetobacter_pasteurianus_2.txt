@@ -1,0 +1,53 @@
+
+1. Food Microbiol. 2020 Dec;92:103597. doi: 10.1016/j.fm.2020.103597. Epub 2020 Jul 
+22.
+
+Genome-scale metabolic modeling of Acetobacter pasteurianus 386B reveals its
+metabolic adaptation to cocoa fermentation conditions.
+
+Pelicaen R(1), Gonze D(2), De Vuyst L(3), Weckx S(4).
+
+Author information: 
+(1)Research Group of Industrial Microbiology and Food Biotechnology (IMDO),
+Faculty of Sciences and Bioengineering Sciences, Vrije Universiteit Brussel
+(VUB), Pleinlaan 2, B-1050, Brussels, Belgium; ULB-VUB Interuniversity Institute 
+of Bioinformatics in Brussels [(IB)(2)], Campus Plaine, CP 263, B-1050, Brussels,
+Belgium.
+(2)Unité de Chronobiologie Théorique, Service de Chimie Physique, Faculté des
+Sciences, Université libre de Bruxelles (ULB), Campus Plaine, CP 231, Boulevard
+du Triomphe, B-1050, Brussels, Belgium; ULB-VUB Interuniversity Institute of
+Bioinformatics in Brussels [(IB)(2)], Campus Plaine, CP 263, B-1050, Brussels,
+Belgium.
+(3)Research Group of Industrial Microbiology and Food Biotechnology (IMDO),
+Faculty of Sciences and Bioengineering Sciences, Vrije Universiteit Brussel
+(VUB), Pleinlaan 2, B-1050, Brussels, Belgium.
+(4)Research Group of Industrial Microbiology and Food Biotechnology (IMDO),
+Faculty of Sciences and Bioengineering Sciences, Vrije Universiteit Brussel
+(VUB), Pleinlaan 2, B-1050, Brussels, Belgium; ULB-VUB Interuniversity Institute 
+of Bioinformatics in Brussels [(IB)(2)], Campus Plaine, CP 263, B-1050, Brussels,
+Belgium. Electronic address: stefan.weckx@vub.be.
+
+Acetobacter pasteurianus 386B has been selected as a candidate functional starter
+culture to better control the cocoa fermentation process. Previously, its genome 
+has been sequenced and a genome-scale metabolic model (GEM) has been
+reconstructed. To understand its metabolic adaptation to cocoa fermentation
+conditions, different flux balance analysis (FBA) simulations were performed and 
+compared with experimental data. In particular, metabolic flux distributions were
+simulated for two phases that characterize the growth of A. pasteurianus 386B
+under cocoa fermentation conditions, predicting a switch in respiratory chain
+usage in between these phases. The possible influence on the resulting energy
+production was shown using a reduced version of the GEM. FBA simulations revealed
+the importance of the compartmentalization of the ethanol oxidation reactions,
+namely in the periplasm or in the cytoplasm, and highlighted the potential role
+of ethanol as a source of carbon, energy, and NADPH. Regarding the latter, the
+physiological function of a proton-translocating NAD(P)+ transhydrogenase was
+further investigated in silico. This study revealed the potential of using a GEM 
+to simulate the metabolism of A. pasteurianus 386B, and may provide a general
+framework toward a better physiological understanding of functional starter
+cultures in food fermentation processes.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fm.2020.103597 
+PMID: 32950138 
+

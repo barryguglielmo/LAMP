@@ -1,0 +1,44 @@
+
+1. J Microbiol Methods. 2020 Jul;174:105941. doi: 10.1016/j.mimet.2020.105941. Epub 
+2020 May 17.
+
+Application of novel bacterial consortium for biodegradation of aromatic amine
+2-ABS using response surface methodology.
+
+Fatima M(1), Saeed M(2), Aslam M(3), Lindström RW(4), Farooq R(5).
+
+Author information: 
+(1)Department of Biosciences, COMSATS University Islamabad, Islamabad, Pakistan; 
+Department of Chemistry, COMSATS University Islamabad, Lahore Campus, Pakistan.
+(2)Department of Biosciences, COMSATS University Islamabad, Islamabad, Pakistan.
+(3)Department of Chemical Engineering, COMSATS University Islamabad, Lahore
+Campus, Pakistan.
+(4)Deptartment of Chemical Engineering, KTH Royal Institute of Technology, 100 44
+Stockholm, Sweden.
+(5)Department of Chemistry, COMSATS University Islamabad, Lahore Campus,
+Pakistan. Electronic address: drrobinafarooq@ciitlahore.edu.pk.
+
+There is a strong need to develop purification methods for textile industrial
+wastewater containing toxic azo dyes. The reductive cleavage of azo dyes can be
+made by anaerobic bacteria, but the products of aromatic amines require an
+aerobic process. In this study a novel bacterial dye degrading consortium (DDC)
+of five isolated strains identified with 16S rRNA sequence: Proteus mirabilis
+(KR732288), Bacillus anthracis (KR732289), Enterobacter hormaechei (KR732290),
+Pseudomonas aeruginosa (KR732293) and Serratia rubidaea (KR732296) were used to
+aerobically decompose metabolite 2-aminobenxenesulfonic acid (2-ABS), as a model 
+compound. The effect of three variables: temperature (28-42 °C), pH (5.0-8.0) and
+initial concentration of 2-ABS (5-40 ppm) was investigated in terms of
+degradation and chemical oxygen demand (COD) removal. Central composite design
+matrixand response surface methodology (RSM) were used for experimental design to
+evaluate theinteraction of the three process variables. The results show that up 
+to 95% degradation and COD 90% removal are possible at optimal values of 32.4 ppm
+2-ABS, pH 6.6 and a temperature of 35.7 °C. The theoretical response variables
+predicted by the developed RSM model was supported the experimental results. The 
+optimized degradation of 2-ABS and COD removal were further confirmed by UV-HPLC 
+analysis.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.mimet.2020.105941 
+PMID: 32433994 
+

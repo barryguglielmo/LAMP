@@ -1,0 +1,36 @@
+
+1. J Basic Microbiol. 2020 Jul;60(7):562-573. doi: 10.1002/jobm.202000042. Epub 2020
+Apr 20.
+
+Bioelectrochemical behaviour of a sequentially added biocatalytic coculture in a 
+microbial fuel cell.
+
+Arkatkar A(1)(2), Mungray AK(1), Sharma P(2).
+
+Author information: 
+(1)Department of Chemical Engineering, Sardar Vallabhabhai National Institute of 
+Technology, Surat, India.
+(2)Department of Biotechnology, Veer Narmad South Gujarat University, Surat,
+India.
+
+Bacterial isolates Pseudomonas aeruginosa BR, Alcaligenes faecalis SW and
+Escherichia coli EC from a microbial fuel cell (MFC) were cocultured with each
+other. The isolates were added in a specific sequence one after the other (two
+cultures in one reactor). The study helped us conceptualise the synergistic and
+antagonistic behaviour of bacterial isolates and also emphasised the sequence in 
+which a culture can be introduced in an anode chamber. The coculture conditions
+were evaluated on the basis of redox activity, electron transfer rate, columbic
+efficiency, and internal resistances. A good syntropy in terms of power
+production was found between P. aeruginosa BR and E. coli EC that recorded a
+power generation of 207.593 ± 1.705 µW/m2 . The addition of any culture in any
+sequence affected the performance of P. aeruginosa BR. This culture when added as
+a secondary culture in the reactor enhanced the performance of that reactor. The 
+sequence of addition of a culture in a reactor affected the performance in the
+combinations of (a) P. aeruginosa BR and A. faecalis SW and (b) A. faecalis SW
+and E. coli EC.
+
+© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/jobm.202000042 
+PMID: 32311138 
+

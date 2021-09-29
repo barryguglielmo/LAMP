@@ -1,0 +1,53 @@
+
+1. Life Sci. 2020 Sep 15;257:117999. doi: 10.1016/j.lfs.2020.117999. Epub 2020 Jun
+23.
+
+The combined antibacterial and anticancer properties of nano Ce-containing
+Mg-phosphate ceramic.
+
+Farag MM(1), Ahmed MM(2), Abdallah NM(3), Swieszkowski W(4), Shehabeldine AM(5).
+
+Author information: 
+(1)Glass Research Department, National Research Centre, 33 El-Behooth Str., 12622
+Dokki, Cairo, Egypt. Electronic address: mmfaragnrc@gmail.com.
+(2)Glass Research Department, National Research Centre, 33 El-Behooth Str., 12622
+Dokki, Cairo, Egypt.
+(3)Microbiology Department, Faculty of Science, Alazhar University, Nasr City,
+11651, Cairo, Egypt.
+(4)Biomaterials Group, Faculty of Materials Science and Engineering, Warsaw
+University of Technology, 02-507 Warsaw, Poland.
+(5)Department of Botany and Microbiology, Faculty of Science (Boys), Al-Azhar
+University, Nasr City, Cairo 11884, Egypt.
+
+AIM: This paper was mainly aimed at synthesis of Ce-containing nano-Mg-phosphate 
+ceramic as a multifunctional material.
+MATERIALS AND METHODS: Two ceramics based on Mg3(PO4)2 and Ce0.2Mg2.8(PO4)2
+formulas (MP and MP-C, respectively) were synthesized. The synthesized powders
+were characterized by XRD, TEM, Zeta potential, and FTIR. Also, their dissolution
+behavior was tested in Tris-HCl buffer solution. Moreover, the antimicrobial
+efficacy was evaluated against gram-positive bacteria (Bacillus sphaericus MTCC
+511 &Staphylococcus aureus MTCC 87) and gram-negative bacteria (Enterobacter
+aerogenes MTCC 111 &Pseudomonas aeruginosa MTCC 1034) using dick diffusion assay 
+and microdilution method. Furthermore, the cell viability test was performed for 
+the ceramics on Vero cells (African green monkey kidney cells), and their
+antitumor activity was determined by PC3 cell line (prostatic cancer). Also, the 
+cellular uptake was determined by the flow cytometry.
+KEY FINDINGS: The results showed that the substitution of Mg by Ce decreased the 
+particle size from 40 to 90 nm for MP sample to 2-10 nm for MP-C sample and
+increased the degradation rate. Both samples showed excellent antimicrobial
+activities. Moreover, MP demonstrated more cell viability than MP-C on Vero cells
+at high concentrations, whereas, MP-C showed more antitumor activity on PC3 cells
+than MP sample. Moreover, MP-C showed a higher cell uptake than MP due to its
+smaller size and more negative charge.
+SIGNIFICANCE: Mg-phosphate ceramic can be used in this study successfully as a
+delivery system for cerium ions and showed a high antitumor activity, which makes
+it highly recommended as safe and effective cancer treatment materials.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.lfs.2020.117999 
+PMID: 32585244  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no conflict of interest.
+

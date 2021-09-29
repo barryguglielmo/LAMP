@@ -1,0 +1,49 @@
+
+1. Foodborne Pathog Dis. 2020 Sep 7. doi: 10.1089/fpd.2020.2828. [Epub ahead of
+print]
+
+Effectiveness of a Direct-Fed Microbial Product Containing Lactobacillus
+acidophilus and Lactobacillus casei in Reducing Fecal Shedding of Escherichia
+coli O157:H7 in Commercial Feedlot Cattle.
+
+Dewsbury DMA(1)(2), Cernicchiaro N(1)(2), Depenbusch B(3), Nagaraja TG(2), Renter
+DG(1)(2).
+
+Author information: 
+(1)Center for Outcomes Research and Epidemiology, Kansas State University,
+Manhattan, Kansas, USA.
+(2)Department of Diagnostic Medicine/Pathobiology, College of Veterinary
+Medicine, Kansas State University, Manhattan, Kansas, USA.
+(3)Innovative Livestock Services, Inc., Great Bend, Kansas, USA.
+
+The objective of this study was to evaluate the effectiveness of a direct-fed
+microbial (DFM) product in reducing fecal shedding of Escherichia coli O157:H7 in
+finishing commercial feedlot cattle in Kansas (KS) and Nebraska (NE). Utilizing a
+randomized complete block design within the feedlot (KS, n = 1; NE, n = 1),
+cattle were randomly allocated to 20 pens, grouped in blocks of two based on
+allocation date, and then, within the block, randomly assigned to a treatment
+group (DFM or negative control). The DFM product was included in the diet at a
+targeted daily dose of 1 × 109 colony-forming units (CFU) of the Lactobacillus
+acidophilus and Lactobacillus casei combination per animal for at least 60 d
+before sampling. Feedlots were sampled for four consecutive weeks; weekly
+sampling consisted of collecting 20 pen floor fecal samples per pen. Fecal
+samples were subjected to culture-based methods for detection and isolation of E.
+coli O157, and positive samples were quantified using real-time polymerase chain 
+reaction. Primary outcomes of interest were fecal prevalence of E. coli O157:H7
+and E. coli O157 supershedding (≥104 CFU/g of feces) prevalence. Data for each
+feedlot were analyzed at the pen level using mixed models accounting for the
+study design features. Model-adjusted mean E. coli O157:H7 fecal prevalence
+estimates (standard error of the mean [SEM]) for DFM and control groups were 8.2%
+(SEM = 2.2%) and 9.9% (SEM = 2.5%) in KS and 14.6% (SEM = 2.8%) versus 14.3%
+(SEM = 2.6%) in NE; prevalence did not differ significantly between treatment
+groups at either site (KS, p = 0.51; NE, p = 0.92). Mean E. coli O157
+supershedding prevalence estimates for DFM and control groups were 2.2%
+(SEM = 0.7%) versus 1.8% (SEM = 0.7%) in KS (p = 0.66) and 6.7% (SEM = 1.5%)
+versus 3.2% (SEM = 1.0%) in NE (p = 0.04). In conclusion, administering the DFM
+product in the finishing diet of feedlot cattle did not significantly reduce E.
+coli O157:H7 fecal prevalence or supershedding prevalence in study pens at either
+commercial feedlot.
+
+DOI: 10.1089/fpd.2020.2828 
+PMID: 32898446 
+

@@ -1,0 +1,56 @@
+
+1. Appl Environ Microbiol. 2020 Jun 2;86(12). pii: e02275-19. doi:
+10.1128/AEM.02275-19. Print 2020 Jun 2.
+
+The Homogalacturonan Deconstruction System of Paenibacillus amylolyticus 27C64
+Requires No Extracellular Pectin Methylesterase and Has Significant Industrial
+Potential.
+
+Keggi C(1), Doran-Peterson J(1).
+
+Author information: 
+(1)Department of Microbiology, University of Georgia, Athens, Georgia, USA
+chris.keggi@uga.edu jpeterso@uga.edu.
+
+Paenibacillus amylolyticus 27C64, a Gram-positive bacterium with diverse plant
+cell wall polysaccharide deconstruction capabilities, was isolated previously
+from an insect hindgut. Previous work suggested that this organism's pectin
+deconstruction system differs from known systems in that its sole pectin
+methylesterase is cytoplasmic, not extracellular. In this work, we have
+characterized the specific roles of key extracellular pectinases involved in
+homogalacturonan deconstruction, including four pectate lyases and one pectin
+lyase. We show that one newly characterized pectate lyase, PelC, has a novel
+substrate specificity, with a lower Km for highly methylated pectins than for
+polygalacturonic acid. PelC works synergistically with PelB, a high-turnover
+exo-pectate lyase that releases Δ4,5-unsaturated trigalacturonate as its major
+product. It is likely that PelC frees internal stretches of demethylated
+homogalacturonan which PelB can degrade. We also show that the sole pectin lyase 
+has a high k cat value and rapidly depolymerizes methylated substrates. Three
+cytoplasmic GH105 hydrolases were screened for the ability to remove terminal
+unsaturated galacturonic acid residues from oligogalacturonide products produced 
+by the action of extracellular lyases, and we found that two are active on
+demethylated oligogalacturonides. This work confirms that efficient
+homogalacturonan deconstruction in P. amylolyticus 27C65 does not require
+extracellular pectin methylesterase activity. Three of the extracellular lyases
+studied in this work are also thermostable, function well over a broad pH range, 
+and have significant industrial potential.IMPORTANCE Pectin is an important
+structural polysaccharide found in most plant cell walls. In the environment,
+pectin degradation is part of the decomposition process that turns over dead
+plant material and is important to organisms that feed on plants. Industrially,
+pectinases are used to improve the quality of fruit juices and can also be used
+to process coffee cherries or tea leaves. These enzymes may also prove useful in 
+reducing the environmental impact of paper and cotton manufacturing. This work is
+significant because it focuses on a Gram-positive bacterium that is
+evolutionarily distinct from other well-studied pectin-degrading organisms and
+differs from known systems in key ways. Most importantly, a simplified
+extracellular deconstruction process in this organism is able to break down
+pectins without first removing the methyl groups that inhibit other systems.
+Moreover, some of the enzymes described here have the potential to improve
+industrial processes that rely on pectin deconstruction.
+
+Copyright © 2020 Keggi and Doran-Peterson.
+
+DOI: 10.1128/AEM.02275-19 
+PMCID: PMC7267202
+PMID: 32303547 
+

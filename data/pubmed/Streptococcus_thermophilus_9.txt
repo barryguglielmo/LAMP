@@ -1,0 +1,59 @@
+
+1. Proc Natl Acad Sci U S A. 2020 Sep 29;117(39):24494-24502. doi:
+10.1073/pnas.2008427117. Epub 2020 Sep 9.
+
+Structure-function studies of Rgg binding to pheromones and target promoters
+reveal a model of transcription factor interplay.
+
+Capodagli GC(1), Tylor KM(2), Kaelber JT(3)(4), Petrou VI(5)(6), Federle MJ(7),
+Neiditch MB(5).
+
+Author information: 
+(1)Department of Microbiology, Biochemistry, and Molecular Genetics, New Jersey
+Medical School, Rutgers Biomedical Health Sciences, Newark, NJ 07103.
+(2)Department of Microbiology and Immunology, University of Illinois at Chicago, 
+Chicago, IL 60607.
+(3)Rutgers New Jersey Cryo-Electron Microscopy & Tomography Core Facility,
+Rutgers University, Piscataway, NJ 08854.
+(4)Institute for Quantitative Biomedicine, Rutgers University, Piscataway, NJ
+08854.
+(5)Department of Microbiology, Biochemistry, and Molecular Genetics, New Jersey
+Medical School, Rutgers Biomedical Health Sciences, Newark, NJ 07103;
+vasileios.petrou@rutgers.edu mfederle@uic.edu matthew.neiditch@rutgers.edu.
+(6)Center for Immunity and Inflammation, New Jersey Medical School, Rutgers
+Biomedical Health Sciences, Newark, NJ 07103.
+(7)Department of Pharamaceutical Sciences, Center for Biomolecular Sciences,
+University of Illinois at Chicago, Chicago, IL 60607 vasileios.petrou@rutgers.edu
+mfederle@uic.edu matthew.neiditch@rutgers.edu.
+
+Regulator gene of glucosyltransferase (Rgg) family proteins, such as Rgg2 and
+Rgg3, have emerged as primary quorum-sensing regulated transcription factors in
+Streptococcus species, controlling virulence, antimicrobial resistance, and
+biofilm formation. Rgg2 and Rgg3 function is regulated by their interaction with 
+oligopeptide quorum-sensing signals called short hydrophobic peptides (SHPs). The
+molecular basis of Rgg-SHP and Rgg-target DNA promoter specificity was unknown.
+To close this gap, we determined the cryoelectron microscopy (cryo-EM) structure 
+of Streptococcus thermophilus Rgg3 bound to its quorum-sensing signal, SHP3, and 
+the X-ray crystal structure of Rgg3 alone. Comparison of these structures with
+that of an Rgg in complex with cyclosporin A (CsA), an inhibitor of SHP-induced
+Rgg activity, reveals the molecular basis of CsA function. Furthermore, to
+determine how Rgg proteins recognize DNA promoters, we determined X-ray crystal
+structures of both Streptococcus dysgalactiae Rgg2 and S. thermophilus Rgg3 in
+complex with their target DNA promoters. The physiological importance of observed
+Rgg-DNA interactions was dissected using in vivo genetic experiments and in vitro
+biochemical assays. Based on these structure-function studies, we present a
+revised unifying model of Rgg regulatory interplay. In contrast to existing
+models, where Rgg2 proteins are transcriptional activators and Rgg3 proteins are 
+transcriptional repressors, we propose that both are capable of transcriptional
+activation. However, when Rgg proteins with different activation requirements
+compete for the same DNA promoters, those with more stringent activation
+requirements function as repressors by blocking promoter access of SHP-bound
+conformationally active Rgg proteins. While a similar gene expression regulatory 
+scenario has not been previously described, in all likelihood it is not unique to
+streptococci.
+
+DOI: 10.1073/pnas.2008427117 
+PMID: 32907945 
+
+Conflict of interest statement: The authors declare no competing interest.
+

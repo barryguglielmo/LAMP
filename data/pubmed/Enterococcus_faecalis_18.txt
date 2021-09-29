@@ -1,0 +1,48 @@
+
+1. Acta Microbiol Immunol Hung. 2020 Sep 25. pii: 2020.01173. doi:
+10.1556/030.2020.01173. [Epub ahead of print]
+
+Upregulation of efrAB efflux pump among Enterococcus faecalis ST480, ST847 in
+Iran.
+
+Shiadeh SMJ(1), Azimi L(2), Azimi T(3), Pourmohammad A(1), Goudarzi M(1), Chaboki
+BG(4), Hashemi A(1).
+
+Author information: 
+(1)1Department of Microbiology, School of Medicine, Shahid Beheshti University of
+Medical Sciences, Tehran, Iran.
+(2)2Pediatric Infections Research Center, Mofid Children's Hospital, Shahid
+Beheshti, University of Medical Sciences, Tehran, Iran.
+(3)3Department of Pathobiology, School of Public Health, Tehran University of
+Medical Sciences, Tehran, Iran.
+(4)4Department of Biostatistics, School of Paramedical Sciences, Shahid Beheshti 
+University of Medical Sciences, Tehran, Iran.
+
+Antibiotic resistance and especially multiresistance in Enterococci, is a serious
+public health issue especially in infections of immunocompromised patients. EfrAB
+is a heterodimeric multidrug ATP-binding cassette (ABC) transporter that causes
+endogenous resistance to antimicrobials including fluoroquinolones in
+Enterococcus spp. The aim of this study was to seek the gene expression rate and 
+role of efrAB efflux pump in ciprofloxacin resistant Enterococcus faecalis and
+Multilocus Sequence Typing (MLST) of multiresistant isolates. Phenotypic and
+genotyping identification of 80 E. faecalis isolates were performed. Minimum
+inhibitory concentrations (MICs) to ciprofloxacin (CIP) were measured with and
+without carbonylcyanide 3-chlorophenylhydrazone (CCCP) by broth microdilution.
+After DNA extraction and sequencing for detection of efrA and efrB genes, the
+efrAB efflux positive isolates that were resistant to ciprofloxacin and showed
+decrease of ciprofloxacin MIC range were identified. Isolates that exhibited
+decrease in ciprofloxacin MIC range from two to ten folds were assessed for
+biofilm formation and finally, the expression levels of efrB, efrA genes were
+measured by quantitative Real-Time PCR (qRT-PCR). High rates of resistance to
+tetracycline and minocycline and low rates of resistance to the most antibiotics 
+used in this study were detected. The results in this study indicated that the
+incidence of Multiple drug resistance (MDR) was 23.7% and all isolates that were 
+resistant to ciprofloxacin revealed several degrees of overexpression in efrA and
+efrB genes. Our study found two ST480 and one ST847 in E. faecalis isolates. In
+conclusion, despite of low frequency of resistance to the most antibiotics and
+MDRs in our region, we found one ST480 isolate with resistance to eight
+antibiotics that also exists in other parts of the world.
+
+DOI: 10.1556/030.2020.01173 
+PMID: 32986605 
+

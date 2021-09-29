@@ -1,0 +1,47 @@
+
+1. Biomolecules. 2020 Jun 23;10(6). pii: E950. doi: 10.3390/biom10060950.
+
+Metabolism of Soy Isoflavones by Intestinal Bacteria: Genome Analysis of an
+Adlercreutzia Equolifaciens Strain That Does Not Produce Equol.
+
+Vázquez L(1)(2), Flórez AB(1)(2), Redruello B(3), Mayo B(1)(2).
+
+Author information: 
+(1)Departamento de Microbiología y Bioquímica, Instituto de Productos Lácteos de 
+Asturias (IPLA), Consejo Superior de Investigaciones Científicas (CSIC), 33300
+Villaviciosa, Spain.
+(2)Instituto de Investigación Sanitaria del Principado de Asturias (ISPA), 33011 
+Oviedo, Spain.
+(3)Servicios Científico-Técnicos, Instituto de Productos Lácteos de Asturias
+(IPLA), Consejo Superior de Investigaciones Científicas (CSIC), 33300
+Villaviciosa, Spain.
+
+Isoflavones are transformed in the gut into more estrogen-like compounds or into 
+inactive molecules. However, neither the intestinal microbes nor the pathways
+leading to the synthesis of isoflavone-derived metabolites are fully known. In
+the present work, 73 fecal isolates from three women with an equol-producing
+phenotype were considered to harbor equol-related genes by qPCR. After typing, 57
+different strains of different taxa were tested for their ability to act on the
+isoflavones daidzein and genistein. Strains producing small to moderate amounts
+of dihydrodaidzein and/or O-desmethylangolensin (O-DMA) from daidzein and
+dihydrogenistein from genistein were recorded. However, either alone or in
+several strain combinations, equol producers were not found, even though one of
+the strains, W18.34a (also known as IPLA37004), was identified as Adlercreutzia
+equolifaciens, a well-described equol-producing species. Analysis and comparison 
+of A. equolifaciens W18.34a and A. equolifaciens DSM19450T (an equol producer
+bacterium) genome sequences suggested a deletion in the former involving a large 
+part of the equol operon. Furthermore, genome comparison of A. equolifaciens and 
+Asaccharobacter celatus (other equol-producing species) strains from databases
+indicated many of these also showed deletions within the equol operon. The
+present results contribute to our knowledge to the activity of gut bacteria on
+soy isoflavones.
+
+DOI: 10.3390/biom10060950 
+PMCID: PMC7355428
+PMID: 32586036 
+
+Conflict of interest statement: The authors declare no conflicts of interest. The
+funders had no role in the design of the study; in the collection, analyses, or
+interpretation of data; in the writing of the manuscript, or in the decision to
+publish the results.
+

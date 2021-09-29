@@ -1,0 +1,55 @@
+
+1. BMC Microbiol. 2020 Jun 17;20(1):168. doi: 10.1186/s12866-020-01841-4.
+
+Microbial and metabolomic profiles in correlation with depression and anxiety
+co-morbidities in diarrhoea-predominant IBS patients.
+
+Liu T(1)(2)(3), Gu X(1)(2)(3), Li LX(1)(2)(3), Li M(1)(2)(3), Li B(1)(2)(3), Cui 
+X(1)(2)(3), Zuo XL(4)(5)(6).
+
+Author information: 
+(1)Department of Gastroenterology, Qilu Hospital, Cheloo College of Medicine,
+Shandong University, 107 Wenhuaxi Road, Jinan, 250012, Shandong Province, China.
+(2)Laboratory of Translational Gastroenterology, Qilu Hospital, Cheloo College of
+Medicine, Shandong University, Jinan, China.
+(3)Robot engineering laboratory for precise diagnosis and therapy of GI tumour,
+Qilu Hospital, Cheloo College of Medicine, Shandong University, Jinan, China.
+(4)Department of Gastroenterology, Qilu Hospital, Cheloo College of Medicine,
+Shandong University, 107 Wenhuaxi Road, Jinan, 250012, Shandong Province, China. 
+zuoxiuli@sdu.edu.cn.
+(5)Laboratory of Translational Gastroenterology, Qilu Hospital, Cheloo College of
+Medicine, Shandong University, Jinan, China. zuoxiuli@sdu.edu.cn.
+(6)Robot engineering laboratory for precise diagnosis and therapy of GI tumour,
+Qilu Hospital, Cheloo College of Medicine, Shandong University, Jinan, China.
+zuoxiuli@sdu.edu.cn.
+
+BACKGROUND: Psychological co-morbidities in irritable bowel syndrome (IBS) have
+been widely recognized, whereas less is known regarding the role of gut microbial
+and host metabolic changes in clinical and psychological symptoms in IBS.
+RESULTS: A total of 70 diarrhoea-predominant IBS (IBS-D) patients and 46 healthy 
+controls were enrolled in this study. Stool and urine samples were collected from
+both groups for 16S rRNA gene sequencing and metabolomic analysis. The results
+showed that fecal microbiota in IBS-D featured depleted Faecalibacterium
+(adjusted P = 0.034), Eubacterium rectale group (adjusted P = 0.048),
+Subdoligranulum (adjusted P = 0.041) and increased Prevotella (adjusted
+P = 0.041). O-ureido-L-serine, 3,4-dihydroxybenzenesulfonic acid and
+(R)-2-Hydroxyglutarate demonstrated lower urinary concentrations in IBS-D
+patients. We further built correlation matrices between gut microbe abundance,
+differentiated metabolite quantities and clinical parameters. Dialister
+manifested negative association with IBS severity (r = - 0.285, P = 0.017),
+anxiety (r = - 0.347, P = 0.003) and depression level (r = - 0.308, P = 0.010).
+Roseburia was negatively associated with IBS severity (r = - 0.298, P = 0.012).
+Twenty metabolites correlated with anxiety or depression levels, including
+3,4-dihydroxymandelaldehyde with SAS (r = - 0.383, P = 0.001), 1-methylxanthine
+with SDS (r = - 0.347, P = 0.004) and 1D-chiro-inositol with SAS (r = - 0.336,
+P = 0.005). In analysis of microbe-metabolite relationship,
+3,4-dihydroxymandelaldehyde and 1-methylxanthine were negatively correlated with 
+relative abundance of Clostridiumsensu stricto.
+CONCLUSIONS: Our findings demonstrated altered microbial and metabolomic profiles
+associated with clinically and psychological symptoms in IBS-D patients, which
+may provide insights for further investigations.
+
+DOI: 10.1186/s12866-020-01841-4 
+PMCID: PMC7302156
+PMID: 32552668 
+

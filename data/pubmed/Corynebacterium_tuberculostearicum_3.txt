@@ -1,0 +1,53 @@
+
+1. Immun Inflamm Dis. 2020 Mar;8(1):62-79. doi: 10.1002/iid3.284. Epub 2020 Jan 7.
+
+Corynebacterium tuberculostearicum, a human skin colonizer, induces the canonical
+nuclear factor-κB inflammatory signaling pathway in human skin cells.
+
+Altonsy MO(1)(2), Kurwa HA(1), Lauzon GJ(1), Amrein M(3), Gerber AN(4)(5),
+Almishri W(6), Mydlarski PR(1).
+
+Author information: 
+(1)Division of Dermatology, Department of Medicine, University of Calgary,
+Calgary, Canada.
+(2)Department of Zoology, Faculty of Science, Sohag University, Sohag, Egypt.
+(3)Department of Cell Biology and Anatomy, University of Calgary, Calgary,
+Canada.
+(4)Department of Medicine, National Jewish Health, Denver, Colorado.
+(5)Department of Medicine, University of Colorado, Denver, Colorado.
+(6)Division of Gastroenterology, Department of Medicine, University of Calgary,
+Calgary, Canada.
+
+INTRODUCTION: Corynebacterium tuberculostearicum (C. t.) is a ubiquitous
+bacterium that colonizes human skin. In contrast to other members of the genus
+Corynebacterium, such as toxigenic Corynebacterium diphtheriae or the
+opportunistic pathogen Corynebacterium jeikeium, several studies suggest that C. 
+t. may play a role in skin health and disease. However, the mechanisms underlying
+these effects remain poorly understood.
+METHODS: To investigate whether C. t. induces inflammatory pathways in primary
+human epidermal keratinocytes (HEKs) and human cutaneous squamous carcinoma cells
+(SCCs), cell culture, reverse transcription-polymerase chain reaction (PCR),
+enzyme-linked immunosorbent assay, immunofluorescence microscopy, Western blot,
+chromatin immunoprecipitation-PCR, small interfering RNA knockdown and luciferase
+reporter expression system were used.
+RESULTS: Herein, we demonstrate that C. t. upregulates the messenger RNA (mRNA)
+and protein levels of inflammatory mediators in two human skin cell lines, HEKs
+and SCCs. We further show activation of the canonical nuclear factor-κB (NF-κB)
+pathway in response to C. t. infection, including phosphorylation of the
+inhibitor of κB (IκB), the nuclear translocation of NF-κB subunit (NF-κB-P65 )
+and the recruitment of NF-κB-P65 and RNA polymerase to the NF-κB response
+elements at the promoter region of the inflammatory genes. Lastly, the data
+confirm that C. t.-induced tumor necrosis factor mRNA expression in HEKs is
+toll-like receptor 2 (TLR2 ) dependent.
+CONCLUSION: Our results offer a mechanistic model for C. t.-induced inflammation 
+in human keratinocytes via TLR2 and activation of IκB kinase and downstream
+signaling through the canonical NF-κB pathway. Relevance to chronic inflammatory 
+diseases of the skin and cutaneous oncology is discussed.
+
+© 2020 The Authors. Immunity, Inflammation and Disease published by John Wiley & 
+Sons Ltd.
+
+DOI: 10.1002/iid3.284 
+PMCID: PMC7016847
+PMID: 31912662 
+

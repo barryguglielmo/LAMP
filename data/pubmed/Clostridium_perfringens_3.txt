@@ -1,0 +1,37 @@
+
+1. BMC Vet Res. 2020 Sep 29;16(1):361. doi: 10.1186/s12917-020-02572-4.
+
+Development of a double-recombinant antibody sandwich ELISA for quantitative
+detection of epsilon toxoid concentration in inactivated Clostridium perfringens 
+vaccines.
+
+Alibeiki M(1), Golchin M(2), Tabatabaei M(3).
+
+Author information: 
+(1)Department of Pathobiology, Faculty of Veterinary Medicine, Shiraz University,
+Shiraz, Iran.
+(2)Department of Pathobiology, Faculty of Veterinary Medicine, Shahid Bahonar
+University of Kerman, Kerman, Iran.
+(3)Department of Pathobiology, Faculty of Veterinary Medicine, Shiraz University,
+Shiraz, Iran. mtabatabaei2003@yahoo.co.uk.
+
+BACKGROUND: Epsilon toxin (ETX) causes a commonly fatal enterotoxemia in domestic
+animals. Also, ETX causes serious economic losses to animal husbandry. In this
+study, we selected several clones against ETX using repertoires displayed on
+filamentous phage. Anti-ETX specific clones were enriched by binding to
+immobilized antigen, followed by elution and re-propagation of phage. After
+multiple rounds of binding selection, ELISA analysis showed that most isolated
+clones had high affinity and specificity for ETX.
+RESULTS: Two recombinant monoclonal antibodies against ETX were isolated by phage
+display technology. B1 phage VH antibody isolated from DAb library and G2 soluble
+scFv antibody isolated from Tomlinson I + J libraries have been applied as the
+capture and detection antibodies for developing an ETX sandwich ELISA test,
+respectively.
+CONCLUSIONS: Designed ETX sandwich ELISA could be a valuable tool for
+quantitative detection of ETX in inactivated commercial vaccines against
+enterotoxemia.
+
+DOI: 10.1186/s12917-020-02572-4 
+PMCID: PMC7525996
+PMID: 32993643 
+

@@ -1,0 +1,46 @@
+
+1. J Biol Chem. 2020 May 29;295(22):7635-7652. doi: 10.1074/jbc.RA120.013336. Epub
+2020 Apr 21.
+
+The genome of a Bacteroidetes inhabitant of the human gut encodes a structurally 
+distinct enoyl-acyl carrier protein reductase (FabI).
+
+Radka CD(1), Frank MW(1), Yao J(1), Seetharaman J(2), Miller DJ(2), Rock CO(3).
+
+Author information: 
+(1)Department of Infectious Diseases, St. Jude Children's Research Hospital,
+Memphis, Tennessee 38105.
+(2)Department of Structural Biology, St. Jude Children's Research Hospital,
+Memphis, Tennessee 38105.
+(3)Department of Infectious Diseases, St. Jude Children's Research Hospital,
+Memphis, Tennessee 38105 charles.rock@stjude.org.
+
+Enoyl-acyl carrier protein reductase (FabI) catalyzes a rate-controlling step in 
+bacterial fatty-acid synthesis and is a target for antibacterial drug
+development. A phylogenetic analysis shows that FabIs fall into four divergent
+clades. Members of clades 1-3 have been structurally and biochemically
+characterized, but the fourth clade, found in members of phylum Bacteroidetes, is
+uncharacterized. Here, we identified the unique structure and conformational
+changes that distinguish clade 4 FabIs. Alistipes finegoldii is a prototypical
+Bacteroidetes inhabitant of the gut microbiome. We found that A. finegoldii FabI 
+(AfFabI) displays cooperative kinetics and uses NADH as a cofactor, and its
+crystal structure at 1.72 Å resolution showed that it adopts a Rossmann fold as
+do other characterized FabIs. It also disclosed a carboxyl-terminal extension
+that forms a helix-helix interaction that links the protomers as a unique feature
+of AfFabI. An AfFabI·NADH crystal structure at 1.86 Å resolution revealed that
+this feature undergoes a large conformational change to participate in covering
+the NADH-binding pocket and establishing the water channels that connect the
+active site to the central water well. Progressive deletion of these interactions
+led to catalytically compromised proteins that fail to bind NADH. This unique
+conformational change imparted a distinct shape to the AfFabI active site that
+renders it refractory to a FabI drug that targets clade 1 and 3 pathogens. We
+conclude that the clade 4 FabI, found in the Bacteroidetes inhabitants of the
+gut, have several structural features and conformational transitions that
+distinguish them from other bacterial FabIs.
+
+© 2020 Radka et al.
+
+DOI: 10.1074/jbc.RA120.013336 
+PMCID: PMC7261799 [Available on 2021-05-29]
+PMID: 32317282 
+

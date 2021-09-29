@@ -1,0 +1,56 @@
+
+1. Mol Immunol. 2020 Sep 6;127:12-20. doi: 10.1016/j.molimm.2020.08.017. [Epub ahead
+of print]
+
+Inhibition of ssc-microRNA-140-5p ameliorates the Clostridium perfringens beta2
+toxin-induced inflammatory response in IPEC-J2 cells via the ERK1/2 and JNK
+pathways by targeting VEGFA.
+
+Luo R(1), Yan Z(2), Yang Q(3), Huang X(4), Gao X(5), Wang P(6), Wang W(7), Xie
+K(8), Gun S(9).
+
+Author information: 
+(1)College of Animal Science and Technology, Gansu Agricultural University,
+Lanzhou 730070, China. Electronic address: luoruirui628@163.com.
+(2)College of Animal Science and Technology, Gansu Agricultural University,
+Lanzhou 730070, China. Electronic address: yanzunqiang@163.com.
+(3)College of Animal Science and Technology, Gansu Agricultural University,
+Lanzhou 730070, China. Electronic address: yangql0112@163.com.
+(4)College of Animal Science and Technology, Gansu Agricultural University,
+Lanzhou 730070, China. Electronic address: huanghxy100@163.com.
+(5)College of Animal Science and Technology, Gansu Agricultural University,
+Lanzhou 730070, China. Electronic address: gxl18892@163.com.
+(6)College of Animal Science and Technology, Gansu Agricultural University,
+Lanzhou 730070, China. Electronic address: wangpf815@163.com.
+(7)College of Animal Science and Technology, Gansu Agricultural University,
+Lanzhou 730070, China. Electronic address: wangw@st.gsau.edu.cn.
+(8)College of Animal Science and Technology, Gansu Agricultural University,
+Lanzhou 730070, China. Electronic address: xkh34567@163.com.
+(9)College of Animal Science and Technology, Gansu Agricultural University,
+Lanzhou 730070, China; Gansu Research Center for Swine Production Engineering and
+Technology, Lanzhou 730070, China. Electronic address: gunsbao056@126.com.
+
+Piglet diarrhea and even death due to Clostridium perfringens (C. perfringens)
+type C infection have led to huge economic losses in the pig industry worldwide. 
+C. perfringens beta2 (CPB2) toxin is the main virulence factor for this pathogen.
+MiR-140-5p can exacerbate toxin-induced toxicity of toxin to cells by promoting
+oxidative stress. However, the role of pig miR-140-5p (ssc-miR-140-5p) in piglet 
+diarrhea caused by C. perfringens type C has not been studied. Here, we study
+investigated the function of ssc-miR-140-5p by generating an in vitro
+CPB2-induced injury model in intestinal porcine epithelial (IPEC-J2) cells. Our
+results revealed that transfection with an ssc-miR-140-5p inhibitor significantly
+increased the viability of CPB2-induced IPEC-J2 cells, decrease the release of
+lactate dehydrogenase (LDH) and reactive oxygen species (ROS), and inhibit
+inflammatory responses and apoptosis. In addition, vascular endothelial growth
+factor A (VEGFA) was identified as a direct target of ssc-miR-140-5p by
+luciferase reporter assay. Western blot analysis showed that inhibition of
+ssc-miR-140-5p could activate the ERK1/2 signaling pathway and inhibit the JNK
+signaling pathway. In summary, we showed that down-regulation of ssc-miR-140-5p
+ameliorated CPB2-induced inflammatory responses in IPEC-J2 cells via the ERK1/2
+and JNK signaling pathways by targeting VEGFA.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.molimm.2020.08.017 
+PMID: 32905904 
+

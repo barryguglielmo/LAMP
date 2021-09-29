@@ -1,0 +1,41 @@
+
+1. IUCrJ. 2020 Jan 25;7(Pt 2):166-172. doi: 10.1107/S2052252519017159. eCollection
+2020 Mar 1.
+
+Small-angle neutron scattering studies suggest the mechanism of BinAB protein
+internalization.
+
+Sharma M(1), Aswal VK(2), Kumar V(1), Chidambaram R(3).
+
+Author information: 
+(1)Protein Crystallography Section, Radiation Biology & Health Sciences Division,
+Bhabha Atomic Research Centre, Mumbai 400 085, India.
+(2)Solid State Physics Division, Bhabha Atomic Research Centre, Mumbai 400 085,
+India.
+(3)Homi Bhabha Professor, Bhabha Atomic Research Centre, Mumbai 400 085, India.
+
+Small-angle neutron scattering (SANS) is one of the most widely used
+neutron-based approaches to study the solution structure of biological
+macromolecular systems. The selective deuterium labelling of different protein
+components of a complex provides a means to probe conformational changes in
+multiprotein complexes. The Lysinibacillus sphaericus mosquito-larvicidal BinAB
+proteins exert toxicity through interaction with the receptor Cqm1 protein;
+however, the nature of the complex is not known. Rationally engineered deuterated
+BinB (dBinB) protein from the L. sphaericus ISPC-8 species was synthesized using 
+an Escherichia coli-based protein-expression system in M9 medium in D2O for
+'contrast-matched' SANS experiments. SANS data were independently analysed by ab 
+initio indirect Fourier transform-based modelling and using crystal structures.
+These studies confirm the dimeric status of Cqm1 in 100% D2O with a longest
+intramolecular vector (D max) of ∼94 Å and a radius of gyration (R g) of ∼31 Å.
+Notably, BinB binds to Cqm1, forming a heterodimeric complex (D max of ∼129 Å and
+R g of ∼40 Å) and alters its oligomeric status from a dimer to a monomer, as
+confirmed by matched-out Cqm1-dBinB (D max of ∼70 Å and R g of ∼22 Å). The
+present study thus provides the first insight into the events involved in the
+internalization of larvicidal proteins, likely by raft-dependent endocytosis.
+
+© Mahima Sharma et al. 2020.
+
+DOI: 10.1107/S2052252519017159 
+PMCID: PMC7055391
+PMID: 32148845 
+

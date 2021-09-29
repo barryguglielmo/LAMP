@@ -1,0 +1,51 @@
+
+1. Int J Genomics. 2020 Aug 25;2020:9369182. doi: 10.1155/2020/9369182. eCollection 
+2020.
+
+The Analysis of Estrogen-Degrading and Functional Metabolism Genes in Rhodococcus
+equi DSSKP-R-001.
+
+Tian K(1), Meng F(1), Meng Q(1), Gao Y(2), Zhang L(2), Wang L(1), Wang Y(2), Li
+X(1), Huo H(1)(2)(3).
+
+Author information: 
+(1)School of Environment, Northeast Normal University, No. 2555 Jingyue Avenue,
+Changchun City, Jilin Province, China.
+(2)School of Life Sciences, Northeast Normal University, No. 5268, Renmin Main
+Street, Nanguan District, Changchun City, Jilin Province, China.
+(3)Jilin Province Laboratory of Water Pollution Control and Resource Engineering,
+Changchun 130117, China.
+
+Estrogen contamination is recognized as one of the most serious environmental
+problems, causing widespread concern worldwide. Environmental estrogens are
+mainly derived from human and vertebrate excretion, drugs, and agricultural
+activities. The use of microorganisms is currently the most economical and
+effective method for biodegradation of environmental estrogens. Rhodococcus equi 
+DSSKP-R-001 (R-001) has strong estrogen-degrading capabilities. Our study
+indicated that R-001 can use different types of estrogen as its sole carbon
+source for growth and metabolism, with final degradation rates above 90%.
+Transcriptome analysis showed that 720 (E1), 983 (E2), and 845 (EE2) genes were
+significantly upregulated in the estrogen-treated group compared with the control
+group, and 270 differentially expressed genes (DEGs) were upregulated across all 
+treatment groups. These DEGs included ABC transporters; estrogen-degrading genes,
+including those that perform initial oxidation and dehydrogenation reactions and 
+those that further degrade the resulting substrates into small molecules; and
+metabolism genes that complete the intracellular transformation and utilization
+of estrogen metabolites through biological processes such as amino acid
+metabolism, lipid metabolism, carbohydrate metabolism, and the tricarboxylic acid
+cycle. In summary, the biodegradation of estrogens is coordinated by a metabolic 
+network of estrogen-degrading enzymes, transporters, metabolic enzymes, and other
+coenzymes. In this study, the metabolic mechanisms by which Rhodococcus equi
+R-001 degrades various estrogens were analyzed for the first time. A new
+pollutant metabolism system is outlined, providing a starting point for the
+construction of engineered estrogen-degrading bacteria.
+
+Copyright © 2020 Kejian Tian et al.
+
+DOI: 10.1155/2020/9369182 
+PMCID: PMC7471831
+PMID: 32908857 
+
+Conflict of interest statement: The authors declare that they have no conflicts
+of interest.
+

@@ -1,0 +1,47 @@
+
+1. Nat Commun. 2020 Jun 5;11(1):2837. doi: 10.1038/s41467-020-16741-4.
+
+Visualizing group II intron dynamics between the first and second steps of
+splicing.
+
+Manigrasso J(1), Chillón I(2), Genna V(3), Vidossich P(1), Somarowthu S(4), Pyle 
+AM(5)(6)(7), De Vivo M(8), Marcia M(9).
+
+Author information: 
+(1)Laboratory of Molecular Modelling & Drug Discovery, Istituto Italiano di
+Tecnologia, Via Morego 30, 16163, Genoa, Italy.
+(2)European Molecular Biology Laboratory (EMBL) Grenoble, 71 Avenue des Martyrs, 
+Grenoble, 38042, France.
+(3)Department of Structural and Computational Biology, Institute for Research in 
+Biomedicine (IRB), Parc Científic de Barcelona, C/ Baldiri Reixac 10-12, 08028,
+Barcelona, Spain.
+(4)Department of Biochemistry & Molecular Biology, Drexel University College of
+Medicine, Philadelphia, PA, USA.
+(5)Department of Molecular, Cellular and Developmental Biology, New Haven, CT,
+06511, USA.
+(6)Department of Chemistry, Yale University, New Haven, CT, 06511, USA.
+(7)Howard Hughes Medical Institute, Chevy Chase, MD, 20815, USA.
+(8)Laboratory of Molecular Modelling & Drug Discovery, Istituto Italiano di
+Tecnologia, Via Morego 30, 16163, Genoa, Italy. marco.devivo@iit.it.
+(9)European Molecular Biology Laboratory (EMBL) Grenoble, 71 Avenue des Martyrs, 
+Grenoble, 38042, France. mmarcia@embl.fr.
+
+Group II introns are ubiquitous self-splicing ribozymes and retrotransposable
+elements evolutionarily and chemically related to the eukaryotic spliceosome,
+with potential applications as gene-editing tools. Recent biochemical and
+structural data have captured the intron in multiple conformations at different
+stages of catalysis. Here, we employ enzymatic assays, X-ray crystallography, and
+molecular simulations to resolve the spatiotemporal location and function of
+conformational changes occurring between the first and the second step of
+splicing. We show that the first residue of the highly-conserved catalytic triad 
+is protonated upon 5'-splice-site scission, promoting a reversible structural
+rearrangement of the active site (toggling). Protonation and active site dynamics
+induced by the first step of splicing facilitate the progression to the second
+step. Our insights into the mechanism of group II intron splicing parallels
+functional data on the spliceosome, thus reinforcing the notion that these
+evolutionarily-related molecular machines share the same enzymatic strategy.
+
+DOI: 10.1038/s41467-020-16741-4 
+PMCID: PMC7275048
+PMID: 32503992  [Indexed for MEDLINE]
+

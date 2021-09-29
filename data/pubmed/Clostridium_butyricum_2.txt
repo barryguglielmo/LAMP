@@ -1,0 +1,50 @@
+
+1. Appl Microbiol Biotechnol. 2020 Sep 23. doi: 10.1007/s00253-020-10896-2. [Epub
+ahead of print]
+
+Protective effects of Clostridium butyricum against oxidative stress induced by
+food processing and lipid-derived aldehydes in Caco-2 cells.
+
+Li J(1), Shen H(1), Zhao Z(1), Cao D(1), Zeng M(1), Cai H(1), Wei J(1), Fan Q(1),
+Deng J(1), Ming F(1), Ma M(1), Liang Q(1), Jia J(1), Zhang S(1), Zhang L(2)(3).
+
+Author information: 
+(1)Guangdong Provincial Key Laboratory of Protein Function and Regulation in
+Agricultural Organisms, College of Life Sciences, South China Agricultural
+University, Guangzhou, 510642, Guangdong, China.
+(2)Guangdong Provincial Key Laboratory of Protein Function and Regulation in
+Agricultural Organisms, College of Life Sciences, South China Agricultural
+University, Guangzhou, 510642, Guangdong, China. lhzhang@scau.edu.cn.
+(3)Guangdong Laboratory for Lingnan Modern Agriculture, Guangzhou, 510642,
+Guangdong, China. lhzhang@scau.edu.cn.
+
+The human body is almost always facing the oxidative stress caused by foodborne
+aldehydes such as glyoxal (GO) and methylglyoxal (MGO), 4-hydroxyhexenal (HHE),
+and 4-hydroxynonenal (HNE). When these aldehydes build up, they can cause a range
+of harm. However, a probiotic, Clostridium butyricum, can increase nuclear factor
+erythroid-2 related factor 2 (Nrf2) and may have the potential to relieve
+oxidative stress. If C. butyricum is indeed resistant to aldehydes, the
+advantages (accessibility, convenience, and safety) will be of great significance
+compared with drugs. Unfortunately, whether C. butyricum can play a role in
+alleviating toxic effects of foodborne aldehydes in the intestine (the first line
+of defense against food-derived toxin) was unclear. To investigate these, we
+measured the viability, ROS, autophagy, and inflammatory cytokine expression of
+Caco-2 which were co-cultured with C. butyricum and stimulated by the four
+aldehydes via Nrf2 pathway (Staphylococcus aureus and Enterococcus faecium as
+controls). Then, we explored the link among C. butyricum, NLRP6, and Nrf2
+signaling pathways when facing the stimuli. In the present study, we demonstrated
+that Clostridium butyricum relieved the oxidative stress induced by the aldehydes
+in Caco-2. Most interestingly, we found a "complementary" relationship between
+NLRP6 and Nrf2 in C. butyricum treatment under aldehyde stress. Our research not 
+only makes a contribution to the popularization of C. butyricum as a
+probiotic-rich food instead of medicines but also sheds new light on the
+application of subsequent microecological formulation of C. butyricum. KEY
+POINTS: • The adverse effects are caused in a dose-dependent manner by foodborne 
+aldehydes. • Clostridium butyricum can significantly ameliorate oxidative stress.
+• There is a "complementary" relationship between the NLRP6 and Nrf2 signaling
+pathways. • Using Clostridium butyricum foods to alleviate oxidative stress shows
+great prospects.
+
+DOI: 10.1007/s00253-020-10896-2 
+PMID: 32965561 
+

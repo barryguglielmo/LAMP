@@ -1,0 +1,75 @@
+
+1. J Steroid Biochem Mol Biol. 2020 May;199:105567. doi:
+10.1016/j.jsbmb.2019.105567. Epub 2019 Dec 20.
+
+Bacterial steroid-17,20-desmolase is a taxonomically rare enzymatic pathway that 
+converts prednisone to 1,4-androstanediene-3,11,17-trione, a metabolite that
+causes proliferation of prostate cancer cells.
+
+Ly LK(1), Rowles JL 3rd(2), Paul HM(3), Alves JMP(4), Yemm C(5), Wolf PM(6),
+Devendran S(7), Hudson ME(8), Morris DJ(9), Erdman JW Jr(2), Ridlon JM(10).
+
+Author information: 
+(1)Microbiome Metabolic Engineering Theme, Carl R. Woese Institute for Genomic
+Biology, Urbana, IL 61801, USA; Division of Nutritional Sciences, University of
+Illinois at Urbana-Champaign, Urbana, IL 61801, USA.
+(2)Division of Nutritional Sciences, University of Illinois at Urbana-Champaign, 
+Urbana, IL 61801, USA.
+(3)Center for Advanced Bioenergy and Bioproducts Innovation, Carl R. Woese
+Institute for Genomic Biology, Urbana, IL, USA; Illinois Informatics Institute,
+University of Illinois at Urbana-Champaign, Urbana, IL, USA.
+(4)Department of Parasitology, Institute of Biomedical Sciences, University of
+São Paulo, São Paulo, Brazil.
+(5)Department of Biochemistry, University of Illinois at Urbana-Champaign,
+Urbana, IL, USA.
+(6)Department of Animal Sciences, University of Illinois at Urbana-Champaign,
+Urbana, IL, USA.
+(7)Microbiome Metabolic Engineering Theme, Carl R. Woese Institute for Genomic
+Biology, Urbana, IL 61801, USA; Department of Animal Sciences, University of
+Illinois at Urbana-Champaign, Urbana, IL, USA.
+(8)Center for Advanced Bioenergy and Bioproducts Innovation, Carl R. Woese
+Institute for Genomic Biology, Urbana, IL, USA; Illinois Informatics Institute,
+University of Illinois at Urbana-Champaign, Urbana, IL, USA; Department of Crop
+Sciences, University of Illinois at Urbana-Champaign, Urbana, IL, USA.
+(9)Department of Pathology and Laboratory Medicine, The Miriam Hospital, Warren
+Alpert Medical School of Brown University, Providence, RI, USA.
+(10)Microbiome Metabolic Engineering Theme, Carl R. Woese Institute for Genomic
+Biology, Urbana, IL 61801, USA; Division of Nutritional Sciences, University of
+Illinois at Urbana-Champaign, Urbana, IL 61801, USA; Department of Animal
+Sciences, University of Illinois at Urbana-Champaign, Urbana, IL, USA; Cancer
+Center of Illinois, University of Illinois at Urbana-Champaign, Urbana, IL, USA; 
+Department of Microbiology and Immunology, Virginia Commonwealth University
+School of Medicine, Richmond, VA, USA. Electronic address: jmridlon@illinois.edu.
+
+The adrenal gland has traditionally been viewed as a source of "weak androgens"; 
+however, emerging evidence indicates 11-oxy-androgens of adrenal origin are
+metabolized in peripheral tissues to potent androgens. Also emerging is the role 
+of gut bacteria in the conversion of C21 glucocorticoids to 11-oxygenated C19
+androgens. Clostridium scindens ATCC 35,704 is a gut microbe capable of
+converting cortisol into 11-oxy-androgens by cleaving the side-chain. The desA
+and desB genes encode steroid-17,20-desmolase. Our prior study indicated that the
+urinary tract bacterium, Propionimicrobium lymphophilum ACS-093-V-SCH5 encodes
+desAB and converts cortisol to 11β-hydroxyandrostenedione. We wanted to determine
+how widespread this function occurs in the human microbiome. Phylogenetic and
+sequence similarity network analyses indicated that the steroid-17,20-desmolase
+pathway is taxonomically rare and located in gut and urogenital microbiomes. Two 
+microbes from each of these niches, C. scindens and Propionimicrobium
+lymphophilum, respectively, were screened for activity against endogenous
+(cortisol, cortisone, and allotetrahydrocortisol) and exogenous (prednisone,
+prednisolone, dexamethasone, and 9-fluorocortisol) glucocorticoids. LC/MS
+analysis showed that both microbes were able to side-chain cleave all
+glucocorticoids, forming 11-oxy-androgens. Pure recombinant DesAB from C.
+scindens showed the highest activity against prednisone, a commonly prescribed
+glucocorticoid. In addition, 0.1 nM 1,4-androstadiene-3,11,17-trione, bacterial
+side-chain cleavage product of prednisone, showed significant proliferation
+relative to vehicle in androgen-dependent growth LNCaP prostate cancer cells
+after 24 h (2.3 fold; P <  0.01) and 72 h (1.6 fold; P < 0.01). Taken together,
+DesAB-expressing microbes may be an overlooked source of androgens in the body,
+potentially contributing to various disease states, such as prostate cancer.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jsbmb.2019.105567 
+PMCID: PMC7333170 [Available on 2021-05-01]
+PMID: 31870912  [Indexed for MEDLINE]
+

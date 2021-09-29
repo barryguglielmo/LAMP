@@ -1,0 +1,51 @@
+
+1. Infect Drug Resist. 2020 Jul 12;13:2285-2290. doi: 10.2147/IDR.S257877.
+eCollection 2020.
+
+Profiles of gyrA Mutations and Plasmid-Mediated Quinolone Resistance Genes in
+Shigella Isolates with Different Levels of Fluoroquinolone Susceptibility.
+
+Yu X(1), Zhang D(2), Song Q(3).
+
+Author information: 
+(1)Department of Hospital Infection, Ningbo City First Hospital, Ningbo, Zhejiang
+Province, People's Republic of China.
+(2)Department of Microbiology, Ningbo Municipal Centre for Disease Control and
+Prevention, Ningbo, Zhejiang Province, People's Republic of China.
+(3)Central Laboratory, Ningbo City First Hospital, Ningbo, Zhejiang Province,
+People's Republic of China.
+
+Purpose: Fluoroquinolone-resistant Shigella is considered a serious public health
+problem and has been put on the WHO global priority list of antibiotic-resistant 
+bacteria. This study was aimed to investigate the fluoroquinolone resistance in
+Shigella and its relevant genetic mechanisms.
+Materials and Methods: Shigella isolates that were isolated from diarrheal
+patient's feces in Ningbo China from 2011 to 2018 were tested for susceptibility 
+to ampicillin, gentamicin, tetracycline, nalidixic acid, ciprofloxacin, and
+cefotaxime. Genes related to quinolone resistance were amplified by PCR.
+Results: A total of 118 Shigella isolates were collected, including 76 S.
+flexneri isolates, 40 S. sonnei isolates, and 2 S. boydii isolates. Ciprofloxacin
+susceptibility test identified 10 (9%) susceptible, 65 (55%) intermediate, and 43
+(36%) resistant isolates. Of 76 S. flexneri isolates, 37 were ciprofloxacin
+resistant, a prevalence significantly higher than 6 of 40 S. sonnei isolates
+(P=0.01). The isolates collected during 2014-2018 displayed a significant
+increase in the prevalence of ciprofloxacin resistance (P=0.05) than those
+collected during 2011-2013. All the ciprofloxacin-intermediate and resistant
+isolates had mutations of gyrA(S83L) and parC (S80I), whereas only the
+ciprofloxacin-resistant isolates had gyrA (D87N) mutation and qnrB gene.
+Additionally, 30% of the ciprofloxacin-resistant isolates were positive for
+aac(6´)-Ib-cr gene.
+Conclusion: This study shows the currently increasing prevalence of ciprofloxacin
+resistance. The reduced fluoroquinolone susceptibility is highly associated with 
+gyrA (S83L) and parC (S80I) mutations, while the fluoroquinolone resistance is
+highly associated with gyrA (D87N) mutation, qnrB gene and perhaps aac(6´)-Ib-cr 
+gene.
+
+© 2020 Yu et al.
+
+DOI: 10.2147/IDR.S257877 
+PMCID: PMC7367718
+PMID: 32765004 
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+

@@ -1,0 +1,56 @@
+
+1. Transfusion. 2020 Aug 1. doi: 10.1111/trf.15951. [Epub ahead of print]
+
+Sepsis from an apheresis platelet contaminated with Acinetobacter
+calcoaceticus/baumannii complex bacteria and Staphylococcus saprophyticus after
+pathogen reduction.
+
+Fridey JL(1), Stramer SL(2), Nambiar A(3), Moayeri M(3), Bakkour S(4), Langelier 
+C(5), Crawford E(5), Lu T(6), Lanteri MC(6), Kamm J(5), Miller S(3), Wagner
+SJ(7), Benjamin RJ(6), Busch MP(4).
+
+Author information: 
+(1)Southern California Region, American Red Cross, Pomona, California, USA.
+(2)Scientific Affairs, American Red Cross, Gaithersburg, Maryland, USA.
+(3)Department of Laboratory Medicine, University of California San Francisco, San
+Francisco, California, USA.
+(4)Vitalant Research Institute, San Francisco, California, USA.
+(5)Chan Zuckerberg Biohub, University of California San Francisco, San Francisco,
+California, USA.
+(6)Cerus Corporation, Concord, California, USA.
+(7)Transfusion Innovation, American Red Cross, Rockville, Maryland, USA.
+
+BACKGROUND: Strategies to reduce platelet (PLT) bacterial contamination include
+donor screening, skin disinfection, sample diversion, bacterial culture, pathogen
+reduction (PR), and day-of-transfusion tests. We report bacterial sepsis
+following a pathogen-reduced PLT transfusion.
+CASE REPORT: An adult male with relapsed acute lymphoblastic leukemia was
+successfully treated for central catheter-associated Staphylococcus aureus
+bacteremia. A peripherally inserted central catheter (PICC) was placed. Chills,
+rigors, and flushing developed immediately after PICC-infused pathogen-reduced
+PLTs, progressing to septic shock requiring intensive care management.
+METHODS: PICC and peripheral blood (PB), transfused bag saline flushes (TBFs),
+environmental samples, and the pathogen-reduced untransfused co-component (CC)
+were cultured. Plasma metagenomic and bacterial isolate whole-genome sequencing; 
+PLT mitochondrial DNA (mtDNA) testing of untransfused CC and TBF; CC testing for 
+amotosalen (S-59)/S-59 photoproducts; isolate PR studies (INTERCEPT); and TBF
+polymerase chain reaction for recipient Y-chromosome DNA were performed.
+RESULTS: PB and PICC cultures grew Acinetobacter calcoaceticus/baumannii complex 
+(ACBC). TBF was gram-positive; mass spectrometry identified ACBC and
+Staphylococcus saprophyticus (SS). CC Gram stain and cultures were negative.
+Environmental cultures, some done after decontamination, were ACBC/SS negative.
+Posttransfusion patient plasma and TBF ACBC sequences were genetically identical.
+No Y-chromosome signal was detected in TBF. S-59 photoproducts and evidence of
+mtDNA amplification inhibition were found in the CC. Spiking PR studies showed
+>5.9-log inactivation for both isolates. Donor skin cultures for Acinetobacter
+were negative.
+CONCLUSION: CC sterility, PR studies, residual S-59 photoproducts, and mtDNA
+amplification inhibition suggest successful PR. Unidentified environmental
+sources and inherent or acquired bag defects may have contributed to
+postmanufacturing pathogen-reduced PLT contamination.
+
+© 2020 AABB.
+
+DOI: 10.1111/trf.15951 
+PMID: 32738079 
+

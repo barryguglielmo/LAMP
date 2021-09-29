@@ -1,0 +1,37 @@
+
+1. Biotechnol Rep (Amst). 2020 Apr 28;26:e00459. doi: 10.1016/j.btre.2020.e00459.
+eCollection 2020 Jun.
+
+Optimization studies on biodegradation of atrazine by Bacillus badius ABP6 strain
+using response surface methodology.
+
+Khatoon H(1), Rai JPN(1).
+
+Author information: 
+(1)Department of Environmental Science, G.B. Pant University of Agriculture and
+Technology, Pantnagar (U.S. Nagar), Uttarakhand, India.
+
+In this study, the optimization of distinctive environmental factors such as pH, 
+temperature, agitation-speed and atrazine-concentration on atrazine degradation
+by utilizing Bacillus badius ABP6 strain, has been done through
+response-surface-methodology (RSM). The optimum-conditions after analysis for the
+maximum atrazine degradation were: pH 7.05, temperature 30.4 °C, agitation-speed 
+145.7 rpm, and atrazine-concentration 200.9 ppm. The prescribed model was
+approved for high F-value (95.92), very low P-value (<0.01) and non- significant 
+lack of fit (0.1627). It was observed that under the optimized-conditions, the R2
+value of regression models for all the response variables was 0.9897 and the
+maximum atrazine degradation i.e. 89.7 % was found. Finally for graphical
+representation, the validated optimum-conditions of variables and responses were 
+simulated using three dimensional plots (3D). The confirmation of the model is
+successful to suggest the optimization parameters of atrazine degradation under
+in-situ condition by bacterial isolate employing response-surface-methodology
+optimization tool of Design expert software (new version 10.0.1).
+
+© 2020 Published by Elsevier B.V.
+
+DOI: 10.1016/j.btre.2020.e00459 
+PMCID: PMC7210405
+PMID: 32395437 
+
+Conflict of interest statement: None.
+

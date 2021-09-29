@@ -1,0 +1,40 @@
+
+1. Iran J Microbiol. 2020 Aug;12(4):263-272. doi: 10.18502/ijm.v12i4.3928.
+
+Aptamer-nanobody based ELASA for detection of Vibrio cholerae O1.
+
+Mojarad AE(1), Gargaria SLM(1).
+
+Author information: 
+(1)Department of Biology, Shahed University, Tehran, Iran.
+
+Background and Objectives: In recent years, the prevalence of diseases caused by 
+Vibrio spp. is increasing in the world, and among them species, Vibrio cholerae
+is the most important Vibrio associated with pandemic and epidemic cholera
+outbreaks. Therefore, the development of a reliable method for early and accurate
+detection of V. cholerae for management of diseases is a real need. Aptamers with
+the ability to detect targets with high specificity and accuracy can be one of
+the candidates used for the whole cell and thereby V. cholerae detection.
+Materials and Methods: In this research high-affinity DNA aptamers against with
+two major serotypes of Inaba (ATCC 39315) and Ogawa (clinical sample) were
+selected from DNA aptamer library through 12 rounds of Systematic Evolution of
+Ligands by Exponential (SELEX) enrichment procedure using live cells as a target 
+which monitored with flow cytometry.
+Results: The binding efficiency and dissociation constant of the isolated
+aptamers V.ch47 and V.ch27 were 56.4%, 53.3% and 15.404 ± 4.776 pM, 20.186 ±
+3.655 pM, respectively. A sandwich Enzyme-linked aptamer sorbent assay (ELASA)
+was developed with the biotinylated V.ch47 aptamer and our previously developed
+nanobody anti-Lipopolysaccharides (LPS). We optimized this system with V.
+cholerae O1 and analyzed their cross reactivity with close physiological
+bacteria. The threshold of detection was obtained 104 CFU/ml in the sandwich
+ELASA process.
+Conclusion: Our results showed that the sandwich ELASA is sensitive enough for
+the rapid detection of V. cholerae from other bacteria.
+
+Copyright© 2020 Iranian Society of Microbiology & Tehran University of Medical
+Sciences.
+
+DOI: 10.18502/ijm.v12i4.3928 
+PMCID: PMC7502147
+PMID: 32994896 
+

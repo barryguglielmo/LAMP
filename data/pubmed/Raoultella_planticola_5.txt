@@ -1,0 +1,46 @@
+
+1. Infect Drug Resist. 2019 Dec 20;12:3935-3942. doi: 10.2147/IDR.S233795.
+eCollection 2019.
+
+Fecal Carriage and Epidemiology of Carbapenem-Resistant Enterobacteriaceae Among 
+Hospitalized Patients in a University Hospital.
+
+Liu Q(1), Liu L(1), Li Y(1), Chen X(1), Yan Q(1), Liu WE(1).
+
+Author information: 
+(1)Department of Clinical Laboratory, Xiangya Hospital of Central South
+University, Changsha, Hunan, People's Republic of China.
+
+Purpose: To determine the prevalence and epidemiology of fecal carriage of
+carbapenem-resistant Enterobacteriaceae (CRE), antimicrobial susceptibility,
+carbapenemase phenotype/genotype, and the colistin-resistance gene mcr-1 in a
+university hospital in China.
+Methods: A comprehensive study of the fecal carriage of CRE in 704 patients was
+performed. Multilocus sequence typing (MLST) and pulsed-field gel electrophoresis
+(PFGE) were applied to elucidate the molecular epidemiology of the isolates.
+Results: In total, 60 CRE were detected in the 704 stool samples (8.5%),
+including 42 Klebsiella pneumoniae, 7 Escherichia coli, 3 Citrobacter freundii, 3
+Klebsiella oxytoca, 3 Enterobacter cloacae, 1 Enterobacter aerogenes, and 1
+Raoultella planticola. Fifty-five CRE isolates were positive for the
+carbapenemase phenotype, of which 39 were Klebsiella pneumoniae carbapenemase
+(KPC) producers. Thirty KPC-producing K. pneumoniae sequence type (ST) 11
+isolates were identified and 28 were grouped into one cluster with a similarity
+of ≥85%, of predominately intensive care unit (ICU) strains. Three KPC-producing 
+ST1889 strains were isolated from the pediatric ward, all indistinguishable and
+resistant to tigecycline. All CRE were susceptible to colistin and negative for
+mcr-1.
+Conclusion: This study revealed a predominant fecal carriage of the KPC-producing
+K. pneumoniae ST11 clone, with several indistinguishable strain clusters, and the
+emergence of ST1889 in a Chinese university hospital. This evidence of
+cross-infection supports the urgent need for the implementation of infection
+control measures to prevent CRE dissemination.
+
+© 2019 Liu et al.
+
+DOI: 10.2147/IDR.S233795 
+PMCID: PMC6929936
+PMID: 31908504 
+
+Conflict of interest statement: The authors report no conflicts of interest in
+this work.
+

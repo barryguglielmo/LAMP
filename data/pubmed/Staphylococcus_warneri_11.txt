@@ -1,0 +1,48 @@
+
+1. 3 Biotech. 2020 May;10(5):232. doi: 10.1007/s13205-020-02231-3. Epub 2020 May 6.
+
+The draft genome of Staphylococcus warneri TRPF4, a bacteriocin producer with
+potent activity against the causative agent of Legionnaires' Disease.
+
+Freitas FS(1), Vidigal PMP(2), Siqueira TP(1), de Barros M(3), Tótola MR(1).
+
+Author information: 
+(1)1Departamento de Microbiologia, Laboratório de Biotecnologia e Biodiversidade 
+Para o Meio Ambiente, Universidade Federal de Viçosa, Peter Henry Rolfs Avenue
+w/n, Viçosa, MG Brazil.
+(2)2Núcleo de Análise de Biomoléculas, Centro de Ciências Biológicas,
+Universidade Federal de Viçosa, Peter Henry Rolfs Avenue w/n, Viçosa, MG Brazil.
+(3)3Departamento de Veterinária, Laboratório de Doenças Bacterianas, Universidade
+Federal de Viçosa, Peter Henry Rolfs Avenue w/n, Viçosa, MG Brazil.
+
+In this work, we present the draft genome sequence of Staphylococcus warneri
+strain TRPF4 consisting of 2,634,550 bp with a G + C content of 32.4%. The genome
+sequence includes 2466 protein-coding genes, 11 rRNAs and 62 tRNAs, in 33
+contigs. Applying the Rapid Annotation using Subsystem Technology (RAST) a total 
+of 1322 protein-coding genes were assigned to 393 subsystems. Also, a set of 1286
+protein-coding genes with designated functions were assigned to 21 categories in 
+the Cluster of Orthologous Groups (COG) database. Further analysis of BAGEL3
+software demonstrated that the TRPF4 genome contains two gene clusters
+responsible for the synthesis of three bacteriocins, one warnericin RK and two
+delta-lysins. Besides, a novel delta-lysin of 3.48 kDa was identified for the
+first time. The three predicted bacteriocins were chemically synthesized and
+screened for the antimicrobial activity against a range of pathogens, exhibiting 
+a potent and specific antimicrobial activity counter to L. pneumophila, with
+minimum inhibitory concentrations (MIC) ranging from 1.9 to 7.8 µg mL-1. These
+results indicate that the strain TRPF4 can produce bacteriocins with
+anti-Legionella activity. This was verified by the extracting the bacteriocins
+from the fermentation broth and testing against L. pneumophila. Additionally, the
+strain TRPF4 exhibited no cytotoxicity in mammalian cell lines. In summary, the
+genomic sequences and in vitro assays demonstrated the potential application of
+bacteriocins from S. warneri TRPF4 as a scaffold for further development of drugs
+against L. pneumophila, the causative agent of Legionnaires' Disease.
+
+© King Abdulaziz City for Science and Technology 2020.
+
+DOI: 10.1007/s13205-020-02231-3 
+PMCID: PMC7200953 [Available on 2021-05-01]
+PMID: 32399382 
+
+Conflict of interest statement: Conflict of interestThe authors declare that they
+have no conflict of interest.
+

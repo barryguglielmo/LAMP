@@ -1,0 +1,39 @@
+
+1. Mol Microbiol. 2020 Apr;113(4):807-825. doi: 10.1111/mmi.14445. Epub 2020 Jan 6.
+
+Fatty acid activation and utilization by Alistipes finegoldii, a representative
+Bacteroidetes resident of the human gut microbiome.
+
+Radka CD(1), Frank MW(1), Rock CO(1), Yao J(1).
+
+Author information: 
+(1)Department of Infectious Diseases, St. Jude Children's Research Hospital,
+Memphis, Tennessee.
+
+Members of the Bacteroidetes phylum, represented by Alistipes finegoldii, are
+prominent anerobic, Gram-negative inhabitants of the gut microbiome. The lipid
+biosynthetic pathways were analyzed using bioinformatic analyses, lipidomics,
+metabolic labeling and biochemistry to characterize exogenous fatty acid
+metabolism. A. finegoldii only produced the saturated fatty acids. The most
+abundant lipids were phosphatidylethanolamine (PE) and sulfonolipid (SL). Neither
+phosphatidylglycerol nor cardiolipin are present. PE synthesis is initiated by
+the PlsX/PlsY/PlsC pathway, whereas the SL pathway is related to sphingolipid
+biosynthesis. A. finegoldii incorporated medium-chain fatty acids (≤14 carbons)
+into PE and SL after their elongation, whereas long-chain fatty acids (≥16
+carbons) were not elongated. Fatty acids >16 carbons were primarily incorporated 
+into the 2-position of phosphatidylethanolamine at the PlsC step, the only
+biosynthetic enzyme that utilizes long-chain acyl-ACP. The ability to assimilate 
+a broad-spectrum of fatty acid chain lengths present in the gut environment is
+due to the expression of two acyl-acyl carrier protein (ACP) synthetases.
+Acyl-ACP synthetase 1 had a substrate preference for medium-chain fatty acids and
+synthetase 2 had a substrate preference for long-chain fatty acids. This unique
+combination of synthetases allows A. finegoldii to utilize both the medium- and
+long-chain fatty acid nutrients available in the gut environment to assemble its 
+membrane lipids.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/mmi.14445 
+PMCID: PMC7176543 [Available on 2021-04-01]
+PMID: 31876062 
+

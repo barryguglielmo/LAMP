@@ -1,0 +1,46 @@
+
+1. Environ Sci Technol. 2020 Jul 7;54(13):8061-8071. doi: 10.1021/acs.est.0c01456.
+Epub 2020 Jun 18.
+
+Effects of Extracellular Polymeric Substances on the Formation and Methylation of
+Mercury Sulfide Nanoparticles.
+
+Zhang Z(1), Si R(2), Lv J(3), Ji Y(1), Chen W(1), Guan W(1), Cui Y(1), Zhang
+T(1).
+
+Author information: 
+(1)College of Environmental Science and Engineering, Ministry of Education Key
+Laboratory of Pollution Processes and Environmental Criteria, Tianjin Key
+Laboratory of Environmental Remediation and Pollution Control, Nankai University,
+Tianjin 300350, P. R. China.
+(2)Shanghai Synchrotron Radiation Facility, Shanghai Institute of Applied
+Physics, Chinese Academy of Sciences, Shanghai 201204, P. R. China.
+(3)State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research
+Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing
+100085, P. R. China.
+
+Growing evidence has suggested that microbial biofilms are potential
+environmental "hotspots" for the production and accumulation of a bioaccumulative
+neurotoxin, methylmercury. Here, we demonstrate that extracellular polymeric
+substances (EPS), the main components of biofilm matrices, significantly
+interfere with mercury sulfide precipitation and lead to the formation of
+nanoparticulate metacinnabar available for microbial methylation, a natural
+process predominantly responsible for the environmental occurrence of
+methylmercury. EPS derived from mercury methylating bacteria, particularly
+Desulfovibrio desulfuricans ND132, substantially increase the methylation
+potential of nanoparticulate mercury. This is likely due to the abundant aromatic
+biomolecules in EPS that strongly interact with mercury sulfide via inner-sphere 
+complexation and consequently enhance the short-range structural disorder while
+mitigating the aggregation of nanoparticulate mercury. The EPS-elevated
+bioavailability of nanoparticulate mercury to D. desulfuricans ND132 is not
+induced by dissolution of these nanoparticles in aqueous phase, and may be
+dictated by cell-nanoparticle interfacial reactions. Our discovery is the first
+step of mechanistically understanding methylmercury production in biofilms. These
+new mechanistic insights will help incorporate microbial EPS and
+particulate-phase mercury into mercury methylation models, and may facilitate the
+assessment of biogeochemical cycling of other nutrient or toxic elements driven
+by EPS-producing microorganisms that are prevalent in nature.
+
+DOI: 10.1021/acs.est.0c01456 
+PMID: 32511902 
+

@@ -1,0 +1,54 @@
+
+1. Science. 2020 Sep 18;369(6510):1481-1489. doi: 10.1126/science.abc3421. Epub 2020
+Aug 13.
+
+Microbiome-derived inosine modulates response to checkpoint inhibitor
+immunotherapy.
+
+Mager LF(1), Burkhard R(2), Pett N(3), Cooke NCA(3), Brown K(3), Ramay H(4), Paik
+S(5), Stagg J(6), Groves RA(7), Gallo M(5), Lewis IA(7), Geuking MB(2), McCoy
+KD(1).
+
+Author information: 
+(1)Department of Physiology and Pharmacology, Snyder Institute of Chronic
+Diseases, Cumming School of Medicine, University of Calgary, Calgary, Canada.
+kathy.mccoy@ucalgary.ca lukas.mager@ucalgary.ca.
+(2)Department of Microbiology, Immunology and Infectious Diseases, Snyder
+Institute of Chronic Diseases, Cumming School of Medicine, University of Calgary,
+Calgary, Canada.
+(3)Department of Physiology and Pharmacology, Snyder Institute of Chronic
+Diseases, Cumming School of Medicine, University of Calgary, Calgary, Canada.
+(4)International Microbiome Centre, Cumming School of Medicine, University of
+Calgary, Calgary, Canada.
+(5)Department of Biochemistry and Molecular Biology and Department of Physiology 
+and Pharmacology, Charbonneau Cancer Institute, Alberta Children's Hospital
+Research Institute, Cumming School of Medicine, University of Calgary, Calgary,
+Canada.
+(6)Centre de Recherche du Centre Hospitalier de l'Université de Montréal et
+Institut du Cancer de Montréal, Québec, Canada.
+(7)Department of Biological Sciences, University of Calgary, Calgary, Canada.
+
+Comment in
+    Science. 2020 Sep 18;369(6510):1427-1428.
+
+Several species of intestinal bacteria have been associated with enhanced
+efficacy of checkpoint blockade immunotherapy, but the underlying mechanisms by
+which the microbiome enhances antitumor immunity are unclear. In this study, we
+isolated three bacterial species-Bifidobacterium pseudolongum, Lactobacillus
+johnsonii, and Olsenella species-that significantly enhanced efficacy of immune
+checkpoint inhibitors in four mouse models of cancer. We found that intestinal B.
+pseudolongum modulated enhanced immunotherapy response through production of the 
+metabolite inosine. Decreased gut barrier function induced by immunotherapy
+increased systemic translocation of inosine and activated antitumor T cells. The 
+effect of inosine was dependent on T cell expression of the adenosine A2A
+receptor and required costimulation. Collectively, our study identifies a
+previously unknown microbial metabolite immune pathway activated by immunotherapy
+that may be exploited to develop microbial-based adjuvant therapies.
+
+Copyright © 2020 The Authors, some rights reserved; exclusive licensee American
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.
+
+DOI: 10.1126/science.abc3421 
+PMID: 32792462 
+

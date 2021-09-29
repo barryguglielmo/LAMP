@@ -1,0 +1,57 @@
+
+1. Bioorg Med Chem. 2020 Aug 30;28(22):115710. doi: 10.1016/j.bmc.2020.115710. [Epub
+ahead of print]
+
+Analogs of nitrofuran antibiotics are potent GroEL/ES inhibitor pro-drugs.
+
+Stevens M(1), Howe C(1), Ray AM(1), Washburn A(1), Chitre S(1), Sivinski J(2),
+Park Y(3), Hoang QQ(3), Chapman E(2), Johnson SM(4).
+
+Author information: 
+(1)Indiana University School of Medicine, Department of Biochemistry and
+Molecular Biology, 635 Barnhill Dr., Indianapolis, IN 46202, United States.
+(2)The University of Arizona, College of Pharmacy, Department of Pharmacology and
+Toxicology, 1703 E. Mabel St., PO Box 210207, Tucson, AZ 85721, United States.
+(3)Indiana University School of Medicine, Department of Biochemistry and
+Molecular Biology, 635 Barnhill Dr., Indianapolis, IN 46202, United States; Stark
+Neurosciences Research Institute, Indiana University School of Medicine. 320 W.
+15th Street, Suite 414, Indianapolis, IN 46202, United States; Department of
+Neurology, Indiana University School of Medicine. 635 Barnhill Drive,
+Indianapolis, IN 46202, United States.
+(4)Indiana University School of Medicine, Department of Biochemistry and
+Molecular Biology, 635 Barnhill Dr., Indianapolis, IN 46202, United States.
+Electronic address: johnstm@iu.edu.
+
+In two previous studies, we identified compound 1 as a moderate GroEL/ES
+inhibitor with weak to moderate antibacterial activity against Gram-positive and 
+Gram-negative bacteria including Bacillus subtilis, methicillin-resistant
+Staphylococcus aureus, Klebsiella pneumonia, Acinetobacter baumannii, and SM101
+Escherichia coli (which has a compromised lipopolysaccharide biosynthetic pathway
+making bacteria more permeable to drugs). Extending from those studies, we
+developed two series of analogs with key substructures resembling those of known 
+antibacterials, nitroxoline (hydroxyquinoline moiety) and
+nifuroxazide/nitrofurantoin (bis-cyclic-N-acylhydrazone scaffolds). Through
+biochemical and cell-based assays, we identified potent GroEL/ES inhibitors that 
+selectively blocked E. faecium, S. aureus, and E. coli proliferation with low
+cytotoxicity to human colon and intestine cells in vitro. Initially, only the
+hydroxyquinoline-bearing analogs were found to be potent inhibitors in our
+GroEL/ES-mediated substrate refolding assays; however, subsequent testing in the 
+presence of an E. coli nitroreductase (NfsB) in situ indicated that metabolites
+of the nitrofuran-bearing analogs were potent GroEL/ES inhibitor pro-drugs.
+Consequently, this study has identified a new target of nitrofuran-containing
+drugs, and is the first reported instance of such a unique class of GroEL/ES
+chaperonin inhibitors. The intriguing results presented herein provide impetus
+for expanded studies to validate inhibitor mechanisms and optimize this
+antibacterial class using the respective GroEL/ES chaperonin systems and
+nitroreductases from E. coli and the ESKAPE bacteria.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.bmc.2020.115710 
+PMID: 33007545 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

@@ -1,0 +1,63 @@
+
+1. Cell Host Microbe. 2020 Mar 11;27(3):467-475.e6. doi: 10.1016/j.chom.2020.01.016.
+Epub 2020 Feb 18.
+
+Fecal IgA Levels Are Determined by Strain-Level Differences in Bacteroides ovatus
+and Are Modifiable by Gut Microbiota Manipulation.
+
+Yang C(1), Mogno I(1), Contijoch EJ(1), Borgerding JN(2), Aggarwala V(1), Li
+Z(3), Siu S(3), Grasset EK(4), Helmus DS(5), Dubinsky MC(5), Mehandru S(2),
+Cerutti A(6), Faith JJ(7).
+
+Author information: 
+(1)Precision Immunology Institute, Icahn School of Medicine at Mount Sinai, New
+York, NY 10029, USA; Institute for Data Science and Genomic Technology, Icahn
+School of Medicine at Mount Sinai, New York, NY 10029, USA.
+(2)Precision Immunology Institute, Icahn School of Medicine at Mount Sinai, New
+York, NY 10029, USA.
+(3)Institute for Data Science and Genomic Technology, Icahn School of Medicine at
+Mount Sinai, New York, NY 10029, USA.
+(4)Precision Immunology Institute, Icahn School of Medicine at Mount Sinai, New
+York, NY 10029, USA; Department of Medicine, Center for Molecular Medicine,
+Karolinska Institutet, Karolinska University Hospital, SE-171 77 Stockholm,
+Sweden.
+(5)Pediatric Gastroenterology and Hepatology, Department of Pediatrics, Susan and
+Leonard Feinstein IBD Clinical Center, Icahn School of Medicine at Mount Sinai,
+New York, NY 10029, USA.
+(6)Precision Immunology Institute, Icahn School of Medicine at Mount Sinai, New
+York, NY 10029, USA; Program for Inflammatory and Cardiovascular Disorders,
+Institut Hospital del Mar d'Investigacions Mediques (IMIM), Barcelona 08003,
+Spain; Catalan Institute for Advanced Studies (ICREA), Barcelona 08003, Spain.
+(7)Precision Immunology Institute, Icahn School of Medicine at Mount Sinai, New
+York, NY 10029, USA; Institute for Data Science and Genomic Technology, Icahn
+School of Medicine at Mount Sinai, New York, NY 10029, USA. Electronic address:
+jeremiah.faith@mssm.edu.
+
+Comment in
+    Cell Host Microbe. 2020 Mar 11;27(3):319-321.
+
+Fecal IgA production depends on colonization by a gut microbiota. However, the
+bacterial strains that drive gut IgA production remain largely unknown. Here, we 
+assessed the IgA-inducing capacity of a diverse set of human gut microbial
+strains by monocolonizing mice with each strain. We identified Bacteroides ovatus
+as the species that best induced gut IgA production. However, this induction
+varied bimodally across different B. ovatus strains. The high IgA-inducing
+B. ovatus strains preferentially elicited more IgA production in the large
+intestine through the T cell-dependent B cell-activation pathway. Remarkably, a
+low-IgA phenotype in mice could be robustly and consistently converted into a
+high-IgA phenotype by transplanting a multiplex cocktail of high IgA-inducing
+B. ovatus strains but not individual ones. Our results highlight the critical
+importance of microbial strains in driving phenotype variation in the mucosal
+immune system and provide a strategy to robustly modify a gut immune phenotype,
+including IgA production.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.chom.2020.01.016 
+PMCID: PMC7213796 [Available on 2021-03-11]
+PMID: 32075742  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests J.J.F. serves as a
+consultant for Janssen Research & Development LLC. All remaining authors declare 
+no conflict of interests.
+

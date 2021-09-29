@@ -1,0 +1,36 @@
+
+1. Molecules. 2020 Jul 9;25(14). pii: E3142. doi: 10.3390/molecules25143142.
+
+Monitoring Hydroxycinnamic Acid Decarboxylation by Lactic Acid Bacteria Using
+High-Throughput UV-Vis Spectroscopy.
+
+Miyagusuku-Cruzado G(1), García-Cano I(1), Rocha-Mendoza D(1), Jiménez-Flores
+R(1), Giusti MM(1).
+
+Author information: 
+(1)Department of Food Science and Technology, The Ohio State University, 2015
+Fyffe Ct., Columbus, OH 43210-1007, USA.
+
+Hydroxycinnamic acid (HCA) decarboxylation by lactic acid bacteria (LAB) results 
+in the production of 4-vinylplenols with great impact on the sensorial
+characteristics of foods. The determination of LAB decarboxylating capabilities
+is key for optimal strain selection for food production. The activity of LAB
+strains from the Ohio State University-Parker Endowed Chair (OSU-PECh) collection
+potentially capable of synthesizing phenolic acid decarboxylase was evaluated
+after incubation with HCAs for 36 h at 32 °C. A high-throughput method for
+monitoring HCAs decarboxylation was developed based on hypsochromic shifts at pH 
+1.0. Out of 22 strains evaluated, only Enterococcus mundtii, Lactobacillus
+plantarum and Pediococcus pentosaceus were capable of decarboxylating all
+p-coumaric, caffeic and ferulic acids. Other strains only decarboxylated
+p-coumaric and caffeic acid (6), only p-coumaric acid (2) or only caffeic acid
+(1), while 10 strains did not decarboxylate any HCA. p-Coumaric acid had the
+highest conversion efficiency, followed by caffeic acid and lastly ferulic acid. 
+Results were confirmed by HPLC-DAD-ESI-MS analyses, showing the conversion of
+HCAs into their 4-vinylphenol derivatives. This work can help improve the sensory
+characteristics of HCA-rich foods where fermentation with LAB was used during
+processing.
+
+DOI: 10.3390/molecules25143142 
+PMCID: PMC7397179
+PMID: 32660090 
+

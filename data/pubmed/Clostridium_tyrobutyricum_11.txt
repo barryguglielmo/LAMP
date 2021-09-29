@@ -1,0 +1,39 @@
+
+1. Bioresour Technol. 2020 Apr;301:122764. doi: 10.1016/j.biortech.2020.122764. Epub
+2020 Jan 10.
+
+Direct conversion of untreated cane molasses into butyric acid by engineered
+Clostridium tyrobutyricum.
+
+Guo X(1), Fu H(1), Feng J(1), Hu J(1), Wang J(2).
+
+Author information: 
+(1)School of Biology and Biological Engineering, South China University of
+Technology, Guangzhou 510006, China.
+(2)School of Biology and Biological Engineering, South China University of
+Technology, Guangzhou 510006, China. Electronic address: jufwang@scut.edu.cn.
+
+The sucrose metabolic genes (scrA, scrB and scrK) from C. acetobutylicum ATCC 824
+were successfully overexpressed in C. tyrobutyricum ATCC 25755, endowing it with 
+the ability to co-utilize sucrose, fructose and glucose in the cane molasses. As 
+a result, the engineering strain C. tyrobutyricum ATCC 25755/scrBAK produced
+18.07 g/L and 18.98 g/L butyric acid when sucrose and cane molasses were used as 
+the carbon source, respectively. Furthermore, the medium composition and initial 
+cane molasses concentration were optimized to make full use of the untreated cane
+molasses. Based on these results, 45.71 g/L butyric acid with a yield of 0.39 g/g
+was obtained in fed-batch fermentation, and the feedstock cost of using untreated
+cane molasses was decreased by ~47% when compared with the conventional glucose
+fermentation. This study demonstrated the potential application of C.
+tyrobutyricum ATCC 25755/scrBAK for economic butyric acid production from
+untreated cane molasses.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biortech.2020.122764 
+PMID: 31958691  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

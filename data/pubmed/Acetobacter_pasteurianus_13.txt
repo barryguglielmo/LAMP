@@ -1,0 +1,38 @@
+
+1. Int J Syst Evol Microbiol. 2020 Mar;70(3):2026-2033. doi: 10.1099/ijsem.0.004008.
+
+Acetobacter oryzoeni sp. nov., isolated from Korean rice wine vinegar.
+
+Baek JH(1), Kim KH(1), Moon JY(2), Yeo SH(2), Jeon CO(1).
+
+Author information: 
+(1)Department of Life Science, Chung-Ang University, Seoul 06974, Republic of
+Korea.
+(2)Department of Agrofood Resources, National Institute of Agricultural Sciences,
+RDA, Wanju-gun 55365, Republic of Korea.
+
+A Gram-stain-negative, obligately aerobic bacterium, designated strain B6T, was
+isolated from rice wine vinegar in the Republic of Korea. Cells were non-motile
+and oval short rods showing catalase-positive and oxidase-negative activities.
+Growth was observed at 15-45 °C (optimum, 30 °C) and pH 3.5-8.0 (optimum, pH
+5.5-6.5). Strain B6T contained summed feature 8 (comprising C18 : 1ω7c and/or C18
+: 1 ω6c), and C16 : 0 as major fatty acids and ubiquinone-9 was identified as the
+sole isoprenoid quinone. The G+C content of the genomic DNA calculated from the
+whole genome was 53.1 mol%. Strain B6T was most closely related to Acetobacter
+pasteurianus LMG 1262T with very high 16S rRNA gene sequence similarity (100 %)
+and the strains formed a very close phylogenetic lineage together in phylogenetic
+trees based on 16S rRNA gene sequences. However, relatedness analyses based on
+concatenated amino acid sequences of 354 core genes and whole-cell MALDI-TOF
+profiles showed that strain B6T may form a distinct phyletic lineage from
+Acetobacter species. In addition, average nucleotide identity and in silico
+DNA-DNA hybridization values between strain B6T and the type strains of
+Acetobacter species were less than 93.3 and 51.4 %, respectively. The genomic
+features of strain B6T were also differentiated from those of closely related
+Acetobacter type strains. Based on the phenotypic, chemotaxonomic and genomic
+features, strain B6T clearly represents a novel species of the genus Acetobacter,
+for which the name Acetobacter oryzoeni sp. nov. is proposed. The type strain is 
+B6T (=KACC 21201T=JCM 33371T).
+
+DOI: 10.1099/ijsem.0.004008 
+PMID: 31995463  [Indexed for MEDLINE]
+

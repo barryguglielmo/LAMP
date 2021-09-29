@@ -1,0 +1,60 @@
+
+1. Int J Med Microbiol. 2019 Dec;309(8):151355. doi: 10.1016/j.ijmm.2019.151355.
+Epub 2019 Sep 5.
+
+Staphylococcus petrasii diagnostics and its pathogenic potential enhanced by
+mobile genetic elements.
+
+Vrbovská V(1), Kovařovic V(1), Mašlaňová I(1), Indráková A(1), Petráš P(2), Šedo 
+O(3), Švec P(4), Fišarová L(1), Šiborová M(3), Mikulášek K(5), Sedláček I(4),
+Doškař J(1), Pantůček R(6).
+
+Author information: 
+(1)Division of Genetics and Molecular Biology, Department of Experimental
+Biology, Faculty of Science, Masaryk University, Kotlářská 2, 611 37 Brno, Czech 
+Republic.
+(2)Reference Laboratory for Staphylococci, National Institute of Public Health,
+Šrobárova 48, 100 42 Praha 10, Czech Republic.
+(3)Central European Institute of Technology, Masaryk University, Kamenice 5, 625 
+00 Brno, Czech Republic.
+(4)Czech Collection of Microorganisms, Department of Experimental Biology,
+Faculty of Science, Masaryk University, Kamenice 5, 625 00 Brno, Czech Republic.
+(5)Central European Institute of Technology, Masaryk University, Kamenice 5, 625 
+00 Brno, Czech Republic; National Centre for Biomolecular Research, Masaryk
+University, Kamenice 5, 625 00 Brno, Czech Republic.
+(6)Division of Genetics and Molecular Biology, Department of Experimental
+Biology, Faculty of Science, Masaryk University, Kotlářská 2, 611 37 Brno, Czech 
+Republic. Electronic address: pantucek@sci.muni.cz.
+
+Staphylococcus petrasii is recently described coagulase negative staphylococcal
+species and an opportunistic human pathogen, still often misidentified in
+clinical specimens. Four subspecies are distinguished in S. petrasii by
+polyphasic taxonomical analyses, however a comparative study has still not been
+done on the majority of isolates and their genome properties have not yet been
+thoroughly analysed. Here, we describe the phenotypic and genotypic
+characteristics of 65 isolates and the results of de novo sequencing, whole
+genome assembly and annotation of draft genomes of five strains. The strains were
+identified by MALDI-TOF mass spectrometry to the species level and the majority
+of the strains were identified to the subspecies level by fingerprinting methods,
+(GTG)5 repetitive PCR and ribotyping. Macrorestriction profiling by pulsed-field 
+gel electrophoresis was confirmed to be a suitable strain typing method.
+Comparative genomics revealed the presence of new mobile genetic elements
+carrying antimicrobial resistance factors such as staphylococcal cassette
+chromosome (SCC) mec, transposones, phage-inducible genomic islands, and
+plasmids. Their mosaic structure and similarity across coagulase-negative
+staphylococci and Staphylococcus aureus suggest the possible exchange of these
+elements. Numerous putative virulence factors such as adhesins, autolysins,
+exoenzymes, capsule formation genes, immunomodulators, the phage-associated sasX 
+gene, and SCC-associated spermidine N-acetyltransferase gene, pseudouridine and
+sorbitol utilization operons might explain clinical manifestations of S. petrasii
+isolates. The increasing recovery of S. petrasii isolates from human clinical
+material, the multi-drug resistance including methicillin resistance of S.
+petrasii subsp. jettensis strains, and virulence factors homologous to other
+pathogenic staphylococci demonstrate the importance of the species in human
+disease.
+
+Copyright © 2019 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.ijmm.2019.151355 
+PMID: 31563331  [Indexed for MEDLINE]
+

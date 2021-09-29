@@ -1,0 +1,52 @@
+
+1. Sci Rep. 2020 Jun 2;10(1):8984. doi: 10.1038/s41598-020-65740-4.
+
+Host genotype and exercise exhibit species-level selection for members of the gut
+bacterial communities in the mouse digestive system.
+
+Dowden RA(1), McGuinness LR(2), Wisniewski PJ(1), Campbell SC(1), Guers JJ(3),
+Oydanich M(4), Vatner SF(4), Häggblom MM(5), Kerkhof LJ(6).
+
+Author information: 
+(1)Department of Kinesiology and Health, Rutgers, the State University of New
+Jersey, New Brunswick, NJ, 08901, USA.
+(2)Department of Marine and Coastal Sciences, Rutgers, the State University of
+New Jersey, New Brunswick, NJ, 08901, USA.
+(3)Department of Biology, Behavioral Neuroscience, and Health Sciences, Rider
+University, Lawrenceville, NJ, 08648, USA.
+(4)Department of Cell Biology and Molecular Medicine, Rutgers, the State
+University of New Jersey, Newark, NJ, USA.
+(5)Department of Biochemistry and Microbiology, Rutgers, the State University of 
+New Jersey, New Brunswick, NJ, 08901, USA.
+(6)Department of Marine and Coastal Sciences, Rutgers, the State University of
+New Jersey, New Brunswick, NJ, 08901, USA. lkerkhof@rutgers.edu.
+
+The mammalian gut microbiome can potentially impact host health and disease
+state. It is known that the mouse-genome, eating-behavior, and exercise-status
+promotes higher taxonomic rank-level alterations (e.g. family to phyla-level) of 
+the gut microbiota. Here, host genotype or activity status was investigated to
+determine if selection of individual bacterial species or strains could be
+discerned within the murine digestive system. For this study, the fecal bacterial
+community of adenylyl cyclase 5 knock-out (AC5KO, n = 7) mice or their wild-type 
+(WT, n = 10) littermates under exercise or sedentary conditions were profiled by 
+sequencing rRNA operons. AC5KO mice were chosen since this genotype displays
+enhanced longevity/exercise capacity and protects against
+cardiovascular/metabolic disease. Profiling of rRNA operons using the Oxford
+MinION yielded 65,706 2-D sequences (after size selection of 3.7-5.7 kb) which
+were screened against an NCBI 16S rRNA gene database. These sequences were binned
+into 1,566 different best BLAST hits (BBHs) and counted for each mouse sample.
+Non-metric multidimensional scaling (NMDS) of the gut microbial community
+demonstrated clustering by physical activity (p = 0.001) but not by host
+genotype. Additionally, sequence similarity and phylogenetic analysis
+demonstrated that different bacterial species (closely related to Muribaculum
+intestinale and Parasutterella excrementihominis) inhabit AC5KO or WT mice
+depending on activity status. Other bacterial species of the gut microbiota did
+not follow such patterning (e.g. Turicibacter sanguinis and Turicimonas muris).
+Our results support the need of improved taxonomic resolution for better
+characterization of bacterial communities to deepen our understanding of the role
+of the gut microbiome on host health.
+
+DOI: 10.1038/s41598-020-65740-4 
+PMCID: PMC7265280
+PMID: 32488198 
+

@@ -1,0 +1,31 @@
+
+1. Microbiol Resour Announc. 2020 May 14;9(20). pii: e00393-20. doi:
+10.1128/MRA.00393-20.
+
+Draft Genome Sequence of Corynebacterium coyleae UMB8490, Isolated from the
+Female Urinary Tract.
+
+Ali Khan A(1), Miller-Ensminger T(2), Voukadinova A(2), Wolfe AJ(3), Putonti
+C(4)(2)(3)(5).
+
+Author information: 
+(1)Department of Biology, Loyola University Chicago, Chicago, Illinois, USA.
+(2)Bioinformatics Program, Loyola University Chicago, Chicago, Illinois, USA.
+(3)Department of Microbiology and Immunology, Stritch School of Medicine, Loyola 
+University Chicago, Maywood, Illinois, USA.
+(4)Department of Biology, Loyola University Chicago, Chicago, Illinois, USA
+cputonti@luc.edu.
+(5)Department of Computer Science, Loyola University Chicago, Chicago, Illinois, 
+USA.
+
+Here, we present the draft genome sequence for Corynebacterium coyleae UMB8490,
+isolated from the catheterized urine of a female with overactive bladder
+symptoms. The size of the genome is 2,483,223 bp assembled in 62 contigs with an 
+observed GC content of 61.42%.
+
+Copyright © 2020 Ali Khan et al.
+
+DOI: 10.1128/MRA.00393-20 
+PMCID: PMC7225549
+PMID: 32409550 
+

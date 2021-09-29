@@ -1,0 +1,50 @@
+
+1. Nat Microbiol. 2019 Dec;4(12):2064-2073. doi: 10.1038/s41564-019-0540-4. Epub
+2019 Sep 2.
+
+Intestinal serotonin and fluoxetine exposure modulate bacterial colonization in
+the gut.
+
+Fung TC(1), Vuong HE(2), Luna CDG(2), Pronovost GN(2), Aleksandrova AA(3), Riley 
+NG(3), Vavilina A(2), McGinn J(2), Rendon T(2), Forrest LR(3), Hsiao EY(4).
+
+Author information: 
+(1)Department of Integrative Biology and Physiology, University of California Los
+Angeles, Los Angeles, CA, USA. tcfung@g.ucla.edu.
+(2)Department of Integrative Biology and Physiology, University of California Los
+Angeles, Los Angeles, CA, USA.
+(3)Computational Structural Biology Unit, National Institute of Neurological
+Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA.
+(4)Department of Integrative Biology and Physiology, University of California Los
+Angeles, Los Angeles, CA, USA. ehsiao@g.ucla.edu.
+
+Comment in
+    Nat Rev Gastroenterol Hepatol. 2020 Jan;17(1):6-8.
+
+The gut microbiota regulates levels of serotonin (5-hydroxytryptamine (5-HT)) in 
+the intestinal epithelium and lumen1-5. However, whether 5-HT plays a functional 
+role in bacteria from the gut microbiota remains unknown. We demonstrate that
+elevating levels of intestinal lumenal 5-HT by oral supplementation or genetic
+deficiency in the host 5-HT transporter (SERT) increases the relative abundance
+of spore-forming members of the gut microbiota, which were previously reported to
+promote host 5-HT biosynthesis. Within this microbial community, we identify
+Turicibacter sanguinis as a gut bacterium that expresses a neurotransmitter
+sodium symporter-related protein with sequence and structural homology to
+mammalian SERT. T. sanguinis imports 5-HT through a mechanism that is inhibited
+by the selective 5-HT reuptake inhibitor fluoxetine. 5-HT reduces the expression 
+of sporulation factors and membrane transporters in T. sanguinis, which is
+reversed by fluoxetine exposure. Treating T. sanguinis with 5-HT or fluoxetine
+modulates its competitive colonization in the gastrointestinal tract of
+antibiotic-treated mice. In addition, fluoxetine reduces the membership of T.
+sanguinis in the gut microbiota of conventionally colonized mice. Host
+association with T. sanguinis alters intestinal expression of multiple gene
+pathways, including those important for lipid and steroid metabolism, with
+corresponding reductions in host systemic triglyceride levels and inguinal
+adipocyte size. Together, these findings support the notion that select bacteria 
+indigenous to the gut microbiota signal bidirectionally with the host
+serotonergic system to promote their fitness in the intestine.
+
+DOI: 10.1038/s41564-019-0540-4 
+PMCID: PMC6879823
+PMID: 31477894  [Indexed for MEDLINE]
+

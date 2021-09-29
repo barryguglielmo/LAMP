@@ -1,0 +1,39 @@
+
+1. Foodborne Pathog Dis. 2020 Sep 15. doi: 10.1089/fpd.2020.2832. [Epub ahead of
+print]
+
+A Multiplex Quantitative Polymerase Chain Reaction Using Applied Biosystems 7500 
+Fast System for Simultaneous Identification of Three Campylobacter Species with
+Potential Applications to Food Analysis.
+
+Liu KC(1).
+
+Author information: 
+(1)Applied Technology Center at the Pacific Northwest Laboratory (PNL), Office of
+Regulatory Science, Office of Regulatory Affairs (ORA), the U.S. Food and Drug
+Administration, Bothell, Washington, USA.
+
+Consumption of Campylobacter-contaminated food is one of the most common causes
+of bacterial diarrhea. A previously developed quantitative polymerase chain
+reaction (qPCR) utilizing the SmartCycler instrument platform for identification 
+of Campylobacter jejuni, Campylobacter coli, and Campylobacter lari had to be
+modified to address the recent discontinuation of the SmartCycler system. In this
+study, a multiplex qPCR assay was optimized on the Applied Biosystems 7500 Fast
+(AB7500F) platform to continue using qPCR for the identification of three target 
+Campylobacter spp. AB7500F qPCR efficiencies obtained by testing reference
+genomic DNA (gDNA) were 90.9%, 86.4%, and 94.6% for C. jejuni, C. coli, and C.
+lari, respectively, with all correlation coefficient values >0.99. The qPCR
+results exhibited 100% specificity by testing gDNA samples from 37 non-target
+reference strains and 86 target strains (50 C. jejuni, 27 C. coli, and 9 C. lari 
+strains) in this study. The lowest detection level using gDNA was 4, 7, and 2
+genome copies per reaction for C. jejuni, C. coli, and C. lari, respectively.
+With a 2-day enrichment procedure, the qPCR method correctly detected target
+species in a spiked food matrix (frog leg, an aquaculture product). The
+sensitivity in 25 g food matrix was 4 colony-forming units (CFUs) for C. jejuni, 
+3 CFUs for C. coli, and 2 CFUs for C. lari. The results suggest that this
+AB7500F-based qPCR has potential applications for the identification of C.
+jejuni, C. coli, and C. lari in contaminated food.
+
+DOI: 10.1089/fpd.2020.2832 
+PMID: 32931346 
+

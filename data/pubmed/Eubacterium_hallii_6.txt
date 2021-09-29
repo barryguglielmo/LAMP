@@ -1,0 +1,50 @@
+
+1. ISME J. 2020 Jul;14(7):1795-1808. doi: 10.1038/s41396-020-0646-y. Epub 2020 Apr
+20.
+
+Host-microbiota interaction helps to explain the bottom-up effects of climate
+change on a small rodent species.
+
+Li G(1)(2), Yin B(3), Li J(4), Wang J(4), Wei W(3), Bolnick DI(5), Wan X(1), Zhu 
+B(4), Zhang Z(6)(7).
+
+Author information: 
+(1)State Key Laboratory of Integrated Pest Management, Institute of Zoology,
+Chinese Academy of Sciences, 100101, Beijing, China.
+(2)CAS Center for Excellence in Biotic Interactions, University of Chinese
+Academy of Sciences, 100049, Beijing, China.
+(3)Colleges of Bioscience and Biotechnology, Yangzhou University, Yangzhou,
+225009, China.
+(4)Key Laboratory of Pathogenic Microbiology and Immunology, Institute of
+Microbiology, Chinese Academy of Sciences, 100101, Beijing, China.
+(5)Department of Ecology and Evolutionary Biology, University of Connecticut,
+75N. Eagleville Road, Unit 3043, Storrs, CT, 06269-3043, USA.
+(6)State Key Laboratory of Integrated Pest Management, Institute of Zoology,
+Chinese Academy of Sciences, 100101, Beijing, China. zhangzb@ioz.ac.cn.
+(7)CAS Center for Excellence in Biotic Interactions, University of Chinese
+Academy of Sciences, 100049, Beijing, China. zhangzb@ioz.ac.cn.
+
+The population cycles of small rodents have puzzled biologists for centuries.
+There is a growing recognition of the cascading effects of climate change on the 
+population dynamics of rodents. However, the ultimate cause for the bottom-up
+effects of precipitation is poorly understood, from a microbial perspective.
+Here, we conducted a precipitation manipulation experiment in the field, and
+three feeding trials with controlled diets in the laboratory. We found
+precipitation supplementation facilitated the recovery of a perennial rhizomatous
+grass (Leymus chinensis) species, which altered the diet composition and increase
+the intake of fructose and fructooligosaccharides for Brandt's vole. Lab results 
+showed that this nutrient shift was accompanied by the modulation of gut
+microbiota composition and functional pathways (especially for the degradation or
+biosynthesis of L-histidine). Particularly, the relative abundance of Eubacterium
+hallii was consistently increased after feeding voles with more L. chinensis,
+fructose or fructooligosaccharide. These modulations ultimately increased the
+production of short chain fatty acids (SCFAs) and boosted the growth of vole.
+This study provides evidence that the precipitation pulses cascades through the
+plant community to affect rodent gut microbiome. Our results highlight the
+importance of considering host-microbiota interaction when investigating rodent
+population responses to climate change.
+
+DOI: 10.1038/s41396-020-0646-y 
+PMCID: PMC7305154
+PMID: 32313262 
+

@@ -1,0 +1,41 @@
+
+1. Exp Dermatol. 2020 Jun 7. doi: 10.1111/exd.14126. [Epub ahead of print]
+
+Know your enemy: Unexpected, pervasive and persistent viral and bacterial
+contamination of primary cell cultures.
+
+Niehues H(1), Jansen PAM(1), Rodijk-Olthuis D(1), Rikken G(1), Smits JPH(1),
+Schalkwijk J(1), Zeeuwen PLJM(1), van den Bogaard EHJ(1).
+
+Author information: 
+(1)Department of Dermatology, Radboud University Medical Center (Radboudumc),
+Radboud Institute for Molecular Life Sciences (RIMLS), Nijmegen, The Netherlands.
+
+In biomedical research, cell culture contamination is one of the main culprits of
+experimental failure. Contamination sources and concomitant remedies are numerous
+and challenging to manage. We herein describe two cases of uncommon contamination
+of cell cultures that we encountered, and the successful determination and
+eradication strategies. The first case describes the infection with human
+adenovirus C that originated from pharyngeal tonsils used for isolation of
+primary tonsillar epithelial cells. It is known that viral contamination of in
+vitro cell cultures can occur symptomless and is therefore difficult to identify.
+The contamination was pervasive and persistent, as it was widely spread in flow
+cabinets and apparatus, and has caused a serious delay to our research projects
+and the inevitable loss of valuable (patient-derived) cell sources. Eradication
+was successful by formalin gas sterilization of the flow cabinet and elimination 
+of all infected cell lines from our biobank after PCR-guided determination.
+Secondly, we encountered a spore-forming bacterium, namely Brevibacillus brevis, 
+in our cell culture facility. This bacterium originated from contaminated tap
+water pipes and spread via regular aseptic culture techniques due to survival of 
+the bacterial spores in 70% ethanol. B brevis overgrew the cultures within a few 
+days after seeding of the primary cells. Chlorine solution effectively killed
+this spore-forming bacterium. Both cases of contamination were identified using
+DNA sequencing which enabled the deployment of targeted aseptic techniques for
+the elimination of the persistent contamination.
+
+© 2020 The Authors. Experimental Dermatology published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/exd.14126 
+PMCID: PMC7496648
+PMID: 32506526 
+

@@ -1,0 +1,45 @@
+
+1. Infect Immun. 2020 Sep 21. pii: IAI.00462-20. doi: 10.1128/IAI.00462-20. [Epub
+ahead of print]
+
+Neisseria meningitidis urethritis outbreak isolates express a novel factor H
+binding protein allele that is a potential target of MenB directed meningococcal 
+vaccines.
+
+Tzeng YL(1), Giuntini S(2), Berman Z(1), Sannigrahi S(1), Granoff DM(3), Stephens
+DS(4)(5).
+
+Author information: 
+(1)Division of Infectious Diseases, Department of Medicine, Emory University
+School of Medicine, Atlanta, GA, USA.
+(2)OMVax INC, San Francisco CA, USA.
+(3)Center for Immunobiology and Vaccine Development, University of California San
+Francisco Benioff Children's Hospital Oakland, Oakland California USA.
+(4)Division of Infectious Diseases, Department of Medicine, Emory University
+School of Medicine, Atlanta, GA, USA dstep01@emory.edu.
+(5)Department of Microbiology and Immunology, Emory University School of
+Medicine, Atlanta, GA, USA.
+
+Factor H binding protein (FHbp) is an important Neisseria meningitidis (Nm)
+virulence factor that binds a negative regulator of the alternative complement
+pathway, human Factor H (FH). Binding of FH increases meningococcal resistance to
+complement-mediated killing. FHbp also is reported to prevent interaction of the 
+antimicrobial peptide (AMP) LL-37 with the meningococcal surface and
+meningococcal killing. FHbp is a target of two licensed group B-directed
+meningococcal (MenB) vaccines. We found a new FHbp variant, peptide allele ID
+896, was highly expressed by an emerging meningococcal pathotype, the
+non-encapsulated clade (US_NmUC). This clade is responsible for outbreaks of
+urethritis in multiple US cities since 2015, other mucosal infections, and cases 
+of invasive meningococcal disease. FHbp ID 896, is a member of the variant group 
+1 (subfamily B), bound protective anti-FHbp monoclonal antibodies, bound high
+levels of human FH, and enhanced the resistance of the clade to
+complement-mediated killing in low levels of human complement likely present at
+human mucosal surfaces. Interestingly, expression of FHbp ID 896 resulted in
+augmented killing of the clade by LL-37. FHbp ID 896 of the clade was recognized 
+by antibodies elicited by FHbp in MenB vaccines.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/IAI.00462-20 
+PMID: 32958529 
+

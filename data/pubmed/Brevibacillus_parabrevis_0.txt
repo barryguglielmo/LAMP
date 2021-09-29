@@ -1,0 +1,51 @@
+
+1. Biochimie. 2020 Sep 12;179:101-112. doi: 10.1016/j.biochi.2020.09.004. [Epub
+ahead of print]
+
+Following tyrothricin peptide production by Brevibacillus parabrevis with
+electrospray mass spectrometry.
+
+Vosloo JA(1), Rautenbach M(2).
+
+Author information: 
+(1)BIOPEP(TM) Peptide Group, Department of Biochemistry, Stellenbosch University,
+Private Bag X1, Matieland, 7600, South Africa. Electronic address:
+arnie@sun.ac.za.
+(2)BIOPEP(TM) Peptide Group, Department of Biochemistry, Stellenbosch University,
+Private Bag X1, Matieland, 7600, South Africa. Electronic address: mra@sun.ac.za.
+
+The tyrocidines and analogues are cationic cyclodecapeptides [cyclo
+(D-Phe1-L-Pro2-L-(Phe3/Trp3)-D-(Phe4/Trp4)-L-Asn5-L-Gln6-L-(Tyr7/Phe7/Trp7)-L-Val
+8-L-(Orn9/Lys9)-L-Leu10], produced together with the neutral linear
+pentadecapeptide gramicidins, in the antibiotic tyrothricin complex by
+Brevibacillus parabrevis. Despite discovery 80 years ago, it was still uncertain 
+whether these peptides are secreted or sequestered intracellularly. We resolved
+this by utilising high resolution electrospray mass spectrometry to confirm the
+predominantly intracellular sequestration of the peptides in the tyrothricin
+complex. A "peptidomics" approach allowed us to map the intracellular production 
+of 16 cyclodecapeptides and 6 gramicidins over 16 days of culturing. Gramicidin
+production remained relatively constant, with Val-gramicidin A the predominant
+analogue produced throughout the 16 day fermentation period. The tyrothricin
+cyclodecapeptides have four variable positions and there was a culturing time
+related shift from the Phe-rich A analogues, containing a L-Phe3-D-Phe4 aromatic 
+dipeptide unit, to the Trp-rich C analogues with L-Trp3-D-Trp4. For the other
+variable aromatic residue position, Tyr7 was preferentially incorporated above
+Trp7, with a minor incorporation of Phe7 over the whole culturing period. For the
+variable basic amino acid residue, there was time-sensitive shift from Orn9 to
+Lys9 incorporation. Modulation of the cyclodecapeptide profile over time does not
+correlate with the reported non-ribosomal peptide synthetase affinity,
+specifically for Trp in the variable aromatic residue positions, indicating
+additional supply-demand control in the cyclodecapeptides production by
+B. parabrevis. These novel observations are not only of importance for production
+and purification of selected peptide analogues from the tyrothricin complex, but 
+also for insight into microbial control of non-ribosomal peptide production that 
+extends beyond the peptide synthetase machinery.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.biochi.2020.09.004 
+PMID: 32926968 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare they have no conflict of interest in the publication of this research.
+

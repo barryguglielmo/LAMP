@@ -1,0 +1,71 @@
+
+1. Mater Sci Eng C Mater Biol Appl. 2020 Dec;117:111289. doi:
+10.1016/j.msec.2020.111289. Epub 2020 Jul 24.
+
+Synthesis of multifunctional chlorhexidine-doped thin films for titanium-based
+implant materials.
+
+Matos AO(1), de Almeida AB(2), Beline T(2), Tonon CC(3), Casarin RCV(2), Windsor 
+LJ(4), Duarte S(3), Nociti FH Jr(2), Rangel EC(5), Gregory RL(4), Barão VAR(6).
+
+Author information: 
+(1)Department of Prosthodontics and Periodontology, Piracicaba Dental School,
+University of Campinas (UNICAMP), Piracicaba, São Paulo, Brazil; Department of
+Biomedical Sciences and Comprehensive Care, Indiana University School of
+Dentistry, Indianapolis, IN, USA.
+(2)Department of Prosthodontics and Periodontology, Piracicaba Dental School,
+University of Campinas (UNICAMP), Piracicaba, São Paulo, Brazil.
+(3)Department of Cariology, Operative Dentistry and Dental Public Health, Indiana
+University, Purdue University Indianapolis, School of Dentistry, Indianapolis,
+IN, USA.
+(4)Department of Biomedical Sciences and Comprehensive Care, Indiana University
+School of Dentistry, Indianapolis, IN, USA.
+(5)Laboratory of Technological Plasmas (LaPTec), São Paulo State University
+(UNESP), Science and Technology Institute of Sorocaba (ICTS), Sorocaba, São
+Paulo, Brazil.
+(6)Department of Prosthodontics and Periodontology, Piracicaba Dental School,
+University of Campinas (UNICAMP), Piracicaba, São Paulo, Brazil. Electronic
+address: vbarao@unicamp.br.
+
+Our goal was to create bio-functional chlorhexidine (CHX)-doped thin films on
+commercially pure titanium (cpTi) discs using the glow discharge plasma approach.
+Different plasma deposition times (50, 35 and 20 min) were used to create
+bio-functional surfaces based on silicon films with CHX that were compared to the
+control groups [no CHX and bulk cpTi surface (machined)]. Physico-chemical and
+biological characterizations included: 1. Morphology, roughness, elemental
+chemical composition, film thickness, contact angle and surface free energy; 2.
+CHX-release rate; 3. Antibacterial effect on Streptococcus sanguinis biofilms at 
+24, 48 and 72 h; 4. Cytotoxicity and metabolic activity using fibroblasts cell
+culture (NIH-F3T3 cells) at 1, 2, 3 and 4 days; 5. Protein expression by NIH-F3T3
+cells at 1, 2, 3 and 4 days; and 6. Co-culture assay of fibroblasts cells and S. 
+sanguinis to assess live and dead cells on the confocal laser scanning
+microscopy, mitochondrial activity (XTT), membrane leakage (LDH release), and
+metabolic activity (WST-1 assay) at 1, 2 and 3 days of co-incubation. Data
+analysis showed that silicon films, with or without CHX coated cpTi discs,
+increased surface wettability and free energy (p < 0.05) without affecting
+surface roughness. CHX release was maintained over a 22-day period and resulted
+in a significant inhibition of biofilm growth (p < 0.05) at 48 and 72 h of
+biofilm formation for 50 min and 20 min of plasma deposition time groups,
+respectively. In general, CHX treatment did not significantly affect NIH-F3T3
+cell viability (p > 0.05), whereas cell metabolism (MTT assay) was affected by
+CHX, with the 35 min of plasma deposition time group displaying the lowest values
+as compared to bulk cpTi (p < 0.05). Moreover, data analysis showed that films,
+with or without CHX, significantly affected the expression profile of
+inflammatory cytokines, including IL-4, IL-6, IL-17, IFN-y and TNF-α by NIH-F3T3 
+cells (p < 0.05). Co-culture demonstrated that CHX-doped film did not affect the 
+metabolic activity, cytotoxicity and viability of fibroblasts cells (p > 0.05).
+Altogether, the findings of the current study support the conclusion that silicon
+films added with CHX can be successfully created on titanium discs and have the
+potential to affect bacterial growth and inflammatory markers without affecting
+cell viability/proliferation rates.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.msec.2020.111289 
+PMID: 32919650 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

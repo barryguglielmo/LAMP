@@ -1,0 +1,125 @@
+
+1. Sci Transl Med. 2020 Sep 30;12(563). pii: eaba0565. doi:
+10.1126/scitranslmed.aba0565.
+
+Paenibacillus infection with frequent viral coinfection contributes to
+postinfectious hydrocephalus in Ugandan infants.
+
+Paulson JN(1), Williams BL(2)(3), Hehnly C(4), Mishra N(2)(3), Sinnar SA(5)(6),
+Zhang L(4), Ssentongo P(5)(7)(8), Mbabazi-Kabachelor E(9), Wijetunge DSS(10), von
+Bredow B(10), Mulondo R(9), Kiwanuka J(11), Bajunirwe F(12), Bazira J(13), Bebell
+LM(14), Burgoine K(15)(16)(17), Couto-Rodriguez M(2)(18), Ericson JE(19),
+Erickson T(9), Ferrari M(20)(21)(22), Gladstone M(23), Guo C(2), Haran M(22),
+Hornig M(3), Isaacs AM(24), Kaaya BN(9), Kangere SM(9), Kulkarni AV(25),
+Kumbakumba E(11), Li X(23), Limbrick DD Jr(26), Magombe J(9), Morton SU(27),
+Mugamba J(9), Ng J(2), Olupot-Olupot P(16)(28), Onen J(9), Peterson MR(5)(7), Roy
+F(29), Sheldon K(4), Townsend R(30), Weeks AD(31), Whalen AJ(32), Quackenbush
+J(29), Ssenyonga P(9), Galperin MY(33), Almeida M(34), Atkins H(35), Warf BC(36),
+Lipkin WI(2)(3), Broach JR(4), Schiff SJ(37)(7)(20)(38)(39).
+
+Author information: 
+(1)Department of Biostatistics, Product Development, Genentech Inc., South San
+Francisco, CA 94080, USA.
+(2)Center for Infection and Immunity, Mailman School of Public Health, Columbia
+University, New York, NY 10032, USA.
+(3)Department of Epidemiology, Columbia University Mailman School of Public
+Health, New York, NY 10032, USA.
+(4)Institute for Personalized Medicine, Department of Biochemistry and Molecular 
+Biology, Pennsylvania State University College of Medicine, Hershey, PA 17033,
+USA.
+(5)Center for Neural Engineering, Pennsylvania State University, University Park,
+PA 16802, USA.
+(6)Department of Medicine, Pennsylvania State University College of Medicine,
+Hershey, PA 17033, USA.
+(7)Department of Engineering Science and Mechanics, Pennsylvania State
+University, University Park, PA 16802, USA.
+(8)Department of Public Health Sciences, Pennsylvania State University College of
+Medicine, Hershey, PA 17033, USA.
+(9)CURE Children's Hospital of Uganda, Plot 97-105, Bugwere Road, P.O. Box 903
+Mbale, Uganda.
+(10)Department of Pathology, Pennsylvania State University College of Medicine,
+Hershey, PA 17033, USA.
+(11)Department of Pediatrics, Mbarara University of Science and Technology, P.O. 
+Box 1410 Mbarara, Uganda.
+(12)Department of Epidemiology, Mbarara University of Science and Technology,
+P.O. Box 1410, Mbarara, Uganda.
+(13)Department of Microbiology, Mbarara University of Science and Technology,
+P.O. Box 1410 Mbarara, Uganda.
+(14)Division of Infectious Disease, Massachusetts Genereal Hospital, Harvard
+Medical School, 55 Fruit St, GRJ-504, Boston, MA 02114, USA.
+(15)Neonatal Unit, Department of Paediatrics and Child Health, Mbale Regional
+Referral Hospital, Plot 29-33 Pallisa Road, P.O. Box 1966, Mbale, Uganda.
+(16)Mbale Clinical Research Institute, Mbale Regional Referral Hospital, Plot
+29-33 Pallisa Road, P.O. Box 1966 Mbale, Uganda.
+(17)University of Liverpool, Liverpool, L69 3BX, UK.
+(18)Biotia, 100 6th avenue, New York, NY 10013, USA.
+(19)Division of Pediatric Infectious Disease, Pennsylvania State University
+College of Medicine, Hershey, PA 17033, USA.
+(20)Center for Infectious Disease Dynamics, Pennsylvania State University,
+University Park, PA 16802, USA.
+(21)Department of Biology, Pennsylvania State University, University Park, PA
+16802, USA.
+(22)Department of Statistics, Pennsylvania State University, University Park, PA 
+16802, USA.
+(23)Institute for Translational Medicine, University of Liverpool, Liverpool, L12
+2AP, UK.
+(24)Department of Neuroscience, Washington University School of Medicine, St.
+Louis, MO 63130, USA.
+(25)Division of Neurosurgery, Hospital for Sick Children, University of Toronto, 
+Toronto, Ontario, M5G 1X8, Canada.
+(26)Department of Neurological Surgery, Washington University School of Medicine,
+St. Louis, MO 63130, USA.
+(27)Division of Newborn Medicine, Boston Children's Hospital and Department of
+Pediatrics, Harvard Medical School, Boston MA 02115, USA.
+(28)Busitema University, Mbale Campus, Plot 29-33 Pallisa Road, P.O. Box 1966,
+Mbale, Uganda.
+(29)Department of Biostatistics, Harvard T.H. Chan School of Public Health,
+Boston, MA 02115, USA.
+(30)Department of Medicine, Washington University School of Medicine , St. Louis,
+MO 63130, USA.
+(31)Sanyu Research Unit, Liverpool Women's Hospital, University of Liverpool,
+Liverpool L8 7SS, UK.
+(32)Department of Mechanical Engineering, Pennsylvania State University,
+University Park, PA 16802, USA.
+(33)National Center for Biotechnology Information, National Library of Medicine, 
+National Institutes of Health, Bethesda, MD 20894, USA.
+(34)Université Paris-Saclay, INRAE, MGP, Jouy-en-Josas, 78350, France.
+(35)Department of Comparative Medicine, Pennsylvania State University College of 
+Medicine, Hershey, PA 17033, USA.
+(36)Department of Neurosurgery, Boston Children's Hospital, Harvard Medical
+School, Boston, MA 02115, USA.
+(37)Center for Neural Engineering, Pennsylvania State University, University
+Park, PA 16802, USA. steven.j.schiff@gmail.com.
+(38)Department of Neurosurgery, Pennsylvania State University College of
+Medicine, Hershey, PA 17033, USA.
+(39)Department of Physics, Pennsylvania State University, University Park, PA
+16802, USA.
+
+Postinfectious hydrocephalus (PIH), which often follows neonatal sepsis, is the
+most common cause of pediatric hydrocephalus worldwide, yet the microbial
+pathogens underlying this disease remain to be elucidated. Characterization of
+the microbial agents causing PIH would enable a shift from surgical palliation of
+cerebrospinal fluid (CSF) accumulation to prevention of the disease. Here, we
+examined blood and CSF samples collected from 100 consecutive infant cases of PIH
+and control cases comprising infants with non-postinfectious hydrocephalus in
+Uganda. Genomic sequencing of samples was undertaken to test for bacterial,
+fungal, and parasitic DNA; DNA and RNA sequencing was used to identify viruses;
+and bacterial culture recovery was used to identify potential causative
+organisms. We found that infection with the bacterium Paenibacillus, together
+with frequent cytomegalovirus (CMV) coinfection, was associated with PIH in our
+infant cohort. Assembly of the genome of a facultative anaerobic bacterial
+isolate recovered from cultures of CSF samples from PIH cases identified a strain
+of Paenibacillus thiaminolyticus This strain, designated Mbale, was lethal when
+injected into mice in contrast to the benign reference Paenibacillus strain.
+These findings show that an unbiased pan-microbial approach enabled
+characterization of Paenibacillus in CSF samples from PIH cases, and point toward
+a pathway of more optimal treatment and prevention for PIH and other proximate
+neonatal infections.
+
+Copyright © 2020 The Authors, some rights reserved; exclusive licensee American
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.
+
+DOI: 10.1126/scitranslmed.aba0565 
+PMID: 32998967 
+

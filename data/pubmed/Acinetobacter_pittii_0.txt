@@ -1,0 +1,51 @@
+
+1. AMB Express. 2020 Jul 10;10(1):124. doi: 10.1186/s13568-020-01058-8.
+
+Structure and diversity of native bacterial communities in soils contaminated
+with polychlorinated biphenyls.
+
+Zenteno-Rojas A(1), Martínez-Romero E(2), Castañeda-Valbuena D(1), Rincón-Molina 
+CI(1), Ruíz-Valdiviezo VM(1), Meza-Gordillo R(1), Villalobos-Maldonado JJ(1),
+Vences-Guzmán MÁ(2), Rincón-Rosales R(3).
+
+Author information: 
+(1)Tecnológico Nacional de México/IT de Tuxtla Gutiérrez, Carretera Panamericana 
+Km, 1080, CP 29050, Tuxtla Gutiérrez, Chiapas, Mexico.
+(2)Centro de Ciencias Genómicas, Universidad Nacional Autónoma de México, Av,
+Universidad s/n, Col. Chamilpa, 62210, Cuernavaca, Morelos, Mexico.
+(3)Tecnológico Nacional de México/IT de Tuxtla Gutiérrez, Carretera Panamericana 
+Km, 1080, CP 29050, Tuxtla Gutiérrez, Chiapas, Mexico. reriro61@hotmail.com.
+
+Persistent organic pollutants (POPs) such as polychlorinated biphenyls (PCBs) are
+a group of high-risk synthetic substances for human and environmental health.
+Currently, the study of sites contaminated by the spillage of equipment PCBs
+containing have been considered targeted areas for the study of bacterial
+communities with potential for PCBs degradation. There in isolation of bacterial 
+strains is vital for use in biodegradable processes, such as bacterial
+bioaugmentation, which accelerates the development of phenomena such as natural
+attenuation of contaminated sites. The objective of this study was to assess
+biodiversity of bacteria contained in anthropogenic contaminated soils (HS and
+HP) with PCBs compared to a control sample without contaminant and the modified
+forest (F) and agricultural (A) soil in the laboratory with 100 mg L-1 PCB. For
+the analysis of 16S rRNA genes amplified from DNA extracted from the soils
+evaluated, the latest generation of Illumina Miseq and Sanger sequencing for the 
+cultivable strains were detected. The bacteria identified as the most abundant
+bacterial phyla for HS and HP soil was Proteobacteria (56.7%) and Firmicutes
+(22.9%), which decreased in F and A soils. The most abundant bacterial genera
+were Burkholderia, Bacillus, Acinetobacter, Comamonas and Cupriavidus. Several
+species identified in this study, such as Bacillus cereus, Burkholderia cepacia, 
+Comamonas testosteroni and Acinetobacter pittii have been reported as PCBs
+degraders. Finally, by means of a principal component analysis (PCA), a
+correlation between the physical and chemical characteristics of the soils in
+relation to the relative abundances of the bacteria identified was obtained. The 
+C/N ratio was directly related to the control soil (without contaminant), while
+SOM maintained a relationship with F and A soils and the bacterial abundances
+were directly related to Hs and Hp soils due to the presence of aroclor 1260.
+Bacteria with the ability to tolerate high concentrations of this pollutant are
+considered for future use in biostimulation and bioaugmentation processes in
+contaminated soils.
+
+DOI: 10.1186/s13568-020-01058-8 
+PMCID: PMC7351888
+PMID: 32651884 
+

@@ -1,0 +1,45 @@
+
+1. Antonie Van Leeuwenhoek. 2020 Aug 20. doi: 10.1007/s10482-020-01461-y. [Epub
+ahead of print]
+
+Pan-genome analysis of Paenibacillus polymyxa strains reveals the mechanism of
+plant growth promotion and biocontrol.
+
+Zhou L(1), Zhang T(2), Tang S(1), Fu X(3), Yu S(4).
+
+Author information: 
+(1)Faculty of Resource and Environmental Engineering, Jiangxi University of
+Science and Technology, Ganzhou, 341000, Jiangxi, People's Republic of China.
+(2)College of Bioscience and Engineering, Jiangxi Agricultural university,
+Nanchang, 330045, Jiangxi, People's Republic of China.
+(3)College of Life Science, Jiangxi Normal University, Nanchang, 330022, Jiangxi,
+People's Republic of China.
+(4)Faculty of Resource and Environmental Engineering, Jiangxi University of
+Science and Technology, Ganzhou, 341000, Jiangxi, People's Republic of China.
+yushuijing2008@163.com.
+
+Rapid development of gene sequencing technologies has led to an exponential
+increase in microbial sequencing data. Genome research of a single organism does 
+not capture the changes in the characteristics of genetic information within a
+species. Pan-genome analysis gives us a broader perspective to study the complete
+genetic information of a species. Paenibacillus polymyxa is a Gram-positive
+bacterium and an important plant growth-promoting rhizobacterium with the ability
+to produce multiple antibiotics, such as fusaricidin, lantibiotic, paenilan, and 
+polymyxin. Our study explores the pan-genome of 14 representative P. polymyxa
+strains isolated from around the world. Heap's law model and curve fitting
+confirmed an open pan-genome of P. polymyxa. The phylogenetic and collinearity
+analyses reflected that the evolutionary classification of P. polymyxa strains
+are not associated with geographical area and ecological niches. Few genes
+related to phytohormone synthesis and phosphate solubilization were conserved;
+however, the nif cluster gene associated with nitrogen fixation exists only in
+some strains. This finding is indicative of nitrogen fixing ability is not stable
+in P. polymyxa. Analysis of antibiotic gene clusters in P. polymyxa revealed the 
+presence of these genes in both core and accessory genomes. This observation
+indicates that the difference in living environment led to loss of ability to
+synthesize antibiotics in some strains. The current pan-genomic analysis of P.
+polymyxa will help us understand the mechanisms of biological control and plant
+growth promotion. It will also promote the use of P. polymyxa in agriculture.
+
+DOI: 10.1007/s10482-020-01461-y 
+PMID: 32816227 
+

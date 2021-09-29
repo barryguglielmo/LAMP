@@ -1,0 +1,34 @@
+
+1. Arch Virol. 2019 Nov;164(11):2877-2880. doi: 10.1007/s00705-019-04370-2. Epub
+2019 Aug 27.
+
+Complete genome analysis of a novel temperate bacteriophage induced from
+Corynebacterium striatum.
+
+Zhao F(1), Ding T(1), Li M(2), Wang Y(2), Zhang X(2), Ren H(3), Tong Y(4)(5).
+
+Author information: 
+(1)College of Veterinary Medicine, Qingdao Agricultural University, Qingdao,
+266109, Shandong, China.
+(2)State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of
+Microbiology and Epidemiology, Beijing, 100071, China.
+(3)College of Veterinary Medicine, Qingdao Agricultural University, Qingdao,
+266109, Shandong, China. renren0228@sina.com.
+(4)State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of
+Microbiology and Epidemiology, Beijing, 100071, China. tong.yigang@gmail.com.
+(5)College of Life Science and Technology, Beijing University of Chemical
+Technology, Beijing, 100029, China. tong.yigang@gmail.com.
+
+A temperate bacteriophage, IME1320_01, was induced by mitomycin C treatment from 
+Corynebacterium striatum. This phage possesses a double-stranded DNA genome of
+40,086 bp with a G+C content of 58%. A total of 53 putative open reading frames
+(ORFs) were identified in its genome. BLASTn analysis revealed that IME1320_01
+had the highest sequence similarity to Corynebacterium striatum strain 216, with 
+a genome homology coverage of 44% and highest sequence identity of 95%. The
+termini of the phage genome was non-redundant, with a 13-nt 3'-protruding
+cohesive end. To the best of our knowledge, phage IME1320_01 is the first
+inducible phage to be identified in Corynebacterium striatum.
+
+DOI: 10.1007/s00705-019-04370-2 
+PMID: 31451964  [Indexed for MEDLINE]
+

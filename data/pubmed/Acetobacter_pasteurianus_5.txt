@@ -1,0 +1,38 @@
+
+1. Sci Rep. 2020 Jun 30;10(1):10385. doi: 10.1038/s41598-020-66810-3.
+
+Analysis of the influence of flame sterilization included in sampling operations 
+on shake-flask cultures of microorganisms.
+
+Takahashi M(1), Honzawa T(2), Tominaga R(2), Aoyagi H(3).
+
+Author information: 
+(1)Faculty of Life and Environmental Sciences, University of Tsukuba, Tsukuba,
+Ibaraki, 305-8572, Japan.
+(2)Combustion of Thermo and Fluid Dynamics, Department of Fundamental Technology,
+Tokyo Gas Co. Ltd., Yokohama, Kanagawa, 230-0045, Japan.
+(3)Faculty of Life and Environmental Sciences, University of Tsukuba, Tsukuba,
+Ibaraki, 305-8572, Japan. aoyagi.hideki.ge@u.tsukuba.ac.jp.
+
+Shake-flask cultures of microorganisms involve flame sterilization during
+sampling, which produces combustion gas with high CO2 concentrations. The gaseous
+destination has not been deeply analyzed. Our aim was to investigate the effect
+of flame sterilization on the headspace of the flask and on the shake-flask
+culture. In this study, the headspace CO2 concentration was found to increase
+during flame sterilization ~0.5-2.0% over 5-20 s empirically using the
+Circulation Direct Monitoring and Sampling System. This CO2 accumulation was
+confirmed theoretically using Computational Fluid Dynamics; it was 9% topically. 
+To evaluate the influence of CO2 accumulation without interference from other
+sampling factors, the flask gas phase formed by flame sterilization was
+reproduced by aseptically supplying 99.8% CO2 into the headspace, without
+sampling. We developed a unit that can be sampled in situ without interruption of
+shaking, movement to a clean bench, opening of the culture-plug, and flame
+sterilization. We observed that the growth behaviour of Escherichia coli,
+Pelomonas saccharophila, Acetobacter pasteurianus, and Saccharomyces cerevisiae
+was different depending on the CO2 aeration conditions. These results are
+expected to contribute to improving microbial cell culture systems.
+
+DOI: 10.1038/s41598-020-66810-3 
+PMCID: PMC7326993
+PMID: 32606322 
+

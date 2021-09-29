@@ -1,0 +1,47 @@
+
+1. Curr Microbiol. 2020 Aug 6. doi: 10.1007/s00284-020-02152-7. [Epub ahead of
+print]
+
+Functional Analysis of a Fibronectin Binding Protein of Streptococcus
+parasanguinis FW213.
+
+Chen YM(1)(2)(3), Lu PS(4), Tsai PH(4), Chiu CH(5).
+
+Author information: 
+(1)Department of Microbiology and Immunology, College of Medicine, Chang Gung
+University, 259 Wen-Hwa 1st Road, Guishan Dist., Taoyuan City 333, Taiwan.
+mchen@mail.cgu.edu.tw.
+(2)Graduate Institute of Biomedical Sciences, College of Medicine, Chang Gung
+University, Taoyuan, Taiwan. mchen@mail.cgu.edu.tw.
+(3)Molecular Infectious Disease Research Center, Chang Gung Memorial Hospital,
+Linkou, Taiwan. mchen@mail.cgu.edu.tw.
+(4)Graduate Institute of Biomedical Sciences, College of Medicine, Chang Gung
+University, Taoyuan, Taiwan.
+(5)Molecular Infectious Disease Research Center, Chang Gung Memorial Hospital,
+Linkou, Taiwan.
+
+Streptococcus parasanguinis is a primary colonizer of dental plaque and an
+opportunistic pathogen for subacute endocarditis. A putative fibronectin binding 
+protein (Spaf_1409) that lacks both an N-terminal signal peptide and a C-terminal
+cell wall-anchoring motif was identified from the S. parasanguinis FW213 genome. 
+Spaf_1409 was abundantly present in the cytoplasm and also was found in the cell 
+wall preparation and culture supernatant. By using an isogenic mutant strain,
+MPH4, Spaf_1409 was found to mediate the binding of S. parasanguinis FW213 to
+fibronectin. Inactivation of Spaf_1409 did not significantly alter the mass of
+static biofilm, but reduced the resistance of S. parasanguinis against the
+shearing force in a flow cell biofilm system, resulting in scattered biofilm. The
+mortality in Galleria mellonella larvae infected with MPH4 was higher than in
+those infected with wild-type S. parasanguinis. However, fewer viable bacterial
+cells were recovered from larvae infected with MPH4, compared to those infected
+with wild-type S. parasanguinis, up to 42 h post infection, suggesting that the
+infection by MPH4, but not the growth, was responsible for the elevated
+mortality. The phagocytic analysis using flow cytometry indicated that Spaf_1409 
+participates in the recognition of S. parasanguinis FW213 by RAW264.7
+macrophages, suggesting that inactivation of Spaf_1409 intensified the immune
+responses in larvae, leading to larval death. Taken together, the data indicate
+that Spaf_1409 plays different roles in the development of dental biofilm and in 
+systemic infections.
+
+DOI: 10.1007/s00284-020-02152-7 
+PMID: 32761388 
+

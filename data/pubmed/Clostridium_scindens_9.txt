@@ -1,0 +1,31 @@
+
+1. IEEE/ACM Trans Comput Biol Bioinform. 2020 Mar-Apr;17(2):547-557. doi:
+10.1109/TCBB.2018.2870124. Epub 2018 Sep 13.
+
+Detection of Colorectal Carcinoma Based on Microbiota Analysis Using Generalized 
+Regression Neural Networks and Nonlinear Feature Selection.
+
+Arabameri A, Asemani D, Teymourpour P.
+
+To obtain a screening tool for colorectal cancer (CRC) based on gut microbiota,
+we seek here to identify an optimal classifier for CRC detection as well as a
+novel nonlinear feature selection method for determining the most discriminative 
+microbial species. In this study, the intestinal microflora in feces of 141
+patients were modeled using general regression neural networks (GRNNs) combined
+with the proposed feature selection method. The proposed model led to slightly
+higher accuracy (AUC = 0.911) than previous studies . The results show that the
+Clostridium scindens and Bifidobacterium angulatum are indicators of healthy gut 
+flora and CRC happens to reduce these bacterial species. In addition,
+Fusobacterium gonidiaformans was found to be closely correlated with the CRC. The
+occurrence of colorectal adenoma was not sufficiently discriminatory based on
+fecal microbiota implicating that the change of colonic flora happens in the
+advanced phase of CRC development rather than initial adenoma. Integrating the
+proposed model with fecal occult blood test (FOBT), the CRC detection accuracy
+remained nearly unchanged (AUC = 0.915). The performance of the proposed method
+is validated using independent cohorts from America and Austria. Our results
+suggest that the proposed feature selection method combined with GRNN is
+potentially an accurate method for CRC detection.
+
+DOI: 10.1109/TCBB.2018.2870124 
+PMID: 30222584 
+

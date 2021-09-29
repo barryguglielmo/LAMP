@@ -1,0 +1,35 @@
+
+1. Mol Microbiol. 2020 Feb;113(2):369-380. doi: 10.1111/mmi.14425. Epub 2019 Dec 12.
+
+Control of the bifunctional O2 -sensor kinase NreB of Staphylococcus carnosus by 
+the nitrate sensor NreA: Switching from kinase to phosphatase state.
+
+Klein R(1), Kretzschmar AK(1), Unden G(1).
+
+Author information: 
+(1)Microbiology and Wine Research, Institute for Molecular Physiology, Johannes
+Gutenberg-University, Mainz, Germany.
+
+The NreB-NreC two-component system of Staphylococcus carnosus for O2 sensing
+cooperates with the accessory nitrate sensor NreA in the NreA-NreB-NreC system
+for coordinated sensing and regulation of nitrate respiration by O2 and nitrate. 
+ApoNreA (NreA in the absence of nitrate) interacts with NreB and inhibits NreB
+autophosphorylation (and activation). NreB contains the phosphatase motif DxxxQ. 
+The present study shows that NreB on its own was inactive for the
+dephosphorylation of the phosphorylated response regulator NreC (NreC-P), but
+co-incubation with NreB and NreA stimulated NreC-P dephosphorylation. Either the 
+presence of NreA · NO 3 - instead of apoNreA or mutation of the phosphatase motif
+(D160 or Q164) of NreB abrogated phosphatase activity of NreB. Phosphatase
+activity was observed for anoxic (active) NreB as well as oxic NreB, therefore
+the functional state of NreB is not relevant for phosphatase activity. Thus, NreB
+is a bifunctional sensor kinase with an integral cryptic phosphatase activity.
+Activation of phosphatase activity and dephosphorylation of NreC-P requires NreA 
+as a cofactor. Accordingly, NreA and nitrate have major and dual roles in
+NreA-NreB-NreC regulation by (i) inhibiting NreB phosphorylation and (ii)
+triggering a kinase/phosphatase switch of NreB when present as apoNreA.
+
+© 2019 John Wiley & Sons Ltd.
+
+DOI: 10.1111/mmi.14425 
+PMID: 31732993 
+

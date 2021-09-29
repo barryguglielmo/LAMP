@@ -1,0 +1,29 @@
+
+1. Arch Virol. 2020 Oct;165(10):2397-2400. doi: 10.1007/s00705-020-04751-y. Epub
+2020 Aug 3.
+
+Complete genome sequence of a novel bacteriophage, ATCEA85, infecting
+Enterobacter aerogenes.
+
+Oh HK(1), Jo JH(1), Hwang YJ(1), Myung H(2)(3).
+
+Author information: 
+(1)Department of Bioscience and Biotechnology, Hankuk University of Foreign
+Studies, Yong-In, 17035, Gyung-Gi Do, Republic of Korea.
+(2)Department of Bioscience and Biotechnology, Hankuk University of Foreign
+Studies, Yong-In, 17035, Gyung-Gi Do, Republic of Korea. hjmyung@hufs.ac.kr.
+(3)The Bacteriophage Bank of Korea, Yong-In, 17035, Gyung-Gi Do, Republic of
+Korea. hjmyung@hufs.ac.kr.
+
+Enterobacter aerogenes is a member of the ESKAPE group of bacteria, and
+multi-drug-resistant strains are increasingly being found. In this study, a novel
+bacteriophage, ATCEA85, which infects E. aerogenes, has been isolated and
+characterized. ATCEA85 is seen to have a circularly permuted linear
+double-stranded DNA genome of 47,484 base pairs in length. The closest related
+phage found in the databases is the Klebsiella phage Kp3, which exhibits 77%
+identity over a 34% query coverage. The G+C content of ATCEA85 is 56.2%, and 15
+putative open reading frames are functionally annotated.
+
+DOI: 10.1007/s00705-020-04751-y 
+PMID: 32748177  [Indexed for MEDLINE]
+

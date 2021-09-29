@@ -1,0 +1,44 @@
+
+1. Microorganisms. 2020 Apr 30;8(5). pii: E652. doi: 10.3390/microorganisms8050652.
+
+Microbial Metabolic Potential of Phenol Degradation in Wastewater Treatment Plant
+of Crude Oil Refinery: Analysis of Metagenomes and Characterization of Isolates.
+
+Viggor S(1), Jõesaar M(1), Soares-Castro P(2), Ilmjärv T(1), Santos PM(2), Kapley
+A(3), Kivisaar M(1).
+
+Author information: 
+(1)Institute of Molecular and Cell Biology, University of Tartu, 23 Riia Street, 
+51010 Tartu, Estonia.
+(2)Centre of Molecular and Environmental Biology (CBMA), University of Minho,
+Campus de Gualtar, 4710-057 Braga, Portugal.
+(3)Director's Research Division, CSIR-National Environmental Engineering Research
+Institute (CSIR-NEERI), Nehru Marg, Nagpur 440 020, India.
+
+The drilling, processing and transportation of oil are the main sources of
+pollution in water and soil. The current work analyzes the microbial diversity
+and aromatic compounds degradation potential in the metagenomes of communities in
+the wastewater treatment plant (WWTP) of a crude oil refinery. By focusing on the
+degradation of phenol, we observed the involvement of diverse indigenous
+microbial communities at different steps of the WWTP. The anaerobic bacterial and
+archaeal genera were replaced by aerobic and facultative anaerobic bacteria
+through the biological treatment processes. The phyla Proteobacteria,
+Bacteroidetes and Planctomycetes were dominating at different stages of the
+treatment. Most of the established protein sequences of the phenol degradation
+key enzymes belonged to bacteria from the class Alphaproteobacteria. From 35
+isolated strains, 14 were able to grow on aromatic compounds, whereas several
+phenolic compound-degrading strains also degraded aliphatic hydrocarbons. Two
+strains, Acinetobacter venetianus ICP1 and Pseudomonas oleovorans ICTN13, were
+able to degrade various aromatic and aliphatic pollutants and were further
+characterized by whole genome sequencing and cultivation experiments in the
+presence of phenol to ascertain their metabolic capacity in phenol degradation.
+When grown alone, the intermediates of catechol degradation, the meta or ortho
+pathways, accumulated into the growth environment of these strains. In the mixed 
+cultures of the strains ICP1 and ICTN13, phenol was degraded via cooperation, in 
+which the strain ICP1 was responsible for the adherence of cells and ICTN13
+diminished the accumulation of toxic intermediates.
+
+DOI: 10.3390/microorganisms8050652 
+PMCID: PMC7285258
+PMID: 32365784 
+

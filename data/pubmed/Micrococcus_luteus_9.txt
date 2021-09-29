@@ -1,0 +1,46 @@
+
+1. Talanta. 2020 Nov 1;219:121315. doi: 10.1016/j.talanta.2020.121315. Epub 2020 Jul
+1.
+
+Differentiation of meat-related microorganisms using paper-based surface-enhanced
+Raman spectroscopy combined with multivariate statistical analysis.
+
+Breuch R(1), Klein D(2), Siefke E(2), Hebel M(3), Herbert U(3), Wickleder C(4),
+Kaul P(2).
+
+Author information: 
+(1)Hochschule Bonn-Rhein-Sieg, University of Applied Sciences, Institute of
+Safety and Security Research, von-Liebig-Str. 20, 53359, Rheinbach, Germany.
+Electronic address: rene.breuch@h-brs.de.
+(2)Hochschule Bonn-Rhein-Sieg, University of Applied Sciences, Institute of
+Safety and Security Research, von-Liebig-Str. 20, 53359, Rheinbach, Germany.
+(3)Dr. Berns Laboratorium GmbH & Co. KG, Bendschenweg 36, 47506,
+Neukirchen-Vluyn, Germany.
+(4)University of Siegen, Inorganic Chemistry, Center of Micro- and Nanochemistry 
+and Engineering, Faculty of Science and Technology, Adolf-Reichwein-Str., 57068
+Siegen, Germany.
+
+Surface-enhanced Raman spectroscopy (SERS) with subsequent chemometric evaluation
+was performed for the rapid and non-destructive differentiation of seven
+important meat-associated microorganisms, namely Brochothrix thermosphacta DSM
+20171T, Pseudomonas fluorescens DSM 4358, Salmonella enterica subsp. enterica sv.
+Enteritidis DSM 14221, Listeria monocytogenes DSM 19094, Micrococcus luteus DSM
+20030T, Escherichia coli HB101 and Bacillus thuringiensis sv. israelensis DSM
+5724. A simple method for collecting spectra from commercial paper-based SERS
+substrates without any laborious pre-treatments was used. In order to prepare the
+spectroscopic data for classification at genera level with a subsequent
+chemometric evaluation consisting of principal component analysis and
+discriminant analysis, a data pre-processing method with spike correction and sum
+normalisation was performed. Because of the spike correction rather than
+exclusion, and therefore the use of a balanced data set, the multivariate
+analysis of the data is significantly resilient and meaningful. The analysis
+showed that the differentiation of meat-associated microorganisms and thereby the
+detection of important meat-related pathogenic bacteria was successful on genera 
+level and a cross-validation as well as a classification of ungrouped data showed
+promising results, with 99.5% and 97.5%, respectively.
+
+Copyright © 2020 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.talanta.2020.121315 
+PMID: 32887055 
+

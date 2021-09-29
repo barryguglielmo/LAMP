@@ -1,0 +1,59 @@
+
+1. Infect Drug Resist. 2020 Jun 30;13:2017-2026. doi: 10.2147/IDR.S254141.
+eCollection 2020.
+
+Effect of Short-Term Antimicrobial Therapy on the Tolerance and Antibiotic
+Resistance of Multidrug-Resistant Staphylococcus capitis.
+
+Yu X(#)(1), Zheng B(#)(1), Xiao F(2), Jin Y(1), Guo L(1), Xu H(1), Luo Q(1), Xiao
+Y(1).
+
+Author information: 
+(1)State Key Laboratory for Diagnosis and Treatment of Infectious Diseases,
+National Clinical Research Center for Infectious Diseases, Collaborative
+Innovation Center for Diagnosis and Treatment of Infectious Diseases, The First
+Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, People's
+Republic of China.
+(2)Neurosurgery Department, The First Affiliated Hospital, College of Medicine,
+Zhejiang University, Hangzhou, People's Republic of China.
+(#)Contributed equally
+
+Background: Bacteria undergo adaptive mutation in the host. However, the specific
+effect of antimicrobial use on bacterial evolution and genome mutations related
+to bacterial survival within a patient is unclear.
+Materials and Methods: Three S. capitis strains were sequentially isolated from
+cerebrospinal fluid of a clinical inpatient. Antimicrobial susceptibility, growth
+rate, biofilm formation and whole blood survival of these strains were measured. 
+Relative fitness was calculated. The virulence was examined in the Galleria
+mellonella model. Whole-genome sequencing and in silico analysis were performed
+to explore the genetic mechanisms of the changes in antimicrobial resistance
+phenotype. Hypothetical proteins are cloned, expressed and characterized by
+detection the susceptibility to gentamycin.
+Results: The first isolate was susceptible to rifampin (MIC=0.25 μg/mL),
+resistant to gentamicin (MIC=16 μg/mL), while the later two isolates were
+resistant to rifampin (MIC >64 μg/mL), susceptible to gentamicin (MIC=4 μg/mL).
+For the latter two strains, compared to the first, frameshift mutation in a
+hypothetical protein encoding gene and base substitutions (in genes saeR, moaA
+and rpoB) were discovered. The mutation of rpoB gene caused rifampicin
+resistance. Mutations in saeR, moaA and hypothetical gene are associated with
+changes in other biological traits. Amino acid sequence-based structure and
+function identification of the hypothetical protein indicated that a mutation in 
+the encoding gene might be associated with altered aminoglycoside susceptibility.
+Growth curve showed that the later two isolates grew faster than the first
+isolate with a positive fitness advantage of 13.5%, and 14.8%, accordingly.
+Biofilm form ability and whole blood survival of the derivative mutants were also
+enhanced. No significant differences of virulence in the G. mellonella model were
+observed.
+Conclusion: We report here for the first time that short-term clinical antibiotic
+use was associated with resistance mutations, collateral sensitivity, and
+positive in vivo fitness advantages to S. capitis during infection.
+
+© 2020 Yu et al.
+
+DOI: 10.2147/IDR.S254141 
+PMCID: PMC7335296
+PMID: 32636655 
+
+Conflict of interest statement: The authors report no conflicts of interest in
+this work.
+

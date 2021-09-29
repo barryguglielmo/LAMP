@@ -1,0 +1,46 @@
+
+1. Ecotoxicol Environ Saf. 2020 Sep 2;207:111214. doi: 10.1016/j.ecoenv.2020.111214.
+[Epub ahead of print]
+
+Impacts of Bt rice on non-target organisms assessed by the hazard quotient (HQ).
+
+Dang C(1), Zhou X(2), Sun C(1), Wang F(1), Peng Y(3), Ye G(4).
+
+Author information: 
+(1)State Key Laboratory of Rice Biology & Ministry of Agricultural and Rural
+Affairs Key Laboratory of Molecular Biology of Crop Pathogens and Insects,
+Institute of Insect Sciences, Zhejiang University, Hangzhou, 310058, Zhejiang
+Province, China.
+(2)Jinhua Academy of Agricultural Sciences, Jinhua, 321017, Zhejiang Province,
+China.
+(3)State Key Laboratory for Biology of Plant Diseases and Insect Pests, Institute
+of Plant Protection, Chinese Academy of Agricultural Sciences, Beijing, 100094,
+China.
+(4)State Key Laboratory of Rice Biology & Ministry of Agricultural and Rural
+Affairs Key Laboratory of Molecular Biology of Crop Pathogens and Insects,
+Institute of Insect Sciences, Zhejiang University, Hangzhou, 310058, Zhejiang
+Province, China. Electronic address: chu@zju.edu.cn.
+
+The potential risk of Bt (Bacillus thuringiensis) crops on non-target organisms
+(NTOs) has drawn a lot of public concerns. Despite a series of risk assessments
+of Bt crops on NTOs has been conducted, a quantitative approach which could
+support a precise judgment of their safety is required. In the present work,
+hazard quotient (HQ) was applied in the safety evaluation of three Bt rice events
+(Cry1Ab, Cry1C and Cry2Aa rice) on NTOs. Eight NTOs in different functional
+guilds associated with Bt rice were selected to conduct the tests. The results
+showed that the HQs of three Bt rice events for eight NTOs were all below the
+trigger value 1, while the HQ of Cry1Ab rice for one target pest Chilo
+suppressalis was three times higher than 1. Our results assured the reliability
+of the HQ and indicated that the three Bt rice events would pose no risks to the 
+eight NTOs. Further testing of three Bt proteins on biological parameters of one 
+NTO Nasonia virtipennis under no observed adverse effect concentration (NOAEC)
+confirmed the robustness of HQ assessment. We recommend that the HQ could be
+applied in tier-1 risk assessments of Bt crops on NTOs as a reference data
+standard, which would provide more clear and credible safety information of
+transgenic crops for the public and policy makers.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ecoenv.2020.111214 
+PMID: 32890949 
+

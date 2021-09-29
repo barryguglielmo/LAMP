@@ -1,0 +1,67 @@
+
+1. ACS Omega. 2020 Aug 5;5(32):20599-20608. doi: 10.1021/acsomega.0c02878.
+eCollection 2020 Aug 18.
+
+Zizyphus mauritiana Fruit Extract-Mediated Synthesized Silver/Silver Chloride
+Nanoparticles Retain Antimicrobial Activity and Induce Apoptosis in MCF-7 Cells
+through the Fas Pathway.
+
+Kabir SR(1), Asaduzzaman A(1), Amin R(2), Haque AT(3), Ghose R(1), Rahman MM(1), 
+Islam J(1), Amin MB(1), Hasan I(1), Debnath T(4), Chun BS(3), Zhao X(5), Rahman
+Khan MK(6), Alam MT(7).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, University of Rajshahi,
+Rajshahi 6205, Bangladesh.
+(2)Bangladesh Council of Scientific and Industrial Research (BCSIR) Laboratories,
+Rajshahi 6206, Bangladesh.
+(3)Department of Food Science and Technology, Pukyong National University, 45
+Yongso-ro, Nam-Gu, Busan 608-737, Republic of Korea.
+(4)Department of Chemistry, University of Dhaka, Dhaka 1000, Bangladesh.
+(5)Key Laboratory of Animal Models and Human Disease Mechanisms of Chinese
+Academy of Sciences, Kunming Institute of Zoology, Kunming 650223, Yunnan, China.
+(6)Department of Physics, University of Rajshahi, Rajshahi 6205, Bangladesh.
+(7)Department of Applied Chemistry and Chemical Engineering, University of
+Rajshahi, Rajshahi 6205, Bangladesh.
+
+Recently, green synthesis of silver/silver chloride nanoparticles (Ag/AgCl-NPs)
+has gained a lot of interest because of the usage of natural resources,
+rapidness, eco-friendliness, and benignancy. Several researchers reported that
+silver-based biogenic NPs have both antimicrobial and anticancer properties. In
+the present study, Ag/AgCl-NPs were synthesized from Zizyphus mauritiana fruit
+extract, and their antibacterial, antifungal, and antiproliferative mechanisms
+against human MCF-7 cell lines were evaluated. Synthesis of Ag/AgCl-NPs from the 
+Z. mauritiana fruit extract was confirmed by the changes of color and a peak of
+the UV-visible spectrum at 428 nm. The nanoparticles were characterized by
+transmission electron microscopy, energy dispersive X-ray, X-ray powder
+diffraction, thermal gravimetric analysis, atomic force microscope, and Fourier
+transform infrared. Antibacterial activity was checked against four pathogenic
+bacteria and two fungi. Cytotoxicity was checked against human breast cancer cell
+line (MCF-7) and mice Ehrlich ascites carcinoma (EAC) cells by MTS assay and
+clonogenicity assay. Cell morphology of the control and nanoparticle-treated
+MCF-7 cells were checked by Hoechst 33342, YF488-Annexin V, and caspase-3
+substrates. The level of reactive oxygen species (ROS) was studied by using
+2',7'-dichlorofluorescein-diacetate staining. Real-time polymerase chain reaction
+was used for gene expression. Synthesized nanoparticles were heat stable cubic
+crystals with an average size of 16 nm that contain silver and chlorine with
+various functional groups. The synthesized Ag/AgCl-NPs inhibited the growth of
+three pathogenic bacteria (Bacillus subtilis, Shigella boydii, and Escherichia
+coli) and two fungi (Aspergillus niger and Trichoderma spp.). Ag/AgCl-NPs
+inhibited the growth of MCF-7 and EAC cells with the IC50 values of 28 and 84
+μg/mL, respectively. No colony was formed in MCF-7 cells in the presence of these
+nanoparticles as compared with control. Ag/AgCl-NPs induced apoptosis and
+generated ROS in MCF-7 cells. The expression level of FAS, FADD, and caspase-8
+genes increased several folds with the decrease of PARP gene expression. These
+results demonstrated that the anti-proliferation activity of Ag/AgCl-NPs against 
+MCF-7 cells resulted through ROS generation and induction of apoptosis through
+the Fas-mediated pathway.
+
+Copyright © 2020 American Chemical Society.
+
+DOI: 10.1021/acsomega.0c02878 
+PMCID: PMC7439699
+PMID: 32832813 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

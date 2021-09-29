@@ -1,0 +1,51 @@
+
+1. BMC Complement Med Ther. 2020 Apr 28;20(1):127. doi: 10.1186/s12906-020-02901-y.
+
+A novel kefir product (PFT) inhibits Ehrlich ascites carcinoma in mice via
+induction of apoptosis and immunomodulation.
+
+Badr El-Din NK(1), Shabana SM(2), Abdulmajeed BA(2), Ghoneum M(3).
+
+Author information: 
+(1)Department of Zoology, Faculty of Science, University of Mansoura, Mansoura,
+35516, Egypt. na_ri_eg@yahoo.com.
+(2)Department of Zoology, Faculty of Science, University of Mansoura, Mansoura,
+35516, Egypt.
+(3)Department of Surgery, Charles R. Drew University of Medicine and Science, Los
+Angeles, California, USA.
+
+BACKGROUND: The popularity of fermented foods such as kefir, kuniss, and tofu has
+been greatly increasing over the past several decades, and the ability of
+probiotic bacteria to exert anticancer effects has recently become the focus of
+research. While we have recently demonstrated the ability of the novel kefir
+product PFT (Probiotics Fermentation Technology) to exert anticancer effects in
+vitro, here we demonstrate its ability to inhibit Ehrlich ascites carcinoma (EAC)
+in mice.
+METHODS: Mice were inoculated intramuscularly with EAC cells to develop solid
+tumors. PFT was administered orally (2 g/kg/day) to mice 6 days/week, either 2
+days before tumor cell inoculation or 9 days after inoculation to mice bearing
+solid tumors. Tumor growth, blood lymphocyte levels, cell cycle progression,
+apoptosis, apoptotic regulator expression, TNF-α expression, changes in
+mitochondrial membrane potential (MMP), PCNA, and CD4+ and CD8+ T cells in tumor 
+cells were quantitatively evaluated by flow cytometry or RT-PCR. Further studies 
+in vitro were carried out where EAC cells along with several other human cancer
+cell lines were cultured in the presence of PFT (0-5 mg/mL). Percent cell
+viability and IC50 was estimated by MTT assay.
+RESULTS: Our data shows that PFT exerts the following: 1) inhibition of tumor
+incidence and tumor growth; 2) inhibition of cellular proliferation via a marked 
+decrease in the expression of tumor marker PCNA; 3) arrest of the tumor cell
+cycle in the sub-G0/G1 phase, signifying apoptosis; 4) induction of apoptosis in 
+cancer cells via a mitochondrial-dependent pathway as indicated by the
+up-regulation of p53 expression, increased Bax/Bcl-2 ratio, decrease in the
+polarization of MMP, and caspase-3 activation; and 5) immunomodulation with an
+increase in the number of infiltrating CD4+ and CD8+ T cells and an enhancement
+of TNF-α expression within the tumor.
+CONCLUSIONS: PFT reduces tumor incidence and tumor growth in mice with EAC by
+inducing apoptosis in EAC cells via the mitochondrial-dependent pathway,
+suppressing cancer cell proliferation, and stimulating the immune system. PFT may
+be a useful agent for cancer prevention.
+
+DOI: 10.1186/s12906-020-02901-y 
+PMCID: PMC7189677
+PMID: 32345289 
+

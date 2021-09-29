@@ -1,0 +1,42 @@
+
+1. J Microbiol. 2020 Oct;58(10):868-877. doi: 10.1007/s12275-020-0235-9. Epub 2020
+Sep 2.
+
+Stenotrophomonas maltophilia outer membrane protein A induces epithelial cell
+apoptosis via mitochondrial pathways.
+
+Wang X(1)(2), Li Y(1), Tang X(2), Shang X(2), Zhao Z(3), Jiang Y(3), Li Y(4).
+
+Author information: 
+(1)Academy of Military Medical Sciences, Beijing, P. R. China.
+(2)Department of Critical Care Medicine, 5th Medical Center of PLA General
+Hospital, Beijing, P. R. China.
+(3)State Key Laboratory of Pathogen and Biosecurity, Academy of Military Medical 
+Sciences Institute of Microbiology and Epidemiology, Beijing, P. R. China.
+(4)Department of Critical Care Medicine, 5th Medical Center of PLA General
+Hospital, Beijing, P. R. China. liyanmdhuxi@163.com.
+
+Stenotrophomonas maltophilia (S. maltophilia) is a common opportunistic pathogen 
+in intensive care units and causes infections most often after surgeries in
+immune-compromised patients such as those undergoing chemotherapy. Outer membrane
+protein A (OmpA) is the most abundant of the outer membrane proteins in S.
+maltophilia. Previous studies on OmpA usually focus on its interaction with the
+host cells and its role in vaccine development. However, the impact of OmpA on
+the virulence of S. maltophilia to host cells and the effects on apoptosis remain
+unclear. In this study, we exposed purified recombinant S. maltophilia OmpA
+(rOmpA) to HEp-2 cells and investigated the effects of OmpA on epithelial cell
+apoptosis. Morphologic and flow cytometric analyses revealed that HEp-2 cells
+stimulated with rOmpA multiple apoptosis features, including nuclear roundness
+and pyknosis, chromatin aggregation, and phosphatidylserine eversion. We found
+that rOmpA regulated the protein levels of Bax and Bcl-xL in HEp-2 cells, leading
+to changes in mitochondria permeability and the release of cytochrome c and
+apoptosis-inducing factors into the cytoplasm. These subsequently activate the
+caspase-9/caspase-3 pathway that promote apoptosis. We also observed that rOmpA
+enhanced the generation of reactive oxygen species and increased intracellular
+Ca2+ levels in HEp-2 cells. Collectively, our data suggested that rOmpA induced
+epithelial cells apoptosis via mi-tochondrial pathways.
+
+DOI: 10.1007/s12275-020-0235-9 
+PMCID: PMC7463227
+PMID: 32876914 
+

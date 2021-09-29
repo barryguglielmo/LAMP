@@ -1,0 +1,56 @@
+
+1. J Gerontol A Biol Sci Med Sci. 2020 Jun 18;75(7):1258-1266. doi:
+10.1093/gerona/glaa122.
+
+Early Signs of Gut Microbiome Aging: Biomarkers of Inflammation, Metabolism, and 
+Macromolecular Damage in Young Adulthood.
+
+Renson A(1), Mullan Harris K(2), Dowd JB(3), Gaydosh L(4), McQueen MB(5), Krauter
+KS(6), Shannahan M(7), Aiello AE(1).
+
+Author information: 
+(1)Department of Epidemiology, The Gillings School of Global Public Health,
+University of North Carolina at Chapel Hill.
+(2)Department of Sociology and Carolina Population Center, University of North
+Carolina at Chapel Hill.
+(3)Leverhulme Centre for Demographic Science, University of Oxford, UK.
+(4)Center for Medicine, Health, and Society, Vanderbilt University, Nashville,
+Tennessee.
+(5)Department of Integrative Physiology, University of Colorado Boulder.
+(6)Department of Molecular, Cellular, and Developmental Biology, University of
+Colorado Boulder.
+(7)Institute of Sociology, University of Zurich, Switzerland.
+
+Emerging links between gut microbiota and diseases of aging point to possible
+shared immune, metabolic, and cellular damage mechanisms, operating long before
+diseases manifest. We conducted 16S rRNA sequencing of fecal samples collected
+from a subsample (n = 668) of Add Health Wave V, a nationally representative
+longitudinal study of adults aged 32-42. An overlapping subsample (n = 345)
+included whole-blood RNA-seq. We examined associations between fecal taxonomic
+abundances and dried blood spot-based markers of lipid and glucose homeostasis
+and C-reactive protein (measured in Wave IV), as well as gene expression markers 
+of inflammation, cellular damage, immune cell composition, and transcriptomic age
+(measured in Wave V), using Bayesian hierarchical models adjusted for potential
+confounders. We additionally estimated a co-abundance network between
+inflammation-related genes and bacterial taxa using penalized Gaussian graphical 
+models. Strong and consistent microbiota associations emerged for HbA1c, glucose,
+C-reactive protein, and principal components of genes upregulated in
+inflammation, DNA repair, and reactive oxygen species, with Streptococcus
+infantis, Pseudomonas spp., and Peptoniphilus as major players for each. This
+pattern was largely echoed (though attenuated) for immunological cell composition
+gene sets, and only Serratia varied meaningfully by transcriptomic age. Network
+co-abundance indicated relationships between Prevotella sp., Bacteroides sp., and
+Ruminococcus sp. and gut immune/metabolic regulatory activity, and Ruminococcus
+sp, Dialister, and Butyrivibrio crossotus with balance between Th1 and Th2
+inflammation. In conclusion, many common associations between microbiota and
+major physiologic aging mechanisms are evident in early-mid adulthood and suggest
+avenues for early detection and prevention of accelerated aging.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of The
+Gerontological Society of America. All rights reserved. For permissions, please
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/gerona/glaa122 
+PMCID: PMC7302166 [Available on 2021-05-18]
+PMID: 32421783 
+

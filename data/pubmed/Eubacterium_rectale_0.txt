@@ -1,0 +1,51 @@
+
+1. Exp Mol Med. 2020 Sep 16. doi: 10.1038/s12276-020-00501-x. [Epub ahead of print]
+
+Brain tumor diagnostic model and dietary effect based on extracellular vesicle
+microbiome data in serum.
+
+Yang J(1)(2), Moon HE(3), Park HW(3), McDowell A(1), Shin TS(1), Jee YK(4), Kym
+S(5), Paek SH(6)(7), Kim YK(8).
+
+Author information: 
+(1)MD Healthcare R&D Institute, Seoul, Republic of Korea.
+(2)Department of Health and Safety Convergence Science Introduction, Korea
+University, Seoul, Republic of Korea.
+(3)Department of Neurosurgery, Clinical Research Institute, Seoul National
+University Hospital, Seoul, Republic of Korea.
+(4)Department of Internal Medicine, Dankook University College of Medicine,
+Cheonan, Korea.
+(5)Department of Internal Medicine, Inje University Haeundae Paik Hospital, Inje 
+University College of Medicine, Busan, Republic of Korea.
+(6)Department of Neurosurgery, Clinical Research Institute, Seoul National
+University Hospital, Seoul, Republic of Korea. paeksh@snu.ac.kr.
+(7)Department of Neurosurgery, Cancer Research Institute, Hypoxia Ischemia
+Disease Institute, Seoul National University, Seoul, Republic of Korea.
+paeksh@snu.ac.kr.
+(8)MD Healthcare R&D Institute, Seoul, Republic of Korea. ykkim@mdhc.kr.
+
+The human microbiome has been recently associated with human health and disease. 
+Brain tumors (BTs) are a particularly difficult condition to directly link to the
+microbiome, as microorganisms cannot generally cross the blood-brain barrier
+(BBB). However, some nanosized extracellular vesicles (EVs) released from
+microorganisms can cross the BBB and enter the brain. Therefore, we conducted
+metagenomic analysis of microbial EVs in both serum (152 BT patients and 198
+healthy controls (HC)) and brain tissue (5 BT patients and 5 HC) samples based on
+the V3-V4 regions of 16S rDNA. We then developed diagnostic models through
+logistic regression and machine learning algorithms using serum EV metagenomic
+data to assess the ability of various dietary supplements to reduce BT risk in
+vivo. Models incorporating the stepwise method and the linear discriminant
+analysis effect size (LEfSe) method yielded 12 and 29 significant genera as
+potential biomarkers, respectively. Models using the selected biomarkers yielded 
+areas under the curves (AUCs) >0.93, and the model using machine learning
+resulted in an AUC of 0.99. In addition, Dialister and [Eubacterium] rectale were
+significantly lower in both blood and tissue samples of BT patients than in those
+of HCs. In vivo tests showed that BT risk was decreased through the addition of
+sorghum, brown rice oil, and garlic but conversely increased by the addition of
+bellflower and pear. In conclusion, serum EV metagenomics shows promise as a rich
+data source for highly accurate detection of BT risk, and several foods have
+potential for mitigating BT risk.
+
+DOI: 10.1038/s12276-020-00501-x 
+PMID: 32939014 
+

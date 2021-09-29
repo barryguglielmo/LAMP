@@ -1,0 +1,36 @@
+
+1. J Biol Chem. 2020 Sep 29. pii: jbc.RA120.014876. doi: 10.1074/jbc.RA120.014876.
+[Epub ahead of print]
+
+Structural and biochemical characteristics of two Staphylococcus
+epidermidis RNase J paralogues RNase J1 and RNase J2.
+
+Raj R(1), Nadig S(1), Patel T(1), Gopal B(2).
+
+Author information: 
+(1)Indian Institute of Science, India.
+(2)Molecular Biophysics Unit, Indian Institute of Science, India.
+
+RNase J enzymes are metallo-hydrolases involved in RNA maturation, RNA recycling 
+and govern gene expression in bacteria and catalyze both exo-nuclease and
+endo-nuclease activity. The catalytic activity of RNase J is regulated by
+multiple mechanisms which include oligomerization, conformational changes to aid 
+substrate recognition and the metal cofactor at the active site. However, little 
+is known of how RNase J paralogues differ in expression and activity. Here we
+describe structural and biochemical features of two Staphylococcus epidermidis
+RNase J paralogues RNase J1 and RNase J2. RNase J1 is a homo-dimer with
+exo-nuclease activity aided by two metal co-factors at the active site. RNase J2,
+on the other hand, has endo-nuclease activity, one metal ion at the active site
+and is predominantly a monomer. We note that the expression levels of these
+enzymes vary across Staphylococcal strains. Together, these observations suggest 
+that multiple interacting RNase J paralogues could provide a strategy for
+functional improvisation utilizing differences in intracellular concentration,
+quaternary structure and distinct active site architecture despite overall
+structural similarity.
+
+Published under license by The American Society for Biochemistry and Molecular
+Biology, Inc.
+
+DOI: 10.1074/jbc.RA120.014876 
+PMID: 32994223 
+

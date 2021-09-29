@@ -1,0 +1,55 @@
+
+1. Eur J Clin Microbiol Infect Dis. 2020 Aug 14. doi: 10.1007/s10096-020-04006-3.
+[Epub ahead of print]
+
+Characterization of 16S rRNA methylase genes in Enterobacterales and Pseudomonas 
+aeruginosa in Athens Metropolitan area, 2015-2016.
+
+Nafplioti K(1), Souli M(1), Adamou P(1), Moraitou E(2), Giannopoulou P(3), Chra
+P(4), Damala M(5), Vogiatzakis E(2), Trikka-Graphakos E(3), Baka V(4), Prifti
+E(5), Antoniadou A(1), Galani I(6)(7).
+
+Author information: 
+(1)4th Department of Internal Medicine, Infectious Diseases Laboratory, National 
+and Kapodistrian University of Athens, School of Medicine, Athens, Greece.
+(2)Department of Clinical Microbiology, Sotiria General Hospital of Chest
+Diseases, Athens, Greece.
+(3)Microbiology Department, "Thriasio" General Hospital of Elefsina, Athens,
+Greece.
+(4)Microbiology Department, Korgialenio Benakio Hellenic Red Cross Hospital,
+Athens, Greece.
+(5)Microbiology Department, "Alexandra" General Hospital of Athens, Athens,
+Greece.
+(6)4th Department of Internal Medicine, Infectious Diseases Laboratory, National 
+and Kapodistrian University of Athens, School of Medicine, Athens, Greece.
+egalani@med.uoa.gr.
+(7)University General Hospital "ATTIKON", Rimini 1, 124 62, Chaidari, Greece.
+egalani@med.uoa.gr.
+
+The aim of this study was to characterize the 16S rRNA methylase (RMT) genes in
+aminoglycoside-resistant Enterobacterales and Pseudomonas aeruginosa isolates in 
+2015-2016 in hospitals in Athens, Greece. Single-patient, Gram-negative clinical 
+isolates resistant to both amikacin and gentamicin (n = 292) were consecutively
+collected during a two-year period (2015-2016) in five tertiary care hospitals in
+Athens. RMT genes were detected by PCR. In all RMT-producing isolates, ESBL and
+carbapenemase production was confirmed by PCR, and the clonal relatedness and the
+plasmid contents were also characterized. None of the 138 P. aeruginosa isolates 
+harbored any of the RMT genes surveyed although some were highly resistant to
+aminoglycosides (MICs > = 512 mg/L). Among 154 Enterobacterales, 31 Providencia
+stuartii (93.9%), 42 Klebsiella pneumoniae (37.8%), six Proteus mirabilis (75%), 
+and two Escherichia coli (100%) isolates were confirmed as highly resistant to
+amikacin, gentamicin, and tobramycin with MICs ≥ 512 mg/L, harboring mainly the
+rmtB (98.8%). All were carbapenemase producers. P. stuartii, P. mirabilis, and E.
+coli produced VIM-type carbapenemases. K. pneumoniae produced KPC- (n = 34,
+81.0%), OXA-48 (n = 4, 9.5%), KPC- and VIM- (n = 3, 7.1%), or only VIM-type (n = 
+1, 2.4%) enzymes. Two groups of similar IncC plasmids were detected one harboring
+rmtB1, blaVEB-1, blaOXA-10, and blaTEM-1, and the other additionally blaVIM-1 and
+blaSHV-5. Among RMT-producing Enterobacterales, rmtB1 predominated and was
+associated with carbapenemase-encoding gene(s). Similar IncC plasmids carrying a 
+multiresistant region, including ESBL genes, and in the case of VIM-producing
+isolates, the blaVIM-1, were responsible for this dissemination. The
+co-dissemination of these genes poses a public health threat.
+
+DOI: 10.1007/s10096-020-04006-3 
+PMID: 32794063 
+

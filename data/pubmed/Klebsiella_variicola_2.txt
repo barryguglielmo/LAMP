@@ -1,0 +1,67 @@
+
+1. Sci Total Environ. 2020 Oct 10;738:140138. doi: 10.1016/j.scitotenv.2020.140138. 
+Epub 2020 Jun 12.
+
+Microbial synergistic interactions enhanced power generation in co-culture driven
+microbial fuel cell.
+
+Islam MA(1), Karim A(2), Mishra P(2), Dubowski JJ(3), Yousuf A(4), Sarmin S(5),
+Khan MMR(6).
+
+Author information: 
+(1)Interdisciplinary Institute for Technological Innovation (3IT), CNRS UMI-3463,
+Laboratory for Quantum Semiconductors and Photon-based BioNanotechnology,
+Department of Electrical and Computer Engineering, Université de Sherbrooke,
+3000, boul. de l'Université, Sherbrooke, Québec J1K 0A5, Canada; Department of
+Chemical Engineering, College of Engineering, Universiti Malaysia Pahang, Gambang
+26300, Pahang, Malaysia; Centre of Excellence for Advancement Research Fluid Flow
+(CARIFF), Universiti Malaysia Pahang, 26300 Kuantan, Pahang, Malaysia.
+(2)Faculty of Engineering Technology, Universiti Malaysia Pahang, 26300 Kuantan, 
+Pahang, Malaysia.
+(3)Interdisciplinary Institute for Technological Innovation (3IT), CNRS UMI-3463,
+Laboratory for Quantum Semiconductors and Photon-based BioNanotechnology,
+Department of Electrical and Computer Engineering, Université de Sherbrooke,
+3000, boul. de l'Université, Sherbrooke, Québec J1K 0A5, Canada.
+(4)Department of Chemical Engineering and Polymer Science, Shahjalal University
+of Science and Technology, Sylhet 3114, Bangladesh.
+(5)Department of Chemical Engineering, College of Engineering, Universiti
+Malaysia Pahang, Gambang 26300, Pahang, Malaysia.
+(6)Department of Chemical Engineering, College of Engineering, Universiti
+Malaysia Pahang, Gambang 26300, Pahang, Malaysia; Centre of Excellence for
+Advancement Research Fluid Flow (CARIFF), Universiti Malaysia Pahang, 26300
+Kuantan, Pahang, Malaysia. Electronic address: mrkhan@ump.edu.my.
+
+An understanding of the inter-species relationships, especially their metabolic
+network in a mixed-culture system, is crucial to design an effective inoculum for
+enhancing the power generation of wastewater fed microbial fuel cell (MFC). In
+the present study, the influence of microbial mutualistic interactions on the
+power generation of palm oil mill effluent fed MFCs has been widely investigated 
+by designing several co-culture and mixed culture inoculums. Among the different 
+inoculum compositions, the highest power density of 14.8 W/m3 was achieved by
+Pseudomonas aeruginosa and Klebsiella variicola co-culture inoculum due to their 
+synergistic relationships which were inter-linked via fermentation-based
+metabolites. Besides, the interaction of K. variicola and Bacillus cereus
+positively influenced the power generation resulting in a maximum power density
+of 11.8 W/m3 whereas the antagonistic relationship between B. cereus and P.
+aeruginosa resulted in a lower power generation of 1.9 W/m3. The microbial
+mutualistic interactions were investigated with polarization, cyclic voltammetry 
+(CV), electrochemical impedance spectroscopy (EIS), as well as by using
+metabolite and biofilm analysis. It was observed that the synergism between
+bacteria enhanced power generation through the production of higher electron
+shuttling mediators and efficient biofilm formation as evidenced by polarization,
+CV and EIS analysis. In contrast, the antagonistic relationship resulted in
+production of cell inhibiting metabolites leading to the formation of ineffective
+biofilm. These findings demonstrate that the synergistic interaction between or
+within microorganisms is emergent in designing co-culture or mixed-culture
+inoculum for achieving maximum power generation in MFCs.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2020.140138 
+PMID: 32806344  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

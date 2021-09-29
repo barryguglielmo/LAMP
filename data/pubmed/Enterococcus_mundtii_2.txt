@@ -1,0 +1,44 @@
+
+1. Front Microbiol. 2020 Jul 14;11:1634. doi: 10.3389/fmicb.2020.01634. eCollection 
+2020.
+
+Heterologous Expression of the Class IIa Bacteriocins, Plantaricin 423 and
+Mundticin ST4SA, in Escherichia coli Using Green Fluorescent Protein as a Fusion 
+Partner.
+
+Vermeulen RR(1), Van Staden ADP(1)(2), Dicks L(1).
+
+Author information: 
+(1)Department of Microbiology, Stellenbosch University, Stellenbosch, South
+Africa.
+(2)Department of Physiological Sciences, Stellenbosch University, Stellenbosch,
+South Africa.
+
+The antilisterial class IIa bacteriocins, plantaricin 423 and mundticin ST4SA,
+have previously been purified from the cell-free supernatants of Lactobacillus
+plantarum 423 and Enterococcus mundtii ST4SA, respectively. Here, we present the 
+fusions of mature plantaricin 423 and mundticin ST4SA to His-tagged green
+fluorescent protein (GFP) for respective heterologous expression in Escherichia
+coli. Fusion of plantaricin 423 and mundticin ST4SA to His-tagged GFP produced
+the fusion proteins GFP-PlaX and GFP-MunX, respectively. Both fusion proteins
+were autofluorescent, circumvented inclusion body formation and lowered the
+toxicity of class IIa bacteriocins during heterologous expression. Not only did
+GFP-class IIa fusion stabilize heterologous expression and boost yields, the
+fluorescent intensity of GFP-PlaX and GFP-MunX could be monitored quantitatively 
+and qualitatively throughout expression and purification. This robust
+fluorometric property allowed rapid optimization of conditions for expression and
+bacteriocin liberation from GFP via the incorporated WELQut protease cleavage
+sequence. Incubation temperature and IPTG concentration had a significant effect 
+on bacteriocin yield, and was optimal at 18°C and 0.1-0.2 mM, respectively.
+GFP-MunX was approximately produced at a yield of 153.30 mg/L culture which
+resulted in 12.4 mg/L active mundticin ST4SA after liberation and HPLC
+purification. While GFP-PlaX was produced at a yield of 121.29 mg/L culture,
+evidence suggests heterologous expression resulted in conformation isomers of
+WELQut liberated plantaricin 423.
+
+Copyright © 2020 Vermeulen, Van Staden and Dicks.
+
+DOI: 10.3389/fmicb.2020.01634 
+PMCID: PMC7381239
+PMID: 32765464 
+

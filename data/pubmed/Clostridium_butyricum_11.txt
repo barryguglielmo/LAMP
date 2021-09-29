@@ -1,0 +1,51 @@
+
+1. Nature. 2020 Jul 30. doi: 10.1038/s41586-020-2605-1. [Epub ahead of print]
+
+DNA targeting and interference by a bacterial Argonaute nuclease.
+
+Kuzmenko A(1)(2), Oguienko A(3), Esyunina D(3), Yudin D(3)(4), Petrova M(3),
+Kudinova A(3), Maslova O(3), Ninova M(5), Ryazansky S(3), Leach D(6), Aravin
+AA(7)(8), Kulbachinskiy A(9).
+
+Author information: 
+(1)Institute of Molecular Genetics, Russian Academy of Sciences, Moscow, Russia. 
+dr.ant.kuz@gmail.com.
+(2)Division of Biology and Biological Engineering, California Institute of
+Technology, Pasadena, CA, USA. dr.ant.kuz@gmail.com.
+(3)Institute of Molecular Genetics, Russian Academy of Sciences, Moscow, Russia.
+(4)Department of Biology, Institute of Molecular Biology and Biophysics, ETH
+Zurich, Zurich, Switzerland.
+(5)Division of Biology and Biological Engineering, California Institute of
+Technology, Pasadena, CA, USA.
+(6)Institute of Cell Biology, School of Biological Sciences, University of
+Edinburgh, Edinburgh, UK.
+(7)Institute of Molecular Genetics, Russian Academy of Sciences, Moscow, Russia. 
+aaa@caltech.edu.
+(8)Division of Biology and Biological Engineering, California Institute of
+Technology, Pasadena, CA, USA. aaa@caltech.edu.
+(9)Institute of Molecular Genetics, Russian Academy of Sciences, Moscow, Russia. 
+avkulb@yandex.ru.
+
+Members of the conserved Argonaute protein family use small RNA guides to locate 
+their mRNA targets and regulate gene expression and suppress mobile genetic
+elements in eukaryotes1,2. Argonautes are also present in many bacterial and
+archaeal species3-5. Unlike eukaryotic proteins, several prokaryotic Argonaute
+proteins use small DNA guides to cleave DNA, a process known as DNA
+interference6-10. However, the natural functions and targets of DNA interference 
+are poorly understood, and the mechanisms of DNA guide generation and target
+discrimination remain unknown. Here we analyse the activity of a bacterial
+Argonaute nuclease from Clostridium butyricum (CbAgo) in vivo. We show that CbAgo
+targets multicopy genetic elements and suppresses the propagation of plasmids and
+infection by phages. CbAgo induces DNA interference between homologous sequences 
+and triggers DNA degradation at double-strand breaks in the target DNA. The
+loading of CbAgo with locus-specific small DNA guides depends on both its
+intrinsic endonuclease activity and the cellular double-strand break repair
+machinery. A similar interaction was reported for the acquisition of new spacers 
+during CRISPR adaptation, and prokaryotic genomes that encode Ago nucleases are
+enriched in CRISPR-Cas systems. These results identify molecular mechanisms that 
+generate guides for DNA interference and suggest that the recognition of foreign 
+nucleic acids by prokaryotic defence systems involves common principles.
+
+DOI: 10.1038/s41586-020-2605-1 
+PMID: 32731256 
+

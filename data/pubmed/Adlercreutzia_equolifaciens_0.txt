@@ -1,0 +1,46 @@
+
+1. Sci Rep. 2020 Sep 23;10(1):15515. doi: 10.1038/s41598-020-72386-9.
+
+Prospective associations of the infant gut microbiome and microbial function with
+social behaviors related to autism at age 3 years.
+
+Laue HE(1), Korrick SA(2)(3), Baker ER(4), Karagas MR(5), Madan JC(5)(6)(7).
+
+Author information: 
+(1)Department of Epidemiology, Geisel School of Medicine at Dartmouth College,
+Hanover, NH, USA. Hannah.E.Laue@Dartmouth.edu.
+(2)Department of Environmental Health, Harvard T.H. Chan School of Public Health,
+Boston, MA, USA.
+(3)Channing Division of Network Medicine, Department of Medicine, Brigham and
+Women's Hospital and Harvard Medical School, Boston, MA, USA.
+(4)Department of Obstetrics and Gynecology, Dartmouth-Hitchcock Medical Center,
+Lebanon, NH, USA.
+(5)Department of Epidemiology, Geisel School of Medicine at Dartmouth College,
+Hanover, NH, USA.
+(6)Department of Pediatrics, Children's Hospital at Dartmouth, Lebanon, NH, USA.
+(7)Department of Psychiatry, Children's Hospital at Dartmouth, Lebanon, NH, USA.
+
+The hypothesized link between gut bacteria and autism spectrum disorder (ASD) has
+been explored through animal models and human studies with microbiome assessment 
+after ASD presentation. We aimed to prospectively characterize the association
+between the infant/toddler gut microbiome and ASD-related social behaviors at age
+3 years. As part of an ongoing birth cohort gut bacterial diversity, structure,
+taxa, and function at 6 weeks (n = 166), 1 year (n = 158), 2 years (n = 129), and
+3 years (n = 140) were quantified with 16S rRNA gene and shotgun metagenomic
+sequencing (n = 101 six weeks, n = 103 one year). ASD-related social behavior was
+assessed at age 3 years using Social Responsiveness Scale (SRS-2) T-scores.
+Covariate-adjusted linear and permutation-based models were implemented.
+Microbiome structure at 1 year was associated with SRS-2 total T-scores
+(p = 0.01). Several taxa at 1, 2, and 3 years were associated with SRS-2
+performance, including many in the Lachnospiraceae family. Higher relative
+abundance of Adlercreutzia equolifaciens and Ruminococcus torques at 1 year
+related to poorer SRS-2 performance. Two functional pathways, L-ornithine and
+vitamin B6 biosynthesis, were associated with better social skills at 3 years.
+Our results support potential associations between early-childhood gut microbiome
+and social behaviors. Future mechanistic studies are warranted to pinpoint
+sensitive targets for intervention.
+
+DOI: 10.1038/s41598-020-72386-9 
+PMCID: PMC7511970
+PMID: 32968156 
+

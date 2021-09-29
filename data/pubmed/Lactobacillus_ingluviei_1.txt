@@ -1,0 +1,29 @@
+
+1. J Agric Food Chem. 2019 Nov 20;67(46):12806-12815. doi: 10.1021/acs.jafc.9b04252.
+Epub 2019 Nov 8.
+
+Novel Dextransucrase Gtf-DSM, Highly Similar in Sequence to Reuteransucrase GtfO,
+Displays Unique Product Specificity.
+
+Chen Z, Tian Y, Zhang W, Guang C, Meng X(1), Mu W.
+
+Author information: 
+(1)State Key Laboratory of Microbial Technology , Shandong University , Qingdao ,
+Shandong 266237 , China.
+
+Lactic acid bacteria are known to produce extracellular polysaccharides such as
+α-glucan, levan, and inulin, which are promising for applications in food systems
+because of their prebiotic properties. In this work, a novel glucansucrase (GS)
+Gtf-DSM from Lactobacillus ingluviei DSM 14792 was recombinantly expressed and
+biochemically characterized as a dextransucrase capable of producing a dextran
+polysaccharide with four types of linkages, including 69% (α1 → 6), 24% (α1 → 3),
+6% (α1 → 4), and 1% (α1 → 2). Intriguingly, the dextransucrase Gtf-DSM had a
+sequence identity of 99.3% with the reuteransucrase GtfO producing a reuteran
+with 21% (α1 → 6) and 79% (α1 → 4) linkages. Thus, the dextransucrase Gtf-DSM is 
+a unique target for understanding the linkage specificity of GSs and the
+investigation of site-directed mutagenesis using Gtf-DSM and GtfO as templates is
+underway.
+
+DOI: 10.1021/acs.jafc.9b04252 
+PMID: 31650841  [Indexed for MEDLINE]
+

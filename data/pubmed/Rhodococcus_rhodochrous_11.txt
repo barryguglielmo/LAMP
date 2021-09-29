@@ -1,0 +1,54 @@
+
+1. Sci Total Environ. 2019 Dec 1;694:133688. doi: 10.1016/j.scitotenv.2019.133688.
+Epub 2019 Jul 30.
+
+Aerobic cometabolism of 1,4-dioxane by isobutane-utilizing microorganisms
+including Rhodococcus rhodochrous strain 21198 in aquifer microcosms:
+Experimental and modeling study.
+
+Rolston HM(1), Hyman MR(2), Semprini L(3).
+
+Author information: 
+(1)School of Chemical, Biological, and Environmental Engineering, Oregon State
+University, Corvallis, OR, USA.
+(2)Department of Plant and Microbial Biology, North Carolina State University,
+Raleigh, NC, USA.
+(3)School of Chemical, Biological, and Environmental Engineering, Oregon State
+University, Corvallis, OR, USA. Electronic address:
+lewis.semprini@oregonstate.edu.
+
+Aerobic cometabolism of the emerging contaminant 1,4-dioxane (1,4-D) by
+isobutane-utilizing microorganisms was assessed in pure culture and aquifer
+microcosm studies. The bacterium Rhodococcus rhodochrous strain ATCC 21198
+transformed low, environmentally-relevant concentrations of 1,4-D when grown on
+isobutane. Microcosms were constructed with aquifer solids from Fort Carson,
+Colorado, a site contaminated with 1,4-D and trichloroethene (TCE). Multiple
+additions of isobutane and 1,4-D over 300 days were transformed in microcosms
+biostimulated with isobutane and microcosms bioaugmented with strain 21198.
+Results showed that, over time and with sufficient inorganic nutrients,
+biostimulation of native microorganisms with isobutane was just as effective as
+bioaugmentation with strain 21198 to achieve 1,4-D transformation in the
+microcosms. The presence of TCE at 0.2 mg/L did not inhibit 1,4-D transformation,
+though TCE itself was not readily transformed. An iterative process was used to
+determine kinetic parameter values to fit Michaelis-Menten/Monod models to
+experimental data for simultaneous isobutane utilization, biomass growth, and
+cometabolic transformation of 1,4-D. Parameter optimization resulted in good
+model fit to the data over multiple transformations of isobutane and 1,4-D in
+both short- and long-term experiments. Results suggest low concentrations of
+1,4-D studied in the microcosms were cometabolically transformed according to a
+pseudo first-order rate of 0.37 L/mg TSS/day of 21198. Isobutane consumption was 
+modeled with a maximum rate of 2.58 mg/mg TSS/day and a half saturation constant 
+of 0.09 mg/L. 1,4-D transformation was competitively inhibited by the presence of
+isobutane and transformation rates were significantly reduced when inorganic
+nutrients were limiting. Simulations of the repeated additions found a
+first-order microbial endogenous decay coefficient of 0.03 day-1 fit the
+alternating periods of active transformation and stagnation between isobutane and
+1,4-D additions over approximately one year. The model fitting process
+highlighted the importance of determining kinetic parameters from data
+representing low concentrations typically found in the environment.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2019.133688 
+PMID: 31756820  [Indexed for MEDLINE]
+

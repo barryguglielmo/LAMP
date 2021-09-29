@@ -1,0 +1,52 @@
+
+1. Virulence. 2019 Dec;10(1):194-206. doi: 10.1080/21505594.2019.1589362.
+
+Homophilic protein interactions facilitate bacterial aggregation and
+IgG-dependent complex formation by the Streptococcus canis M protein SCM.
+
+Nerlich A(1)(2), Lapschies AM(3), Kohler TP(4), Cornax I(5), Eichhorn I(3),
+Goldmann O(6), Krienke P(3), Bergmann S(2)(7), Nizet V(5), Hammerschmidt S(4),
+Rohde M(2)(8), Fulde M(2)(3).
+
+Author information: 
+(1)a Department of Internal Medicine/Infectious Diseases and Pulmonary Medicine ,
+Charité Universitätsmedizin Berlin , Berlin , Germany.
+(2)b Department of Medical Microbiology , Helmholtz Centre for Infection Research
+, Braunschweig , Germany.
+(3)c Institute of Microbiology and Epizootics, Centre of Infection Medicine ,
+Freie Universität Berlin , Berlin , Germany.
+(4)d Department of Molecular Genetics and Infection Biology, Interfaculty
+Institute for Genetics and Functional Genomics, Center for Functional Genomics of
+Microbes , University of Greifswald , Greifswald , Germany.
+(5)e Department of Pediatrics and Skaggs School of Pharmacy and Pharmaceutical
+Sciences , UC San Diego , La Jolla , CA , USA.
+(6)f Infection Immunology Group, Helmholtz Centre for Infection Research ,
+Braunschweig , Germany.
+(7)g Department of Infection Biology, Institute of Microbiology , Technische
+Universität Braunschweig , Braunschweig , Germany.
+(8)h Central Facility for Microscopy , Helmholtz Centre for Infection Research , 
+Braunschweig , Germany.
+
+Streptococcus canis is a zoonotic agent that causes serious invasive diseases in 
+domestic animals and humans, but knowledge about its pathogenic potential and
+underlying virulence mechanisms is limited. Here, we report on the ability of
+certain S. canis isolates to form large bacterial aggregates when grown in liquid
+broth. Bacterial aggregation was attributed to the presence and the self-binding 
+activity of SCM, the M protein of S. canis, as evaluated by bacterial
+sedimentation assays, immunofluorescence- and electron microscopic approaches.
+Using a variety of truncated recombinant SCM fragments, we demonstrated that
+homophilic SCM interactions occur via the N-terminal, but not the C-terminal
+part, of the mature M protein. Interestingly, when incubated in human plasma, SCM
+forms soluble protein complexes comprising its known ligands, immunoglobulin G
+(IgG) and plasminogen (Plg). Co-incubation studies with purified host proteins
+revealed that SCM-mediated complex formation is based on the interaction of SCM
+with itself and with IgG, but not with Plg or fibrinogen (Fbg), well-established 
+constituents of M protein-mediated protein complexes in human-associated
+streptococci. Notably, these soluble, SCM-mediated plasma complexes harbored
+complement factor C1q, which can induce complement breakdown in the periphery and
+therefore represent another immune evasion mechanism of SCM.
+
+DOI: 10.1080/21505594.2019.1589362 
+PMCID: PMC6527014
+PMID: 30829556  [Indexed for MEDLINE]
+

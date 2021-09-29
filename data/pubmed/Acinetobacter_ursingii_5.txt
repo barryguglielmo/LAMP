@@ -1,0 +1,54 @@
+
+1. J Microbiol Immunol Infect. 2019 Dec;52(6):966-972. doi:
+10.1016/j.jmii.2019.09.007. Epub 2019 Oct 30.
+
+The clinical characteristics of Acinetobacter bacteremia differ among
+genomospecies: A hospital-based retrospective comparative analysis of
+genotypically identified strains.
+
+Koizumi Y(1), Sakanashi D(2), Ohno T(2), Yamada A(2), Shiota A(2), Kato H(2),
+Hagihara M(2), Watanabe H(3), Asai N(3), Watarai M(4), Murotani K(5), Yamagishi
+Y(3), Suematsu H(2), Mikamo H(3).
+
+Author information: 
+(1)Department of Clinical Infectious Diseases, Aichi Medical University Hospital,
+Japan; Department of Infection Control and Prevention, Aichi Medical University
+Hospital, Japan. Electronic address: ykoizumi@aichi-med-u.ac.jp.
+(2)Department of Infection Control and Prevention, Aichi Medical University
+Hospital, Japan.
+(3)Department of Clinical Infectious Diseases, Aichi Medical University Hospital,
+Japan; Department of Infection Control and Prevention, Aichi Medical University
+Hospital, Japan.
+(4)Department of Hematology, Aichi Medical University Hospital, Japan.
+(5)Biostatistics Center, Graduate School of Medicine, Kurume University, Japan.
+
+BACKGROUND/PURPOSE: Acinetobacter is an aerobic, gram-negative coccobacillus,
+which causes nosocomial infections including bacteremia. Recent development of
+molecular techniques has made classification of the Acinetobacter genomospecies
+possible, but there are still only a few studies comparing clinical features of
+the subspecies. We investigated bacteremia caused by Acinetobacter, isolated
+subspecies, and compared clinical features for each group.
+METHODS: A retrospective analysis of Acinetobacter bacteremia cases was made in a
+900-bed hospital in Japan. In addition to conventional procedures, subspecies
+identification based on rpoB sequence was made, and comparison of clinical
+characteristics between each subspecies were analyzed.
+RESULTS: We collected 35 cases (Acinetobacter baumannii 14, A. nosocomialis 12,
+Acinetobacter ursingii 6, and A. seifertii 3). All of the A. seifertii bacteremia
+cases were blood stream infection occurring in cerebrovascular disease patients, 
+showing particularly higher incidence of shock (100%) and high Pitt bacteremia
+score (PBS) (6.33 ± 2.52) in comparison to A. baumannii (43% and 2.86 ± 2.25,
+respectively). Sequential Organ Failure Assessment (SOFA) score and the PBS were 
+slightly higher in A. nosocomialis in comparison to A. baumannii, and the 7 day
+mortality rate was higher in A. nosocomialis (25%) than in A. baumannii (7%),
+though this difference was not found to be significant.
+CONCLUSIONS: A.seifertii, the recently defined novel species, showed distinctive 
+clinical features of bacteremia. And, in contrast to previous studies, the
+severity of A. nosocomialis infection was not lower than that of A. baumannii,
+which might suggest the influence of local epidemiology. Further characterization
+of these subspecies should be continued.
+
+Copyright © 2019. Published by Elsevier B.V.
+
+DOI: 10.1016/j.jmii.2019.09.007 
+PMID: 31813733  [Indexed for MEDLINE]
+

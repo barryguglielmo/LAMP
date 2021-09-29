@@ -1,0 +1,35 @@
+
+1. Org Biomol Chem. 2020 Sep 30. doi: 10.1039/d0ob01776k. [Epub ahead of print]
+
+Cholesteryl 6-O-acyl-α-glucosides from diverse Helicobacter spp. signal through
+the C-type lectin receptor Mincle.
+
+Smith DGM(1), Ito E(2), Yamasaki S(2), Williams SJ(1).
+
+Author information: 
+(1)School of Chemistry and Bio21 Molecular Science and Biotechnology Institute,
+University of Melbourne, Parkville, Victoria 3010, Australia.
+sjwill@unimelb.edu.au.
+(2)Department of Molecular Immunology, Immunology Frontier Research Center, Osaka
+University, Suita 565-0871, Japan and Department of Molecular Immunology,
+Research Institute for Microbial Diseases, Osaka University, Suita 565-0871,
+Japan.
+
+Helicobacter spp. are Gram-negative bacteria that cause a spectrum of disease in 
+the gut, biliary tree and liver. Many Helicobacter spp. produce a range of
+cholesteryl α-glucosides that have the potential to act as pathogen associated
+molecular patterns. We report a highly stereoselective α-glucosylation of
+cholesterol using 3,4,6-tri-O-acetyl-2-O-benzyl-d-glucopyranosyl
+N-phenyl-2,2,2-trifluoroacetimidate, which allowed the synthesis of cholesteryl
+α-glucoside (αCG) and representative Helicobacter spp. cholesteryl
+6-O-acyl-α-glucosides (αCAGs; acyl = C12:0, 14:0, C16:0, C18:0, C18:1). All
+αCAGs, irrespective of the nature of their acyl chain composition, strongly
+agonised signalling through the C-type lectin receptor Mincle from human and
+mouse to similar degrees. By contrast, αCG only weakly signalled through human
+Mincle, and did not signal through mouse Mincle. These results provide a
+molecular basis for understanding of the immunobiology of non-pylori Helicobacter
+infections in humans and other animals.
+
+DOI: 10.1039/d0ob01776k 
+PMID: 32996960 
+

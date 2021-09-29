@@ -1,0 +1,68 @@
+
+1. Appl Environ Microbiol. 2020 Aug 18;86(17). pii: e01177-20. doi:
+10.1128/AEM.01177-20. Print 2020 Aug 18.
+
+Primary and Secondary Succession Mediate the Accumulation of Biogenic Amines
+during Industrial Semidry Chinese Rice Wine Fermentation.
+
+Luo Y(1), Huang Y(1), Xu RX(1), Qian B(2), Zhou JW(3), Xia XL(4).
+
+Author information: 
+(1)Key Laboratory of Industrial Biotechnology, Ministry of Education, School of
+Biotechnology, Jiangnan University, Wuxi, People's Republic of China.
+(2)Zhejiang Guyue Longshan Shaoxing Wine Co. Ltd., Shaoxing, People's Republic of
+China.
+(3)National Engineering Laboratory for Cereal Fermentation Technology, Jiangnan
+University, Wuxi, People's Republic of China.
+(4)Key Laboratory of Industrial Biotechnology, Ministry of Education, School of
+Biotechnology, Jiangnan University, Wuxi, People's Republic of China
+xiaolexia@jiangnan.edu.cn.
+
+The use of exogenous functional microorganisms to regulate biogenic amine (BA)
+content is a common approach in fermentation systems. Here, to better understand 
+the microbial traits of succession trajectories in resource-based and biotic
+interference systems, the BA-related primary and secondary succession were
+tracked during industrial semidry Chinese rice wine (CRW) fermentation. Dominant 
+abundance and BA-associated microbial functionality based on phylogenetic
+investigation of communities by reconstruction of unobserved states (PICRUSt)
+indicated that Citrobacter, Acinetobacter, Lactobacillus, Exiguobacterium,
+Bacillus, Pseudomonas, and Enterobacter spp. prominently contributed to the
+decarboxylase gene family in CRW. The expression levels of tyrosine decarboxylase
+(tyrDC), ornithine decarboxylase (odc), and agmatine deiminase (aguA) genes were 
+assessed by quantitative PCR (qPCR). The transcription levels of these genes did 
+not correlate with the BA formation rate during postfermentation, indicating that
+acidification and carbon source depletion upregulated the expression and microbes
+launch the dormancy strategy to respond to unfavorable conditions. Furthermore,
+microbial interference with CRW fermentation by Lactobacillus plantarum (ACBC271)
+and Staphylococcus xylosus (CGMCC1.8382) coinoculated at a ratio of 1:2 exhibited
+the best synergetic control of BA content. Spearman correlations revealed that
+Lactobacillus and Staphylococcus exhibited influence on BA-associated microbiota 
+(|ρ| > 0), Exiguobacterium and Pseudomonas were strongly suppressed by
+Lactobacillus (ρ = -0.867 and ρ = -0.782, respectively; P < 0.05), and
+Staphylococcus showed the strongest inhibitory effect toward Lactobacillus (ρ =
+-0.115) and Citrobacter (ρ = -0.188) in the coinoculated 1:2 group. The high
+inhibitory effect of exogenous added strains on specific bacteria presented
+evidence for the obtained BA-associated contributors. Overall, this work provides
+important insight into the microbial traits that rely on resource usage and
+functional microbiota within food microbial ecology.IMPORTANCE Understanding the 
+shifting patterns of substance usage and microbial interactions is a fundamental 
+objective within microbiology and ecology. Analyses of primary and secondary
+microbial succession allow for determinations of taxonomic diversity, community
+traits, and functional transformations over time or after a disturbance. The
+kinetics of BA generation and the patterns of resource consumption, functional
+metagenome prediction, and microbial interactions were profiled to elucidate the 
+equilibrium mechanism of microbial systems. Secondary succession after a
+disturbance triggers a change in resource usage, which in turn affects primary
+succession and metabolism. In this study, the functional potential of exogenous
+microorganisms under disturbance synergized with secondary succession strategies,
+including rebalancing and dormancy, which ultimately reduced BA accumulation.
+Thus, this succession system could facilitate the settling of essential issues
+with respect to microbial traits that rely on resource usage and microbial
+interactions that occur in natural ecosystems.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.01177-20 
+PMCID: PMC7440807 [Available on 2021-02-18]
+PMID: 32591381 
+

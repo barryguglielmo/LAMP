@@ -1,0 +1,40 @@
+
+1. Front Microbiol. 2020 Aug 19;11:2007. doi: 10.3389/fmicb.2020.02007. eCollection 
+2020.
+
+Nanopore MinION Sequencing Reveals Possible Transfer of bla KPC-2 Plasmid Across 
+Bacterial Species in Two Healthcare Facilities.
+
+Prussing C(1), Snavely EA(1), Singh N(1), Lapierre P(1), Lasek-Nesselquist E(1), 
+Mitchell K(1), Haas W(1), Owsiak R(2), Nazarian E(1), Musser KA(1).
+
+Author information: 
+(1)Wadsworth Center, New York State Department of Health, Albany, NY, United
+States.
+(2)Maine Center for Disease Control and Prevention, Department of Health and
+Human Services, Augusta, ME, United States.
+
+Carbapenemase-producing Enterobacteriaceae are a major threat to global public
+health. Klebsiella pneumoniae carbapenemase (KPC) is the most commonly identified
+carbapenemase in the United States and is frequently found on mobile genetic
+elements including plasmids, which can be horizontally transmitted between
+bacteria of the same or different species. Here we describe the results of an
+epidemiological investigation of KPC-producing bacteria at two healthcare
+facilities. Using a combination of short-read and long-read whole-genome
+sequencing, we identified an identical 44 kilobase plasmid carrying the bla KPC-2
+gene in four bacterial isolates belonging to three different species (Citrobacter
+freundii, Klebsiella pneumoniae, and Escherichia coli). The isolates in this
+investigation were collected from patients who were epidemiologically linked in a
+region in which KPC was uncommon, suggesting that the antibiotic resistance
+plasmid was transmitted between these bacterial species. This investigation
+highlights the importance of long-read sequencing in investigating the
+relatedness of bacterial plasmids, and in elucidating potential plasmid-mediated 
+outbreaks caused by antibiotic resistant bacteria.
+
+Copyright © 2020 Prussing, Snavely, Singh, Lapierre, Lasek-Nesselquist, Mitchell,
+Haas, Owsiak, Nazarian and Musser.
+
+DOI: 10.3389/fmicb.2020.02007 
+PMCID: PMC7466660
+PMID: 32973725 
+

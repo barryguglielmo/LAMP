@@ -1,0 +1,72 @@
+
+1. mBio. 2020 Apr 7;11(2). pii: e00095-20. doi: 10.1128/mBio.00095-20.
+
+Synergy between Cell Surface Glycosidases and Glycan-Binding Proteins Dictates
+the Utilization of Specific Beta(1,3)-Glucans by Human Gut Bacteroides.
+
+Déjean G(#)(1), Tamura K(#)(1)(2), Cabrera A(1), Jain N(1)(3), Pudlo NA(4),
+Pereira G(4), Viborg AH(1), Van Petegem F(2), Martens EC(4), Brumer
+H(5)(2)(3)(6).
+
+Author information: 
+(1)Michael Smith Laboratories, University of British Columbia, Vancouver, British
+Columbia, Canada.
+(2)Department of Biochemistry and Molecular Biology, University of British
+Columbia, Vancouver, British Columbia, Canada.
+(3)Department of Chemistry, University of British Columbia, Vancouver, British
+Columbia, Canada.
+(4)Department of Microbiology and Immunology, University of Michigan Medical
+School, Ann Arbor, Michigan, USA.
+(5)Michael Smith Laboratories, University of British Columbia, Vancouver, British
+Columbia, Canada brumer@msl.ubc.ca.
+(6)Department of Botany, University of British Columbia, Vancouver, British
+Columbia, Canada.
+(#)Contributed equally
+
+The human gut microbiota (HGM) has far-reaching impacts on human health and
+nutrition, which are fueled primarily by the metabolism of otherwise indigestible
+complex carbohydrates commonly known as dietary fiber. However, the molecular
+basis of the ability of individual taxa of the HGM to address specific dietary
+glycan structures remains largely unclear. In particular, the utilization of
+β(1,3)-glucans, which are widespread in the human diet as yeast, seaweed, and
+plant cell walls, had not previously been resolved. Through a systems-based
+approach, here we show that the symbiont Bacteroides uniformis deploys a single, 
+exemplar polysaccharide utilization locus (PUL) to access yeast β(1,3)-glucan,
+brown seaweed β(1,3)-glucan (laminarin), and cereal mixed-linkage
+β(1,3)/β(1,4)-glucan. Combined biochemical, enzymatic, and structural analysis of
+PUL-encoded glycoside hydrolases (GHs) and surface glycan-binding proteins
+(SGBPs) illuminates a concerted molecular system by which B. uniformis recognizes
+and saccharifies these distinct β-glucans. Strikingly, the functional
+characterization of homologous β(1,3)-glucan utilization loci (1,3GUL) in other
+Bacteroides further demonstrated that the ability of individual taxa to utilize
+β(1,3)-glucan variants and/or β(1,3)/β(1,4)-glucans arises combinatorially from
+the individual specificities of SGBPs and GHs at the cell surface, which feed
+corresponding signals to periplasmic hybrid two-component sensors (HTCSs) via
+TonB-dependent transporters (TBDTs). These data reveal the importance of
+cooperativity in the adaptive evolution of GH and SGBP cohorts to address
+individual polysaccharide structures. We anticipate that this fine-grained
+knowledge of PUL function will inform metabolic network analysis and proactive
+manipulation of the HGM. Indeed, a survey of 2,441 public human metagenomes
+revealed the international, yet individual-specific, distribution of each
+1,3GUL.IMPORTANCE Bacteroidetes are a dominant phylum of the human gut microbiota
+(HGM) that target otherwise indigestible dietary fiber with an arsenal of
+polysaccharide utilization loci (PULs), each of which is dedicated to the
+utilization of a specific complex carbohydrate. Here, we provide novel insight
+into this paradigm through functional characterization of homologous PULs from
+three autochthonous Bacteroides species, which target the family of dietary
+β(1,3)-glucans. Through detailed biochemical and protein structural analysis, we 
+observed an unexpected diversity in the substrate specificity of PUL glycosidases
+and glycan-binding proteins with regard to β(1,3)-glucan linkage and branching
+patterns. In combination, these individual enzyme and protein specificities
+support taxon-specific growth on individual β(1,3)-glucans. This detailed
+metabolic insight, together with a comprehensive survey of individual 1,3GULs
+across human populations, further expands the fundamental roadmap of the HGM,
+with potential application to the future development of microbial intervention
+therapies.
+
+Copyright © 2020 Déjean et al.
+
+DOI: 10.1128/mBio.00095-20 
+PMCID: PMC7157763
+PMID: 32265336 
+

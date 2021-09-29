@@ -1,0 +1,49 @@
+
+1. Front Cell Infect Microbiol. 2020 Aug 18;10:415. doi: 10.3389/fcimb.2020.00415.
+eCollection 2020.
+
+Irradiation-Induced Intestinal Damage Is Recovered by the Indigenous Gut Bacteria
+Lactobacillus acidophilus.
+
+Sittipo P(1), Pham HQ(2), Park CE(2), Kang GU(2), Zhi Y(3), Ji HJ(3), Jang A(3), 
+Seo HS(3), Shin JH(2), Lee YK(1).
+
+Author information: 
+(1)Department of Integrated Biomedical Science, Soonchunhyang Institute of
+Medi-Bio Science, Soonchunhyang University, Cheonan, South Korea.
+(2)Department of Applied Biosciences, Kyungpook National University, Daegu, South
+Korea.
+(3)Radiation Biotechnology Research Division, Advanced Radiation Technology
+Institute, Korea Atomic Energy Research Institute, Jeongeup, South Korea.
+
+The intestinal tract is one of the most sensitive organs following irradiation.
+The protective effect of specific indigenous microbiota on irradiation-induced
+damage to intestinal epithelial cells has not been reported. Mice were irradiated
+with a single dose of 6 Gy of gamma rays. The intestinal damage was analyzed by
+histopathology. Intestinal stemness and differentiation were determined by
+intestinal organoid culture. Microbiota community was observed by high-throughput
+16S rRNA gene sequencing and oligotyping analysis. We showed that distal small
+intestine was damaged by sublethal dose of gamma irradiation. Intestinal
+organoids derived from the irradiated mice showed defects in budding and mucin
+expression, suggesting the detrimental effect of irradiation on the intestinal
+stemness and differentiation. In addition, irradiation reduced intestinal
+immunoglobulin A level, concomitant with decreased microbiota diversity based on 
+our high-throughput 16S rRNA gene sequencing data. Especially, the relative
+abundance of Lactobacillus was reduced at early time point post-irradiation;
+however, it was recovered at late time point. Oligotyping analysis within the
+Lactobacillus genus indicated that Lactobacillus-related oligotype 1 (OT1)
+including Lactobacillus acidophilus might drive recovery after irradiation as it 
+was associated with increased long-term numbers post-exposure. We showed that
+treatment with heat-killed L. acidophilus rescued the budding-impaired organoids 
+and induced sufficient differentiation in epithelial cells, and particularly
+mucin-producing cells, in intestinal organoids. This study provides the first
+evidence that the indigenous gut bacteria L. acidophilus enhance intestinal
+epithelial function with respect to irradiation-induced intestinal damage by
+improving intestinal stem cell function and cell differentiation.
+
+Copyright © 2020 Sittipo, Pham, Park, Kang, Zhi, Ji, Jang, Seo, Shin and Lee.
+
+DOI: 10.3389/fcimb.2020.00415 
+PMCID: PMC7461978
+PMID: 32974214 
+

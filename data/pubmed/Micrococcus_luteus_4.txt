@@ -1,0 +1,28 @@
+
+1. Microbiol Resour Announc. 2020 Sep 17;9(38). pii: e00299-20. doi:
+10.1128/MRA.00299-20.
+
+Draft Genome Sequence of Pseudarthrobacter sp. Strain ATCC 49442 (Formerly
+Micrococcus luteus), a Pyridine-Degrading Bacterium.
+
+Gupta N(1)(2), Skinner KA(1), Summers ZM(3), Edirisinghe JN(1)(2), Weisenhorn
+PB(1), Faria JP(1)(2), Marshall CW(1), Sharma A(2), Gottel NR(2), Gilbert
+JA(1)(2), Henry CS(1)(2), O'Loughlin EJ(4).
+
+Author information: 
+(1)Argonne National Laboratory, Lemont, Illinois, USA.
+(2)University of Chicago, Chicago, Illinois, USA.
+(3)ExxonMobil Research and Engineering Company, Annandale, New Jersey, USA.
+(4)Argonne National Laboratory, Lemont, Illinois, USA oloughlin@anl.gov.
+
+We present here the draft genome sequence of a pyridine-degrading bacterium,
+Micrococcus luteus ATCC 49442, which was reclassified as Pseudarthrobacter sp.
+strain ATCC 49442 based on its draft genome sequence. Its genome length is
+4.98 Mbp, with 64.81% GC content.
+
+Copyright © 2020 Gupta et al.
+
+DOI: 10.1128/MRA.00299-20 
+PMCID: PMC7498421
+PMID: 32943555 
+

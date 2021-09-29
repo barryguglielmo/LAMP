@@ -1,0 +1,38 @@
+
+1. Antimicrob Agents Chemother. 2020 Aug 20;64(9). pii: e00105-20. doi:
+10.1128/AAC.00105-20. Print 2020 Aug 20.
+
+Mutational Effects on Carbapenem Hydrolysis of YEM-1, a New Subclass B2
+Metallo-β-Lactamase from Yersinia mollaretii.
+
+Mercuri PS(1), Esposito R(2), Blétard S(2), Di Costanzo S(2)(3), Perilli M(3),
+Kerff F(4), Galleni M(2).
+
+Author information: 
+(1)Macromolécules Biologiques, Centre d'Ingénierie des Protéines, InBioS,
+Université de Liège, Liège, Belgium pmercuri@uliege.be.
+(2)Macromolécules Biologiques, Centre d'Ingénierie des Protéines, InBioS,
+Université de Liège, Liège, Belgium.
+(3)Dipartimento di Scienze Cliniche Applicate e Biotecnologiche, Università degli
+Studi dell'Aquila, L'Aquila, Italy.
+(4)Cristallographie des Macromolécules Biologiques, Centre d'Ingénierie des
+Protéines, InBioS, Université de Liège, Liège, Belgium.
+
+Analysis of the genome sequence of Yersinia mollaretii ATCC 43969 identified the 
+bla YEM gene, encoding YEM-1, a putative subclass B2 metallo-β-lactamase. The
+objectives of our work were to produce and purify YEM-1 and to complete its
+kinetic characterization. YEM-1 displayed the narrowest substrate range among
+known subclass B2 metallo-β-lactamases, since it can hydrolyze imipenem, but not 
+other carbapenems, such as biapenem, meropenem, doripenem, and ertapenem, with
+high catalytic efficiency. A possible explanation of this activity profile is the
+presence of tyrosine at residue 67 (loop L1), threonine at residue 156 (loop L2),
+and serine at residue 236 (loop L3). We showed that replacement of Y67 broadened 
+the activity profile of the enzyme for all carbapenems but still resulted in poor
+activity toward the other β-lactam classes.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.00105-20 
+PMCID: PMC7449184 [Available on 2021-02-20]
+PMID: 32540974 
+

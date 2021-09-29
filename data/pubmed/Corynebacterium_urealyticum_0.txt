@@ -1,0 +1,65 @@
+
+1. J Glob Antimicrob Resist. 2020 Aug 8;23:16-19. doi: 10.1016/j.jgar.2020.07.020.
+[Epub ahead of print]
+
+Whole-genome sequencing reveals misidentification of a multidrug-resistant urine 
+clinical isolate as Corynebacterium urealyticum.
+
+Rocha DJP(1), Azevedo V(2), Brenig B(3), Silva A(4), Blom J(5), Ramos RT(4),
+Aguiar ERG(1), Chapartegui-González I(6), Fernández-Martínez M(7),
+Martínez-Martínez L(8), Pacheco LGC(1), Navas J(9).
+
+Author information: 
+(1)Post-Graduate Program in Biotechnology, Institute of Health Sciences, Federal 
+University of Bahia, Salvador-BA, Brazil.
+(2)Institute of Biological Sciences, Federal University of Minas Gerais, Belo
+Horizonte-MG, Brazil.
+(3)University of Göttingen, Institute of Veterinary Medicine, Göttingen, Germany.
+(4)Institute of Biological Sciences, Federal University of Para, Belém-PA,
+Brazil.
+(5)Bioinformatics and Systems Biology, Justus Liebig University Gießen,
+Ludwigstraße 23, D-35390 Gießen, Germany.
+(6)Departamento de Biología Molecular, Facultad de Medicina, Universidad de
+Cantabria, Herrera Oria 2, 39011 Santander, Spain.
+(7)Valdecilla Biomedical Research Institute (IDIVAL), Santander, Spain.
+(8)Unidad de Gestión Clínica, Hospital Universitario Reina Sofía, Av. Menéndez
+Pidal, s/n, 14004 Córdoba, Spain; Departamento de Microbiología, Universidad de
+Córdoba, Campus Rabanales. Edif. Severo Ochoa (C6), 14071 Córdoba, Spain;
+Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC), Av. Menéndez
+Pidal, s/n, 14004 Córdoba, Spain.
+(9)Departamento de Biología Molecular, Facultad de Medicina, Universidad de
+Cantabria, Herrera Oria 2, 39011 Santander, Spain. Electronic address:
+navasj@unican.es.
+
+OBJECTIVES: Corynebacterium urealyticum is a non-diphtherial urease-producing
+clinically relevant corynebacterium associated with urinary tract infections.
+Most clinical C. urealyticum isolates are multidrug-resistant. Whole-genome
+sequencing (WGS) of C. urealyticum VH4248 isolated from a clinical urine sample
+at Hospital Universitario Marqués de Valdecilla, Santander, Spain, was performed 
+to predict its antimicrobial resistance profile and to compare it with results of
+culture-based phenotypic antimicrobial susceptibility testing.
+METHODS: Classical microbiological methods and VITEK® MS were used for isolation 
+and initial identification of strain VH4248. Draft genome sequencing was
+performed on an Illumina HiSeq 2500 platform, followed by assembly and annotation
+using SPAdes and RAST. Resistance genes were identified through PATRIC, the
+Pathosystems Resource Integration Center. Average nucleotide identity (ANI)
+analysis was done using the EDGAR and OrthoANI databases. Antimicrobial
+susceptibility was determined by Etest.
+RESULTS: Isolate VH4248 was initially identified asC. urealyticum. Its genome
+size is 2 261 231 bp with 64.4% GC content. Genome-based identification tools
+showed an average 93.7% similarity between VH4248 and C. urealyticum genomes
+deposited in public databases. Therefore, this isolate must be classified as
+Corynebacterium sp. The blaA and ermX genes as well as a class 1 integron
+including the aadB and sul1 genes are present in the VH4248 genome. This isolate 
+is highly resistant to ampicillin, erythromycin and
+trimethoprim/sulfamethoxazole, and moderately resistant to gentamicin and
+kanamycin.
+CONCLUSIONS: WGS is a powerful tool forCorynebacterium identification to species 
+level and for detection of unusual resistance determinants, such as that encoded 
+by the class 1 integron in isolate VH4248.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jgar.2020.07.020 
+PMID: 32777440 
+

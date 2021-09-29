@@ -1,0 +1,61 @@
+
+1. Appl Biosaf. 2020 Jun 19;25(2):1-14. doi: 10.1177/1535676020926975.
+
+Decontamination of Bacillus Spores with Formaldehyde Vapor under Varied
+Environmental Conditions.
+
+Choi YW(1), Sunderman MM(1), McCauley MW(1), Richter WR(1), Willenberg ZJ(1),
+Wood J(2), Serre S(2), Mickelsen L(2), Willison S(3), Rupert R(4), Muñiz-Ortiz
+JG(5), Casey S(6), Calfee MW(2).
+
+Author information: 
+(1)Battelle Memorial Institute, Columbus, OH, USA.
+(2)US Environmental Protection Agency, TW Alexander Drive, Research Triangle
+Park, NC, USA.
+(3)US Environmental Protection Agency, Cincinnati, OH.
+(4)US Environmental Protection Agency, Region 3, Philadelphia, PA.
+(5)US Environmental Protection Agency, Arlington, VA.
+(6)United Kingdom, Department for Environment, Food and Rural Affairs, CBRN
+Recovery Team, Stafford, England.
+
+Introduction: This study investigated formaldehyde decontamination efficacy
+against dried Bacillus spores on porous and non-porous test surfaces, under
+various environmental conditions. This knowledge will help responders determine
+effective formaldehyde exposure parameters to decontaminate affected spaces
+following a biological agent release.
+Methods: Prescribed masses of paraformaldehyde or formalin were sublimated or
+evaporated, respectively, to generate formaldehyde vapor within a bench-scale
+test chamber. Adsorbent cartridges were used to measure formaldehyde vapor
+concentrations in the chamber at pre-determined times. A validated method was
+used to extract the cartridges and analyze for formaldehyde via liquid
+chromatography. Spores of Bacillus globigii, Bacillus thuringiensis, and Bacillus
+anthracis were inoculated and dried onto porous bare pine wood and non-porous
+painted concrete material coupons. A series of tests was conducted where
+temperature, relative humidity, and formaldehyde concentration were varied, to
+determine treatment efficacy outside of conditions where this decontaminant is
+well-characterized (laboratory temperature and humidity and 12 mg/L theoretical
+formaldehyde vapor concentration) to predict decontamination efficacy in
+applications that may arise following a biological incident.
+Results: Low temperature trials (approximately 10°C) resulted in decreased
+formaldehyde air concentrations throughout the 48-hour time-course when compared 
+with formaldehyde concentrations collected in the ambient temperature trials
+(approximately 22°C). Generally, decontamination efficacy on wood was lower for
+all three spore types compared with painted concrete. Also, higher recoveries
+resulted from painted concrete compared to wood, consistent with historical data 
+on these materials. The highest decontamination efficacies were observed on the
+spores subjected to the longest exposures (48 hours) on both materials, with
+efficacies that gradually decreased with shorter exposures. Adsorption or
+absorption of the formaldehyde vapor may have been a factor, especially during
+the low temperature trials, resulting in less available formaldehyde in the air
+when measured.
+Conclusion: Environmental conditions affect formaldehyde concentrations in the
+air and thereby affect decontamination efficacy. Efficacy is also impacted by the
+material with which the contaminants are in contact.
+
+DOI: 10.1177/1535676020926975 
+PMCID: PMC7511015 [Available on 2021-06-19]
+PMID: 32982605 
+
+Conflict of interest statement: CONFLICT OF INTEREST No conflict of interest
+declared.
+

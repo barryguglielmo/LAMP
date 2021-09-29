@@ -1,0 +1,52 @@
+
+1. Front Cell Infect Microbiol. 2020 May 25;10:239. doi: 10.3389/fcimb.2020.00239.
+eCollection 2020.
+
+SmpB and tmRNA Orchestrate Purine Pathway for the Trimethoprim Resistance in
+Aeromonas veronii.
+
+Wang D(1)(2), Li H(1), Khan WU(2), Ma X(1), Tang H(1), Tang Y(1), Huang D(2), Liu
+Z(1).
+
+Author information: 
+(1)Key Laboratory of Tropical Biological Resources of Ministry of Education,
+School of Life and Pharmaceutical Science, Hainan University, Haikou, China.
+(2)Key Laboratory for Sustainable Utilization of Tropical Bioresource, College of
+Tropical Crops Hainan University, Haikou, China.
+
+Small protein B(SmpB) cooperates with transfer-messenger RNA (tmRNA) for
+trans-translation to ensure the quality control of protein synthesis in
+prokaryotes. Furthermore, they regulate cell metabolism separately. According to 
+research, SmpB functions as a transcription factor, and tmRNA acts as a small
+RNA. Purine pathway has been reported to be related to trimethoprim resistance,
+including hypoxanthine synthesis, adenosine metabolism and guanosine metabolism. 
+Another reason of drug tolerance is the efflux pump of the bacterium. In
+transcriptomic data, it was shown that the expression of some related enzymes in 
+adenosine metabolism were raised significantly in smpB deletion strain than that 
+of wild type, which led to the differential trimethoprim resistance of Aeromonas 
+veronii (A. veronii). Furthermore, the metabolic products of adenosine AMP, cAMP,
+and deoxyadenosine were accumulated significantly. However, the expressions of
+the enzymes related to hypoxanthine synthesis and guanosine metabolism were
+elevated significantly in ssrA (small stable RNA, tmRNA) deletion strain, which
+eventually caused an augmented metabolic product xanthine. In addition, the
+deletion of ssrA also affected the significant downregulations of efflux pump
+acrA/acrB. The minimal inhibitory concentrations (MIC) were overall decreased
+after the trimethoprim treatment to the wild type, ΔsmpB and ΔssrA. And the
+difference in sensitivity between ΔsmpB and ΔssrA was evident. The MIC of ΔsmpB
+was descended significantly than those of wild type and ΔssrA in M9 medium
+supplemented with 1 mM adenosine, illustrating that the adenosine metabolism
+pathway was principally influenced by SmpB. Likewise, the strain ΔssrA conferred 
+more sensitivity than wild type and ΔsmpB in M9 medium supplemented with 1mM
+guanosine. By overexpressing acrA/acrB, the tolerance to trimethoprim was
+partially recovered in ΔssrA. These results revealed that SmpB and tmRNA acted on
+different branches in purine metabolism, conferring the diverse trimethoprim
+resistance to A. veronii. This study suggests that the trans-translation system
+might be an effective target in clinical treatment of A. veronii and other
+multi-antibiotic resistance bacteria with trimethoprim.
+
+Copyright © 2020 Wang, Li, Khan, Ma, Tang, Tang, Huang and Liu.
+
+DOI: 10.3389/fcimb.2020.00239 
+PMCID: PMC7270562
+PMID: 32547961 
+

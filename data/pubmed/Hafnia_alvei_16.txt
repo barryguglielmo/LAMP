@@ -1,0 +1,44 @@
+
+1. AMB Express. 2019 Dec 5;9(1):197. doi: 10.1186/s13568-019-0917-z.
+
+Effect of the luxI/R gene on AHL-signaling molecules and QS regulatory mechanism 
+in Hafnia alvei H4.
+
+Li X(1)(2), Zhang G(1)(2), Zhu Y(1)(2), Bi J(1)(2), Hao H(2), Hou H(3)(4).
+
+Author information: 
+(1)School of Food Science and Technology, Dalian Polytechnic University, No.1,
+Qinggongyuan, Ganjingzi District, Dalian, 116034, China.
+(2)Liaoning Key Lab for Aquatic Processing Quality and Safety, No.1,
+Qinggongyuan, Ganjingzi District, Dalian, 116034, China.
+(3)School of Food Science and Technology, Dalian Polytechnic University, No.1,
+Qinggongyuan, Ganjingzi District, Dalian, 116034, China. houhongman@dlpu.edu.cn.
+(4)Liaoning Key Lab for Aquatic Processing Quality and Safety, No.1,
+Qinggongyuan, Ganjingzi District, Dalian, 116034, China. houhongman@dlpu.edu.cn.
+
+Hafnia alvei H4 is a bacterium subject to regulation by a N-acyl-l-homoserine
+lactone (AHL)-mediated quorum sensing system and is closely related to the
+corruption of instant sea cucumber. Studying the effect of Hafnia alvei H4 quorum
+sensing regulatory genes on AHLs is necessary for the quality and preservation of
+instant sea cucumber. In this study, the draft genome of H. alvei H4, which
+comprises a single chromosome of 4,687,151 bp, was sequenced and analyzed and the
+types of AHLs were analyzed employing thin-layer chromatography (TLC) and high
+resolution triple quadrupole liquid chromatography/mass spectrometry (LC/MS).
+Then the wild-type strain of H. alvei H4 and the luxI/R double mutant (ΔluxIR)
+were compared by transcriptome sequencing (RNA-seq). The results indicate that
+the incomplete genome sequence revealed the presence of one quorum-sensing (QS)
+gene set, designated as lasI/expR. Three major AHLs, N-hexanoyl-L-homoserine
+lactone (C6-HSL), N-butyryl-L-homoserine lactone (C4-HSL), and
+N-(3-oxo-octanoyl)-L-homoserine lactone (3-oxo-C8-HSL) were found, with C6-HSL
+being the most abundant. C6-HSL was not detected in the culture of the luxI
+mutant (ΔluxI) and higher levels of C4-HSL was found in the culture of the luxR
+mutant (ΔluxR), which suggested that the luxR gene may have a positive effect on 
+C4-HSL production. It was also found that AHL and QS genes are closely related in
+the absence of luxIR double deletion. The results of this study can further
+elucidate at the genetic level that luxI and luxR genes are involved in the
+regulation of AHL.
+
+DOI: 10.1186/s13568-019-0917-z 
+PMCID: PMC6895348
+PMID: 31807954 
+

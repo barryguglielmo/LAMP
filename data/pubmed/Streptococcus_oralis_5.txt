@@ -1,0 +1,37 @@
+
+1. Nutrients. 2020 Sep 14;12(9). pii: E2812. doi: 10.3390/nu12092812.
+
+Antimicrobial Activity of EPA and DHA against Oral Pathogenic Bacteria Using an
+In Vitro Multi-Species Subgingival Biofilm Model.
+
+Ribeiro-Vidal H(1), Sánchez MC(1)(2), Alonso-Español A(1), Figuero E(1), Ciudad
+MJ(2), Collado L(2), Herrera D(1), Sanz M(1).
+
+Author information: 
+(1)ETEP (Etiology and Therapy of Periodontal and Peri-implant Diseases) Research 
+Group, University Complutense of Madrid, 28040 Madrid, Spain.
+(2)Medicine Department, Faculty of Medicine, University Complutense of Madrid,
+28040 Madrid, Spain.
+
+In search for natural products with antimicrobial properties for use in the
+prevention and treatment of periodontitis, the purpose of this investigation was 
+to evaluate the antimicrobial activity of two omega-3 fatty acids,
+docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), using an in vitro
+multi-species subgingival biofilm model including Streptococcus oralis,
+Actinomyces naeslundii, Veillonella parvula, Fusobacterium nucleatum,
+Porphyromonas gingivalis, and Aggregatibacter actinomycetemcomitans. The
+antimicrobial activities of EPA and DHA extracts (100 µM) and the respective
+controls were assessed on 72 h biofilms by their submersion onto discs for 60 s. 
+Antimicrobial activity was evaluated by quantitative polymerase chain reaction
+(qPCR), confocal laser scanning microscopy (CLSM) and scanning electron
+microscopy (SEM). ANOVA with Bonferroni correction was used to evaluate the
+antimicrobial activity of each of the fatty acids. Both DHA and EPA significantly
+reduced (p < 0.001 in all cases) the bacterial strains used in this biofilm
+model. The results with CLSM were consistent with those reported with qPCR.
+Structural damage was evidenced by SEM in some of the observed bacteria. It was
+concluded that both DHA and EPA have significant antimicrobial activity against
+the six bacterial species included in this biofilm model.
+
+DOI: 10.3390/nu12092812 
+PMID: 32937742 
+

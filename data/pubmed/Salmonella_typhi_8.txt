@@ -1,0 +1,49 @@
+
+1. Brain Neurosci Adv. 2020 Aug 19;4:2398212820949353. doi:
+10.1177/2398212820949353. eCollection 2020 Jan-Dec.
+
+Mild inflammation causes a reduction in resting-state amplitude of low-frequency 
+fluctuation in healthy adult males.
+
+Stefanov K(1), McLean J(2), Allan B(2), Cavanagh J(1), Krishnadas R(3).
+
+Author information: 
+(1)Institute of Infection, Immunity & Inflammation, University of Glasgow,
+Glasgow, UK.
+(2)Institute of Neurological Sciences, Queen Elizabeth University Hospital,
+Glasgow, UK.
+(3)Institute of Neuroscience & Psychology, University of Glasgow, Glasgow, UK.
+
+Systemic inflammation has been associated with negative mood states and human
+sickness behaviour. Previous studies have shown an association between systemic
+inflammation and changes in task-related blood-oxygen-level-dependent activity
+and functional connectivity within large-scale networks. However, no study has
+examined the effect of inflammation on the magnitude of
+blood-oxygen-level-dependent low-frequency fluctuations at rest. We used a
+double-blind placebo-controlled crossover design to randomise 20 male subjects
+(aged 20-50 years) to receive either a Salmonella typhi vaccine or a placebo
+saline injection at two separate sessions. All participants underwent a
+resting-state functional magnetic resonance scan and a measure of inflammation
+(interleukin 6) and mood (Profile of Mood States) 3 h after injection. We
+compared the whole brain amplitude of low-frequency fluctuations between the
+vaccine and placebo conditions using a repeated measures design. Vaccine
+condition was associated with greater interleukin 6 levels (p < 0.001). Vaccine
+condition was also associated with lower amplitude of low-frequency fluctuations 
+in the right and left frontal pole, superior frontal gyrus, paracingulate gyrus
+(Cluster 1) and the right mid and inferior frontal gyrus (Cluster 2) (p < 0.001, 
+false discovery rate corrected). Lower amplitude of low-frequency fluctuations
+pertaining to first cluster correlated with greater total Profile of Mood States 
+score (worse mood) (r = -0.38; p = 0.04). These results imply possible
+excitation/inhibition imbalance mechanisms during inflammation that may be a
+relevant target in psychiatric disease, especially mood disorders.
+
+© The Author(s) 2020.
+
+DOI: 10.1177/2398212820949353 
+PMCID: PMC7479852
+PMID: 32954008 
+
+Conflict of interest statement: Declaration of conflicting interests: The
+author(s) declared no potential conflicts of interest with respect to the
+research, authorship and/or publication of this article.
+

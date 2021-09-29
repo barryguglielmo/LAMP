@@ -1,0 +1,39 @@
+
+1. Biotechnol Rep (Amst). 2020 Sep 10;28:e00530. doi: 10.1016/j.btre.2020.e00530.
+eCollection 2020 Dec.
+
+Complete genome sequencing and comparative genome characterization of the
+lignocellulosic biomass degrading bacterium Pseudomonas stutzeri MP4687 from
+cattle rumen.
+
+Patel M(1)(2), Patel HM(3), Vohra N(4), Dave S(1).
+
+Author information: 
+(1)Department of Biotechnology, Hemchandracharya North Gujarat University, Patan,
+384265, Gujarat, India.
+(2)Laboratory of Renewable Resources Engineering and Department of Agricultural
+and Biological Engineering, Purdue University, West Lafayette, 47906, IN, United 
+States.
+(3)P.G. Department of Biosciences, Vadtal Road, Sardar Patel University, Bakrol, 
+388315, Anand, Gujarat, India.
+(4)Anand Agricultural University, Anand, 388110, Gujarat, India.
+
+We report the complete genome sequencing of novel Pseudomonas stutzeri strain
+MP4687 isolated from cattle rumen. Various strains of P. stutzeri have been
+reported from different environmental samples including oil-contaminated sites,
+crop roots, air, and human clinical samples, but not from rumen samples, which is
+being reported here for the first time. The genome of P. stutzeri MP4687 has a
+single replicon, 4.75 Mb chromosome and a G + C content of 63.45%. The genome
+encodes for 4,790 protein coding genes including 164 CAZymes and 345 carbohydrate
+processing genes. The isolate MP4687 harbors LCB hydrolyzing potential through
+endoglucanase (4.5 U/mL), xylanase (3.1 U/mL), β-glucosidase (3.3 U/mL) and
+β-xylosidase (1.9 U/mL) activities. The pangenome analysis further revealed that 
+MP4687 has a very high number of unique genes (>2100) compared to other P.
+stutzeri genomes, which might have an important role in rumen functioning.
+
+© 2020 The Authors. Published by Elsevier B.V.
+
+DOI: 10.1016/j.btre.2020.e00530 
+PMCID: PMC7498857
+PMID: 32983925 
+

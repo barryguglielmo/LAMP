@@ -1,0 +1,44 @@
+
+1. Insects. 2020 Sep 1;11(9). pii: E581. doi: 10.3390/insects11090581.
+
+Modern Techniques in Colorado Potato Beetle (Leptinotarsa decemlineata Say)
+Control and Resistance Management: History Review and Future Perspectives.
+
+Kadoić Balaško M(1), Mikac KM(2), Bažok R(1), Lemic D(1).
+
+Author information: 
+(1)Department of Agricultural Zoology, Faculty of Agriculture, University of
+Zagreb, Svetošimunska 25, 10000 Zagreb, Croatia.
+(2)Centre for Sustainable Ecosystem Solutions, School of Earth, Atmospheric and
+Life Sciences, Faculty of Science, Medicine and Health, University of Wollongong,
+Wollongong 2522, Australia.
+
+Colorado potato beetle, CPB (Leptinotarsa decemlineata Say), is one of the most
+important pests of the potato globally. Larvae and adults can cause complete
+defoliation of potato plant leaves and can lead to a large yield loss. The insect
+has been successfully suppressed by insecticides; however, over time, has
+developed resistance to insecticides from various chemical groups, and its once
+successful control has diminished. The number of available active chemical
+control substances is decreasing with the process of testing, and registering new
+products on the market are time-consuming and expensive, with the possibility of 
+resistance ever present. All of these concerns have led to the search for new
+methods to control CPB and efficient tools to assist with the detection of
+resistant variants and monitoring of resistant populations. Current strategies
+that may aid in slowing resistance include gene silencing by RNA interference
+(RNAi). RNAi, besides providing an efficient tool for gene functional studies,
+represents a safe, efficient, and eco-friendly strategy for CPB control.
+Genetically modified (GM) crops that produce the toxins of Bacillus thuringiensis
+(Bt) have many advantages over agro-technical, mechanical, biological, and
+chemical measures. However, pest resistance that may occur and public acceptance 
+of GM modified food crops are the main problems associated with Bt crops. Recent 
+developments in the speed, cost, and accuracy of next generation sequencing are
+revolutionizing the discovery of single nucleotide polymorphisms (SNPs) and field
+of population genomics. There is a need for effective resistance monitoring
+programs that are capable of the early detection of resistance and successful
+implementation of integrated resistance management (IRM). The main focus of this 
+review is on new technologies for CPB control (RNAi) and tools (SNPs) for
+detection of resistant CPB populations.
+
+DOI: 10.3390/insects11090581 
+PMID: 32882790 
+

@@ -1,0 +1,54 @@
+
+1. J Hosp Infect. 2020 Oct 1. pii: S0195-6701(20)30454-0. doi:
+10.1016/j.jhin.2020.09.029. [Epub ahead of print]
+
+A persistent recurring cluster of meticillin-resistant Staphylococcus aureus
+(MRSA) colonisations in a special care baby unit: a matched case-control study.
+
+Love NK(1), Pichon B(2), Padfield S(3), Hughes GJ(4).
+
+Author information: 
+(1)UK Field Epidemiology Training Programme, Public Health England, London,
+United Kingdom; Field Service, North East, And Yorkshire & Humber, National
+Infection Service, Public Health England, Newcastle Upon Tyne, United Kingdom.
+Electronic address: Nicola.love@phe.gov.uk.
+(2)National Infection Service, Public Health England, Healthcare Associated
+Infection - Antimicrobial Resistance, Staphylococcus Reference Section, London,
+United Kingdom.
+(3)Public Health England, Yorkshire and Humber, Leeds, United Kingdom.
+(4)Field Service, North East, And Yorkshire & Humber, National Infection Service,
+Public Health England, Leeds, United Kingdom.
+
+BACKGROUND: Between August 2016 and November 2019, a cluster of babies colonised 
+with meticillin-resistant Staphylococcus aureus (MRSA) was reported in a special 
+care baby unit in Northern England.
+AIM: A case-control study was performed to identify the source and prevent
+further cases.
+METHODS: Cases were admitted neonates colonised or infected with MRSA (spa-type
+t316). A retrospective case-control study was performed with two matched controls
+per case. Exposures were determined by medical record review. Cases were compared
+with controls using conditional logistic regression. Environmental investigations
+and staff screening were undertaken.
+FINDINGS: Thirty-one colonised cases were identified across the three-year
+period, with no infections reported. Thirteen of the 31 cases were sequenced and 
+were within a 25-SNP cluster, consistent with exposure to a common source over a 
+prolonged period. Most MRSA cases had a prior negative screen (n=22; 71%).
+Environmental sampling and staff screening was performed on several occasions. In
+the analytical study, 31 cases were compared with 62 controls. One ward location 
+and one healthcare worker were identified as significant exposures in the
+multivariable analysis.
+CONCLUSIONS: Due to the sporadic nature of the colonisations it was hypothesised 
+that MRSA was being introduced intermittently, likely by a colonised healthcare
+worker, with possible transmission between infants also occurring within each
+temporal cluster. It is recommended that transiently colonised healthcare workers
+be considered as an MRSA source during outbreaks. This study highlights the
+importance of analytic epidemiological studies in persistent outbreaks of MRSA.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jhin.2020.09.029 
+PMID: 33011307 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare no conflicts of interest.
+

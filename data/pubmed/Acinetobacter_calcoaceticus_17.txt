@@ -1,0 +1,49 @@
+
+1. Ann Lab Med. 2020 Jul;40(4):306-311. doi: 10.3343/alm.2020.40.4.306.
+
+Determination of Colistin Resistance by Simple Disk Diffusion Test Using Modified
+Mueller-Hinton Agar.
+
+Uwizeyimana JD(1)(2)(3), Kim D(1), Lee H(1)(4), Byun JH(1)(5), Yong D(1)(6).
+
+Author information: 
+(1)Department of Laboratory Medicine and Research Institute of Bacterial
+Resistance, Yonsei University College of Medicine, Seoul, Korea.
+(2)Department of Global Health Security, Yonsei University Graduate School of
+Public Health, Seoul, Korea.
+(3)Department of Emergency Care, Ruli Hospital, Gakenye, Rwanda.
+(4)Brain Korea 21 plus Program for Medical Science, Yonsei University College of 
+Medicine, Seoul, Korea.
+(5)Department of Laboratory Medicine, Gyeongsang National University Hospital,
+Gyeongsang National University College of Medicine, Jinju, Korea.
+microbyun@gmail.com.
+(6)Brain Korea 21 plus Program for Medical Science, Yonsei University College of 
+Medicine, Seoul, Korea. deyong@yuhs.ac.
+
+BACKGROUND: Colistin has become a last-resort antibiotic for the management of
+multidrug-resistant gram-negative bacteria. The disk diffusion test is cheap and 
+easy to perform but may be unreliable for colistin susceptibility testing due to 
+poor diffusion of the large colistin molecule. An improved agar diffusion test
+would increase the reliability of colistin susceptibility testing. This study
+aimed to modify Muller-Hinton agar (MHA) to improve colistin diffusion in agar.
+METHODS: MHA was modified by reducing the agar concentration from 100% to 30% and
+supplementing with protamine. We tested 60 gram-negative clinical isolates of
+Pseudomonas aeruginosa (N=27) and Acinetobacter calcoaceticus-baumannii complex
+(N=33). Disk diffusion test results were interpreted based on minimum inhibitory 
+concentrations determined by broth microdilution.
+RESULTS: The modified MHA yielded the best performance metrics, including 94.7%
+sensitivity, 100% specificity, and an area under the curve of 0.995 (95%
+confidence interval, 0.982-1.000), P<0.001, at a cut-off point of 13 mm.
+CONCLUSIONS: A reduction of the agar concentration from 100% to 30% and the
+addition of protamine improved colistin diffusion in agar and allowed routine
+colistin susceptibility testing in a clinical microbiology laboratory, but should
+be handled with caution.
+
+© The Korean Society for Laboratory Medicine.
+
+DOI: 10.3343/alm.2020.40.4.306 
+PMCID: PMC7054692
+PMID: 32067429 
+
+Conflict of interest statement: None.
+

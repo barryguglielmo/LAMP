@@ -1,0 +1,42 @@
+
+1. Int J Biol Macromol. 2020 Jun 1;152:473-482. doi: 10.1016/j.ijbiomac.2020.02.247.
+Epub 2020 Feb 22.
+
+Characterisation of insoluble α-1,3-/α-1,6 mixed linkage glucan produced in
+addition to soluble α-1,6-linked dextran by glucansucrase (DEX-N) from
+Leuconostoc citreum ABK-1.
+
+Wangpaiboon K(1), Waiyaseesang N(1), Panpetch P(1), Charoenwongpaiboon T(1),
+Nepogodiev SA(2), Ekgasit S(3), Field RA(4), Pichayangkura R(5).
+
+Author information: 
+(1)Department of Biochemistry, Faculty of Science, Chulalongkorn University,
+Bangkok 10330, Thailand.
+(2)Department of Biological Chemistry, John Innes Centre, Norwich Research Park, 
+Norwich NR4 7UH, UK.
+(3)Department of Chemistry, Faculty of Science, Chulalongkorn University, Bangkok
+10330, Thailand.
+(4)Department of Biological Chemistry, John Innes Centre, Norwich Research Park, 
+Norwich NR4 7UH, UK; Department of Chemistry and Manchester Institute of
+Biotechnology, The University of Manchester, 131 Princess Street, Manchester M1
+7DN, UK.
+(5)Department of Biochemistry, Faculty of Science, Chulalongkorn University,
+Bangkok 10330, Thailand. Electronic address: prath@chula.ac.th.
+
+Glucansucrases catalyse the formation of glucans from sucrose. The
+glucansucrase-encoding gene from Leuconostoc citreum ABK-1, dex-N, was
+successfully cloned and expressed in E. coli BL21 Star (DE3). DEX-N produces 2
+types of glucans: soluble (S-dextran) and insoluble (I-glucan) glucans. The
+S-dextran was determined to be ca. 10 kDa in size and contained >90% α-1,6
+linkages; along with its water solubility, this is similar to commercial dextran.
+On the other hand, I-glucan was water-insoluble, harbouring a block-wise pattern 
+of α-1,3 and α-1,6 linkages in its structure. Notably, the FTIR and powder X-ray 
+diffraction pattern of I-glucan exhibited a combination of features found in
+α-1,6-linked dextran and α-1,3-linked mutan. Although both I-glucan and mutan are
+insoluble glucans, their physical characteristics are notably dissimilar.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2020.02.247 
+PMID: 32097735 
+

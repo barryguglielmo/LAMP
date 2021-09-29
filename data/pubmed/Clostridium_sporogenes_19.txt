@@ -1,0 +1,44 @@
+
+1. Foods. 2020 Jan 24;9(2). pii: E127. doi: 10.3390/foods9020127.
+
+Influence of Acid Adaptation on the Probability of Germination of Clostridium
+sporogenes Spores Against pH, NaCl and Time.
+
+Valero A(1), Olague E(2), Medina-Pradas E(3), Garrido-Fernández A(3), Romero-Gil 
+V(4), Cantalejo MJ(2), García-Gimeno RM(1), Pérez-Rodríguez F(1),
+Posada-Izquierdo GD(1), Arroyo-López FN(3).
+
+Author information: 
+(1)Department of Food Science and Technology, Agrifood Campus of International
+Excellence, Universidad de Córdoba, 14014 Córdoba, Spain.
+(2)Department of Food Technology, Public University of Navarra, Campus de
+Arrosadia, E-31006 Pamplona, Spain.
+(3)Food Biotechnology Department, Instituto de la Grasa (IG-CSIC), University
+Campus Pablo de Olavide, Building 46, Ctra. Utrera, km 1, 41013 Seville, Spain.
+(4)Technological Applications for Improvement of the Quality and Safety in Foods,
+R&D Division, Crta. Marbella 22. Guaro, 29108 Málaga, Spain.
+
+The Clostridium sp. is a large group of spore-forming, facultative or strictly
+anaerobic, Gram-positive bacteria that can produce food poisoning. The table
+olive industry is demanding alternative formulations to respond to market demand 
+for the reduction of acidity and salt contents in final products. while
+maintaining the appearance of freshness of fruits. In this work, logistic
+regression models for non-adapted and acid-adapted Clostridium sp. strains were
+developed in laboratory medium to study the influence of pH, NaCl (%) and time on
+the probability of germination of their spores. A Clostridium sporogenes cocktail
+was not able to germinate at pH < 5.0, although the adaptation of the strains
+produced an increase in the probability of germination at 5.0-5.5 pH levels and
+6% NaCl concentration. At acidic pH values (5.0), the adapted strains germinated 
+after 10 days of incubation, while those which were non-adapted required 15 days.
+At pH 5.75 and with 4% NaCl, germination of the adapted strains took place before
+7 days, while several replicates of the non-adapted strains did not germinate
+after 42 days of storage. The model was validated in natural green olive brines
+with good results (>81.7% correct prediction cases). The information will be
+useful for the industry and administration to assess the safety risk in the
+formulation of new processing conditions in table olives and other fermented
+vegetables.
+
+DOI: 10.3390/foods9020127 
+PMCID: PMC7074042
+PMID: 31991695 
+

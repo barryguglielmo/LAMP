@@ -1,0 +1,45 @@
+
+1. Int J Syst Evol Microbiol. 2019 Dec;69(12):3818-3823. doi:
+10.1099/ijsem.0.003686.
+
+Paenibacillus xylanivorans sp. nov., a xylan-degrading bacterium isolated from
+decaying forest soil.
+
+Ghio S(1), Sauka DH(2), Ferrari AE(3), Piccini FE(1), Ontañon OM(1), Campos E(1).
+
+Author information: 
+(1)Instituto de Agrobiotecnología y Biología Molecular (IABIMO), Instituto
+Nacional de Tecnología Agropecuaria (INTA), Consejo Nacional de Investigaciones
+Científicas y Tecnológicas (CONICET), Buenos Aires, Argentina.
+(2)Instituto de Microbiología y Zoología Agrícola, Instituto Nacional de
+Tecnología Agropecuaria (INTA), Consejo Nacional de Investigaciones Científicas y
+Tecnológicas (CONICET), Buenos Aires, Argentina.
+(3)Laboratorio de Bioquímica, Microbiología e Interacciones Biológicas en el
+Suelo, Departamento de Ciencia y Tecnología, Universidad Nacional de Quilmes,
+Buenos Aires, Argentina.
+
+A xylanolytic bacterial strain, named A59T, was isolated from a forest soil
+consortium in southern Argentina. Strain A59T is a Gram-stain-positive,
+facultative anaerobic, endospore-forming and rod-shaped bacterium. Its optimal
+growth conditions are 30 °C (range, 28-37 °C), pH 7 (range, pH 5-10) and it
+tolerates up to 7 % of NaCl (range, 2-7 %). Chemotaxonomic analysis revealed that
+strain A59Tpossesses meso-diaminopimelic acid in the cell wall. It contains
+menaquinone MK-7 as the predominant isoprenoid quinone and the major fatty acid
+is anteiso-C15 : 0 (35.1 %), with a moderate amount of C16 : 0 (6.9 %). According
+to 16S RNA gene sequence analysis, the isolate is phylogenetically placed in the 
+same cluster as Paenibacillus taichungensis BCRC 17757T (99.7 % nucleotide
+sequence identity) and Paenibacillus pabuli NBRC 13638T (99.1 %) and is closely
+related to Paenibacillus tundrae A10bT (98.8 %). However, phylogenetic studies
+based on the housekeeping gyrB gene placed A59T in a separate branch from all
+other related type strains. Furthermore, the results of whole genome average
+nucleotide identity analysis (gANI) with related type strains was lower than
+91.10 % and the digital DNA-DNA hybridization value was lower than 44.30 %, which
+are below the threshold values for separating two species. The DNA G+C content
+was estimated as 46.09 mol%, based on genome sequencing. On the basis of these
+results, A59T represents a new species of the genus Paenibacillus, and we propose
+the name Paenibacillusxylanivorans sp. nov. The type strain is A59T (=DSM
+107920T=NCIMB 15123T).
+
+DOI: 10.1099/ijsem.0.003686 
+PMID: 31483753  [Indexed for MEDLINE]
+

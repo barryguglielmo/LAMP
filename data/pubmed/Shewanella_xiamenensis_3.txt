@@ -1,0 +1,56 @@
+
+1. J Hazard Mater. 2020 Apr 5;387:122018. doi: 10.1016/j.jhazmat.2020.122018. Epub
+2020 Jan 3.
+
+Function of c-type cytochromes of Shewanella xiamenensis in enhanced anaerobic
+bioreduction of Cr(VI) by graphene oxide and graphene oxide/polyvinyl alcohol
+films.
+
+Li Y(1), Chen Z(2), Shi Y(1), Luo Q(1), Wang Y(1), Wang H(3), Peng Y(1), Wang
+H(1), He N(1), Wang Y(4).
+
+Author information: 
+(1)Department of Chemical and Biochemical Engineering, College of Chemistry and
+Chemical Engineering, Xiamen University, Xiamen, PR China.
+(2)School of Environmental Science and Engineering, Tan Kah Kee College, Xiamen
+University, Zhangzhou, PR China; Zhejiang Provincial Key Laboratory of Watershed 
+Science and Health, School of Public Health and Management, Wenzhou Medical
+University, Wenzhou, PR China; Fujian Provincial Key Lab of Coastal Basin
+Environment, Fujian Polytechnic Normal University, Fuqing, PR China. Electronic
+address: chenzheng_new@163.com.
+(3)School of Environmental Science and Engineering, Tan Kah Kee College, Xiamen
+University, Zhangzhou, PR China.
+(4)Department of Chemical and Biochemical Engineering, College of Chemistry and
+Chemical Engineering, Xiamen University, Xiamen, PR China. Electronic address:
+wypp@xmu.edu.cn.
+
+Graphene-based materials have been demonstrated to facilitate electron
+extracellular transfer (EET) of Shewanella. In this study, compared to group
+lacking graphene oxide (GO)-based materials, GO films-added group and graphene
+oxide/polyvinyl alcohol (GO/PVA) film-added group delivered 2.67- and 3.13-fold
+increases in the Cr(VI) reduction by Shewanella xiamenensis, respectively. The
+whole reduction process could be divided into three stages, including microbial
+Cr(VI) reduction and GO reduction stage, microbial GO reduction stage and
+microbial Cr(VI) reduction mediated by reduced graphene oxide (rGO) stage.
+Moreover, gene analysis revealed that addition of GO and GO/PVA films stimulated 
+overexpression of several c-type cytochrome (c-Cyts) genes, including mtrA, mtrB,
+mtrC, mtrD, mtrE, mtrF, omcA, petC and SO-4047. Specifically, appreciable Cr(VI) 
+reduction by the strains that overexpressed mtrA, mtrB, mtrC, mtrD, mtrE, mtrF
+and omcA further confirmed that overexpression of c-Cyts genes indeed enhanced
+the efficiency of Cr(VI) reduction. Based on these results, the specific function
+of every c-Cyt was clearly found in Cr(VI) reduction by the induction of GO-based
+materials. Our finding has disclosed a synergetic mechanism stimulated by
+GO-based materials to enhance Cr(VI) bioreduction that was not only mediated
+through the modification of material but also upregulated the expression of
+functional genes.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhazmat.2020.122018 
+PMID: 31927260 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

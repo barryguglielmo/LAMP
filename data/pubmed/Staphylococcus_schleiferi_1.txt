@@ -1,0 +1,60 @@
+
+1. Vet Microbiol. 2020 Aug;247:108764. doi: 10.1016/j.vetmic.2020.108764. Epub 2020 
+Jun 17.
+
+The canine skin and ear microbiome: A comprehensive survey of pathogens
+implicated in canine skin and ear infections using a novel
+next-generation-sequencing-based assay.
+
+Tang S(1), Prem A(2), Tjokrosurjo J(2), Sary M(2), Van Bel MA(3),
+Rodrigues-Hoffmann A(4), Kavanagh M(5), Wu G(2), Van Eden ME(1), Krumbeck JA(6).
+
+Author information: 
+(1)MiDOG LLC, 17062 Murphy Ave, Irvine, CA, 92614, USA; Zymo Research
+Corporation, 17062 Murphy Ave, Irvine, CA, 92614, USA.
+(2)MiDOG LLC, 17062 Murphy Ave, Irvine, CA, 92614, USA.
+(3)MiDOG LLC, 17062 Murphy Ave, Irvine, CA, 92614, USA; Department of Veterinary 
+Pathobiology, College of Veterinary Medicine & Biomedical Sciences, Texas A&M
+University, College Station, TX, USA; Saddleback Animal Hospital, 1082 Bryan Ave,
+Tustin, CA, 92780, USA; Zymo Research Corporation, 17062 Murphy Ave, Irvine, CA, 
+92614, USA.
+(4)Department of Veterinary Pathobiology, College of Veterinary Medicine &
+Biomedical Sciences, Texas A&M University, College Station, TX, USA.
+(5)Saddleback Animal Hospital, 1082 Bryan Ave, Tustin, CA, 92780, USA.
+(6)MiDOG LLC, 17062 Murphy Ave, Irvine, CA, 92614, USA; Zymo Research
+Corporation, 17062 Murphy Ave, Irvine, CA, 92614, USA. Electronic address:
+jkrumbeck@midogtest.com.
+
+This study analyzed the complex bacterial and fungal microbiota of healthy and
+clinically affected canine ear and skin samples. A total of 589 canine samples
+were included: 257 ear swab samples (128 healthy vs. 129 clinically affected) and
+332 skin swab samples (172 healthy vs. 160 clinically affected) were analyzed
+using next-generation sequencing (NGS) to determine both relative and absolute
+abundances of bacteria and fungi present in the samples. This study highlighted
+the canine microbiota of clinically affected cases was characterized by an
+overall loss of microbial diversity, high microbial biomass, with overgrowth of
+certain members of the microbiota. The observed phenotype of these samples was
+best described by the combination of both relative and absolute microbial
+abundances. Compared to healthy samples, 78.3% of the clinically affected ear
+samples had microbial overgrowth; 69.8% bacterial overgrowth, 16.3% fungal
+overgrowth, and 7.0% had both bacterial and fungal overgrowth. The most important
+microbial taxa enriched in clinically affected ears were Malassezia
+pachydermatis, Staphylococcus pseudintermedius, Staphylococcus schleiferi, and a 
+few anaerobic bacteria such as Finegoldia magna, Peptostreptococcus canis, and
+Porphyromonas cangingivalis. The anaerobic microbes identified here were
+previously not commonly recognized as pathogens in canine ear infections. Similar
+observations were found for skin samples, but yeasts and anaerobes were less
+abundant when compared to clinically affected cases. Results highlighted herein, 
+signify the potential of NGS-based methods for the accurate quantification and
+identification of bacterial and fungal populations in diagnosing canine skin and 
+ear infections, and highlight the limitations of traditional culture-based
+testing.
+
+Copyright © 2020 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.vetmic.2020.108764 
+PMID: 32768216 
+
+Conflict of interest statement: Declaration of Competing Interest Drs.
+Rodrigues-Hoffman and Kavanagh are currently on the MiDOG LLC advisory board.
+

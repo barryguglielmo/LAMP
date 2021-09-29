@@ -1,0 +1,51 @@
+
+1. PLoS Pathog. 2020 Jul 27;16(7):e1008774. doi: 10.1371/journal.ppat.1008774.
+eCollection 2020 Jul.
+
+S-glutathionylation proteome profiling reveals a crucial role of a
+thioredoxin-like protein in interspecies competition and cariogenecity of
+Streptococcus mutans.
+
+Li Z(1), Zhang C(1)(2), Li C(1)(2), Zhou J(1)(2), Xu X(1)(2), Peng X(1), Zhou
+X(1)(2).
+
+Author information: 
+(1)State Key Laboratory of Oral Diseases, National Clinical Research Center for
+Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu,
+China.
+(2)State Key Laboratory of Oral Diseases, National Clinical Research Center for
+Oral Diseases, Department of Cariology and Endodontics, West China Hospital of
+Stomatology, Sichuan University, Chengdu, China.
+
+S-glutathionylation is an important post-translational modification (PTM) process
+that targets protein cysteine thiols by the addition of glutathione (GSH). This
+modification can prevent proteolysis caused by the excessive oxidation of protein
+cysteine residues under oxidative or nitrosative stress conditions. Recent
+studies have suggested that protein S-glutathionylation plays an essential role
+in the control of cell-signaling pathways by affecting the protein function in
+bacteria and even humans. In this study, we investigated the effects of
+S-glutathionylation on physiological regulation within Streptococcus mutans, the 
+primary etiological agent of human dental caries. To determine the
+S-glutathionylated proteins in bacteria, the Cys reactive isobaric reagent
+iodoacetyl Tandem Mass Tag (iodoTMT) was used to label the S-glutathionylated Cys
+site, and an anti-TMT antibody-conjugated resin was used to enrich the modified
+peptides. Proteome profiling identified a total of 357 glutathionylated cysteine 
+residues on 239 proteins. Functional enrichment analysis indicated that these
+S-glutathionylated proteins were involved in diverse important biological
+processes, such as pyruvate metabolism and glycolysis. Furthermore, we studied a 
+thioredoxin-like protein (Tlp) to explore the effect of S-glutathionylation on
+interspecies competition between oral streptococcal biofilms. Through site
+mutagenesis, it was proved that glutathionylation on Cys41 residue of Tlp is
+crucial to protect S. mutans from oxidative stress and compete with S. sanguinis 
+and S. gordonii. An addition rat caries model showed that the loss of
+S-glutathionylation attenuated the cariogenicity of S. mutans. Taken together,
+our study provides an insight into the S-glutathionylation of bacterial proteins 
+and the regulation of oxidative stress resistance and interspecies competition.
+
+DOI: 10.1371/journal.ppat.1008774 
+PMCID: PMC7410335
+PMID: 32716974  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

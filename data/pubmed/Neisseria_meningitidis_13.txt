@@ -1,0 +1,44 @@
+
+1. Nat Commun. 2020 Sep 18;11(1):4723. doi: 10.1038/s41467-020-18464-y.
+
+Structural and mechanistic basis of capsule O-acetylation in Neisseria
+meningitidis serogroup A.
+
+Fiebig T(1), Cramer JT(2), Bethe A(3), Baruch P(4), Curth U(4), Führing JI(3)(5),
+Buettner FFR(3), Vogel U(6), Schubert M(7), Fedorov R(4), Mühlenhoff M(8).
+
+Author information: 
+(1)Institute of Clinical Biochemistry, Hannover Medical School, Hannover,
+Germany. Fiebig.Timm@mh-hannover.de.
+(2)Institute for Virology, Hannover Medical School, Hannover, Germany.
+(3)Institute of Clinical Biochemistry, Hannover Medical School, Hannover,
+Germany.
+(4)Institute for Biophysical Chemistry, Hannover Medical School, Hannover,
+Germany.
+(5)Fraunhofer International Consortium for Anti-Infective Research (iCAIR),
+Hannover, Germany.
+(6)Institute for Hygiene and Microbiology, University of Würzburg, Würzburg,
+Germany.
+(7)Department of Biosciences, University of Salzburg, Salzburg, Austria.
+(8)Institute of Clinical Biochemistry, Hannover Medical School, Hannover,
+Germany. Muehlenhoff.Martina@mh-hannover.de.
+
+O-Acetylation of the capsular polysaccharide (CPS) of Neisseria meningitidis
+serogroup A (NmA) is critical for the induction of functional immune responses,
+making this modification mandatory for CPS-based anti-NmA vaccines. Using
+comprehensive NMR studies, we demonstrate that O-acetylation stabilizes the
+labile anomeric phosphodiester-linkages of the NmA-CPS and occurs in position C3 
+and C4 of the N-acetylmannosamine units due to enzymatic transfer and
+non-enzymatic ester migration, respectively. To shed light on the enzymatic
+transfer mechanism, we solved the crystal structure of the capsule
+O-acetyltransferase CsaC in its apo and acceptor-bound form and of the CsaC-H228A
+mutant as trapped acetyl-enzyme adduct in complex with CoA. Together with the
+results of a comprehensive mutagenesis study, the reported structures explain the
+strict regioselectivity of CsaC and provide insight into the catalytic mechanism,
+which relies on an unexpected Gln-extension of a classical Ser-His-Asp triad,
+embedded in an α/β-hydrolase fold.
+
+DOI: 10.1038/s41467-020-18464-y 
+PMCID: PMC7501274
+PMID: 32948778 
+

@@ -1,0 +1,62 @@
+
+1. J Neural Transm (Vienna). 2020 Feb;127(2):251-263. doi:
+10.1007/s00702-020-02155-5. Epub 2020 Feb 18.
+
+Microbiota changes associated with ADNP deficiencies: rapid indicators for NAP
+(CP201) treatment of the ADNP syndrome and beyond.
+
+Kapitansky O(1), Giladi E(1), Jaljuli I(2), Bereswill S(3), Heimesaat MM(4),
+Gozes I(5).
+
+Author information: 
+(1)The First Lily and Avraham Gildor Chair for the Investigation of Growth
+Factors, Dr. Diana and Zelman Elton (Elbaum) Laboratory for Molecular
+Neuroendocrinology, Department of Human Molecular Genetics and Biochemistry,
+Sackler Faculty of Medicine, Sagol School of Neuroscience and Adams Super Center 
+for Brain Studies, Tel Aviv University, 69978, Tel Aviv, Israel.
+(2)Department of Statistics and Operations Research, School of Mathematical
+Sciences, Raymond and Beverly Sackler Faculty of Exact Sciences, Tel-Aviv
+University, 69978, Tel Aviv, Israel.
+(3)Gastrointestinal Microbiology Research Group, Institute for Microbiology,
+Infectious Diseases and Immunology, Charité-University Medicine Berlin,
+Hindenburgdamm 30, 12203, Berlin, Germany.
+(4)Gastrointestinal Microbiology Research Group, Institute for Microbiology,
+Infectious Diseases and Immunology, Charité-University Medicine Berlin,
+Hindenburgdamm 30, 12203, Berlin, Germany. markus.heimesaat@charite.de.
+(5)The First Lily and Avraham Gildor Chair for the Investigation of Growth
+Factors, Dr. Diana and Zelman Elton (Elbaum) Laboratory for Molecular
+Neuroendocrinology, Department of Human Molecular Genetics and Biochemistry,
+Sackler Faculty of Medicine, Sagol School of Neuroscience and Adams Super Center 
+for Brain Studies, Tel Aviv University, 69978, Tel Aviv, Israel.
+igozes@tauex.tau.ac.il.
+
+Activity-dependent neuroprotective protein (ADNP) and its protein snippet NAP
+(drug candidate CP201) regulate synapse formation and cognitive as well as
+behavioral functions, in part, through microtubule interaction. Given potential
+interactions between the microbiome and brain function, we now investigated the
+potential effects of the ADNP-deficient genotype, mimicking the ADNP syndrome on 
+microbiota composition in the Adnp+/- mouse model. We have discovered a
+surprising robust sexually dichotomized Adnp genotype effect and correction by
+NAP (CP201) as follows. Most of the commensal bacterial microbiota tested were
+affected by the Adnp genotype and corrected by NAP treatment in a male
+sex-dependent manner. The following list includes all the bacterial groups
+tested-labeled in bold are male Adnp-genotype increased and corrected (decreased)
+by NAP. (1) Eubacteriaceae (EubV3), (2) Enterobacteriaceae (Entero), (3)
+Enterococcus genus (gEncocc), (4) Lactobacillus group (Lacto), (5)
+Bifidobacterium genus (BIF), (6) Bacteroides/Prevotella species (Bac), (7)
+Clostridium coccoides group (Coer), (8) Clostridium leptum group (Cluster IV,
+sgClep), and (9) Mouse intestinal Bacteroides (MIB). No similarities were found
+between males and females regarding sex- and genotype-dependent microbiota
+distributions. Furthermore, a female Adnp+/- genotype associated decrease
+(contrasting male increase) was observed in the Lactobacillus group (Lacto).
+Significant correlations were discovered between specific bacterial group loads
+and open-field behavior as well as social recognition behaviors. In summary, we
+discovered ADNP deficiency associated changes in commensal gut microbiota
+compositions, a sex-dependent biomarker for the ADNP syndrome and beyond.
+Strikingly, we discovered rapidly detected NAP (CP201) treatment-dependent
+biomarkers within the gut microbiota.
+
+DOI: 10.1007/s00702-020-02155-5 
+PMCID: PMC7035218
+PMID: 32072336 
+

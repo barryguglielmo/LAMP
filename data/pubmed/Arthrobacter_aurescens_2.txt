@@ -1,0 +1,38 @@
+
+1. Environ Sci Process Impacts. 2020 Mar 1;22(3):792-801. doi: 10.1039/c9em00503j.
+Epub 2020 Feb 24.
+
+Compound-specific chlorine isotope fractionation in biodegradation of atrazine.
+
+Lihl C (1), Heckel B , Grzybkowska A , Dybala-Defratyka A , Ponsin V , Torrentó C
+, Hunkeler D , Elsner M .
+
+Author information: 
+(1)Institute of Groundwater Ecology, Helmholtz Zentrum München, Ingolstädter
+Landstraße 1, 85764 Neuherberg, Germany. m.elsner@tum.de.
+
+Atrazine is a frequently detected groundwater contaminant. It can be microbially 
+degraded by oxidative dealkylation or by hydrolytic dechlorination.
+Compound-specific isotope analysis is a powerful tool to assess its
+transformation. In previous work, carbon and nitrogen isotope effects were found 
+to reflect these different transformation pathways. However, chlorine isotope
+fractionation could be a particularly sensitive indicator of natural
+transformation since chlorine isotope effects are fully represented in the
+molecular average while carbon and nitrogen isotope effects are diluted by
+non-reacting atoms. Therefore, this study explored chlorine isotope effects
+during atrazine hydrolysis with Arthrobacter aurescens TC1 and oxidative
+dealkylation with Rhodococcus sp. NI86/21. Dual element isotope slopes of
+chlorine vs. carbon isotope fractionation (Λ = 1.7 ± 0.9 vs. Λ = 0.6 ± 0.1) and
+chlorine vs. nitrogen isotope fractionation (Λ = -1.2 ± 0.7 vs. Λ = 0.4 ± 0.2)
+provided reliable indicators of different pathways. Observed chlorine isotope
+effects in oxidative dealkylation (εCl = -4.3 ± 1.8‰) were surprisingly large,
+whereas in hydrolysis (εCl = -1.4 ± 0.6‰) they were small, indicating that C-Cl
+bond cleavage was not the rate-determining step. This demonstrates the importance
+of constraining expected isotope effects of new elements before using the
+approach in the field. Overall, the triple element isotope information brought
+forward here enables a more reliable identification of atrazine sources and
+degradation pathways.
+
+DOI: 10.1039/c9em00503j 
+PMID: 32091522  [Indexed for MEDLINE]
+

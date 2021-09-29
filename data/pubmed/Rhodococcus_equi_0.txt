@@ -1,0 +1,49 @@
+
+1. J Glob Antimicrob Resist. 2020 Sep 26. pii: S2213-7165(20)30211-3. doi:
+10.1016/j.jgar.2020.08.006. [Epub ahead of print]
+
+Relationship between rifampicin resistance and RpoB substitutions of Rhodococcus 
+equi strains isolated in France.
+
+Petry S(1), Sévin C(2), Kozak S(2), Foucher N(2), Laugier C(2), Linster M(2),
+Breuil MF(2), Dupuis MC(3), Hans A(2), Duquesne F(2), Tapprest J(2).
+
+Author information: 
+(1)ANSES, Laboratory for Animal Health in Normandy, Physiopathology and
+Epidemiology of Equine Diseases Unit, Goustranville, France. Electronic address: 
+sandrine.petry@anses.fr.
+(2)ANSES, Laboratory for Animal Health in Normandy, Physiopathology and
+Epidemiology of Equine Diseases Unit, Goustranville, France.
+(3)VETODIAG, Berville, L'Oudon, France.
+
+OBJECTIVES: Study the rifampicin resistance of Rhodococcus equi strains isolated 
+from French horses over a 20-year period.
+METHODS: Rifampicin susceptibility tested by disc diffusion and broth
+macrodilution methods, rpoB gene sequencing and MLST were performed on 40 R. equi
+strains, half of which were non-susceptible to rifampicin.
+RESULTS: Consistency of results was observed between rifampicin susceptibility
+testing and rpoB sequencing. The non-susceptible strains to rifampicin by disc
+diffusion had a substitution at one of the sites, Asp516, His526, and Ser531,
+frequently encountered and conferring rifampicin resistance. High-level
+resistance was correlated with His526Asp or Ser531Leu substitutions; low-level
+resistance was correlated with Asp516Tyr substitution, a novel substitution for
+R. equi. The susceptible strains to rifampicin by disc diffusion showed no
+substitution in the three sites, except for two strains carrying respectively the
+His526Asn and Asp516Val substitutions (previously correlated with low-level
+rifampicin resistance). Both strains were isolated from an animal where ten other
+strains were also isolated and found to be non-susceptible to rifampicin by disc 
+diffusion. MLST showed the presence of 10 STs (including the novel ST43) but no
+association was observed with rifampicin resistance.
+CONCLUSIONS: This study confirms that certain substitutions in RpoB are more
+likely to confer high- or low-level rifampicin resistance, describes a new
+substitution conferring rifampicin resistance in R. equi and suggests a
+non-clonal dissemination of rifampicin resistant strains in France. The standard 
+disc diffusion method may miss strains with a low-level rifampicin resistant
+substitution; further studies are needed to remedy the absence of R.
+equi-specific clinical breakpoints.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jgar.2020.08.006 
+PMID: 32992034 
+

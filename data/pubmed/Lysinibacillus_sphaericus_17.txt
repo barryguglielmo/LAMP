@@ -1,0 +1,35 @@
+
+1. Curr Microbiol. 2020 Jul;77(7):1217-1222. doi: 10.1007/s00284-020-01907-6. Epub
+2020 Feb 27.
+
+The Cry48Aa N-terminal Domain is Responsible for Cry48Aa-Cry49Aa Interaction in
+Lysinibacillus sphaericus Toxin.
+
+Guo Q(1), Gao Y(2), Xing C(3), Ding L(2), Dai X(2), Xie Q(2), Tan X(2).
+
+Author information: 
+(1)College of Life Sciences, Gannan Normal University, Shida South Road 1,
+Ganzhou, 341000, Jiangxi, People's Republic of China. qingyun612@163.com.
+(2)College of Life Sciences, Gannan Normal University, Shida South Road 1,
+Ganzhou, 341000, Jiangxi, People's Republic of China.
+(3)School of Information Engineering, Gannan Medical University, Ganzhou, 341000,
+Jiangxi, People's Republic of China.
+
+The Cry48Aa/Cry49Aa binary toxin from Lysinibacillus sphaericus is composed of a 
+three-domain Cry-like toxin (Cry48Aa) and a binary-like protein (Cry49Aa) that
+work together to kill Culex quinquefasciatus mosquito larvae through a novel
+interaction between its two components. The aim of this study was to identify the
+functional regions of Cry48Aa that were involved in the interaction with Cry49Aa.
+Eight Cry48Aa truncated fragments were constructed from both N- and C-termini and
+expressed in Escherichia coli. Only the individual or combined N69K truncated
+fragment, a Cry48Aa N-terminal derivative consisting of three domains, showed
+larvicidal activity against C. quinquefasciatus larvae, while the other fragments
+exhibited significant loss of biological activity. Far-Western dot blot analysis 
+showed that Cry48Aa N-terminal regions had the ability to bind to Cry49Aa
+protein. These results demonstrate that the N-terminal domain of Cry48Aa plays a 
+crucial role in responsible for the full virulence to mosquito larvae and the
+interaction with Cry49Aa as a binary toxin.
+
+DOI: 10.1007/s00284-020-01907-6 
+PMID: 32107628 
+

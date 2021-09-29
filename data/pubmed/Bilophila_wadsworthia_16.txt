@@ -1,0 +1,40 @@
+
+1. Microorganisms. 2020 Jun 11;8(6). pii: E882. doi: 10.3390/microorganisms8060882.
+
+Investigation of Intestinal Microbiota and Fecal Calprotectin in Non-Toxigenic
+and Toxigenic Clostridioides difficile Colonization and Infection.
+
+Han SH(1), Yi J(2), Kim JH(3), Moon AH(4).
+
+Author information: 
+(1)BioCore Co. Ltd., Biotechnology, Yongin 64844, Korea.
+(2)Samkwang Medical Laboratories, Seoul 06742, Korea.
+(3)Advanced BioVision Inc., Incheon 21999, Korea.
+(4)Department of Laboratory Medicine, Konkuk University School of Medicine, Seoul
+05030, Korea.
+
+In this study, we aimed to evaluate the composition of the intestinal microbiota 
+and level of fecal calprotectin in Clostridioides difficile-colonized patients.
+We included 102 C. difficile non-colonized (group I), 93 C. difficile colonized
+subjects (group II), and 89 diarrhea patients with C. difficile (group III).
+Chao1 index for alpha diversity and principal coordinate analysis was performed
+for beta diversity using QIIME. The mean relative abundance in each group was
+compared at the phylum and genus levels. Fecal calprotectin was measured using
+EliA calprotectin (Thermo Fisher Scientific). Group II showed significantly lower
+levels of Sutterella, Blautia, Ruminococcus, Faecalibacterium, Bilophila, and
+Ruminococcaceae and higher levels of Enterobacteriaceae compared to group I (p = 
+0.012, 0.003, 0.002, 0.001, 0.027, 0.022, and 0.036, respectively). Toxigenic C. 
+difficile colonized subjects showed significantly lower levels of Prevotella,
+Phascolarctobacterium, Succinivibrio, Blautia, and higher levels of Bacteroides. 
+The level of fecal calprotectin in group III was significantly higher than those 
+in group I and group II (p < 0.001 for both). These data could be valuable in
+understanding C. difficile colonization process and the microbiota and
+inflammatory markers could be further studied to differentiate colonization from 
+CDI.
+
+DOI: 10.3390/microorganisms8060882 
+PMCID: PMC7356005
+PMID: 32545219 
+
+Conflict of interest statement: The authors report no conflicts of interest.
+

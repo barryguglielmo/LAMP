@@ -1,0 +1,54 @@
+
+1. Antimicrob Agents Chemother. 2020 Aug 20;64(9). pii: e00536-20. doi:
+10.1128/AAC.00536-20. Print 2020 Aug 20.
+
+In Vitro Pharmacodynamics of Fosfomycin against Carbapenem-Resistant Enterobacter
+cloacae and Klebsiella aerogenes.
+
+Lim TP(1)(2)(3), Teo JQ(1)(4), Goh AW(5), Tan SX(1), Koh TH(6)(3), Lee WH(1), Cai
+Y(1)(5), Tan TT(7)(2), Kwa AL(8)(2)(9).
+
+Author information: 
+(1)Department of Pharmacy, Singapore General Hopsital, Singapore.
+(2)SingHealth Duke-NUS, Medicine Academic Clinical Programme, Singapore.
+(3)SingHealth Duke-NUS, Pathology Academic Clinical Programme, Singapore.
+(4)Saw Swee Hock School of Public Health, National University of Singapore and
+National University Health System, Singapore.
+(5)Department of Pharmacy, National University of Singapore, Singapore.
+(6)Department of Microbiology, Singapore General Hopsital, Singapore.
+(7)Department of Infectious Diseases, Singapore General Hopsital, Singapore.
+(8)Department of Pharmacy, Singapore General Hopsital, Singapore
+andrea.kwa.l.h@sgh.com.sg.
+(9)Emerging Infectious Diseases Program, Duke-NUS Medical School, Singapore.
+
+The increase of carbapenem-resistant Enterobacterales (CRE) and lack of
+therapeutic options due to the scarcity of new antibiotics has sparked interest
+toward the use of intravenous fosfomycin against systemic CRE infections. We
+aimed to investigate the in vitro pharmacodynamics of fosfomycin against
+carbapenem-resistant Enterobacter cloacae and Klebsiella aerogenes Time-kill
+studies and population analysis profiles were performed with eight clinical CRE
+isolates, which were exposed to fosfomycin concentrations ranging from 0.25 to
+2,048 mg/liter. The 24-h mean killing effect was characterized by an inhibitory
+sigmoid maximum effect (E max) model. Whole-genome sequencing was performed to
+elucidate known fosfomycin resistance mechanisms. Fosfomycin MICs ranged from 0.5
+to 64 mg/liter. The isolates harbored a variety of carbapenemase genes including 
+bla IMP, bla KPC, and bla NDM Five out of eight isolates harbored the fosA gene, 
+while none harbored the recently discovered fosL-like gene. Heteroresistant
+subpopulations were detected in all isolates, with two out of eight isolates
+harboring heteroresistant subpopulations at up to 2,048 mg/liter. In time-kill
+studies, fosfomycin exhibited bactericidal activity at 2 to 4 h at several
+fosfomycin concentrations (one isolate at ≥16 mg/liter, two at ≥32 mg/liter, two 
+at ≥64 mg/liter, two at ≥128 mg/liter, and one at ≥512 mg/liter). At 24 h,
+bactericidal activity was only observed in two isolates (MICs, 0.5 and
+4 mg/liter) at 2,048 mg/liter. From the E max model, no significant bacterial
+killing was observed beyond 500 mg/liter. Our findings suggest that the use of
+fosfomycin monotherapy may be limited against CRE due to heteroresistance and
+rapid bacterial regrowth. Further optimization of intravenous fosfomycin dosing
+regimens is required to increase efficacy against such infections.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.00536-20 
+PMCID: PMC7449207 [Available on 2021-02-20]
+PMID: 32571821 
+

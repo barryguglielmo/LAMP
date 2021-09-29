@@ -1,0 +1,44 @@
+
+1. PLoS One. 2019 Oct 24;14(10):e0224440. doi: 10.1371/journal.pone.0224440.
+eCollection 2019.
+
+Consequences of chronic bacterial infection in Drosophila melanogaster.
+
+Chambers MC(1)(2), Jacobson E(1), Khalil S(1), Lazzaro BP(1)(3).
+
+Author information: 
+(1)Department of Entomology, Cornell University, Ithaca, New York, United States 
+of America.
+(2)Department of Biology, Bucknell University, Lewisburg, PA, United States of
+America.
+(3)Cornell Institute of Host-Microbe Interactions and Disease, Cornell
+University, Ithaca, New York, United States of America.
+
+Even when successfully surviving an infection, a host often fails to eliminate a 
+pathogen completely and may sustain substantial pathogen burden for the remainder
+of its life. Using systemic bacterial infection in Drosophila melanogaster, we
+characterize chronic infection by three bacterial species from different genera -
+Providencia rettgeri, Serratia marcescens, and Enterococcus faecalis-following
+inoculation with a range of doses. To assess the consequences of these chronic
+infections, we determined the expression of antimicrobial peptide genes, survival
+of secondary infection, and starvation resistance after one week of infection.
+While higher infectious doses unsurprisingly lead to higher risk of death, they
+also result in higher chronic bacterial loads among the survivors for all three
+infections. All three chronic infections caused significantly elevated expression
+of antimicrobial peptide genes at one week post-infection and provided
+generalized protection again secondary bacterial infection. Only P. rettgeri
+infection significantly influenced resistance to starvation, with persistently
+infected flies dying more quickly under starvation conditions relative to
+controls. These results suggest that there is potentially a generalized mechanism
+of protection against secondary infection, but that other impacts on host
+physiology may depend on the specific pathogen. We propose that chronic
+infections in D. melanogaster could be a valuable tool for studying tolerance of 
+infection, including impacts on host physiology and behavior.
+
+DOI: 10.1371/journal.pone.0224440 
+PMCID: PMC6812774
+PMID: 31648237  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

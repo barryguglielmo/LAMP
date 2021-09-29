@@ -1,0 +1,65 @@
+
+1. Antimicrob Agents Chemother. 2020 Sep 21. pii: AAC.01743-20. doi:
+10.1128/AAC.01743-20. [Epub ahead of print]
+
+Dynamics of bla KPC-2 dissemination from non-CG258 Klebsiella pneumoniae to other
+Enterobacterales via IncN plasmids in an area of high endemicity.
+
+Rada AM(1)(2), De La Cadena E(3), Agudelo C(4), Capataz C(5), Orozco N(6),
+Pallares C(3), Dinh AQ(7), Panesso D(7)(8), Ríos R(7)(9), Diaz L(7)(9), Correa
+A(10), Hanson BM(7), Villegas MV(3), Arias CA(11)(8)(9), Restrepo E(6).
+
+Author information: 
+(1)Department of Microbiology and Parasitology, Bacteria & Cancer Group,
+Universidad de Antioquia, Medellín, Colombia. ana.rada@colmayor.edu.co.
+(2)Faculad de Ciencias de la Salud, Biociencias Group, Institución Universitaria 
+Colegio Mayor de Antioquia, Medellín, Colombia.
+(3)Research Group on Antimicrobial Resistance and Hospital Epidemiology,
+Universidad El Bosque, Bogotá, Colombia.
+(4)Clinica Universitaria Bolivariana, School of Health Sciences, Universidad
+Pontificia Bolivariana, Medellín, Colombia.
+(5)Fundación Clínica del Norte, Bello, Colombia.
+(6)Department of Microbiology and Parasitology, Bacteria & Cancer Group,
+Universidad de Antioquia, Medellín, Colombia.
+(7)Division of infectious Diseases and Center for Antimicrobial Resistance and
+Microbial Genomics, UTHealth, McGovern Medical School, Houston, Texas, USA.
+(8)Center for Infectious Diseases, UTHealth, School of Public Health, Houston,
+Texas, USA.
+(9)Molecular Genetics and Antimicrobial Resistance Unit - International Center
+for Microbial Genomics, Universidad El Bosque, Bogotá, Colombia.
+(10)Universidad Santiago de Cali, Facultad de Ciencias Básicas, Cali, Colombia.
+(11)Division of infectious Diseases and Center for Antimicrobial Resistance and
+Microbial Genomics, UTHealth, McGovern Medical School, Houston, Texas, USA.
+Cesar.Arias@uth.tmc.edu.
+
+Carbapenem-resistant Enterobacterales (CRE) pose a significant threat to global
+public health. The most important mechanism for carbapenem resistance is the
+production of carbapenemases. Klebsiella pneumoniae carbapenemase (KPC)
+represents one of the main carbapenemases worldwide. Complex mechanisms of bla
+KPC dissemination have been reported in Colombia, a country with high endemicity 
+of carbapenem resistance. Here, we characterized the dynamics of dissemination of
+bla KPC gene among CRE infecting and colonizing patients in three hospitals
+localized in a highly endemic area of Colombia (2013 and 2015). We identified the
+genomic characteristics of KPC-producing Enterobacterales recovered from patients
+infected/colonized and reconstructed the dynamics of dissemination of bla KPC-2
+using both short and long read sequencing. We found that spread of bla KPC-2
+among Enterobacterales in the participating hospitals was due to intra and
+inter-species horizontal gene transfer (HGT) mediated by promiscuous plasmids
+associated to transposable elements that was originated from a multi-species
+outbreak of KPC-producing Enterobacterales in a neonatal intensive care unit
+(ICU). The plasmids were detected in isolates recovered in other units within the
+same hospital and nearby hospitals. The gene "epidemic" was driven by
+IncN-pST15-type plasmids carrying a novel Tn4401b structure and non-Tn4401
+elements (NTEKPC) in Klebsiella spp, Escherichia coli, Enterobacter spp and
+Citrobacter spp. Of note, mcr-9 was found to co-exist with bla KPC-2 in species
+of the Enterobacter cloacae complex. Our findings suggest that the main mechanism
+for dissemination of bla KPC-2 is HGT mediated by highly transferable plasmids
+among species of Enterobacterales in infected/colonized patients, presenting a
+major challenge for public health interventions in developing countries such as
+Colombia.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.01743-20 
+PMID: 32958711 
+

@@ -1,0 +1,43 @@
+
+1. Antonie Van Leeuwenhoek. 2020 Apr;113(4):589-592. doi:
+10.1007/s10482-019-01353-w. Epub 2019 Nov 18.
+
+Novel mutations in the QRDR region gyrA gene in multidrug-resistance
+Corynebacterium spp. isolates from intravenous sites.
+
+Ramos JN(1)(2), Valadão TB(1)(3), Baio PVP(2)(4), Mattos-Guaraldi AL(2), Vieira
+VV(5).
+
+Author information: 
+(1)Instituto Nacional de Controle de Qualidade em Saúde (INCQS), Fundação Oswaldo
+Cruz (FIOCRUZ), Rio de Janeiro, Brazil.
+(2)Laboratório de Difteria e Corinebactérias de Importância Clínica (LDCIC),
+Faculdade de Ciências Médicas, Universidade do Estado do Rio de Janeiro, Rio de
+Janeiro, Brazil.
+(3)Laboratório Interdisciplinar de Pesquisas Médicas (LIPMED), Instituto Oswaldo 
+Cruz, Fundação Oswaldo Cruz (FIOCRUZ), Av. Brasil, 4365, Pavilhão Cardoso Fontes,
+10 andar, sala 17, Manguinhos, Rio de Janeiro, RJ, CEP 21040-900, Brazil.
+(4)Laboratório Químico-Farmacêutico do Exército (LQFEx), Ministério da Defesa,
+Rio de Janeiro, Brazil.
+(5)Laboratório Interdisciplinar de Pesquisas Médicas (LIPMED), Instituto Oswaldo 
+Cruz, Fundação Oswaldo Cruz (FIOCRUZ), Av. Brasil, 4365, Pavilhão Cardoso Fontes,
+10 andar, sala 17, Manguinhos, Rio de Janeiro, RJ, CEP 21040-900, Brazil.
+vieira@ioc.fiocruz.br.
+
+The resistance to fluoroquinolones in corynebacteria is due to mutations
+occurring in the quinolone-resistance-determining region (QRDR) of the gyrA gene 
+encoding the enzyme gyrase A subunit. In recent years we can observe an
+increasing number of infections caused by multidrug-resistant Corynebacterium
+striatum, Corynebacterium jeikeium and Corynebacterium urealyticum, including
+wide range of disorders, such as invasive infections. In this study 14
+Corynebacterium spp. isolated from intravenous sites were sequenced and new
+combinations of mutations in the QRDR of the gyrA gene were found in C. jeikeium 
+and C. urealyticum. Nowadays, no study comparing mutations in this region and the
+susceptibility to fluoroquinolones in C. jeikeium and C. urealyticum has been
+described. All the isolates that showed double mutation (position 87 and 91) in
+the QRDR gyrA gene had high MIC to the fluoroquinolones tested.
+
+DOI: 10.1007/s10482-019-01353-w 
+PMCID: PMC7089888
+PMID: 31736013 
+

@@ -1,0 +1,37 @@
+
+1. Microorganisms. 2020 Aug 20;8(9). pii: E1269. doi: 10.3390/microorganisms8091269.
+
+Cyclic Di-adenosine Monophosphate Regulates Metabolism and Growth in the Oral
+Commensal Streptococcus mitis.
+
+Rørvik GH(1), Liskiewicz KA(1), Kryuchkov F(2), Naemi AO(1), Aasheim HC(1),
+Petersen FC(1), Küntziger TM(1), Simm R(1).
+
+Author information: 
+(1)Institute of Oral Biology, University of Oslo, 0316 Oslo, Norway.
+(2)Norwegian Veterinary Institute, Pb 750 Sentrum, 0106 Oslo, Norway.
+
+Cyclic di-adenosine monophosphate (c-di-AMP) has emerged as an important
+bacterial signaling molecule that functions both as an intracellular second
+messenger in bacterial cells and an extracellular ligand involved in
+bacteria-host cross-talk. In this study, we identify and characterize proteins
+involved in controlling the c-di-AMP concentration in the oral commensal and
+opportunistic pathogen Streptococcusmitis (S. mitis). We identified three known
+types of c-di-AMP turnover proteins in the genome of S. mitis CCUG31611: a
+CdaA-type diadenylate cyclase as well as GdpP-, and DhhP-type phosphodiesterases.
+Biochemical analyses of purified proteins demonstrated that CdaA synthesizes
+c-di-AMP from ATP whereas both phosphodiesterases can utilize c-di-AMP as well as
+the intermediary metabolite of c-di-AMP hydrolysis 5'-phosphadenylyl-adenosine
+(pApA) as substrate to generate AMP, albeit at different catalytic efficiency.
+Using deletion mutants of each of the genes encoding c-di-AMP turnover proteins, 
+we show by high resolution MS/MS that the intracellular concentration of c-di-AMP
+is increased in deletion mutants of the phosphodiesterases and non-detectable in 
+the cdaA-mutant. We also detected pApA in mutants of the DhhP-type
+phosphodiesterase. Low and high levels of c-di-AMP were associated with longer
+and shorter chains of S. mitis, respectively indicating a role in regulation of
+cell division. The deletion mutant of the DhhP-type phosphodiesterase displayed
+slow growth and reduced rate of glucose metabolism.
+
+DOI: 10.3390/microorganisms8091269 
+PMID: 32825526 
+

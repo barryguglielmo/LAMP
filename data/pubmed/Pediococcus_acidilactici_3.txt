@@ -1,0 +1,42 @@
+
+1. J Biotechnol. 2020 Aug 28;323:231-237. doi: 10.1016/j.jbiotec.2020.08.015. [Epub 
+ahead of print]
+
+An oxidoreductase gene ZMO1116 enhances the p-benzoquinone biodegradation and
+chiral lactic acid fermentability of Pediococcus acidilactici.
+
+Qiu Z(1), Fang C(2), He N(2), Bao J(3).
+
+Author information: 
+(1)State Key Laboratory of Bioreactor Engineering, East China University of
+Science and Technology, 130 Meilong Road, Shanghai 200237, China; Jiangsu Key
+Laboratory for Biomass-based Energy and Enzyme Technology, Huaiyin Normal
+University, 111 West Changjiang Road, Huaian, Jiangsu 223300, China.
+(2)State Key Laboratory of Bioreactor Engineering, East China University of
+Science and Technology, 130 Meilong Road, Shanghai 200237, China.
+(3)State Key Laboratory of Bioreactor Engineering, East China University of
+Science and Technology, 130 Meilong Road, Shanghai 200237, China. Electronic
+address: jbao@ecust.edu.cn.
+
+p-Benzoquinone (BQ) is a lignin-derived inhibitor to microbial strains. Unlike
+the furan inhibitors, p-benzoquinone is recalcitrant to traditional
+detoxification methods. This study shows a biological degradation of
+p-benzoquinone and a simultaneous D-lactic acid fermentation by an engineered
+Pediococcus acidilactici strain. The overexpression of an oxidoreductase gene
+ZMO1116 from Zymomonas mobilis encoding oxidoreductase was identified to improve 
+the D-lactic acid fermentability of P. acidilactici against p-benzoquinone. The
+gene ZMO1116 was integrated into the genome of P. acidilactici and enabled the
+engineered P. acidilactici to convert p-benzoquinone into less toxic hydroquinone
+(HQ), resulting in the improved p-benzoquinone tolerance. Simultaneous
+saccharification and co-fermentation (SSCF) was conducted using the pretreated
+and biodetoxified corn stover containing p-benzoquinone, the D-lactic acid
+production of the engineered strain (123.8 g/L) was 21.4 % higher than the
+parental strain (102.0 g/L). This study provides a practical method on robust
+p-benzoquinone tolerance and efficient cellulosic chiral lactic acid fermentation
+from lignocellulose feedstock.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jbiotec.2020.08.015 
+PMID: 32866539 
+

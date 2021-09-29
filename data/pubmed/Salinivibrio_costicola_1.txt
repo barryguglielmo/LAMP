@@ -1,0 +1,47 @@
+
+1. Biotechnol Lett. 2020 Jun;42(6):1003-1017. doi: 10.1007/s10529-020-02833-0. Epub 
+2020 Feb 15.
+
+Optimizing ectoine biosynthesis using response surface methodology and
+osmoprotectant applications.
+
+Omara AMA(1), Sharaf AEM(2), El-Hela AA(3), Shahin AAM(1), El-Bialy HAA(4),
+El-Fouly MZ(1).
+
+Author information: 
+(1)Radiation Microbiology Department, National Center for Radiation Research and 
+Technology (NCRRT), Atomic Energy Authority, Cairo, Egypt.
+(2)Faculty of Science, Al-Azhar University, Cairo, Egypt.
+(3)Faculty of Pharmacy, Al-Azhar University, Cairo, Egypt.
+(4)Radiation Microbiology Department, National Center for Radiation Research and 
+Technology (NCRRT), Atomic Energy Authority, Cairo, Egypt. elbialyheba@yahoo.com.
+
+PURPOSE: Numerous applications of compatible salts (osmolytes) as ectoine in food
+and pharmaceutical industries have been intensively increased nowadays.
+Decreasing the cost of industrial production of ectoine using low-cost
+cultivation media and improving the yield through modeling procedures are the
+main scopes of the present study.
+METHODS: Three statistical design experiments have been successfully applied for 
+screening the parameters affecting the production process, studying the relations
+among parameters and optimizing the production using response surface
+methodology.
+RESULTS: A novel semi-synthetic medium based on hydrolyzed corn gluten meal has
+been developed to cultivate moderate halophilic bacterial strains; Vibrio sp. CS1
+and Salinivibrio costicola SH3, and support ectoine synthesis under salinity
+stress. Two regression equations describe the production process in the new
+medium have been formulated for each bacterial strain. Response surface optimizer
+of the central composite model predicts the maximum ectoine production is
+achieved at incubation time; 63.7 h, pH; 7.47 and salinity; 7.27% for Vibrio sp. 
+CS1 whereas these variables should be adjusted at 56.95 h, 7.089 and 10.34%; on
+the same order regarding Salinivibrio costicola SH3. In application studies,
+50 µg ectoine decreases RBCs hemolysis due to streptolysin O toxin by 21.7%
+within ten minutes. In addition, 2% ectoine succeeds to increase the viability of
+lactic acid bacteria in Yogurt as a classic example of functional food during the
+storage period (7 days).
+CONCLUSION: The present study emphasizes on modeling the process of ectoine
+production by halophilic bacteria as well as its activity as a cryoprotectant
+agent.
+
+DOI: 10.1007/s10529-020-02833-0 
+PMID: 32062816 
+

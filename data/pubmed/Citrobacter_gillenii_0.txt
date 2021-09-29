@@ -1,0 +1,70 @@
+
+1. Water Res. 2020 Aug 15;181:115928. doi: 10.1016/j.watres.2020.115928. Epub 2020
+May 14.
+
+A comparison of photolytic, photochemical and photocatalytic processes for
+disinfection of recirculation aquaculture systems (RAS) streams.
+
+Moreno-Andrés J(1), Rueda-Márquez JJ(2), Homola T(3), Vielma J(4), Moríñigo
+MÁ(5), Mikola A(6), Sillanpää M(7), Acevedo-Merino A(8), Nebot E(8), Levchuk
+I(6).
+
+Author information: 
+(1)Department of Environmental Technologies, Faculty of Marine and Environmental 
+Sciences, INMAR-Marine Research Institute, CEIMAR- International Campus of
+Excellence of the Sea, University of Cadiz, Spain; Grupo de Procesos de Oxidación
+Avanzada, Departamento de Ingeniería Textil y Papelera, Universitat Politècnica
+de València, Campus de Alcoy, Alcoy, Spain. Electronic address:
+javier.moreno@uca.es.
+(2)Department of Separation Science, School of Engineering Science,
+Lappeenranta-Lahti University of Technology LUT, Sammonkatu 12, 50130 Mikkeli,
+Finland.
+(3)R&D Center for Low-Cost Plasma and Nanotechnology Surface Modifications
+(CEPLANT), Department of Physical Electronics, Faculty of Science, Masaryk
+University, Kotlářská 267/2, 611 37, Brno, Czech Republic.
+(4)Natural Resources Institute Finland, Survontie 9A, 40500, Jyväskylä, Finland.
+(5)Department of Microbiology, Faculty of Sciences, University of Málaga, Spain.
+(6)Water and Wastewater Engineering Research Group, School of Engineering, Aalto 
+University, PO Box 15200, FI-00076, Aalto, Finland.
+(7)School of Civil Engineering and Surveying, Faculty of Health, Engineering and 
+Sciences, University of Southern Queensland, West Street, Toowoomba, 4350 QLD,
+Australia; Institute of Research and Development, Faculty of Environment and
+Chemical Engineering, Duy Tan University, Da Nang 550000, Vietnam.
+(8)Department of Environmental Technologies, Faculty of Marine and Environmental 
+Sciences, INMAR-Marine Research Institute, CEIMAR- International Campus of
+Excellence of the Sea, University of Cadiz, Spain.
+
+The development of technologically advanced recirculation aquaculture systems
+(RAS) implies the reuse of water in a high recirculation rate (>90%). One of the 
+most important phases for water management in RAS involves water disinfection in 
+order to avoid proliferation of potential pathogens and related fish diseases.
+Accordingly, different approaches have been assessed in this study by performing 
+a comparison of photolytic (UV-LEDs) at different wavelengths (λ = 262, 268 and
+262 + 268 nm), photochemical (UV-LEDs/H2O2, UV-LEDs/HSO5- and UV-LEDs/S2O82-) and
+photocatalytic (TiO2/SiO2/UV-LEDs and ZnO/SiO2/UV-LEDs) processes for the
+disinfection of water in RAS streams. Different laboratory tests were performed
+in batch scale with real RAS stream water and naturally occurring bacteria
+(Aeromonas hydrophyla and Citrobacter gillenii) as target microorganisms.
+Regarding photolytic processes, higher inactivation rates were obtained by
+combining λ262+268 in front of single wavelengths. Photochemical processes showed
+higher efficiencies by comparison with a single UV-C process, especially at
+10 mg L-1 of initial oxidant dose. The inactivation kinetic rate constant was
+improved in the range of 15-38%, with major efficiency for
+UV/H2O2 ∼ UV/HSO5- > UV/S2O82-. According to photocatalytic tests, higher
+efficiencies were obtained by improving the inactivation kinetic rate constant up
+to 55% in comparison with a single UV-C process. Preliminary cost estimation was 
+conducted for all tested disinfection methods. Those results suggest the
+potential application of UV-LEDs as promoter of different photochemical and
+photocatalytic processes, which are able to enhance disinfection in particular
+cases, such as the aquaculture industry.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.watres.2020.115928 
+PMID: 32504908  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

@@ -1,0 +1,52 @@
+
+1. PLoS One. 2020 Aug 12;15(8):e0236745. doi: 10.1371/journal.pone.0236745.
+eCollection 2020.
+
+Microbially induced calcite precipitation using Bacillus velezensis with guar
+gum.
+
+Dikshit R(1), Jain A(1), Dey A(2), Kumar A(1).
+
+Author information: 
+(1)Department of Mechanical Engineering, Indian Institute of Science, Bangalore, 
+India.
+(2)Thermal Systems Group, U. R. Rao Satellite Centre (formerly ISRO Satellite
+Centre), Indian Space Research Organisation, Bangalore, India.
+
+Mineral precipitation via microbial activity is a well-known process with
+applications in various fields. This relevance of microbially induced calcite
+precipitation (MICP) has pushed researchers to explore various naturally
+occurring MICP capable bacterial strains. The present study was performed to
+explore the efficiency of microbially induced calcite precipitation (MICP) via
+locally isolated bacterial strains and role of guar gum, which is a naturally
+occurring polymer, on the MICP process. The strains were isolated from local soil
+and screened for urease activity Further, the urease positive strain was
+subjected to urea and calcium chloride based medium to investigate the efficacy
+of isolated strain for microbial induced precipitation. Among screened isolates, 
+the soil bacterium that showed urease positive behaviour and precipitated calcium
+carbonate was subjected to 16S rRNA gene sequencing. This strain was identified
+as Bacillus velezensis. Guar gum-a natural polymer, was used as a sole carbon
+source to enhance the MICP process. It was observed that the isolated strain was 
+able to breakdown the guar gum into simple sugars resulting in two-fold increase 
+in calcium carbonate precipitate. Major bio-chemical activities of isolated
+strain pertaining to MICP such as ammonium ion concentration, pH profiling, and
+total reducing sugar with time were explored under four different concentrations 
+of guar gum (0.25%, 0.5%, 0.75% and 1% w/v). Maximum ammonium ion concentration
+(17.5 μg/ml) and increased pH was observed with 1% guar gum supplementation,
+which confirms augmented MICP activity of the bacterial strain. Microstructural
+analysis of microbial precipitation was performed using scanning electron
+microscopy (SEM) and X-ray diffraction (XRD) techniques, which confirmed the
+presence of calcium carbonate in different phases. Further, XRD and SEM based
+studies corroborated that guar gum supplemented media showed significant increase
+in stable calcite phase as compared to media without guar gum supplementation.
+Significant diverse group of nitrogenous compounds were observed in guar gum
+supplemented medium when subjected to Gas Chromatography-Mass spectrometry
+(GC-MS) profiling.
+
+DOI: 10.1371/journal.pone.0236745 
+PMCID: PMC7423064
+PMID: 32785276 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

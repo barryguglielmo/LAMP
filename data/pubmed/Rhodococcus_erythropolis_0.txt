@@ -1,0 +1,47 @@
+
+1. Front Microbiol. 2020 Aug 31;11:2106. doi: 10.3389/fmicb.2020.02106. eCollection 
+2020.
+
+Metagenomic Functional Profiling Reveals Differences in Bacterial Composition and
+Function During Bioaugmentation of Aged Petroleum-Contaminated Soil.
+
+Pacwa-Płociniczak M(1), Biniecka P(1), Bondarczuk K(2), Piotrowska-Seget Z(1).
+
+Author information: 
+(1)Institute of Biology, Biotechnology and Environmental Protection, Faculty of
+Natural Sciences, University of Silesia in Katowice, Katowice, Poland.
+(2)Centre for Bioinformatics and Data Analysis, Medical University of Bialystok, 
+Białystok, Poland.
+
+Our objective was to study the bacterial community changes that determine
+enhanced removal of petroleum hydrocarbons from soils subjected to
+bioaugmentation with the hydrocarbon-degrading strains Rhodococcus erythropolis
+CD 130, CD 167, and their combination. To achieve this, a high-throughput
+sequencing of the 16S rRNA gene was performed. The changes in the bacterial
+community composition were most apparent the day after bacterial inoculation.
+These changes represented an increase in the percentage abundance of Rhodococcus 
+and Pseudomonas genera. Surprisingly, members of the Rhodococcus genus were not
+present after day 91. At the end of the experiment, the bacterial communities
+from the CD 130, CD 167, and control soils had a similar structure. Nevertheless,
+the composition of the bacteria in the CD 130 + CD 167 soil was still distinct
+from the control. Metagenomic predictions from the 16S rRNA gene sequences showed
+that the introduction of bacteria had a significant influence on the predicted
+pathways (metabolism of xenobiotics, lipids, terpenoids, polyketides, and amino
+acids) on day one. On day 182, differences in the abundance of functional
+pathways were also detected in the CD 130 and CD 130 + CD 167 soils.
+Additionally, we observed that on day one, in all bioaugmented soils, the alkH
+gene was mainly contributed by the Rhodococcus and Mycobacterium genera, whereas 
+in non-treated soil, this gene was contributed only by the Mycobacterium genus.
+Interestingly, from day 91, the Mycobacterium genus was the main contributor for 
+the tested genes in all studied soils. Our results showed that hydrocarbon
+depletion from the analyzed soils resulted from the activity of the autochthonous
+bacteria. However, these changes in the composition and function of the
+indigenous bacterial community occurred under the influence of the introduced
+bacteria.
+
+Copyright © 2020 Pacwa-Płociniczak, Biniecka, Bondarczuk and Piotrowska-Seget.
+
+DOI: 10.3389/fmicb.2020.02106 
+PMCID: PMC7487420
+PMID: 32983067 
+

@@ -1,0 +1,56 @@
+
+1. Fish Shellfish Immunol. 2020 Jul;102:133-139. doi: 10.1016/j.fsi.2020.04.023.
+Epub 2020 Apr 17.
+
+Bacillus baekryungensis MS1 regulates the growth, non-specific immune parameters 
+and gut microbiota of the sea cucumber Apostichopus japonicus.
+
+Liu B(1), Zhou W(1), Wang H(1), Li C(1), Wang L(1), Li Y(2), Wang J(3).
+
+Author information: 
+(1)School of Biological Engineering, Dalian Polytechnic University, Dalian,
+116034, China.
+(2)School of Food Science and Engineering, Dalian Ocean University, Dalian,
+116023, China.
+(3)Engineering Research Center of Health Food Design & Nutrition Regulation,
+School of Chemical Engineering and Energy Technology, Dongguan University of
+Technology, Dongguan, 523808, China. Electronic address: wangjh_dlpu@163.com.
+
+Winter is a high incidence period of skin ulceration syndrome in the sea cucumber
+Apostichopus japonicus. Disease control during the overwintering of sea cucumber 
+can help increase yield and reduce losses. The purpose of this study was to study
+the effect of the low temperature-resistant probiotic Bacillus baekryungensis MS1
+on the growth and immune parameters of sea cucumbers and preliminarily
+investigate the molecular mechanism of the effects. A low temperature-resistant
+bacterium, B. baekryungensis MS1, was isolated from a sea cucumber pond in winter
+and used for culture experiments. After 10 days of prefeeding, the experiment was
+divided into the control group (fed with commercial diet) and the MS1 group (fed 
+with diet containing B. baekryungensis MS1 at 107 cfu g-1) for a total of 60
+days. The specific growth rate was measured at the end of the culture period to
+evaluate the growth performance of the sea cucumber. Samples were taken on days
+30 and 60 to determine the immune parameters (including superoxide dismutase
+activity, catalase activity, alkaline phosphatase activity, acid phosphatase
+activity, nitric oxide synthetase activity, phagocytosis and respiratory burst), 
+aquaculture water microbiota and gut microbiota of the sea cucumber. Finally,
+transcriptome sequencing and qRT-PCR verification of the two groups of sea
+cucumbers were performed to study the mechanism of B. baekryungensis MS1 to
+improve the immunity of the sea cucumber. The results showed that after 60 days
+of feeding, B. baekryungensis MS1 significantly improved the growth performance
+and immune enzyme activity and formed a healthier structure of the gut microbiota
+in the sea cucumber. The challenge test showed that B. baekryungensis MS1
+significantly reduced the mortality of sea cucumbers infected with Vibrio
+splendidus. Transcriptome and gene expression analysis indicated that B.
+baekryungensis MS1 activated the ubiquitin-mediated proteolysis pathway and
+inhibited the mTOR signaling pathway to regulate the immunity of the sea
+cucumber. In summary, the low temperature-resistant bacterium B. baekryungensis
+MS1 could be applied for the aquiculture of sea cucumber in winter to improve
+health status and resist pathogenic bacteria such as V. splendidus.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fsi.2020.04.023 
+PMID: 32305504 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no conflict of interest.
+

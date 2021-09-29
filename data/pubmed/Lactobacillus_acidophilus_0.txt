@@ -1,0 +1,45 @@
+
+1. Microb Pathog. 2020 Sep 30:104543. doi: 10.1016/j.micpath.2020.104543. [Epub
+ahead of print]
+
+Lactobacillus acidophilus attenuates toxin production by Vibrio cholerae and
+shigella dysenteriae following intestinal epithelial cells infection.
+
+Alamdary SZ(1), Bakhshi B(2).
+
+Author information: 
+(1)Department of Bacteriology, Faculty of Medical Sciences, Tarbiat Modares
+University, Tehran, Iran.
+(2)Department of Bacteriology, Faculty of Medical Sciences, Tarbiat Modares
+University, Tehran, Iran. Electronic address: b.bakhshi@modares.ac.ir.
+
+AIMS: The main objective of the present study was to assess and compare the
+safety and inhibitory efficacy of Lactobacillus acidophilus against cholera toxin
+and shigatoxin production by measuring CTX-B and Stx1 expression level in
+Caco-2 cells exposed to Vibrio cholerae (as a non-invasive small intestine
+pathogens and Shigella dysenteriae (as an invasive colon pathogen).
+METHODS: Caco-2 cells were incubated with L. acidophilus 2 h before infection by 
+V. cholerae and S. dysenteriae. Following RNA extraction and cDNA synthesis,
+relative toxins mRNA levels were determined according to a comparative critical
+threshold (Ct) real-time PCR. L. acidophilus didn't show any cytotoxic effect on 
+Caco-2 cells.
+RESULTS: L. acidophilus revealed a protective effect for Caco-2 cells against S. 
+dysenteriae and V. cholera by 51% and 57%, respectively, which was determined by 
+MTT assay and further confirmed by morphological examination. Pretreatment of
+Caco-2 cells with L. acidophilus prior to exposure to V. cholerae, attenuated the
+CTX-B expression in V. cholerae to about 1.76 folds. Expression of Stx1 by S.
+dysenteriae was also down-regulated to 1.6 folds following pretreatment of
+Caco-2 cells by L. acidophilus. No significant difference was observed in the
+attenuator role of L. acidophilus in toxin production by S. dysenteriae as a
+colon-invasive bacterium, compared with V. cholerae, the non-invasive pathogen of
+small intestine.
+CONCLUSIONS: The results of the present study suggest that L. acidophilus is safe
+with protective effect for human epithelial colorectal cells, and is effective
+enough to be applied as a supplementary treatment for attenuation of toxin
+production in acute infectious diarrhea caused by V. cholerae and S. dysenteriae.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.micpath.2020.104543 
+PMID: 33010360 
+

@@ -1,0 +1,56 @@
+
+1. J Infect Chemother. 2020 Sep;26(9):928-932. doi: 10.1016/j.jiac.2020.04.012. Epub
+2020 May 30.
+
+Fecal carriage and molecular epidemiologic characteristics of
+carbapenemase-producing Enterobacterales in primary care hospital in a Japanese
+city.
+
+Ohno Y(1), Nakamura A(2), Hashimoto E(3), Noguchi N(4), Matsumoto G(3), Fukuda
+S(3), Abe N(3), Matsuo S(3), Komatsu M(2).
+
+Author information: 
+(1)Department of Clinical Microbiology, Clinical Laboratory Medicine, Tenri
+Hospital, Tenri, Japan; Department of Clinical Laboratory Science, Faculty of
+Health Care, Tenri Health Care University, Tenri, Japan. Electronic address:
+k.o.9.1183@gmail.com.
+(2)Department of Clinical Laboratory Science, Faculty of Health Care, Tenri
+Health Care University, Tenri, Japan.
+(3)Department of Clinical Microbiology, Clinical Laboratory Medicine, Tenri
+Hospital, Tenri, Japan.
+(4)Department of Clinical Microbiology, Clinical Laboratory Medicine, Tenri
+Hospital, Tenri, Japan; Department of Clinical Laboratory Science, Faculty of
+Health Care, Tenri Health Care University, Tenri, Japan.
+
+BACKGROUND: The worldwide spread of organisms with antimicrobial resistance is of
+concern, especially the trend of significantly increasing carbapenemase-producing
+Enterobacterales (CPE). In this study, we investigated the annual trend of
+intestinal CPE carriage rates in inpatients and healthy adults in a primary care 
+hospital in Tenri, Japan.
+METHODS: We collected 551 samples of feces from inpatients in our institution and
+936 samples from healthy people living in Tenri city from December 2012 to April 
+2015. All samples were cultured on MacConkey agar plates containing 4 μg/mL
+ceftazidime for screening test. The colonies grown on the screening medium were
+detected for carbapenemase genes (blaIMP-1, blaIMP-2, blaVIM, blaKPC, blaGES,
+blaNDM, and blaOXA-48 groups) by multiplex PCR, and CPE were identified by
+MALDI-TOF MS. Plasmid replicon typing and pulsed-field gel electrophoresis (PFGE)
+were performed on PCR-positive strains.
+RESULTS: The CPE carriage rate was 1.6% (9/551) in the inpatient group and 0%
+(0/936) in the healthy adults group. The numbers of strains positive for the
+carbapenemase gene were 4 for Enterobacter cloacae, 2 for Klebsiella pneumoniae, 
+1 for Citrobacter freundii, 1 for Raoultella ornithinolytica and 1 for
+Escherichia coli. In all CPE strains, the carbapenemase gene was blaIMP-6 and the
+plasmid replicon type was IncN. The 4 E. cloacae strains showed a similar pattern
+in PFGE.
+CONCLUSION: In the same city in Japan, CPE intestinal carriers were detected only
+in the inpatient group in this study but not in a healthy adults, suggesting that
+the spread of asymptomatic CPE carriers was confined to inpatients.
+
+Copyright © 2020 Japanese Society of Chemotherapy and The Japanese Association
+for Infectious Diseases. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jiac.2020.04.012 
+PMID: 32482514 
+
+Conflict of interest statement: Declaration of Competing Interest None.
+

@@ -1,0 +1,51 @@
+
+1. J Antimicrob Chemother. 2020 Sep 1;75(9):2485-2494. doi: 10.1093/jac/dkaa210.
+
+Prevalence and molecular epidemiology of mcr-1-positive Klebsiella pneumoniae in 
+healthy adults from China.
+
+Lu J(1), Dong N(2), Liu C(1), Zeng Y(1), Sun Q(1), Zhou H(1), Hu Y(1), Chen S(2),
+Shen Z(3), Zhang R(1).
+
+Author information: 
+(1)Department of Clinical Laboratory, Second Affiliated Hospital, Zhejiang
+University School of Medicine, Hangzhou 310009, China.
+(2)Department of Infectious Diseases and Public Health, Jockey Club College of
+Veterinary Medicine and Life Sciences, City University of Hong Kong, Kowloon,
+Hong Kong.
+(3)Beijing Advanced Innovation Center for Food Nutrition and Human Health,
+College of Veterinary Medicine, China Agricultural University, Beijing, China.
+
+OBJECTIVES: To investigate the nationwide prevalence of mcr-1-positive Klebsiella
+pneumoniae (MCRPKP) strains among healthy adults in China and identify their
+phenotypic and genomic characterizations.
+METHODS: A total of 7401 rectal swab samples were collected from healthy
+individuals in 30 hospitals located in 30 provinces and municipalities of
+mainland China in 2016. Colistin-resistant bacteria were enriched in
+colistin-supplemented lysogeny broth. MCRPKP strains were isolated and
+characterized with MALDI-TOF MS, PCR analysis and antimicrobial susceptibility
+testing. The genomic characteristics of MCRPKP strains were determined by WGS and
+bioinformatics analysis.
+RESULTS: Seven MCRPKP strains and one mcr-1-positive Klebsiella variicola strain 
+were selectively isolated from six locales (three from Henan and one from each of
+Tianjin, Jiangxi, Yunnan, Gansu and Tibet). Antimicrobial susceptibility testing 
+results indicated that all mcr-1-positive strains were susceptible to meropenem, 
+aztreonam and ceftazidime/avibactam. WGS analysis suggested these strains
+belonged to seven distinct STs: ST15, ST1425, ST1462, ST273, ST307, ST391 and
+ST37-SLV. mcr-1 genes were carried by diverse plasmids, including IncHI2 (n = 3),
+IncX4 (n = 2), IncHI2/IncN (n = 1), IncFIB (n = 1) and one other plasmid type.
+Two ST15 strains harboured both mcr-1 and mcr-8 genes, which has not been
+reported before.
+CONCLUSIONS: Our data indicated a low prevalence of mcr-1-positive Klebsiella
+strains (0.11%, 8/7401) in healthy individuals in mainland China and most of
+these strains remained susceptible to clinically important antibiotics. The
+prevalence and coexistence of mcr-1 and mcr-8 in K. pneumoniae may further
+threaten public health through either the food chain or environmental routes.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the
+British Society for Antimicrobial Chemotherapy. All rights reserved. For
+permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jac/dkaa210 
+PMID: 32516364 
+

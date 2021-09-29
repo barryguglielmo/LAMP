@@ -1,0 +1,47 @@
+
+1. Microbiol Resour Announc. 2019 Nov 7;8(45). pii: e00696-19. doi:
+10.1128/MRA.00696-19.
+
+Complete Genome Sequence of Staphylococcus arlettae Strain P2, Isolated from a
+Laboratory Environment.
+
+Yu H(1)(2), Taniguchi M(3), Uesaka K(4), Wiseschart A(5)(6), Pootanakit K(5),
+Nishitani Y(1)(2), Murakami Y(1)(2)(7), Ishimori K(1)(2)(7), Miyazaki K(8)(9),
+Kitahara K(10)(6)(7).
+
+Author information: 
+(1)Graduate School of Chemical Sciences and Engineering, Hokkaido University,
+Sapporo, Hokkaido, Japan.
+(2)Ambitious Leader's Program Fostering Future Leaders to Open New Frontiers in
+Materials Science (ALP), Hokkaido University, Sapporo, Hokkaido, Japan.
+(3)Oral Microbiome Center, Taniguchi Dental Clinic, Takamatsu, Kagawa, Japan.
+(4)Graduate School of Bioagricultural Sciences, Nagoya University, Nagoya, Aichi,
+Japan.
+(5)Institute of Molecular Biosciences, Mahidol University, Salaya, Nakhon Pathom,
+Thailand.
+(6)Department of Life Science and Biotechnology, Bioproduction Research
+Institute, National Institute of Advanced Industrial Science and Technology,
+Tsukuba, Ibaraki, Japan.
+(7)Department of Chemistry, Faculty of Science, Hokkaido University, Sapporo,
+Hokkaido, Japan.
+(8)Department of Life Science and Biotechnology, Bioproduction Research
+Institute, National Institute of Advanced Industrial Science and Technology,
+Tsukuba, Ibaraki, Japan miyazaki-kentaro@aist.go.jp
+keikitahara@sci.hokudai.ac.jp.
+(9)Department of Computational Biology and Medical Sciences, Graduate School of
+Frontier Sciences, The University of Tokyo, Kashiwa, Chiba, Japan.
+(10)Ambitious Leader's Program Fostering Future Leaders to Open New Frontiers in 
+Materials Science (ALP), Hokkaido University, Sapporo, Hokkaido, Japan
+miyazaki-kentaro@aist.go.jp keikitahara@sci.hokudai.ac.jp.
+
+Staphylococcus arlettae is one coagulase-negative species in the bacterial genus 
+Staphylococcus Here, we describe the closed complete genome sequence of S.
+arlettae strain P2, which was obtained using a hybrid approach combining Oxford
+Nanopore long-read and Illumina MiSeq short-read sequencing data.
+
+Copyright © 2019 Yu et al.
+
+DOI: 10.1128/MRA.00696-19 
+PMCID: PMC6838612
+PMID: 31699754 
+

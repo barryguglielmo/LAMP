@@ -1,0 +1,41 @@
+
+1. Front Microbiol. 2020 May 19;11:985. doi: 10.3389/fmicb.2020.00985. eCollection
+2020.
+
+Describing the Individual Spore Variability and the Parameter Uncertainty in
+Bacterial Survival Kinetics Model by Using Second-Order Monte Carlo Simulation.
+
+Abe H(1), Koyama K(1), Takeoka K(1), Doto S(1), Koseki S(1).
+
+Author information: 
+(1)Graduate School of Agriculture Science, Hokkaido University, Sapporo, Japan.
+
+The objective of this study was to separately describe the fitting uncertainty
+and the variability of individual cell in bacterial survival kinetics during
+isothermal and non-isothermal thermal processing. The model describing bacterial 
+survival behavior and its uncertainties and variabilities during non-isothermal
+inactivation was developed from survival kinetic data for Bacillus simplex spores
+under fifteen isothermal conditions. The fitting uncertainties in the parameters 
+used in the primary Weibull model was described by using the bootstrap method.
+The variability of individual cells in thermotolerance and the true randomness in
+the number of dead cells were described by using the Markov chain Monte Carlo
+(MCMC) method. A second-order Monte Carlo (2DMC) model was developed by combining
+both the uncertainties and variabilities. The 2DMC model was compared with
+reduction behavior under three non-isothermal profiles for model validation. The 
+bacterial death estimations were validated using experimentally observed
+surviving bacterial count data. The fitting uncertainties in the primary Weibull 
+model parameters, the individual thermotolerance heterogeneity, and the true
+randomness of inactivated spore counts were successfully described under all the 
+iso-thermal conditions. Furthermore, the 2DMC model successfully described the
+variances in the surviving bacterial counts during thermal inactivation for all
+three non-isothermal profiles. As a template for risk-based process designs, the 
+proposed 2DMC simulation approach, which considers both uncertainty and
+variability, can facilitate the selection of appropriate thermal processing
+conditions ensuring both food safety and quality.
+
+Copyright © 2020 Abe, Koyama, Takeoka, Doto and Koseki.
+
+DOI: 10.3389/fmicb.2020.00985 
+PMCID: PMC7248279
+PMID: 32508792 
+

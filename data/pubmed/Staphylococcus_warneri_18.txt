@@ -1,0 +1,42 @@
+
+1. Microbiologyopen. 2019 Dec;8(12):e917. doi: 10.1002/mbo3.917. Epub 2019 Aug 15.
+
+Decreased metabolism and increased tolerance to extreme environments in
+Staphylococcus warneri during long-term spaceflight.
+
+Bai P(1)(2), Zhang B(3), Zhao X(1), Li D(1), Yu Y(1), Zhang X(1), Huang B(1), Liu
+C(1)(3).
+
+Author information: 
+(1)Medical School of Chinese PLA, Beijing, China.
+(2)Department of Respiratory Diseases, PLA Rocket Force Characteristic Medical
+Center, Beijing, China.
+(3)Medical College, Nankai University, Tianjin, China.
+
+Many studies have shown that the space environment can affect bacteria by causing
+a range of mutations. However, to date, few studies have explored the effects of 
+long-term spaceflight (>1 month) on bacteria. In this study, a Staphylococcus
+warneri strain that was isolated from the Shenzhou-10 spacecraft and had
+experienced a spaceflight (15 days) was carried into space again. After a 64-day 
+flight, combined phenotypic, genomic, transcriptomic, and proteomic analyses were
+performed to compare the influence of the two spaceflights on this bacterium.
+Compared with short-term spaceflight, long-term spaceflight increased the biofilm
+formation ability of S. warneri and the cell wall resistance to external
+environmental stress but reduced the sensitivity to chemical stimulation. Further
+analysis showed that these changes might be associated with the significantly
+upregulated gene expression of the phosphotransferase system, which regulates the
+metabolism of sugars, including glucose, mannose, fructose, and cellobiose. The
+mutation of S. warneri caused by the 15-day spaceflight was limited at the
+phenotype and gene level after cultivation on the ground. After 79 days of
+spaceflight, significant changes in S. warneri were observed. The
+phosphotransferase system of S. warneri was upregulated by long-term space
+stimulation, which resulted in a series of changes in the cell wall, biofilm, and
+chemical sensitivity, thus enhancing the resistance and adaptability of the
+bacterium to the external environment.
+
+© 2019 The Authors. MicrobiologyOpen published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/mbo3.917 
+PMCID: PMC6925155
+PMID: 31414557  [Indexed for MEDLINE]
+

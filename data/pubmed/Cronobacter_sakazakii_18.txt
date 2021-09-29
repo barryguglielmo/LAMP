@@ -1,0 +1,45 @@
+
+1. Foods. 2020 May 9;9(5). pii: E608. doi: 10.3390/foods9050608.
+
+High-Throughput 16S rRNA Gene Sequencing of Butter Microbiota Reveals a Variety
+of Opportunistic Pathogens.
+
+Syromyatnikov MY(1)(2), Kokina AV(1)(2), Solodskikh SA(1)(2), Panevina AV(1),
+Popov ES(3), Popov VN(1)(2).
+
+Author information: 
+(1)Department of Genetics, Cytology and Bioengineering, Voronezh State
+University, 394018 Voronezh, Russia.
+(2)Laboratory of Metagenomics and Food Biotechnology, Voronezh State University
+of Engineering Technologies, 394036 Voronezh, Russia.
+(3)Department of Service and Restaurant Business, Voronezh State University of
+Engineering Technologies, 394036 Voronezh, Russia.
+
+Microbial contamination of dairy products with a high fat content (e.g., butter) 
+has been studied insufficiently. No studies using modern molecular methods to
+investigate microbial communities in butter have been conducted so far. In this
+work, we used high-throughput sequencing and Sanger sequencing of individual
+bacterial colonies to analyze microbial content of commercially available butter 
+brands. A total of 21 samples of commercially available butter brands were
+analyzed. We identified a total of 94 amplicon sequence variants corresponding to
+different microbial taxa. The most abundant lactic acid bacteria in butter were
+Lactobacillus kefiri, Lactobacillus parakefiri, Lactococcus taiwanensis and
+Lactococcus raffinolactis. A large amount of Streptococcus spp. bacteria (87.9%
+of all identified bacteria) was found in one of the butter samples. Opportunistic
+pathogens such as Bacillus cereus group, Pseudomonas aeruginosa, Cronobacter
+spp., Escherichia coli, Listeria innocua, Citrobacter spp., Enterococcus spp.,
+Klebsiella pneumonia were detected. The analyzed butter samples were most
+strongly contaminated with bacteria from the Bacillus cereus group, and to a
+lesser extent - with Cronobacter spp. and Enterococcus spp. The plating and
+Sanger sequencing of individual colonies revealed the presence of Enterobacter
+cloacae and Staphylococcus epidermidis. The Sanger sequencing also showed the
+presence of Cronobacter sakazakii in butter which can be dangerous for children
+under the age of 1 year. We demonstrated that butter is a good growth medium for 
+opportunistic pathogenic bacteria. Our data indicate that despite the fact that
+butter is a dairy product with a long shelf life, it should be subjected to
+quality control for the presence of opportunistic bacteria.
+
+DOI: 10.3390/foods9050608 
+PMCID: PMC7278763
+PMID: 32397488 
+

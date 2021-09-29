@@ -1,0 +1,76 @@
+
+1. BMJ Open. 2020 May 11;10(5):e038300. doi: 10.1136/bmjopen-2020-038300.
+
+Bacteremia Antibiotic Length Actually Needed for Clinical Effectiveness (BALANCE)
+randomised clinical trial: study protocol.
+
+Daneman N(1), Rishu AH(2), Pinto RL(3), Arabi YM(4), Cook DJ(5), Hall R(6),
+McGuinness S(7), Muscedere J(8), Parke R(9), Reynolds S(10), Rogers B(11),
+Shehabi Y(12), Fowler RA(13); Canadian Critical Care Trials Group.
+
+Author information: 
+(1)Division of Infectious Diseases & Clinical Epidemiology, Sunnybrook Health
+Sciences Centre, University of Toronto, Toronto, Ontario, Canada
+Nick.Daneman@sunnybrook.ca.
+(2)Institute for Clinical Evaluative Sciences, Sunnybrook Health Sciences Centre,
+Toronto, Ontario, Canada.
+(3)Department of Critical Care Medicine, Sunnybrook Health Sciences Centre,
+Toronto, Ontario, Canada.
+(4)Intensive Care Department, King Saud Bin Abdulaziz University for Health
+Sciences, Riyadh, Saudi Arabia.
+(5)McMaster University, Hamilton, Ontario, Canada.
+(6)Departments of Critical Care Medicine and Anesthesiology, Pain Management and 
+Perioperative Medicine, Dalhousie University, Halifax, Nova Scotia, Canada.
+(7)Auckland City Hospital, Auckland, New Zealand.
+(8)Kingston General Hospital, Kingston, Ontario, Canada.
+(9)The University of Auckland, Auckland, New Zealand.
+(10)Royal Columbian Hospital, New Westminster, British Columbia, Canada.
+(11)Centre for Inflammatory Diseases, Monash University School of Clinical
+Sciences, Melborne, Victoria, Australia.
+(12)Critical Care and Perioperative Medicine, School of Clinical Sciences, Monash
+University and Monash Health, Melbourne, Victoria, Australia.
+(13)Departments of Medicine and Critical Care Medicine, Sunnybrook Health
+Sciences Centre, Toronto, Ontario, Canada.
+
+INTRODUCTION: Bloodstream infections are a leading cause of mortality and
+morbidity; the duration of treatment for these infections is understudied.
+METHODS AND ANALYSIS: We will conduct an international, multicentre randomised
+clinical trial of shorter (7 days) versus longer (14 days) antibiotic treatment
+among hospitalised patients with bloodstream infections. The trial will include
+3626 patients across 60 hospitals and 6 countries. We will include patients with 
+blood cultures confirming a pathogenic bacterium after hospital admission.
+Exclusion criteria will include patient factors (severe immunosuppression),
+infection site factors (endocarditis, osteomyelitis, undrained abscesses,
+infected prosthetic material) and pathogen factors (Staphylococcus aureus,
+Staphylococcus lugdunensis, Candida and contaminant organisms). We will leave the
+selection of specific antibiotics, doses and route of delivery to the discretion 
+of treating physicians; no placebo control will be used given the diversity of
+pathogens and sources of bacteraemia. The intervention will be assignment of
+treatment duration to be 7 versus 14 days. We will minimise selection bias via
+central randomisation with variable block sizes, with concealed allocation until 
+day 7 of adequate antibiotic treatment. The primary outcome is 90-day survival;
+we will test whether 7 days is non-inferior to 14 days of treatment, with a
+non-inferiority margin of 4% absolute mortality. Secondary outcomes include
+hospital and intensive care unit (ICU) mortality, relapse rates of bacteraemia,
+hospital and ICU length of stay, mechanical ventilation and vasopressor duration,
+antibiotic-free days, Clostridium difficile infection, antibiotic allergy and
+adverse events and colonisation/infection with antibiotic-resistant organisms.
+ETHICS AND DISSEMINATION: The study has been approved by the ethics review board 
+at each participating site. Sunnybrook Health Sciences Centre is the central
+ethics committee. We will disseminate study results via the Canadian Critical
+Care Trials Group and other collaborating networks to set the global paradigm for
+antibiotic treatment duration for non-staphylococcal Gram-positive, Gram-negative
+and anaerobic bacteraemia, among patients admitted to hospital.
+TRIAL REGISTRATION NUMBER: The BALANCE (Bacteremia Antibiotic Length Actually
+Needed for Clinical Effectiveness) trial was registered at www.clinicaltrials.gov
+(registration number: NCT03005145).
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2020-038300 
+PMCID: PMC7223357
+PMID: 32398341 
+
+Conflict of interest statement: Competing interests: None declared.
+

@@ -1,0 +1,44 @@
+
+1. Antonie Van Leeuwenhoek. 2020 Jul;113(7):973-987. doi:
+10.1007/s10482-020-01404-7. Epub 2020 Apr 11.
+
+Brevibacillus fortis NRS-1210 produces edeines that inhibit the in vitro growth
+of conidia and chlamydospores of the onion pathogen Fusarium oxysporum f. sp.
+cepae.
+
+Johnson ET(1), Bowman MJ(2), Dunlap CA(3).
+
+Author information: 
+(1)Crop Bioprotection Research Unit, USDA ARS, 1815 N. University St., Peoria,
+IL, 61604, USA. eric.johnson2@usda.gov.
+(2)Bioenergy Research Unit, USDA ARS, 1815 N. University St., Peoria, IL, 61604, 
+USA.
+(3)Crop Bioprotection Research Unit, USDA ARS, 1815 N. University St., Peoria,
+IL, 61604, USA.
+
+Onions can be damaged by Fusarium basal rot caused by the soilborne fungus
+Fusarium oxysporum f. sp. cepae (FOC). Control of this pathogen is challenging
+since there is limited genetic resistance in onion. The identification of
+molecules that inhibit this pathogen is needed. Antagonism screening showed
+Brevibacillus fortis NRS-1210 secreted antifungal compounds into growth medium.
+The spent growth medium, diluted 1:1, inhibited growth of FOC conidia after seven
+hours and killed 67-91% of conidia after 11 h. The spent medium also inhibited
+growth of propagules from F. graminearum, F. proliferatum, F. verticillioides and
+Galactomyces citri-aurantii. Full strength spent growth medium did not
+effectively kill FOC conidia and chlamydospores inoculated into a sand cornmeal
+mixture. In silico analysis of the B. fortis NRS-1210 genome indicated the
+biosynthetic clusters of several antibiotics. Fractionation of spent medium
+followed by reverse-phase liquid chromatography with tandem mass spectrometry
+analysis found that fractions with the most antifungal activity contained a
+combination of edeines A, B and F and no other recognized antibiotics. 1H NMR
+signals of the active fraction corresponded to edeine, a pentapeptide with broad 
+spectrum antimicrobial activity which blocks translation in both prokaryotes and 
+eukaryotes. Comparative genomics of Brevibacillus genomes shows edeine producers 
+form a clade which consists of: Brevibacillus brevis, Brevibacillus formosus,
+'Brevibacillus antibioticus', Brevibacillus schisleri, Brevibacillus fortis, and 
+Brevibacillus porteri. This observation suggests edeine played an important role 
+in the evolution and speciation of the Brevibacillus genus.
+
+DOI: 10.1007/s10482-020-01404-7 
+PMID: 32279200 
+

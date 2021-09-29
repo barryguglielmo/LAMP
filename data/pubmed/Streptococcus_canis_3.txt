@@ -1,0 +1,38 @@
+
+1. Nat Biotechnol. 2020 May 11. doi: 10.1038/s41587-020-0517-0. [Epub ahead of
+print]
+
+An engineered ScCas9 with broad PAM range and high specificity and activity.
+
+Chatterjee P(1)(2), Jakimo N(3)(4), Lee J(5), Amrani N(5), Rodríguez T(5), Koseki
+SRT(3)(4), Tysinger E(3)(4), Qing R(4), Hao S(4), Sontheimer EJ(5), Jacobson
+J(3)(4).
+
+Author information: 
+(1)MIT Center for Bits and Atoms, Massachusetts Institute of Technology,
+Cambridge, MA, USA. pranam@mit.edu.
+(2)MIT Media Lab, Massachusetts Institute of Technology, Cambridge, MA, USA.
+pranam@mit.edu.
+(3)MIT Center for Bits and Atoms, Massachusetts Institute of Technology,
+Cambridge, MA, USA.
+(4)MIT Media Lab, Massachusetts Institute of Technology, Cambridge, MA, USA.
+(5)RNA Therapeutics Institute, University of Massachusetts Medical School,
+Worcester, MA, USA.
+
+Erratum in
+    Nat Biotechnol. 2020 Jun 19;:.
+
+Comment in
+    Nat Methods. 2020 Jun;17(6):559.
+
+CRISPR enzymes require a protospacer-adjacent motif (PAM) near the target
+cleavage site, constraining the sequences accessible for editing. In the present 
+study, we combine protein motifs from several orthologs to engineer two variants 
+of Streptococcus canis Cas9-Sc++ and a higher-fidelity mutant HiFi-Sc++-that have
+simultaneously broad 5'-NNG-3' PAM compatibility, robust DNA-cleavage activity
+and minimal off-target activity. Sc++ and HiFi-Sc++ extend the use of CRISPR
+editing for diverse applications.
+
+DOI: 10.1038/s41587-020-0517-0 
+PMID: 32393822 
+

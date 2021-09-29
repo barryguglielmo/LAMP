@@ -1,0 +1,50 @@
+
+1. Gut. 2020 Sep;69(9):1572-1580. doi: 10.1136/gutjnl-2019-319826. Epub 2020 Jan 23.
+
+Gastric microbes associated with gastric inflammation, atrophy and intestinal
+metaplasia 1 year after Helicobacter pylori eradication.
+
+Sung JJY(1), Coker OO(2), Chu E(2), Szeto CH(2), Luk STY(2), Lau HCH(2), Yu J(2).
+
+Author information: 
+(1)Department of Medicine and Therapeutics, Chinese University of Hong Kong, New 
+Territories, Hong Kong jjysung@cuhk.edu.hk.
+(2)Department of Medicine and Therapeutics, Chinese University of Hong Kong, New 
+Territories, Hong Kong.
+
+OBJECTIVE: Helicobacter pylori is associated with gastric inflammation,
+precancerous gastric atrophy (GA) and intestinal metaplasia (IM). We aimed to
+identify microbes that are associated with progressive inflammation, GA and IM
+1 year after H. pylori eradication.
+DESIGN: A total of 587 H. pylori-positive patients were randomised to receive H. 
+pylori eradication therapy (295 patients) or placebo (292 patients). Bacterial
+taxonomy was analysed on 404 gastric biopsy samples comprising 102 pairs before
+and after 1 year H. pylori eradication and 100 pairs before and after 1 year
+placebo by 16S rRNA sequencing.
+RESULTS: Analysis of microbial sequences confirmed the eradication of H. pylori
+in treated group after 1 year. Principal component analysis revealed distinct
+microbial clusters reflected by increase in bacterial diversity (p<0.00001) after
+H. pylori eradication. While microbial interactions remained largely unchanged
+after placebo treatment, microbial co-occurrence was less in treated group.
+Acinetobacter lwoffii, Streptococcus anginosus and Ralstonia were enriched while 
+Roseburia and Sphingomonas were depleted in patients with persistent inflammation
+1 year after H. pylori eradication. A distinct cluster of oral bacteria
+comprising Peptostreptococcus, Streptococcus, Parvimonas, Prevotella, Rothia and 
+Granulicatella were associated with emergence and persistence of GA and IM.
+Probiotic Faecalibacterium praustznii was depleted in subjects who developed GA
+following H. pylori eradication. Functional pathways including amino acid
+metabolism and inositol phosphate metabolism were enriched while folate
+biosynthesis and NOD-like receptor signalling decreased in atrophy/IM-associated 
+gastric microbiota.
+CONCLUSION: This study identified that gastric microbes contribute to the
+progression of gastric carcinogenesis after H. pylori eradication.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/gutjnl-2019-319826 
+PMCID: PMC7456733
+PMID: 31974133 
+
+Conflict of interest statement: Competing interests: None declared.
+

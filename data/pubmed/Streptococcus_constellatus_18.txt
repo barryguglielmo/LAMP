@@ -1,0 +1,51 @@
+
+1. Microb Drug Resist. 2020 Jul;26(7):727-731. doi: 10.1089/mdr.2019.0288. Epub 2020
+Feb 7.
+
+Paradoxical High-Level Spiramycin Resistance and Erythromycin Susceptibility due 
+to 23S rRNA Mutation in Streptococcus constellatus.
+
+Capitaine A(1), Woerther PL(2), Auzou M(1), Chachaty E(3), Guérin F(1)(4), Giard 
+JC(5), Cattoir V(6)(7), Isnard C(1)(4).
+
+Author information: 
+(1)Service de Microbiologie, UNICAEN, CHU de CAEN Normandie, Normandie
+University, Caen, France.
+(2)Département de Microbiologie, Assistance Publique-Hôpitaux de Paris, Hôpital
+Henri Mondor, Unité de Bactériologie-Hygiène, Créteil, France.
+(3)Service de Microbiologie, Institut Gustave Roussy APHP, Villejuif, France.
+(4)UNICAEN/UNIROUEN, EA2656 GRAM2.0, Normandie University, Caen, France.
+(5)UNICAEN, EA4655 U2RM, Normandie University, Caen, France.
+(6)Centre Hospitalier Universitaire de Rennes, Site Pontchaillou, Rennes, France.
+(7)CNR de la Résistance aux Antibiotiques, Laboratoire Associé "Entérocoques et
+Résistances Particulières Chez les Bactéries à Gram Positif," Rennes, France.
+
+Objectives: The aim of the study was to characterize phenotypically and
+genotypically an uncommon mechanism of resistance to macrolides, lincosamides,
+and streptogramins (MLS) in a Streptococcus milleri group clinical isolate.
+Materials and Methods: The isolate UCN96 was recovered from an osteoradionecrosis
+wound, and was identified using the matrix assisted laser desorption
+ionization-time of flight (MALDI-TOF) mass spectrometry and the partial
+sequencing of the sodA gene. Antimicrobial susceptibility testing were carried
+out by the disk diffusion method and minimal inhibitory concentrations (MICs)
+were determined by the broth microdilution technique. PCR screening was performed
+for MLS resistance genes described in Gram-positive bacteria. Specific mutations 
+in the ribosomal proteins L3-, L4-, and L22-encoding genes were also screened and
+those in domain V of the 23S rRNA gene (rrl). The number of mutated copies of the
+rrl gene was determined using amplification-refractory mutation system
+quantitative-polymerase chain reaction (qPCR) analysis. Results: The clinical
+isolate UCN96 was unambiguously identified as Streptococcus constellatus. It was 
+susceptible to all macrolides and lincosamides (ML) antibiotics except spiramycin
+(MIC >256 mg/L) while it was also resistant to streptogramins. Screening for all 
+acquired resistance genes was negative and no mutation was found in genes coding 
+for L3, L4, and L22 ribosomal proteins. Of interest, a single mutation, A2062C
+(according to Escherichia coli numbering), was detected in the domain V of 23S
+rRNA. Conclusion: Mutations at the position 2062 of 23S rRNA have been detected
+once in Streptococcus pneumoniae, and not yet in other Streptococcus spp. This
+mechanism is very likely uncommon in Gram-positive bacteria because different
+copies of 23S rRNA operons should be mutated for development of such a resistance
+pattern.
+
+DOI: 10.1089/mdr.2019.0288 
+PMID: 32031922 
+

@@ -1,0 +1,48 @@
+
+1. mSystems. 2020 Jun 16;5(3). pii: e00149-20. doi: 10.1128/mSystems.00149-20.
+
+Strain-Level Diversity Impacts Cheese Rind Microbiome Assembly and Function.
+
+Niccum BA(1), Kastman EK(1), Kfoury N(2), Robbat A Jr(2), Wolfe BE(3).
+
+Author information: 
+(1)Tufts University, Department of Biology, Medford, Massachusetts, USA.
+(2)Tufts University, Department of Chemistry, Medford, Massachusetts, USA.
+(3)Tufts University, Department of Biology, Medford, Massachusetts, USA
+benjamin.wolfe@tufts.edu.
+
+Diversification can generate genomic and phenotypic strain-level diversity within
+microbial species. This microdiversity is widely recognized in populations, but
+the community-level consequences of microbial strain-level diversity are poorly
+characterized. Using the cheese rind model system, we tested whether strain
+diversity across microbiomes from distinct geographic regions impacts assembly
+dynamics and functional outputs. We first isolated the same three bacterial
+species (Staphylococcus equorum, Brevibacterium auranticum, and Brachybacterium
+alimentarium) from nine cheeses produced in different regions of the United
+States and Europe to construct nine synthetic microbial communities consisting of
+distinct strains of the same three bacterial species. Comparative genomics
+identified distinct phylogenetic clusters and significant variation in genome
+content across the nine synthetic communities. When we assembled each synthetic
+community with initially identical compositions, community structure diverged
+over time, resulting in communities with different dominant taxa. The
+taxonomically identical communities showed differing responses to abiotic (high
+salt) and biotic (the fungus Penicillium) perturbations, with some communities
+showing no response and others substantially shifting in composition. Functional 
+differences were also observed across the nine communities, with significant
+variation in pigment production (light yellow to orange) and in composition of
+volatile organic compound profiles emitted from the rinds (nutty to
+sulfury).IMPORTANCE Our work demonstrated that the specific microbial strains
+used to construct a microbiome could impact the species composition, perturbation
+responses, and functional outputs of that system. These findings suggest that 16S
+rRNA gene taxonomic profiles alone may have limited potential to predict the
+dynamics of microbial communities because they usually do not capture
+strain-level diversity. Observations from our synthetic communities also suggest 
+that strain-level diversity has the potential to drive variability in the
+aesthetics and quality of surface-ripened cheeses.
+
+Copyright © 2020 Niccum et al.
+
+DOI: 10.1128/mSystems.00149-20 
+PMCID: PMC7300356
+PMID: 32546667 
+

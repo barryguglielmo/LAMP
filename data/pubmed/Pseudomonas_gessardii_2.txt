@@ -1,0 +1,39 @@
+
+1. Genome Biol Evol. 2019 Dec 1;11(12):3529-3533. doi: 10.1093/gbe/evz267.
+
+A Rare Thioquinolobactin Siderophore Present in a Bioactive Pseudomonas sp.
+DTU12.1.
+
+Sazinas P(1), Hansen ML(1), Aune MI(1), Fischer MH(1), Jelsbak L(1).
+
+Author information: 
+(1)Department of Biotechnology and Biomedicine, Technical University of Denmark, 
+Kongens Lyngby, Denmark.
+
+Many of the soil-dwelling Pseudomonas species are known to produce secondary
+metabolite compounds, which can have antagonistic activity against other
+microorganisms, including important plant pathogens. It is thus of importance to 
+isolate new strains of Pseudomonas and discover novel or rare gene clusters
+encoding bioactive products. In an effort to accomplish this, we have isolated a 
+bioactive Pseudomonas strain DTU12.1 from leaf-covered soil in Denmark. Following
+genome sequencing with Illumina and Oxford Nanopore technologies, we generated a 
+complete genome sequence with the length of 5,943,629 base pairs. The DTU12.1
+strain contained a complete gene cluster for a rare thioquinolobactin
+siderophore, which was previously described as possessing bioactivity against
+oomycetes and several fungal species. We placed the DTU12.1 strain within
+Pseudomonas gessardii subgroup of fluorescent pseudomonads, where it formed a
+distinct clade with other Pseudomonas strains, most of which also contained a
+complete thioquinolobactin gene cluster. Only two other Pseudomonas strains were 
+found to contain the gene cluster, though they were present in a different
+phylogenetic clade and were missing a transcriptional regulator of the whole
+cluster. We show that having the complete genome sequence and establishing
+phylogenetic relationships with other strains can enable us to start evaluating
+the distribution and evolutionary origins of secondary metabolite clusters.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the
+Society for Molecular Biology and Evolution.
+
+DOI: 10.1093/gbe/evz267 
+PMCID: PMC6934138
+PMID: 31800028  [Indexed for MEDLINE]
+

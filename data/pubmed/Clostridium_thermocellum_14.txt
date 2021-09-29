@@ -1,0 +1,49 @@
+
+1. Prep Biochem Biotechnol. 2020;50(9):883-896. doi: 10.1080/10826068.2020.1762214. 
+Epub 2020 May 19.
+
+Assessment of combination of pretreatment of Sorghum durra stalk and production
+of chimeric enzyme (β-glucosidase and endo β-1,4 glucanase, CtGH1-L1-CtGH5-F194A)
+and cellobiohydrolase (CtCBH5A) for saccharification to produce bioethanol.
+
+Nedumaran M(1), Singh S(1)(2), Jamaldheen SB(2)(3), Nath P(1)(2), Moholkar
+VS(3)(4), Goyal A(1)(2)(3).
+
+Author information: 
+(1)Carbohydrate Enzyme Biotechnology Laboratory, Department of Biosciences and
+Bioengineering, Indian Institute of Technology Guwahati, Guwahati, India.
+(2)DBT PAN-IIT Centre for Bioenergy, Indian Institute of Technology Guwahati,
+Guwahati, India.
+(3)Centre for Energy, Indian Institute of Technology Guwahati, Guwahati, India.
+(4)Department of Chemical Engineering, Indian Institute of Technology Guwahati,
+Guwahati, India.
+
+Optimization of pretreatment and saccharification of Sorghum durra stalk (Sds)
+was carried out. The chimeric enzyme (CtGH1-L1-CtGH5-F194A) having β-glucosidase 
+(CtGH1) and endo β-1,4 glucanase activity (CtGH5-F194A) and cellobiohydrolase
+(CtCBH5A) from Clostridium thermocellum were used for saccharification. Chimeric 
+enzyme will save production cost of two enzymes, individually. Stage 2
+pretreatment by 1% (w/v) NaOH assisted autoclaving + 1.5% (v/v) dilute H2SO4
+assisted oven heating gave lower total sugar yield (366.6 mg/g of pretreated Sds)
+and total glucose yield (195 mg/g of pretreated Sds) in pretreated hydrolysate
+with highest crystallinity index 55.6% than the other stage 2 pretreatments.
+Optimized parameters for saccharification of above stage 2 pretreated biomass
+were 3% (w/v) biomass concentration, enzyme (chimera: cellobiohydrolase) ratio,
+2:3 (U/g) of biomass, total enzyme loading (350 U/g of pretreated biomass), 24 h 
+and 30 °C. Best stage 2 pretreated Sds under optimized enzyme saccharification
+conditions gave maximum total reducing sugar yield 417 mg/g and glucose yield
+285 mg/g pretreated biomass in hydrolysate. Best stage 2 pretreated Sds showed
+significantly higher cellulose, 71.3% and lower lignin, 2.0% and hemicellulose,
+12.2% (w/w) content suggesting the effectiveness of method. This hydrolysate upon
+SHF using Saccharomyces cerevisiae under unoptimized conditions produced ethanol 
+yield, 0.12 g/g of glucose. Abbreviation: Ct-Clostridium thermocellum,
+Sds-Sorghum durra stalk, TRS-Total reducing sugar, HPLC-High performance liquid
+chromatography, RI-Refractive index, ADL-acid insoluble lignin, GYE-Glucose yeast
+extract, MGYP-Malt glucose yeast extract peptone, SHF-separate hydrolysis and
+fermentation, OD-Optical density, PVDF-Poly vinylidene fluoride, TS-total sugar, 
+FESEM-Field emission scanning electron microscopy, XRD-X-ray diffraction,
+FTIR-Fourier transform infra-red spectroscopy and CrI-Crystallinity index.
+
+DOI: 10.1080/10826068.2020.1762214 
+PMID: 32425106 
+

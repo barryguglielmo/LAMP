@@ -1,0 +1,38 @@
+
+1. J Am Chem Soc. 2020 Jul 15;142(28):12409-12419. doi: 10.1021/jacs.0c04964. Epub
+2020 Jul 6.
+
+Investigation of the Unusual Ability of the [FeFe] Hydrogenase from Clostridium
+beijerinckii to Access an O2-Protected State.
+
+Corrigan PS(1), Tirsch JL(1), Silakov A(1).
+
+Author information: 
+(1)The Pennsylvania State University, 104 Chemistry Building, University Park,
+Pennsylvania 16802, United States.
+
+[FeFe] hydrogenases are enzymes capable of producing and oxidizing H2 at
+staggering submillisecond time scales. A major limitation in applying these
+enzymes for industrial hydrogen production is their irreversible inactivation by 
+oxygen. Recently, an [FeFe] hydrogenase from Clostridium beijerinckii (CbHydA1)
+was reported to regain its catalytic activity after exposure to oxygen. In this
+report, we have determined that artificially matured CbHydA1 is indeed oxygen
+tolerant in the absence of reducing agents and sulfides by means of reaching an
+O2-protected state (Hinact). We were also able to generate the Hinact state
+anaerobically via both chemical and electrochemical oxidation. We use a
+combination of spectroscopy, electrochemistry, and density functional theory
+(DFT) to uncover intrinsic properties of the active center of CbHydA1, leading to
+its unprecedented oxygen tolerance. We have observed that reversible,
+low-potential oxidation of the active center leads to the protection against
+O2-induced degradation. The transition between the active oxidized state (Hox)
+and the Hinact state appears to proceed without any detectable intermediates. We 
+found that the Hinact state is stable for more than 40 h in air, highlighting the
+remarkable resilience of CbHydA1 to oxygen. Using a combination of DFT and FTIR, 
+we also provide a hypothesis for the chemical identity of the Hinact state. These
+results demonstrate that CbHydA1 has remarkable stability in the presence of
+oxygen, which will drive future efforts to engineer more robust catalysts for
+biofuel production.
+
+DOI: 10.1021/jacs.0c04964 
+PMID: 32580545 
+

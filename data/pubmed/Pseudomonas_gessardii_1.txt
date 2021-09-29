@@ -1,0 +1,48 @@
+
+1. Mar Drugs. 2020 May 20;18(5). pii: E269. doi: 10.3390/md18050269.
+
+Characterization of a New Mixture of Mono-Rhamnolipids Produced by Pseudomonas
+gessardii Isolated from Edmonson Point (Antarctica).
+
+Buonocore C(1), Tedesco P(1)(2), Vitale GA(1), Esposito FP(3), Giugliano R(4),
+Monti MC(5), D'Auria MV(6), de Pascale D(1)(3).
+
+Author information: 
+(1)Institute of Biochemistry and Cell Biology, National Research Council, 80131
+Naples, Italy.
+(2)Current address: TBI-INSA, 135 Avenue de Rangueil, 31400 Toulouse, France.
+(3)Department of Marine Biotechnology, Stazione Zoologica Anton Dohrn, Villa
+Comunale, 80125 Naples, Italy.
+(4)Department of Experimental Medicine, University of Campania "Luigi
+Vanvitelli", 80138 Naples, Italy.
+(5)Department of Pharmacy, University of Salerno, 84084 Salerno, Italy.
+(6)Department of Pharmacy, University of Naples "Federico II", 80131 Naples,
+Italy.
+
+Rhamnolipids (RLs) are surface-active molecules mainly produced by Pseudomonas
+spp. Antarctica is one of the less explored places on Earth and bioprospecting
+for novel RL producer strains represents a promising strategy for the discovery
+of novel structures. In the present study, 34 cultivable bacteria isolated from
+Edmonson Point Lake, Ross Sea, Antarctica were subjected to preliminary screening
+for the biosurfactant activity. The positive strains were identified by 16S rRNA 
+gene sequencing and the produced RLs were characterized by liquid chromatography 
+coupled to high resolution mass spectrometry (LC-HRESIMS) and liquid
+chromatography coupled with tandem spectrometry (LC-MS/MS), resulting in a new
+mixture of 17 different RL congeners, with six previously undescribed RLs. We
+explored the influence of the carbon source on the RL composition using 12
+different raw materials, such as monosaccharides, polysaccharides and petroleum
+industry derivatives, reporting for the first time the production of RLs using,
+as sole carbon source, anthracene and benzene. Moreover, we investigated the
+antimicrobial potential of the RL mixture, towards a panel of both Gram-positive 
+and Gram-negative pathogens, reporting very interesting results towards Listeria 
+monocytogenes with a minimum inhibitory concentration (MIC) value of 3.13 µg/mL. 
+Finally, we report for the first time the antimicrobial activity of RLs towards
+three strains of the emerging multidrug resistant Stenotrophomonas maltophilia
+with MIC values of 12.5 µg/ml.
+
+DOI: 10.3390/md18050269 
+PMCID: PMC7281774
+PMID: 32443698 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

@@ -1,0 +1,65 @@
+
+1. J Vasc Surg. 2020 Apr;71(4):1378-1389.e3. doi: 10.1016/j.jvs.2019.06.208. Epub
+2020 Feb 5.
+
+Microbiota composition modulates inflammation and neointimal hyperplasia after
+arterial angioplasty.
+
+Cason CA(1), Kuntz TM(2), Chen EB(1), Wun K(1), Nooromid MJ(1), Xiong L(1),
+Gottel NR(2), Harris KG(3), Morton TC(4), Avram MJ(5), Chang EB(3), Gilbert
+JA(2), Ho KJ(6).
+
+Author information: 
+(1)Department of Surgery, Northwestern University Feinberg School of Medicine,
+Chicago, Ill.
+(2)Department of Surgery, University of Chicago, Chicago, Ill.
+(3)Department of Medicine, University of Chicago, Chicago, Ill.
+(4)Department of Ecology and Evolution, University of Chicago, Chicago, Ill.
+(5)Department of Anesthesiology, Mary Beth Donnelley Clinical Pharmacology Core
+Facility, Northwestern University Feinberg School of Medicine, Chicago, Ill.
+(6)Department of Surgery, Northwestern University Feinberg School of Medicine,
+Chicago, Ill. Electronic address: kho1@nm.org.
+
+Comment in
+    J Vasc Surg. 2020 Apr;71(4):1390.
+
+BACKGROUND: Neointimal hyperplasia is a major contributor to restenosis after
+arterial interventions, but the genetic and environmental mechanisms underlying
+the variable propensity for neointimal hyperplasia between individuals, including
+the role of commensal microbiota, are not well understood. We sought to
+characterize how shifting the microbiome using cage sharing and bedding mixing
+between rats with differing restenosis phenotypes after carotid artery balloon
+angioplasty could alter arterial remodeling.
+METHODS: We co-housed and mixed bedding between genetically distinct rats (Lewis 
+[LE] and Sprague-Dawley [SD]) that harbor different commensal microbes and that
+are known to have different neointimal hyperplasia responses to carotid artery
+balloon angioplasty. Sequencing of the 16S ribosomal RNA gene was used to monitor
+changes in the gut microbiome.
+RESULTS: There were significant differences in neointimal hyperplasia between
+non-co-housed LE and SD rats 14 days after carotid artery angioplasty (mean
+intima + media [I + M] area, 0.117 ± 0.014 mm2 LE vs 0.275 ± 0.021 mm2 SD; P <
+.001) that were diminished by co-housing. Co-housing also altered local
+adventitial Ki67 immunoreactivity, local accumulation of leukocytes and
+macrophages (total and M2), and interleukin 17A concentration 3 days after
+surgery in each strain. Non-co-housed SD and LE rats had microbiomes
+distinguished by both weighted (P = .012) and unweighted (P < .001) UniFrac beta 
+diversity distances, although without significant differences in alpha diversity.
+The difference in unweighted beta diversity between the fecal microbiota of SD
+and LE rats was significantly reduced by co-housing. Operational taxonomic units 
+that significantly correlated with average I + M area include Parabacteroides
+distasonis, Desulfovibrio, Methanosphaera, Peptococcus, and Prevotella. Finally, 
+serum concentrations of microbe-derived metabolites hydroxyanthranilic acid and
+kynurenine/tryptophan ratio were significantly associated with I + M area in both
+rat strains independent of co-housing.
+CONCLUSIONS: We describe a novel mechanism for how microbiome manipulations
+affect arterial remodeling and the inflammatory response after arterial injury. A
+greater understanding of the host inflammatory-microbe axis could uncover novel
+therapeutic targets for the prevention and treatment of restenosis.
+
+Copyright © 2019 Society for Vascular Surgery. Published by Elsevier Inc. All
+rights reserved.
+
+DOI: 10.1016/j.jvs.2019.06.208 
+PMCID: PMC7096256 [Available on 2021-04-01]
+PMID: 32035769  [Indexed for MEDLINE]
+

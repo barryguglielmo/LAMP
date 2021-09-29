@@ -1,0 +1,39 @@
+
+1. ISME J. 2020 Sep 30. doi: 10.1038/s41396-020-00789-7. [Epub ahead of print]
+
+Direct interactions with commensal streptococci modify intercellular
+communication behaviors of Streptococcus mutans.
+
+Kaspar JR(1)(2), Lee K(3), Richard B(3), Walker AR(3), Burne RA(3).
+
+Author information: 
+(1)Department of Oral Biology, College of Dentistry, University of Florida,
+Gainesville, FL, USA. Kaspar.17@osu.edu.
+(2)Division of Biosciences, College of Dentistry, Ohio State University,
+Columbus, OH, USA. Kaspar.17@osu.edu.
+(3)Department of Oral Biology, College of Dentistry, University of Florida,
+Gainesville, FL, USA.
+
+The formation of dental caries is a complex process that ultimately leads to
+damage of the tooth enamel from acids produced by microbes in attached biofilms. 
+The bacterial interactions occurring within these biofilms between cariogenic
+bacteria, such as the mutans streptococci, and health-associated commensal
+streptococci, are thought to be critical determinants of health and disease. To
+better understand these interactions, a Streptococcus mutans reporter strain that
+actively monitors cell-cell communication via peptide signaling was cocultured
+with different commensal streptococci. Signaling by S. mutans, normally highly
+active in monoculture, was completely inhibited by several species of commensals,
+but only when the bacteria were in direct contact with S. mutans. We identified a
+novel gene expression pattern that occurred in S. mutans when cultured directly
+with these commensals. Finally, mutant derivatives of commensals lacking
+previously shown antagonistic gene products displayed wild-type levels of signal 
+inhibition in cocultures. Collectively, these results reveal a novel pathway(s)
+in multiple health-associated commensal streptococci that blocks peptide
+signaling and induces a common contact-dependent pattern of differential gene
+expression in S. mutans. Understanding the molecular basis for this inhibition
+will assist in the rational design of new risk assessments, diagnostics, and
+treatments for the most pervasive oral infectious diseases.
+
+DOI: 10.1038/s41396-020-00789-7 
+PMID: 32999420 
+

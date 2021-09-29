@@ -1,0 +1,61 @@
+
+1. J Microbiol. 2020 Sep;58(9):772-779. doi: 10.1007/s12275-020-0292-0. Epub 2020
+Sep 1.
+
+Structural insights into the psychrophilic germinal protease PaGPR and its
+autoinhibitory loop.
+
+Lee CW(1), Lee S(2)(3), Jeong CS(1)(4), Hwang J(1)(4), Chang JH(5), Choi IG(3),
+Kim TD(6), Park H(7), Kim HY(8)(9), Lee JH(10)(11).
+
+Author information: 
+(1)Unit of Research for Practical Application, Korea Polar Research Institute,
+Incheon, 21990, Republic of Korea.
+(2)Research Center for Bioconvergence Analysis, Korea Basic Science Institute,
+Chungbuk, 34133, Republic of Korea.
+(3)Department of Biotechnology, College of Life Sciences and Biotechnology, Korea
+University, Seoul, 02841, Republic of Korea.
+(4)Department of Polar Sciences, University of Science and Technology, Incheon,
+21990, Republic of Korea.
+(5)Department of Biology Education, Kyungpook National University, Daegu, 41566, 
+Republic of Korea.
+(6)Department of Chemistry, College of Natural Science, Sookmyung Woman's
+University, Seoul, 04310, Republic of Korea.
+(7)X-Ray Core, The Scripps Research Institute, Scripps Florida, 130 Scripps Way
+#1A1, Jupiter, FL, 33458, USA. hajpark@scripps.edu.
+(8)Research Center for Bioconvergence Analysis, Korea Basic Science Institute,
+Chungbuk, 34133, Republic of Korea. hyeyeon@kbsi.re.kr.
+(9)Center for Convergent Research of Emerging Virus Infection (CEVI), Korea
+Research Institute of Chemical Technology, Daejeon, 34114, Republic of Korea.
+hyeyeon@kbsi.re.kr.
+(10)Unit of Research for Practical Application, Korea Polar Research Institute,
+Incheon, 21990, Republic of Korea. junhyucklee@kopri.re.kr.
+(11)Department of Polar Sciences, University of Science and Technology, Incheon, 
+21990, Republic of Korea. junhyucklee@kopri.re.kr.
+
+In spore forming microbes, germination protease (GPR) plays a key role in the
+initiation of the germination process. A critical step during germination is the 
+degradation of small acid-soluble proteins (SASPs), which protect spore DNA from 
+external stresses (UV, heat, low temperature, etc.). Inactive zymogen GPR can be 
+activated by autoprocessing of the N-terminal pro-sequence domain. Activated GPR 
+initiates the degradation of SASPs; however, the detailed mechanisms underlying
+the activation, catalysis, regulation, and substrate recognition of GPR remain
+elusive. In this study, we determined the crystal structure of GPR from
+Paenisporosarcina sp. TG-20 (PaGPR) in its inactive form at a resolution of 2.5
+A. Structural analysis showed that the active site of PaGPR is sterically
+occluded by an inhibitory loop region (residues 202-216). The N-terminal region
+interacts directly with the self-inhibitory loop region, suggesting that the
+removal of the N-terminal pro-sequence induces conformational changes, which lead
+to the release of the self-inhibitory loop region from the active site. In
+addition, comparative sequence and structural analyses revealed that PaGPR
+contains two highly conserved Asp residues (D123 and D182) in the active site,
+similar to the putative aspartic acid protease GPR from Bacillus megaterium. The 
+catalytic domain structure of PaGPR also shares similarities with the
+sequentially non-homologous proteins HycI and HybD. HycI and HybD are
+metal-loproteases that also contain two Asp (or Glu) residues in their active
+site, playing a role in metal binding. In summary, our results provide useful
+insights into the activation process of PaGPR and its active conformation.
+
+DOI: 10.1007/s12275-020-0292-0 
+PMID: 32870483 
+

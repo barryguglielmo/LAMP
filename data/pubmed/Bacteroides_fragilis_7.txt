@@ -1,0 +1,43 @@
+
+1. J Microbiol Biotechnol. 2020 Sep 14. doi: 10.4014/jmb.2006.06034. [Epub ahead of 
+print]
+
+Zerumbone restores gut microbiota composition in ETBF colonized AOM/DSS mice.
+
+Cho HW(1), Rhee KJ(2), Eom YB(1)(3).
+
+Author information: 
+(1)Department of Medical Sciences, College of Medical Sciences, Soonchunhyang
+University, Asan 31538, Republic of Korea.
+(2)Department of Biomedical Laboratory Science, College of Health Sciences,
+Yonsei University at Wonju, Wonju, 26493, Republic of Korea.
+(3)Department of Biomedical Laboratory Science, College of Medical Sciences,
+Soonchunhyang University, Asan 31538, Republic of Korea.
+
+Colorectal cancer (CRC) is the leading cause of common malignant neoplasm
+worldwide. Many studies have analyzed compositions of gut microbiota associated
+with various diseases such as inflammatory bowel diseases (IBD) and colon cancer.
+One of the most representative bacteria involved in CRC is enterotoxigenic
+Bacteroides fragilis (ETBF), a species belonging to phylum Bacteroidetes. We used
+ETBF colonized mice with azoxymethane (AOM)/dextran sulphate sodium (DSS) and
+zerumbone, a compound with anti-bacterial effect, to determine whether zerumbone 
+could restore intestinal microbiota composition. Four experimental groups of mice
+were used: sham, ETBF colonized AOM/DSS group, ETBF colonized AOM/DSS group
+zerumbone 60 mg kg-1 (ETBF/AOM/DSS + Z (60)), and only zerumbone (60 mg
+kg-1)-treated group. We performed reversible dye terminators-based analysis of
+16S rRNA gene region V3-V4 for group comparison. Microbiota compositions of
+ETBF/AOM/DSS + Z (60) group and ETBF colonized AOM/DSS group not given zerumbone 
+were significantly different. There were more Bacteroides in ETBF/AOM/DSS + Z
+(60) group than those in ETBF colonized AOM/DSS group, suggesting that B.
+fragilis could be a normal flora activated by zerumbone. In addition, based on
+linear discriminant analysis of effect size (LEfSe) analysis, microbial diversity
+decreased significantly in the ETBF colonized AOM/DSS group. However, after given
+zerumbone, the taxonomic relative abundance was increased. These findings suggest
+that zerumbone not only influenced the microbial diversity and richness, but also
+could be helpful for enhancing the balance of gut microbial composition. In this 
+work, we demonstrate that zerumbone could restore the composition of intestinal
+microbiota.
+
+DOI: 10.4014/jmb.2006.06034 
+PMID: 32958727 
+

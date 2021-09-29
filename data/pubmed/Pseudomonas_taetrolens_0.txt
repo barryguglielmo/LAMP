@@ -1,0 +1,51 @@
+
+1. Bioprocess Biosyst Eng. 2020 May;43(5):937-944. doi: 10.1007/s00449-020-02290-z. 
+Epub 2020 Feb 15.
+
+High-level production and high-yield recovery of lactobionic acid by the control 
+of pH and temperature in fermentation of Pseudomonas taetrolens.
+
+Kim JH(1), Jang YA(1), Seong SB(1)(2), Jang SA(3), Hong SH(4), Song JK(5), Eom
+GT(6)(7).
+
+Author information: 
+(1)Bio-based Chemistry Research Center, Korea Research Institute of Chemical
+Technology (KRICT), 406-30 Jongga-ro, Ulsan, 44429, Republic of Korea.
+(2)Department of Green Chemistry and Environmental Biotechnology, Korea
+University of Science and Technology (UST), 217 Gajeong-ro, Yuseong-gu, Daejeon, 
+305-350, Republic of Korea.
+(3)Bio-based Chemistry Research Center, Korea Research Institute of Chemical
+Technology (KRICT), 141 Gajeong-ro, Daejeon, 34114, Republic of Korea.
+(4)School of Chemical Engineering, University of Ulsan, 93 Daehak-ro, Nam-gu,
+Ulsan, 680-749, Republic of Korea.
+(5)Bio-based Chemistry Research Center, Korea Research Institute of Chemical
+Technology (KRICT), 141 Gajeong-ro, Daejeon, 34114, Republic of Korea.
+ajee@krict.re.kr.
+(6)Bio-based Chemistry Research Center, Korea Research Institute of Chemical
+Technology (KRICT), 406-30 Jongga-ro, Ulsan, 44429, Republic of Korea.
+eomgt@krict.re.kr.
+(7)Department of Green Chemistry and Environmental Biotechnology, Korea
+University of Science and Technology (UST), 217 Gajeong-ro, Yuseong-gu, Daejeon, 
+305-350, Republic of Korea. eomgt@krict.re.kr.
+
+Lactobionic acid (LBA) was produced by fermentation of Pseudomonas taetrolens.
+First, to increase the production of LBA by P. taetrolens, we controlled the pH
+of culture medium by CaCO3 addition (30 g/L) and then examined the initial
+lactose concentration ranging from 50 to 200 g/L and the growth temperature
+ranging from 20 to 37 °C. Both the LBA production titer (180 g/L) and the
+productivity (2.5 g/L h) were highest at 200 g/L lactose concentration and 25 °C 
+of cell growth temperature in shake-flask culture. Although the production of LBA
+(178 g/L) was almost similar during the batch fermentation of P. taetrolens using
+5 L bioreactor, the LBA productivity highly increased to 4.9 g/L h. The method
+using ethanol precipitation and ion-exchange chromatography was developed to
+recover the pure LBA from the fermentation broth. The optimum volume of ethanol
+and pH of culture medium for the precipitation of Ca2+ salt form of LBA were six 
+volume of ethanol and pH 6.5, respectively. The cation-exchange resin T42 finally
+showed the best recovery yield (97.6%) of LBA from the culture supernatant. The
+production titer (178 g/L) and the productivity (4.9 g/L h) of lactobionic acid
+in this study were highest among the previous studies ever reported using P.
+taetrolens as a production strain of LBA.
+
+DOI: 10.1007/s00449-020-02290-z 
+PMID: 32062704 
+

@@ -1,0 +1,45 @@
+
+1. Pathogens. 2020 May 15;9(5). pii: E381. doi: 10.3390/pathogens9050381.
+
+Characterization of Staphylococci and Streptococci Isolated from Milk of Bovides 
+with Mastitis in Egypt.
+
+Ahmed W(1)(2), Neubauer H(1), Tomaso H(1), El Hofy FI(2), Monecke S(3)(4),
+Abdeltawab AA(2), Hotzel H(1).
+
+Author information: 
+(1)Friedrich-Loeffler-Institut, Institute of Bacterial Infections and Zoonoses,
+Naumburger Str. 96a, 07743 Jena, Germany.
+(2)Department of Microbiology, Faculty of Veterinary Medicine, Benha University, 
+Moshtohor Toukh PO Box 13736, Egypt.
+(3)Leibniz Institute of Photonic Technology (IPHT), Albert-Einstein-Str. 9, 07745
+Jena, Germany.
+(4)InfectoGnostics Research Campus Jena e. V., Philosophenweg 7, 07743 Jena,
+Germany.
+
+The aim of this study was to characterize staphylococci and streptococci in milk 
+from Egyptian bovides. In total, 50 milk samples were collected from localities
+in the Nile Delta region of Egypt. Isolates were cultivated, identified using
+matrix-assisted laser desorption/ionization time-of-flight mass spectrometry
+(MALDI-TOF MS), and antibiotic susceptibility testing was performed by the broth 
+microdilution method. PCR amplifications were carried out, targeting
+resistance-associated genes. Thirty-eight Staphylococcus isolates and six
+Streptococcus isolates could be cultivated. Staphylococcus aureus isolates
+revealed a high resistance rate to penicillin, ampicillin, clindamycin, and
+erythromycin. The mecA gene defining methicillin-resistant Staphylococcus aureus,
+erm(C) and aac-aphD genes was found in 87.5% of each. Coagulase-negative
+staphylococci showed a high prevalence of mecA, blaZ and tetK genes. Other
+resistance-associated genes were found. All Streptococcus dysgalactiae isolates
+carried blaZ, erm(A), erm(B), erm(C) and lnuA genes, while Streptococcus suis
+harbored erm(C), aphA-3, tetL and tetM genes, additionally. In Streptococcus
+gallolyticus, most of these genes were found. The Streptococcus agalactiae
+isolate harbored blaZ, erm(B), erm(C), lnuA, tetK, tetL and tetM genes.
+Streptococcus agalactiae isolate was analyzed by DNA microarray analysis. It was 
+determined as sequence type 14, belonging to clonal complex 19 and represented
+capsule type VI. Pilus and cell wall protein genes, pavA, cadD and emrB/qacA
+genes were identified by microarray analysis.
+
+DOI: 10.3390/pathogens9050381 
+PMCID: PMC7281669
+PMID: 32429272 
+

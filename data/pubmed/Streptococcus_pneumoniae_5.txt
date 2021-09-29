@@ -1,0 +1,78 @@
+
+1. J Infect Chemother. 2020 Sep 28. pii: S1341-321X(20)30334-2. doi:
+10.1016/j.jiac.2020.09.014. [Epub ahead of print]
+
+Molecular epidemiological characterization in mucoid-type Streptococcus
+pneumoniae isolates obtained from invasive pneumococcal disease patients in
+Japan.
+
+Ubukata K(1), Wajima T(2), Takata M(1), Murayama SY(3), Morozumi M(1), Mukae
+H(4), Ishida T(5), Miyairi I(6), Kiyota H(7), Iwata S(8).
+
+Author information: 
+(1)Department of Infectious Diseases, Keio University School of Medicine, Tokyo, 
+Japan.
+(2)Department of Microbiology, School of Pharmacy, Tokyo University of Pharmacy
+and Life Sciences, Tokyo, Japan.
+(3)Laboratory of Medical Microbiology, Graduate School of Pharmacy, Nihon
+University, Japan.
+(4)Department of Respiratory Medicine, Nagasaki University Hospital, Nagasaki,
+Japan.
+(5)Department of Respiratory Medicine, Ohara Healthcare Foundation, Kurashiki
+Central Hospital, Okayama, Japan.
+(6)Division of Infectious Diseases, Department of Medical Subspecialties,
+National Center for Child Health and Development, Tokyo, Japan.
+(7)Department of Urology, The Jikei University Katsushika Medical Center, Tokyo, 
+Japan.
+(8)Department of Infectious Diseases, Keio University School of Medicine, Tokyo, 
+Japan; Departments of Infectious Diseases, National Cancer Center Hospital,
+Tokyo, Japan. Electronic address: siwata@a8.keio.jp.
+
+INTRODUCTION: Streptococcus pneumoniae with a mucoid-type capsule is associated
+with invasive pneumococcal diseases (IPDs). Despite the introduction of
+pneumococcal vaccines, IPDs caused by mucoid-type isolates are still prevalent.
+The present study aimed to characterize mucoid-type S. pneumoniae isolated from
+IPD patients throughout Japan in 2017 (post-vaccination era).
+METHODS: A total of 225 mucoid-type isolates were collected. The serotype,
+antimicrobial susceptibility, and multilocus sequence type of these isolates were
+determined.
+RESULTS: The prevalence of IPDs caused by mucoid-type isolates was high in
+adults, especially in the elderly (≥65 years of age), and prognosis in these
+patients was significantly poor. Of the mucoid-type isolates, the predominant
+serotype was serotype 3 (84.4%), and the remaining were serotypes 37 (15.1%) and 
+8 (0.4%). Antimicrobial susceptibility showed that most mucoid isolates exhibited
+the penicillin-intermediate resistant S. pneumoniae genotype (gPISP). However,
+the serotype 3 isolate exhibited the penicillin-resistant S. pneumoniae genotype 
+(gPRSP). This gPRSP isolate was classified into ST166, which is related to
+serotypes 9 V and 11 strains. Sequence analysis of the capsule-coding regions and
+its flanking regions indicated that recombination occurred upstream and
+downstream of the capsule-coding region, suggesting that gPRSP (serotype
+9 V/ST166) obtaining the type-3 capsule gene cluster resulted in the emergence of
+gPRSP (serotype 3/ST166).
+CONCLUSIONS: Our findings indicated that IPDs caused by mucoid-type S. pneumoniae
+are still a serious concern and mucoid-type S. pneumoniae with novel phenotype
+could emerge via capsular switching in response to environmental changes such as 
+introduction of vaccines and improper use of antimicrobial agents.
+
+Copyright © 2020 Japanese Society of Chemotherapy and The Japanese Association
+for Infectious Diseases. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jiac.2020.09.014 
+PMID: 33004265 
+
+Conflict of interest statement: Declaration of competing interest S. Iwata has
+received grant support from Sumitomo Dainippon Pharma Co., Ltd., Pfizer Japan
+Inc., Taisho Toyama Pharmaceutical Co., Ltd., Daiichi Sankyo Co., Ltd., Astellas 
+Pharma Inc., and MSD K. K. H. Mukae has received grant support from MSD K. K.,
+Astellas Pharma Inc., TAIHO Pharmaceutical Co., Ltd., Chugai Pharmaceutical
+Co.,Ltd., Daiichi Sankyo Co., Ltd., Eli Lilly Japan K.K., FUJIFILM Pharma Co.,
+Ltd., Sumitomo Dainippon Pharma Co., Ltd., Taisho Toyama Pharmaceutical Co.,
+Ltd., Takeda Pharmaceutical Co., Ltd., Toyama Chemical Co.,Ltd., Meiji Seika
+Pharma Co., Ltd., Novartis Phama Co.,Ltd., Nippon Boehringer Ingelheim Co., Ltd.,
+and Pfizer Japan Inc. T. Ishida has received payment for lectures from MSD K. K. 
+H. Kiyota has received grant support from Taisho Toyama Pharmaceutical Co., Ltd.,
+Daiichi Sankyo Co., Ltd., Astellas Pharma Inc., Toyama Chemical Co.,Ltd. and
+Sanofi K.K. K. Ubukata has received payment for lectures from Meiji Seika Pharma 
+Co., Ltd. and Pfizer Japan Inc. The other authors declare that they have no
+conflict of interest.
+

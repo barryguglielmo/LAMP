@@ -1,0 +1,48 @@
+
+1. Diabetes. 2020 Aug 14. pii: db200503. doi: 10.2337/db20-0503. [Epub ahead of
+print]
+
+Analysis of the Composition and Functions of the Microbiome in Diabetic Foot
+Osteomyelitis based on 16S rRNA and Metagenome Sequencing Technology.
+
+Mengchen Z(1), Yulan C(2), Ping H(3), Yin C(1), Xiangrong L(1), Xinzhao F(1), Bao
+Z(4), Xianbo W(4), Nan J(5), Qingrong L(5), Hao Z(6), Yaoming X(1), Fang G(7).
+
+Author information: 
+(1)Department of Endocrinology and Metabolism, Nanfang Hospital, Southern Medical
+University, Guangzhou, China.
+(2)Department of Endocrinology, Affiliated Hospital of Zunyi Medical College,
+Zunyi, China.
+(3)Department of Geriatric Medicine, Xiaogan Central Hospital, Xiaogan, China.
+(4)School of Public Health and Tropic Medicine, Southern Medical University,
+Guangzhou, China.
+(5)Department of Orthopaedics & Traumatology, Nanfang Hospital, Southern Medical 
+University, Guangzhou, China.
+(6)Department of Hospital Infection Management of Nanfang Hospital, Southern
+Medical University, Guangzhou, China.
+(7)Department of Endocrinology and Metabolism, Nanfang Hospital, Southern Medical
+University, Guangzhou, China gfmhx96@fimmu.com.
+
+Metagenome sequencing has not been used in infected bone specimens. This study
+aimed to analyze the microbiome and its functions. This prospective observational
+study explored the microbiome and its functions of DFO (group DM) and
+posttraumatic foot osteomyelitis (PFO) (group NDM) based on 16S rRNA sequencing
+and metagenome sequencing technologies. Spearman analysis was used to explore the
+correlation between dominant species and clinical indicators of patients with
+DFO. High-throughput sequencing showed that all the specimens were polymicrobial.
+The microbial diversity was significantly higher in DM than in NDM. Firmicutes,
+Prevotellaceae, and Prevotella were the most abundant microbes in DM. The most
+abundant microbes in NDM were Proteobacteria, Halomonadaceae, and Halomonas
+Prevotella denticola, Prevotella jejuni and Prevotella fusca had positive
+correlation with the duration of diabetic foot infection (DFI_d). Proteus
+vulgaris was positively correlated with the infection index, while Bacteroides
+fragilis was negatively correlated. The microbial functional genes were more
+abundant in DM than in NDM. Metagenome sequencing is feasible for the analysis of
+the microbiome in infected bone specimens. G- bacteria and anaerobes are dominant
+in DFO.
+
+© 2020 by the American Diabetes Association.
+
+DOI: 10.2337/db20-0503 
+PMID: 32801139 
+

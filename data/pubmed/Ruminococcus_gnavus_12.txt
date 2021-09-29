@@ -1,0 +1,45 @@
+
+1. BMC Gastroenterol. 2020 Mar 6;20(1):59. doi: 10.1186/s12876-020-01195-1.
+
+Intestinal flora imbalance affects bile acid metabolism and is associated with
+gallstone formation.
+
+Wang Q(1), Hao C(1), Yao W(1), Zhu D(1), Lu H(1), Li L(1), Ma B(1), Sun B(1), Xue
+D(2), Zhang W(1).
+
+Author information: 
+(1)Department of General Surgery, Laboratory of Hepatosplenic Surgery, Ministry
+of Education, The First Affiliated Hospital of Harbin Medical University,
+Youzheng Street 23, Harbin, 150001, China.
+(2)Department of General Surgery, Laboratory of Hepatosplenic Surgery, Ministry
+of Education, The First Affiliated Hospital of Harbin Medical University,
+Youzheng Street 23, Harbin, 150001, China. xuedongbo@hrbmu.edu.cn.
+
+BACKGROUND: The gut microbiota participates in the metabolism of substances and
+energy, promotes the development and maturation of the immune system, forms the
+mucosal barrier, and protects the host from pathogen attacks. Although the
+pathogenesis of cholesterol gallstones is still not clear, studies have suggested
+that gut microbiota dysbiosis plays an important role in their formation.
+METHODS: Microbial DNA from faeces of normal control patients and those of
+patients with calculi was subjected to 16S rRNA gene sequencing to detect gene
+expression changes in intestinal microbes. ELISA kits were used to measure free
+bile acids, secondary bile acids and coprostanol according to the manufacturer's 
+instructions. The relationship between flora and their metabolites was then
+analysed.
+RESULTS: In the gallstone group, the diversity of intestinal bacteria and the
+abundances of certain phylogroups were significantly decreased (p < 0.05),
+especially Firmicutes (p < 0.05), the largest phylum represented by the gut
+microbiota. This study found an increase in free bile acids (p < 0.001) and
+secondary bile acids (p < 0.01) in the enterohepatic circulation. Bile salt
+hydrolase activity was not related to the abundances of BSH-active bacteria.
+7a-dehydroxylating gut bacteria were significantly increased (p < 0.01), whereas 
+cholesterol-lowering bacteria were significantly reduced (p < 0.05). The
+Ruminococcus gnavus group could be used as a biomarker to distinguish the
+gallstone group from the control group.
+CONCLUSION: We conclude that intestinal flora imbalance affects bile acid and
+cholesterol metabolism and is associated with gallstone formation.
+
+DOI: 10.1186/s12876-020-01195-1 
+PMCID: PMC7060658
+PMID: 32143645 
+

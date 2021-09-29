@@ -1,0 +1,41 @@
+
+1. Crit Rev Biochem Mol Biol. 2020 Oct 2:1-13. doi: 10.1080/10409238.2020.1828261.
+[Epub ahead of print]
+
+NusG-dependent RNA polymerase pausing is a frequent function of this universally 
+conserved transcription elongation factor.
+
+Yakhnin AV(1), Kashlev M(1), Babitzke P(2).
+
+Author information: 
+(1)NCI RNA Biology Laboratory, Center for Cancer Research, NCI, Frederick, MD,
+USA.
+(2)Department of Biochemistry and Molecular Biology, Center for RNA Molecular
+Biology, Pennsylvania State University, University Park, PA, USA.
+
+Although transcription by RNA polymerase (RNAP) is highly processive, elongation 
+can be transiently halted by RNAP pausing. Pausing provides time for diverse
+regulatory events to occur such as RNA folding and regulatory factor binding. The
+transcription elongation factors NusA and NusG dramatically affect the frequency 
+and duration of RNAP pausing, and hence regulation of transcription. NusG is the 
+only transcription factor conserved in all three domains of life; its homolog in 
+archaea and eukaryotes is Spt5. This review focuses on NusG-dependent pausing,
+which is a common occurrence in Bacillus subtilis. B. NusG induces pausing about 
+once per 3 kb at a consensus TTNTTT motif in the non-template DNA strand within
+the paused transcription bubble. A conserved region of NusG contacts the TTNTTT
+motif to stabilize the paused transcription elongation complex (TEC) in multiple 
+catalytically inactive RNAP conformations. The density of NusG-dependent pause
+sites is 3-fold higher in untranslated regions, suggesting that pausing could
+regulate the expression of hundreds of genes in B. subtilis. We describe how
+pausing in 5' leader regions contributes to regulating the expression of B.
+subtilis genes by transcription attenuation and translation control mechanisms.
+As opposed to the broadly accepted view that NusG is an anti-pausing factor,
+phylogenetic analyses suggest that NusG-dependent pausing is a widespread
+mechanism in bacteria. This function of NusG is consistent with the
+well-established role of its eukaryotic homolog Spt5 in promoter-proximal
+pausing. Since NusG is present in all domains of life, NusG-dependent pausing
+could be a conserved mechanism in all organisms.
+
+DOI: 10.1080/10409238.2020.1828261 
+PMID: 33003953 
+

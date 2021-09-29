@@ -1,0 +1,61 @@
+
+1. Mater Sci Eng C Mater Biol Appl. 2020 Dec;117:111292. doi:
+10.1016/j.msec.2020.111292. Epub 2020 Jul 24.
+
+Microbial cell lysate supernatant (CLS) alteration impact on platinum
+nanoparticles fabrication, characterization, antioxidant and antibacterial
+activity.
+
+Eramabadi P(1), Masoudi M(1), Makhdoumi A(2), Mashreghi M(3).
+
+Author information: 
+(1)Department of Biology, Faculty of Science, Ferdowsi University of Mashhad,
+Mashhad 9177948974, Iran.
+(2)Department of Biology, Faculty of Science, Ferdowsi University of Mashhad,
+Mashhad 9177948974, Iran. Electronic address: a.makhdomi@um.ac.ir.
+(3)Department of Biology, Faculty of Science, Ferdowsi University of Mashhad,
+Mashhad 9177948974, Iran; Industrial Microbiology Research Group, Institute of
+Biotechnology, Ferdowsi University of Mashhad, Mashhad 9177948974, Iran; Nano
+Research Center, Ferdowsi University of Mashhad, Mashhad 9177948974, Iran.
+Electronic address: mashrghi@um.ac.ir.
+
+Microbial mediated biological synthesis of nanoparticles is of enormous interest 
+to modern nanotechnology due to its simplicity and eco-friendliness. In the
+present study, a novel green method for the synthesis of platinum nanoparticles
+(PtNPs) has been developed using bio-derived product-cell lysate supernatant
+(CLS) from various microorganisms including Gram-negative bacteria: Pseudomonas
+kunmingensis ADR19, Psychrobacter faecalis FZC6, Vibrio fischeri NRRL B-11177,
+Gram-positive bacteria: Jeotgalicoccus coquinae ZC15, Sporosarcina psychrophila
+KC19, Kocuria rosea MN23, genetically engineered bacterium: Pseudomonas putida
+KT2440 and yeast: Rhodotorula mucilaginosa CCV1. The biogenic PtNPs were
+characterized by UV-visible spectroscopy, X-ray diffraction (XRD), Fourier
+transform infrared (FTIR), transmission electron microscopy (TEM), high
+resolution transmission electron microscopy (HRTEM), and atomic force microscopy 
+(AFM). The UV-visible spectra showed a red shift in the absorbance of
+H2PtCl6.6H2O from 260 nm to 330 nm for all prepared PtNPs. The XRD patterns of
+the samples indicated the formation of high purity of the cubic phase. The FTIR
+spectra and EDS profiles of the samples demonstrated the existence of proteins on
+fabricated and stabilized PtNPs. The TEM and AFM images analysis showed the
+synthesis of smallest PtNPs by a bacterium strain (FZC6) and yeast while
+genetically engineered bacteria produced the largest NPs. Also, the HRTEM
+analysis showed the high crystallinity of PtNPs and the interplanar spacing of
+0.2 nm, corresponds to the (1 1 1) of plane of PtNPs. The results of zeta
+potential indicated the high stability of PtNPs in neutral pH. Moreover, the
+suitability of PtNPs antioxidant and antibacterial activity was correlated to the
+size and zeta potential of microbe used for NPs biosynthesis. In conclusion, it
+was found that the type of microorganisms can have influences on PtNPs
+characteristics and properties as Gram-negatives produced smaller PtNPs while
+more negatively charged NPs were obtained by Gram-positives. These findings could
+facilitate the selection of appropriate green approaches for more effective
+biotechnological production of PtNPs.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.msec.2020.111292 
+PMID: 32919653 
+
+Conflict of interest statement: Declaration of competing interest We wish to
+confirm that there are no known conflicts of interest associated with this
+publication and there has been no significant financial support for this work
+that could have influenced its outcome.
+

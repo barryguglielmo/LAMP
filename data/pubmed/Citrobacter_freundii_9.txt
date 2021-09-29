@@ -1,0 +1,46 @@
+
+1. Sci Total Environ. 2020 Sep 1;754:142109. doi: 10.1016/j.scitotenv.2020.142109.
+[Epub ahead of print]
+
+A fungus-bacterium co-culture synergistically promoted nitrogen removal by
+enhancing enzyme activity and electron transfer.
+
+Chen C(1), Wang Z(2), Zhao M(1), Yuan B(1), Yao J(2), Chen J(3), Hrynshpan D(4), 
+Savitskaya T(4).
+
+Author information: 
+(1)College of Environmental, Zhejiang University of Technology, Hangzhou 310032, 
+PR China.
+(2)Interdisciplinary Research Academy, Zhejiang Shuren University, Hangzhou
+310015, PR China.
+(3)Interdisciplinary Research Academy, Zhejiang Shuren University, Hangzhou
+310015, PR China. Electronic address: bec@zjut.edu.cn.
+(4)Research Institute of Physical and Chemical Problems, Belarusian State
+University, Minsk 220030, Belarus.
+
+The fungus Penicillium citrinum WXP-2 and the bacterium Citrobacter freundii
+WXP-9 were isolated and found to have poor denitrification performance.
+Surprisingly, co-culture of the two strains which formed fungus-bacterium pellets
+(FBPs) promoted the removal efficiency of nitrate (NO3--N; 95.78%) and total
+nitrogen (TN; 81.73%). Nitrogen balance analysis showed that excess degraded
+NO3--N was primarily converted to N2 (77.53%). Moreover, co-culture increased the
+dry weight to 0.74 g/L. The diameter of pellets and cell viability also increased
+by 1.49 and 1.78 times, respectively, indicating that the co-culture exerted a
+synergistic effect to promote growth. The increase in electron-transmission
+system activity [99.01 mg iodonitrotetrazolium formazan/(g·L)] and nitrate
+reductase activity [8.65 mg N/(min·mg protein)] were responsible for
+denitrification promotion. The FBPs also exhibited the highest degradation rate
+at 2:1 inoculation ratio and 36 h delayed inoculation of strain WXP-9. Finally,
+recycling experiments of FBP demonstrated that the high steady TN removal rate
+could be maintained for five cycles.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.scitotenv.2020.142109 
+PMID: 32898784 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

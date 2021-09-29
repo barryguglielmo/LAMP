@@ -1,0 +1,44 @@
+
+1. Int J Mol Sci. 2020 Aug 31;21(17). pii: E6307. doi: 10.3390/ijms21176307.
+
+Molecular Network and Culture Media Variation Reveal a Complex Metabolic Profile 
+in Pantoea cf. eucrina D2 Associated with an Acidified Marine Sponge.
+
+Vitale GA(1), Sciarretta M(2), Cassiano C(2), Buonocore C(1), Festa C(2),
+Mazzella V(3), Núñez Pons L(3), D'Auria MV(2), de Pascale D(1)(4).
+
+Author information: 
+(1)Institute of Biochemistry and Cell Biology, National Research Council, 80131
+Naples, Italy.
+(2)Department of Pharmacy, University of Naples "Federico II", 80131 Naples,
+Italy.
+(3)Department of Integrated Marine Ecology (EMI), Stazione Zoologica Anton Dohrn,
+Villa Comunale, 80125 Naples, Italy.
+(4)Department of Marine Biotechnology, Stazione Zoologica Anton Dohrn, Villa
+Comunale, 80125 Naples, Italy.
+
+The Gram-negative Pantoea eucrina D2 was isolated from the marine sponge
+Chondrosia reniformis. Sponges were collected in a shallow volcanic vents system 
+in Ischia island (South Italy), influenced by CO2 emissions and lowered pH. The
+chemical diversity of the secondary metabolites produced by this strain, under
+different culture conditions, was explored by a combined approach including
+molecular networking, pure compound isolation and NMR spectroscopy. The
+metabolome of Pantoea cf. eucrina D2 yielded a very complex molecular network,
+allowing the annotation of several metabolites, among them two biosurfactant
+clusters: lipoamino acids and surfactins. The production of each class of
+metabolites was highly dependent on the culture conditions, in particular, the
+production of unusual surfactins derivatives was reported for the first time from
+this genus; interestingly the production of these metabolites only arises by
+utilizing inorganic nitrogen as a sole nitrogen source. Major components of the
+extract obtained under standard medium culture conditions were isolated and
+identified as N-lipoamino acids by a combination of 1D and 2D NMR spectroscopy
+and HRESI-MS analysis. Assessment of the antimicrobial activity of the pure
+compounds towards some human pathogens, indicated a moderate activity of leucine 
+containing N-lipoamino acids towards Staphylococcus aureus, Staphylococcus
+epidermidis and a clinical isolate of the emerging food pathogen Listeria
+monocytogenes.
+
+DOI: 10.3390/ijms21176307 
+PMCID: PMC7504411
+PMID: 32878176 
+

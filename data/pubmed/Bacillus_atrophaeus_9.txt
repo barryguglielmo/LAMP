@@ -1,0 +1,44 @@
+
+1. Int J Food Microbiol. 2020 Nov 2;332:108772. doi:
+10.1016/j.ijfoodmicro.2020.108772. Epub 2020 Jun 25.
+
+Effect of peracetic acid on ascospore-forming molds and test microorganisms used 
+for bio-validations of sanitizing processes in food plants.
+
+Scaramuzza N(1), Mutti P(1), Cigarini M(1), Berni E(2).
+
+Author information: 
+(1)Stazione Sperimentale per l'Industria delle Conserve Alimentari, SSICA, Viale 
+F. Tanara, 31/A, 43121 Parma, Italy.
+(2)Stazione Sperimentale per l'Industria delle Conserve Alimentari, SSICA, Viale 
+F. Tanara, 31/A, 43121 Parma, Italy. Electronic address: elettra.berni@ssica.it.
+
+Industrial sterilization of packaging and filling machineries by peracetic acid
+(PAA) is a widespread practice. In our study we assessed the resistance to PAA of
+three ascospore-forming molds (Chaetomium globosum ATCC 6205; Talaromyces
+bacillisporus SSICA 10915; Aspergillus hiratsukae SSICA 3913) compared to that of
+Aspergillus brasiliensis ATCC 16404 and Bacillus atrophaeus DSM 675, that are
+currently used as test microorganisms during industrial bio-validations of food
+packaging and machineries. Tests were carried out at 40 °C using 1,000 mg/l of
+PAA, with or without a supporting material (aluminium, tin-plate, PET). At all
+conditions tested, a greater resistance to PAA was registered for C. globosum,
+followed by T. bacillisporus, A. hiratsukae, A. brasiliensis and B. atrophaeus.
+D-values of C. globosum varied from 23 to 68 min, whereas T. bacillisporus showed
+D-values from 83 to 352 s and A. hiratsukae showed D-values from 32 to 65 s.
+Surprisingly, both test microorganisms (A. brasiliensis and B. atrophaeus) proved
+less resistant than ascospore-forming molds tested, their D-values being always
+lower than 30 s. Cells treated without a supporting material proved more
+resistant than those deposited on plastic or metallic strips, with the exception 
+of tin-plate, where results approaching those obtained without a supporting
+materials were obtained. Based on the results obtained in this paper, test
+microorganisms currently used for bio-validations in industrial plants and also
+heat-resistant strains proved sensibly less resistant to PAA than C. globosum.
+Therefore, for practical purposes C. globosum should be furtherly studied to
+understand if its use during bio-validations of sanitizing processes could lead
+to more performing results.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijfoodmicro.2020.108772 
+PMID: 32622248 
+

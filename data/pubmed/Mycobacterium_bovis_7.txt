@@ -1,0 +1,48 @@
+
+1. Pharmaceutics. 2020 Sep 22;12(9). pii: E900. doi: 10.3390/pharmaceutics12090900.
+
+Optimisation of Mycobacterium bovis BCG Fermentation and Storage Survival.
+
+Pascoe J(1), Hendon-Dunn CL(1), Birch CPD(2), Williams GA(3), Chambers MA(3)(4), 
+Bacon J(1).
+
+Author information: 
+(1)TB Research Group, Public Health England, National Infection Service, Porton
+Down, Salisbury, Wiltshire SP4 0JG, UK.
+(2)Department of Epidemiological Sciences, Animal and Plant Health Agency,
+Woodham Lane, New Haw, Addlestone, Surrey KT15 3NB, UK.
+(3)Department of Bacteriology, Animal and Plant Health Agency, Woodham Lane, New 
+Haw, Addlestone, Surrey KT15 3NB, UK.
+(4)Faculty of Health and Medical Sciences, University of Surrey, Guildford,
+Surrey GU2 7XH, UK.
+
+Mycobacterium bovis Bacillus Calmette-Guérin (M. bovis BCG) was generated over a 
+century ago for protection against Mycobacterium tuberculosis (Mtb) and is one
+the oldest vaccines still in use. The BCG vaccine is currently produced using a
+pellicle growth method, which is a complex and lengthy process that has been
+challenging to standardise. Fermentation for BCG vaccine production would reduce 
+the complexity associated with pellicle growth and increase batch to batch
+reproducibility. This more standardised growth lends itself to quantification of 
+the total number of bacilli in the BCG vaccine by alternative approaches, such as
+flow cytometry, which can also provide information about the metabolic status of 
+the bacterial population. The aim of the work reported here was to determine
+which batch fermentation conditions and storage conditions give the most
+favourable outcomes in terms of the yield and stability of live M. bovis BCG
+Danish bacilli. We compared different media and assessed growth over time in
+culture, using total viable counts, total bacterial counts, and turbidity
+throughout culture. We applied fluorescent viability dyes and flow cytometry to
+measure real-time within-culture viability. Culture samples were stored in
+different cryoprotectants at different temperatures to assess the effect of these
+combined conditions on bacterial titres. Roisin's minimal medium and Middlebrook 
+7H9 medium gave comparable, high titres in fermenters. Flow cytometry proved to
+be a useful tool for enumeration of total bacterial counts and in the assessment 
+of within-culture cell viability and cell death. Of the cryoprotectants
+evaluated, 5% (v/v) DMSO showed the most significant positive effect on survival 
+and reduced the negative effects of low temperature storage on M. bovis BCG
+Danish viability. In conclusion, we have shown a reproducible, more standardised 
+approach for the production, evaluation, and storage of high titre, viable, BCG
+vaccine.
+
+DOI: 10.3390/pharmaceutics12090900 
+PMID: 32971826 
+

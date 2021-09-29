@@ -1,0 +1,31 @@
+
+1. Biochem J. 2020 Sep 28. pii: BCJ20200269. doi: 10.1042/BCJ20200269. [Epub ahead
+of print]
+
+Characterization of Streptococcus pneumoniae PriA helicase and its ATPase and
+unwinding activities in DNA replication restart.
+
+Lin MG(1), Li YC(1), Hsiao CD(1).
+
+Author information: 
+(1)Academia Sinica, Taipei, Taiwan.
+
+DNA replication forks often encounter template DNA lesions that can stall their
+progression. The PriA-dependent pathway is the major replication restart
+mechanism in Gram-positive bacteria, and it requires several primosome proteins. 
+Among them, PriA protein-a 3' to 5' superfamily-2 DNA helicase-is the key factor 
+in recognizing DNA lesions and it also recruits other proteins. Here, we
+investigated the ATPase and helicase activities of Streptococcus pneumoniae PriA 
+(SpPriA) through biochemical and kinetic analyses. By comparing various DNA
+substrates, we observed that SpPriA is unable to unwind duplex DNA with high GC
+content. We constructed a deletion mutant protein (SpPriAdeloop) from which the
+loop area of the DNA-binding domain of PriA had been removed. Functional assays
+on SpPriAdeloop revealed that the loop area is important in endowing DNA-binding 
+properties on the helicase. We also show that presence of DnaD loader protein is 
+important for enhancing SpPriA ATPase and DNA unwinding activities.
+
+Copyright 2020 The Author(s).
+
+DOI: 10.1042/BCJ20200269 
+PMID: 32985663 
+

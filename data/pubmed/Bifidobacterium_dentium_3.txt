@@ -1,0 +1,50 @@
+
+1. J Mol Biol. 2020 Feb 14;432(4):1265-1278. doi: 10.1016/j.jmb.2019.12.040. Epub
+2020 Jan 14.
+
+A Chimeric EccB-MycP Fusion Protein is Functional and a Stable Component of the
+ESX-5 Type VII Secretion System Membrane Complex.
+
+van Winden VJC(1), Bunduc CM(2), Ummels R(1), Bitter W(3), Houben ENG(4).
+
+Author information: 
+(1)Department of Medical Microbiology and Infection Control, Amsterdam UMC,
+Location VU Medical Center, van der Boechorststraat 6, 1081 BT Amsterdam, the
+Netherlands.
+(2)Section Molecular Microbiology, Amsterdam Institute of Molecular and Life
+Sciences, Vrije Universiteit Amsterdam, De Boelelaan 1108, 1081 HZ Amsterdam, the
+Netherlands.
+(3)Department of Medical Microbiology and Infection Control, Amsterdam UMC,
+Location VU Medical Center, van der Boechorststraat 6, 1081 BT Amsterdam, the
+Netherlands; Section Molecular Microbiology, Amsterdam Institute of Molecular and
+Life Sciences, Vrije Universiteit Amsterdam, De Boelelaan 1108, 1081 HZ
+Amsterdam, the Netherlands.
+(4)Section Molecular Microbiology, Amsterdam Institute of Molecular and Life
+Sciences, Vrije Universiteit Amsterdam, De Boelelaan 1108, 1081 HZ Amsterdam, the
+Netherlands. Electronic address: e.n.g.houben@vu.nl.
+
+The mycosin protease (MycP) is widely conserved in type VII secretion (T7S)
+systems throughout Actinobacteria. Within the T7S systems of mycobacteria, also
+known as the ESX systems, MycP is essential for secretion, which is probably
+linked to its stabilizing effect on the ESX membrane complex. However, it is
+unknown how this is mediated, as MycP is not a stable component of this complex. 
+In this study, we set out to create a chimeric fusion protein of EccB5 and MycP5,
+based on a chimeric gene of eccB and mycP in the T7S locus of Bifidobacterium
+dentium. We show that this fusion protein is functional and capable of
+complementing ESX-5 secretion in both an eccB5 and a mycP5 knockout in
+Mycobacterium marinum. To study the ESX complex containing this fusion protein in
+more detail, we replaced the original eccB5 and mycP5 of the Mycobacterium xenopi
+esx-5 locus, reconstituted in Mycobacterium smegmatis, with the chimeric gene.
+The EccB5-MycP5 fusion construct also restored ESX-5 secretion under these double
+knockout conditions. Subsequent protein pulldowns on the central complex
+component EccC5 showed that under these conditions, the EccB5-MycP5 fusion was
+specifically copurified and a stable component of the ESX-5 complex. Based on our
+results, we can conclude that MycP5 carries out its essential function in
+secretion in close proximity to EccB5, indicating that EccB5 is the direct
+interaction partner of MycP5.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jmb.2019.12.040 
+PMID: 31953145  [Indexed for MEDLINE]
+

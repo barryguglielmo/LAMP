@@ -1,0 +1,56 @@
+
+1. Antimicrob Agents Chemother. 2020 Apr 21;64(5). pii: e02375-19. doi:
+10.1128/AAC.02375-19. Print 2020 Apr 21.
+
+In Vitro Activity of KBP-7072, a Novel Third-Generation Tetracycline, against 531
+Recent Geographically Diverse and Molecularly Characterized Acinetobacter
+baumannii Species Complex Isolates.
+
+Huband MD(1), Mendes RE(2), Pfaller MA(2)(3), Lindley JM(2), Strand GJ(2), Benn
+VJ(4), Zhang J(4), Li L(5), Zhang M(5), Tan X(5), Liu Q(5), Flamm RK(2).
+
+Author information: 
+(1)JMI Laboratories, North Liberty, Iowa, USA michael-huband@jmilabs.com.
+(2)JMI Laboratories, North Liberty, Iowa, USA.
+(3)University of Iowa, Iowa City, Iowa, USA.
+(4)KBP Biosciences USA, Inc., Princeton, New Jersey, USA.
+(5)KBP Biosciences Co., Ltd., Jinan, China.
+
+KBP-7072 is a novel third-generation tetracycline (aminomethylcycline)
+antibacterial that overcomes common efflux and ribosomal protection resistance
+mechanisms that cause resistance in older-generation tetracyclines. KBP-7072
+completed phase 1 clinical development studies for safety, tolerability, and
+pharmacokinetics (ClinicalTrials.gov identifier NCT02454361) and multiple
+ascending doses in healthy subjects (ClinicalTrials.gov identifier NCT02654626)
+in December 2015. Both oral and intravenous formulations of KBP-7072 are being
+developed. In this study, we evaluated the in vitro activities of KBP-7072 and
+comparator agents by CLSI document M07 (2018) broth microdilution against 531
+recent geographically diverse and/or molecularly characterized Acinetobacter
+baumannii-A. calcoaceticus species complex (A. baumannii) isolates from the
+United States, Europe, Asia-Pacific (excluding China), and Latin America. A.
+baumannii isolates included carbapenem-resistant, colistin-resistant,
+tetracycline-resistant, and extended-spectrum-β-lactamase (ESBL)- and
+metallo-β-lactamase (MBL)-producing isolates. Overall, KBP-7072 (MIC50/90,
+0.25/1 mg/liter) was comparable in activity to colistin (92.8%/92.8% susceptible 
+[S] [CLSI/EUCAST]) against A. baumannii isolates, inhibiting 99.2% of isolates at
+≤2 mg/liter and 97.6% of isolates at ≤1 mg/liter. KBP-7072 was equally active
+against A. baumannii isolates, including carbapenem-resistant,
+colistin-resistant, and tetracycline-resistant isolates, regardless of geographic
+location, and maintained activity against ESBL- and MBL-producing isolates.
+KBP-7072 outperformed comparator agents, including ceftazidime (40.3% S [CLSI]), 
+gentamicin (48.2%/48.2% S [CLSI/EUCAST]), levofloxacin (39.5%/37.9% S
+[CLSI/EUCAST]), meropenem (42.0%/42.0% S [CLSI/EUCAST]), piperacillin-tazobactam 
+(33.3% S [CLSI]), and all tetracycline-class comparator agents, which include
+doxycycline (67.3% S [CLSI]), minocycline (73.8% S [CLSI]), tetracycline (37.2% S
+[CLSI]), and tigecycline (79.5% inhibited by ≤2 mg/liter). The potent in vitro
+activity of KBP-7072 against recent geographically diverse, molecularly
+characterized, and drug-resistant A. baumannii isolates supports continued
+clinical development for the treatment of serious infections, including those
+caused by A. baumannii.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.02375-19 
+PMCID: PMC7179608 [Available on 2020-10-21]
+PMID: 32071042 
+

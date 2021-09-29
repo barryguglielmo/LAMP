@@ -1,0 +1,61 @@
+
+1. Front Bioeng Biotechnol. 2020 Jun 23;8:450. doi: 10.3389/fbioe.2020.00450.
+eCollection 2020.
+
+Purification, Characterization, Identification, and Anticancer Activity of a
+Circular Bacteriocin From Enterococcus thailandicus.
+
+Al-Madboly LA(1), El-Deeb NM(2), Kabbash A(3), Nael MA(4), Kenawy AM(5), Ragab
+AE(3).
+
+Author information: 
+(1)Department of Pharmaceutical Microbiology, Faculty of Pharmacy, Tanta
+University, Tanta, Egypt.
+(2)Biopharmaceutical Products Research Department, Genetic Engineering and
+Biotechnology Research Institute, City of Scientific Research and Technological
+Applications (SRTA-City), Alexandria, Egypt.
+(3)Department of Pharmacognosy, Faculty of Pharmacy, Tanta University, Tanta,
+Egypt.
+(4)Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Tanta University,
+Tanta, Egypt.
+(5)Nucleic Acids Research Department, Genetic Engineering and Biotechnology
+Research Institute, City of Scientific Research and Technological Applications
+(SRTA-City), Alexandria, Egypt.
+
+New anticancer agents are continually needed because cancerous cells continue to 
+evolve resistance to the currently available chemotherapeutic agents. The aim of 
+the present study was to screen, purify and characterize a hepatotoxic
+bacteriocin from Enterococcus species. The production of bacteriocin from the
+Enterococcus isolates was achieved based on their antibacterial activity against 
+indicator reference strains. Enterococcus isolates showed a broad spectrum of
+antibacterial activity by forming inhibition zones with diameters ranged between 
+12 and 29 mm. The most potent bacteriocin producing strain was molecularly
+identified as Enterococcus thailandicus. The crude extracted bacteriocin was
+purified by cation exchange and size exclusion chromatography that resulted in 83
+fractions. Among them, 18 factions were considered as bacteriocins based on their
+positive antibacterial effects. The anticancer effects of the purified
+bacteriocins were tested against HepG2 cell line. The most promising enterocin
+(LNS18) showed the highest anticancer effects against HepG2 cells (with 75.24%
+cellular inhibition percentages), with IC50 value 15.643 μM and without any
+significant cytotoxic effects on normal fibroblast cells (BJ ATCC® CRL-2522™).
+The mode of anticancer action of enterocin LNS18 against HepG2 cells could be
+explained by its efficacy to induce cellular ROS, decrease HepG2 CD markers and
+arrest cells in G0 phase. Amino acid sequence of enterocin LNS18 was determined
+and the deduced peptide of the structural gene showed 86 amino acids that shared 
+94.7% identity with enterocin NKR-5-3B from E. faecium. Enterocin LNS18 consisted
+of 6 α-helices; 5 circular and one linear. Model-template alignment constructed
+between enterocin LNS18 and NKR-5-3B revealed 95.31% identity. The predicted 3D
+homology model of LNS18, after circularization and release of 22 amino acids,
+showed the formation of a bond between Leu23 and Trp86 amino acid residues at the
+site of circularization. Furthermore, areas of positive charges were due to the
+presence of 6 lysine residues resulting in a net positive charge of +4 on the
+bacteriocin surface. Based on the above mentioned results, our characterized
+bacteriocin is a promising agent to target liver cancer without any significant
+toxic effects on normal cell lines.
+
+Copyright © 2020 Al-Madboly, El-Deeb, Kabbash, Nael, Kenawy and Ragab.
+
+DOI: 10.3389/fbioe.2020.00450 
+PMCID: PMC7324803
+PMID: 32656185 
+

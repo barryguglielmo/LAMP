@@ -1,0 +1,56 @@
+
+1. Microb Pathog. 2020 Sep 30:104542. doi: 10.1016/j.micpath.2020.104542. [Epub
+ahead of print]
+
+Potentiating the activity of berberine for Staphylococcus aureus in a
+combinatorial treatment with thymol.
+
+Aksoy CS(1), Avci FG(2), Ugurel OM(3), Atas B(1), Sayar NA(1), Akbulut BS(4).
+
+Author information: 
+(1)Department of Bioengineering, Marmara University, 34722, Kadikoy, Istanbul,
+Turkey.
+(2)Department of Bioengineering, Uskudar University, 34662, Uskudar, Istanbul,
+Turkey.
+(3)Department of Basic Sciences, Altinbas University, Istanbul, Turkey;
+Department of Bioengineering, Yildiz Technical University, 34210, Esenler,
+Istanbul, Turkey.
+(4)Department of Bioengineering, Marmara University, 34722, Kadikoy, Istanbul,
+Turkey. Electronic address: berna.akbulut@marmara.edu.tr.
+
+A plethora of natural products emerges as attractive molecules in the struggle
+against antibiotic resistance. These molecules impose their bioactivities not
+only alone but also in combinations as well, which further enhances their
+effects. Berberine is a well-known isoquinoline alkaloid with antibacterial
+activity. Unfortunately, it is readily extruded, which significantly reduces its 
+efficacy and restricts its potential. Thymol is a monoterpenic phenol that
+exhibits different biological activities but its major effect is observed only at
+relatively high concentrations, which raises the concern on cytotoxicity. The aim
+of the study was to potentiate the antibacterial activity of the berberine, in a 
+combination treatment with thymol in the opportunistic pathogen Staphylococcus
+aureus and understand the antibacterial mechanism of the combination treatment.
+The synergism of berberine and thymol was first established by the checkerboard
+assay. Then the antibacterial mechanism of the synergistic combination was
+explored by growth curves, biofilm formation assay, SEM observation, and RNA-Seq 
+based transcriptomic profiling. The checkerboard assay showed that 32 μg mL-1
+berberine and 64 μg mL-1 thymol was a synergistic combination, concentrations
+below their cytotoxicity limits for many cells. 32 μg mL-1 berberine and
+32 μg mL-1 thymol was sufficient to inhibit biofilm formation. SEM images
+confirmed the morphological changes on the structure of combination treated
+cells. The major finding of the combination treatment from the transcriptomic
+analysis was the repression in the expression of virulence factors or genes
+related to virulence factors with the presence of thymol. Apart from the
+particular changes related to the cell envelope, the majority of expressional
+changes seemed to be similar to berberine-treated cells or to be resulting from
+general stress conditions. The findings of this work showed that when thymol was 
+used in combination with berberine, it enhanced its antibacterial activity in a
+synergistic manner. Furthermore, thymol could be considered as an antivirulence
+agent, disarming S. aureus cells.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.micpath.2020.104542 
+PMID: 33010366 
+
+Conflict of interest statement: Declarations of competing interest None.
+

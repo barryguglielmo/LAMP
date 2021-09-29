@@ -1,0 +1,67 @@
+
+1. Appl Environ Microbiol. 2020 Jun 2;86(12). pii: e00306-20. doi:
+10.1128/AEM.00306-20. Print 2020 Jun 2.
+
+A Bottom-Up Approach To Develop a Synthetic Microbial Community Model:
+Application for Efficient Reduced-Salt Broad Bean Paste Fermentation.
+
+Jia Y(1), Niu CT(1), Lu ZM(2)(3), Zhang XJ(3), Chai LJ(3), Shi JS(4), Xu
+ZH(1)(3), Li Q(2)(5).
+
+Author information: 
+(1)School of Biotechnology, Jiangnan University, Wuxi, People's Republic of
+China.
+(2)School of Biotechnology, Jiangnan University, Wuxi, People's Republic of China
+zmlu@jiangnan.edu.cn liqi@jiangnan.edu.cn.
+(3)National Engineering Laboratory for Cereal Fermentation Technology, Jiangnan
+University, Wuxi, People's Republic of China.
+(4)School of Pharmaceutical Science, Jiangnan University, Wuxi, People's Republic
+of China.
+(5)Synergetic Innovation Center of Jiangsu Modern Industrial Fermentation,
+Jiangnan University, Wuxi, People's Republic of China.
+
+Humans have used high salinity for the production of bean-based fermented foods
+over thousands of years. Although high salinity can inhibit the growth of harmful
+microbes and select functional microbiota in an open environment, it also affects
+fermentation efficiency of bean-based fermented foods and has a negative impact
+on people's health. Therefore, it is imperative to develop novel defined starter 
+cultures for reduced-salt fermentation in a sterile environment. Here, we
+explored the microbial assembly and function in the fermentation of traditional
+Chinese broad bean paste with 12% salinity. The results revealed that the
+salinity and microbial interactions together drove the dynamic of community and
+pointed out that five dominant genera (Staphylococcus, Bacillus, Weissella,
+Aspergillus, and Zygosaccharomyces) may play different key roles in different
+fermentation stages. Then, core species were isolated from broad bean paste, and 
+their salinity tolerance, interactions, and metabolic characteristics were
+evaluated. The results provided an opportunity to validate in situ predictions
+through in vitro dissection of microbial assembly and function. Last, we
+reconstructed the synthetic microbial community with five strains (Aspergillus
+oryzae, Bacillus subtilis, Staphylococcus gallinarum, Weissella confusa, and
+Zygosaccharomyces rouxii) under different salinities and realized efficient
+fermentation of broad bean paste for 6 weeks in a sterile environment with 6%
+salinity. In general, this work provided a bottom-up approach for the development
+of a simplified microbial community model with desired functions to improve the
+fermentation efficiency of bean-based fermented foods by deconstructing and
+reconstructing the microbial structure and function.IMPORTANCE Humans have
+mastered high-salinity fermentation techniques for bean-based fermented product
+preparation over thousands of years. High salinity was used to select the
+functional microbiota and conducted food fermentation production with unique
+flavor. Although a high-salinity environment is beneficial for suppressing
+harmful microbes in the open fermentation environment, the fermentation
+efficiency of functional microbes is partially inhibited. Therefore, application 
+of defined starter cultures for reduced-salt fermentation in a sterile
+environment is an alternative approach to improve the fermentation efficiency of 
+bean-based fermented foods and guide the transformation of traditional industry. 
+However, the assembly and function of self-organized microbiota in an open
+fermentation environment are still unclear. This study provides a comprehensive
+understanding of microbial function and the mechanism of community succession in 
+a high-salinity environment during the fermentation of broad bean paste so as to 
+reconstruct the microbial community and realize efficient fermentation of broad
+bean paste in a sterile environment.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.00306-20 
+PMCID: PMC7267206 [Available on 2020-12-02]
+PMID: 32303548 
+

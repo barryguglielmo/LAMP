@@ -1,0 +1,46 @@
+
+1. Scand J Gastroenterol. 2020 Aug;55(8):924-930. doi:
+10.1080/00365521.2020.1792976. Epub 2020 Jul 15.
+
+Campylobacter concisus is prevalent in the gastrointestinal tract of patients
+with microscopic colitis.
+
+Yde Aagaard ME(1)(2), Frahm Kirk K(1), Linde Nielsen H(2)(3), Harder Tarpgaard
+I(3), Bach Hansen J(4), Nielsen H(1)(2).
+
+Author information: 
+(1)Department of Infectious Diseases, Aalborg University Hospital, Aalborg,
+Denmark.
+(2)Department of Clinical Medicine, Aalborg University, Aalborg, Denmark.
+(3)Department of Clinical Microbiology, Aalborg University Hospital, Aalborg,
+Denmark.
+(4)Department of Gastroenterology, Aalborg University Hospital, Aalborg, Denmark.
+
+OBJECTIVES: Microscopic colitis (MC) is potentially induced by an inflammatory
+reaction to a luminal gut factor. The emerging pathogen Campylobacter concisus is
+associated with prolonged diarrhoea and subsequently increased risk of MC. We
+aimed to examine the prevalence of C. concisus in clinical samples from MC
+patients, analyse the subtypes collagenous colitis (CC) and lymphocytic colitis
+(LC), and characterise C. concisus isolates from MC patients by genomic
+sequencing.
+METHODS: Mucosal biopsies were collected by sigmoidoscopy in 55 MC patients (CC
+n = 34, LC n = 21). Saliva and faecal samples were also collected. A two-step
+cultivation method and PCR established C. concisus prevalence. Biopsy and faecal 
+isolates were sequenced for genomic analysis.
+RESULTS: Cultivation revealed C. concisus in saliva 55/55, faeces 14/55 and
+biopsies 69/436, which was confirmed by PCR in faeces 28/55 and biopsies 215/430.
+Interestingly, biopsy prevalence was higher in CC patients than in LC patients
+both by cultivation (50/270 vs.19/166, p = .058) and by PCR (175/270 vs. 40/160, 
+p < .0001). Long disease duration also affected biopsy prevalence both by
+cultivation 30/244 (<2 years) vs. 39/192 (>2 years) (p = .025) and by PCR 103/239
+(<2 years) vs. 112/191 (>2 years) (p = .002). Genomic analysis on sixty biopsy
+and twenty faecal isolates revealed division into two clusters/genomospecies and 
+a high presence of various, putative virulence genes (zot, exotoxin 9 and hcp).
+CONCLUSIONS: Campylobacter concisus was prevalent in MC patients. Interestingly, 
+the biopsy prevalence differed in biopsies from CC and LC patients and with
+regard to disease duration. Further studies are needed to elucidate this possible
+association.
+
+DOI: 10.1080/00365521.2020.1792976 
+PMID: 32667235 
+

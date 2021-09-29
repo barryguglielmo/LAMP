@@ -1,0 +1,56 @@
+
+1. J Endod. 2020 Aug;46(8):1105-1112. doi: 10.1016/j.joen.2020.05.004. Epub 2020 Jun
+1.
+
+Next-Generation Sequencing to Assess Potentially Active Bacteria in Endodontic
+Infections.
+
+Nardello LCL(1), Amado PPP(2), Franco DC(3), Cazares RXR(1), Nogales CG(1), Mayer
+MPA(2), Karygianni L(4), Thurnheer T(4), Pinheiro ET(5).
+
+Author information: 
+(1)Department of Dentistry, School of Dentistry, University of São Paulo, São
+Paulo, Brazil.
+(2)Department of Microbiology, Institute of Biomedical Sciences, University of
+São Paulo, São Paulo, Brazil.
+(3)Institute of Environmental Sciences, Jagiellonian University, Krakow, Poland.
+(4)Clinic of Conservative and Preventive Dentistry, Center of Dental Medicine,
+University of Zurich, Zürich, Switzerland.
+(5)Department of Dentistry, School of Dentistry, University of São Paulo, São
+Paulo, Brazil; Clinic of Conservative and Preventive Dentistry, Center of Dental 
+Medicine, University of Zurich, Zürich, Switzerland. Electronic address:
+erickapinheiro@usp.br.
+
+INTRODUCTION: Because active bacteria present a higher abundance of ribosomal RNA
+(rRNA) than DNA (rRNA gene), the rRNA/DNA ratio of next-generation sequencing
+(NGS) data was measured to search for active bacteria in endodontic infections.
+METHODS: Paired complementary DNA and DNA samples from 5 root canals of teeth
+with apical periodontitis were subjected to polymerase chain reaction with
+bar-coded primers amplifying the 16S rRNA gene hypervariable regions V4-V5.
+High-throughput sequencing was performed using MiSeq (Illumina, San Deigo, CA),
+and data were analyzed using Quantitative Insights Into Microbial Ecology and
+Human Oral Microbiome Database. Statistical analysis was performed for relative
+abundance of bacteria in the DNA- and rRNA-based NGS data using the Mann-Whitney 
+test, whereas differences in the diversity and richness indexes were assessed
+using a nonparametric 2-sample t test (P < .05). For bacterial taxa detected in
+both approaches, the rRNA/DNA ratios were calculated by dividing the average
+abundance of individual species in the respective analysis.
+RESULTS: Although no significant difference was found in the indexes of bacterial
+richness and diversity, the relative abundance of bacterial members varied in
+both analyses. Comparing rRNA with DNA data, there was a significant decrease in 
+the relative abundance of Firmicutes (P < .05). The bacterial taxa Bacteroidales 
+[G-2] bacterium HMT 274, Porphyromonas endodontalis, Tannerella forsythia,
+Alloprevotella tannerae, Prevotella intermedia, Pseudoramibacter alactolyticus,
+Olsenella sp. HMT 809, Olsenella sp. HMT 939, Olsenella uli, and Fusobacterium
+nucleatum subsp. animalis were both dominant (DNA ≥ 1%) and active (rRNA/DNA ≥
+1).
+CONCLUSIONS: The integrated DNA- and rRNA-based NGS strategy was particularly
+important to disclose the activity of as-yet-uncultivated or difficult-to-culture
+bacteria in endodontic infections.
+
+Copyright © 2020 American Association of Endodontists. Published by Elsevier Inc.
+All rights reserved.
+
+DOI: 10.1016/j.joen.2020.05.004 
+PMID: 32497654  [Indexed for MEDLINE]
+

@@ -1,0 +1,45 @@
+
+1. Int J Biol Macromol. 2020 Feb 15;145:646-654. doi:
+10.1016/j.ijbiomac.2019.12.228. Epub 2019 Dec 27.
+
+Purification, characterization and anticancer activities of exopolysaccharide
+produced by Rhodococcus erythropolis HX-2.
+
+Hu X(1), Li D(1), Qiao Y(1), Wang X(1), Zhang Q(1), Zhao W(1), Huang L(2).
+
+Author information: 
+(1)College of Chemistry and Chemical Engineering, Tianjin Key Laboratory of
+Organic Solar Cells and Photochemical Conversion, Tianjin Key Laboratory of Drug 
+Targeting and Bioimaging, Tianjin University of Technology, Tianjin 300384,
+China.
+(2)College of Chemistry and Chemical Engineering, Tianjin Key Laboratory of
+Organic Solar Cells and Photochemical Conversion, Tianjin Key Laboratory of Drug 
+Targeting and Bioimaging, Tianjin University of Technology, Tianjin 300384,
+China. Electronic address: huanglei@tjut.edu.cn.
+
+In the present study, an exopolysaccharide (EPS) producer Rhodococcus
+erythropolis HX-2 was isolated from Xinjiang oil field, China. The HX-2 EPS (name
+HPS) production reached 8.957 g/L by RSM in MSM medium. The HPS was purified by
+ethanol precipitation and fractionation by DEAE-Cellulose and Sepharose column,
+the yield of HPS was 3.736 g/L. HPS composed by glucose, galactose, fucose,
+mannose and glucuronic acid. FT-IR spectroscopy indicated the presence of a large
+amount of hydroxyl groups. NMR spectroscopy indicated the existence of both α and
+β-configuration for sugar moieties present in HPS. The degradation temperature
+(255.4 °C) of the HPS was determined by thermogravimetric analysis (TGA). A
+reticular structure of HPS was observed by SEM and the AFM analysis of the HPS
+revealed straight chains line. Meanwhile, the WSI and WHC of HPS were
+92.15 ± 3.05% and 189.45 ± 5.65%, respectively. Finally, In vitro anticancer
+activity purified EPS was evaluated on L929 normal cells, A549 cancer cells,
+SMMC-7721 liver cancer cells and Hela cervical cancer cell. HPS inhibited the
+growth of cancer cells in a certain concentration without damage to normal cells.
+These characteristics indicate that its potential application value in food,
+industry and pharmaceutical application.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2019.12.228 
+PMID: 31887383 
+
+Conflict of interest statement: Declaration of competing interest All authors
+declared that there is no conflict of interest.
+

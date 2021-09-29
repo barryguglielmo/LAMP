@@ -1,0 +1,34 @@
+
+1. Vet Sci. 2020 Aug 15;7(3). pii: E113. doi: 10.3390/vetsci7030113.
+
+Honey as a Source of Environmental DNA for the Detection and Monitoring of Honey 
+Bee Pathogens and Parasites.
+
+Ribani A(1)(2), Utzeri VJ(1)(2), Taurisano V(1), Fontanesi L(1).
+
+Author information: 
+(1)Department of Agricultural and Food Sciences, University of Bologna, Viale
+Giuseppe Fanin 46, 40127 Bologna, Italy.
+(2)GRIFFA s.r.l., Viale Giuseppe Fanin 48, 40127 Bologna, Italy.
+
+Environmental DNA (eDNA) has been proposed as a powerful tool to detect and
+monitor cryptic, elusive, or invasive organisms. We recently demonstrated that
+honey constitutes an easily accessible source of eDNA. In this study, we
+extracted DNA from 102 honey samples (74 from Italy and 28 from 17 other
+countries of all continents) and tested the presence of DNA of nine honey bee
+pathogens and parasites (Paenibacillus larvae, Melissococcus plutonius, Nosema
+apis, Nosema ceranae, Ascosphaera apis,Lotmaria passim, Acarapis woodi, Varroa
+destructor, and Tropilaelaps spp.) using qualitative PCR assays. All honey
+samples contained DNA from V. destructor, confirming the widespread diffusion of 
+this mite. None of the samples gave positive amplifications for N. apis, A.
+woodi, and Tropilaelaps spp. M. plutonius was detected in 87% of the samples,
+whereas the other pathogens were detected in 43% to 57% of all samples. The
+frequency of Italian samples positive for P. larvae was significantly lower (49%)
+than in all other countries (79%). The co-occurrence of positive samples for L.
+passim and A. apis with N. ceranae was significant. This study demonstrated that 
+honey eDNA can be useful to establish monitoring tools to evaluate the sanitary
+status of honey bee populations.
+
+DOI: 10.3390/vetsci7030113 
+PMID: 32824137 
+

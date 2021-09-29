@@ -1,0 +1,37 @@
+
+1. BMC Res Notes. 2020 Sep 3;13(1):413. doi: 10.1186/s13104-020-05247-3.
+
+Draft genome sequence of Clostridium jeddahense EE-R19 isolated from an anaerobic
+digester.
+
+Ziganshina EE(1), Mohammed WS(2), Ziganshin AM(3).
+
+Author information: 
+(1)Department of Microbiology, Institute of Fundamental Medicine and Biology,
+Kazan (Volga Region) Federal University, Kremlyovskaya Str. 18, Kazan, 420008,
+Russia.
+(2)Department of Biotechnology, Faculty of Agriculture, Al-Azhar University,
+Cairo, 11651, Egypt.
+(3)Department of Microbiology, Institute of Fundamental Medicine and Biology,
+Kazan (Volga Region) Federal University, Kremlyovskaya Str. 18, Kazan, 420008,
+Russia. ayrat.ziganshin@kpfu.ru.
+
+OBJECTIVES: Clostridium species of the order Clostridiales are mostly strictly
+anaerobic rod-shaped bacteria. They can be detected in a variety of environments,
+including the intestines of humans and animals, soil, water, and biogas reactors.
+Species of the genus Clostridium are widely used in various biotechnological
+processes, but several of them have been identified as significant human
+pathogens. Therefore, investigation at the genome level is necessary to provide
+valuable information about the ecology, genetics, and phylogenetic diversity of
+various Clostridium species.
+DATA DESCRIPTION: In the present study, we report the whole genome sequence of
+Clostridium jeddahense strain EE-R19, which was isolated from a mesophilic
+anaerobic digester. The draft genome of C. jeddahense EE-R19 consisted of 59
+contigs (> 500 bp), which amounted to 3,562,974 with an overall G + C content of 
+51.79%. The whole genome shotgun project of C. jeddahense EE-R19 has been
+deposited at DDBJ/ENA/GenBank under the accession number JAAVNF000000000.
+
+DOI: 10.1186/s13104-020-05247-3 
+PMCID: PMC7469366
+PMID: 32883338 
+

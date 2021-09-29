@@ -1,0 +1,47 @@
+
+1. Med Oral Patol Oral Cir Bucal. 2020 Mar 1;25(2):e240-e251. doi:
+10.4317/medoral.23326.
+
+Metagenomic investigation of bacteria associated with dental lesions: a
+cross-sectional study.
+
+Kazemtabrizi A(1), Haddadi A, Shavandi M, Harzandi N.
+
+Author information: 
+(1)Department of Microbiology, Karaj Branch Islamic Azad University, Karaj, Iran 
+haddadi@kiau.ac.ir.
+
+BACKGROUND: Dental caries is considered as one of the most significant global
+health problem over the world. Dental caries initiates from bacterial shifts
+within the supragingival biofilm, then a polymicrobial biofilm is formed on the
+surface of tooth, and finally various bacterial species aggregate in a
+complex-organized manner. The exploiting variability in 16S rRNA gene sequence
+has been considered as a cost-efficient high-throughput characterization approach
+in human oral microbiome investigations. The aim of this study is to characterize
+bacterial species associated with superficial dental biofilm, underlying carious 
+dentine and root caries lesion by16S rRNA gene-based metagenomic analysis.
+MATERIAL AND METHODS: Herein, the bacterial communities in carious dentin lesion,
+biofilm and root canal samples of 30 subjects (aged 4-76 years) admitted to a
+clinic in Tehran during 2017 were investigated using a culture independent
+approach. Total genomic DNA of each tissue was subjected to metagenomic
+identification of bacteria using a nested PCR assay and 16S rRNA library
+construction method.
+RESULTS: 31 samples collected from 30 consenting patients (29 samples from 29
+patients ant two biofilm samples from one patient). Bioinformatics analyses of
+a-800bp sequences of the second step of Nested-PCR revealed presence of 156
+bacterial isolates in carious (n=45), biofilm (n=81) and root canal (n=30)
+specimens. Prevotella spp., Lactobacillus vaginalis, and streptococcus spp.
+showed higher prevalence in carious dentin, root and biofilm samples,
+respectively.
+CONCLUSIONS: Exploring the dental microbiota and comparing them in health or
+diseased conditions is critical step in the determination of human general
+health. The method applied in this study could identify bacteria related to the
+three dental lesions. However, due to lack of data for comparison in Genbank or
+because of the sequence similarity lower than 98% for most identified bacteria,
+the use of more powerful approaches like NGS platforms or typing of multiple loci
+(MLST) in future studies is recommended.
+
+DOI: 10.4317/medoral.23326 
+PMCID: PMC7103443
+PMID: 32040467  [Indexed for MEDLINE]
+

@@ -1,0 +1,39 @@
+
+1. CRISPR J. 2019 Dec;2(6):417-433. doi: 10.1089/crispr.2019.0026. Epub 2019 Nov 19.
+
+Expanding the CRISPR Toolbox with ErCas12a in Zebrafish and Human Cells.
+
+Wierson WA(#)(1), Simone BW(#)(2), WareJoncas Z(2), Mann C(1), Welker JM(1), Kar 
+B(2), Emch MJ(2), Friedberg I(3), Gendron WAC(2), Barry MA(2), Clark KJ(2), Dobbs
+DL(1), McGrail MA(1), Ekker SC(2), Essner JJ(1).
+
+Author information: 
+(1)Department of Genetics, Development and Cell Biology, Iowa State University,
+Ames, Iowa.
+(2)Department of Biochemistry and Molecular Biology, Mayo Clinic, Rochester,
+Minnesota.
+(3)Department of Veterinary Microbiology and Preventive Medicine, Iowa State
+University, Ames, Iowa.
+(#)Contributed equally
+
+CRISPR and CRISPR-Cas effector proteins enable the targeting of DNA double-strand
+breaks to defined loci based on a variable length RNA guide specific to each
+effector. The guide RNAs are generally similar in size and form, consisting of a 
+∼20 nucleotide sequence complementary to the DNA target and an RNA secondary
+structure recognized by the effector. However, the effector proteins vary in
+protospacer adjacent motif requirements, nuclease activities, and DNA binding
+kinetics. Recently, ErCas12a, a new member of the Cas12a family, was identified
+in Eubacterium rectale. Here, we report the first characterization of ErCas12a
+activity in zebrafish and expand on previously reported activity in human cells. 
+Using a fluorescent reporter system, we show that CRISPR-ErCas12a elicits strand 
+annealing mediated DNA repair more efficiently than CRISPR-Cas9. Further, using
+our previously reported gene targeting method that utilizes short homology,
+GeneWeld, we demonstrate the use of CRISPR-ErCas12a to integrate reporter alleles
+into the genomes of both zebrafish and human cells. Together, this work provides 
+methods for deploying an additional CRISPR-Cas system, thus increasing the
+flexibility researchers have in applying genome engineering technologies.
+
+DOI: 10.1089/crispr.2019.0026 
+PMCID: PMC6919245
+PMID: 31742435  [Indexed for MEDLINE]
+

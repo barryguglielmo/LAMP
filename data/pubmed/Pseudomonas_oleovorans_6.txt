@@ -1,0 +1,57 @@
+
+1. Antonie Van Leeuwenhoek. 2020 Apr;113(4):521-532. doi:
+10.1007/s10482-019-01361-w. Epub 2019 Nov 25.
+
+Pseudomonas khazarica sp. nov., a polycyclic aromatic hydrocarbon-degrading
+bacterium isolated from Khazar Sea sediments.
+
+Tarhriz V(1), Nouioui I(2), Spröer C(3), Verbarg S(3), Ebrahimi V(4),
+Cortés-Albayay C(2), Schumann P(3), Hejazi MA(5), Klenk HP(6), Hejazi
+MS(7)(8)(9).
+
+Author information: 
+(1)Molecular Medicine Research Center, Biomedicine Institute, Tabriz University
+of Medical Sciences, Tabriz, Iran.
+(2)School of Natural and Environmental Sciences, Newcastle University, Ridley
+Building 2, Newcastle upon Tyne, NE1 7RU, UK.
+(3)Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures, 
+Inhoffenstr. 7B, 38124, Brunswick, Germany.
+(4)Faculty of Pharmacy, Tabriz University of Medical Sciences, Tabriz, Iran.
+(5)Branch for the Northwest and West Region, Agriculture Biotechnology Research
+Institute of Iran (ABRII), Tabriz, Iran.
+(6)School of Natural and Environmental Sciences, Newcastle University, Ridley
+Building 2, Newcastle upon Tyne, NE1 7RU, UK. hans-peter.klenk@ncl.ac.uk.
+(7)Molecular Medicine Research Center, Biomedicine Institute, Tabriz University
+of Medical Sciences, Tabriz, Iran. msaeidhejazi@yahoo.com.
+(8)Faculty of Pharmacy, Tabriz University of Medical Sciences, Tabriz, Iran.
+msaeidhejazi@yahoo.com.
+(9)School of Advanced Biomedical Sciences, Tabriz University of Medical Sciences,
+Tabriz, Iran. msaeidhejazi@yahoo.com.
+
+A novel Gram-negative, aerobic, motile and rod-shaped bacterium with the
+potential to biodegrade polycyclic aromatic hydrocarbons, was isolated from
+Khazar (Caspian) Sea. Strain TBZ2T grows in the absence of NaCl and tolerates up 
+to 8.5% NaCl. Growth occurred at pH 3.0-10.0 (optimum, pH 6.0-7.0) and 10-45 °C
+(optimum, 30 °C). The major fatty acids are C18:1ω7C, C16:1ω7C/ C15:0 iso 2-OH,
+C16:0, C12:0, C10:0 3-OH, C12:0 3-OH. The major polar lipids include
+diphosphatidylglycerol, phosphatidylglycerol, phosphatidylethanolamine,
+phosphatidylcholine and the predominant respiratory quinone is ubiquinone Q-9.
+The 16S rRNA gene sequence analysis showed that strain TBZ2T is a member of the
+genus Pseudomonas with the highest similarity to P. oleovorans subsp. oleovorans 
+DSM 1045T (98.83%), P. mendocina NBRC 14162T (98.63%), P. oleovorans subsp.
+lubricantis RS1T (98.61%) and P. alcaliphila JCM 10630T (98.49%) based on
+EzBioCloud server. Phylogenetic analyses using housekeeping genes (16S rRNA,
+rpoD, gyrB and rpoB) and genome sequences demonstrated that the strain TBZ2T
+formed a distinct branch closely related to the type strains of P. mendocina and 
+P. guguanensis. Digital DNA-DNA hybridisation and average nucleotide identity
+values between strain TBZ2T and its closest relatives, P. mendocina NBRC 14162T
+(25.3%, 81.5%) and P. guguanensis JCM 18146T (26.8%, 79.0%), rate well below the 
+designed threshold for assigning prokaryotic strains to the same species. On the 
+basis of phenotypic, chemotaxonomic, genomic and phylogenetic results, it is
+recommended that strain TBZ2T is a novel species of the genus Pseudomonas, for
+which the name Pseudomonas khazarica sp. nov., is proposed. The type strain is
+TBZ2T (= LMG 29674T = KCTC 52410T).
+
+DOI: 10.1007/s10482-019-01361-w 
+PMID: 31768782 
+

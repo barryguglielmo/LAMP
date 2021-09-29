@@ -1,0 +1,49 @@
+
+1. ACS Omega. 2020 Jun 8;5(24):14523-14534. doi: 10.1021/acsomega.0c01210.
+eCollection 2020 Jun 23.
+
+Structure and Dynamics of a Thermostable Alcohol Dehydrogenase from the Antarctic
+Psychrophile Moraxella sp. TAE123.
+
+Petratos K(1), Gessmann R(1), Daskalakis V(2), Papadovasilaki M(1), Papanikolau
+Y(1), Tsigos I(1), Bouriotis V(1)(3).
+
+Author information: 
+(1)Institute of Molecular Biology and Biotechnology, Foundation for Research and 
+Technology-Hellas, 70013 Heraklion, Greece.
+(2)Department of Chemical Engineering, Cyprus University of Technology, 3603
+Limassol, Cyprus.
+(3)Department of Biology, University of Crete, 70013 Heraklion, Greece.
+
+The structure of a recombinant (His-tagged at C-terminus) alcohol dehydrogenase
+(MoADH) from the cold-adapted bacterium Moraxella sp. TAE123 has been refined
+with X-ray diffraction data extending to 1.9 Å resolution. The enzyme assumes a
+homo-tetrameric structure. Each subunit comprises two distinct structural
+domains: the catalytic domain (residues 1-150 and 288-340/345) and the
+nucleotide-binding domain (residues 151-287). There are two Zn2+ ions in each
+protein subunit. Two additional zinc ions have been found in the crystal
+structure between symmetry-related subunits. The structure has been compared with
+those of homologous enzymes from Geobacillus stearothermophilus (GsADH),
+Escherichia coli (EcADH), and Thermus sp. ATN1 (ThADH) that thrive in
+environments of diverse temperatures. Unexpectedly, MoADH has been found active
+from 10 to at least 53 °C and unfolds at 89 °C according to circular dichroism
+spectropolarimetry data. MoADH with substrate ethanol exhibits a small value of
+activation enthalpy ΔH ‡ of 30 kJ mol-1. Molecular dynamics simulations for
+single subunits of the closely homologous enzymes MoADH and GsADH performed at
+280, 310, and 340 K showed enhanced wide-ranging mobility of MoADH at high
+temperatures and generally lower but more distinct and localized mobility for
+GsADH. Principal component analysis of the fluctuations of both ADHs resulted in 
+a prominent open-close transition of the structural domains mainly at 280 K for
+MoADH and 340 K for GsADH. In conclusion, MoADH is a very thermostable,
+cold-adapted enzyme and the small value of activation enthalpy allows the enzyme 
+to function adequately at low temperatures.
+
+Copyright © 2020 American Chemical Society.
+
+DOI: 10.1021/acsomega.0c01210 
+PMCID: PMC7315583
+PMID: 32596590 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

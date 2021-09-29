@@ -1,0 +1,67 @@
+
+1. Appl Environ Microbiol. 2020 Apr 17;86(9). pii: e00196-20. doi:
+10.1128/AEM.00196-20. Print 2020 Apr 17.
+
+Inactivation of the Levansucrase Gene in Paenibacillus polymyxa DSM 365
+Diminishes Exopolysaccharide Biosynthesis during 2,3-Butanediol Fermentation.
+
+Okonkwo CC(1), Ujor V(2), Cornish K(3)(4), Ezeji TC(5).
+
+Author information: 
+(1)Department of Animal Sciences, Ohio State Agricultural Research and
+Development Center (OARDC), The Ohio State University, Wooster, Ohio, USA.
+(2)Bioenergy and Water Treatment Management Program, Agricultural Technical
+Institute, The Ohio State University, Wooster, Ohio, USA.
+(3)Department of Food, Agricultural and Biological Engineering, Ohio State
+Agricultural Research and Development Center (OARDC), The Ohio State University, 
+Wooster, Ohio, USA.
+(4)Department of Horticulture and Crop Sciences, Ohio State Agricultural Research
+and Development Center (OARDC), The Ohio State University, Wooster, Ohio, USA.
+(5)Department of Animal Sciences, Ohio State Agricultural Research and
+Development Center (OARDC), The Ohio State University, Wooster, Ohio, USA
+Ezeji.1@osu.edu.
+
+The formation of exopolysaccharides (EPSs) during 2,3-butanediol (2,3-BD)
+fermentation by Paenibacillus polymyxa increases medium viscosity, which in turn 
+presents considerable technical and economic challenges to 2,3-BD downstream
+processing. To eliminate EPS production during 2,3-BD fermentation, we used
+homologous recombination to disable the EPS biosynthetic pathway in P. polymyxa
+The gene which encodes levansucrase, the major enzyme responsible for EPS
+biosynthesis in P. polymyxa, was successfully disrupted. The P. polymyxa
+levansucrase null mutant produced 2.5 ± 0.1 and 1.2 ± 0.2 g/liter EPS on sucrose 
+and glucose, respectively, whereas the wild type produced 21.7 ± 2.5 and
+3.1 ± 0.0 g/liter EPS on the same substrates, respectively. These levels of EPS
+translate to 8.7- and 2.6-fold decreases in EPS formation by the levansucrase
+null mutant on sucrose and glucose, respectively, relative to that by the wild
+type, with no significant reduction in 2,3-BD production. Inactivation of EPS
+biosynthesis led to a considerable increase in growth. On glucose and sucrose,
+the cell biomass of the levansucrase null mutant (8.1 ± 0.8 and 6.5 ± 0.3
+g/liter, respectively) increased 1.4-fold compared to that of the wild type
+(6.0 ± 0.1 and 4.6 ± 0.3 g/liter, respectively) grown on the same substrates.
+Evaluation of the genetic stability of the levansucrase null mutant showed that
+it remained genetically stable over fifty generations, with no observable
+decrease in growth or 2,3-BD formation, with or without antibiotic
+supplementation. Hence, the P. polymyxa levansucrase null mutant has potential
+for use as an industrial biocatalyst for a cost-effective large-scale 2,3-BD
+fermentation process devoid of EPS-related challenges.IMPORTANCE Given the
+current barrage of attention and research investments toward the production of
+next-generation fuels and chemicals, of which 2,3-butanediol (2,3-BD) produced by
+nonpathogenic Paenibacillus species is perhaps one of the most vigorously
+pursued, tools for engineering Paenibacillus species are intensely sought after. 
+Exopolysaccharide (EPS) production during 2,3-BD fermentation constitutes a
+problem during downstream processing. Specifically, EPS negatively impacts 2,3-BD
+separation from the fermentation broth, thereby increasing the overall cost of
+2,3-BD production. The results presented here demonstrate that inactivation of
+the levansucrase gene in P. polymyxa leads to diminished EPS accumulation.
+Additionally, a new method for an EPS assay and a simple protocol employing
+protoplasts for enhanced transformation of P. polymyxa were developed. Overall,
+although our study shows that levan is not the only EPS produced by P. polymyxa, 
+it represents a significant first step toward developing cost-effective 2,3-BD
+fermentation devoid of EPS-associated complications during downstream processing.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.00196-20 
+PMCID: PMC7170477 [Available on 2020-10-17]
+PMID: 32144108 
+

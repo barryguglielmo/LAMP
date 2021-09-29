@@ -1,0 +1,45 @@
+
+1. Eur J Clin Microbiol Infect Dis. 2020 Aug 17. doi: 10.1007/s10096-020-04003-6.
+[Epub ahead of print]
+
+Citrobacter telavivum sp. nov. with chromosomal mcr-9 from hospitalized patients.
+
+Ribeiro TG(1), Izdebski R(2), Urbanowicz P(2), Carmeli Y(3), Gniadkowski M(2),
+Peixe L(4).
+
+Author information: 
+(1)UCIBIO-REQUIMTE, Laboratório de Microbiologia, Faculdade de Farmácia,
+Universidade do Porto, Porto, Portugal.
+(2)Department of Molecular Microbiology, National Medicines Institute, Warsaw,
+Poland.
+(3)Division of Epidemiology, Tel-Aviv Sourasky Medical Centre, Tel-Aviv, Israel.
+(4)UCIBIO-REQUIMTE, Laboratório de Microbiologia, Faculdade de Farmácia,
+Universidade do Porto, Porto, Portugal. lpeixe@ff.up.pt.
+
+Strains 6105T and 6106, recovered from colonized patients in a hospital in
+Tel-Aviv, Israel, were compared with currently known species of the genus
+Citrobacter by a polyphasic taxonomic approach. Strains were characterized by
+whole-genome sequencing, 16S rRNA and recN gene sequencing, multilocus sequence
+analysis (MLSA), average nucleotide identity (ANI), Genome-to-Genome Distance
+Calculator (GGDC), and biochemical tests. The location and genetic surrounding of
+antibiotic resistance genes were investigated, and antibiotic susceptibility
+profiles were determined by broth microdilution or agar dilution methods.
+Phylogenetic analysis based on recN and MLSA revealed that both strains formed a 
+distinct cluster from all currently recognized species. The ANI and GGDC were
+90.7% and 54.3% with Citrobacter farmeri, respectively. The ability to metabolize
+various compounds also differentiated both strains from closely related
+Citrobacter species. Chromosomes of the isolates contained locus encoding a novel
+class A β-lactamase (TEL-1; 90.5% amino acid identity with CdiA of Citrobacter
+koseri) plus a LysR-like transcriptional regulator (TEL-R) and an ~ 25.5-kb mcr-9
+mosaic region. The direct mcr-9 context matched with those previously identified 
+in several plasmids and chromosomes of diverse Enterobacteriaceae, yet similarity
+with the plasmidic loci extended further. Untypeable plasmids, pCTEL-2 (~ 235 kb)
+and pCTEL-1 (~ 114 kb), devoid of resistance genes, were identified in the
+strains. The isolates were non-susceptible to β-lactams. The name Citrobacter
+telavivum sp. nov. is proposed, with 6105T (CECT 9989T or DSM 110286T) as the
+type strain. C. telavivum may represent a bacterial species adapting to hospital 
+settings, able to disseminate and acquire antimicrobial resistance genes.
+
+DOI: 10.1007/s10096-020-04003-6 
+PMID: 32808110 
+

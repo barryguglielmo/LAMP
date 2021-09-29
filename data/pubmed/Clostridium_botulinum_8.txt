@@ -1,0 +1,62 @@
+
+1. Food Microbiol. 2021 Feb;93:103618. doi: 10.1016/j.fm.2020.103618. Epub 2020 Aug 
+10.
+
+A predictive growth model for Clostridium botulinum during cooling of cooked
+uncured ground beef.
+
+Juneja VK(1), Purohit AS(2), Golden M(3), Osoria M(4), Glass KA(3), Mishra A(2), 
+Thippareddi H(5), Devkumar G(2), Mohr TB(6), Minocha U(7), Silverman M(8),
+Schaffner DW(9).
+
+Author information: 
+(1)U.S. Department of Agriculture, Agricultural Research Service, Eastern
+Regional Research Center, 600 East Mermaid Lane, Wyndmoor, PA, 19038, USA.
+Electronic address: vijay.juneja@ars.usda.gov.
+(2)Department of Food Science & Technology, University of Georgia, 100 Cedar
+Street, Athens, GA, 30602, USA.
+(3)Food Research Institute, 1550 Linden Drive, University of Wisconsin-Madison,
+Madison, WI, 53706, USA.
+(4)U.S. Department of Agriculture, Agricultural Research Service, Eastern
+Regional Research Center, 600 East Mermaid Lane, Wyndmoor, PA, 19038, USA.
+(5)Department of Poultry Science, University of Georgia, 110 Cedar Street,
+Athens, GA, 30602, USA.
+(6)U.S. Department of Agriculture, Food Safety and Inspection Service, Office of 
+Public Health Science, Science Staff, 530 Center Street, NE, Suite 401, Salem,
+OR, 97301, USA.
+(7)U.S. Department of Agriculture, Food Safety and Inspection Service, Office of 
+Public Health Science, Science Staff, Patriots Plaza III, Washington, D.C, 20250,
+USA.
+(8)U.S. Department of Agriculture, Food Safety and Inspection Service, Office of 
+Policy Program Development, Risk Management and Innovations Staff, Patriots Plaza
+III, Washington, D.C, 20250, USA.
+(9)Department of Food Science, Rutgers University, 54 Dudley Road, New Brunswick,
+NJ, 08901-8520, USA.
+
+A dynamic model to predict the germination and outgrowth of Clostridium botulinum
+spores in cooked ground beef was presented. Raw ground beef was inoculated with a
+ten-strain C. botulinum spore cocktail to achieve approximately 2 log spores/g.
+The inoculated ground beef was vacuum packaged, cooked to 71 °C to heat shock the
+spores, cooled to below 10 °C, and incubated isothermally at temperatures from 10
+to 46 °C. C. botulinum growth was quantified and fitted into the primary Baranyi 
+Model. Secondary models were fitted to maximum specific growth rate and lag phase
+duration using Modified Ratkowsky equation (R2 0.96) and hyperbolic function (R2 
+0.94), respectively. Similar experiments were also performed under non-isothermal
+(cooling) conditions. Acceptable zone prediction (APZ) analysis was conducted on 
+growth data collected over 3 linear cooling regimes from the current study. The
+model performance (prediction errors) for all 22 validation data points collected
+in the current work were within the APZ limits (-1.0 to +0.5 log CFU/g).
+Additionally, two other growth data sets of C. botulinum reported in the
+literature were also subjected to the APZ analysis. In these validations, 20/22
+and 10/14 predictions fell within the APZ limits. The model presented in this
+work can be employed to predict C. botulinum spore germination and growth in
+cooked uncured beef under non-isothermal conditions. The beef industry processors
+and food service organizations can utilize this predictive microbial model for
+cooling deviations and temperature abused situations and in developing customized
+process schedules for cooked, uncured beef products.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.fm.2020.103618 
+PMID: 32912576 
+

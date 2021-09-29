@@ -1,0 +1,57 @@
+
+1. Carbohydr Polym. 2020 Nov 1;247:116710. doi: 10.1016/j.carbpol.2020.116710. Epub 
+2020 Jul 9.
+
+One-pot bi-enzymatic cascade synthesis of puerarin polyfructosides.
+
+Núñez-López G(1), Morel S(2), Hernández L(3), Musacchio A(4), Amaya-Delgado L(5),
+Gschaedler A(6), Remaud-Simeon M(7), Arrizon J(8).
+
+Author information: 
+(1)Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de
+Jalisco A.C.- Unidad Zapopan, Camino Arenero 1227, El Bajio del Arenal, 4519,
+Zapopan, Jal., Mexico; TBI, Université de Toulouse, CNRS, INRAE, INSA, 135 Avenue
+de Rangueil, 31077, Toulouse, France. Electronic address:
+genunez_al@ciatej.edu.mx.
+(2)TBI, Université de Toulouse, CNRS, INRAE, INSA, 135 Avenue de Rangueil, 31077,
+Toulouse, France. Electronic address: morel@insa-toulouse.fr.
+(3)Centro de Ingeniería Genética y Biotecnología (CIGB), Ave. 31 e/158 y 190,
+Apartado Postal 6162, Habana, 10600, Cuba. Electronic address:
+lazaro.hernandez@cigb.edu.cu.
+(4)Centro de Ingeniería Genética y Biotecnología (CIGB), Ave. 31 e/158 y 190,
+Apartado Postal 6162, Habana, 10600, Cuba. Electronic address:
+alexis.musacchio@cigb.edu.cu.
+(5)Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de
+Jalisco A.C.- Unidad Zapopan, Camino Arenero 1227, El Bajio del Arenal, 4519,
+Zapopan, Jal., Mexico. Electronic address: lamaya@ciatej.mx.
+(6)Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de
+Jalisco A.C.- Unidad Zapopan, Camino Arenero 1227, El Bajio del Arenal, 4519,
+Zapopan, Jal., Mexico. Electronic address: agschaedler@ciatej.mx.
+(7)TBI, Université de Toulouse, CNRS, INRAE, INSA, 135 Avenue de Rangueil, 31077,
+Toulouse, France. Electronic address: remaud@insa-toulouse.fr.
+(8)Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de
+Jalisco A.C.- Unidad Zapopan, Camino Arenero 1227, El Bajio del Arenal, 4519,
+Zapopan, Jal., Mexico. Electronic address: jparrizon@ciatej.mx.
+
+Enzymatic glycosylation is an efficient way to increase the water solubility and 
+the bioavailability of flavonoids. Levansucrases from Bacillus subtilis
+(Bs_SacB), Gluconacetobacter diazotrophicus (Gd_LsdA), Leuconostoc mesenteroides 
+(Lm_LevS) and Zymomonas mobilis (Zm_LevU) were screened for puerarin
+(daidzein-8-C-glucoside) fructosylation. Gd_LsdA transferred the fructosyl unit
+of sucrose onto the glucosyl unit of the acceptor forming
+β-d-fructofuranosyl-(2→6)-puerarin (P1a), while Bs_SacB, Lm_LevS and Zm_LevU
+synthesized puerarin-4'-O-β-D-fructofuranoside (P1b) and traces of P1a. The
+Gd_LsdA product P1a was purified and assayed as precursor for the synthesis of
+puerarin polyfructosides (PPFs). Bs_SacB elongated P1a more competently forming a
+linear series of water-soluble PPFs reaching at least 21 fructosyl units, as
+characterized by HPLC-UV-MS, HPSEC and MALDI-TOF-MS. Simultaneous or sequential
+Gd_LsdA/Bs_SacB reactions yielded PPFs directly from puerarin with the acceptor
+conversion ranging 82-92 %. The bi-enzymatic cascade synthesis of PPFs in the
+same reactor avoided the isolation of the intermediate product P1a and it is
+appropriate for use at industrial scale.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.carbpol.2020.116710 
+PMID: 32829838 
+

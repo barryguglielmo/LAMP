@@ -1,0 +1,76 @@
+
+1. Ann Rheum Dis. 2020 Jan;79(1):103-111. doi: 10.1136/annrheumdis-2019-215743. Epub
+2019 Nov 7.
+
+Metagenome-wide association study of gut microbiome revealed novel aetiology of
+rheumatoid arthritis in the Japanese population.
+
+Kishikawa T(1)(2), Maeda Y(3)(4), Nii T(3)(4), Motooka D(5), Matsumoto Y(5),
+Matsushita M(6)(7), Matsuoka H(7), Yoshimura M(7), Kawada S(8), Teshigawara S(7),
+Oguro E(3)(7), Okita Y(7), Kawamoto K(8), Higa S(8), Hirano T(3), Narazaki M(3), 
+Ogata A(8), Saeki Y(7)(9), Nakamura S(5), Inohara H(2), Kumanogoh A(3)(10),
+Takeda K(4)(11), Okada Y(12)(13)(14).
+
+Author information: 
+(1)Department of Statistical Genetics, Osaka University School of Medicine
+Graduate School of Medicine, Suita, Japan.
+(2)Department of Otorhinolaryngology - Head and Neck Surgery, Osaka University
+Graduate School of Medicine, Suita, Japan.
+(3)Department of Respiratory Medicine and Clinical Immunology, Osaka University
+Graduate School of Medicine, Suita, Japan.
+(4)Laboratory of Immune Regulation, Department of Microbiology and Immunology,
+Osaka University Graduate School of Medicine, Suita, Japan.
+(5)Department of Infection Metagenomics, Research Institute for Microbial
+Diseases, Osaka University, Suita, Japan.
+(6)Department of Rheumatology and Allergology, Saiseikai Senri Hospital, Suita,
+Japan.
+(7)Rheumatology and Allergology, NHO Osaka Minami Medical Center, Kawachinagano, 
+Japan.
+(8)Division of Rheumatology, Department of Internal Medicine, Daini Osaka Police 
+Hospital, Tennoji-ku, Japan.
+(9)Clinical Research, NHO Osaka Minami Medical Center, Kawachinagano, Japan.
+(10)Department of Immunopathology, Immunology Frontier Research Center, Osaka
+University, Suita, Japan.
+(11)WPI Immunology Frontier Research Center, Osaka University, Suita, Japan.
+(12)Department of Statistical Genetics, Osaka University School of Medicine
+Graduate School of Medicine, Suita, Japan yokada@sg.med.osaka-u.ac.jp.
+(13)Laboratory of Statistical Immunology, Immunology Frontier Research Center
+(WPI-IFReC), Osaka University, Suita, Japan.
+(14)Integrated Frontier Research for Medical Science Division, Institute for Open
+and Transdisciplinary Research Initiatives, Osaka University, Suita, Japan.
+
+OBJECTIVE: The causality and pathogenic mechanism of microbiome composition
+remain elusive in many diseases, including autoimmune diseases such as rheumatoid
+arthritis (RA). This study aimed to elucidate gut microbiome's role in RA
+pathology by a comprehensive metagenome-wide association study (MWAS).
+METHODS: We conducted MWAS of the RA gut microbiome in the Japanese population (n
+case=82, n control=42) by using whole-genome shotgun sequencing of high depth
+(average 13 Gb per sample). Our MWAS consisted of three major bioinformatic
+analytic pipelines (phylogenetic analysis, functional gene analysis and pathway
+analysis).
+RESULTS: Phylogenetic case-control association tests showed high abundance of
+multiple species belonging to the genus Prevotella (e.g., Prevotella denticola)
+in the RA case metagenome. The non-linear machine learning method efficiently
+deconvoluted the case-control phylogenetic discrepancy. Gene functional
+assessments showed that the abundance of one redox reaction-related gene (R6FCZ7)
+was significantly decreased in the RA metagenome compared with controls. A
+variety of biological pathways including those related to metabolism (e.g., fatty
+acid biosynthesis and glycosaminoglycan degradation) were enriched in the
+case-control comparison. A population-specific link between the metagenome and
+host genome was identified by comparing biological pathway enrichment between the
+RA metagenome and the RA genome-wide association study results. No apparent
+discrepancy in alpha or beta diversities of metagenome was found between RA cases
+and controls.
+CONCLUSION: Our shotgun sequencing-based MWAS highlights a novel link among the
+gut microbiome, host genome and pathology of RA, which contributes to our
+understanding of the microbiome's role in RA aetiology.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/annrheumdis-2019-215743 
+PMCID: PMC6937407
+PMID: 31699813  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+

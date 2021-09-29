@@ -1,0 +1,37 @@
+
+1. Int J Syst Evol Microbiol. 2020 Feb;70(2):790-796. doi: 10.1099/ijsem.0.003826.
+
+Mixta tenebrionis sp. nov., isolated from the gut of the plastic-eating mealworm 
+Tenebrio molitor L.
+
+Xia M(1), Wang J(1), Huo YX(2)(1), Yang Y(1).
+
+Author information: 
+(1)Department of Biology, School of Life Science, Beijing Institute of
+Technology, Beijing 100081, PR China.
+(2)Key Laboratory of Molecular Medicine and Biotherapy, Beijing Institute of
+Technology, Beijing 100081, PR China.
+
+A bacterial strain, BIT-26T, was isolated from the gut of plastic-eating mealworm
+Tenebrio molitor L. The taxonomic position of this new isolate was investigated
+by using a polyphasic approach. Cells of the strain were Gram-stain-negative,
+facultatively anaerobic, motile rods with peritrichous flagella. The 16S rRNA
+gene sequence (1412 bp) of strain BIT-26T showed the highest similarity (97.4 %) 
+to Erwinia piriflorinigrans CFBP 5888T, followed by Citrobacter sedlakii NBRC
+105722T (97.3 %), Mixta calida LMG 25383T (97.3 %), Cronobacter muytjensii ATCC
+51329T (97.2 %) and Mixta theicola QC88-366 T (97.2 %). The results of
+phylogenetic analyses, based on the 16S rRNA gene and concatenated sequences of
+four housekeeping genes (atpD﻿, gyrB, infB ﻿and rpoB), placed strain BIT-26T
+within the genus Mixta of the family Erwiniaceae. This affiliation was also
+supported by the chemotaxonomic data. Strain BIT-26T had similar predominant
+fatty acids, including C12 : 0, C14 : 0, C16 : 0, C17 : 0 cyclo and C19 : 0 cyclo
+ω8c, to species of the genus Mixta. In silico DNA-DNA hybridization and average
+nucleotide identity calculations plus physiological and biochemical tests allowed
+the genotypic and phenotypic differentiation of strain BIT-26T from other species
+of the genus Mixta with validly published names. Therefore, strain BIT-26T is
+considered to represent a novel species, for which the name Mixta tenebrionis sp.
+nov is proposed. The type strain is BIT-26T (=CGMCC 1.17041T=KCTC 72449T).
+
+DOI: 10.1099/ijsem.0.003826 
+PMID: 31675291  [Indexed for MEDLINE]
+

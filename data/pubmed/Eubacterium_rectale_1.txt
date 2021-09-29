@@ -1,0 +1,47 @@
+
+1. iScience. 2020 Aug 28;23(9):101510. doi: 10.1016/j.isci.2020.101510. [Epub ahead 
+of print]
+
+Environmental and Intestinal Phylum Firmicutes Bacteria Metabolize the Plant
+Sugar Sulfoquinovose via a 6-Deoxy-6-sulfofructose Transaldolase Pathway.
+
+Frommeyer B(1), Fiedler AW(2), Oehler SR(2), Hanson BT(3), Loy A(3), Franchini
+P(2), Spiteller D(1), Schleheck D(4).
+
+Author information: 
+(1)Department of Biology, University of Konstanz, 78457 Konstanz, Germany;
+Konstanz Research School Chemical Biology (KoRS-CB), University of Konstanz,
+78457 Konstanz, Germany.
+(2)Department of Biology, University of Konstanz, 78457 Konstanz, Germany.
+(3)Division of Microbial Ecology, Centre for Microbiology and Environmental
+Systems Science, University of Vienna, 1090 Wien, Austria.
+(4)Department of Biology, University of Konstanz, 78457 Konstanz, Germany;
+Konstanz Research School Chemical Biology (KoRS-CB), University of Konstanz,
+78457 Konstanz, Germany. Electronic address: david.schleheck@uni-konstanz.de.
+
+Bacterial degradation of the sugar sulfoquinovose (SQ, 6-deoxy-6-sulfoglucose)
+produced by plants, algae, and cyanobacteria, is an important component of the
+biogeochemical carbon and sulfur cycles. Here, we reveal a third biochemical
+pathway for primary SQ degradation in an aerobic Bacillus aryabhattai strain. An 
+isomerase converts SQ to 6-deoxy-6-sulfofructose (SF). A novel transaldolase
+enzyme cleaves the SF to 3-sulfolactaldehyde (SLA), while the non-sulfonated
+C3-(glycerone)-moiety is transferred to an acceptor molecule, glyceraldehyde
+phosphate (GAP), yielding fructose-6-phosphate (F6P). Intestinal anaerobic
+bacteria such as Enterococcus gilvus, Clostridium symbiosum, and Eubacterium
+rectale strains also express transaldolase pathway gene clusters during
+fermentative growth with SQ. The now three known biochemical strategies for SQ
+catabolism reflect adaptations to the aerobic or anaerobic lifestyle of the
+different bacteria. The occurrence of these pathways in intestinal (family)
+Enterobacteriaceae and (phylum) Firmicutes strains further highlights a potential
+importance of metabolism of green-diet SQ by gut microbial communities to,
+ultimately, hydrogen sulfide.
+
+Copyright © 2020 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.isci.2020.101510 
+PMCID: PMC7491151
+PMID: 32919372 
+
+Conflict of interest statement: Declaration of Interests The authors declare they
+have no competing interests.
+

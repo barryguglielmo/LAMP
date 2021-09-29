@@ -1,0 +1,53 @@
+
+1. Phys Chem Chem Phys. 2020 Jun 10;22(22):12434-12446. doi: 10.1039/d0cp02014a.
+
+The first molecular characterisation of blue- and red-light photoreceptors from
+Methylobacterium radiotolerans.
+
+Consiglieri E(1), Xu QZ(2), Zhao KH(3), Gärtner W(4), Losi A(1).
+
+Author information: 
+(1)Department of Mathematical, Physical and Computer Sciences, University of
+Parma, Parco Area delle Scienze 7/A, 43124 Parma, Italy. aba.losi@unipr.it.
+(2)Institute for Analytical Chemistry, University of Leipzig, Linnéstrasse 3,
+04103 Leipzig, Germany and State Key Laboratory of Agricultural Microbiology,
+Huazhong Agricultural University, Wuhan 430070, China.
+(3)State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural
+University, Wuhan 430070, China.
+(4)Institute for Analytical Chemistry, University of Leipzig, Linnéstrasse 3,
+04103 Leipzig, Germany.
+
+Methylobacteria are facultative methylotrophic phytosymbionts of great industrial
+and agronomical interest, and they are considered as opportunistic pathogens
+posing a health threat to humans. So far only a few reports mention photoreceptor
+coding sequences in Methylobacteria genomes, but no investigation at the
+molecular level has been performed yet. We here present comprehensive in silico
+research into potential photoreceptors in this bacterial phylum and report the
+photophysical and photochemical characterisation of two representatives of the
+most widespread photoreceptor classes, a blue-light sensing LOV (light, oxygen,
+voltage) protein and a red/far red light sensing BphP (biliverdin-binding
+bacterial phytochrome) from M. radiotolerans JCM 2831. Overall, both proteins
+undergo the expected light-triggered reactions, but peculiar features were also
+identified. The LOV protein Mr4511 has an extremely long photocycle and lacks a
+tryptophan conserved in ca. 75% of LOV domains. Mutation I37V accelerates the
+photocycle by one order of magnitude, while the Q112W change underscores the
+ability of tryptophan in this position to perform efficient energy transfer to
+the flavin chromophore. Time-resolved photoacoustic experiments showed that
+Mr4511 has a higher triplet quantum yield than other LOV domains and that the
+formation of the photoproduct results in a volume expansion, in sharp contrast to
+other LOV proteins. Mr4511 was found to be astonishingly resistant to
+denaturation by urea, still showing light-triggered reactions after incubation in
+urea for more than 20 h. The phytochrome MrBphP1 exhibits the so far most
+red-shifted absorption maxima for its Pr- and Pfr forms (λmax = 707 nm and 764 nm
+for the Pr and Pfr forms). The light-driven conversions in both directions occur 
+with relatively high quantum yields of 0.2. Transient ns absorption spectroscopy 
+(μs-ms time range) identifies the decay of the instantaneously formed
+lumi-intermediate, followed by only one additional intermediate before the
+formation of the respective final photoproducts for Pr-to-Pfr or Pfr-to-Pr
+photoconversion, in contrast to other BphPs. The relatively simple
+photoconversion patterns suggest the absence of the shunt pathways reported for
+other bacterial phytochromes.
+
+DOI: 10.1039/d0cp02014a 
+PMID: 32458860 
+

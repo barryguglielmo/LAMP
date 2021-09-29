@@ -1,0 +1,59 @@
+
+1. Biomed Res Int. 2020 Jan 22;2020:3707804. doi: 10.1155/2020/3707804. eCollection 
+2020.
+
+Statistical Experimental Design Optimization of Microbial Proteases Production
+under Co-Culture Conditions for Chitin Recovery from Speckled Shrimp Metapenaeus 
+monoceros By-Product.
+
+Jabeur F(1), Mechri S(1), Kriaa M(2), Gharbi I(1), Bejaoui N(3), Sadok S(4),
+Jaouadi B(1).
+
+Author information: 
+(1)Laboratory of Microbial Biotechnology and Engineering Enzymes (LMBEE), Centre 
+of Biotechnology of Sfax (CBS), University of Sfax, Road of Sidi Mansour Km 6,
+P.O. Box 1177, Sfax 3018, Tunisia.
+(2)Laboratory of Microorganisms and Biomolecules (LMB), Centre of Biotechnology
+of Sfax (CBS), University of Sfax, Road of Sidi Mansour Km 6, P.O. Box 1177, Sfax
+3018, Tunisia.
+(3)Institut National Agronomique de Tunis (INAT), Université de Carthage, 43
+Avenue Charles Nicolle, 1082 Tunis Maharajène, Tunisia.
+(4)Laboratory of Blue Biotechnology & Aquatic Bioproducts (B3Aqua), Institut
+National des Sciences et Technologies de la Mer (INSTM), Annexe La Goulette Port 
+de Pêche, La Goulette 2060, Tunisia.
+
+This study was designed with the aim to produce microbial proteases in presence
+of speckled shrimp by-product. For this reason, three strains belonging to
+Bacillus genus, namely, Aeribacillus pallidus VP3, Lysinibacillus fusiformis
+C250R, and Anoxybacillus kamchatkensis M1V were studied under co-culture
+procedure. A Taguchi L27 experimental design was applied to optimize the
+co-culture parameters. The experimental design was built with 9 factors
+(by-product powder concentration, the pH of the medium, the temperature, the
+sucrose concentration, the agitation speed, the inoculum sizes of VP3, M1V, and
+C250R strains, and the culture volume) at three different levels. The obtained
+results showed that a total protease activity of 8,182 U/mL could be achieved
+after 24 h of incubation in presence of 20 g/L shrimp by-product and 10 g/L
+sucrose, at an initial pH of 7, a 40°C temperature and absorbance, at 600 nm, of 
+inoculum sizes of 0.1, 0.3, and 0.1 for VP3, M1V, and C250R strains,
+respectively. The agitation was set at 200 rpm, and the final volume was 25 mL.
+Taguchi's design allowed the identification of temperature, the inoculum size for
+strain VP3, the inoculum size for strain M1V, and the final culture volume as the
+most influencing variables. A Box-Behnken design with 27 experiments was carried 
+out for the optimization of these four selected factors. Following such design,
+the highest protease production reached was 11,300 U/mL. This yield was obtained 
+in a final culture volume of 15 mL containing 20 g/L shrimp by-product powder and
+10 g/L sucrose and inoculated with VP3, C250R, and M1V strains at 0.05, 0.1, and 
+0.2, respectively. The flasks were incubated at 45°C for 24 h with shaking at
+200 rpm. The efficiency of chitin extraction by co-cultivation was investigated
+under the latter conditions. The chitin yield from shells by-product was 16.7%.
+Fourier-Transform Infrared (FTIR) analysis of the obtained chitin displayed
+characteristic profiles similar to that of the commercial α-chitin.
+
+Copyright © 2020 Fadoua Jabeur et al.
+
+DOI: 10.1155/2020/3707804 
+PMCID: PMC6998744
+PMID: 32090083 
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+

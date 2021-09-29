@@ -1,0 +1,40 @@
+
+1. Photochem Photobiol. 2020 Jan;96(1):156-169. doi: 10.1111/php.13168. Epub 2019
+Oct 22.
+
+Photoinactivation Sensitivity of Staphylococcus carnosus to Visible-light
+Irradiation as a Function of Wavelength.
+
+Hoenes K(1), Wenzel U(1), Spellerberg B(2), Hessling M(1).
+
+Author information: 
+(1)Institute of Medical Engineering and Mechatronics, Ulm University of Applied
+Sciences, Ulm, Germany.
+(2)Institute of Medical Microbiology and Hygiene, University of Ulm, Ulm,
+Germany.
+
+Inactivation properties of visible light are of increasing interest due to
+multiple possible fields of application concerning antibacterial treatment. For
+violet wavelengths, the generation of reactive oxygen species by porphyrins is
+accepted as underlying mechanism. However, there is still little knowledge about 
+photosensitizers at blue wavelengths. While flavins were named as possible
+candidates, there is still no experimental evidence. This study investigates the 
+photoinactivation sensitivity of Staphylococcus carnosus to selected wavelengths 
+between 390 and 500 nm in 10- to 25-nm intervals. Absorption and fluorescence
+measurements in bacterial lysates confirmed inactivation findings. By means of a 
+mathematical calculation in MATLAB® , a fit of different photosensitizer
+absorption spectra to the measured action spectrum was determined to gain
+knowledge about the extent to which specific photosensitizers are involved. The
+most effective wavelength for S. carnosus at 415 nm could be explained by the
+involvement of zinc protoporphyrin IX. Between 450 and 470 nm, inactivation
+results indicated a broad plateau, statistically distinguishable from 440 and
+480 nm. This observation points to flavins as responsible photosensitizers, which
+furthermore seem to be involved at violet wavelengths. A spectral scan of
+sensitivities might generally be an advantageous approach for examining
+irradiation impact.
+
+© 2019 American Society for Photobiology.
+
+DOI: 10.1111/php.13168 
+PMID: 31556126 
+

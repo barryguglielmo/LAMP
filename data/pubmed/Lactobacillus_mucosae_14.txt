@@ -1,0 +1,48 @@
+
+1. Int J Mol Sci. 2019 Dec 13;20(24). pii: E6294. doi: 10.3390/ijms20246294.
+
+High Mobility Group Box 1 and TLR4 Signaling Pathway in Gnotobiotic Piglets
+Colonized/Infected with L. amylovorus, L. mucosae, E. coli Nissle 1917 and S.
+Typhimurium.
+
+Splichal I(1), Donovan SM(2), Jenistova V(1), Splichalova I(3), Salmonova H(4),
+Vlkova E(4), Neuzil Bunesova V(4), Sinkora M(1), Killer J(4)(5), Skrivanova E(4),
+Splichalova A(1).
+
+Author information: 
+(1)Laboratory of Gnotobiology, Institute of Microbiology, Czech Academy of
+Sciences, 549 22 Novy Hradek, Czech Republic.
+(2)Department of Food Science and Human Nutrition, University of Illinois,
+Urbana, IL 61801, USA.
+(3)Laboratory of Immunobiology, Institute of Molecular Genetics, Czech Academy of
+Sciences, 142 20 Prague, Czech Republic.
+(4)Department of Microbiology, Nutrition and Dietetics, Faculty of Agrobiology,
+Food and Natural Resources, Czech University of Life Sciences in Prague, 165 00
+Prague, Czech Republic.
+(5)Laboratory of Anaerobic Microbiology, Institute of Animal Physiology and
+Genetics, Czech Academy of Sciences, 142 20 Prague, Czech Republic.
+
+High mobility group box 1 (HMGB1) is a DNA-binding nuclear protein that can be
+actively secreted by immune cells after different immune stimuli or passively
+released from cells undergoing necrosis. HMGB1 amplifies inflammation, and its
+hypersecretion contributes to multiple organ dysfunction syndrome and death. We
+tested possible immunomodulatory effect of commensal Lactobacillus amylovorus
+(LA), Lactobacillus mucosae (LM) or probiotic Escherichia coli Nissle 1917 (EcN) 
+in infection of gnotobiotic piglets with Salmonella Typhimurium (ST).
+Transcription of HMGB1 and Toll-like receptors (TLR) 2, 4, and 9 and receptor for
+advanced glycation end products (RAGE), TLR4-related molecules (MD-2, CD14, and
+LBP), and adaptor proteins (MyD88 and TRIF) in the ileum and colon were measured 
+by RT-qPCR. Expression of TLR4 and its related molecules were highly upregulated 
+in the ST-infected intestine, which was suppressed by EcN, but not LA nor LM. In 
+contrast, HMGB1 expression was unaffected by ST infection or commensal/probiotic 
+administration. HMGB1 protein levels in the intestine measured by ELISA were
+increased in ST-infected piglets, but they were decreased by previous
+colonization with E. coli Nissle 1917 only. We conclude that the stability of
+HMGB1 mRNA expression in all piglet groups could show its importance for DNA
+transcription and physiological cell functions. The presence of HMGB1 protein in 
+the intestinal lumen probably indicates cellular damage.
+
+DOI: 10.3390/ijms20246294 
+PMCID: PMC6940798
+PMID: 31847111  [Indexed for MEDLINE]
+

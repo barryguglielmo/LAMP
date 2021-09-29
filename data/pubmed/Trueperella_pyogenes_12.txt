@@ -1,0 +1,38 @@
+
+1. Int J Mol Sci. 2020 Jun 13;21(12). pii: E4230. doi: 10.3390/ijms21124230.
+
+New Determinants of Aminoglycoside Resistance and Their Association with the
+Class 1 Integron Gene Cassettes in Trueperella pyogenes.
+
+Kwiecień E(1), Stefańska I(1), Chrobak-Chmiel D(1), Sałamaszyńska-Guz A(1),
+Rzewuska M(1).
+
+Author information: 
+(1)Department of Preclinical Sciences, Institute of Veterinary Medicine, Warsaw
+University of Life Sciences, Ciszewskiego 8 St., 02-786 Warsaw, Poland.
+
+Trueperella pyogenes is an important opportunistic animal pathogen. Different
+antimicrobials, including aminoglycosides, are used to treat T. pyogenes
+infections. The aim of the present study was to evaluate aminoglycoside
+susceptibility and to detect aminoglycoside resistance determinants in 86 T.
+pyogenes isolates of different origin. Minimum inhibitory concentration of
+gentamicin, streptomycin, and kanamycin was determined using a standard broth
+microdilution method. Genetic elements associated with aminoglycoside resistance 
+were investigated by PCR and DNA sequencing. All studied isolates were
+susceptible to gentamicin, but 32.6% and 11.6% of them were classified as
+resistant to streptomycin and kanamycin, respectively. A total of 30 (34.9%)
+isolates contained class 1 integrons. Class 1 integron gene cassettes carrying
+aminoglycoside resistance genes, aadA11 and aadA9, were found in seven and two
+isolates, respectively. Additionally, the aadA9 gene found in six isolates was
+not associated with mobile genetic elements. Moreover, other, not carried by gene
+cassettes, aminoglycoside resistance genes, strA-strB and aph(3')-IIIa, were also
+detected. Most importantly, this is the first description of all reported genes
+in T. pyogenes. Nevertheless, the relevance of the resistance phenotype to
+genotype was not perfectly matched in 14 isolates. Therefore, further
+investigations are needed to fully explain aminoglycoside resistance mechanisms
+in T. pyogenes.
+
+DOI: 10.3390/ijms21124230 
+PMCID: PMC7352783
+PMID: 32545831 
+

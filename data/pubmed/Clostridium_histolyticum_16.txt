@@ -1,0 +1,35 @@
+
+1. Hand (N Y). 2020 Jun 7:1558944720919923. doi: 10.1177/1558944720919923. [Epub
+ahead of print]
+
+Return-to-Function Following Treatment of Dupuytren Contracture With Collagenase 
+Clostridium Histolyticum Versus Fasciectomy.
+
+Divino VM(1), DeKoven M(1), Hurley D(2).
+
+Author information: 
+(1)IQVIA, Falls Church, VA, USA.
+(2)Endo Pharmaceuticals Inc., Malvern, PA, USA.
+
+Background: Dupuytren contracture (DC) treatment with collagenase clostridium
+histolyticum (CCH) has lower associated treatment costs than fasciectomy, but
+real-world, postprocedure return-to-function data are limited. Methods: This
+retrospective study used a US claims database and included adults treated for DC 
+with CCH or fasciectomy (first treatment = index date), who had continuous health
+plan enrollment ≥360 days preindex and ≥90 days postindex (ie, 90-day follow-up).
+Analgesic use and physical therapy (PT) and occupational therapy (OT) visits
+during the follow-up were used as surrogate markers for return-to-function.
+Results: Overall, 1654 and 2745 patients were included in the CCH and fasciectomy
+cohorts, respectively. A significantly lower percentage of patients in the CCH
+versus fasciectomy cohort used opioid analgesics (32.3% vs 82.7%; P < .0001),
+used nonsteroidal anti-inflammatory drugs (8.6% vs 17.2%; P < .0001), or had ≥1
+DC-specific PT or OT visit during follow-up (PT, 38.9% vs 45.3% [P < .0001]; OT, 
+32.8% vs 38.0% [P = .0006]). The mean number of DC-specific PT and OT visits (PT,
+2.5 vs 6.4 [P < .0001]; OT, 1.4 vs 1.9 [P < .0001]) per patient was significantly
+lower in the CCH versus fasciectomy cohort. Conclusions: This analysis using
+surrogate markers suggests that CCH treatment may allow earlier
+return-to-function than fasciectomy in adults treated for DC.
+
+DOI: 10.1177/1558944720919923 
+PMID: 32507053 
+

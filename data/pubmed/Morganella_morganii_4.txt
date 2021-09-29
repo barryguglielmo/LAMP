@@ -1,0 +1,42 @@
+
+1. Arch Biochem Biophys. 2020 Aug 29;693:108551. doi: 10.1016/j.abb.2020.108551.
+[Epub ahead of print]
+
+A single amino acid substitution converts a histidine decarboxylase to an
+imidazole acetaldehyde synthase.
+
+Takeshima D(1), Mori A(1), Ito H(1), Komori H(2), Ueno H(3), Nitta Y(4).
+
+Author information: 
+(1)Department of Nutritional Science, Faculty of Health and Welfare Science,
+Okayama Prefectural University, 111 Kuboki, Soja-shi, Okayama, 719-1197, Japan.
+(2)Faculty of Education, Kagawa University, 1-1 Saiwai-cho, Takamatsu, Kagawa,
+760-8522, Japan.
+(3)Laboratory of Applied Microbiology & Biochemistry, Ryukoku University, Seta,
+Ohtsu, Shiga, 520-2194, Japan.
+(4)Department of Nutritional Science, Faculty of Health and Welfare Science,
+Okayama Prefectural University, 111 Kuboki, Soja-shi, Okayama, 719-1197, Japan.
+Electronic address: nitta@fhw.oka-pu.ac.jp.
+
+Histidine decarboxylase (HDC; EC 4.1.1.22), an enzyme that catalyzes histamine
+synthesis with high substrate specificity, is a member of the group II pyridoxal 
+5'-phosphate (PLP) -dependent decarboxylase family. Tyrosine is a conserved
+residue among group II PLP-dependent decarboxylases. Human HDC has a Y334 located
+on a catalytically important loop at the active site. In this study, we
+demonstrated that a HDC Y334F mutant is capable of catalyzing the
+decarboxylation-dependent oxidative deamination of histidine to yield imidazole
+acetaldehyde. Replacement of the active-site Tyr with Phe in group II
+PLP-dependent decarboxylases, including mammalian aromatic amino acid
+decarboxylase, plant tyrosine/DOPA decarboxylase, and plant tryptophan
+decarboxylase, is expected to result in the same functional change, given that a 
+Y-to-F substitution at the corresponding residue (number 260) in the HDC of
+Morganella morganii, another group II PLP-dependent decarboxylase, yielded the
+same effect. Thus, it was suggested that the loss of the OH moiety from the
+active-site Tyr residue of decarboxylase uniquely converts the enzyme to an
+aldehyde synthase.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.abb.2020.108551 
+PMID: 32871134 
+

@@ -1,0 +1,45 @@
+
+1. Nature. 2020 Jul;583(7817):590-595. doi: 10.1038/s41586-020-2496-1. Epub 2020 Jul
+15.
+
+A single-cell transcriptomic atlas characterizes ageing tissues in the mouse.
+
+Tabula Muris Consortium.
+
+Collaborators: Almanzar N, Antony J, Baghel AS, Bakerman I, Bansal I, Barres BA, 
+Beachy PA, Berdnik D, Bilen B, Brownfield D, Cain C, Chan CKF, Chen MB, Clarke
+MF, Conley SD, Darmanis S, Demers A, Demir K, de Morree A, Divita T, du Bois H,
+Ebadi H, Espinoza FH, Fish M, Gan Q, George BM, Gillich A, Gòmez-Sjöberg R, Green
+F, Genetiano G, Gu X, Gulati GS, Hahn O, Haney MS, Hang Y, Harris L, He M,
+Hosseinzadeh S, Huang A, Huang KC, Iram T, Isobe T, Ives F, Jones RC, Kao KS,
+Karkanias J, Karnam G, Keller A, Kershner AM, Khoury N, Kim SK, Kiss BM, Kong W, 
+Krasnow MA, Kumar ME, Kuo CS, Lam J, Lee DP, Lee SE, Lehallier B, Leventhal O, Li
+G, Li Q, Liu L, Lo A, Lu WJ, Lugo-Fagundo MF, Manjunath A, May AP, Maynard A,
+McGeever A, McKay M, McNerney MW, Merrill B, Metzger RJ, Mignardi M, Min D,
+Nabhan AN, Neff NF, Ng KM, Nguyen PK, Noh J, Nusse R, Pálovics R, Patkar R, Peng 
+WC, Penland L, Pisco AO, Pollard K, Puccinelli R, Qi Z, Quake SR, Rando TA,
+Rulifson EJ, Schaum N, Segal JM, Sikandar SS, Sinha R, Sit RV, Sonnenburg J,
+Staehli D, Szade K, Tan M, Tan W, Tato C, Tellez K, Dulgeroff LBT, Travaglini KJ,
+Tropini C, Tsui M, Waldburger L, Wang BM, van Weele LJ, Weinberg K, Weissman IL, 
+Wosczyna MN, Wu SM, Wyss-Coray T, Xiang J, Xue S, Yamauchi KA, Yang AC, Yerra LP,
+Youngyunpipatkul J, Yu B, Zanini F, Zardeneta ME, Zee A, Zhao C, Zhang F, Zhang
+H, Zhang MJ, Zhou L, Zou J.
+
+Ageing is characterized by a progressive loss of physiological integrity, leading
+to impaired function and increased vulnerability to death1. Despite rapid
+advances over recent years, many of the molecular and cellular processes that
+underlie the progressive loss of healthy physiology are poorly understood2. To
+gain a better insight into these processes, here we generate a single-cell
+transcriptomic atlas across the lifespan of Mus musculus that includes data from 
+23 tissues and organs. We found cell-specific changes occurring across multiple
+cell types and organs, as well as age-related changes in the cellular composition
+of different organs. Using single-cell transcriptomic data, we assessed
+cell-type-specific manifestations of different hallmarks of ageing-such as
+senescence3, genomic instability4 and changes in the immune system2. This
+transcriptomic atlas-which we denote Tabula Muris Senis, or 'Mouse Ageing Cell
+Atlas'-provides molecular information about how the most important hallmarks of
+ageing are reflected in a broad range of tissues and cell types.
+
+DOI: 10.1038/s41586-020-2496-1 
+PMID: 32669714 
+

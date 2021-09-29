@@ -1,0 +1,40 @@
+
+1. Appl Microbiol Biotechnol. 2020 Jun;104(11):4903-4913. doi:
+10.1007/s00253-020-10588-x. Epub 2020 Apr 8.
+
+Expression of a β-glucosidase in bacteria with biotechnological interest confers 
+them the ability to deglycosylate lignans and flavonoids in vegetal foods.
+
+Gaya P(1), Peirotén Á(1), Landete JM(2).
+
+Author information: 
+(1)Departamento de Tecnología de Alimentos, Instituto Nacional de Investigación y
+Tecnología Agraria y Alimentaria (INIA), Carretera de la Coruña Km 7.5, 28040,
+Madrid, Spain.
+(2)Departamento de Tecnología de Alimentos, Instituto Nacional de Investigación y
+Tecnología Agraria y Alimentaria (INIA), Carretera de la Coruña Km 7.5, 28040,
+Madrid, Spain. landete.josem@inia.es.
+
+Lignans and flavonoids are found in plants in their glycosylated forms and need
+to be hydrolyzed to aglycones to become bioavailable. Putative β-glucosidase
+genes from Lactobacillus mucosae INIA P508 were inserted into the plasmid
+pNZ:TuR. The strain Lactococcus lactis MG1363 harboring the plasmid
+pNZ:TuR.glu913 showed high β-glucosidase activity and was able to transform
+secoisolariciresinol diglucoside (SDG) into secoisolariciresinol (SECO). Lactic
+acid bacteria and Bifidobacterium strains harboring pNZ:TuR.glu913 were incubated
+with a soy beverage supplemented with flax seed extracts. SDG was almost
+completely consumed by the transformed strains, while concentration of SECO
+greatly increased. Moreover, these strains showed high deglycosylation of the
+isoflavone glycosides daidzin and genistin. In addition, other lignan and
+flavonoid aglycones were produced, i.e. matairesinol, pinoresinol, quercetin, and
+eriodyctiol. These deglycosylase activities were maintained when this glucosidase
+gene was cloned in a food grade vector, pLEB590, and transformed into L. lactis
+MG1363. This is the first report of the use of a food grade plasmid that confers 
+the ability to efficiently catalyze the deglycosylation of lignans,
+isoflavonoids, flavones, and flavanones. The recombinant bacteria of this study
+would be of value for the development of fermented vegetal foods enriched in
+bioavailable forms of lignans and flavonoids.
+
+DOI: 10.1007/s00253-020-10588-x 
+PMID: 32270251 
+

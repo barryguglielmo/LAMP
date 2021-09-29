@@ -1,0 +1,38 @@
+
+1. Bioresour Technol. 2020 Sep 13;319:124117. doi: 10.1016/j.biortech.2020.124117.
+[Epub ahead of print]
+
+Ethanol as an efficient cosubstrate for the biodegradation of azo dyes by
+Providencia rettgeri: Mechanistic analysis based on kinetics, pathways and
+genomics.
+
+Shi Y(1), Yang Z(1), Xing L(1), Zhou J(1), Ren J(1), Ming L(2), Hua Z(2), Li
+X(1), Zhang D(3).
+
+Author information: 
+(1)Key Laboratory of Marine Chemistry Theory and Technology, Ministry of
+Education, Ocean University of China, Qingdao 266100, Shandong, PR China.
+(2)Air Liquide (China) R&D Co., Ltd., Shanghai 201108, PR China.
+(3)Key Laboratory of Marine Chemistry Theory and Technology, Ministry of
+Education, Ocean University of China, Qingdao 266100, Shandong, PR China.
+Electronic address: dahaizhang@ouc.edu.cn.
+
+Azo dyes pose hazards to ecosystems and human health and the cosubstrate strategy
+has become the focus for the bioremediation of azo dyes. Herein, Brilliant
+Crocein (BC), a model pollutant, was biodegraded by Providencia rettgeri
+domesticated from activated sludge. Additional ethanol, as a cosubstrate, could
+accelerate P. rettgeri growth and BC biodegradation, as reflected by the Gompertz
+models. This phenomenon was attributed to the smaller metabolites and greater
+number of potential pathways observed under the synergistic effect of ethanol.
+Genomic analysis of P. rettgeri showed that functional genes related to azo bond 
+cleavage, redox reactions, ring opening and hydrolysis played crucial roles in
+azo dye biodegradation. Furthermore, the mechanism proposed was that ethanol
+might stimulate the production of additional reducing power via the expression of
+related genes, leading to the cleavage of azo bonds and aromatic rings. However, 
+biodegradation without ethanol could only partly cleave the azo bonds.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biortech.2020.124117 
+PMID: 32979594 
+

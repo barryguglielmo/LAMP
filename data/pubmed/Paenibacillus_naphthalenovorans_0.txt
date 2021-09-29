@@ -1,0 +1,53 @@
+
+1. J Biosci Bioeng. 2019 Nov;128(5):571-577. doi: 10.1016/j.jbiosc.2019.05.006. Epub
+2019 Jun 13.
+
+Isolation and characterization of a moderate thermophilic Paenibacillus
+naphthalenovorans strain 4B1 capable of degrading dibenzofuran from
+dioxin-contaminated soil in Vietnam.
+
+Thanh LTH(1), Thi TVN(1), Shintani M(2), Moriuchi R(3), Dohra H(3), Loc NH(4),
+Kimbara K(5).
+
+Author information: 
+(1)Department of Environment and Energy System, Graduate School of Science and
+Technology, Shizuoka University, 3-5-1 Johoku, Naka-ku, Hamamatsu, Shizuoka
+432-8561, Japan; Department of Biology, College of Sciences, Hue University, Hue,
+Thua Thien Hue 530000, Viet Nam.
+(2)Department of Bioscience, Graduate School of Science and Technology, Shizuoka 
+University, 3-5-1 Johoku, Naka-ku, Hamamatsu, Shizuoka 432-8561, Japan; Research 
+Institute of Green Science and Technology, Shizuoka University, 836 Ohya,
+Suruga-ku, Shizuoka, Shizuoka 422-8529, Japan.
+(3)Research Institute of Green Science and Technology, Shizuoka University, 836
+Ohya, Suruga-ku, Shizuoka, Shizuoka 422-8529, Japan.
+(4)Department of Biology, College of Sciences, Hue University, Hue, Thua Thien
+Hue 530000, Viet Nam; Institute of Bioactive Compounds, College of Sciences, Hue 
+University, Hue, Thua Thien Hue 530000, Viet Nam.
+(5)Department of Environment and Energy System, Graduate School of Science and
+Technology, Shizuoka University, 3-5-1 Johoku, Naka-ku, Hamamatsu, Shizuoka
+432-8561, Japan. Electronic address: kimbara.kazuhide@shizuoka.ac.jp.
+
+A moderate thermophilic dibenzofuran (DF) degrader, strain 4B1, was isolated from
+dioxin-contaminated soil in Vietnam under thermophilic condition. A 16S rRNA gene
+sequence analysis assigned the strain to genus Paenibacillus. The optimum growth 
+temperature of strain 4B1 was 45°C with a doubling time of 2.7 h in the presence 
+of DF as a sole carbon and energy source. The rate of its growth and
+DF-degradation were approximately 3-fold higher than those of a reference
+Paenibacillus sp. strain. The 4B1 strain degraded 89% of 1000 mg L-1 DF within
+48 h cultivation at the optimum temperature. TBLASTN analysis based on its draft 
+genome sequence revealed that this strain possessed a dbf gene cluster. The open 
+reading frames (dbfA1A2RBC) in the cluster shared 99-100% identity with those of 
+Paenibacillus sp. YK5, indicating that DF was likely degraded by an angular
+dioxygenation pathway in strain 4B1. Four genes in the dbf gene cluster
+(dbfA1A2BC) were partially induced by DF, which was observed by semi-quantitative
+RT-PCR. Quantitative PCR analysis of dbfA1 transcripts, encoding the alpha
+subunit of DF dioxygenase, indicated that dbfA1 was expressed 4-times higher than
+that of strain YK5 at 45°C. These results suggest that the faster growth and
+degradation of DF in strain 4B1 could be due to differences in transcriptional
+regulation of dbf cluster genes.
+
+Copyright © 2019. Published by Elsevier B.V.
+
+DOI: 10.1016/j.jbiosc.2019.05.006 
+PMID: 31202727  [Indexed for MEDLINE]
+

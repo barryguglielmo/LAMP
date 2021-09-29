@@ -1,0 +1,40 @@
+
+1. Sci Rep. 2020 Sep 17;10(1):15250. doi: 10.1038/s41598-020-72132-1.
+
+Parvimonas micra as a putative non-invasive faecal biomarker for colorectal
+cancer.
+
+Löwenmark T(1), Löfgren-Burström A(1), Zingmark C(1), Eklöf V(1), Dahlberg M(2), 
+Wai SN(3), Larsson P(1), Ljuslinder I(4), Edin S(1), Palmqvist R(5).
+
+Author information: 
+(1)Department of Medical Biosciences, Pathology, Umeå University, Building 6M,
+90185, Umeå, Sweden.
+(2)Department of Surgery, Sunderby Hospital, Luleå, Sweden.
+(3)Department of Molecular Biology, Umeå University, Umeå, Sweden.
+(4)Department of Radiation Sciences, Oncology, Umeå University, Umeå, Sweden.
+(5)Department of Medical Biosciences, Pathology, Umeå University, Building 6M,
+90185, Umeå, Sweden. richard.palmqvist@umu.se.
+
+The use of faecal microbial markers as non-invasive biomarkers for colorectal
+cancer (CRC) has been suggested, but not fully elucidated. Here, we have
+evaluated the importance of Parvimonas micra as a potential non-invasive faecal
+biomarker in CRC and its relation to other microbial biomarkers. The levels of P.
+micra, F. nucleatum and clbA + bacteria were quantified using qPCR in faecal
+samples from a population-based cohort of patients undergoing colonoscopy due to 
+symptoms from the large bowel. The study included 38 CRC patients, 128 patients
+with dysplasia and 63 controls. The results were validated in a second
+consecutive CRC cohort including faecal samples from 238 CRC patients and 94
+controls. We found significantly higher levels of P. micra in faecal samples from
+CRC patients compared to controls. A test for P. micra could detect CRC with a
+specificity of 87.3% and a sensitivity of 60.5%. In addition, we found that
+combining P. micra with other microbial markers, could further enhance test
+sensitivity. Our findings support the potential use of P. micra as a non-invasive
+biomarker for CRC. Together with other microbial faecal markers, P. micra may
+identify patients with "high risk" microbial patterns, indicating increased risk 
+and incidence of cancer.
+
+DOI: 10.1038/s41598-020-72132-1 
+PMCID: PMC7499209
+PMID: 32943695 
+

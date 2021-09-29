@@ -1,0 +1,68 @@
+
+1. Front Immunol. 2020 Jun 12;11:1192. doi: 10.3389/fimmu.2020.01192. eCollection
+2020.
+
+Behçet's Disease Under Microbiotic Surveillance? A Combined Analysis of Two
+Cohorts of Behçet's Disease Patients.
+
+van der Houwen TB(1), van Laar JAM(1), Kappen JH(2)(3), van Hagen PM(1), de Zoete
+MR(4), van Muijlwijk GH(4), Berbers RM(5), Fluit AC(4), Rogers M(4), Groot J(4), 
+Hazelbag CM(6), Consolandi C(7), Severgnini M(7), Peano C(8)(9), D'Elios MM(10), 
+Emmi G(10), Leavis HL(5).
+
+Author information: 
+(1)Section Clinical Immunology, Departments of Internal Medicine and Immunology, 
+Erasmus University Medical Center Rotterdam, Rotterdam, Netherlands.
+(2)Allergy and Clinical Immunology, Immunomodulation and Tolerance Group,
+Inflammation Repair and Development, Imperial College, National Heart and Lung
+Institute, London, United Kingdom.
+(3)Department of Pulmonology, STZ Centre of Excellence for Asthma and COPD,
+Franciscus Group, Rotterdam, United Kingdom.
+(4)Medical Microbiology, University Medical Center Utrecht, Utrecht, Netherlands.
+(5)Department of Rheumatology and Clinical Immunology, University Medical Center 
+Utrecht, Utrecht, Netherlands.
+(6)Department of Epidemiology, Julius Center for Health Sciences and Primary
+Care, University Medical Center Utrecht, Utrecht, Netherlands.
+(7)National Research Council, Institute of Biomedical Technologies, Segrate,
+Italy.
+(8)National Research Council, Institute of Genetic and Biomedical Research, UoS
+Milan, Milan, Italy.
+(9)Genomic Unit, Humanitas Clinical and Research Center, Milan, Italy.
+(10)Department of Experimental and Clinical Medicine, University of Firenze,
+Firenze, Italy.
+
+Background: In Behçet's disease (BD), an auto-inflammatory vasculitis, an
+unbalanced gut microbiota can contribute to pro-inflammatory reactions. In
+separate studies, distinct pro- and anti-inflammatory bacteria associated with BD
+have been identified. Methods: To establish disease-associated determinants, we
+performed gut microbiome profiling in BD patients from the Netherlands (n = 19)
+and Italy (n = 13), matched healthy controls (HC) from the Netherlands (n = 17)
+and Italy (n = 15) and oral microbiome profiling in Dutch BD patients (n = 18)
+and HC (n = 15) by 16S rRNA gene sequencing. In addition, we used fecal IgA-SEQ
+analysis to identify specific IgA coated bacterial taxa in Dutch BD patients (n =
+13) and HC (n = 8). Results: In BD stool samples alpha-diversity was conserved,
+whereas beta-diversity analysis showed no clustering based on disease, but a
+significant segregation by country of origin. Yet, a significant decrease of
+unclassified Barnesiellaceae and Lachnospira genera was associated with BD
+patients compared to HC. Subdivided by country, the Italian cohort displays a
+significant decrease of unclassified Barnesiellaceae and Lachnospira genera, in
+the Dutch cohort this decrease is only a trend. Increased IgA-coating of
+Bifidobacterium spp., Dorea spp. and Ruminococcus bromii species was found in
+stool from BD patients. Moreover, oral Dutch BD microbiome displayed increased
+abundance of Spirochaetaceae and Dethiosulfovibrionaceae families. Conclusions:
+BD patients show decreased fecal abundance of Barnesiellaceae and Lachnospira and
+increased oral abundance of Spirochaetaceae and Dethiosulfovibrionaceae. In
+addition, increased fecal IgA coating of Bifidobacterium, Ruminococcus bromii and
+Dorea may reflect retention of anti-inflammatory species and neutralization of
+pathosymbionts in BD, respectively. Additional studies are warranted to relate
+intestinal microbes with the significance of ethnicity, diet, medication and
+response with distinct pro- and inflammatory pathways in BD patients.
+
+Copyright © 2020 van der Houwen, van Laar, Kappen, van Hagen, de Zoete, van
+Muijlwijk, Berbers, Fluit, Rogers, Groot, Hazelbag, Consolandi, Severgnini,
+Peano, D'Elios, Emmi and Leavis.
+
+DOI: 10.3389/fimmu.2020.01192 
+PMCID: PMC7303268
+PMID: 32595645 
+

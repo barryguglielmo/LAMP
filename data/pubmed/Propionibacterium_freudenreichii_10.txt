@@ -1,0 +1,48 @@
+
+1. Metab Eng. 2020 May;59:142-150. doi: 10.1016/j.ymben.2020.02.002. Epub 2020 Feb
+13.
+
+Metabolic engineering of type II methanotroph, Methylosinus trichosporium OB3b,
+for production of 3-hydroxypropionic acid from methane via a malonyl-CoA
+reductase-dependent pathway.
+
+Nguyen DTN(1), Lee OK(1), Lim C(2), Lee J(2), Na JG(3), Lee EY(4).
+
+Author information: 
+(1)Department of Chemical Engineering, Kyung Hee University, Gyeonggi-do, 17104, 
+Republic of Korea.
+(2)Department of Chemical and Biomolecular Engineering, Sogang University, Seoul,
+04107, Republic of Korea.
+(3)Department of Chemical and Biomolecular Engineering, Sogang University, Seoul,
+04107, Republic of Korea. Electronic address: narosu@sogang.ac.kr.
+(4)Department of Chemical Engineering, Kyung Hee University, Gyeonggi-do, 17104, 
+Republic of Korea. Electronic address: eunylee@khu.ac.kr.
+
+We engineered a type II methanotroph, Methylosinus trichosporium OB3b, for
+3-hydroxypropionic acid (3HP) production by reconstructing malonyl-CoA pathway
+through heterologous expression of Chloroflexus aurantiacus malonyl-CoA reductase
+(MCR), a bifunctional enzyme. Two strategies were designed and implemented to
+increase the malonyl-CoA pool and thus, increase in 3HP production. First, we
+engineered the supply of malonyl-CoA precursors by overexpressing endogenous
+acetyl-CoA carboxylase (ACC), substantially enhancing the production of 3HP.
+Overexpression of biotin protein ligase (BPL) and malic enzyme (NADP+-ME) led to 
+a ∼22.7% and ∼34.5% increase, respectively, in 3HP titer in ACC-overexpressing
+cells. Also, the acetyl-CoA carboxylation bypass route was reconstructed to
+improve 3HP productivity. Co-expression of methylmalonyl-CoA carboxyltransferase 
+(MMC) of Propionibacterium freudenreichii and phosphoenolpyruvate carboxylase
+(PEPC), which provides the MMC precursor, further improved the 3HP titer. The
+highest 3HP production of 49 mg/L in the OB3b-MCRMP strain overexpressing MCR,
+MMC and PEPC resulted in a 2.4-fold improvement of titer compared with that in
+the only MCR-overexpressing strain. Finally, we could obtain 60.59 mg/L of 3HP in
+42 h using the OB3b-MCRMP strain through bioreactor operation, with a 6.36-fold
+increase of volumetric productivity compared than that in the flask cultures.
+This work demonstrates metabolic engineering of type II methanotrophs, opening
+the door for using type II methanotrophs as cell factories for biochemical
+production along with mitigation of greenhouse gases.
+
+Copyright © 2020 International Metabolic Engineering Society. Published by
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ymben.2020.02.002 
+PMID: 32061966 
+

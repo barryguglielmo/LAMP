@@ -1,0 +1,41 @@
+
+1. Molecules. 2020 Sep 22;25(18). pii: E4341. doi: 10.3390/molecules25184341.
+
+Novel Bis-Ammonium Salts of Pyridoxine: Synthesis and Antimicrobial Properties.
+
+Shtyrlin NV(1), Pugachev MV(1), Sapozhnikov SV(1), Garipov MR(1), Vafina RM(1),
+Grishaev DY(1), Pavelyev RS(1), Kazakova RR(1), Agafonova MN(1), Iksanova AG(1), 
+Lisovskaya SA(2), Zeldi MI(1), Krylova ES(1), Nikitina EV(1), Sabirova AE(1),
+Kayumov AR(1), Shtyrlin YG(1).
+
+Author information: 
+(1)Kazan (Volga region) Federal University, Scientific and Educational Center of 
+Pharmaceutics, Kremlyovskaya St. 18, Kazan 420008, Russia.
+(2)Kazan Scientific Research Institute of Epidemiology and Microbiology, Kazan
+420015, Russia.
+
+A series of 108 novel quaternary bis-ammonium pyridoxine derivatives carrying
+various substituents at the quaternary nitrogen's and acetal carbon was
+synthesized. Thirteen compounds exhibited antibacterial and antifungal activity
+(minimum inhibitory concentration (MIC) 0.25-16 µg/mL) comparable or superior
+than miramistin, benzalkonium chloride, and chlorhexidine. A strong correlation
+between the lipophilicity and antibacterial activity was found. The most active
+compounds had logP values in the range of 1-3, while compounds with logP > 6 and 
+logP < 0 were almost inactive. All active compounds demonstrated cytotoxicity
+comparable with miramistin and chlorhexidine on HEK-293 cells and were three-fold
+less toxic when compared to benzalkonium chloride. The antibacterial activity of 
+leading compound 5c12 on biofilm-embedded Staphylococcus aureus, Staphylococcus
+epidermidis, Escherichia coli or Pseudomonas aeruginosa was comparable or even
+higher than that of the benzalkonium chloride. In vivo 5c12was considerably less 
+toxic (LD50 1705 mg/kg) than benzalkonium chloride, miramistine, and
+chlorhexidine at oral administration on CD-1 mice. An aqueous solution of 5c12
+(0.2%) was shown to be comparable to reference drugs efficiency on the rat's skin
+model. The molecular target of 5c12 seems to be a cellular membrane as other
+quaternary ammonium salts. The obtained results make the described quaternary
+bis-ammonium pyridoxine derivatives promising and lead molecules in the
+development of the new antiseptics with a broad spectrum of antimicrobial
+activity.
+
+DOI: 10.3390/molecules25184341 
+PMID: 32971844 
+

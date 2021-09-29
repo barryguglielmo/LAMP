@@ -1,0 +1,49 @@
+
+1. Front Microbiol. 2019 Dec 10;10:2811. doi: 10.3389/fmicb.2019.02811. eCollection 
+2019.
+
+Biosynthesis of the Stress-Protectant and Chemical Chaperon Ectoine: Biochemistry
+of the Transaminase EctB.
+
+Richter AA(1)(2), Mais CN(2)(3), Czech L(1)(2), Geyer K(4), Hoeppner A(5), Smits 
+SHJ(5)(6), Erb TJ(2)(4), Bange G(2)(3), Bremer E(1)(2).
+
+Author information: 
+(1)Laboratory for Microbiology, Department of Biology, Philipps-University
+Marburg, Marburg, Germany.
+(2)SYNMIKRO Research Center, Philipps-University Marburg, Marburg, Germany.
+(3)Department of Chemistry, Philipps-University Marburg, Marburg, Germany.
+(4)Department of Biochemistry and Synthetic Metabolism, Max Planck Institute for 
+Terrestrial Microbiology, Marburg, Germany.
+(5)Center for Structural Studies, Heinrich Heine University Düsseldorf,
+Düsseldorf, Germany.
+(6)Institute of Biochemistry, Heinrich Heine University Düsseldorf, Düsseldorf,
+Germany.
+
+Bacteria frequently adapt to high osmolarity surroundings through the
+accumulation of compatible solutes. Ectoine is a prominent member of these types 
+of stress protectants and is produced via an evolutionarily conserved
+biosynthetic pathway beginning with the L-2,4-diaminobutyrate (DAB) transaminase 
+(TA) EctB. Here, we studied EctB from the thermo-tolerant Gram-positive bacterium
+Paenibacillus lautus (Pl) and show that this tetrameric enzyme is highly tolerant
+to salt, pH, and temperature. During ectoine biosynthesis, EctB converts
+L-glutamate and L-aspartate-beta-semialdehyde into 2-oxoglutarate and DAB, but it
+also catalyzes the reverse reaction. Our analysis unravels that EctB enzymes are 
+mechanistically identical to the PLP-dependent gamma-aminobutyrate TAs (GABA-TAs)
+and only differ with respect to substrate binding. Inspection of the genomic
+context of the ectB gene in P. lautus identifies an unusual arrangement of
+juxtapositioned genes for ectoine biosynthesis and import via an Ehu-type
+binding-protein-dependent ABC transporter. This operon-like structure suggests
+the operation of a highly coordinated system for ectoine synthesis and import to 
+maintain physiologically adequate cellular ectoine pools under osmotic stress
+conditions in a resource-efficient manner. Taken together, our study provides an 
+in-depth mechanistic and physiological description of EctB, the first enzyme of
+the ectoine biosynthetic pathway.
+
+Copyright © 2019 Richter, Mais, Czech, Geyer, Hoeppner, Smits, Erb, Bange and
+Bremer.
+
+DOI: 10.3389/fmicb.2019.02811 
+PMCID: PMC6915088
+PMID: 31921013 
+

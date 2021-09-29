@@ -1,0 +1,43 @@
+
+1. Parasite Immunol. 2020 Sep 11:e12791. doi: 10.1111/pim.12791. [Epub ahead of
+print]
+
+Eosinophils are dispensable for the regulation of IgA and Th17 responses in
+Giardia muris infection.
+
+Yordanova IA(1), Lamatsch M(2), Kühl AA(3), Hartmann S(1), Rausch S(1).
+
+Author information: 
+(1)Center for Infection Medicine, Institute of Immunology, Freie Universität
+Berlin, Berlin, Germany.
+(2)Department of Biology, Chemistry and Pharmacy, Institute of Pharmacy, Freie
+Universität Berlin, Berlin, Germany.
+(3)Core Unit for Immunopathology for Experimental Models, iPATH.Berlin, Charité -
+University Medicine Berlin, Corporate Member of Freie Universität Berlin,
+Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.
+
+AIMS: IgA and Th17 responses are pivotal for the control of Giardia infections.
+Eosinophils support IgA class switching, the survival of intestinal IgA+ plasma
+cells at steady state and can control Th17 activity in the small intestine. To
+see whether eosinophils regulate adaptive immune responses during giardiasis, we 
+investigated Giardia muris infections in wild-type BALB/c and
+eosinophil-deficient ∆dblGATA-1 mice.
+METHODS AND RESULTS: Infected ∆dblGATA-1 mice did not differ markedly in parasite
+control from wild-type mice. Confirming previous studies, naive ∆dblGATA-1 mice
+displayed diminished IgA+ B cell frequencies in Peyer's patches. However, IgA
+class switching and intestinal IgA secretion in response to G muris infection
+were comparable in wild-type BALB/c and ∆dblGATA-1 mice. Both strains displayed
+similarly low intestinal Th17 responses, accompanied by a mild expansion of type 
+3 innate lymphoid cells (ILC3).
+CONCLUSIONS: Contrasting previous reports on overt small intestinal Th17 activity
+in eosinophil-deficient mice, IL-17A production is kept in check in the absence
+of eosinophils during Giardia infection. Suboptimal homeostatic IgA responses in 
+the absence of eosinophils are transiently fostered in infected mice and the
+maintenance of IgA+ plasma cells appears to be restored during persisting Giardia
+infection.
+
+© 2020 The Authors. Parasite Immunology published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/pim.12791 
+PMID: 32918307 
+

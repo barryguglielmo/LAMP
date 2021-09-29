@@ -1,0 +1,52 @@
+
+1. Clin Microbiol Infect. 2020 Sep 9. pii: S1198-743X(20)30531-0. doi:
+10.1016/j.cmi.2020.09.003. [Epub ahead of print]
+
+Factors associated with local invasion in infective endocarditis: a nested
+case-control study.
+
+Ramanathan A(1), Witten JC(2), Gordon SM(3), Griffin BP(4), Pettersson GB(2),
+Shrestha NK(3).
+
+Author information: 
+(1)Department of Infectious Diseases, Cleveland Clinic, Cleveland, OH, 9500
+Euclid Avenue / G-21, Cleveland, OH, 44195, USA. Electronic address:
+ramanaa@ccf.org.
+(2)Department of Cardiothoracic Surgery, Cleveland Clinic, Cleveland, OH, 9500
+Euclid Avenue / J4-1, Cleveland, OH, 44195, USA.
+(3)Department of Infectious Diseases, Cleveland Clinic, Cleveland, OH, 9500
+Euclid Avenue / G-21, Cleveland, OH, 44195, USA.
+(4)Department of Cardiology, Cleveland Clinic, Cleveland, OH, 9500 Euclid Avenue 
+/ J1-5, Cleveland, OH, 44195, USA.
+
+OBJECTIVES: A substantial proportion of infective endocarditis (IE) cases are
+complicated by local invasion. The purpose of this study was to identify patient 
+and disease characteristics associated with local invasion in surgically treated 
+IE patients.
+METHODS: This was a nested case-control study. All episodes of IE for patients
+admitted to Cleveland Clinic from January 1st, 2013 - June 30th, 2016 were
+identified from the Cleveland Clinic IE Registry. Patients ≥18years of age who
+underwent surgery for IE were included. Amongst these, cases were those with
+local invasion, controls were those without. Local invasion, defined as
+periannular extension, paravalvular abscess, intracardiac fistula, or
+pseudoaneurysm, was ascertained from the surgical operative note. Associations of
+selected factors with local invasion were examined in a multivariable logistic
+regression model.
+RESULTS: Among 511 patients who met inclusion criteria, 215 had local invasion.
+Mean age was 56years; 369 were male. Overall 345 (68%) had aortic valve, 228
+(45%) mitral valve, and 66 (13%) tricuspid or pulmonic valve involvement. Aortic 
+valve involvement (OR 6.23, 95% CI 3.55 - 11.44), bioprosthetic valve (OR 3.88,
+95% CI 2.36 - 6.44), significant paravalvular leak (OR 3.80, 95% CI 1.60 - 9.89),
+new atrioventricular nodal block (OR 3.77, 95% CI 1.87 - 7.90), infection with
+streptococci other than viridans group streptococci (OR 7.54, 95% CI 2.42 -
+24.87), and presence of central nervous system emboli (OR 1.85, 95% CI 1.13 -
+3.04) were associated with local invasion.
+CONCLUSIONS: Intra-cardiac and microorganism factors, but not comorbid
+conditions, are associated with local invasion in IE.
+
+Copyright © 2020 European Society of Clinical Microbiology and Infectious
+Diseases. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cmi.2020.09.003 
+PMID: 32919070 
+

@@ -1,0 +1,49 @@
+
+1. Braz J Microbiol. 2020 Jun 2. doi: 10.1007/s42770-020-00304-2. [Epub ahead of
+print]
+
+Protein signatures to identify the different genera within the Xanthomonadaceae
+family.
+
+Cutiño-Jiménez AM(1), Menck CFM(2), Cambas YT(3), Díaz-Pérez JC(4).
+
+Author information: 
+(1)Centre of Studies for Industrial Biotechnology (CEBI), Faculty of Natural and 
+Exact Sciences, University of Oriente, Ave. Patricio Lumumba s/n., Reparto
+Jiménez, CP 90500, Santiago de Cuba, Cuba. aniacutino@uo.edu.cu.
+(2)Department of Microbiology, Institute of Biomedical Sciences, University of
+São Paulo, Av. Prof. Lineu Prestes, 1374, São Paulo, SP, 05508-000, Brazil.
+(3)Department of Biology and Geography, Faculty of Natural and Exact Sciences,
+University of Oriente, Ave. Patricio Lumumba s/n., Reparto Jiménez, CP 90500,
+Santiago de Cuba, Cuba.
+(4)Department of Horticulture, University of Georgia, Tifton, GA, 31793, USA.
+
+The Xanthomonadaceae family comprises the genera Xanthomonas and Xylella, which
+include plant pathogenic species that affect economically important crops. The
+family also includes the plant growth-promoting bacteria Pseudomonas geniculata
+and Stenotrophomonas rhizophila, and some other species with biotechnological,
+medical, and environmental relevance. Previous work identified molecular
+signatures that helped to understand the evolutionary placement of this family
+within gamma-proteobacteria. In the present study, we investigated whether
+insertions identified in highly conserved proteins may also be used as molecular 
+markers for taxonomic classification and identification of members within the
+Xanthomonadaceae family. Four housekeeping proteins (DNA repair and
+replication-related and protein translation enzymes) were selected. The
+insertions allowed discriminating phytopathogenic and plant growth-promoting
+groups within this family, and also amino acid sequences of these insertions
+allowed distinguishing different genera and, eventually, species as well as
+pathovars. Moreover, insertions in the proteins MutS and DNA polymerase III
+(subunit alpha) are conserved in Xylella fastidiosa, but signatures in DNA ligase
+NAD-dependent and Valyl tRNA synthetase distinguish particular subspecies within 
+the genus. The genus Stenotrophomonas and Pseudomonas geniculata could be
+distinguishable based on the insertions in MutS, DNA polymerase III (subunit
+alpha), and Valyl tRNA synthetase, although insertion in DNA ligase NAD-dependent
+discriminates these bacteria at the species level. All these insertions
+differentiate species and pathovars within Xanthomonas. Thus, the insertions
+presented support evolutionary demarcation within Xanthomonadaceae and provide
+tools for the fast identification in the field of these bacteria with
+agricultural, environmental, and economic relevance.
+
+DOI: 10.1007/s42770-020-00304-2 
+PMID: 32488841 
+

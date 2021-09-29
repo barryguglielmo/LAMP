@@ -1,0 +1,49 @@
+
+1. Front Microbiol. 2020 Jun 10;11:1190. doi: 10.3389/fmicb.2020.01190. eCollection 
+2020.
+
+Genetic Organization of the aprX-lipA2 Operon Affects the Proteolytic Potential
+of Pseudomonas Species in Milk.
+
+Maier C(1), Huptas C(2), von Neubeck M(1), Scherer S(1)(2), Wenning M(3), Lücking
+G(1).
+
+Author information: 
+(1)ZIEL Institute for Food and Health, Wissenschaftszentrum Weihenstephan,
+Technische Universität München, Freising, Germany.
+(2)Lehrstuhl für Mikrobielle Ökologie, Wissenschaftszentrum Weihenstephan,
+Technische Universität München, Freising, Germany.
+(3)Bavarian Health and Food Safety Authority (LGL), Oberschleißheim, Germany.
+
+Psychrotolerant Pseudomonas species are a main cause of proteolytic spoilage of
+ultra-high temperature (UHT) milk products due to the secretion of the
+heat-resistant metallopeptidase AprX, which is encoded by the first gene of the
+aprX-lipA2 operon. While the proteolytic property has been characterized for many
+different Pseudomonas isolates, the underlying aprX-lipA2 gene organization was
+only described for a few strains so far. In this study, the phylogenomic analysis
+of 185 Pseudomonas type strains revealed that the presence of aprX is strongly
+associated to a monophylum composed of 81 species, of which 83% carried the aprX 
+locus. Furthermore, almost all type strains of known milk-relevant species were
+shown to be members of the three monophyletic groups P. fluorescens, P.
+gessardii, and P. fragi. In total, 22 different types of aprX-lipA2 genetic
+organizations were identified in the genus, whereby 31% of the species tested
+carried the type 1 operon structure consisting of eight genes (aprXIDEF prtAB
+lipA2). Other genetic structures differed from type 1 mainly in the presence and 
+location of genes coding for two lipases (lipA1 and lipA2) and putative
+autotransporters (prtA and prtB). The peptidase activity of 129 strains, as
+determined on skim milk agar and in UHT-milk, correlated largely with different
+aprX-lipA2 gene compositions. Particularly, isolates harboring the type 1 operon 
+were highly proteolytic, while strains with other operon types, especially ones
+lacking prtA and prtB, exhibited significantly lower peptidase activities. In
+conclusion, the phylogenomic position and the aprX-lipA2 gene organization
+specify the proteolytic potential of Pseudomonas isolates. In addition, however, 
+an interplay of several environmental factors and intrinsic traits influences
+production and activity of AprX, leading to strain-specific proteolytic
+phenotypes.
+
+Copyright © 2020 Maier, Huptas, von Neubeck, Scherer, Wenning and Lücking.
+
+DOI: 10.3389/fmicb.2020.01190 
+PMCID: PMC7298200
+PMID: 32587583 
+

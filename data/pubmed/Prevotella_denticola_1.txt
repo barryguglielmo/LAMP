@@ -1,0 +1,45 @@
+
+1. Sci Rep. 2020 Apr 14;10(1):6365. doi: 10.1038/s41598-020-63222-1.
+
+Quantitative Analysis of Salivary Oral Bacteria Associated with Severe Early
+Childhood Caries and Construction of Caries Assessment Model.
+
+Zhang L(1)(2), Sun T(3), Zhu P(4), Sun Z(4), Li S(1), Li F(1)(2), Zhang Y(1), Tan
+K(2), Lu J(2), Yuan R(2), Chen Z(2), Guo D(2), Guo Q(2), Teng F(5), Yang F(6)(7).
+
+Author information: 
+(1)School of Stomatology, Qingdao University, Qingdao, Shandong, 266003, China.
+(2)Stomatology Center, Qingdao Municipal Hospital, Qingdao, Shandong, 266071,
+China.
+(3)Department of Stomatology, the Ninth People's Hospital of Qingdao, Qingdao,
+Shandong, 266071, China.
+(4)Single-Cell Center, Qingdao Institute of Bioenergy and Bioprocess Technology, 
+Chinese Academy of Sciences, Qingdao, Shandong, 266101, China.
+(5)Single-Cell Center, Qingdao Institute of Bioenergy and Bioprocess Technology, 
+Chinese Academy of Sciences, Qingdao, Shandong, 266101, China.
+tengfei@qibebt.ac.cn.
+(6)School of Stomatology, Qingdao University, Qingdao, Shandong, 266003, China.
+yangf82@sina.com.
+(7)Stomatology Center, Qingdao Municipal Hospital, Qingdao, Shandong, 266071,
+China. yangf82@sina.com.
+
+To construct a saliva-based caries risk assessment model, saliva samples from 176
+severe early childhood caries (S-ECC) children and 178 healthy (H) children were 
+screened by real-time PCR-based quantification of the selected species, including
+Streptococcus mutans, Prevotella pallens, Prevotella denticola and Lactobacillus 
+fermentum. Host factors including caries status, dmft indices, age, gender, and
+geographic origin were assessed in their influence on abundance of the targeted
+species, which revealed host caries status as the dominant factor, followed by
+dmft indices (both P < 0.01). Moreover, levels of S. mutans and P. denticola in
+the S-ECC group were significantly higher than those in the healthy group
+(P < 0.001 for S. mutans and P < 0.01 for P. denticola). Interestingly, the
+co-occurrence network of these targeted species in the S-ECC group differed from 
+that from the healthy group. Finally, based on the combined change pattern of S. 
+mutans and P. pallens, we constructed an S-ECC diagnosis model with an accuracy
+of 72%. This saliva-based caries diagnosis model is of potential value for
+circumstances where sampling dental plague is difficult.
+
+DOI: 10.1038/s41598-020-63222-1 
+PMCID: PMC7156402
+PMID: 32286402 
+

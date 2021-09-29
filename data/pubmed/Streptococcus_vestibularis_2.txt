@@ -1,0 +1,84 @@
+
+1. Nat Commun. 2020 Mar 31;11(1):1612. doi: 10.1038/s41467-020-15457-9.
+
+Metagenome-wide association of gut microbiome features for schizophrenia.
+
+Zhu F(1), Ju Y(2)(3)(4)(5), Wang W(6)(7)(8), Wang Q(2)(5), Guo R(2)(3)(4)(9), Ma 
+Q(6)(7)(8), Sun Q(2)(10), Fan Y(6)(7)(8), Xie Y(11), Yang Z(6)(7)(8), Jie
+Z(2)(3)(4), Zhao B(6)(7)(8), Xiao L(2)(3)(12), Yang L(6)(7)(8), Zhang
+T(2)(3)(13), Feng J(6)(7)(8), Guo L(6)(7)(8), He X(6)(7)(8), Chen Y(6)(7)(8),
+Chen C(6)(7)(8), Gao C(6)(7)(8), Xu X(2)(3), Yang H(2)(14), Wang J(2)(14), Dang
+Y(15), Madsen L(2)(16)(17), Brix S(2)(18), Kristiansen K(19)(20), Jia
+H(21)(22)(23)(24), Ma X(25)(26)(27).
+
+Author information: 
+(1)Center for Translational Medicine, The First Affiliated Hospital of Xi'an
+Jiaotong University, 277 Yanta West Road, Xi'an, 710061, China.
+(2)BGI-Shenzhen, Shenzhen, 518083, China.
+(3)China National Genebank, Shenzhen, 518120, China.
+(4)Shenzhen Key Laboratory of Human Commensal Microorganisms and Health Research,
+BGI-Shenzhen, Shenzhen, 518083, China.
+(5)BGI Education Center, University of Chinese Academy of Sciences, Shenzhen,
+518083, China.
+(6)Department of Psychiatry, The First Affiliated Hospital of Xi'an Jiaotong
+University, 277 Yanta West Road, Xi'an, 710061, China.
+(7)Center for Brain Science, The First Affiliated Hospital of Xi'an Jiaotong
+University, 277 Yanta West Road, Xi'an, 710061, China.
+(8)Clinical Research Center for Psychiatric Medicine of Shaanxi Province, The
+First Affiliated Hospital of Xi'an Jiaotong University, 277 Yanta West Road,
+Xi'an, 710061, China.
+(9)Macau University of Science and Technology, Taipa, Macau, 999078, China.
+(10)Department of Statistical Sciences, University of Toronto, Toronto, Canada.
+(11)Department of Statistics and Probability, Michigan State University, East
+Lansing, USA.
+(12)Shenzhen Engineering Laboratory of Detection and Intervention of Human
+Intestinal Microbiome, BGI-Shenzhen, Shenzhen, 518083, China.
+(13)Shenzhen Key Laboratory of Cognition and Gene Research, BGI-Shenzhen,
+Shenzhen, 518083, China.
+(14)James D. Watson Institute of Genome Sciences, Hangzhou, 310058, China.
+(15)School of Forensic Medicine, Xi'an Jiaotong University, 76 Yanta West Road,
+Xi'an, 710061, China.
+(16)Institute of Marine Research (IMR), P.O. Box 7800, 5020, Bergen, Norway.
+(17)Laboratory of Genomics and Molecular Biomedicine, Department of Biology,
+University of Copenhagen, Universitetsparken 13, 2100, Copenhagen, Denmark.
+(18)Department of Biotechnology and Biomedicine, Technical University of Denmark,
+2800 Kgs, Lyngby, Denmark.
+(19)BGI-Shenzhen, Shenzhen, 518083, China. kk@bio.ku.dk.
+(20)Laboratory of Genomics and Molecular Biomedicine, Department of Biology,
+University of Copenhagen, Universitetsparken 13, 2100, Copenhagen, Denmark.
+kk@bio.ku.dk.
+(21)BGI-Shenzhen, Shenzhen, 518083, China. jiahuijue@genomics.cn.
+(22)China National Genebank, Shenzhen, 518120, China. jiahuijue@genomics.cn.
+(23)Shenzhen Key Laboratory of Human Commensal Microorganisms and Health
+Research, BGI-Shenzhen, Shenzhen, 518083, China. jiahuijue@genomics.cn.
+(24)Macau University of Science and Technology, Taipa, Macau, 999078, China.
+jiahuijue@genomics.cn.
+(25)Department of Psychiatry, The First Affiliated Hospital of Xi'an Jiaotong
+University, 277 Yanta West Road, Xi'an, 710061, China. maxiancang@163.com.
+(26)Center for Brain Science, The First Affiliated Hospital of Xi'an Jiaotong
+University, 277 Yanta West Road, Xi'an, 710061, China. maxiancang@163.com.
+(27)Clinical Research Center for Psychiatric Medicine of Shaanxi Province, The
+First Affiliated Hospital of Xi'an Jiaotong University, 277 Yanta West Road,
+Xi'an, 710061, China. maxiancang@163.com.
+
+Evidence is mounting that the gut-brain axis plays an important role in mental
+diseases fueling mechanistic investigations to provide a basis for future
+targeted interventions. However, shotgun metagenomic data from treatment-naïve
+patients are scarce hampering comprehensive analyses of the complex interaction
+between the gut microbiota and the brain. Here we explore the fecal microbiome
+based on 90 medication-free schizophrenia patients and 81 controls and identify a
+microbial species classifier distinguishing patients from controls with an area
+under the receiver operating characteristic curve (AUC) of 0.896, and replicate
+the microbiome-based disease classifier in 45 patients and 45 controls
+(AUC = 0.765). Functional potentials associated with schizophrenia include
+differences in short-chain fatty acids synthesis, tryptophan metabolism, and
+synthesis/degradation of neurotransmitters. Transplantation of a
+schizophrenia-enriched bacterium, Streptococcus vestibularis, appear to induces
+deficits in social behaviors, and alters neurotransmitter levels in peripheral
+tissues in recipient mice. Our findings provide new leads for further
+investigations in cohort studies and animal models.
+
+DOI: 10.1038/s41467-020-15457-9 
+PMCID: PMC7109134
+PMID: 32235826  [Indexed for MEDLINE]
+

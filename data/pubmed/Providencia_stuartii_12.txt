@@ -1,0 +1,52 @@
+
+1. Infect Genet Evol. 2020 Jan;77:104065. doi: 10.1016/j.meegid.2019.104065. Epub
+2019 Oct 18.
+
+Genetic analysis of carbapenemase-producing Gram-negative bacteria isolated from 
+a university teaching hospital in Egypt.
+
+Soliman AM(1), Zarad HO(2), Nariya H(3), Shimamoto T(3), Shimamoto T(4).
+
+Author information: 
+(1)Laboratory of Food Microbiology and Hygiene, Graduate School of Biosphere
+Science, Hiroshima University, Higashi-Hiroshima 739-8528, Japan; Department of
+Microbiology and Immunology, Faculty of Pharmacy, Kafrelsheikh University, Kafr
+El-Sheikh 33516, Egypt.
+(2)Laboratory of Food Microbiology and Hygiene, Graduate School of Biosphere
+Science, Hiroshima University, Higashi-Hiroshima 739-8528, Japan.
+(3)Laboratory of Food Microbiology and Hygiene, Graduate School of Integrated
+Sciences for Life, Hiroshima University, Higashi-Hiroshima 739-8528, Japan.
+(4)Laboratory of Food Microbiology and Hygiene, Graduate School of Integrated
+Sciences for Life, Hiroshima University, Higashi-Hiroshima 739-8528, Japan.
+Electronic address: tadashis@hiroshima-u.ac.jp.
+
+A total of 65 non-replicate Gram-negative bacterial strains were recovered from
+clinical specimens between April and September 2014 at a University Hospital in
+Egypt. This collection was screened by PCR for carbapenemase-encoding genes, 16S 
+rRNA methylases, and colistin resistance genes (mcr-1-mcr-8). Twenty-two strains 
+(22/65, 33.8%) were positive for carbapenemase-encoding genes [13 NDM-1-producers
+(four Escherichia coli, two Klebsiella pneumoniae, and seven Providencia
+stuartii), two E. coli co-carrying NDM-5 and OXA-181, and seven Pseudomonas
+aeruginosa (three VIM-2, four VIM-24) strains]. The 16S rRNA methylase RmtC was
+detected in 12 NDM-1-producers for the first time in Egypt; no mcr genes were
+detected. A self-transmissible A/C plasmid was found to carry blaNDM-1 in all
+NDM-1-producing strains. NDM-5 and OXA-181 were located on an untypeable and
+IncX3 plasmid, respectively. Additionally, Enterobacterial repetitive intergenic 
+consensus (ERIC)-PCR revealed five clonally related P. stuartii isolates
+collected over a 1.5-month period. Thirteen carbapenemase-producing strains were 
+isolated from burn patients who are at a high risk of developing infections and
+require special medical care. To our knowledge, this is the first report of
+NDM-1-producing-P. stuartii strains in an African burn unit, NDM-1- and
+RmtC-positive non-lactose fermenting E. coli globally, VIM-24-producing P.
+aeruginosa in Africa, and 16S RMTase rmtC-NDM-1-producers in Egypt. This work
+highlights the detection of different carbapenemase-producing bacterial strains
+within an Egyptian teaching hospital compromising the effectiveness of
+carbapenems and urgently asking the Egyptian medical authorities for
+implementation of antimicrobial surveillance plans and infection control policies
+to early detect and to effectively halt the rapid spread of these superbugs.
+
+Copyright © 2019. Published by Elsevier B.V.
+
+DOI: 10.1016/j.meegid.2019.104065 
+PMID: 31634643  [Indexed for MEDLINE]
+

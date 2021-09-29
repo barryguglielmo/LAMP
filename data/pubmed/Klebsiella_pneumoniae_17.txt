@@ -1,0 +1,57 @@
+
+1. mBio. 2020 Sep 29;11(5). pii: e01733-20. doi: 10.1128/mBio.01733-20.
+
+Klebsiella pneumoniae Reduces SUMOylation To Limit Host Defense Responses.
+
+Sá-Pessoa J(1), Przybyszewska K(1), Vasconcelos FN(1), Dumigan A(1), Frank CG(1),
+Hobley L(1), Bengoechea JA(2).
+
+Author information: 
+(1)Wellcome-Wolfson Institute for Experimental Medicine, School of Medicine,
+Dentistry and Biomedical Sciences, Queen's University Belfast, Belfast, United
+Kingdom.
+(2)Wellcome-Wolfson Institute for Experimental Medicine, School of Medicine,
+Dentistry and Biomedical Sciences, Queen's University Belfast, Belfast, United
+Kingdom j.bengoechea@qub.ac.uk.
+
+Klebsiella pneumoniae is an important cause of multidrug-resistant infections
+worldwide. Understanding the virulence mechanisms of K. pneumoniae is a priority 
+and timely to design new therapeutics. Here, we demonstrate that K. pneumoniae
+limits the SUMOylation of host proteins in epithelial cells and macrophages
+(mouse and human) to subvert cell innate immunity. Mechanistically, in lung
+epithelial cells, Klebsiella increases the levels of the deSUMOylase SENP2 in the
+cytosol by affecting its K48 ubiquitylation and its subsequent degradation by the
+ubiquitin proteasome. This is dependent on Klebsiella preventing the NEDDylation 
+of the Cullin-1 subunit of the ubiquitin ligase complex E3-SCF-βTrCP by
+exploiting the CSN5 deNEDDylase. Klebsiella induces the expression of CSN5 in an 
+epidermal growth factor receptor (EGFR)-phosphatidylinositol 3-kinase
+(PI3K)-protein kinase B (AKT)-extracellular signal-regulated kinase
+(ERK)-glycogen synthase kinase 3 beta (GSK3β) signaling pathway-dependent manner.
+In macrophages, Toll-like receptor 4 (TLR4)-TRAM-TRIF-induced type I interferon
+(IFN) via IFN receptor 1 (IFNAR1)-controlled signaling mediates
+Klebsiella-triggered decrease in the levels of SUMOylation via let-7 microRNAs
+(miRNAs). Our results revealed the crucial role played by Klebsiella
+polysaccharides, the capsule, and the lipopolysaccharide (LPS) O-polysaccharide, 
+to decrease the levels of SUMO-conjugated proteins in epithelial cells and
+macrophages. A Klebsiella-induced decrease in SUMOylation promotes infection by
+limiting the activation of inflammatory responses and increasing intracellular
+survival in macrophages.IMPORTANCE Klebsiella pneumoniae has been singled out as 
+an urgent threat to human health due to the increasing isolation of strains
+resistant to "last-line" antimicrobials, narrowing the treatment options against 
+Klebsiella infections. Unfortunately, at present, we cannot identify candidate
+compounds in late-stage development for treatment of multidrug-resistant
+Klebsiella infections; this pathogen is exemplary of the mismatch between unmet
+medical needs and the current antimicrobial research and development pipeline.
+Furthermore, there is still limited evidence on K. pneumoniae pathogenesis at the
+molecular and cellular levels in the context of the interactions between
+bacterial pathogens and their hosts. In this research, we have uncovered a
+sophisticated strategy employed by Klebsiella to subvert the activation of immune
+defenses by controlling the modification of proteins. Our research may open
+opportunities to develop new therapeutics based on counteracting this
+Klebsiella-controlled immune evasion strategy.
+
+Copyright © 2020 Sá-Pessoa et al.
+
+DOI: 10.1128/mBio.01733-20 
+PMID: 32994335 
+

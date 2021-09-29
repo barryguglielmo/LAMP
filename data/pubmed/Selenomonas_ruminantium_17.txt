@@ -1,0 +1,55 @@
+
+1. Sci Rep. 2020 May 14;10(1):7954. doi: 10.1038/s41598-020-64747-1.
+
+Longitudinal Study of Oral Microbiome Variation in Twins.
+
+Freire M(1), Moustafa A(2)(3), Harkins DM(4), Torralba MG(2), Zhang Y(2), Leong
+P(5), Saffery R(5), Bockmann M(6), Kuelbs C(2), Hughes T(6), Craig JM(5), Nelson 
+KE(2)(4).
+
+Author information: 
+(1)Departments of Human Biology and Genomic Medicine, J. Craig Venter Institute, 
+La Jolla, CA, 92037, USA. mfreire@jcvi.org.
+(2)Departments of Human Biology and Genomic Medicine, J. Craig Venter Institute, 
+La Jolla, CA, 92037, USA.
+(3)Department of Biology, The American University in Cairo, New Cairo, 11835,
+Egypt.
+(4)Departments of Human Biology and Genomic Medicine, J. Craig Venter Institute, 
+Rockville, MD, 20850, USA.
+(5)IMPACT Strategic Research Centre, Deakin University School of Medicine,
+Geelong, VIC, 3220, Australia.
+(6)Adelaide Dental School, The University of Adelaide Epigenetics, Murdoch
+Children's Research Institute and Department of Paediatrics, The University of
+Melbourne, Parkville, 3052, Victoria, Australia.
+
+Humans are host to a multitude of microorganisms that rapidly populate the body
+at birth, subject to a complex interplay that is dependent on host genetics,
+lifestyle, and environment. The host-associated microbiome, including the oral
+microbiome, presents itself in a complex ecosystem important to health and
+disease. As the most common chronic disease globally, dental caries is induced by
+host-microbial dysbiosis in children and adults. Multiple biological and
+environmental factors are likely to impact disease predisposition, onset,
+progression, and severity, yet longitudinal studies able to capture these
+influences are missing. To investigate how host genetics and environment
+influenced the oral microbial communities over time, we profiled supragingival
+plaque microbiomes of dizygotic and monozygotic twins during 3 visits over
+12-months. Dental plaque DNA samples were amplified by targeting the 16S rRNA
+gene V4 region, and microbial findings were correlated with clinical, diet and
+genetic metadata. We observed that the oral microbiome variances were shaped
+primarily by the environment when compared to host genetics. Among the
+environmental factors shaping microbial changes of our subjects, significant
+metadata included age of the subject, and the age by which subjects initiated
+brushing habits, and the types of actions post-brushing. Relevant heritability of
+the microbiome included Actinomyces and Capnocytophaga in monozygotic twins and
+Kingella in dizygotic twins. Corynebacterium and Veillonella abundances were
+associated with age, whereas Aggregatibacter was associated with younger
+subjects. Streptococcus abundance showed an inverse association over time, and
+Selenomonas abundances increased with brushing frequency per day. Unraveling the 
+exact biological mechanisms in caries has the potential to reveal novel
+host-microbial biomarkers, pathways, and targets important to effective
+preventive measures, and early disease control in children.
+
+DOI: 10.1038/s41598-020-64747-1 
+PMCID: PMC7224172
+PMID: 32409670 
+

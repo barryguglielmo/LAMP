@@ -1,0 +1,53 @@
+
+1. Fish Shellfish Immunol. 2020 Oct 1. pii: S1050-4648(20)30666-5. doi:
+10.1016/j.fsi.2020.09.043. [Epub ahead of print]
+
+Activating transcription factor 2 (ATF2) negatively regulates the expression of
+antimicrobial peptide genes through tumor necrosis factor (TNF) in Macrobrachium 
+nipponense.
+
+Zhang C(1), Zhang R(1), Dai X(1), Cao X(1), Wang K(1), Huang X(2), Ren Q(3).
+
+Author information: 
+(1)Jiangsu Province Engineering Research Center for Aquatic Animals Breeding and 
+Green Efficient Aquacultural Technology, College of Marine Science and
+Engineering, Nanjing Normal University, Nanjing, Jiangsu province, 210023, China.
+(2)Jiangsu Province Engineering Research Center for Aquatic Animals Breeding and 
+Green Efficient Aquacultural Technology, College of Marine Science and
+Engineering, Nanjing Normal University, Nanjing, Jiangsu province, 210023, China.
+Electronic address: huangxin814102@126.com.
+(3)Jiangsu Province Engineering Research Center for Aquatic Animals Breeding and 
+Green Efficient Aquacultural Technology, College of Marine Science and
+Engineering, Nanjing Normal University, Nanjing, Jiangsu province, 210023, China;
+Shandong Provincial Key Laboratory of Animal Resistance Biology, College of Life 
+Sciences, Shandong Normal University, Jinan, Shandong province, 250014, China;
+Co-Innovation Center for Marine Bio-Industry Technology of Jiangsu Province,
+Lianyungang, Jiangsu province, 222005, China. Electronic address:
+renqian0402@126.com.
+
+Activating transcription factor 2 (ATF2), a member of the bZIP transcription
+factor family, is involved in multiple physiological and developmental processes,
+yet its role in the innate immunity remains unclear. In this study, two isoforms 
+(named as MnATF2a and MnATF2b) of ATF2 gene were identified in Macrobrachium
+nipponense and were produced by exon skipping. The full length of MnATF2a is 2328
+bp with an open reading frame of 2079 bp that encode 692 amino acids. MnATF2a has
+237 bp nucleotides more than MnATF2b and the extra 237 bp is a complete exon.
+MnATF2a and MnATF2b proteins contain the same conserved and typical bZIP domain
+at the C-terminus. MnATF2a has 79 amino acids more than MnATF2b. MnATF2a and
+MnATF2b are widely distributed in a variety of immune tissues. After Vibrio
+parahaemolyticus and Staphylococcus aureus infection, the expression levels of
+MnATF2a and MnATF2b were significant up-regulated in the gills and stomach at
+12 h. RNA interference analysis showed that knockdown of the total MnATF2 gene
+significantly inhibits the transcription of tumor necrosis factor (TNF) and
+promotes the expression of crustins (including Cru3, Cru4, and Cru7). Further
+study showed that knockdown of MnTNF evidently increase the expression of Cru3,
+Cru4, and Cru7. Our research indicates that ATF2 negatively regulate the
+expression of AMPs by regulating the transcription of TNF in M. nipponense. This 
+study provides valuable information about the function of ATF2 family in the
+innate immunity in crustacean.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.fsi.2020.09.043 
+PMID: 33011434 
+

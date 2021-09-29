@@ -1,0 +1,36 @@
+
+1. FEBS J. 2019 Dec 26. doi: 10.1111/febs.15193. [Epub ahead of print]
+
+A Na+ A1 AO ATP synthase with a V-type c subunit in a mesophilic bacterium.
+
+Litty D(1), Müller V(1).
+
+Author information: 
+(1)Molecular Microbiology & Bioenergetics, Institute of Molecular Biosciences,
+Johann Wolfgang Goethe University, Frankfurt/Main, Germany.
+
+A1 AO ATP synthases with a V-type c subunit have only been found in
+hyperthermophilic archaea which makes bioenergetic analyses impossible due to the
+instability of liposomes at high temperatures. A search for a potential archaeal 
+A1 AO ATP synthase with a V-type c subunit in a mesophilic organism revealed an
+A1 AO ATP synthase cluster in the anaerobic, acetogenic bacterium
+Eubacterium limosum KIST612. The enzyme was purified to apparent homogeneity from
+cells grown on methanol to a specific activity of 1.2 U·mg-1 with a yield of 12%.
+The enzyme contained subunits A, B, C, D, E, F, H, a, and c. Subunit c is
+predicted to be a typical V-type c subunit with only one ion (Na+ )-binding site.
+Indeed, ATP hydrolysis was strictly Na+ -dependent. N,N'-dicyclohexylcarbodiimide
+(DCCD) inhibited ATP hydrolysis, but inhibition was relieved by addition of Na+ .
+Na+ was shown directly to abolish binding of the fluorescence DCCD derivative,
+NCD-4, to subunit c, demonstrating a competition of Na+ and DCCD/NCD-4 for a
+common binding site. After incorporation of the A1 AO ATP synthase into
+liposomes, ATP-dependent primary transport of 22 Na+ as well as ΔµNa+ -driven ATP
+synthesis could be demonstrated. The Na+ A1 AO ATP synthase from E. limosum is
+the first ATP synthase with a V-type c subunit from a mesophilic organism. This
+will enable future bioenergetic analysis of these unique ATP synthases.
+
+© 2019 The Authors. The FEBS Journal published by John Wiley & Sons Ltd on behalf
+of Federation of European Biochemical Societies.
+
+DOI: 10.1111/febs.15193 
+PMID: 31876375 
+

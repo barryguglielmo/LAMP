@@ -1,0 +1,58 @@
+
+1. PLoS One. 2020 Apr 1;15(4):e0228574. doi: 10.1371/journal.pone.0228574.
+eCollection 2020.
+
+A cross-sectional pilot study of birth mode and vaginal microbiota in
+reproductive-age women.
+
+Stennett CA(1)(2), Dyer TV(3), He X(3), Robinson CK(2), Ravel J(2)(4), Ghanem
+KG(5), Brotman RM(1)(2).
+
+Author information: 
+(1)Department of Epidemiology and Public Health, University of Maryland School of
+Medicine, Baltimore, Maryland, United States of America.
+(2)Institute for Genome Sciences, University of Maryland School of Medicine,
+Baltimore, Maryland, United States of America.
+(3)Department of Epidemiology and Biostatistics, University of Maryland,
+Maryland, United States of America.
+(4)Department of Microbiology and Immunology, University of Maryland School of
+Medicine, Baltimore, Maryland, United States of America.
+(5)Division of Infectious Diseases, Johns Hopkins University School of Medicine, 
+Baltimore, Maryland, United States of America.
+
+Recent studies suggest that birth mode (Cesarean section [C-section] or vaginal
+delivery) is an important event in the initial colonization of the human
+microbiome and may be associated with long-term health outcomes. We sought to
+determine the association between a woman's birth mode and her vaginal microbiota
+in adulthood. We re-contacted 144 adult women from two U.S. studies and
+administered a brief survey. Vaginal microbiota was characterized on a single
+sample by amplicon sequencing of the V3-V4 hypervariable regions of the 16S rRNA 
+gene and clustered into community state types (CSTs). We evaluated the
+association between birth mode and a CST with low relative abundance of
+Lactobacillus spp. ("molecular bacterial vaginosis" [Molecular-BV]) compared to
+Lactobacillus-dominated CSTs in logistic regression modeling which adjusted for
+body mass index, a confounder in this analysis. Twenty-seven women (19%) reported
+C-section. Overall, C-section showed a non-significant trend towards increased
+odds of Molecular-BV (aOR = 1.22, 95% CI: 0.45, 3.32), and Prevotella bivia was
+the strongest single taxa associated with C-section. However, because the two
+archived studies had different inclusion criteria (interaction p = 0.048), we
+stratified the analysis by study site. In the study with a larger sample size (n 
+= 88), women born by C-section had 3-fold higher odds of Molecular-BV compared to
+vaginally-delivered women (aOR = 3.55, p = 0.06, 95% CI: 0.97-13.02). No
+association was found in the smaller study (n = 56, aOR = 0.19, p = 0.14, 95% CI:
+0.02-1.71). This pilot cross-sectional study suggests a possible association
+between C-section and Molecular-BV in adulthood. However, the analysis is limited
+by small sample size and lack of comparability in participant age and other
+characteristics between the study sites. Future longitudinal studies could
+recruit larger samples of women, address the temporal dynamics of vaginal
+microbiota, and explore other confounders, including maternal factors,
+breastfeeding history, and socioeconomic status, which may affect the
+relationship between birth mode and vaginal microbiota.
+
+DOI: 10.1371/journal.pone.0228574 
+PMCID: PMC7112195
+PMID: 32236123  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

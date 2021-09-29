@@ -1,0 +1,60 @@
+
+1. Sci Total Environ. 2020 Aug 9;751:141475. doi: 10.1016/j.scitotenv.2020.141475.
+[Epub ahead of print]
+
+Comparative decay of culturable faecal indicator bacteria, microbial source
+tracking marker genes, and enteric pathogens in laboratory microcosms that mimic 
+a sub-tropical environment.
+
+Ahmed W(1), Toze S(2), Veal C(3), Fisher P(3), Zhang Q(4), Zhu Z(5), Staley C(5),
+Sadowsky MJ(4).
+
+Author information: 
+(1)CSIRO Land and Water, Ecosciences Precinct, 41 Boggo Road, QLD, Australia.
+Electronic address: Warish.Ahmed@csiro.au.
+(2)CSIRO Land and Water, Ecosciences Precinct, 41 Boggo Road, QLD, Australia.
+(3)Seqwater, 117 Brisbane Street, Ipswich, QLD, Australia.
+(4)Department of Soil, Water, and Climate, and the BioTechnology Institute,
+University of Minnesota, St. Paul, MN 55108, USA.
+(5)Department of Surgery, University of Minnesota, MN 55455, USA.
+
+Enteric pathogens can be present in drinking water catchments due to several
+point and non-point sources of faecal contamination. Pathogen and contaminant
+signatures will decay due to environmental stresses, such as temperature, Ultra
+Violet (UV) radiation, salinity, and predation. In this study, we determined the 
+decay of the culturable faecal indicator bacterium (FIB) Escherichia coli (E.
+coli), two sewage-associated marker genes (Bacteroides HF183 and crAssphage
+CPQ_056), and enteric pathogens (Campylobacter spp., human adenovirus 40/41, and 
+Cryptosporidium parvum) in two freshwater laboratory microcosms using
+culture-based, quantitative PCR (qPCR) and vital dye (determine the fraction of
+viable Cryptosporidium oocysts) assays. Freshwater samples from the Lake Wappa
+and Lake Wivenhoe (Australia) were seeded with untreated sewage and C. parvum
+oocysts, and their declining concentrations were measured over a 28-day period.
+Moreover, 16S rRNA amplicon sequencing was also undertaken to determine the
+change/shift in sewage-associated bacterial communities using SourceTracker.
+Overall, culturable E. coli and the HF183 marker gene decayed significantly
+(p < 0.05) faster than did the qPCR measured enteric pathogens suggesting that
+the absence of culturable FIB or qPCR HF183 in water samples may not indicate the
+absence of pathogens. The decay of crAssphage was similar to that of HAdV 40/41
+and other pathogens tested, suggesting crAssphage may be a better surrogate for
+enteric viruses in sub-tropical catchment waters. The decay rates were greater at
+25 °C compared to 15 °C, suggesting that FIB and pathogens persist longer in the 
+winter season compared to summer. Overall decay rates of the tested
+microorganisms in this microcosm study suggest that sub-tropical conditions,
+especially temperature, have a negative impact on the persistence of tested
+microorganisms. Sewage-associated bacterial communities also showed similar
+patterns. Based on the results, which showed differences in simulated summer and 
+winter temperatures for pathogen decay, corresponding management options and
+treatment need to be adjusted accordingly to minimize human health risks
+effectively.
+
+Crown Copyright © 2020. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2020.141475 
+PMID: 32890804 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

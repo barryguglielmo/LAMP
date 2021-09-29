@@ -1,0 +1,39 @@
+
+1. Nat Commun. 2020 Jun 1;11(1):2694. doi: 10.1038/s41467-020-16536-7.
+
+Glycan-dependent cell adhesion mechanism of Tc toxins.
+
+Roderer D(1), Bröcker F(2)(3), Sitsel O(1), Kaplonek P(2)(4), Leidreiter F(1)(5),
+Seeberger PH(2), Raunser S(6).
+
+Author information: 
+(1)Department of Structural Biochemistry, Max Planck Institute of Molecular
+Physiology, 44227, Dortmund, Germany.
+(2)Department of Biomolecular Systems, Max Planck Institute of Colloids and
+Interfaces, 14476, Potsdam, Germany.
+(3)Vaxxilon Deutschland GmbH, 12489, Berlin, Germany.
+(4)Ragon Institute of MGH, MIT and Harvard, Cambridge, MA, 02139, USA.
+(5)Department of Biomolecular Mechanisms, Max Planck Institute for Medical
+Research, 69120, Heidelberg, Germany.
+(6)Department of Structural Biochemistry, Max Planck Institute of Molecular
+Physiology, 44227, Dortmund, Germany. stefan.raunser@mpi-dortmund.mpg.de.
+
+Toxin complex (Tc) toxins are virulence factors of pathogenic bacteria. Tcs are
+composed of three subunits: TcA, TcB and TcC. TcA facilitates receptor-toxin
+interaction and membrane permeation, TcB and TcC form a toxin-encapsulating
+cocoon. While the mechanisms of holotoxin assembly and pore formation have been
+described, little is known about receptor binding of TcAs. Here, we identify
+heparins/heparan sulfates and Lewis antigens as receptors for different TcAs from
+insect and human pathogens. Glycan array screening reveals that all tested TcAs
+bind negatively charged heparins. Cryo-EM structures of Morganella morganii TcdA4
+and Xenorhabdus nematophila XptA1 reveal that heparins/heparan sulfates
+unexpectedly bind to different regions of the shell domain, including
+receptor-binding domains. In addition, Photorhabdus luminescens TcdA1 binds to
+Lewis antigens with micromolar affinity. Here, the glycan interacts with the
+receptor-binding domain D of the toxin. Our results suggest a glycan dependent
+association mechanism of Tc toxins on the host cell surface.
+
+DOI: 10.1038/s41467-020-16536-7 
+PMCID: PMC7264150
+PMID: 32483155  [Indexed for MEDLINE]
+

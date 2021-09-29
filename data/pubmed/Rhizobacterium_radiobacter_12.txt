@@ -1,0 +1,58 @@
+
+1. Antimicrob Resist Infect Control. 2019 Nov 4;8:171. doi:
+10.1186/s13756-019-0619-y. eCollection 2019.
+
+Agrobacterium spp. nosocomial outbreak assessment using rapid MALDI-TOF MS based 
+typing, confirmed by whole genome sequencing.
+
+Casanova C(#)(1), Lo Priore E(#)(2), Egli A(3)(4), Seth-Smith HMB(3)(4), Räber
+L(5), Ott D(6), Pflüger V(7), Droz S(1), Marschall J(2), Sommerstein R(2).
+
+Author information: 
+(1)1Institute for Infectious Diseases, University of Bern, Friedbühlstrasse 51,
+3001 Bern, Switzerland.
+(2)Department of Infectious Diseases, Bern University Hospital, University of
+Bern, Freiburgstrasse, 3001 Bern, Switzerland.
+(3)3Division of Clinical Microbiology, University Hospital Basel, Basel,
+Switzerland.
+(4)4Applied Microbiology Research, Department of Biomedicine, University of
+Basel, Basel, Switzerland.
+(5)Department of Cardiology, Bern University Hospital, University of Bern, Bern, 
+Switzerland.
+(6)Department of Radiology, Bern University Hospital, University of Bern, Bern,
+Switzerland.
+(7)Mabritec AG, Riehen, Switzerland.
+(#)Contributed equally
+
+Background: A number of episodes of nosocomial Agrobacterium spp. bacteremia (two
+cases per year) were observed at Bern University Hospital, Switzerland, from 2015
+to 2017. This triggered an outbreak investigation.
+Methods: Cases of Agrobacterium spp. bacteremias that occurred between August
+2011 and February 2017 were investigated employing line lists, environmental
+sampling, rapid protein- (MALDI-TOF MS), and genome-based typing (pulsed field
+gel electrophoresis and whole genome sequencing) of the clinical isolates.
+Results: We describe a total of eight bacteremia episodes due to A. radiobacter
+(n = 2), Agrobacterium genomovar G3 (n = 5) and A. pusense (n = 1). Two tight
+clusters were observed by WGS typing, representing the two A. radiobacter
+isolates (cluster I, isolated in 2015) and four of the Agrobacterium genomovar G3
+isolates (cluster II, isolated in 2016 and 2017), suggesting two different point 
+sources. The epidemiological investigations revealed two computer tomography (CT)
+rooms as common patient locations, which correlated with the two outbreak
+clusters. MALDI-TOF MS permitted faster evaluation of strain relatedness than
+DNA-based methods. High resolution WGS-based typing confirmed the MALDI-TOF MS
+clustering.
+Conclusions: We report clinical and epidemiological characteristics of two
+outbreak clusters with Agrobacterium. spp. bacteremia likely acquired during CT
+contrast medium injection and highlight the use of MALDI-TOF MS as a rapid tool
+to assess relatedness of rare gram-negative pathogens in an outbreak
+investigation.
+
+© The Author(s). 2019.
+
+DOI: 10.1186/s13756-019-0619-y 
+PMCID: PMC6829841
+PMID: 31700617  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interestsThe authors declare that they 
+have no competing interests.
+

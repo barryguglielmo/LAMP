@@ -1,0 +1,45 @@
+
+1. Asian-Australas J Anim Sci. 2020 Oct;33(10):1590-1598. doi: 10.5713/ajas.19.0850.
+Epub 2020 Feb 25.
+
+Dietary lysophospholipids supplementation inhibited the activity of lipolytic
+bacteria in forage with high oil diet: an in vitro study.
+
+Kim H(1), Kim B(1), Cho S(1), Kwon I(2), Seo J(1).
+
+Author information: 
+(1)Department of Animal Science, Life and Industry Convergence Research
+Institute, Pusan National University, Miryang 50463, Korea.
+(2)EASY BIO, Inc., Seoul 06253, Korea.
+
+OBJECTIVE: The objective of this study was to evaluate the effects of
+lysophospholipids (LPL) supplementation on rumen fermentation, degradability, and
+microbial diversity in forage with high oil diet in an in vitro system.
+METHODS: Four experimental treatments were used: i) annual ryegrass (CON), ii)
+93% annual ryegrass +7% corn oil on a dry matter (DM) basis (OiL), iii) OiL with 
+a low level (0.08% of dietary DM) of LPL (LLPL), and iv) OiL with a high level
+(0.16% of dietary DM) of LPL (HLPL). An in vitro fermentation experiment was
+performed using strained rumen fluid for 48 h incubations. In vitro DM
+degradability (IVDMD), in vitro neutral detergent fiber degradability, pH,
+ammonia nitrogen (NH3-N), volatile fatty acid (VFA), and microbial diversity were
+estimated.
+RESULTS: There was no significant change in IVDMD, pH, NH3-N, and total VFA
+production among treatments. The LPL supplementation significantly increased the 
+proportion of butyrate and valerate (Linear effect [Lin], p = 0.004 and <0.001,
+respectively). The LPL supplementation tended to increase the total bacteria in a
+linear manner (p = 0.089). There were significant decreases in the relative
+proportions of cellulolytic (Fibrobacter succinogenes and Ruminococcus albus) and
+lipolytic (Anaerovibrio lipolytica and Butyrivibrio proteoclasticus) bacteria
+with increasing levels of LPL supplementation (Lin, p = 0.028, 0.006, 0.003, and 
+0.003, respectively).
+CONCLUSION: The LPL supplementation had antimicrobial effects on several
+cellulolytic and lipolytic bacteria, with no significant difference in nutrient
+degradability (DM and neutral detergent fiber) and general bacterial counts,
+suggesting that LPL supplementation might increase the enzymatic activity of
+rumen bacteria. Therefore, LPL supplementation may be more effective as an
+antimicrobial agent rather than as an emulsifier in the rumen.
+
+DOI: 10.5713/ajas.19.0850 
+PMCID: PMC7463089
+PMID: 32106659 
+

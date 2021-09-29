@@ -1,0 +1,51 @@
+
+1. Sci Rep. 2020 Oct 1;10(1):16301. doi: 10.1038/s41598-020-73199-6.
+
+Cryo-electron microscopy structure of the 70S ribosome from Enterococcus
+faecalis.
+
+Murphy EL(1), Singh KV(2)(3), Avila B(4), Kleffmann T(5), Gregory ST(6), Murray
+BE(2)(3)(7), Krause KL(8), Khayat R(9), Jogl G(10).
+
+Author information: 
+(1)Department of Molecular Biology, Cell Biology, and Biochemistry, Brown
+University, Providence, RI, 02912, USA.
+(2)Division of Infectious Diseases, Department of Internal Medicine, University
+of Texas Health Science Center, Houston, TX, 77030, USA.
+(3)Center for Antimicrobial Resistance and Microbial Genomics, University of
+Texas Health Science Center, Houston, TX, 77030, USA.
+(4)Department of Chemistry and Biochemistry, The City College of New York, New
+York, NY, 10031, USA.
+(5)Department of Biochemistry, University of Otago, Dunedin, 9054, New Zealand.
+(6)Department of Cell and Molecular Biology, The University of Rhode Island,
+Kingston, RI, 02881, USA.
+(7)Department of Microbiology and Molecular Genetics, University of Texas Health 
+Science Center, Houston, TX, 77030, USA.
+(8)Department of Biochemistry, University of Otago, Dunedin, 9054, New Zealand.
+kurt.krause@otago.ac.nz.
+(9)Department of Chemistry and Biochemistry, The City College of New York, New
+York, NY, 10031, USA. rkhayat@ccny.cuny.edu.
+(10)Department of Molecular Biology, Cell Biology, and Biochemistry, Brown
+University, Providence, RI, 02912, USA. gerwald_jogl@brown.edu.
+
+Enterococcus faecalis is a gram-positive organism responsible for serious
+infections in humans, but as with many bacterial pathogens, resistance has
+rendered a number of commonly used antibiotics ineffective. Here, we report the
+cryo-EM structure of the E. faecalis 70S ribosome to a global resolution of
+2.8 Å. Structural differences are clustered in peripheral and solvent exposed
+regions when compared with Escherichia coli, whereas functional centres,
+including antibiotic binding sites, are similar to other bacterial ribosomes.
+Comparison of intersubunit conformations among five classes obtained after
+three-dimensional classification identifies several rotated states. Large
+ribosomal subunit protein bL31, which forms intersubunit bridges to the small
+ribosomal subunit, assumes different conformations in the five classes, revealing
+how contacts to the small subunit are maintained throughout intersubunit
+rotation. A tRNA observed in one of the five classes is positioned in a chimeric 
+pe/E position in a rotated ribosomal state. The 70S ribosome structure of E.
+faecalis now extends our knowledge of bacterial ribosome structures and may serve
+as a basis for the development of novel antibiotic compounds effective against
+this pathogen.
+
+DOI: 10.1038/s41598-020-73199-6 
+PMID: 33004869 
+

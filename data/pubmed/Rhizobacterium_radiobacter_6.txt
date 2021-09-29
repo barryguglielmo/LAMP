@@ -1,0 +1,38 @@
+
+1. Microorganisms. 2020 Apr 22;8(4). pii: E608. doi: 10.3390/microorganisms8040608.
+
+Isolation, Identification and Characterization of Endophytic Bacterium Rhizobium 
+oryzihabitans sp. nov., from Rice Root with Biotechnological Potential in
+Agriculture.
+
+Zhao J(1), Zhao X(2), Wang J(1), Gong Q(1), Zhang X(1), Zhang G(1).
+
+Author information: 
+(1)Key Laboratory of Microbial Resources Collection and Preservation, Ministry of
+Agriculture, Institute of Agricultural Resources and Regional Planning, Chinese
+Academy of Agricultural Sciences, Beijing 100081, China.
+(2)Beijing Research Institute of Chemical Engineering and Metallurgy, Beijing
+101149, China.
+
+A flagellate, rod-shaped bacterium designated strain M15T was isolated from rice 
+roots. Phylogenetic analysis based on the sequences of the 16S rRNA, housekeeping
+genes and genomes showed that the isolate belonged to the genus Rhizobium, with
+the highest 16S rRNA similarity to Rhizobium radiobacter LMG140T (99.64%) and
+Rhizobium pusense NRCPB10T (99.36%), respectively. The complete genome of the
+strain M15T has a 59.28% G+C content, and the highest average nucleotide identity
+(ANI) and DNA-DNA relatedness (DDH) values were obtained with R. radiobacter
+LMG140T (88.11%, 54.80%), R. pusense NRCPB10T (86.00%, 53.00%) and R. nepotum
+39/7T (88.80%, 49.80%), respectively. Plant growth-promoting characteristics
+tests showed that the strain M15T produced siderophore,
+1-aminocyclopropane-1-carboxylate (ACC) deaminase and indole-3-acetic acid (IAA) 
+and also produced some secondary metabolites according to the analysis of the
+comparative genomes. Based on the data mentioned above, we proposed that the
+strain M15T represented a novel species of the genus Rhizobium, named Rhizobium
+oryzihabitans sp. nov. The type strain is M15T (=JCM 32903T  = ACCC 60121T), and 
+the strain M15T can be a novel biofertilizer Rhizobium to reduce the use of
+synthetic fertilizers for plant growth promotion.
+
+DOI: 10.3390/microorganisms8040608 
+PMCID: PMC7232506
+PMID: 32331293 
+

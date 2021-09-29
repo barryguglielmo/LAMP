@@ -1,0 +1,50 @@
+
+1. J Glob Antimicrob Resist. 2020 Mar;20:94-97. doi: 10.1016/j.jgar.2019.07.011.
+Epub 2019 Jul 16.
+
+Genome sequence of carbapenem-resistant Citrobacter koseri carrying blaOXA-181
+isolated from sewage sludge.
+
+Ekwanzala MD(1), Dewar JB(2), Kamika I(3), Momba MNB(4).
+
+Author information: 
+(1)Department of Environmental, Water and Earth Sciences, Tshwane University of
+Technology, Arcadia Campus, Pretoria, South Africa. Electronic address:
+ekwanzala.md@gmail.com.
+(2)Department of Life and Consumer Sciences, University of South Africa, Florida 
+Campus, Johannesburg, South Africa.
+(3)Department of Environmental Sciences, University of South Africa, Science
+Campus, Johannesburg, South Africa.
+(4)Department of Environmental, Water and Earth Sciences, Tshwane University of
+Technology, Arcadia Campus, Pretoria, South Africa. Electronic address:
+mombamnb@tut.ac.za.
+
+OBJECTIVES: This study reported the resistome content of sewage sludge-isolated
+carbapenem-resistant Citrobacter koseri (C. koseri) carrying blaOXA-181. It also 
+provided a general phylogenomic analysis highlighting antibiotic resistance genes
+(ARGs), plasmids and pathogenicity of C. koseri genomes.
+METHODS: The carbapenem-resistantC. koseri AS1 strain was isolated from sewage
+sludge on CHROMagar™ mSuperCARBA™ media. Whole genome sequencing of C. koseri AS1
+was performed using an HiSeq X™ Ten instrument. Additional C. koseri genomes were
+downloaded from National Center for Biotechnology Information (NCBI).
+Phylogenomic analysis was established through CSI Phylogeny. ARGs, plasmids and
+pathogenicity were identified using ResFinder 3.1, PlasmidFinder 2.0 and
+PathogenFinder 1.1, respectively.
+RESULTS: The phylogenomic tree indicated a polyclonal pattern ofC. koseri
+genomes. Resistome analysis of C. koseri AS1 revealed β-lactam resistance genes
+(blaMAL-1 and blaOXA-181) as well as a fosfomycin resistance gene (fosA7). Three 
+plasmids (ColKP3, ColRNAI and IncX30) were identiﬁed in the C. koseri AS1 genome.
+In addition, 25 ARGs were found in downloaded genomes. Of these, clinically
+significant ARGs such as blaKPC-2 and blaOXA-48 were found in two and four
+genomes, respectively. Assessment of the genomes using PathogenFinder revealed
+all genomes as putative human pathogens.
+CONCLUSIONS: It is believed that noC. koseri genome has been reported to carry
+blaOXA-181; therefore, C. koseri AS1 is the first of its kind. This study also
+highlighted the resistome contents of C. koseri genomes.
+
+Copyright © 2019 International Society for Antimicrobial Chemotherapy. Published 
+by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jgar.2019.07.011 
+PMID: 31323426 
+

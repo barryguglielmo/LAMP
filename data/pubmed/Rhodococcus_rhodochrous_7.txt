@@ -1,0 +1,32 @@
+
+1. Molecules. 2020 Jan 6;25(1). pii: E238. doi: 10.3390/molecules25010238.
+
+Substrate Profiling of the Cobalt Nitrile Hydratase from Rhodococcus rhodochrous 
+ATCC BAA 870.
+
+Mashweu AR(1), Chhiba-Govindjee VP(1)(2), Bode ML(1), Brady D(1).
+
+Author information: 
+(1)Molecular Sciences Institute, School of Chemistry, University of the
+Witwatersrand, Johannesburg 2050, South Africa.
+(2)CSIR Chemical Production Cluster, PO Box 395, Pretoria 0001, South Africa.
+
+The aromatic substrate profile of the cobalt nitrile hydratase from Rhodococcus
+rhodochrous ATCC BAA 870 was evaluated against a wide range of nitrile containing
+compounds (>60). To determine the substrate limits of this enzyme, compounds
+ranging in size from small (90 Da) to large (325 Da) were evaluated. Larger
+compounds included those with a bi-aryl axis, prepared by the Suzuki coupling
+reaction, Morita-Baylis-Hillman adducts, heteroatom-linked diarylpyridines
+prepared by Buchwald-Hartwig cross-coupling reactions and imidazo[1,2-a]pyridines
+prepared by the Groebke-Blackburn-Bienaymé multicomponent reaction. The enzyme
+active site was moderately accommodating, accepting almost all of the small
+aromatic nitriles, the diarylpyridines and most of the bi-aryl compounds and
+Morita-Baylis-Hillman products but not the Groebke-Blackburn-Bienaymé products.
+Nitrile conversion was influenced by steric hindrance around the cyano group, the
+presence of electron donating groups (e.g., methoxy) on the aromatic ring, and
+the overall size of the compound.
+
+DOI: 10.3390/molecules25010238 
+PMCID: PMC6983157
+PMID: 31935987  [Indexed for MEDLINE]
+

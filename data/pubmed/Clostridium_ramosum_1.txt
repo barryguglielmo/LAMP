@@ -1,0 +1,62 @@
+
+1. J Infect. 2020 Sep 11:4834. doi: 10.1016/j.jinf.2020.09.003. [Epub ahead of
+print]
+
+Fecal Microbiota Transplantation for multidrug-resistant organism: Efficacy and
+Response prediction.
+
+Seong H(1), Lee SK(2), Cheon JH(2), Yong DE(3), Koh H(4), Kang YK(5), Jeong
+WY(6), Lee WJ(6), Sohn Y(6), Cho Y(6), Hyun JH(6), Baek YJ(6), Kim MH(6), Kim
+JH(6), Ahn JY(6), Ku NS(6), Jeong SJ(6), Yeom JS(6), Cho MS(7), Lee JH(7), Kim
+BY(7), Choi JY(8).
+
+Author information: 
+(1)Division of Infectious Diseases, Department of Internal Medicine, Yonsei
+University College of Medicine, Seoul, South Korea; Division of Infectious
+Diseases, Department of Internal Medicine, Korea University College of Medicine, 
+Seoul, South Korea.
+(2)Division of Gastroenterology, Department of Internal Medicine, Yonsei
+University College of Medicine, Seoul, South Korea.
+(3)Department of Laboratory Medicine and Research Institute of Bacterial
+Resistance, Yonsei University College of Medicine, Seoul, South Korea.
+(4)Division of Gastroenterology, Hepatology and Nutrition, Department of
+Pediatrics, Severance Children's Hospital, Severance Pediatric Liver Disease
+Research Group, Yonsei University College of Medicine, Seoul, South Korea.
+(5)Division of Gastroenterology, Hepatology and Nutrition, Department of
+Pediatrics, Yonsei University Wonju College of Medicine, Wonju, South Korea.
+(6)Division of Infectious Diseases, Department of Internal Medicine, Yonsei
+University College of Medicine, Seoul, South Korea.
+(7)ChunLab, Inc., JW Tower, 2477, Nambusunhwan-ro, Seocho-gu, Seoul, South Korea.
+(8)Division of Infectious Diseases, Department of Internal Medicine, Yonsei
+University College of Medicine, Seoul, South Korea. Electronic address:
+seran@yuhs.ac.
+
+OBJECTIVES: The increasing prevalence of multidrug-resistant microorganisms
+(MDRO) is increasing the frequency of poor clinical outcomes, prolonging
+hospitalizations, and raising healthcare costs. This study evaluated the
+eradication efficacy of fecal microbiota transplantation (FMT) and identified
+microbial and functional biomarkers of MDRO decolonization.
+METHODS: Fecal solution obtained from healthy unrelated donors was infused in the
+participants' guts which had been colonized with carbapenemase-producing
+enterobacteriacea (CPE), vancomycin-resistant enterococci (VRE), or both CPE and 
+VRE. Fecal samples from recipients were collected and microbiome changes before
+and after FMT were assessed.
+RESULTS: Twenty-four (68.6%) out of 35 patients were decolonized within one year 
+of receiving FMT. Multivariate analysis showed that FMT (FMT: hazard ratio
+(HR) = 5.343, 95% confidence interval (CI) = 1.877-15.212, p = 0.002) and MDRO
+types (CPE: HR = 11.146, 95% CI = 2.420-51.340, p = 0.002; CPE/VRE: HR = 2.948,
+95% CI = 1.200-7.246, p = 0.018; VRE served as the reference) were significant
+independent factors associated with time to decolonization. Microbiota analysis
+showed higher richness and biodiversity before FMT resulted in VRE
+decolonization. The species Clostridium ramosum and the genuses Anaerostipes and 
+Eisenbergiella could serve as taxonomic biomarkers and K02017 could serve as a
+functional biomarker for VRE clearance.
+CONCLUSION: FMT is an effective way to decolonize MDRO and its effectiveness may 
+be predicted by microbiome analysis.
+
+Copyright © 2020 The British Infection Association. Published by Elsevier Ltd.
+All rights reserved.
+
+DOI: 10.1016/j.jinf.2020.09.003 
+PMID: 32920061 
+

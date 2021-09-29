@@ -1,0 +1,59 @@
+
+1. Microb Cell Fact. 2020 Jun 5;19(1):123. doi: 10.1186/s12934-020-01383-4.
+
+Comparative analysis of microbial community structure between healthy and
+Aeromonas veronii-infected Yangtze finless porpoise.
+
+Liu Z(1)(2)(3), Li A(4), Wang Y(5), Iqbal M(5)(6), Zheng A(7)(8), Zhao M(7), Li
+Z(7), Wang N(7), Wu C(7), Yu D(7)(8).
+
+Author information: 
+(1)College of Life Science, Anqing Normal University, Anqing, 246011, China.
+lzg2881@126.com.
+(2)Research Center of Aquatic Organism Conservation and Water Ecosystem
+Restoration in Anhui Province, Anqing Normal University, Anqing, 246011, China.
+lzg2881@126.com.
+(3)College of Veterinary Medicine, Huazhong Agricultural University, Wuhan,
+430070, China. lzg2881@126.com.
+(4)College of Veterinary Medicine, Huazhong Agricultural University, Wuhan,
+430070, China. 807258573@qq.com.
+(5)College of Veterinary Medicine, Huazhong Agricultural University, Wuhan,
+430070, China.
+(6)University College of Veterinary & Animal Sciences, The Islamia University of 
+Bahawalpur, Bahawalpur, 63100, Pakistan.
+(7)College of Life Science, Anqing Normal University, Anqing, 246011, China.
+(8)Research Center of Aquatic Organism Conservation and Water Ecosystem
+Restoration in Anhui Province, Anqing Normal University, Anqing, 246011, China.
+
+BACKGROUND: The gut microbiota is a complex ecosystem, which is essential for the
+metabolism, health and immunity of host. Many diseases have been shown to be
+closely related to the alteration of intestinal flora. Aeromonas veronii as a
+conditioned pathogen can cause disease in Yangtze finless porpoise through
+intestinal infections. However, it is not clear whether the disease caused by
+Aeromonas veronii is related to changes of intestinal flora. In the current
+study, the diversity and composition of gut microbiota in the healthy and
+Aeromonas veronii-infected Yangtze finless porpoise were evaluated by
+high-throughput sequencing to further investigate the potential association
+between intestinal flora alteration and pathogen invasion.
+RESULTS: A total of 127,3276 high-quality sequences were achieved and 2465
+operational taxonomic units (OTUs) were in common among all samples. The results 
+of alpha diversity showed that there was no obvious difference in richness and
+diversity between healthy and Aeromonas veronii-infected Yangtze finless
+porpoise. Firmicutes, Bacteroidetes and Proteobacteria were the most dominant
+phyla in all samples. In addition, the healthy Yangtze finless porpoise exhibited
+higher abundance of Firmicutes and Fusobacteria than Aeromonas veronii-infected
+Yangtze finless porpoise, while, the level of Proteobacteria was decreased. At
+the genus level, Paeniclostridium and Paraclostridium were the predominant
+bacteria genera in the CK (healthy Yangtze finless porpoise) group. In the DIS
+(Aeromonas veronii-infected Yangtze finless porpoise) group, Lactobacillus and
+unidentified_Enterobacteriaceae were the dominant bacteria genera and the
+proportion of Paeniclostridium, Paraclostridium, Terrisporobacter, Cetobacterium,
+Candidatus Arthromitus, Terrabacter and Dechloromonas were reduced.
+CONCLUSIONS: In conclusion, our results showed that Aeromonas veronii infection
+can alter the gut microbiota of the Yangtze finless porpoise by affecting the
+number of harmful bacteria and beneficial bacteria.
+
+DOI: 10.1186/s12934-020-01383-4 
+PMCID: PMC7275351
+PMID: 32503532 
+

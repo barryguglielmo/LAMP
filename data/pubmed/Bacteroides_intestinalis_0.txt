@@ -1,0 +1,57 @@
+
+1. Front Microbiol. 2020 Jul 2;11:1474. doi: 10.3389/fmicb.2020.01474. eCollection
+2020.
+
+Metagenomics Study Reveals Changes in Gut Microbiota in Centenarians: A Cohort
+Study of Hainan Centenarians.
+
+Luan Z(1), Sun G(1), Huang Y(2), Yang Y(1), Yang R(3), Li C(1), Wang T(2), Tan
+D(2), Qi S(4), Jun C(1), Wang C(1), Wang S(1), Zhao Y(5), Jing Y(1).
+
+Author information: 
+(1)Chinese PLA General Hospital, Beijing, China.
+(2)Realbio Technology Co., Ltd., Hangzhou, China.
+(3)Academy of Military Medical Sciences, Beijing, China.
+(4)Tianjin First Central Hospital, Tianjin, China.
+(5)Hainan Branch of Chinese PLA General Hospital, Sanya, China.
+
+Several studies based on 16SrDNA analysis have revealed certain unique
+characteristics of gut microbiome in centenarians. We established a prospective
+cohort of fecal microbiota and conducted the first metagenomics-based study among
+centenarians. The objective was to explore the dynamic changes of gut microbiota 
+in healthy centenarians and centenarians approaching end of life and to unravel
+the characteristics of aging-associated microbiome. Seventy-five healthy
+centenarians residing in three regions of Hainan participated in follow-up
+surveys and collection of fecal samples at intervals of 3 months. Data pertaining
+to dietary status, health status scores, cause of disease and death, and fecal
+specimens were collected for 15 months. Twenty participants died within 20 months
+during the follow-up period. The median survival time was 8-9 months (range,
+1-17) and the mortality rate was 14.7% per year. The health status scores before 
+death were significantly lower than those at 3 months before the end of the
+follow-up period [median score: 3 (range, 1-5), P < 0.05]. At this time, the
+participants mainly exhibited symptoms of anorexia and reduced dietary intake and
+physical activity. Metagenomics sequencing and analysis were carried out to
+characterize the gut microbiota changes in the centenarians during their
+transition from healthy status to death. Anosim analysis showed a significant
+change in gut microbiota from 7 months prior to death (R = 0.10, P = 0.02). All
+participants were grouped with 7 months before death as cut-off; no significant
+difference in α diversity was found between the two groups (P = 0.45).
+Semi-supervised monitoring and log rank sum analysis revealed significant changes
+in the abundance of ten bacterial species before death; of these, eight species
+were significantly reduced (Akkermansia muciniphila, Alistipes finegoldii,
+Alistipes shahii, Bacteroides faecis, Bacteroides intestinalis, Butyrivibrio
+crossotus, Bacteroides stercoris, and Prevotella stercorea) while two were
+significantly increased before death (Bifidobacterium longum and Ruminococcus
+bromii). Compared to centenarians in northern Italy, Hainan centenarians
+exhibited unique characteristics of gut microbiome. The abundance of ten
+bacterial species showed significant changes starting from 7 months before death.
+We speculate that these changes might occur before the clinical symptoms of
+deterioration in health status.
+
+Copyright © 2020 Luan, Sun, Huang, Yang, Yang, Li, Wang, Tan, Qi, Jun, Wang,
+Wang, Zhao and Jing.
+
+DOI: 10.3389/fmicb.2020.01474 
+PMCID: PMC7343713
+PMID: 32714309 
+

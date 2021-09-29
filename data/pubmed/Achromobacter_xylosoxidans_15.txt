@@ -1,0 +1,44 @@
+
+1. J Basic Microbiol. 2020 Jun 23. doi: 10.1002/jobm.201900697. [Epub ahead of
+print]
+
+Quorum sensing mediated response of Achromobacter denitrificans SP1 towards
+prodigiosin production under phthalate stress.
+
+Erandapurathukadumana Sreedharan H(1), Cherukara Chellappan H(1), Selvanesan
+P(2), Garvasis J(3).
+
+Author information: 
+(1)Division of Environmental Science, Department of Botany, University of
+Calicut, Kerala, India.
+(2)Division of Microbiology, Jawaharlal Nehru Tropical Botanic Garden and
+Research Institute, Thiruvananthapuram, Kerala, India.
+(3)Corrosion and Electrochemistry Lab, Department of Chemistry, University of
+Calicut, Kerala, India.
+
+Quorum sensing is a density-dependent chemical process between bacteria, which
+may be intergenus or intragenus. N-acyl homoserine lactones (HSLs) are a type of 
+small signaling molecules associated with Gram-negative bacteria for monitoring
+their own population density. The present study unveils the mechanism of HSLs in 
+Achromobacter denitrificans SP1 while transforming di(2-ethylhexyl) phthalate
+(DEHP) into prodigiosin in a simple basal salt medium. The primary detection of
+HSLs was done by the colorimetric method. Fourier-transform infrared spectroscopy
+and liquid chromatography-mass spectrometry-quadrupole time-of-flight confirmed
+and identified the HSLs. The maximum production of HSLs was observed between 24
+and 72 h of incubation, which is noted to be a peak time of DEHP degradation. A
+total of 57.2% of DEHP was degraded within 30 h and complete degradation was
+observed within 72 h of incubation. Regulation in the synthesis of various
+acyl-HSL molecules, viz. 3OC6-HSL in the initial stage of DEHP stress, 3OC8-HSL, 
+and C10-HSL during the time of degradation and 3OC12-HSL on completion of
+degradation was noticed. The role of HSLs on the production of prodigiosin was
+confirmed using vanillin as an HSL inhibitor. Through the selective activation of
+HSL molecules, A. denitrificans SP1 sustain the changing stressful conditions.
+Supplementation of acyl-HSL signal molecules may boost up the efficacy of A.
+denitrificans SP1 in both DEHP degradation and prodigiosin production which
+offers great potential towards the management of DEHP containing plastic wastes.
+
+© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/jobm.201900697 
+PMID: 32573013 
+

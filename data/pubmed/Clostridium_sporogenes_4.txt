@@ -1,0 +1,41 @@
+
+1. Nat Microbiol. 2020 Sep 14. doi: 10.1038/s41564-020-0788-8. [Epub ahead of print]
+
+Structures of the stator complex that drives rotation of the bacterial flagellum.
+
+Deme JC(1)(2), Johnson S(1), Vickery O(3)(4), Muellbauer A(1), Monkhouse H(1),
+Griffiths T(1), James RH(1), Berks BC(3), Coulton JW(5)(6), Stansfeld PJ(3)(4),
+Lea SM(7)(8).
+
+Author information: 
+(1)Sir William Dunn School of Pathology, University of Oxford, Oxford, UK.
+(2)Central Oxford Structural Molecular Imaging Centre, University of Oxford,
+Oxford, UK.
+(3)Department of Biochemistry, University of Oxford, Oxford, UK.
+(4)School of Life Sciences & Department of Chemistry, University of Warwick,
+Coventry, UK.
+(5)Department of Microbiology and Immunology, McGill University, Montreal,
+Quebec, Canada.
+(6)Département de Biochemie et Médecine Moleculaire, Université de Montréal,
+Montréal, Quebec, Canada.
+(7)Sir William Dunn School of Pathology, University of Oxford, Oxford, UK.
+susan.lea@path.ox.ac.uk.
+(8)Central Oxford Structural Molecular Imaging Centre, University of Oxford,
+Oxford, UK. susan.lea@path.ox.ac.uk.
+
+The bacterial flagellum is the prototypical protein nanomachine and comprises a
+rotating helical propeller attached to a membrane-embedded motor complex. The
+motor consists of a central rotor surrounded by stator units that couple ion flow
+across the cytoplasmic membrane to generate torque. Here, we present the
+structures of the stator complexes from Clostridium sporogenes, Bacillus subtilis
+and Vibrio mimicus, allowing interpretation of the extensive body of data on
+stator mechanism. The structures reveal an unexpected asymmetric A5B2 subunit
+assembly where the five A subunits enclose the two B subunits. Comparison to
+structures of other ion-driven motors indicates that this A5B2 architecture is
+fundamental to bacterial systems that couple energy from ion flow to generate
+mechanical work at a distance and suggests that such events involve rotation in
+the motor structures.
+
+DOI: 10.1038/s41564-020-0788-8 
+PMID: 32929189 
+

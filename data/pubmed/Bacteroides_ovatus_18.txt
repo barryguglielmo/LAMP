@@ -1,0 +1,63 @@
+
+1. Front Microbiol. 2019 Nov 29;10:2635. doi: 10.3389/fmicb.2019.02635. eCollection 
+2019.
+
+Intestinal Bacteroides sp. Imbalance Associated With the Occurrence of Childhood 
+Undernutrition in China.
+
+Li D(1)(2), Li Y(3), Dai W(2), Wang H(4), Qiu C(2), Feng S(5), Zhou Q(3), Wang
+W(6), Feng X(2), Yao K(7), Liu Y(2), Yang Y(2)(6)(7), Yang Z(2), Xu X(5), Li
+S(3), Wei J(4), Zhou K(1).
+
+Author information: 
+(1)Wuhan National Laboratory for Optoelectronics, Huazhong University of Science 
+and Technology, Wuhan, China.
+(2)Department of Microbial Research, WeHealthGene Institute, Shenzhen, China.
+(3)Department of Computer Science, College of Science and Engineering, City
+University of Hong Kong, Kowloon Tong, Hong Kong.
+(4)Department of Clinical Nutrition, Shenzhen Children's Hospital, Shenzhen,
+China.
+(5)Institute of Statistics, Nankai University, Tianjin, China.
+(6)Department of Respiratory Diseases, Shenzhen Children's Hospital, Shenzhen,
+China.
+(7)Department of Respiratory Diseases, Beijing Children's Hospital, Beijing,
+China.
+
+Undernutrition (UN) is a worldwide concern affecting morbidity and mortality
+among children, but the safety and long-term efficacy of its current treatments
+remain controversial. Recent evidence showing the roles of the gut microbiome
+(GM) in nutrient absorption indicates its usefulness in alternative interventions
+to treat UN safely with sustainable amelioration. To enhance our understanding of
+the GM and childhood undernutrition, we deep sequenced the gut metagenomes of 65 
+children with moderate or severe undernutrition (UN group) and 61 healthy
+children (HC group) to identify associated taxa and genes using a two-stage
+validation scheme. At stage I, 54 UN patients and 51 healthy children were
+enrolled for the discovery of GM markers in UN children. The accuracy of the
+markers was then tested in an additional 11 UN patients and 10 healthy children
+at stage II. Compared to the HC group, the UN group had lower richness in
+microbial genes (P = 0.005, FDR = 0.005) and species (P = 0.002, FDR = 0.002).
+The distributions of bacterial genes enable the identification of 16 gene markers
+with which to discriminate UN patients with high accuracy [averaged areas under
+the receiver operating curve (AUC) = 0.87], including three Bacteroides uniformis
+genes that are responsible for the synthesis of iron transporters. We also
+identified four species markers that enable the UN patients to be confidently
+discriminated from the HC children (averaged AUC = 0.91), namely Bacteroides
+ovatus, Bacteroides uniformis, Bacteroides uniformis, and Bacteroides vulgatus.
+In addition, metabolic comparison showed significantly decreased isobutyric acid 
+(P = 0.005, FDR = 0.017) and increased isovaleric acid (P = 0.006, FDR = 0.017)
+in UN patients. We also identified notable correlations between microbial species
+and short-chain fatty acids (SCFAs) and several nutritional indicators, including
+acetic acid and iron (r = 0.436, P = 0.029), butyric acid and iron (r = 0.422, P 
+= 0.036), butyric acid and lymphocyte (r = -0.309, P = 0.011), and acetic acid
+and total protein (r = -0.303, P = 0.043). Taken together, the distinct features 
+of gut microbiota in UN patients highlight the taxonomic and functional shift
+during the development of UN and provide a solid theoretical basis for
+intervention in childhood undernutrition through gut microbes.
+
+Copyright © 2019 Li, Li, Dai, Wang, Qiu, Feng, Zhou, Wang, Feng, Yao, Liu, Yang, 
+Yang, Xu, Li, Wei and Zhou.
+
+DOI: 10.3389/fmicb.2019.02635 
+PMCID: PMC6895006
+PMID: 31849851 
+

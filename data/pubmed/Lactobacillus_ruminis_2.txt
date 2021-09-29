@@ -1,0 +1,47 @@
+
+1. Genes (Basel). 2020 Jan 8;11(1). pii: E70. doi: 10.3390/genes11010070.
+
+Comparative Genomics Analysis of Lactobacillus ruminis from Different Niches.
+
+Wang S(1)(2), Yang B(1)(2)(3), Ross RP(3)(4), Stanton C(3)(5), Zhao J(1)(2)(3),
+Zhang H(1)(2)(6)(7), Chen W(1)(2)(6)(8).
+
+Author information: 
+(1)State Key Laboratory of Food Science and Technology, Jiangnan University, Wuxi
+214122, China.
+(2)School of Food Science and Technology, Jiangnan University, Wuxi 214122,
+China.
+(3)International Joint Research Center for Probiotics & Gut Health, Jiangnan
+University, Wuxi 214122, China.
+(4)APC Microbiome Ireland, University College Cork, Cork, T12K8AF Cork, Ireland.
+(5)Teagasc Food Research Centre, Moorepark, Fermoy, P61C996 Co. Cork, Ireland.
+(6)National Engineering Research Center for Functional Food, Jiangnan University,
+Wuxi 214122, China.
+(7)Wuxi Translational Medicine Research Center and Jiangsu Translational Medicine
+Research Institute Wuxi Branch, Wuxi Branch, Wuxi 214122, China.
+(8)Beijing Innovation Center of Food Nutrition and Human Health, Beijing
+Technology and Business University (BTBU), Beijing 102488, China.
+
+Lactobacillus ruminis is a commensal motile lactic acid bacterium living in the
+intestinal tract of humans and animals. Although a few genomes of L. ruminis were
+published, most of them were animal derived. To explore the genetic diversity and
+potential niche-specific adaptation changes of L. ruminis, in the current work,
+draft genomes of 81 L. ruminis strains isolated from human, bovine, piglet, and
+other animals were sequenced, and comparative genomic analysis was performed. The
+genome size and GC content of L. ruminis on average were 2.16 Mb and 43.65%,
+respectively. Both the origin and the sampling distance of these strains had a
+great influence on the phylogenetic relationship. For carbohydrate utilization,
+the human-derived L. ruminis strains had a higher consistency in the utilization 
+of carbon source compared to the animal-derived strains. L. ruminis mainly
+increased the competitiveness of niches by producing class II bacteriocins. The
+type of clustered regularly interspaced short palindromic repeats
+/CRISPR-associated (CRISPR/Cas) system presented in L. ruminis was mainly subtype
+IIA. The diversity of CRISPR/Cas locus depended on the high denaturation of
+spacer number and sequence, although cas1 protein was relatively conservative.
+The genetic differences in those newly sequenced L. ruminis strains highlighted
+the gene gains and losses attributed to niche adaptations.
+
+DOI: 10.3390/genes11010070 
+PMCID: PMC7016997
+PMID: 31936280  [Indexed for MEDLINE]
+

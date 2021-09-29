@@ -1,0 +1,39 @@
+
+1. New Microbes New Infect. 2019 Oct 15;32:100612. doi: 10.1016/j.nmni.2019.100612. 
+eCollection 2019 Nov.
+
+Molecular epidemiology of Clostridium neonatale and its relationship with the
+occurrence of necrotizing enterocolitis in preterm neonates.
+
+Hosny M(1), Baptiste E(1), Levasseur A(1), La Scola B(1).
+
+Author information: 
+(1)Aix-Marseille Université UM63, Institut de Recherche pour le Développement IRD
+198, Assistance Publique, Hôpitaux de Marseille (AP-HM), Microbes, Evolution,
+Phylogeny and Infection (MEΦI), Institut Hospitalo-Universitaire (IHU),
+Méditerranée Infection, France.
+
+Clostridia-especially Clostridium butyricum-are among the taxa most frequently
+identified from stool samples of preterm neonates with necrotizing enterocolitis 
+(NEC). Recently, Clostridium neonatale has also been detected from epidemic
+cases, but using a culture-based approach we were unable to confirm this
+discovery in a local cohort. In order to investigate this link by a molecular
+approach, a specific rpoB-based quantitative real-time PCR was developed to
+detect C. neonatale directly from patients' stool specimens. Design of this
+rpoB-based quantitative real-time PCR was based on the genomic analysis of seven 
+clinical isolates of C. neonatale. It was tested on stool samples from 88 preterm
+neonates with necrotizing enterocolitis and 71 matched controls. C. neonatale was
+significantly more prevalent in stools from preterm neonates with necrotizing
+enterocolitis than in controls (respectively 30/88 (34%) versus 9/71 (13%); p
+0.003). Whole-genome analysis also allowed the identification of three genomic
+clusters of C. neonatale. This clustering was associated with a geographical
+location regardless of isolation from the NEC or control, suggesting asymptomatic
+carriage. Although less prevalent than C. butyricum in our cohort, C. neonatale
+is significantly associated with the occurrence of necrotizing enterocolitis.
+
+© 2019 The Author(s).
+
+DOI: 10.1016/j.nmni.2019.100612 
+PMCID: PMC6849425
+PMID: 31737279 
+

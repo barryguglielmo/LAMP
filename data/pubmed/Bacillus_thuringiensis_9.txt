@@ -1,0 +1,61 @@
+
+1. PLoS Pathog. 2020 Sep 24;16(9):e1008826. doi: 10.1371/journal.ppat.1008826.
+eCollection 2020 Sep.
+
+The C. elegans GATA transcription factor elt-2 mediates distinct transcriptional 
+responses and opposite infection outcomes towards different Bacillus
+thuringiensis strains.
+
+Zárate-Potes A(1), Yang W(1), Pees B(1), Schalkowski R(1), Segler P(1), Andresen 
+B(1), Haase D(1), Nakad R(1), Rosenstiel P(2), Tetreau G(3), Colletier JP(3),
+Schulenburg H(1)(4), Dierking K(1).
+
+Author information: 
+(1)Department of Evolutionary Ecology and Genetics,
+Christian-Albrechts-Universität zu Kiel, Kiel, Germany.
+(2)Institute for Clinical Molecular Biology (IKMB),
+Christian-Albrechts-Universität zu Kiel, Kiel, Germany.
+(3)Univ. Grenoble Alpes, CNRS, CEA, Institut de Biologie Structurale, Grenoble,
+France.
+(4)Max Planck Institute for Evolutionary Biology, Ploen, Germany.
+
+The nematode Caenorhabditis elegans has been extensively used as a model for the 
+study of innate immune responses against bacterial pathogens. While it is well
+established that the worm mounts distinct transcriptional responses to different 
+bacterial species, it is still unclear in how far it can fine-tune its response
+to different strains of a single pathogen species, especially if the strains vary
+in virulence and infection dynamics. To rectify this knowledge gap, we
+systematically analyzed the C. elegans response to two strains of Bacillus
+thuringiensis (Bt), MYBt18247 (Bt247) and MYBt18679 (Bt679), which produce
+different pore forming toxins (PFTs) and vary in infection dynamics. We combined 
+host transcriptomics with cytopathological characterizations and identified both 
+a common and also a differentiated response to the two strains, the latter
+comprising almost 10% of the infection responsive genes. Functional genetic
+analyses revealed that the AP-1 component gene jun-1 mediates the common response
+to both Bt strains. In contrast, the strain-specific response is mediated by the 
+C. elegans GATA transcription factor ELT-2, a homolog of Drosophila SERPENT and
+vertebrate GATA4-6, and a known master regulator of intestinal responses in the
+nematode. elt-2 RNAi knockdown decreased resistance to Bt679, but remarkably,
+increased survival on Bt247. The elt-2 silencing-mediated increase in survival
+was characterized by reduced intestinal tissue damage despite a high pathogen
+burden and might thus involve increased tolerance. Additional functional genetic 
+analyses confirmed the involvement of distinct signaling pathways in the C.
+elegans defense response: the p38-MAPK pathway acts either directly with or in
+parallel to elt-2 in mediating resistance to Bt679 infection but is not required 
+for protection against Bt247. Our results further suggest that the elt-2
+silencing-mediated increase in survival on Bt247 is multifactorial, influenced by
+the nuclear hormone receptors NHR-99 and NHR-193, and may further involve lipid
+metabolism and detoxification. Our study highlights that the nematode C. elegans 
+with its comparatively simple immune defense system is capable of generating a
+differentiated response to distinct strains of the same pathogen species.
+Importantly, our study provides a molecular insight into the diversity of
+biological processes that are influenced by a single master regulator and jointly
+determine host survival after pathogen infection.
+
+DOI: 10.1371/journal.ppat.1008826 
+PMCID: PMC7513999
+PMID: 32970778 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

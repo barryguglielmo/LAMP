@@ -1,0 +1,49 @@
+
+1. J Mol Graph Model. 2020 Jun;97:107546. doi: 10.1016/j.jmgm.2020.107546. Epub 2020
+Jan 23.
+
+Mg2+ vs Ca2+ bound active site of group II intron- A MD study.
+
+Kumar A(1), Satpati P(2).
+
+Author information: 
+(1)Department of Biosciences and Bioengineering, Indian Institute of Technology
+Guwahati, Guwahati, 781039, Assam, India.
+(2)Department of Biosciences and Bioengineering, Indian Institute of Technology
+Guwahati, Guwahati, 781039, Assam, India. Electronic address:
+psatpati@iitg.ac.in.
+
+Group II introns are enzymes which undergo self-splicing and remove itself from
+pre-messenger RNA. X-ray structures of group II intron of Oceanobacillus
+iheyensis at various stages of the self-splicing pathway (pre-hydrolytic,
+post-hydrolytic, and ligand-free state) revealed intricate atomic interaction
+network in the active site of the intron. It has been confirmed that a
+heteronuclear metal ion cluster consisting of four metal ions (K1, K2 sites with 
+K+ and M1, M2 sites with Mg2+) are crucial for function. Substitution of Mg2+ by 
+Ca2+ results in loss of enzymatic activity. The X-ray structures not only opens
+up the possibility of modelling Mg2+ and Ca2+ bound active site of group II
+intron and quantitatively estimate the energetics of Mg2+ vs Ca2+ preference but 
+also explore the relative structural and dynamical differences in response to
+divalent metal ion substitution. Thus, using X-ray structures as a template we
+performed molecular dynamics simulations to compare structural and dynamical
+differences between Mg2+ and Ca2+ bound active site of group II intron at various
+stages of the splicing pathway (i.e., pre-hydrolytic, post-hydrolytic, and
+ligand-free state). Quantitative estimation of Mg2+ vs Ca2+ selectivity at the
+M1, M2 sites confirmed Mg2+ preference at intron active sites relative to Ca2+.
+Ca2+ is relatively more hydrated in the intron active site relative to Mg2+. The 
+local environment (bound nucleophilic water, interaction with scissile phosphate)
+around M2 is strikingly different between Mg2+ and Ca2+ bound pre-hydrolytic
+state. In the post-hydrolytic state, the exon part of the hydrolysis product is
+involved in direct interaction with the M1, whereas the intron part is highly
+flexible in our MD trajectories. Solvent exposure of M1, M2 sites are least in
+the pre-hydrolytic state, highest in the ligand-free state, and intermediate in
+the post-hydrolytic state.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jmgm.2020.107546 
+PMID: 32018058 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no conflict of interest.
+

@@ -1,0 +1,58 @@
+
+1. PLoS One. 2020 Sep 24;15(9):e0239290. doi: 10.1371/journal.pone.0239290.
+eCollection 2020.
+
+Rapid diagnosis of periprosthetic joint infection from synovial fluid in blood
+culture bottles by direct matrix-assisted laser desorption ionization
+time-of-flight mass spectrometry.
+
+Kuo FC(1)(2), Chien CC(3), Lee MS(1)(2), Wang JW(1)(2), Lin PC(1)(2), Lee
+CH(2)(4).
+
+Author information: 
+(1)Department of Orthopaedic Surgery, Kaohsiung Chang Gung Memorial Hospital,
+Kaohsiung, Taiwan.
+(2)College of Medicine, Chang Gung University, Kaohsiung, Taiwan.
+(3)Laboratory Medicine, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung,
+Taiwan.
+(4)Division of Infectious Diseases, Department of Internal Medicine, Kaohsiung
+Chang Gung Memorial Hospital, Kaohsiung, Taiwan.
+
+BACKGROUND: The aim of this prospective study was to use direct matrix-assisted
+laser desorption ionization time-of-flight mass spectrometry (MALDI-TOF MS) to
+rapidly diagnose periprosthetic joint infections (PJIs).
+METHOD: Synovial fluid was taken from 77 patients (80 joints, 41 hips and 39
+knees) who met the International Consensus Meeting criteria for PJI, and
+inoculated into blood culture bottles (BCBs) and onto conventional swabs.
+Positive blood cultures were analyzed using either direct or routine MALDI-TOF
+MS. Pathogen identification and the time to identification was recorded.
+Differences between groups were analyzed using the Kruskal-Wallis test and
+Bonferroni's post-hoc test.
+RESULTS: Direct and routine MALDI-TOF MS both detected 64 positive results (80%),
+compared to 47 (59%) by conventional swabs (p = 0.002). Direct MALDI-TOF MS
+identified 85.3% of the gram-positive organisms and 92.3% of the gram-negative
+organisms. No fungi were identified by direct MALDI-TOF MS. In 17 BCBs that were 
+flagged positive, identification by direct MALDI-TOF MS failed. Among the
+positive results in the direct MALDI-TOF MS group, Staphylococcus aureus
+accounted for 47%, followed by Staphylococcus epidermidis (17%), Escherichia coli
+(9%) and Klebsiella pneumoniae (9%). The median time to microorganism
+identification was significantly shorter with direct MALDI-TOF MS (12.7 h, IQR:
+8.9-19.6 h) than with routine MALDI-TOF MS (39.5 h, IQR: 22.8-46.0 h) or swabs
+(44.4 h, IQR: 27.2-72.6 h) (p < 0.0001). In pairwise comparisons, there were
+significant differences in the time of microorganism identification between
+direct MALDI-TOF MS and routine MALDI-TOF MS (p < 0.0001) or swab culture (p <
+0.0001). There was no significant difference between routine MALDI-TOF MS and
+swab culture (p = 0.0268).
+CONCLUSION: Compared with current laboratory practice, direct MALDI-TOF MS
+shortened the time to microorganism identification and had superior results
+compared to conventional swabs, except for fungi. Further studies should
+investigate whether the earlier administration of appropriate antimicrobial
+agents can improve the treatment outcomes of PJIs.
+
+DOI: 10.1371/journal.pone.0239290 
+PMCID: PMC7515592
+PMID: 32970712 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

@@ -1,0 +1,43 @@
+
+1. Infect Genet Evol. 2020 Apr;79:104148. doi: 10.1016/j.meegid.2019.104148. Epub
+2019 Dec 17.
+
+Genomic epidemiology of methicillin-resistant Staphylococcus sciuri carrying a
+SCCmec-mecC hybrid element.
+
+Paterson GK(1).
+
+Author information: 
+(1)Easter Bush Pathology, Royal (Dick) School of Veterinary Studies and The
+Roslin Institute, University of Edinburgh, Easter Bush Campus, Midlothian EH25
+9RG, UK. Electronic address: gavin.paterson@ed.ac.uk.
+
+The recognition in 2011 of the methicillin resistance determinate mecC among
+staphylococci has raised many questions over its evolution and epidemiology.
+While mecC has been best studied in Staphylococcus aureus it has also been
+described in at least nine other species of staphylococci. In most cases these
+studies are limited to single isolates. In the widespread animal commensal
+Staphylococcus sciuri mecC has been described in two isolates and is located
+within a distinct SCCmec-mecC composite element. In this study, a further 11
+mecA/mecC S. sciuri isolated from dairy farms in England and Wales in 2015 and
+2016 were genome sequenced and characterised. The results show that two variants 
+of the SCCmec-mecC element are present in S. sciuri, differentiated by different 
+ccr alleles and likely to have arisen by homologous recombination. A phylogeny of
+sixty genome-sequenced S. sciuri isolates was made using core genome multi-locus 
+sequence typing and reveals a diverse population with the SCCmec-mecC element
+present in four distinct branches, indicative of four independent acquisitions by
+S. sciuri. Finally, the study identified the rapid clonal expansion of a
+mecA/mecC lineage of S. sciuri among dairy farms across a wide geographical area 
+which may contribute to the future dissemination of this methicillin resistance
+cassette.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.meegid.2019.104148 
+PMID: 31862259 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

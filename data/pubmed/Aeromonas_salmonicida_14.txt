@@ -1,0 +1,55 @@
+
+1. Chemosphere. 2020 Nov;258:127320. doi: 10.1016/j.chemosphere.2020.127320. Epub
+2020 Jun 9.
+
+Degradation of the mixture of ethyl formate, propionic aldehyde, and acetone by
+Aeromonas salmonicida: A novel microorganism screened from biomass generated in
+the citric acid fermentation industry.
+
+Yao X(1), Wang K(2), Zhang S(2), Liang S(3), Li K(2), Wang C(2), Zhang T(4), Li
+H(5), Wang J(6), Dong L(2), Yao Z(7).
+
+Author information: 
+(1)Department of Environmental Science and Engineering, Beijing Technology and
+Business University, Beijing, 100048, China. Electronic address:
+yaoxiaolong@btbu.edu.cn.
+(2)Department of Environmental Science and Engineering, Beijing Technology and
+Business University, Beijing, 100048, China.
+(3)Beijing Engineering and Technology Research Center of Food Additives (Beijing 
+Technology and Business University), Beijing, China.
+(4)College of Chemical Engineering, Beijing University of Chemical Technology,
+Beijing, 100029, China.
+(5)School of Energy Science and Engineering, Central South University, Changsha, 
+410083, China.
+(6)Fufeng Group, Linyi, 276600, China.
+(7)Department of Environmental Science and Engineering, Beijing Technology and
+Business University, Beijing, 100048, China. Electronic address:
+yaozhl@th.btbu.edu.cn.
+
+Microorganisms play important roles in the degradation of volatile organic
+compounds. Aeromonas salmonicida strain (AEP-3) generated from biomass in the
+citric acid fermentation industry was screened and subjected to denaturing
+gradient gel electrophoresis (DGGE) fingerprinting and 16S rDNA gene sequencing. 
+The growth conditions of AEP-3 in Luria-Bertani broth were optimized at 25 °C and
+approximately pH 7. AEP-3 was used to degrade ethyl formate, propionic aldehyde, 
+or acetone alone and their mixture. The concentrations of ethyl formate,
+propionic aldehyde, and acetone were below 7500, 600, and 800 mg L-1,
+respectively, and their maximum degradation efficiencies were 100%, 92.41%, and
+34.75%. AEP-3 first degraded acetone and propionic aldehyde in the mixture,
+followed by ethyl formate. The degradation pathways of these organic compounds in
+the mixture and their substrate interactions during degradation were explored.
+Propionic aldehyde was first converted into propionic acid in the metabolic
+process and was involved in the subsequent carboxylic acid cycle. By contrast,
+ethyl formate was first hydrolyzed into formic acid and ethanol. Then, formic
+acid participated in the cyclic metabolism of carboxylic acid, whereas, ethanol
+was hydrolyzed into acetaldehyde and acetic acid through alcohol and aldehyde
+dehydrogenase. Additionally, acetone directly interacted with nitrate in the
+medium under the action of hydrogen ions and produced carbon dioxide, water, and 
+nitrogen. Overall, this study provides a new degrading bacterium biodegradability
+toward the exhaust gas of citric acid fermentation.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.chemosphere.2020.127320 
+PMID: 32554008  [Indexed for MEDLINE]
+

@@ -1,0 +1,36 @@
+
+1. Weil Felix Test.
+
+Cox AL(1), Tadi P(2).
+In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2020-.
+2020 Jun 9.
+
+Author information: 
+(1)Lake Erie College of Osteopathic Medicine
+(2)Creighton University- CHI health
+
+First described in 1916, the Weil-Felix reaction is a test used in the diagnosis 
+of rickettsial infections. While it has largely been replaced with new
+serological techniques, the Weil-Felix test continues to hold great importance in
+resource-limited areas where more advanced methods are unavailable. The known
+pathogenic rickettsia species are gram-negative, obligate intracellular bacteria 
+that include an increasing number of identified organisms belonging to seven
+genera (Rickettsia, Orientia, Ehrlichia, Anaplasma, Neorickettsia, Candidatus,
+Neoehrlichia, and Coxiella). They are closely related and are traditionally
+separated into 3 groups: the epidemic and endemic typhus group, scrub typhus
+group, and the spotted fever group.[1] The test was developed upon the
+observation that certain serotypes of Proteus bacteria display antigenic
+cross-reactivity with Rickettsia species. Through the isolation of these Proteus 
+antigens, a heterophile agglutination reaction was developed that could identify 
+the presence of antibodies against the Rickettsia disease groups. P. vulgaris
+OX19 antigen reacts with antibodies to typhus-group (TG), P. mirabilis OXK
+antigen reacts with antibodies to the scrub typhus group (STG), and both P.
+vulgaris OX2 and OX19 antigens react with antibodies to the spotted fever group
+(SFG).[2] Due to its low sensitivity and specificity, the Weil-Felix test has
+fallen out of favor in most clinical settings, and its use is no longer
+recommended in routine practice. The current gold standard in the diagnosis of
+rickettsial infections is indirect immunofluorescence, which is available through
+most state health departments in areas where the infections are common.[3]
+
+PMID: 32644651 
+

@@ -1,0 +1,48 @@
+
+1. Gut Pathog. 2020 Mar 5;12:13. doi: 10.1186/s13099-020-00349-6. eCollection 2020.
+
+Analyses of energy metabolism and stress defence provide insights into
+Campylobacter concisus growth and pathogenicity.
+
+Yeow M(1), Liu F(1), Ma R(1), Williams TJ(1), Riordan SM(2), Zhang L(1).
+
+Author information: 
+(1)1School of Biotechnology and Biomolecular Sciences, University of New South
+Wales, Kensington, Sydney, 2052 Australia.
+(2)2Gastrointestinal and Liver Unit, Prince of Wales Hospital, University of New 
+South Wales, Sydney, Australia.
+
+Campylobacter concisus is an emerging enteric pathogen that is associated with
+inflammatory bowel disease. Previous studies demonstrated that C. concisus is
+non-saccharolytic and hydrogen gas (H2) is a critical factor for C. concisus
+growth. In order to understand the molecular basis of the non-saccharolytic and
+H2-dependent nature of C. concisus growth, in this study we examined the pathways
+involving energy metabolism and oxidative stress defence in C. concisus.
+Bioinformatic analysis of C. concisus genomes in comparison with the well-studied
+enteric pathogen Campylobacter jejuni was performed. This study found that C.
+concisus lacks a number of key enzymes in glycolysis, including glucokinase and
+phosphofructokinase, and the oxidative pentose phosphate pathway. C. concisus has
+an incomplete tricarboxylic acid cycle, with no identifiable succinyl-CoA
+synthase or fumarate hydratase. C. concisus was inferred to use fewer amino acids
+and have fewer candidate substrates as electron donors and acceptors compared to 
+C. jejuni. The addition of DMSO or fumarate to media resulted in significantly
+increased growth of C. concisus in the presence of H2 as an electron donor,
+demonstrating that both can be used as electron acceptors. Catalase, an essential
+enzyme for oxidative stress defence in C. jejuni, and various nitrosative stress 
+enzymes, were not found in the C. concisus genome. Overall, C. concisus is
+inferred to have a non-saccharolytic metabolism in which H2 is central to energy 
+conservation, and a narrow selection of carboxylic acids and amino acids can be
+utilised as organic substrates. In conclusion, this study provides a molecular
+basis for the non-saccharolytic and hydrogen-dependent nature of C. concisus
+energy metabolism pathways, which provides insights into the growth requirements 
+and pathogenicity of this species.
+
+© The Author(s) 2020.
+
+DOI: 10.1186/s13099-020-00349-6 
+PMCID: PMC7059363
+PMID: 32165925 
+
+Conflict of interest statement: Competing interestsThe authors declare that they 
+have no competing interests.
+

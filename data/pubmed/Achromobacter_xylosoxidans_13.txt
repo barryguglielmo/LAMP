@@ -1,0 +1,49 @@
+
+1. Microb Genom. 2020 Jul;6(7). doi: 10.1099/mgen.0.000406. Epub 2020 Jul 15.
+
+Duplex real-time PCR assay for the simultaneous detection of Achromobacter
+xylosoxidans and Achromobacter spp.
+
+Price EP(1)(2), Soler Arango V(1)(2), Kidd TJ(3)(4)(5), Fraser TA(1)(2), Nguyen
+TK(4), Bell SC(5)(6)(4), Sarovich DS(1)(2).
+
+Author information: 
+(1)Sunshine Coast Health Institute, Birtinya, Queensland, Australia.
+(2)GeneCology Research Centre, University of the Sunshine Coast, Sippy Downs,
+Queensland, Australia.
+(3)School of Chemistry and Molecular Biosciences, Faculty of Science, The
+University of Queensland, St Lucia, Queensland, Australia.
+(4)QIMR Berghofer Medical Research Institute, Herston, Queensland, Australia.
+(5)Faculty of Medicine, The University of Queensland, Herston, Queensland,
+Australia.
+(6)Adult Cystic Fibrosis Centre, The Prince Charles Hospital, Chermside,
+Queensland, Australia.
+
+Several members of the Gram-negative environmental bacterial genus Achromobacter 
+are associated with serious infections, with Achromobacter xylosoxidans being the
+most common. Despite their pathogenic potential, little is understood about these
+intrinsically drug-resistant bacteria and their role in disease, leading to
+suboptimal diagnosis and management. Here, we performed comparative genomics for 
+158 Achromobacter spp. genomes to robustly identify species boundaries, reassign 
+several incorrectly speciated taxa and identify genetic sequences specific for
+the genus Achromobacter and for A. xylosoxidans. Next, we developed a Black Hole 
+Quencher probe-based duplex real-time PCR assay, Ac-Ax, for the rapid and
+simultaneous detection of Achromobacter spp. and A. xylosoxidans from both
+purified colonies and polymicrobial clinical specimens. Ac-Ax was tested on 119
+isolates identified as Achromobacter spp. using phenotypic or genotypic methods. 
+In comparison to these routine diagnostic methods, the duplex assay showed
+superior identification of Achromobacter spp. and A. xylosoxidans, with five
+Achromobacter isolates failing to amplify with Ac-Ax confirmed to be different
+genera according to 16S rRNA gene sequencing. Ac-Ax quantified both Achromobacter
+spp. and A. xylosoxidans down to ~110 genome equivalents and detected down to ~12
+and ~1 genome equivalent(s), respectively. Extensive in silico analysis, and
+laboratory testing of 34 non-Achromobacter isolates and 38 adult cystic fibrosis 
+sputa, confirmed duplex assay specificity and sensitivity. We demonstrate that
+the Ac-Ax duplex assay provides a robust, sensitive and cost-effective method for
+the simultaneous detection of all Achromobacter spp. and A. xylosoxidans and will
+facilitate the rapid and accurate diagnosis of this important group of pathogens.
+
+DOI: 10.1099/mgen.0.000406 
+PMCID: PMC7478622
+PMID: 32667877 
+

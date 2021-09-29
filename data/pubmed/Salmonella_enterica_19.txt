@@ -1,0 +1,51 @@
+
+1. Eur J Med Chem. 2020 Sep 19;207:112848. doi: 10.1016/j.ejmech.2020.112848. [Epub 
+ahead of print]
+
+Structure-guided optimization and mechanistic study of a class of
+quinazolinone-threonine hybrids as antibacterial ThrRS inhibitors.
+
+Guo J(1), Chen B(1), Yu Y(1), Cheng B(1), Ju Y(1), Tang J(1), Cai Z(1), Gu Q(1), 
+Xu J(1), Zhou H(2).
+
+Author information: 
+(1)Research Center for Drug Discovery and Guangdong Provincial Key Laboratory of 
+Chiral Molecule and Drug Discovery, School of Pharmaceutical Sciences, Sun
+Yat-sen University, Guangzhou, 510006, China.
+(2)Research Center for Drug Discovery and Guangdong Provincial Key Laboratory of 
+Chiral Molecule and Drug Discovery, School of Pharmaceutical Sciences, Sun
+Yat-sen University, Guangzhou, 510006, China. Electronic address:
+zhuihao@mail.sysu.edu.cn.
+
+Aminoacyl-tRNA synthetases (aaRSs) are an attractive class of antibacterial drug 
+targets due to their essential roles in protein translation. While most
+traditional aaRS inhibitors target the binding pockets of substrate amino acids
+and/or ATP, we recently developed a class of novel tRNA-amino acid dual-site
+inhibitors including inhibitor 3
+((2S,3R)-2-amino-N-((E)-4-(6,7-dichloro-4-oxoquinazolin-3(4H)-yl)but-2-en-1-yl)-3
+-hydroxybutanamide) against threonyl-tRNA synthetase (ThrRS). Here, the binding
+modes and structure-activity relationships (SARs) of these inhibitors were
+analyzed by the crystal structures of Salmonella enterica ThrRS (SeThrRS) in
+complex with three of them. Based on the cocrystal structures, twelve
+quinazolinone-threonine hybrids were designed and synthesized, and their
+affinities, enzymatic inhibitory activities, and cellular potencies were
+evaluated. The best derivative 8g achieved a Kd value of 0.40 μM, an IC50 value
+of 0.50 μM against SeThrRS and MIC values of 16-32 μg/mL against the tested
+bacterial strains. The cocrystal structure of the SeThrRS-8g complex revealed
+that 8g induced a bended conformation for Met332 by forming hydrophobic
+interactions, which better mimicked the binding of tRNAThr to ThrRS. Moreover,
+the inhibitory potency of 8g was less impaired than a reported ATP competitive
+inhibitor at high concentrations of ATP, supporting our hypothesis that tRNA site
+inhibitors are likely superior to ATP site inhibitors in vivo, where ATP
+typically reaches millimolar concentrations.
+
+Copyright © 2020 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.ejmech.2020.112848 
+PMID: 32980741 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

@@ -1,0 +1,49 @@
+
+1. 3 Biotech. 2020 Apr;10(4):153. doi: 10.1007/s13205-020-2138-1. Epub 2020 Mar 3.
+
+A novel spectrophotometric method for simultaneous estimation of dibenzothiophene
+and 2-hydroxybiphenyl in their mixed spectrum and its application in screening of
+specific biodesulfurizing microbes.
+
+Sharma R(1), Singh J(2), Verma N(1)(3).
+
+Author information: 
+(1)1Department of Biotechnology, Punjabi University, Patiala, Punjab 147002
+India.
+(2)2Department of Biotechnology, Mata Gujri College, Fatehgarh Sahib, Punjab
+140406 India.
+(3)3Chemistry and Division of Research and Development, Lovely Professional
+University, Phagwara, Punjab 144411 India.
+
+The desulfurization of fuel is currently enforced to meet environmental
+legislation and prevent pollution. The use of specific biodesulfurizing microbes 
+with a unique 4S pathway allows the desulfurization without compromising the
+quality of fuel. These specific microbes can be screened by the detection of
+2-hydroxybiphenol (2-HBP) in desulfurizing mixture of dibenzothiophene (DBT). At 
+present, colorimetric Gibb's assay is the most commonly employed screening method
+which requires a specific reagent, i.e., 2,6-dichloroquninone-4-chloramide. In
+the present study, a novel and simple spectrophotometric method was developed for
+the detection of 2-HBP for screening purpose based on dual wavelength method. The
+developed method facilitates the simultaneous analysis of DBT desulfurization and
+2-HBP production in a sample by merely measuring the absorbance differences at
+two specified wavelengths, i.e., ΔA (λ 320-λ 247) for DBT and ΔA (λ 286-λ 324)
+for 2-HBP. The developed method was used to screen 57 microbes and two specific
+desulfurizing microbes Bacillus flexus MS-5 and Bacillus cereus BR-31 were
+selected based on 2-HBP production. The outcomes of developed method were
+validated by HPLC analysis. The strains MS-5 and BR-31 were employed in
+biodesulfurization and resulted in 54.88 ± 1.12% and 55.72 ± 1.32%
+desulfurization of 1.0 mM DBT, respectively. The developed method for screening
+of specific desulfurizing microbes does not require any specific reagent or
+sophisticated instrument in spite of being quick and reliable. The microbes
+selected by developed method exhibited excellent potential for biodesulfurization
+of fuel.
+
+© King Abdulaziz City for Science and Technology 2020.
+
+DOI: 10.1007/s13205-020-2138-1 
+PMCID: PMC7054501 [Available on 2021-04-01]
+PMID: 32181115 
+
+Conflict of interest statement: Conflict of interestThe authors declare that they
+have no conflict of interest.
+

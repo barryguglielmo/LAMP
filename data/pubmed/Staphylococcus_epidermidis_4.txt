@@ -1,0 +1,45 @@
+
+1. Viruses. 2020 Sep 25;12(10). pii: E1076. doi: 10.3390/v12101076.
+
+The Protective Effect of Staphylococcus epidermidis Biofilm Matrix against Phage 
+Predation.
+
+Melo LDR(1), Pinto G(1), Oliveira F(1), Vilas-Boas D(1), Almeida C(1)(2),
+Sillankorva S(1)(3), Cerca N(1), Azeredo J(1).
+
+Author information: 
+(1)Laboratório de Investigação em Biofilmes Rosário Oliveira, Centre of
+Biological Engineering, University of Minho Braga, 4710-057 Braga, Portugal.
+(2)INIAV, IP-National Institute for Agrarian and Veterinary Research, Vairão,
+4485-655 Vila Do Conde, Portugal.
+(3)INL-International Iberian Nanotechnology Laboratory, Av. Mestre José Veiga,
+4715-330 Braga, Portugal.
+
+Staphylococcus epidermidis is a major causative agent of nosocomial infections,
+mainly associated with the use of indwelling devices, on which this bacterium
+forms structures known as biofilms. Due to biofilms' high tolerance to
+antibiotics, virulent bacteriophages were previously tested as novel therapeutic 
+agents. However, several staphylococcal bacteriophages were shown to be
+inefficient against biofilms. In this study, the previously characterized S.
+epidermidis-specific Sepunavirus phiIBB-SEP1 (SEP1), which has a broad spectrum
+and high activity against planktonic cells, was evaluated concerning its efficacy
+against S. epidermidis biofilms. The in vitro biofilm killing assays demonstrated
+a reduced activity of the phage. To understand the underlying factors impairing
+SEP1 inefficacy against biofilms, this phage was tested against distinct
+planktonic and biofilm-derived bacterial populations. Interestingly, SEP1 was
+able to lyse planktonic cells in different physiological states, suggesting that 
+the inefficacy for biofilm control resulted from the biofilm 3D structure and the
+protective effect of the matrix. To assess the impact of the biofilm architecture
+on phage predation, SEP1 was tested in disrupted biofilms resulting in a 2
+orders-of-magnitude reduction in the number of viable cells after 6 h of
+infection. The interaction between SEP1 and the biofilm matrix was further
+assessed by the addition of matrix to phage particles. Results showed that the
+matrix did not inactivate phages nor affected phage adsorption. Moreover,
+confocal laser scanning microscopy data demonstrated that phage infected cells
+were less predominant in the biofilm regions where the matrix was more abundant. 
+Our results provide compelling evidence indicating that the biofilm matrix can
+work as a barrier, allowing the bacteria to be hindered from phage infection.
+
+DOI: 10.3390/v12101076 
+PMID: 32992766 
+

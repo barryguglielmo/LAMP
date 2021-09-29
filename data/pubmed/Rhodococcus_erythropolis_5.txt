@@ -1,0 +1,48 @@
+
+1. Molecules. 2020 Jul 2;25(13). pii: E3024. doi: 10.3390/molecules25133024.
+
+Bacterial Biotransformation of Oleic Acid: New Findings on the Formation of
+γ-Dodecalactone and 10-Ketostearic Acid in the Culture of Micrococcus luteus.
+
+Boratyński F(1), Szczepańska E(1), De Simeis D(2), Serra S(2), Brenna E(3).
+
+Author information: 
+(1)Department of Chemistry, Wroclaw University of Environmental and Life
+Sciences, Norwida 25, 50-375 Wrocław, Poland.
+(2)Istituto di Scienze e Tecnologie Chimiche "Giulio Natta" (SCITEC)-CNR, Via
+Mancinelli 7, I-20131 Milan, Italy.
+(3)Dipartimento di Chimica, Materiali ed Ingegneria Chimica "Giulio Natta"
+Politecnico di Milano, Via Mancinelli 7, I-20131 Milan, Italy.
+
+Microbial conversion of oleic acid (1) to form value-added industrial products
+has gained increasing scientific and economic interest. So far, the production of
+natural lactones with flavor and fragrance properties from fatty acids by
+non-genetically modified organisms (non-GMO) involves whole cells of bacteria
+catalyzing the hydration of unsaturated fatty acids as well as yeast strains
+responsible for further β-oxidation processes. Development of a non-GMO process, 
+involving a sole strain possessing both enzymatic activities, significantly
+lowers the costs of the process and constitutes a better method from the
+customers' point of view regarding biosafety issues. Twenty bacteria from the
+genus of Bacillus, Comamonas, Dietzia, Gordonia, Micrococcus, Pseudomonas,
+Rhodococcus and Streptomyces were screened for oxidative functionalization of
+oleic acid (1). Micrococcus luteus PCM525 was selected as the sole strain
+catalyzing the one-pot transformation of oleic acid (1) into natural valuable
+peach and strawberry-flavored γ-dodecalactone (6) used in the food, beverage,
+cosmetics and pharmaceutical industries. Based on the identified products formed 
+during the process of biotransformation, we clearly established a pathway showing
+that oleic acid (1) is hydrated to 10-hydroxystearic acid (2), then oxidized to
+10-ketostearic acid (3), giving 4-ketolauric acid (4) after three cycles of
+β-oxidation, which is subsequently reduced and cyclized to γ-dodecalactone (6)
+(Scheme 1). Moreover, three other strains (Rhodococcus erythropolis DSM44534,
+Rhodococcus ruber PCM2166, Dietzia sp. DSM44016), with high concomitant
+activities of oleate hydratase and alcohol dehydrogenase, were identified as
+efficient producers of 10-ketostearic acid (3), which can be used in lubricant
+and detergent formulations. Considering the prevalence of γ-dodecalactone (6) and
+10-ketostearic acid (3) applications and the economic benefits of sustainable
+management, microbial bioconversion of oleic acid (1) is an undeniably attractive
+approach.
+
+DOI: 10.3390/molecules25133024 
+PMCID: PMC7411827
+PMID: 32630666 
+

@@ -1,0 +1,45 @@
+
+1. Infect Control Hosp Epidemiol. 2020 Aug 12:1-6. doi: 10.1017/ice.2020.348. [Epub 
+ahead of print]
+
+Antibiotic-resistant pathogens associated with urinary tract infections in
+nursing homes: Summary of data reported to the National Healthcare Safety Network
+Long-Term Care Facility Component, 2013-2017.
+
+Eure TR(1), Stone ND(1), Mungai EA(1), Bell JM(1), Thompson ND(1).
+
+Author information: 
+(1)Division of Healthcare Quality and Promotion, Centers for Disease Control
+Prevention, Atlanta, GA, USA.
+
+OBJECTIVE: Antibiotic resistance (AR) is a growing and highly prevalent problem
+in nursing homes. We describe selected AR phenotypes from pathogens causing
+urinary tract infections (UTIs) reported by nursing homes to the National
+Healthcare Safety Network (NHSN).
+DESIGN: Pathogens and antibiotic susceptibility testing results for UTI events in
+nursing homes between January 2013 and December 2017 were analyzed. The pathogen 
+distribution and pooled mean proportion of isolates that tested resistant to
+select antibiotic agents are reported.
+SETTING AND PARTICIPANTS: US nursing homes voluntarily participating in the
+Long-Term Care Facility component of the NHSN.
+RESULTS: Overall, 243 nursing homes reported 1 or more UTIs: 121 (50%) were
+nonprofit facilities, median bed size was 91 (range: 9-801), and average
+occupancy was 87%. In total, 6,157 pathogens were reported for 5,485 UTI events. 
+Moreover, 9 pathogens accounted for 90% of all reported UTIs; the 3 most
+frequently identified were Escherichia coli (41%), Proteus species (14%), and
+Klebsiella pneumoniae/oxytoca (13%). Among E. coli, fluoroquinolone, and
+extended-spectrum cephalosporin resistance were most prevalent (50% and 20%,
+respectively). Although Staphylococcus aureus and Enterococcus faecium
+represented <5% of pathogens reported, they had the highest rates of resistance
+(67% methicillin resistant and 60% vancomycin resistant, respectively). Multidrug
+resistance was most common in Pseudomonas aeruginosa (11%). For the resistant
+phenotypes we assessed, 36% of all UTIs reported were associated with a resistant
+pathogen.
+CONCLUSIONS: This is the first summary of AR among common pathogens causing UTIs 
+reported to NHSN by nursing homes. Improved understanding of the resistance
+burden among common infections helps inform facility infection prevention and
+antibiotic stewardship efforts.
+
+DOI: 10.1017/ice.2020.348 
+PMID: 32782037 
+

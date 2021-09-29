@@ -1,0 +1,48 @@
+
+1. Microb Drug Resist. 2020 Oct;26(10):1133-1143. doi: 10.1089/mdr.2020.0037. Epub
+2020 May 4.
+
+Zinc Chelators as Carbapenem Adjuvants for Metallo-β-Lactamase-Producing
+Bacteria: In Vitro and In Vivo Evaluation.
+
+Principe L(1), Vecchio G(2), Sheehan G(3), Kavanagh K(3), Morroni G(4), Viaggi
+V(1), di Masi A(5), Giacobbe DR(6), Luzzaro F(1), Luzzati R(7), Di Bella S(7).
+
+Author information: 
+(1)Clinical Microbiology and Virology Unit, A. Manzoni Hospital, Lecco, Italy.
+(2)Dipartimento di Scienze Chimiche, Università di Catania, Catania, Italy.
+(3)Department of Biology, SSPC Pharma Research Centre, Maynooth University,
+Maynooth, Co. Kildare, Ireland.
+(4)Infectious Disease Clinic, Department of Biomedical Sciences and Public
+Health, Polytechnic University of Marche, Ancona, Italy.
+(5)Department of Sciences, University Roma Tre, Rome, Italy.
+(6)Dipartimento di Scienze della Salute (DISSAL), University of Genoa, Genoa,
+Italy.
+(7)Infectious Diseases Department, University Hospital of Trieste, Trieste,
+Italy.
+
+Infections caused by metallo-β-lactamase (MBL)-producing bacteria are emerging
+and carry a significant impact on patients' outcome. MBL producers are spread
+worldwide, both in community and hospital setting, with increasingly reported
+epidemic clusters and the search for MBL inhibitors is an important topic for
+public health. MBLs are zinc-dependent enzymes whose functioning can be hampered 
+by zinc chelators. We evaluated the potential of six zinc chelators (disulfiram, 
+nitroxoline, 5-amino-8-hydroxyquinoline,
+1,4,7,10-tetraazacyclododecane-1,4,7,10-tetraacetic acid [DOTA], cyclam, and
+N,N,N',N'-tetrakis (2-pyridymethyl) ethylenediamine [TPEN]) in restoring
+carbapenem activity against MBL producers. Zinc chelators alone or in combination
+with meropenem against MBL-producing Klebsiella pneumoniae, Chryseobacterium
+indologenes, Elizabethkingia meningoseptica, and Stenotrophomonas maltophilia
+isolates were tested in vitro and in vivo (Galleria mellonella). In vitro
+experiments showed a synergistic activity between TPEN and meropenem toward all
+the strains. Nitroxoline alone retained activity against S. maltophilia, C.
+indologenes, and E. meningoseptica. In vivo experiments showed that TPEN or
+nitroxoline in combination with meropenem increased survival in larvae infected
+with E. meningoseptica, S. maltophilia, and K. pneumoniae. Based on our data,
+zinc chelators are potential carbapenem adjuvants molecules (restoring carbapenem
+activity) against MBL-sustained infections and could represent an interesting
+option for infections induced by these microorganisms.
+
+DOI: 10.1089/mdr.2020.0037 
+PMID: 32364820 
+

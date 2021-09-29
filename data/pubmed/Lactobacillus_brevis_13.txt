@@ -1,0 +1,52 @@
+
+1. Curr Microbiol. 2020 Oct;77(10):3136-3146. doi: 10.1007/s00284-020-02131-y. Epub 
+2020 Jul 29.
+
+Comparison of Different Lactobacilli Regarding Substrate Utilization and Their
+Tolerance Towards Lignocellulose Degradation Products.
+
+Gubelt A(1)(2), Blaschke L(1)(3), Hahn T(4), Rupp S(1)(4), Hirth T(1)(4)(5),
+Zibek S(6)(7).
+
+Author information: 
+(1)Institute of Interfacial Process Engineering and Plasma Technology, University
+Stuttgart, Nobelstraße 12, 70569, Stuttgart, Germany.
+(2)Institute for Bio- and Geosciences: Plant Sciences, Forschungszentrum Jülich, 
+Jülich, Germany.
+(3)Sartorius Stedim Cellca GmbH, Ulm, Germany.
+(4)Industrial Biotechnology, Fraunhofer Institute of Interfacial and Bioprocess
+Engineering, Stuttgart, Germany.
+(5)Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany.
+(6)Institute of Interfacial Process Engineering and Plasma Technology, University
+Stuttgart, Nobelstraße 12, 70569, Stuttgart, Germany.
+Susanne.zibek@igb.fraunhofer.de.
+(7)Industrial Biotechnology, Fraunhofer Institute of Interfacial and Bioprocess
+Engineering, Stuttgart, Germany. Susanne.zibek@igb.fraunhofer.de.
+
+Fermentative lactic acid production is currently impeded by low pH tolerance of
+the production organisms, the successive substrate consumption of the strains
+and/or the requirement to apply purified substrate streams. We identified
+Lactobacillus brevis IGB 1.29 in compost, which is capable of producing lactic
+acid at low pH values from lignocellulose hydrolysates, simultaneously consuming 
+glucose and xylose. In this study, we compared Lactobacillus brevis IGB 1.29 with
+the reference strains Lactobacillus brevis ATCC 367, Lactobacillus plantarum
+NCIMB 8826 and Lactococcus lactis JCM 7638 with regard to the consumption of C5- 
+and C6-sugars. Simultaneous conversion of C5- and C6-monosaccharides was
+confirmed for L. brevis IGB 1.29 with consumption rates of 1.6 g/(L h) for
+glucose and 1.0 g/(L h) for xylose. Consumption rates were lower for L. brevis
+ATCC 367 with 0.6 g/(L h) for glucose and 0.2 g/(L h) for xylose. Further trials 
+were carried out to determine the sensitivity towards common toxic degradation
+products in lignocellulose hydrolysates: acetate, hydroxymethylfurfural,
+furfural, formate, levulinic acid and phenolic compounds from hemicellulose
+fraction. L. lactis was the least tolerant strain towards the inhibitors, whereas
+L. brevis IGB 1.29 showed the highest tolerance. L. brevis IGB 1.29 exhibited
+only 10% growth reduction at concentrations of 26.0 g/L acetate, 1.2 g/L
+furfural, 5.0 g/L formate, 6.6 g/L hydroxymethylfurfural, 9.2 g/L levulinic acid 
+or 2.2 g/L phenolic compounds. This study describes a new strain L. brevis IGB
+1.29, that enables efficient lactic acid production with a lignocellulose-derived
+C5- and C6-sugar fraction.
+
+DOI: 10.1007/s00284-020-02131-y 
+PMCID: PMC7452873
+PMID: 32728792 
+

@@ -1,0 +1,48 @@
+
+1. Microbes Environ. 2019 Dec 27;34(4):421-428. doi: 10.1264/jsme2.ME19113. Epub
+2019 Nov 19.
+
+Pretreatment of Lignocellulosic Biomass with Cattle Rumen Fluid for Methane
+Production: Fate of Added Rumen Microbes and Indigenous Microbes of Methane Seed 
+Sludge.
+
+Baba Y(1)(2)(3), Matsuki Y(4), Takizawa S(1), Suyama Y(4), Tada C(1), Fukuda
+Y(1), Saito M(5), Nakai Y(1)(6).
+
+Author information: 
+(1)Laboratory of Sustainable Animal Environmental Science, Graduate School of
+Agricultural Science, Tohoku University.
+(2)Research Fellow of the Japanese Society for the Promotion of Science (JSPS).
+(3)Research Institute for Bioresources and Biotechnology, Ishikawa Prefectural
+University.
+(4)Laboratory of Forest Ecology, Graduate School of Agricultural Science, Tohoku 
+University.
+(5)Laboratory of Environmental Crop Science, Graduate School of Agricultural
+Science, Tohoku University.
+(6)Department of Agro-Food Science, Faculty of Agro-Food Science, Niigata
+Agro-Food University.
+
+The pretreatment of lignocellulosic substrates with cattle rumen fluid was
+successfully developed to increase methane production. In the present study, a
+16S rRNA gene-targeted amplicon sequencing approach using the MiSeq platform was 
+applied to elucidate the effects of the rumen fluid treatment on the microbial
+community structure in laboratory-scale batch methane fermenters. Methane
+production in fermenters fed rumen fluid-treated rapeseed (2,077.3 mL CH4
+reactor-1 for a 6-h treatment) was markedly higher than that in fermenters fed
+untreated rapeseed (1,325.8 mL CH4 reactor-1). Microbial community profiling
+showed that the relative abundance of known lignocellulose-degrading bacteria
+corresponded to lignocellulose-degrading enzymatic activities. Some dominant
+indigenous cellulolytic and hemicellulolytic bacteria in seed sludge (e.g.,
+Cellulosilyticum lentocellum and Ruminococcus flavefaciens) and rumen fluid
+(e.g., Butyrivibrio fibrisolvens and Prevotella ruminicola) became undetectable
+or markedly decreased in abundance in the fermenters fed rumen fluid-treated
+rapeseed, whereas some bacteria derived from seed sludge (e.g., Ruminofilibacter 
+xylanolyticum) and rumen fluid (e.g., R. albus) remained detectable until the
+completion of methane production. Thus, several lignocellulose-degrading bacteria
+associated with rumen fluid proliferated in the fermenters, and may play an
+important role in the degradation of lignocellulosic compounds in the fermenter.
+
+DOI: 10.1264/jsme2.ME19113 
+PMCID: PMC6934390
+PMID: 31748428  [Indexed for MEDLINE]
+

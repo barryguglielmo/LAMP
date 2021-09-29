@@ -1,0 +1,43 @@
+
+1. J Gastroenterol Hepatol. 2020 Aug 3. doi: 10.1111/jgh.15206. [Epub ahead of
+print]
+
+The relationship between oral-origin bacteria in the fecal microbiome and
+albumin-bilirubin grade in patients with hepatitis C.
+
+Yamamoto K(1), Honda T(1), Ito T(1), Ishizu Y(1), Kuzuya T(1), Nakamura M(1),
+Miyahara R(1), Kawashima H(1), Ishigami M(1), Fujishiro M(1).
+
+Author information: 
+(1)Department of Gastroenterology and Hepatology, Nagoya University Graduate
+School of Medicine, Nagoya, Japan.
+
+BACKGROUND: Bacteria of oral origin (BO) in the gut are associated with prognosis
+in patients with cirrhosis. The Greengenes database (gg_13_8) is widely used in
+microbiome analysis, but the expanded Human Oral Microbiome Database (eHOMD), a
+specialized database for BO, can add more detailed information. We used each
+database to evaluate the relationship between the albumin-bilirubin grade (ALBI) 
+and the microbiome in patients with hepatitis C.
+METHODS: Eighty patients were classified into the low ALBI group (LA; n = 34) or 
+high ALBI group (HA; n = 46). Isolated DNA from stool was amplified to target the
+V3-4 regions of 16S rRNA. The microbiomes of the two groups were compared using
+gg_13_8 or eHOMD. We evaluated the associations between microbiomes and prognoses
+using Cox proportional hazards models.
+RESULTS: At the genus level, the two groups differed significantly regarding 6
+(gg_13_8) and 7 (eHOMD) types of bacteria. All types except Akkermansia are
+classified as BO. Both databases showed an increase in Streptococcus and
+Veillonella. eHOMD showed a decrease in Fusobacterium and an increase in
+Fretibacterium; both produce various types of short-chain fatty acids. At the
+species level, the two groups demonstrated significant differences in 2 (gg_13_8)
+and 6 (eHOMD) bacterial types. Selenomonas noxia and Streptococcus salivarius
+were related to poor prognosis in univariate analysis.
+CONCLUSION: The HA group demonstrated increased BO, most of which produce lactic 
+acid or acetic acid. The correlation between the microbiome and metabolism might 
+be related to prognosis. eHOMD was a useful database for analyzing BO.
+
+© 2020 Journal of Gastroenterology and Hepatology Foundation and John Wiley &
+Sons Australia, Ltd.
+
+DOI: 10.1111/jgh.15206 
+PMID: 32744764 
+

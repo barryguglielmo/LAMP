@@ -1,0 +1,40 @@
+
+1. ACS Catal. 2020 Jul 17;10(14):7907-7914. doi: 10.1021/acscatal.0c01856. Epub 2020
+Jun 19.
+
+Electric Field Measurements Reveal the Pivotal Role of Cofactor-Substrate
+Interaction in Dihydrofolate Reductase Catalysis.
+
+Adesina AS(1), Świderek K(2), Luk LYP(1), Moliner V(2), Allemann RK(1).
+
+Author information: 
+(1)School of Chemistry, Cardiff University, Park Place, Cardiff CF10 3AT, United 
+Kingdom.
+(2)Departament de Química Física i Analítica, Universitat Jaume I, 12071
+Castellón, Spain.
+
+The contribution of ligand-ligand electrostatic interaction to transition state
+formation during enzyme catalysis has remained unexplored, even though
+electrostatic forces are known to play a major role in protein functions and have
+been investigated by the vibrational Stark effect (VSE). To monitor electrostatic
+changes along important steps during catalysis, we used a nitrile probe (T46C-CN)
+inserted proximal to the reaction center of three dihydrofolate reductases
+(DHFRs) with different biophysical properties, Escherichia coli DHFR (EcDHFR),
+its conformationally impaired variant (EcDHFR-S148P), and Geobacillus
+stearothermophilus DHFR (BsDHFR). Our combined experimental and computational
+approach revealed that the electric field projected by the substrate toward the
+probe negates those exerted by the cofactor when both are bound within the
+enzymes. This indicates that compared to previous models that focus exclusively
+on subdomain reorganization and protein-ligand contacts, ligand-ligand
+interactions are the key driving force to generate electrostatic environments
+conducive for catalysis.
+
+Copyright © 2020 American Chemical Society.
+
+DOI: 10.1021/acscatal.0c01856 
+PMCID: PMC7467645
+PMID: 32905264 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

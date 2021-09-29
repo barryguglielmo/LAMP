@@ -1,0 +1,38 @@
+
+1. ACS Omega. 2020 Apr 13;5(16):9251-9258. doi: 10.1021/acsomega.0c00085.
+eCollection 2020 Apr 28.
+
+Expression of Melittin in Fusion with GST in Escherichia coli and Its
+Purification as a Pure Peptide with Good Bacteriostatic Efficacy.
+
+Zhou L(1), Liu Z(1), Xu G(2), Li L(1), Xuan K(1), Xu Y(1), Zhang R(1).
+
+Author information: 
+(1)Key Laboratory of Industrial Biotechnology, Ministry of Education, School of
+Biotechnology, Jiangnan University, 1800 Lihu Avenue, Wuxi 214122, P. R. China.
+(2)Xuteli School, Beijing Institute of Technology, Beijing 100081, P. R. China.
+
+The expression and purification of melittin (MET) in microbials are difficult
+because of its antibacterial activities. In this work, MET was fused with a
+glutathione-S-transferase (GST) tag and expressed in Escherichia coli to overcome
+its lethality to host cells. The fusion protein GST-MET was highly expressed and 
+then purified by glutathione sepharose high-performance affinity chromatography, 
+digested with prescission protease, and further purified by Superdex Peptide
+10/300 GL chromatography. Finally, 3.5 mg/L recombinant melittin (rMET) with a
+purity of >90% was obtained; its antibacterial activities against Gram-positive
+Bacillus pumilus and Staphylococcus pasteuri were similar to those of commercial 
+MET. A circular dichroism spectroscopic assay showed that the rMET peptide
+secondary structure was similar to those of the commercial form. To our
+knowledge, this is the report of the preparation of active pure rMET with no
+tags. The successful expression and purification of rMET will enable large-scale,
+industrial biosynthesis of MET.
+
+Copyright © 2020 American Chemical Society.
+
+DOI: 10.1021/acsomega.0c00085 
+PMCID: PMC7191569
+PMID: 32363276 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

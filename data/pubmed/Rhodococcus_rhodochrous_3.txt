@@ -1,0 +1,40 @@
+
+1. Environ Pollut. 2020 Oct;265(Pt A):114302. doi: 10.1016/j.envpol.2020.114302.
+Epub 2020 Mar 2.
+
+An enhancement strategy for the biodegradation of high-concentration aliphatic
+nitriles: Utilizing the glucose-mediated carbon catabolite repression mechanism.
+
+Li C(1), Chen X(1), Wen L(1), Cheng Y(2), An X(3), Li T(1), Zang H(1), Zhao X(1),
+Li D(1), Hou N(4).
+
+Author information: 
+(1)College of Resources and Environment, Northeast Agricultural University,
+Harbin, 150030, Heilongjiang, PR China.
+(2)College of Science, China Agricultural University, Beijing, 100083, PR China.
+(3)College of Bioscience and Bioengineering, Jiangxi Agricultural University,
+Jiangxi, 330045, PR China.
+(4)College of Resources and Environment, Northeast Agricultural University,
+Harbin, 150030, Heilongjiang, PR China. Electronic address: houning@neau.edu.cn.
+
+Wastewater containing high concentrations of nitriles, if discharged without an
+appropriate nonhazardous disposal strategy, will cause serious environmental
+pollution. During secondary sewage biological treatment, most existing bacteria
+cannot endure high-concentration nitriles due to poor tolerance and low
+degradation ability. The Rhodococcus rhodochrous strain BX2 screened by our
+laboratory shows high resistance to nitriles and can efficiently degrade these
+compounds. Compared with sole high-concentration nitriles present in the
+biodegradation process, the addition of glucose at a suitable concentration can
+effectively increase the biomass of BX2, promote the expression of
+nitrile-degrading enzyme genes, improve the activities of these enzymes and
+enhance the pollutant removal efficiency via carbon catabolite repression (CCR)
+mechanisms. Whole-genome sequencing revealed that the four key regulators of CCR 
+identified in gram-negative and gram-positive bacteria are concomitant in BX2.
+This study provides an economically feasible strategy for the microbial
+remediation of high-concentration nitriles and other organic pollutants.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.envpol.2020.114302 
+PMID: 32480233  [Indexed for MEDLINE]
+

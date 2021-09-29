@@ -1,0 +1,44 @@
+
+1. Microorganisms. 2019 Dec 24;8(1). pii: E42. doi: 10.3390/microorganisms8010042.
+
+Silencing of Phytopathogen Communication by the Halotolerant PGPR Staphylococcus 
+equorum Strain EN21.
+
+Vega C(1)(2), Rodríguez M(1)(2), Llamas I(1)(2), Béjar V(1)(2), Sampedro I(1)(2).
+
+Author information: 
+(1)Department of Microbiology, Faculty of Pharmacy, University of Granada, 18071 
+Granada, Spain.
+(2)Institute of Biotechnology, Biomedical Research Center (CIBM), University of
+Granada, 18100 Granada, Spain.
+
+Increasing world food demand together with soil erosion and indiscriminate use of
+chemical fertilization highlight the need to adopt sustainable crop production
+strategies. In this context, a combination of plant growth-promoting
+rhizobacteria (PGPR) and pathogen management represents a sustainable and
+efficient alternative. Though little studied, halophilic and halotolerant PGPR
+could be a beneficial plant growth promotion strategy for saline and non-saline
+soils. The virulence of many bacterial phytopathogens is regulated by quorum
+sensing (QS) systems. Quorum quenching (QQ) involves the enzymatic degradation of
+phytopathogen-generated signal molecules, mainly N-acyl homoserine lactones
+(AHLs). In this study, we investigate plant growth-promoting (PGP) activity and
+the capacity of the halotolerant bacterium Staphylococcus equorum strain EN21 to 
+attenuate phytopathogens virulence through QQ. We used biopriming and in vivo
+tomato plant experiments to analyse the PGP activity of strain EN21. AHL
+inactivation was observed to reduce Pseudomonas syringae pv. tomato infections in
+tomato and Arabidopsis plants. Our study of Dickeya solani, Pectobacterium
+carotovorum subsp. carotovorum and Erwinia amylovora bacteria in potato tubers,
+carrots and pears, respectively, also demonstrated the effectiveness of QS
+interruption by EN21. Overall, this study highlights the potential of strain S.
+equorum EN21 in plant growth promotion and QQ-driven bacterial phytopathogen
+biocontrol.
+
+DOI: 10.3390/microorganisms8010042 
+PMCID: PMC7022284
+PMID: 31878301 
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or
+interpretation of data; in the writing of the manuscript, or in the decision to
+publish the results.
+

@@ -1,0 +1,47 @@
+
+1. Appl Biochem Biotechnol. 2020 Aug 18. doi: 10.1007/s12010-020-03392-w. [Epub
+ahead of print]
+
+Homology Modeling and Probable Active Site Cavity Prediction of Uncharacterized
+Arsenate Reductase in Bacterial spp.
+
+Rahman MS(1), Hossain MS(2)(3), Saha SK(4)(5), Rahman S(2), Sonne C(6), Kim
+KH(7).
+
+Author information: 
+(1)Department of Genetic Engineering and Biotechnology, Jashore University of
+Science and Technology, Jashore, 7408, Bangladesh. ms.rahman@just.edu.bd.
+(2)Department of Genetic Engineering and Biotechnology, Jashore University of
+Science and Technology, Jashore, 7408, Bangladesh.
+(3)Biological Research Division, Bangladesh Council of Scientific and Industrial 
+Research (BCSIR), Dhanmondi, Dhaka, 1205, Bangladesh.
+(4)Department of Stem Cell and Regenerative Biotechnology, Konkuk University, 120
+Neungdong-Ro, Seoul, 05029, Korea.
+(5)Department of Gynecology and Obstetrics, Johns Hopkins School of Medicine,
+Baltimore, MD, 21205, USA.
+(6)Department of Bioscience, Arctic Research Centre (ARC), Aarhus University,
+Frederiksborgvej 399, PO Box 358, DK-4000, Roskilde, Denmark.
+(7)Department of Civil & Environmental Engineering, Hanyang University, 222
+Wangsimni-Ro, Seoul, 04763, Korea. kkim61@hanyang.ac.kr.
+
+The arsC gene-encoded arsenate reductase is a vital catalytic enzyme for
+remediation of environmental arsenic (As). Microorganisms containing the arsC
+gene can convert pentavalent arsenate (As[V]) to trivalent arsenite (As[III]) to 
+be either retained in the bacterial cell or released into the air. The molecular 
+mechanism governing this process is unknown. Here we present an in silico model
+of the enzyme to describe their probable active site cavities using SCFBio
+servers. We retrieved the amino acid sequence of bacterial arsenate reductase
+enzymes in FASTA format from the NCBI database. Enzyme structure was predicted
+using the I-TASSER server and visualized using PyMOL tools. The ProSA and the
+PROCHECK servers were used to evaluate the overall significance of the predicted 
+model. Accordingly, arsenate reductase from Streptococcus pyogenes, Oligotropha
+carboxidovorans OM5, Rhodopirellula baltica SH 1, and Serratia ureilytica had the
+highest quality scores with statistical significance. The plausible cavities of
+the active site were identified in our examined arsenate reductase enzymes which 
+were abundant in glutamate and lysine residues with 6 to 16 amino acids. This in 
+silico experiment may contribute greatly to the remediation of arsenic pollution 
+through the utilization of microbial species.
+
+DOI: 10.1007/s12010-020-03392-w 
+PMID: 32809107 
+

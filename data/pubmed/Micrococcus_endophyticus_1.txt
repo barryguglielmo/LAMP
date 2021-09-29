@@ -1,0 +1,38 @@
+
+1. Int J Syst Evol Microbiol. 2019 Nov;69(11):3512-3518. doi:
+10.1099/ijsem.0.003654.
+
+Reclassification of Micrococcus aloeverae and Micrococcus yunnanensis as later
+heterotypic synonyms of Micrococcus luteus.
+
+Huang CH(1), Wang CL(1), Liou JS(1), Lee AY(1), Blom J(2), Huang L(1), Watanabe
+K(1)(3).
+
+Author information: 
+(1)Bioresource Collection and Research Center (BCRC), Food Industry Research and 
+Development Institute, 331 Shih-Pin Rd., Hsinchu 30062, Taiwan, ROC.
+(2)Bioinformatics and Systems Biology, Justus-Liebig-University Giessen, Giessen,
+35392, Germany.
+(3)Department of Animal Science and Technology, College of Bioresources and
+Agriculture, National Taiwan University, No. 50, Ln. 155, Sec. 3, Keelung Rd.,
+Taipei 10673, Taiwan, ROC.
+
+Micrococcus aloeverae,Micrococcus endophyticus, Micrococcus luteus and
+Micrococcus yunnanensis are phenotypically and genotypically closely related, and
+together comprise the M. luteus group. In this study, the taxonomic relationships
+among Micrococcus aloeverae, M. luteus and M. yunnanensis were re-evaluated by
+using polyphasic approaches. The similarity values of the concatenated
+housekeeping gene (gyrB, recA and rpoB) sequences shared by the type strains of
+M. aloeverae, M. luteus and M. yunnanensis ranged from 98.3 to 99.4 %. The
+average nucleotide identity, average amino acid identity and digital DNA‒DNA
+hybridization values among these three taxa were greater (97.1‒98.1 %,
+96.8‒98.1 % and 75.0‒83.5 %, respectively) than the thresholds for bacterial
+species delineation, indicating that they belong to the same species, whereas
+those for M. endophyticus were clearly lower than the thresholds. In addition,
+phenotypic and chemotaxonomic characterization results also support the synonymy 
+of these three taxa. Therefore, we propose that M. aloeverae and M. yunnanensis
+should be reclassified as later heterotypic synonyms of M. luteus.
+
+DOI: 10.1099/ijsem.0.003654 
+PMID: 31454307  [Indexed for MEDLINE]
+

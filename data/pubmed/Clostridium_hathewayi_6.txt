@@ -1,0 +1,144 @@
+
+1. Eur Urol. 2020 Aug;78(2):195-206. doi: 10.1016/j.eururo.2020.04.044. Epub 2020
+May 4.
+
+Gut Bacteria Composition Drives Primary Resistance to Cancer Immunotherapy in
+Renal Cell Carcinoma Patients.
+
+Derosa L(1), Routy B(2), Fidelle M(3), Iebba V(4), Alla L(5), Pasolli E(6),
+Segata N(7), Desnoyer A(8), Pietrantonio F(9), Ferrere G(4), Fahrner JE(10), Le
+Chatellier E(5), Pons N(5), Galleron N(5), Roume H(5), Duong CPM(4), Mondragón
+L(11), Iribarren K(12), Bonvalet M(4), Terrisse S(13), Rauber C(14), Goubet
+AG(14), Daillère R(12), Lemaitre F(12), Reni A(4), Casu B(4), Alou MT(4), Alves
+Costa Silva C(4), Raoult D(15), Fizazi K(16), Escudier B(16), Kroemer G(17),
+Albiges L(18), Zitvogel L(19).
+
+Author information: 
+(1)Gustave Roussy Cancer Campus (GRCC), Villejuif, France; Institut National de
+la Santé et de la Recherche Médicale (INSERM) U1015, Équipe Labellisée-Ligue
+Nationale contre le Cancer, Villejuif, France; Faculté de Médecine
+Kremlin-Bicêtre, Université Paris Sud, Université Paris Saclay, France;
+Department of Medical Oncology, Gustave Roussy Cancer Campus (GRCC), Villejuif,
+France. Electronic address: deros.lisa@gmail.com.
+(2)Hematology-Oncology Division, Department of Medicine, Centre Hospitalier de
+l'Université de Montréal (CHUM), Montréal, QC, Canada; Centre de Recherche du
+Centre Hospitalier de l'Université de Montréal (CRCHUM), Montréal l, Canada CHUM,
+Montréal, QC, Canada.
+(3)Gustave Roussy Cancer Campus (GRCC), Villejuif, France; Institut National de
+la Santé et de la Recherche Médicale (INSERM) U1015, Équipe Labellisée-Ligue
+Nationale contre le Cancer, Villejuif, France; Faculté de Médecine
+Kremlin-Bicêtre, Université Paris Sud, Université Paris Saclay, France; Center of
+Clinical Investigations in Biotherapies of Cancer (CICBT) 1428, Villejuif,
+France; Faculté de Pharmacie, University Paris-Saclay, Chatenay-Malabry, France.
+(4)Gustave Roussy Cancer Campus (GRCC), Villejuif, France; Institut National de
+la Santé et de la Recherche Médicale (INSERM) U1015, Équipe Labellisée-Ligue
+Nationale contre le Cancer, Villejuif, France.
+(5)Université Paris-Saclay, INRAE MetaGenoPolis, Jouy-en-Josas, France.
+(6)Department of Agricultural Sciences, University of Naples Federico II, Napoli,
+Italy.
+(7)Department CIBIO, University of Trento, Trento, Italy; Istituto Europeo di
+Oncologie, Milan, Italy.
+(8)Gustave Roussy Cancer Campus (GRCC), Villejuif, France; Faculté de Pharmacie, 
+University Paris-Saclay, Chatenay-Malabry, France; Gustave Roussy Cancer Campus, 
+Laboratory of Immunomonitoring in Oncology, CNRS-UMS 3655 and INSERM-US23,
+Villejuif, France.
+(9)IRCCS Istituto Nazionale dei Tumori Foundation, Milan, Italy.
+(10)Gustave Roussy Cancer Campus (GRCC), Villejuif, France; Institut National de 
+la Santé et de la Recherche Médicale (INSERM) U1015, Équipe Labellisée-Ligue
+Nationale contre le Cancer, Villejuif, France; Faculté de Médecine
+Kremlin-Bicêtre, Université Paris Sud, Université Paris Saclay, France; Transgene
+S.A., Illkirch-Graffenstaden, France.
+(11)Faculté de Médecine Kremlin-Bicêtre, Université Paris Sud, Université Paris
+Saclay, France; Cell Biology and Metabolomics Platforms, Gustave Roussy Cancer
+Campus, Villejuif, France; Equipe labellisée par la Ligue contre le cancer,
+Université de Paris, Sorbonne Université, INSERM U1138, Centre de Recherche des
+Cordeliers, Paris, France.
+(12)EverImmune, GRCC, Villejuif, France.
+(13)Gustave Roussy Cancer Campus (GRCC), Villejuif, France; Institut National de 
+la Santé et de la Recherche Médicale (INSERM) U1015, Équipe Labellisée-Ligue
+Nationale contre le Cancer, Villejuif, France; Faculté de Médecine
+Kremlin-Bicêtre, Université Paris Sud, Université Paris Saclay, France;
+Department of Medical Oncology, Gustave Roussy Cancer Campus (GRCC), Villejuif,
+France.
+(14)Gustave Roussy Cancer Campus (GRCC), Villejuif, France; Institut National de 
+la Santé et de la Recherche Médicale (INSERM) U1015, Équipe Labellisée-Ligue
+Nationale contre le Cancer, Villejuif, France; Faculté de Médecine
+Kremlin-Bicêtre, Université Paris Sud, Université Paris Saclay, France.
+(15)Aix-Marseille Université, MEPHI, IRD, IHU Méditerranée Infection, Marseille, 
+France.
+(16)Gustave Roussy Cancer Campus (GRCC), Villejuif, France; Department of Medical
+Oncology, Gustave Roussy Cancer Campus (GRCC), Villejuif, France.
+(17)Cell Biology and Metabolomics Platforms, Gustave Roussy Cancer Campus,
+Villejuif, France; Equipe labellisée par la Ligue contre le cancer, Université de
+Paris, Sorbonne Université, INSERM U1138, Centre de Recherche des Cordeliers,
+Paris, France; EverImmune, GRCC, Villejuif, France; Aix-Marseille Université,
+MEPHI, IRD, IHU Méditerranée Infection, Marseille, France; Pôle de Biologie,
+Hôpital Européen Georges Pompidou, AP-HP, Paris, France; Suzhou Institute for
+Systems Medicine, Chinese Academy of Medical Sciences, Suzhou, China; Department 
+of Women's and Children's Health, Karolinska Institute, Karolinska University
+Hospital, Stockholm, Sweden.
+(18)Gustave Roussy Cancer Campus (GRCC), Villejuif, France; Faculté de Médecine
+Kremlin-Bicêtre, Université Paris Sud, Université Paris Saclay, France;
+Department of Medical Oncology, Gustave Roussy Cancer Campus (GRCC), Villejuif,
+France.
+(19)Gustave Roussy Cancer Campus (GRCC), Villejuif, France; Institut National de 
+la Santé et de la Recherche Médicale (INSERM) U1015, Équipe Labellisée-Ligue
+Nationale contre le Cancer, Villejuif, France; Faculté de Médecine
+Kremlin-Bicêtre, Université Paris Sud, Université Paris Saclay, France;
+Department of Medical Oncology, Gustave Roussy Cancer Campus (GRCC), Villejuif,
+France; Center of Clinical Investigations in Biotherapies of Cancer (CICBT) 1428,
+Villejuif, France; EverImmune, GRCC, Villejuif, France; Suzhou Institute for
+Systems Medicine, Chinese Academy of Medical Sciences, Suzhou, China. Electronic 
+address: laurence.zitvogel@gustaveroussy.fr.
+
+BACKGROUND: The development of immune checkpoint blockade (ICB) has
+revolutionized the clinical outcome of renal cell carcinoma (RCC). Nevertheless, 
+improvement of durability and prediction of responses remain unmet medical needs.
+While it has been recognized that antibiotics (ATBs) decrease the clinical
+activity of ICB across various malignancies, little is known about the direct
+impact of distinct intestinal nonpathogenic bacteria (commensals) on therapeutic 
+outcomes of ICB in RCC.
+OBJECTIVE: To evaluate the predictive value of stool bacteria composition for ICB
+efficacy in a cohort of advanced RCC patients.
+DESIGN, SETTING, AND PARTICIPANTS: We prospectively collected fecal samples from 
+69 advanced RCC patients treated with nivolumab and enrolled in the GETUG-AFU 26 
+NIVOREN microbiota translational substudy phase 2 trial (NCT03013335) at Gustave 
+Roussy. We recorded patient characteristics including ATB use, prior systemic
+therapies, and response criteria. We analyzed 2994 samples of feces from healthy 
+volunteers (HVs). In parallel, preclinical studies performed in RCC-bearing mice 
+that received fecal transplant (FMT) from RCC patients resistant to ICB (NR-FMT) 
+allowed us to draw a cause-effect relationship between gut bacteria composition
+and clinical outcomes for ICB. The influence of tyrosine kinase inhibitors (TKIs)
+taken before starting nivolumab on the microbiota composition has also been
+assessed.
+OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS: Metagenomic data (MG) from whole
+genome sequencing (WGS) were analyzed by multivariate and pairwise
+comparisons/fold ratio to identify bacterial fingerprints related to ATB or prior
+TKI exposure and patients' therapeutic response (overall response and
+progression-free survival), and compared with the data from cancer-free donors.
+RESULTS AND LIMITATIONS: Recent ATB use (n = 11; 16%) reduced objective response 
+rates (from 28% to 9%, p < 0.03) and markedly affected the composition of the
+microbiota, facilitating the dominance of distinct species such as Clostridium
+hathewayi, which were also preferentially over-represented in stools from RCC
+patients compared with HVs. Importantly, TKIs taken prior to nivolumab had
+implications in shifting the microbiota composition. To establish a cause-effect 
+relationship between gut bacteria composition and ICB efficacy, NR-FMT mice were 
+successfully compensated with either FMT from responding RCC patients or
+beneficial commensals identified by WGS-MG (Akkermansia muciniphila and
+Bacteroides salyersiae).
+CONCLUSIONS: The composition of the microbiota is influenced by TKIs and ATBs,
+and impacts the success of immunotherapy. Future studies will help sharpen the
+role of these specific bacteria and their potential as new biomarkers.
+PATIENT SUMMARY: We used quantitative shotgun DNA sequencing of fecal microbes as
+well as preclinical models of fecal or bacterial transfer to study the
+association between stool composition and (pre)clinical outcome to immune
+checkpoint blockade. Novel insights into the pathophysiological relevance of
+intestinal dysbiosis in the prognosis of kidney cancer may lead to innovative
+therapeutic solutions, such as supplementation with probiotics to prevent primary
+resistance to therapy.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.eururo.2020.04.044 
+PMID: 32376136 
+

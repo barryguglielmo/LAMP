@@ -1,0 +1,40 @@
+
+1. Braz J Microbiol. 2020 Mar;51(1):135-143. doi: 10.1007/s42770-020-00228-x. Epub
+2020 Jan 18.
+
+Isolation of a novel thermophilic bacterium capable of producing high-yield
+bioemulsifier and its kinetic modelling aspects along with proposed metabolic
+pathway.
+
+Dhagat S(1), Jujjavarapu SE(2).
+
+Author information: 
+(1)Department of Biotechnology, National Institute of Technology Raipur, Raipur, 
+India.
+(2)Department of Biotechnology, National Institute of Technology Raipur, Raipur, 
+India. satyaeswarij.bt@nitrr.ac.in.
+
+Bioemulsifiers form stable emulsions and lower surface tension between two phases
+with potent anti-microbial activities. Some applications of bioemulsifier are
+performed at high temperatures and hence production of bioemulsifiers that are
+stable at high temperature is required. This study aimed at the production of
+bioemulsifier by an unexplored bacterial strain isolated from a local hot spring.
+The parameters tested for bioemulsifier production (emulsification ability,
+surface tension measurement and product formation) showed that 24 h is the
+optimal time for the production of bioemulsifier by strain S3 with yield of
+1.4 g/l. The logistic growth curve of bacterial strain was analysed and kinetic
+constants for substrate utilisation and product formation were determined by
+Luedeking-Piret kinetic models. The bacterial strain S3 was Gram-positive and was
+classified as a strain of Brevibacillus borstelensis. The specific growth rate of
+the organism was 0.0096 h-1 with the kinetic rate constants as 11.246 (γ) and
+10.626 (δ) for Luedeking-Piret substrate and 3.8423 (α) and - 1.9075 (β) for
+Luedeking-Piret product. Knowledge of these values will help in estimating the
+substrate utilisation or bioemulsifier formed at any time point. These studies
+will also help in understanding internal metabolic fluxes hence rigorous analysis
+of metabolic pathway of bioemulsan is also performed in this study. Graphical
+abstract.
+
+DOI: 10.1007/s42770-020-00228-x 
+PMCID: PMC7058741 [Available on 2021-01-18]
+PMID: 31955394 
+

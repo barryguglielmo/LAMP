@@ -1,0 +1,46 @@
+
+1. Dermatology. 2020;236(2):160-169. doi: 10.1159/000502469. Epub 2019 Sep 25.
+
+Cheek Microbial Communities Vary in Young Children with Atopic Dermatitis in
+China.
+
+Song L(1), Wang Q(1), Zheng Y(1), Ma L(2), Chen Y(2), Gao Y(3), Zhang G(3), Cui
+S(1), He K(1), He C(4).
+
+Author information: 
+(1)Beijing Key Lab of Plant Resources Research and Development, Beijing
+Technology and Business University, Beijing, China.
+(2)Shanghai Jahwa Corporation, Shanghai, China.
+(3)Capital Institute of Pediatrics, Beijing, China.
+(4)Beijing Key Lab of Plant Resources Research and Development, Beijing
+Technology and Business University, Beijing, China, congfenhe_skin@163.com.
+
+BACKGROUND: Atopic dermatitis (AD) is a chronic, recurrent skin condition with
+recently increased incidence in younger children. AD development has been
+correlated with the skin microbiome, and Staphylococcus aureus enrichment causes 
+significant increases in skin lesions.
+OBJECTIVE: Our objectives were to compare the microbial diversity of the cheek
+skin of children with or without AD aged 0-1 years in China, and to determine
+whether 4 types of skin-isolated bacteria could inhibit S. aureus in vitro.
+METHODS: The skin microbial samples of cheek skin of children were sequenced by
+16S rRNA V1-V2 region. Four skin isolated bacterial fermentation supernatants
+were tested for effects on S. aureus growth, membrane formation, and induction of
+cytokine secretion from HaCaT cells.
+RESULTS: Bacterial diversity decreased significantly in skin with severe AD
+compared to healthy skin (p < 0.01). Seven phyla had content >1%, 4 of which
+differed in AD (p < 0.05). 38 genera had content >1%, 15 differed (p < 0.05).
+Differences in 8 species were observed (p < 0.05). In vitro antibacterial and
+cellular experiments showed that S. aureus growth, biofilm formation, and
+induction of interleukin (IL)-1α and IL-6 secretion from HaCaT cells were
+significantly inhibited by Klebsiella oxytoca, Kocuria rhizophila, and
+Staphylococcus epidermidis culture supernatants (p < 0.05).
+CONCLUSION: Skin microbiome changes in children varied with age and with AD.
+There were complex interactions between skin isolated bacteria and S. aureus
+which could inhibit S. aureus growth and biofilm formation in vitro, suggesting
+that these microorganisms could be used in AD treatment.
+
+© 2019 S. Karger AG, Basel.
+
+DOI: 10.1159/000502469 
+PMID: 31553991 
+

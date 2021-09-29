@@ -1,0 +1,49 @@
+
+1. Biology (Basel). 2020 Sep 13;9(9). pii: E287. doi: 10.3390/biology9090287.
+
+Metabolites Produced by Kaistia sp. 32K Promote Biofilm Formation in Coculture
+with Methylobacterium sp. ME121.
+
+Usui Y(1), Shimizu T(2), Nakamura A(2), Ito M(1)(3).
+
+Author information: 
+(1)Graduate School of Life Sciences, Toyo University, Oura-gun, Gunma 374-0193,
+Japan.
+(2)Faculty of Life and Environmental Sciences, and Microbiology Research Center
+for Sustainability (MiCS), University of Tsukuba, Tsukuba, Ibaraki305-8572,
+Japan.
+(3)Bio-Nano Electronics Research Centre, Toyo University, Kawagoe, Saitama
+350-8585, Japan.
+
+Previously, we reported that the coculture of motile Methylobacterium sp. ME121
+and non-motile Kaistia sp. 32K, isolated from the same soil sample, displayed
+accelerated motility of strain ME121 due to an extracellular polysaccharide (EPS)
+produced by strain 32K. Since EPS is a major component of biofilms, we aimed to
+investigate the biofilm formation in cocultures of the two strains. The extent of
+biofilm formation was measured by a microtiter dish assay with the dye crystal
+violet. A significant increase in the amount of biofilm was observed in the
+coculture of the two strains, as compared to that of the monocultures, which
+could be due to a metabolite produced by strain 32K. However, in the coculture
+with strain 32K, using Escherichia coli or Pseudomonas aeruginosa, there was no
+difference in the amount of biofilm formation as compared with the monoculture.
+Elevated biofilm formation was also observed in the coculture of strain ME121
+with Kaistia adipata, which was isolated from a different soil sample.
+Methylobacterium radiotolerans, isolated from another soil sample, showed a
+significant increase in biofilm formation when cocultured with K. adipata, but
+not with strain 32K. We also found that the culture supernatants of strains 32K
+and K. adipata accelerated the motility of strains ME121 and M. radiotolerans,
+wherein culture supernatant of K. adipata significantly increased the motility of
+M. radiotolerans, as compared to that by the culture supernatant of strain 32K.
+These results indicated that there was a positive relationship between
+accelerated motility and increased biofilm formation in Methylobacterium spp.
+This is the first study to report that the metabolites from Kaistia spp. could
+specifically modulate the biofilm-forming ability of Methylobacterium spp.
+Methylobacterium spp. biofilms are capable of inhibiting the biofilm formation of
+mycobacteria, which are opportunistic pathogens that cause problems in infectious
+diseases. Thus, the metabolites from the culture supernatant of Kaistia spp. have
+the potential to contribute to the environment in which increased biofilm
+production of Methylobacterium is desired.
+
+DOI: 10.3390/biology9090287 
+PMID: 32933123 
+

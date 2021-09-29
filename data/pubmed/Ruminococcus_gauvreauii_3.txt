@@ -1,0 +1,48 @@
+
+1. PLoS One. 2020 Jan 29;15(1):e0227147. doi: 10.1371/journal.pone.0227147.
+eCollection 2020.
+
+Coronary artery disease is associated with an altered gut microbiome composition.
+
+Toya T(1)(2), Corban MT(1), Marrietta E(3), Horwath IE(3), Lerman LO(4), Murray
+JA(3), Lerman A(1).
+
+Author information: 
+(1)Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, United
+States of America.
+(2)Department of Cardiology, National Defense Medical College, Tokorozawa,
+Saitama, Japan.
+(3)Department of Gastroenterology, Mayo Clinic, Rochester, MN, United States of
+America.
+(4)Division of Nephrology and Hypertension, Mayo Clinic, Rochester, MN, United
+States of America.
+
+Alteration of gut microbiome composition has been linked to cardiovascular
+diseases. To identify specific bacterial communities associated with coronary
+artery diseases (CAD), we conducted a case-control study with 53 advanced CAD
+patients and 53 age-, sex-, race-, and BMI-matched controls. V3-V5 regions of the
+16S rDNA from the fecal gut material were analyzed to compare the gut microbiome 
+composition between CAD patients and controls. The alpha diversity, including
+Chao-1, Shannon-index, and the number of observed taxonomy units were
+significantly decreased in CAD patients indicating, decreased richness and
+evenness of gut microbiome. Among 23 different abundant taxa at the genus level, 
+12 taxa belonged to Lachnospiraceae family, which are known to produce butyrate. 
+Further, we identified five taxa which showed more than two log-fold changes with
+maximum proportion >0.002, including Ruminococcus gnavus, Lachnospiraceae
+anaerosporobacter, Lachnospiraceae NK4B4 group, Lachnospiraceae UCG-004, and
+Ruminococcus gauvreauii. After adjustment for coronary risk factors (diabetes
+mellitus and dyslipidemia), decreased relative abundance of Lachnospiraceae NK4B4
+group and Ruminococcus Gauvreauii and increased relative abundance of
+Ruminococcus gnavus were associated with the presence of advanced CAD. The
+observed differences in taxa between CAD patients and controls in this study may 
+provide insight into the link between the gut microbiome and CAD.
+
+DOI: 10.1371/journal.pone.0227147 
+PMCID: PMC6988937
+PMID: 31995569  [Indexed for MEDLINE]
+
+Conflict of interest statement: This study was sponsored by unrestricted grants
+from Sonomaceuticals, LLC, dba Whole-Vine Products (Santa Rosa, CA) and Mayo
+Clinic (Rochester, MN) to AL. This does not alter our adherence to PLOS ONE
+policies on sharing data and materials.
+

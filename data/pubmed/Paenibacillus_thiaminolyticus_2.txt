@@ -1,0 +1,47 @@
+
+1. Microbiol Resour Announc. 2020 Apr 9;9(15). pii: e00181-20. doi:
+10.1128/MRA.00181-20.
+
+Complete Genome Sequences of the Human Pathogen Paenibacillus thiaminolyticus
+Mbale and Type Strain P. thiaminolyticus NRRL B-4156.
+
+Hehnly C(1)(2), Zhang L(1)(2), Paulson JN(3), Almeida M(4), von Bredow B(5),
+Wijetunge DSS(5), Galperin MY(6), Sheldon K(1)(2), Schiff SJ(7)(8)(9)(10), Broach
+JR(11)(2).
+
+Author information: 
+(1)Penn State Institute for Personalized Medicine, The Pennsylvania State
+University College of Medicine, Hershey, Pennsylvania, USA.
+(2)Department of Biochemistry and Molecular Biology, The Pennsylvania State
+University College of Medicine, Hershey, Pennsylvania, USA.
+(3)Department of Biostatistics, Product Development, Genentech, Inc., South San
+Francisco, California, USA.
+(4)MetaGénoPolis, INRA, Université Paris-Saclay, Jouy-en-Josas, France.
+(5)Department of Pathology, The Pennsylvania State University College of
+Medicine, Hershey, Pennsylvania, USA.
+(6)National Center for Biotechnology Information, National Library of Medicine,
+National Institutes of Health, Bethesda, Maryland, USA.
+(7)Department of Neurosurgery, The Pennsylvania State University College of
+Medicine, Hershey, Pennsylvania, USA.
+(8)Penn State Center for Neural Engineering, The Pennsylvania State University
+College of Engineering, University Park, Pennsylvania, USA.
+(9)Department of Engineering Science and Mechanics, The Pennsylvania State
+University College of Engineering, University Park, Pennsylvania, USA.
+(10)Department of Physics, The Pennsylvania State University Eberly College of
+Science, University Park, Pennsylvania, USA.
+(11)Penn State Institute for Personalized Medicine, The Pennsylvania State
+University College of Medicine, Hershey, Pennsylvania, USA
+jbroach@pennstatehealth.psu.edu.
+
+We have isolated a likely bacterial pathogen from cerebrospinal fluid from a
+Ugandan infant suffering from hydrocephalus. Whole-genome sequencing and assembly
+of the genome of the clinical isolate, as well as that of a previously deposited 
+reference strain, identified the isolate as Paenibacillus thiaminolyticus, which 
+has not been associated with widespread human infections.
+
+Copyright © 2020 Hehnly et al.
+
+DOI: 10.1128/MRA.00181-20 
+PMCID: PMC7380522
+PMID: 32273361 
+

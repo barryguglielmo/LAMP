@@ -1,0 +1,57 @@
+
+1. J Periodontal Res. 2020 Apr;55(2):238-246. doi: 10.1111/jre.12708. Epub 2019 Nov 
+2.
+
+Pyrosequencing of the subgingival microbiome in peri-implantitis after
+non-surgical mechanical debridement therapy.
+
+Nie J(1), Zhang Q(2), Zheng H(3), Xu LX(4), Wang XY(1), Chen F(2).
+
+Author information: 
+(1)Department of Cariology and Endodontology, Peking University School and
+Hospital of Stomatology, Beijing, China.
+(2)Central Laboratory, Peking University School and Hospital of Stomatology,
+Beijing, China.
+(3)Department of Orthodontics, School and Hospital of Stomatology, Fujian Medical
+University, Fuzhou, China.
+(4)The Third Dental Center, Peking University School and Hospital of Stomatology,
+Beijing, China.
+
+BACKGROUND AND OBJECTIVES: Peri-implantitis remains a challenge for dental
+implant therapy, and the prognosis of non-surgical therapy for peri-implantitis
+is unsatisfactory. In order to reveal the impact of non-surgical mechanical
+debridement therapy on microbial communities, we investigated the subgingival
+microbial communities of healthy implants and implants with peri-implantitis,
+both before and after the therapy.
+MATERIAL AND METHODS: Subgingival plaques were collected from patients with
+healthy dental implants (HC; n = 10) and from patients with peri-implantitis
+(n = 13) before and after non-surgical mechanical debridement therapy. The
+treatment was conducted using curettes for submucosal debridement followed by
+irrigation with 0.2% (w/v) chlorhexidine, with re-examination 1 month later. 16S 
+rRNA pyrosequencing was used to analyze the subgingival microbiome, and
+co-occurrence networks were adopted to explore the interactions between pathogens
+in the microbial communities.
+RESULTS: A total of 506 955 high-quality reads were generated, and 2222
+operational taxonomic units were finally detected using a 97% similarity cutoff, 
+with a mean of 249 ± 69 per sample. The peri-implantitis sites harbored similar
+microbial communities before and after the treatment, as demonstrated by the
+microbial diversity, relative abundance, and prevalence of bacteria. Most
+importantly, the microbial community structures were stable before and after
+non-surgical therapy based on the microbial diversity and bacterial composition, 
+as well as the interactions between key pathogens, including Enterobacteriaceae, 
+Selenomonas sputigena, Parvimonas, Eubacterium infirmum, Campylobacter gracilis, 
+Tannerella forsythia, and Fusobacterium, which were measured using a
+co-occurrence network analysis. Periodontal pathogens were also detected in
+subgingival plaque after the treatment. Distinct microbial communities were found
+between the healthy and peri-implantitis sites.
+CONCLUSION: Our results demonstrate that non-surgical mechanical debridement
+therapy did not significantly affect the subgingival microbial communities in
+peri-implantitis, and the stable microbial networks created via interactions
+among pathogens may be responsible for the poor prognosis of peri-implantitis
+treatment.
+
+© 2019 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jre.12708 
+PMID: 31677272  [Indexed for MEDLINE]
+

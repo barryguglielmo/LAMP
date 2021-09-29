@@ -1,0 +1,38 @@
+
+1. Int J Mol Sci. 2020 Feb 11;21(4). pii: E1176. doi: 10.3390/ijms21041176.
+
+Microbial Degradation of Plastic in Aqueous Solutions Demonstrated by CO2
+Evolution and Quantification.
+
+Rose RS(1), Richardson KH(1), Latvanen EJ(1), Hanson CA(1)(2), Resmini M(1),
+Sanders IA(1).
+
+Author information: 
+(1)School of Biological and Chemical Sciences, Queen Mary University of London,
+London E1 4NS, UK.
+(2)Microbiology@UCL, University College London, London WC1E 6BT, UK.
+
+The environmental accumulation of plastics worldwide is a consequence of the
+durability of the material. Alternative polymers, marketed as biodegradable,
+present a potential solution to mitigate their ecological damage. However,
+understanding of biodegradability has been hindered by a lack of reproducible
+testing methods. We developed a novel method to evaluate the biodegradability of 
+plastic samples based on the monitoring of bacterial respiration in aqueous media
+via the quantification of CO2 produced, where the only carbon source available is
+from the polymer. Rhodococcus rhodochrous and Alcanivorax borkumensis were used
+as model organisms for soil and marine systems, respectively. Our results
+demonstrate that this approach is reproducible and can be used with a variety of 
+plastics, allowing comparison of the relative biodegradability of the different
+materials. In the case of low-density polyethylene, the study demonstrated a
+clear correlation between the molecular weight of the sample and CO2 released,
+taken as a measure of biodegradability.
+
+DOI: 10.3390/ijms21041176 
+PMCID: PMC7072786
+PMID: 32053975 
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses or
+interpretation of data; in the writing of the manuscript or in the decision to
+publish the results.
+

@@ -1,0 +1,36 @@
+
+1. Methods Protoc. 2020 Aug 31;3(3). pii: E62. doi: 10.3390/mps3030062.
+
+Characterization of Competitive ELISA and Formulated Alhydrogel Competitive ELISA
+(FAcE) for Direct Quantification of Active Ingredients in GMMA-Based Vaccines.
+
+Rossi O(1), Aruta MG(1), Acquaviva A(1), Mancini F(1), Micoli F(1), Necchi F(1).
+
+Author information: 
+(1)GSK Vaccines Institute for Global Health s.r.l (GVGH), 53100 Siena, Italy.
+
+Generalized modules for membrane antigens (GMMA) represent a technology
+particularly attractive for designing affordable vaccines against Gram-negative
+bacteria. We explored such technology for the development of O-antigen-based
+vaccines against Shigella and nontyphoidal Salmonella. Adsorption of GMMA on
+Alhydrogel was required for abrogation of pyrogenicity in rabbits, and Shigella
+sonnei GMMA on Alhydrogel was well tolerated and immunogenic in humans.
+Quantification of key antigens in formulated vaccines was fundamental for release
+and to check stability overtime. Traditionally, the direct quantification of
+antigens adsorbed on aluminum salts has been challenging, and the quantification 
+of each active ingredient in multicomponent formulated vaccines has been even
+more complicated. To directly quantify each active ingredient and unbound drug
+substances in formulated vaccines, we developed the Formulated Alhydrogel
+competitive ELISA (FAcE) and the competitive ELISA method, respectively. The
+methods were both fully characterized, assessing specificity, repeatability,
+intermediate precision, and accuracy, for S. sonnei OAg quantification, both in a
+single component or multicomponent GMMA formulation also containing S. flexneri
+GMMA. The developed immunological methods allowed us to fully characterize
+Shigella GMMA drug products, supporting their preclinical and clinical
+development. The same methods, already extended to GMMA from nontyphoidal
+Salmonella and Neisseria meningitidis, could be potentially extended to any
+antigen formulated on Alhydrogel.
+
+DOI: 10.3390/mps3030062 
+PMID: 32878036 
+

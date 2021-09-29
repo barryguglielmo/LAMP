@@ -1,0 +1,38 @@
+
+1. ACS Omega. 2020 Jul 15;5(29):18397-18402. doi: 10.1021/acsomega.0c02188.
+eCollection 2020 Jul 28.
+
+High Regioselectivity Production of 5-Cyanovaleramide from Adiponitrile by a
+Novel Nitrile Hydratase Derived from Rhodococcus erythropolis CCM2595.
+
+Wang L(1), Liu S(1), Du W(2), Dou T(1), Liang C(2).
+
+Author information: 
+(1)School of Life and Pharmaceutical Sciences, Dalian University of Technology,
+Panjin 124221, China.
+(2)School of Chemical Engineering, Dalian University of Technology, Dalian
+116024, China.
+
+5-Cyanovaleramide (5-CVAM) is an important intermediate of a herbicide and
+chemical raw material. Herein, we found a novel nitrile hydratase from the strain
+Rhodococcus erythropolis CCM2595, exhibiting high regioselectivity with higher
+substrate specificity toward dinitriles than mononitriles. In the past, the
+strain was shown to degrade only phenol, hydroxybenzoate, p-chlorophenol,
+aniline, and other aromatic compounds. In our study, 20 mM adiponitrile was
+completely consumed within 10 min with 95% selectivity to 5-CVAM and 5%
+selectivity to adipamide. In addition to its high regioselectivity, our
+recombinant Escherichia coli showed a higher substrate tolerance of up to 200 mM 
+adiponitrile even after 3 h when compared with two reported strains with their
+cyano-tolerance concentrations of up to 100 mM, which is considered to be the
+highest cyano-tolerance. Such a robust biocatalyst is a desirable attribute of a 
+biocatalyst intended for use in commercial applications of 5-CVAM.
+
+Copyright © 2020 American Chemical Society.
+
+DOI: 10.1021/acsomega.0c02188 
+PMCID: PMC7392519
+PMID: 32743216 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

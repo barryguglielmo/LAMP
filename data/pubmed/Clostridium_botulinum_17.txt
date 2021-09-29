@@ -1,0 +1,38 @@
+
+1. Biosensors (Basel). 2020 Aug 12;10(8). pii: E98. doi: 10.3390/bios10080098.
+
+Docking Simulation and Sandwich Assay for Aptamer-Based Botulinum Neurotoxin Type
+C Detection.
+
+Oh IH(1), Park DY(1), Cha JM(1), Shin WR(1), Ahn JY(1), Kim YH(1), Kim JH(2), Kim
+SC(2), Cho BK(2).
+
+Author information: 
+(1)School of Biological Sciences, Chungbuk National University, 1 Chungdae-Ro,
+Seowon-Gu, Cheongju 28644, Korea.
+(2)Department of Biological Sciences, Korea Advanced Institute of Science and
+Technology, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Korea.
+
+Aptamers are biomaterials that bind to a target molecule through a unique
+structure, and have high applicability in the diagnostic and medical fields. To
+effectively utilize aptamers, it is important to analyze the structure of the
+aptamer binding to the target molecule; however, there are difficulties in
+experimentally identifying this structure. In the modern pharmaceutical industry,
+computer-driven docking simulations that predict intermolecular binding models
+are used to select candidates that effectively bind target molecules. Botulinum
+toxin (BoNT) is the most poisonous neurotoxin produced from the Clostridium
+botulinum bacteria, and BoNT/C, one of the eight serotypes, causes paralysis in
+livestock. In this study, the aptamers that bound to BoNT/C were screened via the
+systematic evolution of ligands by exponential enrichment, and the binding
+affinity analysis and binding model were evaluated to select optimal aptamers.
+Based on surface plasmon resonance analysis and molecular operating environment
+docking simulation, a pair of aptamers that had high binding affinity to BoNT/C
+and were bound to different BoNT/C sites were selected. A sandwich assay based on
+this aptamer pair detected the BoNT/C protein to a concentration as low as ~0.2
+ng Ml-1. These results show that docking simulations are a useful strategy for
+screening aptamers that bind to specific targets.
+
+DOI: 10.3390/bios10080098 
+PMCID: PMC7460441
+PMID: 32806662 
+

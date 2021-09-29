@@ -1,0 +1,65 @@
+
+1. mSystems. 2020 Apr 28;5(2). pii: e00134-20. doi: 10.1128/mSystems.00134-20.
+
+Deciphering the Structural Diversity and Classification of the Mobile Tigecycline
+Resistance Gene tet(X)-Bearing Plasmidome among Bacteria.
+
+Li R(1)(2)(3), Lu X(1)(2), Peng K(1)(2)(3), Liu Z(1)(2), Li Y(1)(2)(3), Liu
+Y(1)(2)(3), Xiao X(1)(2), Wang Z(4)(2).
+
+Author information: 
+(1)College of Veterinary Medicine, Yangzhou University, Yangzhou, Jiangsu,
+People's Republic of China.
+(2)Jiangsu Co-Innovation Center for Prevention and Control of Important Animal
+Infectious Diseases and Zoonoses, Yangzhou, Jiangsu, People's Republic of China.
+(3)Institute of Comparative Medicine, Yangzhou University, Yangzhou, Jiangsu,
+People's Republic of China.
+(4)College of Veterinary Medicine, Yangzhou University, Yangzhou, Jiangsu,
+People's Republic of China zqwang@yzu.edu.cn.
+
+The emergence of novel plasmid-mediated resistance genes constitutes a great
+public concern. Recently, mobile tet(X) variants were reported in diverse
+pathogens from different sources. However, the diversity of tet(X)-bearing
+plasmids remains largely unknown. In this study, the phenotypes and genotypes of 
+all the tet(X)-positive tigecycline-resistant strains isolated from a
+slaughterhouse in China were characterized by antimicrobial susceptibility
+testing, conjugation, pulsed-field gel electrophoresis with S1 nuclease
+(S1-PFGE), and PCR. The diversity and polymorphism of tet(X)-harboring strains
+and plasmidomes were investigated by whole-genome sequencing (WGS) and
+single-plasmid-molecule analysis. Seventy-four tet(X4)-harboring Escherichia coli
+strains and one tet(X6)-bearing Providencia rettgeri strain were identified. The 
+tet(X4)-bearing elements in 27 strains could be transferred to the recipient
+strain via plasmids. All tet(X4)-bearing plasmids isolated in this study and 15
+tet(X4)-bearing plasmids reported online were analyzed. tet(X4)-bearing plasmids 
+ranged from 9 to 294 kb and were categorized as ColE2-like, IncQ, IncX1, IncA/C2,
+IncFII, IncFIB, and hybrid plasmids with different replicons. The core
+tet(X4)-bearing genetic contexts were divided into four major groups:
+ISCR2-tet(X4)-abh, △ISCR2-abh-tet(X4)-ISCR2, ISCR2-abh-tet(X4)-ISCR2-virD2-floR, 
+and abh-tet(X4)-ISCR2-yheS-cat-zitR-ISCR2-virD2-floR Tandem repeats of tet(X4)
+were universally mediated by ISCR2 Different tet(X)-bearing strains existed in
+the same microbiota. Reorganization of tet(X4)-bearing multidrug resistance
+plasmids was found to be mediated by IS26 and other homologous regions. Finally, 
+single-plasmid-molecule analysis captured the heterogenous state of
+tet(X4)-bearing plasmids. These findings significantly expand our knowledge of
+the tet(X)-bearing plasmidome among microbiotas, which establishes a baseline for
+investigating the structure and diversity of human, animal, and environmental
+tigecycline resistomes. Characterization of tet(X) genes among different
+microbiotas should be performed systematically to understand the evolution and
+ecology.IMPORTANCE Tigecycline is an expanded-spectrum tetracycline used as a
+last-resort antimicrobial for treating infections caused by superbugs such as
+carbapenemase-producing or colistin-resistant pathogens. Emergence of the
+plasmid-mediated mobile tigecycline resistance gene tet(X4) created a great
+public health concern. However, the diversity of tet(X4)-bearing plasmids and
+bacteria remains largely uninvestigated. To cover this knowledge gap, we
+comprehensively identified and characterized the tet(X)-bearing plasmidome in
+different sources using advanced sequencing technologies for the first time. The 
+huge diversity of tet(X4)-bearing mobile elements demonstrates the high level of 
+transmissibility of the tet(X4) gene among bacteria. It is crucial to enhance
+stringent surveillance of tet(X) genes in animal and human pathogens globally.
+
+Copyright © 2020 Li et al.
+
+DOI: 10.1128/mSystems.00134-20 
+PMCID: PMC7190383
+PMID: 32345737 
+

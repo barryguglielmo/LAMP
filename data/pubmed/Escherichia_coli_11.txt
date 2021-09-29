@@ -1,0 +1,61 @@
+
+1. Int J Pharm. 2020 Sep 30:119930. doi: 10.1016/j.ijpharm.2020.119930. [Epub ahead 
+of print]
+
+Fabrication of Large Pore Mesoporous Silica Microspheres by Salt-Assisted
+Spray-Drying Method for Enhanced Antibacterial Activity and Pancreatic Cancer
+Treatment.
+
+Belbekhouche S(1), Poostforooshan J(2), Shaban M(3), Ferrara B(4), Alphonse V(5),
+Cascone I(4), Bousserrhine N(5), Courty J(4), Weber AP(3).
+
+Author information: 
+(1)Institut de Chimie et des Matériaux Paris-Est, UMR 7182 CNRS-Université
+Paris-Est Créteil, 94320 Thiais, France. Electronic address:
+belbekhouche@icmpe.cnrs.fr.
+(2)Institute of Particle Technology, Clausthal University of Technology, 38678
+Clausthal Zellerfeld, Germany. Electronic address:
+jalal.poostforooshan@tu-clausthal.de.
+(3)Institute of Particle Technology, Clausthal University of Technology, 38678
+Clausthal Zellerfeld, Germany.
+(4)INSERM, U955, Immunoregulation and Biotherapy, F-94000 Créteil, France.
+(5)Laboratoire Eau Environnement et Systèmes Urbains (LEESU),
+Université-Paris-Est Créteil, 94010 Créteil Cedex, France.
+
+Large-pore mesoporous silica (LPMS) microspheres with tunable pore size have
+received intensive interest in the field of drug delivery due to their high
+storage capacity and fast delivery rate of drugs. In this work, a facile
+salt-assisted spray-drying method has been developed to fabricate LPMS
+microspheres using continuous spray-drying of simple inorganic salts as pore
+templates and colloidal SiO2 nanoparticles as building blocks, followed by
+washing with water to remove the templates. More importantly, the porosity of the
+LPMS microspheres can be finely tuned by adjusting the furnace temperature and
+relative concentration of the salt to SiO2, which could lead to optimal
+pharmaceutical outcomes. Then, the biological roles of these LPMS microspheres
+were evaluated in antibacterial and cancer therapy. In this regard, rhodamine b
+as a probe was initially loaded inside the LPMS microspheres. The obtained
+particles not only showed high entrapment efficiency (up to 30%) and a
+pH-responsive drug release but also presented pore-size-controlled drug release
+performance. Then, in vitro antibacterial activities of multiple antibiotics,
+namely nalidixic acid, chloramphenicol, and ciprofloxacin, loaded in the LPMS
+particles were investigated against two pathogenic bacteria, Escherichia coli
+(Gram-negative) and Staphylococcus aureus (Gram-positive). The results indicated 
+bacterial inhibition up to 70% and 20% in less than 2 hours for Escherichia coli 
+and Staphylococcus aureus, respectively. This inhibition of bacterial growth was 
+accompanied by no bacterial regrowth within 30 h. Finally, the versatility of
+LPMS microspheres as drug carriers in pancreatic cancer treatment was explored.
+In this regard, a pro-apoptotic NCL antagonist agent (N6L) as an antitumor agent 
+was successfully loaded onto LPMS microspheres. Interestingly, the resulting
+particles showed pore-size-dependent anticancer activity with inhibition of
+cancer cell growth up to 60%.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.ijpharm.2020.119930 
+PMID: 33010394 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

@@ -1,0 +1,48 @@
+
+1. Mol Psychiatry. 2020 May 4. doi: 10.1038/s41380-020-0736-2. [Epub ahead of print]
+
+Helicobacter pylori, periodontal pathogens, and their interactive association
+with incident all-cause and Alzheimer's disease dementia in a large national
+survey.
+
+Beydoun MA(1), Beydoun HA(2), Weiss J(3), Hossain S(4), El-Hajj ZW(5), Zonderman 
+AB(4).
+
+Author information: 
+(1)Laboratory of Epidemiology and Population Sciences, National Institutes on
+Aging, NIA/NIH/IRP, Baltimore, MD, USA. baydounm@mail.nih.gov.
+(2)Fort Belvoir Community Hospital, Fort Belvoir, VA, USA.
+(3)Population Studies Center and the Leonard Davis Institute of Health Economics,
+University of Pennsylvania, Philadelphia, PA, USA.
+(4)Laboratory of Epidemiology and Population Sciences, National Institutes on
+Aging, NIA/NIH/IRP, Baltimore, MD, USA.
+(5)McGill University, Montreal, QC, Canada.
+
+Co-infection between Helicobacter pylori (Hp) and groups of periodontal pathogens
+may alter the onset of Alzheimer's disease (AD) and all-cause dementia. We
+examined the interactive associations among Hp sero-positivity, periodontal
+disease (Pd), and infections with incident AD and all-cause dementia, among older
+adults (≥65 years at baseline). Up to 1431 participants from phase 1 of the
+National Health and Nutrition Survey III (1988-1991) had complete data till
+January 1st, 2014 on Hp sero-positivity with a mean follow-up of 10-11 years for 
+AD and all-cause dementia incidence. Exposures consisted of 19 periodontal
+pathogens, constructed factors and clusters, and two Pd markers- probing depth
+and clinical attachment loss (CAL). Cox proportional hazards models were
+performed. Around 55% of the selected sample was Hp+. We found that Prevotella
+intermedia, Campylobacter Rectus, Factor 2 (Pi/Prevotella nigrescens/Prevotella
+melaninogenica), and the Orange-Red cluster interacted synergistically with Hp
+sero-positivity, particularly with respect to AD incidence. The presence of
+higher levels of Actinomyces Naeslundii (An) enhanced the effect of being Hp+ on 
+both AD and all-cause dementia incidence. In contrast, Fusobacterim nucleatum
+(Fn), and Factor 1 (which included Fn), exhibited an antagonistic interaction
+with Hp in relation to all-cause dementia. Both probing depth and CAL had direct 
+associations with all-cause dementia among Hp+ individuals, despite
+nonsignificant interaction. Selected periodontal pathogen titers, factors, and
+clusters interacted mostly synergistically, with Hp sero-positivity, to alter the
+risk of AD and all-cause dementia. Ultimately, a randomized controlled trial is
+needed, examining effects of co-eradication of Hp and select periodontal
+pathogens on neurodegenerative disease.
+
+DOI: 10.1038/s41380-020-0736-2 
+PMID: 32366948 
+

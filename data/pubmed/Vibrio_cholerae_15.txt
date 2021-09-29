@@ -1,0 +1,37 @@
+
+1. Sci Rep. 2020 Sep 21;10(1):15398. doi: 10.1038/s41598-020-72387-8.
+
+A modular chromosomally integrated toolkit for ectopic gene expression in Vibrio 
+cholerae.
+
+Dalia TN(1), Chlebek JL(1), Dalia AB(2).
+
+Author information: 
+(1)Department of Biology, Indiana University, Bloomington, IN, 47405, USA.
+(2)Department of Biology, Indiana University, Bloomington, IN, 47405, USA.
+ankdalia@indiana.edu.
+
+The ability to express genes ectopically in bacteria is essential for diverse
+academic and industrial applications. Two major considerations when utilizing
+regulated promoter systems for ectopic gene expression are (1) the ability to
+titrate gene expression by addition of an exogenous inducer and (2) the leakiness
+of the promoter element in the absence of the inducer. Here, we describe a
+modular chromosomally integrated platform for ectopic gene expression in Vibrio
+cholerae. We compare the broadly used promoter elements Ptac and PBAD to versions
+that have an additional theophylline-responsive riboswitch (Ptac-riboswitch and
+PBAD-riboswitch). These constructs all exhibited unimodal titratable induction of
+gene expression, however, max induction varied with
+Ptac > PBAD > PBAD-riboswitch > Ptac-riboswitch. We also developed a sensitive
+reporter system to quantify promoter leakiness and show that leakiness for
+Ptac > Ptac-riboswitch > PBAD; while the newly developed PBAD-riboswitch
+exhibited no detectable leakiness. We demonstrate the utility of the tightly
+inducible PBAD-riboswitch construct using the dynamic activity of type IV
+competence pili in V. cholerae as a model system. The modular chromosomally
+integrated toolkit for ectopic gene expression described here should be valuable 
+for the genetic study of V. cholerae and could be adapted for use in other
+species.
+
+DOI: 10.1038/s41598-020-72387-8 
+PMCID: PMC7505983
+PMID: 32958839 
+

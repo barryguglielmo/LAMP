@@ -1,0 +1,40 @@
+
+1. J Fish Dis. 2020 Jul 6. doi: 10.1111/jfd.13208. [Epub ahead of print]
+
+Genome-wide comparison of Carnobacterium maltaromaticum derived from diseased
+fish harbouring important virulence-related genes.
+
+Roh H(1), Kim BS(2), Lee MK(3), Park CI(4), Kim DH(1).
+
+Author information: 
+(1)Department of Aquatic life medicine. College of Fisheries Science, Pukyong
+National University, Busan, Korea.
+(2)Aquatic disease control division, National Institute of Fisheries Science
+(NIFS), Busan, Korea.
+(3)Korean Aquatic Organism Disease Inspector Association, Busan, Korea.
+(4)Department of Marine Biology & Aquaculture, College of Marine Science,
+Gyeongsang National University, Tongyeong, Korea.
+
+Although Carnobacterium maltaromaticum has been used as a probiotic in fish, it
+was reported to cause disease for the first time in Korea. The objective of this 
+study was to understand the differences between pathogenic and non-pathogenic
+strains. Pathogenicity was tested by challenging rainbow trout with C.
+maltaromaticum ATCC35586 and 18ISCm isolated from diseased fish, and DSM20342
+isolated from a dairy product. We also compared 24 genomes of C. maltaromaticum
+strains plus the genome of our isolate 18ISCm sequenced in this study. Only the
+strains from diseased fish caused high mortality with severe histopathological
+changes. Although all strains shared more than 90% of Ko_id, wecC and xtmA were
+found only in strains from diseased fish. Interestingly, only strains from
+diseased fish harboured two wecC paralogs involved in the production of
+D-mannosaminuronic acid which is a major component of a well-known virulence
+factor, teichuronic acid. Two wecC paralogs of 18ISCm were increased when they
+were co-cultured with trout blood cells, suggesting that wecC genes might play a 
+role in virulence. The results of this study show that strains isolated from
+diseased fish are different from strains derived from food in terms of
+pathogenicity to fish and the presence of virulence-related genes.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/jfd.13208 
+PMID: 32627213 
+

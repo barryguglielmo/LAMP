@@ -1,0 +1,45 @@
+
+1. J Clin Med. 2020 Feb 9;9(2). pii: E475. doi: 10.3390/jcm9020475.
+
+Electrochemical Disinfection of Dental Implants Experimentally Contaminated with 
+Microorganisms as a Model for Periimplantitis.
+
+Koch M(1), Göltz M(2), Xiangjun M(1), Karl M(3), Rosiwal S(4), Burkovski A(1).
+
+Author information: 
+(1)Microbiology Division, Department of Biology, University of
+Erlangen-Nuremberg, 91058 Erlangen, Germany.
+(2)Division of ultra-hard coatings, Department of Material Sciences, University
+of Erlangen-Nuremberg, 91058 Erlangen, Germany.
+(3)Department of Prosthodontics, Saarland University, 66421Homburg/Saar, Germany.
+(4)Chair of Materials Science and Engineering for Metals, Department of Material 
+Sciences, University of Erlangen-Nuremberg, 91058 Erlangen, Germany.
+
+Despite several methods having been described for disinfecting implants affected 
+by periimplantitis, none of these are universally effective and may even alter
+surfaces and mechanical properties of implants. Boron-doped diamond (BDD)
+electrodes were fabricated from niobium wires and assembled as a single
+instrument for implant cleaning. Chemo-mechanical debridement and air abrasion
+were used as control methods. Different mono-species biofilms, formed by bacteria
+and yeasts, were allowed to develop in rich medium at 37 °C for three days. In
+addition, natural multi-species biofilms were treated. Implants were placed in
+silicone, polyurethane foam and bovine ribs for simulating different clinical
+conditions. Following treatment, the implants were rolled on blood agar plates,
+which were subsequently incubated at 37 °C and microbial growth was analyzed.
+Complete electrochemical disinfection of implant surfaces was achieved with a
+maximum treatment time of 20 min for Candida albicans, Candida dubliniensis,
+Enterococcus faecalis, Roseomonas mucosa, Staphylococcus epidermidis and
+Streptococcus sanguinis, while in case of spore-forming Bacillus pumilus and
+Bacillus subtilis, a number of colonies appeared after BDD electrode treatment
+indicating an incomplete disinfection. Independent of the species tested,
+complete disinfection was never achieved when conventional techniques were used. 
+During treatment with BDD electrodes, only minor changes in temperature and pH
+value were observed. The instrument used here requires optimization so that
+higher charge quantities can be applied in shorter treatment times.
+
+DOI: 10.3390/jcm9020475 
+PMCID: PMC7074531
+PMID: 32050444 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

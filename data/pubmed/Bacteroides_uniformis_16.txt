@@ -1,0 +1,51 @@
+
+1. Liver Int. 2020 Mar;40(3):622-637. doi: 10.1111/liv.14316. Epub 2019 Dec 30.
+
+Coordinated changes of gut microbiome and lipidome differentiates nonalcoholic
+steatohepatitis (NASH) from isolated steatosis.
+
+Qian M(1), Hu H(2), Yao Y(3), Zhao D(1), Wang S(4), Pan C(1), Duan X(1), Gao
+Y(1), Liu J(1), Zhang Y(1), Yang S(5), Qi LW(4), Wang L(1).
+
+Author information: 
+(1)School of Basic Medicine and Clinical Pharmacy, State Key Laboratory of
+Natural Medicines, China Pharmaceutical University, Nanjing, China.
+(2)School of life Science and Technology, China Pharmaceutical University,
+Nanjing, China.
+(3)School of Basic Medicine, Nanjing University of Chinese Medicine, Nanjing,
+China.
+(4)Clinical Metabolomics Center, China Pharmaceutical University, Nanjing, China.
+(5)Department of Hepatology, Beijing Ditan Hospital, Capital Medical University, 
+Chaoyang District, Beijing, China.
+
+BACKGROUND & AIMS: Nonalcoholic fatty liver disease encompasses isolated
+steatosis or nonalcoholic fatty liver and nonalcoholic steatohepatitis (NASH).
+NASH develops from isolated steatosis with obscure driving forces. We aim to
+identify key factors promoting this transition.
+METHODS: Following 21-week of high-fat diet feeding, obese mice were classified
+into two groups termed as isolated steatosis and NASH based on hematoxylin-eosin 
+staining of liver histology. The integrated multi-omics analysis of lipidome,
+transcriptome and gut microbiome were performed in mice with isolated steatosis
+and NASH, and confirmed in human samples.
+RESULTS: Livers in mice with NASH lost most lipids, and the transcriptional
+landscape was also changed dramatically in mice with NASH in relative to mice
+with isolated steatosis. Plasma lipidome analysis demonstrated a very clear
+difference between these two groups of mice, which was partially recapitulated in
+serum of patients with isolated steatosis and NASH. The microbiota composition
+revealed that Bacteroides genus and Bacteroides uniformis species decreased while
+Mucispirillum genus and Mucispirillum schaedleri species increased largely in
+mice with NASH. More importantly, we found that Bacteroides uniformis correlated 
+positively with triglycerides (TGs) and negatively with free fatty acids (FFAs)
+and PE(18:1/20:4), while Mucispirillum schaedleri correlated positively with
+FFAs, LysoPC(20:3), LysoPC(20:4) and DG(16:1/18:2). Mechanically, administration 
+of Bacteroides uniformis increased specific TGs, and decreased hepatic injury and
+inflammation in diet-induced mice.
+CONCLUSIONS: Overall, through multi-omics integration, we identified a
+microbiota-lipid axis promoting the initiation of NASH from isolated steatosis,
+which might provide a novel perspective on NASH pathogenesis and treatment.
+
+© 2019 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/liv.14316 
+PMID: 31782595 
+

@@ -1,0 +1,73 @@
+
+1. Clin Gastroenterol Hepatol. 2020 Mar 14. pii: S1542-3565(20)30323-2. doi:
+10.1016/j.cgh.2020.03.013. [Epub ahead of print]
+
+Alterations in Fecal Microbiomes and Serum Metabolomes of Fatigued Patients With 
+Quiescent Inflammatory Bowel Diseases.
+
+Borren NZ(1), Plichta D(2), Joshi AD(3), Bonilla G(4), Peng V(5), Colizzo FP(3), 
+Luther J(3), Khalili H(3), Garber JJ(3), Janneke van der Woude C(6), Sadreyev
+R(4), Vlamakis H(7), Xavier RJ(8), Ananthakrishnan AN(9).
+
+Author information: 
+(1)Division of Gastroenterology, Massachusetts General Hospital and Harvard
+Medical School, Boston, Massachusetts; Department of Gastroenterology and
+Hepatology, Erasmus University Medical Center, Rotterdam, the Netherlands.
+(2)Infectious Disease and Microbiome Program, Broad Institute of MIT and Harvard,
+Cambridge, Massachusetts.
+(3)Division of Gastroenterology, Massachusetts General Hospital and Harvard
+Medical School, Boston, Massachusetts.
+(4)Department of Molecular Biology, Massachusetts General Hospital and Harvard
+Medical School, Boston, Massachusetts.
+(5)Department of Pathology and Immunology, Washington University School of
+Medicine in St. Louis, St Louis, Missouri.
+(6)Department of Gastroenterology and Hepatology, Erasmus University Medical
+Center, Rotterdam, the Netherlands.
+(7)Infectious Disease and Microbiome Program, Broad Institute of MIT and Harvard,
+Cambridge, Massachusetts; Department of Molecular Biology, Massachusetts General 
+Hospital and Harvard Medical School, Boston, Massachusetts.
+(8)Division of Gastroenterology, Massachusetts General Hospital and Harvard
+Medical School, Boston, Massachusetts; Infectious Disease and Microbiome Program,
+Broad Institute of MIT and Harvard, Cambridge, Massachusetts; Department of
+Molecular Biology, Massachusetts General Hospital and Harvard Medical School,
+Boston, Massachusetts.
+(9)Division of Gastroenterology, Massachusetts General Hospital and Harvard
+Medical School, Boston, Massachusetts. Electronic address:
+aananthakrishnan@mgh.harvard.edu.
+
+BACKGROUND & AIMS: Fatigue is frequent and disabling in patients with
+inflammatory bowel diseases (IBD) but its mechanisms are poorly understood. We
+investigated alterations in fecal microbiomes and serum metabolomes and proteomes
+in patients with quiescent IBD, with vs without fatigue.
+METHODS: We performed a prospective observational study of patients (44% women;
+mean age, 39.8 y) with clinically and endoscopically quiescent Crohn's disease
+(n = 106) or ulcerative colitis (n = 60) at a tertiary hospital, from March 2016 
+through December 2018. Fatigue was assessed using the functional assessment of
+chronic illness therapy-fatigue scoring system and defined as a score of 43 or
+less. We performed metabolomic analysis of serum samples using liquid
+chromatography-mass spectrometry methods and proteomic analysis using multiplex
+proximity extension assay (PEA) technology. Stool samples were obtained from 50
+patients and analyzed by shotgun metagenomic sequencing on Illumina HiSeq
+platform.
+RESULTS: Of the 166 study participants, 91 (55%) were fatigued. Serum samples
+from patients with fatigue (n = 59) did not have significant increases in levels 
+of inflammatory cytokines compared with serum samples from nonfatigued patients
+(n = 72). We found a statistically significant difference in a cluster of 18
+serum metabolites between patients with fatigue (n = 84) vs without fatigue (n = 
+72) (P = .033); serum samples from patients with fatigue had significant
+reductions in levels of methionine (P = .020), tryptophan (P = .042), proline (P 
+= .017), and sarcosine (P = .047). Fecal samples from patients with fatigue had a
+less diverse gut microbiome, with significant reductions in butyrate-producing
+bacteria, including Faecalibacterium prausnitzii (P = .0002, q =.007)
+and Roseburia hominis (P = .0079, q = 0.105). This fatigue-like microbiome was
+associated with fatigue scales and correlated with progressive depletion of
+metabolites from serum samples.
+CONCLUSIONS: In an analysis of fecal and serum samples from 166 patients with
+IBD, we found alterations in serum metabolites and fecal microbes that were
+associated with fatigue.
+
+Copyright © 2020 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cgh.2020.03.013 
+PMID: 32184182 
+

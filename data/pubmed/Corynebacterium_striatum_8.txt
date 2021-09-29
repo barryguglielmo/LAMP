@@ -1,0 +1,55 @@
+
+1. Emerg Microbes Infect. 2020 Mar 17;9(1):605-615. doi:
+10.1080/22221751.2020.1737578. eCollection 2020.
+
+Super-dominant pathobiontic bacteria in the nasopharyngeal microbiota as
+causative agents of secondary bacterial infection in influenza patients.
+
+Qin T(1)(2), Geng T(3), Zhou H(1), Han Y(3), Ren H(1), Qiu Z(3), Nie X(1), Du
+T(3), Liang J(1), Du P(4), Jiang W(3), Li T(3), Xu J(1)(2)(5)(6).
+
+Author information: 
+(1)State Key Laboratory for Infectious Disease Prevention and Control,
+Collaborative Innovation Centre for Diagnosis and Treatment of Infectious
+Diseases, National Institute for Communicable Disease Control and Prevention,
+Chinese Center for Disease Control and Prevention, Beijing, People's Republic of 
+China.
+(2)Shanghai Institute for Emerging and Re-emerging Infectious Diseases, Shanghai 
+Public Health Clinical Centre, Shanghai, People's Republic of China.
+(3)Department of Infectious Diseases, Peking Union Medical College Hospital,
+Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing,
+People's Republic of China.
+(4)Beijing Key Laboratory of Emerging Infectious Diseases, Institute of
+Infectious Diseases, Beijing Ditan Hospital, Capital Medical University, Beijing,
+People's Republic of China.
+(5)Department of Laboratorial Science and Technology, School of Public Health,
+Peking University, Beijing, People's Republic of China.
+(6)Research Unit of New Microbes, Chinese Academy of Medical Sciences, Beijing,
+People's Republic of China.
+
+The source of secondary lower respiratory tract bacterial infections in influenza
+patients is not fully understood. A case-control study was conducted during the
+2017-2018 influenza epidemic period in Beijing, China. Nasopharyngeal swabs were 
+collected from 52 virologically confirmed influenza patients and 24 healthy
+medical staff. The nasopharyngeal microbiota taxonomic composition was analysed
+using high-throughput sequencing of the 16S rRNA gene V3-V4 regions. The
+super-dominant pathobiontic bacterial genus (SDPG) was defined as that accounting
+for >50% of sequences in a nasopharyngeal swab. We attempted to isolate bacteria 
+of this genus from both nasopharyngeal swabs and lower-respiratory tract samples 
+and analyse their genetic similarities. We observed a significantly lower
+taxonomy richness in influenza cases compared with healthy controls. A SDPG was
+detected in 61% of severe cases but in only 24% of mild cases and 29% of healthy 
+controls. In 10 cases, the species isolated from lower-respiratory tract
+infection sites were identified as belonging to the nasopharyngeal microbiota
+SDPG. Genetically identical strains were isolated from both nasopharyngeal swabs 
+and lower-respiratory tract infection sites, including 23 Acinetobacter baumannii
+strains from six severe cases, six Klebsiella pneumoniae strains from two severe 
+cases, five Pseudomonas aeruginosa strains from one severe and one mild case, and
+four Corynebacterium striatum strains from two severe cases. The SDPG in the
+nasopharyngeal microbiota are the likely cause of subsequent infection in
+influenza patients.
+
+DOI: 10.1080/22221751.2020.1737578 
+PMCID: PMC7144213
+PMID: 32178586  [Indexed for MEDLINE]
+

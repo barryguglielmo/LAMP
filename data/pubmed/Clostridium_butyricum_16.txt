@@ -1,0 +1,41 @@
+
+1. Cancer Immunol Res. 2020 Oct;8(10):1236-1242. doi: 10.1158/2326-6066.CIR-20-0051.
+Epub 2020 Jul 14.
+
+Association of Probiotic Clostridium butyricum Therapy with Survival and Response
+to Immune Checkpoint Blockade in Patients with Lung Cancer.
+
+Tomita Y(#)(1), Ikeda T(#)(2), Sakata S(3), Saruwatari K(3), Sato R(3), Iyama
+S(3), Jodai T(3), Akaike K(3), Ishizuka S(3), Saeki S(3), Sakagami T(3).
+
+Author information: 
+(1)Department of Respiratory Medicine, Graduate School of Medical Sciences,
+Kumamoto University, Kumamoto-shi, Kumamoto, Japan. y-tomita@kumadai.jp.
+(2)Department of Clinical Investigation, Kumamoto University Hospital,
+Kumamoto-shi, Kumamoto, Japan.
+(3)Department of Respiratory Medicine, Graduate School of Medical Sciences,
+Kumamoto University, Kumamoto-shi, Kumamoto, Japan.
+(#)Contributed equally
+
+Gut dysbiosis caused by antibiotics impairs response to immune checkpoint
+blockade (ICB). Gut microbiota is becoming an attractive therapeutic target for
+cancer. The Clostridium butyricum MIYAIRI 588 strain is a probiotic therapy used 
+to improve symptoms related to antibiotic-induced dysbiosis in Japan. We
+hypothesized that probiotic Clostridium butyricum therapy (CBT) may affect the
+therapeutic efficacy of ICBs. We retrospectively evaluated 118 patients with
+advanced non-small cell lung cancer treated with ICBs at Kumamoto University
+Hospital (Kumamoto-shi, Kumamoto, Japan). Survival analysis comparing patients
+given CBT before and/or after ICB was conducted using univariate analyses and Cox
+proportional hazards regression models using propensity score. Propensity score
+analyses confirmed that probiotic CBT significantly prolonged progression-free
+survival (PFS) and overall survival (OS). Probiotic CBT significantly associated 
+with longer PFS and OS even in patients who received antibiotic therapy. This
+study suggests that probiotic CBT may have a positive impact on therapeutic
+efficacy of ICB in patients with cancer.See articles by Hakozaki et al., p. 1243,
+and Peng et al., p. 1251.
+
+©2020 American Association for Cancer Research.
+
+DOI: 10.1158/2326-6066.CIR-20-0051 
+PMID: 32665261 
+

@@ -1,0 +1,51 @@
+
+1. J Glob Antimicrob Resist. 2020 Mar;20:318-323. doi: 10.1016/j.jgar.2019.08.008.
+Epub 2019 Sep 20.
+
+High-level aminoglycoside resistance and distribution of aminoglycoside
+resistance genes among Enterococcus spp. clinical isolates in Tehran, Iran.
+
+Sharifzadeh Peyvasti V(1), Mohabati Mobarez A(2), Shahcheraghi F(3), Khoramabadi 
+N(1), Razaz Rahmati N(1), Hosseini Doust R(4).
+
+Author information: 
+(1)Department of Bacteriology, Faculty of Medical Sciences, Tarbiat Modares
+University, Tehran, Iran.
+(2)Department of Bacteriology, Faculty of Medical Sciences, Tarbiat Modares
+University, Tehran, Iran. Electronic address: mmmobarez@modares.ac.ir.
+(3)Department of Bacteriology, Pasteur Institute of Iran, Tehran, Iran.
+(4)Department of Microbiology, Faculty of Advanced Sciences, Tehran Medical
+Sciences, Islamic Azad University, Tehran, Iran.
+
+OBJECTIVES: Enterococci have gained attention during the past decade as important
+nosocomial pathogens. Their increasing prevalence has been paralleled by the
+occurrence of multidrug-resistant and high-level aminoglycoside-resistant
+strains. This study isolated Enterococcus spp. from hospital samples and
+determined their antibiotic resistance profile, focusing on aminoglycosides, and 
+associated resistance mechanisms.
+METHODS: A total of 195 enterococci from hospital samples in Tehran were studied.
+Isolates were identified by biochemical reactions. Antimicrobial resistance was
+determined by disk diffusion. The vancomycin MIC for vancomycin-resistant
+isolates was determined by agar dilution. Detection of aminoglycoside resistance 
+genes and intI1 and intI2 gene was performed by PCR.
+RESULTS: The majority of isolates were Enterococcus faecalis (65.1%), followed by
+Enterococcus faecium (31.8%), Enterococcus gallinarum (2.6%) and Enterococcus
+solitarius (0.5%). According to antibiogram results, 42.1% of isolates were
+high-level gentamicin-resistant (HLGR) and 40.5% were high-level
+streptomycin-resistant (HLSR). There was a high prevalence of
+aac(6')-Ie-aph(2")-Ia (96.3%) among HLGR isolates. ant(6)-Ia and aadA were
+identified in 93.7% and 64.6% of HLSR isolates, respectively. aph(2'')-Ic was
+detected in 7 isolates (3.6%) and aph(2'')-Ib in only 4 isolates (2.1%); no
+isolates harboured aph(2'')-Id, intI1 or intI2.
+CONCLUSION: Multidrug resistance was higher among HLGR and HLSR isolates compared
+with non-HLGR and non-HLSR isolates, which may result in limited treatment
+options. More than 50% of isolates were susceptible to aminoglycosides, thus
+correct identification in clinical laboratories and administration of these
+antibiotics can result in decreased used of antibiotics such as vancomycin and
+linezolid and help to reduce the emergence of resistance to these drugs.
+
+Copyright © 2019. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jgar.2019.08.008 
+PMID: 31542554 
+

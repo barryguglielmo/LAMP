@@ -1,0 +1,54 @@
+
+1. Sci Total Environ. 2019 Nov 10;690:1178-1189. doi:
+10.1016/j.scitotenv.2019.07.098. Epub 2019 Jul 8.
+
+Arsenic-resistance mechanisms in bacterium Leclercia adecarboxylata strain As3-1:
+Biochemical and genomic analyses.
+
+Han YH(1), Yin DX(2), Jia MR(2), Wang SS(3), Chen Y(4), Rathinasabapathi B(5),
+Chen DL(6), Ma LQ(7).
+
+Author information: 
+(1)Quangang Petrochemical Research Institute, Fujian Normal University, Quanzhou,
+Fujian 362801, China; College of Environmental Science and Engineering, Fujian
+Normal University, Fuzhou, Fujian 350007, China; Fujian Key Laboratory of
+Pollution Control and Resource Reuse, Fuzhou 350007, China.
+(2)School of the Environment, Nanjing University, Nanjing, Jiangsu 210023, China.
+(3)Quangang Petrochemical Research Institute, Fujian Normal University, Quanzhou,
+Fujian 362801, China.
+(4)School of the Environment, Nanjing Normal University, Nanjing, Jiangsu 210023,
+China.
+(5)Horticultural Sciences Department, University of Florida, Gainesville, FL
+32611, United States.
+(6)Quangang Petrochemical Research Institute, Fujian Normal University, Quanzhou,
+Fujian 362801, China; Innovative Center for Eco-Friendly Polymeric Materials,
+Quanzhou, Fujian 362801, China. Electronic address: dlchen@fjnu.edu.cn.
+(7)College of Environmental Science and Engineering, Fujian Normal University,
+Fuzhou, Fujian 350007, China; Soil and Water Sciences Department, University of
+Florida, Gainesville, FL 32611, United States. Electronic address: lqma@ufl.edu.
+
+Microbial arsenic transformation is important in As biogeochemical cycles in the 
+environment. In this study, a new As-resistant bacterial strain Leclercia
+adecarboxylata As3-1 was isolated and its associated mechanisms in As resistance 
+and detoxification were evaluated based on genome sequencing and gene
+annotations. After subjecting strain As3-1 to medium containing arsenate (AsV),
+AsV reduction occurred and an AsV-enhanced bacterial growth was observed. Strain 
+As3-1 lacked arsenite (AsIII) oxidation ability and displayed lower AsIII
+resistance than AsV, probably due to its higher AsIII accumulation. Polymerase
+chain reaction and phylogenetic analysis showed that strain As3-1 harbored a
+typical AsV reductase gene (arsC) on the plasmids. Genome sequencing and gene
+annotations identified four operons phoUpstBACS, arsHRBC, arsCRDABC and ttrRSBCA,
+with 8 additional genes outside the operons that might have involved in As
+resistance and detoxification in strain As3-1. These included 5 arsC genes
+explaining why strain As3-1 tolerated high AsV concentrations. Besides ArsC,
+TtrB, TtrC and TtrA proteins could also be involved in AsV reduction and
+consequent energy acquisition for bacterial growth. Our data provided a new
+example of diverse As-regulating systems and AsV-enhanced growth without ArrA in 
+bacteria. The information helps to understand the role of As in selecting
+microbial systems that can transform and utilize As.
+
+Published by Elsevier B.V.
+
+DOI: 10.1016/j.scitotenv.2019.07.098 
+PMID: 31470481  [Indexed for MEDLINE]
+

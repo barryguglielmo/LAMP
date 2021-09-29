@@ -1,0 +1,47 @@
+
+1. Hum Exp Toxicol. 2020 Sep 14:960327120954249. doi: 10.1177/0960327120954249.
+[Epub ahead of print]
+
+Toll-like receptor 4 prevents AOM/DSS-induced colitis-associated colorectal
+cancer in Bacteroides fragilis gnotobiotic mice.
+
+Lee YP(1), Huang WC(2), Lin TJ(3)(4)(5), Chiu CC(6), Wang YC(1), Chen YH(1), Hung
+SW(6), Chuang HL(7), Chen TH(1).
+
+Author information: 
+(1)Graduate Institute of Veterinary Pathobiology, College of Veterinary Medicine,
+National Chung Hsing University, Taichung.
+(2)Department of Exercise and Health Science, National Taipei University of
+Nursing and Health Sciences, Taipei.
+(3)Division of Neurosurgery, Department of Surgery, School of Medicine, College
+of Medicine, Taipei Medical University, Taipei.
+(4)Department of Neurosurgery, Wan Fang Hospital, Taipei Medical University,
+Taipei.
+(5)Graduate Institute of Sports Science, College of Exercise and Health Sciences,
+National Taiwan Sport University, Taoyuan.
+(6)Division of Animal Industry, Animal Technology Laboratories, Agricultural
+Technology Research Institute, Miaoli.
+(7)National Laboratory Animal Center, National Applied Research Laboratories,
+Taipei.
+
+Bacteroides fragilis (BF) plays a critical role in developing and maintaining the
+mammalian immune system. We previously found that BF colonization could prevent
+inflammation and tumor formation in a germ-free (GF) colitis-associated
+colorectal cancer (CAC) mouse model. The role of Toll-like receptor 4 (TLR4) in
+CAC development has not been clearly elucidated in BF mono-colonized gnotobiotic 
+mice. The wild-type (WT) and TLR4 knockout (T4K) germ-free mice were raised with 
+or without BF colonization for 28 days (GF/WT, GF/T4K, BF/WT, and BF/T4K) and
+then CAC was induced under azoxymethane (AOM)/dextran sulfate sodium (DSS)
+administration. The results showed that tumor formation and tumor incidence were 
+significantly inhibited in the BF/WT group compared to those observed in the
+GF/WT group. However, the tumor prevention effect was not observed in the BF/T4K 
+group unlike in the BF/WT group. Moreover, the CAC histological severity of the
+BF/WT group was ameliorated, but more severe lesions were found in the GF/WT,
+GF/T4K, and BF/T4K groups. Immunohistochemistry showed decreased cell
+proliferation (PCNA, β-catenin) and inflammatory markers (iNOS) in the BF/WT
+group compared to those in the BF/T4K group. Taken together, BF mono-colonization
+of GF mice might prevent CAC via the TLR4 signal pathway.
+
+DOI: 10.1177/0960327120954249 
+PMID: 32924602 
+

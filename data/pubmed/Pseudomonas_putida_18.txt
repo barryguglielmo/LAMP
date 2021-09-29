@@ -1,0 +1,38 @@
+
+1. Mol Microbiol. 2020 Sep 17. doi: 10.1111/mmi.14605. [Epub ahead of print]
+
+Unique regulator SrpR mediates crosstalk between efflux pumps TtgABC and SrpABC
+in Pseudomonas putida B6-2 (DSM 28064).
+
+Yao X(1)(2), Tao F(1), Tang H(1), Hu H(1), Wang W(1), Xu P(1).
+
+Author information: 
+(1)State Key Laboratory of Microbial Metabolism, Joint International Research
+Laboratory of Metabolic & Developmental Sciences, and School of Life Sciences &
+Biotechnology, Shanghai Jiao Tong University, Shanghai, People's Republic of
+China.
+(2)School of Chemistry and Life Sciences, Suzhou University of Science and
+Technology, Suzhou, People's Republic of China.
+
+Coexistence of multiple homologous resistance-nodulation-division (RND) efflux
+pumps in bacteria is frequently described with overlapping substrate profiles.
+However, it is unclear how bacteria balance their transcription in response to
+changing environment. Here, we characterized a repressor, SrpR, in Pseudomonas
+putida B6-2 (DSM 28064), whose coding gene is adjacent to srpS that encodes the
+local repressor of the RND-type efflux pump SrpABC gene cluster. SrpR was
+demonstrated as a specific repressor of another RND efflux pump gene cluster
+ttgABC that is locally repressed by TtgR. SrpR was found to be capable of binding
+to the ttgABC operator with a higher affinity (KD , 138.0 nM) compared to TtgR
+(KD , 15.4 μM). EMSA and β-galactosidase assays were performed to survey possible
+effectors of SrpR with 35 available chemicals being tested. Only
+2,3,4-trichlorophenol was identified as an effector of SrpR. A regulation model
+was then proposed, representing a novel strategy for balancing the efflux systems
+with partially overlapping substrate profiles. This study highlights
+sophisticated interactions among the RND efflux pumps in a Pseudomonas strain,
+which may endow bacteria with certain advantages in fluctuant environment.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1111/mmi.14605 
+PMID: 32945019 
+

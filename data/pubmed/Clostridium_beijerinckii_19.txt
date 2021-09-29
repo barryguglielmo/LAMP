@@ -1,0 +1,51 @@
+
+1. Appl Environ Microbiol. 2020 Mar 18;86(7). pii: e02782-19. doi:
+10.1128/AEM.02782-19. Print 2020 Mar 18.
+
+Ferrous-Iron-Activated Transcriptional Factor AdhR Regulates Redox Homeostasis in
+Clostridium beijerinckii.
+
+Yang B(1)(2), Nie X(1), Xiao Y(1), Gu Y(1), Jiang W(1), Yang C(3).
+
+Author information: 
+(1)CAS-Key Laboratory of Synthetic Biology, Shanghai Institute of Plant
+Physiology and Ecology, Chinese Academy of Sciences, Shanghai, China.
+(2)University of Chinese Academy of Sciences, Beijing, China.
+(3)CAS-Key Laboratory of Synthetic Biology, Shanghai Institute of Plant
+Physiology and Ecology, Chinese Academy of Sciences, Shanghai, China
+chenyang@sibs.ac.cn.
+
+The AdhR regulatory protein is an activator of σ54-dependent transcription of
+adhA1 and adhA2 genes, which are required for alcohol synthesis in Clostridium
+beijerinckii Here, we identified the signal perceived by AdhR and determined the 
+regulatory mechanism of AdhR activity. By assaying the activity of AdhR in
+N-terminally truncated forms, a negative control mechanism of AdhR activity was
+identified in which the central AAA+ domain is subject to repression by the
+N-terminal GAF and PAS domains. Binding of Fe2+ to the GAF domain was found to
+relieve intramolecular repression and stimulate the ATPase activity of AdhR,
+allowing the AdhR to activate transcription. This control mechanism enables AdhR 
+to regulate transcription of adhA1 and adhA2 in response to cellular redox
+status. The mutants deficient in AdhR or σ54 showed large shifts in intracellular
+redox state indicated by the NADH/NAD+ ratio under conditions of increased
+electron availability or oxidative stress. We demonstrated that the
+Fe2+-activated transcriptional regulator AdhR and σ54 control alcohol synthesis
+to maintain redox homeostasis in clostridial cells. Expression of N-terminally
+truncated forms of AdhR resulted in improved solvent production by C.
+beijerinckii IMPORTANCE Solventogenic clostridia are anaerobic bacteria that can 
+produce butanol, ethanol, and acetone, which can be used as biofuels or building 
+block chemicals. Here, we show that AdhR, a σ54-dependent transcriptional
+activator, senses the intracellular redox status and controls alcohol synthesis
+in Clostridium beijerinckii AdhR provides a new example of a GAF domain
+coordinating a mononuclear non-heme iron to sense and transduce the redox signal.
+Our study reveals a previously unrecognized functional role of σ54 in control of 
+cellular redox balance and provides new insights into redox signaling and
+regulation in clostridia. Our results reveal AdhR as a novel engineering target
+for improving solvent production by C. beijerinckii and other solventogenic
+clostridia.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.02782-19 
+PMCID: PMC7082586
+PMID: 32005735 
+

@@ -1,0 +1,55 @@
+
+1. Front Cell Infect Microbiol. 2020 May 19;10:222. doi: 10.3389/fcimb.2020.00222.
+eCollection 2020.
+
+A Pangenome Approach for Discerning Species-Unique Gene Markers for
+Identifications of Streptococcus pneumoniae and Streptococcus pseudopneumoniae.
+
+Gonzales-Siles L(1)(2)(3), Karlsson R(1)(2)(3), Schmidt P(1), Salvà-Serra
+F(1)(2)(3)(4)(5), Jaén-Luchoro D(1)(3), Skovbjerg S(1)(2)(3), Moore
+ERB(1)(2)(3)(4), Gomila M(5).
+
+Author information: 
+(1)Department of Infectious Diseases, Institute of Biomedicine, Sahlgrenska
+Academy, University of Gothenburg, Gothenburg, Sweden.
+(2)Department of Clinical Microbiology, Sahlgrenska University Hospital,
+Gothenburg, Sweden.
+(3)Centre for Antibiotic Resistance Research (CARe), University of Gothenburg,
+Gothenburg, Sweden.
+(4)Culture Collection University of Gothenburg (CCUG), Sahlgrenska Academy,
+University of Gothenburg, Gothenburg, Sweden.
+(5)Department of Biology-Microbiology, Universitat de les Illes Balears, Palma,
+Spain.
+
+Correct identifications of isolates and strains of the Mitis-Group of the genus
+Streptococcus are particularly difficult, due to high genetic similarity,
+resulting from horizontal gene transfer and homologous recombination, and
+unreliable phenotypic and genotypic biomarkers for differentiating the species.
+Streptococcus pneumoniae and Streptococcus pseudopneumoniae are the most closely 
+related species of the clade. In this study, publicly-available genome sequences 
+for Streptococcus pneumoniae and S. pseudopneumoniae were analyzed, using a
+pangenomic approach, to find candidates for species-unique gene markers; ten
+species-unique genes for S. pneumoniae and nine for S. pseudopneumoniae were
+identified. These species-unique gene marker candidates were verified by PCR
+assays for identifying S. pneumoniae and S. pseudopneumoniae strains isolated
+from clinical samples. All determined species-level unique gene markers for S.
+pneumoniae were detected in all S. pneumoniae clinical isolates, whereas fewer of
+the unique S. pseudopneumoniae gene markers were present in more than 95% of the 
+clinical isolates. In parallel, taxonomic identifications of the clinical
+isolates were confirmed, using conventional optochin sensitivity testing,
+targeted PCR-detection for the "Xisco" gene, as well as genomic ANIb similarity
+analyses for the genome sequences of selected strains. Using mass
+spectrometry-proteomics, species-specific peptide matches were observed for four 
+of the S. pneumoniae gene markers and for three of the S. pseudopneumoniae gene
+markers. Application of multiple species-level unique biomarkers of S. pneumoniae
+and S. pseudopneumoniae, is proposed as a protocol for the routine clinical
+laboratory for improved, reliable differentiation, and identification of these
+pathogenic and commensal species.
+
+Copyright © 2020 Gonzales-Siles, Karlsson, Schmidt, Salvà-Serra, Jaén-Luchoro,
+Skovbjerg, Moore and Gomila.
+
+DOI: 10.3389/fcimb.2020.00222 
+PMCID: PMC7248185
+PMID: 32509595 
+

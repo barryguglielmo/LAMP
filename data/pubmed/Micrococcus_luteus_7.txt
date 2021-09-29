@@ -1,0 +1,45 @@
+
+1. J Colloid Interface Sci. 2020 Aug 29;582(Pt B):764-772. doi:
+10.1016/j.jcis.2020.08.107. [Epub ahead of print]
+
+Supported lysozyme for improved antimicrobial surface protection.
+
+Beaussart A(1), Retourney C(2), Quilès F(2), Dos Santos Morais R(3), Gaiani C(3),
+Fiérobe HP(4), El-Kirat-Chatel S(5).
+
+Author information: 
+(1)Université de Lorraine, CNRS, LIEC, F-54000 Nancy, France.
+(2)Université de Lorraine, CNRS, LCPME, F-54000 Nancy, France.
+(3)Université de Lorraine, LIBio, F-54000 Nancy, France.
+(4)Aix Marseille Univ, CNRS, LCB, F-13420 Marseille, France.
+(5)Université de Lorraine, CNRS, LCPME, F-54000 Nancy, France. Electronic
+address: elkirat1@univ-lorraine.fr.
+
+Surface protection against biofilms is still an open challenge. Current
+strategies rely on coatings that are meant to guarantee antiadhesive or
+antimicrobial effects. While it seems difficult to ensure antiadhesion in complex
+media and against all the adhesive arsenal of microbes, strategies based on
+antimicrobials lack from sustainable functionalization methodologies to allow the
+perfect efficiency of the grafted molecules. Here we used the high affinity
+ligand-receptor interaction between biotin and streptavidin to functionalize
+surfaces with lysozyme, an enzyme that degrades the bacterial peptidoglycan cell 
+wall. Biotinylated lysozyme was grafted on surfaces coated with streptavidin
+receptors. Using atomic force microscopy (AFM)-based single molecule force
+spectroscopy, we showed that grafting through ligand-receptor interaction allows 
+the correct orientation of the enzyme on the substrate for enhanced activity
+towards the microbial target. The antibacterial efficiency was tested against
+Micrococcus luteus and revealed that surface protection was improved when
+lysozyme was grafted through the ligand-receptor interaction. These results
+suggest that bio-molecular interactions are promising for a sustainable grafting 
+of antimicrobial agents on surfaces.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.jcis.2020.08.107 
+PMID: 32916574 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

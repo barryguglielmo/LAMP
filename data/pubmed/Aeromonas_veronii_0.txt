@@ -1,0 +1,44 @@
+
+1. Ann N Y Acad Sci. 2020 Oct 2. doi: 10.1111/nyas.14480. [Epub ahead of print]
+
+Comparative proteomic analysis reveals novel potential virulence factors of
+Aeromonas veronii.
+
+Yang BT(1)(2), Sun YF(1), Cao LN(1), Raza SHA(3), Zhou JH(1), Li YN(1), Sun
+WW(1), Wang GQ(1), Shan XF(1), Kang YH(1), Qian AD(1).
+
+Author information: 
+(1)College of Animal Science and Technology, Jilin Provincial Engineering
+Research Center of Animal Probiotics, Key Laboratory of Animal Production and
+Product Quality Safety of Ministry of Education, Jilin Agricultural University,
+Changchun, Jilin, China.
+(2)College of Life Science, Changchun Sci-Tech University, Changchun, Jilin,
+China.
+(3)College of Animal Science and Technology, Northwest A&F University, Yangling, 
+Shanxi, China.
+
+Aeromonas veronii is an important zoonotic and aquatic pathogen. An increasing
+number of reports indicate that it has caused substantial economic losses in the 
+aquaculture industry, in addition to threatening human health. However, little is
+known about its pathogenesis. Exploration of new virulence factors of A. veronii 
+would be helpful for further understanding its pathogenesis. Hence, we
+comparatively analyzed the proteomes of virulent, attenuated, and avirulent
+strains of A. veronii using tandem mass tag (TMT) protein labeling and found
+numerous proteins either up- or downregulated in the virulent strain. Gene
+Ontology and Kyoto Encyclopedia of Genes and Genomes pathway analyses showed that
+these differentially expressed proteins (DEPs) were involved mainly in pathways
+associated with bacterial chemotaxis and microbial metabolism in diverse
+environments. Furthermore, the expression levels of lysine decarboxylase,
+endoribonuclease, maltoporin, pullulanase, and aerolysin were positively
+correlated with the virulence of the strains, suggesting that their function may 
+be closely related to the virulence of A. veronii. The results of qRT-PCR and
+multiple reaction monitoring for some DEPs were consistent with the results of
+TMT protein labeling. These results suggest that these DEPs may be novel
+potential virulence factors and will help to further understand the pathogenesis 
+of A. veronii.
+
+© 2020 New York Academy of Sciences.
+
+DOI: 10.1111/nyas.14480 
+PMID: 33009679 
+

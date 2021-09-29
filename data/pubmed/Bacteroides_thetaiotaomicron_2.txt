@@ -1,0 +1,55 @@
+
+1. mSystems. 2020 Sep 1;5(5). pii: e00252-20. doi: 10.1128/mSystems.00252-20.
+
+Metabolic Feedback Inhibition Influences Metabolite Secretion by the Human Gut
+Symbiont Bacteroides thetaiotaomicron.
+
+Catlett JL(1), Catazaro J(2), Cashman M(3)(4), Carr S(1), Powers R(2)(5), Cohen
+MB(3), Buan NR(6)(5).
+
+Author information: 
+(1)Department of Biochemistry, University of Nebraska-Lincoln, Lincoln, Nebraska,
+USA.
+(2)Department of Chemistry, University of Nebraska-Lincoln, Lincoln, Nebraska,
+USA.
+(3)Department of Computer Science, Iowa State University, Ames, Iowa, USA.
+(4)Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA.
+(5)Nebraska Center for Integrated Biomolecular Communication, Lincoln, Nebraska, 
+USA.
+(6)Department of Biochemistry, University of Nebraska-Lincoln, Lincoln, Nebraska,
+USA nbuan@unl.edu.
+
+Microbial metabolism and trophic interactions between microbes give rise to
+complex multispecies communities in microbe-host systems. Bacteroides
+thetaiotaomicron (B. theta) is a human gut symbiont thought to play an important 
+role in maintaining host health. Untargeted nuclear magnetic resonance
+metabolomics revealed B. theta secretes specific organic acids and amino acids in
+defined minimal medium. Physiological concentrations of acetate and formate found
+in the human intestinal tract were shown to cause dose-dependent changes in
+secretion of metabolites known to play roles in host nutrition and pathogenesis. 
+While secretion fluxes varied, biomass yield was unchanged, suggesting feedback
+inhibition does not affect metabolic bioenergetics but instead redirects carbon
+and energy to CO2 and H2 Flux balance analysis modeling showed increased flux
+through CO2-producing reactions under glucose-limiting growth conditions. The
+metabolic dynamics observed for B. theta, a keystone symbiont organism,
+underscores the need for metabolic modeling to complement genomic predictions of 
+microbial metabolism to infer mechanisms of microbe-microbe and microbe-host
+interactions.IMPORTANCE Bacteroides is a highly abundant taxon in the human gut, 
+and Bacteroides thetaiotaomicron (B. theta) is a ubiquitous human symbiont that
+colonizes the host early in development and persists throughout its life span.
+The phenotypic plasticity of keystone organisms such as B. theta is important to 
+understand in order to predict phenotype(s) and metabolic interactions under
+changing nutrient conditions such as those that occur in complex gut communities.
+Our study shows B. theta prioritizes energy conservation and suppresses secretion
+of "overflow metabolites" such as organic acids and amino acids when
+concentrations of acetate are high. Secreted metabolites, especially amino acids,
+can be a source of nutrients or signals for the host or other microbes in the
+community. Our study suggests that when metabolically stressed by acetate, B.
+theta stops sharing with its ecological partners.
+
+Copyright © 2020 Catlett et al.
+
+DOI: 10.1128/mSystems.00252-20 
+PMCID: PMC7470985
+PMID: 32873608 
+

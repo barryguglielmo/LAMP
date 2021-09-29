@@ -1,0 +1,56 @@
+
+1. mSphere. 2020 Sep 16;5(5). pii: e00376-20. doi: 10.1128/mSphere.00376-20.
+
+Genomic Characterization of Invasive Meningococcal Serogroup B Isolates and
+Estimation of 4CMenB Vaccine Coverage in Finland.
+
+Bodini M(1), Brozzi A(1), Giuliani M(1), Nohynek H(2), Vainio A(2), Kuusi M(2),
+De Paola R(1), Pizza M(1), Medini D(1), Toropainen M(2), Serino L(1), Muzzi A(3).
+
+Author information: 
+(1)GSK, Siena, Italy.
+(2)Finnish Institute for Health and Welfare (THL), Helsinki, Finland.
+(3)GSK, Siena, Italy alessandro.x.muzzi@gsk.com.
+
+Invasive meningococcal disease (IMD) caused by Neisseria meningitidis is a
+significant cause of morbidity and mortality worldwide. In Finland, the incidence
+rate of IMD is low, with meningococcal serogroup B (MenB) accounting for around
+one-third of IMD cases annually. The aim of this study was to investigate the
+genetic variability of invasive MenB isolates collected in Finland between 2010
+and 2017 (n = 81), including the genes encoding the 4-component MenB vaccine
+(4CMenB; Bexsero; GSK) antigens and their promoters, and to evaluate the 4CMenB
+potential coverage. Whole-genome sequencing was performed. The meningococcal
+antigen typing system (MATS) was used to characterize MenB isolates and predict
+the potential coverage of 4CMenB. MATS was complemented by genetic MATS (gMATS)
+through association of antigen genotyping and phenotypic MATS results. Multilocus
+sequence typing revealed predominance of the ST-41/44 clonal complex among which 
+sequence type (ST)-303 was the most common and was predicted to be covered by
+4CMenB. Of the 4 major vaccine antigens, the factor H-binding protein variant 1, 
+neisserial heparin binding antigen peptide 2, and the PorA P1.4 antigen were
+predominant, whereas Neisseria adhesin A was present in only 4% of the 81
+isolates. MATS and gMATS 4CMenB strain coverage predictions were 78% and 86%,
+respectively, in a subpanel of 60 isolates collected during 2010 to 2014, with a 
+gMATS prediction of 84% for all 81 isolates. The results suggest that 4CMenB
+could reduce the burden of IMD in Finland and that gMATS could be applied to
+monitor vaccine strain coverage and predict vaccine effectiveness.IMPORTANCE
+4CMenB is a 4-component vaccine used against invasive meningococcal disease (IMD)
+caused by Neisseria meningitidis serogroup B (MenB). We investigated the genetic 
+variability of MenB in Finland and evaluated 4CMenB strain coverage by 2
+different methods: MATS (meningococcal antigen typing system) and gMATS (genetic 
+MATS). In a set of MenB isolates, 78% (MATS) and 86% (gMATS) were predicted as
+covered by 4CMenB, suggesting that use of 4CMenB would help reduce IMD incidence 
+in Finland. MATS has been used in 13 countries worldwide, generating information 
+on phenotypic characteristics that could infer protection by 4CMenB. Based on
+these data and genetic information, gMATS coverage predictions can be made. gMATS
+predicts coverage consistent with MATS for about 94% of tested strains. Unlike
+MATS, gMATS does not require live isolates, thus allowing the analysis also of
+noncultivable strains, making the coverage predictions more accurate. Therefore, 
+gMATS can replace MATS to assess 4CMenB coverage, including in regions with no
+prior MATS data.
+
+Copyright © 2020 Bodini et al.
+
+DOI: 10.1128/mSphere.00376-20 
+PMCID: PMC7494829
+PMID: 32938694 
+

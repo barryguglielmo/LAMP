@@ -1,0 +1,35 @@
+
+1. CRISPR J. 2020 Aug;3(4):299-313. doi: 10.1089/crispr.2020.0032.
+
+Targeted RNA Knockdown by a Type III CRISPR-Cas Complex in Zebrafish.
+
+Fricke T(1), Smalakyte D(2), Lapinski M(1), Pateria A(1), Weige C(1), Pastor
+M(3), Kolano A(1), Winata C(1), Siksnys V(2), Tamulaitis G(2), Bochtler M(1)(3).
+
+Author information: 
+(1)International Institute of Molecular and Cell Biology, Warsaw, Poland;
+Institute of Biochemistry and Biophysics, Warsaw, Poland.
+(2)Institute of Biotechnology, Vilnius University, Vilnius, Lithuania; Institute 
+of Biochemistry and Biophysics, Warsaw, Poland.
+(3)Polish Academy of Sciences, Institute of Biochemistry and Biophysics, Warsaw, 
+Poland.
+
+RNA interference is a powerful experimental tool for RNA knockdown, but not all
+organisms are amenable. Here, we provide a proof of principle demonstration that 
+a type III Csm effector complex can be used for programmable mRNA transcript
+degradation in eukaryotes. In zebrafish, Streptococcus thermophilus Csm complex
+(StCsm) proved effective for knockdown of maternally expressed EGFP in germ cells
+of Tg(ddx4:ddx4-EGFP) fish. It also led to significant, albeit less drastic,
+fluorescence reduction at one day postfertilization in Tg(myl7:GFP) and
+Tg(fli1:EGFP) fish that express EGFP zygotically. StCsm targeted against the
+endogenous tdgf1 elicited the characteristic one-eyed phenotype with greater than
+50% penetrance, and hence with similar efficiency to morpholino-mediated
+knockdown. We conclude that Csm-mediated knockdown is very efficient for maternal
+transcripts and can also be used for mixed maternal/early zygotic and early
+zygotic transcripts, in some cases reaching comparable efficiency to
+morpholino-based knockdown without significant off-target effects.
+
+DOI: 10.1089/crispr.2020.0032 
+PMCID: PMC7469701
+PMID: 32833532 
+

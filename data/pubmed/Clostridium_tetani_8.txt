@@ -1,0 +1,46 @@
+
+1. Protein Pept Lett. 2020 May 28. doi: 10.2174/0929866527666200528113327. [Epub
+ahead of print]
+
+Expression and Purification of Tetanus Toxin Fragment C in Escherichia coli
+BL21(DE3).
+
+Chai P(1), Pu X(1), Li J(2), Xia X(1), Ge J(2), Luo A(1), Su H(1), Zhang W(1), Ma
+J(1).
+
+Author information: 
+(1)School of Life Science and Engineering, Lanzhou University of Technology,
+Lanzhou 730050. China.
+(2)Jiangsu Theravac Bio-pharmaceutical CO., Ltd, Nanjing 210042. China.
+
+BACKGROUND: Tetanus is an infectious disease caused by clostridium tetani
+secreting tetanus toxin in anaerobic environment. The fragment C of Tetanus toxin
+(TTc) has been widely studied as a candidate vaccine to replace the existing
+tetanus toxoid vaccine.
+OBJECTIVE: In this study, we established a simple method to purify recombinant
+protein TTc with ion-exchange chromatography from Escherichia coli expression
+systems.
+METHODS: The TTc gene sequence was cloned into pET26b (+) vector and transferred 
+to E. coli BL21 (DE3) for expression. The fermentation conditions (IPTG
+concentration, Induction temperature, Induction time) were optimized to obtain
+more soluble proteins. The soluble proteins were purified by Anion exchange
+chromatography and Cation exchange chromatography. The sequence of columns in the
+purification process was discussed. Finally, the stability of purified TTc
+protein were determined, the secondary structure of the purified TTc protein was 
+determined by circular dichroism. The molecular weight of the purified TTc
+protein was determined by liquid chromatograph-mass spectrometer. Furthermore, we
+verified the immunogenicity of the purified protein in mice.
+RESULTS: the purity of TTc improved from 34% to 88 % after the first anion
+exchange column, and the final yield of recombinant TTc (purity > 95 %) can reach
+84.79 % after the following cation exchange chromatography. The recombinant TTc
+had a molecular weight of 51.737 KDa, was stable at 4 °C and weak alkaline
+environment, was a β-sheet secondary structure, and had strong immunogenicity.
+CONCLUSION: The purification method we developed might be an efficient method for
+the industrial production of tetanus recombinant TTc vaccine.
+
+Copyright© Bentham Science Publishers; For any queries, please email at
+epub@benthamscience.net.
+
+DOI: 10.2174/0929866527666200528113327 
+PMID: 32484098 
+

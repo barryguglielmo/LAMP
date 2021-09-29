@@ -1,0 +1,46 @@
+
+1. Microorganisms. 2020 Jun 24;8(6). pii: E948. doi: 10.3390/microorganisms8060948.
+
+Plant Growth Enhancement using Rhizospheric Halotolerant Phosphate Solubilizing
+Bacterium Bacillus licheniformis QA1 and Enterobacter asburiae QF11 Isolated from
+Chenopodium quinoa Willd.
+
+Mahdi I(1)(2), Fahsi N(1)(3), Hafidi M(2)(4), Allaoui A(4)(5), Biskri L(1)(5).
+
+Author information: 
+(1)Medical Application Interface Center (CIAM), Mohammed VI Polytechnic
+University (UM6P), 43150 Benguérir, Morocco.
+(2)Laboratory of Microbial Biotechnologies, Agrosciences and Environment
+(BioMAgE), Faculty of Sciences Semlalia, Cadi Ayyad University, 40000 Marrakesh, 
+Morocco.
+(3)Laboratory of Genetic, Neuroendocrinology and Biotechnology, Faculty of
+Sciences, Ibn Tofail University, 14000 Kénitra, Morocco.
+(4)Microbiome Team and African genome center (AGC), AgrobioSciences department
+(AgBS), Mohammed VI Polytechnic University (UM6P), 43150 Benguérir, Morocco.
+(5)Laboratory of Molecular Microbiology, CIPEM (Coalition Center, for Innovation,
+and Prevention of Epidemies in Morocco) Mohammed VI Polytechnic University
+(UM6P), 43150 Benguérir, Morocco.
+
+Plant growth-promoting rhizobacteria represent a promising solution to enhancing 
+agricultural productivity. Here, we screened phosphate solubilizing bacteria from
+the rhizospheric soil of Chenopodium quinoa Willd and assessed their plant-growth
+promoting rhizobacteria (PGPR) properties including production of indole-3-acetic
+acid (IAA), siderophores, hydrogen cyanide (HCN), ammonia and extracellular
+enzymes. We also investigated their tolerance to salt stress and their capacity
+to form biofilms. Two isolated strains, named QA1 and QF11, solubilized phosphate
+up to 346 mg/L, produced IAA up to 795.31 µg/mL, and tolerated up to 2 M NaCl in 
+vitro. 16S rRNA and Cpn60 gene sequencing revealed that QA1 and QF11 belong to
+the genus Bacillus licheniformis and Enterobacter asburiae, respectively. In
+vivo, early plant growth potential showed that quinoa seeds inoculated either
+with QA1 or QF11 displayed higher germination rates and increased seedling
+growth. Under saline irrigation conditions, QA1 enhanced plant
+development/growth. Inoculation with QA1 increased leaf chlorophyll content
+index, enhanced P and K+ uptake and decreased plant Na+ uptake. Likewise, plants 
+inoculated with QF11 strain accumulated more K+ and had reduced Na+ content.
+Collectively, our findings support the use of QA1 and QF11 as potential
+biofertilizers.
+
+DOI: 10.3390/microorganisms8060948 
+PMCID: PMC7356859
+PMID: 32599701 
+

@@ -1,0 +1,45 @@
+
+1. Mol Oral Microbiol. 2020 Sep 30. doi: 10.1111/omi.12316. [Epub ahead of print]
+
+Identification of Streptococcus mutans genes involved in fluoride resistance by
+screening of a transposon mutant library.
+
+Yu J(1), Wang Y(1), Han D(1), Cao W(1), Zheng L(2), Xie Z(1), Liu H(1).
+
+Author information: 
+(1)MOE Key Laboratory of Industrial Fermentation Microbiology, College of
+Biotechnology, Tianjin University of Science & Technology, 300457, Tianjin,
+China.
+(2)Department of Pathogen Biology, College of Basic Medical Sciences, China
+Medical University, Shenyang, China.
+
+Fluoride has been used as an effective anti-caries agent for more than seventy
+years, which might result in the emergence of fluoride resistant strains.
+However, the fluoride resistance mechanism and the cariogenic properties of
+fluoride resistant mutant for cariogenic bacterial species Streptococcus mutans
+remain largely unknown. We describe here the construction and characterization of
+a mariner-based transposon system designed to be used in S. mutans, which is also
+potentially applicable to other streptococci. To identify genetic determinants of
+fluoride resistance in S. mutans, we constructed a library of S. mutans
+transposon insertion mutants and screened this library to identify mutants
+exhibiting fluoride resistance phenotype. Two mutants were found to carry
+transposon insertion in two different genetic loci (smu.396 and smu.1291c)
+respectively. Our subsequent genetic study indicates the fluoride resistant
+phenotype for the mutant with the insertion in smu.1291c is resulting from the
+constitutive overexpression of downstream operon smu.1290c-89c, which is
+consistent with the previous reports. We also demonstrate for the first time that
+the deletion of smu.396 is responsible for the fluoride resistant phenotype and
+that the combining of smu1290c-89c overexpression and smu.396 deletion in one
+strain could attribute an additive effect on the fluoride resistance. In
+addition, our results suggest that the biological fitness of those fluoride
+resistant mutants is reduced compared to that of wild-type strain. Overall, our
+identification and characterization of genetic determinants responsible for
+fluoride resistance in S. mutans expand our understanding of the fluoride
+resistance mechanism and the biological consequence of the fluoride resistance
+strains.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1111/omi.12316 
+PMID: 33000897 
+

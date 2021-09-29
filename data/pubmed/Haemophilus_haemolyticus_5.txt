@@ -1,0 +1,48 @@
+
+1. Sci Rep. 2020 Jan 20;10(1):632. doi: 10.1038/s41598-020-57450-8.
+
+Oropharyngeal microbiome of a college population following a meningococcal
+disease outbreak.
+
+Retchless AC(1), Kretz CB(2)(3), Rodriguez-Rivera LD(2), Chen A(2), Soeters
+HM(2), Whaley MJ(2), Wang X(4).
+
+Author information: 
+(1)Division of Bacterial Diseases, National Center for Immunization and
+Respiratory Diseases, Centers for Disease Control and Prevention, Atlanta, GA,
+USA. ymw8@cdc.gov.
+(2)Division of Bacterial Diseases, National Center for Immunization and
+Respiratory Diseases, Centers for Disease Control and Prevention, Atlanta, GA,
+USA.
+(3)Division of Scientific Education and Professional Development, Centers for
+Disease Control and Prevention, Atlanta, GA, USA.
+(4)Division of Bacterial Diseases, National Center for Immunization and
+Respiratory Diseases, Centers for Disease Control and Prevention, Atlanta, GA,
+USA. gqe8@cdc.gov.
+
+Asymptomatic oropharyngeal carriage of Neisseria meningitidis peaks in
+adolescence and young adulthood. Following a meningococcal disease outbreak at a 
+U.S. college, we profiled the oropharyngeal microbiomes of 158 students to
+identify associations between bacterial community composition and meningococcal
+carriage or risk factors for carriage, including male gender, smoking, and
+frequent social mixing. Metagenomic shotgun sequencing identified 268 bacterial
+taxa at the genus or species level, with Streptococcus, Veillonella, and Rothia
+species being most abundant. Microbiome composition showed weak associations with
+meningococcal carriage and risk factors for carriage. N. meningitidis abundance
+was positively correlated with that of Fusobacterium nucleatum, consistent with
+hypothesized propionic acid cross-feeding. Additional species had positive
+abundance correlations with N. meningitidis, including Aggregatibacter
+aphrophilus, Campylobacter rectus, Catonella morbi, Haemophilus haemolyticus, and
+Parvimonas micra. N. meningitidis abundance was negatively correlated with
+unidentified Veillonella species. Several of these species are commonly found in 
+dental plaque, while N. meningitidis is primarily found in the pharynx,
+suggesting that ecological interactions extend throughout the oral cavity.
+Although risk factors for meningococcal carriage do not strongly impact most
+bacterial species in the oropharynx, variation in the upper respiratory tract
+microbiome may create conditions that are more or less favorable for N.
+meningitidis carriage.
+
+DOI: 10.1038/s41598-020-57450-8 
+PMCID: PMC6971049
+PMID: 31959912 
+

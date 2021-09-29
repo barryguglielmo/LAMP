@@ -1,0 +1,41 @@
+
+1. Int J Syst Evol Microbiol. 2020 Mar;70(3):1684-1690. doi: 10.1099/ijsem.0.003958.
+
+Senegalimassilia faecalis sp. nov., an anaerobic actinobacterium isolated from
+human faeces, and emended description of the genus Senegalimassilia.
+
+Han KI(1), Kim JS(1), Lee KC(1), Eom MK(1), Suh MK(1), Kim HS(1), Park SH(1), Lee
+JH(1), Kang SW(1), Park JE(1), Oh BS(1), Yu SY(1), Choi SH(1), Lee DH(2), Yoon
+H(2), Kim BY(3), Lee JH(3), Lee JS(1)(4).
+
+Author information: 
+(1)Korean Collection for Type Cultures, Korea Research Institute of Bioscience
+and Biotechnology, 181 Ipsin-gil, Jeongeup-si, Jeollabuk-do 56212, Republic of
+Korea.
+(2)Seoul National University Bundang Hospital, 82 Gumi-ro, 173 Beon-gil,
+Bundang-Gu, Seongnam-si, Gyeonggi-do 13620, Republic of Korea.
+(3)ChunLab, Inc., 2477 Nambusunhwan-ro, Seocho-gu, Seoul 06725, Republic of
+Korea.
+(4)University of Science and Technology (UST), 217 Gajeong-ro, Yuseong-gu,
+Daejeon 34113, Republic of Korea.
+
+A novel actinobacterial strain, designated KGMB04484T, was isolated from healthy 
+human faeces sampled in the Republic of Korea. Cells of strain KGMB04484T were
+strictly anaerobic, Gram-stain-positive, catalase-positive, oxidase-negative,
+non-motile coccobacilli and formed tiny colonies on Columbia agar with 5 % horse 
+blood. On the basis of 16S rRNA gene sequence similarity, strain KGMB04484T was
+affiliated with the genus Senegalimassilia in the family Coriobacteriaceae and
+its closest relative was Senegalimassilia anaerobia JC110T (96.28 % sequence
+similarity). The DNA G+C content of strain KGMB04484T was 61.2 mol%. The polar
+lipids contained diphosphatidylglycerol, phosphatidylglycerol, an unidentified
+phospholipid, an unidentified aminolipid and three unidentified glycolipids. The 
+predominant cellular fatty acids (>10 %) of strain KGMB04484T were C14 : 0,
+C16 : 0 and C16 : 0 dimethyl acetal. Based on its phylogenetic, physiological and
+chemotaxonomic characteristics, strain KGMB04484T is considered to represent a
+novel species within the genus Senegalimassilia, for which the name
+Senegalimassilia faecalis sp. nov. is proposed. The type strain is KGMB04484T
+(=KCTC 15721T=CCUG 72347T).
+
+DOI: 10.1099/ijsem.0.003958 
+PMID: 31913113  [Indexed for MEDLINE]
+

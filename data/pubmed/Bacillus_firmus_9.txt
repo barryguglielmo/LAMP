@@ -1,0 +1,41 @@
+
+1. G3 (Bethesda). 2020 Mar 5;10(3):881-890. doi: 10.1534/g3.119.400716.
+
+Whole Genome Sequencing and Comparative Genomics of Two Nematicidal Bacillus
+Strains Reveals a Wide Range of Possible Virulence Factors.
+
+Susič N(1), Janežič S(2), Rupnik M(2), Stare BG(3).
+
+Author information: 
+(1)Agricultural Institute of Slovenia, Plant Protection Department, Ljubljana,
+Slovenia; and.
+(2)Centre for Medical Microbiology, Department for Microbiological Research,
+National Laboratory of Health, Environment and Food (NLZOH), Maribor, Slovenia.
+(3)Agricultural Institute of Slovenia, Plant Protection Department, Ljubljana,
+Slovenia; and barbara.geric@kis.si.
+
+Erratum in
+    G3 (Bethesda). 2020 Sep 2;10(9):3465.
+
+Bacillus firmus nematicidal bacterial strains are used to control plant parasitic
+nematode infestation of crops in agricultural production. Proteases are presumed 
+to be the primary nematode virulence factors in nematicidal B. firmus degrading
+the nematode cuticle and other organs. We determined and compared the whole
+genome sequences of two nematicidal strains. Comparative genomics with a
+particular focus on possible virulence determinants revealed a wider range of
+possible virulence factors in a B. firmus isolate from a commercial bionematicide
+and a wild type Bacillus sp. isolate with nematicidal activity. The resulting 4.6
+Mb B. firmus I-1582 and 5.3 Mb Bacillus sp. ZZV12-4809 genome assemblies contain 
+respectively 18 and 19 homologs to nematode-virulent proteases, two
+nematode-virulent chitinase homologs in ZZV12-4809 and 28 and 36 secondary
+metabolite biosynthetic clusters, projected to encode antibiotics, small
+peptides, toxins and siderophores. The results of this study point to the genetic
+capability of B. firmus and related species for nematode virulence through a
+range of direct and indirect mechanisms.
+
+Copyright © 2020 Susic et al.
+
+DOI: 10.1534/g3.119.400716 
+PMCID: PMC7056983
+PMID: 31919110 
+

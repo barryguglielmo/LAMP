@@ -1,0 +1,75 @@
+
+1. Gastroenterology. 2020 Sep 10. pii: S0016-5085(20)35129-5. doi:
+10.1053/j.gastro.2020.09.003. [Epub ahead of print]
+
+Streptococcus thermophilus inhibits colorectal tumorigenesis through secreting
+β-galactosidase.
+
+Li Q(1), Hu W(2), Liu WX(3), Zhao LY(3), Huang D(2), Liu XD(2), Chan H(2), Zhang 
+Y(2), Zeng JD(2), Coker OO(3), Kang W(4), Man Ng SS(5), Zhang L(1), Wong SH(3),
+Gin T(2), Vai Chan MT(6), Wu JL(7), Yu J(8), Kei Wu WK(9).
+
+Author information: 
+(1)Department of Anaesthesia and Intensive Care and Peter Hung Pain Research
+Institute, The Chinese University of Hong Kong, Hong Kong, China; State Key
+Laboratory of Digestive Diseases, Li Ka Shing Institute of Health Sciences, The
+Chinese University of Hong Kong, Hong Kong, China.
+(2)Department of Anaesthesia and Intensive Care and Peter Hung Pain Research
+Institute, The Chinese University of Hong Kong, Hong Kong, China.
+(3)Department of Medicine and Therapeutics, The Chinese University of Hong Kong, 
+Hong Kong, China; State Key Laboratory of Digestive Diseases, Li Ka Shing
+Institute of Health Sciences, The Chinese University of Hong Kong, Hong Kong,
+China.
+(4)Department of Anatomical and Cellular Pathology, The Chinese University of
+Hong Kong, Hong Kong, China.
+(5)Department of Surgery, The Chinese University of Hong Kong, Hong Kong, China.
+(6)Department of Anaesthesia and Intensive Care and Peter Hung Pain Research
+Institute, The Chinese University of Hong Kong, Hong Kong, China. Electronic
+address: mtvchan@cuhk.edu.hk.
+(7)State Key Laboratory of Quality Research in Chinese Medicines, Macau
+University of Science and Technology, Taipa, Macao. Electronic address:
+jlwu@must.edu.moand.
+(8)Department of Medicine and Therapeutics, The Chinese University of Hong Kong, 
+Hong Kong, China; State Key Laboratory of Digestive Diseases, Li Ka Shing
+Institute of Health Sciences, The Chinese University of Hong Kong, Hong Kong,
+China. Electronic address: junyu@cuhk.edu.hk.
+(9)Department of Anaesthesia and Intensive Care and Peter Hung Pain Research
+Institute, The Chinese University of Hong Kong, Hong Kong, China; State Key
+Laboratory of Digestive Diseases, Li Ka Shing Institute of Health Sciences, The
+Chinese University of Hong Kong, Hong Kong, China. Electronic address:
+wukakei@cuhk.edu.hk.
+
+BACKGROUND & AIMS: Streptococcus thermophilus was identified to be depleted in
+patients with colorectal cancer (CRC) by shotgun metagenomic sequencing of 526
+multi-cohort fecal samples. Here, we aim to investigate if this bacterium could
+act as a prophylactics for CRC prevention.
+METHODS: The anti-tumor effects of S. thermophilus were assessed in cultured
+colonic epithelial cells and in two murine models of intestinal tumorigenesis.
+The tumor-suppressive protein produced by S. thermophilus was identified by mass 
+spectrometry and followed by β-galactosidase activity assay. The mutant strain of
+S. thermophilus was constructed by homologous recombination. The effect of S.
+thermophilus on the gut microbiota composition was assessed by shot-gun
+metagenomic sequencing.
+RESULTS: Oral gavage of S. thermophilus significantly reduced tumor formation in 
+both Apcmin/+ and azoxymethane-injected mice. Co-incubation with S. thermophilus 
+or its conditioned medium decreased the proliferation of cultured CRC cells.
+β-galactosidase was identified as the critical protein produced by S.
+thermophilus by mass-spectrometry screening and β-galactosidase activity assay.
+β-galactosidase secreted by S. thermophilus inhibited cell proliferation, lowered
+colony formation, induced cell cycle arrest, and promoted apoptosis of cultured
+CRC cells and retarded the growth of CRC xenograft. The mutant S. thermophilus
+without functional β-galactosidase lost its tumor-suppressive effect. Also, S.
+thermophilus increased the gut abundance of known probiotics, including
+Bifidobacterium and Lactobacillus via β-galactosidase. β-galactosidase-dependent 
+production of galactose interfered with energy homeostasis to activate oxidative 
+phosphorylation and downregulate the Hippo pathways kinases, which partially
+mediated the anticancer effects of S. thermophilus.
+CONCLUSION: S. thermophilus is a novel prophylactics for CRC prevention in mice. 
+The tumor-suppressive effect of S. thermophilus is mediated at least by the
+secretion of β-galactosidase.
+
+Copyright © 2020 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.gastro.2020.09.003 
+PMID: 32920015 
+

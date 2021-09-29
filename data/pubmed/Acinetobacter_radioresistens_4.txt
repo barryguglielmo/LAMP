@@ -1,0 +1,43 @@
+
+1. Sci Rep. 2019 Dec 30;9(1):20365. doi: 10.1038/s41598-019-56733-z.
+
+Exogenous and endogenous microbiomes of wild-caught Phormia regina (Diptera:
+Calliphoridae) flies from a suburban farm by 16S rRNA gene sequencing.
+
+Deguenon JM(1), Travanty N(1), Zhu J(1), Carr A(1), Denning S(1), Reiskind MH(1),
+Watson DW(1), Michael Roe R(1)(2), Ponnusamy L(3)(4).
+
+Author information: 
+(1)Department of Entomology and Plant Pathology, 3230 Ligon Street, Campus Box
+7647, North Carolina State University, Raleigh, NC, 27695-7647, USA.
+(2)Comparative Medicine Institute, North Carolina State University, Raleigh, NC, 
+27695, USA.
+(3)Department of Entomology and Plant Pathology, 3230 Ligon Street, Campus Box
+7647, North Carolina State University, Raleigh, NC, 27695-7647, USA.
+lponnus@ncsu.edu.
+(4)Comparative Medicine Institute, North Carolina State University, Raleigh, NC, 
+27695, USA. lponnus@ncsu.edu.
+
+The black blow fly, Phormia regina (Meigen) (Diptera: Calliphoridae) is one of
+the most abundant carrion flies in North America. Calliphorids are important in
+agriculture and animal production, veterinary sciences, forensics and medical
+entomology. While the role of flies in the epidemiology of human and animal
+diseases is an active area of research, little is known about the microorganisms 
+associated with these insects. We examined the diversity of wild-caught black
+blow fly endogenous (internal body) and exogenous (external body) microbial
+communities using 16S rRNA gene sequencing. Overall, 27 phyla, 171 families and
+533 genera were detected, and diversity was significantly higher (P < 0.05) on
+external body surfaces. At the genus level, Dysgonomonas, Ignatzschineria,
+Acinetobacter, Vagococcus, Myroides, and Wohlfahrtiimonas were predominant.
+Cloning and sequencing of nearly full-length fragments of the 16S rRNA gene
+showed that some of the species identified are known to be pathogenic to humans, 
+animals, and plants. Myroides odoratimimus and Acinetobacter radioresistens are
+well-known, multi-drug resistant bacteria. These results provide a snapshot of
+the microbial communities harbored by adult black blow flies and call for more
+comprehensive studies to better characterize the role these flies may play in the
+transmission of pathogenic microorganisms.
+
+DOI: 10.1038/s41598-019-56733-z 
+PMCID: PMC6937299
+PMID: 31889104 
+

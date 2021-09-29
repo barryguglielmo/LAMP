@@ -1,0 +1,51 @@
+
+1. mSphere. 2020 Mar 25;5(2). pii: e00891-19. doi: 10.1128/mSphere.00891-19.
+
+Novel IncR/IncP6 Hybrid Plasmid pCRE3-KPC Recovered from a Clinical
+KPC-2-Producing Citrobacter braakii Isolate.
+
+Dong D(#)(1), Mi Z(#)(2), Li D(3), Gao M(2), Jia N(1), Li M(2), Tong Y(4), Zhang 
+X(2), Zhu Y(5).
+
+Author information: 
+(1)Department of Clinical Laboratory, The Affiliated Hospital of Qingdao
+University, Qingdao, China.
+(2)State Key Laboratory of Pathogen & Biosecurity, Beijing Institute of
+Microbiology & Epidemiology, Beijing, China.
+(3)Department of Laboratory Medicine, Yeda Hospital of Yantai City, Yantai,
+China.
+(4)College of Information Science and Technology, Beijing University of Chemical 
+Technology, Beijing, China.
+(5)Department of Clinical Laboratory, The Affiliated Hospital of Qingdao
+University, Qingdao, China zyudotaliyun@163.com.
+(#)Contributed equally
+
+Klebsiella pneumoniae carbapenemase (KPC)-producing Enterobacteriaceae have
+become widespread in hospitals and the environment. Here, we describe a bla
+KPC-2-carrying plasmid called pCRE3-KPC, which was recovered from a clinical
+multidrug-resistant Citrobacter braakii CRE3 strain in China. The complete
+nucleotide sequence of pCRE3-KPC was determined by combining MiSeq and MinION
+sequencing and then compared with those of three related plasmids. Plasmid
+conjugal transfer and electroporation tests, modified carbapenem inactivation
+method, and bacterial antimicrobial susceptibility test were carried out. We
+compared this plasmid with three related plasmids to verify that the backbone of 
+pCRE3-KPC was composed of the backbones of the IncR plasmid and IncP6 plasmid.
+Further bioinformatics analysis showed that pCRE3-KPC carried two
+resistance-related regions (the bla KPC-2 gene cluster and the aacC2-tmrB-related
+region). The aacC2-tmrB-related region included two novel insertion sequences
+(ISCfr28 and ISCfr16).IMPORTANCE Reports of human-pathogenic C. braakii strains, 
+especially of strains showing resistance to carbapenems, are rare. To the best of
+our knowledge, our results represent the first detection of carbapenemase gene
+bla KPC-2 in C. braakii strains. In addition, we have studied detailed genetic
+characteristics of the novel IncR/IncP6 hybrid plasmid pCRE3-KPC, which was
+isolated from a clinical multidrug-resistant Citrobacter braakii CRE3 strain. Our
+results may provide further insight into the horizontal transfer of multidrug
+resistance genes in bacteria and into the genomic diversity and molecular
+evolution of plasmids.
+
+Copyright © 2020 Dong et al.
+
+DOI: 10.1128/mSphere.00891-19 
+PMCID: PMC7096625
+PMID: 32213624 
+

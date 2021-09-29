@@ -1,0 +1,45 @@
+
+1. Front Microbiol. 2020 Jul 15;11:1540. doi: 10.3389/fmicb.2020.01540. eCollection 
+2020.
+
+Exploring the Potential of Antibiotic Production From Rare Actinobacteria by
+Whole-Genome Sequencing and Guided MS/MS Analysis.
+
+Hu D(1)(2), Sun C(3), Jin T(4), Fan G(4), Mok KM(2), Li K(1), Lee SM(5).
+
+Author information: 
+(1)School of Ecology and Nature Conservation, Beijing Forestry University,
+Beijing, China.
+(2)Department of Civil and Environmental Engineering, Faculty of Science and
+Technology, University of Macau, Macau, China.
+(3)Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences and 
+Peking Union Medical College, Beijing, China.
+(4)Beijing Genomics Institute, Shenzhen, China.
+(5)State Key Laboratory of Quality Research in Chinese Medicine, Institute of
+Chinese Medical Sciences, University of Macau, Macau, China.
+
+Actinobacteria are well recognized for their production of structurally diverse
+bioactive secondary metabolites, but the rare actinobacterial genera have been
+underexploited for such potential. To search for new sources of active compounds,
+an experiment combining genomic analysis and tandem mass spectrometry (MS/MS)
+screening was designed to isolate and characterize actinobacterial strains from a
+mangrove environment in Macau. Fourteen actinobacterial strains were isolated
+from the collected samples. Partial 16S sequences indicated that they were from
+six genera, including Brevibacterium, Curtobacterium, Kineococcus,
+Micromonospora, Mycobacterium, and Streptomyces. The isolate sp.01 showing 99.28%
+sequence similarity with a reference rare actinobacterial species Micromonospora 
+aurantiaca ATCC 27029T was selected for whole genome sequencing. Organization of 
+its gene clusters for secondary metabolite biosynthesis revealed 21 clusters
+encoded to antibiotic production, which is higher than other Micromonospora
+species. Of the genome-predicted antibiotics, kanamycin was found through guided 
+MS/MS analysis producible by the M. aurantiaca strain for the first time. The
+present study highlighted that genomic analysis combined with MS/MS screening is 
+a promising method to discover potential of antibiotic production from rare
+actinobacteria.
+
+Copyright © 2020 Hu, Sun, Jin, Fan, Mok, Li and Lee.
+
+DOI: 10.3389/fmicb.2020.01540 
+PMCID: PMC7375171
+PMID: 32922368 
+

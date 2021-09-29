@@ -1,0 +1,63 @@
+
+1. Eur Child Adolesc Psychiatry. 2020 Mar;29(3):287-297. doi:
+10.1007/s00787-019-01352-2. Epub 2019 May 22.
+
+Gut microbiota and dietary patterns in children with
+attention-deficit/hyperactivity disorder.
+
+Wang LJ(1)(2), Yang CY(3)(4), Chou WJ(1), Lee MJ(1), Chou MC(1), Kuo HC(5)(6),
+Yeh YM(7)(8), Lee SY(9)(10), Huang LH(11), Li SC(12).
+
+Author information: 
+(1)Department of Child and Adolescent Psychiatry, Kaohsiung Chang Gung Memorial
+Hospital and Chang Gung University College of Medicine, Kaohsiung, Taiwan.
+(2)Department of Chinese Medicine, Chang Gung University, Taoyuan, Taiwan.
+(3)Department of Microbiology and Immunology/Molecular Medicine Research Center, 
+Chang Gung University, Taoyuan, Taiwan.
+(4)Division of Colon and Rectal Surgery, Chang Gung Memorial Hospital, Linkou,
+Taiwan.
+(5)Department of Pediatrics, Kaohsiung Chang Gung Memorial Hospital and Chang
+Gung University College of Medicine, Kaohsiung, Taiwan.
+(6)Kawasaki Disease Center, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung,
+Taiwan.
+(7)Molecular Medicine Research Center, Chang Gung University, Taoyuan, Taiwan.
+(8)Genomic Medicine Research Core Laboratory, Chang Gung Memorial Hospital,
+Linkou, Taiwan.
+(9)Department of Psychiatry, Kaohsiung Veterans General Hospital, Kaohsiung,
+Taiwan.
+(10)Department of Psychiatry, College of Medicine, National Yang-Ming University,
+Taipei, Taiwan.
+(11)Genomics and Proteomics Core Laboratory, Department of Medical Research,
+Kaohsiung Chang Gung Memorial Hospital and Chang Gung University College of
+Medicine, No.123, Ta-Pei Road, Kaohsiung City, Taiwan.
+(12)Genomics and Proteomics Core Laboratory, Department of Medical Research,
+Kaohsiung Chang Gung Memorial Hospital and Chang Gung University College of
+Medicine, No.123, Ta-Pei Road, Kaohsiung City, Taiwan. raymond.pinus@gmail.com.
+
+Attention-deficit/hyperactivity disorder (ADHD) is a common neurodevelopmental
+disorder, but the underlying pathophysiological mechanisms of ADHD remain
+unclear. Gut microbiota has been recognized to influence brain function and
+behaviors. Therefore, this study aimed to determine whether imbalanced gut
+microbiomes identified by a 16S rRNA sequencing approach are involved in the
+pathophysiology of ADHD. We recruited a total of 30 children with ADHD (mean age:
+8.4 years) and a total of 30 healthy controls (mean age: 9.3 years) for this
+study. The dietary patterns of all participants were assessed with the food
+frequency questionnaire. The microbiota of fecal samples were investigated using 
+16S rRNA V3V4 amplicon sequencing, followed by bioinformatics and statistical
+analyses. We found that the gut microbiota communities in ADHD patients showed a 
+significantly higher Shannon index and Chao index than the control subjects.
+Furthermore, the linear discriminant analysis effect size (LEfSe) analysis was
+used to identify differentially enriched bacteria between ADHD patients and
+healthy controls. The relative abundance of Bacteroides coprocola (B. coprocola) 
+was decreased, while the relative abundance of Bacteroides uniformis (B.
+uniformis), Bacteroides ovatus (B. ovatus), and Sutterella stercoricanis (S.
+stercoricanis) were increased in the ADHD group. Of all participants, S.
+stercoricanis demonstrated a significant association with the intake of dairy,
+nuts/seeds/legumes, ferritin and magnesium. B. ovatus and S. stercoricanis were
+positively correlated to ADHD symptoms. In conclusion, we suggest that the gut
+microbiome community is associated with dietary patterns, and linked to the
+susceptibility to ADHD.
+
+DOI: 10.1007/s00787-019-01352-2 
+PMID: 31119393  [Indexed for MEDLINE]
+

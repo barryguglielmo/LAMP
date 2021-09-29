@@ -1,0 +1,50 @@
+
+1. J Clin Microbiol. 2020 Mar 25;58(4). pii: e01692-19. doi: 10.1128/JCM.01692-19.
+Print 2020 Mar 25.
+
+Persistent Transmission of Shigellosis in England Is Associated with a Recently
+Emerged Multidrug-Resistant Strain of Shigella sonnei.
+
+Bardsley M(1), Jenkins C(2), Mitchell HD(3), Mikhail AFW(1), Baker KS(4), Foster 
+K(1), Hughes G(1), Dallman TJ(1).
+
+Author information: 
+(1)National Infection Service, Public Health England, London, United Kingdom.
+(2)National Infection Service, Public Health England, London, United Kingdom
+claire.jenkins1@phe.gov.uk.
+(3)Institute for Global Health, University College London, London, United
+Kingdom.
+(4)Institute for Integrative Biology, University of Liverpool, Liverpool, United 
+Kingdom.
+
+Whole-genome sequencing has enhanced surveillance and facilitated detailed
+monitoring of the transmission of Shigella species in England. We undertook an
+epidemiological and phylogenetic analysis of isolates from all cases of
+shigellosis referred to Public Health England between 2015 and 2018 to explore
+recent strain characteristics and the transmission dynamics of Shigella species. 
+Of the 4,950 confirmed cases of shigellosis identified during this period, the
+highest proportion of isolates was Shigella sonnei (54.4%), followed by S.
+flexneri (39.2%), S. boydii (4.1%), and S. dysenteriae (2.2%). Most cases were
+adults (82.9%) and male (59.5%), and 34.9% cases reported recent travel outside
+the United Kingdom. Throughout the study period, diagnoses of S. flexneri and S. 
+sonnei infections were most common in men with no history of recent travel
+abroad. The species prevalence was not static, with cases of S. flexneri
+infection in men decreasing between 2015 and 2016 and the number of cases of S.
+sonnei infection increasing from 2017. Phylogenetic analysis showed this recent
+increase in S. sonnei infections was attributed to a novel clade that emerged
+from a Central Asia sublineage exhibiting resistance to ciprofloxacin and
+azithromycin. Despite changes in species prevalence, diagnoses of Shigella
+infections in England are persistently most common in adult males without a
+reported travel history, consistent with sexual transmission among men who have
+sex with men. The trend toward increasing rates of ciprofloxacin resistance in S.
+sonnei, in addition to plasmid-mediated azithromycin resistance, is of
+significant public health concern with respect to the transmission of
+multidrug-resistant gastrointestinal pathogens and the risk of treatment
+failures.
+
+© Crown copyright 2020.
+
+DOI: 10.1128/JCM.01692-19 
+PMCID: PMC7098776
+PMID: 31969425 
+

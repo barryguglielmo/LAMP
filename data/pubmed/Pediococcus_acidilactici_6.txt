@@ -1,0 +1,63 @@
+
+1. Int J Food Microbiol. 2020 Nov 16;333:108814. doi:
+10.1016/j.ijfoodmicro.2020.108814. Epub 2020 Aug 8.
+
+Thermal inactivation of Salmonella, Shiga toxin-producing Escherichia coli,
+Listeria monocytogenes, and a surrogate (Pediococcus acidilactici) on raisins,
+apricot halves, and macadamia nuts using vacuum-steam pasteurization.
+
+Acuff JC(1), Wu J(1), Marik C(1), Waterman K(1), Gallagher D(2), Huang H(1),
+Williams RC(1), Ponder MA(3).
+
+Author information: 
+(1)Virginia Tech, Food Science and Technology, 1230 Washington St., Blacksburg,
+VA 24061, USA.
+(2)Virginia Tech, Civil and Environmental Engineering Department, 409 Durham
+Hall, Blacksburg, VA 24061, USA.
+(3)Virginia Tech, Food Science and Technology, 1230 Washington St., Blacksburg,
+VA 24061, USA. Electronic address: Mponder@vt.edu.
+
+Salmonella, Shiga toxin-producing Escherichia coli (STEC), and Listeria
+monocytogenes have been isolated from low water activity foods (LWAF), where they
+may survive for extended periods. The ready-to-eat nature of many LWAF, such as
+dried fruits and nuts, warrants effective post-harvest thermal treatment for the 
+reduction of pathogens such as low-temperature, saturated steam, also known as
+vacuum-assisted steam pasteurization. The objective of this study was to
+determine reductions of Salmonella, STEC, L. monocytogenes, and a possible
+surrogate (Pediococcus acidilactici) on dried apricot halves, whole macadamia
+nuts, and raisins after treatment with vacuum-assisted steam at three
+temperatures (62 °C, 72 °C, or 82 °C) and multiple time intervals. Bacterial
+inactivation was variable between commodities, with higher temperatures and
+longer times necessary to achieve comparable reductions of pathogens on apricot
+halves and macadamia nuts compared to raisins. Reductions of the tested pathogens
+were comparable; therefore, one species was not more resistant than the others.
+Pathogens were reduced by 5-log CFU/g on apricot halves after 20 min at 72 °C and
+after 5 min at 82 °C. Longer treatment times were necessary to achieve reductions
+of each pathogen on macadamia nuts. Pathogens were reduced by nearly 5 log CFU/g 
+on macadamia nuts after 38 min at 72 °C (4.6-6.5 log CFU/g) and after 12 min at
+82 °C (4.9-5.7 log CFU/g). Reductions of pathogens on raisins were achieved at
+lower temperatures than necessary for the other foods. A 5-log reduction for each
+of the pathogens (CFU/g) on raisins occurred after 20 min at 62 °C and after
+5 min at 72 °C. Overall, the reductions of the pathogens exceeded those of P.
+acidilactici on both the dried fruits and macadamia nuts. Statistically
+significant differences, indicating greater confidence as a conservative
+surrogate, were observed at lower treatment temperatures. Inactivation kinetics
+were modeled for each pathogen on each food type and temperature. Bacterial
+survival was best described by the Weibull model for raisins and macadamia nuts, 
+while the Gompertz model best described reductions on apricot halves according to
+Akaike information criterion (AIC) and root-mean-square error (RMSE) evaluations.
+Water activity and moisture content were increased due to the treatments, which
+could be addressed through implementation of drying steps. Thermal inactivation
+kinetic models and 5-log reduction parameters can help food processors design and
+evaluate similar vacuum-assisted steam interventions to comply with FSMA
+regulations and preventive control plans. However, results or model predictions
+should not be extrapolated to assume the safety of other types of foods.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijfoodmicro.2020.108814 
+PMID: 32805576 
+
+Conflict of interest statement: Declaration of competing interest The authors
+have no known conflicts of interest or competing financial interests.
+

@@ -1,0 +1,52 @@
+
+1. Int J Syst Evol Microbiol. 2020 Feb;70(2):1307-1314. doi: 10.1099/ijsem.0.003912.
+
+Microbacterium wangchenii sp. nov., isolated from faeces of Tibetan gazelles
+(Procapra picticaudata) on the Qinghai-Tibet Plateau.
+
+Dong K(1), Yang J(2)(3)(4), Lu S(2)(3)(4), Pu J(4), Lai XH(5), Jin D(2)(3)(4), Li
+J(1), Zhang G(4), Wang X(4), Zhang S(1), Lei W(1), Ren Z(2)(4), Wu X(6), Huang
+Y(4), Wang S(1), Xu J(3)(2)(1)(4).
+
+Author information: 
+(1)Department of Epidemiology, Shanxi Medical University School of Public Health,
+Taiyuan, Shanxi 030001, PR China.
+(2)Research Units of Discovery of Unknown Bacteria and Function, Chinese Academy 
+of Medical Sciences, Beijing 100730, PR China.
+(3)Shanghai Institute for Emerging and Re-emerging Infectious Diseases, Shanghai 
+Public Health Clinical Center, Shanghai 201508, PR China.
+(4)State Key Laboratory of Infectious Disease Prevention and Control,
+Collaborative Innovation Center for Diagnosis and Treatment of Infectious
+Diseases, National Institute for Communicable Disease Control and Prevention,
+Chinese Center for Disease Control and Prevention, Beijing 102206, PR China.
+(5)School of Biology and Food Sciences, Shangqiu Normal University, Shangqiu,
+Henan Province, 476000, PR China.
+(6)Shaanxi Institute of Zoology, Xi'an 710032, Shaanxi Province, PR China.
+
+Two strains of Gram-stain-positive, aerobic, non-spore-forming, non-motile,
+rod-shaped bacteria (designated dk512T and dk508) were isolated from the faeces
+of Tibetan gazelle (Procapra picticaudata) collected from the Qinghai-Tibet
+Plateau, PR China. The 16S rRNA gene sequences of the strains showed the highest 
+identity to Microbacterium saccharophilum K-1T (98.0 and 97.9 % similarity,
+respectively). The phylogenetic analysis based on 16S rRNA gene sequences
+revealed that dk512T and dk508 were members of the genus Microbacterium, and most
+closely related to strains Microbacterium mitrae M4-8T and Microbacterium
+hatanonis FCC-01T. The strains grew optimally on brain-heart infusion (BHI) agar 
+with 5.0 % (v/v) sheep blood at 30 °C, pH 7.0 and with 1.0 % (w/v) NaCl. The
+genome of type strain dk512T was 3.8 Mb with a G+C content of 70.6 mol%. The
+average nucleotide identity and digital DNA-DNA hybridization values between
+strain dk512T and previously characterized Microbacterium species were <95 and
+<70 %, respectively. In strain dk512T, the detected primary cellular fatty acids 
+were anteiso-C15 : 0 and anteiso-C17 : 0, the main respiratory quinones were MK-9
+(37.9 %) and MK-10 (35.7 %), and the polar lipids included
+diphosphatidylglycerol, phosphatidylglycerol and three unidentified glycolipids. 
+The major cell-wall sugars were rhamnose, ribose and galactose. Alanine, glutamic
+acid, glycine and ornithine were in the cell-wall peptidoglycan. Based on
+phenotypic data and phylogenetic inference, these two strains represent a novel
+species of the genus Microbacterium, named here as Microbacterium wangchenii sp. 
+nov, where dk512T is designated the type strain (=CGMCC 1.16590T=JCM 33494T=KCTC 
+49313T).
+
+DOI: 10.1099/ijsem.0.003912 
+PMID: 31829917  [Indexed for MEDLINE]
+

@@ -1,0 +1,65 @@
+
+1. Cancer Epidemiol Biomarkers Prev. 2020 Sep 30. doi:
+10.1158/1055-9965.EPI-20-0348. [Epub ahead of print]
+
+Development of Helicobacter pylori Whole-Proteome Arrays and Identification of
+Serologic Biomarkers for Noncardia Gastric Cancer in the MCC-Spain Study.
+
+Jeske R(1)(2), Reininger D(3), Turgu B(3), Brauer A(3), Harmel C(3), Fernández de
+Larrea-Baz N(4)(5), Martín V(5)(6), Moreno V(5)(7), Kogevinas M(5)(8), Pollán
+M(4)(5), Hoheisel JD(9), Waterboer T(3), Butt J(3), Aragonés N(5)(10), Hufnagel
+K(3).
+
+Author information: 
+(1)Infections and Cancer Epidemiology, German Cancer Research Center (DKFZ),
+Heidelberg, Germany. r.jeske@dkfz.de.
+(2)Faculty of Biosciences, Heidelberg University, Heidelberg, Germany.
+(3)Infections and Cancer Epidemiology, German Cancer Research Center (DKFZ),
+Heidelberg, Germany.
+(4)Environmental and Cancer Epidemiology Area, National Center of Epidemiology,
+Carlos III Health Institute (ISCIII), Madrid, Spain.
+(5)Centro de Investigación Biomédica en Red de Epidemiología y Salud Pública
+(CIBERESP)-CIBER of Epidemiology and Public Health (CIBERESP), Madrid, Spain.
+(6)The Research Group in Gene-Environment and Health Interactions, University of 
+León, León, Spain.
+(7)Cancer Prevention and Control Program, Catalan Institute of Oncology (ICO),
+Hospitalet de Llobregat, Barcelona, Spain.
+(8)ISGlobal, Centre for Research in Environmental Epidemiology (CREAL),
+Barcelona, Spain.
+(9)Functional Genome Analysis, German Cancer Research Center (DKFZ), Heidelberg, 
+Germany.
+(10)Epidemiology Section, Division of Public Health, Department of Health,
+Madrid, Spain.
+
+BACKGROUND: Helicobacter pylori (H. pylori) is a bacterial carcinogen and the
+leading risk factor for noncardia gastric cancer (NCGC). Detecting antibodies
+against specific H. pylori proteins in peripheral blood can be applied to
+characterize infection and determine disease associations. Most studies analyzing
+the association between H. pylori infection and gastric cancer have focused on
+previously identified antigens, predominantly the virulence factor
+cytotoxin-associated gene A (CagA). Selecting antigens in an unbiased approach
+may, however, allow the identification of novel biomarkers.
+METHODS: Using a combination of multiple spotting technique and cell-free,
+on-chip protein expression, we displayed the H. pylori genome (strain 26695) on
+high-density microarrays. Immunogenic proteins were identified by serum pool
+incubations and henceforth analyzed in individual samples. To test its
+applicability, we used sera from a multicase-control (MCC)-Spain study. Serologic
+responses between NCGC cases and controls were assessed by conditional logistic
+regression estimating ORs and 95% confidence intervals.
+RESULTS: We successfully expressed 93% of the 1,440 H. pylori open reading frames
+in situ. Of these, 231 (17%) were found to be immunogenic. By comparing 58 NCGC
+cases with 58 matched controls, we confirmed a higher seroprevalence of CagA
+among cases (66%) than controls (31%). We further identified a potential novel
+marker, the Helicobacter outer membrane protein A (HopA).
+CONCLUSIONS: In this study, we provide evidence that our H. pylori whole-proteome
+microarray offers a platform for unbiased de novo identification of serologic
+biomarkers.
+IMPACT: Given its versatile workflow, antibody responses against other H. pylori 
+strains and possible associations with diverse H. pylori-related outcomes can be 
+systematically analyzed.
+
+©2020 American Association for Cancer Research.
+
+DOI: 10.1158/1055-9965.EPI-20-0348 
+PMID: 32998950 
+

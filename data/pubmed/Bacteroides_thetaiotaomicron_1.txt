@@ -1,0 +1,39 @@
+
+1. Biol Chem. 2020 Sep 24. pii:
+/j/bchm.ahead-of-print/hsz-2020-0230/hsz-2020-0230.xml. doi:
+10.1515/hsz-2020-0230. [Epub ahead of print]
+
+An RNA-centric view on gut Bacteroidetes.
+
+Ryan D(1), Prezza G(1), Westermann AJ(1)(2).
+
+Author information: 
+(1)Helmholtz Institute for RNA-based Infection Research (HIRI), Helmholtz Centre 
+for Infection Research (HZI), Josef-Schneider-Str. 2/D15, D-97080, Würzburg,
+Germany.
+(2)Institute of Molecular Infection Biology (IMIB), University of Würzburg,
+Josef-Schneider-Str. 2/D15, D-97080, Würzburg, Germany.
+
+Bacteria employ noncoding RNAs to maintain cellular physiology, adapt global gene
+expression to fluctuating environments, sense nutrients, coordinate their
+interaction with companion microbes and host cells, and protect themselves
+against bacteriophages. While bacterial RNA research has made fundamental
+contributions to biomedicine and biotechnology, the bulk of our knowledge of RNA 
+biology stems from the study of a handful of aerobic model species. In
+comparison, RNA research is lagging in many medically relevant obligate anaerobic
+species, in particular the numerous commensal bacteria comprising our gut
+microbiota. This review presents a guide to RNA-based regulatory mechanisms in
+the phylum Bacteroidetes, focusing on the most abundant bacterial genus in the
+human gut, Bacteroides spp. This includes recent case reports on riboswitches, an
+mRNA leader, cis- and trans-encoded small RNAs (sRNAs) in Bacteroides spp., and a
+survey of CRISPR-Cas systems across Bacteroidetes. Recent work from our
+laboratory now suggests the existence of hundreds of noncoding RNA candidates in 
+Bacteroides thetaiotaomicron, the emerging model organism for functional
+microbiota research. Based on these collective observations, we predict
+mechanistic and functional commonalities and differences between Bacteroides
+sRNAs and those of other model bacteria, and outline open questions and tools
+needed to boost Bacteroidetes RNA research.
+
+DOI: 10.1515/hsz-2020-0230 
+PMID: 32881707 
+

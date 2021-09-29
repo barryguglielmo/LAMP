@@ -1,0 +1,44 @@
+
+1. Int J Mol Sci. 2020 Mar 7;21(5). pii: E1847. doi: 10.3390/ijms21051847.
+
+Antibiotic Resistance, Virulence Factors, Phenotyping, and Genotyping of
+Non-Escherichia coli Enterobacterales from the Gut Microbiota of Healthy
+Subjects.
+
+Amaretti A(1)(2), Righini L(1), Candeliere F(1), Musmeci E(1), Bonvicini F(3),
+Gentilomi GA(3)(4), Rossi M(1)(2), Raimondi S(1).
+
+Author information: 
+(1)Department of Life Sciences, University of Modena and Reggio Emilia, via Campi
+103, 41125 Modena, Italy.
+(2)Biogest-Siteia, University of Modena and Reggio Emilia, Modena, Viale Amendola
+2, 42122 Reggio Emilia, Italy.
+(3)Department of Pharmacy and Biotechnology, Alma Mater Studiorum-University of
+Bologna, Via Massarenti 9, 40138 Bologna, Italy.
+(4)Unit of Microbiology, Alma Mater Studiorum-University of Bologna, S.
+Orsola-Malpighi Hospital, Via Massarenti 9, 40138 Bologna, Italy.
+
+Non-Escherichia coli Enterobacterales (NECE) can colonize the human gut and may
+present virulence determinants and phenotypes that represent severe heath
+concerns. Most information is available for virulent NECE strains, isolated from 
+patients with an ongoing infection, while the commensal NECE population of
+healthy subjects is understudied. In this study, 32 NECE strains were isolated
+from the feces of 20 healthy adults. 16S rRNA gene sequencing and mass
+spectrometry attributed the isolates to Klebsiella pneumoniae, Klebsiella
+oxytoca, Enterobacter cloacae, Enterobacter aerogenes, Enterobacter kobei,
+Citrobacter freundii, Citrobacter amalonaticus, Cronobacter sp., and Hafnia
+alvei, Morganella morganii, and Serratia liquefaciens. Multiplex PCR revealed
+that K. pneumoniae harbored virulence genes for adhesins (mrkD, ycfM, and kpn)
+and enterobactin (entB) and, in one case, also for yersiniabactin (ybtS, irp1,
+irp2, and fyuA). Virulence genes were less numerous in the other NECE species.
+Biofilm formation was spread across all the species, while curli and cellulose
+were mainly produced by Citrobacter and Enterobacter. Among the most common
+antibiotics, amoxicillin-clavulanic acid was the sole against which resistance
+was observed, only Klebsiella strains being susceptible. The NECE inhabiting the 
+intestine of healthy subjects have traits that may pose a health threat, taking
+into account the possibility of horizontal gene transfer.
+
+DOI: 10.3390/ijms21051847 
+PMCID: PMC7084377
+PMID: 32156029 
+

@@ -1,0 +1,58 @@
+
+1. Appl Environ Microbiol. 2019 Oct 1;85(20). pii: e01077-19. doi:
+10.1128/AEM.01077-19. Print 2019 Oct 15.
+
+Pseudofructophilic Leuconostoc citreum Strain F192-5, Isolated from Satsuma
+Mandarin Peel.
+
+Maeno S(1), Tanizawa Y(2), Kajikawa A(3), Kanesaki Y(4), Kubota E(4), Arita
+M(2)(5), Dicks L(6), Endo A(7).
+
+Author information: 
+(1)Department of Food, Aroma and Cosmetic Chemistry, Tokyo University of
+Agriculture, Hokkaido, Japan.
+(2)Bioinformation and DDBJ Center, National Institute of Genetics, Shizuoka,
+Japan.
+(3)Department of Agricultural Chemistry, Tokyo University of Agriculture, Tokyo, 
+Japan.
+(4)Genome Research Center, NODAI Research Institute, Tokyo University of
+Agriculture, Tokyo, Japan.
+(5)RIKEN Center for Sustainable Resource Science, Kanagawa, Japan.
+(6)Department of Microbiology, University of Stellenbosch, Stellenbosch, South
+Africa.
+(7)Department of Food, Aroma and Cosmetic Chemistry, Tokyo University of
+Agriculture, Hokkaido, Japan a3endou@nodai.ac.jp.
+
+Fructophilic lactic acid bacteria (FLAB), composed of Fructobacillus spp.,
+Lactobacillus kunkeei, and Lactobacillus apinorum, are unique in that they prefer
+d-fructose over d-glucose as a carbon source. Strain F192-5, isolated from the
+peel of a satsuma mandarin and identified as Leuconostoc citreum, grows well on
+d-fructose but poorly on d-glucose and produces mainly lactate and acetate, with 
+trace amounts of ethanol, from the metabolism of d-glucose. These characteristics
+are identical to those of obligate FLAB. However, strain F192-5 ferments a
+greater variety of carbohydrates than known FLAB. Comparative analyses of the
+genomes of strain F192-5 and reference strains of L. citreum revealed no signs of
+specific gene reductions, especially genes involved in carbohydrate transport and
+metabolism, in the genome of F192-5. The bifunctional alcohol/acetaldehyde
+dehydrogenase gene (adhE) is conserved in strain F192-5 but is not transcribed.
+This is most likely due to a deletion in the promoter region upstream of the adhE
+gene. Strain F192-5 did, however, ferment d-glucose when transformed with a
+plasmid containing the allochthonous adhE gene. L. citreum F192-5 is an example
+of a pseudo-FLAB strain with a deficiency in d-glucose metabolism. This unique
+phenotypic characteristic appears to be strain specific within the species L.
+citreum This might be one of the strategies lactic acid bacteria use to adapt to 
+diverse environmental conditions.IMPORTANCE Obligate fructophilic lactic acid
+bacteria (FLAB) lack the metabolic pathways used in the metabolism of most
+carbohydrates and differ from other lactic acid bacteria in that they prefer to
+ferment d-fructose instead of d-glucose. These characteristics are well conserved
+at the genus or species level. Leuconostoc citreum F192-5 shows similar growth
+characteristics. However, the strain is metabolically and genomically different
+from obligate FLAB. This is an example of a strain that evolved a pseudo-FLAB
+phenotype to adapt to a fructose-rich environment.
+
+Copyright © 2019 American Society for Microbiology.
+
+DOI: 10.1128/AEM.01077-19 
+PMCID: PMC6805080
+PMID: 31399409  [Indexed for MEDLINE]
+

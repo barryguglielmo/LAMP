@@ -1,0 +1,49 @@
+
+1. Parasitology. 2020 Aug;147(9):972-984. doi: 10.1017/S0031182020000736. Epub 2020 
+May 4.
+
+Intestinal parasites in rural communities in Nan Province, Thailand: changes in
+bacterial gut microbiota associated with minute intestinal fluke infection.
+
+Prommi A(1), Prombutara P(2)(3), Watthanakulpanich D(1), Adisakwattana P(1),
+Kusolsuk T(1), Yoonuan T(1), Poodeepiyasawat A(1), Homsuwan N(1), Prummongkol
+S(4), Tanita M(5), Rattanapikul S(5), Thinphovong C(6), Kritiyakan A(6), Morand
+S(1)(6)(7), Chaisiri K(1).
+
+Author information: 
+(1)Department of Helminthology, Faculty of Tropical Medicine, Mahidol University,
+Bangkok, Thailand.
+(2)Faculty of Science, Omics Science & Bioinformatics Center, Chulalongkorn
+University, Bangkok, Thailand.
+(3)Faculty of Science, Microbiome Research Unit for Probiotics in Food and
+Cosmetics, Chulalongkorn University, Bangkok, Thailand.
+(4)Faculty of Tropical Medicine, Mahidol Bangkok School of Tropical Medicine,
+Mahidol University, Bangkok, Thailand.
+(5)Saen Thong Health Promoting Hospital, Tha Wang Pha, Nan, Thailand.
+(6)Faculty of Veterinary Technology, Kasetsart University, Bangkok, Thailand.
+(7)Faculty of Veterinary Technology, CNRS ISEM - CIRAD ASTRE, Kasetsart
+University, Bangkok, Thailand.
+
+Gastrointestinal helminth infection likely affects the gut microbiome, in turn
+affecting host health. To investigate the effect of intestinal parasite status on
+the gut microbiome, parasitic infection surveys were conducted in communities in 
+Nan Province, Thailand. In total, 1047 participants submitted stool samples for
+intestinal parasite examination, and 391 parasite-positive cases were identified,
+equating to an infection prevalence of 37.3%. Intestinal protozoan species were
+less prevalent (4.6%) than helminth species. The most prevalent parasite was the 
+minute intestinal fluke Haplorchis taichui (35.9%). Amplicon sequencing of 16S
+rRNA was conducted to investigate the gut microbiome profiles of H.
+taichui-infected participants compared with those of parasite-free participants. 
+Prevotella copri was the dominant bacterial operational taxonomic unit (OTU) in
+the study population. The relative abundance of three bacterial taxa,
+Ruminococcus, Roseburia faecis and Veillonella parvula, was significantly
+increased in the H. taichui-infected group. Parasite-negative group had higher
+bacterial diversity (α diversity) than the H. taichui-positive group. In
+addition, a significant difference in bacterial community composition (β
+diversity) was found between the two groups. The results suggest that H. taichui 
+infection impacts the gut microbiome profile by reducing bacterial diversity and 
+altering bacterial community structure in the gastrointestinal tract.
+
+DOI: 10.1017/S0031182020000736 
+PMID: 32364103 
+

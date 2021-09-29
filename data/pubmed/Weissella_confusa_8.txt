@@ -1,0 +1,45 @@
+
+1. Curr Pharm Biotechnol. 2020 Jun 11. doi: 10.2174/1389201021666200611111040. [Epub
+ahead of print]
+
+Construction and Functional Analysis of the Recombinant Bacteriocins
+Weissellicin-MBF from Weissella confusa MBF8-1
+
+Malik A(1), Yuliantie E(1), Suprahman NY(1), Linardi T(1), Widiyanti AW(1), Haldy
+J(1), Tjia C(1), Takagi H(2).
+
+Author information: 
+(1)Division of Pharmaceutical Microbiology and Biotechnology, Faculty of
+Pharmacy, Universitas Indonesia, UI Depok Campus, Depok 16424. Indonesia.
+(2)Division of Biological Science, Graduate School of Science and Technology,
+Nara Institute of Science and Technology, 8916-5 Takayama, Ikoma, Nara 630-0192. 
+Japan.
+
+BACKGROUND: Bacteriocins (Bac1, Bac2, and Bac3) from Weissella confusa MBF8-1,
+weissellicin-MBF, have been reported as potential alternative substances as well 
+as complements to the existing antibiotics against many antimicrobial-resistant
+pathogens. Previously, the genes encoded in the large plasmid, pWcMBF8-1, and the
+spermicidal activity of their synthetic peptides, have been studied in originally
+discovered Indonesia. Three synthetic bacteriocins peptides of this
+weissellicin-MBF have been reported as well for their potential activities, i.e. 
+antibacterial and spermicidal.
+OBJECTIVE: The aim of this study was to construct the recombinant Bacteriocin
+(r-Bac) genes, as well as to investigate the genes expressions and their
+functional analysis.
+METHOD: Here, we constructed the recombinant Bacteriocin (r-Bac) genes and
+produced the recombinant peptides (r-Bac1, rBac2, and r-Bac3) in B. subtilis
+DB403 cells in a large scale. After purification using the His-tag affinity
+column, their potential bioactivities measured as antibacterial minimum
+inhibitory concentrations against Leuconostoc mesenteroides and Micrococcus
+luteus were determined.
+RESULTS: Pure His-tag-recombinant Bac1, Bac2, and Bac3 were obtained and they
+could inhibit the growth of L. mesenteroides and M. luteus.
+CONCLUSION: The recombinant bacteriocin could be obtained although with weak
+activity in inhibiting gram-positive bacterial growth.
+
+Copyright© Bentham Science Publishers; For any queries, please email at
+epub@benthamscience.net.
+
+DOI: 10.2174/1389201021666200611111040 
+PMID: 32525768 
+

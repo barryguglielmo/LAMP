@@ -1,0 +1,45 @@
+
+1. Ultrason Sonochem. 2020 Oct;67:105138. doi: 10.1016/j.ultsonch.2020.105138. Epub 
+2020 Apr 22.
+
+Non-thermal pasteurization of lipid emulsions by combined supercritical carbon
+dioxide and high-power ultrasound treatment.
+
+Gomez-Gomez A(1), Brito-de la Fuente E(2), Gallegos C(2), Garcia-Perez JV(1),
+Benedito J(3).
+
+Author information: 
+(1)Grupo ASPA, Departamento de Tecnología de Alimentos, Universitat Politècnica
+de València, Camí de Vera s/n, València E46022, Spain.
+(2)Fresenius-Kabi Deutschland GmbH, Product and Process Engineering Center,
+Pharmaceuticals & Device Division, Bad Homburg, Germany.
+(3)Grupo ASPA, Departamento de Tecnología de Alimentos, Universitat Politècnica
+de València, Camí de Vera s/n, València E46022, Spain. Electronic address:
+jjbenedi@tal.upv.es.
+
+Supercritical carbon dioxide (SC-CO2) is a novel method for food pasteurization, 
+but there is still room for improvement in terms of the process shortening and
+its use in products with high oil content. This study addressed the effect of
+high power ultrasound (HPU) on the intensification of the SC-CO2 inactivation of 
+E. coli and B. diminuta in soybean oil-in-water emulsions. Inactivation kinetics 
+were obtained at different pressures (100 and 350 bar), temperatures (35 and
+50 °C) and oil contents (0, 10, 20 and 30%) and were satisfactorily described
+using the Weibull model. The experimental results showed that for SC-CO2
+treatments, the higher the pressure or the temperature, the higher the level of
+inactivation. Ultrasound greatly intensified the inactivation capacity of SC-CO2,
+shortening the process time by approximately 1 order of magnitude (from 50 to
+90 min to 5-10 min depending on the microorganism and process conditions).
+Pressure and temperature also had a significant (p < 0.05) effect on SC-CO2 + HPU
+inactivation for both bacteria, although the effect was less intense than in the 
+SC-CO2 treatments. E. coli was found to be more resistant than B. diminuta in
+SC-CO2 treatments, while no differences were found when HPU was applied. HPU
+decreased the protective effect of oil in the inactivation and similar microbial 
+reductions were obtained regardless of the oil content in the emulsion.
+Therefore, HPU intensification of SC-CO2 treatments is a promising alternative to
+the thermal pasteurization of lipid emulsions with heat sensitive compounds.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ultsonch.2020.105138 
+PMID: 32339868 
+

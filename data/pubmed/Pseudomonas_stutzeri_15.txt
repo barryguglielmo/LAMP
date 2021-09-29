@@ -1,0 +1,49 @@
+
+1. Front Microbiol. 2020 Jun 4;11:1100. doi: 10.3389/fmicb.2020.01100. eCollection
+2020.
+
+Characterization of a Novel Functional Trimeric Catechol 1,2-Dioxygenase From a
+Pseudomonas stutzeri Isolated From the Gulf of Mexico.
+
+Rodríguez-Salazar J(1), Almeida-Juarez AG(1), Ornelas-Ocampo K(1), Millán-López
+S(1), Raga-Carbajal E(1), Rodríguez-Mejía JL(1), Muriel-Millán LF(1),
+Godoy-Lozano EE(1), Rivera-Gómez N(1), Rudiño-Piñera E(1), Pardo-López L(1).
+
+Author information: 
+(1)Instituto de Biotecnología, Universidad Nacional Autónoma de México,
+Cuernavaca, Mexico.
+
+Catechol 1,2 dioxygenases (C12DOs) have been studied for its ability to cleavage 
+the benzene ring of catechol, the main intermediate in the degradation of
+aromatic compounds derived from aerobic degradation of hydrocarbons. Here we
+report the genome sequence of the marine bacterium Pseudomonas stutzeri GOM2,
+isolated from the southwestern Gulf of Mexico, and the biochemical
+characterization of its C12DO (PsC12DO). The catA gene, encoding PsC12DO of 312
+amino acid residues, was cloned and expressed in Escherichia coli. Many C12DOs
+have been described as dimeric enzymes including those present in Pseudomonas
+species. The purified PsC12DO enzyme was found as an active trimer, with a
+molecular mass of 107 kDa. Increasing NaCl concentration in the enzyme reaction
+gradually reduced activity; in high salt concentrations (0.7 M NaCl) quaternary
+structural analysis determined that the enzyme changes to a dimeric arrangement
+and causes a 51% decrease in specific activity on catechol substrate. In
+comparison with other C12DOs, our enzyme showed a broad range of action for
+PsC12DO in solutions with pH values ranging from neutral to alkaline (70%). The
+enzyme is still active after incubation at 50°C for 30 min and in low
+temperatures to long term storage after 6 weeks at 4°C (61%). EDTA or Ca2+
+inhibitors cause no drastic changes on residual activity; nevertheless, the
+activity of the enzyme was affected by metal ions Fe3+, Zn2+ and was completely
+inhibited by Hg2+. Under optimal conditions the k cat and K m values were 16.13
+s-1 and 13.2 μM, respectively. To our knowledge, this is the first report
+describing the characterization of a marine C12DOs from P. stutzeri isolated from
+the Gulf of Mexico that is active in a trimeric state. We consider that our
+enzyme has important features to be used in environments in presence of EDTA,
+metals and salinity conditions.
+
+Copyright © 2020 Rodríguez-Salazar, Almeida-Juarez, Ornelas-Ocampo, Millán-López,
+Raga-Carbajal, Rodríguez-Mejía, Muriel-Millán, Godoy-Lozano, Rivera-Gómez,
+Rudiño-Piñera and Pardo-López.
+
+DOI: 10.3389/fmicb.2020.01100 
+PMCID: PMC7287156
+PMID: 32582076 
+

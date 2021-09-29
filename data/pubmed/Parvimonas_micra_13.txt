@@ -1,0 +1,54 @@
+
+1. PLoS One. 2020 May 20;15(5):e0233170. doi: 10.1371/journal.pone.0233170.
+eCollection 2020.
+
+MinION Sequencing of colorectal cancer tumour microbiomes-A comparison with
+amplicon-based and RNA-Sequencing.
+
+Taylor WS(1), Pearson J(2), Miller A(3), Schmeier S(4), Frizelle FA(1), Purcell
+RV(1).
+
+Author information: 
+(1)Department of Surgery, University of Otago, Christchurch, New Zealand.
+(2)Biostatistics and Computational Biology Unit, University of Otago,
+Christchurch, New Zealand.
+(3)Gene Structure and Function Laboratory, University of Otago, Christchurch, New
+Zealand.
+(4)Institute of Natural and Mathematical Sciences, Massey University, Auckland,
+New Zealand.
+
+BACKGROUND: Recent evidence suggests a role for the gut microbiome in the
+development and progression of many diseases and many studies have been carried
+out to analyse the microbiome using a variety of methods. In this study, we
+compare MinION sequencing with meta-transcriptomics and amplicon-based sequencing
+for microbiome analysis of colorectal tumour tissue samples.
+METHODS: DNA and RNA were extracted from 11 colorectal tumour samples. 16S rRNA
+amplicon sequencing and MinION sequencing was carried out using genomic DNA, and 
+RNA-Sequencing for meta-transcriptomic analysis. Non-human MinION and
+RNA-Sequencing reads, and 16S rRNA amplicon sequencing reads were taxonomically
+classified using a database built from available RefSeq bacterial and archaeal
+genomes and a k-mer based algorithm in Kraken2. Concordance between the three
+platforms at different taxonomic levels was tested on a per-sample basis using
+Spearman's rank correlation.
+RESULTS: The average number of reads per sample using RNA-Sequencing was greater 
+than 129 times that generated using MinION sequencing. However, the average read 
+length of MinION sequences was more than 13 times that of RNA or 16S rRNA
+amplicon sequencing. Taxonomic assignment using 16S sequencing was less reliable 
+beyond the genus level, and both RNA-Sequencing and MinION sequencing could
+detect greater numbers of phyla and genera in the same samples, compared to 16S
+sequencing. Bacterial species associated with colorectal cancer, Fusobacterium
+nucleatum, Parvimonas micra, Bacteroides fragilis and Porphyromonas gingivalis,
+were detectable using MinION, RNA-Sequencing and 16S rRNA amplicon sequencing
+data.
+CONCLUSIONS: Long-read sequences generated using MinION sequencing can compensate
+for low numbers of reads for bacterial classification. MinION sequencing can
+discriminate between bacterial strains and plasmids and shows potential as a
+cost-effective tool for rapid microbiome sequencing in a clinical setting.
+
+DOI: 10.1371/journal.pone.0233170 
+PMCID: PMC7239435
+PMID: 32433701  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

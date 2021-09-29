@@ -1,0 +1,52 @@
+
+1. Int J Syst Evol Microbiol. 2020 Sep 17. doi: 10.1099/ijsem.0.004471. [Epub ahead 
+of print]
+
+Streptococcus catagoni sp. nov., isolated from the respiratory tract of diseased 
+Chacoan peccaries (Catagonus wagneri).
+
+Mühldorfer K(1), Szentiks CA(1), Wibbelt G(1), van der Linden M(2), Ewers C(3),
+Semmler T(4), Akimkin V(5), Blom J(6), Rau J(5), Eisenberg T(7)(3).
+
+Author information: 
+(1)Department of Wildlife Diseases, Leibniz Institute for Zoo and Wildlife
+Research, Berlin, Germany.
+(2)German National Reference Center for Streptococci, Department of Medical
+Microbiology, University Hospital RWTH Aachen, Aachen, Germany.
+(3)Institute of Hygiene and Infectious Diseases of Animals, Justus Liebig
+University Giessen, Giessen, Germany.
+(4)NG1 Microbial Genomics, Robert Koch Institute, Berlin, Germany.
+(5)Chemical and Veterinary Analysis Agency Stuttgart, Fellbach, Germany.
+(6)Bioinformatics and Systems Biology, Justus Liebig University Giessen, Giessen,
+Germany.
+(7)Hessian State Laboratory, Giessen, Germany.
+
+Novel catalase-negative, Gram-stain-positive, beta-haemolytic, coccus-shaped
+organisms were isolated from Chacoan peccaries that died from respiratory
+disease. The initial API 20 Strep profiles suggested Streptococcus agalactiae
+with acceptable identification scores, but the 16S rRNA gene similarity (1548 bp)
+to available sequences of streptococci was below 98 %. Next taxa of the genus
+Streptococcus, displaying highest similarities to the strains from this study,
+were S. bovimastitidis NZ1587T (97.5 %), S. iniae ATCC 29178T (97.5 %), S.
+hongkongensis HKU30T (97.4 %), S. parauberis DSM 6631T (97.1 %), S. penaeicida
+CAIM 1838T (97.1 %), S. pseudoporcinus DSM 18513T (97.0 %), S. didelphis DSM
+15616T (96.6 %), S. ictaluri 707-05T (96.6 %), S. uberis JCM 5709T (96.5 %) and
+S. porcinus NCTC 10999T (96.4 %). All other Streptococcus species had sequence
+similarities of below 96.4 %. A sodA gene as well as whole genome-based core
+genome phylogeny of three representative strains and 145 available Streptococcus 
+genomes confirmed the unique taxonomic position. Interstrain average nucleotide
+identity (ANI) and amino acid identity (AAI) values were high (ANI >96 %; AAI
+100%), but for other streptococci clearly below the proposed species boundary of 
+95-96 % (ANI <75 %; AAI <83 %). Results were confirmed by genome-to-genome
+distance calculations. Pairwise digital DNA-DNA hybridization estimates were high
+(>90 %) between the novel strains, but well below the species boundary of 70 %
+for closely related Streptococcus type strains (23.5-19.7 %). Phenotypic
+properties as obtained from extended biochemical profiles and MALDI-TOF mass
+spectrometry supported the outstanding rank. Based on the presented molecular and
+physiological data of the six strains, we propose a novel taxon for which we
+suggest the name Streptococcus catagoni sp. nov. with the type strain 99-1/2017T 
+(=DSM 110457T=CCUG 74072T) and five reference strains.
+
+DOI: 10.1099/ijsem.0.004471 
+PMID: 32941130 
+

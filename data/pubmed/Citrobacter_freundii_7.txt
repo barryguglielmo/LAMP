@@ -1,0 +1,67 @@
+
+1. J Hosp Infect. 2020 Sep 8. pii: S0195-6701(20)30422-9. doi:
+10.1016/j.jhin.2020.09.007. [Epub ahead of print]
+
+Carbapenemase-Producing Enterobacterales (CPE) in Hospital Drains in Southern
+Ontario, Canada.
+
+Jamal AJ(1), Mataseje L(2), Brown KA(3), Katz K(4), Johnstone J(1), Muller MP(5),
+Allen VG(3), Borgia S(6), Boyd DA(2), Ciccotelli W(7), Delibasic K(8), Fisman
+DN(3), Khan N(9), Erome Leis(3), Li AX(9), Mehta M(7), Ng W(10), Pantelidis R(6),
+Paterson A(9), Pikula G(9), Sawicki R(6), Schmidt S(7), Souto R(9), Tang L(11),
+Thomas C(12), McGeer AJ(13), Mulvey MR(2).
+
+Author information: 
+(1)University of Toronto, Toronto, Ontario, Canada; Sinai Health System, Toronto,
+Ontario, Canada.
+(2)National Microbiology Laboratory, Winnipeg, Manitoba, Canada.
+(3)University of Toronto, Toronto, Ontario, Canada.
+(4)University of Toronto, Toronto, Ontario, Canada; North York General Hospital, 
+Toronto, Ontario, Canada.
+(5)University of Toronto, Toronto, Ontario, Canada; St. Michael's Hospital,
+Toronto, Ontario, Canada.
+(6)William Osler Health Center, Brampton, Ontario, Canada.
+(7)Grand River Hospital, Kitchener, Ontario, Canada.
+(8)Markham Stouffville Hospital, Markham, Ontario, Canada.
+(9)Sinai Health System, Toronto, Ontario, Canada.
+(10)North York General Hospital, Toronto, Ontario, Canada.
+(11)St. Michael's Hospital, Toronto, Ontario, Canada.
+(12)St. Joseph's Health Centre, Toronto, Ontario, Canada.
+(13)University of Toronto, Toronto, Ontario, Canada; Sinai Health System,
+Toronto, Ontario, Canada. Electronic address: allison.mcgeer@sinaihealth.ca.
+
+BACKGROUND: Hospital drains may be an important reservoir for
+carbapenemase-producing Enterobacterales (CPE).
+AIM: To determine prevalence of CPE in hospital drains exposed to in-patients
+with CPE, relatedness of drain and patient CPE, and risk factors for drain
+contamination.
+METHODS: We cultured sink and shower drains in patient rooms and communal shower 
+rooms exposed to 310 in-patients with CPE colonization/infection at 10 hospitals.
+Using short- and long-read whole-genome sequencing, in-patient and corresponding 
+drain CPE were compared. Risk factors for drain contamination were assessed using
+multi-level modelling.
+FINDINGS: Of 1,209 exposed patient room and communal shower room drains, 53 (4%) 
+yielded 62 CPE isolates in 7 (70%) hospitals. Of 49 CPE isolates in patient room 
+drains, 4 (8%) were linked to prior room occupants. Linked drain/room occupant
+pairs included Citrobacter freundii ST18 isolates separated by 8 single
+nucleotide variants (SNVs), related blaKPC-containing IncN3-type plasmids
+(different species), related blaKPC-3-containing IncN-type plasmids (different
+species), and related blaOXA-48-containing IncL/M-type plasmids (different
+species). In one hospital, drain isolates from 8 rooms on 2 units were
+Enterobacter hormaechei separated by 0-6 SNVs. Shower drains were more likely to 
+be CPE-contaminated than hand hygiene (OR 3.45, 95%CI 1.66-7.16) or patient use
+(OR 13.0, 95%CI 4.29-39.1) sink drains. Hand hygiene sink drains were more likely
+to be CPE-contaminated than patient use sink drains (OR 3.75, 95%CI 1.17-12.0).
+CONCLUSION: Drain contamination was uncommon but widely dispersed. Drain CPE
+unrelated to patient exposure suggests contamination by undetected colonized
+patients or retrograde (drain-to-drain) contamination. Drain types had different 
+contamination risks.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jhin.2020.09.007 
+PMID: 32916210 
+
+Conflict of interest statement: Declaration of Competing Interest None to
+declare.
+

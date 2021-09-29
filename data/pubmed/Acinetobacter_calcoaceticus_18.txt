@@ -1,0 +1,51 @@
+
+1. ACS Omega. 2020 Jan 23;5(4):2015-2026. doi: 10.1021/acsomega.9b04034. eCollection
+2020 Feb 4.
+
+Mechanism of Reconstitution/Activation of the Soluble PQQ-Dependent Glucose
+Dehydrogenase from Acinetobacter calcoaceticus: A Comprehensive Study.
+
+Stines-Chaumeil C(1), Mavré F(2), Kauffmann B(3), Mano N(1), Limoges B(2).
+
+Author information: 
+(1)CNRS, Université de Bordeaux, CRPP, UMR 5031, 115 Avenue Schweitzer, F-33600
+Pessac, France.
+(2)Université de Paris, Laboratoire d'Electrochimie Moléculaire, UMR 7591, CNRS, 
+F-75013 Paris, France.
+(3)CNRS UMS 3033, INSERM US001, Université de Bordeaux, IECB, 2, Rue Robert
+Escarpit, F-33607 Pessac, France.
+
+The ability to switch on the activity of an enzyme through its spontaneous
+reconstitution has proven to be a valuable tool in fundamental studies of enzyme 
+structure/reactivity relationships or in the design of artificial signal
+transduction systems in bioelectronics, synthetic biology, or bioanalytical
+applications. In particular, those based on the spontaneous
+reconstitution/activation of the apo-PQQ-dependent soluble glucose dehydrogenase 
+(sGDH) from Acinetobacter calcoaceticus were widely developed. However, the
+reconstitution mechanism of sGDH with its two cofactors, i.e., pyrroloquinoline
+quinone (PQQ) and Ca2+, remains unknown. The objective here is to elucidate this 
+mechanism by stopped-flow kinetics under single-turnover conditions. The
+reconstitution of sGDH exhibited biphasic kinetics, characteristic of a square
+reaction scheme associated with two activation pathways. From a complete kinetic 
+analysis, we were able to fully predict the reconstitution dynamics and also to
+demonstrate that when PQQ first binds to apo-sGDH, it strongly impedes the access
+of Ca2+ to its enclosed position at the bottom of the enzyme binding site,
+thereby greatly slowing down the reconstitution rate of sGDH. This slow calcium
+insertion may purposely be accelerated by providing more flexibility to the Ca2+ 
+binding loop through the specific mutation of the calcium-coordinating P248
+proline residue, reducing thus the kinetic barrier to calcium ion insertion. The 
+dynamic nature of the reconstitution process is also supported by the observation
+of a clear loop shift and a reorganization of the hydrogen-bonding network and
+van der Waals interactions observed in both active sites of the apo and holo
+forms, a structural change modulation that was revealed from the refined X-ray
+structure of apo-sGDH (PDB: 5MIN).
+
+Copyright © 2020 American Chemical Society.
+
+DOI: 10.1021/acsomega.9b04034 
+PMCID: PMC7003513
+PMID: 32039339 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

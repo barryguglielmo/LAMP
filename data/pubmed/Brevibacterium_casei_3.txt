@@ -1,0 +1,45 @@
+
+1. Braz J Microbiol. 2020 Jun;51(2):685-689. doi: 10.1007/s42770-020-00236-x. Epub
+2020 Feb 17.
+
+Draft whole-genome sequence of Brevibacterium casei strain isolated from a
+bloodstream infection.
+
+Olender A(1), Rutyna P(2), Niemcewicz M(2), Bogut A(3), Ciesielka M(4),
+Teresiński G(4).
+
+Author information: 
+(1)Chair and Department of Medical Microbiology, Medical University of Lublin,
+Lublin, Poland. alina.olender@umlub.pl.
+(2)Biological Threats Identification and Countermeasure Centre, Military
+Institute of Hygiene and Epidemiology, Puławy, Poland.
+(3)Chair and Department of Medical Microbiology, Medical University of Lublin,
+Lublin, Poland.
+(4)Chair and Department of Forensic Medicine, Medical University of Lublin,
+Lublin, Poland.
+
+Despite its low virulence potential and a commensal lifestyle as a member of the 
+human skin microbiota, Brevibacterium casei has been increasingly reported as an 
+opportunistic pathogen, especially in immunocompromised patients. Here, we
+present the draft genome sequence of the S51 strain isolated from a bloodstream
+infection. To the best of the authors' knowledge, this is the first report of the
+draft genome sequence of the B. casei strain isolated from the clinical
+infection. The strain was identified using phenotypic and molecular methods and
+subsequently sequenced using the next-generation sequencing. The draft whole
+genome was assembled de novo, automatically annotated by Rapid Annotations using 
+Subsystems Technology (RAST) server and scrutinized to predict the presence of
+virulence, resistance, and stress response proteins. The genome size of the S51
+strain was 3,743,532 bp and an average G+C content was 68.3%. The predicted genes
+included 48 genes involved in resistance to antibiotics (including vancomycin,
+fluoroquinolones, and beta-lactams) and toxic compounds (heavy metals), 16 genes 
+involved in invasion and intracellular resistance (Mycobacterium virulence
+operons), and 94 genes involved in stress response (osmotic, oxidative stress,
+cold and heat shock). ResFinder has indicated the presence of a beta-lactamase,
+and a phenotypic analysis showed resistance to penicillin. This whole-genome NGS 
+project for the S51strain has been deposited at EMBL/GenBank under the accession 
+no. QNGF00000000.
+
+DOI: 10.1007/s42770-020-00236-x 
+PMCID: PMC7203332
+PMID: 32067212 
+

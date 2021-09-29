@@ -1,0 +1,41 @@
+
+1. Antonie Van Leeuwenhoek. 2020 Jan;113(1):21-32. doi: 10.1007/s10482-019-01312-5. 
+Epub 2019 Aug 20.
+
+Isolation, identification and characterisation of an emerging fish pathogen,
+Acinetobacter pittii, from diseased loach (Misgurnus anguillicaudatus) in China.
+
+Wang X(1), Li J(1), Cao X(1), Wang W(1), Luo Y(2)(3).
+
+Author information: 
+(1)College of Fisheries, Key Laboratory of Freshwater Animal Breeding, Ministry
+of Agriculture, Huazhong Agricultural University, Wuhan, 430070, Hubei, People's 
+Republic of China.
+(2)College of Fisheries, Key Laboratory of Freshwater Animal Breeding, Ministry
+of Agriculture, Huazhong Agricultural University, Wuhan, 430070, Hubei, People's 
+Republic of China. luoyi@mail.hzau.edu.cn.
+(3)State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural
+University, Wuhan, 430070, Hubei, People's Republic of China.
+luoyi@mail.hzau.edu.cn.
+
+Although members of the genus Acinetobacter have emerged as important nosocomial 
+pathogens causing severe human infections, there are few reports about their
+occurrence as fish pathogens. In this study, five bacterial strains were isolated
+from diseased loach (Misgurnus anguillicaudatus) cultured in a farm in China. The
+diseased loach displayed shedding of skin mucus and many petechial haemorrhages
+all over the body. Based on sequence analyses of 16S rRNA and rpoB genes, the
+isolates were identified as Acinetobacter pittii. An experimental infection assay
+confirmed their pathogenicity to loach. The results of artificial infection in
+zebrafish (Barchydanio rerio) and nematode (Caenorhabditis elegans) suggested
+that, as well as loach, these A. pittii isolates are pathogenic and highly
+virulent to these organisms. Multilocus sequence typing analysis revealed that
+all the isolates belong to sequence type (ST) 839, which may be the dominant
+clone causing fish disease and exhibits a close phylogenetic relationship with
+ST396 from human clinical samples in Korea or Taiwan China. This is the first
+report demonstrating that A. pittii is an emerging causal agent of mass mortality
+in loach and poses significant risks to fish culturing besides causing human
+clinical infection worldwide.
+
+DOI: 10.1007/s10482-019-01312-5 
+PMID: 31432291  [Indexed for MEDLINE]
+

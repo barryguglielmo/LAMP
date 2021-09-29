@@ -1,0 +1,40 @@
+
+1. Nat Plants. 2020 Mar;6(3):202-208. doi: 10.1038/s41477-020-0614-6. Epub 2020 Mar 
+9.
+
+CRISPR-Cas12b enables efficient plant genome engineering.
+
+Ming M(1)(2), Ren Q(3), Pan C(1), He Y(3), Zhang Y(1), Liu S(3), Zhong Z(3), Wang
+J(3), Malzahn AA(1), Wu J(2), Zheng X(3), Zhang Y(4), Qi Y(5)(6).
+
+Author information: 
+(1)Department of Plant Science and Landscape Architecture, University of
+Maryland, College Park, MD, USA.
+(2)Centre of Pear Engineering Technology Research, State Key Laboratory of Crop
+Genetics and Germplasm Enhancement, Nanjing Agricultural University, Nanjing,
+China.
+(3)Department of Biotechnology, School of Life Science and Technology, Center for
+Informational Biology, University of Electronic Science and Technology of China, 
+Chengdu, China.
+(4)Department of Biotechnology, School of Life Science and Technology, Center for
+Informational Biology, University of Electronic Science and Technology of China, 
+Chengdu, China. zhangyong916@uestc.edu.cn.
+(5)Department of Plant Science and Landscape Architecture, University of
+Maryland, College Park, MD, USA. yiping@umd.edu.
+(6)Institute for Bioscience and Biotechnology Research, University of Maryland,
+Rockville, MD, USA. yiping@umd.edu.
+
+Clustered regularly interspaced short palindromic repeats (CRISPR)-Cas12b is a
+newly emerged genome engineering system. Here, we compared Cas12b from
+Alicyclobacillus acidoterrestris (Aac), Alicyclobacillus acidiphilus (Aa),
+Bacillus thermoamylovorans (Bth) and Bacillus hisashii (Bh) for genome
+engineering in rice, an important crop. We found AaCas12b was more efficient than
+AacCas12b and BthCas12b for targeted mutagenesis, which was further demonstrated 
+in multiplexed genome editing. We also engineered the Cas12b systems for targeted
+transcriptional repression and activation. Our work establishes Cas12b as the
+third promising CRISPR system, after Cas9 and Cas12a, for plant genome
+engineering.
+
+DOI: 10.1038/s41477-020-0614-6 
+PMID: 32170285 
+

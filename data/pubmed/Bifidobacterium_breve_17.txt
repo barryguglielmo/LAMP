@@ -1,0 +1,44 @@
+
+1. Sci Rep. 2020 Jul 14;10(1):11598. doi: 10.1038/s41598-020-68179-9.
+
+Bifidobacterial biofilm formation is a multifactorial adaptive phenomenon in
+response to bile exposure.
+
+Kelly SM(1)(2), Lanigan N(1)(2), O'Neill IJ(2), Bottacini F(2), Lugli GA(3),
+Viappiani A(4), Turroni F(3)(5), Ventura M(3)(5), van Sinderen D(6)(7).
+
+Author information: 
+(1)School of Microbiology, University College Cork, Western Road, Cork, Ireland.
+(2)APC Microbiome Ireland, University College Cork, Western Road, Cork, Ireland.
+(3)Laboratory of Probiogenomics, Department of Chemistry, Life Sciences, and
+Environmental Sustainability, University of Parma, Parma, Italy.
+(4)GenProbio Srl, 43124, Parma, Italy.
+(5)Microbiome Research Hub, University of Parma, Parma, Italy.
+(6)School of Microbiology, University College Cork, Western Road, Cork, Ireland. 
+d.vansinderen@ucc.ie.
+(7)APC Microbiome Ireland, University College Cork, Western Road, Cork, Ireland. 
+d.vansinderen@ucc.ie.
+
+In the current study, we show that biofilm formation by various strains and
+species belonging to Bifidobacterium, a genus that includes gut commensals with
+reported health-promoting activities, is induced by high concentrations of bile
+(0.5% (w/v) or higher) and individual bile salts (20 mM or higher), rather than
+by acid or osmotic stress. The transcriptomic response of a bifidobacterial
+prototype Bifidobacterium breve UCC2003 to such high bile concentrations was
+investigated and a random transposon bank of B. breve UCC2003 was screened for
+mutants that affect biofilm formation in order to identify genes involved in this
+adaptive process. Eleven mutants affected in their ability to form a biofilm were
+identified, while biofilm formation capacity of an insertional mutation in luxS
+and an exopolysaccharide (EPS) negative B. breve UCC2003 was also studied.
+Reduced capacity to form biofilm also caused reduced viability when exposed to
+porcine bile. We propose that bifidobacterial biofilm formation is an adaptive
+response to high concentrations of bile in order to avoid bactericidal effects of
+high bile concentrations in the gastrointestinal environment. Biofilm formation
+appears to be a multi-factorial process involving EPS production, proteins and
+extracellular DNA release, representing a crucial strategy in response to bile
+stress in order to enhance fitness in the gut environment.
+
+DOI: 10.1038/s41598-020-68179-9 
+PMCID: PMC7360559
+PMID: 32665665 
+

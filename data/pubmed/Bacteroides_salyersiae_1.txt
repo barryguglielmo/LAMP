@@ -1,0 +1,43 @@
+
+1. J Biol Chem. 2020 Mar 27;295(13):4316-4326. doi: 10.1074/jbc.RA119.011591. Epub
+2019 Dec 22.
+
+Structure and function of Bs164 β-mannosidase from Bacteroides salyersiae the
+founding member of glycoside hydrolase family GH164.
+
+Armstrong Z(1), Davies GJ(2).
+
+Author information: 
+(1)Department of Chemistry, Structural Biology Laboratory, The University of
+York, York YO10 5DD, United Kingdom.
+(2)Department of Chemistry, Structural Biology Laboratory, The University of
+York, York YO10 5DD, United Kingdom gideon.davies@york.ac.uk.
+
+Recent work exploring protein sequence space has revealed a new glycoside
+hydrolase (GH) family (GH164) of putative mannosidases. GH164 genes are present
+in several commensal bacteria, implicating these genes in the degradation of
+dietary glycans. However, little is known about the structure, mechanism of
+action, and substrate specificity of these enzymes. Herein we report the
+biochemical characterization and crystal structures of the founding member of
+this family (Bs164) from the human gut symbiont Bacteroides salyersiae. Previous 
+reports of this enzyme indicated that it has α-mannosidase activity, however, we 
+conclusively show that it cleaves only β-mannose linkages. Using NMR
+spectroscopy, detailed enzyme kinetics of WT and mutant Bs164, and multiangle
+light scattering we found that it is a trimeric retaining β-mannosidase, that is 
+susceptible to several known mannosidase inhibitors. X-ray crystallography
+revealed the structure of Bs164, the first known structure of a GH164, at 1.91 Å 
+resolution. Bs164 is composed of three domains: a (β/α)8 barrel, a trimerization 
+domain, and a β-sandwich domain, representing a previously unobserved
+structural-fold for β-mannosidases. Structures of Bs164 at 1.80-2.55 Å resolution
+in complex with the inhibitors noeuromycin, mannoimidazole, or 2,4-dinitrophenol 
+2-deoxy-2-fluoro-mannoside reveal the residues essential for specificity and
+catalysis including the catalytic nucleophile (Glu-297) and acid/base residue
+(Glu-160). These findings further our knowledge of the mechanisms commensal
+microbes use for nutrient acquisition.
+
+© 2020 Armstrong and Davies.
+
+DOI: 10.1074/jbc.RA119.011591 
+PMCID: PMC7105311
+PMID: 31871050 
+

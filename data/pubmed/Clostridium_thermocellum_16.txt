@@ -1,0 +1,43 @@
+
+1. Microb Biotechnol. 2020 Apr 28. doi: 10.1111/1751-7915.13580. [Epub ahead of
+print]
+
+Thermophilic whole-cell degradation of polyethylene terephthalate using
+engineered Clostridium thermocellum.
+
+Yan F(1)(2)(3), Wei R(4), Cui Q(1)(2)(3), Bornscheuer UT(4), Liu YJ(1)(2)(3).
+
+Author information: 
+(1)CAS Key Laboratory of Biofuels, Shandong Provincial Key Laboratory of
+Synthetic Biology, Qingdao Institute of Bioenergy and Bioprocess Technology,
+Chinese Academy of Sciences, Qingdao, 266101, China.
+(2)Dalian National Laboratory for Clean Energy, Qingdao, 266101, China.
+(3)University of Chinese Academy of Sciences, Chinese Academy of Sciences,
+Beijing, 100049, China.
+(4)Department of Biotechnology and Enzyme Catalysis, Institute of Biochemistry,
+Greifswald University, Felix-Hausdorff-Str. 4, D-17487, Greifswald, Germany.
+
+Polyethylene terephthalate (PET) is a mass-produced synthetic polyester
+contributing remarkably to the accumulation of solid plastics waste and plastics 
+pollution in the natural environments. Recently, bioremediation of plastics waste
+using engineered enzymes has emerged as an eco-friendly alternative approach for 
+the future plastic circular economy. Here we genetically engineered a
+thermophilic anaerobic bacterium, Clostridium thermocellum, to enable the
+secretory expression of a thermophilic cutinase (LCC), which was originally
+isolated from a plant compost metagenome and can degrade PET at up to 70°C. This 
+engineered whole-cell biocatalyst allowed a simultaneous high-level expression of
+LCC and conspicuous degradation of commercial PET films at 60°C. After 14 days
+incubation of a batch culture, more than 60% of the initial mass of a PET film
+(approximately 50 mg) was converted into soluble monomer feedstocks, indicating a
+markedly higher degradation performance than previously reported whole-cell-based
+PET biodegradation systems using mesophilic bacteria or microalgae. Our findings 
+provide clear evidence that, compared to mesophilic species, thermophilic
+microbes are a more promising synthetic microbial chassis for developing future
+biodegradation processes of PET waste.
+
+© 2020 The Authors. Microbial Biotechnology published by John Wiley & Sons Ltd
+and Society for Applied Microbiology.
+
+DOI: 10.1111/1751-7915.13580 
+PMID: 32343496 
+

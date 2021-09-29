@@ -1,0 +1,68 @@
+
+1. J Glob Antimicrob Resist. 2020 Sep;22:835-841. doi: 10.1016/j.jgar.2020.06.022.
+Epub 2020 Jul 8.
+
+Occurrence of two NDM-1-producing Raoultella ornithinolytica and Enterobacter
+cloacae in a single patient in China: probable a novel antimicrobial resistance
+plasmid transfer in vivo by conjugation.
+
+Yu C(1), Wei X(2), Wang Z(3), Liu L(2), Liu Z(2), Liu J(4), Wu L(5), Guo H(6),
+Jin Z(7).
+
+Author information: 
+(1)Department of Microbiology, School of Basic Medical Sciences, Hubei University
+of Medicine, Hubei, Shiyan 442000, China; Department of Clinical Laboratory,
+Affiliated dongfeng Hospital, Hubei University of Medicine, Hubei, Shiyan 442000,
+China; Hubei Key Laboratory of Wudang Local Chinese Medicine Research, Hubei,
+Shiyan 442000, China.
+(2)Department of Microbiology, School of Basic Medical Sciences, Hubei University
+of Medicine, Hubei, Shiyan 442000, China.
+(3)Department of Blood Transfusion, Taihe Hospital, Hubei, Shiyan 442008, China.
+(4)First College of Clinical Medicine, Institute of Medicine and Nursing, Hubei
+University of Medicine, Hubei, Shiyan 442000, China.
+(5)School of Basic Medical Science, Hubei University of Medicine, Hubei, Shiyan
+442000, China.
+(6)School of Public Health and Management, Hubei University of Medicine, Hubei,
+Shiyan 442000, China; Center for Environment and Health in Water Source Area of
+South-to-North Water Diversion, Hubei University of Medicine, Hubei, Shiyan
+442000, China.
+(7)Department of Clinical Laboratory, Affiliated dongfeng Hospital, Hubei
+University of Medicine, Hubei, Shiyan 442000, China. Electronic address:
+jzx8801150@163.com.
+
+OBJECTIVES: To identify the general features of acquisition of drug-resistance
+genes in two multi-drug resistant Enterobacteriaceae strains isolated from a
+single patient in China.
+METHODS: The whole-plasmid was sequenced by Illumina Hiseq 4000 and Pacbio RSII
+procedures. The plasmid conjugation transfer experiment were performed by the
+mating-out assay. Drug-resistance genes were amplified by PCR assay.
+RESULTS: We identified two New Delhi metallo-β-lactamase type 1(NDM-1)-producing 
+isolates, named Raoultella ornithinolytica B1645-1 and Enterobacter cloacae
+B1645-2, which shared the same sulfonamide-resistant dihydropteroate synthase
+sul2 gene and aminoglycoside O-phosphotransferase aph(3'')-Ib gene. A novel
+antimicrobial resistance plasmid pCYNDM01 was first discovered from the
+multi-drug resistant R. ornithinolytica B1645-1. Interestingly, plasmid pCYNDM01 
+carried a Gifsy-2 prophage gene. The blaNDM-1 gene was located on a novel complex
+class 1 integron with a structure of
+sul1-qacEΔ1-ΔISAba125-blaNDM-1-blaMBL-trpC-ISCR1-catb8-aacA4-IS1-IS6100-dfrA14-in
+tI1. The carrying the blaNDM-1 gene plasmid pCYNDM01 was transferred to the E.
+cloacae B1645-2 recipient strain. This 149.44 kb plasmid pCYNDM01 belonged to the
+IncFII type.
+CONCLUSIONS: A novel antimicrobial resistance plasmid pCYNDM01 was first
+recovered from a multi-drug resistance R. ornithinolytica B1645-1 isolated from
+China. The novel complex sul1-type class 1 integron might play an essential role 
+in the mobilization of the blaNDM-1 gene among different enterobacterial species.
+The occurrence of plasmid pCYNDM01 transfer from R. ornithinolytica to E. cloacae
+in vitro by conjugation showed that plasmid pCYNDM01 was a self-conjugative
+plasmid and might cause dissemination of drug-resistance genes within different
+enterobacterial species from a single patient in vivo by conjugation. The novel
+variant F-like T4SS of plasmid pCYNDM01 might be as a tool of R. ornithinolytica 
+B1645-1 for resistance genes transfer. The emergence of the two NDM-1-producing
+Enterobacteriaceae strains should be attracted China attentions and required to
+prevent its future prevalence.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jgar.2020.06.022 
+PMID: 32652247 
+

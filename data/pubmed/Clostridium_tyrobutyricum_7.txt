@@ -1,0 +1,46 @@
+
+1. Biotechnol Bioeng. 2020 Sep;117(9):2911-2917. doi: 10.1002/bit.27435. Epub 2020
+Jun 4.
+
+Enhancing plasmid transformation efficiency and enabling CRISPR-Cas9/Cpf1-based
+genome editing in Clostridium tyrobutyricum.
+
+Zhang J(1)(2), Hong W(1)(3), Guo L(4), Wang Y(1)(5), Wang Y(1)(5).
+
+Author information: 
+(1)Department of Biosystems Engineering, Auburn University, Auburn, Alabama.
+(2)Key Laboratory for Feed Biotechnology of the Ministry of Agriculture and Rural
+Affairs, Feed Research Institute, Chinese Academy of Agricultural Sciences,
+Beijing, China.
+(3)Key Laboratory of Endemic and Ethnic Diseases, Guizhou Medical University,
+Ministry of Education, Guiyang, China.
+(4)College of Environmental Science and Engineering, Ocean University of China,
+Qingdao, China.
+(5)Center for Bioenergy and Bioproducts, Auburn University, Auburn, Alabama.
+
+Clostridium tyrobutyricum ATCC 25755 is known as a natural hyper-butyrate
+producer with great potentials as an excellent platform to be engineered for
+valuable biochemical production from renewable resources. However, limited
+transformation efficiency and the lack of genetic manipulation tools have
+hampered the broader applications of this micro-organism. In this study, the
+effects of Type I restriction-modification system and native plasmid on
+conjugation efficiency of C. tyrobutyricum were investigated through gene
+deletion. The deletion of Type I restriction endonuclease resulted in a 3.7-fold 
+increase in conjugation efficiency, while the additional elimination of the
+native plasmid further enhanced conjugation efficiency to 6.05 ± 0.75 × 103
+CFU/ml-donor, which was 15.3-fold higher than the wild-type strain. Fermentation 
+results indicated that the deletion of those two genetic elements did not
+significantly influence the end-products production in the resultant mutant
+ΔRMIΔNP. Thanks to the increased conjugation efficiency, the CRISPR-Cas9/Cpf1
+systems, which previously could not be implemented in C. tyrobutyricum, were
+successfully employed for genome editing in ΔRMIΔNP with an efficiency of
+12.5-25%. Altogether, approaches we developed herein offer valuable guidance for 
+establishing efficient DNA transformation methods in nonmodel micro-organisms.
+The ΔRMIΔNP mutant can serve as a great chassis to be engineered for diverse
+valuable biofuel and biochemical production.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1002/bit.27435 
+PMID: 32437010 
+

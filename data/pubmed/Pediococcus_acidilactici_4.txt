@@ -1,0 +1,61 @@
+
+1. Food Res Int. 2020 Oct;136:109478. doi: 10.1016/j.foodres.2020.109478. Epub 2020 
+Jun 27.
+
+Exploring the contribution of fructophilic lactic acid bacteria to cocoa beans
+fermentation: Isolation, selection and evaluation.
+
+Viesser JA(1), de Melo Pereira GV(2), de Carvalho Neto DP(1), Vandenberghe
+LPS(1), Azevedo V(3), Brenig B(4), Rogez H(5), Góes-Neto A(6), Soccol CR(1).
+
+Author information: 
+(1)Department of Bioprocess Engineering and Biotechnology, Federal University of 
+Paraná (UFPR), 81531-970 Curitiba, PR, Brazil.
+(2)Department of Bioprocess Engineering and Biotechnology, Federal University of 
+Paraná (UFPR), 81531-970 Curitiba, PR, Brazil. Electronic address:
+gilbertovinicius@gmail.com.
+(3)Institute of Biological Sciences, Federal University of Minas Gerais,
+31270-901 Belo Horizonte, MG, Brazil.
+(4)Institute of Veterinary Medicine, University of Göttingen, 37073 Göttingen,
+Germany.
+(5)Centre for Valorisation of Amazonian Bioactive Compounds (CVACBA), Federal
+University of Pará, 66.095-780 Belém, PA, Brazil.
+(6)Institute of Biological Sciences, Federal University of Minas Gerais,
+31270-901 Belo Horizonte, MG, Brazil; Biological Sciences Department, State
+University of Feira de Santana, 44036-900 Feira de Santana, BA, Brazil.
+
+Fructophilic lactic acid bacteria (FLAB) are a recently discovered group whose
+main characteristic is to prefer D-fructose over D-glucose. In this study,
+laboratory cocoa beans fermentation was analyzed by Illumina-based amplicon
+sequencing, indicating the presence of potential FLAB of the genera
+Fructobacillus and Lactobacillus. Eighty efficient fructose-fermenting isolates, 
+obtained from fermenting cocoa pulp beans mass, were identified by 16S rRNA gene 
+sequencing as Pediococcus acidilactici (n = 52), Lactobacillus plantarum
+(n = 10), Pediococcus pentosaceus (n = 10), Bacillus subtilis (n = 4), and
+Leuconostoc pseudomesenteroides (n = 4). The growth characteristics of all the 10
+L. plantarum strains classified them as "facultatively" fructophilic bacteria,
+i.e., they grew on glucose without an external electron acceptor but the growth
+on fructose was faster. Among them, L. plantarum LPBF 35 was characterized by
+producing a range of aroma-impacting compounds (acetaldehyde, ethyl acetate,
+nonanal, and octanoic acid), being introduced into a cocoa fermentation process. 
+Although the process started with approximately equal amounts of glucose and
+fructose, a concomitant, but faster utilization of fructose, was observed in
+cocoa fermentation conducted with L. plantarum LPBF 35 (with no residual fructose
+observed) when compared to control fermentation using a glucophilic strain
+(8.77 mg/g residual fructose) and a spontaneous process (8.38 mg/g residual
+fructose). L. plantarum LPBF 35 also showed an ideal profile of organic acid
+metabolism (citric acid consumption and lactic acid production) associated with
+cocoa fermentation. These results proved new insights on cocoa microbial activity
+and brings new perspectives on the use of lactic acid bacteria as starter
+culture.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foodres.2020.109478 
+PMID: 32846561 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

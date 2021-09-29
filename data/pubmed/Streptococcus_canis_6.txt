@@ -1,0 +1,37 @@
+
+1. Jpn J Infect Dis. 2020 May 22;73(3):242-249. doi: 10.7883/yoken.JJID.2019.392.
+Epub 2020 Jan 31.
+
+Novel Quinolone Nonsusceptible Streptococcus canis Strains with Point Mutations
+in Quinolone Resistance-Determining Regions and Their Related Factors.
+
+Fukushima Y(1), Tsuyuki Y(1)(2), Goto M(1), Yoshida H(1), Takahashi T(1).
+
+Author information: 
+(1)Laboratory of Infectious Diseases, Graduate School of Infection Control
+Sciences & Kitasato Institute for Life Sciences, Kitasato University.
+(2)Division of Clinical Laboratory, Sanritsu Zelkova Veterinary Laboratory.
+
+This study investigated quinolone nonsusceptible Streptococcus canis with point
+mutations in quinolone resistance-determining regions (QRDRs). After selecting
+targets from 185 isolates, we tested antimicrobial susceptibility using
+levofloxacin, ciprofloxacin, norfloxacin, and moxifloxacin. We also determined
+the amino acid sequences of QRDRs in gyrA/gyrB/parC/parE genes and their point
+mutations. Finally, we performed S. canis-derived M-like protein (SCM) allele
+typing, multilocus sequence typing, and antimicrobial resistance genotyping.
+Correlations between nonsusceptible strains and their related factors were
+examined. We found 13 (7.0%) nonsusceptible isolates consisting of two classes,
+high-level minimum inhibitory concentrations (MICs) (n = 7, 3.8%) and low-level
+MICs (n = 6, 3.2%). Mutations Ser81Phe/Ser81Tyr/Glu85Lys in gyrA,
+Ser67Phe/Ser67Tyr/Asp71Tyr in parC, Asp438Asn in parE, and Gly408Asp in gyrB were
+observed in these nonsusceptible strains. Common mutations included Ser81 and
+Ser67/Asp71; additionally, we found one strain each with Glu85, Asp438, and
+Gly408 mutations. There was a significant correlation between nonsusceptible
+isolates and the presence of SCM allele type 2, sequence type 46,
+tetracyclineresistance genes, and macrolide/lincosamide-resistance genes. These
+results could be used in future, by veterinarians while treating companion
+animals with clinical symptoms of streptococcal infections.
+
+DOI: 10.7883/yoken.JJID.2019.392 
+PMID: 32009056 
+

@@ -1,0 +1,45 @@
+
+1. PLoS Biol. 2020 Mar 30;18(3):e3000686. doi: 10.1371/journal.pbio.3000686.
+eCollection 2020 Mar.
+
+A compact Cas9 ortholog from Staphylococcus Auricularis (SauriCas9) expands the
+DNA targeting scope.
+
+Hu Z(1), Wang S(1), Zhang C(1), Gao N(1), Li M(1), Wang D(1), Wang D(1), Liu
+D(2), Liu H(3), Ong SG(4)(5), Wang H(1), Wang Y(1)(2)(6).
+
+Author information: 
+(1)Obstetrics and Gynecology Hospital, State Key Laboratory of Genetic
+Engineering at School of Life Sciences, Zhongshan Hospital, Fudan University,
+Shanghai, China.
+(2)School of Life Sciences, Co-innovation Center of Neuroregeneration, Jiangsu
+Key Laboratory of Neuroregeneration, Nantong University, Nantong, China.
+(3)Experimental Center of Forestry in North China, Chinese Academy of Forestry,
+Beijing, China.
+(4)Department of Pharmacology, University of Illinois College of Medicine,
+Chicago, Illinois, United States of America.
+(5)Division of Cardiology, Department of Medicine, University of Illinois College
+of Medicine, Chicago, Illinois, United States of America.
+(6)Shanghai Engineering Research Center of Industrial Microorganisms, Shanghai,
+China.
+
+Compact CRISPR/Cas9 systems that can be packaged into an adeno-associated virus
+(AAV) hold great promise for gene therapy. Unfortunately, currently available
+small Cas9 nucleases either display low activity or require a long protospacer
+adjacent motif (PAM) sequence, limiting their extensive applications. Here, we
+screened a panel of Cas9 nucleases and identified a small Cas9 ortholog from
+Staphylococcus auricularis (SauriCas9), which recognizes a simple NNGG PAM,
+displays high activity for genome editing, and is compact enough to be packaged
+into an AAV for genome editing. Moreover, the conversion of adenine and cytosine 
+bases can be achieved by fusing SauriCas9 to the cytidine and adenine deaminase. 
+Therefore, SauriCas9 holds great potential for both basic research and clinical
+applications.
+
+DOI: 10.1371/journal.pbio.3000686 
+PMCID: PMC7145270
+PMID: 32226015  [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal's policy and the authors 
+of this manuscript have the following competing interests: The authors have
+applied for a patent related to this work.
+

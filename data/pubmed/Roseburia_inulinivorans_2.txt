@@ -1,0 +1,56 @@
+
+1. Microb Genom. 2020 Jul;6(7). doi: 10.1099/mgen.0.000399.
+
+Comparative genomics of the genus Roseburia reveals divergent biosynthetic
+pathways that may influence colonic competition among species.
+
+Hillman ET(1)(2), Kozik AJ(2)(3)(4), Hooker CA(1), Burnett JL(5), Heo Y(6),
+Kiesel VA(7), Nevins CJ(8)(6), Oshiro JMKI(7), Robins MM(1), Thakkar RD(9)(5), Wu
+ST(5), Lindemann SR(2)(5)(9).
+
+Author information: 
+(1)Department of Agricultural and Biological Engineering, Purdue University, West
+Lafayette, IN 47907, USA.
+(2)Purdue University Interdisciplinary Life Science Program (PULSe), Purdue
+University, West Lafayette, IN 47907, USA.
+(3)Present address: Division of Pulmonary and Critical Care Medicine, Department 
+of Internal Medicine, University of Michigan, Ann Arbor, MI 48109, USA.
+(4)Department of Comparative Pathobiology, Purdue University, West Lafayette, IN 
+47907, USA.
+(5)Department of Food Science, Purdue University, West Lafayette, IN 47907, USA.
+(6)Department of Agronomy, Purdue University, West Lafayette, IN 47907, USA.
+(7)Department of Nutrition Science, Purdue University, West Lafayette, IN 47907, 
+USA.
+(8)Present address: Department of Soil and Water Sciences, University of Florida,
+Gainesville, FL 32603, USA.
+(9)Whistler Center for Carbohydrate Research, Purdue University, West Lafayette, 
+IN 47907, USA.
+
+Roseburia species are important denizens of the human gut microbiome that ferment
+complex polysaccharides to butyrate as a terminal fermentation product, which
+influences human physiology and serves as an energy source for colonocytes.
+Previous comparative genomics analyses of the genus Roseburia have examined
+polysaccharide degradation genes. Here, we characterize the core and pangenomes
+of the genus Roseburia with respect to central carbon and energy metabolism, as
+well as biosynthesis of amino acids and B vitamins using orthology-based methods,
+uncovering significant differences among species in their biosynthetic
+capacities. Variation in gene content among Roseburia species and strains was
+most significant for cofactor biosynthesis. Unlike all other species of Roseburia
+that we analysed, Roseburia inulinivorans strains lacked biosynthetic genes for
+riboflavin or pantothenate but possessed folate biosynthesis genes. Differences
+in gene content for B vitamin synthesis were matched with differences in putative
+salvage and synthesis strategies among species. For example, we observed extended
+biotin salvage capabilities in R. intestinalis strains, which further suggest
+that B vitamin acquisition strategies may impact fitness in the gut ecosystem. As
+differences in the functional potential to synthesize components of biomass (e.g.
+amino acids, vitamins) can drive interspecies interactions, variation in
+auxotrophies of the Roseburia spp. genomes may influence in vivo gut ecology.
+This study serves to advance our understanding of the potential metabolic
+interactions that influence the ecology of Roseburia spp. and, ultimately, may
+provide a basis for rational strategies to manipulate the abundances of these
+species.
+
+DOI: 10.1099/mgen.0.000399 
+PMCID: PMC7478625
+PMID: 32589566 
+

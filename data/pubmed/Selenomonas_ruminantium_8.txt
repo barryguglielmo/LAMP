@@ -1,0 +1,59 @@
+
+1. Front Immunol. 2020 Jun 19;11:1245. doi: 10.3389/fimmu.2020.01245. eCollection
+2020.
+
+Low IgA Associated With Oropharyngeal Microbiota Changes and Lung Disease in
+Primary Antibody Deficiency.
+
+Berbers RM(1), Mohamed Hoesein FAA(2), Ellerbroek PM(3), van Montfrans JM(4),
+Dalm VASH(5)(6)(7), van Hagen PM(5)(6)(7), Paganelli FL(8), Viveen MC(8), Rogers 
+MRC(8), de Jong PA(2), Uh HW(9), Willems RJL(8), Leavis HL(1).
+
+Author information: 
+(1)Department of Rheumatology and Clinical Immunology, University Medical Center 
+Utrecht and Utrecht University, Utrecht, Netherlands.
+(2)Department of Radiology, University Medical Center Utrecht and Utrecht
+University, Utrecht, Netherlands.
+(3)Department of Internal Medicine and Infectious Diseases, University Medical
+Center Utrecht and Utrecht University, Utrecht, Netherlands.
+(4)Department of Paediatric Immunology and Infectious Diseases, University
+Medical Center Utrecht and Utrecht University, Utrecht, Netherlands.
+(5)Division of Clinical Immunology, Department of Internal Medicine, Erasmus
+University Medical Center Rotterdam, Rotterdam, Netherlands.
+(6)Department of Immunology, Erasmus University Medical Center Rotterdam,
+Rotterdam, Netherlands.
+(7)Academic Center for Rare Immunological Diseases (RIDC), Erasmus University
+Medical Center Rotterdam, Rotterdam, Netherlands.
+(8)Department of Medical Microbiology, University Medical Center Utrecht and
+Utrecht University, Utrecht, Netherlands.
+(9)Department of Biostatistics and Research Support, University Medical Center
+Utrecht and Utrecht University, Utrecht, Netherlands.
+
+Common Variable Immunodeficiency (CVID) and X-linked agammaglobulinemia (XLA) are
+primary antibody deficiencies characterized by hypogammaglobulinemia and
+recurrent infections, which can lead to structural airway disease (AD) and
+interstitial lung disease (ILD). We investigated associations between serum IgA, 
+oropharyngeal microbiota composition and severity of lung disease in these
+patients. In this cross-sectional multicentre study we analyzed oropharyngeal
+microbiota composition of 86 CVID patients, 12 XLA patients and 49 healthy
+controls (HC) using next-generation sequencing of the 16S rRNA gene. qPCR was
+used to estimate bacterial load. IgA was measured in serum. High resolution CT
+scans were scored for severity of AD and ILD. Oropharyngeal bacterial load was
+increased in CVID patients with low IgA (p = 0.013) and XLA (p = 0.029) compared 
+to HC. IgA status was associated with distinct beta (between-sample) diversity (p
+= 0.039), enrichment of (Allo)prevotella, and more severe radiographic lung
+disease (p = 0.003), independently of recent antibiotic use. AD scores were
+positively associated with Prevotella, Alloprevotella, and Selenomonas, and ILD
+scores with Streptococcus and negatively with Rothia. In clinically stable
+patients with CVID and XLA, radiographic lung disease was associated with IgA
+deficiency and expansion of distinct oropharyngeal bacterial taxa. Our findings
+highlight IgA as a potential driver of upper respiratory tract microbiota
+homeostasis.
+
+Copyright © 2020 Berbers, Mohamed Hoesein, Ellerbroek, van Montfrans, Dalm, van
+Hagen, Paganelli, Viveen, Rogers, de Jong, Uh, Willems and Leavis.
+
+DOI: 10.3389/fimmu.2020.01245 
+PMCID: PMC7318304
+PMID: 32636843 
+

@@ -1,0 +1,44 @@
+
+1. Enzyme Microb Technol. 2019 Dec;131:109385. doi: 10.1016/j.enzmictec.2019.109385.
+Epub 2019 Jul 19.
+
+Genomic comparison of anoxybacillus flavithermus AK1, a thermophilic bacteria,
+with other strains.
+
+Khalil AB(1), Qarawi S(2), Sivakumar N(3).
+
+Author information: 
+(1)Department of Life Sciences, King Fahd University of Petroleum and Minerals,
+Dhahran, Saudi Arabia. Electronic address: amjadb@kfupm.edu.sa.
+(2)Biosciences Core Lab, King Abdullah University of Science and Technology,
+Thuwal, Jeddah, Saudi Arabia.
+(3)Biomeritz, Research consulting and Distribution Company, Chennai, India.
+
+From ecological and industrial perspectives, Anoxybacillus flavithermus species
+that lives in a thermophilic environment, are extremely important bacteria due to
+their potential in producing highly interesting compounds and enzymes. In order
+to understand the genetic makeup of these thermophiles, we have performed a
+comparative genomics study of 12 genome-sequenced strains of Anoxybacillus
+flavithermus bacteria. The genome size of Anoxybacillus flavithermus strains is
+from 2.5Mbp to 3.7Mbp and on average containing a low percentage of G + C genomic
+content (˜41.9%). We show that, on the basis of the total gene-content,
+Anoxybacillus flavithermus strains are grouped in three different subgroups. In
+the future, it would be interesting to explore these strain subgroups to further 
+understand the lifestyle of thermophilic bacteria. Focussing on the Anoxybacillus
+flavithermus AK1 strain, which was isolated from a Hot Spring in Saudi Arabia and
+closely related to A. flavithermus NBRC strain, we identified a unique list of 75
+genes specific to AK1 strain, of which 63 of them have homologs in other
+taxonomically related species. We speculate that these AK1-specific genes might
+be resulted due to horizontal gene transfer from other bacteria in order to adapt
+to the extreme environmental conditions. Moreover, we predicted three potential
+secondary metabolite gene clusters in the AK1 strain that further need to be
+experimentally characterised. Genomic annotation, secondary metabolite gene
+clusters and outcomes of the strain genomic comparisons from this study would be 
+the basis for the strain-specific mathematical model for exploiting the
+metabolism for the industrial and ecological applications.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.enzmictec.2019.109385 
+PMID: 31615674  [Indexed for MEDLINE]
+

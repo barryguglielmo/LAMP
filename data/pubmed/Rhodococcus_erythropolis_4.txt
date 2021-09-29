@@ -1,0 +1,43 @@
+
+1. Toxins (Basel). 2020 Jul 18;12(7). pii: E460. doi: 10.3390/toxins12070460.
+
+Qualifying the T-2 Toxin-Degrading Properties of Seven Microbes with Zebrafish
+Embryo Microinjection Method.
+
+Garai E(1), Risa A(2), Varga E(3), Cserháti M(2), Kriszt B(2), Urbányi B(1),
+Csenki Z(1).
+
+Author information: 
+(1)Department of Aquaculture, Institute for Conservation of Natural Resources,
+Faculty of Agricultural and Environmental Sciences, Szent István University,
+H-2100 Gödöllő, Hungary.
+(2)Department of Environmental Safety and Ecotoxicology, Institute for
+Conservation of Natural Resources, Faculty of Agricultural and Environmental
+Sciences, Szent István University, H-2100 Gödöllő, Hungary.
+(3)Department of Applied Chemistry, Faculty of Food Science, Szent István
+University, H-2100 Gödöllő, Hungary.
+
+T-2 mycotoxin degradation and detoxification efficiency of seven bacterial
+strains were investigated with zebrafish microinjection method in three steps
+((1) determination of mycotoxin toxicity baseline, (2) examination of bacterial
+metabolites toxicity, (3) identification of degradation products toxicity).
+Toxicity of T-2 was used as a baseline of toxic effects, bacterial metabolites of
+strains as control of bacterial toxicity and degradation products of toxin as
+control of biodegradation were injected into one-cell stage embryos in the same
+experiment. The results of in vivo tests were checked and supplemented with
+UHPLC-MS/MS measurement of T-2 concentration of samples. Results showed that the 
+Rhodococcus erythropolis NI1 strain was the only one of the seven tested (R.
+gordoniae AK38, R. ruber N361, R. coprophilus N774, R. rhodochrous NI2, R.
+globerulus N58, Gordonia paraffinivorans NZS14), which was appropriated to
+criteria all aspects (bacterial and degradation metabolites of strains caused
+lower toxicity effects than T-2, and strains were able to degrade T-2 mycotoxin).
+Bacterial and degradation metabolites of the NI1 strain caused slight lethal and 
+sublethal effects on zebrafish embryos at 72- and 120-h postinjection. Results
+demonstrated that the three-step zebrafish microinjection method is well-suited
+to the determination and classification of different bacterial strains by their
+mycotoxin degradation and detoxification efficiency.
+
+DOI: 10.3390/toxins12070460 
+PMCID: PMC7405011
+PMID: 32708466 
+

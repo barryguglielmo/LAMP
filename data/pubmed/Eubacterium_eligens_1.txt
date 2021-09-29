@@ -1,0 +1,55 @@
+
+1. Front Cell Infect Microbiol. 2020 Feb 27;10:58. doi: 10.3389/fcimb.2020.00058.
+eCollection 2020.
+
+Alterations in Gut Microbiota of Gestational Diabetes Patients During the First
+Trimester of Pregnancy.
+
+Ma S(1), You Y(2), Huang L(1), Long S(1), Zhang J(1), Guo C(1), Zhang N(1), Wu
+X(1), Xiao Y(1), Tan H(1).
+
+Author information: 
+(1)Department of Epidemiology and Health Statistics, Xiangya School of Public
+Health, Central South University, Changsha, China.
+(2)Department of Obstetrics, Hunan Provincial Maternal and Child Health Hospital,
+Changsha, China.
+
+Background: Dysbiosis of human gut microbiota is associated with a wide range of 
+metabolic disorders, including gestational diabetes mellitus (GDM). Yet whether
+gut microbiota dysbiosis participates in the etiology of GDM remains largely
+unknown. Objectives: Our study was initiated to determine whether the
+alternations in gut microbial composition during early pregnancy linked to the
+later development of GDM, and explore the feasibility of microbial biomarkers for
+the early prediction of GDM. Study design: This nested case-control study was
+based upon an early pregnancy follow-up cohort (ChiCTR1900020652). Gut microbiota
+profiles of 98 subjects with GDM and 98 matched healthy controls during the early
+pregnancy (10-15 weeks) were assessed via 16S rRNA gene amplicon sequencing of V4
+region. The data set was randomly split into a discovery set and a validation
+set, the former was used to analyze the differences between GDM cases and
+controls in gut microbial composition and functional annotation, and to establish
+an early identification model of GDM, then the performance of the model was
+verified by the external validation set. Results: Bioinformatic analyses revealed
+changes to gut microbial composition with significant differences in relative
+abundance between the groups. Specifically, Eisenbergiella, Tyzzerella 4, and
+Lachnospiraceae NK4A136 were enriched in the GDM group, whereas Parabacteroides, 
+Megasphaera, Eubacterium eligens group, etc. remained dominant in the controls.
+Correlation analysis revealed that GDM-enriched genera Eisenbergiella and
+Tyzzerella 4 were positively correlated with fasting blood glucose levels, while 
+three control-enriched genera (Parabacteroides, Parasutterella, and
+Ruminococcaceae UCG 002) were the opposite. Further, GDM functional annotation
+modules revealed enrichment of modules for sphingolipid metabolism, starch and
+sucrose metabolism, etc., while lysine biosynthesis and nitrogen metabolism were 
+reduced. Finally, five genera and two clinical indices were included in the
+linear discriminant analysis model for the prediction of GDM; the areas under
+receiver operating characteristic curves of the training and validation sets were
+0.736 (95% confidence interval: 0.663-0.808) and 0.696 (0.575-0.818),
+respectively. Conclusions: Gut bacterial dysbiosis in early pregnancy was found
+to be associated with the later development of GDM, and gut microbiota-targeted
+biomarkers might be utilized as potential predictors of GDM.
+
+Copyright © 2020 Ma, You, Huang, Long, Zhang, Guo, Zhang, Wu, Xiao and Tan.
+
+DOI: 10.3389/fcimb.2020.00058 
+PMCID: PMC7056672
+PMID: 32175285 
+

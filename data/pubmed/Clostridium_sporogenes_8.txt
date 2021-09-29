@@ -1,0 +1,65 @@
+
+1. Front Microbiol. 2020 Jul 14;11:1381. doi: 10.3389/fmicb.2020.01381. eCollection 
+2020.
+
+Genome-Guided Mass Spectrometry Expedited the Discovery of Paraplantaricin TC318,
+a Lantibiotic Produced by Lactobacillus paraplantarum Strain Isolated From
+Cheese.
+
+Hussein WE(1)(2), Huang E(3), Ozturk I(4), Somogyi Á(5), Yang X(6), Liu B(7),
+Yousef AE(1)(8).
+
+Author information: 
+(1)Department of Food Science and Technology, The Ohio State University,
+Columbus, OH, United States.
+(2)Department of Microbiology and Immunology, National Research Center, Giza,
+Egypt.
+(3)Department of Environmental and Occupational Health, University of Arkansas
+for Medical Sciences, Little Rock, AR, United States.
+(4)Faculty of Fine Arts, Department of Gastronomy and Culinary Arts, Istanbul
+Arel University, Istanbul, Turkey.
+(5)Campus Chemical Instrument Center, Mass Spectrometry and Proteomics Facility, 
+The Ohio State University, Columbus, OH, United States.
+(6)Nutrition and Food Science Department, California State Polytechnic University
+Pomona, Pomona, CA, United States.
+(7)College of Animal Science Technology, Jiangxi Agricultural University,
+Nanchang, China.
+(8)Department of Microbiology, The Ohio State University, Columbus, OH, United
+States.
+
+The quest for potent alternatives to the currently used antimicrobials is urged
+by health professionals, considering the rapid rise in resistance to
+preservatives and antibiotics among pathogens. The current study was initiated to
+search for novel and effective bacteriocins from food microbes, preferably lactic
+acid bacteria (LAB), for potential use as preservatives. Advances in
+genome-guided mass spectrometry (MS) were implemented to expedite identifying and
+elucidating the structure of the recovered antimicrobial agent. A LAB strain,
+OSY-TC318, was isolated from a Turkish cheese, and the crude extract of the
+cultured strain inhibited the growth of various pathogenic and spoilage bacteria 
+such as Bacillus cereus, Clostridium sporogenes, Enterococcus faecalis, Listeria 
+monocytogenes, Salmonella enterica ser. Typhimurium, and Staphylococcus aureus.
+The antimicrobial producer was identified as Lactobacillus paraplantarum using MS
+biotyping and genomic analysis. Additionally, L. paraplantarum OSY-TC318 was
+distinguished from closely related strains using comparative genomic analysis.
+Based on in silico analysis, the genome of the new strain contained a complete
+lantibiotic biosynthetic gene cluster, encoding a novel lantibiotic that was
+designated as paraplantaricin TC318. The bioinformatic analysis of the gene
+cluster led to the prediction of the biosynthetic pathway, amino acid sequence,
+and theoretical molecular mass of paraplantaricin TC318. To verify the genomic
+analysis predictions, paraplantaricin TC318 was purified from the producer
+cellular crude extract using liquid chromatography, followed by structural
+elucidation using Fourier transform ion cyclotron resonance MS analysis. This
+genome-guided MS analysis revealed that the molecular mass of paraplantaricin
+TC318 is 2,263.900 Da, its chemical formula is C106H133N27O22S4, and its primary 
+sequence is F-K-S-W-S-L-C-T-F-G-C-G-H-T-G-S-F-N-S-F-C-C. This lantibiotic, which 
+differs from mutacin 1140 at positions 9, 12, 13, and 20, is considered a new
+member of the epidermin group in class I lantibiotics. In conclusion, the study
+revealed a new L. paraplantarum strain producing a novel lantibiotic that is
+potentially useful in food and medical applications.
+
+Copyright © 2020 Hussein, Huang, Ozturk, Somogyi, Yang, Liu and Yousef.
+
+DOI: 10.3389/fmicb.2020.01381 
+PMCID: PMC7372301
+PMID: 32760356 
+

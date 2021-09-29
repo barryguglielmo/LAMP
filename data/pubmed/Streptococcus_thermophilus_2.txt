@@ -1,0 +1,42 @@
+
+1. Genes (Basel). 2020 Sep 19;11(9). pii: E1096. doi: 10.3390/genes11091096.
+
+Export of Rgg Quorum Sensing Peptides is Mediated by the PptAB ABC Transporter in
+Streptococcus Thermophilus Strain LMD-9.
+
+Lingeswaran A(1), Metton C(1), Henry C(1), Monnet V(1), Juillard V(1), Gardan
+R(1).
+
+Author information: 
+(1)Université Paris-Saclay, INRAE, AgroParisTech, Micalis Institute, 78350,
+Jouy-en-Josas, France.
+
+In streptococci, intracellular quorum sensing pathways are based on
+quorum-sensing systems that are responsible for peptide secretion, maturation,
+and reimport. These peptides then interact with Rgg or ComR transcriptional
+regulators in the Rap, Rgg, NprR, PlcR, and PrgX (RRNPP) family, whose members
+are found in Gram-positive bacteria. Short hydrophobic peptides (SHP) interact
+with Rgg whereas ComS peptides interact with ComR regulators. To date, in
+Streptococcus thermophilus, peptide secretion, maturation, and extracellular fate
+have received little attention, even though this species has several (at least
+five) genes encoding Rgg regulators and one encoding a ComR regulator. We studied
+pheromone export in this species, focusing our attention on PptAB, which is an
+exporter of signaling peptides previously identified in Enterococcus faecalis,
+pathogenic streptococci and Staphylococcus aureus. In the S. thermophilus strain 
+LMD-9, we showed that PptAB controlled three regulation systems, two SHP/Rgg
+systems (SHP/Rgg1358 and SHP/Rgg1299), and the ComS/ComR system, while using
+transcriptional fusions and that PptAB helped to produce and export at least
+three different mature SHPs (SHP1358, SHP1299, and SHP279) peptides while using
+liquid chromatography-tandem mass spectrometry (LC-MS/MS). Using a deep
+sequencing approach (RNAseq), we showed that the exporter PptAB, the membrane
+protease Eep, and the oligopeptide importer Ami controlled the transcription of
+the genes that were located downstream from the five non-truncated rgg genes as
+well as few distal genes. This led us to propose that the five non-truncated
+shp/rgg loci were functional. Only three shp genes were expressed in our
+experimental condition. Thus, this transcriptome analysis also highlighted the
+complex interconnected network that exists between SHP/Rgg systems, where a few
+homologous signaling peptides likely interact with different regulators.
+
+DOI: 10.3390/genes11091096 
+PMID: 32961685 
+

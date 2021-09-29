@@ -1,0 +1,33 @@
+
+1. Pathogens. 2020 Aug 27;9(9). pii: E703. doi: 10.3390/pathogens9090703.
+
+Type II Restriction-Modification System from Gardnerella vaginalis ATCC 14018.
+
+Bulavaitė A(1), Dalgediene I(1), Michailoviene V(1), Pleckaityte M(1).
+
+Author information: 
+(1)Institute of Biotechnology, Life Sciences Center, Vilnius University,
+Sauletekio al. 7, LT-10257 Vilnius, Lithuania.
+
+Intensive horizontal gene transfer may generate diversity and heterogeneity
+within the genus Gardnerella. Restriction-modification (R-M) systems and
+CRISPR-Cas are the principal defense tools against foreign DNA in bacteria.
+Nearly half of the tested Gardnerella spp. isolates harbored the CRISPR-Cas
+system. Several putative R-M systems of Gardnerella spp. strains were identified 
+in the REBASE database. However, there was no experimental evidence for
+restriction endonuclease (REase) activity in the isolates. We showed that G.
+vaginalis strain ATCC 14018 contains the REase R.Gva14018I, which recognizes GGCC
+and most probably generates blunt ends on cleavage. Bioinformatics evidence and
+the activity of recombinant methyltransferase M.Gva14018I in vivo indicate that
+ATCC 14018 possesses a HaeIII-like R-M system. The truncated R.Gva14018I-4
+lacking the C-terminal region was expressed in Escherichia coli and displayed
+wild-type REase specificity. Polyclonal antibodies against R.Gva14018I-4 detected
+the wild-type REase in the cell lysate of ATCC 14018. The cofactor requirements
+for activity and bioinformatics analysis indicated that R.Gva14018I belongs to
+the PD-(D/E)XK family of REases. The REase-like activity was observed in 5 of 31 
+tested Gardnerella spp. strains, although none of these matched the DNA digestion
+pattern of R.Gva14018I.
+
+DOI: 10.3390/pathogens9090703 
+PMID: 32867033 
+

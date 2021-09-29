@@ -1,0 +1,45 @@
+
+1. FEMS Microbiol Lett. 2020 Apr 1;367(7). pii: fnaa054. doi:
+10.1093/femsle/fnaa054.
+
+Variable cell division time and asymmetric division site lead to filament-to-rod 
+cell cycle of Lysinibacillus varians.
+
+Zhu C(1)(2)(3), Sun G(1)(2)(3), Wang X(4), Guo J(1)(2)(3), Li E(1)(2)(3), Yang
+Y(1)(2)(3), Xu M(1)(2)(3).
+
+Author information: 
+(1)Guangdong Provincial Key Laboratory of Microbial Culture Collection and
+Application, Guangdong Institute of Microbiology, Central Xianlie 100, Yuexiu,
+510070, Guangzhou, China.
+(2)State Key Laboratory of Applied Microbiology Southern China, Central Xianlie
+100, Yuexiu, 510070, Guangzhou, China.
+(3)Guangdong Open Laboratory of Applied Microbiology, Central Xianlie 100,
+Yuexiu, 510070, Guangzhou, China.
+(4)School of Bioscience and Bioengineering, South China University of Technology,
+Guangzhou Higher Education Mega Centre, Panyu District, 510006, Guangzhou, China.
+
+All well-established cell size homeostasis paradigms are based on the researches 
+of rod bacteria like B. subtilis and E. coli, suggesting a constant division time
+(timer model), division size (sizer model) or added size (adder model) before
+division. However, Lysinibacillus varians, a new species with regular
+filament-to-rod cell cycle, is inconsistent with existing models. In this study, 
+the cell size parameters of the type strain GY32, were investigated by combing
+multiple microscopy techniques and single-cell approach. Our results showed that 
+the filaments of strain GY32 were unicellular cells with multiple nucleoids. The 
+division time of GY32 cells was variable and their daughter cells produced by
+asymmetric binary fission had different birth sizes, which were proportional to
+their elongation rates, resulting in high heterogeneity among the sister cells.
+Furthermore, the added size from birth to division was significantly shorter than
+birth size (p < 0.01) and decreased along generations. The results above revealed
+that the asymmetric division site and varied cell size parameters resulted in
+filament-to-rod cell cycle of L. varians and cell size homeostasis could be a
+more complex and dynamic process than previously assumed. These findings would be
+helpful in elucidating the open questions in cell division and cell size
+heterogeneity.
+
+© FEMS 2020.
+
+DOI: 10.1093/femsle/fnaa054 
+PMID: 32196075 
+

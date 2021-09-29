@@ -1,0 +1,40 @@
+
+1. Int J Syst Evol Microbiol. 2020 Mar;70(3):1478-1488. doi: 10.1099/ijsem.0.003827.
+Epub 2019 Nov 6.
+
+Eikenella exigua sp. nov., isolated from brain abscess and blood.
+
+Stormo KA(1)(2), Nygaard RM(1), Bruvold TS(1), Dimmen G(1), Lindemann PC(1),
+Jordal S(2), Kommedal Ø(1).
+
+Author information: 
+(1)Department of Microbiology, Haukeland University Hospital, Bergen, Norway.
+(2)Section of Infectious Diseases, Department of Medicine, Haukeland University
+Hospital, Bergen, Norway.
+
+We herein describe the first novel species within the genus Eikenella since it
+was established in 1972 by the reclassification of 'Bacteroides corrodens' to
+Eikenella corrodens. From a polymicrobial brain abscess, we encountered an
+Eikenella isolate, PXXT, that could not validly be named E. corrodens. The
+isolate grew on blood agar with small, translucent, pitting colonies after 3 days
+of anaerobic incubation. By reviewing previously collected invasive isolates, we 
+found an additional Eikenella strain, EI-02, from a blood culture exhibiting the 
+same properties as PXXT. Phylogenetic analyses based on both whole genome and
+individual house-keeping genes confirmed that the two strains allocate in a
+phylogenetic cluster separate from E. corrodens. Using specific amplification and
+sequencing of the Eikenella nusG gene, we further detected the novel Eikenella
+species in six historic brain abscesses previously reported to contain E.
+corrodens based on 16S metagenomics. Out of 24 Eikenella whole-genome projects
+available in GenBank, eight cluster together with PXXT and EI-02. These isolates 
+were recovered from brain abscess (n=2), blood (n=1), bone/soft tissue (n=3),
+parotid gland (n=1) and unknown (n=1). It remains to be investigated whether the 
+new species can cause endocarditis. The average nucleotide identity value between
+strain PXXT and the E. corrodens type strain ATCC 23834T was 92.1 % and the
+corresponding genome-to-genome distance value was 47.1 %, both supporting the
+classification of PXXT as a novel species. For this species we propose the name
+Eikenella exigua. The type strain of E. exigua is PXXT (DSM 109756T, NCTC
+14318T).
+
+DOI: 10.1099/ijsem.0.003827 
+PMID: 31693476  [Indexed for MEDLINE]
+

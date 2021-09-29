@@ -1,0 +1,43 @@
+
+1. Fish Shellfish Immunol. 2020 Oct;105:310-318. doi: 10.1016/j.fsi.2020.07.016.
+Epub 2020 Jul 21.
+
+Potential of the Escherichia coli LT(R192G/L211A) toxoid as a mucosal adjuvant
+for rainbow trout (Oncorhynchus mykiss).
+
+Martín-Martín A(1), Tejedor L(1), Tafalla C(1), Díaz-Rosales P(2).
+
+Author information: 
+(1)Fish Immunology and Pathology Laboratory, Animal Health Research Centre
+(CISA-INIA), 28130, Valdeolmos, Madrid, Spain.
+(2)Fish Immunology and Pathology Laboratory, Animal Health Research Centre
+(CISA-INIA), 28130, Valdeolmos, Madrid, Spain. Electronic address:
+diaz.patricia@inia.es.
+
+Oral vaccines are highly demanded by aquaculture sector that requires
+alternatives to injectable vaccines, involving fish handling, stress-related
+immunosuppression and mortalities. However, most previous attempts to obtain
+effective oral vaccines have failed due to a restricted tolerance mechanisms in
+intestine, whose mucosa is at the frontline of antigen encounter and has to
+balance the equilibrium between tolerance and immunity in a microbe-rich
+environment. Thus, the search for oral adjuvants that could augment immune
+responses triggered by antigens allowing them to circumvent intestinal tolerance 
+is of great relevance. The present work focuses on the adjuvant potential of the 
+Escherichia coli LT(R192G/L211A) toxoid (dmLT). To undertake an initial screening
+of the potential that dmLT has as an oral adjuvant in rainbow trout (Oncorhynchus
+mykiss), we have analyzed its transcriptional effects alone or in combination
+with Aeromonas salmonicida subsp. salmonicida or viral hemorrhagic septicemia
+virus (VHSV) on rainbow trout intestinal epithelial cell line RTgutGC and gut
+explants. Our results show that although dmLT provoked no significant effects by 
+itself, it increased the transcription of pro-inflammatory cytokines and
+antimicrobial genes induced by the bacteria. In contrast, when combined with
+VHSV, dmLT only increased the transcription of Mx and the intracellular adhesion 
+molecule 1 (ICAM1). Therefore, the protocol designed is an effective method to
+initially evaluate the effects of potential oral adjuvants, and points to dmLT as
+an effective adjuvant for oral antibacterial vaccines.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fsi.2020.07.016 
+PMID: 32702476 
+

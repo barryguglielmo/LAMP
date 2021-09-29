@@ -1,0 +1,40 @@
+
+1. Pathogens. 2020 Sep 30;9(10). pii: E806. doi: 10.3390/pathogens9100806.
+
+A Siderophore Analog of Fimsbactin from Acinetobacter Hinders Growth of the
+Phytopathogen Pseudomonas syringae and Induces Systemic Priming of Immunity in
+Arabidopsis thaliana.
+
+Betoudji F(1), Abd El Rahman T(1), Miller MJ(2), Ghosh M(3), Jacques M(4),
+Bouarab K(1), Malouin F(1).
+
+Author information: 
+(1)Département de Biologie, Faculté des Sciences, Université de Sherbrooke, QC
+J1K 2R1, Canada.
+(2)Department of Chemistry and Biochemistry, University of Notre Dame, Notre
+Dame, IN 46556, USA.
+(3)Rosetree Corporate Center, Hsiri Therapeutics, Inc., Media, PA 19063, USA.
+(4)Département de Pathologie et Microbiologie, Faculté de Médecine Vétérinaire,
+Université de Montréal, Saint-Hyacinthe, QC J2S 2M2, Canada.
+
+Siderophores produced in soil by plant growth-promoting rhizobacteria (PGPRs)
+play several roles, including nutrient mobilizers and can be useful as plants
+defense elicitors. We investigated the role of a synthetic mixed ligand
+bis-catechol-mono-hydroxamate siderophore (SID) that mimics the chemical
+structure of a natural siderophore, fimsbactin, produced by Acinetobacter spp. in
+the resistance against the phytopathogen Pseudomonas syringaepv tomato DC3000
+(Pst DC3000), in Arabidopsis thaliana. We first tested the antibacterial activity
+of SID against Pst DC3000 in vitro. After confirming that SID had antibacterial
+activity against Pst DC3000, we tested whether the observed in vitro activity
+could translate into resistance of Arabidopsis to Pst DC3000, using bacterial
+loads as endpoints in a plant infection model. Furthermore, using quantitative
+polymerase chain reaction, we explored the molecular actors involved in the
+resistance of Arabidopsis induced by SID. Finally, to assure that SID would not
+interfere with PGPRs, we tested in vitro the influence of SID on the growth of a 
+reference PGPR, Bacillus subtilis. We report here that SID is an antibacterial
+agent as well as an inducer of systemic priming of resistance in A. thaliana
+against Pst DC3000, and that SID can, at the same time, promote growth of a PGPR.
+
+DOI: 10.3390/pathogens9100806 
+PMID: 33007866 
+

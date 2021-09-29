@@ -1,0 +1,42 @@
+
+1. Polymers (Basel). 2020 Jul 15;12(7). pii: E1570. doi: 10.3390/polym12071570.
+
+Microbial Barrier Properties of Cotton Fabric-Influence of Weave Architecture.
+
+Rogina-Car B(1), Kovačević S(2), Schwarz I(2), Dimitrovski K(3).
+
+Author information: 
+(1)Department of Clothing Technology, Faculty of Textile Technology, University
+of Zagreb, Prilaz Baruna Filipovića 28a, 10000 Zagreb, Croatia.
+(2)Department of Textile Design and Management, Faculty of Textile Technology,
+University of Zagreb, Prilaz Baruna Filipovića 28a, 10000 Zagreb, Croatia.
+(3)Faculty of Natural Sciences and Engineering, University of Ljubljana,
+Aškerčeva 12, 1000 Ljubljana, Slovenia.
+
+The subject of the paper focuses on the effect of weave architecture on microbial
+barrier properties of woven fabrics or more precisely on identifying crucial
+elements of weave architecture that dominantly influence bacteria penetration in 
+dry condition. For that purpose, 12 samples of cotton fabrics were woven and
+examined. In their structure, all samples had the same yarns (36 tex) in warp and
+weft, same densities of warp (24 yarns/cm), two weft densities (24 and 20
+yarns/cm) and six different basic weave structures. Microbial barrier
+permeability was determined according to a previously developed test method in
+cooperation with University Hospital Center Zagreb. Bacterial endospores of
+apathogenic species of the genus Bacillus: Geobacillus stearothermophilus and
+Bacillus atrophaeus were used. The effect of weave pattern on microbial barrier
+properties was significant. Weave patterns, decisively determined the number of
+influencing pores and its sizes in woven fabrics, as well as the yarn floating
+which jointly almost perfectly correlated with bacteria penetration through the
+woven fabric. Multiple linear regression of pore numbers and floating threads
+produced equations which correspond in 99% to the measuring results for densities
+24/24 and 24/20, and more than 98% considering both densities of the set. Among
+compared weave patterns, satin weave had significantly lower permeability of
+microorganisms (six-seven times) than basket weave (the highest), for both
+densities.
+
+DOI: 10.3390/polym12071570 
+PMCID: PMC7407755
+PMID: 32679852 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

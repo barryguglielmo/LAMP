@@ -1,0 +1,80 @@
+
+1. Environ Int. 2020 Aug 29;144:106062. doi: 10.1016/j.envint.2020.106062. [Epub
+ahead of print]
+
+Fetal and early postnatal lead exposure measured in teeth associates with infant 
+gut microbiota.
+
+Sitarik AR(1), Arora M(2), Austin C(3), Bielak LF(4), Eggers S(5), Johnson CC(6),
+Lynch SV(7), Kyun Park S(8), Hank Wu KH(9), Yong GJM(10), Cassidy-Bushrow AE(11).
+
+Author information: 
+(1)Department of Public Health Sciences, Henry Ford Health System, Detroit, USA. 
+Electronic address: asitari1@hfhs.org.
+(2)Senator Frank R Lautenberg Environmental Health Sciences Laboratory,
+Department of Environmental Medicine and Public Health, Icahn School of Medicine 
+at Mount Sinai, New York City, USA. Electronic address: manish.arora@mssm.edu.
+(3)Senator Frank R Lautenberg Environmental Health Sciences Laboratory,
+Department of Environmental Medicine and Public Health, Icahn School of Medicine 
+at Mount Sinai, New York City, USA. Electronic address:
+christine.austin@mssm.edu.
+(4)Department of Epidemiology, University of Michigan, Ann Arbor, USA. Electronic
+address: lfbielak@umich.edu.
+(5)Senator Frank R Lautenberg Environmental Health Sciences Laboratory,
+Department of Environmental Medicine and Public Health, Icahn School of Medicine 
+at Mount Sinai, New York City, USA. Electronic address:
+shoshannah.eggers@mssm.edu.
+(6)Department of Public Health Sciences, Henry Ford Health System, Detroit, USA. 
+Electronic address: cjohnso1@hfhs.org.
+(7)Division of Gastroenterology, Department of Medicine, University of
+California, San Francisco, USA. Electronic address: Susan.Lynch@ucsf.edu.
+(8)Department of Epidemiology, University of Michigan, Ann Arbor, USA; Department
+of Environmental Health Sciences, University of Michigan, Ann Arbor, USA.
+Electronic address: sungkyun@umich.edu.
+(9)Department of Public Health Sciences, Henry Ford Health System, Detroit, USA. 
+Electronic address: wukh@umich.edu.
+(10)Division of Gastroenterology, Department of Medicine, University of
+California, San Francisco, USA. Electronic address: Germaine.Yong@ucsf.edu.
+(11)Department of Public Health Sciences, Henry Ford Health System, Detroit, USA.
+Electronic address: acassid1@hfhs.org.
+
+BACKGROUND: Lead (Pb) is an environmentally ubiquitous heavy metal associated
+with a wide range of adverse health effects in children. Both lead exposure and
+the early life microbiome- which plays a critical role in human development-have 
+been linked to similar health outcomes, but it is unclear if the adverse effects 
+of lead are partially driven by early life gut microbiota dysbiosis. The
+objective of this study was to examine the association between in utero and
+postnatal lead levels (measured in deciduous baby teeth) and early life bacterial
+and fungal gut microbiota in the first year of life.
+METHODS: Data from the Wayne County Health, Environment, Allergy and Asthma
+Longitudinal Study (WHEALS) birth cohort were analyzed. Tooth lead levels during 
+the 2nd and 3rd trimesters and postnatally (<1 year of age) were quantified using
+high-resolution microspatial mapping of dentin growth rings. Early life
+microbiota were measured in stool samples collected at approximately 1 and
+6 months of age, using both 16S rRNA (bacterial) and ITS2 (fungal) sequencing. Of
+the 1,258 maternal-child pairs in WHEALS, 146 had data on both tooth metals and
+early life microbiome.
+RESULTS: In utero tooth lead levels were significantly associated with gut fungal
+community composition at 1-month of age, where higher levels of 2nd trimester
+tooth lead was associated with lower abundances of Candida and Aspergillus and
+higher abundances of Malassezia and Saccharomyces; 3rd trimester lead was also
+associated with lower abundances of Candida. Though lead did not significantly
+associate with the overall structure of the infant gut bacterial community, it
+associated with the abundance of some specific bacterial taxa, including the
+increased abundance of Collinsella and Bilophila and a decreased abundance of
+Bacteroides taxa.
+CONCLUSIONS: The observed associations between lead exposure and infant gut
+microbiota could play a role in the impact of lead on childhood development.
+Given the paucity of research examining these associations in humans-particularly
+for fungal microbiota-further investigation is needed.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.envint.2020.106062 
+PMID: 32871381 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

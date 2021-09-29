@@ -1,0 +1,35 @@
+
+1. Vaccines (Basel). 2020 Sep 29;8(4). pii: E561. doi: 10.3390/vaccines8040561.
+
+Measuring the Benefits of Mass Vaccination Programs in the United States.
+
+Magno H(1), Golomb B(2).
+
+Author information: 
+(1)Independent Computer Scientist, Orange County, CA 92677, USA.
+(2)Department of Medicine, UC San Diego School of Medicine, La Jolla, CA 92093,
+USA.
+
+Since the late 1940s, mass vaccination programs in the USA have contributed to
+the significantly reduced morbidity and mortality of infectious diseases. To
+assist the evaluation of the benefits of mass vaccination programs, the number of
+individuals who would have suffered death or permanent disability in the USA in
+2014, had mass vaccination never been implemented, was estimated for measles,
+mumps, rubella, tetanus, diphtheria, pertussis, polio, Haemophilus influenzae
+type b (Hib), hepatitis B, varicella, and human papillomavirus (HPV). The
+estimates accounted for mortality and morbidity trends observed for these
+infections prior to mass vaccination and the impact of advances in standard of
+living and health care. The estimates also considered populations with and
+without known factors leading to an elevated risk of permanent injury from
+infection. Mass vaccination prevented an estimated 20 million infections and
+12,000 deaths and permanent disabilities in 2014, including 10,800 deaths and
+permanent disabilities in persons at elevated risk. Though 9000 of the estimated 
+prevented deaths were from liver cirrhosis and cancer, mass vaccination programs 
+have not, at this point, shown empirical impacts on the prevalence of those
+conditions. Future studies can refine these estimates, assess the impact of
+adjusting estimation assumptions, and consider additional risk factors that lead 
+to heightened risk of permanent harm from infection.
+
+DOI: 10.3390/vaccines8040561 
+PMID: 33003480 
+

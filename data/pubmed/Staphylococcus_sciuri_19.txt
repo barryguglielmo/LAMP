@@ -1,0 +1,54 @@
+
+1. Animals (Basel). 2019 Nov 1;9(11). pii: E900. doi: 10.3390/ani9110900.
+
+Antimicrobial Resistance, Virulence, and Genetic Lineages of Staphylococci from
+Horses Destined for Human Consumption: High Detection of S. aureus Isolates of
+Lineage ST1640 and Those Carrying the lukPQ Gene.
+
+Mama OM(1), Gómez P(2), Ruiz-Ripa L(3), Gómez-Sanz E(4)(5), Zarazaga M(6), Torres
+C(7).
+
+Author information: 
+(1)Departamento de Agricultura y Alimentación, Universidad de La Rioja, 26006
+Logroño, Spain. femimama92@hotmail.com.
+(2)Departamento de Agricultura y Alimentación, Universidad de La Rioja, 26006
+Logroño, Spain. paula_gv83@hotmail.com.
+(3)Departamento de Agricultura y Alimentación, Universidad de La Rioja, 26006
+Logroño, Spain. laura_ruiz_10@hotmail.com.
+(4)Laboratory of Food Microbiology, Institute of Food, Nutrition and Health, ETH 
+Zurich, 8092 Zurich, Switzerland. elena.gomez@hest.ethz.ch.
+(5)Área de Microbiología Molecular, Centro de Investigación Biomédica de La Rioja
+(CIBIR), 26006 Logroño, Spain. elena.gomez@hest.ethz.ch.
+(6)Departamento de Agricultura y Alimentación, Universidad de La Rioja, 26006
+Logroño, Spain. myriam.zarazaga@unirioja.es.
+(7)Departamento de Agricultura y Alimentación, Universidad de La Rioja, 26006
+Logroño, Spain. carmen.torres@unirioja.es.
+
+This work aimed to determine the frequency and diversity of Staphylococcus
+species carriage in horses intended for human consumption, as well as their
+resistance and virulence determinants. Eighty samples (30 nasal; 50 faecal) were 
+recovered from 73 healthy horses in a Spanish slaughterhouse. The samples were
+cultured for staphylococci and methicillin-resistant staphylococci (MRS)
+recovery. The phenotype/genotype of antimicrobial resistance was analysed for all
+isolates. The spa-type and sequence-type (ST) were determined in Staphylococcus
+aureus strains; moreover, the presence of virulence and host-adaptation genes
+(tst, eta, etb, pvl, lukPQ, scn-eq, and scn) was studied by PCR. Staphylococcus
+species were detected in 27/30 (90%) and 33/50 (66%) of nasal and faecal samples,
+respectively. Ninety isolates belonging to eight species were recovered, with
+predominance of S. aureus (n = 34), Staphylococcus delphini (n = 19), and
+Staphylococcus sciuri (n = 19). S. aureus strains were all
+methicillin-susceptible (MSSA), 28/34 were susceptible to all the antibiotics
+tested, and the remaining six showed resistance to (gene-detected) streptomycin
+(ant (6)-Ia), penicillin (blaZ), and trimetroprim/sulphametoxazole (SXT) (dfrA,
+dfrG). The lineage ST1640/t2559 was predominant (n = 21). The genes lukPQ and
+scn-eq were present in all but the ST1640 isolates. Three S. sciuri isolates were
+multidrug-resistant. Healthy horses in Spain seem to be a reservoir for virulent 
+MSSA and the lineage ST1640, although the presence of the latter in horses is
+described for the first time in this study. Moreover, the equine-adapted
+leukocidin gene lukPQ is frequent among S. aureus strains. A large variety of
+staphylococcal species with low antibiotic resistance rate were also observed.
+
+DOI: 10.3390/ani9110900 
+PMCID: PMC6912640
+PMID: 31683871 
+

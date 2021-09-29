@@ -1,0 +1,40 @@
+
+1. Environ Res. 2020 Aug 20;191:110069. doi: 10.1016/j.envres.2020.110069. [Epub
+ahead of print]
+
+Characteristics and metabolic pathway of the bacteria for heterotrophic
+nitrification and aerobic denitrification in aquatic ecosystems.
+
+Qiao Z(1), Sun R(1), Wu Y(2), Hu S(1), Liu X(1), Chan J(1), Mi X(1).
+
+Author information: 
+(1)Department of Applied Chemistry, Northwestern Polytechnical University, Xi'an,
+710129, China.
+(2)Department of Applied Chemistry, Northwestern Polytechnical University, Xi'an,
+710129, China. Electronic address: wuygal@nwpu.edu.cn.
+
+The present study investigated the nitrogen removal characteristics and metabolic
+pathway of bacteria in aquatic ecosystem, with a focus on heterotrophic
+nitrification and aerobic denitrification. The bacteria demonstrated significant 
+heterotrophic nitrification and aerobic denitrification capacity. The highest
+ammonium-N, nitrate-N, and nitrite-N removal efficiencies were 95.31 ± 0.11%,
+98.91 ± 0.05%, and 98.79 ± 0.09%, respectively. The Monod model was used to
+estimate the maximum rate of substrate utilization (Rmo) and the half-saturation 
+concentration (Ks) for the two substrates, i.e., ammonium and nitrate. The
+kinetic coefficients were 3.34 mg/L/d (Rmo) and 30.59 mg/L (Ks) for ammonium-N,
+respectively, and 14.23 mg/L/d (Rmo) and 215.24 mg/L (Ks) for nitrate-N,
+respectively. The effects of initial nitrogen (ammonium-N or nitrate-N)
+concentration, temperature, and dissolved oxygen (DO) on nitrogen removal rate
+were investigated using response surface methodology (RSM), and the optimal
+conditions for nitrogen removal were determined. The principal nitrogen removal
+pathway of the bacteria was proposed as complete heterotrophic nitrification and 
+aerobic denitrification, which was performed by six key genera: Arthrobacter,
+Pseudomonas, Rhodococcus, Bacillus, Massilia, and Rhizobium. Chryseobacterium and
+other denitrifying species may also reduce nitrification products (NOX-) via
+aerobic denitrification.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.envres.2020.110069 
+PMID: 32828759 
+

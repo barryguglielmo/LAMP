@@ -1,0 +1,38 @@
+
+1. Vet Sci. 2020 Aug 14;7(3). pii: E112. doi: 10.3390/vetsci7030112.
+
+Lactobacillus johnsonii L531 Ameliorates Escherichia coli-Induced Cell Damage via
+Inhibiting NLRP3 Inflammasome Activity and Promoting ATG5/ATG16L1-Mediated
+Autophagy in Porcine Mammary Epithelial Cells.
+
+Zou YJ(1), Xu JJ(1), Wang X(1), Zhu YH(1), Wu Q(2), Wang JF(1).
+
+Author information: 
+(1)Department of Veterinary Clinical Sciences, College of Veterinary Medicine,
+China Agricultural University, Beijing 100193, China.
+(2)College of Animal Science and Technology, Beijing University of Agriculture,
+Beijing 102206, China.
+
+Escherichia coli (E. coli), a main mastitis-causing pathogen in sows, leads to
+mammary tissue damage. Here, we explored the effects of Lactobacillus johnsonii
+L531 on attenuating E. coli-induced inflammatory damage in porcine mammary
+epithelial cells (PMECs). L. johnsonii L531 pretreatment reduced E. coli adhesion
+to PMECs by competitive exclusion and the production of inhibitory factors and
+decreased E. coli-induced destruction of cellular morphology and ultrastructure. 
+E. coli induced activation of NLRP3 inflammasome associated with increased
+expression of NLRP3, ASC, and cleaved caspase-1, however, L. johnsonii L531
+inhibited E. coli-induced activation of NLRP3 inflammasome. Up-regulation of
+interleukin (Il)-1β, Il-6, Il-8, Il-18, tumor necrosis factor alpha, and
+chemokine Cxcl2 expression after E. coli infection was attenuated by L. johnsonii
+L531. E. coli infection inhibited autophagy, whereas L. johnsonii L531 reversed
+the inhibitory effect of E. coli on autophagy by decreasing the expression of
+autophagic receptor SQSTM1/p62 and increasing the expression of autophagy-related
+proteins ATG5, ATG16L1, and light chain 3 protein by Western blotting analysis.
+Our findings suggest that L. johnsonii L531 pretreatment restricts NLRP3
+inflammasome activity and induces autophagy through promoting
+ATG5/ATG16L1-mediated autophagy, thereby protecting against E. coli-induced
+inflammation and cell damage in PMECs.
+
+DOI: 10.3390/vetsci7030112 
+PMID: 32823867 
+

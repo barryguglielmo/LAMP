@@ -1,0 +1,34 @@
+
+1. Microbiol Resour Announc. 2020 May 7;9(19). pii: e00388-20. doi:
+10.1128/MRA.00388-20.
+
+Draft Genome Sequence of Aeromonas caviae UFMG-H8, Isolated from Urine from a
+Healthy Bovine Heifer (Gyr Breed).
+
+Giannattasio-Ferraz S(1), Maskeri L(2), Oliveira AP(3), Barbosa-Stancioli EF(1), 
+Putonti C(4)(5)(6)(7).
+
+Author information: 
+(1)Departamento de Microbiologia, Instituto de Ciências Biológicas, Universidade 
+Federal Minas Gerais, Belo Horizonte, Minas Gerais, Brazil.
+(2)Bioinformatics Program, Loyola University Chicago, Chicago, Illinois, USA.
+(3)Empresa de Pesquisa Agropecuária de Minas Gerais (EPAMIG), Uberaba, Minas
+Gerais, Brazil.
+(4)Bioinformatics Program, Loyola University Chicago, Chicago, Illinois, USA
+cputonti@luc.edu.
+(5)Department of Biology, Loyola University Chicago, Chicago, Illinois, USA.
+(6)Department of Computer Science, Loyola University Chicago, Chicago, Illinois, 
+USA.
+(7)Department of Microbiology and Immunology, Stritch School of Medicine, Loyola 
+University Chicago, Maywood, Illinois, USA.
+
+Aeromonas caviae is an emerging pathogen in humans, causing intestinal
+infections. Here, we report Aeromonas caviae strain UFMG-H8, isolated from the
+urine of a healthy heifer (Gyr breed).
+
+Copyright © 2020 Giannattasio-Ferraz et al.
+
+DOI: 10.1128/MRA.00388-20 
+PMCID: PMC7206500
+PMID: 32381622 
+

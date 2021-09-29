@@ -1,0 +1,42 @@
+
+1. Carcinogenesis. 2020 Jul 14;41(7):909-917. doi: 10.1093/carcin/bgaa018.
+
+Parabacteroides distasonis attenuates tumorigenesis, modulates inflammatory
+markers and promotes intestinal barrier integrity in azoxymethane-treated A/J
+mice.
+
+Koh GY(1), Kane AV(2), Wu X(1), Crott JW(1).
+
+Author information: 
+(1)Vitamins and Carcinogenesis Laboratory, Jean Mayer USDA Human Nutrition
+Research Center on Aging at Tufts University, Boston, MA, USA.
+(2)Phoenix Laboratory, Tufts University Medical Center, Boston, MA, USA.
+
+Imbalance of the gut microbial community promotes inflammation and colorectal
+cancer (CRC). Previously, we demonstrated that freeze-dried Parabacteroides
+distasonis (Pd) suppressed obesity-driven colorectal tumorigenesis in mice. Here,
+we investigated if Pd could suppress the development of colon tumors in mice
+independent of obesity. Six-week-old male A/J mice were assigned to receive: (i) 
+chow diet (CTR); (ii) chow with 0.04% wt/wt freeze-dried Pd (Pd-Early) or (iii)
+chow diet before switching to 0.04% Pd diet (Pd-Late). Mice remained on diet for 
+25 weeks with the switch for Pd-Late mice occurring after 19 weeks. All mice
+received 6 weekly injections of the colon carcinogen azoxymethane (AOM; 10 mg/kg 
+I.P.) starting after 1 week on diet. Colon tumors were observed in 77, 55 and 40%
+in CTR, Pd-Early and Pd-Late mice, respectively (X2 = 0.047). Colonic expression 
+of toll-like receptor 4, IL-4 and TNF-α was 40% (P < 0.01), 58% (P = 0.05) and
+55% (P < 0.001) lower, respectively, in Pd-Early compared with CTR mice. Pd-Late 
+mice displayed a 217% (P = 0.05) and 185% (P < 0.001) increase in colonic IL-10
+and TGF-β expression, respectively, compared with CTR mice and similar increases 
+in protein abundances were detected (47-145%; P < 0.05). Pd-Early and Pd-Late
+mice both demonstrated increased colonic expression of the tight junction
+proteins Zonula occludens-1 (P < 0.001) and occludin (P < 0.001) at the
+transcript (2-3-fold; P < 0.01) and protein level (30-50%; P < 0.05) relative to 
+CTR. Our results support a protective role for Pd in colonic tumorigenesis and
+maintenance of intestinal epithelial barrier in AOM-treated mice.
+
+© The Author(s) 2020. Published by Oxford University Press. All rights reserved. 
+For Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/carcin/bgaa018 
+PMID: 32115637 
+

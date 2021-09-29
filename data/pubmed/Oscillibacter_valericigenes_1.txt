@@ -1,0 +1,60 @@
+
+1. Phytomedicine. 2020 Jun 30;77:153268. doi: 10.1016/j.phymed.2020.153268. [Epub
+ahead of print]
+
+Cyclocarya paliurus polysaccharides alleviate type 2 diabetic symptoms by
+modulating gut microbiota and short-chain fatty acids.
+
+Yao Y(1), Yan L(1), Chen H(1), Wu N(1), Wang W(1), Wang D(2).
+
+Author information: 
+(1)Institute of Integrated Traditional Chinese and Western Medicine, Xiangya
+Hospital, Central South University, Changsha,410008, China; Hunan Key Laboratory 
+of Traditional Chinese Medicine for Gan of State Administration, Central South
+University, Changsha, 410008, China.
+(2)Institute of Integrated Traditional Chinese and Western Medicine, Xiangya
+Hospital, Central South University, Changsha,410008, China; Hunan Key Laboratory 
+of Traditional Chinese Medicine for Gan of State Administration, Central South
+University, Changsha, 410008, China. Electronic address: wdsh666@126.com.
+
+BACKGROUND: Cyclocarya paliurus polysaccharide (CCPP), a primary active component
+in the leaves of Cyclocarya paliurus (Batal.) Iljinsk (C. paliurus), has the
+ability to treat type 2 diabetes mellitus (T2DM), but cannot be digested by our
+digestive system. Therefore, mechanisms of regulating the gut microbiota and
+intestinal metabolites might exist.
+PURPOSE: To reveal the potential mechanism of CCPP treatment, this study aimed to
+investigate the alterations of the gut microbiota and intestinal metabolites
+especially short chain fatty acids (SCFAs) in type 2 diabetic rats.
+STUDY DESIGN AND METHODS: Type 2 diabetic rat models were developed, and the
+therapeutic effects of CCPP were evaluated. Metagenomics analysis was utilized to
+analyze the alterations to the gut microbiota, and UHPLC-QTOF/MS-based untargeted
+metabolomics analysis of colon contents was used to identify the differential
+intestinal metabolites. GC/MS was used to measure the SCFAs in rat's colon
+contents and human fecal inoculums. Furthermore, the expression of SCFA receptors
+including GPR41, GPR43 and GPR109a was verified by qRT-PCR and the concentration 
+of glucagon-like peptide-1(GLP-1) and peptide tyrosinetyrosine (PYY) was measured
+by Elisa.
+RESULTS: Inhibition of the blood glucose levels and improvements in glucose
+tolerance and serum lipid parameters were observed after CCPP treatment. Eleven
+SCFA-producing species including Ruminococcus_bromii, Anaerotruncus_colihominis, 
+Clostridium_methylpentosum, Roseburia_intestinalis, Roseburia_hominis,
+Clostridium_asparagiforme, Pseudoflavonifractor_capillosus,
+Intestinimonas_butyriciproducens, Intestinimonas_sp._GD2,
+Oscillibacter_valericigenes and Oscillibacter_ruminantium were clearly increased 
+in the CCPP group. Furthermore, our study indicated that CCPP increases the
+production of SCFAs both in vivo and in vitro, and the gut microbiota are the key
+factor of this process. The SCFA receptors including GPR41, GPR43 and GPR109a,
+were significantly stimulated in the CCPP treated rats, which was accompanied by 
+the upregulated expression of GLP-1 and PYY.
+CONCLUSION: These results demonstrated that CCPP could alleviate type 2 diabetic 
+symptoms by increasing the SCFA-producing bacteria, promoting the production of
+SCFAs and upregulating SCFA-GLP1/PYY associated sensory mediators.
+
+Copyright © 2020 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.phymed.2020.153268 
+PMID: 32663709 
+
+Conflict of interest statement: Declaration of Competing Interests The authors
+declare no conflicts of interest.
+

@@ -1,0 +1,65 @@
+
+1. Front Microbiol. 2020 Jun 19;11:1356. doi: 10.3389/fmicb.2020.01356. eCollection 
+2020.
+
+The Podovirus ϕ80-18 Targets the Pathogenic American Biotype 1B Strains of
+Yersinia enterocolitica.
+
+Filik K(1), Szermer-Olearnik B(1), Wernecki M(2), Happonen LJ(3), Pajunen MI(4), 
+Nawaz A(4), Qasim MS(5), Jun JW(6), Mattinen L(4), Skurnik M(4)(7), Brzozowska
+E(1).
+
+Author information: 
+(1)Hirszfeld Institute of Immunology and Experimental Therapy, Polish Academy of 
+Sciences, Wrocław, Poland.
+(2)Department of Microbiology, Institute of Genetics and Microbiology, Faculty of
+Biological Sciences, University of Wrocław, Wrocław, Poland.
+(3)Department of Biosciences, Institute of Biotechnology, University of Helsinki,
+Helsinki, Finland.
+(4)Research Programme Unit Immunobiology, Department of Bacteriology and
+Immunology, Human Microbiome Research Program, Faculty of Medicine, University of
+Helsinki, Helsinki, Finland.
+(5)Molecular and Integrative Biosciences Research Programme, Faculty of
+Biological and Environmental Sciences, University of Helsinki, Helsinki, Finland.
+(6)Department of Aquaculture, The Korea National College of Agriculture and
+Fisheries, Jeonju, South Korea.
+(7)Division of Clinical Microbiology, Helsinki University Hospital, HUSLAB,
+Helsinki, Finland.
+
+We report here the complete genome sequence and characterization of Yersinia
+bacteriophage vB_YenP_ϕ80-18. ϕ80-18 was isolated in 1991 using a Y.
+enterocolitica serotype O:8 strain 8081 as a host from a sewage sample in Turku, 
+Finland, and based on its morphological and genomic features is classified as a
+podovirus. The genome is 42 kb in size and has 325 bp direct terminal repeats
+characteristic for podoviruses. The genome contains 57 predicted genes, all
+encoded in the forward strand, of which 29 showed no similarity to any known
+genes. Phage particle proteome analysis identified altogether 24 phage
+particle-associated proteins (PPAPs) including those identified as structural
+proteins such as major capsid, scaffolding and tail component proteins. In
+addition, also the DNA helicase, DNA ligase, DNA polymerase, 5'-exonuclease, and 
+the lytic glycosylase proteins were identified as PPAPs, suggesting that they
+might be injected together with the phage genome into the host cell to facilitate
+the take-over of the host metabolism. The phage-encoded RNA-polymerase and
+DNA-primase were not among the PPAPs. Promoter search predicted the presence of
+four phage and eleven host RNA polymerase -specific promoters in the genome,
+suggesting that early transcription of the phage is host RNA-polymerase dependent
+and that the phage RNA polymerase takes over later. The phage tolerates pH values
+between 2 and 12, and is stable at 50°C but is inactivated at 60°C. It grows
+slowly with a 50 min latent period and has apparently a low burst size. Electron 
+microscopy revealed that the phage has a head diameter of about 60 nm, and a
+short tail of 20 nm. Whole-genome phylogenetic analysis confirmed that ϕ80-18
+belongs to the Autographivirinae subfamily of the Podoviridae family, that it is 
+93.2% identical to Yersinia phage fHe-Yen3-01. Host range analysis showed that
+ϕ80-18 can infect in addition to Y. enterocolitica serotype O:8 strains also
+strains of serotypes O:4, O:4,32, O:20 and O:21, the latter ones representing
+similar to Y. enterocolitica serotype O:8, the American pathogenic biotype 1B
+strains. In conclusion, the phage ϕ80-18 is a promising candidate for the
+biocontrol of the American biotype 1B Y. enterocolitica.
+
+Copyright © 2020 Filik, Szermer-Olearnik, Wernecki, Happonen, Pajunen, Nawaz,
+Qasim, Jun, Mattinen, Skurnik and Brzozowska.
+
+DOI: 10.3389/fmicb.2020.01356 
+PMCID: PMC7316996
+PMID: 32636826 
+

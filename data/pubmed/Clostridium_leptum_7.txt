@@ -1,0 +1,77 @@
+
+1. J Affect Disord. 2020 Apr 1;266:394-401. doi: 10.1016/j.jad.2020.01.137. Epub
+2020 Jan 30.
+
+Reduced anti-inflammatory gut microbiota are associated with depression and
+anhedonia.
+
+Mason BL(1), Li Q(2), Minhajuddin A(3), Czysz AH(2), Coughlin LA(4), Hussain
+SK(4), Koh AY(4), Trivedi MH(2).
+
+Author information: 
+(1)Department of Psychiatry, University of Texas Southwestern Medical Center,
+Dallas, TX, United States. Electronic address: brittany.mason@utsouthwestern.edu.
+(2)Department of Psychiatry, University of Texas Southwestern Medical Center,
+Dallas, TX, United States.
+(3)Department of Psychiatry, University of Texas Southwestern Medical Center,
+Dallas, TX, United States; Department of Pediatrics, University of Texas
+Southwestern Medical Center, Dallas, TX, United States; Department of
+Microbiology, University of Texas Southwestern Medical Center, Dallas, TX, United
+States.
+(4)Department of Pediatrics, University of Texas Southwestern Medical Center,
+Dallas, TX, United States; Department of Microbiology, University of Texas
+Southwestern Medical Center, Dallas, TX, United States.
+
+INTRODUCTION: Characterise gut microbiota distributions of participants with
+co-occurring depression and anxiety, in those with only depression or with
+anxiety, and determine if gut bacteria differentially correlates with distinct
+clinical presentations.
+METHODS: Participants (10 healthy controls [mean age: 33, 60% female] and 60
+psychiatric subjects; major depressive disorder (comorbid with anxiety), n = 38
+[mean age: 39.2, 82% female], anxiety only, n = 8 [mean age: 40.0, 100% female], 
+depression only without anxiety, n = 14 [mean age: 41.9, 79% female]) were
+characterized by psychiatric assessments. Quantitative PCR and 16S rRNA
+sequencing were used to characterize the gut microbiota in stool samples.
+RESULTS: Altered microbiota correlated with pre-defined clinical presentation,
+with Bacteroides (p = 0.011) and the Clostridium leptum subgroup (p = 0.023)
+significantly different between clinical categories. Cluster analysis of the
+total sample using weighted UniFrac β-diversity of the gut microbiota identified 
+two different clusters defined by differences in bacterial distribution. Cluster 
+2 had higher Bacteroides (p = 0.006), and much reduced presence of Clostridales
+(p<0.001) compared to Cluster 1. Bifidobacterium (p = 0.0173) was also reduced in
+Cluster 2 compared to Cluster 1. When evaluated for clinical charateristics,
+anhedonia scores in Cluster 2 were higher than in Cluster 1.
+LIMITATIONS: The sample is smaller and predominately female.
+CONCLUSIONS: Reduced or absent Clostridia was consistently seen in those with
+depression, independent of the presence of anxiety. Conversely, reduced
+Bacteroides may be more associated with the presence of anxiety, independent of
+the presence of depression. These differences suggest that gut microbiota
+distribution could help clarify the underlying pathology of comorbid clinical
+presentation.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.jad.2020.01.137 
+PMID: 32056905 
+
+Conflict of interest statement: Declaration of Competing Interest B.L.M., Q.L.,
+A.M., A.H.C., L.A.C., and S.K.H have no conflicts to declare. A.K.Y. is a
+consultant for Merck. M.H.T. has no conflict of interest related to this project,
+but is or has been an advisor/consultant to: Abbott Laboratories, Inc., Abdi
+Ibrahim, Akzo (Organon Pharmaceuticals Inc.), Alkermes, AstraZeneca, Axon
+Advisors, Bristol-Myers Squibb Company, Cephalon, Inc., Cerecor, Concert
+Pharmaceuticals, Inc., Eli Lilly & Company, Evotec, Fabre Kramer Pharmaceuticals,
+Inc., Forest Pharmaceuticals, GlaxoSmithKline, Janssen Global Services, LLC,
+Janssen Pharmaceutica Products, LP, Johnson & Johnson PRD, Libby, Lundbeck, Meade
+Johnson, MedAvante, Medtronic, Merck, Mitsubishi Tanabe Pharma Development
+America, Inc., Naurex, Neuronetics, Otsuka Pharmaceuticals, Pamlab, Parke-Davis
+Pharmaceuticals, Inc., Pfizer Inc., PgxHealth, Phoenix Marketing Solutions,
+Rexahn Pharmaceuticals, Ridge Diagnostics, Roche Products Ltd., Sepracor, SHIRE
+Development, Sierra, SK Life and Science, Sunovion, Takeda, Tal Medical/Puretech 
+Venture, Targacept, Transcept, VantagePoint, Vivus, and Wyeth-Ayerst
+Laboratories. In addition, he has received research support from: Agency for
+Healthcare Research and Quality (AHRQ), Corcept Therapeutics, Inc., Cyberonics,
+Inc., National Alliance for Research in Schizophrenia and Depression, National
+Institute of Mental Health, National Institute on Drug Abuse, Novartis, Pharmacia
+& Upjohn, Predix Pharmaceuticals (Epix), and Solvay Pharmaceuticals, Inc.
+

@@ -1,0 +1,71 @@
+
+1. Appl Environ Microbiol. 2020 Apr 1;86(8). pii: e02748-19. doi:
+10.1128/AEM.02748-19. Print 2020 Apr 1.
+
+ESKAPE Bacteria and Extended-Spectrum-β-Lactamase-Producing Escherichia coli
+Isolated from Wastewater and Process Water from German Poultry Slaughterhouses.
+
+Savin M(1), Bierbaum G(2), Hammerl JA(3), Heinemann C(4), Parcina M(2), Sib E(5),
+Voigt A(5), Kreyenschmidt J(4)(6).
+
+Author information: 
+(1)Institute of Animal Sciences, University of Bonn, Bonn, Germany
+m.savin@uni-bonn.de.
+(2)Institute for Medical Microbiology, Immunology and Parasitology, University
+Hospital Bonn, Bonn, Germany.
+(3)Department for Biological Safety, German Federal Institute for Risk
+Assessment, Berlin, Germany.
+(4)Institute of Animal Sciences, University of Bonn, Bonn, Germany.
+(5)Institute for Hygiene and Public Health, University Hospital Bonn, Bonn,
+Germany.
+(6)Hochschule Geisenheim University, Department of Fresh Produce Logistics,
+Geisenheim, Germany.
+
+The wastewater of livestock slaughterhouses is considered a source of
+antimicrobial-resistant bacteria with clinical relevance and may thus be
+important for their dissemination into the environment. To get an overview of
+their occurrence and characteristics, we investigated process water (n = 50) from
+delivery and unclean areas as well as wastewater (n = 32) from the in-house
+wastewater treatment plants (WWTPs) of two German poultry slaughterhouses
+(slaughterhouses S1 and S2). The samples were screened for ESKAPE bacteria
+(Enterococcus spp., Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter
+baumannii, Pseudomonas aeruginosa, Enterobacter spp.) and Escherichia coli Their 
+antimicrobial resistance phenotypes and the presence of
+extended-spectrum-β-lactamase (ESBL), carbapenemase, and mobilizable colistin
+resistance genes were determined. Selected ESKAPE bacteria were epidemiologically
+classified using different molecular typing techniques. At least one of the
+target species was detected in 87.5% (n = 28/32) of the wastewater samples and
+86.0% (n = 43/50) of the process water samples. The vast majority of the
+recovered isolates (94.9%, n = 448/472) was represented by E. coli (39.4%), the
+A. calcoaceticus-A. baumannii (ACB) complex (32.4%), S. aureus (12.3%), and K.
+pneumoniae (10.8%), which were widely distributed in the delivery and unclean
+areas of the individual slaughterhouses, including their wastewater effluents.
+Enterobacter spp., Enterococcus spp., and P. aeruginosa were less abundant and
+made up 5.1% of the isolates. Phenotypic and genotypic analyses revealed that the
+recovered isolates exhibited diverse resistance phenotypes and β-lactamase genes.
+In conclusion, wastewater effluents from the investigated poultry slaughterhouses
+exhibited clinically relevant bacteria (E. coli, methicillin-resistant S. aureus,
+K. pneumoniae, and species of the ACB and Enterobacter cloacae complexes) that
+contribute to the dissemination of clinically relevant resistances (i.e., bla
+CTX-M or bla SHV and mcr-1) in the environment.IMPORTANCE Bacteria from livestock
+may be opportunistic pathogens and carriers of clinically relevant resistance
+genes, as many antimicrobials are used in both veterinary and human medicine.
+They may be released into the environment from wastewater treatment plants
+(WWTPs), which are influenced by wastewater from slaughterhouses, thereby
+endangering public health. Moreover, process water that accumulates during the
+slaughtering of poultry is an important reservoir for livestock-associated
+multidrug-resistant bacteria and may serve as a vector of transmission to
+occupationally exposed slaughterhouse employees. Mitigation solutions aimed at
+the reduction of the bacterial discharge into the production water circuit as
+well as interventions against their further transmission and dissemination need
+to be elaborated. Furthermore, the efficacy of in-house WWTPs needs to be
+questioned. Reliable data on the occurrence and diversity of clinically relevant 
+bacteria within the slaughtering production chain and in the WWTP effluents in
+Germany will help to assess their impact on public and environmental health.
+
+Copyright © 2020 Savin et al.
+
+DOI: 10.1128/AEM.02748-19 
+PMCID: PMC7117925
+PMID: 32033950 
+

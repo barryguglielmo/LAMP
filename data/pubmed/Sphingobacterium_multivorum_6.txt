@@ -1,0 +1,51 @@
+
+1. Chemosphere. 2019 Dec;237:124514. doi: 10.1016/j.chemosphere.2019.124514. Epub
+2019 Aug 5.
+
+Isolation and characterization of novel bacterial strains for integrated
+solar-bioelectrokinetic of soil contaminated with heavy petroleum hydrocarbons.
+
+Hassan IA(1), Mohamedelhassan EE(2), Yanful EK(3), Weselowski B(4), Yuan ZC(5).
+
+Author information: 
+(1)Department of Civil and Environmental Engineering, Taibah University, Al
+Medina, Saudi Arabia; London Research and Development Centre, Agriculture and
+Agri-Food Canada, London, Canada. Electronic address: imohammed@taibahu.edu.sa.
+(2)Department of Civil Engineering, Lakehead University, Thunder Bay, Canada.
+Electronic address: eltayeb@lakeheadu.ca.
+(3)Department of Civil and Environmental Engineering, Western University, London,
+Canada.
+(4)London Research and Development Centre, Agriculture and Agri-Food Canada,
+London, Canada.
+(5)London Research and Development Centre, Agriculture and Agri-Food Canada,
+London, Canada; Department of Microbiology and Immunology, Western University,
+London, Canada.
+
+This study investigated the isolation and characterization of three novel
+bacterial strains; Acinetobacter calcoaceticus, Sphingobacterium multivorum, and 
+Sinorhizobium, isolated form agriculture land. From three hundred strains of
+bacteria, the three isolates were identified for their superior diesel
+degradation ability by a series of bench-scale tests. The isolates were further
+investigated in bench tests for their ability to grow in different diesel fuel
+concentrations, temperature and pH; degrade diesel fuel in vitro; and for the
+identification of functional genes. Semi-pilot bioelectrokinetic tests were
+conducted in three electrokinetic cells. An innovative electrode configuration
+was adopted to stabilize the soil pH and water content during the test. The genes
+expressed in the diesel degradation process including Lipases enzymes Lip A,
+LipB, Alk-b2, rubA, P450, and 1698/2041 were detected in the three isolates. The 
+results showed that the solar panel voltage output is in agreement with the
+trapezoid model. The temperatures in the cells were found to be 5-7 °C higher
+than the ambient temperature. The electrode configuration succeeded in
+stabilizing the soil pH and water content, preventing the development of a pH
+gradient, important progress for the survival of bacteria. The diesel degradation
+in the soil after bioelectrokinetic tests were 20-30%, compared to 10-12% in the 
+controls. The study succeeded in developing environmentally friendly technology
+employing novel bacterial strains to degrade diesel fuel and utilizing solar
+panels to produce renewable energy for bioelectrokinetics during the winter
+season.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.chemosphere.2019.124514 
+PMID: 31408796  [Indexed for MEDLINE]
+

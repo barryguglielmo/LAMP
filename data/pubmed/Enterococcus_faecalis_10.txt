@@ -1,0 +1,48 @@
+
+1. Medicina (Kaunas). 2020 Sep 28;56(10). pii: E507. doi: 10.3390/medicina56100507.
+
+Importance of Susceptibility Rate of 'the First' Isolate: Evidence of Real-World 
+Data.
+
+Kim S(1), Yoo SJ(2), Chang J(1).
+
+Author information: 
+(1)Laboratory Medicine, Inje University, Ilsan Paik Hospital, Goyang 10380,
+Korea.
+(2)Laboratory Medicine, Inje University, Sanggye Paik Hospital, Seoul 10757,
+Korea.
+
+Background and objectives: For proper antimicrobial therapy, cumulative
+antibiograms should be representative of geographic region and be accurate.
+Clinical and Laboratory Standards Institute (CLSI) guidelines recommend that only
+the first isolates (FI) of a species per patient are used when reporting
+cumulative antibiograms. However, >50% of hospitals in the United States report
+antibiograms of all isolates. We compared antibiograms from the FI with those
+from total isolates (TI). Materials and Methods: Antimicrobial data of all
+isolates identified in the Microbiology unit of Ilsan Paik Hospital in 2019 were 
+retrospectively acquired from the hospital information system. The susceptibility
+rates to antimicrobials of Escherichia coli, Acinetobacter baumannii, Klebsiella 
+pneumoniae, Pseudomonas aeruginosa, Staphylococcus aureus, Enterococcus faecium, 
+and Enterococcus faecalis were analyzed by FI and TI, respectively. Isolate
+counts and susceptibility rates of each species for the reported antimicrobials
+were compared. Results: The numbers of isolates by FI/TI were as follows:
+1824/2692 E. coli, 480/1611 A. baumannii, and 662/1306 K. pneumoniae, and 407/953
+P. aeruginosa for gram-negative bacteria and 649/1364 S. aureus, 211/313 E.
+faecium, and 323/394 E. faecalis for gram-positive bacteria. All antimicrobial
+agents showed higher susceptibility rates when calculated as FI than as TI in
+gram-negative bacteria except colistin: 3.7% for E. coli, 14.5% for A. baumannii,
+8.3% for K. pneumoniae, and 7.9% for P. aeruginosa. In S. aureus, 8/11
+antimicrobial agents revealed higher susceptibility rates for FI than for TI. E. 
+faecalis and E. faecium showed lower susceptibility rates for 7/10 antimicrobial 
+agents for FI than for TI. The oxacillin susceptibility rates of S. aureus were
+36.6%/30.2% with FI/TI and vancomycin susceptibility rates for E. faecium were
+54.1% and 49.5%, respectively. Conclusions: When comparing cumulative
+antibiograms by FI with TI using real-world data, there is a large gap for
+critical species requiring hospital infection control. Although FI calculation is
+difficult, antibiograms must be calculated as FI for proper preemptive
+antimicrobial therapy because FI provides proper antimicrobial susceptibility
+data.
+
+DOI: 10.3390/medicina56100507 
+PMID: 32998192 
+

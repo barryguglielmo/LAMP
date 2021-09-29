@@ -1,0 +1,66 @@
+
+1. mBio. 2020 Sep 22;11(5). pii: e01911-20. doi: 10.1128/mBio.01911-20.
+
+Genotoxic Effect of Salmonella Paratyphi A Infection on Human Primary Gallbladder
+Cells.
+
+Sepe LP(#)(1), Hartl K(#)(1)(2)(3), Iftekhar A(1), Berger H(1), Kumar N(1),
+Goosmann C(1), Chopra S(4), Schmidt SC(4)(5), Gurumurthy RK(1), Meyer TF(6),
+Boccellato F(6)(7).
+
+Author information: 
+(1)Department of Molecular Biology, Max Planck Institute for Infection Biology,
+Berlin, Germany.
+(2)Technische Universität Berlin, Institute of Biotechnology, Berlin, Germany.
+(3)Medical Department, Division of Gastroenterology and Hepatology, Charité
+University Medicine, Berlin, Germany.
+(4)Department of Surgery, Campus Charité Mitte and Campus Virchow Clinics,
+Charité University Medicine, Berlin, Germany.
+(5)Department of General and Visceral Surgery, Ernst von Bergmann Clinics,
+Potsdam, Germany.
+(6)Department of Molecular Biology, Max Planck Institute for Infection Biology,
+Berlin, Germany meyer@mpiib-berlin.mpg.de francesco.boccellato@ludwig.ox.ac.uk.
+(7)Ludwig Institute for Cancer Research, Nuffield Department of Medicine,
+University of Oxford, Oxford, United Kingdom.
+(#)Contributed equally
+
+Carcinoma of the gallbladder (GBC) is the most frequent tumor of the biliary
+tract. Despite epidemiological studies showing a correlation between chronic
+infection with Salmonella enterica Typhi/Paratyphi A and GBC, the underlying
+molecular mechanisms of this fatal connection are still uncertain. The murine
+serovar Salmonella Typhimurium has been shown to promote transformation of
+genetically predisposed cells by driving mitogenic signaling. However, insights
+from this strain remain limited as it lacks the typhoid toxin produced by the
+human serovars Typhi and Paratyphi A. In particular, the CdtB subunit of the
+typhoid toxin directly induces DNA breaks in host cells, likely promoting
+transformation. To assess the underlying principles of transformation, we used
+gallbladder organoids as an infection model for Salmonella Paratyphi A. In this
+model, bacteria can invade epithelial cells, and we observed host cell DNA
+damage. The induction of DNA double-strand breaks after infection depended on the
+typhoid toxin CdtB subunit and extended to neighboring, non-infected cells. By
+cultivating the organoid derived cells into polarized monolayers in air-liquid
+interphase, we could extend the duration of the infection, and we observed an
+initial arrest of the cell cycle that does not depend on the typhoid toxin.
+Non-infected intoxicated cells instead continued to proliferate despite the DNA
+damage. Our study highlights the importance of the typhoid toxin in causing
+genomic instability and corroborates the epidemiological link between Salmonella 
+infection and GBC.IMPORTANCE Bacterial infections are increasingly being
+recognized as risk factors for the development of adenocarcinomas. The strong
+epidemiological evidence linking Helicobacter pylori infection to stomach cancer 
+has paved the way to the demonstration that bacterial infections cause DNA damage
+in the host cells, initiating transformation. In this regard, the role of
+bacterial genotoxins has become more relevant. Salmonella enterica serovars Typhi
+and Paratyphi A have been clinically associated with gallbladder cancer. By
+harnessing the stem cell potential of cells from healthy human gallbladder
+explant, we regenerated and propagated the epithelium of this organ in vitro and 
+used these cultures to model S. Paratyphi A infection. This study demonstrates
+the importance of the typhoid toxin, encoded only by these specific serovars, in 
+causing genomic instability in healthy gallbladder cells, posing intoxicated
+cells at risk of malignant transformation.
+
+Copyright © 2020 Sepe, Hartl et al.
+
+DOI: 10.1128/mBio.01911-20 
+PMCID: PMC7512552
+PMID: 32963006 
+

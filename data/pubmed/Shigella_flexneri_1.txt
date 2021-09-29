@@ -1,0 +1,50 @@
+
+1. PeerJ. 2020 Sep 15;8:e9553. doi: 10.7717/peerj.9553. eCollection 2020.
+
+Interdependency of regulatory effects of iron and riboflavin in the foodborne
+pathogen Shigella flexneri determined by integral transcriptomics.
+
+Lozano Aguirre LF(1), Salazar JC(2), Vásquez JI(3), García-Angulo VA(2).
+
+Author information: 
+(1)Unidad de Análisis Bioinformáticos, Centro de Ciencias Genómicas, Universidad 
+Nacional Autónoma de México, Cuernavaca, Morelos, México.
+(2)Programa de Microbiología y Micología, Instituto de Ciencias Biomédicas,
+Universidad de Chile, Santiago, Chile.
+(3)Department of Ocean Sciences, Memorial University of Newfoundland, St. John,
+Canada.
+
+Shigella flexneri is the causative agent of dysentery. For pathogens, iron is a
+critical micronutrient as its bioavailability is usually low in bacterial niches.
+This metal is involved in critical physiological processes mainly as a component 
+of important metabolic molecules involved in redox reactions. Usually bacteria
+respond to fluctuations in iron availability to regulate iron acquisition and
+other iron-related functions. Recently the close metabolic feedback between iron 
+and riboflavin, another pivotal biological redox agent, began to draw attention
+in bacteria. This is a widespread biological phenomenon, partly characterized by 
+the coordination of regulatory responses to iron and riboflavin, probably owed to
+the involvement of these cofactors in common processes. Nonetheless, no
+systematic analyses to determine the extent of this regulatory effect have been
+performed in any species. Here, the transcriptomics responses to iron,
+riboflavin, iron in the presence of riboflavin and riboflavin in the presence of 
+iron were assessed and compared in S. flexneri. The riboflavin regulon had a 43% 
+overlap with the iron regulon. Notably, the presence of riboflavin highly
+increased the number of iron-responsive genes. Reciprocally, iron drastically
+changed the pool of riboflavin-responsive genes. Gene ontology (GO) functional
+terms enrichment analysis showed that biological processes were distinctively
+enriched for each subgroup of responsive genes. Among the biological processes
+regulated by iron and riboflavin were iron uptake, amino acids metabolism and
+electron transfer for ATP synthesis. Thus, iron and riboflavin highly affect the 
+transcriptomics responses induced by each other in S. flexneri. GO terms analysis
+suggests that iron and riboflavin coordinately regulate specific physiological
+functions involving redox metabolism.
+
+©2020 Lozano Aguirre et al.
+
+DOI: 10.7717/peerj.9553 
+PMCID: PMC7500357
+PMID: 32983629 
+
+Conflict of interest statement: The authors declare there are no competing
+interests.
+

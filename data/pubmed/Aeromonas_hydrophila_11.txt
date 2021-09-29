@@ -1,0 +1,42 @@
+
+1. Foods. 2020 Sep 16;9(9). pii: E1306. doi: 10.3390/foods9091306.
+
+Inactivation of Aeromonas hydrophila and Vibrio parahaemolyticus by
+Curcumin-Mediated Photosensitization and Nanobubble-Ultrasonication Approaches.
+
+Rafeeq S(1), Shiroodi S(1), Schwarz MH(1)(2), Nitin N(3)(4), Ovissipour
+R(1)(2)(5).
+
+Author information: 
+(1)Virginia Seafood Agricultural Research and Extension Center, Virginia Tech,
+Hampton, VA 23669, USA.
+(2)Center for Coastal Studies (Coastal@VT), Virginia Tech, Blacksburg, VA 24061, 
+USA.
+(3)Department of Food Science and Technology, University of California-Davis,
+Davis, CA 95616, USA.
+(4)Department of Agricultural and Biological Engineering, University of
+California-Davis, Davis, CA 95616, USA.
+(5)Department of Food Science and Technology, Virginia Tech, Blacksburg, VA
+24060, USA.
+
+The antimicrobial efficacy of novel photodynamic inactivation and nanobubble
+technologies was evaluated against Vibrio parahaemolyticus and Aeromonas
+hydrophila as two important aquatic microbial pathogens. Photodynamic
+inactivation results showed that LED (470 nm) and UV-A (400 nm)-activated
+curcumin caused a complete reduction in V. parahaemolyticus at 4 and 22 °C, and a
+greater than 2 log cfu/mL reduction in A. hydrophila, which was curcumin
+concentration-dependent (p < 0.05). Furthermore, the photodynamic approach caused
+a greater than 6 log cfu/mL V. parahaemolyticus reduction and more than 4 log
+cfu/mL of A. hydrophila reduction in aquaponic water samples (p < 0.05). Our
+results with the nanobubble technology showed that the nanobubbles alone did not 
+significantly reduce bacteria (p > 0.05). However, a greater than 6 log cfu/mL A.
+hydrophila reduction and a greater than 3 log cfu/mL of V. parahaemolyticus
+reduction were achieved when nanobubble technology was combined with ultrasound
+(p < 0.05). The findings described in this study illustrate the potential of
+applying photodynamic inactivation and nanobubble-ultrasound antimicrobial
+approaches as alternative novel methods for inactivating fish and shellfish
+pathogens.
+
+DOI: 10.3390/foods9091306 
+PMID: 32947883 
+

@@ -1,0 +1,36 @@
+
+1. FEMS Microbiol Lett. 2020 Jul 1;367(14). pii: fnaa103. doi:
+10.1093/femsle/fnaa103.
+
+Genome sequence analysis of the temperate bacteriophage TBP2 of the solvent
+producer Clostridium saccharoperbutylacetonicum N1-4 (HMT, ATCC 27021).
+
+Schüler MA(1), Stegmann BA(2), Poehlein A(1), Daniel R(1), Dürre P(2).
+
+Author information: 
+(1)Genomic and Applied Microbiology & Göttingen Genomics Laboratory, Georg-August
+University, Grisebachstr. 8, D-37077 Göttingen, Germany.
+(2)Institut für Mikrobiologie und Biotechnologie, Universität Ulm,
+Albert-Einstein-Allee 11, D-89081, Ulm, Germany.
+
+The genus Clostridium consists of a diverse group of pathogenic and
+non-pathogenic bacteria. The non-pathogenic clostridia contain several
+solventogenic members of industrial importance, such as Clostridium
+acetobutylicum or C. beijerinckii. In the process of acetone-butanol-ethanol
+(ABE) fermentation, these strains are used in large scale fermentation plants
+since almost 100 years. Soon after establishment of the first plants, the
+fermentation processes suffered from different bacteriophage infections
+worldwide. A limited set of studies addressing bacteriophages in solventogenic
+clostridia have been conducted since then. In this study, we present the genome
+sequence of the temperate bacteriophage TBP2 of the solventogenic strain C.
+saccharoperbutylacetonicum N1-4 (HMT) that is used for ABE fermentation. The
+phage genome consists of 38 039 bp and includes 48 open reading frames. Sequence 
+analysis indicates that the genome encloses random parts of the bacterial genome 
+in addition to its own DNA. It represents the first fully sequenced genome of a
+temperate bacteriophage infecting solventogenic clostridia.
+
+© FEMS 2020.
+
+DOI: 10.1093/femsle/fnaa103 
+PMID: 32614389 
+

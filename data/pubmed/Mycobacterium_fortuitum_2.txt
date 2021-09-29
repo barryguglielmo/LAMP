@@ -1,0 +1,45 @@
+
+1. Tuberculosis (Edinb). 2020 Sep 1;125:101988. doi: 10.1016/j.tube.2020.101988.
+[Epub ahead of print]
+
+Diagnostic performance of real time PCR and MALDI-TOF in the detection of
+nontuberculous mycobacteria from clinical isolates.
+
+Kalaiarasan E(1), Thangavelu K(1), Krishnapriya K(1), Muthuraj M(2), Jose M(2),
+Joseph NM(3).
+
+Author information: 
+(1)Department of Microbiology, Jawaharlal Institute of Postgraduate Medical
+Education and Research (JIPMER), Pondicherry, India.
+(2)Intermediate Reference Laboratory, Government Hospital for Chest Diseases,
+Pondicherry, India.
+(3)Department of Microbiology, Jawaharlal Institute of Postgraduate Medical
+Education and Research (JIPMER), Pondicherry, India. Electronic address:
+noyal.ms@jipmer.edu.in.
+
+This study aimed to evaluate the performance of real-time PCR (qPCR) and
+MALDI-TOF for accurate and timely detection of nontuberculous mycobacterium (NTM)
+from clinical isolates. We collected fifty NTM suspected Mycobacteria Growth
+Indicator Tube (MGIT) cultures and analysed the diagnostic performance of qPCR
+and VITEK MS using Line Probe Assay (LPA) GenoType CM (Common Mycobacteria) as
+gold standard. The qPCR assays targeting 16S rRNA, ITS and IS6110 genes were
+developed for the identification of NTM and Mycobacterium tuberculosis complex
+(MTBC). LPA GenoType CM, a PCR technique targeting 23S rRNA gene, followed by
+reverse hybridization and line probe technology identified 90% of Mycobacterium
+species including M. fortuitum (16%,n = 8), M. intracellulare (10%,n = 5), M.
+gordonae (10%,n = 5), M. xenopi (4%,n = 2), M. scrofulaceum (4%,n = 2),
+Mycobacterium additional species (AS) (32%,n = 16) and MTBC (14%,n = 7), qPCR
+detected 80% of Mycobacterium species (NTM, 66% (n = 33) and MTBC, 14% (n = 7))
+and MALDI-TOF, 52% (M. fortuitum (12%,n = 6), M. intracellulare (10%, n = 5), M. 
+simiae (8%,n = 4), M. gordonae (8%,n = 4), and MTBC (14%,n = 7)). Sensitivity of 
+qPCR and MALDI-TOF was 88.9% and 57.8%, respectively with 100% specificity. The
+combination of qPCR and MALDI-TOF remains an appropriate test for timely
+diagnosis of Mycobacterium species. This may eventually assist to detect the
+cases that may have been missed by phenotypic tests and enhance the NTM diagnosis
+capability to improve effective patient management.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tube.2020.101988 
+PMID: 32916384 
+

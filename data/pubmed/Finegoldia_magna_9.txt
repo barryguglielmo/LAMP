@@ -1,0 +1,52 @@
+
+1. Anaerobe. 2020 Feb;61:102131. doi: 10.1016/j.anaerobe.2019.102131. Epub 2019 Nov 
+25.
+
+Performance evaluation of a new matrix-assisted laser desorption/ionization
+time-of-flight mass spectrometry, ASTA MicroIDSys system, in bacterial
+identification against clinical isolates of anaerobic bacteria.
+
+Kim D(1), Ji S(1), Kim JR(1), Kim M(1), Byun JH(1), Yum JH(2), Yong D(1), Lee
+K(3).
+
+Author information: 
+(1)Department of Laboratory Medicine and Research Institute of Bacterial
+Resistance, Yonsei University, College of Medicine, Seoul, South Korea.
+(2)Department of Clinical Laboratory Science, Dong-eui University, Busan, South
+Korea.
+(3)Department of Laboratory Medicine and Research Institute of Bacterial
+Resistance, Yonsei University, College of Medicine, Seoul, South Korea.
+Electronic address: leekcp@yuhs.ac.
+
+INTRODUCTION: Matrix-assisted laser desorption/ionization time-of-flight mass
+spectrometry (MALDI-TOF MS) has been introduced for bacterial identification. The
+ASTA MicroIDSys system (ASTA, Suwon, Korea) is a new MALDI-TOF MS system
+developed for species identification of microorganisms. We evaluated the
+performance of MicroIDSys against clinical isolates of anaerobic bacteria.
+MATERIAL AND METHODS: A total of 370 non-duplicated clinical isolates of
+anaerobic bacteria were tested in this study. Bacterial identification with
+MicroIDSys was performed with a direct smear method, and measured spectra were
+analyzed using respective software. The results of MicroIDSys were compared with 
+the results of Bruker Biotyper and 16S rRNA sequencing.
+RESULTS: The overall agreement rates for the 370 clinical isolates (34 genera and
+99 species) were 95.4% (353/370) at the genus level and 91.6% (n = 340) at the
+species level. Only 17 isolates were incorrectly identified at the genus level:
+five misidentifications and 12 unidentifications. The MicroIDSys system exhibited
+excellent performance in the identification of clinically relevant bacterial
+species. Most of the Bacteroides isolates (98.0%, 99/101) and all of the
+Clostridium difficile (100%, n = 11), Clostridium perfringens (100%, n = 10),
+Finegoldia magna (100%, n = 11), and Parvimonas micra (100%, n = 10) isolates
+were correctly identified at the species level.
+CONCLUSION: The MicroIDSys system proved useful in the identification of
+anaerobic bacteria, especially clinically relevant species. This system could be 
+of use in clinical microbiology laboratories as a primary tool for identifying
+anaerobic bacteria.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.anaerobe.2019.102131 
+PMID: 31778809 
+
+Conflict of interest statement: Declaration of competing interest None to
+declare.
+

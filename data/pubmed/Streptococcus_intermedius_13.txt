@@ -1,0 +1,38 @@
+
+1. Arch Microbiol. 2020 Oct;202(8):2071-2081. doi: 10.1007/s00203-020-01922-y. Epub 
+2020 Jun 1.
+
+Characterization and pathogenicity of fibronectin binding protein FbpI of
+Streptococcus intermedius.
+
+Kodama Y(1), Shimoyama Y(1), Ishikawa T(1), Kimura S(1), Sasaki M(2).
+
+Author information: 
+(1)Division of Molecular Microbiology, Department of Microbiology, Iwate Medical 
+University, 1-1-1 Idaidori, Yahaba-cho, Shiwa-gun, Iwate, 028-3694, Japan.
+(2)Division of Molecular Microbiology, Department of Microbiology, Iwate Medical 
+University, 1-1-1 Idaidori, Yahaba-cho, Shiwa-gun, Iwate, 028-3694, Japan.
+msasaki@iwate-med.ac.jp.
+
+Streptococcus intermedius is a causative agent of brain or liver abscesses. S.
+intermedius produces intermedilysin that plays a pivotal role in pathogenicity.
+We identified other pathogenic factors and described a fibronectin binding
+protein (FBP) homolog of S. intermedius (FbpI) that mediated bacterial adhesion
+to epithelial cells and virulence for mice. The amino acid sequence of FbpI is
+similar to that of atypical FBPs, which do not possess a conventional secretion
+signal and an anchoring motif. A full-length recombinant FbpI (rFbpI) bound to
+immobilized fibronectin in a dose-dependent manner. The fibronectin binding
+activity of an N-terminal construct of rFbpI comprising the translation
+initiation methionine of the open reading frame to lysine 265 (rFbpI-N) bound
+immobilized fibronectin to a much lesser extent compared with rFbpI. A construct 
+comprising the C-terminal domain (alanine 266 to methionine 549; rFbpI-C) bound
+immobilized fibronectin equivalently to rFbpI. Adherence of the isogenic mutant
+ΔfbpI to cultured epithelial cells and immobilized fibronectin was significantly 
+lower than that of the wild-type strain. Abscess formation of ΔfbpI reduced in a 
+mouse infection model compared with that in the wild-type. Thus, FbpI may play a 
+role in bacterial adhesion to host cells and represent a critical pathogenic
+factor of S. intermedius.
+
+DOI: 10.1007/s00203-020-01922-y 
+PMID: 32488560 
+

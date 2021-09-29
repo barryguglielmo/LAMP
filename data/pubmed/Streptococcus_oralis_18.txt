@@ -1,0 +1,59 @@
+
+1. BMC Microbiol. 2020 Jun 15;20(1):162. doi: 10.1186/s12866-020-01849-w.
+
+Metabolic changes associated with adaptive resistance to daptomycin in
+Streptococcus mitis-oralis.
+
+Parrett A(1), Reed JM(2)(3), Gardner SG(2)(4), Mishra NN(5)(6), Bayer AS(5)(6),
+Powers R(7)(8), Somerville GA(9).
+
+Author information: 
+(1)Department of Chemistry, University of Nebraska-Lincoln, Lincoln, NE,
+68588-0304, USA.
+(2)School of Veterinary Medicine and Biomedical Sciences, University of
+Nebraska-Lincoln, Lincoln, NE, 68588-0905, USA.
+(3)Present address: Chemical Testing Program, Wyoming Department of Health,
+Cheyenne, Wyoming, 82002, USA.
+(4)Present address: Department of Biological Sciences, Emporia State University, 
+Emporia, Kansas, 66801, USA.
+(5)Division of Infectious Diseases, The Lundquist Institute at Harbor-UCLA
+Medical Center, Torrance, California, 90502, USA.
+(6)David Geffen School of Medicine University of California Los Angeles, Los
+Angeles, California, 90095, USA.
+(7)Department of Chemistry, University of Nebraska-Lincoln, Lincoln, NE,
+68588-0304, USA. rpowers3@unl.edu.
+(8)Nebraska Center for Integrated Biomolecular Communication, University of
+Nebraska-Lincoln, Lincoln, NE, 68588-0304, USA. rpowers3@unl.edu.
+(9)School of Veterinary Medicine and Biomedical Sciences, University of
+Nebraska-Lincoln, Lincoln, NE, 68588-0905, USA. gsomerville3@unl.edu.
+
+BACKGROUND: Viridans group streptococci of the Streptococcus mitis-oralis
+subgroup are important endovascular pathogens. They can rapidly develop
+high-level and durable non-susceptibility to daptomycin both in vitro and in vivo
+upon exposure to daptomycin. Two consistent genetic adaptations associated with
+this phenotype (i.e., mutations in cdsA and pgsA) lead to the depletion of the
+phospholipids, phosphatidylglycerol and cardiolipin, from the bacterial membrane.
+Such alterations in phospholipid biosynthesis will modify carbon flow and change 
+the bacterial metabolic status. To determine the metabolic differences between
+daptomycin-susceptible and non-susceptible bacteria, the physiology and
+metabolomes of S. mitis-oralis strains 351 (daptomycin-susceptible) and 351-D10
+(daptomycin non-susceptible) were analyzed. S. mitis-oralis strain 351-D10 was
+made daptomycin non-susceptible through serial passage in the presence of
+daptomycin.
+RESULTS: Daptomycin non-susceptible S. mitis-oralis had significant alterations
+in glucose catabolism and a re-balancing of the redox status through amino acid
+biosynthesis relative to daptomycin susceptible S. mitis-oralis. These changes
+were accompanied by a reduced capacity to generate biomass, creating a fitness
+cost in exchange for daptomycin non-susceptibility.
+CONCLUSIONS: S. mitis-oralis metabolism is altered in daptomycin non-susceptible 
+bacteria relative to the daptomycin susceptible parent strain. As demonstrated in
+Staphylococcus aureus, inhibiting the metabolic changes that facilitate the
+transition from a daptomycin susceptible state to a non-susceptible one, inhibits
+daptomycin non-susceptibility. By preventing these metabolic adaptations in S.
+mitis-oralis, it should be possible to deter the formation of daptomycin
+non-susceptibility.
+
+DOI: 10.1186/s12866-020-01849-w 
+PMCID: PMC7296729
+PMID: 32539684 
+

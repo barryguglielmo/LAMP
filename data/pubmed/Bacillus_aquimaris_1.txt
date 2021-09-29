@@ -1,0 +1,43 @@
+
+1. Molecules. 2020 Jan 1;25(1). pii: E179. doi: 10.3390/molecules25010179.
+
+Production and Characterization of Bioplastic by Polyhydroxybutyrate Accumulating
+Erythrobacter aquimaris Isolated from Mangrove Rhizosphere.
+
+Mostafa YS(1), Alrumman SA(1), Otaif KA(1), Alamri SA(1)(2), Mostafa MS(3),
+Sahlabji T(4).
+
+Author information: 
+(1)Department of Biology, College of Science, King Khalid University, P.O. Box
+9004, Abha 61413, Saudi Arabia.
+(2)Prince Sultan Bin Abdulaziz Center for Environmental and Tourism Research and 
+Studies, King Khalid University, P.O. Box 9004, Abha 61413, Saudi Arabia.
+(3)Department of Chemistry, Faculty of Science, Jazan University, P.O. Box 114,
+Jazan 45142, Saudi Arabia.
+(4)Department of Chemistry, College of Science, King Khalid University, P.O. Box 
+9004, Abha 61413, Saudi Arabia.
+
+The synthesis of bioplastic from marine microbes has a great attendance in the
+realm of biotechnological applications for sustainable eco-management. This study
+aims to isolate novel strains of poly-β-hydroxybutyrate (PHB)-producing bacteria 
+from the mangrove rhizosphere, Red Sea, Saudi Arabia, and to characterize the
+extracted polymer. The efficient marine bacterial isolates were identified by the
+phylogenetic analysis of the 16S rRNA genes as Tamlana crocina, Bacillus
+aquimaris, Erythrobacter aquimaris, and Halomonas halophila. The optimization of 
+PHB accumulation by E. aquimaris was achieved at 120 h, pH 8.0, 35 °C, and 2%
+NaCl, using glucose and peptone as the best carbon and nitrogen sources at a C:N 
+ratio of 9.2:1. The characterization of the extracted biopolymer by
+Fourier-transform infrared spectroscopy (FTIR), Nuclear magnetic resonance (NMR),
+and Gas chromatography-mass spectrometry (GC-MS) proves the presence of hydroxyl,
+methyl, methylene, methine, and ester carbonyl groups, as well as derivative
+products of butanoic acid, that confirmed the structure of the polymer as PHB.
+This is the first report on E. aquimaris as a PHB producer, which promoted the
+hypothesis that marine rhizospheric bacteria were a new area of research for the 
+production of biopolymers of commercial value.
+
+DOI: 10.3390/molecules25010179 
+PMCID: PMC6983239
+PMID: 31906348  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

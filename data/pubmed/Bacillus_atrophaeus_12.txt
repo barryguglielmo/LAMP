@@ -1,0 +1,48 @@
+
+1. J Struct Biol. 2020 Aug 1;211(2):107544. doi: 10.1016/j.jsb.2020.107544. Epub
+2020 Jun 5.
+
+A surface loop modulates activity of the Bacillus class D β-lactamases.
+
+Stewart NK(1), Bhattacharya M(1), Toth M(1), Smith CA(2), Vakulenko SB(3).
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, University of Notre Dame, Notre
+Dame, IN, USA.
+(2)Department of Chemistry, Stanford University, Stanford, CA, USA; Stanford
+Synchrotron Radiation Lightsource, Stanford University, Menlo Park, CA, USA.
+Electronic address: csmith@slac.stanford.edu.
+(3)Department of Chemistry and Biochemistry, University of Notre Dame, Notre
+Dame, IN, USA. Electronic address: svakulen@nd.edu.
+
+The expression of β-lactamases is a major mechanism of bacterial resistance to
+the β-lactam antibiotics. Four molecular classes of β-lactamases have been
+described (A, B, C and D), however until recently the class D enzymes were
+thought to exist only in Gram-negative bacteria. In the last few years, class D
+enzymes have been discovered in several species of Gram-positive microorganisms, 
+such as Bacillus and Clostridia, and an investigation of their kinetic and
+structural properties has begun in earnest. Interestingly, it was observed that
+some species of Bacillus produce two distinct class D β-lactamases, one highly
+active and the other with only basal catalytic activity. Analysis of amino acid
+sequences of active (BPU-1 from Bacillus pumilus) and inactive (BSU-2 from
+Bacillus subtilis and BAT-2 from Bacillus atrophaeus) enzymes suggests that
+presence of three additional amino acid residues in one of the surface loops of
+inefficient β-lactamases may be responsible for their severely diminished
+activity. Our structural and docking studies show that the elongated loop of
+these enzymes severely restricts binding of substrates. Deletion of the three
+residues from the loops of BSU-2 and BAT-2 β-lactamases relieves the steric
+hindrance and results in a significant increase in the catalytic activity of the 
+enzymes. These data show that this surface loop plays an important role in
+modulation of the catalytic activity of Bacillus class D β-lactamases.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jsb.2020.107544 
+PMCID: PMC7418532 [Available on 2021-08-01]
+PMID: 32512156 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

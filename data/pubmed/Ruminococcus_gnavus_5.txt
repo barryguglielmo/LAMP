@@ -1,0 +1,46 @@
+
+1. Br J Pharmacol. 2020 Aug 4. doi: 10.1111/bph.15226. [Epub ahead of print]
+
+Protective Effects of Δ9-Tetrahydrocannabinol Against Enterotoxin-induced Acute
+Respiratory Distress Syndrome is Mediated by Modulation of Microbiota.
+
+Mohammed A(1), Alghetaa H(1), Zhou J(1), Chatterjee S(2), Nagarkatti P(1),
+Nagarkatti M(1).
+
+Author information: 
+(1)Department of Pathology, Microbiology and Immunology, School of Medicine.
+(2)Department of Environmental Health Sciences, Arnold School of Public Health,
+University of South Carolina, Columbia, SC, 29208.
+
+BACKGROUND: Staphylococcal enterotoxin-B (SEB) is one of the most potent
+bacterial superantigens that exerts profound toxic effects by inducing cytokine
+storm. When SEB is inhaled, it can cause Acute Respiratory Distress Syndrome
+(ARDS), which is often fatal and currently there are no effective treatment
+modalities.
+EXPERIMENTAL APPROACH: We used mouse model of SEB-mediated ARDS to test the
+efficacy of Δ9-tetrahydrocannabinol (THC). These mice were monitored for lung
+inflammation, alterations in gut and lung microbiota and production of
+short-chain fatty acids (SCFA). Gene dysregulation of lung epithelial cells was
+studied by transcriptome arrays. Fecal microbiota transplantation (FMT) was
+performed to confirm the role of microbiota in suppressing ARDS.
+KEY RESULTS: While SEB triggered ARDS and 100% mortality in mice, THC protected
+the mice from fatality effects. Pyrosequencing analysis revealed that THC caused 
+significant and similar alterations in microbiota in the lungs and gut of mice
+exposed to SEB. THC significantly increased the abundance of beneficial bacterial
+species, Ruminococcus gnavus, but decreased pathogenic microbiota, Akkermansia
+muciniphila. FMT confirmed that THC-mediated reversal of microbial dysbiosis
+played crucial role in attenuation of SEB-mediated ARDS. THC treatment also led
+to increase in SCFA, of which propionic acid was found to inhibit the
+inflammatory response. Transcriptome array showed that THC up-regulated several
+genes like lysozyme-1&2, β-defensin-2, claudin, zonula-1, occludin-1, Mucin2 and 
+Muc5b while downregulating β-defensin-1.
+CONCLUSIONS: Current study demonstrates for the first time that THC attenuates
+SEB-mediated ARDS and toxicity by altering the microbiota in the lungs and the
+gut as well as promoting anti-microbial and anti-inflammatory pathways.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1111/bph.15226 
+PMCID: PMC7436585
+PMID: 32754917 
+

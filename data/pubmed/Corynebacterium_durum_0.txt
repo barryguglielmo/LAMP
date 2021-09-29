@@ -1,0 +1,33 @@
+
+1. Int J Mol Sci. 2020 Mar 23;21(6). pii: E2212. doi: 10.3390/ijms21062212.
+
+Metabolites Produced by the Oral Commensal Bacterium Corynebacterium durum Extend
+the Lifespan of Caenorhabditis elegans via SIR-2.1 Overexpression.
+
+Kim JH(1), Bang IH(2), Noh YJ(3), Kim DK(1), Bae EJ(4), Hwang IH(1).
+
+Author information: 
+(1)Department of Pharmacy, Woosuk University, Wanju, Jeonbuk 55338, Korea.
+(2)Department of Biochemistry, Chonbuk National University Medical School,
+Jeonju, Jeonbuk 54896, Korea.
+(3)National Institute of Animal Science, RDA, Wanju, Jeonbuk 55365, Korea.
+(4)College of Pharmacy, Chonbuk National University, Jeonju, Jeonbuk 54896,
+Korea.
+
+Human microbiota is heavily involved in host health, including the aging process.
+Based on the hypothesis that the human microbiota manipulates host aging via the 
+production of chemical messengers, lifespan-extending activities of the
+metabolites produced by the oral commensal bacterium Corynebacterium durum and
+derivatives thereof were evaluated using the model organism Caenorhabditis
+elegans. Chemical investigation of the acetone extract of a C. durum culture led 
+to the identification of monoamines and N-acetyl monoamines as major metabolites.
+Phenethylamine and N-acetylphenethylamine induced a potent and dose-dependent
+increase of the C. elegans lifespan, up to 21.6% and 19.9%, respectively. A
+mechanistic study revealed that the induction of SIR-2.1, a highly conserved
+protein associated with the regulation of lifespan, was responsible for the
+observed increased longevity.
+
+DOI: 10.3390/ijms21062212 
+PMCID: PMC7139712
+PMID: 32210068 
+

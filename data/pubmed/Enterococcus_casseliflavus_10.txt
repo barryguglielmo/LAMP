@@ -1,0 +1,42 @@
+
+1. Protein Expr Purif. 2019 Nov;163:105449. doi: 10.1016/j.pep.2019.105449. Epub
+2019 Jul 9.
+
+Expression and characterization of a recombinant stevioside hydrolyzing
+β-glycosidase from Enterococcus casseliflavus.
+
+Boonkaew B(1), Udompaisarn S(2), Arthan D(3), Somana J(4).
+
+Author information: 
+(1)Siriraj Center for Regenerative Medicine, Siriraj Hospital, Mahidol
+University, Wanglang Road, Bangkok, 10700, Thailand.
+(2)National Center for Genetic Engineering and Biotechnology, National Science
+and Technology Development Agency, Paholyothin Road, Pathumthani, 12120,
+Thailand.
+(3)Department of Tropical Nutrition & Food Science, Faculty of Tropical Medicine,
+Mahidol University, Rachawithi Road, Bangkok, 10400, Thailand.
+(4)Department of Biochemistry, Faculty of Science, Mahidol University, Rama 6
+Road, Bangkok, 10400, Thailand. Electronic address: jamorn.som@mahidol.ac.th.
+
+The demand for steviol glycosides, non-caloric sweet components of Stevia
+rebaudiana Bertoni (stevia) leaves, has increased considerably as a benefit to
+enhance human health. However, the supply has remained challenging due to limited
+production, with the lack of a specific steviol glycoside hydrolyzing enzyme. In 
+this study, a novel β-glucosidase (EcBgl) from Enterococcus casseliflavus was
+cloned and expressed in Escherichia coli. An EcBgl consists of 721 amino acids
+corresponding to a molecular mass of 79.37 kDa. The EcBgl was purified to
+homogeneity, followed by enzyme characterization. The enzyme showed optimum pH
+and temperature at 6.0 and 37 °C, and exhibited the kinetic constants kcat/Km for
+pNPG and kcat/Km for stevioside of 8583 mM-1s-1 and 95.41 mM-1s-1, respectively. 
+When compared to the stevioside hydrolyzing β-glycosidases previously reported,
+EcBgl was found to be the most efficient enzyme. EcBgl also rendered hydrolysis
+of the stevioside to produce rubusoside, a rare steviol glycoside with a
+pharmaceutical solubilizing property, by cleaving at the glucose moiety. In
+addition, the enzyme demonstrated substantial resistance against amygdalin, so it
+served as a potential enzyme in agricultural and pharmaceutical applications.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pep.2019.105449 
+PMID: 31295559  [Indexed for MEDLINE]
+

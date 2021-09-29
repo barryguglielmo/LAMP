@@ -1,0 +1,39 @@
+
+1. J Biotechnol. 2020 Jan 20;308:21-26. doi: 10.1016/j.jbiotec.2019.11.012. Epub
+2019 Nov 20.
+
+Highly enantioselective resolution of racemic 1-phenyl-1,2-ethanediol to
+(S)-1-phenyl-1,2-ethanediol by Kurthia gibsonii SC0312 in a biphasic system.
+
+Peng F(1), Zhao Y(1), Li FZ(1), Ou XY(1), Zeng YJ(1), Zong MH(1), Lou WY(2).
+
+Author information: 
+(1)Laboratory of Applied Biocatalysis, School of Food Science and Engineering,
+South China University of Technology, Guangzhou 510640, Guangdong, China.
+(2)Laboratory of Applied Biocatalysis, School of Food Science and Engineering,
+South China University of Technology, Guangzhou 510640, Guangdong, China.
+Electronic address: wylou@scut.edu.cn.
+
+The asymmetric resolution of racemic 1-phenyl-1,2-ethanediol (PED) to (S)-PED by 
+Kurthia gibsonii SC0312 (K. gibsonii SC0312) was conducted in a biphasic system
+comprised of an organic solvent and aqueous phosphate buffer. The impacts of
+organic solvents on the whole cell catalytic activity, metabolic activity,
+membrane integrity, and material distribution were first evaluated. The results
+showed that all organic solvents, except for dibutyl phthalate, showed a
+detrimental effect on the metabolic activity of the cells, especially for those
+with low log P values. All organic solvents were capable of changing the membrane
+permeability and membrane integrity of the cells. Moreover, some organic solvents
+showed a good extraction of the oxidation product. Finally, a high yield of 47.7 
+% of (S)-PED was obtained by the asymmetric resolution of racemic PED using K.
+gibsonii SC0312 in a biphasic system under the optimal conditions: racemic PED
+120 mM, temperature 35 °C, reaction time 6 h, 180 rpm, and a volume ratio of
+dibutyl phthalate to aqueous phosphate buffer of 1:1. The optical purity of
+(S)-PED increased from 51.3 % to >99 %. This work described an efficient approach
+to improve reaction efficiency, and constructed a highly effective biphasic
+reaction system for the fabrication of (S)-PED via K. gibsonii SC0312.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jbiotec.2019.11.012 
+PMID: 31758968  [Indexed for MEDLINE]
+

@@ -1,0 +1,36 @@
+
+1. Sci Rep. 2019 Oct 8;9(1):14451. doi: 10.1038/s41598-019-51052-9.
+
+The Role of a Crystallographically Unresolved Cytoplasmic Loop in Stabilizing the
+Bacterial Membrane Insertase YidC2.
+
+Harkey T(1), Govind Kumar V(1), Hettige J(1), Tabari SH(1), Immadisetty K(1),
+Moradi M(2).
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, University of Arkansas,
+Fayetteville, Arkansas, 72701, United States.
+(2)Department of Chemistry and Biochemistry, University of Arkansas,
+Fayetteville, Arkansas, 72701, United States. moradi@uark.edu.
+
+YidC, a bacterial member of the YidC/Alb3/Oxa1 insertase family, mediates
+membrane protein assembly and insertion. Cytoplasmic loops are known to have
+functional significance in membrane proteins such as YidC. Employing
+microsecond-level molecular dynamics (MD) simulations, we show that the
+crystallographically unresolved C2 loop plays a crucial role in the structural
+dynamics of Bacillus halodurans YidC2. We have modeled the C2 loop and used all- 
+atom MD simulations to investigate the structural dynamics of YidC2 in its apo
+form, both with and without the C2 loop. The C2 loop was found to stabilize the
+entire protein and particularly the C1 region. C2 was also found to stabilize the
+alpha-helical character of the C-terminal region. Interestingly, the highly polar
+or charged lipid head groups of the simulated membranes were found to interact
+with and stabilize the C2 loop. These findings demonstrate that the
+crystallographically unresolved loops of membrane proteins could be important for
+the stabilization of the protein despite the apparent lack of structure, which
+could be due to the absence of the relevant lipids to stabilize them in
+crystallographic conditions.
+
+DOI: 10.1038/s41598-019-51052-9 
+PMCID: PMC6783614
+PMID: 31595020 
+

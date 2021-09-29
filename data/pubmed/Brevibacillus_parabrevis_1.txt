@@ -1,0 +1,58 @@
+
+1. J Biotechnol. 2020 Aug 20;320:57-65. doi: 10.1016/j.jbiotec.2020.06.016. Epub
+2020 Jun 19.
+
+Recombinant expression and molecular engineering of the keratinase from
+Brevibacillus parabrevis for dehairing performance.
+
+Zhang RX(1), Gong JS(2), Su C(2), Qin J(3), Li H(2), Li H(2), Shi JS(4), Xu
+ZH(5).
+
+Author information: 
+(1)Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of
+Education, School of Pharmaceutical Sciences, Jiangnan University, Wuxi 214122,
+PR China; School of Life Science and Technology, Henan Institute of Science and
+Technology, Xinxiang 453003, PR China.
+(2)Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of
+Education, School of Pharmaceutical Sciences, Jiangnan University, Wuxi 214122,
+PR China.
+(3)Novo Nordisk Foundation Center for Biosustainability, Technical University of 
+Denmark, DK-2800 Kgs. Lyngby, Denmark.
+(4)Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of
+Education, School of Pharmaceutical Sciences, Jiangnan University, Wuxi 214122,
+PR China. Electronic address: shijs@163.com.
+(5)Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of
+Education, School of Pharmaceutical Sciences, Jiangnan University, Wuxi 214122,
+PR China; National Engineering Laboratory for Cereal Fermentation Technology,
+School of Biotechnology, Jiangnan University, Wuxi 214122, PR China.
+
+Keratinase is capable of distinctive degradation of keratin, which provides an
+eco-friendly approach for keratin waste management towards sustainable
+development. In this study, the recombinant keratinase (KERBP) from Brevibacillus
+parabrevis was successfully expressed in Escherichia coli. The purified KERBP had
+the specific activity of 6005.3 U/mg. It showed remarkable tolerance to various
+surfactants and also no collagenolytic activity. However, the moderate thermal
+stability limited its further application. Thus, protein engineering was further 
+adopted to improve its stability. The variants of T218S, S236C and N181D were
+constructed by site-directed mutagenesis and combinatorial mutagenesis. Compared 
+with the wild type, the t1/2 at 60 °C for the variants T218S, S236C and N181D
+were 3.05-, 1.18- and 1-fold increase, respectively. Moreover, the double
+variants N181D-T218S and N181D-S236C significantly improved thermostability with 
+5.1 and 2.9 °C increase of T50, and prolonging t1/2 at 60 °C with 4.09 and
+1.54-fold, respectively. And the catalytic efficiency of the T218S and
+N181D-T218S variants was also significantly improved. Furthermore, the keratinase
+displayed favorable ability to dehair wool from skin within 7 h, which showed
+potential in leather dehairing. Our work contributes to a further insight into
+the thermostability of keratinase and offers a promising alternative for
+industrial leather application.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jbiotec.2020.06.016 
+PMID: 32569793 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

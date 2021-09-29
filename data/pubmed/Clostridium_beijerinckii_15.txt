@@ -1,0 +1,59 @@
+
+1. Appl Environ Microbiol. 2020 Jun 17;86(13). pii: e00665-20. doi:
+10.1128/AEM.00665-20. Print 2020 Jun 17.
+
+The Small RNA sr8384 Is a Crucial Regulator of Cell Growth in Solventogenic
+Clostridia.
+
+Yang Y(#)(1), Zhang H(#)(1)(2), Lang N(1)(2), Zhang L(1)(2), Chai C(1), He H(1), 
+Jiang W(3), Gu Y(3).
+
+Author information: 
+(1)Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular
+Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Chinese
+Academy of Sciences, Shanghai, China.
+(2)University of Chinese Academy of Sciences, Beijing, China.
+(3)Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular
+Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Chinese
+Academy of Sciences, Shanghai, China whjiang@sibs.ac.cn ygu02@sibs.ac.cn.
+(#)Contributed equally
+
+Small RNAs (sRNAs) are crucial regulatory molecules in organisms and are
+well-known not only for their roles in the control of diverse crucial biological 
+processes but also for their value in regulation rewiring. However, to date, in
+Gram-positive anaerobic solventogenic clostridia (a group of important industrial
+bacteria with exceptional substrate and product diversity), sRNAs remain
+minimally explored, and thus there is a lack of detailed understanding regarding 
+these important molecules and their use as targets for genetic improvement. Here,
+we performed large-scale phenotypic screens of a transposon-mediated mutant
+library of Clostridium acetobutylicum, a typical solventogenic clostridial
+species, and discovered a novel sRNA (sr8384) that functions as a crucial
+regulator of cell growth. Comparative transcriptomic data combined with genetic
+and biochemical analyses revealed that sr8384 acts as a pleiotropic regulator and
+controls multiple targets that are associated with crucial biological processes
+through direct or indirect interactions. Notably, the in vivo expression level of
+sr8384 determined the cell growth rate, thereby affecting the solvent titer and
+productivity. These findings indicate the importance of the sr8384-mediated
+regulatory network in C. acetobutylicum Furthermore, a homolog of sr8384 was
+discovered and proven to be functional in another important Clostridium species, 
+C. beijerinckii, suggesting the potential broad role of this sRNA in clostridia. 
+Our work showcases a previously unknown potent and complex role of sRNAs in
+clostridia, providing new opportunities for understanding and engineering these
+anaerobes.IMPORTANCE The uses of sRNAs as new resources for functional studies
+and strain modifications are promising strategies in microorganisms. However,
+these crucial regulatory molecules have hardly been explored in industrially
+important solventogenic clostridia. Here, we identified sr8384 as a novel
+determinant sRNA controlling the cell growth of solventogenic Clostridium
+acetobutylicum Based on a detailed functional analysis, we further reveal the
+pleiotropic function of sr8384 and its multiple direct and indirect crucial
+targets, which represents a valuable source for understanding and optimizing this
+anaerobe. Of note, manipulation of this sRNA achieves improved cell growth and
+solvent synthesis. Our findings provide a new perspective for future studies on
+regulatory sRNAs in clostridia.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.00665-20 
+PMCID: PMC7301862 [Available on 2020-12-17]
+PMID: 32358006 
+

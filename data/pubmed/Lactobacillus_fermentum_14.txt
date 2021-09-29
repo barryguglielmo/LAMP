@@ -1,0 +1,50 @@
+
+1. 3 Biotech. 2020 Sep;10(9):409. doi: 10.1007/s13205-020-02349-4. Epub 2020 Aug 28.
+
+Efficient two-step lactic acid production from cassava biomass using thermostable
+enzyme cocktail and lactic acid bacteria: insights from hydrolysis optimization
+and proteomics analysis.
+
+Sharma A(1), Pranaw K(2), Singh S(1)(3), Khare SK(2), Chandel AK(4), Nain PKS(5),
+Nain L(1).
+
+Author information: 
+(1)Division of Microbiology, Indian Agricultural Research Institute, New Delhi,
+110012 India.
+(2)Enzyme and Microbial Biochemistry Laboratory, Department of Chemistry, Indian 
+Institute of Technology Delhi, Hauz Khas, New Delhi, 110016 India.
+(3)Department of Microbiology, Central University of Haryana, Mahendergarh,
+123031 India.
+(4)Department of Biotechnology, Engineering School of Lorena (EEL), University of
+São Paulo (USP, Estrada Municipal do Campinho), s/nº 12, Lorena, São Paulo
+602-810 Brazil.
+(5)Design and Mechatronic Division, School of Civil and Mechanical Engineering,
+Galgotias University, Greater Noida, Uttar Pradesh 201312 India.
+
+Lactic acid is an intermediate-volume specialty chemical, used in the production 
+of biodegradable polymers and other chemicals. Although lactic acid production
+process is well established, however, the cost of production is very high.
+Therefore, in this study; starchy biomass (cassava) was hydrolyzed with in-house 
+enzyme cocktail prepared from Aspergillus foetidus MTCC508 and Bacillus subtilis 
+RA10. Process optimization using Taguchi experimental design helped to optimize
+the most effective ratio of fungal and bacterial amylase for effective
+saccharification of cassava. A higher sugar yield of 379.63 mg/gds was obtained
+under optimized conditions, using 30 U/gds of bacterial enzyme and 90 U/gds of
+the fungal enzyme at pH 4 within 48 h of saccharification. Among 11 lactic acid
+bacteria isolated, Lactobacillus fermentum S1A and Lactobacillus farraginis SS3A 
+produced the highest amount of lactic acid 0.81 g/g and 0.77 g/g, respectively,
+from the cassava hydrolysate. The study proved the potential renewable source of 
+cassava biomass as a source for fermentable sugars that can be fermented to
+lactic acid with high yield. In future, this cost-effective and
+environmental-friendly bioprocess can be upscaled for industrial lactic acid
+production.
+
+© King Abdulaziz City for Science and Technology 2020.
+
+DOI: 10.1007/s13205-020-02349-4 
+PMCID: PMC7455658 [Available on 2021-09-01]
+PMID: 32904521 
+
+Conflict of interest statement: Conflict of interestThe authors have no conflict 
+of interest.
+

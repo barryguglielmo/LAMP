@@ -1,0 +1,46 @@
+
+1. Front Bioeng Biotechnol. 2020 Feb 14;8:67. doi: 10.3389/fbioe.2020.00067.
+eCollection 2020.
+
+Discovery and Biochemical Characterization of a Methanol Dehydrogenase From
+Lysinibacillus xylanilyticus.
+
+Lee JY(1), Park SH(1)(2), Oh SH(1)(2), Lee JJ(1)(2), Kwon KK(1), Kim SJ(1), Choi 
+M(1), Rha E(1), Lee H(1), Lee DH(1)(2), Sung BH(1)(2), Yeom SJ(1)(3), Lee
+SG(1)(2).
+
+Author information: 
+(1)Synthetic Biology and Bioengineering Research Center, Korea Research Institute
+of Bioscience and Biotechnology, Daejeon, South Korea.
+(2)Department of Biosystems and Bioengineering, KRIBB School of Biotechnology,
+University of Science and Technology, Daejeon, South Korea.
+(3)School of Biological Sciences and Technology, Chonnam National University,
+Gwangju, South Korea.
+
+Bioconversion of C1 chemicals such as methane and methanol into higher
+carbon-chain chemicals has been widely studied. Methanol oxidation catalyzed by
+methanol dehydrogenase (Mdh) is one of the key steps in methanol utilization in
+bacterial methylotrophy. In bacteria, few NAD+-dependent Mdhs have been reported 
+that convert methanol to formaldehyde. In this study, an uncharacterized Mdh gene
+from Lysinibacillus xylanilyticus (Lxmdh) was cloned and expressed in Escherichia
+coli. The maximum alcohol oxidation activity of the recombinant enzyme was
+observed at pH 9.5 and 55°C in the presence of 10 mM Mg2+. To improve oxidation
+activity, rational approach-based, site-directed mutagenesis of 16 residues in
+the putative active site and NAD+-binding region was performed. The mutations
+S101V, T141S, and A164F improved the enzyme's specific activity toward methanol
+compared to that of the wild-type enzyme. These mutants show a slightly higher
+turnover rate than that of wild-type, although their K M values were increased
+compared to that of wild-type. Consequently, according the kinetic results, S101,
+T141, and A164 positions may related to the catalytic activity in the active site
+for methanol dehydrogenation. It should be further studied other mutant variants 
+with high activity for methanol. In conclusion, we characterized a new Lxmdh and 
+its variants that may be potentially useful for the development of synthetic
+methylotrophy in the future.
+
+Copyright © 2020 Lee, Park, Oh, Lee, Kwon, Kim, Choi, Rha, Lee, Lee, Sung, Yeom
+and Lee.
+
+DOI: 10.3389/fbioe.2020.00067 
+PMCID: PMC7033420
+PMID: 32117944 
+

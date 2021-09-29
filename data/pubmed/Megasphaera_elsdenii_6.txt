@@ -1,0 +1,43 @@
+
+1. Bioresour Technol. 2020 Apr;301:122794. doi: 10.1016/j.biortech.2020.122794. Epub
+2020 Jan 12.
+
+Impact of feedstocks and downstream processing technologies on the economics of
+caproic acid production in fermentation by Megasphaera elsdenii T81.
+
+Kim H(1), Choi O(1), Jeon BS(2), Choe WS(3), Sang BI(4).
+
+Author information: 
+(1)Department of Chemical Engineering, Hanyang University, 222 Wangsimni-ro,
+Seongdong-gu, Seoul 04763, Republic of Korea.
+(2)Centrum for Applied Geosciences, University of Tübingen, Hölderlinstraße 12,
+Tübingen 72074, Germany.
+(3)SKKU Advanced Institute of Nano-Technology (SAINT) and School of Chemical
+Engineering, Sungkyunkwan University (SKKU), Suwon, Gyeonggi-do 16419, Republic
+of Korea.
+(4)Department of Chemical Engineering, Hanyang University, 222 Wangsimni-ro,
+Seongdong-gu, Seoul 04763, Republic of Korea. Electronic address:
+biosang@hanyang.ac.kr.
+
+Caproic acid (CA) was produced by Megasphaera elsdenii T81 with Jerusalem
+artichoke tubers (JA) as a feedstock. More CA was produced under the medium with 
+the acid hydrolysate of JA than the comparative medium with a carbon composition 
+similar to that of JA. CA was produced up to 13.0 g/L and 0.52 g/L/h with
+extractive fermentation using a mixed solvent of alamine 336 in oleyl alcohol at 
+37 °C. The JA cost to produce 1 ton of CA is only 505 USD, which is much lower
+than that required for purchasing sucrose (860 USD) in CA production. As a result
+of the analysis performed using SuperPro Designer, including the cost of
+distillation to obtain pure CA, the estimated production cost for CA from dry JA 
+is 1869 USD/ton CA at the production scale of 2000 ton/year, which is lower than 
+the current market price for petroleum-derived CA (~2500 USD/ton).
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biortech.2020.122794 
+PMID: 31981909  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

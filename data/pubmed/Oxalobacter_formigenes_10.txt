@@ -1,0 +1,54 @@
+
+1. J Trauma Acute Care Surg. 2020 May;88(5):579-587. doi:
+10.1097/TA.0000000000002612.
+
+The gut microbiome distinguishes mortality in trauma patients upon admission to
+the emergency department.
+
+Burmeister DM(1), Johnson TR, Lai Z, Scroggins SR, DeRosa M, Jonas RB, Zhu C,
+Scherer E, Stewart RM, Schwacha MG, Jenkins DH, Eastridge BJ, Nicholson SE.
+
+Author information: 
+(1)From the Division of Trauma and Emergency Surgery, Department of Surgery
+(D.M.B., T.R.J., S.S., M.D., R.B.J., C.Z., E.S., R.M.S., M.G.S., D.H.J., B.J.E., 
+S.E.N.), Greehey Children's Cancer Research Institute (Z.L.), and Department of
+Molecular Medicine (Z.L.), UT Health San Antonio, San Antonio, Texas; Department 
+of Medicine, Uniformed Services University of the Health Sciences (D.M.B),
+Bethesda, MD and US Army Institute of Surgical Research (D.M.B., S.E.N.), Fort
+Sam Houston, Texas.
+
+BACKGROUND: Traumatic injury can lead to a compromised intestinal epithelial
+barrier, decreased gut perfusion, and inflammation. While recent studies indicate
+that the gut microbiome (GM) is altered early following traumatic injury, the
+impact of GM changes on clinical outcomes remains unknown. Our objective of this 
+follow-up study was to determine if the GM is associated with clinical outcomes
+in critically injured patients.
+METHODS: We conducted a prospective, observational study in adult patients (N =
+67) sustaining severe injury admitted to a level I trauma center. Fecal specimens
+were collected on admission to the emergency department, and microbial DNA from
+all samples was analyzed using the Quantitative Insights Into Microbial Ecology
+pipeline and compared against the Greengenes database. α-Diversity and
+β-diversity were estimated using the observed species metrics and analyzed with t
+tests and permutational analysis of variance for overall significance, with post 
+hoc pairwise analyses.
+RESULTS: Our patient population consisted of 63% males with a mean age of 44
+years. Seventy-eight percent of the patients suffered blunt trauma with 22%
+undergoing penetrating injuries. The mean body mass index was 26.9 kg/m.
+Significant differences in admission β-diversity were noted by hospital length of
+stay, intensive care unit hospital length of stay, number of days on the
+ventilator, infections, and acute respiratory distress syndrome (p < 0.05).
+β-Diversity on admission differed in patients who died compared with patients who
+lived (mean time to death, 8 days). There were also significantly less
+operational taxonomic units in samples from patients who died versus those who
+survived. A number of species were enriched in the GM of injured patients who
+died, which included some traditionally probiotic species such as Akkermansia
+muciniphilia, Oxalobacter formigenes, and Eubacterium biforme (p < 0.05).
+CONCLUSION: Gut microbiome diversity on admission in severely injured patients is
+predictive of a variety of clinically important outcomes. While our study does
+not address causality, the GM of trauma patients may provide valuable diagnostic 
+and therapeutic targets for the care of injured patients.
+LEVEL OF EVIDENCE: Prognostic and epidemiological, level III.
+
+DOI: 10.1097/TA.0000000000002612 
+PMID: 32039976  [Indexed for MEDLINE]
+

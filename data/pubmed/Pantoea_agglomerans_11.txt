@@ -1,0 +1,43 @@
+
+1. J Food Sci. 2020 Sep 17. doi: 10.1111/1750-3841.15453. [Epub ahead of print]
+
+AFM imaging of extracellular ice nucleators.
+
+Gezgin Z(1)(2), Lee TC(1), Huang Q(1).
+
+Author information: 
+(1)Department of Food Science, Rutgers University, 65 Dudley Road, New Brunswick,
+NJ, 08901-8520, USA.
+(2)TUBITAK, The Scientific and Technological Research Council of Turkey, Tunus
+Caddesi No: 80, 06100, Kavaklıdere, Ankara, Turkey.
+
+Ice nucleators are substances that can initiate nucleation of pure water at and
+above -10 °C. Some plant pathogens possess a gene which encodes for a protein
+that acts as an ice nucleator, activity of which is enhanced when it is combined 
+with the sugar and lipid components from the cell membrane. This matter retains
+its ice nucleation activity even after it is detached from the cell wall, and is 
+termed extracellular ice nucleator (ECIN). In this paper, surface morphology of
+ECINs was investigated using atomic force microscopy (AFM) in tapping mode. ECINs
+were immobilized onto polyelectrolyte multilayers using the layer by layer
+deposition method. Effect of layer build-up, method of ECIN production, and
+polyelectrolytes used for multilayer fabrication were investigated. Globular and 
+rod-like structures were observed on the AFM images of the nano-thin ECIN layers.
+Activity of ECINs, tested in food solutions in earlier studies, was retained when
+applied as a nano-thin layer onto a silicon wafer surface. Protein aggregate
+sizes decreased when higher centrifugation speeds were applied, and ice
+nucleation activity also decreased. Nucleation occurred faster and at higher
+temperatures when substrates were immersed in solutions of higher ECIN
+concentration, whereas number of bilayers formed did not have a significant
+effect. Higher concentration ECIN dipping solutions also led to the formation of 
+thicker and denser ECIN layers as observed via AFM imaging. PRACTICAL
+APPLICATION: This study demonstrates the properties of nano-thin ECIN layers,
+which can crystallize pure water into ice at higher temperatures and in shorter
+time. Accelerating ice nucleation can potentially be utilized to freeze liquids
+in shorter time hence using less energy, or improve frozen foods' stability
+against the risk of cold chain breakage.
+
+© 2020 Institute of Food Technologists®.
+
+DOI: 10.1111/1750-3841.15453 
+PMID: 32940354 
+

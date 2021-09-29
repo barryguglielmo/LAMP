@@ -1,0 +1,53 @@
+
+1. Gut. 2020 Mar;69(3):569-577. doi: 10.1136/gutjnl-2018-317836. Epub 2019 Jun 14.
+
+Alterations of gut microbiome in autoimmune hepatitis.
+
+Wei Y(1), Li Y(1), Yan L(1), Sun C(1), Miao Q(1), Wang Q(1), Xiao X(1), Lian
+M(1), Li B(1), Chen Y(1), Zhang J(1), Li Y(1), Huang B(1), Li Y(1), Cao Q(2), Fan
+Z(2), Chen X(1), Fang JY(1), Gershwin ME(3), Tang R(1), Ma X(1).
+
+Author information: 
+(1)Division of Gastroenterology and Hepatology, Key Laboratory of
+Gastroenterology and Hepatology, Ministry of Health, State Key Laboratory for
+Oncogenes and Related Genes, Renji Hospital, School of Medicine, Shanghai Jiao
+Tong University; Shanghai Institute of Digestive Disease, Shanghai, China.
+(2)Department of Health Manage Center, Renji Hospital, School of Medicine,
+Shanghai Jiao Tong University, Shanghai, China.
+(3)Division of Rheumatology, Allergy and Clinical Immunology, University of
+California at Davis, Davis, California, USA.
+
+OBJECTIVE: The significance of the liver-microbiome axis has been increasingly
+recognised as a major modulator of autoimmunity. The aim of this study was to
+take advantage of a large well-defined corticosteroids treatment-naïve group of
+patients with autoimmune hepatitis (AIH) to rigorously characterise gut dysbiosis
+compared with healthy controls.
+DESIGN: We performed a cross-sectional study of individuals with AIH (n=91) and
+matched healthy controls (n=98) by 16S rRNA gene sequencing. An independent
+cohort of 28 patients and 34 controls was analysed to validate the results. All
+the patients were collected before corticosteroids therapy.
+RESULTS: The gut microbiome of steroid treatment-naïve AIH was characterised with
+lower alpha-diversity (Shannon and observed operational taxonomic units, both
+p<0.01) and distinct overall microbial composition compared with healthy controls
+(p=0.002). Depletion of obligate anaerobes and expansion of potential pathobionts
+including Veillonella were associated with disease status. Of note, Veillonella
+dispar, the most strongly disease-associated taxa (p=8.85E-8), positively
+correlated with serum level of aspartate aminotransferase and liver inflammation.
+Furthermore, the combination of four patients with AIH-associated genera
+distinguished AIH from controls with an area under curves of approximately 0.8 in
+both exploration and validation cohorts. In addition, multiple predicted
+functional modules were altered in the AIH gut microbiome, including
+lipopolysaccharide biosynthesis as well as metabolism of amino acids that can be 
+processed by bacteria to produce immunomodulatory metabolites.
+CONCLUSION: Our study establishes compositional and functional alterations of gut
+microbiome in AIH and suggests the potential for using gut microbiota as
+non-invasive biomarkers to assess disease activity.
+
+© Author(s) (or their employer(s)) 2020. No commercial re-use. See rights and
+permissions. Published by BMJ.
+
+DOI: 10.1136/gutjnl-2018-317836 
+PMID: 31201284  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+

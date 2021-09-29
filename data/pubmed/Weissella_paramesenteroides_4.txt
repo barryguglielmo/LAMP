@@ -1,0 +1,36 @@
+
+1. Int J Syst Evol Microbiol. 2020 Apr;70(4):2485-2492. doi: 10.1099/ijsem.0.004062.
+Epub 2020 Feb 25.
+
+Weissella sagaensis sp. nov., isolated from traditional Chinese yogurt.
+
+Li YQ(1), Tian WL(2), Gu CT(1).
+
+Author information: 
+(1)College of Life Sciences, Northeast Agricultural University, Harbin 150030, PR
+China.
+(2)Institute of Apicultural Research, Chinese Academy of Agricultural Sciences,
+Beijing 100093, PR China.
+
+Three Gram-stain-positive bacterial strains, designated X0750T, X0278 and X0401, 
+isolated from traditional yogurt in Tibet Autonomous Region, PR China, were
+characterized by a polyphasic approach, including sequence analyses of the 16S
+rRNA gene and three housekeeping genes (pheS, rpoA and recA), determination of
+average nucleotide identity (ANI) and average amino acid identity (AAI), in
+silico DNA-DNA hybridization (isDDH), fatty acid methyl ester (FAME) analysis and
+phenotypic characterization. Strain X0750T was phylogenetically related to the
+type strains of Weissella hellenica, Weissella bombi, Weissella
+paramesenteroides, Weissella jogaejeotgali, Weissella thailandensis, Weissella
+oryzae, Weissella cibaria and Weissella confusa, having 94.4-100 % 16S rRNA gene 
+sequence similarities, 76.7-90.0 % pheS gene sequence similarities,
+88.9-99.4 % rpoA gene sequence similarities and 77.6-92.8 % recA gene sequence
+similarities, respectively. ANI, isDDH and AAI values between strain X0750T and
+type strains of phylogenetically related species were less than 90.4, 40.9 and
+92.8 % respectively, confirming that strain X0750T represents a novel species
+within the genus Weissella. Based upon the data obtained in the present study, a 
+novel species, Weissella sagaensis sp. nov., is proposed and the type strain is
+X0750T(=NCIMB 15192T=CCM 8924T=LMG 31184T=CCTCC AB 2018403T).
+
+DOI: 10.1099/ijsem.0.004062 
+PMID: 32100692  [Indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+1. BMC Microbiol. 2020 Jul 20;20(1):217. doi: 10.1186/s12866-020-01900-w.
+
+Total RNA and genomic DNA of Lactobacillus gasseri OLL2809 induce interleukin-12 
+production in the mouse macrophage cell line J774.1 via toll-like receptors 7 and
+9.
+
+Onishi K(1), Mochizuki J(1), Sato A(1), Goto A(1), Sashihara T(2).
+
+Author information: 
+(1)Food Microbiology Research Laboratories, R&D Division, Meiji Co., Ltd., 1-29-1
+Nanakuni, Hachiouji, Tokyo, 192-0919, Japan.
+(2)Food Microbiology Research Laboratories, R&D Division, Meiji Co., Ltd., 1-29-1
+Nanakuni, Hachiouji, Tokyo, 192-0919, Japan. toshihiro.sashihara@meiji.com.
+
+BACKGROUND: Lactobacillus gasseri OLL2809 can highly induce interleukin (IL)-12
+production in immune cells. Even though beneficial properties of this strain for 
+both humans and animals have been reported, the mechanism by which the bacteria
+induces the production of IL-12 in immune cells remains elusive. In this study,
+we investigated the mechanism of induction of IL-12 using a mouse macrophage cell
+line J774.1.
+RESULTS: Inhibition of phagocytosis of L. gasseri OLL2809, and myeloid
+differentiation factor 88 and Toll-like receptors (TLRs) 7 and 9 signalling
+attenuated IL-12 production in J774.1 cells. Total RNA and genomic DNA of L.
+gasseri OLL2809, when transferred to the J774.1 cells, also induced IL-12
+production. The difference in the IL-12-inducing activity of Lactobacilli is
+attributed to the susceptibility to phagocytosis, but not to a difference in the 
+total RNA and genomic DNA of each strain.
+CONCLUSION: We concluded that total RNA and genomic DNA of phagocytosed L.
+gasseri OLL2809 induce IL-12 production in J774.1 cell via TLRs 7 and 9, and the 
+high IL-12-inducing activity of L. gasseri OLL2809 is due to its greater
+susceptibility to phagocytosis.
+
+DOI: 10.1186/s12866-020-01900-w 
+PMCID: PMC7372888
+PMID: 32689952 
+

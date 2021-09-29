@@ -1,0 +1,46 @@
+
+1. J Med Microbiol. 2019 Dec;68(12):1707-1715. doi: 10.1099/jmm.0.001087. Epub 2019 
+Oct 29.
+
+First Identification and genomic characterization of multidrug-resistant
+carbapenemase-producing Enterobacteriaceae clinical isolates in Malawi, Africa.
+
+Kumwenda GP(1)(2)(3), Sugawara Y(1), Abe R(2)(1), Akeda Y(2)(1), Kasambara W(3), 
+Chizani K(3), Takeuchi D(1), Sakamoto N(1), Tomono K(2), Hamada S(1).
+
+Author information: 
+(1)Japan-Thailand Research Collaboration Center on Emerging and Re-emerging
+Infections, Research Institute for Microbial Diseases, Osaka University, Suita,
+Japan.
+(2)Division of Infection Control and Prevention, Osaka University Hospital,
+Suita, Japan.
+(3)Microbiology Department, National Reference Laboratory, Community Health
+Sciences Unit, Ministry of Health, Lilongwe, Malawi.
+
+Purpose. Carbapenemase-producing Enterobacteriaceae (CPE) have become a global
+concern and a serious threat to human health due to their resistance to multiple 
+antibiotics. In this study, we identified and characterized CPE for the first
+time in Malawi, southeastern Africa.Methodology. We investigated the possible
+presence of carbapenemases among a collection of 200 ceftriaxone-nonsusceptible
+Gram-negative clinical isolates obtained from five Malawian hospitals between
+January 2016 and December 2017, using both phenotypic and genotypic tests.
+Molecular typing of CPE was done by PFGE, multilocus sequence typing (ST) or
+phylogenetic grouping. Resistant plasmids were characterized by S1 PFGE, Southern
+blotting and conjugation assays.Results. Out of 200 isolates, we detected 16
+(8 %) CPE of which all originated from one referral hospital, Kamuzu Central
+Hospital, in the Central part of Malawi. Of 16 isolates, seven Klebsiella
+pneumoniae ST340/CC258 carried bla KPC-2, two Escherichia coli ST636 (phylogroup 
+B2) carried bla NDM-5, six E. coli ST617 (phylogroup A) and one Klebsiella
+variicola carried bla OXA-48. All carbapenemases were plasmid-encoded, but only
+bla NDM-5-carrying plasmids could be conjugated. Most isolates co-harboured other
+β-lactamases and consequently exhibited a wider spectrum of resistance to
+commonly used antibiotics. We observed indistinguishable genetic profiles between
+strain types, despite originating from different wards, suggesting acquisition
+during admission and intra-hospital spread.Conclusion. This report strongly
+suggests a probable existence of highly resistant various types of CPE organisms 
+in Malawi including KPC-2-producing K. pneumoniae ST340/CC258, a known high-risk 
+epidemic lineage.
+
+DOI: 10.1099/jmm.0.001087 
+PMID: 31661049  [Indexed for MEDLINE]
+

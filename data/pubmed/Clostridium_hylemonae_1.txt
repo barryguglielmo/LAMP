@@ -1,0 +1,81 @@
+
+1. Gut Microbes. 2020 May 3;11(3):381-404. doi: 10.1080/19490976.2019.1618173. Epub 
+2019 Jun 9.
+
+The 'in vivo lifestyle' of bile acid 7α-dehydroxylating bacteria: comparative
+genomics, metatranscriptomic, and bile acid metabolomics analysis of a defined
+microbial community in gnotobiotic mice.
+
+Ridlon JM(1)(2)(3)(4)(5), Devendran S(1)(2), Alves JM(6), Doden H(1)(2), Wolf
+PG(1)(2)(3), Pereira GV(1)(2), Ly L(1)(3), Volland A(1)(2), Takei H(7), Nittono
+H(7), Murai T(8), Kurosawa T(8), Chlipala GE(9), Green SJ(9), Hernandez AG(10),
+Fields CJ(10), Wright CL(10), Kakiyama G(11), Cann I(1)(2)(3)(10)(12), Kashyap
+P(13)(14), McCracken V(13)(15), Gaskins HR(2)(3)(4).
+
+Author information: 
+(1)Microbiome Metabolic Engineering Theme, Carl R. Woese Institute for Genomic
+Biology , Urbana, IL, USA.
+(2)Department of Animal Sciences, University of Illinois at Urbana-Champaign ,
+Urbana, IL, USA.
+(3)Division of Nutritional Sciences, University of Illinois at Urbana-Champaign ,
+Urbana, IL, USA.
+(4)Cancer Center at Illinois, University of Illinois at Urbana-Champaign ,
+Urbana, IL, USA.
+(5)Department of Microbiology and Immunology, School of Medicine, Virginia
+Commonwealth University , Richmond, VA, USA.
+(6)Department of Parasitology, Institute of Biomedical Sciences, University of
+São Paulo , São Paulo, Brazil.
+(7)Junshin Clinic Bile Acid Institute , Meguro-Ku, Tokyo, Japan.
+(8)School of Pharmaceutical Sciences, Health Sciences University of Hokkaido ,
+Ishikari-Tobetsu, Hokkaido, Japan.
+(9)UIC Research Resources Center, University of Illinois at Chicago , Chicago,
+IL, USA.
+(10)Keck Center for Biotechnology, University of Illinois at Urbana-Champaign ,
+Urbana, IL, USA.
+(11)Department of Internal Medicine, School of Medicine, Virginia Commonwealth
+University , Richmond, VA, USA.
+(12)Department of Microbiology, University of Illinois at Urbana-Champaign ,
+Urbana, IL, USA.
+(13)Department of Physiology & Biomedical Engineering, Mayo Clinic , Rochester,
+MN, USA.
+(14)Division of Gastroenterology and Hepatology, Department of Internal Medicine,
+Mayo Clinic , Rochester, MN, USA.
+(15)Department of Biological Sciences, Southern Illinois University Edwardsville 
+, Edwardsville, IL, USA.
+
+The formation of secondary bile acids by gut microbes is a current topic of
+considerable biomedical interest. However, a detailed understanding of the
+biology of anaerobic bacteria in the genus Clostridium that are capable of
+generating secondary bile acids is lacking. We therefore sought to determine the 
+transcriptional responses of two prominent secondary bile acid producing
+bacteria, Clostridium hylemonae and Clostridium hiranonis to bile salts (in
+vitro) and the cecal environment of gnotobiotic mice. The genomes of C. hylemonae
+DSM 15053 and C. hiranonis DSM 13275 were closed, and found to encode 3,647 genes
+(3,584 protein-coding) and 2,363 predicted genes (of which 2,239 are
+protein-coding), respectively, and 1,035 orthologs were shared between C.
+hylemonae and C. hiranonis. RNA-Seq analysis was performed in growth medium
+alone, and in the presence of cholic acid (CA) and deoxycholic acid (DCA). Growth
+with CA resulted in differential expression (>0.58 log2FC; FDR < 0.05) of 197
+genes in C. hiranonis and 118 genes in C. hylemonae. The bile acid-inducible
+operons (bai) from each organism were highly upregulated in the presence of CA
+but not DCA. We then colonized germ-free mice with human gut bacterial isolates
+capable of metabolizing taurine-conjugated bile acids. This consortium included
+bile salt hydrolase-expressing Bacteroides uniformis ATCC 8492, Bacteroides
+vulgatus ATCC 8482, Parabacteroides distasonis DSM 20701, as well as
+taurine-respiring Bilophila wadsworthia DSM 11045, and deoxycholic/lithocholic
+acid generating Clostridium hylemonae DSM 15053 and Clostridium hiranonis DSM
+13275. Butyrate and iso-bile acid-forming Blautia producta ATCC 27340 was also
+included. The Bacteroidetes made up 84.71% of 16S rDNA cecal reads, B.
+wadsworthia, constituted 14.7%, and the clostridia made up <.75% of 16S rDNA
+cecal reads. Bile acid metabolomics of the cecum, serum, and liver indicate that 
+the synthetic community were capable of functional bile salt deconjugation,
+oxidation/isomerization, and 7α-dehydroxylation of bile acids. Cecal
+metatranscriptome analysis revealed expression of genes involved in metabolism of
+taurine-conjugated bile acids. The in vivo transcriptomes of C. hylemonae and C. 
+hiranonis suggest fermentation of simple sugars and utilization of amino acids
+glycine and proline as electron acceptors. Genes predicted to be involved in
+trimethylamine (TMA) formation were also expressed.
+
+DOI: 10.1080/19490976.2019.1618173 
+PMID: 31177942 
+

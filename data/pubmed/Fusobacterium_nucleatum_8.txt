@@ -1,0 +1,51 @@
+
+1. Front Oncol. 2020 Aug 26;10:1682. doi: 10.3389/fonc.2020.01682. eCollection 2020.
+
+Mucinous Adenocarcinoma of the Rectum: A Whole Genome Sequencing Study.
+
+Reynolds IS(1)(2), Thomas V(2)(3)(4), O'Connell E(1)(2), Fichtner M(2), McNamara 
+DA(1)(5), Kay EW(6), Prehn JHM(2)(3), Burke JP(1), Furney SJ(2)(3)(4).
+
+Author information: 
+(1)Department of Colorectal Surgery, Beaumont Hospital, Dublin, Ireland.
+(2)Department of Physiology and Medical Physics, Royal College of Surgeons in
+Ireland, Dublin, Ireland.
+(3)Centre for Systems Medicine, Royal College of Surgeons in Ireland, Dublin,
+Ireland.
+(4)Genomic Oncology Research Group, Royal College of Surgeons in Ireland, Dublin,
+Ireland.
+(5)Department of Surgery, Royal College of Surgeons in Ireland, Dublin, Ireland.
+(6)Department of Pathology, Beaumont Hospital, Dublin, Ireland.
+
+Introduction: Mucinous adenocarcinoma of the rectum is an infrequently
+encountered histological subtype that is associated with an impaired response to 
+chemoradiotherapy and a worse overall prognosis. A genomic profile analysis of
+mucinous rectal tumors has not yet been performed. The aim of this study was to
+comprehensively describe the burden of somatic mutations and copy number
+variation as well as perform mutational signature and microbial analysis of an
+in-house collected cohort of mucinous adenocarcinoma of the rectum.
+Methods: Genomic DNA was extracted from 10 cases of mucinous rectal cancer and
+matched normal tissue. Whole genome sequencing (WGS) was carried out on these 10 
+cases and a comprehensive bioinformatic analysis was undertaken.
+Results: The average number of SNVs, InDels and SVs in the cohort was 16,600,
+1,855, and 120, respectively. A single case was MSI-H. KRAS mutations were found 
+in 70% of cases while TP53 was mutated in only 40% of cases. CNA gain was
+identified on chromosomes 7, 8, 12, 13, and 20 while CNA loss was found on
+chromosomes 4, 8, 17, and 18 corresponding to oncogenes and tumor suppressor
+genes, respectively. Overall mucinous rectal cancers are more likely to be MSI-H 
+and to have KRAS, BRAF, and PIK3CA mutations when compared to rectal
+adenocarcinoma NOS. Microbial analysis demonstrated an abundance of Fusobacterium
+nucleatum in tumor samples compared to normal tissue.
+Conclusion: This study provides a detailed WGS analysis of 10 cases of mucinous
+rectal cancer. It demonstrates an important lesson in tumor biology in that
+histologically similar tumors can have extensive differences at the genomic
+level. This study is relevant as it raises important questions about the
+relationship between bacteria and malignancy.
+
+Copyright © 2020 Reynolds, Thomas, O’Connell, Fichtner, McNamara, Kay, Prehn,
+Burke and Furney.
+
+DOI: 10.3389/fonc.2020.01682 
+PMCID: PMC7479243
+PMID: 32984045 
+

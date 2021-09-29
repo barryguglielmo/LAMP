@@ -1,0 +1,50 @@
+
+1. Microorganisms. 2020 May 6;8(5). pii: E674. doi: 10.3390/microorganisms8050674.
+
+Endodontic-Like Oral Biofilms as Models for Multispecies Interactions in
+Endodontic Diseases.
+
+Lukic D(1), Karygianni L(1), Flury M(1), Attin T(1), Thurnheer T(1).
+
+Author information: 
+(1)Clinic of Conservative and Preventive Dentistry, Center of Dental Medicine,
+University of Zurich, 8032 Zurich, Switzerland.
+
+Oral bacteria possess the ability to form biofilms on solid surfaces. After the
+penetration of oral bacteria into the pulp, the contact between biofilms and pulp
+tissue may result in pulpitis, pulp necrosis and/or periapical lesion. Depending 
+on the environmental conditions and the availability of nutrients in the pulp
+chamber and root canals, mainly Gram-negative anaerobic microorganisms
+predominate and form the intracanal endodontic biofilm. The objective of the
+present study was to investigate the role of different substrates on biofilm
+formation as well as the separate and collective incorporation of six endodontic 
+pathogens, namely Enterococcus faecalis, Staphylococcus aureus, Prevotella
+nigrescens, Selenomonas sputigena, Parvimonas micra and Treponema denticola into 
+a nine-species "basic biofilm". This biofilm was formed in vitro as a standard
+subgingival biofilm, comprising Actinomyces oris, Veillonella dispar,
+Fusobacterium nucleatum, Streptococcus anginosus, Streptococcus oralis,
+Prevotella intermedia, Campylobacter rectus, Porphyromonas gingivalis, and
+Tannerella forsythia. The resulting endodontic-like biofilms were grown 64 h
+under the same conditions on hydroxyapatite and dentin discs. After harvesting
+the endodontic-like biofilms, the bacterial growth was determined using
+quantitative real-time PCR, were labeled using fluorescence in situ hybridization
+(FISH) and analyzed by confocal laser scanning microscopy (CLSM). The addition of
+six endodontic pathogens to the "basic biofilm" induced a decrease in the cell
+number of the "basic" species. Interestingly, C. rectus counts increased in
+biofilms containing E. faecalis, S. aureus, P. nigrescens and S. sputigena,
+respectively, both on hydroxyapatite and on dentin discs, whereas P. intermedia
+counts increased only on dentin discs by addition of E. faecalis. The growth of
+E. faecalis on hydroxyapatite discs and of E. faecalis and S. aureus on dentin
+discs were significantly higher in the biofilm containing all species than in the
+"basic biofilm". Contrarily, the counts of P. nigrescens, S. sputigena and P.
+micra on hydroxyapatite discs as well as counts of P. micra and T. denticola on
+dentin discs decreased in the all-species biofilm. Overall, all bacterial species
+associated with endodontic infections were successfully incorporated into the
+standard multispecies biofilm model both on hydroxyapatite and dentin discs.
+Thus, future investigations on endodontic infections can rely on this newly
+established endodontic-like multispecies biofilm model.
+
+DOI: 10.3390/microorganisms8050674 
+PMCID: PMC7285038
+PMID: 32384777 
+

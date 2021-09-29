@@ -1,0 +1,67 @@
+
+1. mSphere. 2020 Jul 29;5(4). pii: e00404-20. doi: 10.1128/mSphere.00404-20.
+
+Acinetobacter baumannii NCIMB8209: a Rare Environmental Strain Displaying
+Extensive Insertion Sequence-Mediated Genome Remodeling Resulting in the Loss of 
+Exposed Cell Structures and Defensive Mechanisms.
+
+Repizo GD(1), Espariz M(2), Seravalle JL(2), Díaz Miloslavich JI(2), Steimbrüch
+BA(2), Shuman HA(3), Viale AM(1).
+
+Author information: 
+(1)Instituto de Biologia Molecular y Celular de Rosario (IBR, CONICET),
+Departamento de Microbiologia, Facultad de Ciencias Bioquimicas y Farmaceuticas, 
+Universidad Nacional de Rosario, Rosario, Argentina repizo@ibr-conicet.gov.ar
+viale@ibr-conicet.gov.ar.
+(2)Instituto de Biologia Molecular y Celular de Rosario (IBR, CONICET),
+Departamento de Microbiologia, Facultad de Ciencias Bioquimicas y Farmaceuticas, 
+Universidad Nacional de Rosario, Rosario, Argentina.
+(3)Department of Microbiology, University of Chicago, Chicago, Illinois, USA.
+
+Acinetobacter baumannii represents nowadays an important nosocomial pathogen of
+poorly defined reservoirs outside the clinical setting. Here, we conducted
+whole-genome sequencing analysis of the Acinetobacter sp. NCIMB8209 collection
+strain, isolated in 1943 from the aerobic degradation (retting) of desert guayule
+shrubs. Strain NCIMB8209 contained a 3.75-Mb chromosome and a plasmid of 134 kb. 
+Phylogenetic analysis based on core genes indicated NCIMB8209 affiliation to A.
+baumannii, a result supported by the identification of a chromosomal bla
+OXA-51-like gene. Seven genomic islands lacking antimicrobial resistance
+determinants, 5 regions encompassing phage-related genes, and notably, 93
+insertion sequences (IS) were found in this genome. NCIMB8209 harbors most genes 
+linked to persistence and virulence described in contemporary A. baumannii
+clinical strains, but many of the genes encoding components of surface structures
+are interrupted by IS. Moreover, defense genetic islands against biological
+aggressors such as type 6 secretion systems or CRISPR-cas are absent from this
+genome. These findings correlate with a low capacity of NCIMB8209 to form biofilm
+and pellicle, low motility on semisolid medium, and low virulence toward Galleria
+mellonella and Caenorhabditis elegans Searching for catabolic genes and
+concomitant metabolic assays revealed the ability of NCIMB8209 to grow on a wide 
+range of substances produced by plants, including aromatic acids and defense
+compounds against external aggressors. All the above features strongly suggest
+that NCIMB8209 has evolved specific adaptive features to a particular
+environmental niche. Moreover, they also revealed that the remarkable genetic
+plasticity identified in contemporary A. baumannii clinical strains represents an
+intrinsic characteristic of the species.IMPORTANCE Acinetobacter baumannii is an 
+ESKAPE (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae,
+Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter species)
+opportunistic pathogen, with poorly defined natural habitats/reservoirs outside
+the clinical setting. A. baumannii arose from the Acinetobacter calcoaceticus-A. 
+baumannii complex as the result of a population bottleneck, followed by a recent 
+population expansion from a few clinically relevant clones endowed with an
+arsenal of resistance and virulence genes. Still, the identification of virulence
+traits and the evolutionary paths leading to a pathogenic lifestyle has remained 
+elusive, and thus, the study of nonclinical ("environmental") A. baumannii
+isolates is necessary. We conducted here comparative genomic and virulence
+studies on A. baumannii NCMBI8209 isolated in 1943 from the microbiota
+responsible for the decomposition of guayule, and therefore well differentiated
+both temporally and epidemiologically from the multidrug-resistant strains that
+are predominant nowadays. Our work provides insights on the adaptive strategies
+used by A. baumannii to escape from host defenses and may help the adoption of
+measures aimed to limit its further dissemination.
+
+Copyright © 2020 Repizo et al.
+
+DOI: 10.1128/mSphere.00404-20 
+PMCID: PMC7392541
+PMID: 32727858 
+

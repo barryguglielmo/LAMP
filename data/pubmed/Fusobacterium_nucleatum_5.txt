@@ -1,0 +1,57 @@
+
+1. PLoS Pathog. 2020 Oct 1;16(10):e1008881. doi: 10.1371/journal.ppat.1008881.
+eCollection 2020 Oct.
+
+Periodontal pathogens promote cancer aggressivity via TLR/MyD88 triggered
+activation of Integrin/FAK signaling that is therapeutically reversible by a
+probiotic bacteriocin.
+
+Kamarajan P(1)(2), Ateia I(3), Shin JM(4)(5), Fenno JC(6), Le C(1), Zhan L(1),
+Chang A(7), Darveau R(7), Kapila YL(1)(2).
+
+Author information: 
+(1)Department of Orofacial Sciences, School of Dentistry, University of
+California, San Francisco, CA, United States of America.
+(2)Department of Periodontics and Oral Medicine, School of Dentistry, University 
+of Michigan, Ann Arbor, MI, United States of America.
+(3)Department of Oral Medicine and Periodontology, Mansoura University, Mansoura,
+Egypt.
+(4)Department of Cariology, Restorative Sciences, and Endodontics, School of
+Dentistry, University of Michigan, Ann Arbor, MI, United States of America.
+(5)Department of Epidemiology, School of Public Health, University of Michigan,
+Ann Arbor, MI, United States of America.
+(6)Biologic and Materials Sciences, School of Dentistry, University of Michigan, 
+Ann arbor, MI, United States of America.
+(7)Department of Periodontics, Oral Health Sciences, School of Dentistry,
+University of Washington, Seattle, WA, United States of America.
+
+Epidemiological studies reveal significant associations between periodontitis and
+oral cancer. However, knowledge about the contribution of periodontal pathogens
+to oral cancer and potential regulatory mechanisms involved is limited.
+Previously, we showed that nisin, a bacteriocin and commonly used food
+preservative, reduced oral cancer tumorigenesis and extended the life expectancy 
+in tumor-bearing mice. In addition, nisin has antimicrobial effects on key
+periodontal pathogens. Thus, the purpose of this study was to test the hypothesis
+that key periodontal pathogens (Porphyromonas gingivalis, Treponema denticola,
+and Fusobacterium nucleatum) promote oral cancer via specific host-bacterial
+interactions, and that bacteriocin/nisin therapy may modulate these responses.
+All three periodontal pathogens enhanced oral squamous cell carcinoma (OSCC) cell
+migration, invasion, tumorsphere formation, and tumorigenesis in vivo, without
+significantly affecting cell proliferation or apoptosis. In contrast, oral
+commensal bacteria did not affect OSCC cell migration. Pathogen-enhanced OSCC
+cell migration was mediated via integrin alpha V and FAK activation, since stably
+blocking alpha V or FAK expression abrogated these effects. Nisin inhibited these
+pathogen-mediated processes. Further, Treponema denticola induced TLR2 and 4 and 
+MyD88 expression. Stable suppression of MyD88 significantly inhibited Treponema
+denticola-induced FAK activation and abrogated pathogen-induced migration.
+Together, these data demonstrate that periodontal pathogens contribute to a
+highly aggressive cancer phenotype via crosstalk between TLR/MyD88 and
+integrin/FAK signaling. Nisin can modulate these pathogen-mediated effects, and
+thus has therapeutic potential as an antimicrobial and anti-tumorigenic agent.
+
+DOI: 10.1371/journal.ppat.1008881 
+PMID: 33002094 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

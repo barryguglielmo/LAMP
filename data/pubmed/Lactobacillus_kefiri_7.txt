@@ -1,0 +1,51 @@
+
+1. Vet World. 2020 Feb;13(2):345-353. doi: 10.14202/vetworld.2020.345-353. Epub 2020
+Feb 21.
+
+Angiotensin-I-converting enzyme inhibitory peptides in milk fermented by
+indigenous lactic acid bacteria.
+
+Rubak YT(1), Nuraida L(1)(2), Iswantini D(3), Prangdimurti E(1).
+
+Author information: 
+(1)Department of Food Science and Technology, Food Science Study Program, IPB
+University (Bogor Agricultural University), Bogor, Indonesia.
+(2)Southeast Asian Food and Agricultural Science and Technology Center, IPB
+University (Bogor Agricultural University), Bogor, Indonesia.
+(3)Department of Chemistry; and Tropical Biopharmaca Research Center, IPB
+University (Bogor Agricultural University), Bogor, Indonesia.
+
+Background and Aim: Fermented milk can be used to produce antihypertensive
+peptides. Lactic acid bacteria (LAB) with its proteolytic system hydrolyze milk
+protein during fermentation to produce several peptides, which include
+antihypertensive bioactive peptides. This study aimed to investigate the ability 
+of indigenous LAB for the production of angiotensin-I-converting enzyme
+inhibitory (ACE-I) peptides in fermented milk and to characterize the ACEI
+peptides.
+Materials and Methods: Reconstituted milk (11%) inoculated with ten LAB isolates,
+and then incubated at 37°C until it reaches pH 4.6. The evaluation was carried
+out for LAB count, lactic acid concentration, peptide content, and ACE-I
+activity. The low molecular weight (MW) peptides (<3 kDa) were identified using
+Nano LC Ultimate 3000 series system Tandem Q Exactive Plus Orbitrap
+high-resolution mass spectrometry.
+Results: The result showed that the ten LAB isolates were able to produce ACE-I
+in fermented milk with the activities in the range of 22.78±2.55-57.36±5.40%. The
+activity of ACE-I above 50% produced by Lactobacillus delbrueckii BD7,
+Lactococcus lactis ssp. lactis BD17, and Lactobacillus kefiri YK4 and JK17, with 
+the highest activity of ACE-I produced by L. kefiri YK4 (IC50 0.261 mg/mL) and L.
+kefiri JK17 (IC50 0.308 mg/mL). Results of peptide identification showed that L. 
+kefiri YK 4 could release as many as 1329, while L. kefiri JK 17 could release
+174 peptides. The peptides produced were 95% derived from casein. The other
+peptides were from ά-lactalbumin, β-lactoglobulin, and serum amyloid A. The
+peptides produced consisted of 6-19 amino acid residues, with MWs of 634-2079
+Dalton and detected at 317-1093 m/z. A total of 30 peptides have been recognized 
+based on literature searches as ACE-I peptides (sequence similarity: 100%).
+Conclusion: L. kefiri YK4 and JK17 are the potential to be used as starter
+cultures to produce the bioactive peptide as ACE-I in fermented milk.
+
+Copyright: © Rubak, et al.
+
+DOI: 10.14202/vetworld.2020.345-353 
+PMCID: PMC7096298
+PMID: 32255978 
+

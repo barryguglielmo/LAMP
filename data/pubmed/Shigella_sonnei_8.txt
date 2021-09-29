@@ -1,0 +1,37 @@
+
+1. Int J Mol Sci. 2020 Aug 21;21(17). pii: E6038. doi: 10.3390/ijms21176038.
+
+Lipopolysaccharide-Linked Enterobacterial Common Antigen (ECALPS) Occurs in Rough
+Strains of Escherichia coli R1, R2, and R4.
+
+Maciejewska A(1), Kaszowska M(1), Jachymek W(1), Lugowski C(1), Lukasiewicz J(1).
+
+Author information: 
+(1)Laboratory of Microbial Immunochemistry and Vaccines, Ludwik Hirszfeld
+Institute of Immunology and Experimental Therapy, Polish Academy of Sciences,
+Weigla 12, 53-114 Wroclaw, Poland.
+
+Enterobacterial common antigen (ECA) is a conserved surface antigen
+characteristic for Enterobacteriaceae. It is consisting of trisaccharide
+repeating unit, →3)-α-d-Fucp4NAc-(1→4)-β-d-ManpNAcA-(1→4)-α-d-GlcpNAc-(1→, where 
+prevailing forms include ECA linked to phosphatidylglycerol (ECAPG) and cyclic
+ECA (ECACYC). Lipopolysaccharide (LPS)-associated form (ECALPS) has been proved
+to date only for rough Shigella sonnei phase II. Depending on the structure
+organization, ECA constitutes surface antigen (ECAPG and ECALPS) or maintains the
+outer membrane permeability barrier (ECACYC). The existence of LPS was
+hypothesized in the 1960-80s on the basis of serological observations. Only a few
+Escherichia coli strains (i.e., R1, R2, R3, R4, and K-12) have led to the
+generation of anti-ECA antibodies upon immunization, excluding ECAPG as an
+immunogen and conjecturing ECALPS as the only immunogenic form. Here, we
+presented a structural survey of ECALPS in E. coli R1, R2, R3, and R4 to
+correlate previous serological observations with the presence of ECALPS. The low 
+yields of ECALPS were identified in the R1, R2, and R4 strains, where ECA
+occupied outer core residues of LPS that used to be substituted by O-specific
+polysaccharide in the case of smooth LPS. Previously published observations and
+hypotheses regarding the immunogenicity and biosynthesis of ECALPS were discussed
+and correlated with presented herein structural data.
+
+DOI: 10.3390/ijms21176038 
+PMCID: PMC7504096
+PMID: 32839412 
+

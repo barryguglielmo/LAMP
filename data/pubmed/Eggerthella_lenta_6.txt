@@ -1,0 +1,57 @@
+
+1. Sci Rep. 2020 Apr 7;10(1):6024. doi: 10.1038/s41598-020-62811-4.
+
+Seasonal changes of circulating 25-hydroxyvitamin D correlate with the lower gut 
+microbiome composition in inflammatory bowel disease patients.
+
+Soltys K(1)(2)(3), Stuchlikova M(4)(5), Hlavaty T(6), Gaalova B(7), Budis J(8),
+Gazdarica J(4), Krajcovicova A(6), Zelinkova Z(9), Szemes T(10)(4), Kuba D(5),
+Drahovska H(4), Turna J(10)(4), Stuchlik S(10)(4).
+
+Author information: 
+(1)Department of Microbiology and Virology, Faculty of Natural Sciences, Comenius
+University in Bratislava, Ilkovicova 6, 84215, Bratislava, Slovakia.
+katarina.soltys@gmail.com.
+(2)Comenius University Science Park, Comenius University in Bratislava,
+Ilkovicova 8, 84104, Bratislava, Slovakia. katarina.soltys@gmail.com.
+(3)Department of Molecular Biology, Faculty of Natural Sciences, Comenius
+University in Bratislava, Ilkovicova 6, 84215, Bratislava, Slovakia.
+katarina.soltys@gmail.com.
+(4)Department of Molecular Biology, Faculty of Natural Sciences, Comenius
+University in Bratislava, Ilkovicova 6, 84215, Bratislava, Slovakia.
+(5)National Transplant Organization, Limbova 14, 83303, Bratislava, Slovakia.
+(6)Department of Internal Medicine, Faculty of Medicine, Division of
+Gastroenterology, Comenius University in Bratislava and University hospital
+Bratislava, Ruzinovska 6, 826 06, Bratislava, Slovakia.
+(7)Department of Microbiology and Virology, Faculty of Natural Sciences, Comenius
+University in Bratislava, Ilkovicova 6, 84215, Bratislava, Slovakia.
+(8)Department of Computer Science, Faculty of Mathematics, Physics and
+Informatics, Comenius University in Bratislava, Mlynska dolina F1, 842 48,
+Bratislava, Slovakia.
+(9)Department of Gastroenterology, St Michael Hospital, Bratislava, Slovakia.
+(10)Comenius University Science Park, Comenius University in Bratislava,
+Ilkovicova 8, 84104, Bratislava, Slovakia.
+
+Higher probability of the development of Crohn's disease (CD) and ulcerative
+colitis (UC) as a possible consequence of the north-south gradient has been
+recently suggested. Living far north or south of the equator is manifested in
+fluctuation of vitamin D (vitD) levels depending on the season in both healthy
+and affected individuals. In the present study we investigate the possible link
+between the seasonal serum vitD level to the microbial composition of the lower
+gut of Inflammatory Bowel disease (IBD) patients using 16S rRNA sequencing.
+Decrease of serum vitD level in winter/spring season in a cohort of 35 UC
+patients and 39 CD patients was confirmed. Low gut microbiota composition of
+patients with IBD correlated with the serum level of 25(OH)D that directly
+coupled to seasonal variability of the sunshine in the central European
+countries. It is supposed to be related to increased abundance of Actinobacteria 
+and Proteobacteria in UC and Actinobacteria, Fusobacteria, Firmicutes and
+Bacteroidetes in CD. In summer/autumn period, we observed a reduction in
+abundance of bacterial genera typical for inflammation like Eggerthella lenta,
+Fusobacterium spp., Bacteroides spp., Collinsella aerofaciens, Helicobacter spp.,
+Rhodococcus spp., Faecalibacterium prausnitzii; and increased abundance of
+Pediococcus spp. and Clostridium spp. and of Escherichia/Shigella spp.
+
+DOI: 10.1038/s41598-020-62811-4 
+PMCID: PMC7138827
+PMID: 32265456 
+

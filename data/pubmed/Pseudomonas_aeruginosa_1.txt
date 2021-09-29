@@ -1,0 +1,51 @@
+
+1. Mol Biol Rep. 2020 Oct 4. doi: 10.1007/s11033-020-05872-y. [Epub ahead of print]
+
+Functional characterization of asnC family transcriptional regulator in
+Pseudomonas aeruginosa PGPR2 during root colonization.
+
+Sivakumar R(1), Gunasekaran P(2), Rajendhran J(3).
+
+Author information: 
+(1)Department of Genetics, School of Biological Sciences, Madurai Kamaraj
+University, Madurai, 625 021, India.
+(2)VIT Bhopal University, Sahore, India.
+(3)Department of Genetics, School of Biological Sciences, Madurai Kamaraj
+University, Madurai, 625 021, India. jrajendhran@gmail.com.
+
+Transcriptional regulators in bacteria are the crucial players in mediating
+communication between environmental cues and DNA transcription through a complex 
+network process. Pseudomonas aeruginosa PGPR2 is an efficient root colonizer and 
+a biocontrol strain. Previously, we identified that the transcriptional
+regulator, asnC, negatively regulates the corn root colonization of P. aeruginosa
+PGPR2. In a transposon insertion sequencing (INSeq) screen, the asnC insertion
+mutant was positively selected during root colonization, meaning the disruption
+of asnC improves the fitness of the P. aeruginosa PGPR2 strain for the root
+colonization. In this study, we constructed isogenic mutant of asnC family
+transcriptional regulator encoded by PGPR2_17510 by allele exchange mutagenesis. 
+The ΔasnC mutant was able to efficiently colonize corn roots with a twofold
+increase in population when compared to the wild-type strain. Similarly, the
+mutant strain outcompeted the wild-type strain in a competition assay, where the 
+mutant strain represented 90% of the total population recovered from the root. We
+compared the whole transcriptome of the wild-type and the ΔasnC mutant of P.
+aeruginosa PGPR2 when exposed to the corn root exudates. The RNA-Seq revealed
+that a total of 360 genes were differentially expressed in the ΔasnC strain of P.
+aeruginosa PGPR2. Inactivation of asnC transcriptional regulator resulted in the 
+up-regulation of several genetic factors implicated in metabolism, uptake of
+nutrients, motility, stress response, and signal transduction, which could play
+crucial roles in root colonization. This notion was further validated by
+phenotypic characterization and quantification of transcription pattern of
+selected genes associated with metabolism, motility, and carbon catabolite
+repression between wild type and mutant strain, which was in agreement with
+transcriptome data. Similarly, ΔasnC strain formed increased biofilm on abiotic
+surface validating our RNA-seq analysis, where transcript levels of several genes
+associated with biofilm formation were up-regulated in the mutant strain. We
+report that the inactivation of an asnC family transcriptional regulator encoded 
+by PGPR2_17510 enhances the root colonization and biofilm-forming ability of P.
+aeruginosa PGPR2. Together, our results provide evidence for the molecular
+adaptations that enable ΔasnC mutant strain to colonize on the corn roots and to 
+form a biofilm.
+
+DOI: 10.1007/s11033-020-05872-y 
+PMID: 33011891 
+

@@ -1,0 +1,45 @@
+
+1. Environ Res. 2020 Jul;186:109580. doi: 10.1016/j.envres.2020.109580. Epub 2020
+Apr 28.
+
+A novel integrated process to convert cellulose and hemicellulose in rice straw
+to biobutanol.
+
+Wu J(1), Dong L(1), Liu B(1), Xing D(1), Zhou C(1), Wang Q(1), Wu X(1), Feng
+L(1), Cao G(2).
+
+Author information: 
+(1)State Key Laboratory of Urban Water Resources and Environment, School of
+Environment, Harbin Institute of Technology, Harbin, 150090, China.
+(2)State Key Laboratory of Urban Water Resources and Environment, School of
+Environment, Harbin Institute of Technology, Harbin, 150090, China. Electronic
+address: caogl@hit.edu.cn.
+
+A novel integrated process was established in this study to produce butanol from 
+rice straw. In the first pretreatment, an alternative NaOH/Urea preatment
+operated at -12 oC efficiently removed 10.9 g lignin and preserved 91.54%
+cellulose and hemicellulose in 100 g rice straw. Subsequently, crude cellulase
+produced from Trichoderma viride was used to convert pretreated rice straw to
+mono-sugars for fermentation. The yields of glucose, xylose and arabiose obtained
+from 100 g rice straw were 31 g, 13.4 g and 0.48 g, respectively, resulting in a 
+69.45% sacchariﬁcation efficiency of crude enzyme. Finally, to alleviate the
+carbon catabolite repression (CCR) and enhance butanol production, the coculture 
+system of Clostridium beijerinckii and Saccharomyces cerevisiae was applied.
+Compared to monoculture of C. beijerinckii F-6, more sugars were consumed,
+especially the reduction rate of xylose reached to 81.87%, 32.99% higher than
+that in monoculture system. With more substrate facilitied into metabolism, the
+butanol concentration reached to 10.62 g/L corresponding to 0.28 g/g substrate,
+115.38% higher than that in monoculture system. Overall, this integrated process 
+was a low-energy consumption and eﬃcient method for butanol production from rice 
+straw.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.envres.2020.109580 
+PMID: 32668543 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

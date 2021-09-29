@@ -1,0 +1,57 @@
+
+1. Int J Med Microbiol. 2020 Feb;310(2):151394. doi: 10.1016/j.ijmm.2020.151394.
+Epub 2020 Jan 16.
+
+Discovery of Paenibacillus larvae ERIC V: Phenotypic and genomic comparison to
+genotypes ERIC I-IV reveal different inventories of virulence factors which
+correlate with epidemiological prevalences of American Foulbrood.
+
+Beims H(1), Bunk B(2), Erler S(3), Mohr KI(4), Spröer C(2), Pradella S(2),
+Günther G(5), Rohde M(4), von der Ohe W(6), Steinert M(7).
+
+Author information: 
+(1)Institut für Mikrobiologie, Technische Universität Braunschweig, Germany;
+Lower Saxony State Office for Consumer Protection and Food Safety, Institute of
+Apiculture, Celle, Germany.
+(2)Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures, 
+Braunschweig, Germany.
+(3)Martin-Luther-Universität Halle-Wittenberg, Institut für Biologie-Zoologie,
+Halle, Germany.
+(4)Central Facility for Microscopy, Helmholtz Centre for Infection Research,
+Department Microbial Drugs, Braunschweig, Germany.
+(5)Institut für Mikrobiologie, Technische Universität Braunschweig, Germany.
+(6)Lower Saxony State Office for Consumer Protection and Food Safety, Institute
+of Apiculture, Celle, Germany.
+(7)Institut für Mikrobiologie, Technische Universität Braunschweig, Germany.
+Electronic address: m.steinert@tu-bs.de.
+
+Paenibacillus larvae is the etiological agent of American Foulbrood (AFB), a
+highly contagious brood disease of honey bees (Apis mellifera). AFB requires
+mandatory reporting to the veterinary authority in many countries and until now
+four genotypes, P. larvae ERIC I-IV, have been identified. We isolated a new
+genotype, ERIC V, from a Spanish honey sample. After a detailed phenotypic
+comparison with the reference strains of the ERIC I-IV genotypes, including spore
+morphology, non-ribosomal peptide (NRP) profiling, and in vivo infections of A.
+mellifera larvae, we established a genomic DNA Macrorestriction Fragment Pattern 
+Analysis (MRFPA) scheme for future epidemiologic discrimination. Whole genome
+comparison of the reference strains and the new ERIC V genotype (DSM 106052)
+revealed that the respective virulence gene inventories of the five genotypes
+corresponded with the time needed to kill 100 % of the infected bee larvae
+(LT100) in in vivo infection assays. The rarely isolated P. larvae genotypes ERIC
+II I-V with a fast-killing phenotype (LT100 3 days) harbor genes with high
+homology to virulence factors of other insect pathogens. These virulence genes
+are absent in the epidemiologically prevalent genotypes ERIC I (LT100 12 days)
+and ERIC II (LT100 7 days), which exhibit slower killing phenotypes. Since
+killing-retardation is known to reduce the success of hygienic cleaning by nurse 
+bees, the identified absence of virulence factors might explain the
+epidemiological prevalences of ERIC genotypes. The discovery of the P. larvae
+ERIC V isolate suggests that more unknown ERIC genotypes exist in bee colonies.
+Since inactivation or loss of a few genes can transform a fast-killing phenotype 
+into a more dangerous slow-killing phenotype, these rarely isolated genotypes may
+represent a hidden reservoir for future AFB outbreaks.
+
+Copyright © 2020 The Author(s). Published by Elsevier GmbH.. All rights reserved.
+
+DOI: 10.1016/j.ijmm.2020.151394 
+PMID: 31959580 
+

@@ -1,0 +1,67 @@
+
+1. J Hazard Mater. 2019 Nov 5;379:120695. doi: 10.1016/j.jhazmat.2019.05.088. Epub
+2019 Jun 29.
+
+Enhanced anaerobic performance and SMD process in treatment of sulfate and
+organic S-rich TMBA manufacturing wastewater by micro-electric field-zero valent 
+iron-UASB.
+
+Li W(1), Niu Q(2), Wu J(3), Luan X(4), Qi W(5), Zhang Y(6), Li YY(7), Gao Y(4),
+Yang M(4).
+
+Author information: 
+(1)State Key Laboratory of Environmental Aquatic Chemistry, Research Center for
+Eco-Environmental Sciences, Chinese Academy of Science, Post Office Box 2871,
+Beijing, 100085, China; Department of Civil and Environmental Engineering,
+Graduate School of Engineering, Tohoku University, 6-6-06 Aza-Aoba, Aramaki,
+Aoba-ku, Sendai, Miyagi, 980-8579, Japan.
+(2)Department of Civil and Environmental Engineering, Graduate School of
+Engineering, Tohoku University, 6-6-06 Aza-Aoba, Aramaki, Aoba-ku, Sendai,
+Miyagi, 980-8579, Japan; School of Environmental Science and Engineering,
+Shandong University, 72(#)Shanda Jimo Binhai Road, Qingdao, 266237, China.
+(3)Department of Civil and Environmental Engineering, Graduate School of
+Engineering, Tohoku University, 6-6-06 Aza-Aoba, Aramaki, Aoba-ku, Sendai,
+Miyagi, 980-8579, Japan.
+(4)State Key Laboratory of Environmental Aquatic Chemistry, Research Center for
+Eco-Environmental Sciences, Chinese Academy of Science, Post Office Box 2871,
+Beijing, 100085, China; University of Chinese Academy of Sciences, Beijing,
+100049, China.
+(5)National Engineering Laboratory for Advanced Municipal Wastewater Treatment
+and Reuse Technology, Key Laboratory of Beijing for Water Quality Science and
+Water Environment Recovory Engineering, Beijing University of Technology,
+Beijing, 100124, China; Department of Civil and Environmental Engineering,
+Graduate School of Engineering, Tohoku University, 6-6-06 Aza-Aoba, Aramaki,
+Aoba-ku, Sendai, Miyagi, 980-8579, Japan.
+(6)State Key Laboratory of Environmental Aquatic Chemistry, Research Center for
+Eco-Environmental Sciences, Chinese Academy of Science, Post Office Box 2871,
+Beijing, 100085, China; University of Chinese Academy of Sciences, Beijing,
+100049, China. Electronic address: zhangyu@rcees.ac.cn.
+(7)Department of Civil and Environmental Engineering, Graduate School of
+Engineering, Tohoku University, 6-6-06 Aza-Aoba, Aramaki, Aoba-ku, Sendai,
+Miyagi, 980-8579, Japan. Electronic address: gyokuyu.ri.a5@tohoku.ac.jp.
+
+This study focused on investigating reactor performance, simultaneous
+methanogeneis and denitrifiction (SMD) process for treatment of a sulfate plus
+organic sulfur - rich 3,4,5-Triethoxybenzaldehyde (TMBA) manufacturing wastewater
+with variable COD/TSO42- (total sulfate) ratio by micro-electric field-
+zero-valent-iron (ZVI) UASB for 390 days. The initial COD/TSO42- was set as 1.42,
+0.9 and 0.5, respectively by manually introducing sulfate. The experimental
+results indicated that micro-electric field- zero-valent-iron UASB was an
+attractive integrated option for satisfactory COD removal, nitrate reduction and 
+a reasonable methane yield rate even at COD/TSO42- as low as 0.9. Further
+declining the COD/TSO42- to 0.5 can result in a moderate inhibition of SMD
+process. The behavior of organic S release was not inhibited over the entire
+experimental period. Thus, surprisingly, sulfate concentration in the effluent
+was always higher than that in the influent. In comparison with sludge sample at 
+Day-1, sludge at Day-390 was characterized with high abundant Tissierella
+Soehngenia, Anaerolinaceae and Brevundimonas diminuta, which played critical role
+in promising performance in COD abatement. The relatively low abundance of
+sulfate reducing bacteria (SRB) such as Desulfobulbus and Desulfomicrobium can
+explain the lower sulfate reduction efficiency in term of high concentration of
+sulfate plus released from organic S-rich compounds.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhazmat.2019.05.088 
+PMID: 31279310  [Indexed for MEDLINE]
+

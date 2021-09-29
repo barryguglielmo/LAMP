@@ -1,0 +1,47 @@
+
+1. World J Microbiol Biotechnol. 2020 Oct 1;36(11):165. doi:
+10.1007/s11274-020-02933-z.
+
+The YmdB protein regulates biofilm formation dependent on the repressor SinR in
+Bacillus cereus 0-9.
+
+Zhang J(1)(2), Wang H(3), Xie T(3), Huang Q(3), Xiong X(3), Liu Q(3), Wang
+G(4)(5).
+
+Author information: 
+(1)Institute of Microbial Engineering, Hennan Univeristy, Kaifeng, 475004, Henan,
+People's Republic of China.
+(2)School of Pharmaceutical, Hennan Univeristy, Kaifeng, 475004, Henan, People's 
+Republic of China.
+(3)School of Life Sciences, Hennan Univeristy, Jinming Street, Kaifeng, 475004,
+Henan, People's Republic of China.
+(4)Institute of Microbial Engineering, Hennan Univeristy, Kaifeng, 475004, Henan,
+People's Republic of China. gwangbio@henu.edu.cn.
+(5)School of Life Sciences, Hennan Univeristy, Jinming Street, Kaifeng, 475004,
+Henan, People's Republic of China. gwangbio@henu.edu.cn.
+
+YmdB, which can regulate biofilm formation independently, has been reported to
+exist in Bacillus subtilis. The B. cereus 0-9 genome also encodes a YmdB-like
+protein, which has measureable phosphodiesterase activity, and 72.35% sequence
+identity to YmdB protein of B. subtilis 168. In this work, we studied the
+function of YmdB protein and its encoding gene, ymdB, in B. cereus 0-9. Our
+results indicated that YmdB protein is critical for the biofilm formation of B.
+cereus 0-9. In ΔymdB mutant, the transcriptional levels of sinR and hag were
+up-regulated, and those of genes closely related to biofilm formation, such as
+sipW, tasA and calY, were down-regulated. Deletion of ymdB gene stimulates the
+swarming motility of B. cereus 0-9, and enhances it to travel outward, but
+reduces its ability to form complex spatial structures on the solid surface of
+MSgg plates. Hence, it is considered that YmdB plays a key role in biofilm
+formation, and this effect is likely achieved through the function of repressor
+SinR in B. cereus 0-9. Furthermore, by comparing the amino acid sequences of YmdB
+by Basic Local Alignment Search Tool (BLAST) in Genebank, we found that YmdB
+homologues are present in a variety of bacteria (Including Gram-negative
+bacteria) except B. subtilis and B. cereus. All these bacteria come at different 
+evolutionary distances and belong to different genera. Therefore, we believe that
+YmdB exists in many types of bacteria and plays an important role in the
+stress-resistance of bacteria to adapt to the environment. These results can help
+us to further understand the biocontrol characteristics of B. cereus 0-9.
+
+DOI: 10.1007/s11274-020-02933-z 
+PMID: 33000364 
+

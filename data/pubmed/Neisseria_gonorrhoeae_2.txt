@@ -1,0 +1,38 @@
+
+1. Antibiotics (Basel). 2020 Sep 30;9(10). pii: E656. doi:
+10.3390/antibiotics9100656.
+
+Exploration of the Neisseria Resistome Reveals Resistance Mechanisms in
+Commensals That May Be Acquired by N. gonorrhoeae through Horizontal Gene
+Transfer.
+
+Fiore MA(1), Raisman JC(1), Wong NH(1), Hudson AO(1), Wadsworth CB(1).
+
+Author information: 
+(1)Rochester Institute of Technology, Thomas H. Gosnell School of Life Sciences, 
+85 Lomb Memorial Drive, Rochester, NY 14623, USA.
+
+Nonpathogenic Neisseria transfer mutations encoding antibiotic resistance to
+their pathogenic relative Neisseria gonorrhoeae. However, the resistance
+genotypes and subsequent phenotypes of nonpathogens within the genus have been
+described infrequently. Here, we characterize the minimum inhibitory
+concentrations (MICs) of a panel of Neisseria (n = 26)-including several
+commensal species-to a suite of diverse antibiotics. We furthermore use whole
+genome sequencing and the Comprehensive Antibiotic Resistance Database Resistance
+Gene Identifier (RGI) platform to predict putative resistance-encoding mutations.
+Resistant isolates to all tested antimicrobials including penicillin (n = 5/26), 
+ceftriaxone (n = 2/26), cefixime (n = 3/26), tetracycline (n = 10/26),
+azithromycin (n = 11/26), and ciprofloxacin (n = 4/26) were found. In total, 63
+distinct mutations were predicted by RGI to be involved in resistance. The
+presence of several mutations had clear associations with increased MIC such as
+DNA gyrase subunit A (gyrA) (S91F) and ciprofloxacin, tetracycline resistance
+protein (tetM) and 30S ribosomal protein S10 (rpsJ) (V57M) and tetracycline, and 
+TEM-type β-lactamases and penicillin. However, mutations with strong associations
+to macrolide and cephalosporin resistance were not conclusive. This work serves
+as an initial exploration into the resistance-encoding mutations harbored by
+nonpathogenic Neisseria, which will ultimately aid in prospective surveillance
+for novel resistance mechanisms that may be rapidly acquired by N. gonorrhoeae.
+
+DOI: 10.3390/antibiotics9100656 
+PMID: 33007823 
+

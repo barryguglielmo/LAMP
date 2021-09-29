@@ -1,0 +1,46 @@
+
+1. Cancers (Basel). 2020 Aug 13;12(8). pii: E2272. doi: 10.3390/cancers12082272.
+
+Targeting Gut Microbial Biofilms-A Key to Hinder Colon Carcinogenesis?
+
+Chew SS(1), Tan LT(1), Law JW(1), Pusparajah P(1)(2), Goh BH(3)(4), Ab Mutalib
+NS(5), Lee LH(1).
+
+Author information: 
+(1)Novel Bacteria and Drug Discovery (NBDD) Research Group, Microbiome and
+Bioresource Research Strength, Jeffrey Cheah School of Medicine and Health
+Sciences, Monash University Malaysia, Bandar Sunway 47500, Selangor Darul Ehsan, 
+Malaysia.
+(2)Medical Health and Translational Research Group, Jeffrey Cheah School of
+Medicine and Health Sciences, Monash University Malaysia, Bandar Sunway 47500,
+Selangor, Malaysia.
+(3)College of Pharmaceutical Sciences, Zhejiang University, Hangzhou 310058,
+China.
+(4)Biofunctional Molecule Exploratory (BMEX) Research Group, School of Pharmacy, 
+Monash University Malaysia, Bandar Sunway 47500, Selangor Darul Ehsan, Malaysia.
+(5)UKM Medical Molecular Biology Institute (UMBI), UKM Medical Centre, Universiti
+Kebangsaan Malaysia, Kuala Lumpur 56000, Malaysia.
+
+Colorectal cancer (CRC) is a global public health issue which poses a substantial
+humanistic and economic burden on patients, healthcare systems and society. In
+recent years, intestinal dysbiosis has been suggested to be involved in the
+pathogenesis of CRC, with specific pathogens exhibiting oncogenic potentials such
+as Fusobacterium nucleatum, Escherichia coli and enterotoxigenic Bacteroides
+fragilis having been found to contribute to CRC development. More recently, it
+has been shown that initiation of CRC development by these microorganisms
+requires the formation of biofilms. Gut microbial biofilm forms in the inner
+colonic mucus layer and is composed of polymicrobial communities. Biofilm results
+in the redistribution of colonic epithelial cell E-cadherin, increases
+permeability of the gut and causes a loss of function of the intestinal barrier, 
+all of which enhance intestinal dysbiosis. This literature review aims to compile
+the various strategies that target these pathogenic biofilms and could
+potentially play a role in the prevention of CRC. We explore the potential use of
+natural products, silver nanoparticles, upconverting nanoparticles,
+thiosalicylate complexes, anti-rheumatic agent (Auranofin), probiotics and
+quorum-sensing inhibitors as strategies to hinder colon carcinogenesis via
+targeting colon-associated biofilms.
+
+DOI: 10.3390/cancers12082272 
+PMCID: PMC7465663
+PMID: 32823729 
+

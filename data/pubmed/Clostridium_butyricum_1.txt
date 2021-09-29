@@ -1,0 +1,40 @@
+
+1. Appl Microbiol Biotechnol. 2020 Sep 30. doi: 10.1007/s00253-020-10931-2. [Epub
+ahead of print]
+
+Sequential fed-batch fermentation of 1,3-propanediol from glycerol by Clostridium
+butyricum DL07.
+
+Wang XL(1), Zhou JJ(1), Shen JT(1), Zheng YF(1), Sun YQ(1), Xiu ZL(2).
+
+Author information: 
+(1)School of Bioengineering, Dalian University of Technology, Dalian, 116024,
+Liaoning Province, People's Republic of China.
+(2)School of Bioengineering, Dalian University of Technology, Dalian, 116024,
+Liaoning Province, People's Republic of China. zhlxiu@dlut.edu.cn.
+
+The demand for 1,3-propanediol (1,3-PDO) has increased sharply due to its role as
+a monomer for the synthesis of polytrimethylene terephthalate (PTT). Although
+Clostridium butyricum is considered to be one of the most promising bioproducers 
+for 1,3-PDO, its low productivity hinders its application on industrial scale
+because of the longer time needed for anaerobic cultivation. In this study, an
+excellent C. butyricum (DL07) strain was obtained with high-level titer and
+productivity of 1,3-PDO, i.e., 104.8 g/L and 3.38 g/(L•h) vs. 94.2 g/L and
+3.04 g/(L•h) using pure or crude glycerol as substrate in fed-batch fermentation,
+respectively. Furthermore, a novel sequential fed-batch fermentation was
+investigated, in which the next bioreactor was inoculated by C. butyricum DL07
+cells growing at exponential phase in the prior bioreactor. It could run steadily
+for at least eight cycles. The average concentration of 1,3-PDO in eight cycles
+was 85 g/L with the average productivity of 3.1 g/(L•h). The sequential fed-batch
+fermentation could achieve semi-continuous production of 1,3-PDO with higher
+productivity than repeated fed-batch fermentation and would greatly contribute to
+the industrial production of 1,3-PDO by C. butyricum. KEY POINTS: • A novel C.
+butyricum strain was screened to produce 104.8 g/L 1,3-PDO from glycerol. • Corn 
+steep liquor powder was used as a cheap nitrogen source for 1,3-PDO production. •
+A sequential fed-batch fermentation process was established for 1,3-PDO
+production. • An automatic glycerol feeding strategy was applied in the
+production of 1,3-PDO.
+
+DOI: 10.1007/s00253-020-10931-2 
+PMID: 32997204 
+

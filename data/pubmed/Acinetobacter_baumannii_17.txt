@@ -1,0 +1,32 @@
+
+1. Inorg Chem. 2020 Sep 29. doi: 10.1021/acs.inorgchem.0c02491. [Epub ahead of
+print]
+
+Peptide-Ruthenium Conjugate as an Efficient Photosensitizer for the Inactivation 
+of Multidrug-Resistant Bacteria.
+
+Pierce S(1), Jennings MP(2), Juliano SA(1), Angeles-Boza AM(1)(2).
+
+Author information: 
+(1)Department of Chemistry, University of Connecticut, 55 North Eagleville Road, 
+Storrs, Connecticut 06269, United States.
+(2)Institute of Materials Science, University of Connecticut, 97 North Eagleville
+Road, Storrs, Connecticut 06269, United States.
+
+Antimicrobial photodynamic therapy (APDT) has gained increased attention because 
+of its broad spectrum activity and lower likelihood to elicit bacterial
+resistance. Although many photosensitizers excel at eradicating Gram-positive
+bacterial infections, they are generally less potent when utilized against
+Gram-negative bacteria. We hypothesized that conjugating the DNA-targeting,
+antimicrobial peptide buforin II to a metal-based photosensitizer would result in
+a potent APDT agent. Herein, we present the synthesis and characterization of a
+buforin II-[Ru(bpy)3]2+ bioconjugate (1). The submicromolar activity of 1 against
+the multidrug-resistant strains Escherichia coli AR 0114 and Acinetobacter
+baumannii Naval-17 indicates strong synergy between the ruthenium complex and
+buforin II. Our mechanistic studies point to an increased rate of DNA damage by 1
+compared to [Ru(bpy)3]2+. These results suggest that conjugating metal complexes 
+to antimicrobial peptides can lead to potent antimicrobial agents.
+
+DOI: 10.1021/acs.inorgchem.0c02491 
+PMID: 32993282 
+

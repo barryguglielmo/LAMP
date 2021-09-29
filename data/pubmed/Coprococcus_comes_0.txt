@@ -1,0 +1,44 @@
+
+1. Environ Microbiol. 2020 Jun;22(6):2150-2164. doi: 10.1111/1462-2920.14977. Epub
+2020 Mar 20.
+
+β-Glucan is a major growth substrate for human gut bacteria related to
+Coprococcus eutactus.
+
+Alessi AM(1)(2), Gray V(1)(3), Farquharson FM(1), Flores-López A(1), Shaw S(3),
+Stead D(1), Wegmann U(2)(4), Shearman C(2), Gasson M(2), Collie-Duguid ESR(3),
+Flint HJ(1), Louis P(1).
+
+Author information: 
+(1)University of Aberdeen, Rowett Institute, Aberdeen, UK.
+(2)Institute of Food Research, Norwich, UK.
+(3)University of Aberdeen, Centre for Genome-Enabled Biology and Medicine,
+Aberdeen, UK.
+(4)School of Chemistry, University of East Anglia, Norwich Research Park,
+Norwich, NR4 7TJ, UK.
+
+A clone encoding carboxymethyl cellulase activity was isolated during functional 
+screening of a human gut metagenomic library using Lactococcus lactis MG1363 as
+heterologous host. The insert carried a glycoside hydrolase family 9 (GH9)
+catalytic domain with sequence similarity to a gene from Coprococcus eutactus
+ART55/1. Genome surveys indicated a limited distribution of GH9 domains among
+dominant human colonic anaerobes. Genomes of C. eutactus-related strains
+harboured two GH9-encoding and four GH5-encoding genes, but the strains did not
+appear to degrade cellulose. Instead, they grew well on β-glucans and one of the 
+strains also grew on galactomannan, galactan, glucomannan and starch. Coprococcus
+comes and Coprococcus catus strains did not harbour GH9 genes and were not able
+to grow on β-glucans. Gene expression and proteomic analysis of C. eutactus
+ART55/1 grown on cellobiose, β-glucan and lichenan revealed similar changes in
+expression in comparison to glucose. On β-glucan and lichenan only, one of the
+four GH5 genes was strongly upregulated. Growth on glucomannan led to a
+transcriptional response of many genes, in particular a strong upregulation of
+glycoside hydrolases involved in mannan degradation. Thus, β-glucans are a major 
+growth substrate for species related to C. eutactus, with glucomannan and
+galactans alternative substrates for some strains.
+
+© 2020 The Authors. Environmental Microbiology published by Society for Applied
+Microbiology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/1462-2920.14977 
+PMID: 32141148 
+

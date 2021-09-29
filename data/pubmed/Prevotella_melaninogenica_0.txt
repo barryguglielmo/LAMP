@@ -1,0 +1,44 @@
+
+1. Cancers (Basel). 2020 Sep 14;12(9). pii: E2619. doi: 10.3390/cancers12092619.
+
+Alterations in Gastric Microbial Communities Are Associated with Risk of Gastric 
+Cancer in a Korean Population: A Case-Control Study.
+
+Gunathilake M(1), Lee J(2), Choi IJ(3), Kim YI(3), Yoon J(4), Sul WJ(5), Kim
+JF(4), Kim J(2).
+
+Author information: 
+(1)Department of Cancer Control and Population Health, Graduate School of Cancer 
+Science and Policy, Goyang-si 10408, Gyeonggi-do, Korea.
+(2)Department of Cancer Biomedical Science, Graduate School of Cancer Science and
+Policy, Goyang-si 10408, Gyeonggi-do, Korea.
+(3)Center for Gastric Cancer, National Cancer Center Hospital, National Cancer
+Center, Goyang-si 10408, Gyeonggi-do, Korea.
+(4)Department of Systems Biology, Divisions of Life Sciences, and Institute Life 
+Science and Biotechnology, Yonsei University, 50 Yonsei-ro, Seodaemun-gu, Seoul
+03722, Korea.
+(5)Department of Systems Biotechnology, College of Biotechnology and Natural
+Resources, Chung-Ang University, Anseong 17546, Gyeonggi-do, Korea.
+
+Although the microbiome has a potential role in gastric cancer (GC), little is
+known about microbial dysbiosis and its functions. This study aimed to observe
+the associations between the alterations in gastric microbial communities and GC 
+risk. The study participants included 268 GC patients and 288 controls. The 16S
+rRNA gene sequencing was performed to characterize the microbiome.
+Streptococcus_NCVM and Prevotella melaninogenica species were highly enriched in 
+cases and controls, respectively. Those who were in the third tertile of P.
+melaninogenica showed a significantly decreased risk of GC in total (odds ratio
+(OR): 0.91, 95% confidence interval (CI): 0.38-0.96, p-trend = 0.071). Class
+Bacilli was phylogenetically enriched in cases, while phylum Actinobacteria,
+class Actinobacteria were related to the controls. The microbial dysbiosis index 
+(MDI) was significantly higher for the cases compared with the healthy controls
+in the female population (p = 0.002). Females in the third tertile of the MDI
+showed a significantly increased risk of GC (OR: 2.66, 95% CI: 1.19-5.99, p-trend
+= 0.017). Secondary bile acid synthesis and biosynthesis of ansamycins pathways
+were highly abundant in cases and controls, respectively. Dysbiosis of gastric
+microbial communities is associated with an increased risk of GC specifically in 
+females.
+
+DOI: 10.3390/cancers12092619 
+PMID: 32937864 
+

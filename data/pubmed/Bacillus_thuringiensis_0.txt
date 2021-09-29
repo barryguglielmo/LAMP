@@ -1,0 +1,38 @@
+
+1. Sci Rep. 2020 Oct 1;10(1):16241. doi: 10.1038/s41598-020-73145-6.
+
+Differential side-effects of Bacillus thuringiensis bioinsecticide on non-target 
+Drosophila flies.
+
+Babin A(1), Nawrot-Esposito MP(1), Gallet A(1), Gatti JL(2), Poirié M(1).
+
+Author information: 
+(1)Institut Sophia Agrobiotech, Université Côte D'Azur, INRAE, CNRS, ISA, 400
+route des chappes, 06903, Sophia Antipolis, France.
+(2)Institut Sophia Agrobiotech, Université Côte D'Azur, INRAE, CNRS, ISA, 400
+route des chappes, 06903, Sophia Antipolis, France. jean-luc.gatti@inrae.fr.
+
+Bioinsecticides based on Bacillus thuringiensis (Bt) spores and toxins are
+increasingly popular alternative solutions to control insect pests, with
+potential impact of their accumulation in the environment on non-target
+organisms. Here, we tested the effects of chronic exposure to commercial Bt
+formulations (Bt var. kurstaki and israelensis) on eight non-target Drosophila
+species present in Bt-treated areas, including D. melanogaster (four strains).
+Doses up to those recommended for field application (~ 106 Colony Forming Unit
+(CFU)/g fly medium) did not impact fly development, while no fly emerged
+at ≥ 1000-fold this dose. Doses between 10- to 100-fold the recommended one
+increased developmental time and decreased adult emergence rates in a
+dose-dependent manner, with species-and strain-specific effect amplitudes.
+Focusing on D. melanogaster, development alterations were due to instar-dependent
+larval mortality, and the longevity and offspring number of adult flies exposed
+to bioinsecticide throughout their development were moderately influenced. Our
+data also suggest a synergy between the formulation compounds (spores, cleaved
+toxins, additives) might induce the bioinsecticide effects on larval development.
+Although recommended doses had no impact on non-target Drosophila species, misuse
+or local environmental accumulation of Bt bioinsecticides could have side-effects
+on fly populations with potential implications for their associated communities.
+
+DOI: 10.1038/s41598-020-73145-6 
+PMCID: PMC7529784
+PMID: 33004867 
+

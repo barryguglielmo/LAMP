@@ -1,0 +1,49 @@
+
+1. FEMS Microbiol Ecol. 2020 May 1;96(5). pii: fiaa049. doi: 10.1093/femsec/fiaa049.
+
+Investigating bifidobacteria and human milk oligosaccharide composition of
+lactating mothers.
+
+Lugli GA(1), Duranti S(1), Milani C(1), Mancabelli L(1), Turroni F(1)(2),
+Alessandri G(3), Longhi G(4), Anzalone R(4), Viappinai A(4), Tarracchini C(1),
+Bernasconi S(2), Yonemitsu C(5), Bode L(5), Goran MI(6), Ossiprandi MC(3), van
+Sinderen D(7), Ventura M(1)(2).
+
+Author information: 
+(1)Laboratory of Probiogenomics, Department of Chemistry, Life Sciences, and
+Environmental Sustainability, University of Parma, Parma, Italy.
+(2)Microbiome Research Hub, University of Parma, Parma, Italy.
+(3)Department of Veterinary Medical Science, University of Parma, Parma, Italy.
+(4)GenProbio srl, Parma, Italy.
+(5)Department of Pediatrics and Larsson-Rosenquist Foundation Mother-Milk-Infant 
+Center of Research Excellence, University of California-San Diego, La Jolla, CA, 
+USA.
+(6)Department of Pediatrics, Children's Hospital Los Angeles, The University of
+Southern California, Los Angeles, CA, USA.
+(7)APC Microbiome Institute and School of Microbiology, Bioscience Institute,
+National University of Ireland, Cork, Ireland.
+
+Human milk is known to carry its own microbiota, of which the precise origin
+remains obscure. Breastfeeding allows mother-to-baby transmission of
+microorganisms as well as the transfer of many other milk components, such as
+human milk oligosaccharides (HMOs), which act as metabolizable substrates for
+particular bacteria, such as bifidobacteria, residing in infant intestinal tract.
+In the current study, we report the HMO composition of 249 human milk samples, in
+163 of which we quantified the abundance of members of the Bifidobacterium genus 
+using a combination of metagenomic and flow cytometric approaches. Metagenomic
+data allowed us to identify four clusters dominated by Bifidobacterium
+adolescentis and Bifidobacterium pseudolongum, Bifidobacterium crudilactis or
+Bifidobacterium dentium, as well as a cluster represented by a heterogeneous mix 
+of bifidobacterial species such as Bifidobacterium breve and Bifidobacterium
+longum. Furthermore, in vitro growth assays on HMOs coupled with in silico
+glycobiome analyses allowed us to elucidate that members of the Bifidobacterium
+bifidum and B. breve species exhibit the greatest ability to degrade and grow on 
+HMOs. Altogether, these findings indicate that the bifidobacterial component of
+the human milk microbiota is not strictly correlated with their ability to
+metabolize HMOs.
+
+© FEMS 2020.
+
+DOI: 10.1093/femsec/fiaa049 
+PMID: 32188978 
+

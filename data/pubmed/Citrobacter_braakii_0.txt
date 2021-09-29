@@ -1,0 +1,43 @@
+
+1. Anal Biochem. 2020 Oct 1;606:113859. doi: 10.1016/j.ab.2020.113859. Epub 2020 Jul
+29.
+
+Phytase catalysis of dephosphorylation studied using isothermal titration
+calorimetry and electrospray ionization time-of-flight mass spectroscopy.
+
+Kempapidis T(1), Bradshaw NJ(1), Hodges HE(1), Cowieson AJ(2), Cameron DD(3),
+Falconer RJ(4).
+
+Author information: 
+(1)Department of Chemical and Biological Engineering, University of Sheffield,
+Sheffield, S1 3JD, United Kingdom.
+(2)DSM Nutritional Products, 4303, Kaiseraugst, Switzerland.
+(3)Department of Animal and Plant Science, University of Sheffield, Sheffield, S1
+3JD, United Kingdom.
+(4)Department of Chemical Engineering and Advanced Materials, University of
+Adelaide, Adelaide, SA, 5005, Australia. Electronic address:
+robert.falconer@adelaide.edu.au.
+
+Phytases are important commercial enzymes that catalyze the dephosphorylation of 
+myo-inositol hexakisphosphate (phytate) to its lower inositol phosphate (IP)
+esters, IP6 to IP1. Digestion of phytate by Citrobacter braakii 6-phytase
+deviates significantly from monophasic Michaelis-Menten kinetics. Analysis of
+phytate digestion using isothermal titration calorimetry (ITC) using the single
+injection method produced a thermogram with two peaks consistent with two periods
+of high enzyme activity. Continuous-flow electrospray ionization time-of-flight
+mass spectroscopy (ESI-ToF-MS) provided real-time analysis of phytase catalysis. 
+It was able to show that the first two cleavage steps were rapid and concurrent
+but the third cleavage step from IP4 to IP3 was slow. The third (IP4 to IP3),
+fourth (IP3 to IP2) and fifth (IP2 to IP1) cleavages were effectively sequential 
+due to the preferred association of the more phosphorylated species with the
+phytase catalytic site. This created a bottleneck during the cleavage of IP4 to
+IP3 until the point at which IP4 was exhausted and was followed by the rapid
+cleavage of IP3 to IP2, which was observed as the second peak in the ITC
+thermogram. This work illustrates the importance of an orthogonal approach when
+studying non-specific or complex enzyme catalyzed reactions.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ab.2020.113859 
+PMID: 32738211 
+

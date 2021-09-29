@@ -1,0 +1,39 @@
+
+1. Mol Cells. 2020 Mar 31;43(3):276-285. doi: 10.14348/molcells.2020.2309.
+
+Gut Microbial Metabolites Induce Changes in Circadian Oscillation of Clock Gene
+Expression in the Mouse Embryonic Fibroblasts.
+
+Ku K(1), Park I(1), Kim D(1), Kim J(1), Jang S(1), Choi M(1), Choe HK(1), Kim
+K(1).
+
+Author information: 
+(1)Department of Brain and Cognitive Sciences, Daegu Gyeongbuk Institute of
+Science and Technology (DGIST), Daegu 42988, Korea.
+
+Circadian rhythm is an endogenous oscillation of about 24-h period in many
+physiological processes and behaviors. This daily oscillation is maintained by
+the molecular clock machinery with transcriptional-translational feedback loops
+mediated by clock genes including Period2 (Per2) and Bmal1. Recently, it was
+revealed that gut microbiome exerts a significant impact on the circadian
+physiology and behavior of its host; however, the mechanism through which it
+regulates the molecular clock has remained elusive. 3-(4-hydroxyphenyl)propionic 
+acid (4-OH-PPA) and 3-phenylpropionic acid (PPA) are major metabolites
+exclusively produced by Clostridium sporogenes and may function as unique
+chemical messengers communicating with its host. In the present study, we
+examined if two C. sporogenes-derived metabolites can modulate the oscillation of
+mammalian molecular clock. Interestingly, 4-OH-PPA and PPA increased the
+amplitude of both PER2 and Bmal1 oscillation in a dosedependent manner following 
+their administration immediately after the nadir or the peak of their rhythm. The
+phase of PER2 oscillation responded differently depending on the mode of
+administration of the metabolites. In addition, using an organotypic slice
+culture ex vivo, treatment with 4-OH-PPA increased the amplitude and lengthened
+the period of PER2 oscillation in the suprachiasmatic nucleus and other tissues. 
+In summary, two C. sporogenes-derived metabolites are involved in the regulation 
+of circadian oscillation of Per2 and Bmal1 clock genes in the host's peripheral
+and central clock machineries.
+
+DOI: 10.14348/molcells.2020.2309 
+PMCID: PMC7103884
+PMID: 32155689 
+

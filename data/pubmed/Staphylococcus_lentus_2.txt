@@ -1,0 +1,53 @@
+
+1. 3 Biotech. 2020 Apr;10(4):180. doi: 10.1007/s13205-020-02172-x. Epub 2020 Mar 27.
+
+Intestinal microbiota characteristics of mice treated with Folium senna decoction
+gavage combined with restraint and tail pinch stress.
+
+Yuan Z(1)(2), Zhang C(1), Peng X(2), Shu L(2), Long C(3), Tan Z(1).
+
+Author information: 
+(1)1Hunan University of Chinese Medicine, Xueshi Road 300, Yuelu District,
+Changsha, 410208 Hunan Province China.
+(2)3The First Hospital of Hunan University of Chinese Medicine, Changsha, 410007 
+Hunan Province China.
+(3)2College of Mathematics and Finance, Hunan University of Humanities, Science
+and Technology, Dixing Road 487, Louxing District, Loudi, 417000 Hunan Province
+China.
+
+To investigate the characteristics of the intestinal microbiota of mice treated
+with Folium senna decoction gavage combined with restraint and tail pinch stress.
+Ten healthy male Kunming mice were chosen and randomly divided into control group
+and model group, with five mice in each group. Mice in the control group were
+raised regularly, while mice in the model group were treated by feeding with
+Folium senna decoction, restraint in a constraint tube and tail pinch with a clip
+for 7 days. Intestinal contents from the jejunum to ileum were collected, and DNA
+was extracted from each mouse. The characteristics of the intestinal microbial
+species were analysed by PacBio Sequel-based 16S rRNA sequencing. Result showed
+that alpha diversity indices in the model group were higher than those in the
+control group, and the Simpson index differed significantly (P < 0.05). Based on 
+the composition and abundances of species, there were differences between the
+control group and model group at the species level, but these differences were
+not significant (P > 0.05). In the control group, Candidatus arthromitus sp.
+SFB-mouse and Lactobacillus johnsonii were the dominant species. In the model
+group, Staphylococcus lentus, Lactobacillus johnsonii, Candidatus arthromitus sp.
+SFB-mouse and Lactobacillus murinus were included. Furthermore, LEfSe analysis
+showed that the relative abundances of Escherichia sp. BBDP27, Helicobacter
+ganmani, Bacteroides vulgatus and Lactobacillus intestinalis in the model group
+were higher than those in the control group (P < 0.05 or P < 0.01). In
+conclusion, Folium senna decoction gavage combined with restraint and tail pinch 
+stress increased the intestinal microbiota diversity. Strains associated with
+intestinal diseases, including Bacteroides vulgatus, Helicobacter ganmani,
+Staphylococcus lentus and Lactobacillus murinus, were significantly enriched,
+while strains beneficial to health, such as Candidatus arthromitus sp. SFB-mouse 
+and Lactobacillus johnsonii, were significantly depleted.
+
+© King Abdulaziz City for Science and Technology 2020.
+
+DOI: 10.1007/s13205-020-02172-x 
+PMCID: PMC7101465 [Available on 2021-04-01]
+PMID: 32231961 
+
+Conflict of interest statement: Conflict of interestThe authors declare that
+there is no conflict of interests regarding the publication of this paper.
+

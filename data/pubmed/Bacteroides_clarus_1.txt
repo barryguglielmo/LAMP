@@ -1,0 +1,55 @@
+
+1. Gut. 2020 Jul;69(7):1248-1257. doi: 10.1136/gutjnl-2019-318532. Epub 2019 Nov 27.
+
+A novel faecal Lachnoclostridium marker for the non-invasive diagnosis of
+colorectal adenoma and cancer.
+
+Liang JQ(1), Li T(2), Nakatsu G(2), Chen YX(3), Yau TO(2), Chu E(2), Wong S(2),
+Szeto CH(2), Ng SC(2), Chan FKL(2), Fang JY(3), Sung JJY(2), Yu J(1).
+
+Author information: 
+(1)Institute of Digestive Disease and Department of Medicine and Therapeutics,
+State Key Laboratory of Digestive Disease, Li Ka Shing Institute of Health
+Sciences, CUHK Shenzhen Research Institute, The Chinese University of Hong Kong, 
+Shatin, Hong Kong junyu@cuhk.edu.hk jessieqy@cuhk.edu.hk.
+(2)Institute of Digestive Disease and Department of Medicine and Therapeutics,
+State Key Laboratory of Digestive Disease, Li Ka Shing Institute of Health
+Sciences, CUHK Shenzhen Research Institute, The Chinese University of Hong Kong, 
+Shatin, Hong Kong.
+(3)Division of Gastroenterology, Shanghai Jiaotong University School of Medicine 
+Renji Hospital, Shanghai Institute of Digestive Disease, Shanghai, China.
+
+OBJECTIVE: There is a need for early detection of colorectal cancer (CRC) at
+precancerous-stage adenoma. Here, we identified novel faecal bacterial markers
+for diagnosing adenoma.
+DESIGN: This study included 1012 subjects (274 CRC, 353 adenoma and 385 controls)
+from two independent Asian groups. Candidate markers were identified by
+metagenomics and validated by targeted quantitative PCR.
+RESULTS: Metagenomic analysis identified 'm3' from a Lachnoclostridium sp.,
+Fusobacterium nucleatum (Fn) and Clostridium hathewayi (Ch) to be significantly
+enriched in adenoma. Faecal m3 and Fn were significantly increased from normal to
+adenoma to CRC (p<0.0001, linear trend by one-way ANOVA) in group I (n=698),
+which was further confirmed in group II (n=313; p<0.0001). Faecal m3 may perform 
+better than Fn in distinguishing adenoma from controls (areas under the receiver 
+operating characteristic curve (AUROCs) m3=0.675 vs Fn=0.620, p=0.09), while Fn
+performed better in diagnosing CRC (AUROCs Fn=0.862 vs m3=0.741, p<0.0001). At
+78.5% specificity, m3 and Fn showed sensitivities of 48.3% and 33.8% for adenoma,
+and 62.1% and 77.8% for CRC, respectively. In a subgroup tested with faecal
+immunochemical test (FIT; n=642), m3 performed better than FIT in detecting
+adenoma (sensitivities for non-advanced and advanced adenomas of 44.2% and 50.8% 
+by m3 (specificity=79.6%) vs 0% and 16.1% by FIT (specificity=98.5%)). Combining 
+with FIT improved sensitivity of m3 for advanced adenoma to 56.8%. The
+combination of m3 with Fn, Ch, Bacteroides clarus and FIT performed best for
+diagnosing CRC (specificity=81.2% and sensitivity=93.8%).
+CONCLUSION: This study identifies a novel bacterial marker m3 for the
+non-invasive diagnosis of colorectal adenoma.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/gutjnl-2019-318532 
+PMCID: PMC7306980
+PMID: 31776231 
+
+Conflict of interest statement: Competing interests: None declared.
+

@@ -1,0 +1,47 @@
+
+1. Front Microbiol. 2020 May 15;11:797. doi: 10.3389/fmicb.2020.00797. eCollection
+2020.
+
+Emerging Threat of Antimicrobial Resistance in β-Hemolytic Streptococci.
+
+Oppegaard O(1), Skrede S(2), Mylvaganam H(3), Kittang BR(4).
+
+Author information: 
+(1)Department of Medicine, Haukeland University Hospital, Bergen, Norway.
+(2)Department of Clinical Science, Faculty of Medicine, University of Bergen,
+Bergen, Norway.
+(3)Department of Microbiology, Haukeland University Hospital, Bergen, Norway.
+(4)Department of Medicine, Haraldsplass Deaconess Hospital, Bergen, Norway.
+
+Highly variable resistance rates to erythromycin and clindamycin have been
+reported in the β-hemolytic streptococcal species Streptococcus pyogenes,
+Streptococcus agalactiae, and Streptococcus dysgalactiae, depending on geographic
+and temporal context. In the present study we aimed to examine the longitudinal
+trends of antimicrobial resistance in these three species in a northern European 
+setting. Furthermore, we used whole genome sequencing to identify resistance
+determinants and the mobile genetic elements involved in their dissemination, as 
+well as elucidate phylogenetic relationships. All cases of invasive β-hemolytic
+streptococcal diseases in Health Region Bergen, western Norway, in the period
+2004 to 2018 were retrospectively identified, comprising 271, 358, and 280 cases 
+of S. pyogenes, S. agalactiae, and S. dysgalactiae, respectively. Antimicrobial
+susceptibility testing revealed a gradual but significant increase in
+erythromycin and clindamycin resistance for S. agalactiae and S. dysgalactiae
+during the study period. Whole genome sequencing of the erythromycin and
+clindamycin resistant bacterial population revealed a substantial phylogenetic
+diversity in S. agalactiae and S. dysgalactiae. However, the mobile genetic
+elements harboring the resistance determinants showed remarkable intra- and
+interspecies similarities, suggesting a dissemination of antimicrobial resistance
+predominantly through conjugative transfer rather than clonal expansion of
+resistant strains in these two species. Conversely, antimicrobial resistance in
+S. pyogenes remained low, apart from a transient outbreak of a clindamycin and
+erythromycin resistant emm11/ST403-clone in 2010-2012. Increased epidemiological 
+attentiveness is warranted to monitor the emerging threat of antimicrobial
+resistance in β-hemolytic streptococci, particularly in S. agalactiae and S.
+dysgalactiae.
+
+Copyright © 2020 Oppegaard, Skrede, Mylvaganam and Kittang.
+
+DOI: 10.3389/fmicb.2020.00797 
+PMCID: PMC7242567
+PMID: 32477287 
+

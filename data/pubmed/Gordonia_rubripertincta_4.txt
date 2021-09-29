@@ -1,0 +1,51 @@
+
+1. Arch Biochem Biophys. 2020 Aug 15;689:108429. doi: 10.1016/j.abb.2020.108429.
+Epub 2020 May 30.
+
+Biosynthesis of desferrioxamine siderophores initiated by decarboxylases: A
+functional investigation of two lysine/ornithine-decarboxylases from Gordonia
+rubripertincta CWB2 and Pimelobacter simplex 3E.
+
+Hofmann M(1), Martin Del Campo JS(2), Sobrado P(3), Tischler D(4).
+
+Author information: 
+(1)Environmental Microbiology, Institute of Biosciences, TU Bergakademie
+Freiberg, Leipziger Str. 29, 09599, Freiberg, Germany. Electronic address:
+marika.hofmann90@gmail.com.
+(2)Department of Biochemistry, Virginia Tech, Blacksburg, USA.
+(3)Department of Biochemistry, Center Drug Discovery, Virginia Tech, Blacksburg, 
+USA.
+(4)Environmental Microbiology, Institute of Biosciences, TU Bergakademie
+Freiberg, Leipziger Str. 29, 09599, Freiberg, Germany; Microbial Biotechnology,
+Ruhr-Universität Bochum, Universitätsstr. 150, 44780, Bochum, Germany. Electronic
+address: dirk.tischler@rub.de.
+
+Erratum in
+    Arch Biochem Biophys. 2020 Sep 11;693:108573.
+
+Lysine is a precursor for desferrioxamine siderophore biosynthesis. The pathway
+is often initiated by lysine decarboxylases. However, little is known about those
+enzymes from Actinobacteria which represents a diverse class of desferrioxamine
+producers. In this study we focused on the genes grdesA form Gordonia
+rubripertincta CWB2 and psdesA from Pimelobacter simplex VkMAC-2033D that encode 
+decarboxylases presumed to be involved in the synthesis of desferrioxamine
+siderophores. The corresponding proteins GrDesA and PsDesA, were heterologously
+produced in Escherichia coli and purified. PsDesA was isolated bound to the
+cofactor pyridoxal 5-phosphate and GrDesA was purified in its apo form. PsDesA
+showed a moderate substrate preference for lysine (Km = 0.17 mM, kcat = 0.26 s-1)
+compared to ornithine (Km = 0.13 mM, kcat = 0.14 s-1), while GrDesA exhibited
+specificity for lysine (Km = 0.13 mM, kcat = 1.2 s-1) compared to ornithine
+(Km = 2.9 mM, kcat = 0.18 s-1). The maximum decarboxylase activity of PsDesA was 
+achieved at pH 7.5 at 35 °C, although PsDesA was stable up to 40°, its relative
+activity decreased significantly at 50 °C. The temperature optimum (40 °C) and
+thermostability of GrDesA were likewise, but it exhibited maximum activity at pH 
+range 8.0-8.5, and sharply decreased outside of this range. The expression and
+characterization of these two decarboxylases provides insight into the
+biosynthetic pathway of desferrioxamines from G.rubripertincta and P. simplex and
+supports the functional annotation of related pathways.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.abb.2020.108429 
+PMID: 32479762 
+

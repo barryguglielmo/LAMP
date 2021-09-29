@@ -1,0 +1,63 @@
+
+1. Cell Syst. 2020 Sep 23;11(3):239-251.e7. doi: 10.1016/j.cels.2020.08.010.
+
+Illuminating Host-Mycobacterial Interactions with Genome-wide CRISPR Knockout and
+CRISPRi Screens.
+
+Lai Y(1), Babunovic GH(2), Cui L(3), Dedon PC(4), Doench JG(5), Fortune SM(6), Lu
+TK(7).
+
+Author information: 
+(1)Antimicrobial Resistance Interdisciplinary Research Group, Singapore-MIT
+Alliance for Research and Technology, Singapore 138602, Singapore; Synthetic
+Biology Group, MIT Synthetic Biology Center, Massachusetts Institute of
+Technology (MIT), Cambridge, MA 02139, USA; Research Laboratory of Electronics,
+MIT, Cambridge, MA 02139, USA.
+(2)Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of 
+Public Health, Boston, MA 02115, USA.
+(3)Antimicrobial Resistance Interdisciplinary Research Group, Singapore-MIT
+Alliance for Research and Technology, Singapore 138602, Singapore.
+(4)Antimicrobial Resistance Interdisciplinary Research Group, Singapore-MIT
+Alliance for Research and Technology, Singapore 138602, Singapore; Department of 
+Biological Engineering, MIT, Cambridge, MA 02139, USA.
+(5)Broad Institute, Cambridge, MA 02139, USA.
+(6)Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of 
+Public Health, Boston, MA 02115, USA; Ragon Institute of MGH, MIT, and Harvard,
+Cambridge, MA 02139, USA.
+(7)Antimicrobial Resistance Interdisciplinary Research Group, Singapore-MIT
+Alliance for Research and Technology, Singapore 138602, Singapore; Synthetic
+Biology Group, MIT Synthetic Biology Center, Massachusetts Institute of
+Technology (MIT), Cambridge, MA 02139, USA; Research Laboratory of Electronics,
+MIT, Cambridge, MA 02139, USA; Broad Institute, Cambridge, MA 02139, USA;
+Department of Electrical Engineering and Computer Science, MIT, Cambridge, MA
+02139, USA; Harvard-MIT Division of Health Sciences and Technology, Cambridge, MA
+02139, USA; Department of Biological Engineering, MIT, Cambridge, MA 02139, USA. 
+Electronic address: timlu@mit.edu.
+
+Existing antibiotics are inadequate to defeat tuberculosis (TB), a leading cause 
+of death worldwide. We sought potential targets for host-directed therapies
+(HDTs) by investigating the host immune response to mycobacterial infection. We
+used high-throughput CRISPR knockout and CRISPR interference (CRISPRi) screens to
+identify perturbations that improve the survival of human phagocytic cells
+infected with Mycobacterium bovis BCG (Bacillus Calmette-Guérin), as a proxy for 
+Mycobacterium tuberculosis (Mtb). Many of these perturbations constrained the
+growth of intracellular mycobacteria. We identified over 100 genes associated
+with diverse biological pathways as potential HDT targets. We validated key
+components of the type I interferon and aryl hydrocarbon receptor signaling
+pathways that respond to the small-molecule inhibitors cerdulatinib and CH223191,
+respectively; these inhibitors enhanced human macrophage survival and limited the
+intracellular growth of Mtb. Thus, high-throughput functional genomic screens, by
+elucidating highly complex host-pathogen interactions, can serve to identify HDTs
+to potentially improve TB treatment.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cels.2020.08.010 
+PMID: 32970993 
+
+Conflict of interest statement: Declaration of Interests T.K.L. is a co-founder
+of Senti Biosciences, Synlogic, Engine Biosciences, Tango Therapeutics, Corvium, 
+BiomX, Eligo Biosciences, Bota.Bio, and Avendesora. T.K.L. also holds financial
+interests in nest.bio, Ampliphi, IndieBio, MedicusTek, Quark Biosciences,
+Personal Genomics, Thryve, Lexent Bio, MitoLab, Vulcan, Serotiny, and Avendesora.
+

@@ -1,0 +1,43 @@
+
+1. Comb Chem High Throughput Screen. 2020 Sep 2. doi:
+10.2174/1386207323666200902140656. [Epub ahead of print]
+
+Gene Expression Profiling Analysis to Identify Key Genes and Underlying
+Mechanisms in Meniscus of Osteoarthritis Patients.
+
+Wang B(1), Zhong JL(1), Xu XH(1), Wu B(1), Shang J(1), Jiang N(1), Lu HD(1).
+
+Author information: 
+(1)Department of Orthopaedics, The Fifth Affiliated Hospital of Sun Yat-Sen
+University, Zhuhai 519000, Guangdong. China.
+
+BACKGROUND: Osteoarthritis (OA) is a degenerative joint disease that seriously
+affects the quality of life of elderly individuals. Regrettably, the pathological
+mechanism for OA has not yet been fully elucidated. This study is committed to
+distinguishing key genes and the underlying mechanisms for OA. Raw data was
+acquired from the Gene Expression Omnibus (GEO) database. We identified
+differentially expressed genes (DEGs), hub genes, and key genes through
+bioinformatics analysis. Subsequently, we predicted the microRNAs (miRNAs) and
+circular RNAs (circRNAs) associated with these key genes that may play key roles 
+in OA using web tools. We also constructed a protein-drug network and found
+potentially effective drugs by analyzing the relationships between the drugs and 
+the key genes.
+RESULTS: The analysis revealed 360 DEGs, 24 hub genes, and 15 key genes enriched 
+in many categories potentially related to the pathological mechanism of OA.
+hsa-miR-29a-3p, hsa-miR-29b-3p, and hsa-miR-29c-3p were predicted to be important
+miRNAs for OA, while hsa_circ_0025119, hsa_circ_0025113, hsa_circ_0009897, and
+hsa_circ_0002447 were predicted to be the most important circRNAs. Further
+studies indicated that Ocriplasmin and Collagenase clostridium histolyticum may
+be effective drugs for the treatment of OA. Finally, CD34 and VWF were inferred
+to be the most meaningful biomarkers for OA.
+CONCLUSIONS: In conclusion, we determined the underlying key genes, miRNAs, and
+circRNAs for OA, predicted potentially effective drugs, and identified the most
+meaningful biomarkers for the disease. Our findings may provide insight into the 
+pathological mechanism of OA and guide future research.
+
+Copyright© Bentham Science Publishers; For any queries, please email at
+epub@benthamscience.net.
+
+DOI: 10.2174/1386207323666200902140656 
+PMID: 32881662 
+

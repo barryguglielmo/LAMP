@@ -1,0 +1,38 @@
+
+1. Microb Genom. 2020 Sep;6(9). doi: 10.1099/mgen.0.000423. Epub 2020 Aug 26.
+
+Virulence genes and previously unexplored gene clusters in four commensal
+Neisseria spp. isolated from the human throat expand the neisserial gene
+repertoire.
+
+Calder A(1), Menkiti CJ(1), Çağdaş A(1), Lisboa Santos J(1), Streich R(1), Wong
+A(1), Avini AH(1), Bojang E(1), Yogamanoharan K(1), Sivanesan N(1), Ali B(1),
+Ashrafi M(1), Issa A(1), Kaur T(1), Latif A(1), Mohamed HAS(1), Maqsood A(1),
+Tamang L(1), Swager E(1), Stringer AJ(1), Snyder LAS(1).
+
+Author information: 
+(1)School of Life Sciences, Pharmacy, and Chemistry, Kingston University,
+Kingston upon Thames, KT1 2EE, UK.
+
+Commensal non-pathogenic Neisseria spp. live within the human host alongside the 
+pathogenic Neisseria meningitidis and Neisseria gonorrhoeae and due to natural
+competence, horizontal gene transfer within the genus is possible and has been
+observed. Four distinct Neisseria spp. isolates taken from the throats of two
+human volunteers have been assessed here using a combination of microbiological
+and bioinformatics techniques. Three of the isolates have been identified as
+Neisseria subflava biovar perflava and one as Neisseria cinerea. Specific gene
+clusters have been identified within these commensal isolate genome sequences
+that are believed to encode a Type VI Secretion System, a newly identified CRISPR
+system, a Type IV Secretion System unlike that in other Neisseria spp., a hemin
+transporter, and a haem acquisition and utilization system. This investigation is
+the first to investigate these systems in either the non-pathogenic or pathogenic
+Neisseria spp. In addition, the N. subflava biovar perflava possess previously
+unreported capsule loci and sequences have been identified in all four isolates
+that are similar to genes seen within the pathogens that are associated with
+virulence. These data from the four commensal isolates provide further evidence
+for a Neisseria spp. gene pool and highlight the presence of systems within the
+commensals with functions still to be explored.
+
+DOI: 10.1099/mgen.0.000423 
+PMID: 32845827 
+

@@ -1,0 +1,48 @@
+
+1. Sci Rep. 2020 Sep 28;10(1):15909. doi: 10.1038/s41598-020-73075-3.
+
+SMRT sequencing of the full-length transcriptome of Odontotermes formosanus
+(Shiraki) under Serratia marcescens treatment.
+
+Feng K(1)(2), Lu X(1)(2), Luo J(1)(2), Tang F(3)(4).
+
+Author information: 
+(1)Co-Innovation Center for Sustainable Forestry in Southern China, Nanjing
+Forestry University, Nanjing, 210037, China.
+(2)College of Forestry, Nanjing Forestry University, Nanjing, 210037, China.
+(3)Co-Innovation Center for Sustainable Forestry in Southern China, Nanjing
+Forestry University, Nanjing, 210037, China. tangfang76@foxmail.com.
+(4)College of Forestry, Nanjing Forestry University, Nanjing, 210037, China.
+tangfang76@foxmail.com.
+
+Odontotermes formosanus (Shiraki) is an important pest in the world. Serratia
+marcescens have a high lethal effect on O. formosanus, but the specific
+insecticidal mechanisms of S. marcescens on O. formosanus are unclear, and the
+immune responses of O. formosanus to S. marcescens have not been clarified. At
+present, genetic database resources of O. formosanus are extremely scarce.
+Therefore, using O. formosanus workers infected by S. marcescens and the control 
+as experimental materials, a full-length transcriptome was sequenced using the
+PacBio Sequel sequencing platform. A total of 10,364 isoforms were obtained as
+the final transcriptome. The unigenes were further annotated with the Nr,
+Swiss-Prot, EuKaryotic Orthologous Groups (KOG), Gene Ontology (GO) and Kyoto
+Encyclopedia of Genes and Genomes (KEGG) Ortholog public databases. In a
+comparison between the control group and a Serratia marcescens-infected group, a 
+total of 259 differentially expressed genes (DEGs) were identified, including 132
+upregulated and 127 downregulated genes. Pathway enrichment analysis indicated
+that the expression of the mitogen-activated protein kinase (MAPK) pathway,
+oxidative stress genes and the AMP-activated protein kinase (AMPK) pathway in O. 
+formosanus may be associated with S. marcescens treatment. This research
+intensively studied O. formosanus at the high-throughput full-length
+transcriptome level, laying a foundation for further development of molecular
+markers and mining of target genes in this species and thereby promoting the
+biological control of O. formosanus. Furthermore, these results will be helpful
+to clarify the action mechanisms of S. marcescens on O. formosanus, and also
+explore the relationship between O. formosanus and S. marcescens. In addition,
+this study will identify the immune response of O. formosanus to S. marcescens,
+which will provide a theoretical foundation for the development of new
+immunosuppressants for O. formosanus.
+
+DOI: 10.1038/s41598-020-73075-3 
+PMCID: PMC7522981
+PMID: 32985611 
+

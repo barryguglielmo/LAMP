@@ -1,0 +1,42 @@
+
+1. Antimicrob Agents Chemother. 2019 Oct 22;63(11). pii: e01403-19. doi:
+10.1128/AAC.01403-19. Print 2019 Nov.
+
+Identification of FosA8, a Plasmid-Encoded Fosfomycin Resistance Determinant from
+Escherichia coli, and Its Origin in Leclercia adecarboxylata.
+
+Poirel L(1)(2)(3), Vuillemin X(1), Kieffer N(1), Mueller L(2), Descombes MC(4),
+Nordmann P(5)(2)(3)(6).
+
+Author information: 
+(1)Medical and Molecular Microbiology Unit, Department of Medicine, Faculty of
+Science, University of Fribourg, Fribourg, Switzerland.
+(2)INSERM European Unit (IAME, France), University of Fribourg, Fribourg,
+Switzerland.
+(3)Swiss National Reference Center for Emerging Antibiotic Resistance (NARA),
+University of Fribourg, Fribourg, Switzerland.
+(4)Laboratoire Proxilis, Meyrin, Switzerland.
+(5)Medical and Molecular Microbiology Unit, Department of Medicine, Faculty of
+Science, University of Fribourg, Fribourg, Switzerland patrice.nordmann@unifr.ch.
+(6)Institute for Microbiology, University of Lausanne and University Hospital
+Centre, Lausanne, Switzerland.
+
+A plasmid-located fosfomycin resistance gene, fosA8, was identified from a
+CTX-M-15-producing Escherichia coli isolate recovered from urine. Identification 
+of this gene was obtained by whole-genome sequencing. It encoded FosA8, which
+shares 79% and 78% amino acid identity with the most closely related FosA2 and
+FosA1 enzymes, respectively. The fosA8 gene was located on a transferable 50-kb
+plasmid of IncN type encoding high-level resistance to fosfomycin. In silico
+analysis and cloning experiments identified fosA8 analogues (99% identity) in the
+genome of Leclercia decarboxylata, which is an enterobacterial species with
+natural resistance to fosfomycin. This finding adds L. decarboxylata to the list 
+of enterobacterial species that are a reservoir of fosA-like genes which have
+been captured from the chromosome of a progenitor and are then acquired by E.
+coli.
+
+Copyright © 2019 American Society for Microbiology.
+
+DOI: 10.1128/AAC.01403-19 
+PMCID: PMC6811418
+PMID: 31481445  [Indexed for MEDLINE]
+

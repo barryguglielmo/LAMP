@@ -1,0 +1,80 @@
+
+1. Gastroenterology. 2020 Oct 1. pii: S0016-5085(20)35217-3. doi:
+10.1053/j.gastro.2020.09.036. [Epub ahead of print]
+
+Elucidation of Proteus mirabilis as a Key Bacterium in Crohn's Disease
+Inflammation.
+
+Zhang J(1), Hoedt EC(2), Liu Q(1), Berendsen E(3), Teh JJ(3), Hamilton A(4), O'
+Brien AW(4), Ching J(1), Wei H(5), Yang K(1), Xu Z(1), Wong SH(6), Mak JW(1),
+Sung JJ(1), Morrison M(7), Yu J(8), Kamm MA(9), Ng SC(10).
+
+Author information: 
+(1)Department of Medicine and Therapeutics, Institute of Digestive Disease, State
+Key Laboratory of Digestive Diseases, LKS Institute of Health Science, The
+Chinese University of Hong Kong, Hong Kong, China.
+(2)The University of Queensland Diamantina Institute, Faculty of Medicine,
+Translational Research Institute, Brisbane, Australia; APC Microbiome Ireland,
+University College Cork, Cork, Ireland.
+(3)The University of Queensland Diamantina Institute, Faculty of Medicine,
+Translational Research Institute, Brisbane, Australia.
+(4)Department of Gastroenterology, St Vincent's Hospital, Melbourne, Australia;
+Department of Medicine, The University of Melbourne, Melbourne, Australia.
+(5)Department of Laboratory Animal Science at the Third Military Medical
+University in Chongqing, China.
+(6)Department of Medicine and Therapeutics, Institute of Digestive Disease, State
+Key Laboratory of Digestive Diseases, LKS Institute of Health Science, The
+Chinese University of Hong Kong, Hong Kong, China; Center for Gut Microbiota
+Research, Department of Medicine and Therapeutics, The Chinese University of Hong
+Kong, Hong Kong, China.
+(7)The University of Queensland Diamantina Institute, Faculty of Medicine,
+Translational Research Institute, Brisbane, Australia. Electronic address:
+m.morrison1@uq.edu.au.
+(8)Department of Medicine and Therapeutics, Institute of Digestive Disease, State
+Key Laboratory of Digestive Diseases, LKS Institute of Health Science, The
+Chinese University of Hong Kong, Hong Kong, China; Center for Gut Microbiota
+Research, Department of Medicine and Therapeutics, The Chinese University of Hong
+Kong, Hong Kong, China. Electronic address: junyu@cuhk.edu.hk.
+(9)Department of Gastroenterology, St Vincent's Hospital, Melbourne, Australia;
+Department of Medicine, The University of Melbourne, Melbourne, Australia.
+Electronic address: mkamm@unimelb.edu.au.
+(10)Department of Medicine and Therapeutics, Institute of Digestive Disease,
+State Key Laboratory of Digestive Diseases, LKS Institute of Health Science, The 
+Chinese University of Hong Kong, Hong Kong, China; Center for Gut Microbiota
+Research, Department of Medicine and Therapeutics, The Chinese University of Hong
+Kong, Hong Kong, China. Electronic address: siewchienng@cuhk.edu.hk.
+
+BACKGROUND & AIMS: Proteus spp., Gram-negative facultative anaerobic bacilli,
+have recently been associated with Crohn's disease (CD) recurrence after
+intestinal resection. We investigated the genomic and functional role of Proteus 
+as a gut pathogen in CD.
+METHODS: Proteus spp. abundance was assessed by ure gene-specific PCR in 54 pairs
+of faecal samples and 101 intestinal biopsies from CD patients and healthy
+controls. The adherence, invasion and intra-cellular presence of two distinct
+isolates of P. mirabilis in epithelial cells were evaluated using
+immunofluorescence and electron microscopy. Intracellular gene expression
+profiles and regulated pathways were analyzed by RNA seq and KEGG pathway
+analysis. Biological functions of two isolates of P. mirabilis were determined by
+in vitro cell culture, and in vivo using conventional mice and germ-free mice.
+RESULTS: Proteus spp. were significantly more prevalent and abundant in faecal
+samples and colonic tissue of patients with CD than controls. A greater abundance
+of the genus Fusobacterium and a lesser abundance of the genus Faecalibacterium
+were seen in CD patients with a high Proteus spp. abundance. All 24
+Proteus-monoclones isolated from CD patients belonged to members of P. mirabilis 
+lineages and two isolates, recovered from stool or mucosa, were used in further
+studies. Mice gavaged with either P. mirabilis strain had more severe colonic
+inflammation. Co-culture of the isolates with epithelial cell lines showed
+bacterial adherence, invasion, increased production of pro-inflammatory cytokines
+IL-18 and IL-1α, and cell necrosis. Both isolates induced key pro-inflammatory
+pathways including NOD-like receptor signaling, Jak-STAT signaling and MAPK
+signaling, and induced pro-inflammatory genes and activated inflammation-related 
+pathways in gnotobiotic mice.
+CONCLUSION: P. mirabilis in the gut is associated with CD and can induce
+inflammation in cells and animal models of colitis. P. mirabilis may act as a
+pathobiont and play a crucial role in the pathogenesis of CD.
+
+Copyright © 2020 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.gastro.2020.09.036 
+PMID: 33011176 
+

@@ -1,0 +1,39 @@
+
+1. Appl Microbiol Biotechnol. 2020 Apr;104(8):3305-3320. doi:
+10.1007/s00253-019-10318-y. Epub 2020 Feb 22.
+
+Functional genomic analysis of bacterial lignin degraders: diversity in
+mechanisms of lignin oxidation and metabolism.
+
+Granja-Travez RS(1)(2), Persinoti GF(3), Squina FM(4), Bugg TDH(5).
+
+Author information: 
+(1)Department of Chemistry, University of Warwick, Coventry, CV4 7AL, UK.
+(2)Facultad de Ciencias de la Ingeniería e Industrias, Universidad UTE, Quito,
+Ecuador.
+(3)Laboratório Nacional de Biorrenováveis (LNBR/CNPEM), Campinas, Brazil.
+(4)Programa de Processos Tecnológicos e Ambientais, Universidade de Sorocaba,
+Sorocaba, Brazil.
+(5)Department of Chemistry, University of Warwick, Coventry, CV4 7AL, UK.
+T.D.Bugg@warwick.ac.uk.
+
+Although several bacterial lignin-oxidising enzymes have been discovered in
+recent years, it is not yet clear whether different lignin-degrading bacteria use
+similar mechanisms for lignin oxidation and degradation of lignin fragments.
+Genome sequences of 13 bacterial lignin-oxidising bacteria, including new genome 
+sequences for Microbacterium phyllosphaerae and Agrobacterium sp., were analysed 
+for the presence of lignin-oxidising enzymes and aromatic degradation gene
+clusters that could be used to metabolise the products of lignin degradation. Ten
+bacterial genomes contain DyP-type peroxidases, and ten bacterial strains contain
+putative multi-copper oxidases (MCOs), both known to have activity for lignin
+oxidation. Only one strain lacks both MCOs and DyP-type peroxidase genes. Eleven 
+bacterial genomes contain aromatic degradation gene clusters, of which ten
+contain the central β-ketoadipate pathway, with variable numbers and types of
+degradation clusters for other aromatic substrates. Hence, there appear to be
+diverse metabolic strategies used for lignin oxidation in bacteria, while the
+β-ketoadipate pathway appears to be the most common route for aromatic metabolism
+in lignin-degrading bacteria.
+
+DOI: 10.1007/s00253-019-10318-y 
+PMID: 32088760 
+

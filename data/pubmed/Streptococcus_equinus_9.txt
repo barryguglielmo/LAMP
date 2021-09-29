@@ -1,0 +1,55 @@
+
+1. J Infect Dis. 2020 Jul 29. pii: jiaa459. doi: 10.1093/infdis/jiaa459. [Epub ahead
+of print]
+
+Association between Vaginal Bacterial Microbiota and Vaginal Yeast Colonization.
+
+Eastment MC(1), Balkus JE(2)(3)(4), Richardson BA(2)(5)(4), Srinivasan S(4),
+Kimani J(6), Anzala O(7), Schwebke J(8), Fiedler TL(4), Fredricks DN(1)(4),
+McClelland RS(1)(2)(3)(6).
+
+Author information: 
+(1)Department of Medicine, University of Washington, Seattle, WA.
+(2)Department of Global Health, University of Washington, Seattle, WA.
+(3)Department of Epidemiology, University of Washington, Seattle, WA.
+(4)Fred Hutchinson Cancer Research Center, Vaccine and Infectious Disease
+Division, Seattle, WA.
+(5)Department of Biostatistics, University of Washington, Seattle, WA.
+(6)Institute of Tropical and Infectious Diseases, University of Nairobi, Nairobi,
+Kenya.
+(7)Kenya AIDS Vaccine Initiative (KAVI)-Institute of Clinical Research,
+University of Nairobi, Nairobi, Kenya.
+(8)Division of Infectious Diseases, University of Alabama at Birmingham,
+Birmingham, AL.
+
+BACKGROUND: Vaginal yeast is frequently found with Lactobacillus-dominant
+microbiota. The relationship between vaginal yeast and other bacteria has not
+been well characterized.
+METHODS: These analyses utilized data from the Preventing Vaginal Infections
+trial. Relative abundance of vaginal bacteria from 16S rRNA gene amplicon
+sequencing and quantities of 10 vaginal bacteria using taxon-directed PCR assays 
+were compared at visits with and without detection of yeast on microscopy,
+culture, or both.
+RESULTS: Higher relative abundances of Megasphaera species type 1 (RR 0.70, 95%CI
+0.52-0.95), Megasphaera species type 2 (RR 0.81, 95%CI 0.67-0.98) and
+Mageeibacillus indolicus (RR 0.46, 95%CI 0.25-0.83), were associated with lower
+risk of detecting yeast. Conversely, higher relative abundances of
+Bifidobacterium bifidum, Aerococcus christensenii, Lactobacillus mucosae,
+Streptococcus equinus/infantarius/lutentiensis, Prevotella bivia, Dialister
+propionicifaciens, and Lactobacillus crispatus/helveticus were associated with
+yeast detection. Taxon-directed assays confirmed that increasing quantities of
+both Megasphaera species and M. indolicus were associated with lower risk of
+detecting yeast while, increasing quantities of L. crispatus were associated with
+higher risk of detecting yeast.
+CONCLUSION: Despite an analysis that examined associations between multiple
+vaginal bacteria and the presence of yeast, only a small number of vaginal
+bacteria were strongly and significantly associated with the presence or absence 
+of yeast.
+
+© The Author(s) 2020. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiaa459 
+PMID: 32726445 
+

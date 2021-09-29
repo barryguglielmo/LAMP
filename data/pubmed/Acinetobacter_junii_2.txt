@@ -1,0 +1,40 @@
+
+1. AMB Express. 2020 Jun 3;10(1):106. doi: 10.1186/s13568-020-01043-1.
+
+Characterization of deltamethrin degradation and metabolic pathway by co-culture 
+of Acinetobacter junii LH-1-1 and Klebsiella pneumoniae BPBA052.
+
+Tang J(1), Hu Q(2), Lei D(2), Wu M(2), Zeng C(2), Zhang Q(2).
+
+Author information: 
+(1)Key Laboratory of Food Biotechnology, School of Food and Biotechnology, Xihua 
+University, Chengdu, 610039, Sichuan, People's Republic of China.
+wendyjiejie@tom.com.
+(2)Key Laboratory of Food Biotechnology, School of Food and Biotechnology, Xihua 
+University, Chengdu, 610039, Sichuan, People's Republic of China.
+
+Deltamethrin and its major metabolite 3-phenoxybenzoic acid (3-PBA) have caused
+serious threat to the environment as well as human health, yet little is known
+about their degradation pathways by bacterial co-cultures. In this study, the
+growth and degradation kinetics of Acinetobacter junii LH-1-1 and Klebsiella
+pneumoniae BPBA052 during deltamethrin and 3-PBA degradation were established,
+respectively. When the inoculum proportion of the strains LH-1-1 and BPBA052 was 
+7.5:2.5, and LH-1-1 was inoculated 24 h before inoculation of strain BPBA052,
+94.25% deltamethrin was degraded and 9.16 mg/L of 3-PBA remained within 72 h,
+which was 20.36% higher and 10.25 mg/L lesser than that in monoculture of LH-1-1,
+respectively. And the half-life of deltamethrin was shortened from 38.40 h to
+24.58 h. Based on gas chromatography-mass spectrometry, 3-phenoxybenzaldehyde,
+1,2-benzenedicarboxylic butyl dacyl ester, and phenol were identified as
+metabolites during deltamethrin degradation in co-culture. This is the first time
+that a co-culture degradation pathway of deltamethrin has been proposed based on 
+these identified metabolites. Bioremediation of deltamethrin-contaminated soils
+with co-culture of strains LH-1-1 and BPBA052 significantly enhanced deltamethrin
+degradation and 3-PBA removal. This study provides a platform for further studies
+on deltamethrin and 3-PBA biodegradation mechanism in co-culture, and it also
+proposes a promising approach for efficient bioremediation of environment
+contaminated by pyrethroid pesticides and their associated metabolites.
+
+DOI: 10.1186/s13568-020-01043-1 
+PMCID: PMC7270285
+PMID: 32495133 
+

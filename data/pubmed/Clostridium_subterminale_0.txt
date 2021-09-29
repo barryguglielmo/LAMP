@@ -1,0 +1,42 @@
+
+1. Appl Microbiol Biotechnol. 2020 Oct;104(20):8871-8885. doi:
+10.1007/s00253-020-10852-0. Epub 2020 Sep 2.
+
+Microbiome of root vegetables-a source of gluten-degrading bacteria.
+
+Kõiv V(1), Adamberg K(2)(3), Adamberg S(2), Sumeri I(3), Kasvandik S(4), Kisand
+V(4), Maiväli Ü(4), Tenson T(4).
+
+Author information: 
+(1)Institute of Technology, University of Tartu, Tartu, Estonia. viia.koiv@ut.ee.
+(2)School of Science: Department of Chemistry and Biotechnology, Tallinn
+University of Technology, Tallinn, Estonia.
+(3)Center of Food and Fermentation Technologies, Tallinn, Estonia.
+(4)Institute of Technology, University of Tartu, Tartu, Estonia.
+
+Gluten is a cereal protein that is incompletely digested by human proteolytic
+enzymes that create immunogenic peptides that accumulate in the gastrointestinal 
+tract (GIT). Although both environmental and human bacteria have been shown to
+expedite gluten hydrolysis, gluten intolerance is a growing concern. Here we
+hypothesize that together with food, we acquire environmental bacteria that could
+impact our GIT with gluten-degrading bacteria. Using in vitro gastrointestinal
+simulation conditions, we evaluated the capacity of endophytic bacteria that
+inhabit root vegetables, potato (Solanum tuberosum), carrot (Daucus sativus),
+beet (Beta vulgaris), and topinambur (Jerusalem artichoke) (Helianthus
+tuberosus), to resist these conditions and degrade gluten. By 16S rDNA
+sequencing, we discovered that bacteria from the families Enterobacteriaceae,
+Bacillaceae, and Clostridiaceae most effectively multiply in conditions similar
+to the human GIT (microoxic conditions, 37 °C) while utilizing vegetable material
+and gluten as nutrients. Additionally, we used stomach simulation (1 h, pH 3) and
+intestinal simulation (1 h, bile salts 0.4%) treatments. The bacteria that
+survived this treatment retained the ability to degrade gluten epitopes but at
+lower levels. Four bacterial strains belonging to species Bacillus pumilus,
+Clostridium subterminale, and Clostridium sporogenes isolated from vegetable
+roots produced proteases with postproline cleaving activity that successfully
+neutralized the toxic immunogenic epitopes. KEY POINTS: • Bacteria from root
+vegetables can degrade gluten. • Some of these bacteria can resist conditions
+mimicking gastrointestinal tract.
+
+DOI: 10.1007/s00253-020-10852-0 
+PMID: 32875365 
+

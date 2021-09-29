@@ -1,0 +1,51 @@
+
+1. Microorganisms. 2020 Aug 14;8(8). pii: E1239. doi: 10.3390/microorganisms8081239.
+
+EMS-Induced Mutagenesis of Clostridium carboxidivorans for Increased Atmospheric 
+CO2 Reduction Efficiency and Solvent Production.
+
+Lakhssassi N(1)(2), Baharlouei A(1), Meksem J(3), Hamilton-Brehm SD(4), Lightfoot
+DA(2), Meksem K(2), Liang Y(1)(5).
+
+Author information: 
+(1)Department of Civil and Environmental Engineering, 1230 Lincoln Drive,
+Southern Illinois University Carbondale, Carbondale, IL 62901, USA.
+(2)Department of Plant, Soil, and Agricultural Systems, Southern Illinois
+University, Carbondale, IL 62901, USA.
+(3)Trinity College of Arts and Sciences, Duke University, Durham, NC 27708, USA.
+(4)Department of Microbiology, Southern Illinois University, Carbondale, IL
+62901, USA.
+(5)Department of Environmental and Sustainable Engineering, 1400 Washington Ave, 
+State University of New York at Albany, Albany, NY 12222, USA.
+
+Clostridium carboxidivorans (P7) is one of the most important solvent-producing
+bacteria capable of fermenting syngas (CO, CO2, and H2) to produce chemical
+commodities when grown as an autotroph. This study aimed to develop ethyl
+methanesulfonate (EMS)-induced P7 mutants that were capable of growing in the
+presence of CO2 as a unique source of carbon with increased solvent formation and
+atmospheric CO2 reduction to limit global warming. Phenotypic analysis including 
+growth and end product characterization of the P7 wild type (WT) demonstrated
+that this strain grew better at 25 °C than 37 °C when CO2 served as the only
+source of carbon. In the current study, 55 mutagenized P7-EMS mutants were
+developed by using 100 mM and 120 mM EMS. Interestingly, using a forward genetic 
+approach, three out of the 55 P7-EMS mutants showed a significant increase in
+ethanol, butyrate, and butanol production. The three P7-EMS mutants presented on 
+average a 4.68-fold increase in concentrations of ethanol when compared to the
+P7-WT. Butyric acid production from 3 P7-EMS mutants contained an average of a
+3.85 fold increase over the levels observed in the P7-WT cultures under the same 
+conditions (CO2 only). In addition, one P7-EMS mutant presented butanol
+production (0.23 ± 0.02 g/L), which was absent from the P7-WT under CO2
+conditions. Most of the P7-EMS mutants showed stability of the obtained end
+product traits after three transfers. Most importantly, the amount of reduced
+atmospheric CO2 increased up to 8.72 times (0.21 g/Abs) for ethanol production
+and up to 8.73 times higher (0.16 g/Abs) for butyrate than the levels contained
+in the P7-WT. Additionally, to produce butanol, the P7-EMSIII-J mutant presented 
+0.082 g/Abs of CO2 reduction. This study demonstrated the feasibility and
+effectiveness of employing EMS mutagenesis in generating solvent-producing
+anaerobic bacteria mutants with improved and novel product formation and
+increased atmospheric CO2 reduction efficiency.
+
+DOI: 10.3390/microorganisms8081239 
+PMCID: PMC7464951
+PMID: 32824093 
+

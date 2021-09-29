@@ -1,0 +1,55 @@
+
+1. Arch Gynecol Obstet. 2020 Sep;302(3):569-578. doi: 10.1007/s00404-020-05675-3.
+Epub 2020 Jul 8.
+
+The association between vaginal microbiota and female infertility: a systematic
+review and meta-analysis.
+
+Hong X(1), Ma J(1), Yin J(1), Fang S(2), Geng J(1), Zhao H(1), Zhu M(1), Ye M(1),
+Zhu X(1), Xuan Y(1), Wang B(3).
+
+Author information: 
+(1)Key Laboratory of Environmental Medicine and Engineering of Ministry of
+Education, Department of Epidemiology and Health Statistics, School of Public
+Health, Southeast University, No. 87 dingjiaqiao road, gulou district, Nanjing,
+210009, Jiangsu, China.
+(2)Mount Sinai Health System, New York, NY, USA.
+(3)Key Laboratory of Environmental Medicine and Engineering of Ministry of
+Education, Department of Epidemiology and Health Statistics, School of Public
+Health, Southeast University, No. 87 dingjiaqiao road, gulou district, Nanjing,
+210009, Jiangsu, China. wangbeilxb@163.com.
+
+PURPOSE: This study aimed to explore the association between vaginal microbiota
+and infertility.
+METHODS: We searched a range of electronic databases for appropriate articles,
+including PubMed, Web of Science, Embase, Chinese National Knowledge
+Infrastructure (CNKI), and Wanfang, from inception to 8th September 2019.
+Identified articles were then screened using strict inclusion and exclusion
+criteria. By referring to Tamarelle's method, we divided vaginal microbiota into 
+two categories: low-Lactobacillus vaginal microbiota (LL-VMB) and
+high-Lactobacillus vaginal microbiota (HL-VMB). Patients were defined as HL-VMB
+if they had a Nugent score of 0-3, a negative Amesel/Spiegel's test, or if the
+vaginal community status was dominated by either L. crispatus, L. iners, L.
+gasseri and L. jensenii via 16S rRNA sequencing. Otherwise, cases were regarded
+as LL-VMB. Statistical analyses were performed with STATA 13.0 statistical
+software. Effect estimates are presented as odds ratios (ORs) with 95% confidence
+intervals (CIs).
+RESULTS: Fifteen articles were included in our final analysis. The HL-VMB was
+negatively related to infertility; a fixed model showed that the pooled OR was
+0.83 (95% CI 0.77-0.90). There was no significant publication bias, as determined
+by Begg's test (P = 0.488) and Egger's test (P = 0.652). Using a random effect
+model, the pooled OR for intermediate bacterial vaginitis (BV) and infertility
+was 1.39 (95% CI 1.10-1.76) and the pooled OR for positive BV was 1.72 (95% CI
+1.10-2.69). Subgroup and sensitivity analyses further demonstrated that the
+associations identified were stable. However, the acquired evidence was not
+sufficient to make inferences with regards to the mechanisms underlying these
+relationships.
+CONCLUSION: This systematic review and meta-analysis identified a negative
+correlation between HL-VMB and female infertility. However, due to a variety of
+limitations, the evidence acquired does not allow us to identify the specific
+mechanisms underlying this association. Further high-quality studies are needed
+to verify the causal relationship and explore the molecular mechanisms involved.
+
+DOI: 10.1007/s00404-020-05675-3 
+PMID: 32638096  [Indexed for MEDLINE]
+

@@ -1,0 +1,41 @@
+
+1. FEMS Microbiol Lett. 2020 Jul 1;367(14). pii: fnaa109. doi:
+10.1093/femsle/fnaa109.
+
+AcGI1, a novel genomic island carrying antibiotic resistance integron In687 in
+multidrug resistant Achromobacter xylosoxidans in a teaching hospital in
+Thailand.
+
+Pongchaikul P(1)(2), Santanirand P(3), Antonyuk S(4), Winstanley C(2), Darby
+AC(4).
+
+Author information: 
+(1)Chakri Naruebodindra Medical Institute, Faculty of Medicine Ramathibodi
+Hospital, Mahidol University, Bang Phli, Samut Prakan 10540, Thailand.
+(2)Institute of Infection and Global Health, University of Liverpool, Liverpool
+L69 3BE, UK.
+(3)Department of Pathology, Faculty of Medicine Ramathibodi Hospital, Mahidol
+University, Rama VI Road, Bangkok 10400, Thailand.
+(4)Institute of Integrative Biology, University of Liverpool, Liverpool L69 7ZB, 
+UK.
+
+This study investigated the genetic basis of multidrug resistance in two strains 
+of Achromobacter xylosoxidans isolated from patients attending a hospital in
+Thailand in 2012. These isolates were highly resistant to cephalosporins,
+aminoglycosides, fluoroquinolones, co-trimoxazole and carbapenems. Whole genome
+sequencing revealed that the two isolates were not clonally related and
+identified a carbapenem resistance gene-habouring integron (In687), residing in a
+novel genomic island, AcGI1. This In687 shares 100% identical nucleotide sequence
+with ones found in Acinetobacter baumannii Aci 16, isolated from the same
+hospital in 2007. We report the first analysis of multidrug-resistant A.
+xylosoxidans isolated in Thailand, and the first example of this island in A.
+xylosoxidans. Our data support the idea that resistance has spread in Thailand
+via horizontal gene transfer between species and suggest the possibility of A.
+xylosoxidans may serve as a reservoir of antibiotic resistance, especially in
+hospital setting.
+
+© FEMS 2020.
+
+DOI: 10.1093/femsle/fnaa109 
+PMID: 32592387 
+

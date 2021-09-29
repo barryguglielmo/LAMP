@@ -1,0 +1,67 @@
+
+1. Adv Appl Microbiol. 2020;113:1-56. doi: 10.1016/bs.aambs.2020.07.001. Epub 2020
+Aug 14.
+
+Gaps in the assortment of rapid assays for microorganisms of interest to the
+dairy industry.
+
+O'Grady J(1), Cronin U(2), Tierney J(3), Piterina AV(1), O'Meara E(4), Wilkinson 
+MG(4).
+
+Author information: 
+(1)Dairy Processing Technology Centre, University of Limerick, Limerick, Ireland.
+(2)Department of Biological Sciences, University of Limerick, Limerick, Ireland. 
+Electronic address: ultan.cronin@ul.ie.
+(3)Glanbia Ingredients Ireland, Ballyragget, Co. Kilkenny, Ireland.
+(4)Department of Biological Sciences, University of Limerick, Limerick, Ireland.
+
+This review presents the results of a study into the offering of rapid microbial 
+detection assays to the Irish dairy industry. At the outset, a consultation
+process was undertaken whereby key stakeholders were asked to compile a list of
+the key microorganisms of interest to the sector. The resultant list comprises 19
+organisms/groups of organisms divided into five categories: single pathogenic
+species (Cronobacter sakazakii, Escherichia coli and Listeria monocytogenes);
+genera containing pathogenic species (Bacillus, Clostridium, Listeria,
+Salmonella; Staphylococcus); broad taxonomic groupings (Coliforms,
+Enterobacteriaceae, fecal Streptococci, sulfite reducing bacteria/sulfite
+reducing Clostridia [SRBs/SRCs], yeasts and molds); organisms displaying certain 
+growth preferences or resistance as regards temperature (endospores,
+psychrotrophs, thermodurics, thermophiles); indicators of quality (total plate
+count, Pseudomonas spp.). A survey of the rapid assays commercially available for
+the 19 organisms/groups of organisms was conducted. A wide disparity between the 
+number of rapid tests available was found. Four categories were used to summarize
+the availability of rapid assays per organism/group of organisms: high coverage
+(>15 assays available); medium coverage (5-15 assays available); low coverage (<5
+assays available); no coverage (0 assays available). Generally, species or genera
+containing pathogens, whose presence is regulated-for, tend to have a good
+selection of commercially available rapid assays for their detection, whereas
+groups composed of heterogenous or even undefined genera of mainly spoilage
+organisms tend to be "low coverage" or "no coverage." Organisms/groups of
+organisms with "low coverage" by rapid assays include: Clostridium spp.; fecal
+Streptococci; and Pseudomonas spp. Those with "no coverage" by rapid assays
+include: endospores; psychrotrophs; SRB/SRCs; thermodurics; and thermophiles. An 
+important question is: why have manufacturers of rapid microbiological assays
+failed to respond to the necessity for rapid methods for these organisms/groups
+of organisms? The review offers explanations, ranging from the technical
+difficulty involved in detecting as broad a group as the thermodurics, which
+covers the spores of multiple sporeforming genera as well at least six genera of 
+mesophilic nonsporeformers, to the taxonomically controversial issue as to what
+constitutes a fecal Streptococcus or SRBs/SRCs. We review two problematic areas
+for assay developers: validation/certification and the nature of dairy food
+matrices. Development and implementation of rapid alternative test methods for
+the dairy industry is influenced by regulations relating to both the
+microbiological quality standards and the criteria alternative methods must meet 
+to qualify as acceptable test methods. However, the gap between the certification
+of developer's test systems as valid alternative methods in only a handful of
+representative matrices, and the requirement of dairy industries to verify the
+performance of alternative test systems in an extensive and diverse range of
+dairy matrices needs to be bridged before alternative methods can be widely
+accepted and adopted in the dairy industry. This study concludes that many
+important dairy matrices have effectively been ignored by assay developers.
+
+© 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/bs.aambs.2020.07.001 
+PMCID: PMC7426214
+PMID: 32948264 
+

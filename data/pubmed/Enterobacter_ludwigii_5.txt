@@ -1,0 +1,32 @@
+
+1. Microorganisms. 2020 Apr 5;8(4). pii: E522. doi: 10.3390/microorganisms8040522.
+
+Draft Genome Sequence of the Urinary Catheter Isolate Enterobacter ludwigii CEB04
+with High Biofilm Forming Capacity.
+
+Shafeeq S(1), Wang X(1), Lünsdorf H(2), Brauner A(1)(3), Römling U(1).
+
+Author information: 
+(1)Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet,
+SE-171 65 Stockholm, Sweden.
+(2)Helmholtz Center for Infection Research, DE-38124 Braunschweig, Germany.
+(3)Clinical Microbiology, Karolinska University Hospital, SE-171 76 Stockholm,
+Sweden.
+
+: Enterobacter ludwigii is a fermentative Gram-negative environmental species and
+accidental human pathogen that belongs to the Enterobacter cloacae complex with
+the general characteristics of the genus Enterobacter. The clinical isolate E.
+ludwigii CEB04 was derived from a urinary tract catheter of an individual not
+suffering from catheter-associated urinary tract infection. The draft genome
+sequence of the high biofilm forming E. ludwigii CEB04 was determined by PacBio
+sequencing. The chromosome of E. ludwigii CEB04 is comprised of one contig of
+4,892,375 bps containing 4596 predicted protein-coding genes and 120 noncoding
+RNAs. E. ludwigii CEB04 harbors several antimicrobial resistance markers and has 
+an extended cyclic-di-GMP signaling network compared to Escherichia coli K-12.
+
+DOI: 10.3390/microorganisms8040522 
+PMCID: PMC7232144
+PMID: 32260576 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

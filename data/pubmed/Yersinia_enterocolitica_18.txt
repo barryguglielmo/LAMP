@@ -1,0 +1,40 @@
+
+1. Virus Evol. 2020 Jun 22;6(1):veaa030. doi: 10.1093/ve/veaa030. eCollection 2020
+Jan.
+
+UPΦ phages, a new group of filamentous phages found in several members of
+Enterobacteriales.
+
+Shapiro JW(1), Putonti C(1)(2)(3)(4).
+
+Author information: 
+(1)Department of Biology, Loyola University Chicago, 1032 W Sheridan Rd, Chicago,
+IL 60660, USA.
+(2)Department of Computer Science, Loyola University Chicago, 1052 W Loyola Ave, 
+Chicago, IL, 60626, USA.
+(3)Bioinformatics Program, Loyola University Chicago, 1052 W Loyola Ave, Chicago,
+IL 60626, USA.
+(4)Department of Microbiology and Immunology, Stritch School of Medicine, Loyola 
+University Chicago, 2160 S First Ave, Maywood, IL 60153, USA.
+
+Filamentous phages establish chronic infections in their bacterial hosts, and new
+phages are secreted by infected bacteria for multiple generations, typically
+without causing host death. Often, these viruses integrate in their host's genome
+by co-opting the host's XerCD recombinase system. In several cases, these viruses
+also encode genes that increase bacterial virulence in plants and animals. Here, 
+we describe a new filamentous phage, UPϕ901, which we originally found integrated
+in a clinical isolate of Escherichia coli from urine. UPϕ901 and closely related 
+phages can be found in published genomes of over 200 other bacteria, including
+strains of Citrobacter koseri, Salmonella enterica, Yersinia enterocolitica, and 
+Klebsiella pneumoniae. Its closest relatives are consistently found in urine or
+in the blood and feces of patients with urinary tract infections. More distant
+relatives can be found in isolates from other environments, including sewage,
+water, soil, and contaminated food. Each of these phages, which we collectively
+call 'UPϕ viruses', also harbors two or more novel genes of unknown function.
+
+© The Author(s) 2020. Published by Oxford University Press.
+
+DOI: 10.1093/ve/veaa030 
+PMCID: PMC7307601
+PMID: 32607251 
+

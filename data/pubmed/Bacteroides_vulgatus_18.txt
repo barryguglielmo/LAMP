@@ -1,0 +1,90 @@
+
+1. Cell Host Microbe. 2020 May 13;27(5):830-840.e4. doi: 10.1016/j.chom.2020.03.001.
+Epub 2020 Mar 24.
+
+Rewilding Nod2 and Atg16l1 Mutant Mice Uncovers Genetic and Environmental
+Contributions to Microbial Responses and Immune Cell Composition.
+
+Lin JD(1), Devlin JC(2), Yeung F(3), McCauley C(4), Leung JM(5), Chen YH(6),
+Cronkite A(7), Hansen C(5), Drake-Dunn C(6), Ruggles KV(8), Cadwell K(9), Graham 
+AL(10), Loke P(11).
+
+Author information: 
+(1)Department of Microbiology, NYU Grossman School of Medicine, New York
+University School of Medicine, New York, NY 10016, USA; Laboratory of Parasitic
+Diseases, National Institute of Allergy and Infectious Diseases, National
+Institutes of Health, Bethesda, MD 20892, USA.
+(2)Department of Microbiology, NYU Grossman School of Medicine, New York
+University School of Medicine, New York, NY 10016, USA; Sackler Institute of
+Graduate Biomedical Sciences, NYU Grossman School of Medicine, New York
+University, New York, NY 10016, USA; Institute of Systems Genetics, NYU Grossman 
+School of Medicine, New York University School of Medicine, New York, NY 10016,
+USA.
+(3)Sackler Institute of Graduate Biomedical Sciences, NYU Grossman School of
+Medicine, New York University, New York, NY 10016, USA; Kimmel Center for Biology
+and Medicine at the Skirball Institute, NYU Grossman School of Medicine, New York
+University School of Medicine, New York, NY 10016, USA.
+(4)Department of Microbiology, NYU Grossman School of Medicine, New York
+University School of Medicine, New York, NY 10016, USA.
+(5)Department of Ecology and Evolutionary Biology, Princeton University,
+Princeton, NJ 08544, USA.
+(6)Kimmel Center for Biology and Medicine at the Skirball Institute, NYU Grossman
+School of Medicine, New York University School of Medicine, New York, NY 10016,
+USA.
+(7)Department of Microbiology, NYU Grossman School of Medicine, New York
+University School of Medicine, New York, NY 10016, USA; Kimmel Center for Biology
+and Medicine at the Skirball Institute, NYU Grossman School of Medicine, New York
+University School of Medicine, New York, NY 10016, USA.
+(8)Division of Translational Medicine, Department of Medicine, NYU Grossman
+School of Medicine, New York University School of Medicine, New York, NY 10016,
+USA; Institute of Systems Genetics, NYU Grossman School of Medicine, New York
+University School of Medicine, New York, NY 10016, USA.
+(9)Department of Microbiology, NYU Grossman School of Medicine, New York
+University School of Medicine, New York, NY 10016, USA; Kimmel Center for Biology
+and Medicine at the Skirball Institute, NYU Grossman School of Medicine, New York
+University School of Medicine, New York, NY 10016, USA; Division of
+Gastroenterology and Hepatology, Department of Medicine, New York University
+Langone Health, New York, NY 10016, USA. Electronic address:
+Ken.Cadwell@med.nyu.edu.
+(10)Department of Ecology and Evolutionary Biology, Princeton University,
+Princeton, NJ 08544, USA. Electronic address: algraham@princeton.edu.
+(11)Department of Microbiology, NYU Grossman School of Medicine, New York
+University School of Medicine, New York, NY 10016, USA; Laboratory of Parasitic
+Diseases, National Institute of Allergy and Infectious Diseases, National
+Institutes of Health, Bethesda, MD 20892, USA. Electronic address:
+Png.Loke@nih.gov.
+
+Comment in
+    Cell Host Microbe. 2020 May 13;27(5):687-688.
+
+Comment on
+    Cell Host Microbe. 2020 May 13;27(5):809-822.e6.
+
+The relative contributions of genetic and environmental factors to variation in
+immune responses are poorly understood. Here, we performed a phenotypic analysis 
+of immunological parameters in laboratory mice carrying susceptibility genes
+implicated in inflammatory bowel disease (IBD) (Nod2 and Atg16l1) upon exposure
+to environmental microbes. Mice were released into an outdoor enclosure
+(rewilded) and then profiled for immune responses in the blood and lymph nodes.
+Variations of immune cell populations were largely driven by the environment,
+whereas cytokine production elicited by microbial antigens was more affected by
+the genetic mutations. We identified transcriptional signatures in the lymph
+nodes associated with differences in T cell populations. Subnetworks associated
+with responses against Clostridium perfringens, Candida albicans, and Bacteroides
+vulgatus were also coupled with rewilding. Therefore, exposing laboratory mice
+with genetic mutations to a natural environment uncovers different contributions 
+to variations in microbial responses and immune cell composition.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.chom.2020.03.001 
+PMCID: PMC7228860 [Available on 2021-05-13]
+PMID: 32209431  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests K.C. receives research
+funding from Pfizer and Abbvie, and P.L. receives research funding from Pfizer.
+K.C. has consulted for or received an honorarium from Puretech Health, Genentech,
+and Abbvie. P.L. consults for and has equity in Toilabs. K.C. has a provisional
+patent, U.S. Patent Appln. No. 15/625,934. P.L. is a federal employee. All other 
+authors declare no competing interests.
+

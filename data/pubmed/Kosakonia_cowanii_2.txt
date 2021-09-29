@@ -1,0 +1,40 @@
+
+1. FEMS Microbiol Lett. 2020 May 1;367(9). pii: fnaa067. doi:
+10.1093/femsle/fnaa067.
+
+Isolation and characterization of the novel oil-degrading strain Kosakonia
+cowanii IUMR B67 and expression of the degradation enzyme.
+
+Ren J(1)(2), Wang Z(1)(2), Niu D(1)(2), Huang X(1), Fan B(3), Li C(1)(2).
+
+Author information: 
+(1)Institute of Urban and Rural Mining, Changzhou University, No. 21 Gehu Road,
+Wujin District, Changzhou 213164, China.
+(2)National-Local Joint Engineering Research Center for Biomass Refining and
+High-Quality Utilization, Changzhou University, No. 21 Gehu Road, Wujin District,
+Changzhou 213164, China.
+(3)School of Pharmaceutical Engineering and Life Science, Changzhou University,
+No. 21 Gehu Road, Wujin District, Changzhou 213164, China.
+
+Oils in food waste can pollute the environment and negatively affect human
+health. Biodegradation is a promising method for disposing of waste edible oils. 
+In this study, an oil-degrading bacterium was isolated from kitchen waste for
+efficient degradation of edible oils. Its growth and oil degradation
+characteristics were investigated in basic salt medium with edible oils as the
+sole carbon and energy source; the triacylglycerol lipase gene (EC 3.1.1.3) was
+cloned and expressed in Escherichia coli. A novel oil-degrading bacterium
+assigned as IUMR B67 was successfully isolated. Morphological and molecular
+analyses revealed that strain IUMR B67 belongs to Kosakonia cowanii. After 144 h 
+of incubation, the oil degradation rate at 37°C was 95.80%. Optimal conditions
+for IUMR B67 were recorded at 37°C and 0.1% NaCl with 0.1% ammonium sulfate
+supplementation. The lipase gene of strain IUMR B67 was determined to be 912 base
+pairs, and the lipase activity of the expressed protein was 3.02 U/mL, which was 
+significantly higher than the control (P < 0.05). Overall, Kosakonia cowanii IUMR
+B67 is a novel edible oil-degrading strain that can hydrolyze oil via its lipase 
+activity, which may be useful in the disposal of oils and oily food waste.
+
+© FEMS 2020.
+
+DOI: 10.1093/femsle/fnaa067 
+PMID: 32301994 
+

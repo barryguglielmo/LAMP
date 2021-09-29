@@ -1,0 +1,49 @@
+
+1. Vet Sci. 2020 Aug 29;7(3). pii: E121. doi: 10.3390/vetsci7030121.
+
+Effects of Lactobacillus Fermentum Supplementation on Body Weight and
+Pro-Inflammatory Cytokine Expression in Campylobacter Jejuni-Challenged Chickens.
+
+Šefcová M(1), Larrea-Álvarez M(2), Larrea-Álvarez C(3), Revajová V(1), Karaffová 
+V(1), Koščová J(4), Nemcová R(4), Ortega-Paredes D(3)(5), Vinueza-Burgos C(5),
+Levkut M(1)(6), Herich R(1).
+
+Author information: 
+(1)Department of Pathological Anatomy and Pathological Physiology, University of 
+Veterinary Medicine and Pharmacy, Komenského 73, 040 01 Košice, Slovakia.
+(2)School of Biological Sciences and Engineering, Yachay-Tech University Hacienda
+San José, Imbabura, Urcuquí 100650, Ecuador.
+(3)Research Unit, Life Science Initiative (LSI), lsi-ec.com, Quito 170102,
+Ecuador.
+(4)Department of Microbiology and Immunology, University of Veterinary Medicine
+and Pharmacy, Komenského 73, 040 01 Košice, Slovakia.
+(5)Facultad de Medicina Veterinaria y Zootecnia, Unidad de Investigación en
+Enfermedades Transmitidas por Alimentos y Resistencia a los Antimicrobianos
+(UNIETAR), Universidad Central del Ecuador, Quito 170129, Ecuador.
+(6)Institute of Neuroimmunology, Slovak Academy of Science, Dúbravská cesta
+5779/9, 84510 Bratislava, Slovakia.
+
+Due to the interest in using probiotic bacteria in poultry production, this
+research was focused on evaluating the effects of Lactobacillus fermentum
+Biocenol CCM 7514 administration on body weight gain and cytokine gene expression
+in chickens challenged with Campylobacter jejuni. One-hundred and eight 1-day old
+COBB 500 broiler chickens were equally assigned to four experimental groups at
+random. In the control group (C) chicks were left untreated, whereas in groups LB
+and LBCj a suspension of L. fermentum was administered. A suspension of C. jejuni
+was subsequently applied to groups Cj and LBCj. Body weight was registered, and
+the individuals were later slaughtered; cecum samples were collected at 12, 36
+and 48 h post-infection (hpi). The entire experiment lasted seven days. Reverse
+transcription quantitative PCR (RT-qPCR) was used to determine expression levels 
+of IL-1β, IL-15, IL-17, and IL-18 at each time point. Pathogen-infected
+individuals were observed to weigh significantly less than those fed with the
+probiotic. Significant differences were also found in transcript abundance;
+expression of IL-15 was downregulated by the probiotic and upregulated by C.
+jejuni. The effects of bacterial treatments were time-dependent, as the
+expression profiles differed at later stages. The present outcomes demonstrate
+that L. fermentum both reduces the impact of C. jejuni infection on chicken body 
+weight and regulates positively pro-inflammatory cytokine expression, which
+ultimately increase bird well-being and improves production.
+
+DOI: 10.3390/vetsci7030121 
+PMID: 32872452 
+

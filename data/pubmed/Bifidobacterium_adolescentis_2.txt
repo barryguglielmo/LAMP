@@ -1,0 +1,48 @@
+
+1. Front Oncol. 2020 Aug 12;10:1418. doi: 10.3389/fonc.2020.01418. eCollection 2020.
+
+Bacterial Alterations in Post-Cholecystectomy Patients Are Associated With
+Colorectal Cancer.
+
+Ren X(1)(2), Xu J(1)(2)(3), Zhang Y(1)(2), Chen G(1)(2), Zhang Y(1)(2), Huang
+Q(1)(2), Liu Y(1)(2).
+
+Author information: 
+(1)Department of Gastroenterology, Peking University People's Hospital, Beijing, 
+China.
+(2)Clinical Center of Immune-Mediated Digestive Diseases, Peking University
+People's Hospital, Beijing, China.
+(3)Institute of Clinical Molecular Biology & Central Laboratory, Peking
+University People's Hospital, Beijing, China.
+
+Background: Although increasing evidences showed a correlation between
+cholecystectomy and the prevalence rate of colorectal cancer (CRC), and shed
+light on gut microbiota in colorectal pathogenesis, only a few studies focused on
+microbial alterations after cholecystectomy, and its sequent role in
+carcinogenesis and progression of CRC has not been reported. Thus, we aimed to
+investigate the bacterial alterations and tried to clarify their clinical
+significance. Methods: 104 subjects were enrolled and divided into
+post-cholecystectomy patients (PC, n = 52) and healthy controls (HC, n = 52). To 
+investigate the bacterial role in carcinogenesis, PC patients were further
+separated into preCA_CRC (patients with precancerous lesions and/or CRC, n = 9)
+and non-CA (patients without precancerous lesions and CRC, n = 43) based on the
+histopathology. Qualified stool samples were collected for 16S rRNA gene
+sequencing to analyze the bacterial profile. Results: Our data showed noteworthy 
+compositional and abundant alterations of bacterial microbiota in PC patients,
+characterized as Bacteroides ovatus, Prevotella copri, and Fusobacterium varium
+remarkably increased; Faecalibacterium prausnitzii, Roseburia faecis, and
+Bifidobacterium adolescentis significantly decreased. Additionally, the duration 
+after cholecystectomy was the critical factor that affected bacterial
+composition. Machine learning-based analysis showed a pivotal role of Megamonas
+funiformis in discriminating PC from HC subjects and involving in the progression
+of CRC. Conclusions: The bacterial dysbiosis may associate with CRC in PC
+patients, and the duration after cholecystectomy was highlighted as an important 
+factor. Altered bacterial microbiota was likely to play a pivotal role in
+related-disease in the long-term follow-up of PC patients.
+
+Copyright © 2020 Ren, Xu, Zhang, Chen, Zhang, Huang and Liu.
+
+DOI: 10.3389/fonc.2020.01418 
+PMCID: PMC7434860
+PMID: 32903396 
+

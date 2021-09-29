@@ -1,0 +1,56 @@
+
+1. Allergy Asthma Proc. 2020 Sep 1;41(5):372-385. doi: 10.2500/aap.2020.41.200064.
+
+Treg-inducing capacity of genomic DNA of Bifidobacterium longum subsp. infantis.
+
+Li D(1), Cheng J(1), Zhu Z(1), Catalfamo M(1), Goerlitz D(2), Lawless OJ(3),
+Tallon L(4), Sadzewicz L(4), Calderone R(1), Bellanti JA(1).
+
+Author information: 
+(1)From the Department of Microbiology-Immunology, Georgetown University Medical 
+Center, Washington, D.C.
+(2)Genomics and Epigenomics Shared Resource, Lombardi Comprehensive Cancer
+Center, Georgetown University, Washington, D.C.
+(3)Department of Pediatrics, Georgetown University Medical Center, Washington,
+D.C.; and.
+(4)Genomic Resource Center, University of Maryland School of Medicine, Baltimore,
+Maryland.
+
+Background: Allergic and autoimmune diseases comprise a group of inflammatory
+disorders caused by aberrant immune responses in which CD25+ forkhead box
+P3-positive regulatory T cells (Treg) cells that normally suppress inflammatory
+events are often poorly functioning. This has stimulated an intensive
+investigative effort to find ways of increasing Tregs as a method of therapy for 
+these conditions. Commensal microbiota known to have health benefits in humans
+include the lactic acid-producing, probiotic bacteria B. longum subsp. infantis
+and Lactobacillus rhamnosus. Mechanistically, several mechanisms have been
+proposed to explain how probiotics may favorably affect host immunity, including 
+the induction of Tregs. Analysis of emerging data from several laboratories,
+including our own, suggest that DNA methylation may be an important determinant
+of immune reactivity responsible for Treg induction. Although methylated CpG
+moieties in normal mammalian DNA are both noninflammatory and lack
+immunogenicity, unmethylated CpGs, found largely in microbial DNA, are
+immunostimulatory and display proinflammatory properties. Objective: We
+hypothesize that microbiota with more DNA methylation may potentiate Treg
+induction to a greater degree than microbiota with a lower content of
+methylation. The purpose of the present study was to test this hypothesis by
+studying the methylation status of whole genomic DNA (gDNA) and the Treg-inducing
+capacity of purified gDNA in each of the probiotic bacteria B. longum subsp.
+infantis and L. rhamnosus, and a pathogenic Escherichia coli strain B. Results:
+We showed that gDNA from B. longum subsp. infantis is a potent Treg inducer that 
+displays a dose-dependent response pattern at a dose threshold of 20 µg of gDNA. 
+No similar Treg-inducing responses were observed with the gDNA from L. rhamnosus 
+or E. coli. We identified a unique CpG methylated motif in the gDNA sequencing of
+B. longum subsp. infantis which was not found in L. rhamnosus or E. coli strain
+B. Conclusion: Although the literature indicates that both B. longum subsp.
+infantis and L. rhamnosus strains contribute to health, our data suggest that
+they do so by different mechanisms. Further, because of its small molecular size,
+low cost, ease of synthesis, and unique Treg-inducing feature, this methylated
+CpG oligodeoxynucleotide (ODN) from B. longum would offer many attractive
+features for an ideal novel therapeutic vaccine candidate for the treatment of
+immunologic diseases, such as the allergic and autoimmune disorders, in which
+Treg populations are diminished.
+
+DOI: 10.2500/aap.2020.41.200064 
+PMID: 32867892 
+

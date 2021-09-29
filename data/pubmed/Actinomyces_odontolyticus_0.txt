@@ -1,0 +1,43 @@
+
+1. ISME J. 2020 Aug 24. doi: 10.1038/s41396-020-00736-6. [Epub ahead of print]
+
+The saccharibacterium TM7x elicits differential responses across its host range.
+
+Utter DR(1), He X(2)(3), Cavanaugh CM(1), McLean JS(4), Bor B(5)(6).
+
+Author information: 
+(1)Department of Organismic and Evolutionary Biology, Harvard University,
+Cambridge, MA, 02138, USA.
+(2)Department of Microbiology, The Forsyth Institute, Cambridge, MA, 02142, USA.
+(3)Department of Oral Medicine, Infection and Immunity, Harvard School of Dental 
+Medicine, Boston, MA, 02115, USA.
+(4)Department of Periodontics, University of Washington, Seattle, WA, 98119, USA.
+(5)Department of Microbiology, The Forsyth Institute, Cambridge, MA, 02142, USA. 
+bbor@forsyth.org.
+(6)Department of Oral Medicine, Infection and Immunity, Harvard School of Dental 
+Medicine, Boston, MA, 02115, USA. bbor@forsyth.org.
+
+Host range is a fundamental component of symbiotic interactions, yet it remains
+poorly characterized for the prevalent yet enigmatic subcategory of
+bacteria/bacteria symbioses. The recently characterized obligate bacterial
+epibiont Candidatus Nanosynbacter lyticus TM7x with its bacterial host
+Actinomyces odontolyticus XH001 offers an ideal system to study such a novel
+relationship. In this study, the host range of TM7x was investigated by
+coculturing TM7x with various related Actinomyces strains and characterizing
+their growth dynamics from initial infection through subsequent co-passages. Of
+the twenty-seven tested Actinomyces, thirteen strains, including XH001, could
+host TM7x, and further classified into "permissive" and "nonpermissive" based on 
+their varying initial responses to TM7x. Ten permissive strains exhibited
+growth/crash/recovery phases following TM7x infection, with crash timing and
+extent dependent on initial TM7x dosage. Meanwhile, three nonpermissive strains
+hosted TM7x without a growth-crash phase despite high TM7x dosage. The physical
+association of TM7x with all hosts, including nonpermissive strains, was
+confirmed by microscopy. Comparative genomic analyses revealed distinguishing
+genomic features between permissive and nonpermissive hosts. Our results expand
+the concept of host range beyond a binary to a wider spectrum, and the varying
+susceptibility of Actinomyces strains to TM7x underscores how small genetic
+differences between hosts can underly divergent selective trajectories.
+
+DOI: 10.1038/s41396-020-00736-6 
+PMID: 32839546 
+

@@ -1,0 +1,33 @@
+
+1. Biotechnol Lett. 2020 Sep;42(9):1735-1741. doi: 10.1007/s10529-020-02895-0. Epub 
+2020 Apr 27.
+
+Characterisation of a lysophospholipase from Lactobacillus mucosae.
+
+Kim SH(1), Song JH(1), Kim J(1), Kang DK(2).
+
+Author information: 
+(1)Department of Animal Resource Science, Dankook University, 119 Dandae-ro,
+Cheonan, 31116, Republic of Korea.
+(2)Department of Animal Resource Science, Dankook University, 119 Dandae-ro,
+Cheonan, 31116, Republic of Korea. dkkang@dankook.ac.kr.
+
+OBJECTIVE: In this study, we characterised a novel lysophospholipase (LysoPL)
+from the L. mucosae LM1 strain. The gene, LM-lysoPL, encoding LysoPL from L.
+mucosae LM1 was cloned, analyzed, and expressed.
+RESULTS: LM-lysoPL contained a conserved region and catalytic triad motif
+responsible for lysophospholipase activity. After purification, UHPLC-MS analysis
+showed that recombinant LM-LysoPL hydrolyzed phosphatidic acid, generating
+lysophosphatidic acid. The enzyme had greater hydrolytic activity against C16 and
+C18 fatty acids, indicating a preference for long-chain fatty acids. Enzymatic
+assays showed that the optimal pH and temperature of recombinant LM-LysoPL were 7
+and 30 °C, respectively, and it was enzymatically active within a narrow pH
+range.
+CONCLUSIONS: To the best of our knowledge, this is the first study to identify
+and characterize a lysophospholipase from lactic acid bacteria. Our findings
+provide a basis for understanding the probiotic role of L. mucosae LM1 in the
+gut.
+
+DOI: 10.1007/s10529-020-02895-0 
+PMID: 32342437 
+

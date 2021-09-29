@@ -1,0 +1,53 @@
+
+1. Front Microbiol. 2019 Nov 21;10:2705. doi: 10.3389/fmicb.2019.02705. eCollection 
+2019.
+
+Screening of Host Specific Lactic Acid Bacteria Active Against Escherichia coli
+From Massive Sample Pools With a Combination of in vitro and ex vivo Methods.
+
+Ren H(1), Saliu EM(1), Zentek J(1), Goodarzi Boroojeni F(1), Vahjen W(1).
+
+Author information: 
+(1)Institute of Animal Nutrition, Freie Universität Berlin, Berlin, Germany.
+
+Erratum in
+    Front Microbiol. 2020 Mar 20;11:459.
+
+A novel three-step combination of in vitro and ex vivo screening was established 
+to massively screen host derived lactic acid bacteria (LAB) from the broiler
+chicken intestine with inhibitory activity against Escherichia coli. In a first
+step, a massive sample pool consisting of 7102 broiler-derived colonies from
+intestinal contents were established and sub-cultured. Supernatants thereof were 
+incubated with an E. coli model strain to screen suitable isolates with
+inhibitory activity. A total of 76 isolates of interest were subsequently further
+studied based on either pH dependent or -independent activity in the second step 
+of the assay. Here, in-depth growth inhibition of the E. coli model strain and
+the potential of isolates for lactic acid production as inhibitory substance were
+indexed for all isolates. Resulting scatter plots of both parameters revealed
+five isolates with exceptional inhibitory activity that were further studied
+under ex vivo condition in the third step of the assay. These isolates were
+taxonomically classified as strains of the species Lactobacillus agilis,
+Lactobacillus salivarius, and Pediococcus acidilactici. Samples from the broiler 
+chicken intestine were inoculated with the Lactobacillus isolates and the E. coli
+model strain. After 8 and 24 h incubation, respectively, growth of the E. coli
+model strain was monitored by cultivation of the E. coli strain in antibiotic
+supplemented medium. By their superior inhibitory activity against the E. coli
+model strain, one L. agilis and one L. salivarius strain were selected and
+characterized for further application as probiotics in broiler chicken.
+Additionally, their antibiotic resistance patterns and resilience under gastric
+stress of isolates were also characterized. The results of this study demonstrate
+that the novel isolation procedure was able to efficiently and rapidly isolate
+and identify bacterial strains from a massive sample pool with inhibitory
+potential against specific types of bacteria (here E. coli). The introduction of 
+the final ex vivo selection step additionally confirmed the inhibitory activity
+of the strains under conditions simulating the intestinal tract of the host.
+Furthermore, this method revealed a general potential for the isolation of
+antagonistic strains that active against other pathogenic bacteria with specific 
+biomarker.
+
+Copyright © 2019 Ren, Saliu, Zentek, Goodarzi Boroojeni and Vahjen.
+
+DOI: 10.3389/fmicb.2019.02705 
+PMCID: PMC6882376
+PMID: 31824469 
+

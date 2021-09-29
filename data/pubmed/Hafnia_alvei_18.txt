@@ -1,0 +1,53 @@
+
+1. Front Bioeng Biotechnol. 2019 Oct 9;7:239. doi: 10.3389/fbioe.2019.00239.
+eCollection 2019.
+
+Investigation of the Antibacterial Activity and in vivo Cytotoxicity of Biogenic 
+Silver Nanoparticles as Potent Therapeutics.
+
+Hossain MM(1), Polash SA(1), Takikawa M(2), Shubhra RD(1), Saha T(3), Islam Z(1),
+Hossain S(1), Hasan MA(4), Takeoka S(2), Sarker SR(1).
+
+Author information: 
+(1)Department of Biotechnology and Genetic Engineering, Jahangirnagar University,
+Dhaka, Bangladesh.
+(2)Department of Advanced Science and Engineering, Graduate School of Advanced
+Science and Engineering, Waseda University, Tokyo, Japan.
+(3)Department of Textile Engineering, Dhaka University of Engineering and
+Technology, Gazipur, Bangladesh.
+(4)Department of Biochemistry and Molecular Biology, Jahangirnagar University,
+Dhaka, Bangladesh.
+
+Biogenic nanoparticles are the smartest weapons to deal with the
+multidrug-resistant "superbugs" because of their broad-spectrum antibacterial
+propensity as well as excellent biocompatibility. The aqueous biogenic silver
+nanoparticles (Aq-bAgNPs) and ethanolic biogenic silver nanoparticles (Et-bAgNPs)
+were synthesized using aqueous and ethanolic extracts of Andrographis paniculata 
+stem, respectively, as reducing agents. Electron microscopic images confirmed the
+synthesis of almost spherical shaped biogenic silver nanoparticles (bAgNPs). The 
+zeta potentials of the nanoparticles were negative and were -22 and -26 mV for
+Aq-bAgNPs and Et-bAgNPs, respectively. The antibacterial activity of bAgNPs was
+investigated against seven pathogenic (i.e., enteropathogenic Escherichia coli,
+Salmonella typhi, Staphylococcus aureus, Vibrio cholerae, Enterococcus faecalis, 
+Hafnia alvei, Acinetobacter baumannii) and three nonpathogenic (i.e., E. coli
+DH5α, E. coli K12, and Bacillus subtilis) bacteria at different time points
+(i.e., 12, 16, 20, and 24 h) in a dose-dependent manner (i.e., 20, 40, and 60 μg)
+through broth dilution assay, disk diffusion assay, CellToxTM Green uptake assay,
+and trypan blue dye exclusion assay. The lowest minimum inhibitory concentration 
+value for both the bAgNPs was 0.125 μg. Et-bAgNPs showed the highest
+antibacterial activity against S. aureus at 60 μg after 16 h and the diameter of 
+inhibited zone was 28 mm. Lipid peroxidation assay using all the bacterial
+strains revealed the formation of malondialdehyde-thiobarbituric acid adduct due 
+to the oxidation of cell membrane fatty acids by bAgNPs. The bAgNPs showed
+excellent hemocompatibility against human as well as rat red blood cells.
+Furthermore, there was no significant toxicity observed when the levels of rat
+serum ALT, AST, γ-GT (i.e., liver function biomarkers), and creatinine (i.e.,
+kidney function biomarker) were determined.
+
+Copyright © 2019 Hossain, Polash, Takikawa, Shubhra, Saha, Islam, Hossain, Hasan,
+Takeoka and Sarker.
+
+DOI: 10.3389/fbioe.2019.00239 
+PMCID: PMC6794407
+PMID: 31649922 
+

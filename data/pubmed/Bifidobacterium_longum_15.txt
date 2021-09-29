@@ -1,0 +1,63 @@
+
+1. Appl Environ Microbiol. 2020 Aug 21. pii: AEM.01203-20. doi:
+10.1128/AEM.01203-20. [Epub ahead of print]
+
+Three Candidate Probiotic Strains Impact Gut Microbiota and Induce Anergy in Mice
+with Cow's Milk Allergy.
+
+Esber N(1), Mauras A(1), Delannoy J(1), Labellie C(1), Mayeur C(2), Caillaud
+MA(1), Kashima T(1), Souchaud L(1), Nicolis I(3), Kapel N(1)(4), Waligora-Dupriet
+AJ(5).
+
+Author information: 
+(1)UMR-S 1139, Université de Paris, INSERM,, F-75006, Paris, France.
+(2)Micalis Institute, AgroParisTech, INRAE, Université Paris-Saclay, 78350
+Jouy-en-Josas, France.
+(3)UR 7537 - BioSTM, Université de Paris, F-75006, Paris, France.
+(4)Department of Coprology, APHP Sorbonne Université, Pitie-Salpetriere Hospital,
+Paris, France.
+(5)UMR-S 1139, Université de Paris, INSERM,, F-75006, Paris, France
+anne-judith.waligora@u-paris.fr.
+
+Cow's milk allergy is a worldwide public health issue, especially since there is 
+no effective treatment, apart from milk and dairy product avoidance. The aim of
+this study was to assess the beneficial role of three probiotic strains
+previously selected for their prophylactic properties in a mouse model of
+β-lactoglobulin allergy. Administration of Lactobacillus rhamnosus LA305, L.
+salivarius LA307, or Bifidobacterium longum subsp. infantis LA308, for 3 weeks
+post-sensitization and challenge modified the composition of the gut microbiota
+with an increase in Prevotella NK3B31 and a decrease in Marvinbryantia, belonging
+to the Lachnospiraceae group. Although no impact on markers of sensitization was 
+detected, modifications of foxp3, tgfβ and il10 ileal gene expression as well as 
+plasma metobolomic alteration in the tryptophan pathway were observed. Moreover, 
+ex-vivo studies showed that all probiotic strains induced a significant decrease 
+in cytokine production by β-lactoglobulin-stimulated splenocytes. Altogether,
+these results suggest that the three probiotic strains tested lead to alterations
+in immune responses i.e. induction of a tolerogenic anergy and anti-inflammatory 
+responses. This anergy could be linked to cecal microbiota modifications although
+no impact on fecal SCFA concentration was detected. Anergy could also be linked
+to a direct impact of probiotic strains on dendritic cells as co-stimulatory
+molecule expression was decreased following their co-incubation with BMDCs. To
+conclude, all three candidate probiotic strains induced strain-specific gut
+microbiota and metabolic changes, which could potentially be beneficial for
+general health, as well as anergy that could contribute to oral tolerance
+acquisition.IMPORTANCE We previously showed that three probiotic strains i.e.
+Lactobacillus rhamnosus LA305, L. salivarius LA307, and Bifidobacterium longum
+subsp. infantis LA308 exerted different preventive effects in a mouse model of
+cow's milk allergy. In this study, we evaluated their potential benefits in a
+curative mouse model of cow's milk allergy. When administered for 3-weeks after
+the sensitization process and a first allergic reaction, none of the strains
+modified the levels of sensitization and allergic markers. However, all three
+strains affected gut bacteria communities and modified immune and inflammatory
+responses leading to a tolerogenic profile. Interestingly, all three strains
+exerted a direct effect on dendritic cells which are known to play a major role
+in food sensitization through their potentially tolerogenic properties and
+anergic responses. Altogether, these data indicate a potentially beneficial role 
+of the probiotic strains tested in this model of cow's milk allergy with regard
+to tolerance acquisition.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.01203-20 
+PMID: 32826221 
+

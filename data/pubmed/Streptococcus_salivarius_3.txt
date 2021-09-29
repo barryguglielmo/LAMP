@@ -1,0 +1,55 @@
+
+1. Ann Allergy Asthma Immunol. 2020 Sep 12. pii: S1081-1206(20)31006-1. doi:
+10.1016/j.anai.2020.09.007. [Epub ahead of print]
+
+Gender effects in the association between airway microbiome and asthma.
+
+Chen R(1), Wang L(2), Koch T(1), Curtis V(1), Yin-DeClue H(1), Handley SA(3),
+Shan L(1), Holtzman MJ(1), Castro M(4), Wang L(5).
+
+Author information: 
+(1)Department of Medicine, Washington University School of Medicine, St. Louis,
+MO, 63110 USA.
+(2)Department of Pathology and Immunology, Washington University School of
+Medicine, St. Louis, MO 63110, USA.
+(3)Department of Pathology and Immunology, Washington University School of
+Medicine, St. Louis, MO 63110, USA; Edison Family Center for Genome Sciences &
+Systems Biology, Washington University School of Medicine, St. Louis, MO 63110,
+USA.
+(4)Department of Internal Medicine, Division of Pulmonary, Critical Care and
+Sleep Medicine, University of Kansas School of Medicine, Kansas City, KS, 66160, 
+USA.
+(5)Department of Medicine, Washington University School of Medicine, St. Louis,
+MO, 63110 USA. Electronic address: Leyao.wang@wustl.edu.
+
+BACKGROUND: Gender differences are found in asthma susceptibility and severity.
+Accumulating evidence has linked airway microbiome dysbiosis with asthma and the 
+airway microbial communities are found to be different by gender. However,
+whether gender modifies the link between airway microbiome and asthma has not
+been investigated.
+OBJECTIVE: We aim to evaluate gender effects in the association between airway
+microbiome and asthma.
+METHODS: We analyzed induced sputum samples from 47 subjects (n =23 asthmatics
+and n =24 normal controls) using 16S ribosomal RNA gene sequencing methods. The
+bacterial composition was analyzed for gender differences. Bacterial associations
+with asthma were assessed in each gender at the core taxa and genus level.
+RESULTS: The microbiome in induced sputum differed in females versus males at the
+community level. There are five core bacterial taxa that appear in all samples.
+No gender-specific core taxa was detected. The most abundant core taxon,
+Streptococcus salivarius , was significantly enriched in females than in males
+(p=0.02). Within each gender, individuals with relatively lower abundance of S.
+salivarius were more likely to be asthmatic (p=0.006). Asthmatic patients of both
+genders contained increased Lactobacillus spp. in their sputum compared to normal
+controls (adjusted p=0.01). Haemophilus spp. were associated with asthma in males
+and not in females.
+CONCLUSION: The airway microbiome differed by gender and gender effects exist in 
+the association of airway microbial markers and asthma. Future airway microbiome 
+studies may yield better resolution if the context of specific gender is
+considered. The airway microbiome is a potential mechanism driving gender
+differences in asthma.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.anai.2020.09.007 
+PMID: 32931909 
+

@@ -1,0 +1,63 @@
+
+1. mSphere. 2020 Jan 22;5(1). pii: e00739-19. doi: 10.1128/mSphere.00739-19.
+
+Paenibacillus odorifer, the Predominant Paenibacillus Species Isolated from Milk 
+in the United States, Demonstrates Genetic and Phenotypic Conservation of
+Psychrotolerance but Clade-Associated Differences in Nitrogen Metabolic Pathways.
+
+Beno SM(#)(1), Cheng RA(#)(1), Orsi RH(1), Duncan DR(2), Guo X(1), Kovac J(1)(3),
+Carroll LM(1), Martin NH(1), Wiedmann M(4).
+
+Author information: 
+(1)Department of Food Science, Cornell University, Ithaca, New York, USA.
+(2)Department of Agrotechnology and Food Science, Wageningen University,
+Wageningen, Netherlands.
+(3)Department of Food Science, Pennsylvania State University, State College,
+Pennsylvania, USA.
+(4)Department of Food Science, Cornell University, Ithaca, New York, USA
+mw16@cornell.edu.
+(#)Contributed equally
+
+Paenibacillus is a spore-forming bacterial genus that is frequently isolated from
+fluid milk and is proposed to play a role in spoilage. To characterize the
+genetic and phenotypic diversity of Paenibacillus spp., we first used rpoB
+allelic typing data for a preexisting collection of 1,228 Paenibacillus species
+isolates collected from raw and processed milk, milk products, and dairy
+environmental sources. Whole-genome sequencing (WGS) and average nucleotide
+identity by BLAST (ANIb) analyses performed for a subset of 58 isolates
+representing unique and overrepresented rpoB allelic types in the collection
+revealed that these isolates represent 21 different Paenibacillus spp., with P.
+odorifer being the predominant species. Further genomic characterization of P.
+odorifer isolates identified two distinct phylogenetic clades, clades A and B,
+which showed significant overrepresentation of 172 and 164 ortholog clusters and 
+94 and 52 gene ontology (GO) terms, respectively. While nitrogen fixation genes
+were found in both clades, multiple genes associated with nitrate and nitrite
+reduction were overrepresented in clade A isolates; additional phenotypic testing
+demonstrated that nitrate reduction is specific to isolates in clade A. Hidden
+Markov models detected 9 to 10 different classes of cold shock-associated genetic
+elements in all P. odorifer isolates. Phenotypic testing revealed that all
+isolates tested here can grow in skim milk broth at 6°C, suggesting that
+psychrotolerance is conserved in P. odorifer Overall, our data suggest that
+Paenibacillus spp. isolated from milk in the United States represent broad
+genetic diversity, which may provide challenges for targeted-control strategies
+aimed at reducing fluid milk spoilage.IMPORTANCE Although Paenibacillus species
+isolates are frequently isolated from pasteurized fluid milk, the link between
+the genetic diversity and phenotypic characteristics of these isolates was not
+well understood, especially as some Bacillales isolated from milk are unable to
+grow at refrigeration temperatures. Our data demonstrate that Paenibacillus spp. 
+isolated from fluid milk represent tremendous interspecies diversity, with P.
+odorifer being the predominant Paenibacillus sp. isolated. Furthermore, genetic
+and phenotypic data support that P. odorifer is well suited to transition from a 
+soil-dwelling environment, where nitrogen fixation (and other nitrate/nitrite
+reduction pathways present only in clade A) may facilitate growth, to fluid milk,
+where its multiple cold shock-associated adaptations enable it to grow at
+refrigeration temperatures throughout the storage of milk. Therefore, efforts to 
+reduce bacterial contamination of milk will require a systematic approach to
+reduce P. odorifer contamination of raw milk.
+
+Copyright © 2020 Beno et al.
+
+DOI: 10.1128/mSphere.00739-19 
+PMCID: PMC7407005
+PMID: 31969477 
+

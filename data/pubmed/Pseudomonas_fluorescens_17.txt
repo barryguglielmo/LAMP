@@ -1,0 +1,52 @@
+
+1. Int J Biol Macromol. 2020 Sep 5. pii: S0141-8130(20)34355-5. doi:
+10.1016/j.ijbiomac.2020.09.003. [Epub ahead of print]
+
+Stabilization of ω-transaminase from Pseudomonas fluorescens by immobilization
+techniques.
+
+Velasco-Lozano S(1), Jackson E(2), Ripoll M(2), López-Gallego F(3), Betancor
+L(4).
+
+Author information: 
+(1)Catálisis Heterogénea en Síntesis Orgánicas Selectivas, Instituto de Síntesis 
+Química y Catálisis Homogénea (ISQCH-CSIC), University of Zaragoza, Pedro
+Cerbuna, 12, 50009 Zaragoza, Spain; Heterogeneous Biocatalysis Laboratory,
+CICbiomaGUNE, Paseo de Miramón, 182, 20014 Donostia-San Sebastián, Spain.
+Electronic address: svelasco@cicbiomagune.es.
+(2)Laboratorio de Biotecnología, Universidad ORT Uruguay, Cuareim 1441, 11100
+Montevideo, Uruguay.
+(3)Catálisis Heterogénea en Síntesis Orgánicas Selectivas, Instituto de Síntesis 
+Química y Catálisis Homogénea (ISQCH-CSIC), University of Zaragoza, Pedro
+Cerbuna, 12, 50009 Zaragoza, Spain; Heterogeneous Biocatalysis Laboratory,
+CICbiomaGUNE, Paseo de Miramón, 182, 20014 Donostia-San Sebastián, Spain;
+IKERBASQUE, Basque Foundation for Science, Maria Diaz de Haro 3, 48013 Bilbao,
+Spain.
+(4)Laboratorio de Biotecnología, Universidad ORT Uruguay, Cuareim 1441, 11100
+Montevideo, Uruguay. Electronic address: betancor@ort.edu.uy.
+
+Transaminases are a class of enzymes with promising applications for the
+preparation and resolution of a vast diversity of valued amines. Their poor
+operational stability has fueled many investigations on its stabilization due to 
+their biotechnological relevance. In this work, we screened the stabilization of 
+the tetrameric ω-transaminase from Pseudomonas fluorescence (PfωTA) through both 
+carrier-bound and carrier-free immobilization techniques. The best heterogeneous 
+biocatalyst was the PfωTA immobilized as cross-linked enzyme aggregates
+(PfωTA-CLEA), prepared by enzyme precipitation with 90% acetone or ethanol, in
+presence of BSA (100 mg/mL) and employing glutaraldehyde (100 mM) as
+cross-linker. Studies on different conditions for PfωTA-CLEA preparation yielded 
+a biocatalyst that exhibited 31 and 4.6 times enhanced thermal stability at 60 °C
+and 70 °C, respectively, compared to its soluble counterpart. The PfωTA-CLEA was 
+successfully used in the bioamination of 4-hydroxybenzaldehyde to
+4-hydroxybenzylamine. To the best of our knowledge, this is the first report
+describing a transaminase cross-linked enzyme aggregate as immobilization
+strategy to generate a biocatalyst with outstanding thermostability.
+
+Copyright © 2018. Published by Elsevier B.V.
+
+DOI: 10.1016/j.ijbiomac.2020.09.003 
+PMID: 32898544 
+
+Conflict of interest statement: Declaration of competing interest All authors
+declare no competing interests regarding the following manuscript.
+

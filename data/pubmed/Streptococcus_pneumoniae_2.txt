@@ -1,0 +1,73 @@
+
+1. Eur Respir J. 2020 Oct 2. pii: 2001829. doi: 10.1183/13993003.01829-2020. [Epub
+ahead of print]
+
+Temporal airway microbiome changes related to ventilator associated pneumonia in 
+children.
+
+Mourani PM(1), Sontag MK(2), Williamson KM(3), Harris JK(4), Reeder R(5),
+Locandro C(5), Carpenter TC(4), Maddux AB(4), Ziegler K(2), Simões EAF(4)(2),
+Osborne CM(4), Ambroggio L(4)(2), Leroue MK(4), Robertson CE(6), Langelier
+C(7)(8), DeRisi JL(8)(9), Kamm J(8), Hall MW(10), Zuppa AF(11), Carcillo J(12),
+Meert K(13), Sapru A(14), Pollack MM(15), McQuillen P(16), Notterman DA(17), Dean
+JM(5), Wagner BD(3); Eunice Kennedy Shriver National Institute of Child Health
+and Human Development Collaborative Pediatric Critical Care Research Network
+(CPCCRN).
+
+Author information: 
+(1)Pediatrics, University of Colorado School of Medicine and Children's Hospital 
+Colorado, Aurora, CO, USA peter.mourani@childrenscolorado.org.
+(2)Epidemiology, University of Colorado, Colorado School of Public Health,
+Aurora, CO, USA.
+(3)Biostatistics and Informatics, University of Colorado, Colorado School of
+Public Health, Aurora, CO, USA.
+(4)Pediatrics, University of Colorado School of Medicine and Children's Hospital 
+Colorado, Aurora, CO, USA.
+(5)Pediatrics, University of Utah, Salt Lake City, UT, USA.
+(6)Medicine, Division of Infectious Diseases, University of Colorado School of
+Medicine and Children's Hospital Colorado, Aurora, CO, USA.
+(7)Medicine, Division of Infectious Diseases, University of California San
+Francisco, San Francisco, CA, USA.
+(8)Chan Zuckerberg Biohub, San Francisco, CA, USA.
+(9)Department of Biochemistry and Biophysics, University of California San
+Francisco, San Francisco, CA, USA.
+(10)Nationwide Children's Hospital, Columbus, OH, USA.
+(11)Anesthesiology and Critical Care Medicine, The Children's Hospital of
+Philadelphia, Philadelphia, PA, USA.
+(12)Pediatrics, University of Pittsburgh, Pittsburgh, PA, USA.
+(13)Pediatrics, Children's Hospital of Michigan, Detroit, MI, USA.
+(14)Pediatrics, University of California Los Angeles, Los Angeles, CA, USA.
+(15)Pediatrics, Children's National Medical Center and George Washington School
+of Medicine and Health Sciences, Washington, DC, USA.
+(16)Pediatrics, University of California San Francisco, San Francisco, CA, USA.
+(17)Molecular Biology, Princeton University, Princeton, NJ, USA.
+
+We sought to determine whether temporal changes in the lower airway microbiome
+are associated with ventilator-associated pneumonia (VAP) in children.Using a
+multicenter prospective study of children 31 days to 18 years requiring
+mechanical ventilation (MV) support for >72 h, daily tracheal aspirates were
+collected and analysed by sequencing of the 16S rRNA gene. VAP was assessed using
+2008 CDC pediatric criteria. The association between microbial factors and VAP
+was evaluated using joint longitudinal time-to-event modelling, matched
+case-control comparisons, and unsupervised clustering.Of 366 eligible subjects,
+66 (15%) developed VAP at a median of 5 (IQR: 3-5) days post intubation. At
+intubation, there was no difference in total bacterial load (TBL), but Shannon
+diversity and the relative abundance of Streptococcus, Lactobacillales, and
+Prevotella were lower for VAP subjects versus non-VAP subjects. However, higher
+TBL on each sequential day was associated with a lower hazard (HR: 0.39; CI:
+0.23, 0.64) for developing VAP, but sequential values of diversity were not
+associated with VAP. Similar findings were observed from the matched analysis and
+unsupervised clustering. The most common dominant VAP pathogens included
+Prevotella species (19%), Pseudomonas aeruginosa (14%), and Streptococcus
+mitis/pneumoniae (10%). Mycoplasma and Ureaplasma were also identified as
+dominant organisms in several subjects.In mechanically ventilated children,
+changes over time in microbial factors were marginally associated with VAP risk, 
+although these changes were not suitable for predicting VAP in individual
+patients. These findings suggest that focusing exclusively on pathogen burden may
+not adequately inform VAP diagnosis.
+
+Copyright ©ERS 2020.
+
+DOI: 10.1183/13993003.01829-2020 
+PMID: 33008935 
+

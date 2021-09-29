@@ -1,0 +1,38 @@
+
+1. ACS Synth Biol. 2020 Sep 18;9(9):2537-2545. doi: 10.1021/acssynbio.0c00312. Epub 
+2020 Aug 14.
+
+Recruiting a Phosphite Dehydrogenase/Formamidase-Driven Antimicrobial
+Contamination System in Bacillus subtilis for Nonsterilized Fermentation of
+Acetoin.
+
+Guo ZW(1), Ou XY(1), Liang S(1), Gao HF(2), Zhang LY(2), Zong MH(1), Lou WY(1).
+
+Author information: 
+(1)School of Food Science and Engineering, South China University of Technology, 
+No. 381 Wushan Road, Guangzhou 510640, Guangdong, China.
+(2)College of Life Sciences, Fujian Agriculture and Forestry University, No. 15
+Shangxiadian Road, Fuzhou 350002, Fujian, China.
+
+Microbial contamination, especially in large-scale processes, is partly a
+life-or-death issue for industrial fermentation. Therefore, the aim of this
+research was to create an antimicrobial contamination system in Bacillus subtilis
+168 (an ideal acetoin producer for its safety and acetoin synthesis potential).
+First, introduction of the formamidase (FmdA) from Helicobacter pylori and the
+phosphite dehydrogenase (PtxD) from Pseudomonas stutzeri enabled the engineered
+Bacillus subtilis to simultaneously assimilate formamide and phosphite as
+nitrogen (N) and phosphorus (P) sources. Thus, the engineered B. subtilis became 
+the dominant population in a potentially contaminated system, while contaminated 
+microbes were starved of key nutrients. Second, stepwise metabolic engineering
+via chromosome-based overexpression of the relevant glycolysis and acetoin
+biosynthesis genes led to a 1.12-fold increment in acetoin titer compared with
+the starting host. Finally, with our best acetoin producer, 25.56 g/L acetoin was
+synthesized in the fed-batch fermentation, with a productivity of 0.33 g/L/h and 
+a yield of 0.37 g/g under a nonsterilized and antibiotic-free system. More
+importantly, our work fulfills many key criteria of sustainable chemistry since
+sterilization is abolished, contributing to the simplified fermentation operation
+with lower energy consumption and cost.
+
+DOI: 10.1021/acssynbio.0c00312 
+PMID: 32786356 
+

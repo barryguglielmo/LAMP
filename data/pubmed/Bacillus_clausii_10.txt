@@ -1,0 +1,41 @@
+
+1. BMC Microbiol. 2019 Dec 30;19(1):307. doi: 10.1186/s12866-019-1680-7.
+
+Composite genome sequence of Bacillus clausii, a probiotic commercially available
+as Enterogermina®, and insights into its probiotic properties.
+
+Khatri I(1)(2), Sharma G(1)(3), Subramanian S(4).
+
+Author information: 
+(1)CSIR-Institute of Microbial Technology, Sector-39A, Chandigarh, 160036, India.
+(2)Leiden University Medical Center, Leiden, the Netherlands.
+(3)Institute of Bioinformatics and Applied Biotechnology, Bengaluru, Karnataka,
+India.
+(4)CSIR-Institute of Microbial Technology, Sector-39A, Chandigarh, 160036, India.
+krishna@imtech.res.in.
+
+BACKGROUND: Some of the spore-forming strains of Bacillus probiotics are marketed
+commercially as they survive harsh gastrointestinal conditions and bestow health 
+benefits to the host.
+RESULTS: We report the composite genome of Bacillus clausii ENTPro from a
+commercially available probiotic Enterogermina® and compare it with the genomes
+of other Bacillus probiotics. We find that the members of B. clausii species
+harbor high heterogeneity at the species as well as genus level. The genes
+conferring resistance to chloramphenicol, streptomycin, rifampicin, and
+tetracycline in the B. clausii ENTPro strain could be identified. The genes
+coding for the bacteriocin gallidermin, which prevents biofilm formation in the
+pathogens Staphylococcus aureus and S. epidermidis, were also identified. KEGG
+Pathway analysis suggested that the folate biosynthesis pathway, which depicts
+one of the important roles of probiotics in the host, is conserved completely in 
+B. subtilis and minimally in B. clausii and other probiotics.
+CONCLUSIONS: We identified various antibiotic resistance, bacteriocins,
+stress-related, and adhesion-related domains, and industrially-relevant pathways,
+in the genomes of these probiotic bacteria that are likely to help them survive
+in the harsh gastrointestinal tract, facilitating adhesion to host epithelial
+cells, persistence during antibiotic treatment and combating bacterial
+infections.
+
+DOI: 10.1186/s12866-019-1680-7 
+PMCID: PMC6937992
+PMID: 31888501  [Indexed for MEDLINE]
+

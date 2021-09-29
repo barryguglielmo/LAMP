@@ -1,0 +1,55 @@
+
+1. J Clin Lab Anal. 2020 Aug;34(8):e23348. doi: 10.1002/jcla.23348. Epub 2020 May 1.
+
+Species identification of Enterococcus spp: Whole genome sequencing compared to
+three biochemical test-based systems and two Matrix-Assisted Laser
+Desorption/Ionization Time-of-Flight Mass Spectrometry (MALDI-TOF MS) systems.
+
+Garza-González E(1), Bocanegra-Ibarias P(1), Dinh A(2), Morfín-Otero R(3),
+Camacho-Ortiz A(1), Rojas-Larios F(4), Rodríguez-Zulueta P(5), Arias CA(2)(6)(7).
+
+Author information: 
+(1)Hospital Universitario "Dr. José Eleuterio González", Universidad Autónoma de 
+Nuevo León, Monterrey, Mexico.
+(2)Division of Infectious Diseases and Center for Antimicrobial Resistance and
+Microbial Genomics (CARMiG), McGovern Medical School, UTHealth, Houston, TX, USA.
+(3)Centro Universitario de Ciencias de la Salud, Hospital Civil de Guadalajara
+"Fray Antonio Alcalde" e Instituto de Patología Infecciosa y Experimental,
+Universidad de Guadalajara, Guadalajara, Mexico.
+(4)Facultad de Medicina, Universidad de Colima, Colima, Mexico.
+(5)Hospital General Dr. Manuel Gea González, Mexico City, Mexico.
+(6)School of Public Health, Center for Infectious Diseases, UTHealth, Houston,
+TX, USA.
+(7)Molecular Genetics and Antimicrobial Resistance Unit and International Center 
+for Microbial Genomics, Universidad El Bosque, Bogotá, Colombia.
+
+AIM: Here, we evaluated the performance of two commercial MALDI-TOF MS systems
+and three biochemical-based systems and compared them to WGS as the gold standard
+for identifying isolates of vancomycin-resistant enterococci (VRE).
+METHODS: A total of 87 VRE clinical isolates were included. The mass
+spectrometers were the Microflex system with Biotyper software 3.1 and the Vitek 
+MS system. The biochemical-based systems included the Vitek 2, Phoenix, and
+MicroScan WalkAway systems. WGS was performed on an Illumina MiSeq instrument
+using the MiSeq v3 reagent kit. Vancomycin resistance was determined according to
+CLSI criteria.
+RESULTS: Among the 87 VRE, 71 and 16 were identified as Enterococcus faecium and 
+Enterococcus faecalis by WGS. All 71 E faecium were correctly identified by both 
+mass spectrometers, as well as the Vitek 2 and Phoenix instruments. However, only
+51 E faecium isolates were correctly identified by the MicroScan system. The most
+frequent misidentification was Enterococcus casseliflavus (n = 20). For
+vancomycin-resistant E faecium, the Microflex Biotyper system had the highest
+sensitivity (85.54%), and all instruments (except for the Microscan) had a 100%
+specificity and PPV. Up to 87% of E faecalis isolates were misidentified by VITEK
+MS and VITEK2, 81% by Microscan and Phoenix, and 75% by Bruker biotyper.
+CONCLUSION: As the coverage of type strain-genome sequence database continues to 
+grow and the cost of DNA sequencing continues to decrease, genome-based
+identification can be a useful tool for diagnostic laboratories, with its
+superior accuracy even over MALDI-TOF and database-driven operations.
+
+© 2020 The Authors. Journal of Clinical Laboratory Analysis published by Wiley
+Periodicals, Inc.
+
+DOI: 10.1002/jcla.23348 
+PMCID: PMC7439347
+PMID: 32358872 
+

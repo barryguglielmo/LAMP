@@ -1,0 +1,63 @@
+
+1. Biol Blood Marrow Transplant. 2019 Nov;25(11):2274-2280. doi:
+10.1016/j.bbmt.2019.07.019. Epub 2019 Jul 18.
+
+Gut Colonization Preceding Mucosal Barrier Injury Bloodstream Infection in
+Pediatric Hematopoietic Stem Cell Transplantation Recipients.
+
+Kelly MS(1), Ward DV(2), Severyn CJ(3), Arshad M(4), Heston SM(4), Jenkins K(4), 
+Martin PL(5), McGill L(5), Stokhuyzen A(5), Bhattarai SK(6), Bucci V(6), Seed
+PC(7).
+
+Author information: 
+(1)Division of Pediatric Infectious Diseases, Duke University Medical Center,
+Durham, North Carolina. Electronic address: matthew.kelly@duke.edu.
+(2)Center for Microbiome Research, University of Massachusetts Medical School,
+Worcester, Massachusetts; Department of Microbiology and Physiological Systems,
+University of Massachusetts Medical School, Worcester, Massachusetts.
+(3)Division of Pediatric Hematology and Oncology, Lucile Packard Children's
+Hospital, Palo Alto, California.
+(4)Division of Pediatric Infectious Diseases, Duke University Medical Center,
+Durham, North Carolina.
+(5)Division of Pediatric Blood and Marrow Transplant, Duke University Medical
+Center, Durham, North Carolina.
+(6)Department of Biology, University of Massachusetts Dartmouth, North Dartmouth,
+Massachusetts.
+(7)Division of Pediatric Infectious Diseases, Ann & Robert H. Lurie Children's
+Hospital, Chicago, Illinois.
+
+The gastrointestinal tract is the predicted reservoir for most bloodstream
+infections (BSIs) after hematopoietic stem cell transplantation (HSCT).
+Whole-genome sequencing and comparative genomics have the potential to improve
+our understanding of the dynamics of gut colonization that precede BSI in HSCT
+recipients. Within a prospective cohort study of children (age <18 years)
+undergoing HSCT, 9 subjects met criteria for mucosal barrier injury BSI. We
+performed whole-genome sequencing of the blood culture isolate and weekly fecal
+samples preceding the BSI to compare the genetic similarity of BSI isolates to
+fecal strains. We evaluated temporal associations between antibiotic exposures
+and the abundances of BSI strains in the gut microbiota and correlated the
+detection of antibiotic resistance genes with the phenotypic antibiotic
+resistance of these strains. The median patient age was 2.6 years, and 78% were
+male. BSIs were caused by Escherichia coli (n = 5), Enterococcus faecium (n = 2),
+Enterobacter cloacae (n = 1), and Rothia mucilaginosa (n = 1). In the 6 BSI
+episodes with evaluable comparative genomics, the fecal strains were identical to
+the blood culture isolate (>99.99% genetic similarity). Gut domination by these
+strains preceded only 4 of 7 E. coli or E. faecium BSIs by a median of 17 days
+(range, 6 to 21 days). Increasing abundances of the resulting BSI strains in the 
+gut microbiota were frequently associated with specific antibiotic exposures. E. 
+cloacae and R. mucilaginosa were not highly abundant in fecal samples preceding
+BSIs caused by these species. The detection of antibiotic resistance genes for
+β-lactam antibiotics and vancomycin predicted phenotypic resistance in BSI
+strains. Bacterial strains causing mucosal barrier injury BSI in pediatric HSCT
+recipients were observed in the gut microbiota before BSI onset, and changes in
+the abundances of these strains within the gut preceded most BSI episodes.
+However, frequent sampling of the gut microbiota and sampling of other ecological
+niches is likely necessary to effectively predict BSI in HSCT recipients.
+
+Copyright © 2019 American Society for Transplantation and Cellular Therapy.
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbmt.2019.07.019 
+PMCID: PMC6861666 [Available on 2020-11-01]
+PMID: 31326608  [Indexed for MEDLINE]
+

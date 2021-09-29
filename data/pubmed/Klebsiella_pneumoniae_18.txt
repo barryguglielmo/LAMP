@@ -1,0 +1,60 @@
+
+1. mSystems. 2020 Sep 29;5(5). pii: e00459-20. doi: 10.1128/mSystems.00459-20.
+
+Beneficial Chromosomal Integration of the Genes for CTX-M Extended-Spectrum
+β-Lactamase in Klebsiella pneumoniae for Stable Propagation.
+
+Yoon EJ(1)(2), Gwon B(1)(2), Liu C(1)(2), Kim D(1)(2), Won D(1), Park SG(1), Choi
+JR(1), Jeong SH(3)(2).
+
+Author information: 
+(1)Department of Laboratory Medicine, Yonsei University College of Medicine,
+Seoul, South Korea.
+(2)Research Institute of Bacterial Resistance, Yonsei University College of
+Medicine, Seoul, South Korea.
+(3)Department of Laboratory Medicine, Yonsei University College of Medicine,
+Seoul, South Korea kscpjsh@yuhs.ac.
+
+The acquired CTX-M-type extended-spectrum-β-lactamase (ESBL)-producing
+Enterobacterales are of great concern in clinical settings because they limit
+therapeutic options for patients infected by the pathogens. An intriguing
+clonality of CTX-M ESBL-producing Klebsiella pneumoniae blood isolates was
+observed from a national cohort study, and comparative genomics were assessed for
+the 115 K. pneumoniae blood isolates carrying the bla CTX-M gene. The plasmid
+preference of particular clones of a sequence type (ST) was assessed by liquid
+mating. A quarter of the bla CTX-M gene-carrying K. pneumoniae blood isolates
+harbor the gene in their chromosome, and most of those with the built-in bla
+CTX-M gene belonged either to ST307 or ST48. Notably, all 16 K. pneumoniae ST48
+isolates harbored two copies of the bla CTX-M-15 gene in the chromosome. The
+chromosomal integration of the bla CTX-M-15 gene was mostly derived from the
+ISEcp1-targeting 5-bp AT-rich locus in the chromosome. The IS26-mediated
+chromosomal integration occurred when the upstream ISEcp1 from the bla CTX-M gene
+was truncated, targeting the anchor IS26 copy in the chromosome. Higher transfer 
+efficiency of the bla CTX-M-15 gene-carrying FIA:R plasmid was observed in ST17
+than that of the bla CTX-M-14 gene-carrying FIB:FII plasmid. The transfer
+efficiency of the plasmid differed by isolate among the ST307 members. The K.
+pneumoniae clones ST307 and ST48 harboring the bla CTX-M-15 gene in the
+chromosome were able to disseminate stably in clinical settings regardless of the
+environmental pressure, and the current population of K. pneumoniae blood
+isolates was constructed. Further follow-up is needed for the epidemiology of
+this antimicrobial resistance.IMPORTANCE Dominant F-type plasmids harboring the
+gene have been pointed out to be responsible for the dissemination of the CTX-M
+extended-spectrum-β-lactamase (ESBL)-producing K. pneumoniae Recently, the
+emergence of K. pneumoniae isolates with the bla CTX-M gene in their chromosomes 
+has been reported occasionally worldwide. Such a chromosomal location of the
+resistance gene could be beneficial for stable propagation, as was the
+Acinetobacter baumannii ST191 harboring chromosomal bla OXA-23 that is endemic to
+South Korea. Through the present study, particular clones were identified as
+having built-in resistance genes in their chromosomes, and the chromosomal
+integration events were tracked by assessing their genomes. The
+cefotaxime-resistant K. pneumoniae clones of this study were particularized as
+results of the fastidiousness for plasmids to acquire the bla CTX-M gene for
+securing the diversity and of the chromosomal addiction of the bla CTX-M gene for
+ensuring propagation.
+
+Copyright © 2020 Yoon et al.
+
+DOI: 10.1128/mSystems.00459-20 
+PMCID: PMC7527135
+PMID: 32994286 
+

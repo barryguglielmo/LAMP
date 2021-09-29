@@ -1,0 +1,48 @@
+
+1. Proc Natl Acad Sci U S A. 2020 Mar 31;117(13):7122-7130. doi:
+10.1073/pnas.1915376117. Epub 2020 Mar 13.
+
+A pair of esterases from a commensal gut bacterium remove acetylations from all
+positions on complex β-mannans.
+
+Michalak L(1), La Rosa SL(1), Leivers S(1), Lindstad LJ(1), Røhr ÅK(1), Lillelund
+Aachmann F(2), Westereng B(3).
+
+Author information: 
+(1)Faculty of Chemistry, Biotechnology and Food Science, Norwegian University of 
+Life Sciences, 1432 Ås, Norway.
+(2)The Norwegian Biopolymer Laboratory, Department of Biotechnology and Food
+Science, Norwegian University of Science and Technology, N-7491 Trondheim,
+Norway.
+(3)Faculty of Chemistry, Biotechnology and Food Science, Norwegian University of 
+Life Sciences, 1432 Ås, Norway; bjorge.westereng@nmbu.no.
+
+β-mannans and xylans are important components of the plant cell wall and they are
+acetylated to be protected from degradation by glycoside hydrolases. β-mannans
+are widely present in human and animal diets as fiber from leguminous plants and 
+as thickeners and stabilizers in processed foods. There are many fully
+characterized acetylxylan esterases (AcXEs); however, the enzymes deacetylating
+mannans are less understood. Here we present two carbohydrate esterases, RiCE2
+and RiCE17, from the Firmicute Roseburia intestinalis, which together deacetylate
+complex galactoglucomannan (GGM). The three-dimensional (3D) structure of RiCE17 
+with a mannopentaose in the active site shows that the CBM35 domain of RiCE17
+forms a confined complex, where the axially oriented C2-hydroxyl of a mannose
+residue points toward the Ser41 of the catalytic triad. Cavities on the RiCE17
+surface may accept galactosylations at the C6 positions of mannose adjacent to
+the mannose residue being deacetylated (subsite -1 and +1). In-depth
+characterization of the two enzymes using time-resolved NMR, high-performance
+liquid chromatography (HPLC), and mass spectrometry demonstrates that they work
+in a complementary manner. RiCE17 exclusively removes the axially oriented
+2-O-acetylations on any mannose residue in an oligosaccharide, including double
+acetylated mannoses, while the RiCE2 is active on 3-O-, 4-O-, and
+6-O-acetylations. Activity of RiCE2 is dependent on RiCE17 removing
+2-O-acetylations from double acetylated mannose. Furthermore, transacetylation of
+oligosaccharides with the 2-O-specific RiCE17 provided insight into how
+temperature and pH affects acetyl migration on manno-oligosaccharides.
+
+DOI: 10.1073/pnas.1915376117 
+PMCID: PMC7132267
+PMID: 32170022  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.
+

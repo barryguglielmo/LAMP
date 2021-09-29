@@ -1,0 +1,41 @@
+
+1. Infect Immun. 2020 Sep 28. pii: IAI.00259-20. doi: 10.1128/IAI.00259-20. [Epub
+ahead of print]
+
+CsrA supports both environmental persistence and host-associated growth of
+Acinetobacter baumannii.
+
+Farrow JM 3rd(1), Wells G(1), Palethorpe S(1), Adams MD(2), Pesci EC(3).
+
+Author information: 
+(1)Department of Microbiology and Immunology, The Brody School of Medicine at
+East Carolina University, Greenville, NC, USA.
+(2)The Jackson Laboratory for Genomic Medicine, Farmington, CT, USA.
+(3)Department of Microbiology and Immunology, The Brody School of Medicine at
+East Carolina University, Greenville, NC, USA pescie@ecu.edu.
+
+Acinetobacter baumannii is an opportunistic and frequently multi-drug resistant
+gram-negative bacterial pathogen that primarily infects critically ill
+individuals. Indirect transmission from patient to patient in hospitals can drive
+infections, supported by this organism's abilities to persist on dry surfaces and
+rapidly colonize susceptible individuals. To investigate how A. baumannii
+survives on surfaces, we cultured A. baumannii in liquid media for several days, 
+and then analyzed isolates that lost the ability to survive drying. One of these 
+isolates carried a mutation that affected the gene encoding the carbon storage
+regulator, CsrA. As we began to examine the role of CsrA in A. baumannii, we
+observed that the growth of ΔcsrA mutant strains was inhibited in the presence of
+amino acids. The ΔcsrA mutant strains had a reduced ability to survive drying and
+to form biofilms, but an improved ability to tolerate increased osmolarity
+compared to the wild-type. We also examined the importance of CsrA for A.
+baumannii virulence. The ΔcsrA mutant strains had a greatly reduced ability to
+kill Galleria mellonella larvae, could not replicate in G. mellonella hemolymph, 
+and also had a growth defect in human serum. Together, these results show that
+CsrA is essential for the growth of A. baumannii on host-derived substrates, and 
+is involved in desiccation tolerance, implying that CsrA controls key functions
+involved in the transmission of A. baumannii in hospitals.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/IAI.00259-20 
+PMID: 32989034 
+

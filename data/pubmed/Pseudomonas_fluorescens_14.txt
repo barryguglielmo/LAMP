@@ -1,0 +1,38 @@
+
+1. Crit Rev Biotechnol. 2020 Sep 9:1-18. doi: 10.1080/07388551.2020.1809990. [Epub
+ahead of print]
+
+Pseudomonas spp. as cell factories (MCFs) for value-added products: from rational
+design to industrial applications.
+
+Wang S(1), Cui J(1), Bilal M(2), Hu H(1), Wang W(1), Zhang X(1).
+
+Author information: 
+(1)State Key Laboratory of Microbial Metabolism, School of Life Sciences and
+Biotechnology, Shanghai Jiao Tong University, Shanghai, China.
+(2)School of Life Science and Food Engineering, Huaiyin Institute of Technology, 
+Huaian, China.
+
+In recent years, there has been increasing interest in microbial biotechnology
+for the production of value-added compounds from renewable resources. Pseudomonas
+species have been proposed as a suitable workhorse for high-value secondary
+metabolite production because of their unique characteristics for fast growth on 
+sustainable carbon sources, a clear inherited background, versatile intrinsic
+metabolism with diverse enzymatic capacities, and their robustness in an extreme 
+environment. It has also been demonstrated that metabolically engineered
+Pseudomonas strains can produce several industrially valuable aromatic chemicals 
+and natural products such as phenazines, polyhydroxyalkanoates, rhamnolipids, and
+insecticidal proteins from renewable feedstocks with remarkably high yields
+suitable for commercial application. In this review, we summarize cell factory
+construction in Pseudomonas for the biosynthesis of native and non-native
+bioactive compounds in P. putida, P. chlororaphis, P. aeruginosa, as well as
+pharmaceutical proteins production by P. fluorescens. Additionally, some novel
+strategies together with metabolic engineering strategies in order to improve the
+biosynthetic abilities of Pseudomonas as an ideal chassis are discussed. Finally,
+we proposed emerging opportunities, challenges, and essential strategies to
+enable the successful development of Pseudomonas as versatile microbial cell
+factories for the bioproduction of diverse bioactive compounds.
+
+DOI: 10.1080/07388551.2020.1809990 
+PMID: 32907412 
+

@@ -1,0 +1,44 @@
+
+1. World J Microbiol Biotechnol. 2020 Sep 5;36(10):147. doi:
+10.1007/s11274-020-02917-z.
+
+Intracellular biosynthesis of PbS quantum dots using Pseudomonas aeruginosa ATCC 
+27853: evaluation of antibacterial effects and DNA cleavage activities.
+
+Öcal N(1)(2), Ceylan A(3), Duman F(4).
+
+Author information: 
+(1)Faculty of Science, Department of Biology, Erciyes University, 38280, Kayseri,
+Turkey. necipocal@gmail.com.
+(2)ERNAM - Erciyes University Nanotechnology Application and Research Center,
+38280, Kayseri, Turkey. necipocal@gmail.com.
+(3)Faculty of Pharmacy, Department of Pharmaceutical Biotechnology, Erciyes
+University, 38280, Kayseri, Turkey.
+(4)Faculty of Science, Department of Biology, Erciyes University, 38280, Kayseri,
+Turkey.
+
+Bacterial biosynthesis of quantum dots (QDs) offers a green alternative for the
+production of nanomaterials with superior properties, such as tunable size
+dependent emission spectra and a long fluorescence lifetime. In this study, we
+have achieved intracellular production of PbS QDs using Pseudomonas aeruginosa
+ATCC 27853. The characterization of these PbS QDS was performed by different
+techniques, such as Ultraviolet-visible (UV-Vis) spectroscopy, photoluminescence 
+(PL), X-ray diffraction (XRD), transmission electron microscopy (TEM), energy
+dispersive X-ray analysis (EDX) and particle size analysis (DLS). The obtained
+results confirmed the synthesis of PbS QDs. The PbS QDs showed absorption peaks
+at 1088 nm (ultraviolet-visible spectrometry) and a luminescence peak at 1572 nm.
+In addition, the intracellular biosynthesized PbS QDs showed a particle size in
+the range 3.47-11.45 nm, which is consistent with DLS and sphere-shaped
+nanocrystals with good crystallinity and a cubic cristalline structure including 
+pure Pb and S elements. Biosynthesized PbS QDs showed antibacterial activity
+against Proteus mirabilis ATCC 25933 and Escherichia coli ATCC 25922 from Gram
+(-) bacteria and Bacillus cereus NRLL B-3008 and Micrococcus luteus ATCC 10240
+from Gram (+) bacteria. Besides, these current results obtained from the cleavage
+studies revealed that PbS QDs do not show DNA cleavage activity. Consequently,
+the microorganism-based intracellular method allows an economic and
+environmentally friendly way to obtain PbS QDs with superior optical properties
+and they have a potential to be used in healthcare applications.
+
+DOI: 10.1007/s11274-020-02917-z 
+PMID: 32888099 
+

@@ -1,0 +1,69 @@
+
+1. mSphere. 2020 May 27;5(3). pii: e00412-20. doi: 10.1128/mSphere.00412-20.
+
+Transposon Insertion Site Sequencing of Providencia stuartii: Essential Genes,
+Fitness Factors for Catheter-Associated Urinary Tract Infection, and the Impact
+of Polymicrobial Infection on Fitness Requirements.
+
+Johnson AO(1), Forsyth V(2), Smith SN(2), Learman BS(1), Brauer AL(1), White
+AN(1), Zhao L(3), Wu W(4), Mobley HLT(2), Armbruster CE(5).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Jacobs School of Medicine and
+Biomedical Sciences, State University of New York at Buffalo, Buffalo, New York, 
+USA.
+(2)Department of Microbiology and Immunology, University of Michigan Medical
+School, Ann Arbor, Michigan, USA.
+(3)Department of Biostatistics, University of Michigan School of Public Health,
+Ann Arbor, Michigan, USA.
+(4)Department of Computational Medicine & Bioinformatics, University of Michigan 
+Medical School, Ann Arbor, Michigan, USA.
+(5)Department of Microbiology and Immunology, Jacobs School of Medicine and
+Biomedical Sciences, State University of New York at Buffalo, Buffalo, New York, 
+USA chelsiea@buffalo.edu.
+
+Providencia stuartii is a common cause of polymicrobial catheter-associated
+urinary tract infection (CAUTI), and yet literature describing the molecular
+mechanisms of its pathogenesis is limited. To identify factors important for
+colonization during single-species infection and during polymicrobial infection
+with a common cocolonizer, Proteus mirabilis, we created a saturating library of 
+∼50,000 transposon mutants and conducted transposon insertion site sequencing
+(Tn-Seq) in a murine model of CAUTI. P. stuartii strain BE2467 carries 4,398
+genes, 521 of which were identified as essential for growth in laboratory medium 
+and therefore could not be assessed for contribution to infection. Using an
+input/output fold change cutoff value of 20 and P values of <0.05, 340 genes were
+identified as important for establishing single-species infection only and 63
+genes as uniquely important for polymicrobial infection with P. mirabilis, and
+168 genes contributed to both single-species and coinfection. Seven mutants were 
+constructed for experimental validation of the primary screen that corresponded
+to flagella (fliC mutant), twin arginine translocation (tatC), an ATP-dependent
+protease (clpP), d-alanine-d-alanine ligase (ddlA), type 3 secretion (yscI and
+sopB), and type VI secretion (impJ). Infection-specific phenotypes validated 6/7 
+(86%) mutants during direct cochallenge with wild-type P. stuartii and 3/5 (60%) 
+mutants during coinfection with P. mirabilis, for a combined validation rate of
+9/12 (75%). Tn-Seq therefore successfully identified genes that contribute to
+fitness of P. stuartii within the urinary tract, determined the impact of
+coinfection on fitness requirements, and added to the identification of a
+collection of genes that may contribute to fitness of multiple urinary tract
+pathogens.IMPORTANCE Providencia stuartii is a common cause of polymicrobial
+catheter-associated urinary tract infections (CAUTIs), particularly during
+long-term catheterization. However, little is known regarding the pathogenesis of
+this organism. Using transposon insertion site sequencing (Tn-Seq), we performed 
+a global assessment of P. stuartii fitness factors for CAUTI while simultaneously
+determining how coinfection with another pathogen alters fitness requirements.
+This approach provides four important contributions to the field: (i) the first
+global estimation of P. stuartii genes essential for growth in laboratory medium,
+(ii) identification of novel fitness factors for P. stuartii colonization of the 
+catheterized urinary tract, (iii) identification of core fitness factors for both
+single-species and polymicrobial CAUTI, and (iv) assessment of conservation of
+fitness factors between common uropathogens. Genomewide assessment of the fitness
+requirements for common uropathogens during single-species and polymicrobial
+CAUTI thus elucidates complex interactions that contribute to disease severity
+and will uncover conserved targets for therapeutic intervention.
+
+Copyright © 2020 Johnson et al.
+
+DOI: 10.1128/mSphere.00412-20 
+PMCID: PMC7253602
+PMID: 32461277 
+

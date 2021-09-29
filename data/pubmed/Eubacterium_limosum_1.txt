@@ -1,0 +1,53 @@
+
+1. J Biol Chem. 2020 Aug 21;295(34):11971-11981. doi: 10.1074/jbc.RA120.012934. Epub
+2020 Jun 22.
+
+MtcB, a member of the MttB superfamily from the human gut acetogen Eubacterium
+limosum, is a cobalamin-dependent carnitine demethylase.
+
+Kountz DJ(1), Behrman EJ(2), Zhang L(3), Krzycki JA(4)(5).
+
+Author information: 
+(1)Department of Microbiology, Ohio State University, Columbus, Ohio, USA.
+(2)Department of Chemistry and Biochemistry, Ohio State University, Columbus,
+Ohio, USA.
+(3)Campus Chemical Instrument Center Mass Spectrometry and Proteomics Facility,
+Ohio State University, Columbus, Ohio, USA.
+(4)Department of Microbiology, Ohio State University, Columbus, Ohio, USA
+Krzycki.1@osu.edu.
+(5)Ohio State Biochemistry Program, Ohio State University, Columbus, Ohio, USA.
+
+The trimethylamine methyltransferase MttB is the first described member of a
+superfamily comprising thousands of microbial proteins. Most members of the MttB 
+superfamily are encoded by genes that lack the codon for pyrrolysine
+characteristic of trimethylamine methyltransferases, raising questions about the 
+activities of these proteins. The superfamily member MtcB is found in the human
+intestinal isolate Eubacterium limosum ATCC 8486, an acetogen that can grow by
+demethylation of l-carnitine. Here, we demonstrate that MtcB catalyzes
+l-carnitine demethylation. When growing on l-carnitine, E. limosum excreted the
+unusual biological product norcarnitine as well as acetate, butyrate, and
+caproate. Cellular extracts of E. limosum grown on l-carnitine, but not lactate, 
+methylated cob-(I)alamin or tetrahydrofolate using l-carnitine as methyl donor.
+MtcB, along with the corrinoid protein MtqC and the
+methylcorrinoid:tetrahydrofolate methyltransferase MtqA, were much more abundant 
+in E. limosum cells grown on l-carnitine than on lactate. Recombinant MtcB
+methylates either cob(I)alamin or Co(I)-MtqC in the presence of l-carnitine and, 
+to a much lesser extent, γ-butyrobetaine. Other quaternary amines were not
+substrates. Recombinant MtcB, MtqC, and MtqA methylated tetrahydrofolate via
+l-carnitine, forming a key intermediate in the acetogenic Wood-Ljungdahl pathway.
+To our knowledge, MtcB methylation of cobalamin or Co(I)-MtqC represents the
+first described mechanism of biological l-carnitine demethylation. The conversion
+of l-carnitine and its derivative γ-butyrobetaine to trimethylamine by the gut
+microbiome has been linked to cardiovascular disease. The activities of MtcB and 
+related proteins in E. limosum might demethylate proatherogenic quaternary amines
+and contribute to the perceived health benefits of this human gut symbiont.
+
+© 2020 Kountz et al.
+
+DOI: 10.1074/jbc.RA120.012934 
+PMCID: PMC7443480
+PMID: 32571881 
+
+Conflict of interest statement: Conflict of interest—The authors declare that
+they have no conflicts of interest with the contents of this article.
+

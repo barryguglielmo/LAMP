@@ -1,0 +1,50 @@
+
+1. Microb Drug Resist. 2020 May 22. doi: 10.1089/mdr.2020.0122. [Epub ahead of
+print]
+
+Mechanisms of Linezolid Resistance Among Clinical Staphylococcus spp. in Spain:
+Spread of Methicillin- and Linezolid-Resistant S. epidermidis ST2.
+
+Ruiz-Ripa L(1), Feßler AT(2), Hanke D(2), Eichhorn I(2), Azcona-Gutiérrez JM(3), 
+Alonso CA(3), Pérez-Moreno MO(4), Aspiroz C(5), Bellés A(6), Schwarz S(2), Torres
+C(1).
+
+Author information: 
+(1)Área de Bioquímica y Biología Molecular, Universidad de La Rioja, Logroño,
+Spain.
+(2)Institute of Microbiology and Epizootics, Department of Veterinary Medicine,
+Freie Universität Berlin, Berlin, Germany.
+(3)Servicio Microbiología, Hospital San Pedro, Logroño, Spain.
+(4)Clinical Laboratory, Microbiology Area, Hospital Verge de la Cinta, Tortosa,
+Spain.
+(5)Servicio Microbiología, Hospital Royo-Villanova, Zaragoza, Spain.
+(6)Sección Microbiología, Hospital Universitari Arnau Vilanova, Lleida, Spain.
+
+This study aimed at determining the mechanisms of linezolid resistance and the
+molecular characteristics of clinical Staphylococcus aureus (n = 2) and
+coagulase-negative staphylococci (n = 15) isolates obtained from four Spanish
+hospitals. The detection of linezolid resistance mechanisms (mutations and
+acquisition of resistance genes) was performed by PCR/sequencing. The
+antimicrobial resistance and virulence profile was determined, and the isolates
+were typed by different molecular techniques. Moreover, the genetic environment
+of the cfr gene was determined by whole-genome sequencing. The cfr gene was
+detected in one methicillin-resistant S. aureus (MRSA) that also displayed the
+amino acid change Val118Ala in the ribosomal protein L4. The second S. aureus
+isolate was methicillin susceptible and showed different alterations in the
+ribosomal protein L4. All remaining linezolid-resistant Staphylococcus
+epidermidis (n = 14) and Staphylococcus hominis isolates (n = 1) showed the
+mutation G2576T (n = 14) or C2534T (n = 1) in the 23S rRNA. Moreover, different
+amino acid changes were detected in the ribosomal proteins L3 and L4 in S.
+epidermidis isolates. All S. epidermidis isolates belonged to the multilocus
+sequence type ST2. Linezolid-resistant staphylococci (LRS) showed a
+multiresistance phenotype, including methicillin resistance that was detected in 
+all isolates but one, and was mediated by the mecA gene. The cfr gene in the MRSA
+isolate was located together with the fexA gene on a conjugative 38,864 bp
+plasmid. Linezolid- and methicillin-resistant S. epidermidis ST2 showing
+mutations in the 23S rRNA and in the ribosomal proteins L3 and L4 are spread
+among Spanish hospitals, whereas LRS carrying acquired linezolid resistance genes
+are rarely detected.
+
+DOI: 10.1089/mdr.2020.0122 
+PMID: 32456543 
+

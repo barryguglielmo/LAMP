@@ -1,0 +1,57 @@
+
+1. Infect Drug Resist. 2020 Apr 16;13:1105-1110. doi: 10.2147/IDR.S246697.
+eCollection 2020.
+
+An NDM-1-Producing Acinetobacter towneri Isolate from Hospital Sewage in China.
+
+Wang K(#)(1)(2), Li P(#)(1)(2), Li J(#)(2), Hu X(#)(2), Lin Y(1)(2), Yang
+L(1)(2), Qiu S(2), Ma H(#)(3), Li P(2), Song H(2).
+
+Author information: 
+(1)College of Military Medicine, Academy of Military Sciences, Beijing, People's 
+Republic of China.
+(2)Center for Disease Control and Prevention of PLA, Beijing, People's Republic
+of China.
+(3)The Sixth Medical Center of PLA General Hospital, Beijing, People's Republic
+of China.
+(#)Contributed equally
+
+Background: The New Delhi metallo-β-lactamase-1 (NDM-1)-positive plasmid and its 
+variants pose daunting threats to public health. Hospital sewage was considered
+as an important reservoir of antibiotic genes. Numerous and diverse taxa of
+multidrug-resistant (MDR) bacteria carrying NDM-1-positive plasmids have been
+identified during routine surveillance of hospital sewage. We herein report a
+carbapenem-resistant Acinetobacter towneri strain AeBJ009 with an NDM-1-positive 
+plasmid isolated from hospital sewage.
+Materials and Methods: Bacteria were isolated from cultures of hospital sewage
+and identified by using the Vitek 2 compact system and 16S rRNA sequencing. The
+bla NDM-1 gene was amplified and confirmed by sequencing. Antimicrobial
+susceptibility testing was performed using AST-GN14 on the Vitek2 compact system.
+In addition, the bla NDM-1 gene was located by Southern blotting. Conjugation
+experiment and whole-genome sequencing were performed for further analysis.
+Results: Strain AeBJ009 was isolated from hospital sewage and identified as A.
+towneri. Antimicrobial susceptibility testing revealed an MDR phenotype.
+Pulsed-field gel electrophoresis and Southern blotting showed that strain AeBJ009
+carries three plasmids and that bla NDM-1 is located on the 47kb plasmid
+pNDM-AeBJ009. However, the conjugation experiment to transfer pNDM-AeBJ009 to
+Escherichia coli strain J53 was unsuccessful. Whole-genome sequencing found that 
+pNDM-AeBJ009 contains a Tn125 element carrying bla NDM-1 . The ble gene
+downstream of bla NDM-1 displayed a single-nucleotide polymorphism compared to
+its homologue on plasmid pM131_NDM1. BLAST analysis using the Comprehensive
+Antibiotic Resistance Database identified no gene polymorphisms with 100%
+identity to our ble variant.
+Conclusion: The A. towneri strain AeBJ009 exhibiting an extended spectrum of
+antibiotic resistance was isolated from hospital sewage and may potentially
+exacerbate the risk of MDR bacterial infections. The prevention of nosocomial
+infections due to drug-resistant bacteria will require enhanced monitoring and
+control of MDR pathogens in environmental reservoirs.
+
+© 2020 Wang et al.
+
+DOI: 10.2147/IDR.S246697 
+PMCID: PMC7170623
+PMID: 32368101 
+
+Conflict of interest statement: The authors report no conflicts of interest in
+this work.
+

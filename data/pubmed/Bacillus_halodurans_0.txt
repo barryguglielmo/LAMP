@@ -1,0 +1,33 @@
+
+1. FEBS Lett. 2020 Jul;594(14):2303-2310. doi: 10.1002/1873-3468.13809. Epub 2020
+Jun 15.
+
+RecJ from Bacillus halodurans possesses endonuclease activity at moderate
+temperature.
+
+Wang W(1)(2), Ma L(1)(2), Wang L(1), Zheng L(2), Zheng M(2).
+
+Author information: 
+(1)College of Environmental Science and Engineering, Qingdao University, Qingdao,
+266071, China.
+(2)Marine Bioresources and Environment Research Center, First Institute of
+Oceanography, Ministry of Natural Resources, Qingdao, 266061, China.
+
+RecJ homologs, which occur in virtually all prokaryotes and eukaryotes, play key 
+roles in DNA damage repair and recombination. Current evidence shows that RecJ
+family proteins exhibit exonuclease activity, degrading single-stranded nucleic
+acids. Here, we report a novel RecJ isolated from Bacillus halodurans, which
+utilizes double-stranded DNA as a substrate and functions as an endonuclease.
+Bacillus halodurans RecJ (BhRecJ) cleaves supercoiled plasmids into open circular
+and linear forms. Besides the typical domains of DHH, DHHA1, and
+oligonucleotide-binding-fold, BhRecJ possesses a C-terminal domain with unknown
+function, which might form the core of the endonuclease activity. Using
+mutational analysis, we mapped several essential residues for BhRecJ endonuclease
+activity. Our findings suggest that BhRecJ may be involved in biological
+processes not typically associated with RecJ proteins.
+
+© 2020 Federation of European Biochemical Societies.
+
+DOI: 10.1002/1873-3468.13809 
+PMID: 32394489 
+

@@ -1,0 +1,62 @@
+
+1. Biosci Microbiota Food Health. 2020;39(3):128-136. doi: 10.12938/bmfh.2020-002.
+Epub 2020 Feb 29.
+
+Protection of gut microbiome from antibiotics: development of a
+vancomycin-specific adsorbent with high adsorption capacity.
+
+Yuzuriha K(1), Yakabe K(2)(3), Nagai H(1), Li S(1), Zendo T(4), Zai K(5),
+Kishimura A(1)(6)(7)(8), Hase K(2)(9), Kim YG(3), Mori T(1)(6)(7), Katayama
+Y(1)(6)(7)(8)(10)(11).
+
+Author information: 
+(1)Department of Applied Chemistry, Faculty of Engineering, Kyushu University,
+744 Motooka, Nishi-ku, Fukuoka 819-0395, Japan.
+(2)Division of Biochemistry, Faculty of Pharmacy, Keio University, Tokyo
+105-8512, Japan.
+(3)Research Center for Drug Discovery, Faculty of Pharmacy, Keio University,
+Tokyo 105-8512, Japan.
+(4)Department of Bioscience and Biotechnology, Faculty of Agriculture, Graduate
+School, Kyushu University, Fukuoka 819-039, Japan.
+(5)Department of Pharmaceutics, Faculty of Pharmacy, Gadjah Mada University,
+Yogyakarta 55281, Indonesia.
+(6)Graduate School of Systems Life Sciences, Kyushu University, 744 Motooka,
+Nishi-ku, Fukuoka 819-0395, Japan.
+(7)Center for Future Chemistry, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka
+819-0395, Japan.
+(8)International Research Center for Molecular Systems, Kyushu University, 744
+Motooka, Nishi-ku, Fukuoka 819-0395, Japan.
+(9)Division of Mucosal Barriology, International Research and Development Center 
+for Mucosal Vaccines, The Institute of Medical Science, The University of Tokyo, 
+Tokyo 108-8639, Japan.
+(10)Advanced Medicine Innovation Center, Kyushu University, 3-1-1 Maidashi,
+Higashi-ku, Fukuoka 812-8582, Japan.
+(11)Department of Biomedical Engineering, Chung Yuan Christian University, 200
+Chung Pei Rd., Chung Li, 32023 ROC, Taiwan.
+
+The fraction of administered antibiotics that reach the cecum and colon causes
+dysbiosis of the gut microbiome, resulting in various diseases. Protection of the
+gut microbiome from antibiotics using antibiotic adsorbents in the cecum and
+colon is a promising method to overcome this issue. Previously, activated
+charcoal (AC) has been reported to protect the gut microbiome of host animals. AC
+is an adsorbent that is widely used to capture toxic compounds and overdosed
+drugs in the gastrointestinal tract. The specificity of adsorbents for
+antibiotics is critical to avoid the risk of unexpected side effects caused by
+nonspecific adsorption of biological compounds in the intestinal fluid, such as
+bile acids and essential micronutrients. Here, we have developed specific
+adsorbents for vancomycin (VCM), which is known to cause gut dysbiosis. The
+adsorbents were composed of polyethyleneglycol-based microparticles (MPs) in
+which a specific ligand for VCM, D-Ala-D-Ala-OH, was attached via dendrons of
+D-lysine to raise the content of the ligand in the MPs. The MPs successfully
+protected Staphylococcus lentus from VCM in vitro because of the adsorption of
+VCM in the culture media. Pre-administration of MPs to mice reduced the amount of
+free VCM in the feces to an undetectable level. This treatment minimized the
+effect of VCM on gut microbiota and provided protection against Clostridioides
+difficile infection after oral challenge with spores.
+
+©2020 BMFH Press.
+
+DOI: 10.12938/bmfh.2020-002 
+PMCID: PMC7392918
+PMID: 32775131 
+

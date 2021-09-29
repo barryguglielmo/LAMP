@@ -1,0 +1,46 @@
+
+1. Food Microbiol. 2020 Oct;91:103542. doi: 10.1016/j.fm.2020.103542. Epub 2020 May 
+11.
+
+Discrimination of psychrotolerant Bacillus cereus group based on MALDI-TOF MS
+analysis of ribosomal subunit proteins.
+
+Takahashi N(1), Nagai S(2), Fujita A(2), Ido Y(2), Kato K(2), Saito A(3), Moriya 
+Y(3), Tomimatsu Y(3), Kaneta N(3), Tsujimoto Y(3), Tamura H(4).
+
+Author information: 
+(1)Food Quality and Safety Research Laboratories, Meiji Co., Ltd., 1-29-1,
+Nanakuni, Hachiouji, Tokyo, 192-0919, Japan. Electronic address:
+naomi.takahashi@meiji.com.
+(2)Faculty of Agriculture, Meijo University, 1-501, Shiogamaguchi, Tempaku-ku,
+Nagoya, Aichi, 468-8502, Japan.
+(3)Food Quality and Safety Research Laboratories, Meiji Co., Ltd., 1-29-1,
+Nanakuni, Hachiouji, Tokyo, 192-0919, Japan.
+(4)Faculty of Agriculture, Meijo University, 1-501, Shiogamaguchi, Tempaku-ku,
+Nagoya, Aichi, 468-8502, Japan. Electronic address: hiroto@meijo-u.ac.jp.
+
+Psychrotolerant species of the Bacillus cereus group, Bacillus mycoides and
+Bacillus weihenstephanensis, can grow at ≥ 7 °C and are significant concerns for 
+the food industry due to their ability to cause spoilage of refrigerated food. In
+addition to that, some strains of B. weihenstephanensis can produce emetic toxin,
+namely cereulide, which is known to cause vomiting. Therefore, rapid and simple
+methods to discriminate psychrotolerant B. cereus group species are crucial.
+Here, matrix assisted laser desorption ionization time of flight mass
+spectrometry (MALDI-TOF MS) and the S10-spc-alpha operon gene encoded ribosomal
+protein mass spectrum (S10-GERMS) method were used to discriminate
+psychrotolerant species of the B. cereus group based on a set of four ribosomal
+subunit proteins (S10, S16, S20 and L30). A total of 36 strains of B. cereus
+group were cultured on LB agar, and analyzed by MALDI-TOF MS. The four biomarkers
+successfully discriminated 12 strains of psychrotolerant species from mesophilic 
+species of the B. cereus group. Furthermore, the four biomarkers also classified 
+some Bacillus thuringiensis strains. MALDI-TOF MS analysis using the S10-GERMS
+method allowed simple and rapid discrimination of psychrotolerant species of the 
+B. cereus group from other mesophilic species. This method has a possibility to
+enable manufacturers and distributors of refrigerated foods to control
+psychrotolerant species of the B. cereus group effectively.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fm.2020.103542 
+PMID: 32539947 
+

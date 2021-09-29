@@ -1,0 +1,69 @@
+
+1. BMC Infect Dis. 2020 Aug 26;20(1):629. doi: 10.1186/s12879-020-05324-9.
+
+Human papillomavirus infection and cervical intraepithelial neoplasia progression
+are associated with increased vaginal microbiome diversity in a Chinese cohort.
+
+Chen Y(1)(2)(3), Qiu X(1)(2)(3), Wang W(1)(2)(3), Li D(1)(2)(3), Wu A(1)(2)(3),
+Hong Z(1)(2)(3), Di W(4)(5)(6), Qiu L(7)(8)(9).
+
+Author information: 
+(1)Department of Gynecology and Obstetrics, Ren ji Hospital, School of Medicine, 
+Shanghai Jiao Tong University, Shanghai, China.
+(2)Shanghai Key Laboratory of Gynecologic Oncology, Ren ji Hospital, School of
+Medicine, Shanghai Jiao Tong University, Shanghai, China.
+(3)State Key Laboratory of Oncogenes and Related Genes, Shanghai Cancer
+Institute, Ren ji Hospital, School of Medicine, Shanghai Jiao Tong University,
+Shanghai, China.
+(4)Department of Gynecology and Obstetrics, Ren ji Hospital, School of Medicine, 
+Shanghai Jiao Tong University, Shanghai, China. diwen163@163.com.
+(5)Shanghai Key Laboratory of Gynecologic Oncology, Ren ji Hospital, School of
+Medicine, Shanghai Jiao Tong University, Shanghai, China. diwen163@163.com.
+(6)State Key Laboratory of Oncogenes and Related Genes, Shanghai Cancer
+Institute, Ren ji Hospital, School of Medicine, Shanghai Jiao Tong University,
+Shanghai, China. diwen163@163.com.
+(7)Department of Gynecology and Obstetrics, Ren ji Hospital, School of Medicine, 
+Shanghai Jiao Tong University, Shanghai, China. lilyqiulh@126.com.
+(8)Shanghai Key Laboratory of Gynecologic Oncology, Ren ji Hospital, School of
+Medicine, Shanghai Jiao Tong University, Shanghai, China. lilyqiulh@126.com.
+(9)State Key Laboratory of Oncogenes and Related Genes, Shanghai Cancer
+Institute, Ren ji Hospital, School of Medicine, Shanghai Jiao Tong University,
+Shanghai, China. lilyqiulh@126.com.
+
+BACKGROUND: In this study, the association between human papillomavirus (HPV)
+infection and related cervical intraepithelial neoplasia (CIN) or cervical cancer
+and vaginal microbiome was evaluated in Chinese cohorts.
+METHODS: The vaginal bacterial composition of five groups, HPV-infected women
+without CINs (HPV, n = 78), women with low-grade squamous intraepithelial lesions
+(LSIL, n = 51), women with high-grade squamous intraepithelial lesions (HSIL,
+n = 23), women with invasive cervical cancer (Cancer, n = 9) and healthy women
+without HPV infection (Normal, n = 68), was characterized by deep sequencing of
+barcoded 16S rRNA gene fragments (V3-4) using Illumina MiSeq.
+RESULTS: HPV infection increased vaginal bacterial richness and diversity
+regardless of the status of CINs. The vaginal bacterial richness and diversity
+were further augmented in women with cervical cancer. Lactobacillus was the most 
+abundant genus in all groups. HPV infection had a negative influence on the
+abundances of Lactobacillus, Gardnerella and Atopobium. Accordingly, HPV
+infection increased the relative abundance of Prevotella, Bacillus, Anaerococcus,
+Sneathia, Megasphaera, Streptococcus and Anaerococcus. The increased proportions 
+of Bacillus, Anaerococcus and the reduced abundance of Gradnerella vaginalis were
+probably related with the progression of CINs severity. HPV infection without
+CINs or cancerous lesions was strongly associated with Megasphaera. The most
+abundant bacterium in the LSIL group was Prevotella amnii. However, Prevotella
+timonensis, Shuttleworthia and Streptococcaceae at the family level were three
+taxa related to HSIL. Furthermore, more taxa were associated with the Cancer
+group including Bacillus, Sneathia, Acidovorax, Oceanobacillus profundus,
+Fusobacterium, Veillonellaceae at the family level, Anaerococcus and
+Porphyromonas uenonis. Samples in the Normal group were mostly assigned to CST
+III. HPV infection converted the vaginal bacterial community structure from CST
+III to CST IV. Furthermore, the proportions of CST IV were gradually augmented
+with the progression of the severity of CINs.
+CONCLUSIONS: This work interpreted the differential vaginal bacteria under HPV
+infection and various precancerous or cancerous lesions in a Chinese cohort. We
+distinguished the specific microbes and the vaginal bacterial structure that were
+related with the progression of CINs severity in Chinese women.
+
+DOI: 10.1186/s12879-020-05324-9 
+PMCID: PMC7449047
+PMID: 32842982  [Indexed for MEDLINE]
+

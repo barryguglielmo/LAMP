@@ -1,0 +1,45 @@
+
+1. An Acad Bras Cienc. 2019 Oct 7;91(3):e20180568. doi:
+10.1590/0001-3765201920180568. eCollection 2019.
+
+Molecular identification of a cyclodextrin glycosyltransferase-producing
+microorganism and phylogenetic assessment of enzymatic activities.
+
+Landriel SC(1), Castillo JDLM(1), Taboga OA(2)(3), Ferrarotti SA(1), Gottlieb
+AM(4)(3), Costa H(1)(5)(3).
+
+Author information: 
+(1)Laboratorio de Química Biológica, Departamento de Ciencias Básicas,
+Universidad Nacional de Luján, Ruta 5 y Avenida Constitución, 6700, Luján, Buenos
+Aires, Argentina.
+(2)Instituto de Agrobiotecnología y Biología Molecular, Instituto Nacional de
+Tecnología Agropecuaria (IABIMO-INTA-CONICET), De los Reseros, s/n, B1712WAA,
+Castelar, Buenos Aires, Argentina.
+(3)Consejo Nacional de Investigaciones Científicas y Técnicas/CONICET, Godoy Cruz
+2290, C1425FQB, Ciudad Autónoma de Buenos Aires, Argentina.
+(4)Laboratorio de Citogenética y Evolución (LaCyE), Departamento de Ecología,
+Genética y Evolución, IEGEBA (UBA-CONICET), Facultad de Ciencias Exactas y
+Naturales, Universidad de Buenos Aires, Intendente Güiraldes y Costanera Norte
+s/n, 4to piso, Pabellón II, Ciudad Universitaria, C1428EHA, Ciudad Autónoma de
+Buenos Aires, Argentina.
+(5)Instituto de Ecología y Desarrollo Sustentable (INEDES-CONICET), Universidad
+Nacional de Luján, Ruta 5 y Avenida Constitución, 6700, Luján, Buenos Aires,
+Argentina.
+
+Cyclodextrin glycosyltransferases (CGTases) are important enzymes in the
+biotechnology field because they catalyze starch conversion into cyclodextrins
+and linear oligosaccharides, which are used in food, pharmaceutical and cosmetic 
+industries. The CGTases are classified according to their product specificity in 
+α-, β-, α/β- and γ-CGTases. As molecular markers are the preferred tool for
+bacterial identification, we employed six molecular markers (16S rRNA, dnaK,
+gyrB, recA, rpoB and tufA) to test the identification of a CGTase-producing
+bacterial strain (DF 9R) in a phylogenetic context. In addition, we assessed the 
+phylogenetic relationship of CGTases along bacterial evolution. The results
+obtained here allowed us to identify the strain DF 9R as Paenibacillus
+barengoltzii, and to unveil a complex origin for CGTase types during archaeal and
+bacterial evolution. We postulate that the α-CGTase activity represents the
+ancestral type, and that the γ-activity may have derived from β-CGTases.
+
+DOI: 10.1590/0001-3765201920180568 
+PMID: 31596388  [Indexed for MEDLINE]
+

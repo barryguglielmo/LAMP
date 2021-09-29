@@ -1,0 +1,35 @@
+
+1. AMB Express. 2020 Apr 24;10(1):79. doi: 10.1186/s13568-020-01015-5.
+
+Exploration of isoxanthohumol bioconversion from spent hops into
+8-prenylnaringenin using resting cells of Eubacterium limosum.
+
+Moens E(1)(2), Bolca S(1), Van de Wiele T(2), Van Landschoot A(3), Goeman JL(4), 
+Possemiers S(1), Verstraete W(5).
+
+Author information: 
+(1)ProDigest BVBA, Technol Pk 82, 9052, Ghent, Belgium.
+(2)Ugent, CMET, Coupure Links 653, 9000, Ghent, Belgium.
+(3)Ugent, Dept Biotechnology, Valentin Vaerwyckweg 1, 9000, Ghent, Belgium.
+(4)Ugent, Dept Organic and Macromolecular Chemistry, Krijgslaan 281-S4, 9000,
+Ghent, Belgium.
+(5)AVECOM NV, Ind Weg 122P, 9032, Wondelgem, Belgium. Willy.Verstraete@avecom.be.
+
+Hops is an almost unique source of the potent phytoestrogen 8-prenylnaringenin
+(8-PN). As hops contain only low levels of 8-PN, synthesis may be more attractive
+than extraction. A strain of the Gram-positive Eubacterium limosum was isolated
+previously for 8-PN production from more abundant precursor isoxanthohumol (IX)
+from hops. In this study, spent hops, an industrial side stream from the beer
+industry, was identified as interesting source of IX. Yet, hop-derived compounds 
+are well-known antibacterial agents and the traces of a large variety of
+different compounds in spent hops interfered with growth and IX conversion.
+Critical factors to finally enable bacterial 8-PN production from spent hops,
+using a food and feed grade medium, were evaluated in this research. The use of
+bacterial resting cells and complex medium at a pH of 7.8-8 best fulfilled the
+requirements for 8-PN production and generated a solid basis for development of
+an economic process.
+
+DOI: 10.1186/s13568-020-01015-5 
+PMCID: PMC7182650
+PMID: 32333233 
+

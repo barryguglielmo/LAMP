@@ -1,0 +1,44 @@
+
+1. Genome Biol. 2020 Mar 25;21(1):78. doi: 10.1186/s13059-020-01989-2.
+
+A Cas12a ortholog with stringent PAM recognition followed by low off-target
+editing rates for genome editing.
+
+Chen P(1), Zhou J(1), Wan Y(1), Liu H(1), Li Y(1), Liu Z(1), Wang H(1), Lei J(2),
+Zhao K(1), Zhang Y(3), Wang Y(3), Zhang X(4), Yin L(5).
+
+Author information: 
+(1)State Key Laboratory of Virology, Hubei Key Laboratory of Cell Homeostasis,
+Department of Biochemistry and Molecular Biology, College of Life Sciences, Wuhan
+University, Wuhan, China.
+(2)Department of Clinical Oncology, Renmin Hospital of Wuhan University, Wuhan,
+430060, China.
+(3)Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, Wuhan
+University, Wuhan, 430072, Hubei, People's Republic of China.
+(4)College of Life Sciences, the Institute for Advanced Studies, State Key
+Laboratory of Virology, Hubei Key Laboratory of Cell Homeostasis, Wuhan
+University, Wuhan, 430072, China.
+(5)State Key Laboratory of Virology, Hubei Key Laboratory of Cell Homeostasis,
+Department of Biochemistry and Molecular Biology, College of Life Sciences, Wuhan
+University, Wuhan, China. yinlei@whu.edu.cn.
+
+BACKGROUND: AsCas12a and LbCas12a nucleases are reported to be promising tools
+for genome engineering with protospacer adjacent motif (PAM) TTTV as the optimal.
+However, the C-containing PAM (CTTV, TCTV, TTCV, etc.) recognition by Cas12a
+might induce extra off-target edits at these non-canonical PAM sites.
+RESULTS: Here, we identify a novel Cas12a nuclease CeCas12a from Coprococcus
+eutactus, which is a programmable nuclease with genome-editing efficiencies
+comparable to AsCas12a and LbCas12a in human cells. Moreover, CeCas12a is
+revealed to be more stringent for PAM recognition in vitro and in vivo followed
+by very low off-target editing rates in cells. Notably, CeCas12a renders less
+off-target edits located at C-containing PAM at multiple sites compared to
+LbCas12a and AsCas12a, as assessed by targeted sequencing methods.
+CONCLUSIONS: Our study shows that CeCas12a nuclease is active in human cells and 
+the stringency of PAM recognition could be an important factor shaping off-target
+editing in gene editing. Thus, CeCas12a provides a promising candidate with
+distinctive characteristics for research and therapeutic applications.
+
+DOI: 10.1186/s13059-020-01989-2 
+PMCID: PMC7093978
+PMID: 32213191 
+

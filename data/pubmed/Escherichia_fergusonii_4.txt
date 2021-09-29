@@ -1,0 +1,36 @@
+
+1. Int J Syst Evol Microbiol. 2020 Sep;70(9):4951-4959. doi: 10.1099/ijsem.0.004364.
+
+Intestinirhabdus alba gen. nov., sp. nov., a novel genus of the family
+Enterobacteriaceae, isolated from the gut of plastic-eating larvae of the
+Coleoptera insect Zophobas atratus.
+
+Xu Z(1), Xia M(1), Huo YX(2)(1), Yang Y(1).
+
+Author information: 
+(1)Department of Biology, School of Life Science, Beijing Institute of
+Technology, Beijing 100081, PR China.
+(2)Key Laboratory of Molecular Medicine and Biotherapy, Beijing Institute of
+Technology, Beijing 100081, PR China.
+
+A bacterial strain, BIT-B35T, was isolated from the gut of plastic-eating larvae 
+of the Coleoptera insect Zophobas atratus. Its taxonomic position was determined 
+by using a polyphasic approach. Cells were white-pigmented, Gram-stain-negative, 
+motile short rods with terminal flagella. The 16S rRNA gene sequence (1411 bp) of
+strain BIT-B35T showed highest similarity (98.1%) to Escherichia fergusonii ATCC 
+35469T and Citrobacter koseri LMG 5519T. The results of phylogenetic analyses,
+based on the 16S rRNA gene, concatenated sequences of seven housekeeping genes
+(atpD, gyrB, infB, rpoB, pyrG, fusA and leuS) and genome sequences, placed strain
+BIT-B35T in a separate lineage among the family of Enterobacteriaceae. The major 
+fatty acids were C16 : 0, C17 : 0 cyclo and C19 : 0 cyclo ω8c. The genomic DNA
+G+C content of strain BIT-B35T was 57.1 mol%. The chemotaxonomic data plus
+results of physiological and biochemical tests also distinguished strain BIT-B35T
+from members of other genera within the family Enterobacteriaceae. Therefore,
+strain BIT-B35T is considered to represent a novel species of a novel genus
+within the family Enterobacteriaceae, for which the name Intestinirhabdus alba
+gen. nov., sp. nov. is proposed. The type strain is BIT-B35T (=CGMCC
+1.17042T=KCTC 72448T).
+
+DOI: 10.1099/ijsem.0.004364 
+PMID: 32744988 
+

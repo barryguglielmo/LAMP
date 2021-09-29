@@ -1,0 +1,43 @@
+
+1. Molecules. 2020 Jun 30;25(13). pii: E2985. doi: 10.3390/molecules25132985.
+
+Effect of Sporulation Conditions Following Submerged Cultivation on the
+Resistance of Bacillus atrophaeus Spores against Inactivation by H2O2.
+
+Stier P(1), Kulozik U(1).
+
+Author information: 
+(1)Chair of Food and Bioprocess Engineering, Technical University of Munich,
+85354 Freising, Germany.
+
+The resistance formation of spores in general and of Bacillus atrophaeus in
+particular has long been the focus of science in the bio-defense, pharmaceutical 
+and food industries. In the food industry, it is used as a biological indicator
+(BI) for the evaluation of the inactivation effects of hydrogen peroxide in
+processing and end packaging lines' sterilization. Defined BI resistances are
+critical to avoid false positive and negative tests, which are salient problems
+due to the variable resistance of currently available commercial BIs. Although
+spores for use as BIs have been produced for years, little is known about the
+influence of sporulation conditions on the resistance as a potential source of
+random variability. This study therefore examines the dependence of spore
+resistance on the temperature, pH and partial oxygen saturation during submerged 
+production in a bioreactor. For this purpose, spores were produced under
+different sporulation conditions and their resistance, defined by the D-value,
+was determined using a count reduction test in tempered 35% liquid hydrogen
+peroxide. The statistical analysis of the test results shows a quadratic
+dependence of the resistance on the pH, with the highest D‑values at neutral pH. 
+The sporulation temperature has a linear influence on the resistance. The higher 
+the temperature, the higher the D‑value. However, these factors interact with
+each other, which means that the temperature only influences the resistance when 
+the pH is within a certain range. The oxygen partial pressure during sporulation 
+has no significant influence. Based on the data obtained, a model could be
+developed enabling the resistance of BIs to be calculated, predicted and
+standardized depending on the sporulation conditions. BI manufacturers could thus
+produce BIs with defined resistances for the validation of sterilization effects 
+in aseptic packaging/filling lines for the reliable manufacture of shelf-stable
+and safe food products.
+
+DOI: 10.3390/molecules25132985 
+PMCID: PMC7412142
+PMID: 32629775 
+

@@ -1,0 +1,38 @@
+
+1. Crit Rev Microbiol. 2020 Aug;46(4):397-419. doi: 10.1080/1040841X.2020.1794790.
+Epub 2020 Sep 4.
+
+Lipopeptide families at the interface between pathogenic and beneficial
+Pseudomonas-plant interactions.
+
+Girard L(1), Höfte M(2), Mot R(1).
+
+Author information: 
+(1)Centre of Microbial and Plant Genetics, Faculty of Bioscience Engineering, KU 
+Leuven, Heverlee-Leuven, Belgium.
+(2)Department of Plants and Crops, Laboratory of Phytopathology, Faculty of
+Bioscience Engineering, Ghent University, Ghent, Belgium.
+
+Lipopeptides (LPs) are a prominent class of molecules among the steadily growing 
+spectrum of specialized metabolites retrieved from Pseudomonas, in particular
+soil-dwelling and plant-associated isolates. Among the multiple LP families,
+pioneering research focussed on phytotoxic and antimicrobial cyclic lipopeptides 
+(CLPs) of the ubiquitous plant pathogen Pseudomonas syringae (syringomycin and
+syringopeptin). Their non-ribosomal peptide synthetases (NRPSs) are embedded in
+biosynthetic gene clusters (BGCs) that are tightly co-clustered on a
+pathogenicity island. Other members of the P. syringae group (Pseudomonas
+cichorii) and some species of the Pseudomonas asplenii group and Pseudomonas
+fluorescens complex have adopted these biosynthetic strategies to co-produce
+their own mycin and peptin variants, in some strains supplemented with an
+analogue of the P. syringae linear LP (LLP), syringafactin. This capacity is not 
+confined to phytopathogens but also occurs in some biocontrol strains, which
+indicates that these LP families not solely function as general virulence
+factors. We address this issue by scrutinizing the structural diversity and
+bioactivities of LPs from the mycin, peptin, and factin families in a
+phylogenetic and evolutionary perspective. BGC functional organization (including
+associated regulatory and transport genes) and NRPS modular architectures in
+known and candidate LP producers were assessed by genome mining.
+
+DOI: 10.1080/1040841X.2020.1794790 
+PMID: 32885723 
+

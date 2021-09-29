@@ -1,0 +1,53 @@
+
+1. Sci Total Environ. 2019 Oct 15;687:577-589. doi: 10.1016/j.scitotenv.2019.06.077.
+Epub 2019 Jun 7.
+
+Arsenite biotransformation by Rhodococcus sp.: Characterization, optimization
+using response surface methodology and mechanistic studies.
+
+Kumari N(1), Rana A(1), Jagadevan S(2).
+
+Author information: 
+(1)Department of Environmental Science and Engineering, Indian Institute of
+Technology (Indian School of Mines), Dhanbad, Jharkhand 826004, India.
+(2)Department of Environmental Science and Engineering, Indian Institute of
+Technology (Indian School of Mines), Dhanbad, Jharkhand 826004, India. Electronic
+address: sheejaj@iitism.ac.in.
+
+Erratum in
+    Sci Total Environ. 2020 Jul 1;724:138612.
+
+Comment in
+    Sci Total Environ. 2020 Apr 10;712:135748.
+
+A large population of the world is under increased health risk due to consumption
+of arsenic contaminated groundwater. The present study investigates the arsenic
+resistance and arsenic biotransforming ability in three bacterial species, namely
+Bacillus arsenicus, Rhodococcus sp. and Alcaligenes faecalis for employing them
+in potential groundwater bioremediation programmes. The tolerance to pH levels
+for the 3 organisms are 6-9 for A. faecalis, 5-10 for Rhodococcus and 5-9 for B. 
+arsenicus. The arsenic bio-oxidation capacity was qualitatively confirmed by
+using the silver nitrate method and all three bacteria were able to convert
+arsenite to arsenate. The arsenite tolerance capacity (MIC values) were found to 
+be 3 mM, 7 mM and 12 mM for B. arsenicus, A. faecalis and Rhodococcus sp.
+respectively. The changes in cellular morphology of these strains under various
+arsenic stress conditions were studied using advanced cell imaging techniques
+such as scanning electron microscopy and Atomic Force Microscopy. Rhodococcus sp.
+emerged as a potential candidate for bioremediation application. A response
+surface methodology was employed to optimize key parameters affecting arsenic
+removal (pH, Iron (II) soluble, concentration of humic acid and initial arsenic
+concentration) and at optimized conditions, experimental runs demonstrated 48.34%
+removal of As (III) (initial concentration = 500 μg/L) in a duration of 6 h, with
+complete removal after 48 h. Evidences from this work indicate that arsenic
+removal occurs through bioaccumulation, biotransformation and biosorption. The
+present study makes the first attempt to investigate the arsenic removal
+capability of Rhodococcus sp. in synthetic groundwater by employing bacterial
+whole cell assays. This study also sheds light on the arsenic tolerance and
+detoxification mechanisms employed by these bacteria, knowledge of which could be
+crucial in the successful implementation of in-situ bioremediation programmes.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2019.06.077 
+PMID: 31216511  [Indexed for MEDLINE]
+

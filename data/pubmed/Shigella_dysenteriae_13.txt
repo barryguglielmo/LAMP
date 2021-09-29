@@ -1,0 +1,60 @@
+
+1. Environ Res. 2020 Aug;187:109620. doi: 10.1016/j.envres.2020.109620. Epub 2020
+May 8.
+
+Sonophotocatalytic disinfection of Shigella species under visible light
+irradiation: Insights into its molecular mechanism, antibacterial resistance and 
+biofilm formation.
+
+Rahman APH(1), Dash S(2), Mohanty PS(3), Mishra A(2), Lundborg CS(4), Tripathy
+SK(5).
+
+Author information: 
+(1)School of Chemical Technology, Kalinga Institute of Industrial Technology,
+Bhubaneswar, 751024, Odisha, India; School of Biotechnology, Kalinga Institute of
+Industrial Technology, Bhubaneswar, 751024, Odisha, India.
+(2)School of Biotechnology, Kalinga Institute of Industrial Technology,
+Bhubaneswar, 751024, Odisha, India.
+(3)School of Chemical Technology, Kalinga Institute of Industrial Technology,
+Bhubaneswar, 751024, Odisha, India.
+(4)Department of Global Public Health, Karolinska Institutet, 17177, Stockholm,
+Sweden.
+(5)School of Chemical Technology, Kalinga Institute of Industrial Technology,
+Bhubaneswar, 751024, Odisha, India; School of Biotechnology, Kalinga Institute of
+Industrial Technology, Bhubaneswar, 751024, Odisha, India. Electronic address:
+suraj.tripathy@kiitbiotech.ac.in.
+
+Microbial contamination of water is one of the major sources of many diseases
+worldwide. Evolution of antibacterial resistance (ABR) alongside the caveats in
+most of the water treatment methods causes the severity of the current problem
+extremely vexing. This calls for an urgent need to develop new treatment methods 
+aiming to reduce the microbial as well as ABR load in the environment. Herein, we
+successfully developed a visible light assisted sonophotocatalysis (SPC) using
+Fe/ZnO nanoparticles (NPs) for the disinfection of Shigella dysenteriae. A
+consortia containing S. dysenteriae and S. flexineri was also completely
+disinfected using SPC. Growth conditions of S. dysenteriae like growth phases and
+growth temperaturehad different outcomes on the overall efficacy of SPC. Compared
+with catalysts such as ZnO and TiO2, Fe/ZnO resulted in better disinfection.
+Multi-ROS production, mostly containing h+ and O2· radicals, due to the electron 
+displacement in the catalyst and acoustic cavitation was identified as the
+factors behind bacterial lethality. The ROS produced was found to interfere with 
+the metabolic activities of S. dysenteriae by causing membrane perturbation. We
+identified DNA damage inside the cells and the subsequent release of
+intracellular components. The compositional changes in the fatty acid makeup of
+the cells were altered as a result of SPC and few fatty acid markers indicating
+the stress posed by SPC were also identified. Loss of ABR in S. dysenteriae was
+also recorded post SPC treatment. Abatement in the biofilm forming ability of the
+injured bacterial cells was also recorded, proving the extremity of stress
+induced by SPC. Hence, the excellent efficacy of SPC in disinfecting bacteria is 
+proposed for tertiary water treatment applications.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.envres.2020.109620 
+PMID: 32416355 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

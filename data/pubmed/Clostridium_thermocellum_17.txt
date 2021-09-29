@@ -1,0 +1,43 @@
+
+1. Biotechnol Bioeng. 2020 Jul;117(7):2223-2236. doi: 10.1002/bit.27360. Epub 2020
+May 8.
+
+Endogenous carbohydrate esterases of Clostridium thermocellum are identified and 
+disrupted for enhanced isobutyl acetate production from cellulose.
+
+Seo H(1)(2), Nicely PN(1), Trinh CT(1)(2).
+
+Author information: 
+(1)Department of Chemical and Biomolecular Engineering, The University of
+Tennessee, Knoxville, Tennessee.
+(2)Center of Bioenergy Innovation, Oak Ridge National Laboratory, Oak Ridge,
+Tennessee.
+
+Medium-chain esters are versatile chemicals with broad applications as flavors,
+fragrances, solvents, and potential drop-in biofuels. Currently, these esters are
+largely produced by the conventional chemical process that uses harsh operating
+conditions and requires high energy input. Alternatively, the microbial
+conversion route has recently emerged as a promising platform for sustainable and
+renewable ester production. The ester biosynthesis pathways can utilize either
+lipases or alcohol acyltransferase (AAT), but the AAT-dependent pathway is more
+thermodynamically favorable in an aqueous fermentation environment. Even though a
+cellulolytic thermophile Clostridium thermocellum harboring an AAT-dependent
+pathway has recently been engineered for direct conversion of lignocellulosic
+biomass into esters, the production is not efficient. One potential bottleneck is
+the ester degradation caused by the endogenous carbohydrate esterases (CEs) whose
+functional roles are poorly understood. The challenge is to identify and disrupt 
+CEs that can alleviate ester degradation while not negatively affecting the
+efficient and robust capability of C. thermocellum for lignocellulosic biomass
+deconstruction. In this study, by using bioinformatics, comparative genomics, and
+enzymatic analysis to screen a library of CEs, we identified and disrupted the
+two most critical CEs, Clo1313_0613 and Clo1313_0693, that significantly
+contribute to isobutyl acetate degradation in C. thermocellum. We demonstrated
+that an engineered esterase-deficient C. thermocellum strain not only reduced
+ester hydrolysis but also improved isobutyl acetate production while maintaining 
+effective cellulose assimilation.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1002/bit.27360 
+PMID: 32333614 
+

@@ -1,0 +1,49 @@
+
+1. PLoS Pathog. 2020 Aug 31;16(8):e1008822. doi: 10.1371/journal.ppat.1008822.
+eCollection 2020 Aug.
+
+Shigella hijacks the exocyst to cluster macropinosomes for efficient vacuolar
+escape.
+
+Chang YY(1), Stévenin V(1), Duchateau M(2), Giai Gianetto Q(2)(3), Hourdel V(2), 
+Rodrigues CD(1), Matondo M(2), Reiling N(4)(5), Enninga J(1).
+
+Author information: 
+(1)Dynamics of Host-Pathogen Interactions Unit and CNRS UMR3691, Institut
+Pasteur, Paris, France.
+(2)Mass Spectrometry for Biology Unit, Proteomics Platform, Institut Pasteur, USR
+CNRS, Paris, France.
+(3)Hub Bioinformatics et Biostatistics, Computational Biology Department, USR
+CNRS, Institut Pasteur, Paris, France.
+(4)Microbial Interface Biology, Research Center Borstel, Leibniz Lung Center,
+Borstel, Germany.
+(5)German Center for Infection Research (DZIF), Partner site
+Hamburg-Lübeck-Borstel, Borstel, Germany.
+
+Shigella flexneri invades host cells by entering within a bacteria-containing
+vacuole (BCV). In order to establish its niche in the host cytosol, the bacterium
+ruptures its BCV. Contacts between S. flexneri BCV and infection-associated
+macropinosomes (IAMs) formed in situ have been reported to enhance BCV
+disintegration. The mechanism underlying S. flexneri vacuolar escape remains
+however obscure. To decipher the molecular mechanism priming the communication
+between the IAMs and S. flexneri BCV, we performed mass spectrometry-based
+analysis of the magnetically purified IAMs from S. flexneri-infected cells. While
+proteins involved in host recycling and exocytic pathways were significantly
+enriched at the IAMs, we demonstrate more precisely that the S. flexneri type III
+effector protein IpgD mediates the recruitment of the exocyst to the IAMs through
+the Rab8/Rab11 pathway. This recruitment results in IAM clustering around S.
+flexneri BCV. More importantly, we reveal that IAM clustering subsequently
+facilitates an IAM-mediated unwrapping of the ruptured vacuole membranes from S. 
+flexneri, enabling the naked bacterium to be ready for intercellular spread via
+actin-based motility. Taken together, our work untangles the molecular cascade of
+S. flexneri-driven host trafficking subversion at IAMs to develop its cytosolic
+lifestyle, a crucial step en route for infection progression at cellular and
+tissue level.
+
+DOI: 10.1371/journal.ppat.1008822 
+PMCID: PMC7485983
+PMID: 32866204 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

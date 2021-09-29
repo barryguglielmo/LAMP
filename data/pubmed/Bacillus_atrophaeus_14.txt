@@ -1,0 +1,48 @@
+
+1. Front Bioeng Biotechnol. 2020 May 7;8:432. doi: 10.3389/fbioe.2020.00432.
+eCollection 2020.
+
+High-Efficiency Secretion and Directed Evolution of Chitinase BcChiA1 in Bacillus
+subtilis for the Conversion of Chitinaceous Wastes Into Chitooligosaccharides.
+
+Wang S(1)(2), Fu G(3)(4), Li J(3)(5), Wei X(6), Fang H(3)(4), Huang D(1)(6), Lin 
+J(3)(5)(7), Zhang D(3)(4).
+
+Author information: 
+(1)Key Laboratory of Zoological Systematics and Evolution, Institute of Zoology, 
+Chinese Academy of Sciences, Beijing, China.
+(2)University of Chinese Academy of Sciences, Beijing, China.
+(3)Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences,
+Tianjin, China.
+(4)Key Laboratory of Systems Microbial Biotechnology, Chinese Academy of
+Sciences, Tianjin, China.
+(5)Biodesign Center, Tianjin Institute of Industrial Biotechnology, Chinese
+Academy of Sciences, Tianjin, China.
+(6)College of Life Sciences, Nankai University, Tianjin, China.
+(7)College of Pharmacy, Nankai University, Tianjin, China.
+
+Limitations of enzyme production and activity pose a challenge for efficient
+degradation of chitinaceous wastes. To solve this problem, we engineered a system
+for high-yielding extracellular secretion of chitinase A1 from Bacillus circulans
+(BcChiA1) in B. subtilis. Furthermore, an innovative chitinase high-throughput
+screening method based on colloidal chitin stained with Remazol Brilliant Blue R 
+(CC-RBB) was established and used to identify three mutants with improved
+chitinase activity: Y10A/R301A/E327A (Mu1), Y10A/D81A/E327A (Mu2), and
+F38A/K88A/R301A (Mu3). Their highest specific activity reached 1004.83 ± 0.87
+U/mg, representing a 16.89-fold increase in activity compared to native BcChiA1. 
+Additionally, we found that there is a synergistic effect between BcChiA1 and a
+lytic polysaccharide monooxygenase from Bacillus atrophaeus (BatLPMO10), which
+increased the chitin processing efficiency by 50% after combining the two
+enzymes. The yield of chitooligosaccharide (COS) production using the mutant Mu1 
+and BatLPMO10 reached 2885.25 ± 2.22 mg/L. Taken together, the results indicated 
+that the CC-RBB high-throughput screening method is a useful tool for chitinase
+screening, and evolution of BcChiA1 in collaboration with BatLPMO10 has
+tremendous application potential in the biological treatment of chitinaceous
+wastes for COS production.
+
+Copyright © 2020 Wang, Fu, Li, Wei, Fang, Huang, Lin and Zhang.
+
+DOI: 10.3389/fbioe.2020.00432 
+PMCID: PMC7221128
+PMID: 32457893 
+

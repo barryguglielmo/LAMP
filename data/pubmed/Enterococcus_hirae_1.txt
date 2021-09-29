@@ -1,0 +1,57 @@
+
+1. Vet Microbiol. 2020 Jul 8;248:108791. doi: 10.1016/j.vetmic.2020.108791. [Epub
+ahead of print]
+
+Biocide susceptibility testing of bacteria: Development of a broth microdilution 
+method.
+
+Schug AR(1), Bartel A(2), Scholtzek AD(1), Meurer M(3), Brombach J(1), Hensel
+V(4), Fanning S(5), Schwarz S(1), Feßler AT(6).
+
+Author information: 
+(1)Institute of Microbiology and Epizootics, Centre for Infection Medicine,
+Department of Veterinary Medicine, Freie Universität Berlin, Germany.
+(2)Institute for Veterinary Epidemiology and Biostatistics, Department of
+Veterinary Medicine, Freie Universität Berlin, Germany.
+(3)Department of Physiological Chemistry, Research Center for Emerging Infections
+and Zoonoses (RIZ), University of Veterinary Medicine Hannover, Foundation,
+Germany.
+(4)Institute of Farm Animal Genetics, Friedrich-Loeffler-Institut (FLI),
+Neustadt-Mariensee, Germany.
+(5)UCD-Centre for Food Safety, School of Public Health, Physiotherapy and Sports 
+Science, University College Dublin, Dublin, Ireland.
+(6)Institute of Microbiology and Epizootics, Centre for Infection Medicine,
+Department of Veterinary Medicine, Freie Universität Berlin, Germany. Electronic 
+address: andrea.fessler@fu-berlin.de.
+
+Biocide susceptibility testing (BST) of bacteria lacks standardised methods.
+Based on a recently established broth macrodilution BST method, a broth
+microdilution method for BST was developed. To establish the respective protocol,
+four reference strains Staphylococcus aureus ATCC® 6538, Enterococcus hirae ATCC®
+10541, Escherichia coli ATCC® 10536 and Pseudomonas aeruginosa ATCC® 15442 were
+investigated for their minimal inhibitory concentrations (MICs) towards
+quaternary ammonium compounds (benzalkonium chloride), cationic compounds
+(chlorhexidine), aldehydes (glutardialdehyde) and alcohols (isopropanol) using
+tryptic soy broth. All combinations of (i) inoculum preparation according to the 
+German Veterinary Medical Society (DVG) or the Clinical and Laboratory Standards 
+Institute (CLSI) with some modifications, (ii) use of 1st subculture (SC) and 2nd
+SC, (iii) direct colony suspension (DCS) with/without glass beads, and (iv)
+incubation at 37 °C for 24 h, 48 h, and 72 h were compared using seven
+independent replications. Overall, the reproducibility was high for all
+abovementioned strain/biocide/parameter combinations. In total, 86.9 % - 100 % of
+the results were within ± one dilution step of the mode value. The proposed
+method for a standardised BST protocol comprises (i) two different inoculum
+densities, (ii) the use of a fresh overnight culture (1st SC or 2nd SC), (iii)
+the preparation of the inoculum suspension by either of the two methods using DCS
+with or without glass beads, and (iv) the incubation at 37 °C for 24 h. This
+broth microdilution method will help to harmonize BST of bacterial pathogens in
+routine diagnostics.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.vetmic.2020.108791 
+PMID: 32827921 
+
+Conflict of interest statement: Declaration of Competing Interest None to
+declare.
+

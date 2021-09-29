@@ -1,0 +1,56 @@
+
+1. Sci Rep. 2020 Aug 24;10(1):14112. doi: 10.1038/s41598-020-70986-z.
+
+Bifidobacterium adolescentis as a key member of the human gut microbiota in the
+production of GABA.
+
+Duranti S(1), Ruiz L(2)(3), Lugli GA(1), Tames H(2)(3), Milani C(1)(4),
+Mancabelli L(1), Mancino W(1), Longhi G(5), Carnevali L(6), Sgoifo A(4)(6),
+Margolles A(2)(3), Ventura M(1)(4), Ruas-Madiedo P(7)(8), Turroni F(9)(10).
+
+Author information: 
+(1)Laboratory of Probiogenomics, Department of Chemistry, Life Sciences, and
+Environmental Sustainability, University of Parma, Parco Area delle Scienze 11a, 
+43124, Parma, Italy.
+(2)Department of Microbiology and Biochemistry of Dairy Products, Instituto de
+Productos Lácteos de Asturias - Consejo Superior de Investigaciones Científicas
+(IPLA-CSIC), Villaviciosa, Asturias, Spain.
+(3)Instituto de Investigación Sanitaria del Principado de Asturias (ISPA),
+Oviedo, Asturias, Spain.
+(4)Microbiome Research Hub, University of Parma, Parma, Italy.
+(5)GenProbio Srl, Parma, Italy.
+(6)Stress Physiology Laboratory, Department of Chemistry, Life Sciences and
+Environmental Sustainability, University of Parma, Parma, Italy.
+(7)Department of Microbiology and Biochemistry of Dairy Products, Instituto de
+Productos Lácteos de Asturias - Consejo Superior de Investigaciones Científicas
+(IPLA-CSIC), Villaviciosa, Asturias, Spain. ruas-madiedo@ipla.csic.es.
+(8)Instituto de Investigación Sanitaria del Principado de Asturias (ISPA),
+Oviedo, Asturias, Spain. ruas-madiedo@ipla.csic.es.
+(9)Laboratory of Probiogenomics, Department of Chemistry, Life Sciences, and
+Environmental Sustainability, University of Parma, Parco Area delle Scienze 11a, 
+43124, Parma, Italy. francesca.turroni@unipr.it.
+(10)Microbiome Research Hub, University of Parma, Parma, Italy.
+francesca.turroni@unipr.it.
+
+Gamma aminobutyric acid (GABA) is the principal inhibitory neurotransmitter
+playing a key role in anxiety and depression disorders in mammals. Recent studies
+revealed that members of the gut microbiota are able to produce GABA modulating
+the gut-brain axis response. Among members of the human gut microbiota,
+bifidobacteria are well known to establish many metabolic and physiologic
+interactions with the host. In this study, we performed genome analyses of more
+than 1,000 bifidobacterial strains publicly available revealing that
+Bifidobacterium adolescentis taxon might represent a model GABA producer in human
+gastrointestinal tract. Moreover, the in silico screening of human/animal
+metagenomic datasets showed an intriguing association/correlation between B.
+adolescentis load and mental disorders such as depression and anxiety.
+Interestingly, in vitro screening of 82 B. adolescentis strains allowed
+identifying two high GABA producers, i.e. B. adolescentis PRL2019 and B.
+adolescentis HD17T2H, which were employed in an in vivo trial in rats. Feeding
+Groningen rats with a supplementation of B. adolescentis strains, confirmed the
+ability of these microorganisms to stimulate the in vivo production of GABA
+highlighting their potential implication in gut-brain axis interactions.
+
+DOI: 10.1038/s41598-020-70986-z 
+PMCID: PMC7445748
+PMID: 32839473 
+

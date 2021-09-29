@@ -1,0 +1,53 @@
+
+1. Microb Cell Fact. 2020 Oct 1;19(1):184. doi: 10.1186/s12934-020-01445-7.
+
+Production and identification of two antifungal terpenoids from the Posidonia
+oceanica epiphytic Ascomycota Mariannaea humicola IG100.
+
+Botta L(1), Saladino R(1), Barghini P(1), Fenice M(1)(2), Pasqualetti M(3)(4).
+
+Author information: 
+(1)Department of Ecological and Biological Sciences, University of Tuscia, Largo 
+Università snc, 01100, Viterbo, Italy.
+(2)Laboratory of Applied Marine Microbiology (Conisma), University of Tuscia,
+Largo Università snc, 01100, Viterbo, Italy.
+(3)Department of Ecological and Biological Sciences, University of Tuscia, Largo 
+Università snc, 01100, Viterbo, Italy. mpasqual@unitus.it.
+(4)Laboratory of Ecology of Marine Fungi (Conisma), University of Tuscia, Largo
+Università snc, 01100, Viterbo, Italy. mpasqual@unitus.it.
+
+BACKGROUND: Marine fungi are an important repository of bioactive molecules with 
+great potential in different technological fields, the annual number of new
+compounds isolated from marine fungi is impressive and the general trend
+indicates that it is still on the rise. In this context, the antifungal and
+antimicrobial activity of the marine strain Mariannaea humicola IG100 was
+evaluated and two active terpenoids were isolated and characterized.
+METHODS: Preliminary screening of activity of marine strain IG100 was carried out
+by agar plug diffusion methods against fungal (Penicillium griseofulvum TSF04)
+and bacterial (Bacillus pumilus KB66 and Escherichia coli JM109) strains.
+Subsequently, inhibition tests were done by using the cultural broth and the
+organic extract (ethyl acetate, EtOAc) by the agar well diffusion methods. The
+main active fractions were identified and tested for their antifungal activity
+against P. griseofulvum TSF04 in a 24 wells microplate at different
+concentrations (1000, 100, 10 and 1.0 µg/mL). Two active compounds were
+characterized and their relative MIC measured by the broth micro-dilution methods
+in a 96-well microplate against Aspergillus flavus IG133, P. griseofulvum TSF04, 
+and Trichoderma pleuroticola IG137.
+RESULTS: Marine strain IG100 presented significant antifungal activity associated
+with two active compounds, the terpenoids terperstacin 1 and
+19-acetyl-4-hydroxydictyodiol 2. Their MIC values were measured for A. flavus
+(MIC of 7.9 µg/mL and 31.3 µg/mL for 1 and 2, respectively), P. griseofulvum (MIC
+of 25 µg/mL and 100 µg/mL for 1 and 2, respectively) and T. pleuroticola
+(MIC > 500 µg/mL and 125 µg/mL for 1 and 2, respectively). They showed a rather
+good fungistatic effect.
+CONCLUSIONS: In this study, the first marine strain of M. humicola (IG100) was
+investigated for the production of bioactive molecules. Strain IG100 produced
+significant amounts of two bioactive terpenoids, terperstacin 1 and
+19-acetyl-4-hydroxydictyodiol 2. The two compounds showed significant antifungal 
+activities against A. flavus IG133, T. pleuroticola IG137 and P. griseofulvum
+TSF04. Compound 2 was identified for the first time in fungi.
+
+DOI: 10.1186/s12934-020-01445-7 
+PMCID: PMC7528228
+PMID: 33004054 
+

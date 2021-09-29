@@ -1,0 +1,39 @@
+
+1. Biotechnol Bioeng. 2020 Jul 17. doi: 10.1002/bit.27507. [Epub ahead of print]
+
+A robust soft sensor to monitor 1,3-propanediol fermentation process by
+Clostridium butyricum based on artificial neural network.
+
+Zhang AH(1), Zhu KY(1), Zhuang XY(1), Liao LX(1), Huang SY(1), Yao CY(1)(2), Fang
+BS(1)(2)(3)(4).
+
+Author information: 
+(1)Department of Chemical and Biochemical Engineering, College of Chemistry and
+Chemical Engineering, Xiamen University, Xiamen, Fujian, China.
+(2)The Key Lab for Synthetic Biotechnology of Xiamen City, Xiamen University,
+Xiamen, Fujian, China.
+(3)The Key Laboratory for Chemical Biology of Fujian Province, Xiamen University,
+Xiamen, Fujian, China.
+(4)The National Engineering Laboratory for Green Chemical Productions of
+Alcohols-Ethers-Esters, Xiamen University, Xiamen, Fujian, China.
+
+With the aggravation of environmental pollution and energy crisis, the
+sustainable microbial fermentation process of converting glycerol to
+1,3-propanediol (1,3-PDO) has become an attractive alternative. However, the
+difficulty in the online measurement of glycerol and 1,3-PDO creates a barrier to
+the fermentation process and then leads to the residual glycerol and therefore,
+its wastage. Thus, in the present study, the four-input artificial neural network
+(ANN) model was developed successfully to predict the concentration of glycerol, 
+1,3-PDO, and biomass with high accuracy. Moreover, an ANN model combined with a
+kinetic model was also successfully developed to simulate the fed-batch
+fermentation process accurately. Hence, a soft sensor from the ANN model based on
+NaOH-related parameters has been successfully developed which cannot only be
+applied in software to solve the difficulty of glycerol and 1,3-PDO online
+measurement during the industrialization process, but also offer insight and
+reference for similar fermentation processes.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1002/bit.27507 
+PMID: 32678455 
+

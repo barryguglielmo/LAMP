@@ -1,0 +1,37 @@
+
+1. Int J Mol Sci. 2020 Aug 27;21(17). pii: E6202. doi: 10.3390/ijms21176202.
+
+MmpL3 Inhibition: A New Approach to Treat Nontuberculous Mycobacterial
+Infections.
+
+Sethiya JP(1), Sowards MA(1), Jackson M(2), North EJ(1).
+
+Author information: 
+(1)Department of Pharmacy Sciences, School of Pharmacy & Health Professions,
+Creighton University, Omaha, NE 68178, USA.
+(2)Mycobacteria Research Laboratories, Department of Microbiology, Immunology and
+Pathology, Colorado State University, Fort Collins, CO 80523, USA.
+
+Outside of Mycobacterium tuberculosis and Mycobacterium leprae, nontuberculous
+mycobacteria (NTM) are environmental mycobacteria (>190 species) and are
+classified as slow- or rapid-growing mycobacteria. Infections caused by NTM show 
+an increased incidence in immunocompromised patients and patients with underlying
+structural lung disease. The true global prevalence of NTM infections remains
+unknown because many countries do not require mandatory reporting of the
+infection. This is coupled with a challenging diagnosis and identification of the
+species. Current therapies for treatment of NTM infections require multidrug
+regimens for a minimum of 18 months and are associated with serious adverse
+reactions, infection relapse, and high reinfection rates, necessitating discovery
+of novel antimycobacterial agents. Robust drug discovery processes have
+discovered inhibitors targeting mycobacterial membrane protein large 3 (MmpL3), a
+protein responsible for translocating mycolic acids from the inner membrane to
+periplasm in the biosynthesis of the mycobacterial cell membrane. This review
+focuses on promising new chemical scaffolds that inhibit MmpL3 function and
+represent interesting and promising putative drug candidates for the treatment of
+NTM infections. Additionally, agents (FS-1, SMARt-420, C10) that promote
+reversion of drug resistance are also reviewed.
+
+DOI: 10.3390/ijms21176202 
+PMCID: PMC7503588
+PMID: 32867307 
+

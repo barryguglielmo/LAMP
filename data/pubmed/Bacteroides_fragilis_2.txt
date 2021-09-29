@@ -1,0 +1,39 @@
+
+1. Mol Microbiol. 2020 Sep 29. doi: 10.1111/mmi.14616. [Epub ahead of print]
+
+A clostripain-like protease plays a major role in generating the secretome of
+enterotoxigenic Bacteroides fragilis.
+
+Pierce JV(1)(2), Fellows JD(1), Anderson DE(3), Bernstein HD(1).
+
+Author information: 
+(1)Genetics and Biochemistry Branch, National Institute of Diabetes and Digestive
+and Kidney Diseases, National Institutes of Health, Bethesda, MD, 20892, USA.
+(2)Prolacta Bioscience, 1800 Highland Avenue, Duarte, CA, 91010, USA.
+(3)Advanced Mass Spectrometry Facility, National Institute of Diabetes and
+Digestive and Kidney Diseases, National Institutes of Health, Bethesda, MD,
+20892, USA.
+
+Bacteroides fragilis toxin (BFT) is a protein secreted by enterotoxigenic (ETBF) 
+strains of B. fragilis. BFT is synthesized as a proprotein (proBFT) that is
+predicted to be a lipoprotein and that is cleaved into two discrete fragments by 
+a clostripain-like protease called fragipain (Fpn). In this study, we obtained
+evidence that Fpn cleaves proBFT following its transport across the outer
+membrane. Remarkably, we also found that the disruption of the fpn gene led to a 
+strong reduction in the level of >100 other proteins, many of which are predicted
+to be lipoproteins, in the culture medium of an ETBF strain. Experiments
+performed with purified Fpn provided direct evidence that the protease releases
+at least some of these proteins from the cell surface. The observation that
+wild-type cells outcompeted an fpn- strain in co-cultivation assays also
+supported the notion that Fpn plays an important role in cell physiology and is
+not simply dedicated to toxin biogenesis. Finally, we found that purified Fpn
+altered the adhesive properties of HT29 intestinal epithelial cells. Our results 
+suggest that Fpn is a broad-spectrum protease that not only catalyzes protein
+secretion on a wide scale but that also potentially cleaves host cell proteins
+during colonization.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1111/mmi.14616 
+PMID: 32996200 
+

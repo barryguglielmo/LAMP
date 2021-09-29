@@ -1,0 +1,44 @@
+
+1. Front Microbiol. 2020 Jul 31;11:1863. doi: 10.3389/fmicb.2020.01863. eCollection 
+2020.
+
+Transcriptome Analysis of the Clostridioides difficile Response to Different
+Doses of Bifidobacterium breve.
+
+Yang J(1), Yang H(1).
+
+Author information: 
+(1)State Key Laboratory of Microbial Metabolism, School of Life Sciences and
+Biotechnology, Shanghai Jiao Tong University, Shanghai, China.
+
+Probiotics are widely used in the prevention of Clostridioides difficile
+infection (CDI). The precise dosage of probiotics is a challenge. In this study, 
+Clostridioides difficile ATCC 9689 (CD) was exposed to different doses of
+Bifidobacterium breve (YH68). A transcriptomic analysis was performed on CD cells
+that were separately exposed to low or high doses of YH68 cell-free culture
+supernatant (CFCS; CDL; or CDH, respectively). The results showed that the
+inhibitory effect of YH68 (cell pellets or CFCS) on the growth and the damage to 
+the cell membrane integrity of CD exhibited a dose-response relationship at the
+physiological level. At the transcriptional level, a large number of
+differentially expressed genes (DEGs) were concentrated in amino acid,
+carbohydrate, energy metabolism and membrane transport in CDL and CDH cells,
+suggesting that both doses of YH68-CFCS triggered a significant change in
+activities in these metabolic pathways. Importantly, a significant stimulation or
+suppression was found in the pathogenic pathways (quorum sensing, signal
+transduction, flagellar assembly, biofilm formation, and drug resistance) of CDL 
+and CDH cells, whereas there were some differences between the two doses. For
+example, the expression levels of genes related to quorum sensing and signal
+transduction in CDH cells were suppressed significantly, whereas genes encoding
+toxin production and sporulation factors were enhanced; in CDL cells, the
+expression levels of genes associated with flagellar assembly and biofilm
+formation were suppressed, whereas genes associated with drug resistance were
+upregulated significantly. These results indicated that the inhibitory effect of 
+YH68-CFCS against CD, especially in pathogenic and metabolic aspects, did not
+demonstrate a dose-response relationship at the transcriptional level.
+
+Copyright © 2020 Yang and Yang.
+
+DOI: 10.3389/fmicb.2020.01863 
+PMCID: PMC7411088
+PMID: 32849451 
+

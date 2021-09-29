@@ -1,0 +1,44 @@
+
+1. Sci Rep. 2020 Mar 13;10(1):4714. doi: 10.1038/s41598-020-61458-5.
+
+Streptococcus gallolyticus abrogates anti-carcinogenic properties of tannic acid 
+on low-passage colorectal carcinomas.
+
+Oehmcke-Hecht S(1), Mandl V(2)(3), Naatz LT(2)(3), Dühring L(2)(3), Köhler J(2), 
+Kreikemeyer B(2), Maletzki C(4).
+
+Author information: 
+(1)Institute of Medical Microbiology, Virology and Hygiene, Rostock University
+Medical Center, Rostock, Germany. sonja.oehmcke-hecht@med.uni-rostock.de.
+(2)Institute of Medical Microbiology, Virology and Hygiene, Rostock University
+Medical Center, Rostock, Germany.
+(3)Department of Internal Medicine, Medical Clinic III - Hematology, Oncology,
+Palliative Care, Rostock University Medical Center, Rostock, Germany.
+(4)Department of Internal Medicine, Medical Clinic III - Hematology, Oncology,
+Palliative Care, Rostock University Medical Center, Rostock, Germany.
+claudia.maletzki@med.uni-rostock.de.
+
+The tannase-producing Gram-positive bacterial species Streptococcus gallolyticus 
+subsp. gallolyticus (Sgg) is an opportunistic pathogen of the human gut and
+strongly associated with colorectal cancer (CRC). A unique feature of Sgg is its 
+ability to degrade tannic acids (TA). TA constitute an important part of the
+human diet with known anti-tumorigenic properties. Here, we examined whether Sgg 
+is able to protect tumor cells from the toxic effect of TA and thus drive
+tumorigenesis indirectly. Human CRC cell lines (n = 8) were treated with
+increasing concentrations of TA. We confirmed the cytotoxic activity of TA in a
+dose-dependent manner. In virtually all cell lines, viability decreased
+significantly (>60% inhibition). Moreover, pyrogallol, the degradation product of
+TA, had no effect on the tested cell lines. This suggests a specific effect of
+TA. Cytotoxicity was due to necrosis and induction of senescence in residual
+cells. Finally, when TA was degraded by Sgg, the cytotoxic effect could be
+abolished. Tumor cells even responded with boosted cell proliferation,
+highlighting the impact of Sgg on CRC progression. We here provide another piece 
+of evidence for the active interplay between Sgg and cancer preventive
+components. These data will help to move forward in designing concepts for
+therapeutic and eventually also prophylactic approaches to combat
+gastrointestinal malignancies.
+
+DOI: 10.1038/s41598-020-61458-5 
+PMCID: PMC7070001
+PMID: 32170212 
+

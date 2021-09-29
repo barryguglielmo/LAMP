@@ -1,0 +1,55 @@
+
+1. Nat Med. 2019 Nov;25(11):1772-1782. doi: 10.1038/s41591-019-0640-y. Epub 2019 Nov
+7.
+
+Preventing dysbiosis of the neonatal mouse intestinal microbiome protects against
+late-onset sepsis.
+
+Singer JR(1), Blosser EG(2)(3), Zindl CL(4), Silberger DJ(4), Conlan S(5), Laufer
+VA(4), DiToro D(4), Deming C(5), Kumar R(6), Morrow CD(7), Segre JA(5), Gray
+MJ(8), Randolph DA(2)(9), Weaver CT(10).
+
+Author information: 
+(1)Department of Pathology, University of Alabama at Birmingham, Birmingham, AL, 
+USA. jrsinger@uab.edu.
+(2)Department of Pediatrics, University of Alabama at Birmingham, Birmingham, AL,
+USA.
+(3)Department of Obstetrics and Gynecology, Ochsner Health System, New Orleans,
+LA, USA.
+(4)Department of Pathology, University of Alabama at Birmingham, Birmingham, AL, 
+USA.
+(5)National Human Genome Research Institute, National Institutes of Health,
+Bethesda, MD, USA.
+(6)Center for Clinical and Translational Science Informatics Institute,
+University of Alabama at Birmingham, Birmingham, AL, USA.
+(7)Department of Cell Developmental and Integrative Biology, University of
+Alabama at Birmingham, Birmingham, AL, USA.
+(8)Department of Microbiology, University of Alabama at Birmingham, Birmingham,
+AL, USA.
+(9)Division of Neonatal-Perinatal Medicine, Rocky Mountain Hospital for Children,
+Denver, CO, USA.
+(10)Department of Pathology, University of Alabama at Birmingham, Birmingham, AL,
+USA. cweaver@uab.edu.
+
+Comment in
+    Cell Host Microbe. 2020 Jan 8;27(1):11-13.
+
+Late-onset sepsis (LOS) is thought to result from systemic spread of commensal
+microbes from the intestines of premature infants. Clinical use of probiotics for
+LOS prophylaxis has varied owing to limited efficacy, reflecting an incomplete
+understanding of relationships between development of the intestinal microbiome, 
+neonatal dysbiosis and LOS. Using a model of LOS, we found that components of the
+developing microbiome were both necessary and sufficient to prevent LOS. Maternal
+antibiotic exposure that eradicated or enriched transmission of Lactobacillus
+murinus exacerbated and prevented disease, respectively. Prophylactic
+administration of some, but not all Lactobacillus spp. was protective, as was
+administration of Escherichia coli. Intestinal oxygen level was a major driver of
+colonization dynamics, albeit via mechanisms distinct from those in adults. These
+results establish a link between neonatal dysbiosis and LOS, and provide a basis 
+for rational selection of probiotics that modulate primary succession of the
+microbiome to prevent disease.
+
+DOI: 10.1038/s41591-019-0640-y 
+PMCID: PMC7250008
+PMID: 31700190  [Indexed for MEDLINE]
+

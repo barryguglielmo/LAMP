@@ -1,0 +1,37 @@
+
+1. Biotechnol Bioeng. 2020 Jun 26. doi: 10.1002/bit.27478. [Epub ahead of print]
+
+Efficient secretory production of large-size heterologous enzymes in Bacillus
+subtilis: A secretory partner and directed evolution.
+
+Liu S(1), Wang J(1), Zhu Z(1), Shi T(1), Zhang YPJ(1).
+
+Author information: 
+(1)Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences,
+Tianjin, China.
+
+Secretory production of recombinant proteins provides a simple approach to the
+production and purification of target proteins in the enzyme industry. We
+developed a combined strategy for the secretory production of three large-size
+heterologous enzymes with a special focus on 83-kDa isoamylase (IA) from an
+archaeon Sulfolobus tokodaii in a bacterium Bacillus subtilis. First, a secretory
+protein of the B. subtilis family 5 glycoside hydrolase endoglucanase (Cel5) was 
+used as a fusion partner, along with the NprB signal peptide, to facilitate
+secretory production of IA. This secretory partner strategy was effective for the
+secretion of two other large enzymes: family 9 glycoside hydrolase from
+Clostridium phytofermentas and cellodextrin phosphorylase from Clostridium
+thermocellum. Second, the secretion of Cel5-IA was improved by directed evolution
+with two novel double-layer Petri-dish-based high-throughput screening (HTS)
+methods. The high-sensitivity HTS relied on the detection of high-activity Cel5
+on the carboxymethylcellulose/Congo-red assay. The second modest-sensitivity HTS 
+focused on the detection of low-activity IA on the amylodextrin-I2 assay. After
+six rounds of HTS, a secretory Cel5-IA level was increased to 234 mg/L, 155 times
+the wild-type IA with the NprB signal peptide only. This combinatory strategy
+could be useful to enhance the secretory production of large-size heterologous
+proteins in B. subtilis.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1002/bit.27478 
+PMID: 32589796 
+

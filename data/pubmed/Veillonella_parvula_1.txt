@@ -1,0 +1,68 @@
+
+1. J Bacteriol. 2020 Aug 17. pii: JB.00461-20. doi: 10.1128/JB.00461-20. [Epub ahead
+of print]
+
+Autotransporters drive biofilm formation and auto-aggregation in the diderm
+Firmicute Veillonella parvula.
+
+Béchon N(1)(2), Jiménez-Fernández A(1), Witwinowski J(3), Bierque E(1)(4)(5),
+Taib N(3)(6), Cokelaer T(6)(7), Ma L(7), Ghigo JM(1), Gribaldo S(3), Beloin C(8).
+
+Author information: 
+(1)Genetics of Biofilm Laboratory, Institut Pasteur, UMR CNRS2001, Paris, 75015, 
+France.
+(2)Université de Paris, Sorbonne Paris Cité, Paris, France.
+(3)Unit Evolutionary Biology of the Microbial Cell, Institut Pasteur, UMR
+CNRS2001, Paris, France.
+(4)Sorbonne Université, Collège doctoral, F-75005 Paris, France.
+(5)Present address: Leptospirosis Research and Expertise Unit, Institut Pasteur
+in New Caledonia, Institut Pasteur International Network, Noumea, New Caledonia.
+(6)Hub de Bioinformatique et Biostatistique - Département Biologie
+Computationnelle, Institut Pasteur, USR 3756 CNRS, Paris, France.
+(7)Plate-forme Technologique Biomics - Centre de Ressources et Recherches
+Technologiques (C2RT), Institut Pasteur, Paris, France.
+(8)Genetics of Biofilm Laboratory, Institut Pasteur, UMR CNRS2001, Paris, 75015, 
+France christophe.beloin@pasteur.fr.
+
+The Negativicutes are a clade of Firmicutes that have retained the ancestral
+diderm character and possess an outer membrane. One of the best studied
+Negativicute, Veillonella parvula, is an anaerobic commensal and opportunistic
+pathogen inhabiting complex human microbial communities, including the gut and
+the dental plaque microbiota. Whereas adhesion and biofilm capacity of V. parvula
+is expected to be crucial for its maintenance and development in these
+environments, studies of V. parvula adhesion have been hindered by the lack of
+efficient genetic tools to perform functional analyses in this bacterium. Here,
+we took advantage of a recently described naturally transformable V. parvula
+isolate, SKV38, and adapted tools developed for the closely related Clostridia
+spp. to perform random transposon and targeted mutagenesis to identify V. parvula
+genes involved in biofilm formation. We show that type V secreted
+autotransporters -typically found in diderm bacteria- are the main determinants
+of V. parvula auto-aggregation and biofilm formation, and compete with each other
+for binding either to cells or to surfaces, with strong consequences on V.
+parvula biofilm formation capacity. The identified trimeric autotransporters have
+an original structure compared to classical autotransporters identified in
+Proteobacteria with an additional C-terminal domain. We also show that
+inactivation of the gene coding for a poorly characterized metal-dependent
+phosphohydrolase HD domain protein conserved in the Firmicutes and their closely 
+related diderm phyla inhibits autotransporter-mediated biofilm formation. This
+study paves the way for further molecular characterization of V. parvula
+interactions with other bacteria and the host within complex microbiota
+environments.IMPORTANCE Veillonella parvula is an anaerobic commensal and
+opportunistic pathogen whose ability to adhere to surfaces or other bacteria and 
+form biofilms is critical to inhabit complex human microbial communities such as 
+the gut and oral microbiota. Although the adhesive capacity of V. parvula has
+been previously described, very little is known about the underlying molecular
+mechanisms due to a lack of genetically amenable Veillonella strains. In this
+study, we took advantage of a naturally transformable V. parvula isolate and
+newly adapted genetic tools to identify surface exposed adhesin called
+autotransporters as the main molecular determinants of adhesion in this
+bacterium. This work therefore provides new insights on an important aspect of V.
+parvula lifestyle, opening new possibilities for mechanistic studies of the
+contribution of biofilm formation to the biology of this major commensal of the
+oral-digestive tract.
+
+Copyright © 2020 Béchon et al.
+
+DOI: 10.1128/JB.00461-20 
+PMID: 32817093 
+

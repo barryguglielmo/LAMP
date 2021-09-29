@@ -1,0 +1,38 @@
+
+1. Avian Pathol. 2020 Aug;49(4):355-360. doi: 10.1080/03079457.2020.1753653. Epub
+2020 May 18.
+
+Development of an in-house ELISA for detection of antibodies against Enterococcus
+cecorum in Pekin ducks.
+
+Jung A(1), Rautenschlein S(1).
+
+Author information: 
+(1)Clinic for Poultry, University of Veterinary Medicine Hannover, Hannover,
+Germany.
+
+Enterococcus cecorum (EC) is known to cause skeletal lesions in broiler chickens 
+and also systemic infections in Pekin ducks. Despite the importance of the
+pathogen, there is still a lack of serological diagnostic tools for the detection
+of EC infections. Here we describe the development of an in-house indirect
+enzyme-linked immunosorbent assay (ELISA) for the detection of EC-specific
+antibodies and its application by examination of 67 sera from experimentally
+infected Pekin ducks, 710 field samples from four Pekin duck breeder flocks
+previously vaccinated with inactivated vaccines, and 80 samples from commercial
+Pekin ducks coming from vaccinated parent flocks. All groups that had been
+experimentally inoculated via the air sac route were positive in the new ELISA,
+with significantly (P ≤ 0.05) increased mean sample/positive (S/P) ratios of
+0.71-2.70 at days 7, 14 and 21 post-infection, while orally inoculated ducks and 
+the EC-free control group remained negative with mean S/P ratios of 0.0-0.15.
+Antibodies were also detected in each of four vaccinated Pekin duck breeder
+flocks; 67.8% of the samples were antibody positive. The highest S/P ratios were 
+found between 16 and 26 weeks (median S/P ratios from 0.15 to 1.03), but
+antibodies were still detected in some serum samples in weeks 61-67 post-hatch.
+No antibodies were detected in the commercial Pekin ducks. Antibody development
+in the ducks may be influenced by the composition of the inactivated vaccine. The
+new ELISA provides a useful tool for investigations of response to EC infections 
+and vaccinations.
+
+DOI: 10.1080/03079457.2020.1753653 
+PMID: 32271095 
+

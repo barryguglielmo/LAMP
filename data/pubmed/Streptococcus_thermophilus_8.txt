@@ -1,0 +1,59 @@
+
+1. Food Microbiol. 2021 Feb;93:103613. doi: 10.1016/j.fm.2020.103613. Epub 2020 Aug 
+2.
+
+Evaluation of bacterial communities of Grana Padano cheese by DNA metabarcoding
+and DNA fingerprinting analysis.
+
+Zago M(1), Bardelli T(2), Rossetti L(3), Nazzicari N(4), Carminati D(5), Galli
+A(6), Giraffa G(7).
+
+Author information: 
+(1)Council for Agricultural Research and Economics, Research Centre for Animal
+Production and Aquaculture (CREA-ZA), via A. Lombardo 11, 26900, Lodi, Italy.
+Electronic address: miriam.zago@crea.gov.it.
+(2)Council for Agricultural Research and Economics, Research Centre for Animal
+Production and Aquaculture (CREA-ZA), via A. Lombardo 11, 26900, Lodi, Italy.
+Electronic address: tommaso.bardelli@crea.gov.it.
+(3)Council for Agricultural Research and Economics, Research Centre for Animal
+Production and Aquaculture (CREA-ZA), via A. Lombardo 11, 26900, Lodi, Italy.
+Electronic address: lia.rossetti@crea.gov.it.
+(4)Council for Agricultural Research and Economics, Research Centre for Animal
+Production and Aquaculture (CREA-ZA), via A. Lombardo 11, 26900, Lodi, Italy.
+Electronic address: nelson.nazzicari@crea.gov.it.
+(5)Council for Agricultural Research and Economics, Research Centre for Animal
+Production and Aquaculture (CREA-ZA), via A. Lombardo 11, 26900, Lodi, Italy.
+Electronic address: domenico.carminati@crea.gov.it.
+(6)Council for Agricultural Research and Economics, Research Centre for Animal
+Production and Aquaculture (CREA-ZA), via A. Lombardo 11, 26900, Lodi, Italy;
+Associazione Regionale Allevatori della Lombardia (ARAL), via Kennedy 30, 26013
+Crema, CR, Italy. Electronic address: andrea.galli@crea.gov.it.
+(7)Council for Agricultural Research and Economics, Research Centre for Animal
+Production and Aquaculture (CREA-ZA), via A. Lombardo 11, 26900, Lodi, Italy.
+Electronic address: giorgio.giraffa@crea.gov.it.
+
+The composition of the bacterial community of Grana Padano (GP) cheese was
+evaluated by an amplicon-based metagenomic approach (DNA metabarcoding) and
+RAPD-PCR fingerprinting. One hundred eighteen cheeses, which included 118 dairies
+located in the production area of GP, were collected. Two hundred fifty-four OTUs
+were detected, of which 82 were further discriminated between dominant (32 OTUs; 
+> 1% total reads) and subdominant (50 OTUs; between 0.1% and 1% total reads)
+taxa. Lactobacillus (L.) delbrueckii, Lacticaseibacillus (Lact.) rhamnosus, Lact.
+casei, Limosilactobacillus fermentum, Lactococcus (Lc.) raffinolactis, L.
+helveticus, Streptococcus thermophilus, and Lc. lactis were the major dominant
+taxa ('core microbiota'). The origin of samples significantly impacted on both
+richness, evenness, and the relative abundance of bacterial species, with
+peculiar pattern distribution among the five GP production regions. A
+differential analysis allowed to find bacterial species significantly associated 
+with specific region pairings. The analysis of pattern similarity among RAPD-PCR 
+profiles highlighted the presence of a 'core' community banding pattern present
+in all the GP samples, which was strictly associated with the core microbiota
+highlighted by DNA metabarcoding. A trend to group samples according to the five 
+production regions was also observed. This study widened our knowledge on the
+bacterial composition and ecology of Grana Padano cheese.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fm.2020.103613 
+PMID: 32912585 
+

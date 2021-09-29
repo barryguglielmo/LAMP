@@ -1,0 +1,44 @@
+
+1. Analyst. 2020 Sep 1. doi: 10.1039/d0an01001d. [Epub ahead of print]
+
+Uracil-DNA-glycosylase-assisted loop-mediated isothermal amplification for
+detection of bacteria from urine samples with reduced contamination.
+
+Zeng Y(1), Liu M(1), Xia Y(1), Jiang X(2).
+
+Author information: 
+(1)Department of Clinical Laboratory, Third Affiliated Hospital of Guangzhou
+Medical University, No. 63 Duobao Road, Liwan District, Guangzhou, Guangdong
+510150, People's Republic of China. 377695944@qq.com.
+(2)Department of Biomedical Engineering, Southern University of Science and
+Technology, No. 1088 Xueyuan Road, Nanshan District, Shenzhen, Guangdong 518055, 
+People's Republic of China. jiang@sustech.edu.cn and Beijing Engineering Research
+Center for BioNanotechnology and CAS Key Laboratory for Biomedical Effects of
+Nanomaterials and Nanosafety, CAS Center for Excellence in Nanoscience, National 
+Center for NanoScience and Technology, No. 11 Zhongguancun Beiyitiao, Beijing
+100190, People's Republic of China and University of Chinese Academy of Sciences,
+19 A Yuquan Road, Shijingshan District, Beijing, People's Republic of China.
+
+Loop-mediated isothermal amplification (LAMP) is a useful molecular biology
+technology for analytical applications, but it is prone to contamination because 
+of escaped aerosols, leading to false positive results. This report establishes
+an integrated, rapid, and accurate method to detect bacteria in urine samples by 
+incorporating uracil-DNA-glycosylase (UDG) into real-time loop-mediated
+isothermal amplification (RT-LAMP). To do this, nucleic acids from five
+clinically important uropathogens, including Escherichia coli, Pseudomonas
+aeruginosa, Klebsiella pneumoniae, Proteus mirabilis, and Enterococcus faecalis, 
+were directly captured and concentrated using Flinders Technology Associates
+(FTA) Elute cards. Following elution, the extracted DNAs were specifically
+amplified with sets of LAMP primers. The added UDG in the modified LAMP reaction 
+excises uracils from previously amplified products or contaminants and generates 
+apyrimidinic (AP) sites, reducing false positive rates. This UDG-assisted RT LAMP
+strategy was able to degrade carryover contaminants to as little as 1 femtogram
+(10-15 g). The assay showed a limit of detection of 104 CFU mL-1 with a
+sensitivity of 94.1% and a specificity of 95.0%. Both the sensitivity and
+specificity were improved compared to LAMP carried out without UDG. Our results
+indicate that the UDG-assisted RT LAMP is of great potential for rapid and
+precise analysis of nucleic acids in real applications.
+
+DOI: 10.1039/d0an01001d 
+PMID: 32894274 
+

@@ -1,0 +1,39 @@
+
+1. J Ind Microbiol Biotechnol. 2020 Jul;47(6-7):543-550. doi:
+10.1007/s10295-020-02279-3. Epub 2020 May 16.
+
+Production of isopropyl and butyl esters by Clostridium mono-culture and
+co-culture.
+
+Cui Y(1), He J(2), Yang KL(3), Zhou K(4).
+
+Author information: 
+(1)Department of Chemical and Biomolecular Engineering, National University of
+Singapore, 4 Engineering Drive 4, Block E5-02-09, Singapore, 117585, Singapore.
+(2)Department of Civil and Environmental Engineering, National University of
+Singapore, 1 Engineering Drive 2, Singapore, 117576, Singapore.
+(3)Department of Chemical and Biomolecular Engineering, National University of
+Singapore, 4 Engineering Drive 4, Block E5-02-09, Singapore, 117585, Singapore.
+cheyk@nus.edu.sg.
+(4)Department of Chemical and Biomolecular Engineering, National University of
+Singapore, 4 Engineering Drive 4, Block E5-02-09, Singapore, 117585, Singapore.
+kang.zhou@nus.edu.sg.
+
+Production of esters from the acetone-butanol-ethanol (ABE) fermentation by
+Clostridium often focuses on butyl butyrate, leaving acetone as an undesired
+product. Addition of butyrate is also often needed because ABE fermentation does 
+not produce enough butyrate. Here we addressed the problems using Clostridium
+beijerinckii BGS1 that preferred to produce isopropanol instead of acetone, and
+co-culturing it with Clostridium tyrobutyricum ATCC 25,755 that produced
+butyrate. Unlike acetone, isopropanol could be converted into ester using lipase 
+and acids. C. tyrobutyricum ATCC 25,755 produced acids at pH 6, while C.
+beijerinckii BGS1 produced mainly solvents at the same pH. When the two strains
+were co-cultured, more butyrate was produced, leading to a higher titer of esters
+than the mono-culture of C. beijerinckii BGS1. As the first study reporting the
+production of isopropyl butyrate from the Clostridium fermentation, this study
+highlighted the potential use of lipase and co-culture strategy in ester
+production.
+
+DOI: 10.1007/s10295-020-02279-3 
+PMID: 32418085 
+

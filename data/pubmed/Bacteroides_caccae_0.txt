@@ -1,0 +1,57 @@
+
+1. Nephrol Dial Transplant. 2020 Sep 1. pii: gfaa172. doi: 10.1093/ndt/gfaa122.
+[Epub ahead of print]
+
+Metagenomic profiling of gut microbiome in early chronic kidney disease.
+
+Sato N(1)(2), Kakuta M(3), Hasegawa T(4), Yamaguchi R(3), Uchino E(2)(5),
+Murashita K(6), Nakaji S(7), Imoto S(3)(4), Yanagita M(2), Okuno Y(1).
+
+Author information: 
+(1)Department of Biomedical Data Intelligence, Graduate School of Medicine, Kyoto
+University, Kyoto, Japan.
+(2)Department of Nephrology, Graduate School of Medicine, Kyoto University,
+Kyoto, Japan.
+(3)Human Genome Center, The Institute of Medical Science, University of Tokyo,
+Tokyo, Japan.
+(4)Health Intelligence Center, The Institute of Medical Science, University of
+Tokyo, Tokyo, Japan.
+(5)Department of Medical Intelligent Systems, Graduate School of Medicine, Kyoto 
+University, Kyoto, Japan.
+(6)COI Research Initiatives Organization, Hirosaki University, Aomori, Japan.
+(7)Department of Social Medicine, Hirosaki University Graduate School of
+Medicine, Aomori, Japan.
+
+BACKGROUND: The relationship between chronic kidney disease (CKD) and the gut
+microbiome, which interact through chronic inflammation, uraemic toxin production
+and immune response regulation, has gained interest in the development of CKD
+therapies. However, reports using shotgun metagenomic analysis of the gut
+microbiome are scarce, especially for early CKD. Here we characterized gut
+microbiome differences between non-CKD participants and ones with early CKD using
+metagenomic sequencing.
+METHODS: In total, 74 non-CKD participants and 37 participants with early CKD
+were included based on propensity score matching, controlling for various factors
+including dietary intake. Stool samples were collected from participants and
+subjected to shotgun sequencing. Bacterial and pathway abundances were profiled
+at the species level with MetaPhlAn2 and HUMAnN2, respectively, and overall
+microbiome differences were determined using Bray-Curtis dissimilarities.
+Diabetic and non-diabetic populations were analysed separately.
+RESULTS: For diabetic and non-diabetic participants, the mean estimated
+glomerular filtration rates of the CKD group were 53.71 [standard deviation (SD) 
+3.87] and 53.72 (SD 4.44), whereas those of the non-CKD group were 72.63 (SD
+7.72) and 76.10 (SD 9.84), respectively. Alpha and beta diversities were not
+significantly different between groups. Based on taxonomic analysis,
+butyrate-producing species Roseburia inulinivorans, Ruminococcus torques and
+Ruminococcus lactaris were more abundant in the non-CKD group, whereas
+Bacteroides caccae and Bacteroides coprocora were more abundant in the
+non-diabetic CKD group.
+CONCLUSIONS: Although gut microbiome changes in individuals with early CKD were
+subtle, the results suggest that changes related to producing short-chain fatty
+acids can already be observed in early CKD.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of ERA-EDTA.
+All rights reserved.
+
+DOI: 10.1093/ndt/gfaa122 
+PMID: 32869063 
+

@@ -1,0 +1,43 @@
+
+1. Food Microbiol. 2020 Aug;89:103430. doi: 10.1016/j.fm.2020.103430. Epub 2020 Jan 
+14.
+
+Proteomic study of Enterococcus durans LAB18S growing on prebiotic
+oligosaccharides.
+
+Comerlato CB(1), Ritter AC(1), Miyamoto KN(1), Brandelli A(2).
+
+Author information: 
+(1)Laboratório de Bioquímica e Microbiologia Aplicada, Instituto de Ciência e
+Tecnologia de Alimentos, Universidade Federal do Rio Grande do Sul, 91501-970,
+Porto Alegre, Brazil.
+(2)Laboratório de Bioquímica e Microbiologia Aplicada, Instituto de Ciência e
+Tecnologia de Alimentos, Universidade Federal do Rio Grande do Sul, 91501-970,
+Porto Alegre, Brazil. Electronic address: abrand@ufrgs.br.
+
+This study evaluates the influence of prebiotic carbohydrates, namely
+fructooligosaccharides (FOS) and galactooligosaccharides (GOS), on the protein
+expression of Enterococcus durans LAB18S. The strain was cultivated in 10 g L-1
+FOS, GOS or glucose (control) and cellular proteins were extracted for mass
+spectrometry analysis. A total of 771 proteins were identified and 135 E. durans 
+proteins were validated by the Scaffold algorithm. The proteins were functionally
+categorized according to Gene Ontology terms. Both FOS and GOS were used as
+carbon source by E. durans LAB18S, upregulating the production of proteins that
+may be associated with intestinal mucosa adhesion, carbohydrate and nitrogen
+metabolism, and stress response. Cells grown with GOS showed an increased
+expression of the cell division protein divIVA, EF-Tu and glyceraldehyde
+3-phosphate dehydrogenase that have been associated with epithelial cell
+adhesion. The use of FOS stimulated the production of proteins related to amino
+acid metabolism and energy conversion, and ClpX protein, which plays an important
+role in protein turnover. The results of this study indicate that FOS and GOS can
+be metabolized by E. durans and stimulate the microorganism to produce proteins
+related to some desirable characteristics for a probiotic strain.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fm.2020.103430 
+PMID: 32138988  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Authors declare
+no conflicts of interest.
+

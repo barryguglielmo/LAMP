@@ -1,0 +1,39 @@
+
+1. Foods. 2020 Jun 16;9(6). pii: E789. doi: 10.3390/foods9060789.
+
+Packaging Design Using Mustard Seeds as a Natural Antimicrobial: A Study on
+Inhibition of Pseudomonas fragi in Liquid Medium.
+
+Bahmid NA(1)(2), Heising J(1), Fogliano V(1), Dekker M(1).
+
+Author information: 
+(1)Food Quality and Design Group, Wageningen University and Research, P.O. Box
+17, 6700 AA Wageningen, The Netherlands.
+(2)Agriculture and Forestry Faculty, Universitas Sulawesi Barat, Majene 91412,
+Indonesia.
+
+Pseudomonas fragi is the dominant spoilage organism in various foods, especially 
+in spoiled milk, fish, and meats. Its growth can be inhibited by releasing allyl 
+isothiocyanate (AITC) from ground mustard seeds in food packages. This paper aims
+to investigate the antimicrobial potential of ground mustard seeds against P.
+fragi growth and the effectiveness of released AITC concentration from mustard
+seeds on microbial inhibition of the spoilage bacteria growing in the liquid
+medium. The AITC concentration in the headspace and the liquid medium was
+measured and the growth of P. fragi in the liquid medium was monitored. Depending
+on the concentration of AITC, not only growth was inhibited but a reduction of
+the total count of P. fragi was even observed. The inactivation rate (k) of P.
+fragi was estimated using first-order inactivation kinetics and the minimum
+gaseous-released AITC to inactivate P. fragi was determined. Higher AITC
+concentration in the headspace and liquid medium was observed when using a higher
+amount of ground mustard seeds and a lower food to headspace ratio. Increasing
+the amount of ground mustard seeds (>100 mg per 10 mL liquid medium) led to full 
+inactivation of P. fragi in 48 hours. By using an inhibition sigmoid Emax model, 
+the minimum gaseous-released AITC for inactivation of P. fragi in 48 hours was
+observed around 15 µg/L headspace. These results indicate that inhibition of the 
+spoilage bacteria and extending the shelf life using ground mustard seeds is only
+possible by applying a careful design of the packaging system.
+
+DOI: 10.3390/foods9060789 
+PMCID: PMC7353601
+PMID: 32560102 
+

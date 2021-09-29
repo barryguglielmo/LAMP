@@ -1,0 +1,34 @@
+
+1. J Food Biochem. 2020 Jul;44(7):e13246. doi: 10.1111/jfbc.13246. Epub 2020 May 27.
+
+Detection and isolation of the typical gut indigenous bacteria from ddY mice fed 
+a casein-beef tallow-based or egg yolk-based diet.
+
+Fukunaga M(1), Kuda T(1), Xia Y(1), Nakamura S(1), Takahashi H(1), Kimura B(1).
+
+Author information: 
+(1)Department of Food Science and Technology, Tokyo University of Marine Science 
+and Technology, Tokyo, Japan.
+
+The effects of whole egg on the cecal microbiome of ddY mice has been reported.
+To investigate the existence of susceptible indigenous bacteria (SIB) to egg
+yolks (EY), mice were fed a diet containing either 20% (w/w) milk casein and 17% 
+beef tallow (CT) or 12% milk casein and 27% EY for 14 days, and then, the cecal
+microbiome was analyzed by 16S rRNA (V4) amplicon sequencing. To isolate the
+typical species in each diet group, culture-dependent viable bacterial counts
+were determined on Blood Liver (BL) and Gifu Anaerobic Medium (GAM) agar plates. 
+The amplicon sequencing analysis revealed typical CT-SIB, such as
+Lachnospiraceae-like bacteria, and EY-SIB, such as Allobaculum-, Lactobacillus
+murinus-, and Bacteroides vulgatus-like bacteria. Two of the detected SIB
+species, L. murinus- and B. vulgatus-like bacteria, were successfully isolated
+from the BL and GAM agar plates and defined using a 16S rDNA BLAST search.
+PRACTICAL APPLICATIONS: The SIB defined in the CT and EY groups might have some
+effects on the nutritional and functional chemical compounds in the milk casein, 
+beef tallow, and/or EY. Analysis of its functional properties of the isolates
+might develop the new and unique probiotic strains.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1111/jfbc.13246 
+PMID: 32462679 
+

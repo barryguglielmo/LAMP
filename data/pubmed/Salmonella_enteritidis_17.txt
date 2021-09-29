@@ -1,0 +1,61 @@
+
+1. Heliyon. 2020 Aug 28;6(8):e04810. doi: 10.1016/j.heliyon.2020.e04810. eCollection
+2020 Aug.
+
+Development of Salmonella Enteritidis vaccine candidate based on streptomycin
+independent suppressor and metabolic drift rifampicin resistance-attenuating
+markers.
+
+Shehata AA(1)(2), Tarabees R(3), Elsayed M(3), Wareth G(4)(5), Basiouni S(5)(6).
+
+Author information: 
+(1)Avian and Rabbit Diseases Department, Faculty of Veterinary Medicine,
+University of Sadat City, 32897, Sadat City, Egypt.
+(2)Research and Development Section, PerNaturam GmbH, Gödenroth, Germany.
+(3)Department of Bacteriology, Mycology and Immunology, Faculty of Veterinary
+Medicine, University of Sadat City, 32897, Sadat City, Egypt.
+(4)Friedrich-Loeffler-Institut, The Institute of Bacterial Infections and
+Zoonoses, 07743, Jena, Germany.
+(5)Faculty of Veterinary Medicine, Benha University, Moshtohor, 13736, Toukh,
+Egypt.
+(6)Department of Cardiothoracic Surgery, University Regensburg, Regensburg,
+Germany.
+
+Salmonella is one of the most frequent food-borne pathogens and remains public
+health threat globally. The control of Salmonella in poultry, the main reservoir 
+of non-typhoidal salmonellae, is a fundamental approach to ensure the safety of
+poultry products for human consumption. In the present study, a new live
+attenuated Salmonella enterica serovar Enteritidis vaccine candidate containing
+three attenuating markers based on streptomycin-independent (Sm-id) suppressor,
+and metabolic drift antibiotic resistance (MD- "res") was developed. The
+streptomycin dependent (Smd) mutants were derived from Salmonella Enteritidis
+wild-type strain using streptomycin. Then the Sm-id mutants were derived from the
+isolated Smd mutants and designated "Smd→Sm-id". A third MD- "res" marker was
+generated from Smd→Sm-id using rifampicin (Rif) and designated "Smd→Sm-id→Rif".
+The colony sizes of these mutants were stable after more than 50 serial passages 
+on blood agar; reversion to virulence can be almost excluded. The safety and
+efficacy of Smd→Sm-id and Smd→Sm-id→Rif were evaluated in one-day-old commercial 
+layer chicks. Both mutants proved to be safe in terms of clinical signs,
+mortalities, lesion scores of visceral organs and rapid clearance when
+administered orally at a dose of 108 colony forming unit (CFU), whereas birds
+inoculated with 108 CFU Salmonella Enteritidis wild-type strain showed diarrhea, 
+mortalities (3/40) and necrosis in liver and spleen. Chickens vaccinated with the
+developed mutants showed no seroconversion; however, wild-type strain induced a
+significant seroconversion at 3-week-postvaccination (wpv). The developed mutants
+protected chickens against challenge with 108 CFU of Salmonella Enteritidis
+wild-type strain at 3-wpv. Vaccinated birds showed neither clinical signs nor
+mortalities during two-week post-challenge. In addition, the challenge strain
+could not be detected in pooled liver and spleen samples (0/5) at 7th day
+post-inoculation (dpi). However, non-vaccinated challenged birds showed diarrhea 
+and the challenge strain was re-isolated from pooled liver and spleen samples
+(3/5) at 7th dpi. In conclusion, the developed mutants are safe and fully
+protected immunized chickens following heterologous challenge. It is obvious that
+the genetic characterization of these mutants and evaluation of different
+vaccination regimes are still in demand.
+
+© 2020 The Author(s).
+
+DOI: 10.1016/j.heliyon.2020.e04810 
+PMCID: PMC7475269
+PMID: 32923728 
+

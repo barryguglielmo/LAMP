@@ -1,0 +1,57 @@
+
+1. mSphere. 2020 Sep 30;5(5). pii: e00717-20. doi: 10.1128/mSphere.00717-20.
+
+Antimicrobial Peptide Exposure Selects for Resistant and Fit Stenotrophomonas
+maltophilia Mutants That Show Cross-Resistance to Antibiotics.
+
+Blanco P(1), Hjort K(2), Martínez JL(3), Andersson DI(4).
+
+Author information: 
+(1)Centro Nacional de Biotecnología, CSIC, Madrid, Spain.
+(2)Department of Medical Biochemistry and Microbiology, Uppsala University,
+Uppsala, Sweden.
+(3)Centro Nacional de Biotecnología, CSIC, Madrid, Spain jlmtnez@cnb.csic.es
+Dan.Andersson@imbim.uu.se.
+(4)Department of Medical Biochemistry and Microbiology, Uppsala University,
+Uppsala, Sweden jlmtnez@cnb.csic.es Dan.Andersson@imbim.uu.se.
+
+Antimicrobial peptides (AMPs) are essential components of the innate immune
+system and have been proposed as promising therapeutic agents against
+drug-resistant microbes. AMPs possess a rapid bactericidal mode of action and can
+interact with different targets, but bacteria can also avoid their effect through
+a variety of resistance mechanisms. Apart from hampering treatment by the AMP
+itself, or that by other antibiotics in the case of cross-resistance, AMP
+resistance might also confer cross-resistance to innate human peptides and impair
+the anti-infective capability of the human host. A better understanding of how
+resistance to AMPs is acquired and the genetic mechanisms involved is needed
+before using these compounds as therapeutic agents. Using experimental evolution 
+and whole-genome sequencing, we determined the genetic causes and the effect of
+acquired de novo resistance to three different AMPs in the opportunistic pathogen
+Stenotrophomonas maltophilia, a bacterium that is intrinsically resistant to a
+wide range of antibiotics. Our results show that AMP exposure selects for
+high-level resistance, generally without any reduction in bacterial fitness,
+conferred by mutations in different genes encoding enzymes, transporters,
+transcriptional regulators, and other functions. Cross-resistance to AMPs and to 
+other antibiotic classes not used for selection, as well as collateral
+sensitivity, was observed for many of the evolved populations. The relative ease 
+by which high-level AMP resistance is acquired, combined with the occurrence of
+cross-resistance to conventional antibiotics and the maintained bacterial fitness
+of the analyzed mutants, highlights the need for careful studies of S.
+maltophilia resistance evolution to clinically valuable AMPs.IMPORTANCE
+Stenotrophomonas maltophilia is an increasingly relevant multidrug-resistant
+(MDR) bacterium found, for example, in people with cystic fibrosis and associated
+with other respiratory infections and underlying pathologies. The infections
+caused by this nosocomial pathogen are difficult to treat due to the intrinsic
+resistance of this bacterium against a broad number of antibiotics. Therefore,
+new treatment options are needed, and considering the growing interest in using
+AMPs as alternative therapeutic compounds and the restricted number of
+antibiotics active against S. maltophilia, we addressed the potential for
+development of AMP resistance, the genetic mechanisms involved, and the
+physiological effects that acquisition of AMP resistance has on this
+opportunistic pathogen.
+
+Copyright © 2020 Blanco et al.
+
+DOI: 10.1128/mSphere.00717-20 
+PMID: 32999081 
+

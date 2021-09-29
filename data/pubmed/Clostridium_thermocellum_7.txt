@@ -1,0 +1,38 @@
+
+1. Mol Biotechnol. 2020 Sep;62(9):443-455. doi: 10.1007/s12033-020-00263-x. Epub
+2020 Jul 25.
+
+Molecular Characterization, Regioselective and Synergistic Action of First
+Recombinant Type III α-L-arabinofuranosidase of Family 43 Glycoside Hydrolase
+(PsGH43_12) from Pseudopedobacter saltans.
+
+Thakur A(1), Sharma K(1), Jamaldheen SB(1), Goyal A(2).
+
+Author information: 
+(1)Indian Institute of Technology Guwahati, Guwahati, India.
+(2)Indian Institute of Technology Guwahati, Guwahati, India. arungoyl@iitg.ac.in.
+
+α-L-Arabinofuranosidase (PsGH43_12) of family 43 glycoside hydrolase and
+subfamily 12 from Pseudopedobacter saltans was cloned, over-expressed and
+biochemically characterized. PsGH43_12 displayed molecular mass, ~ 65 kDa. It
+exhibited activity in pH (5-9) and temperature range (35-55 °C) with maxima at pH
+6.5 and 50 °C. PsGH43_12 gave 88.7 U/mg specific activity against rye
+arabinoxylan and 78.9 U/mg against wheat arabinoxylan. PsGH43_12 displayed Km and
+Vmax, 3.02 mg/ml and 103 µmole/min/mg, respectively, against rye arabinoxylan and
+2.17 mM and 100.7 µmole/min/mg, respectively, against pNP-α-L-arabinofuranoside. 
+10 mM Mg2+ or Ca2+ ions enhanced PsGH43_12 activity by 54% or 33%, respectively. 
+PsGH43_12 hydrolyzed rye arabinoxylan and released only L-arabinosyl moiety as
+main product, confirming its specificity towards α-L-arabinofuranoside. The
+regioselective analysis by NMR showed that PsGH43_12 belongs to type III
+α-L-arabinofuranoside. The synergistic behavior of PsGH43_12 in saccharification 
+of mild alkali pretreated finger miller stalk (FMS) along with xylanase
+(CtXyn11A) from Clostridium thermocellum and xylosidase (BoGH43) from Bacteroides
+ovatus gave twofold higher total reducing sugar (TRS) yield. TLC analysis of
+pretreated FMS hydrolysed by CtXyn11A and BoGH43 showed xylooligosaccharides and 
+xylose. Addition of PsGH43_12 to above combination gave mostly xylose and
+arabinose confirming their synergistic behavior and displaying their
+applicability in hydrolysis of hemicellulosic biomass.
+
+DOI: 10.1007/s12033-020-00263-x 
+PMID: 32712864 
+

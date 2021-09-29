@@ -1,0 +1,54 @@
+
+1. Ocul Surf. 2020 Jun 1. pii: S1542-0124(20)30088-4. doi:
+10.1016/j.jtos.2020.05.010. [Epub ahead of print]
+
+Bacterial contamination of intravitreal needles by the ocular surface microbiome.
+
+Ozkan J(1), Coroneo M(2), Sandbach J(2), Subedi D(3), Willcox M(3), Thomas T(4).
+
+Author information: 
+(1)School of Optometry and Vision Science, University of New South Wales, Sydney,
+Australia; School of Biological, Earth and Environmental Sciences, University of 
+New South Wales, Sydney, Australia. Electronic address: j.ozkan@unsw.edu.au.
+(2)Department of Ophthalmology, Prince of Wales Hospital, University of New South
+Wales, Sydney, Australia.
+(3)School of Optometry and Vision Science, University of New South Wales, Sydney,
+Australia.
+(4)School of Biological, Earth and Environmental Sciences, University of New
+South Wales, Sydney, Australia.
+
+PURPOSE: The ocular surface microbiota are recognised as one of causative
+microorganisms in post-procedural endophthalmitis but in many cases the vitreous 
+tap is culture negative. This study investigated bacterial contamination of
+intravitreal (IVT) needles using multiple approaches covering culturing, 16S rRNA
+gene sequencing, fluorescent in situ hybridisation (FISH) and scanning electron
+microscopy (SEM).
+METHODS: IVT needles were obtained immediately after injection from patients
+undergoing treatment for predominantly age-related macular degeneration. Eighteen
+needles were analysed by culturing on chocolate blood agar. In addition, 40
+needles were analysed by extracting DNA and paired-end sequencing of the 16S rRNA
+gene. Sequences were quality filtered (USEARCH), taxonomically classified (SILVA)
+and contaminant filtered (DECONTAM). Nine needles were analysed by either FISH
+using the bacterial probe EUB338 or SEM.
+RESULTS: Using culturing, three bacteria were identified from 5 of 18 needles
+(28%) - Kocuria kristinae, Staphylococcus hominis and Sphingomonas paucimobilis. 
+The negative control needles showed no growth. Following rigorous data filtering,
+bacterial community analysis using 16S rRNA gene sequencing showed the presence
+of predominantly Corynebacterium but also Pseudomonas, Acinetobacter,
+Sphingomonas, Staphylococcus and Bacillus on the needles. Cocci-shaped cells in a
+tetrad formation were observed using FISH, while SEM images showed cocci-shaped
+bacteria in pairs and irregular tetrads.
+CONCLUSIONS: The study showed evidence for a large diversity of bacteria on IVT
+needles and visually confirmed their adherence. The diversity was similar to that
+found on the ocular surface and in conjunctival tissue. This suggests the risk of
+exogenous endophthalmitis remains even with sterilization of the conjunctival
+surface.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jtos.2020.05.010 
+PMID: 32497656 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no conflicts of interest.
+

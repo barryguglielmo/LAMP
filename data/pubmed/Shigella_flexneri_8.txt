@@ -1,0 +1,36 @@
+
+1. ACS Infect Dis. 2020 Sep 23. doi: 10.1021/acsinfecdis.0c00178. [Epub ahead of
+print]
+
+Shigella flexneri Targets Human Colonic Goblet Cells by O Antigen Binding to
+Sialyl-Tn and Tn Antigens via Glycan-Glycan Interactions.
+
+Tran ENH(1), Day CJ(2), McCartney E(3), Poole J(2), Tse E(3), Jennings MP(2),
+Morona R(1).
+
+Author information: 
+(1)School of Biological Sciences, Research Centre for Infectious Diseases,
+University of Adelaide, Adelaide, South Australia 5005, Australia.
+(2)Institute for Glycomics, Griffith University, Gold Coast Campus, Brisbane,
+Queensland 4222, Australia.
+(3)Gastroenterological/Hepatological Biobank, Royal Adelaide Hospital, Adelaide, 
+South Australia 5000, Australia.
+
+Shigella flexneri targets colonic cells in humans to initiate invasive infection 
+processes that lead to dysentery, and direct interactions between their
+lipopolysaccharide O antigens and blood group A related glycans are involved in
+the cell adherence interactions. Here, we show that treatment with Tn and
+sialyl-Tn glycans, monoclonal antibodies and lectins reactive to Tn/sialyl-Tn,
+and luteolin (a Tn antigen synthesis inhibitor) all significantly inhibited
+S. flexneri adherence and invasion of cells in vitro. Surface plasmon resonance
+analysis showed that lipopolysaccharide O antigen had a high affinity interaction
+with Tn/sialyl-Tn. Immunofluorescence probing of human colon tissue with
+antibodies detected expression of Tn/sialyl-Tn by MUC2 producing goblet cells
+(GCs), and S. flexneri incubated with human colon tissue colocalized with GCs.
+Our findings demonstrate that S. flexneri targets GCs in the human colonic crypts
+via glycan-glycan interactions, establishing new insight into the infection
+process in humans.
+
+DOI: 10.1021/acsinfecdis.0c00178 
+PMID: 32926786 
+

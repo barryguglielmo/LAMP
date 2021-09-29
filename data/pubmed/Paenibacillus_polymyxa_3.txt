@@ -1,0 +1,47 @@
+
+1. Metab Eng. 2020 Sep;61:381-388. doi: 10.1016/j.ymben.2020.07.009. Epub 2020 Aug
+7.
+
+Engineering of the 2,3-butanediol pathway of Paenibacillus polymyxa DSM 365.
+
+Schilling C(1), Ciccone R(1), Sieber V(2), Schmid J(3).
+
+Author information: 
+(1)Chair of Chemistry of Biogenic Resources, Technical University of Munich,
+Campus for Biotechnology and Sustainability, Schulgasse 16, 94315, Straubing,
+Germany.
+(2)Chair of Chemistry of Biogenic Resources, Technical University of Munich,
+Campus for Biotechnology and Sustainability, Schulgasse 16, 94315, Straubing,
+Germany; Fraunhofer IGB, Straubing Branch BioCat, Schulgasse 23, 94315,
+Straubing, Germany; TUM Catalysis Research Center, Ernst-Otto-Fischer-Straße1,
+85748, Garching, Germany; The University of Queensland, School of Chemistry and
+Molecular Biosciences, 68 Copper Road, St. Lucia, 4072, Australia.
+(3)Chair of Chemistry of Biogenic Resources, Technical University of Munich,
+Campus for Biotechnology and Sustainability, Schulgasse 16, 94315, Straubing,
+Germany; Department of Biotechnology and Food Science, Norwegian University of
+Science and Technology, 7034, Trondheim, Norway. Electronic address:
+jochen.schmid@ntnu.no.
+
+Paenibacillus polymyxa is a Gram-positive, non-pathogenic soil bacterium that has
+been extensively investigated for the production of R-,R-2,3-butanediol in
+exceptionally high enantiomeric purity. Rational metabolic engineering efforts to
+increase productivity and product titers were restricted due to limited genetic
+accessibility of the organism up to now. By use of CRISPR-Cas9 mediated genome
+editing, six metabolic mutant variants were generated and compared in batch
+fermentations for the first time. Downstream processing was facilitated by
+completely eliminating exopolysaccharide formation through the combined knockout 
+of the sacB gene and the clu1 region, encoding for the underlying enzymatic
+machinery of levan and paenan synthesis. Spore formation was inhibited by
+deletion of spoIIE, thereby disrupting the sporulation cascade of P. polymyxa.
+Optimization of the carbon flux towards 2,3-butanediol was achieved by deletion
+of the lactate dehydrogenase ldh1 and decoupling of the butanediol dehydrogenase 
+from its natural regulation via constitutive episomal expression. The improved
+strain showed 45 % increased productivity, reaching a final concentration of
+43.8 g L-1 butanediol. A yield of 0.43 g g-1 glucose was achieved, accounting for
+86 % of the theoretical maximum.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ymben.2020.07.009 
+PMID: 32771627 
+

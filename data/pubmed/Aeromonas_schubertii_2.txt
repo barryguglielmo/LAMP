@@ -1,0 +1,53 @@
+
+1. Fish Shellfish Immunol. 2020 May;100:309-316. doi: 10.1016/j.fsi.2020.03.022.
+Epub 2020 Mar 12.
+
+Bacteria-induced IL-1β and its receptors in snakehead (Channa argus): Evidence
+for their involvement in antibacterial innate immunity.
+
+Cui ZW(1), Kong LL(2), Zhao F(3), Tan AP(1), Deng YT(1), Jiang L(1).
+
+Author information: 
+(1)Key Laboratory of Fishery Drug Development of Ministry of Agriculture and
+Rural Affairs, Key Laboratory of Aquatic Animal Immune Technology of Guangdong
+Province, Pearl River Fisheries Research Institute, Chinese Academy of Fishery
+Sciences, Guangzhou, China.
+(2)Key Laboratory of Fishery Drug Development of Ministry of Agriculture and
+Rural Affairs, Key Laboratory of Aquatic Animal Immune Technology of Guangdong
+Province, Pearl River Fisheries Research Institute, Chinese Academy of Fishery
+Sciences, Guangzhou, China; College of Fisheries and Life Science, Shanghai Ocean
+University, Shanghai, China.
+(3)Key Laboratory of Fishery Drug Development of Ministry of Agriculture and
+Rural Affairs, Key Laboratory of Aquatic Animal Immune Technology of Guangdong
+Province, Pearl River Fisheries Research Institute, Chinese Academy of Fishery
+Sciences, Guangzhou, China. Electronic address: zhaofei@prfri.ac.cn.
+
+As a central pro-inflammatory cytokine, interleukin-1β (IL-1β) plays critical
+roles in the inflammatory response, pathogen infection, and immunological
+challenges in mammals. Although fish IL-1β has been confirmed to participate in
+inflammatory response to pathogen infection, few studies have been performed to
+characterize the antibacterial and bactericidal functions of fish IL-1β. In this 
+study, snakehead (Channa argus) IL-1β (shIL-1β) and its receptors, shIL-1R1 and
+shIL-1R2, were cloned and functionally characterized. ShIL-1β contained the IL-1 
+family signature domain, and a potential cutting site at Asp96 that presented in 
+all vertebrate IL-1β sequences. ShIL-1R1 had three extracellular IG-like domains 
+and one intracellular signal TIR domain, while shIL-1R2 had three extracellular
+IG-like domain but lacked the intracellular signal TIR domain. ShIL-1β, shIL-1R1,
+and shIL-1R2 were constitutively expressed in all tested tissues, and their
+expressions could be induced by Aeromonas schubertii and Nocardia seriolae in the
+head kidney and spleen in vivo, and by LTA, LPS, and Poly (I:C) in head kidney
+leukocytes (HKLs) in vitro. Moreover, recombinant shIL-1β upregulated the
+expression of endogenous shIL-1β, shIL-R1, and shIL-R2 in snakehead HKLs, and
+enhanced intracellular bactericidal activity. Taken together, this study found
+that, like IL-1β and its receptors in mammals, shIL-1β and its receptors play
+crucial roles in antibacterial innate immunity. This provides new insight into
+the evolution of IL-1β function in vertebrates.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fsi.2020.03.022 
+PMID: 32173451 
+
+Conflict of interest statement: Declaration of competing interest The authors
+have no conflicting commercial or financial interest in publishing this paper.
+

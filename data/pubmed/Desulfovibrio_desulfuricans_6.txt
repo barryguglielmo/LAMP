@@ -1,0 +1,63 @@
+
+1. Appl Environ Microbiol. 2020 May 19;86(11). pii: e00122-20. doi:
+10.1128/AEM.00122-20. Print 2020 May 19.
+
+Synergistic Effects of a Chalkophore, Methanobactin, on Microbial Methylation of 
+Mercury.
+
+Yin X(#)(1)(2), Wang L(#)(2)(3), Zhang L(2), Chen H(2)(4), Liang X(2)(5), Lu
+X(2), DiSpirito AA(6), Semrau JD(7), Gu B(8)(5).
+
+Author information: 
+(1)Jinan Research Academy of Environmental Sciences, Jinan, China.
+(2)Environmental Sciences Division, Oak Ridge National Laboratory, Oak Ridge,
+Tennessee, USA.
+(3)Shandong Analysis and Test Center, Qilu University of Technology (Shandong
+Academy of Sciences), Jinan, China.
+(4)Department of Chemistry and Biochemistry, Old Dominion University, Norfolk,
+Virginia, USA.
+(5)Department of Biosystems Engineering and Soil Science, University of
+Tennessee, Knoxville, Tennessee, USA.
+(6)Roy J. Carver Department of Biochemistry, Biophysics and Molecular Biology,
+Iowa State University, Ames, Iowa, USA.
+(7)Department of Civil and Environmental Engineering, University of Michigan, Ann
+Arbor, Michigan, USA.
+(8)Environmental Sciences Division, Oak Ridge National Laboratory, Oak Ridge,
+Tennessee, USA gub1@ornl.gov.
+(#)Contributed equally
+
+Microbial production of the neurotoxin methylmercury (MeHg) is a significant
+health and environmental concern, as it can bioaccumulate and biomagnify in the
+food web. A chalkophore or a copper-binding compound, termed methanobactin (MB), 
+has been shown to form strong complexes with mercury [as Hg(II)] and also enables
+some methanotrophs to degrade MeHg. It is unknown, however, if Hg(II) binding
+with MB can also impede Hg(II) methylation by other microbes. Contrary to
+expectations, MB produced by the methanotroph Methylosinus trichosporium OB3b
+(OB3b-MB) enhanced the rate and efficiency of Hg(II) methylation more than that
+observed with thiol compounds (such as cysteine) by the mercury-methylating
+bacteria Desulfovibrio desulfuricans ND132 and Geobacter sulfurreducens PCA.
+Compared to no-MB controls, OB3b-MB decreased the rates of Hg(II) sorption and
+internalization, but increased methylation by 5- to 7-fold, suggesting that
+Hg(II) complexation with OB3b-MB facilitated exchange and internal transfer of
+Hg(II) to the HgcAB proteins required for methylation. Conversely, addition of
+excess amounts of OB3b-MB or a different form of MB from Methylocystis strain SB2
+(SB2-MB) inhibited Hg(II) methylation, likely due to greater binding of Hg(II).
+Collectively, our results underscore the complex roles of microbial exogenous
+metal-scavenging compounds in controlling net production and bioaccumulation of
+MeHg in the environment.IMPORTANCE Some anaerobic microorganisms convert
+inorganic mercury (Hg) into the neurotoxin methylmercury, which can bioaccumulate
+and biomagnify in the food web. While the genetic basis of microbial mercury
+methylation is known, factors that control net methylmercury production in the
+environment are still poorly understood. Here, it is shown that mercury
+methylation can be substantially enhanced by one form of an exogenous
+copper-binding compound (methanobactin) produced by some methanotrophs, but not
+by another. This novel finding illustrates that complex interactions exist
+between microbes and that these interactions can potentially affect the net
+production of methylmercury in situ.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.00122-20 
+PMCID: PMC7237777 [Available on 2020-11-19]
+PMID: 32220843 
+

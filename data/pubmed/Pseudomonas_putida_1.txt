@@ -1,0 +1,38 @@
+
+1. Environ Microbiol. 2020 Sep 30. doi: 10.1111/1462-2920.15264. [Epub ahead of
+print]
+
+NanoSIMS sample preparation decreases isotope enrichment: magnitude, variability 
+and implications for single-cell rates of microbial activity.
+
+Meyer NR(1), Fortney J(1), Dekas AE(1).
+
+Author information: 
+(1)Department of Earth System Science, Stanford University, Stanford, CA, 94305.
+
+The activity of individual microorganisms can be measured within environmental
+samples by detecting uptake of isotope-labeled substrates using nano-scale
+secondary ion mass spectrometry (nanoSIMS). Recent studies have demonstrated that
+sample preparation can decrease 13 C and 15 N enrichment in bacterial cells,
+resulting in underestimates of activity. Here, we explore this effect with a
+variety of preparation types, microbial lineages, and isotope labels to determine
+its consistency and therefore potential for correction. Specifically, we
+investigated the impact of different protocols for fixation, nucleic acid
+staining, and catalyzed reporter deposition fluorescence in situ hybridization
+(CARD-FISH) on >14,500 archaeal and bacterial cells (Methanosarcina acetivorans, 
+Sulfolobus acidocaldarius, and Pseudomonas putida) enriched in 13 C, 15 N, 18 O, 
+2 H, and/or 34 S. We found these methods decrease isotope enrichments by up to
+80% - much more than previously reported - and that the effect varies by taxa,
+growth phase, isotope label, and applied protocol. We make recommendations for
+how to account for this effect experimentally and analytically. We also
+re-evaluate published nanoSIMS datasets, and revise estimated microbial turnover 
+times in the marine subsurface and nitrogen fixation rates in pelagic unicellular
+cyanobacteria. When sample preparation is accounted for, cell-specific rates
+increase and are more consistent with modeled and bulk rates. This article is
+protected by copyright. All rights reserved.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1111/1462-2920.15264 
+PMID: 33000528 
+

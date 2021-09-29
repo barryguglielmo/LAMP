@@ -1,0 +1,42 @@
+
+1. Front Bioeng Biotechnol. 2020 Mar 20;8:214. doi: 10.3389/fbioe.2020.00214.
+eCollection 2020.
+
+Metabolic Engineering of Histidine Kinases in Clostridium beijerinckii for
+Enhanced Butanol Production.
+
+Xin X(1), Cheng C(1), Du G(1), Chen L(1), Xue C(1).
+
+Author information: 
+(1)School of Bioengineering, Dalian University of Technology, Dalian, China.
+
+Clostridium beijerinckii, a promising industrial microorganism for butanol
+production, suffers from low butanol titer and lack of high-efficiency genetical 
+engineering toolkit. A few histidine kinases (HKs) responsible for Spo0A
+phosphorylation have been demonstrated as functionally important components in
+regulating butanol biosynthesis in solventogenic clostridia such as C.
+acetobutylicum, but no study about HKs has been conducted in C. beijerinckii. In 
+this study, six annotated but uncharacterized candidate HK genes sharing partial 
+homologies (no less than 30%) with those in C. acetobutylicum were selected based
+on sequence alignment. The encoding region of these HK genes were deleted with
+CRISPR-Cas9n-based genome editing technology. The deletion of cbei2073 and
+cbei4484 resulted in significant change in butanol biosynthesis, with butanol
+production increased by 40.8 and 17.3% (13.8 g/L and 11.5 g/L vs. 9.8 g/L),
+respectively, compared to the wild-type. Faster butanol production rates were
+observed, with butanol productivity greatly increased by 40.0 and 20.0%,
+respectively, indicating these two HKs are important in regulating cellular
+metabolism in C. beijerinckii. In addition, the sporulation frequencies of two
+HKs inactivated strains decreased by 96.9 and 77.4%, respectively. The other four
+HK-deletion (including cbei2087, cbei2435, cbei4925, and cbei1553) mutant strains
+showed few phenotypic changes compared with the wild-type. This study
+demonstrated the role of HKs on sporulation and solventogenesis in C.
+beijerinckii, and provided a novel engineering strategy of HKs for improving
+metabolite production. The hyper-butanol-producing strains generated in this
+study have great potentials in industrial biobutanol production.
+
+Copyright © 2020 Xin, Cheng, Du, Chen and Xue.
+
+DOI: 10.3389/fbioe.2020.00214 
+PMCID: PMC7098912
+PMID: 32266241 
+

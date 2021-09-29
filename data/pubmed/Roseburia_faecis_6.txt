@@ -1,0 +1,50 @@
+
+1. Clin Pharmacol Transl Med. 2019;3(2):152-159. Epub 2019 Oct 12.
+
+Effects of C-Terminal Domain of the Heavy Chain of Tetanus Toxin on Gut
+Microbiota in a Rat Model of Depression.
+
+Getachew B(1), Tizabi Y(1).
+
+Author information: 
+(1)Department of Pharmacology, Howard University College of Medicine, Washington,
+DC, USA.
+
+Background/Aims: It is now well established that imbalance or dysbiosis in the
+gut microbiota (GM) plays a significant role in
+neuropsychiatric/neurodegenerative disorders. Recently it has been reported that 
+the C-terminal domain of the heavy chain of tetanus toxin (Hc-TeTx) may not only 
+act as a neuroprotectant but may also exhibit antidepressant effects in
+Wistar-Kyoto (WKY) rats, a putative animal model of treatment-resistant
+depression. The aim of this study was to determine whether Hc-TeTx may also
+interact with GM implicated in mood regulation in these rats.
+Methods: Adult male WKY rats (5/group) were injected intramuscularly (IM) with 60
+μg/kg Hc-TeTx or saline. Twenty-four hours after the injection, the animals were 
+sacrificed, intestinal stools were collected and stored at -80°C. DNA was
+extracted from the samples for 16S rRNA gene-based microbiota analysis using 16S 
+Metagenomics application.
+Results: Abundance of several bacteria at different taxonomic levels were
+distinguished between Hc-TeTx group and the control. At species-level, 11
+operational taxonomic units (OTUs), particularly Bifidobacterium cholerium, a
+bacterium with a strong ability to degrade resistant starch, were enriched (69
+fold) in the Hc-TeTx group. In addition, 5 species of probiotic Lactobacillus,
+two butyrate-forming species Sarcina, Butyrivibro proteovlasticus and Roseburia
+faecis, were enhanced by a minimum of 2-fold in Hc-TeTx group. In contrast, 24
+species including five species of pathogenic Provettela (5-14 fold), two
+mucin-degrading Akkermansia muciniphila and Mucispirillum schaedleri, and four
+species of pathogenic Ruminoccus were reduced by a minimum of 2-fold by Hc-TeTx
+treatment.
+Conclusion: Hc-TeTx enhanced probiotic species and suppressed the opportunistic
+pathogens. Since overall effect of Hc-TeTx appears to be promoting GM associated 
+with mood enhancement (e.g. Bifidobacterium, Butyrivibro, and Lactobacillus) and 
+suppressing GM associated with mood dysregulation (e.g. Mucispirillum,
+Provettela, and Ruminoccus) a novel mechanism of beneficial effects of Hc-TeTx
+may involve normalization of dysbiosis.
+
+
+PMCID: PMC7063687
+PMID: 32159077 
+
+Conflict of interest statement: Conflict of Interest The authors state that they 
+have no conflict of interest.
+

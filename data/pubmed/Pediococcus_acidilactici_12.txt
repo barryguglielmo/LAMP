@@ -1,0 +1,78 @@
+
+1. Animals (Basel). 2020 Jul 15;10(7). pii: E1201. doi: 10.3390/ani10071201.
+
+Influence of the Fermented Feed and Vaccination and Their Interaction on
+Parameters of Large White/Norwegian Landrace Piglets.
+
+Vadopalas L(1), Badaras S(1), Ruzauskas M(2)(3), Lele V(1)(4), Starkute V(1)(4), 
+Zavistanaviciute P(1)(4), Zokaityte E(1)(4), Bartkevics V(5)(6), Klupsaite D(1), 
+Mozuriene E(1)(4), Dauksiene A(1)(2), Sidlauskiene S(1), Gruzauskas R(7),
+Bartkiene E(1)(4).
+
+Author information: 
+(1)Institute of Animal Rearing Technologies, Lithuanian University of Health
+Sciences, Tilžės g. 18, LT-47181 Kaunas, Lithuania.
+(2)Department of Physiology and Anatomy, Lithuanian University of Health
+Sciences, Tilžės g. 18, LT-47181 Kaunas, Lithuania.
+(3)Microbiology and Virology Institute, Lithuanian University of Health Sciences,
+Tilžės g. 18, LT-47181 Kaunas, Lithuania.
+(4)Department of Food Safety and Quality, Lithuanian University of Health
+Sciences, Tilžės g. 18, LT-47181 Kaunas, Lithuania.
+(5)University of Latvia Faculty of Chemistry, Jelgavas iela 1, LV-1004 Riga,
+Latvia.
+(6)Institute of Food Safety, Animal Health and Environment BIOR, Lejupesiela 3,
+LV-1076 Riga, Latvia.
+(7)Department of Food Science and Technology, Kaunas University of Technology,
+Radvilenu str. 19, LT-50254 Kaunas, Lithuania.
+
+The aim of this study was to evaluate the influence of fermented with a newly
+isolated lactic acid bacteria (LAB) strains combination (Lactobacillus plantarum 
+LUHS122, Lactobacillus casei LUHS210, Lactobacillus farraginis LUHS206,
+Pediococcus acidilactici LUHS29, Lactobacillus plantarum LUHS135 and
+Lactobacillus uvarum LUHS245) feed on non-vaccinated (NV) and vaccinated with
+Circovac porcine circovirus type 2 vaccine (QI09AA07, CEVA-PHYLAXIA Co. Ltd.
+Szállás u. 5. 1107 Budapest, Hungary) piglets' blood parameters, gut microbial
+composition, growth performance and ammonia emission. The 36-day experiment was
+conducted using 25-day-old Large White/Norwegian Landrace (LW/NL) piglets, which 
+were randomly divided into four groups with 100 piglets each:
+SnonV-non-vaccinated piglets fed with control group compound feed; SV-vaccinated 
+piglets fed with control group compound feed; RFnonV-non-vaccinated piglets fed
+with fermented compound feed; RFV-vaccinated piglets fed with fermented compound 
+feed. Samples from 10 animals per group were collected at the beginning and end
+of the experiment. Metagenomic analysis showed that fermentation had a positive
+impact on the Lactobacillus prevalence during the post-weaning period of pigs,
+and vaccination had no negative impact on microbial communities. Although a
+higher amount of Lactobacillus was detected in vaccinated, compared with
+non-vaccinated groups. At the end of experiment, there was a significantly higher
+LAB count in the faeces of both vaccinated compared to non-vaccinated groups
+(26.6% for SV and 17.2% for RFV), with the highest LAB count in the SV group. At 
+the end of experiment, the SV faeces also had the highest total bacteria count
+(TBC). The RFV group had a 13.2% increase in total enterobacteria count (TEC) at 
+the end of experiment, and the SV group showed a 31.2% higher yeast/mould (Y/M)
+count. There were no significant differences in the average daily gain (ADG)
+among the groups; however, there were significant differences in the feed
+conversion ratios (FCR) between several groups: SV vs. SnonV (11.5% lower in the 
+SV group), RFV vs. RFnonV (10.2% lower in the RFnonV group) and SV vs. RFV (21.6%
+lower in the SV group). Furthermore, there was a significant, very strong
+positive correlation between FCR and TEC in piglets' faeces (R = 0.919, p =
+0.041). The lowest ammonia emission was in RFV group section (58.2, 23.8, and
+47.33% lower compared with the SnonV, SV and RFnonV groups, respectively).
+Notably, there was lower ammonia emission in vaccinated groups (45.2% lower in SV
+vs. SnonV and 47.33% lower in RFV vs. RFnonV). There was also a significant, very
+strong positive correlation between ammonia emission and Y/M count in piglets'
+faeces at the end of the experiment (R = 0.974; p = 0.013). Vaccination as a
+separate factor did not significantly influence piglets' blood parameters.
+Overall, by changing from an extruded soya to cheaper rapeseed meal and applying 
+the fermentation model with the selected LAB combination, it is possible to feed 
+piglets without any undesirable changes in health and growth performance in a
+more sustainable manner. However, to evaluate the influence of vaccination and
+its interaction with other parameters (feed, piglets' age, breed, etc.) on
+piglets' parameters, additional studies should be performed and methods should be
+standardised to ensure the results may be compared.
+
+DOI: 10.3390/ani10071201 
+PMCID: PMC7401620
+PMID: 32679752 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

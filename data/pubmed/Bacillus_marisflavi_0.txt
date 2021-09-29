@@ -1,0 +1,62 @@
+
+1. Environ Res. 2020 Sep 6;191:110142. doi: 10.1016/j.envres.2020.110142. [Epub
+ahead of print]
+
+Green synthesis of silver nanoparticles transformed synthetic textile dye into
+less toxic intermediate molecules through LC-MS analysis and treated the actual
+wastewater.
+
+Ahmed T(1), Noman M(1), Shahid M(2), Niazi MBK(3), Hussain S(4), Manzoor N(5),
+Wang X(6), Li B(7).
+
+Author information: 
+(1)State Key Laboratory of Rice Biology and Ministry of Agriculture Key
+Laboratory of Molecular Biology of Crop Pathogens and Insects, Institute of
+Biotechnology, Zhejiang University, 310058, Hangzhou, China; Department of
+Bioinformatics and Biotechnology, Government College University, Faisalabad,
+38000, Pakistan.
+(2)Department of Bioinformatics and Biotechnology, Government College University,
+Faisalabad, 38000, Pakistan. Electronic address: mshahid@gcuf.edu.pk.
+(3)School of Chemical and Materials Engineering (SCME), National University of
+Sciences & Technology (NUST), Sector H-12, 44000, Islamabad, Pakistan.
+(4)Department of Environmental Science & Engineering, Government College
+University, Faisalabad, 38000, Pakistan.
+(5)Department of Soil and Water Sciences, China Agricultural University, Beijing,
+100193, China.
+(6)State Key Laboratory of Rice Biology and Ministry of Agriculture Key
+Laboratory of Molecular Biology of Crop Pathogens and Insects, Institute of
+Biotechnology, Zhejiang University, 310058, Hangzhou, China.
+(7)State Key Laboratory of Rice Biology and Ministry of Agriculture Key
+Laboratory of Molecular Biology of Crop Pathogens and Insects, Institute of
+Biotechnology, Zhejiang University, 310058, Hangzhou, China. Electronic address: 
+libin0571@zju.edu.cn.
+
+The illegal disposal of waste from textile industries having recalcitrant
+pollutants is a worldwide problem with more severity in developing nations. We
+used an ecofriendly method to synthesize silver nanoparticles (AgNPs) from a
+locally-isolated bacterial strain Bacillus marisflavi TEZ7 and employed them as
+photocatalysts to degrade not only synthetic azo dyes but also actual textile
+effluents followed by phytotoxicity evaluation and identification of degradation 
+molecules. The strain TEZ7 was taxonomically identified through the 16S rRNA gene
+sequence analysis. Biogenic AgNPs were characterized for stabilizing molecules,
+crystal structure, size, shape and elemental composition by Fourier transform
+infrared spectroscopy (FTIR), X-ray diffraction (XRD) analysis, transmission
+electron microscopy (TEM), scanning electron microscopy (SEM) and energy
+dispersive spectroscopy (EDS), respectively. The photocatalytic degradation
+efficiency of biogenic AgNPs for three azo dyes such as Direct Blue-1, Methyl
+Red, and Reactive Black-5 ranged between 54.14 and 96.92% after 5 h of sunlight
+exposure at a concentration of 100 mg/L. Moreover, the actual wastewater
+treatment analysis revealed that the 100 mg/L dose of AgNPs significantly
+decreased the concentration of various physico-chemical parameters of textile
+effluents such as pH, EC, chlorides, sulphates, hardness, BOD, COD, TSS and TDS. 
+Furthermore, six intermediate molecules of methyl red degradation were identified
+by LC-MS and it was established by a pot study that these degradation molecules
+have no phytotoxic effects on rice plants. It was concluded that the AgNPs can be
+used as an efficient and low-cost strategy for the degradation of azo dyes
+containing textile wastewaters.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.envres.2020.110142 
+PMID: 32898565 
+

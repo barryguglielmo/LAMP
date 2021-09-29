@@ -1,0 +1,39 @@
+
+1. Int J Syst Evol Microbiol. 2020 Feb;70(2):1037-1041. doi: 10.1099/ijsem.0.003867.
+
+Flavobacterium microcysteis sp. nov., isolated from a culture of Microcystis
+aeruginosa.
+
+Seo YL(1), Jeong SE(1), Jin HM(2), Jeon CO(1).
+
+Author information: 
+(1)Department of Life Science, Chung-Ang University, Seoul 06974, Republic of
+Korea.
+(2)Microbial Research Department, Nakdonggang National Institute of Biological
+Resources, Sangju-si, Gyeongsangbuk-do 37242, Republic of Korea.
+
+A Gram-stain-negative, yellow-pigmented, strictly aerobic bacterium, designated
+strain MaA-Y11T, was isolated from a culture of Microcystis aeruginosa in the
+Republic of Korea. Cells were non-motile rods showing catalase- and
+oxidase-positive reactions. Growth of strain MaA-Y11T was observed at 25-37 °C
+(optimum, 30 °C) and pH 6.0-9.0 (optimum, 7.0) and in the presence of 0-1.0 %
+(w/v) NaCl (optimum, 0 %). Strain MaA-Y11T did not produce flexirubin-type
+pigments. Strain MaA-Y11T contained iso-C15 : 0, iso-C17 : 0 3-OH and summed
+feature 3 (C16 : 1ω7c and/or C16 : 1ω6c) as major cellular fatty acids and
+menaquinone-6 as the sole isoprenoid quinone. Phosphatidylethanolamine, three
+unidentified aminolipids and four unidentified lipids were detected as the major 
+polar lipids. The G+C content of the genomic DNA was 37.0 mol%. Phylogenetic
+analysis, based on 16S rRNA gene sequences, showed that strain MaA-Y11T formed a 
+phyletic lineage with Flavobacterium lindanitolerans IP-10T within the genus
+Flavobacterium. Strain MaA-Y11T was most closely related to Flavobacterium
+lindanitolerans IP-10T, with a 98.85 % 16S rRNA gene sequence similarity, and
+shared less than 93.87 % sequence similarities with other type strains. Average
+nucleotide identity and in silico DNA-DNA hybridization values between strain
+MaA-Y11T and the type strain of F. lindanitolerans were 87.0 and 32.3 %,
+respectively. Here, we conclude that strain MaA-Y11T represents a new species of 
+the genus Flavobacterium, for which the name Flavobacterium microcysteis sp. nov.
+is proposed. The type strain is MaA-Y11T (=KACC 21225T=JCM 33501T).
+
+DOI: 10.1099/ijsem.0.003867 
+PMID: 31730028  [Indexed for MEDLINE]
+

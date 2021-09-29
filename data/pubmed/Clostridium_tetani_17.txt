@@ -1,0 +1,47 @@
+
+1. Biologicals. 2020 Mar;64:10-14. doi: 10.1016/j.biologicals.2020.02.001. Epub 2020
+Feb 11.
+
+A next-generation sequencing based method for determining genetic stability in
+Clostridium tetani vaccine strains.
+
+Pennings JLA(1), Abachin E(2), Uhlrich S(2), Esson R(2), Mallet L(2), Vandebriel 
+RJ(3).
+
+Author information: 
+(1)Centre for Health Protection, National Institute for Public Health and the
+Environment (RIVM), Bilthoven, the Netherlands. Electronic address:
+jeroen.pennings@rivm.nl.
+(2)Sanofi Pasteur, 1541 Avenue Marcel Mérieux, 69280, Marcy l'Etoile, France.
+(3)Centre for Health Protection, National Institute for Public Health and the
+Environment (RIVM), Bilthoven, the Netherlands.
+
+Production of tetanus and other clostridial vaccines highly depends on the stable
+and reproducible production of high toxin levels. This creates a need to ensure
+the genetic stability of seed strains. We developed a two-stage method for
+improved assessment of the genetic stability of Clostridium seed strains. This
+method is based on next-generation sequencing (NGS) of strain DNA and mapping the
+sequence reads to a reference sequence. The output allows analysis of global
+genome consistency followed, if necessary, by detailed expert judgement of
+potential deviations at the gene level. The limit of detection of our method is
+an order of magnitude better than that of the currently established pulsed-field 
+gel electrophoresis (PFGE). Improved genetic characterization of bacterial seed
+lots will have a positive impact on the characterization of the production
+process. This will be a first step towards applying the consistency approach to
+vaccine batch release of established vaccines. This can contribute to the
+reduction and ultimately replacement of routinely used animal tests in vaccine
+production. This work was carried out as part of the Innovative Medicines
+Initiative 2 (IMI2) project VAC2VAC (Vaccine batch to vaccine batch comparison by
+consistency testing).
+
+Copyright © 2020 International Alliance for Biological Standardization. Published
+by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biologicals.2020.02.001 
+PMID: 32057566 
+
+Conflict of interest statement: Declaration of competing interest Eric Abachin,
+Sylvie Uhlrich, and Raphaël Esson are employees of Sanofi Pasteur. Laurent Mallet
+was employed by Sanofi Pasteur at the time of the work. Jeroen Pennings and Rob
+Vandebriel have no conflicts.
+

@@ -1,0 +1,43 @@
+
+1. Front Microbiol. 2020 Aug 14;11:1940. doi: 10.3389/fmicb.2020.01940. eCollection 
+2020.
+
+Emergence of Carbapenem- and Tigecycline-Resistant Proteus cibarius of Animal
+Origin.
+
+Li Y(1), Wang Q(1), Peng K(1), Liu Y(1)(2)(3), Li R(1)(2)(3), Wang Z(1)(3).
+
+Author information: 
+(1)College of Veterinary Medicine, Yangzhou University, Yangzhou, China.
+(2)Institute of Comparative Medicine, Yangzhou University, Yangzhou, China.
+(3)Jiangsu Co-innovation Center for Prevention and Control of Important Animal
+Infectious Diseases and Zoonoses, Yangzhou University, Yangzhou, China.
+
+The emergence of tet(X) and carbapenemase genes in Enterobacterales pose
+significant challenges to the treatment of infectious diseases. Convergence of
+these two categories of genes in an individual pathogen would deteriorate the
+antimicrobial resistance (AMR) crisis furthermore. Here, tigecycline-resistant
+Enterobacterales strains were isolated and detected with carbapenemase genes,
+characterized by antimicrobial susceptibility testing, PCR, conjugation assay,
+whole genome sequencing, and bioinformatics analysis. Three tigecycline-resistant
+isolates consisting of one plasmid-mediated tet(X4)-bearing Escherichia
+fergusonii and two chromosomal tet(X6)-bearing Proteus cibarius were recovered
+from chicken feces. The tet(X4) was located on a conjugative IncX1 plasmid
+pHNCF11W-tetX4 encoding the identical structure as reported tet(X4)-bearing IncX1
+plasmids in Escherichia coli. Among two P. cibarius strains, tet(X6) was located 
+on two similar chromosomal MDR regions with genetic contexts
+IS26-aac(3)-IVa-aph(4)-Ia-ISEc59-tnpA-tet(X6)-orf-orf-ISCR2-virD2-floR-ISCR2-glmM
+-sul2 and IS26-aac(3)-IVa-aph(4)-Ia-ISEc59-tnpA-tet(X6)-orf-orf-ISCR2-glmM-sul2. 
+Apart from tet(X6), P. cibarius HNCF44W harbored a novel transposon Tn6450b
+positive for bla NDM- 1 on a conjugative plasmid. This study probed the genomic
+basis of three tet(X)-bearing, tigecycline-resistant strains, one of which
+coharbored bla NDM- 1 and tet(X6), and identified P. cibarius as the important
+reservoir of tet(X6) variants. Emergence of P. cibarius encoding both bla NDM- 1 
+and tet(X6) reveals a potential public health risk.
+
+Copyright © 2020 Li, Wang, Peng, Liu, Li and Wang.
+
+DOI: 10.3389/fmicb.2020.01940 
+PMCID: PMC7457074
+PMID: 32922378 
+

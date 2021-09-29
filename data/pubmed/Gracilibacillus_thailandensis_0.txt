@@ -1,0 +1,40 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jun;70(6):3701-3710. doi: 10.1099/ijsem.0.004224.
+Epub 2020 May 15.
+
+Gracilibacillus salitolerans sp. nov., a moderate halophile isolated from saline 
+soil in Northwest China.
+
+Gan L(1)(2), Li X(1)(2), Chen J(1)(2), Zhang S(1)(2), Zhang R(1)(2), Peng
+B(1)(2), Tian Y(1)(2).
+
+Author information: 
+(1)Key Laboratory of Leather Chemistry and Engineering (Sichuan University),
+Ministry of Education, Chengdu 610065, PR China.
+(2)College of Biomass Science and Engineering, Sichuan University, Chengdu
+610065, PR China.
+
+A moderately halophilic strain, designated SCU50T, was recovered from a saline
+soil sample and characterized by a polyphasic approach. The 16S rRNA gene
+sequence analysis showed that strain SCU50T belonged to the genus Gracilibacillus
+and was most closely related to Gracilibacillus thailandensis TP2-8T (98.1 %
+similarity) and Gracilibacillus orientalis XH-63T (97.7 %). Genomic average
+nucleotide identity and digital DNA-DNA hybridization analyses confirmed the
+separate species status of the new isolate relative to other recognized
+Gracilibacillus species. The genome size was about 5.09 Mbp and the DNA G+C
+content was 36.7 mol%. The strain grew optimally at 10-15 % (w/v) NaCl, pH
+6.5-7.5 and 25-30 °C. It contained anteiso-C15 : 0, iso-C15 : 0 and
+anteiso-C17 : 0 as the dominant fatty acids and menaquinone-7 as the major
+respiratory quinone. The polar lipid profile was examined and found to comprise
+diphosphatidylglycerol, phosphatidylglycerol, one unidentified phospholipid and
+one unidentified lipid. The cell-wall peptidoglycan type was A1γ based on
+meso-diaminopimelic acid. Combining the data from phenotypic, chemotaxonomic,
+genomic and phylogenetic characterization, it was concluded that strain SCU50T
+should be assigned as representing a novel species within the genus
+Gracilibacillus. Thus, a novel taxon named Gracilibacillus salitolerans sp. nov. 
+was first established, with SCU50T (=CGMCC 1.17336T=KCTC 43107T) as the type
+strain.
+
+DOI: 10.1099/ijsem.0.004224 
+PMID: 32416748  [Indexed for MEDLINE]
+

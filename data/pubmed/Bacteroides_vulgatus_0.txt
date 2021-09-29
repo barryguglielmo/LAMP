@@ -1,0 +1,54 @@
+
+1. ACS Cent Sci. 2020 Sep 23;6(9):1602-1616. doi: 10.1021/acscentsci.0c00791. Epub
+2020 Jul 30.
+
+Pairing Bacteroides vulgatus LPS Structure with Its Immunomodulatory Effects on
+Human Cellular Models.
+
+Di Lorenzo F(1)(2), Pither MD(1), Martufi M(3), Scarinci I(3), Guzmán-Caldentey
+J(4), Łakomiec E(5), Jachymek W(5), Bruijns SCM(6), Santamaría SM(4), Frick
+JS(7), van Kooyk Y(6), Chiodo F(6), Silipo A(1)(2), Bernardini ML(3), Molinaro
+A(1)(2).
+
+Author information: 
+(1)Department of Chemical Sciences, University of Naples Federico II, 80126
+Naples, Italy.
+(2)Task Force on Microbiome Studies, University of Naples Federico II, 80126
+Naples, Italy.
+(3)Department of Biology and Biotechnologies "C. Darwin", Sapienza-University of 
+Rome, 00185 Rome, Italy.
+(4)Department of Structural and Chemical Biology, Centro de Investigaciones
+Biológicas, CIB-CSIC, 28040 Madrid, Spain.
+(5)Hirszfeld Institute of Immunology and Experimental Therapy, Polish Academy of 
+Sciences, Wrocław 53-114, Poland.
+(6)Department of Molecular Cell Biology and Immunology, Amsterdam Infection &
+Immunity Institute and Cancer Center Amsterdam, Amsterdam UMC, Vrije Universiteit
+Amsterdam, Amsterdam 1081 HV, The Netherlands.
+(7)Institute of Medical Microbiology and Hygiene, University of Tübingen, 72076
+Tübingen, Germany.
+
+The gut microbiota guide the development of the host immune system by setting a
+systemic threshold for immune activation. Lipopolysaccharides (LPSs) from gut
+bacteria are able to trigger systemic and local proinflammatory and
+immunomodulatory responses, and this capability strongly relies on their fine
+structures. Up to now, only a few LPS structures from gut commensals have been
+elucidated; therefore, the molecular motifs that may be important for
+LPS-mammalian cell interactions at the gut level are still obscure. Here, we
+report on the full structure of the LPS isolated from one of the prominent
+species of the genus Bacteroides, Bacteroides vulgatus. The LPS turned out to
+consist of a particular chemical structure based on hypoacylated and
+mono-phosphorylated lipid A and with a galactofuranose-containing core
+oligosaccharide and an O-antigen built up of mannose and rhamnose. The evaluation
+of the immunological properties of this LPS on human in vitro models revealed a
+very interesting capability to produce anti-inflammatory cytokines and to induce 
+a synergistic action of MD-2/TLR4- and TLR2-mediated signaling pathways.
+
+Copyright © 2020 American Chemical Society.
+
+DOI: 10.1021/acscentsci.0c00791 
+PMCID: PMC7517413
+PMID: 32999936 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

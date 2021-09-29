@@ -1,0 +1,55 @@
+
+1. Front Vet Sci. 2020 Jun 2;7:304. doi: 10.3389/fvets.2020.00304. eCollection 2020.
+
+Occurrence and Predictors of Bacterial Respiratory Tract Infections and
+Antimicrobial Resistance Among Isolates From Dogs Presented With Lower
+Respiratory Tract Infections at a Referral Veterinary Hospital in South Africa.
+
+Qekwana DN(1), Naidoo V(2), Oguttu JW(3), Odoi A(1)(3)(4).
+
+Author information: 
+(1)Section Veterinary Public Health, Department of Paraclinical Sciences, Faculty
+of Veterinary Science, University of Pretoria, Pretoria, South Africa.
+(2)Faculty of Veterinary Science, University of Pretoria Biomedical Research
+Centre, Pretoria, South Africa.
+(3)Department of Agriculture and Animal Health, College of Agriculture and
+Environmental Sciences, University of South Africa, Johannesburg, South Africa.
+(4)Department of Biomedical and Diagnostic Sciences, College of Veterinary
+Medicine, University of Tennessee, Knoxville, Knoxville, TN, United States.
+
+Background: Respiratory tract infections (RTIs) associated with Pasteurella
+multocida, Bordetella bronchiseptica, Streptococci, Staphylococci, and
+Pseudomonas species have been reported in dogs. The objective of this study was
+to investigate the occurrence and predictors of bacterial RTIs and antimicrobial 
+resistance among samples from dogs with lower RTIs at a referral veterinary
+teaching hospital in South Africa. Methods: Records of 157 dogs with lower RTIs
+presented to the veterinary teaching hospital between 2007 and 2013 were included
+in the study. Crude and factor-specific proportions of RTIs and antimicrobial
+resistance by breed, season, year, sex, age category, and specimen type were
+computed. Chi-square or Fisher's exact tests were used to compare proportions of 
+RTIs and antimicrobial resistant isolates across categorical variables.
+Associations between breed, season, year, sex, age, specimen, and odds of RTIs or
+multidrug resistance were assessed using Generalized Estimating Equations.
+Results: There was only one sample per clinical case and bacterial RTIs were
+observed in 53.5% of the samples tested. Pasteurella species (23.5%) were more
+common than other species. Almost all (99.5%) isolates were resistant to at least
+one antimicrobial, while 64.7% were multidrug resistant (MDR). Additionally,
+17.0% and 3.3% showed evidence of extensive drug resistance (XDR) and pan-drug
+resistance (PDR), respectively. The majority of MDR isolates were resistant to
+penicillin-G (90.9%), lincomycin (100%), tylosine (75.8%), lincospectin (73.7%), 
+ampicillin (72.5%), and kanamycin (68.4%). None of the investigated predictors
+had significant association with RTIs or antimicrobial resistance. Conclusion:
+Pasturella species were the most common causes of RTIs. The high levels of MDR
+and the presence of both XDR and PDR isolates raise the question of the
+effectiveness of the current antimicrobial therapy used in patients with RTIs in 
+referral hospitals. Given the high level of resistance observed in this study, it
+is advisable that the choice of antimicrobials for treatment of RTIs be based on 
+antibiograms. This will ensure use of the most efficacious antimicrobials and
+will minimize treatment failures among cases presented with RTIs.
+
+Copyright © 2020 Qekwana, Naidoo, Oguttu and Odoi.
+
+DOI: 10.3389/fvets.2020.00304 
+PMCID: PMC7280450
+PMID: 32582780 
+

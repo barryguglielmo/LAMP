@@ -1,0 +1,40 @@
+
+1. Anal Biochem. 2020 Feb 15;591:113554. doi: 10.1016/j.ab.2019.113554. Epub 2019
+Dec 18.
+
+"Recombinant cold -adapted halotolerant, organic solvent-stable esterase (estHIJ)
+from Bacillus halodurans.
+
+Noby N(1), Hussein A(1), Saeed H(1), Embaby AM(2).
+
+Author information: 
+(1)Department of Biotechnology, Institute of Graduate Studies and Research,
+Alexandria University, Alexandria, Egypt.
+(2)Department of Biotechnology, Institute of Graduate Studies and Research,
+Alexandria University, Alexandria, Egypt. Electronic address:
+amira.embaby@alexu.edu.eg.
+
+Esterases and lipases enduring harsh conditions, including low temperature and
+extreme tolerance to organic solvents, have attracted great attention in recent
+times. In the current study, a full open reading frame of 747 bp that encodes a
+novel, cold-adapted esterase (estHIJ) of 248 amino acids from Bacillus halodurans
+strain NAH-Egypt was heterologously cloned and expressed in E. coli BL21 (DE3)
+Rosetta. Amino acid sequence analysis revealed that estHIJ belongs to family XIII
+of lipolytic enzymes, with a characteristic pentapeptide motif (G-L-S-L-G). The
+recombinant estHIJ was purified using Ni-affinity chromatography to homogeneity
+with purification fold, yield, specific activity, and molecular weight (MW) of
+3.5, 47.5%, 19.8 U/mg and 29 kDa, respectively. The enzyme showed preferential
+substrate specificity towards pNP-acetate (C2), with catalytic efficiency of
+46,825 min-1 mM-1 estHIJ displayed optimal activity at 30 °C and pH (7.0-8.0).
+estHIJ demonstrated robust stability in the presence of 50% (v/v) non-polar
+solvents and 4 M NaCl after 15 h and 6 h of incubation, respectively. The
+promising features of the recombinant estHIJ underpin its potential in several
+fields, e.g., the synthesis of pharmaceutical compounds and the food industry.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ab.2019.113554 
+PMID: 31863727 
+
+Conflict of interest statement: Declaration of competing interest None.
+

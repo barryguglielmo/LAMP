@@ -1,0 +1,32 @@
+
+1. Microbiol Resour Announc. 2020 Apr 23;9(17). pii: e00135-20. doi:
+10.1128/MRA.00135-20.
+
+Complete Genome Sequence of Flavonifractor plautii JCM 32125T.
+
+Tourlousse DM(1), Sakamoto M(2), Miura T(3), Narita K(4), Ohashi A(1), Uchino
+Y(3), Yamazoe A(3), Kameyama K(4), Terauchi J(4), Ohkuma M(2), Kawasaki H(3),
+Sekiguchi Y(5).
+
+Author information: 
+(1)Biomedical Research Institute, National Institute of Advanced Industrial
+Science and Technology (AIST), Tsukuba, Ibaraki, Japan.
+(2)Microbe Division/Japan Collection of Microorganisms, RIKEN BioResource
+Research Center, Tsukuba, Ibaraki, Japan.
+(3)Biological Resource Center, National Institute of Technology and Evaluation
+(NITE), Kisarazu, Chiba, Japan.
+(4)Japan Microbiome Consortium (JMBC), Osaka, Osaka, Japan.
+(5)Biomedical Research Institute, National Institute of Advanced Industrial
+Science and Technology (AIST), Tsukuba, Ibaraki, Japan y.sekiguchi@aist.go.jp.
+
+We report the complete genome sequence of Flavonifractor plautii JCM 32125T (=VPI
+0310T). The genome consists of a single circular chromosome of 3,985,392 bp (G+C 
+content, 60.9%) and was predicted to contain 3 complete sets of rRNA genes, 63
+tRNA genes, and 3,764 protein-coding sequences.
+
+Copyright © 2020 Tourlousse et al.
+
+DOI: 10.1128/MRA.00135-20 
+PMCID: PMC7180276
+PMID: 32327522 
+

@@ -1,0 +1,49 @@
+
+1. ACS Omega. 2020 Jan 23;5(4):1987-1996. doi: 10.1021/acsomega.9b03840. eCollection
+2020 Feb 4.
+
+Enhanced Antimicrobial Activity of Biofunctionalized Zirconia Nanoparticles.
+
+Khan M(1), Shaik MR(1), Khan ST(2), Adil SF(1), Kuniyil M(3), Khan M(4),
+Al-Warthan AA(1), Siddiqui MRH(1), Nawaz Tahir M(4).
+
+Author information: 
+(1)Department of Chemistry, College of Science, King Saud University, P.O. 2455, 
+Riyadh 11451, Kingdom of Saudi Arabia.
+(2)Department of Agricultural Microbiology, Faculty of Agriculture, Aligarh
+Muslim University, Aligarh, Uttar Pradesh 202002, India.
+(3)Department of Chemistry, Koneru Lakshmaiah Education Foundation, Vaddeswaram, 
+Guntur, Andhra Pradesh 522502, India.
+(4)Chemistry Department, King Fahd University of Petroleum & Minerals, Dhahran
+31261, Kingdom of Saudi Arabia.
+
+The effective interactions of nanomaterials with biological constituents play a
+significant role in enhancing their biomedicinal properties. These interactions
+can be efficiently enhanced by altering the surface properties of nanomaterials. 
+In this study, we demonstrate the method of altering the surface properties of
+ZrO2 nanoparticles (NPs) to enhance their antimicrobial properties. To do this,
+the surfaces of the ZrO2 NPs prepared using a solvothermal method is
+functionalized with glutamic acid, which is an α-amino acid containing both COO- 
+and NH4 + ions. The binding of glutamic acid (GA) on the surface of ZrO2 was
+confirmed by UV-visible and Fourier transform infrared spectroscopies, whereas
+the phase and morphology of resulting GA-functionalized ZrO2 (GA-ZrO2) was
+identified by X-ray diffraction and transmission electron microscopy. GA
+stabilization has altered the surface charges of the ZrO2, which enhanced the
+dispersion qualities of NPs in aqueous media. The as-prepared GA-ZrO2 NPs were
+evaluated for their antibacterial properties toward four strains of oral
+bacteria, namely, Rothia mucilaginosa, Rothia dentocariosa, Streptococcus mitis, 
+and Streptococcus mutans. GA-ZrO2 exhibited increased antimicrobial activities
+compared with pristine ZrO2. This improved activity can be attributed to the
+alteration of surface charges of ZrO2 with GA. Consequently, the dispersion
+properties of GA-ZrO2 in the aqueous solution have increased considerably, which 
+may have enhanced the interactions between the nanomaterial and bacteria.
+
+Copyright © 2020 American Chemical Society.
+
+DOI: 10.1021/acsomega.9b03840 
+PMCID: PMC7003502
+PMID: 32039336 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

@@ -1,0 +1,50 @@
+
+1. Front Microbiol. 2020 Apr 9;11:639. doi: 10.3389/fmicb.2020.00639. eCollection
+2020.
+
+Modeling the Growth and Interaction Between Brochothrix thermosphacta,
+Pseudomonas spp., and Leuconostoc gelidum in Minced Pork Samples.
+
+Cauchie E(1), Delhalle L(1), Baré G(1), Tahiri A(1), Taminiau B(1), Korsak N(1), 
+Burteau S(2), Fall PA(2), Farnir F(1), Daube G(1).
+
+Author information: 
+(1)Department of Food Sciences, Fundamental and Applied Research for Animal and
+Health, Faculty of Veterinary Medicine, University of Liège, Liège, Belgium.
+(2)Quality Partner sa, Liège, Belgium.
+
+The aim of this study was to obtain the growth parameters of specific spoilage
+micro-organisms previously isolated in minced pork (MP) samples and to develop a 
+three-spoilage species interaction model under different storage conditions.
+Naturally contaminated samples were used to validate this approach by considering
+the effect of the food microbiota. Three groups of bacteria were inoculated on
+irradiated samples, in mono- and in co-culture experiments (n = 1152):
+Brochothrix thermosphacta, Leuconostoc gelidum, and Pseudomonas spp. (Pseudomonas
+fluorescens and Pseudomonas fragi). Samples were stored in two food packaging
+[food wrap and modified atmosphere packaging (CO2 30%/O2 70%)] at three
+isothermal conditions (4, 8, and 12°C). Analysis was carried out by using both
+16S rRNA gene amplicon sequencing and classical microbiology in order to estimate
+bacterial counts during the storage period. Growth parameters were obtained by
+fitting primary (Baranyi) and secondary (square root) models. The food packaging 
+shows the highest impact on bacterial growth rates, which in turn have the
+strongest influence on the shelf life of food products. Based on these results, a
+three-spoilage species interaction model was developed by using the modified
+Jameson-effect model and the Lotka Volterra (prey-predator) model. The modified
+Jameson-effect model showed slightly better performances, with 40-86% out of the 
+observed counts falling into the Acceptable Simulation Zone (ASZ). It only
+concerns 14-48% for the prey-predator approach. These results can be explained by
+the fact that the dynamics of experimental and validation datasets seems to
+follow a Jameson behavior. On the other hand, the Lotka Volterra model is based
+on complex interaction factors, which are included in highly variable intervals. 
+More datasets are probably needed to obtained reliable factors, and so better
+model fittings, especially for three- or more-spoilage species interaction
+models. Further studies are also needed to better understand the interaction of
+spoilage bacteria between them and in the presence of natural microbiota.
+
+Copyright © 2020 Cauchie, Delhalle, Baré, Tahiri, Taminiau, Korsak, Burteau,
+Fall, Farnir and Daube.
+
+DOI: 10.3389/fmicb.2020.00639 
+PMCID: PMC7160237
+PMID: 32328055 
+

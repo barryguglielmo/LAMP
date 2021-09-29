@@ -1,0 +1,46 @@
+
+1. J Glob Antimicrob Resist. 2020 Sep;22:598-600. doi: 10.1016/j.jgar.2020.06.012.
+Epub 2020 Jun 27.
+
+Whole genome sequence of Enterococcus gallinarum EG81, a porcine strain
+harbouring the oxazolidinone-phenicol resistance gene optrA with chromosomal and 
+plasmid location.
+
+Yao TG(1), Li BY(1), Luan RD(1), Wang HN(1), Lei CW(2).
+
+Author information: 
+(1)Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education,
+College of Life Sciences, Sichuan University, Chengdu, China; Animal Disease
+Prevention and Food Safety Key Laboratory of Sichuan Province, Chengdu, China.
+(2)Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education,
+College of Life Sciences, Sichuan University, Chengdu, China; Animal Disease
+Prevention and Food Safety Key Laboratory of Sichuan Province, Chengdu, China.
+Electronic address: leichangwei@scu.edu.cn.
+
+OBJECTIVE: The aim of this study was to characterise the whole genome sequence of
+linezolid-intermediate Enterococcus gallinarum strain EG81 of swine origin in
+China.
+METHODS: Whole genome of EG81 was sequenced using Illumina MiSeq platform
+combined with the Nanopore PromethION platform, and assembled de novo using Canu 
+v1.5. NCBI Prokaryotic Genome Annotation Pipeline (PGAP) was used to annotate the
+genome of EG81. Antimicrobial resistance genes were identified using CGE
+ResFinder 3.2.
+RESULTS: The genome of EG81 consists of one 3,433,237-bp chromosome and two
+plasmids, pEG81-1 (51,632 bp) and pEG81-2 (3425 bp). A total of 3285 coding
+sequences and 80 RNA genes were predicted by PGAP. The oxazolidinone-phenicol
+resistance gene optrA is located on both the chromosome and plasmid pEG81-1
+associated with Tn554 and Tn558, respectively. In addition, EG81 harbours vanC1XY
+(vancomycin resistance), fexA (phenicol), dfrG (trimethoprim), aadD, ant(6)-Ia
+and ant(9)-Ia (aminoglycoside), erm(A) and erm(B) (macrolide), and tet(L) and
+tet(M) (tetracycline).
+CONCLUSION: Here, we first report the oxazolidinone-phenicol gene optrA in E.
+gallinarum that is intrinsically resistant to vancomycin, which poses a great
+threat to public health. The genome sequence of E. gallinarum EG81 provides
+valuable information for the dissemination of optrA among vancomycin-resistant
+enterococci.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jgar.2020.06.012 
+PMID: 32603905 
+

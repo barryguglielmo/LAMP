@@ -1,0 +1,40 @@
+
+1. Toxins (Basel). 2020 Sep 1;12(9). pii: E563. doi: 10.3390/toxins12090563.
+
+Clostridial C3 Toxins Enter and Intoxicate Human Dendritic Cells.
+
+Fellermann M(1), Huchler C(1), Fechter L(1), Kolb T(1), Wondany F(2), Mayer D(3),
+Michaelis J(2), Stenger S(3), Mellert K(4), Möller P(4), Barth TFE(4), Fischer
+S(1), Barth H(1).
+
+Author information: 
+(1)Institute of Pharmacology and Toxicology, University of Ulm Medical Center,
+89081 Ulm, Germany.
+(2)Institute of Biophysics, Ulm University, 89081 Ulm, Germany.
+(3)Institute for Medical Microbiology and Hygiene, University of Ulm Medical
+Center, 89081 Ulm, Germany.
+(4)Institute of Pathology, University of Ulm Medical Center, 89081 Ulm, Germany.
+
+C3 protein toxins produced by Clostridium (C.) botulinum and C. limosum are
+mono-ADP-ribosyltransferases, which specifically modify the GTPases Rho A/B/C in 
+the cytosol of monocytic cells, thereby inhibiting Rho-mediated signal
+transduction in monocytes, macrophages, and osteoclasts. C3 toxins are
+selectively taken up into the cytosol of monocytic cells by endocytosis and
+translocate from acidic endosomes into the cytosol. The C3-catalyzed
+ADP-ribosylation of Rho proteins inhibits essential functions of these immune
+cells, such as migration and phagocytosis. Here, we demonstrate that C3 toxins
+enter and intoxicate dendritic cells in a time- and concentration-dependent
+manner. Both immature and mature human dendritic cells efficiently internalize C3
+exoenzymes. These findings could also be extended to the chimeric fusion toxin
+C2IN-C3lim. Moreover, stimulated emission depletion (STED) microscopy revealed
+the localization of the internalized C3 protein in endosomes and emphasized its
+potential use as a carrier to deliver foreign proteins into dendritic cells. In
+contrast, the enzyme C2I from the binary C. botulinum C2 toxin was not taken up
+into dendritic cells, indicating the specific uptake of C3 toxins. Taken
+together, we identified human dendritic cells as novel target cells for
+clostridial C3 toxins and demonstrated the specific uptake of these toxins via
+endosomal vesicles.
+
+DOI: 10.3390/toxins12090563 
+PMID: 32883045 
+

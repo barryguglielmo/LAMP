@@ -1,0 +1,44 @@
+
+1. J Antimicrob Chemother. 2020 Feb 1;75(2):292-295. doi: 10.1093/jac/dkz459.
+
+Identification of a mecA/mecC-positive MRSA ST1-t127 isolate from a racehorse in 
+Japan.
+
+Sekizuka T(1), Niwa H(2), Kinoshita Y(2), Uchida-Fujii E(2), Inamine Y(1),
+Hashino M(1), Kuroda M(1).
+
+Author information: 
+(1)Pathogen Genomics Center, National Institute of Infectious Diseases, 1-23-1
+Toyama, Shinjuku, Tokyo, Japan.
+(2)Microbiology Division, Equine Research Institute, Japan Racing Association,
+1400-4 Shiba, Shimotsuke, Tochigi, Japan.
+
+OBJECTIVES: MRSA is a known pathogen that affects horses. We investigated an
+equine MRSA isolate for potential antimicrobial resistance genes, classified the 
+staphylococcal cassette chromosome mec (SCCmec) and identified the
+strain-specific dissemination in the horse community based on WGS.
+METHODS: WGS, using short-read sequencing, and subsequent long-read sequencing by
+hybrid assembly, was conducted to obtain a complete genome sequence. Pairwise
+sequence alignment of relative SCCmec sequences and core-genome phylogenetic
+analysis were performed to highlight transmission routes of the SCCmec and MRSA
+strain-specific lineages.
+RESULTS: In 2018, we isolated the MRSA JRA307 strain from the pus of a wound on a
+racehorse and the complete genome sequence suggests that it is a clinically
+relevant pvl-negative ST1-t127 MRSA that harbours both mecA and mecC on
+SCCmec-307. SCCmec-307 exhibited marked sequence identity to the previously
+reported SCCmec-mecC in the Staphylococcus sciuri GVGS2 strain isolated from
+cattle. The JRA307 mecC gene was classified as a mecC allotype of S. sciuri
+rather than that of Staphylococcus aureus.
+CONCLUSIONS: We demonstrated the complete genome sequence of equine isolate
+JRA307, which is a clinically relevant MRSA harbouring mecA and mecC on
+SCCmec-307. The finding of mecC MRSA suggests a possible SCCmec transmission
+between distinct staphylococcal species. To the best of our knowledge, this is
+the first report of mecC detection in Japan.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the
+British Society for Antimicrobial Chemotherapy. All rights reserved. For
+permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jac/dkz459 
+PMID: 31691809 
+

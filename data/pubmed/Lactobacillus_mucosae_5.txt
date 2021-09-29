@@ -1,0 +1,58 @@
+
+1. Benef Microbes. 2020 May 11;11(3):269-282. doi: 10.3920/BM2019.0189. Epub 2020
+May 4.
+
+Modulation of Toll-like receptor-mediated innate immunity in bovine intestinal
+epithelial cells by lactic acid bacteria isolated from feedlot cattle.
+
+Mansilla F(1), Takagi M(2), Garcia-Castillo V(1)(2), Aso H(3)(4), Nader-Macias
+ME(1), Vignolo G(1), Kitazawa H(2)(4), Villena J(1)(2).
+
+Author information: 
+(1)Reference Centre for Lactobacilli (CERELA-CONICET), Chacabuco 145, San Miguel 
+de Tucuman, 4000 Tucuman, Argentina.
+(2)Food and Feed Immunology Group, Laboratory of Animal Products Chemistry,
+Graduate School of Agricultural Science, Tohoku University, 468-1 Aramaki Aza
+Aoba, Aoba-ku, Sendai, Miyagi, 980-8572, Japan.
+(3)Cell Biology Laboratory, Graduate School of Agricultural Science, Tohoku
+University, 468-1 Aramaki Aza Aoba, Aoba-ku, Sendai, Miyagi, 980-8572, Japan.
+(4)Livestock Immunology Unit, International Education and Research Center for
+Food Agricultural Immunology (CFAI), Graduate School of Agricultural Science,
+Tohoku University, 468-1 Aramaki Aza Aoba, Aoba-ku, Sendai, Miyagi, 980-8572,
+Japan.
+
+The ability of lactobacilli isolated from feedlot cattle environment to
+differentially modulate the innate immune response triggered by Toll-like
+receptors (TLRs) activation in bovine intestinal epithelial (BIE) cells was
+evaluated. BIE cells were stimulated with Lactobacillus mucosae CRL2069,
+Lactobacillus acidophilus CRL2074, Lactobacillus fermentum CRL2085 or
+Lactobacillus rhamnosus CRL2084 and challenged with heat-stable pathogen
+associated molecular patterns (PAMPs) from enterotoxigenic Escherichia coli
+(ETEC) to induce the activation of TLR4 or with polyinosinic:polycytidylic acid
+(poly(I:C)) to activate TLR3. Type I interferons, cytokines, chemokines and
+negative regulators of TLR signalling were studied by RT-PCR. L. mucosae CRL2069 
+significantly reduced the expression of interleukin (IL)-8 and monocyte
+chemoattractant protein (MCP)-1 in BIE cells in the context of TLR3 activation.
+L. mucosae CRL2069 also reduced the expression of tumour necrosis factor-α, IL-β,
+MCP-1, and IL-8 in heat-stable ETEC PAMPs-challenged BIE cells. In addition,
+reduced expressions of IL-6, MCP-1, and IL-8 were found in BIE cells stimulated
+with L. rhamnosus CRL2084, although its effect was significantly lower than that 
+observed for the CRL2069 strain. The reduced levels of pro-inflammatory factors
+in BIE cells induced by the CRL2069 and CRL2085 strains was related to their
+ability of increasing the expression of TLR negative regulators. L. mucosae
+CRL2069 significantly improved the expression of A20-binding inhibitor of NFκ-B
+activation 3 (ABIN-3), interleukin-1 receptor-associated kinase M (IRAK-M) and
+mitogen-activated protein kinase 1 (MKP-1) while L. rhamnosus CRL2084 augmented
+ABIN-3 expression in BIE cells. The results of this work suggest that among the
+studied strains, L. mucosae CRL2069 was able to regulate TLR3-mediated innate
+immune response and showed a remarkable capacity to modulate TLR4-mediated
+inflammation in BIE cells. The CRL2069 strain induce the up-regulation of three
+TLR negative regulators that would influence nuclear factor kB and
+mitogen-activated protein kinases signalling pathways while reducing the
+expression of pro-inflammatory cytokines and chemokines. Therefore, L. mucosae
+CRL2069 is an interesting immunobiotic candidate for the protection of the bovine
+host against TLR-mediated intestinal inflammatory damage.
+
+DOI: 10.3920/BM2019.0189 
+PMID: 32363914 
+

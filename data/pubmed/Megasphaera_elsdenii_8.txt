@@ -1,0 +1,71 @@
+
+1. Appl Environ Microbiol. 2020 Jan 7;86(2). pii: e01905-19. doi:
+10.1128/AEM.01905-19. Print 2020 Jan 7.
+
+Substrate Use Prioritization by a Coculture of Five Species of Gut Bacteria Fed
+Mixtures of Arabinoxylan, Xyloglucan, β-Glucan, and Pectin.
+
+Liu Y(1), Heath AL(2), Galland B(3), Rehrer N(4), Drummond L(5), Wu XY(6), Bell
+TJ(7), Lawley B(1), Sims IM(7), Tannock GW(8)(9).
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of Otago, Dunedin, New
+Zealand.
+(2)Department of Human Nutrition, University of Otago, Dunedin, New Zealand.
+(3)Department of Women's and Children's Health, University of Otago, Dunedin, New
+Zealand.
+(4)School of Physical Education, Sport and Exercise Sciences, University of
+Otago, Dunedin, New Zealand.
+(5)Drummond Food Advisory, Ltd., Killinchy, New Zealand.
+(6)Department of Food Science and Engineering, Jinan University, Guangzhou,
+China.
+(7)The Ferrier Research Institute, Victoria University of Wellington, Petone, New
+Zealand.
+(8)Department of Microbiology and Immunology, University of Otago, Dunedin, New
+Zealand gerald.tannock@otago.ac.nz.
+(9)Riddet Centre of Research Excellence, Massey University, Palmerston North, New
+Zealand.
+
+Dietary fiber provides growth substrates for bacterial species that belong to the
+colonic microbiota of humans. The microbiota degrades and ferments substrates,
+producing characteristic short-chain fatty acid profiles. Dietary fiber contains 
+plant cell wall-associated polysaccharides (hemicelluloses and pectins) that are 
+chemically diverse in composition and structure. Thus, depending on plant
+sources, dietary fiber daily presents the microbiota with mixtures of plant
+polysaccharides of various types and complexity. We studied the extent and
+preferential order in which mixtures of plant polysaccharides (arabinoxylan,
+xyloglucan, β-glucan, and pectin) were utilized by a coculture of five bacterial 
+species (Bacteroides ovatus, Bifidobacterium longum subspecies longum,
+Megasphaera elsdenii, Ruminococcus gnavus, and Veillonella parvula). These
+species are members of the human gut microbiota and have the biochemical
+capacity, collectively, to degrade and ferment the polysaccharides and produce
+short-chain fatty acids (SCFAs). B. ovatus utilized glycans in the order
+β-glucan, pectin, xyloglucan, and arabinoxylan, whereas B. longum subsp. longum
+utilization was in the order arabinoxylan, arabinan, pectin, and β-glucan.
+Propionate, as a proportion of total SCFAs, was augmented when polysaccharide
+mixtures contained galactan, resulting in greater succinate production by B.
+ovatus and conversion of succinate to propionate by V. parvula Overall, we
+derived a synthetic ecological community that carries out SCFA production by the 
+common pathways used by bacterial species for this purpose. Systems like this
+might be used to predict changes to the emergent properties of the gut ecosystem 
+when diet is altered, with the aim of beneficially affecting human
+physiology.IMPORTANCE This study addresses the question as to how bacterial
+species, characteristic of the human gut microbiota, collectively utilize
+mixtures of plant polysaccharides such as are found in dietary fiber. Five
+bacterial species with the capacity to degrade polymers and/or produce acidic
+fermentation products detectable in human feces were used in the experiments. The
+bacteria showed preferential use of certain polysaccharides over others for
+growth, and this influenced their fermentation output qualitatively. These kinds 
+of studies are essential in developing concepts of how the gut microbial
+community shares habitat resources, directly and indirectly, when presented with 
+mixtures of polysaccharides that are found in human diets. The concepts are
+required in planning dietary interventions that might correct imbalances in the
+functioning of the human microbiota so as to support measures to reduce metabolic
+conditions such as obesity.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.01905-19 
+PMCID: PMC6952225
+PMID: 31676481  [Indexed for MEDLINE]
+

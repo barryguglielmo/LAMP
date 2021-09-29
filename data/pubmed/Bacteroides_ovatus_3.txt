@@ -1,0 +1,52 @@
+
+1. Appl Environ Microbiol. 2020 Oct 1;86(20). pii: e01651-20. doi:
+10.1128/AEM.01651-20. Print 2020 Oct 1.
+
+Sharing a β-Glucan Meal: Transcriptomic Eavesdropping on a Bacteroides
+ovatus-Subdoligranulum variabile-Hungatella hathewayi Consortium.
+
+Centanni M(1), Sims IM(2), Bell TJ(2), Biswas A(1), Tannock GW(3).
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of Otago, Dunedin, New
+Zealand.
+(2)The Ferrier Research Institute, Victoria University of Wellington, Petone, New
+Zealand.
+(3)Department of Microbiology and Immunology, University of Otago, Dunedin, New
+Zealand gerald.tannock@otago.ac.nz.
+
+Whole-transcriptome analysis was used to investigate the molecular interplay
+between three bacterial species that are members of the human gut microbiota.
+Bacteroides ovatus, Subdoligranulum variabile, and Hungatella hathewayi formed
+associations in cocultures fed barley β-glucan, a constituent of dietary fiber.
+B. ovatus depolymerized β-glucan and released, but did not utilize,
+3-O-β-cellobiosyl-d-glucose (DP3) and 3-O-β-cellotriosyl-d-glucose (DP4). These
+oligosaccharides provided growth substrates for S. variabile and H. hathewayi
+with a preference for DP4 in the case of the latter species. There was increased 
+transcription of a B. ovatus mixed-linkage-β-glucan utilization locus, as well as
+carbohydrate transporters in S. variabile and H. hathewayi when in batch
+coculture. Increased transcription of the β-glucan utilization locus did not
+occur in continuous culture. Evidence for interactions relating to provision of
+cobalamin, alterations to signaling, and modulation of the "stringent response"
+(an adaptation to nutrient deprivation) were detected. Overall, we established a 
+bacterial consortium based on barley β-glucan in vitro, which can be used to
+investigate aspects of the functional blueprint of the human gut
+microbiota.IMPORTANCE The microbial community, mostly composed of bacterial
+species, residing in the human gut degrades and ferments polysaccharides derived 
+from plants (dietary fiber) that would not otherwise be digested. In this way,
+the collective metabolic actions of community members extract additional energy
+from the human diet. While the variety of bacteria present in the microbial
+community is well known, the formation of bacterial consortia, and the consequent
+interactions that result in the digestion of dietary polysaccharides, has not
+been studied extensively. The importance of our work was the establishment, under
+laboratory conditions, of a consortium of gut bacteria that formed around a
+dietary constituent commonly present in cereals. This enabled the metabolic
+interplay between the bacterial species to be studied. This kind of knowledge is 
+required to construct an interactive, metabolic blueprint of the microbial
+community that inhabits the human gut.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.01651-20 
+PMID: 32801182 
+

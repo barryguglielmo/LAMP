@@ -1,0 +1,70 @@
+
+1. Gut. 2020 Jul 20. pii: gutjnl-2020-322294. doi: 10.1136/gutjnl-2020-322294. [Epub
+ahead of print]
+
+Depicting SARS-CoV-2 faecal viral activity in association with gut microbiota
+composition in patients with COVID-19.
+
+Zuo T(#)(1)(2)(3), Liu Q(#)(1)(2)(3), Zhang F(#)(1)(2)(3), Lui GC(3)(4), Tso
+EY(5), Yeoh YK(1)(6), Chen Z(1)(6), Boon SS(6), Chan FK(1)(3), Chan PK(1)(6), Ng 
+SC(7)(2)(3).
+
+Author information: 
+(1)Center for Gut Microbiota Research, Faculty of Medicine, The Chinese
+University of Hong Kong, Shatin, Hong Kong, China.
+(2)State Key Laboratory for digestive disease, Institute of Digestive Disease, Li
+Ka Shing Institute of Health Science, The Chinese University of Hong Kong,
+Shatin, Hong Kong, China.
+(3)Department of Medicine and Therapeutics, Faculty of Medicine, The Chinese
+University of Hong Kong, Shatin, Hong Kong, China.
+(4)Stanley Ho Centre for Emerging Infectious Diseases, The Chinese University of 
+Hong Kong, Shatin, Hong Kong, China.
+(5)Department of Medicine and Geriatrics, United Christian Hospital, Hong Kong,
+Hong Kong.
+(6)Department of Microbiology, The Chinese University of Hong Kong, Shatin, Hong 
+Kong, China.
+(7)Center for Gut Microbiota Research, Faculty of Medicine, The Chinese
+University of Hong Kong, Shatin, Hong Kong, China siewchienng@cuhk.edu.hk.
+(#)Contributed equally
+
+OBJECTIVE: Although severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) 
+RNA was detected in faeces of patients with COVID-19, the activity and
+infectivity of the virus in the GI tract during disease course is largely
+unknown. We investigated temporal transcriptional activity of SARS-CoV-2 and its 
+association with longitudinal faecal microbiome alterations in patients with
+COVID-19.
+DESIGN: We performed RNA shotgun metagenomics sequencing on serial faecal viral
+extractions from 15 hospitalised patients with COVID-19. Sequencing coverage of
+the SARS-CoV-2 genome was quantified. We assessed faecal microbiome composition
+and microbiome functionality in association with signatures of faecal SARS-CoV-2 
+infectivity.
+RESULTS: Seven (46.7%) of 15 patients with COVID-19 had stool positivity for
+SARS-CoV-2 by viral RNA metagenomic sequencing. Even in the absence of GI
+manifestations, all seven patients showed strikingly higher coverage (p=0.0261)
+and density (p=0.0094) of the 3' vs 5' end of SARS-CoV-2 genome in their faecal
+viral metagenome profile. Faecal viral metagenome of three patients continued to 
+display active viral infection signature (higher 3' vs 5' end coverage) up to
+6 days after clearance of SARS-CoV-2 from respiratory samples. Faecal samples
+with signature of high SARS-CoV-2 infectivity had higher abundances of bacterial 
+species Collinsella aerofaciens, Collinsella tanakaei, Streptococcus infantis,
+Morganella morganii, and higher functional capacity for nucleotide de novo
+biosynthesis, amino acid biosynthesis and glycolysis, whereas faecal samples with
+signature of low-to-none SARS-CoV-2 infectivity had higher abundances of
+short-chain fatty acid producing bacteria, Parabacteroides merdae, Bacteroides
+stercoris, Alistipes onderdonkii and Lachnospiraceae bacterium 1_1_57FAA.
+CONCLUSION: This pilot study provides evidence for active and prolonged
+'quiescent' GI infection even in the absence of GI manifestations and after
+recovery from respiratory infection of SARS-CoV-2. Gut microbiota of patients
+with active SARS-CoV-2 GI infection was characterised by enrichment of
+opportunistic pathogens, loss of salutary bacteria and increased functional
+capacity for nucleotide and amino acid biosynthesis and carbohydrate metabolism.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/gutjnl-2020-322294 
+PMCID: PMC7385744
+PMID: 32690600 
+
+Conflict of interest statement: Competing interests: None declared.
+

@@ -1,0 +1,63 @@
+
+1. JHEP Rep. 2020 Jul 28;2(6):100154. doi: 10.1016/j.jhepr.2020.100154. eCollection 
+2020 Dec.
+
+Systemic iron reduction by venesection alters the gut microbiome in patients with
+haemochromatosis.
+
+Parmanand B(1)(2), Watson M(3)(4), Boland KJ(5), Ramamurthy N(3), Wharton
+V(3)(4), Morovat A(6), Lund EK(2), Collier J(3)(4), Le Gall G(2), Kellingray
+L(1), Fairweather-Tait S(2), Cobbold JF(3)(4), Narbad A(1), Ryan JD(3)(7).
+
+Author information: 
+(1)Quadram Institute, Norwich, UK.
+(2)University of East Anglia, Norwich, UK.
+(3)Translational Gastroenterology Unit, University of Oxford, Oxford, UK.
+(4)NIHR Oxford Biomedical Research Centre, Oxford, UK.
+(5)Department of Gastroenterology, Beaumont Hospital/Royal College of Surgeons in
+Ireland, Dublin, Ireland.
+(6)Department of Clinical Biochemistry, Oxford University Hospitals Foundation
+Trust, Oxford, UK.
+(7)Hepatology Unit, Beaumont Hospital/Royal College of Surgeons in Ireland,
+Dublin, Ireland.
+
+Background & Aims: Iron reduction by venesection has been the cornerstone of
+treatment for haemochromatosis for decades, and its reported health benefits are 
+many. Repeated phlebotomy can lead to a compensatory increase in intestinal iron 
+absorption, reducing intestinal iron availability. Given that most gut bacteria
+are highly dependent on iron for survival, we postulated that, by reducing gut
+iron levels, venesection could alter the gut microbiota.
+Methods: Clinical parameters, faecal bacterial composition and metabolomes were
+assessed before and during treatment in a group of patients with haemochromatosis
+undergoing iron reduction therapy.
+Results: Systemic iron reduction was associated with an alteration of the gut
+microbiome, with changes evident in those who experienced reduced faecal iron
+availability with venesection. For example, levels of Faecalibacterium
+prausnitzii, a bacterium associated with improved colonic health, were increased 
+in response to faecal iron reduction. Similarly, metabolomic changes were seen in
+association with reduced faecal iron levels.
+Conclusion: These findings highlight a significant shift in the gut microbiome of
+patients who experience reduced colonic iron during venesection. Targeted
+depletion of faecal iron could represent a novel therapy for metabolic and
+inflammatory diseases, meriting further investigation.
+Lay summary: Iron depletion by repeated venesection is the mainstay of treatment 
+for haemochromatosis, an iron-overload disorder. Venesection has been associated 
+with several health benefits, including improvements in liver function tests,
+reversal of liver scarring, and reduced risk of liver cancer. During iron
+depletion, iron absorption from the gastrointestinal (GI) tract increases to
+compensate for iron lost with treatment. Iron availability is limited in the GI
+tract and is crucial to the growth and function of many gut bacteria. In this
+study we show that reduced iron availability in the colon following venesection
+treatment leads to a change in the composition of the gut bacteria, a finding
+that, to date, has not been studied in patients with haemochromatosis.
+
+© 2020 The Authors.
+
+DOI: 10.1016/j.jhepr.2020.100154 
+PMCID: PMC7516344
+PMID: 32995714 
+
+Conflict of interest statement: The authors have no conflict of interests to
+declare in relation to this study. Please refer to the accompanying ICMJE
+disclosure forms for further details.
+

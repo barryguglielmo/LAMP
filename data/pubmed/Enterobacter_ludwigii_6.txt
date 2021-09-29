@@ -1,0 +1,35 @@
+
+1. Dev Comp Immunol. 2020 Mar;104:103540. doi: 10.1016/j.dci.2019.103540. Epub 2019 
+Nov 11.
+
+Larval exposure to bacteria modulates arbovirus infection and immune gene
+expression in adult Aedes aegypti.
+
+Carlson JS(1), Short SM(1), Angleró-Rodríguez YI(1), Dimopoulos G(2).
+
+Author information: 
+(1)W. Harry Feinstone Department of Molecular Microbiology and Immunology, Johns 
+Hopkins Bloomberg School of Public Health, Baltimore, United States.
+(2)W. Harry Feinstone Department of Molecular Microbiology and Immunology, Johns 
+Hopkins Bloomberg School of Public Health, Baltimore, United States. Electronic
+address: gdimopo@jhu.edu.
+
+Here we have investigated whether bacterial challenges to larval stages of Aedes 
+aegypti can influence the adults' immune and vector competence for dengue and
+Zika viruses. We show that larval exposure to live Bacillus thuringiensis
+Berliner and Enterobacter ludwigii can result in the modulation of virus
+infection at the adult stage in the absence of bacterial carry-over between the
+two developmental stages. We observed a significant reduction in virus infection 
+intensity in the mosquitoes exposed to bacteria as larvae but not re-exposed as
+adults. The pattern of immune gene transcript regulation after bacterial exposure
+varied between adults, depending on whether or not they had been exposed to
+bacteria as larvae. Adults exposed to bacteria as larvae showed an earlier immune
+gene mRNA enrichment when re-exposed as adults than did adults not exposed as
+larvae. Bacterial exposure of larvae appears to have only modest effects on adult
+fitness.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.dci.2019.103540 
+PMID: 31726064 
+

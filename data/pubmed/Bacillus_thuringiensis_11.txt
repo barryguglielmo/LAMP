@@ -1,0 +1,44 @@
+
+1. BMC Genomics. 2020 Sep 14;21(1):634. doi: 10.1186/s12864-020-07051-6.
+
+Differences in midgut transcriptomes between resistant and susceptible strains of
+Chilo suppressalis to Cry1C toxin.
+
+Chen G(1), Wang Y(1), Liu Y(1), Chen F(2), Han L(3).
+
+Author information: 
+(1)Department of Entomology, College of Plant Protection, Nanjing Agricultural
+University, Nanjing, 210095, China.
+(2)Department of Entomology, College of Plant Protection, Nanjing Agricultural
+University, Nanjing, 210095, China. fajunchen@njau.edu.cn.
+(3)The State Key Laboratory for Biology of Plant Diseases and Insect Pests,
+Institute of Plant Protection, Chinese Academy of Agricultural Sciences, Beijing,
+100193, China. lzhan@ippcaas.cn.
+
+BACKGROUND: Chilo suppressalis is a widespread rice pest that poses a major
+threat to food security in China. This pest can develop resistance to Cry toxins 
+from Bacillus thuringiensis (Bt), threatening the sustainable use of
+insect-resistant transgenic Bt rice. However, the molecular basis for the
+resistance mechanisms of C. suppressalis to Cry1C toxin remains unknown. This
+study aimed to identify genes associated with the mechanism of Cry1C resistance
+in C. suppressalis by comparing the midgut transcriptomic responses of resistant 
+and susceptible C. suppressalis strains to Cry1C toxin and to provide information
+for insect resistance management.
+RESULTS: A C. suppressalis midgut transcriptome of 139,206 unigenes was de novo
+assembled from 373 million Illumina HiSeq and Roche 454 clean reads. Comparative 
+analysis identified 5328 significantly differentially expressed unigenes (DEGs)
+between C. suppressalis Cry1C-resistant and -susceptible strains. DEGs encoding
+Bt Cry toxin receptors, aminopeptidase-P like protein, the ABC subfamily and
+alkaline phosphatase were downregulated, suggesting an association with C.
+suppressalis Cry1C resistance. Additionally, Cry1C resistance in C. suppressalis 
+may be related to changes in the transcription levels of enzymes involved in
+hydrolysis, digestive, catalytic and detoxification processes.
+CONCLUSION: Our study identified genes potentially involved in Cry1C resistance
+in C. suppressalis by comparative transcriptome analysis. The assembled and
+annotated transcriptome data provide valuable genomic resources for further study
+of the molecular mechanisms of C. suppressalis resistance to Cry toxins.
+
+DOI: 10.1186/s12864-020-07051-6 
+PMCID: PMC7490912
+PMID: 32928099 
+

@@ -1,0 +1,38 @@
+
+1. Arch Microbiol. 2020 Sep 24. doi: 10.1007/s00203-020-02039-y. [Epub ahead of
+print]
+
+Sotolon is a natural virulence mitigating agent in Serratia marcescens.
+
+Abbas HA(1), Goda RM(2).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Faculty of Pharmacy, Zagazig
+University, Zagazig, Egypt. hishamabbas2008@gmail.com.
+(2)Department of Microbiology and Biotechnology, Faculty of Pharmacy, Delta
+University for Science and Technology, Gamasa, Mansoura, Egypt.
+
+Serratia marcescens is an emerging opportunistic bacterium that can cause
+healthcare-associated infections. The high rate of multidrug resistance and the
+ability to produce a set of virulence factors, by which it can produce infectious
+diseases makes it urgent to find an alternative approach to the treatment of such
+infections. Disarming of virulence by targeting of quorum sensing (QS) as the
+regulating mechanism of virulence is a promising approach that has no effect on
+bacterial growth that is considered a key factor in emergence of resistance. This
+study was designed to investigate the ability of sub-inhibitory concentrations
+(sub-MICs) of sotolon to attenuate virulence of a clinical isolate of S.
+marcescens. Sotolon at 25 and 50 μg/ml inhibited 35.2 and 47.5% of biofilm
+formation, respectively. The inhibition of swimming motility were 41.4 and 69.3%,
+while that of swarming motility were 77.6 and 86.8% at 25 and 50 µg/ml,
+respectively. Moreover, sotolon reduced prodigiosin production by 76.6 and 87.6% 
+at concentrations of 25 and 50 µg/ml, respectively. Protease activity was reduced
+by 25 µg/ml of sotolon by 54.8% and was completely blocked at 50 µg/ml. The
+relative expression of genes regulating virulence factors decreased by 40%
+for fimA, 29% for fimC, 59% for flhC, 57% for flhD, 39% for bsmB, 37% for rssB,
+49% for rsmA, 54% for pigP, and 62% for shlA gene in the presence of 50 µg/ml
+sotolon. In conclusion, sotolon is an anti-virulence agent that could be used for
+the treatment of S.marcescens hospital-acquired infections.
+
+DOI: 10.1007/s00203-020-02039-y 
+PMID: 32970221 
+

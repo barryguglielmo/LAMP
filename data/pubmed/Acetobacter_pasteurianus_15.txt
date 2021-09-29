@@ -1,0 +1,45 @@
+
+1. Front Microbiol. 2019 Dec 5;10:2801. doi: 10.3389/fmicb.2019.02801. eCollection
+2019.
+
+Genome-Scale Metabolic Reconstruction of Acetobacter pasteurianus 386B, a
+Candidate Functional Starter Culture for Cocoa Bean Fermentation.
+
+Pelicaen R(1)(2), Gonze D(2)(3), Teusink B(4), De Vuyst L(1), Weckx S(1)(2).
+
+Author information: 
+(1)Research Group of Industrial Microbiology and Food Biotechnology (IMDO),
+Faculty of Sciences and Bioengineering Sciences, Vrije Universiteit Brussel
+(VUB), Brussels, Belgium.
+(2)(IB)2 - Interuniversity Institute of Bioinformatics in Brussels (ULB-VUB),
+Brussels, Belgium.
+(3)Unité de Chronobiologie Théorique, Service de Chimie Physique, Faculté des
+Sciences, Université Libre de Bruxelles (ULB), Brussels, Belgium.
+(4)Systems Bioinformatics, Vrije Universiteit Amsterdam, Amsterdam, Netherlands.
+
+Acetobacter pasteurianus 386B is a candidate functional starter culture for the
+cocoa bean fermentation process. To allow in silico simulations of its related
+metabolism in response to different environmental conditions, a genome-scale
+metabolic model for A. pasteurianus 386B was reconstructed. This is the first
+genome-scale metabolic model reconstruction for a member of the genus
+Acetobacter. The metabolic network reconstruction process was based on extensive 
+genome re-annotation and comparative genomics analyses. The information content
+related to the functional annotation of metabolic enzymes and transporters was
+placed in a metabolic context by exploring and curating a Pathway/Genome Database
+of A. pasteurianus 386B using the Pathway Tools software. Metabolic reactions and
+curated gene-protein-reaction associations were bundled into a genome-scale
+metabolic model of A. pasteurianus 386B, named iAp386B454, containing 454 genes, 
+322 reactions, and 296 metabolites embedded in two cellular compartments. The
+reconstructed model was validated by performing growth experiments in a defined
+medium, which revealed that lactic acid as the sole carbon source could sustain
+growth of this strain. Further, the reconstruction of the A. pasteurianus 386B
+genome-scale metabolic model revealed knowledge gaps concerning the metabolism of
+this strain, especially related to the biosynthesis of its cell envelope and the 
+presence or absence of metabolite transporters.
+
+Copyright © 2019 Pelicaen, Gonze, Teusink, De Vuyst and Weckx.
+
+DOI: 10.3389/fmicb.2019.02801 
+PMCID: PMC6915089
+PMID: 31921009 
+

@@ -1,0 +1,49 @@
+
+1. PLoS One. 2020 Jan 31;15(1):e0228108. doi: 10.1371/journal.pone.0228108.
+eCollection 2020.
+
+Community-intrinsic properties enhance keratin degradation from bacterial
+consortia.
+
+Nasipuri P(1), Herschend J(1), Brejnrod AD(2), Madsen JS(1), Espersen R(3),
+Svensson B(3), Burmølle M(1), Jacquiod S(1), Sørensen SJ(1).
+
+Author information: 
+(1)Section for Microbiology, Department of Biology, University of Copenhagen,
+Copenhagen, Denmark.
+(2)Novo Nordic Foundation Center For Basic Metabolic Research, University of
+Copenhagen, Denmark.
+(3)DTU Bioengineering, Department of Biotechnology and Biomedicine, Technical
+University of Denmark, Lyngby, Denmark.
+
+Although organic matter may accumulate sometimes (e.g. lignocellulose in peat
+bog), most natural biodegradation processes are completed until full
+mineralization. Such transformations are often achieved by the concerted action
+of communities of interacting microbes, involving different species each
+performing specific tasks. These interactions can give rise to novel
+"community-intrinsic" properties, through e.g. activation of so-called "silent
+genetic pathways" or synergistic interplay between microbial activities and
+functions. Here we studied the microbial community-based degradation of keratin, 
+a recalcitrant biological material, by four soil isolates, which have previously 
+been shown to display synergistic interactions during biofilm formation;
+Stenotrophomonas rhizophila, Xanthomonas retroflexus, Microbacterium oxydans and 
+Paenibacillus amylolyticus. We observed enhanced keratin weight loss in cultures 
+with X. retroflexus, both in dual and four-species co-cultures, as compared to
+expected keratin degradation by X. retroflexus alone. Additional community
+intrinsic properties included accelerated keratin degradation rates and increased
+biofilm formation on keratin particles. Comparison of secretome profiles of X.
+retroflexus mono-cultures to co-cultures revealed that certain proteases (e.g.
+serine protease S08) were significantly more abundant in mono-cultures, whereas
+co-cultures had an increased abundance of proteins related to maintaining the
+redox environment, e.g. glutathione peroxidase. Hence, one of the mechanisms
+related to the community intrinsic properties, leading to enhanced degradation
+from co-cultures, might be related to a switch from sulfitolytic to proteolytic
+functions between mono- and co-cultures, respectively.
+
+DOI: 10.1371/journal.pone.0228108 
+PMCID: PMC6994199
+PMID: 32004342  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

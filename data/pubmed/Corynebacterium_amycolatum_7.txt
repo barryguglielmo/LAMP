@@ -1,0 +1,48 @@
+
+1. Wound Repair Regen. 2019 Nov;27(6):598-608. doi: 10.1111/wrr.12752. Epub 2019 Aug
+10.
+
+Human macrophage response to microbial supernatants from diabetic foot ulcers.
+
+Deusenbery CB(1), Kalan L(2), Meisel JS(3)(4), Gardner SE(5), Grice EA(3),
+Spiller KL(1).
+
+Author information: 
+(1)School of Biomedical Engineering Science and Health Systems, Drexel
+University, Philadelphia, Pennsylvania.
+(2)Department of Microbiology & Immunology, University of Wisconsin-Madison,
+Madison, Wisconsin.
+(3)Department of Dermatology, University of Pennsylvania, Perelman School of
+Medicine, Philadelphia, Pennsylvania.
+(4)The Center for Bioinformatics and Computational Biology, University of
+Maryland, College Park.
+(5)College of Nursing, University of Iowa, Iowa City, Iowa.
+
+Diabetic foot ulcers (DFUs) are a major clinical problem exacerbated by prolonged
+bacterial infection. Macrophages, the primary innate immune cells, are
+multifunctional cells that regulate diverse processes throughout multiple phases 
+of wound healing. To better understand the influence of microbial species on
+macrophage behavior, we cultured primary human monocyte-derived macrophages from 
+four donors for 24 hours in media conditioned by bacteria and fungi (Pseudomonas 
+aeruginosa, Corynebacterium amycolatum, Corynebacterium striatum, Staphylococcus 
+aureus, Staphylococcus simulans, and Candida albicans) isolated from the DFUs of 
+six patients. The effects of these microbe-derived signals on macrophage behavior
+were assessed by measuring the gene expression of a panel of 25 genes related to 
+macrophage phenotype, angiogenesis, bacterial recognition, and cell survival, as 
+well as secretion of two inflammatory cytokines using NanoString multiplex
+analysis. Principal component analysis showed that macrophage gene expression and
+protein secretion were affected by both microbial species as well as human donor.
+S. simulans and C. albicans caused up-regulation of genes associated with a
+proinflammatory (M1) phenotype, and P. aeruginosa caused an increase in the
+secretion of the proinflammatory cytokine and M1 marker tumor necrosis
+factor-alpha (TNFα). Together, these results suggest that macrophages respond to 
+secreted factors from microbes by up-regulating inflammatory markers, and that
+the effects are strongly dependent on the monocyte donor. Ultimately, increased
+understanding of macrophage-microbe interactions will lead to the development of 
+more targeted therapies for DFU healing.
+
+© 2019 by the Wound Healing Society.
+
+DOI: 10.1111/wrr.12752 
+PMID: 31343792  [Indexed for MEDLINE]
+

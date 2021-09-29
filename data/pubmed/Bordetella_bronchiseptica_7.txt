@@ -1,0 +1,45 @@
+
+1. PLoS Pathog. 2020 Aug 10;16(8):e1008512. doi: 10.1371/journal.ppat.1008512.
+eCollection 2020 Aug.
+
+Cytotoxicity of the effector protein BteA was attenuated in Bordetella
+pertussis by insertion of an alanine residue.
+
+Bayram J(1), Malcova I(1), Sinkovec L(1), Holubova J(1), Streparola G(2),
+Jurnecka D(1), Kucera J(2), Sedlacek R(2), Sebo P(1), Kamanova J(1).
+
+Author information: 
+(1)Institute of Microbiology of the Czech Academy of Sciences, Prague, Czech
+Republic.
+(2)Czech Centre for Phenogenomics, Institute of Molecular Genetics of the Czech
+Academy of Sciences, Vestec, Czech Republic.
+
+Bordetella bronchiseptica and Bordetella pertussis are closely related
+respiratory pathogens that evolved from a common bacterial ancestor. While B.
+bronchiseptica has an environmental reservoir and mostly establishes chronic
+infections in a broad range of mammals, B. pertussis is a human-specific pathogen
+causing acute pulmonary pertussis in infants and whooping cough illness in older 
+humans. Both species employ a type III secretion system (T3SS) to inject a
+cytotoxic BteA effector protein into host cells. However, compared to the high
+BteA-mediated cytotoxicity of B. bronchiseptica, the cytotoxicity induced by B.
+pertussis BteA (Bp BteA) appears to be quite low and this has been attributed to 
+the reduced T3SS gene expression in B. pertussis. We show that the presence of an
+alanine residue inserted at position 503 (A503) of Bp BteA accounts for its
+strongly attenuated cytotoxic potency. The deletion of A503 from Bp BteA greatly 
+enhanced the cytotoxic activity of B. pertussis B1917 on mammalian HeLa cells and
+expression of Bp BteAΔA503 was highly toxic to Saccharomyces cerevisiae cells.
+Vice versa, insertion of A503 into B. bronchiseptica BteA (Bb BteA) strongly
+decreased its cytotoxicity to yeast and HeLa cells. Moreover, the production of
+Bp BteAΔA503 increased virulence of B. pertussis B1917 in the mouse model of
+intranasal infection (reduced LD50) but yielded less inflammatory pathology in
+infected mouse lungs at sublethal infectious doses. This suggests that A503
+insertion in the T3SS effector Bp BteA may represent an evolutionary adaptation
+that fine-tunes B. pertussis virulence and host immune response.
+
+DOI: 10.1371/journal.ppat.1008512 
+PMCID: PMC7446853
+PMID: 32776984  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

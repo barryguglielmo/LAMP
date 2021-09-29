@@ -1,0 +1,36 @@
+
+1. J Vis Exp. 2020 Sep 11;(163). doi: 10.3791/61594.
+
+Constructing Mutants in Serotype 1 Streptococcus pneumoniae strain 519/43.
+
+Terra VS(1), Plumptre CD(2), Wall EC(3), Brown JS(2), Wren BW(4).
+
+Author information: 
+(1)Faculty of Infections and Tropical Diseases, Department of Infection Biology, 
+London School of Hygiene and Tropical Medicine; vanessa.terra@lshtm.ac.uk.
+(2)Division of Medicine, University College London.
+(3)Division of Infection and Immunity, University College London UCL.
+(4)Faculty of Infections and Tropical Diseases, Department of Infection Biology, 
+London School of Hygiene and Tropical Medicine.
+
+Streptococcus pneumoniae serotype 1 remains a huge problem in low-and-middle
+income countries, particularly in sub-Saharan Africa. Despite its importance,
+studies in this serotype have been hindered by the lack of genetic tools to
+modify it. In this study, we describe a method to genetically modify a serotype 1
+clinical isolate (strain 519/43). Interestingly, this was achieved by exploiting 
+the Pneumococcus' ability to naturally acquire DNA. However, unlike most
+pneumococci, the use of linear DNA was not successful; to mutate this important
+strain, a suicide plasmid had to be used. This methodology has provided the means
+for a deeper understanding of this elusive serotype, both in terms of its biology
+and pathogenicity. To validate the method, the major known pneumococcal toxin,
+pneumolysin, was mutated because it has a well-known and easy to follow
+phenotype. We showed that the mutant, as expected, lost its ability to lyse red
+blood cells. By being able to mutate an important gene in the serotype of
+interest, we were able to observe different phenotypes for loss of function
+mutants upon intraperitoneal and intranasal infections from the ones observed for
+other serotypes. In summary, this study proves that strain 519/43 (serotype 1)
+can be genetically modified.
+
+DOI: 10.3791/61594 
+PMID: 32986036 
+

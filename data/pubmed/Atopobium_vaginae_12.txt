@@ -1,0 +1,63 @@
+
+1. Sex Transm Infect. 2020 Sep;96(6):439-444. doi: 10.1136/sextrans-2019-054191.
+Epub 2019 Dec 6.
+
+Novel bacterial vaginosis-associated organisms mediate the relationship between
+vaginal douching and pelvic inflammatory disease.
+
+Gondwe T(1), Ness R(2), Totten PA(3), Astete S(3), Tang G(4), Gold MA(5), Martin 
+D(6), Haggerty CL(7)(8).
+
+Author information: 
+(1)Department of Epidemiology, University of Pittsburgh Graduate School of Public
+Health, Pittsburgh, Pennsylvania, USA.
+(2)Department of Epidemiology, Human Genetics & Environmental Sciences, The
+University of Texas School of Public Health, Houston, Texas, USA.
+(3)Department of Medicine, Division of Infectious Diseases, University of
+Washington, Seattle, Washington, USA.
+(4)Department of Biostatistics, University of Pittsburgh Graduate School of
+Public Health, Pittsburgh, Pennsylvania, USA.
+(5)Division of Child and Adolescent Health, Department of Pediatrics, Columbia
+University Irving Medical Center and Department of Population and Family Health, 
+Mailman School of Public Health, Columbia University, New York, New York, USA.
+(6)Department of Medicine, Louisiana State University, New Orleans, Louisiana,
+USA.
+(7)Department of Epidemiology, University of Pittsburgh Graduate School of Public
+Health, Pittsburgh, Pennsylvania, USA haggerty@pitt.edu.
+(8)Magee-Womens Research Institute, Pittsburgh, Pennsylvania, USA.
+
+OBJECTIVES: We sought to determine whether the relationship between a history of 
+vaginal douching and pelvic inflammatory disease (PID) is mediated by endometrial
+infection with one or more novel bacterial vaginosis (BV)-associated organisms
+among Atopobium vaginae, the BV-associated bacterium 1 (BVAB1), neathia
+(Leptotrichia) amnionii and Sneathia sanguinegens.
+METHODS: We first conducted log-binomial regression analyses to identify risk
+factors for endometrial infection in 535 adolescent and adult women with
+clinically suspected PID in the PID Evaluation and Clinical Health (PEACH) study.
+We then examined whether endometrial infection by the BV-associated organisms
+mediated the association between a history of vaginal douching and histologically
+confirmed PID using inverse probability weighted marginal structural models.
+RESULTS: Vaginal douching was significantly associated with endometrial infection
+with one or more of the targeted BV-associated organisms (relative risk (RR)
+1.21, 95% CI: 1.08 to 1.35). The total effect estimate suggested that vaginal
+douching increased the risk of endometritis by 24% (RR 1.24, 95% CI: 1.03 to
+1.49). The controlled direct effect of this association was attenuated with
+endometrial infection by one or more BV-associated organisms (adjusted RR (aRR)
+1.00, 95% CI: 0.57 to 1.74) and endometrial infection by all four BV-associated
+organisms (aRR 0.95, 95% CI: 0.53 to 1.70) as intermediate variables.
+CONCLUSIONS: Endometrial infection with one or more of the novel BV-associated
+organisms partially mediated the relationship between vaginal douching and
+histologically confirmed endometritis in the PEACH study. Frequent vaginal
+douching may confer risk for endometritis through increasing the risk of
+endometrial infection by novel-BV-associated organisms. Other potential pathways 
+should be explored.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/sextrans-2019-054191 
+PMCID: PMC7476288
+PMID: 31810995  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+

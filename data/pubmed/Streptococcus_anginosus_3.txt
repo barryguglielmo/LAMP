@@ -1,0 +1,36 @@
+
+1. FEMS Microbiol Lett. 2020 Sep 25;367(18). pii: fnaa153. doi:
+10.1093/femsle/fnaa153.
+
+Tyrosine tRNA synthetase as a novel extracellular immunomodulatory protein in
+Streptococcus anginosus.
+
+Shimoyama Y(1), Ishikawa T(1), Kodama Y(1), Kimura S(2), Sasaki M(1).
+
+Author information: 
+(1)Division of Molecular Microbiology, Department of Microbiology, Iwate Medical 
+University, 1-1-1 Idai-dori, Yahaba-cho, Shiwa-gun, Iwate 028-3694, Japan.
+(2)Department of Oral Hygiene, Kansai Women's College, Asahigaoka 3-11-1,
+Kashiwara, Osaka 582-0026, Japan.
+
+Streptococcus anginosus is frequently detected in patients with infective
+endocarditis, abscesses or oral cancer. Although S. anginosus is considered the
+causative pathogen of these diseases, the pathogenic mechanisms of the bacterium 
+have remained unclear. Previously, we suggested that an extracellular antigen
+from S. anginosus (SAA) serves as a pathogenic factor by inducing nitric oxide
+production in murine macrophages. In the present study, we identified SAA using
+LC-MS/MS and assessed the biological activities of His-tagged recombinant SAA in 
+murine macrophages. SAA was identified as a tyrosine tRNA synthetase (SaTyrRS)
+that was isolated from the extracellular fraction of S. anginosus but not from
+other oral streptococci. In addition, inducible nitric oxide synthase and TNF-α
+mRNA expression was induced in recombinant SaTyrRS-stimulated murine macrophages.
+However, their mRNA expression was not induced in macrophages stimulated with
+truncated or heat-inactivated recombinant SaTyrRS, and the activation motif was
+identified as Arg264-Thr270. Consequently, these results indicated that SaTyrRS
+could be a novel and specific immunomodulatory protein in S. anginosus.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of FEMS.
+
+DOI: 10.1093/femsle/fnaa153 
+PMID: 32926111 
+

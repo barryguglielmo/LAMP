@@ -1,0 +1,26 @@
+
+1. Microbiol Resour Announc. 2020 Oct 1;9(40). pii: e00935-20. doi:
+10.1128/MRA.00935-20.
+
+Genome Sequences of Gordonia rubripertincta Bacteriophages Jellybones and NHagos.
+
+Harrington DL(1), Stevens JL(1), Johnson MJ(1), Pochiro SJ(1), Moriarty MM(1),
+Robertson ME(1), Sanchez A(1), Whitby OG(1), Kimberley KW(1), McKenna CC(1),
+Theoret JR(1), Windsor EJ(1), Yoon EJ(2).
+
+Author information: 
+(1)Department of Biology, College of Southern Nevada, Las Vegas, Nevada, USA.
+(2)Department of Biology, College of Southern Nevada, Las Vegas, Nevada, USA
+earl.yoon@csn.edu.
+
+Jellybones and NHagos are bacteriophages that were identified in the host
+bacterium Gordonia rubripertincta NRRL B-16540. Jellybones has a direct terminal 
+repeat and was assigned to the CS2 subcluster with a length of 77,514 bp. NHagos 
+is circularly permuted and was assigned to the DR cluster with a length of
+59,580 bp.
+
+Copyright © 2020 Harrington et al.
+
+DOI: 10.1128/MRA.00935-20 
+PMID: 33004457 
+

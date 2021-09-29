@@ -1,0 +1,40 @@
+
+1. Nutrients. 2020 Sep 24;12(10). pii: E2932. doi: 10.3390/nu12102932.
+
+Rhubarb Supplementation Prevents Diet-Induced Obesity and Diabetes in Association
+with Increased Akkermansia muciniphila in Mice.
+
+Régnier M(1), Rastelli M(1), Morissette A(2), Suriano F(1), Le Roy T(1), Pilon
+G(2), Delzenne NM(1), Marette A(2), Van Hul M(1), Cani PD(1).
+
+Author information: 
+(1)Metabolism and Nutrition Research Group, Louvain Drug Research Institute,
+Walloon Excellence in Life sciences and BIOtechnology (WELBIO), UCLouvain,
+Université catholique de Louvain, Av. E. Mounier, 73 B1.73.11, 1200 Bruxelles,
+Belgium.
+(2)Department of Medicine, Faculty of Medicine, Cardiology Axis of the Quebec
+Heart and Lung Institute, Quebec, QC G1V 4G5, Canada.
+
+Obesity and obesity-related disorders, such as type 2 diabetes have been
+progressively increasing worldwide and treatments have failed to counteract their
+progression. Growing evidence have demonstrated that gut microbiota is associated
+with the incidence of these pathologies. Hence, the identification of new
+nutritional compounds, able to improve health through a modulation of gut
+microbiota, is gaining interest. In this context, the aim of this study was to
+investigate the gut-driving effects of rhubarb extract in a context of
+diet-induced obesity and diabetes. Eight weeks old C57BL6/J male mice were fed a 
+control diet (CTRL), a high fat and high sucrose diet (HFHS) or a HFHS diet
+supplemented with 0.3% (g/g) of rhubarb extract for eight weeks. Rhubarb
+supplementation fully prevented HFHS-induced obesity, diabetes, visceral
+adiposity, adipose tissue inflammation and liver triglyceride accumulation,
+without any modification in food intake. By combining sequencing and qPCR
+methods, we found that all these effects were associated with a blooming of
+Akkermansia muciniphila, which is strongly correlated with increased expression
+of Reg3γ in the colon. Our data showed that rhubarb supplementation is sufficient
+to protect against metabolic disorders induced by a diet rich in lipid and
+carbohydrates in association with a reciprocal interaction between Akkermansia
+muciniphila and Reg3γ.
+
+DOI: 10.3390/nu12102932 
+PMID: 32987923 
+

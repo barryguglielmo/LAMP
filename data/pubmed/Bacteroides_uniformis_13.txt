@@ -1,0 +1,47 @@
+
+1. Gut Microbes. 2020 Jul 3;11(4):820-841. doi: 10.1080/19490976.2019.1710092. Epub 
+2020 Jan 19.
+
+Helicobacter pylori antibiotic eradication coupled with a chemically defined diet
+in INS-GAS mice triggers dysbiosis and vitamin K deficiency resulting in gastric 
+hemorrhage.
+
+Quinn L(1), Sheh A(1), Ellis JL(2), Smith DE(2), Booth SL(2), Fu X(2),
+Muthupalani S(1), Ge Z(1), Puglisi DA(1), Wang TC(3), Gonda TA(3), Holcombe H(1),
+Fox JG(1).
+
+Author information: 
+(1)Division of Comparative Medicine, Massachusetts Institute of Technology ,
+Cambridge, MA, USA.
+(2)Jean Mayer USDA Human Nutrition Research Center on Aging, Tufts University ,
+Boston, MA, USA.
+(3)Department of Medicine, Columbia University Medical Center , New York, NY,
+USA.
+
+Infection with Helicobacter pylori causes chronic inflammation and is a risk
+factor for gastric cancer. Antibiotic treatment or increased dietary folate
+prevents gastric carcinogenesis in male INS-GAS mice. To determine potential
+synergistic effects, H. pylori-infected male INS-GAS mice were fed an amino acid 
+defined (AAD) diet with increased folate and were treated with antibiotics after 
+18 weeks of H. pylori infection. Antibiotic therapy decreased gastric pathology, 
+but dietary folate had no effect. However, the combination of antibiotics and the
+AAD diet induced anemia, gastric hemorrhage, and mortality. Clinical presentation
+suggested hypovitaminosis K potentially caused by dietary deficiency and
+dysbiosis. Based on current dietary guidelines, the AAD diet was deficient in
+vitamin K. Phylloquinone administered subcutaneously and via a reformulated diet 
+led to clinical improvement with no subsequent mortalities and increased hepatic 
+vitamin K levels. We characterized the microbiome and menaquinone profiles of
+antibiotic-treated and antibiotic-free mice. Antibiotic treatment decreased the
+abundance of menaquinone producers within orders Bacteroidales and
+Verrucomicrobiales. PICRUSt predicted decreases in canonical menaquinone
+biosynthesis genes, menA and menD. Reduction of menA from Akkermansia
+muciniphila, Bacteroides uniformis, and Muribaculum intestinale were confirmed in
+antibiotic-treated mice. The fecal menaquinone profile of antibiotic-treated mice
+had reduced MK5 and MK6 and increased MK7 and MK11 compared to antibiotic-free
+mice. Loss of menaquinone-producing microbes due to antibiotics altered the
+enteric production of vitamin K. This study highlights the role of diet and the
+microbiome in maintaining vitamin K homeostasis.
+
+DOI: 10.1080/19490976.2019.1710092 
+PMID: 31955643 
+

@@ -1,0 +1,37 @@
+
+1. Cell Microbiol. 2020 Jul;22(7):e13213. doi: 10.1111/cmi.13213. Epub 2020 May 28.
+
+Bacterial intracellularly active toxins: Membrane localisation of the active
+domain.
+
+Varela-Chavez C(1), Blondel A(2), Popoff MR(1).
+
+Author information: 
+(1)Bacterial Toxins, Institut Pasteur, Paris, France.
+(2)Unité de Bio-Informatique Structurale, Institut Pasteur, Paris, France.
+
+Numerous bacterial toxins exert their activity by inactivating or modulating a
+specific intracellular host target. For this purpose, these toxins have developed
+efficient strategies to overcome the different host cell defences including
+specific binding to cell surface, internalisation, passage through the endosome
+or plasma membrane, exploiting intracellular trafficking and addressing to
+intracellular targets. Several intracellularly active toxins deliver an active
+domain into the cytosol that interacts with a target localised to the inner face 
+of the plasma membrane. Thus, the large clostridial glucosylating toxins (LCGTs) 
+target Rho/Ras-GTPases, certain virulence factors of Gram negative bacteria,
+Rho-GTPases, while Pasteurella multocida toxin (PMT) targets trimeric G-proteins.
+Others such as botulinum neurotoxins and tetanus neurotoxin have their substrate 
+on synaptic vesicle membrane. LCGTs, PMT, and certain virulence factors from
+Vibrio sp. show a particular structure constituted of a four-helix bundle
+membrane (4HBM) protruding from the catalytic site that specifically binds to the
+membrane phospholipids and then trap the catalytic domain at the proximity of the
+membrane anchored substrate. Structural and functional analysis indicate that the
+4HBM tip of the Clostridium sordellii lethal toxin (TcsL) from the LCGT family
+contain two loops forming a cavity that mediates the binding to phospholipids and
+more specifically to phosphatidylserine.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/cmi.13213 
+PMID: 32353188 
+

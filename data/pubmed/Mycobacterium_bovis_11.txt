@@ -1,0 +1,48 @@
+
+1. ACS Omega. 2020 Sep 1;5(36):23385-23392. doi: 10.1021/acsomega.0c03338.
+eCollection 2020 Sep 15.
+
+Correlation of Conservation of Sequence and Structures of Mycobacterial
+Hemerythrin-like Proteins with Evolutionary Relationship and Host Pathogenicity.
+
+Ma Z(1), Caldas Nogueira ML(1), Marchi-Salvador DP(2), Davidson VL(1).
+
+Author information: 
+(1)Burnett School of Biomedical Sciences, College of Medicine, University of
+Central Florida, 6900 Lake Nona Blvd., Orlando, Florida 32827, United States.
+(2)Department of Molecular Biology, Center of Exact and Natural Sciences, Federal
+University of Paraiba, João Pessoa, PB, Brazil.
+
+The Rv2633c gene of Mycobacterium tuberculosis, which plays a role in infection, 
+encodes a hemerythrin-like protein (HLP). The crystal structure of an orthologue 
+of Rv2633c, the HLP from Mycobacterium kansasii, revealed that it possessed
+structural features that were distinct from other hemerythrins and HLPs. These
+and other orthologous proteins comprise a distinct class of non-heme di-iron HLPs
+that are only found in mycobacteria. This study presents an analysis and
+comparison of protein sequences, putative structures, and evolutionary
+relationship of HLPs from 20 mycobacterial species that are known to cause
+tuberculosis or pulmonary disorders in humans. The results of this analysis
+allowed correlation of the physicochemical characteristics of amino acid residues
+that are substituted in these highly conserved sequences with their position in
+structures, possible effects on function, and evolutionary relationships. The
+sequences of the proteins from M. tuberculosis, Mycobacterium bovis, and other
+members of the M. tuberculosis complex, which cause tuberculosis, have
+substitutions not seen in the other non-tuberculous mycobacteria. Furthermore,
+groups of species that are closely related, based on phylogenetic analysis,
+possess substitutions of otherwise conserved residues not seen in other species
+that are less related. This information is correlated with the occurrence and
+clinical presentations of these groups of mycobacterial species. The results of
+this study provide a framework for structure-function studies to determine how
+subtle differences in the primary sequences of members of this family of proteins
+correlate with their structures and activities and how this may influence the
+infectious properties of the host species.
+
+Copyright © 2020 American Chemical Society.
+
+DOI: 10.1021/acsomega.0c03338 
+PMCID: PMC7496005
+PMID: 32954191 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

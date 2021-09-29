@@ -1,0 +1,46 @@
+
+1. Medchemcomm. 2019 Sep 27;10(11):1948-1957. doi: 10.1039/c9md00372j. eCollection
+2019 Nov 1.
+
+Characterization of the genomically encoded fosfomycin resistance enzyme from
+Mycobacterium abscessus.
+
+Travis S(1), Shay MR(1), Manabe S(2), Gilbert NC(3), Frantom PA(1), Thompson
+MK(1).
+
+Author information: 
+(1)Department of Chemistry & Biochemistry , The University of Alabama , 250
+Hackberry Lane , Box 870336 , Tuscaloosa , AL 35487 , USA . Email:
+mthompson10@ua.edu ; Tel: +(205) 348 7020.
+(2)Synthetic Cellular Chemistry Laboratory , RIKEN , Hirosawa , Wako , Saitama
+351-0198 , Japan.
+(3)Center for Advanced Microstructures and Devices , Louisiana State University ,
+6980 Jefferson Highway , Baton Rouge , Louisiana 70806 , USA.
+
+Mycobacterium abscessus belongs to a group of rapidly growing mycobacteria (RGM) 
+and accounts for approximately 65-80% of lung disease caused by RGM. It is highly
+pathogenic and is considered the prominent Mycobacterium involved in pulmonary
+infection in patients with cystic fibrosis and chronic pulmonary disease (CPD).
+FosM is a putative 134 amino acid fosfomycin resistance enzyme from M. abscessus 
+subsp. bolletii that shares approximately 30-55% sequence identity with other
+vicinal oxygen chelate (VOC) fosfomycin resistance enzymes and represents the
+first of its type found in any Mycobacterium species. Genes encoding VOC
+fosfomycin resistance enzymes have been found in both Gram-positive and
+Gram-negative pathogens. Given that FosA enzymes from Gram-negative bacteria have
+evolved optimum activity towards glutathione (GSH) and FosB enzymes from
+Gram-positive bacteria have evolved optimum activity towards bacillithiol (BSH), 
+it was originally suggested that FosM might represent a fourth class of enzyme
+that has evolved to utilize mycothiol (MSH). However, a sequence similarity
+network (SSN) analysis identifies FosM as a member of the FosX subfamily,
+indicating that it may utilize water as a substrate. Here we have synthesized MSH
+and characterized FosM with respect to divalent metal ion activation and
+nucleophile selectivity. Our results indicate that FosM is a Mn2+-dependent
+FosX-type hydrase with no selectivity toward MSH or other thiols as analyzed by
+NMR and mass spectroscopy.
+
+This journal is © The Royal Society of Chemistry 2019.
+
+DOI: 10.1039/c9md00372j 
+PMCID: PMC7478155
+PMID: 32952996 
+

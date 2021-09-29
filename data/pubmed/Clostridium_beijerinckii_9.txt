@@ -1,0 +1,42 @@
+
+1. J Agric Food Chem. 2020 Jul 29;68(30):7916-7925. doi: 10.1021/acs.jafc.0c03048.
+Epub 2020 Jul 17.
+
+Metabolic Engineering and Adaptive Evolution of Clostridium beijerinckii To
+Increase Solvent Production from Corn Stover Hydrolysate.
+
+Liu J(1), Jiang Y(2), Chen J(3), Yang J(3), Jiang W(3), Zhuang W(4)(5), Ying
+H(4)(5), Yang S(2)(3).
+
+Author information: 
+(1)School of Agricultural Sciences, Zhengzhou University, Zhengzhou 450001,
+China.
+(2)Huzhou Center of Industrial Biotechnology, Shanghai Institutes of Biological
+Sciences, Chinese Academy of Sciences, Huzhou 313000, China.
+(3)Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular
+Plant Sciences, Chinese Academy of Sciences, Shanghai 200032, China.
+(4)School of Chemical Engineering and Energy, Zhengzhou University, Zhengzhou
+450001, China.
+(5)State Key Laboratory of Materials-Oriented Chemical Engineering, College of
+Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing
+211816, China.
+
+The production of acetone-butanol-ethanol by solventogenic Clostridium using
+lignocellulosic biomass can be a potential alternative to petroleum-based
+butanol. However, previous studies on nondetoxified lignocellulose hydrolysate
+could not provide better results when compared to those in synthetic medium. In
+this study, we engineered the pentose pathway of Clostridium beijerinckii NCIMB
+8052, which was then subjected to adaptive laboratory evolution in the gradient
+mixture of synthetic medium and pretreated corn stover enzymatic hydrolysate
+(CSH) prepared according to the National Renewable Energy Laboratory (NREL)
+standard. The final resultant strain CIBTS1274A produced 20.7 g/L of total
+solvents in NREL CSH diluted to 6% initial total sugars, supplemented with
+ammonium acetate. This performance was comparable with that of corn-based
+butanol. In addition, this strain was successfully used in the scale-up operation
+using nondetoxified corn stover and corncob hydrolysate at Lignicell Refining
+Biotechnologies Ltd., which once was the only commercial biobutanol industry in
+the world.
+
+DOI: 10.1021/acs.jafc.0c03048 
+PMID: 32614183 
+

@@ -1,0 +1,58 @@
+
+1. J Biol Chem. 2020 Feb 28;295(9):2822-2838. doi: 10.1074/jbc.RA119.011277. Epub
+2020 Jan 22.
+
+The architecture of the diaminobutyrate acetyltransferase active site provides
+mechanistic insight into the biosynthesis of the chemical chaperone ectoine.
+
+Richter AA(1)(2), Kobus S(3), Czech L(1)(2), Hoeppner A(3), Zarzycki J(4), Erb
+TJ(2)(4), Lauterbach L(5), Dickschat JS(5), Bremer E(6)(2), Smits SHJ(7)(8).
+
+Author information: 
+(1)Department of Biology, Laboratory for Microbiology, Philipps-University
+Marburg, D-35043 Marburg, Germany.
+(2)SYNMIKRO Research Center, Philipps-University Marburg, D-35043 Marburg,
+Germany.
+(3)Center for Structural Studies, Heinrich-Heine University Düsseldorf, D-40225
+Düsseldorf, Germany.
+(4)Department of Biochemistry and Synthetic Metabolism, Max-Planck-Institute for 
+Terrestrial Microbiology, D-35043 Marburg, Germany.
+(5)Kekulé-Institute for Organic Chemistry and Biochemistry,
+Friedrich-Wilhelms-University Bonn, D-53121 Bonn, Germany.
+(6)Department of Biology, Laboratory for Microbiology, Philipps-University
+Marburg, D-35043 Marburg, Germany bremer@staff.uni-marburg.de.
+(7)Center for Structural Studies, Heinrich-Heine University Düsseldorf, D-40225
+Düsseldorf, Germany sander.smits@hhu.de.
+(8)Institute of Biochemistry, Heinrich-Heine University Düsseldorf, D-40225
+Düsseldorf, Germany.
+
+Ectoine is a solute compatible with the physiologies of both prokaryotic and
+eukaryotic cells and is widely synthesized by bacteria as an osmotic stress
+protectant. Because it preserves functional attributes of proteins and
+macromolecular complexes, it is considered a chemical chaperone and has found
+numerous practical applications. However, the mechanism of its biosynthesis is
+incompletely understood. The second step in ectoine biosynthesis is catalyzed by 
+l-2,4-diaminobutyrate acetyltransferase (EctA; EC 2.3.1.178), which transfers the
+acetyl group from acetyl-CoA to EctB-formed l-2,4-diaminobutyrate (DAB), yielding
+N-γ-acetyl-l-2,4-diaminobutyrate (N-γ-ADABA), the substrate of ectoine synthase
+(EctC). Here, we report the biochemical and structural characterization of the
+EctA enzyme from the thermotolerant bacterium Paenibacillus lautus (Pl). We found
+that (Pl)EctA forms a homodimer whose enzyme activity is highly regiospecific by 
+producing N-γ-ADABA but not the ectoine catabolic intermediate
+N-α-acetyl-l-2,4-diaminobutyric acid. High-resolution crystal structures of
+(Pl)EctA (at 1.2-2.2 Å resolution) (i) for its apo-form, (ii) in complex with
+CoA, (iii) in complex with DAB, (iv) in complex with both CoA and DAB, and (v) in
+the presence of the product N-γ-ADABA were obtained. To pinpoint residues
+involved in DAB binding, we probed the structure-function relationship of
+(Pl)EctA by site-directed mutagenesis. Phylogenomics shows that EctA-type
+proteins from both Bacteria and Archaea are evolutionarily highly conserved,
+including catalytically important residues. Collectively, our biochemical and
+structural findings yielded detailed insights into the catalytic core of the EctA
+enzyme that laid the foundation for unraveling its reaction mechanism.
+
+© 2020 Richter et al.
+
+DOI: 10.1074/jbc.RA119.011277 
+PMCID: PMC7049965 [Available on 2021-02-28]
+PMID: 31969391 
+

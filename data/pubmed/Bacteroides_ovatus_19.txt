@@ -1,0 +1,43 @@
+
+1. ISME J. 2020 Feb;14(2):584-596. doi: 10.1038/s41396-019-0550-5. Epub 2019 Nov 11.
+
+Microbial succession during wheat bran fermentation and colonisation by human
+faecal microbiota as a result of niche diversification.
+
+De Paepe K(1), Verspreet J(2), Courtin CM(2), Van de Wiele T(3).
+
+Author information: 
+(1)Department of Biotechnology, Faculty of Bioscience Engineering, Center for
+Microbial Ecology and Technology (CMET), Ghent University, Ghent, Belgium.
+(2)Laboratory of Food Chemistry and Biochemistry, Leuven Food Science and
+Nutrition Research Centre (LFoRCe), Faculty of Bioscience Engineering, KU Leuven,
+Heverlee, Belgium.
+(3)Department of Biotechnology, Faculty of Bioscience Engineering, Center for
+Microbial Ecology and Technology (CMET), Ghent University, Ghent, Belgium.
+Tom.VandeWiele@UGent.be.
+
+The human gut can be viewed as a flow-through system with a short residence time,
+a high turnover rate and a spatial gradient of physiological conditions. As a
+consequence, the gut microbiota is exposed to highly fluctuating environmental
+determinants presented by the host and diet. Here, we assessed the fermentation
+and colonisation of insoluble wheat bran by faecal microbiota of three
+individuals at an unprecedented sampling intensity. Time-resolved 16S rRNA gene
+amplicon sequencing, revealed a dynamic microbial community, characterised by
+abrupt shifts in composition, delimiting states with a more constant community,
+giving rise to a succession of bacterial taxa alternately dominating the
+community over a 72 h timespan. Early stages were dominated by Enterobacteriaceae
+and Fusobacterium species, growing on the carbohydrate-low, protein rich medium
+to which wheat bran was supplemented. The onset of wheat bran fermentation,
+marked by a spike in short chain fatty acid production with an increasing
+butyrate proportion and an increased endo-1,4-β-xylanase activity, corresponded
+to donor-dependent proportional increases of Bacteroides ovatus/stercoris,
+Prevotella copri and Firmicutes species, which were strongly enriched in the
+bran-attached community. Literature and database searches provided novel insights
+into the metabolic and growth characteristics underlying the observed succession 
+and colonisation, illustrating the potency of a time-resolved analysis to
+increase our understanding of gut microbiota dynamics upon dietary modulations.
+
+DOI: 10.1038/s41396-019-0550-5 
+PMCID: PMC6976558
+PMID: 31712738  [Indexed for MEDLINE]
+

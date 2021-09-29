@@ -1,0 +1,42 @@
+
+1. Curr Microbiol. 2020 Sep 4. doi: 10.1007/s00284-020-02175-0. [Epub ahead of
+print]
+
+Genome Sequence Analysis of Clostridium tyrobutyricum, a Promising Microbial Host
+for Human Health and Industrial Applications.
+
+Liu T(1), Zhu L(2), Zhu Z(3), Jiang L(4).
+
+Author information: 
+(1)College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech
+University, Nanjing, 210009, People's Republic of China.
+(2)College of Chemical and Molecular Engineering, Nanjing Tech University,
+Nanjing, 210009, People's Republic of China.
+(3)College of Food Science and Light Industry, Nanjing Tech University, Nanjing, 
+210009, People's Republic of China. zhuzm@njtech.edu.cn.
+(4)College of Food Science and Light Industry, Nanjing Tech University, Nanjing, 
+210009, People's Republic of China. jiangling@njtech.edu.cn.
+
+Clostridium tyrobutyricum is a promising microbial host for the anaerobic
+production of bio-based chemicals, especially butyric acid. At the same time, it 
+also has great potential as a probiotic for the production of short-chain fatty
+acids in the intestines. However, due to the insufficient knowledge of the
+genetic characteristics of this organism, there has been little progress in its
+genetic engineering to date. Here, we present the complete genome sequence of C. 
+tyrobutyricum L319, which consists of a circular chromosome and a plasmid with a 
+G + C content of 31.69%, encompassing approximately 3.09 Mb with 3052
+protein-coding genes. Functional gene annotation revealed better results than
+previous studies based on KEGG pathway classification. Furthermore, we obtained
+detailed functional characterization of 93 genes previously annotated as putative
+proteins. Genomic analysis revealed that this organism contains multiple genes
+encoding enzymes involved in the CRISPR-Cas systems, substrate utilization,
+isopeptide and ester bonds, transcriptional regulation, and oxidative stress. The
+safety evaluation at genetic level indicated that this organism does not possess 
+transferable resistance genes, invasive defensive pathogenicity factors, or
+harmful enzymes. The genome sequence data analyzed in this study will be
+available for further research and will facilitate the further understanding and 
+development of potential applications of C. tyrobutyricum.
+
+DOI: 10.1007/s00284-020-02175-0 
+PMID: 32888044 
+

@@ -1,0 +1,49 @@
+
+1. Chemosphere. 2020 Nov;258:127326. doi: 10.1016/j.chemosphere.2020.127326. Epub
+2020 Jun 6.
+
+Highly efficient removal of victoria blue R and bioelectricity generation from
+textile wastewater using a novel combined dual microbial fuel cell system.
+
+Wu LC(1), Chen CY(2), Lin TK(3), Su YY(3), Chung YC(4).
+
+Author information: 
+(1)Department of Logistics Engineering, Dongguan Polytechnic, Dongguan City,
+523808, China.
+(2)Department of Tourism and Leisure, Hsing Wu University, Taipei, 244, Taiwan.
+(3)Department of Biological Science and Technology, China University of Science
+and Technology, Taipei, 115, Taiwan.
+(4)Department of Biological Science and Technology, China University of Science
+and Technology, Taipei, 115, Taiwan. Electronic address: ycchung@cc.cust.edu.tw.
+
+A novel combined dual microbial fuel cell (MFC) system was developed for the
+continuous removal of Victoria Blue R (VBR) and electricity generation. Anaerobic
+and aerobic VBR-degrading bacteria, Shewanella putrefaciens and Acinetobacter
+calcoaceticus, respectively, were applied simultaneously. The effects of various 
+factors on the performance of the novel system in the continuous mode were
+investigated, and optimal operating parameters for the system were determined.
+The optimal liquid retention time for continuous treatment was 36 h. The optimal 
+external resistances of connected MFCs were 390 Ω and 1300 Ω. When artificial
+wastewater containing 1000 mg/l of VBR was fed continuously into the system, the 
+VBR removal efficiency achieved was 98.7%. In addition, the acute toxicity of the
+effluent was decreased by a factor of 21.1-22.3, indicating that the system could
+detoxify VBR intermediates. VBR degradation involved a stepwise demethylation
+process, which occurred mainly in the first MFC, whereas aromatic ring opening,
+sequential deamination reaction, and carbon oxidation occurred mainly in the
+second MFC. When actual VBR-containing wastewater (75-262 mg/l) was introduced,
+the removal efficiencies of VBR, chemical oxygen demand, colority, NH3, and
+bioelectricity generation were >99.8%, >96.6%, >88.0%, 100%, and >194.8 mW/m2,
+respectively and the original inoculated strains remained dominant. Therefore,
+the combined dual MFC system could be applied to the treatment of actual
+VBR-containing wastewater.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.chemosphere.2020.127326 
+PMID: 32535452  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

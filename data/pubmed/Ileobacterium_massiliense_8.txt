@@ -1,0 +1,60 @@
+
+1. Infect Drug Resist. 2020 Jun 26;13:2001-2010. doi: 10.2147/IDR.S252485.
+eCollection 2020.
+
+Antimicrobial Susceptibility of Mycobacterium abscessus Complex Clinical Isolates
+from a Chinese Tertiary Hospital.
+
+Guo Y(1)(2), Cao X(3), Yu J(4), Zhan Q(3), Yang J(1), Wu X(1), Wan B(1), Liu
+Y(1), Yu F(1)(2).
+
+Author information: 
+(1)Department of Laboratory Medicine, Shanghai Pulmonary Hospital, Tongji
+University School of Medicine, Shanghai 200082, People's Republic of China.
+(2)Shanghai Key Laboratory of Tuberculosis, Shanghai Pulmonary Hospital, Tongji
+University School of Medicine, Shanghai 200082, People's Republic of China.
+(3)Jiangxi Provincial Key Laboratory of Medicine, Clinical Laboratory of the
+Second Affiliated Hospital of Nanchang University, Nanchang 330000, People's
+Republic of China.
+(4)Department of Laboratory Medicine, Wenzhou Medical University, Wenzhou 325000,
+People's Republic of China.
+
+Introduction: Mycobacterium abscessus complex (MABC) is a group of important
+infectious agents that are highly associated with drug resistance, and antibiotic
+treatment is usually ineffective. This study investigated the characteristics of 
+antimicrobial susceptibility of MABC isolates and the synergy between certain
+β-lactam combinations against MABC infection.
+Methods: We collected 129 MABC isolates from patients with lower respiratory
+tract infections and categorized them into three subspecies. The minimum
+inhibitory concentrations (MICs) of 15 antimicrobials for the MABC isolates were 
+determined using commercial Sensititre RAPMYCOI MIC plates and the broth
+microdilution method, as recommended in the CLSI (M24-A2). In addition, the MICs 
+of imipenem, alone and with ceftazidime and/or avibactam, were assessed in vitro 
+for all isolates. The erm(41) and rrl genes were also sequenced.
+Results: The MABC isolates exhibited >80% resistance to 11 of the 15
+antimicrobials. Regarding the remaining four antimicrobials, the isolates were
+least resistant to tigecycline (12.4%) and amikacin (3.9%), and only partially
+resistant to two cefoxitin (39.5%) and imipenem (40.3%). Compared with M.
+massiliense isolates, M. abscessus and M. bolletii isolates were more resistant
+to amikacin and imipenem, whereas M. abscessus was significantly less resistant
+to tigecycline relative to M. massiliense and M. bolletii isolates. The
+clarithromycin inducible resistance rate was 68.4% and 74.3% among M. bolletii
+and M. abscessus isolates. Furthermore, 88.7% of the M. abscessus isolates
+carried a T at position 28 of erm(41), which is associated with inducible
+clarithromycin resistance. In addition, compared to imipenem with avibactam only,
+the MIC50 and MIC90values of imipenem after adding ceftazidime plus avibactam
+were decreased fourfold.
+Conclusion: The antimicrobial resistance rates and the characteristics of the
+erm(41) gene associated with inducible clarithromycin resistance were different
+among the three MABC subspecies. There was also synergy between imipenem and
+100μg/mL ceftazidime against MABC isolates.
+
+© 2020 Guo et al.
+
+DOI: 10.2147/IDR.S252485 
+PMCID: PMC7326206
+PMID: 32617011 
+
+Conflict of interest statement: The authors declare that they have no conflicts
+of interest.
+

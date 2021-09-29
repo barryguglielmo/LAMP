@@ -1,0 +1,61 @@
+
+1. Int J Biol Macromol. 2020 Aug 16. pii: S0141-8130(20)34189-1. doi:
+10.1016/j.ijbiomac.2020.08.101. [Epub ahead of print]
+
+Optimization of immobilization conditions of Bacillus atrophaeus FSHM2 lipase on 
+maleic copolymer coated amine-modified graphene oxide nanosheets and its
+application for valeric acid esterification.
+
+Ameri A(1), Shakibaie M(2), Khoobi M(3), Faramarzi MA(4), Gholibegloo E(5), Ameri
+A(6), Forootanfar H(7).
+
+Author information: 
+(1)Pharmaceutical Sciences and Cosmetic Products Research Center, Kerman
+University of Medical Sciences, Kerman, Iran.
+(2)Pharmaceutics Research Center, Institute of Neuropharmacology, Kerman
+University of Medical Sciences, Kerman, Iran; Department of Pharmaceutical
+Biotechnology, Faculty of Pharmacy, Kerman University of Medical Sciences,
+Kerman, Iran. Electronic address: shakiba@kmu.ac.ir.
+(3)Biomaterials Group, Pharmaceutical Sciences Research Center, The Institute of 
+Pharmaceutical Sciences (TIPS), Tehran University of Medical Sciences, 1417614411
+Tehran, Iran.
+(4)Department of Pharmaceutical Biotechnology, Faculty of Pharmacy and
+Biotechnology Research Center, Tehran University of Medical Sciences, Tehran,
+Iran.
+(5)Department of Pharmaceutical Biomaterials and Medical Biomaterials Research
+Center, Faculty of Pharmacy, Tehran University of Medical Sciences, Tehran, Iran.
+(6)Department of Medicinal Chemistry, Faculty of Pharmacy, Kerman University of
+Medical Sciences, Kerman, Iran.
+(7)Pharmaceutical Sciences and Cosmetic Products Research Center, Kerman
+University of Medical Sciences, Kerman, Iran; Department of Pharmaceutical
+Biotechnology, Faculty of Pharmacy, Kerman University of Medical Sciences,
+Kerman, Iran. Electronic address: h_forootanfar@kmu.ac.ir.
+
+The thermoalkalophilic lipase from Bacillus atrophaeus (BaL) was immobilized onto
+amine-functionalized graphene oxide nanosheets coated with the poly (maleic
+anhydride-alt-1-octadecene) copolymer (GO-NH2-PMAO) and activated with
+glutaraldehyde as spacer arm through interfacial activation and subsequent
+multipoint covalent attachment. Experimental design method was applied for
+optimization of immobilization conditions including GO-NH2-PMAO concentration,
+buffer concentration, pH, sonication time, enzyme concentration, glutaraldehyde
+concentration, time, and temperature. The optimum specific activity of the
+immobilized BaL (105.95 ± 2.37 U/mg) reached at 5 mg/mL for GO-NH2-PMAO, 25 mM of
+buffer, pH 6.0, 60 min sonication time, 100 mM glutaraldehyde, 60 U/mL of enzyme,
+and 4 h of immobilization time at 25 °C, which was very close to the predicted
+amount (106.08 ± 1.42 U/mg). Maximum immobilization yield (81.35%) and efficiency
+(277.63%) were determined in optimal immobilization conditions. The obtained
+results clearly indicated that the immobilized BaL exhibited better stability at 
+extreme temperature and pH than the free BaL. At temperature of 90 °C and pH 11, 
+more than 90% of the initial activity of the immobilized BaL was retained.
+Furthermore, the immobilized BaL retained about 90% of its initial activity after
+10 days of storage and 6 cycles of application. The esterification studies showed
+that maximum bioconversion of valeric acid to pentyl valerate using the free BaL 
+(34.5%) and the immobilized BaL (96.3%) occurred in the xylene medium after 48 h 
+of incubation at 60 °C. Therefore, the BaL immobilized on GO-NH2-PMAO was
+introduced as an effective biocatalyst to synthesize green apple flavour ester.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.ijbiomac.2020.08.101 
+PMID: 32814102 
+

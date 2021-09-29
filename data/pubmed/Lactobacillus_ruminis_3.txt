@@ -1,0 +1,59 @@
+
+1. Appl Environ Microbiol. 2020 Feb 3;86(4). pii: e02193-19. doi:
+10.1128/AEM.02193-19. Print 2020 Feb 3.
+
+Lipopolysaccharide Stimulates the Growth of Bacteria That Contribute to Ruminal
+Acidosis.
+
+Dai X(1), Hackmann TJ(2), Lobo RR(3), Faciola AP(4).
+
+Author information: 
+(1)Department of Animal Sciences, University of Florida, Gainesville, Florida,
+USA.
+(2)Department of Animal Science, University of California, Davis, Davis,
+California, USA.
+(3)Department of Animal Science, University of Sao Paulo, Pirassununga, Sao
+Paulo, Brazil.
+(4)Department of Animal Sciences, University of Florida, Gainesville, Florida,
+USA afaciola@ufl.edu.
+
+Lipopolysaccharide (LPS) has been reported to contribute to a ruminal acidosis of
+cattle by affecting ruminal bacteria. The goal of this study was to determine how
+LPS affects the growth of pure cultures of ruminal bacteria, including those that
+contribute to ruminal acidosis. We found that dosing LPS (200,000 EU) increased
+the maximum specific growth rates of four ruminal bacterial species
+(Streptococcus bovis JB1, Succinivibrio dextrinosolvens 24, Lactobacillus ruminis
+RF1, and Selenomonas ruminantium HD4). Interestingly, all the species ferment
+sugars and produce lactate, contributing to acidosis. Species that consume
+lactate or ferment fiber were not affected by LPS. We found that S. bovis JB1
+failed to grow in LPS as the carbon source in the media; growth of S. bovis JB1
+was increased by LPS when glucose was present. Growth of Megasphaera elsdenii
+T81, which consumes lactate, was not different between the detoxified (lipid A
+delipidated) and regular LPS. However, the maximum specific growth rate of S.
+bovis JB1 was greater in regular LPS than detoxified LPS. Mixed bacteria from a
+dual-flow continuous culture system were collected to determine changes of
+metabolic capabilities of bacteria by LPS, and genes associated with LPS
+biosynthesis were increased by LPS. In summary, LPS was not toxic to bacteria,
+and lipid A of LPS stimulated the growth of lactate-producing bacteria. Our
+results indicate that LPS not only is increased during acidosis but also may
+contribute to ruminal acidosis development by increasing the growth of lactic
+acid-producing bacteria.IMPORTANCE Gram-negative bacteria contain
+lipopolysaccharide (LPS) coating their thin peptidoglycan cell wall. The presence
+of LPS has been suggested to be associated with a metabolic disorder of
+cattle-ruminal acidosis-through affecting ruminal bacteria. Ruminal acidosis
+could reduce feed intake and milk production and increase the incidence of
+diarrhea, milk fat depression, liver abscesses, and laminitis. However, how LPS
+affects bacteria associated with ruminal acidosis has not been studied. In this
+study, we investigated how LPS affects the growth of ruminal bacteria by pure
+cultures, including those that contribute to acidosis, and the functional genes
+of ruminal bacteria. Thus, this work serves to further our understanding of the
+roles of LPS in the pathogenesis of ruminal acidosis, as well as providing
+information that may be useful for the prevention of ruminal acidosis and
+reducetion of economic losses for farmers.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.02193-19 
+PMCID: PMC6997726
+PMID: 31811042  [Indexed for MEDLINE]
+

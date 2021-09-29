@@ -1,0 +1,42 @@
+
+1. J Med Microbiol. 2020 Aug;69(8):1089-1094. doi: 10.1099/jmm.0.001235.
+
+Molecular characterization of a novel bla CTX-M-3-carrying Tn6741 transposon in
+Morganella morganii isolated from swine.
+
+Luo X(1), Zhai Y(1), He D(1), Cui X(1), Yang Y(1), Yuan L(1), Liu J(1), Hu G(1).
+
+Author information: 
+(1)Department of Pharmacology and Toxicology, College of Animal Science and
+Veterinary Medicine, Henan Agricultural University, Zhengzhou, PR China.
+
+Introduction. The bla CTX-M-3 gene has rarely been reported in Morganella
+morganii strains and its genetic environment has not yet been investigated.Aim.
+To identify the bla CTX-M-3 gene in M. morganii isolated from swine and
+characterize its genetic environment.Methodology. A M. morganii isolate (named
+MM1L5) from a deceased swine was identified using matrix-assisted laser
+desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS) and
+subjected to antimicrobial susceptibility testing. The bla genes were detected
+and then the genetic location and environment of bla CTX-M-3 were investigated by
+Southern blot and PCR mapping, respectively. The M. morganii bla CTX-M-3 gene was
+cloned and expressed in Escherichia coli.Results. Isolate MM1L5 harboured the bla
+CTX-M-3 and bla TEM-1 genes. The bla CTX-M-3 gene, located on the chromosome, was
+co-carried with an IS26 and bla TEM-1 gene by a novel 6361 bp IS26-flanked
+composite transposon, designated Tn6741. This transposon consisted of a novel bla
+CTX-M-3-containing module, IS26-ΔISEcp1-bla CTX-M-3-Δorf477-IS26 (named Tn6710), 
+and a bla TEM-1-containing module, IS26-Δorf477-bla TEM-1-tnpR-IS26, differing
+from previous reports. Phylogenetic analysis showed a significant variation based
+on the sequence of Tn6741, as compared to those of other related transposons.
+Interestingly, although the cloned bla CTX-M-3 gene could confer resistance to
+ceftiofur, cefquinome, ceftriaxone and cefotaxime, one amino acid substitution
+(Ile-142-Thr) resulted in a significant reduction of resistance to these
+antimicrobials.Conclusion. This is the first time that bla CTX-M-3 has been
+identified on a chromosome from a M. morganii isolate. Furthermore, the bla
+CTX-M-3 gene was located with an IS26 element and bla TEM-1 gene on a novel
+IS26-flanked composite transposon, Tn6741, suggesting that Tn6741 might act as a 
+reservoir for the bla CTX-M-3 and bla TEM-1 genes and may become an important
+vehicle for their dissemination among M. morganii.
+
+DOI: 10.1099/jmm.0.001235 
+PMID: 32692646  [Indexed for MEDLINE]
+

@@ -1,0 +1,39 @@
+
+1. Front Microbiol. 2020 Apr 23;11:672. doi: 10.3389/fmicb.2020.00672. eCollection
+2020.
+
+Abundance, Functional, and Evolutionary Analysis of Oxalyl-Coenzyme A
+Decarboxylase in Human Microbiota.
+
+Jiang T(1), Chen W(1), Cao L(1), He Y(1), Zhou H(1), Mao H(1).
+
+Author information: 
+(1)Department of Urology, The First Affiliated Hospital of Fujian Medical
+University, Fuzhou, China.
+
+Oxalic acid and its oxalate salts have been linked to kidney stones and other
+health problems and about 80% kidney stones are made up of calcium oxalate.
+Oxalyl coenzyme A decarboxylase (OXC) is a key enzyme in the catabolism of
+oxalate. In this study, we performed bioinformatic and biochemical analysis of
+OXC. First, we mined the OXC sequences from a public protein database and
+collected 1396 putative OXC sequences. These sequences were widely spread and
+mainly distributed in Actinobacteria, Alphaproteobacteria, Gammaproteobacteria,
+and Betaproteobacteria and classified into seven clusters. The phylogenetic
+relationship and evolutionary rate of the 7 clusters showed that OXC are highly
+conserved. Second, the abundance of the different clusters of OXC was explored in
+380 human microbiome datasets, which showed that OXCs in Cluster 1 were
+relatively high in the gut while OXCs in Clusters 2-4 were relatively enriched in
+the vagina. Third, we measured the activity of one OXC from Mycobacterium
+mageritense (OXCmm) in Cluster 3, in which there was no experimentally
+characterized enzymes. Mutation analysis showed that OXCmm shared the same active
+sites with the OXC from Oxalobacter formigenes. Taken together, this analysis
+provides a better insight into the distribution and catalysis of OXC and further 
+potential alternative application of OXC active bacteria as probiotics in the
+management of kidney stone disease.
+
+Copyright © 2020 Jiang, Chen, Cao, He, Zhou and Mao.
+
+DOI: 10.3389/fmicb.2020.00672 
+PMCID: PMC7190790
+PMID: 32390974 
+

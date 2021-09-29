@@ -1,0 +1,45 @@
+
+1. Genomics. 2020 Sep 30. pii: S0888-7543(20)30397-9. doi:
+10.1016/j.ygeno.2020.09.061. [Epub ahead of print]
+
+Genome analysis of 1-deoxynojirimycin (1-DNJ)-producing Bacillus velezensis K26
+and distribution of Bacillus sp. harboring a 1-DNJ biosynthetic gene cluster.
+
+Lee H(1), Jung DH(2), Seo DH(3), Chung WH(4), Seo MJ(5).
+
+Author information: 
+(1)Department of Bioengineering and Nano-Bioengineering, Graduate School of
+Incheon National University, Incheon 22012, Republic of Korea.
+(2)Bacteria Research Team, Nakdonggang National Institute of Biological
+Resources, Sangju 37242, Republic of Korea.
+(3)Department of Food Science and Technology, College of Agriculture and Life
+Sciences, Jeonbuk National University, Jeonju 54896, Republic of Korea;
+Department of Agricultural Convergence Technology, Jeonbuk National University,
+Jeonju 54896, Republic of Korea.
+(4)Research Group of Healthcare, Korea Food Research Institute, Wanju 55365,
+Republic of Korea. Electronic address: whchung@kfri.re.kr.
+(5)Department of Bioengineering and Nano-Bioengineering, Graduate School of
+Incheon National University, Incheon 22012, Republic of Korea; Division of
+Bioengineering, Incheon National University, Incheon 22012, Republic of Korea.
+Electronic address: mjseo@inu.ac.kr.
+
+1-Deoxynojirumycin (1-DNJ) is a representative iminosugar with α-glucosidase
+inhibition (AGI) activity. In this study, the full genome sequencing of
+1-DNJ-producing Bacillus velezensis K26 was performed. The genome consists of a
+circular chromosome (4,047,350 bps) with two types of putative virulence factors,
+five antibiotic resistance genes, and seven secondary metabolite biosynthetic
+gene clusters. Genomic analysis of a wide range of Bacillus species revealed that
+a 1-DNJ biosynthetic gene cluster was commonly present in four Bacillus species
+(B. velezensis, B. pseudomycoides, B. amyloliquefaciens, and B. atrophaeus). In
+vitro experiments revealed that the increased mRNA expression levels of the three
+1-DNJ biosynthetic genes were closely related to increased AGI activity. Genomic 
+comparison and alignment of multiple gene sequences indicated the conservation of
+the 1-DNJ biosynthetic gene cluster in each Bacillus species. This genomic
+analysis of Bacillus species having a 1-DNJ biosynthetic gene cluster could
+provide a basis for further research on 1-DNJ-producing bacteria.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.ygeno.2020.09.061 
+PMID: 33010389 
+

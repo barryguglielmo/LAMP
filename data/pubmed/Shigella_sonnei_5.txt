@@ -1,0 +1,51 @@
+
+1. Int Microbiol. 2020 Sep 3. doi: 10.1007/s10123-020-00145-x. [Epub ahead of print]
+
+Comparative genome analysis of 12 Shigella sonnei strains: virulence, resistance,
+and their interactions.
+
+Zhu Z(1), Wang L(2)(3), Qian H(4), Gu F(5), Li Y(6), Zhang H(7), Chen Y(6), Shi
+J(8), Ma P(6)(9), Bao C(4), Gu B(10)(11).
+
+Author information: 
+(1)Department of Genetics, School of Life Science, Xuzhou Medical University,
+Xuzhou, 221004, China.
+(2)Department of Bioinformatics, School of Medical Informatics and Engineering,
+Xuzhou Medical University, Xuzhou, 221004, China.
+(3)Jiangsu Key Laboratory of New Drug Research and Clinical Pharmacy, Xuzhou
+Medical University, Xuzhou, 221000, China.
+(4)Department of Acute Infectious Disease Prevention and Control, Jiangsu
+Provincial Center for Disease Prevention and Control, Nanjing, 210029, China.
+(5)Clinical Laboratory, Xuzhou Tumor Hospital, Xuzhou, 221004, China.
+(6)Medical Technology School of Xuzhou Medical University, Xuzhou, 221004, China.
+(7)Ji'ning Psychiatric Hospital, Jining, 272051, China.
+(8)School of Transportation, Nantong University, Nantong, 226019, China.
+(9)Department of Laboratory Medicine, Affiliated Hospital of Xuzhou Medical
+University, Xuzhou, 221006, China.
+(10)Medical Technology School of Xuzhou Medical University, Xuzhou, 221004,
+China. gb20031129@163.com.
+(11)Department of Laboratory Medicine, Affiliated Hospital of Xuzhou Medical
+University, Xuzhou, 221006, China. gb20031129@163.com.
+
+Shigellosis is a highly infectious disease that is mainly transmitted via
+fecal-oral contact of the bacteria Shigella. Four species have been identified in
+Shigella genus, among which Shigella flexneri is used to be the most prevalent
+species globally and commonly isolated from developing countries. However, it is 
+being replaced by Shigella sonnei that is currently the main causative agent for 
+dysentery pandemic in many emerging industrialized countries such as Asia and the
+Middle East. For a better understanding of S. sonnei virulence and antibiotic
+resistance, we sequenced 12 clinical S. sonnei strains with varied
+antibiotic-resistance profiles collected from four cities in Jiangsu Province,
+China. Phylogenomic analysis clustered antibiotic-sensitive and resistant S.
+sonnei into two distinct groups while pan-genome analysis reveals the presence
+and absence of unique genes in each group. Screening of 31 classes of virulence
+factors found out that type 2 secretion system is doubled in resistant strains.
+Further principle component analysis based on the interactions between virulence 
+and resistance indicated that abundant virulence factors are associated with
+higher levels of antibiotic resistance. The result present here is based on
+statistical analysis of a small sample size and serves basically as a guidance
+for further experimental and theoretical studies.
+
+DOI: 10.1007/s10123-020-00145-x 
+PMID: 32880768 
+

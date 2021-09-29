@@ -1,0 +1,39 @@
+
+1. Int J Syst Evol Microbiol. 2020 Aug;70(8):4661-4667. doi: 10.1099/ijsem.0.004329.
+Epub 2020 Jul 20.
+
+Isoptericola halalbus sp. nov., a halotolerant actinobacterium isolated from
+saline lake sediment.
+
+Ming H(1), Niu MM(2), Cheng LJ(2), Zhang YM(2), Yi BF(2), Xia TT(1), Li M(1), Nie
+GX(2).
+
+Author information: 
+(1)Synthetic Biology Engineering Lab of Henan Province, College of Life Sciences 
+and Technology, Xinxiang Medical University, Xinxiang, 453003, PR China.
+(2)College of Fisheries, Henan Normal University, Xinxiang, 453007, PR China.
+
+A novel Gram-stain-positive bacterium, designated CFH 91151T, was isolated from
+sediment collected from a saline lake in Yuncheng, Shanxi Province, PR China.
+Cells of strain CFH 91151T were rod-or v-shaped, aerobic, non-motile,
+non-spore-forming and halotolerant. Results of 16S rRNA gene sequence analysis
+revealed that strain CFH 91151T was closely related to Isoptericola variabilis
+MX5T and Isoptericola nanjingensis H17T (98.7 and 98.4% sequence similarity,
+respectively). The strain grew at 4-45 °C, pH 5.0-9.0 and with 0-14.0 % (w/v)
+NaCl. Cells were positive for catalase, nitrate was not used and H2S was not
+produced. Major cellular fatty acids were anteiso-C15 : 0 (62.76 %),
+anteiso-C17 : 0 (12.09 %) and iso-C15 : 0 (9.46 %). The major polar lipids were
+diphosphatidylglycerol, phosphatidylglycerol, phosphatidylinositol, two
+unidentified phospholipids and three unidentified glycolipids. The menaquinone
+was MK-9 (H4). The genome size was 4.10 Mbp with a G+C content of 72.4 mol%. The 
+average amino acid identity (ANI) and in silico DNA-DNA hybridization (DDH)
+values between CFH 91151T and the other species of the genus Isoptericola were
+found to be low (ANIm <87.19 %, ANIb <84.38 % and DDH <29.30 %). Based on
+physiological properties, chemotaxonomic characteristics and low ANI and DDH
+results, strain CFH 91151T is considered to represent a novel species, for which 
+the name Isoptericola halalbus sp. nov. is proposed. The type strain is CFH
+91151T (=DSM 105976T=KCTC 49061T).
+
+DOI: 10.1099/ijsem.0.004329 
+PMID: 32687463  [Indexed for MEDLINE]
+

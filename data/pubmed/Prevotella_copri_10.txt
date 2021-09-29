@@ -1,0 +1,49 @@
+
+1. Int J Syst Evol Microbiol. 2020 Aug;70(8):4767-4773. doi: 10.1099/ijsem.0.004342.
+
+Prevotella hominis sp. nov., isolated from human faeces.
+
+Liou JS(1), Huang CH(1), Ikeyama N(2), Lee AY(1), Chen IC(1), Blom J(3), Chen
+CC(4)(5), Chen CH(6), Lin YC(6), Hsieh SY(1), Huang L(1), Ohkuma M(2), Watanabe
+K(7)(1), Sakamoto M(8)(2).
+
+Author information: 
+(1)Bioresource Collection and Research Center, Food Industry Research and
+Development Institute, 331 Shih-Pin Rd, Hsinchu 30062, Taiwan, ROC.
+(2)Microbe Division/Japan Collection of Microorganisms, RIKEN BioResource
+Research Center, Tsukuba, Ibaraki 305-0074, Japan.
+(3)Bioinformatics and Systems Biology, Justus-Liebig-University Giessen, Giessen,
+35392, Germany.
+(4)Rapid Screening Research Center for Toxicology and Biomedicine, National Sun
+Yat-sen University, Kaohsiung 80424, Taiwan, ROC.
+(5)Institute of Medical Science and Technology, National Sun Yat-sen University, 
+Kaohsiung 80424, Taiwan, ROC.
+(6)Livestock Research Institute, Council of Agriculture, Executive Yuan, Tainan
+71246, Taiwan, ROC.
+(7)Department of Animal Science and Technology, College of Bioresources and
+Agriculture, National Taiwan University, Taipei 10673, Taiwan, ROC.
+(8)PRIME, Japan Agency for Medical Research and Development (AMED), Tsukuba,
+Ibaraki 305-0074, Japan.
+
+A strictly anaerobic predominant bacterium, designated as strain gm001T, was
+isolated from a freshly voided faecal sample collected from a healthy Taiwanese
+adult. Cells were Gram-stain-negative rods, non-motile and non-spore-forming.
+Strain gm001T was identified as a member of the genus Prevotella, and a
+comparison of 16S rRNA and hsp60 gene sequences revealed sequence similarities of
+98.5 and 93.3 %, respectively, demonstrating that it was most closely related to 
+the type strain of Prevotella copri. Phylogenomic tree analysis indicated that
+the gm001T cluster is an independent lineage of P. copri DSM 18205T. The average 
+nucleotide identity, digital DNA‒DNA hybridization and average amino acid
+identity values between strain gm001T and P. copri DSM 18205T were 80.9, 28.6 and
+83.8 %, respectively, which were clearly lower than the species delineation
+thresholds. The species-specific genes of this novel species were also identified
+on the basis of pan-genomic analysis. The predominant menaquinones were MK-11 and
+MK-12, and the predominant fatty acids were anteiso-C15 : 0, C15 : 0 and
+iso-C15 : 0. Acetate and succinate were produced from glucose as metabolic end
+products. Taken together, the results indicate that strain gm001T represents a
+novel species of the genus Prevotella, for which the name Prevotella hominis sp. 
+nov. is proposed. The type strain is gm001T (=BCRC 81118T=JCM 33280T).
+
+DOI: 10.1099/ijsem.0.004342 
+PMID: 32697186  [Indexed for MEDLINE]
+

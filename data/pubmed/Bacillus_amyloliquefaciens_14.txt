@@ -1,0 +1,54 @@
+
+1. Sheng Wu Gong Cheng Xue Bao. 2020 Aug 25;36(8):1640-1649. doi:
+10.13345/j.cjb.190566.
+
+[Improving applicability of urease from Bacillus amyloliquefaciens JP-21 by
+site-directed mutagenesis].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Jia Y(1)(2), Fang F(1)(2).
+
+Author information: 
+(1)School of Biotechnology and Key Laboratory of Industrial Biotechnology,
+Ministry of Education, Jiangnan University, Wuxi 214122, Jiangsu, China.
+(2)State Key Laboratory of Food Science and Technology, Jiangnan University, Wuxi
+214122, Jiangsu, China.
+
+Ethyl carbamate (EC) is a carcinogen detected in fermented foods and alcohol
+beverages. Excessive intake of EC is possibly harmful to health. Enzymatic
+degradation is one of the most effective approaches for reducing EC in fermented 
+foods. Urease catalyzes the hydrolysis of both EC and urea. This confers urease a
+good application prospect in reducing EC and its precursor urea in fermented
+foods. Currently, degradation of EC in alcohol beverages by urease is inefficient
+due to its low urethanase activity and poor affinity to EC. Urease from Bacillus 
+amyloliquefaciens JP-21 was successfully expressed in Escherichia coli at the
+level of 3 292 U/L urease and 227.3 U/L urethanase. Two key residues M326 and
+M374 were characterized that might block the binding of enzyme to EC, through
+simulating docking the structure of catalytic subunit UreC of urease with EC.
+Three mutants (M374A, M374T and M326V) of urease with improved urethanase
+activity were obtained by performing point saturated mutagenesis approach. Using 
+EC as the substrate, Km values of M374A, M374T and M326V were detected to be
+101.8 mmol/L, 129.5 mmol/L and 121.7 mmol/L, respectively, which were decreased
+by 37.47%-50.82% compared with that of the wild type urease. These mutants can
+degrade more than 97% of urea in rice wine and mutant M374T shows the highest
+degradation of EC in rice wine. EC content in rice wine was reduced from 525 μg/L
+to 393 μg/L by using M374T, and the EC degradation rate of it is 0.97 folds
+higher than that of the wild type urease. The results are of great significance
+for engineering the catalytic properties of urease and improving its industrial
+properties, and lays a good foundation for developing strategies to reducing
+microbial metabolic ammonia (amine) hazards in fermented foods.
+
+Publisher: 氨基甲酸乙酯 (Ethyl carbamate，EC)
+是一种存在于发酵食品和酒精饮料中的可致癌物，过量摄入可能会影响人体健康。酶法降解是减少发酵食品中氨基甲酸乙酯及其前体尿素含量的有效方法之一。脲酶具有氨基甲酸乙酯水
+解酶和尿素酶两种活性，因此在减少发酵食品中氨基甲酸乙酯及其前体尿素方面具有良好的应用前景。目前脲酶降解发酵酒精饮料中氨基甲酸乙酯面临的主要问题是脲酶对氨基甲酸乙酯
+的催化活性及亲和力较低，因而其降解效果不理想。文中成功在大肠杆菌Escherichia coli 中表达了来源于解淀粉芽孢杆菌Bacillus
+amyloliquefaciens JP-21的脲酶，表达水平为尿素酶3 291.74 U/L，氨基甲酸乙酯水解酶227.26
+U/L。通过模拟脲酶中催化亚基UreC 与氨基甲酸乙酯对接的结构，确定了M326 和M374 这两个影响酶与底物结合的位点。采用点饱和突变获得了3
+株氨基甲酸乙酯水解酶活性提高的突变体M374A、M374T 和M326V，以EC 为底物时的Km 分别为101.84 mmol/L、129.49 mmol/L
+和121.67 mmol/L，比野生型分别降低了37.47%–50.82%。突变体可以降解黄酒中97%的尿素，M374T对黄酒中EC
+的降解效果最好，可将黄酒中EC 从513.90 μg/L 降至393.57 μg/L，降解率是野生脲酶的1.97
+倍。研究结果对今后改造脲酶催化特性和改善其应用特性具有重要意义，可为开发减控发酵食品中的微生物代谢氨 (胺)类危害物策略提供参考。.
+DOI: 10.13345/j.cjb.190566 
+PMID: 32924362 
+

@@ -1,0 +1,48 @@
+
+1. Biosens Bioelectron. 2020 Oct 1;165:112366. doi: 10.1016/j.bios.2020.112366. Epub
+2020 Jun 8.
+
+An on-site, highly specific immunosensor for Escherichia coli detection in field 
+milk samples from mastitis-affected dairy cattle.
+
+Zhang J(1), Jiang Y(2), Xia X(2), Wu J(3), Almeida R(4), Eda S(5), Qi H(6).
+
+Author information: 
+(1)School of Electronic Science and Applied Physics, Hefei University of
+Technology, Hefei, 230009, China; Department of Electrical Engineering and
+Computer Science, The University of Tennessee, Knoxville, TN, 37996, USA.
+(2)Department of Electrical Engineering and Computer Science, The University of
+Tennessee, Knoxville, TN, 37996, USA.
+(3)Department of Electrical Engineering and Computer Science, The University of
+Tennessee, Knoxville, TN, 37996, USA. Electronic address: jaynewu@utk.edu.
+(4)Department of Animal Science, The University of Tennessee, Knoxville, TN,
+37996, USA.
+(5)Department of Forestry, Wildlife & Fisheries, The University of Tennessee,
+Knoxville, TN, 37996, USA.
+(6)School of Electronic Science and Applied Physics, Hefei University of
+Technology, Hefei, 230009, China.
+
+Bovine mastitis is the most economically important infectious disease in dairy
+industry, and Escherichia coli (E. coli) is one of the major causative pathogens.
+Rapid identification and quantitative detection of E. coli are of great
+importance for bovine mastitis control and milk quality monitoring. Capitalizing 
+on dielectrophoresis and interphase capacitance sensing, we have developed an
+immunosensor for E. coli detection by modifying low cost commercial
+microelectrodes with an E. coli specific antibody. The limit of detection reaches
+as low as 775 cells/mL within a 15 s' response time, which can satisfy the
+requirement for on-site detection and field diagnosis of bovine mastitis. To
+demonstrate the sensor's specificity, tests against Staphylococcus aureus and
+Streptococcus uberis samples are performed showing negligible responses, and the 
+selectivity is calculated to be 3063: 1. Furthermore, a simple pretreatment
+protocol is developed for on-site testing of raw milk, which only involves
+incubation, centrifugation and dilution steps. Then correct detection of E. coli 
+is demonstrated for both artificially inoculated and infected field milk samples.
+This immunosensor and the corresponding protocol have advantages in speed,
+sensitivity, specificity, operability, and low cost, which make it highly
+promising for on-site pathogen detection of bovine mastitis.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bios.2020.112366 
+PMID: 32729498 
+

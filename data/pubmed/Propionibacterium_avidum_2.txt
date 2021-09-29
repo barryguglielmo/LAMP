@@ -1,0 +1,64 @@
+
+1. mSphere. 2020 Jan 15;5(1). pii: e00793-19. doi: 10.1128/mSphere.00793-19.
+
+Porphyrin Production and Regulation in Cutaneous Propionibacteria.
+
+Barnard E(#)(1), Johnson T(#)(1), Ngo T(1), Arora U(1), Leuterio G(1), McDowell
+A(2), Li H(3)(4).
+
+Author information: 
+(1)Department of Molecular and Medical Pharmacology, Crump Institute for
+Molecular Imaging, David Geffen School of Medicine, UCLA, Los Angeles,
+California, USA.
+(2)Northern Ireland Centre for Stratified Medicine, Ulster University,
+Londonderry, United Kingdom.
+(3)Department of Molecular and Medical Pharmacology, Crump Institute for
+Molecular Imaging, David Geffen School of Medicine, UCLA, Los Angeles,
+California, USA huiying@ucla.edu.
+(4)UCLA-DOE Institute for Genomics and Proteomics, UCLA, Los Angeles, California,
+USA.
+(#)Contributed equally
+
+Porphyrins are intermediate metabolites in the biosynthesis of vital molecules,
+including heme, cobalamin, and chlorophyll. Bacterial porphyrins are known to be 
+proinflammatory, with high levels linked to inflammatory skin diseases.
+Propionibacterium species are dominant skin commensals and play essential roles
+in defending against pathogens and in triggering an inflammatory response. To
+better understand how the inflammatory potential of the skin microbiome may vary 
+depending on its propionibacterial composition, we compared the production levels
+of porphyrins among Propionibacterium acnes, Propionibacterium granulosum,
+Propionibacterium avidum, and Propionibacterium humerusii strains. We found that 
+porphyrin production varied among these species, with P. acnes type I strains
+producing significantly larger amounts of porphyrins than P. acnes type II and
+III strains and other Propionibacterium species. P. acnes strains that are highly
+associated with the common skin condition acne vulgaris responded to vitamin B12 
+supplementation with significantly higher porphyrin production. In contrast,
+vitamin B12 supplementation had no effect on the porphyrin production of
+health-associated P. acnes strains and other propionibacteria. We observed
+low-level porphyrin production in most Propionibacterium strains harboring the
+deoR repressor gene, with the exception of P. acnes strains belonging to type I
+clades IB-3 and IC. Our findings shed light on the proinflammatory potential of
+distinct phylogenetic lineages of P. acnes as well as other resident skin
+propionibacteria. We demonstrate that the overall species and strain composition 
+is important in determining the metabolic output of the skin microbiome in health
+and disease.IMPORTANCE Porphyrins are a group of metabolites essential to the
+biosynthesis of heme, cobalamin, and chlorophyll in living organisms. Bacterial
+porphyrins can be proinflammatory, with high levels linked to human inflammatory 
+diseases, including the common skin condition acne vulgaris. Propionibacteria are
+among the most abundant skin bacteria. Variations in propionibacteria composition
+on the skin may lead to different porphyrin levels and inflammatory potentials.
+This study characterized porphyrin production in all lineages of
+Propionibacterium acnes, the most dominant skin Propionibacterium, and other
+resident skin propionibacteria, including P. granulosum, P. avidum, and P.
+humerusii We revealed that P. acnes type I strains produced significantly more
+porphyrins than did type II and III strains and other Propionibacterium species. 
+The findings from this study shed light on the proinflammatory potential of the
+skin microbiome and can be used to guide the development of effective acne
+treatments by modulating the skin microbiome and its metabolic activities.
+
+Copyright © 2020 Barnard et al.
+
+DOI: 10.1128/mSphere.00793-19 
+PMCID: PMC6968654
+PMID: 31941813 
+

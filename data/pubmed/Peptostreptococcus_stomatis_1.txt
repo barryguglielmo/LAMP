@@ -1,0 +1,57 @@
+
+1. Clin Transl Med. 2020 Jun 11. doi: 10.1002/ctm2.97. [Epub ahead of print]
+
+A metagenomic study of biliary microbiome change along the
+cholecystitis-carcinoma sequence.
+
+Song X(1)(2)(3), Wang X(1)(2)(3)(4), Hu Y(1)(2)(3), Li H(1)(2)(3), Ren
+T(1)(2)(3), Li Y(1)(2)(3), Liu L(1)(2)(3), Li L(1)(2)(3), Li X(1)(2)(3), Wang
+Z(1)(2)(3), Huang W(1)(2)(3), Bao R(1)(2)(3), Zhang Y(1)(2)(3), Li M(1)(2)(3),
+Wang X(1)(2)(3), Liu F(5), Gu J(1)(2)(3), Zheng L(5), Wu W(1)(2)(3)(6), Liu
+Y(1)(2)(3)(6).
+
+Author information: 
+(1)Department of General Surgery and Laboratory of General Surgery, Xinhua
+Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.
+(2)Shanghai Key Laboratory of Biliary Tract Disease Research, Xinhua Hospital,
+Shanghai Jiao Tong University School of Medicine, Shanghai, China.
+(3)Shanghai Research Center of Biliary Tract Disease, Xinhua Hospital, Shanghai
+Jiao Tong University School of Medicine, Shanghai, China.
+(4)Department of General Surgery and Laboratory of General Surgery, Xinhua
+Hospital, Shanghai Jiao Tong University School of Medicine, 1665 Kongjiang Road, 
+Shanghai, 200092, China.
+(5)Emergency Unit, The First Affiliated Hospital, Nanchang University, Nanchang, 
+China.
+(6)Department of Biliary-Pancreatic Surgery, Renji Hospital, School of Medicine, 
+Shanghai Jiao Tong University, 160 Pujian Road, Shanghai, 200127, China.
+
+BACKGROUND: Gallbladder cancer (GBC) is the most common cancer type of the
+biliary tract, and an association has been found between chronic calculous
+cholecystitis (CCC) and an increased incidence of GBC mortality. An understanding
+of the relationship between CCC and its carcinogenesis may enable us to prevent
+and cure GBC. In this study, we attempted to explore changes in the microbiome
+profile that take place during the transition from chronic cholecystitis mucosa
+to malignant lesions.
+RESULTS: Seven paired human GBC and CCC samples were provided by patients who had
+undergone laparoscopic cholecystectomy or radical cholecystectomy. Mucosal DNA
+extraction and metagenomic sequencing were performed to evaluate changes in the
+microbiota between the two groups. We found that GBC patients and CCC patients
+shared similar stable and permanent dominant species and showed apparent
+differences in their biliary microbial composition and gene function.
+Peptostreptococcus stomatis and Enterococcus faecium may potentially play a role 
+in GBC progression. In addition, the metagenomic species profiles, co-abundance
+and co-exclusion correlations, and CAZyme prevalence showed significant
+differences between the CCC and GBC groups.
+CONCLUSION: Our data suggested that changes in the microbiota between CCC and GBC
+may help deepen our understanding of the complex spectrum of different
+microbiotas involved in the development of GBC. Although the cohort size was
+small, this study has presented the first evidence of the existence of an altered
+biliary microbiota in GBC, which is clearly different from that in CCC patients.
+
+© 2020 The Authors. Clinical and Translational Medicine published by John Wiley &
+Sons Australia, Ltd on behalf of Shanghai Institute of Clinical Bioinformatics.
+
+DOI: 10.1002/ctm2.97 
+PMCID: PMC7403721
+PMID: 32526082 
+

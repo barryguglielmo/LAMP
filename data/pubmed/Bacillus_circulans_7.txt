@@ -1,0 +1,41 @@
+
+1. J Biomol Struct Dyn. 2020 Mar 26:1-12. doi: 10.1080/07391102.2020.1745282. [Epub 
+ahead of print]
+
+Cloning, expression, homology modelling and molecular dynamics simulation of four
+domain-containing α-amylase from Streptomyces griseus.
+
+Lakshmi SA(1), Shafreen RB(1), Balaji K(1), Ibrahim KS(2), Shiburaj S(3),
+Gayathri V(3), Pandian SK(1).
+
+Author information: 
+(1)Department of Biotechnology, Alagappa University, Karaikudi, Tamil Nadu,
+India.
+(2)PG and Research Department of Botany, PSG College of Arts & Science,
+Coimbatore, Tamil Nadu, India.
+(3)Division of Microbiology, Jawaharlal Nehru Tropical Botanic Garden and
+Research Institute, Palode, Thiruvananthapuram, Kerala, India.
+
+In the present study, α-amylase from Streptomyces griseus TBG19NRA1 was
+amplified, cloned and successfully expressed in E. coli BL21/DE3. Sequence
+analysis of S. griseus α-amylase (SGAmy) revealed the presence of four domains
+(A, B, C and E). Alpha-amylases with E domain (also known as carbohydrate binding
+module 20 (CBM20)) are capable of degrading raw starch and this property holds
+great potential for application in starch processing industries. Though α-amylase
+is a well-studied and characterized enzyme, there is no experimental structure
+available for this four domain-containing α-amylases. To gain more insight about 
+SGAmy structure and function, homology modelling was performed using a
+multi-template method. The template α-amylase from Pseudoalteromonas haloplanktis
+(PDB ID 1AQH) and E domain of Cyclodextrin glucanotransferase from Bacillus
+circulans (PDB ID 1CGY) was found to have significant similarity with the
+complete target sequence of SGAmy. Therefore, homology model for SGAmy was
+generated from the crystal structure of 1AQH and 1CGY and the resulting structure
+was subjected to 10 ns molecular dynamics (MD) simulation. Remarkably, CBM20
+domain of SGAmy showed greater flexibility in MD simulation than other three
+domains. This observation is highly rational as this part of SGAmy is strongly
+implicated in substrate (raw starch) binding. Thus, conformational plasticity at 
+CBM20 is functionally beneficial.Communicated by Ramaswamy H. Sarma.
+
+DOI: 10.1080/07391102.2020.1745282 
+PMID: 32193988 
+

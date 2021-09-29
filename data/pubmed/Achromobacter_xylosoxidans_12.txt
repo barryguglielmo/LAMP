@@ -1,0 +1,58 @@
+
+1. Sci Rep. 2020 Jul 17;10(1):11898. doi: 10.1038/s41598-020-68772-y.
+
+Bioconversion of chitin and concomitant production of chitinase and
+N-acetylglucosamine by novel Achromobacter xylosoxidans isolated from shrimp
+waste disposal area.
+
+Subramanian K(1)(2), Sadaiappan B(3), Aruni W(1)(4), Kumarappan A(5),
+Thirunavukarasu R(2), Srinivasan GP(6), Bharathi S(7), Nainangu P(7), Renuga
+PS(8), Elamaran A(6)(9), Balaraman D(6), Subramanian M(10).
+
+Author information: 
+(1)School of Bio and Chemical Engineering, Sathyabama Institute of Science and
+Technology, Chennai, Tamil Nadu, 600119, India.
+(2)Centre for Drug Discovery and Development, Sathyabama Institute of Science and
+Technology, Chennai, Tamil Nadu, 600119, India.
+(3)Plankton Ecology Laboratory, CSIR- National Institute of Oceanography, Panaji,
+Goa, 403004, India.
+(4)School of Medicine, Loma Linda University, Loma Linda, CA, 92350, USA.
+(5)Sharjah Institute for Medical Research, University of Sharjah, Sharjah, UAE.
+(6)Centre for Advanced Studies in Marine Biology, Annamalai University,
+Chidambaram, Tamil Nadu, 608502, India.
+(7)Department of Microbiology, Sri Sankara Arts and Science College, Enathur,
+Tamil Nadu, 631561, India.
+(8)Department of Zoology - DDE, Annamalai University, Chidambaram, Tamil Nadu,
+608002, India.
+(9)Central Aquaculture Genetics Laboratory, Rajiv Gandhi Centre for Aquaculture, 
+Karaimedu, Tamil Nadu, 609109, India.
+(10)Department of Bioengineering, Department of Computing, Imperial College
+London, London, SW72AZ, UK. m.subramanian@imperial.ac.uk.
+
+Marine pollution is a significant issue in recent decades, with the increase in
+industries and their waste harming the environment and ecosystems. Notably, the
+rise in shellfish industries contributes to tons of shellfish waste composed of
+up to 58% chitin. Chitin, the second most ample polymer next to cellulose, is
+insoluble and resistant to degradation. It requires chemical-based treatment or
+enzymatic hydrolysis to cleave the chitin polymers. The chemical-based treatment 
+can lead to environmental pollution, so to solve this problem, enzymatic
+hydrolysis is the best option. Moreover, the resulting biopolymer by-products can
+be used to boost the fish immune system and also as drug delivery agents. Many
+marine microbial strains have chitinase producing ability. Nevertheless, we still
+lack an economical and highly stable chitinase enzyme for use in the industrial
+sector. So we isolate a novel marine bacterial strain Achromobacter xylosoxidans 
+from the shrimp waste disposal site using chitin minimal medium. Placket-Burman
+and central composite design statistical models for culture condition
+optimisation predicted a 464.2 U/ml of chitinase production. The culture
+conditions were optimised for maximum chitinase production recording up to
+467 U/ml. This chitinase from the A. xylosoxidans was 100% active at an optimum
+temperature of 45 °C (withstand up to 55 °C) and pH 8 with 80% stability. The
+HPLC analysis of chitinase degraded shellfish waste reveals a major amino acid
+profile composition-arginine, lysine, aspartic acid, alanine, threonine and low
+levels of isoleucine and methionine. These chitinase degraded products and
+by-products can be used as supplements in the aquaculture industry.
+
+DOI: 10.1038/s41598-020-68772-y 
+PMCID: PMC7368032
+PMID: 32681120 
+

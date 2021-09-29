@@ -1,0 +1,55 @@
+
+1. Front Microbiol. 2020 Aug 26;11:2029. doi: 10.3389/fmicb.2020.02029. eCollection 
+2020.
+
+Species-Level Analysis of Human Gut Microbiota With Metataxonomics.
+
+Yang J(1)(2)(3), Pu J(1)(2), Lu S(1)(2)(3), Bai X(1), Wu Y(4), Jin D(1)(2)(3),
+Cheng Y(1), Zhang G(1), Zhu W(1), Luo X(1), Rosselló-Móra R(5), Xu J(1)(2)(3)(6).
+
+Author information: 
+(1)State Key Laboratory of Infectious Disease Prevention and Control, Chinese
+Center for Disease Control and Prevention, National Institute for Communicable
+Disease Control and Prevention, Beijing, China.
+(2)Shanghai Public Health Clinical Center, Shanghai Institute for Emerging and
+Re-emerging Infectious Diseases, Shanghai, China.
+(3)Research Units of Discovery of Unknown Bacteria and Function, Chinese Academy 
+of Medical Sciences, Beijing, China.
+(4)Peking University Clinical Research Institute, Beijing, China.
+(5)Marine Microbiology Group, Department of Ecology and Marine Resources,
+Instituto Mediterráneo de Estudios Avanzados (IMEDEA), Esporles, Spain.
+(6)Institute of Public Health, Nankai University, Tianjing, China.
+
+The current understanding of human gut microbial community is mainly limited to
+taxonomic features at the genus level. Here, we examined the human gut microbial 
+community at the species level by metataxonomics. To achieve this purpose, a
+high-throughput approach involving operational phylogenetic unit analysis of the 
+near full-length 16S ribosomal RNA (rRNA) gene sequence was used. A total of
+1,235 species-level phylotypes (SLPs) were classified in the feces of 120 Chinese
+healthy individuals, including 461 previously classified species, 358 potentially
+new species, and 416 potentially new taxa, which were categorized into low,
+medium, and high prevalent bacteria groups based on their prevalence. Each
+individual harbored 186 ± 51 SLPs on average. There was no universal bacterial
+species shared by all the individuals. However, 90 ± 19 of 116 SLPs were shared
+in the high prevalent bacteria group. Thirty-two out of thirty-eight species in
+the high prevalent bacteria group detected in this study were also found in at
+least one previous study on human gut microbiota based on either
+culture-dependent or culture-independent approaches. Through compositional
+analysis, a hierarchical clustering of the prevalence and relative abundance of
+the 1,235 SLPs revealed two types of gut microbial communities, which were
+dominated by Prevotella copri and Bacteroides vulgatus, respectively. The type
+dominated by P. copri was more prevalent in northern China, while the B.
+vulgatus-dominant type was more prevalent in southern China. Therefore, P- and
+B-type gut microbial communities in China were proposed. It was found that 166
+out of 461 known bacterial species have been previously reported as potential
+pathogens, and the individuals sampled for this study harbored 20 of these
+potential pathogenic species on average. The top two most abundant and prevalent 
+potential pathogenic species were Klebsiella pneumoniae and Bacteroides fragilis.
+
+Copyright © 2020 Yang, Pu, Lu, Bai, Wu, Jin, Cheng, Zhang, Zhu, Luo,
+Rosselló-Móra and Xu.
+
+DOI: 10.3389/fmicb.2020.02029 
+PMCID: PMC7479098
+PMID: 32983030 
+

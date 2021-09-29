@@ -1,0 +1,57 @@
+
+1. J Glob Antimicrob Resist. 2020 Sep 30. pii: S2213-7165(20)30240-X. doi:
+10.1016/j.jgar.2020.09.009. [Epub ahead of print]
+
+Identification of the first erm(B)+Campylobacter jejuni and Campylobacter coli
+associated with novel multidrug resistance genomic islands in Australia.
+
+Wallace RL(1), Bulach D(2), Valcanis M(3), Polkinghorne BG(1), Pingault N(4),
+Stylianopoulos A(5), Givney RC(6), Glass K(1), Kirk MD(7).
+
+Author information: 
+(1)National Centre for Epidemiology and Population Health, The Australian
+National University, Canberra, Australian Capital Territory, Australia.
+(2)Melbourne Bioinformatics, The University of Melbourne, Melbourne, Victoria,
+Australia; Microbiological Diagnostic Unit Public Health Laboratory, The Peter
+Doherty Institute, Melbourne, Victoria, Australia.
+(3)Microbiological Diagnostic Unit Public Health Laboratory, The Peter Doherty
+Institute, Melbourne, Victoria, Australia.
+(4)OzFoodNet, Perth, Western Australia, Australia.
+(5)Department of Health and Human Services, Melbourne, Victoria, Australia.
+(6)NSW Health Pathology, Hunter, New South Wales, Australia.
+(7)National Centre for Epidemiology and Population Health, The Australian
+National University, Canberra, Australian Capital Territory, Australia.
+Electronic address: martyn.kirk@anu.edu.au.
+
+OBJECTIVES: This report describes the first identification of twoCampylobacter
+isolates harbouring erm(B) in Australia.
+METHODS: Twoerm(B)+ isolates, C. coli 18V1065H1 and C. jejuni 19W1001H1, were
+isolated from diarrheal fecal samples from two travellers who had recently
+returned from Southeast Asia. Isolates were whole genome sequenced using an
+Illumina NextSeq and analysed with the Nullarbor pipeline. Antimicrobial
+resistance genes were identified using NCBI's AMRFinderPlus and sequence types
+were determined using multilocus sequence typing and the PubMLST Campylobacter
+jejuni/coli typing scheme.
+RESULTS: In addition toerm(B), C. jejuni 19W1001H1 possessed six other resistance
+genes, aad9, aadE, aph(3')-Illa, blaOXA-185, CatA13 and tet(O), the T86I mutation
+(gyrA) and the RE-CmeABC multidrug efflux pump variant. C. coli 18V1065H1 also
+possessed six resistance genes, aad9, aadE, aph(3')-IIIa, blaOXA-61, sat4 and
+tet(O), in addition to erm(B). However, this isolate lacked genetic evidence for 
+resistance to fluoroquinolones (no gyrA mutation) and the erm(B) locus differed
+between isolates and neither was identical to previously identified erm(B)
+multidrug resistance genomic island (MDRGI) types. Both erm(B) bearing isolates
+belonged to novel sequence types ST9967 (C. jejuni 19W1001H1) and ST10161 (C.
+coli 18V1065H1).
+CONCLUSION: This study detected the presence oferm(B) in Campylobacter for the
+first time in Australia. This novel mechanism of macrolide resistance is a major 
+concern for both human and animal health and warrants close surveillance as
+macrolides are often the drug of choice for treating campylobacteriosis. The
+erm(B) gene is associated with several MDRGIs and dissemination of this
+resistance mechanism will likely limit treatment options for Campylobacter
+infections.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jgar.2020.09.009 
+PMID: 33010486 
+

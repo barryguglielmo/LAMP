@@ -1,0 +1,40 @@
+
+1. PLoS One. 2020 Feb 24;15(2):e0229359. doi: 10.1371/journal.pone.0229359.
+eCollection 2020.
+
+Response to vanadate exposure in Ochrobactrum tritici strains.
+
+Almeida MC(1), Branco R(1), Morais PV(1).
+
+Author information: 
+(1)CEMMPRE, Centre for Mechanical Engineering, Materials and Processes,
+Department of Life Sciences, University of Coimbra, Coimbra, Portugal.
+
+Vanadium is a transition metal that has been added recently to the EU list of Raw
+Critical Metals. The growing needs of vanadium primarily in the steel industry
+justify its increasing economic value. However, because mining of vanadium
+sources (i. e. ores, concentrates and vanadiferous slags) is expanding, so is
+vanadium environmental contamination. Bioleaching comes forth as smart strategy
+to deal with supply demand and environmental contamination. It requires organisms
+that are able to mobilize the metal and at the same time are resistant to the
+leachate generated. Here, we investigated the molecular mechanisms underlying
+vanadium resistance in Ochrobactrum tritici strains. The highly resistant strain 
+5bvl1 was able to grow at concentrations > 30 mM vanadate, while the O. tritici
+type strain only tolerated < 3 mM vanadate concentrations. Screening of O.
+tritici single mutants (chrA, chrC, chrF and recA) growth during vanadate
+exposure revealed that vanadate resistance was associated with chromate
+resistance mechanisms (in particular ChrA, an efflux pump and ChrC, a superoxide 
+dismutase). We also showed that sensitivity to vanadate was correlated with
+increased accumulation of vanadate intracellularly, while in resistant cells this
+was not found. Other up-regulated proteins found during vanadate exposure were
+ABC transporters for methionine and iron, suggesting that cellular responses to
+vanadate toxicity may also induce changes in unspecific transport and chelation
+of vanadate.
+
+DOI: 10.1371/journal.pone.0229359 
+PMCID: PMC7039435
+PMID: 32092126  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

@@ -1,0 +1,60 @@
+
+1. Gut. 2019 Dec;68(12):2186-2194. doi: 10.1136/gutjnl-2018-317458. Epub 2019 Mar
+14.
+
+Enrichment of oral microbiota in early cystic precursors to invasive pancreatic
+cancer.
+
+Gaiser RA(1), Halimi A(2), Alkharaan H(1), Lu L(1)(3), Davanian H(1), Healy K(1),
+Hugerth LW(4), Ateeb Z(2), Valente R(2), Fernández Moro C(5)(6), Del Chiaro
+M(2)(7), Sällberg Chen M(1)(3).
+
+Author information: 
+(1)Department of Dental Medicine, Karolinska Institutet, Huddinge, Sweden.
+(2)Pancreatic Surgery Unit, Division of Surgery, Department of Clinical Science, 
+Intervention and Technology (CLINTEC), Karolinska Universitetsjukhuset i
+Huddinge, Huddinge, Sweden.
+(3)Tenth People's Hospital, Tongji University, Shanghai, China.
+(4)Center for Translational Microbiome Research, CTMR, Department of
+Microbiology, Tumour and Cell Biology (MTC), Karolinska Institutet, Science for
+Life Laboratory, Huddinge, Sweden.
+(5)Division of Pathology, Department of Laboratory Medicine (LABMED), Karolinska 
+Institutet, Huddinge, Sweden.
+(6)Department of Clinical Pathology/Cytology, Karolinska University Hospital,
+Huddinge, Sweden.
+(7)Division of Surgical Oncology, Department of Surgery, University of Colorado
+at Denver-Anschutz Medical Campus, Aurora, Colorado, USA.
+
+OBJECTIVES: Intraductal papillary mucinous neoplasms (IPMNs) are pancreatic cysts
+that can progress to invasive pancreatic cancer. Associations between oncogenesis
+and oral microbiome alterations have been reported. This study aims to
+investigate a potential intracystic pancreatic microbiome in a pancreatic cystic 
+neoplasm (PCN) surgery patient cohort.
+DESIGN: Paired cyst fluid and plasma were collected at pancreatic surgery from
+patients with suspected PCN (n=105). Quantitative and qualitative assessment of
+bacterial DNA by qPCR, PacBio sequencing (n=35), and interleukin (IL)-1β
+quantification was performed. The data were correlated to diagnosis, lesion
+severity and clinical and laboratory profile, including proton-pump inhibitor
+(PPI) usage and history of invasive endoscopy procedures.
+RESULTS: Intracystic bacterial 16S DNA copy number and IL-1β protein quantity
+were significantly higher in IPMN with high-grade dysplasia and IPMN with cancer 
+compared with non-IPMN PCNs. Despite high interpersonal variation of intracystic 
+microbiota composition, bacterial network and linear discriminant analysis effect
+size analyses demonstrated co-occurrence and enrichment of oral bacterial taxa
+including Fusobacterium nucleatum and Granulicatella adiacens in cyst fluid from 
+IPMN with high-grade dysplasia. The elevated intracystic bacterial DNA is
+associated with, but not limited to, prior exposure to invasive endoscopic
+procedures, and is independent from use of PPI and antibiotics.
+CONCLUSIONS: Collectively, these findings warrant further investigation into the 
+role of oral bacteria in cystic precursors to pancreatic cancer and have added
+values on the aetiopathology as well as the management of pancreatic cysts.
+
+© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/gutjnl-2018-317458 
+PMCID: PMC6872446
+PMID: 30872392  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+

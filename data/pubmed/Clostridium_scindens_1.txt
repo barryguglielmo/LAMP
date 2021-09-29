@@ -1,0 +1,53 @@
+
+1. J Lipid Res. 2020 Jul 13. pii: jlr.RA120001021. doi: 10.1194/jlr.RA120001021.
+[Epub ahead of print]
+
+Biogeography of microbial bile acid transformations along the murine gut.
+
+Marion S(1), Desharnais L(2), Studer N(3), Dong Y(3), Notter MD(3), Poudel S(4), 
+Menin L(5), Janowczyk A(6), Hettich RL(7), Hapfelmeier S(3), Bernier-Latmani
+R(8).
+
+Author information: 
+(1)Environmental Engineering, EPFL, Lausanne, Switzerland.
+(2)EPFL, Lausanne, Switzerland.
+(3)Institute for Infectious Diseases, University of Bern, Bern, Switzerland.
+(4)Oak Ridge National Laboratory, United States.
+(5)Institute of Chemical Sciences and Engineering, EPFL, Switzerland.
+(6)Bioinformatics Core Facility, Swiss Institute of Bioinformatics, Lausanne,
+Switzerland.
+(7)Chemical Sciences Division, Oak Ridge National Laboratory, United States.
+(8)Environmental Sciences and Engineering, EPFL, Lausanne, Switzerland
+rizlan.bernier-latmani@epfl.ch.
+
+Bile acids, synthesized from cholesterol by the liver, are chemically transformed
+along the intestinal tract by the gut microbiota and the products of these
+transformations signal through host receptors, impacting overall host health.
+These transformations include bile acid deconjugation, oxidation, and
+7α-dehydroxylation. An understanding of the biogeography of bile acid
+transformations in the gut is critical because deconjugation is a prerequisite
+for 7α-dehydroxylation and because most gut microorganisms harbor bile acid
+transformation capacity. Here, we used a coupled metabolomic and metaproteomic
+approach to probe in vivo activity of the gut microbial community in a
+gnotobiotic mouse model. Results revealed the involvement of Clostridium scindens
+in 7α-dehydroxylation, of the genera Muribaculum and Bacteroides in
+deconjugation, and of six additional organisms in oxidation (the genera
+Clostridium, Muribaculum, Bacteroides, Bifidobacterium, Acutalibacter and
+Akkermansia). Furthermore, the bile acid profile in mice with a more complex
+microbiota, with a dysbiosed microbiota or with no microbiota was considered. For
+instance, conventional mice harbor a large diversity of bile acids, but treatment
+with an antibiotic such as clindamycin results in complete inhibition of
+7α-dehydroxylation, underscoring the strong inhibition of organisms able to carry
+out this process by this compound. Finally, comparison of the hepatic bile acid
+pool size as a function of microbiota revealed that a reduced microbiota affects 
+host signaling but not necessarily bile acid synthesis. In this study, bile acid 
+transformations were mapped to the associated active microorganisms, offering a
+systematic characterization of the relationship between microbiota and bile acid 
+composition.
+
+Published under license by The American Society for Biochemistry and Molecular
+Biology, Inc.
+
+DOI: 10.1194/jlr.RA120001021 
+PMID: 32661017 
+

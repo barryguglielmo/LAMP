@@ -1,0 +1,41 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jul;70(7):4098-4104. doi: 10.1099/ijsem.0.004180.
+
+Streptococcus downii sp. nov., isolated from the oral cavity of a teenager with
+Down syndrome.
+
+Martínez-Lamas L(1), Limeres-Posse J(2), Diz-Dios P(2), Álvarez-Fernández M(1).
+
+Author information: 
+(1)Clinical Microbiology, Hospital Álvaro Cunqueiro, Complejo Hospitalario
+Universitario de Vigo, Microbiology and Infectology Group, Galicia Sur Health
+Research Institute (IISGS), Vigo, Galicia, Spain.
+(2)Medical-Surgical Dentistry Research Group (OMEQUI), Health Research Institute 
+of Santiago de Compostela (IDIS), University of Santiago de Compostela (USC),
+Santiago de Compostela, Spain.
+
+A new α-haemolytic streptococcal strain has been isolated from the dental plaque 
+of a teenager with Down syndrome. Genetic and taxonomic analyses place this
+Streptococcus within the oralis group. It is a Gram-stain-positive, non-motile,
+non-spore-forming spherical alpha-haemolytic coccus arranged in chains, and it
+ferments a large number of monosaccharides and disaccharides, as well as
+polymeric carbohydrates. It differs biochemically from closely related species of
+Streptococcus due to its production of α-galactosidase, β-galactosidase and
+N-acetyl-β-d-glucosaminidase and by the absence of arginine dihydrolase deiminase
+and IgA1-protease. It grows in a temperature range of 25 to 40 °C (optimal growth
+temperature at 37 °C) and in a pH range of 4.5 to 8 (optimal pH at 7.0). A
+phylogenetic analysis based on its 16S and 23S rRNA gene sequences placed it
+close to Streptococcus dentisani CECT 7747T. The ANIb and ANIm values were 93.19 
+and 93.61 %, respectively, both below the accepted threshold to designate it as a
+new species of bacteria. A phylogenetic tree based on its core genome placed it
+close to Streptococcus oralis subsp. dentisani strain CECT 7747T with a distance 
+in the expanded core phylogeny of 0.1298. The in silico DNA-DNA hybridization
+value was 52.2 % with respect to the closest species, S. oralis subsp. dentisani 
+CECT 7747T. Based on these data, a new species of bacteria within the genus
+Streptococcus, family Streptococcaceae and order Lactobacillales is described,
+for which the name of Streptococcus downii sp. nov. is proposed (type strain CECT
+9732T=CCUG 73139T).
+
+DOI: 10.1099/ijsem.0.004180 
+PMID: 32539911  [Indexed for MEDLINE]
+

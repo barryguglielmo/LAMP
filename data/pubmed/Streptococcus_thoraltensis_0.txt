@@ -1,0 +1,52 @@
+
+1. BMC Microbiol. 2020 Jun 29;20(1):186. doi: 10.1186/s12866-020-01868-7.
+
+Detection of tetracycline and streptomycin in beef tissues using Charm II,
+isolation of relevant resistant bacteria and control their resistance by gamma
+radiation.
+
+Araby E(1), Nada HG(2), Abou El-Nour SA(1), Hammad A(1).
+
+Author information: 
+(1)Radiation Microbiology Department, National Centre for Radiation Research and 
+Technology (NCRRT), Egyptian Atomic Energy Authority (EAEA), 3 Ahmed El-Zomor
+St., P.O. Box 29, Nasr City, Cairo, Egypt.
+(2)Drug Radiation Research Department, National Centre for Radiation Research and
+Technology (NCRRT), Egyptian Atomic Energy Authority (EAEA), 3 Ahmed El-Zomor
+St., P.O. Box 29, Nasr City, Cairo, Egypt. hanadynada@hotmail.com.
+
+BACKGROUND: Misuse of antibiotics in veterinary medicine has the potential to
+generate residues in animal derived products, which could contributing to the
+development of an important health risk either through the exposure to antibiotic
+residues or the transfer of antibiotic resistance among foodborne pathogens as
+well. Tetracycline (TE) and eptomycin (ST) are commonly used as antibiotics in
+the Egyptian animal husbandry. The objective of this study, quick detection of TE
+and ST in fresh local beef tissue samples using radioimmunoassay Charm II
+technique, isolation and identification of relevant highly resistant bacterial
+strains. In addition to investigating the effect of gamma radiation on the
+susceptibility of such resistant strains to TE and ST.
+RESULTS: Tetracycline (TE) was detected in all collected samples, while ST was
+detected in 38.46% (5/13) and 87.5% (7/8) of meat and liver samples,
+respectively. Fifty-one bacterial isolates were isolated from the tested samples,
+among them, the highest resistant isolates to TE or ST were identified as
+Streptococcus thoraltensis, Proteus mirabilis (2 isolates) and E. coli (3
+isolates). Among them, the highest D10-values in phosphate buffer; 0.807 and
+0.480; kGy were recorded with S. thoraltensis and E. coli no.3, respectively.
+Such values increased to record 0.840 and 0.549 kGy, respectively after
+artificial inoculation into meat, indicating increased resistance to gamma
+radiation. Gamma radiation at dose 3 kGy increased the susceptibility of S.
+thoraltensis up to 50% to TE and ST, while the sensitivity of E. coli no.3
+reached up 56% to both antibiotics at the same dose.
+CONCLUSIONS: High prevalence of TE in all fresh collected tissue samples suggests
+an extensively use of TE as antimicrobial in conventional beef production as
+compared to ST in the Egyptian cows' husbandry. Moreover, irradiation of food
+from animal origin by gamma radiation could potentially provide protection
+against resistant strains. In spite of limited samples used in this study, our
+data could raise the concerns of public health professionals about a withdrawal
+period before animals slaughtering, and address the importance of gamma radiation
+to minimize the hazards of foodborne resistant bacteria.
+
+DOI: 10.1186/s12866-020-01868-7 
+PMCID: PMC7325294
+PMID: 32600267 
+

@@ -1,0 +1,52 @@
+
+1. J Nutr Biochem. 2020 Oct;84:108442. doi: 10.1016/j.jnutbio.2020.108442. Epub 2020
+Jun 2.
+
+Unveiling the presence of epigenetic mark by Lactobacillus supplementation in
+high-fat diet-induced metabolic disorder in Sprague-Dawley rats.
+
+Sharma N(1), Navik U(1), Tikoo K(2).
+
+Author information: 
+(1)Laboratory of Epigenetics and Diseases, Department of Pharmacology and
+Toxicology, National Institute of Pharmaceutical Education and Research, S.A.S.
+Nagar, Punjab-160062, India.
+(2)Laboratory of Epigenetics and Diseases, Department of Pharmacology and
+Toxicology, National Institute of Pharmaceutical Education and Research, S.A.S.
+Nagar, Punjab-160062, India. Electronic address: tikoo.k@gmail.com.
+
+Gut dysbiosis, particularly bacteria from Firmicutes and Bacteroidetes phyla,
+plays a fundamental role in the progression of metabolic disorders. Probiotics
+have shown to restore the gut microbiota composition in metabolic disorders with 
+subsequent beneficial effects. Recent studies have reported that several species 
+of Lactobacillus as probiotic supplementation improve insulin sensitivity and
+glucose metabolism. Nonetheless, whether Lactobacillus could influence the
+epigenetic modifications that underlie insulin-resistant conditions is still
+unexplored. Therefore, the current study examined the therapeutic effects and
+underlying epigenetic mechanisms of three different species of Lactobacillus in
+the high-fat diet (HFD)-induced insulin-resistant rats. Three different species
+of Lactobacillus; Lactobacillus casei, Lactobacillus gasseri, and Lactobacillus
+rhamnosus were individually supplemented orally (109 CFU/mL) to insulin-resistant
+SD rats for 12 weeks. Lactobacillus supplementation led to a significant
+reduction in the hyperglycemia, hyperinsulinemia, and hyperlipidemia associated
+with HFD-induced insulin resistance. Histopathological examination also indicated
+the protective effects of Lactobacillus supplementation against the hepatic and
+intestinal damage caused by the high-fat diet. Lactobacillus supplementation also
+down-regulated the expression of FOXO1, a major transcription factor of insulin
+signaling. In addition, at the epigenetic level, Lactobacillus supplementation
+predominantly prevented methylation and demethylation of H3K79me2 and H3K27me3,
+respectively. Chromatin Immunoprecipitation (ChIP) coupled with quantitative PCR 
+(ChIP-qPCR) assay revealed the presence of cross-talk between these two histone
+modifications at the promoter region of FOXO1. Taken together, this is the first 
+report to observe that the effects of Lactobacillus supplementation involve
+alteration in FOXO1 expression via cross-talking between H3K79me2 and H3K27me3
+histone modifications.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jnutbio.2020.108442 
+PMID: 32629239 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare no conflict of interest.
+

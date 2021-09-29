@@ -1,0 +1,54 @@
+
+1. Front Cell Infect Microbiol. 2020 Aug 4;10:433. doi: 10.3389/fcimb.2020.00433.
+eCollection 2020.
+
+The Microbiome Composition of a Man's Penis Predicts Incident Bacterial Vaginosis
+in His Female Sex Partner With High Accuracy.
+
+Mehta SD(1), Zhao D(1), Green SJ(2), Agingu W(3), Otieno F(3), Bhaumik R(1),
+Bhaumik D(1), Bailey RC(1).
+
+Author information: 
+(1)Division of Epidemiology and Biostatistics, School of Public Health,
+University of Illinois at Chicago, Chicago, IL, United States.
+(2)Sequencing Core, College of Medicine, University of Illinois at Chicago,
+Chicago, IL, United States.
+(3)Nyanza Reproductive Health Society, Kisumu, Kenya.
+
+Background: We determined the predictive accuracy of penile bacteria for incident
+BV in female sex partners. In this prospective cohort, we enrolled Kenyan men
+aged 18-35 and their female sex partners aged 16 and older. We assessed BV at
+baseline, 1, 6, and 12 months. Incident BV was defined as a Nugent score of 7-10 
+at a follow-up visit, following a Nugent score of 0-6 at baseline. Amplification 
+of the V3-V4 region of the bacterial 16S rRNA gene was performed on meatal and
+glans/coronal sulcus swab samples. Majority vote classifier combined the
+decisions of three machine learning classification algorithms (Random Forest,
+Support Vector Machine, K Nearest Neighbor). We report the estimate
+cross-validation predictive accuracy for incident BV based on baseline penile
+taxa. Results: The incidence of BV was 31% among 168 couples in which the woman
+did not have BV at baseline: 37.3% if the man was uncircumcised vs. 26.3% if the 
+man was circumcised. Incident BV occurred at 1 month (n = 23), 6 months (n = 20),
+12 months (n = 9). The predictive capacity of meatal taxa was high: sensitivity
+(80.7%), specificity (74.6%), accuracy (77.5%), area under the curve (88.8%).
+Variable importance ranking identified meatal taxa that in the vagina are
+associated with BV: Parvimonas, Lactobacillus iners, L. crispatus, Dialister,
+Sneathia sanguinegens, and Gardnerella vaginalis were among the top 10 most
+predictive taxa. The accuracy of glans/coronal sulcus taxa to predict incident BV
+was comparable to meatal taxa accuracy, but with greater variability.
+Conclusions: Baseline penile microbiota accurately predicted BV incidence in
+women who did not have BV at baseline, with more than half of incident infections
+observed at 6- to 12- months after penile microbiome assessment. These results
+suggest interventions to manipulate the penile microbiome may reduce BV incidence
+in sex partners, and that potential treatment (antibiotic or live biotherapeutic)
+will need to be effective in reducing or altering bacteria at both the
+glans/coronal sulcus and urethral sites (as represented by the meatus). The
+temporal association clarifies that concordance of penile microbiome with the
+vaginal microbiome of sex partners is not merely reflecting the vaginal
+microbiome, but can contribute to it.
+
+Copyright © 2020 Mehta, Zhao, Green, Agingu, Otieno, Bhaumik, Bhaumik and Bailey.
+
+DOI: 10.3389/fcimb.2020.00433 
+PMCID: PMC7438843
+PMID: 32903746 
+

@@ -1,0 +1,48 @@
+
+1. Biotechnol Prog. 2020 Jul;36(4):e2982. doi: 10.1002/btpr.2982. Epub 2020 Feb 28.
+
+Microbial β-Galactosidases of industrial importance: Computational studies on the
+effects of point mutations on the lactose hydrolysis reaction.
+
+de Andrade BC(1)(2), Timmers LFSM(2), Renard G(3), Volpato G(4), de Souza
+CFV(1)(2).
+
+Author information: 
+(1)Laboratório de Biotecnologia de Alimentos, Universidade do Vale do Taquari -
+Univates, Lajeado, Rio Grande do Sul, Brazil.
+(2)Programa de Pós-Graduação em Biotecnologia, Universidade do Vale do Taquari - 
+Univates, Lajeado, Rio Grande do Sul, Brazil.
+(3)Instituto Nacional de Ciência e Tecnologia em Tuberculose, Centro de Pesquisas
+em Biologia Molecular e Funcional, Pontifícia Universidade Católica do Rio Grande
+do Sul, Porto Alegre, Rio Grande do Sul, Brazil.
+(4)Curso de Biotecnologia, Instituto Federal de Educação, Ciência e Tecnologia do
+Rio Grande do Sul - IFRS, Campus Porto Alegre, Porto Alegre, Rio Grande do Sul,
+Brazil.
+
+Hydrolysis efficiency of β-galactosidases is affected due to a strong inhibition 
+by galactose, hampering the complete lactose hydrolysis. One alternative to
+reduce this inhibition is to perform mutations in the enzyme's active site. The
+aim of this study was to evaluate the effect of point mutations on the active
+site of different microbial β-galactosidases, using computational techniques. The
+enzymes of Aspergillus niger (AnβGal), Aspergillus oryzae (AoβGal), Bacillus
+circulans (BcβGal), Bifidobacterium bifidum (BbβGal), and Kluyveromyces lactis
+(KlβGal) were used. The mutations were carried out in all residues that were up
+to 4.5 Å from the galactose/lactose molecules and binding energy was computed.
+The mutants Tyr96Ala (AnβGal), Asn140Ala and Asn199Ala (AoβGal), Arg111Ala and
+Glu355Ala (BcβGal), Arg122Ala and Phe358Ala (BbβGal), Tyr523Ala, Phe620Ala, and
+Trp582Ala (KlβGal) had the best results, with higher effect on galactose binding 
+energy and lower effect on lactose affinity. To maximize enzyme reactions by
+reducing galactose affinity, double mutations were proposed for BcβGal, BbβGal,
+and KlβGal. The double mutations in BcβGal and BbβGal caused the highest
+reduction in galactose affinity, while no satisfactory results were observed to
+KlβGal. Using computational tools, mutants that reduced galactose affinity
+without significantly affecting lactose binding were proposed. The mutations
+proposed can be used to reduce the negative feedback process, improving the
+catalytic characteristics of β-galactosidases and rendering them promising for
+industrial applications.
+
+© 2020 American Institute of Chemical Engineers.
+
+DOI: 10.1002/btpr.2982 
+PMID: 32083812 
+

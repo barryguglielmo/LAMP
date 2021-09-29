@@ -1,0 +1,41 @@
+
+1. Electrochim Acta. 2020 Apr 1;338:135864. doi: 10.1016/j.electacta.2020.135864.
+
+Electrochemical cell lysis of gram-positive and gram-negative bacteria: DNA
+extraction from environmental water samples.
+
+Wang S(1), Zhu Y(1), Yang Y(1), Li J(1), Hoffmann MR(1).
+
+Author information: 
+(1)Linde+Robinson Laboratories, California Institute of Technology, Pasadena, CA 
+91125, USA.
+
+Cell lysis is an essential step for the nucleic acid-based surveillance of
+bacteriological water quality. Recently, electrochemical cell lysis (ECL), which 
+is based on the local generation of hydroxide at a cathode surface, has been
+reported to be a rapid and reagent-free method for cell lysis. Herein, we
+describe the development of a milliliter-output ECL device and its performance
+characterization with respect to the DNA extraction efficiency for gram-negative 
+bacteria (Escherichia coli and Salmonella Typhi) and gram-positive bacteria
+(Enterococcus durans and Bacillus subtilis). Both gram-negative and gram-positive
+bacteria were successfully lysed within a short but optimal duration of 1 min at 
+a low voltage of ∼5 V. The ECL method described herein, is demonstrated to be
+applicable to various environmental water sample types, including pond water,
+treated wastewater, and untreated wastewater with DNA extraction efficiencies
+similar to a commercial DNA extraction kit. The ECL system outperformed
+homogeneous chemical lysis in terms of reaction times and DNA extraction
+efficiencies, due in part to the high pH generated at the cathode surface, which 
+was predicted by simulations of the hydroxide transport in the cathodic chamber. 
+Our work indicates that the ECL method for DNA extraction is rapid, simplified
+and low-cost with no need for complex instrumentation. It has demonstrable
+potential as a prelude to PCR analyses of waterborne bacteria in the field,
+especially for the gram-negative ones.
+
+© 2020 The Authors.
+
+DOI: 10.1016/j.electacta.2020.135864 
+PMCID: PMC7063685
+PMID: 32255836 
+
+Conflict of interest statement: There are no conflicts of interest to declare.
+

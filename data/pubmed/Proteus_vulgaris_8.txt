@@ -1,0 +1,47 @@
+
+1. Int J Biol Macromol. 2020 Aug 10. pii: S0141-8130(20)33924-6. doi:
+10.1016/j.ijbiomac.2020.07.165. [Epub ahead of print]
+
+Bioinformatics and experimental studies on the structural roles of a
+surface-exposed α-helix at the C-terminal domain of Chondroitinase ABC I.
+
+Jamshidi N(1), Shirdel SA(2), Pourahmadi M(1), Jafarian V(3), Khalifeh K(4).
+
+Author information: 
+(1)Department of Biology, Faculty of Sciences, University of Zanjan, Zanjan,
+Iran.
+(2)Department of Biochemistry, Faculty of Biological Sciences, Tarbiat Modares
+University, Tehran, Iran.
+(3)Department of Biology, Faculty of Sciences, University of Zanjan, Zanjan,
+Iran; Department of Biotechnology, Faculty of Sciences, University of Zanjan,
+Zanjan, Iran.
+(4)Department of Biology, Faculty of Sciences, University of Zanjan, Zanjan,
+Iran; Department of Biotechnology, Faculty of Sciences, University of Zanjan,
+Zanjan, Iran. Electronic address: khalifeh@znu.ac.ir.
+
+A series of single and double mutants generated on residues of a surfaced-exposed
+helix at the C-terminal domain of chondroitinase ABC I (cABC I) from proteus
+vulgaris. M886A, G887E, and their respective double mutant, MA/GE were inspired
+by the sequence of a similar helix segment in 30S ribosomal protein S1.
+Additionally, M889I, Q891K, and the corresponding double mutant, MI/QK, were made
+regarding the sequence of a similar helix in chondroitin lyase from Proteus
+mirabilis. Circular dichroism spectra in the far-UV region, demonstrate that the 
+ordered structure of wild-type (WT), and double mutants are the same; however,
+the helicity of the ordered structures in MI/QK is higher than that of the WT
+enzyme. When compared with the single mutants, the double mutants showed higher
+activity, and that the activity of MI/QK is higher than that of the WT enzyme.
+Heat-induced denaturation experiments showed that the stability of the tertiary
+structure of double mutants at moderate temperatures is higher compared with the 
+WT, and single mutants. It concluded that this helix can be considered as one of 
+the hot spots region that can be more manipulated to obtain improved variants of 
+cABC I.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.ijbiomac.2020.07.165 
+PMID: 32791283 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that influence data of the current work.
+

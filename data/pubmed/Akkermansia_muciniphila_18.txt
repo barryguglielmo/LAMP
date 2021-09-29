@@ -1,0 +1,60 @@
+
+1. Neurosci Insights. 2020 Jul 27;15:2633105520942480. doi:
+10.1177/2633105520942480. eCollection 2020.
+
+Host Akkermansia muciniphila Abundance Correlates With Gulf War Illness Symptom
+Persistence via NLRP3-Mediated Neuroinflammation and Decreased Brain-Derived
+Neurotrophic Factor.
+
+Kimono D(1), Bose D(1), Seth RK(1), Mondal A(1), Saha P(1), Janulewicz P(2),
+Sullivan K(2), Lasley S(3), Horner R(4), Klimas N(5), Chatterjee S(1).
+
+Author information: 
+(1)Environmental Health and Disease Laboratory, NIEHS Center for Oceans and Human
+Health on Climate Change Interactions, Department of Environmental Health
+Sciences, University of South Carolina, Columbia, SC, USA.
+(2)Department of Environmental Health, Boston University School of Public Health,
+Boston, MA, USA.
+(3)Department of Cancer Biology and Pharmacology, University of Illinois College 
+of Medicine, Peoria, IL, USA.
+(4)Department of Health Services Policy and Management, University of South
+Carolina, Columbia, SC, USA.
+(5)Department of Clinical Immunology, College of Osteopathic Medicine, Nova
+Southeastern University, Fort Lauderdale, FL, USA.
+
+Neurological disorders are commonly reported among veterans who returned from the
+Gulf war. Veterans who suffer from Gulf War illness (GWI) complain of continued
+symptom persistence that includes neurological disorders, muscle weakness,
+headaches, and memory loss, that developed during or shortly after the war. Our
+recent research showed that chemical exposure associated microbial dysbiosis
+accompanied by a leaky gut connected the pathologies in the intestine, liver, and
+brain. However, the mechanisms that caused the symptoms to persist even 30 years 
+after the war remained elusive to investigators. In this study, we used a rodent 
+model of GWI to investigate the persistence of microbiome alterations, resultant 
+chronic inflammation, and its effect on neurotrophic and synaptic plasticity
+marker BDNF. The results showed that exposure to GW chemicals (the pesticide
+permethrin and prophylactic drug pyridostigmine bromide) resulted in persistent
+pathology characterized by the low relative abundance of the probiotic bacteria
+Akkermansia muciniphila in the gut, which correlated with high circulatory HMGB1 
+levels, blood-brain barrier dysfunction, neuroinflammation and lowered
+neurotrophin BDNF levels. Mechanistically, we used mice lacking the NLRP3 gene to
+investigate this inflammasome's role in observed pathology. These mice had
+significantly decreased inflammation and a subsequent increase in BDNF in the
+frontal cortex. This suggests that a persistently low species abundance of
+Akkermansia muciniphila and associated chronic inflammation due to inflammasome
+activation might be playing a significant role in contributing to chronic
+neurological problems in GWI. A therapeutic approach with various small molecules
+that can target both the restoration of a healthy microbiome and decreasing
+inflammasome activation might have better outcomes in treating GWI symptom
+persistence.
+
+© The Author(s) 2020.
+
+DOI: 10.1177/2633105520942480 
+PMCID: PMC7440889
+PMID: 32832901 
+
+Conflict of interest statement: Declaration of Conflicting Interests:The
+author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.
+

@@ -1,0 +1,41 @@
+
+1. Biosens Bioelectron. 2020 Oct 1;165:112323. doi: 10.1016/j.bios.2020.112323. Epub
+2020 Jun 11.
+
+Exploring Providencia rettgeri for application to eco-friendly paper based
+microbial fuel cell.
+
+Nara S(1), Kandpal R(1), Jaiswal V(1), Augustine S(1), Wahie S(1), Sharma JG(1), 
+Takeuchi R(2), Takenaka S(2), Malhotra BD(3).
+
+Author information: 
+(1)Nanobioelectronics Laboratory, Department of Biotechnology, Delhi
+Technological University, Shahbad Daulatpur, Delhi, India.
+(2)Research Center for Biomicrosensing Technology (RCBT), Kyushu Institute of
+Technology, Fukuoka, 804-8550, Japan.
+(3)Nanobioelectronics Laboratory, Department of Biotechnology, Delhi
+Technological University, Shahbad Daulatpur, Delhi, India. Electronic address:
+bansi.malhotra@dce.ac.in.
+
+We report results of the studies relating to improved stability (40 days) of
+small sized microbial fuel cell (MFC) fabricated using agarose embedded
+paper-based proton exchange membrane. A fermentative bacterium Providencia
+rettgeri was isolated from rotten potato slurry and identified by 16S rRNA
+sequencing. The electroactivity of the bacteria was monitored via
+chronoamperometric and cyclic voltammetric studies using a three-electrode system
+which indicated the presence of bacterial redox mediator. The Matrix-Assisted
+Laser Desorption/Ionization-Time of Flight (MALDI-TOF) and UV-Vis absorption
+spectroscopy provided the evidence that Providencia rettgeri synthesized folate
+(vitamin B9) during fermentation that was found to act for the first time as a
+redox mediator in an MFC. The paper based designed MFC fed with Providencia
+rettgeri yielded open circuit voltage of 787.9 mV with power and current density 
+of 5.02 W/m3 and 11.26 A/m3, respectively when measured across 10 kΩ. The
+microbial re-chargeable battery comprising of an assembly of parallelly aligned
+four units of MFCs when connected in series (total 16 MFCs), generated 1.5 V that
+was used for powering a red-light emitting device (LED).
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bios.2020.112323 
+PMID: 32729473 
+

@@ -1,0 +1,42 @@
+
+1. Int J Syst Evol Microbiol. 2020 Aug;70(8):4637-4645. doi: 10.1099/ijsem.0.004324.
+
+Staphylococcus ursi sp. nov., a new member of the 'Staphylococcus intermedius
+group' isolated from healthy black bears.
+
+Perreten V(1), Kania SA(2), Bemis D(2).
+
+Author information: 
+(1)Institute of Veterinary Bacteriology, University of Bern, CH-3001 Bern,
+Switzerland.
+(2)Department of Biomedical and Diagnostic Sciences, University of Tennessee
+College of Veterinary Medicine, Knoxville, Tennessee, USA.
+
+Six Staphylococcus strains were isolated from healthy black bears (Ursus
+americanus) in the Great Smoky Mountains National Park, Tennessee, USA.
+Phylogenetic analysis based on complete genome, 16S rRNA, dnaJ, hsp60, rpoB and
+sodA genes, and MALDI-TOF-MS main spectral profiles revealed that the strains
+belonged to one species and showed the closest relatedness to members of the
+'Staphylococcus intermedius group' (SIG), which include Staphylococcus
+intermedius, Staphylococcus pseudintermedius, Staphylococcus delphini and
+Staphyloccoccus cornubiensis. The strains were positive in SIG-specific and
+negative in individual species-specific PCR assays for the nuc gene. The strains 
+can be differentiated from the other SIG species by the absence of sucrose
+fermentation, from S. intermedius DSM 20373T, S. pseudintermedius CCUG 49543T and
+S. cornubiensis DSM 105366T by the absence of methyl β-d-glucopyranoside
+fermentation and from S. delphini DSM 20771T by fermentation of trehalose. DNA
+relatedness of the type strain MI 10-1553T with the type strains of S. delphini, 
+S. pseudintermedius, S. intermedius and S. cornubiensis was ≤48.2 % by digital
+DNA-DNA hybridization and ≤92.3 % by average nucleotide identity calculations.
+Iso-C15:0, anteiso-C15 : 0 and anteiso-C17 : 0 were the most common fatty acids. 
+Polar lipids consisted of phosphadidylglycerols, phospholipids, glycolipid,
+diphosphatidylglycerol and aminophospholipid. Cell-wall peptidoglycan was of type
+A3α l-Lys-Gly3 (Ser; similar to A11.2 and A11.3). The respiratory quinone
+belonged to menaquinone 7 (MK-7). The G+C content of MI 10-1553T was 39.3 mol%.
+The isolated strains represent a novel species of the genus Staphylococcus, for
+which we propose the name Staphylococcus ursi sp. nov. The type strain is MI
+10-1553T (=ATCC TSD-55T=CCOS 1900T).
+
+DOI: 10.1099/ijsem.0.004324 
+PMID: 32672529  [Indexed for MEDLINE]
+

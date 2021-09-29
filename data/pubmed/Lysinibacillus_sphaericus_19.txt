@@ -1,0 +1,51 @@
+
+1. J Environ Health Sci Eng. 2019 Nov 23;17(2):1001-1016. doi:
+10.1007/s40201-019-00415-5. eCollection 2019 Dec.
+
+Removal of Cr(VI) by magnetic iron oxide nanoparticles synthesized from
+extracellular polymeric substances of chromium resistant acid-tolerant bacterium 
+Lysinibacillus sphaericus RTA-01.
+
+Kumar H(1), Sinha SK(2), Goud VV(3), Das S(1).
+
+Author information: 
+(1)1Laboratory of Environmental Microbiology and Ecology (LEnME), Department of
+Life Science, National Institute of Technology, Rourkela, Odisha 769008 India.
+(2)2Northeastern Regional Centre, The Energy and Resources Institute, Guwahati,
+Assam 781036 India.
+(3)3Department of Chemical Engineering, Indian Institute of Technology, Guwahati,
+Assam 781039 India.
+
+Background: Extracellular polymeric substances (EPS) from Cr(VI) resistant
+acid-tolerant biofilm forming bacterium (CrRAtBb) Lysinibacillus sphaericus
+RTA-01 was used for synthesis of magnetic iron oxide nanoparticles (MIONPs) in
+removal of Cr(VI).
+Methods: MIONPs synthesized in EPS matrix were characterized by UV-Vis, DLS,
+ATR-FTIR, XRD, FESEM, HRTEM and VSM. Primarily, the synthesis of MIONPs was
+established by the formation of black-colored precipitate through surface plasmon
+resonance (SPR) peak in between 330 and 450 nm.
+Results: The size of the spherical MIONPs with diameter range 13.75-106 nm was
+confirmed by DLS, XRD and FESEM analysis. HRTEM study confirmed the size of the
+MIONPs in the range of 10-65 nm. Moreover, the EDX and SAED confirmed the purity 
+and polycrystalline nature of MIONPs. The ATR-FTIR peaks below 1000 cm-1
+designated the synthesis of MIONPs. Also, the magnetic property of MIONPs was
+confirmed for separation from the aqueous solution. MIONPs were further checked
+for the adsorption of Cr(VI) with initial concentration range of 50-200 mg L-1.
+An adsorption isotherm and thermodynamic study were also carried out and the
+experimental data was best fitted in Langmuir isotherm model with maximum
+adsorption percent of 1052.63 mg g-1 of Cr(VI). Post interaction with Cr(VI), the
+surface characteristic of MIONPs in EPS matrix was evaluated by zeta potential,
+EDX, ATR-FTIR and XRD.
+Conclusion: This study ascertained the adsorption of Cr(VI) over EPS stabilized
+MIONPs whereas the zeta potential and XRD analysis confirmed the presence of
+reduced Cr(IV) on the adsorbent surface.
+
+© Springer Nature Switzerland AG 2019.
+
+DOI: 10.1007/s40201-019-00415-5 
+PMCID: PMC6985332 [Available on 2020-11-23]
+PMID: 32030170 
+
+Conflict of interest statement: Conflict of interestAuthors declare no conflict
+of interest.
+

@@ -1,0 +1,44 @@
+
+1. Environ Sci Pollut Res Int. 2020 Mar;27(9):9167-9180. doi:
+10.1007/s11356-019-07296-z. Epub 2020 Jan 8.
+
+Rapid immobilization of viable Bacillus pseudomycoides in polyvinyl
+alcohol/glutaraldehyde hydrogel for biological treatment of municipal wastewater.
+
+Mehrotra T(1), Zaman MN(1), Prasad BB(2), Shukla A(3), Aggarwal S(4), Singh R(5).
+
+Author information: 
+(1)Amity Institute of Biotechnology, Amity University Uttar Pradesh, Noida, Uttar
+Pradesh, 201313, India.
+(2)Department of Chemistry, Faculty of Science, Banaras Hindu University,
+Varanasi, Uttar Pradesh, 221005, India.
+(3)Central Road Research Institute (CSIR-CRRI), New Delhi, 110025, India.
+(4)Department of Civil and Environmental Engineering, University of Alaska
+Fairbanks, Fairbanks, AK, 99775, USA. saggarwal@alaska.edu.
+(5)Amity Institute of Biotechnology, Amity University Uttar Pradesh, Noida, Uttar
+Pradesh, 201313, India. rsingh2@amity.edu.
+
+A new approach for easy synthesis of Bacillus pseudomycoides immobilized
+polyvinyl alcohol (PVA)/glutaraldehyde (GA) hydrogel for application in a
+wastewater treatment system is reported. Optimization studies revealed that
+GA/PVA mass ratio of 0.03 and acidic pH of 2 were required for hydrogel synthesis
+and eventually for bacterial cell immobilization. The synthesized crosslinked
+matrix possessed a pore size suitable for microbial cell entrapment while
+maintaining cell accessibility to external environment for bioremediation.
+Possible crosslinking and bacterial cell immobilization in the hydrogel were
+evidenced by FTIR, XRD, and SEM studies, respectively. Further, the extent of
+crosslinking of GA with PVA was investigated and confirmed by transmittance and
+permeability experiments. The viability and proliferation of hydrogel embedded
+cells (after 25 days) was confirmed by confocal fluorescence microscopy which
+also indicated that acidic pH of polymer solution did not affect the immobilized 
+live cells. B. pseudomycoides immobilized hydrogel were demonstrated to be
+effective for treatment of municipal wastewater and reduced biochemical oxygen
+demand (BOD), chemical oxygen demand (COD), and protein content below the
+recommended levels. Overall, the results from this bench-scale work show that
+employing bacteria-embedded PVA/GA hydrogel for the treatment of municipal
+wastewater yield promising results which should be further explored in
+pilot/field-scale studies.
+
+DOI: 10.1007/s11356-019-07296-z 
+PMID: 31916147  [Indexed for MEDLINE]
+

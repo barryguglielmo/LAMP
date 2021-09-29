@@ -1,0 +1,57 @@
+
+1. Fish Shellfish Immunol. 2020 Sep 21. pii: S1050-4648(20)30654-9. doi:
+10.1016/j.fsi.2020.09.031. [Epub ahead of print]
+
+S6K1/S6 axis-regulated lymphocyte activation is important for adaptive immune
+response of Nile tilapia.
+
+Li K(1), Shen X(1), Qiu H(1), Zhao T(1), Ai K(1), Li C(1), Zhang Y(1), Li K(1),
+Duan M(2), Wei X(3), Yang J(4).
+
+Author information: 
+(1)State Key Laboratory of Estuarine and Coastal Research, School of Life
+Sciences, East China Normal University, Shanghai, 200241, China.
+(2)State Key Laboratory of Freshwater Ecology and Biotechnology, Institute of
+Hydrobiology, Chinese Academy of Sciences, Wuhan, 430072, Hubei, China.
+Electronic address: duanming@ihb.ac.cn.
+(3)State Key Laboratory of Estuarine and Coastal Research, School of Life
+Sciences, East China Normal University, Shanghai, 200241, China. Electronic
+address: xmwei@bio.ecnu.edu.cn.
+(4)State Key Laboratory of Estuarine and Coastal Research, School of Life
+Sciences, East China Normal University, Shanghai, 200241, China; Laboratory for
+Marine Biology and Biotechnology, Qingdao National Laboratory for Marine Science 
+and Technology, Qingdao, 266237, China.
+
+Ribosomal protein S6 kinase beta-1 (S6K1) is a serine/threonine kinase downstream
+of the mechanistic target of rapamycin (mTOR) pathway, and plays crucial roles in
+immune regulation. Although remarkable progress has been achieved with a mouse
+model, how S6K1 regulates adaptive immunity is largely unknown in early
+vertebrates. In this study, we identified an S6K1 from Nile tilapia Oreochromis
+niloticus (OnS6K1), and further investigated its potential regulatory role on the
+adaptive immunity of this fish species. Both sequence and structure of OnS6K1
+were highly conserved with its homologs from other vertebrates and invertebrates.
+OnS6K1 was widely expressed in immune tissues, and with a relative higher
+expression level in the liver, spleen and head kidney. At the adaptive immune
+stage of Nile tilapia that infected with Aeromonas hydrophila, mRNA expression of
+OnS6K1 and its downstream effector S6 was significantly up-regulated in spleen
+lymphocytes. Meanwhile, their phosphorylation level was also enhanced during this
+process, suggesting that S6K1/S6 axis participated in the primary response of
+anti-bacterial adaptive immunity in Nile tilapia. Furthermore, after spleen
+lymphocytes were activated by the T cell-specific mitogen PHA or lymphocytes
+agonist PMA in vitro, mRNA and phosphorylation levels of S6K1 were elevated, and 
+phosphorylation of S6 was also enhanced. Once S6K1 activity was blocked by a
+specific inhibitor, both mRNA and phosphorylation levels of S6 were severely
+impaired. More importantly, blockade of S6K1/S6 axis reduced the expression of T 
+cell activation marker IFN-γ and CD122 in PHA-activated spleen lymphocytes,
+indicating the essential role of S6K1/S6 axis in regulating T cell activation of 
+Nile tilapia. Together, our study suggests that S6K1 and its effector S6 regulate
+lymphocyte activation of Nile tilapia, and in turn promote lymphocyte-mediated
+adaptive immunity. This study enriched the mechanism of adaptive immune response 
+in teleost and provided useful clues to understand the evolution of adaptive
+immune system.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.fsi.2020.09.031 
+PMID: 32971270 
+

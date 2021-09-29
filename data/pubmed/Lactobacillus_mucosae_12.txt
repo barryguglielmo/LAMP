@@ -1,0 +1,45 @@
+
+1. Genes (Basel). 2020 Jan 14;11(1). pii: E95. doi: 10.3390/genes11010095.
+
+Comparative Genomics Analysis of Lactobacillus mucosae from Different Niches.
+
+Jia Y(1)(2), Yang B(1)(2)(3), Ross P(3)(4), Stanton C(3)(5), Zhang H(1)(2)(6)(7),
+Zhao J(1)(2)(6), Chen W(1)(2)(6)(8).
+
+Author information: 
+(1)State Key Laboratory of Food Science and Technology, Jiangnan University, Wuxi
+214122, China.
+(2)School of Food Science and Technology, Jiangnan University, Wuxi 214122,
+China.
+(3)International Joint Research Center for Probiotics & Gut Health, Jiangnan
+University, Wuxi 214122, China.
+(4)APC Microbiome Ireland, University College Cork, T12 K8AF Cork, Ireland.
+(5)Teagasc Food Research Centre, Moorepark, Fermoy, P61 C996 Cork, Ireland.
+(6)National Engineering Research Center for Functional Food, Jiangnan University,
+Wuxi 214122, China.
+(7)Wuxi Translational Medicine Research Center and Jiangsu Translational Medicine
+Research Institute Wuxi Branch, Wuxi 214122, China.
+(8)Beijing Innovation Center of Food Nutrition and Human Health, Beijing
+Technology and Business University (BTBU), Beijing 102488, China.
+
+The potential probiotic benefits of Lactobacillus mucosae have received
+increasing attention. To investigate the genetic diversity of L. mucosae,
+comparative genomic analyses of 93 strains isolated from different niches (human 
+and animal gut, human vagina, etc.) and eight strains of published genomes were
+conducted. The results showed that the core genome of L. mucosae mainly encoded
+translation and transcription, amino acid biosynthesis, sugar metabolism, and
+defense function while the pan-genomic curve tended to be close. The genetic
+diversity of L. mucosae mainly reflected in carbohydrate metabolism and
+immune/competitive-related factors, such as exopolysaccharide (EPS), enterolysin 
+A, and clustered regularly interspaced short palindromic repeats (CRISPR)-Cas. It
+was worth noting that this research firstly predicted the complete EPS operon
+shared among L. mucosae. Additionally, the type IIIA CRISPR-Cas system was
+discovered in L. mucosae for the first time. This work provided new ideas for the
+study of this species.
+
+DOI: 10.3390/genes11010095 
+PMCID: PMC7016874
+PMID: 31947593  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

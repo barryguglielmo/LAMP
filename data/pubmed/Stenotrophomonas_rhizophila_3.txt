@@ -1,0 +1,41 @@
+
+1. Int J Mol Sci. 2020 Jul 12;21(14). pii: E4922. doi: 10.3390/ijms21144922.
+
+Comparative Genomics of Stenotrophomonas maltophilia and Stenotrophomonas
+rhizophila Revealed Characteristic Features of Both Species.
+
+Pinski A(1), Zur J(1), Hasterok R(1), Hupert-Kocurek K(1).
+
+Author information: 
+(1)Institute of Biology, Biotechnology and Environmental Protection, Faculty of
+Natural Sciences, University of Silesia in Katowice, 28 Jagiellonska Street,
+40-032 Katowice, Poland.
+
+Although Stenotrophomonas maltophilia strains are efficient biocontrol agents,
+their field applications have raised concerns due to their possible threat to
+human health. The non-pathogenic Stenotrophomonas rhizophila species, which is
+closely related to S. maltophilia, has been proposed as an alternative. However, 
+knowledge regarding the genetics of S. rhizophila is limited. Thus, the aim of
+the study was to define any genetic differences between the species and to
+characterise their ability to promote the growth of plant hosts as well as to
+enhance phytoremediation efficiency. We compared 37 strains that belong to both
+species using the tools of comparative genomics and identified 96 genetic
+features that are unique to S. maltophilia (e.g., chitin-binding protein,
+mechanosensitive channels of small conductance and KGG repeat-containing
+stress-induced protein) and 59 that are unique to S. rhizophila (e.g.,
+glucosylglycerol-phosphate synthase, cold shock protein with the DUF1294 domain, 
+and pteridine-dependent dioxygenase-like protein). The strains from both species 
+have a high potential for biocontrol, which is mainly related to the production
+of keratinases (KerSMD and KerSMF), proteinases and chitinases. Plant growth
+promotion traits are attributed to the biosynthesis of siderophores, spermidine, 
+osmoprotectants such as trehalose and glucosylglycerol, which is unique to S.
+rhizophila. In eight out of 37 analysed strains, the genes that are required to
+degrade protocatechuate were present. While our results show genetic differences 
+between the two species, they had a similar growth promotion potential.
+Considering the information above, S. rhizophila constitutes a promising
+alternative for S. maltophilia for use in agricultural biotechnology.
+
+DOI: 10.3390/ijms21144922 
+PMCID: PMC7404187
+PMID: 32664682 
+

@@ -1,0 +1,66 @@
+
+1. J Allergy Clin Immunol Pract. 2020 Oct 1. pii: S2213-2198(20)31002-3. doi:
+10.1016/j.jaip.2020.09.024. [Epub ahead of print]
+
+Timeliness of DTaP-IPV-Hib vaccination and development of atopic dermatitis
+between 4 months and 1 year of age - Register-based cohort study.
+
+Gehrt L(1), Rieckmann A(2), Kiraly N(3), Georg Jensen AK(4), Aaby P(5), Benn
+CS(6), Sørup S(7).
+
+Author information: 
+(1)Research Center for Vitamins and Vaccines (CVIVA), Statens Serum Institut,
+Artillerivej 5, DK-2300 Copenhagen S, Denmark; OPEN, Open Patient data
+Explorative Network, Odense University Hospital/Department of Clinical Research, 
+University of Southern Denmark, J.B. Winsløws Vej 9 A, 3. Sal, DK-2300 Odense C, 
+Denmark. Electronic address: ligh@ssi.dk.
+(2)Research Center for Vitamins and Vaccines (CVIVA), Statens Serum Institut,
+Artillerivej 5, DK-2300 Copenhagen S, Denmark; Section of Epidemiology,
+Department of Public Health, University of Copenhagen, Copenhagen, Denmark.
+(3)Gastro and Food Allergy, Murdoch Children's Research Institute, Royal
+Children's Hospital, 50 Flemington Rd Parkville, Victoria 3052 Australia.
+(4)Research Center for Vitamins and Vaccines (CVIVA), Statens Serum Institut,
+Artillerivej 5, DK-2300 Copenhagen S, Denmark; Section of Biostatistics,
+University of Copenhagen, Øster Farimagsgade 5, DK-1014 Copenhagen K, Denmark.
+(5)Research Center for Vitamins and Vaccines (CVIVA), Statens Serum Institut,
+Artillerivej 5, DK-2300 Copenhagen S, Denmark; Bandim Health Project, Indepth
+Network, Apartado 861, 1004 Bissau Codex, Guinea-Bissau.
+(6)Research Center for Vitamins and Vaccines (CVIVA), Statens Serum Institut,
+Artillerivej 5, DK-2300 Copenhagen S, Denmark; OPEN, Open Patient data
+Explorative Network, Odense University Hospital/Department of Clinical Research, 
+University of Southern Denmark, J.B. Winsløws Vej 9 A, 3. Sal, DK-2300 Odense C, 
+Denmark; Danish Institute for Advanced Study, University of Southern Denmark.
+(7)Research Center for Vitamins and Vaccines (CVIVA), Statens Serum Institut,
+Artillerivej 5, DK-2300 Copenhagen S, Denmark; Department of Clinical
+Epidemiology, Aarhus University, Olof Palmes Allé 43-45, DK-8200 Aarhus N,
+Denmark.
+
+BACKGROUND: An Australian study including 4433 children found that delayed
+Diphtheria-Tetanus-acellular Pertussis containing vaccination was associated with
+reduced risk of developing atopic dermatitis (AD) before 1 year of age. OBJECTI: 
+ve We assessed if delayed vaccination against diphtheria, tetanus, acellular
+pertussis, polio, and Haemophilus Influenzae type b (DTaP) was associated with a 
+reduced risk of new cases of AD before 1 year of age in Denmark.
+METHOD: s We used nationwide registers to follow 883,160 children born in Denmark
+from 1997 to 2012. Binary regression models adjusting for potential confounding
+factors were applied to estimate relative risks (aRR) of developing AD among
+children with delayed DTaP vaccination (defined as given 1 month or more after
+the recommended age) compared with timely vaccinated children.
+RESULTS: Among 143,429 children with a delayed first dose of DTaP, 4847 (3.4%)
+developed AD between 4 months and 1 year of age, compared with 27,628 (3.7%)
+among 739,731 children not having delayed DTaP (aRR 0.94 (95% confidence interval
+(CI): 0.91-0.97)). The aRR was 0.94 (95% CI: 0.90-0.99) for children with a
+delayed second dose, and aRR=0.88 (95% CI: 0.2-0.93) comparing children with
+delayed first and second dose with all timely vaccinated children.
+CONCLUSION: The results support the hypothesis that delayed vaccination with DTaP
+is associated with reduced risk of developing new cases of AD after 4 months of
+age. The dose-dependent relationship strengthens the evidence of a causal
+relationship. Some countries are introducing maternal pertussis vaccination and
+delaying the first dose of DTaP, providing a possibility for further testing the 
+hypothesis.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.jaip.2020.09.024 
+PMID: 33011301 
+

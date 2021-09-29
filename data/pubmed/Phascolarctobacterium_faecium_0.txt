@@ -1,0 +1,47 @@
+
+1. Microbiologyopen. 2020 Aug 28:e1111. doi: 10.1002/mbo3.1111. [Epub ahead of
+print]
+
+Microbial interaction between the succinate-utilizing bacterium
+Phascolarctobacterium faecium and the gut commensal Bacteroides thetaiotaomicron.
+
+Ikeyama N(1), Murakami T(2), Toyoda A(2), Mori H(2), Iino T(1), Ohkuma M(1),
+Sakamoto M(1)(3).
+
+Author information: 
+(1)Microbe Division/Japan Collection of Microorganisms, RIKEN BioResource
+Research Center, Tsukuba, Ibaraki, Japan.
+(2)Advanced Genomics Center, National Institute of Genetics, Mishima, Shizuoka,
+Japan.
+(3)PRIME, Japan Agency for Medical Research and Development (AMED), Tsukuba,
+Ibaraki, Japan.
+
+A large variety of microbes are present in the human gut, some of which are
+considered to interact with each other. Most of these interactions involve
+bacterial metabolites. Phascolarctobacterium faecium hardly uses carbohydrates
+for growth and instead uses succinate as a substrate. This study investigated the
+growth behavior of the co-culture of the succinate-specific utilizer P. faecium
+and the succinogenic gut commensal Bacteroides thetaiotaomicron. Succinate
+production by B. thetaiotaomicron supported the growth of P. faecium and
+concomitant propionate production via the succinate pathway. The succinate
+produced was completely converted to propionate. This result was comparable with 
+the monoculture of P. faecium in the medium supplemented with 1% (w/v) succinate.
+We analyzed the transcriptional response (RNA-Seq) between the mono- and
+co-culture of P. faecium and B. thetaiotaomicron. Comparison of the expression
+levels of genes of P. faecium between the mono- and co-cultured conditions
+highlighted that the genes putatively involved in the transportation of succinate
+were notably expressed under the co-cultured conditions. Differential expression 
+analysis showed that the presence of P. faecium induced changes in the B.
+thetaiotaomicron transcriptional pattern, for example, expression changes in the 
+genes for vitamin B12 transporters and reduced expression of glutamate-dependent 
+acid resistance system-related genes. Also, transcriptome analysis of P. faecium 
+suggested that glutamate and succinate might be used as sources of succinyl-CoA, 
+an intermediate in the succinate pathway. This study revealed some survival
+strategies of asaccharolytic bacteria, such as Phascolarctobacterium spp., in the
+human gut.
+
+© 2020 The Authors. MicrobiologyOpen published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/mbo3.1111 
+PMID: 32856395 
+

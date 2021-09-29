@@ -1,0 +1,76 @@
+
+1. Microb Pathog. 2020 Sep 15;149:104502. doi: 10.1016/j.micpath.2020.104502. [Epub 
+ahead of print]
+
+Comparison of antimicrobial efficacy of eravacycline and tigecycline against
+clinical isolates of Streptococcus agalactiae in China: In vitro activity,
+heteroresistance, and cross-resistance.
+
+Li P(1), Wei Y(2), Li G(3), Cheng H(1), Xu Z(1), Yu Z(4), Deng Q(5), Shi Y(6).
+
+Author information: 
+(1)Quality Control Center of Hospital Infection Management of Shenzhen, Shenzhen 
+Nanshan People's Hospital of Guangdong Medical University, No 89, Taoyuan Road,
+Nanshan District, Shenzhen, 518052, China; Department of Infectious Diseases and 
+Shenzhen Key Laboratory for Endogenous Infections, The 6th Affiliated Hospital of
+Shenzhen University Health Center, No 89, Taoyuan Road, Nanshan District,
+Shenzhen, 518052, China.
+(2)Heilongjiang Medical Service Management Evaluation Center, Harbin,
+Heilongjiang, 150031, China.
+(3)Quality Control Center of Hospital Infection Management of Shenzhen, Shenzhen 
+Nanshan People's Hospital of Guangdong Medical University, No 89, Taoyuan Road,
+Nanshan District, Shenzhen, 518052, China; Department of Infectious Diseases and 
+Shenzhen Key Laboratory for Endogenous Infections, The 6th Affiliated Hospital of
+Shenzhen University Health Center, No 89, Taoyuan Road, Nanshan District,
+Shenzhen, 518052, China; The Clinical Microbiology Lab of the First Affiliated
+Hospital of Harbin Medical University, Harbin, Heilongjiang, 150031, China.
+(4)Department of Infectious Diseases and Shenzhen Key Laboratory for Endogenous
+Infections, The 6th Affiliated Hospital of Shenzhen University Health Center, No 
+89, Taoyuan Road, Nanshan District, Shenzhen, 518052, China.
+(5)Quality Control Center of Hospital Infection Management of Shenzhen, Shenzhen 
+Nanshan People's Hospital of Guangdong Medical University, No 89, Taoyuan Road,
+Nanshan District, Shenzhen, 518052, China; Department of Infectious Diseases and 
+Shenzhen Key Laboratory for Endogenous Infections, The 6th Affiliated Hospital of
+Shenzhen University Health Center, No 89, Taoyuan Road, Nanshan District,
+Shenzhen, 518052, China. Electronic address: qiwendeng@hotmail.com.
+(6)Quality Control Center of Hospital Infection Management of Shenzhen, Shenzhen 
+Nanshan People's Hospital of Guangdong Medical University, No 89, Taoyuan Road,
+Nanshan District, Shenzhen, 518052, China; Department of Infectious Diseases and 
+Shenzhen Key Laboratory for Endogenous Infections, The 6th Affiliated Hospital of
+Shenzhen University Health Center, No 89, Taoyuan Road, Nanshan District,
+Shenzhen, 518052, China. Electronic address: shiyiyi_93@163.com.
+
+AIMS: The aims of this study were to compare the antimicrobial efficacy of
+Eravacycline (Erava) versus tigecycline (Tig) in vitro against clinical isolates 
+of S. agalactiae from China and further to evaluate the heteroresistance risk and
+resistance mechanisms of Erava.
+METHODS: 162 clinical isolates of S. agalactiae were collected retrospectively
+and the minimal inhibitory concentrations (MICs) of Erava and Tig were determined
+by agar dilution. Moreover, Tetracycline (Tet) specific resistance genes, genetic
+mutations in Tet target sites, and sequence types (ST) profiles of clinical
+isolates of S. agalactiae were investigated with polymerase chain reaction (PCR) 
+experiments. The heteroresistance frequency of Erava and Tig in S. agalactiae was
+analyzed by population analysis profiling. Furthermore, the resistance mechanisms
+of both Erava and Tig were investigated in antibiotic-induced resistant S.
+agalactiae isolates in vitro.
+RESULTS: The MIC values of Erava and Tig were shown with ≤0.25 mg/L and
+≤0.5 mg/L, respectively, against clinical S. agalactiae isolates, including that 
+harboring the Tet-specific resistance genes tet(K), tet(M), or tet(O). The
+heteroresistance frequency of Tig among the clinical isolates of S. agalactiae
+was 1.84% (3/162), whereas no positive Erava heteroresistance was found. The
+enhanced MIC values of both Erava and Tig in the heteroresistance-derivative S.
+agalactiae clones could be reversed by the efflux pump inhibition experiments.
+Genetic mutations affecting 30S ribosome units (16SrRNA copies or 30S ribosome
+protein S10) could result in the cross resistance toward Erava and Tig in the
+antibiotic-induced resistant S. agalactiae isolates in vitro.
+CONCLUSIONS: Erava MIC values were nearly half of that of Tig against the
+clinical isolates of S. agalactiae from China and genetic mutations in the 30S
+ribosome units of Tet target sites (16SrRNA copies or 30S ribosome protein S10)
+participated in the resistance evolution of both Erava and Tig under the
+antibiotic pressure.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.micpath.2020.104502 
+PMID: 32947016 
+

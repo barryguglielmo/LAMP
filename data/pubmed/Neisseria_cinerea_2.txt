@@ -1,0 +1,36 @@
+
+1. PLoS Pathog. 2020 Mar 24;16(3):e1008372. doi: 10.1371/journal.ppat.1008372.
+eCollection 2020 Mar.
+
+Commensal Neisseria cinerea impairs Neisseria meningitidis microcolony
+development and reduces pathogen colonisation of epithelial cells.
+
+Custodio R(1), Johnson E(1), Liu G(1), Tang CM(1), Exley RM(1).
+
+Author information: 
+(1)Sir William Dunn School of Pathology, University of Oxford, Oxford, United
+Kingdom.
+
+It is increasingly being recognised that the interplay between commensal and
+pathogenic bacteria can dictate the outcome of infection. Consequently, there is 
+a need to understand how commensals interact with their human host and influence 
+pathogen behaviour at epithelial surfaces. Neisseria meningitidis, a leading
+cause of sepsis and meningitis, exclusively colonises the human nasopharynx and
+shares this niche with several other Neisseria species, including the commensal
+Neisseria cinerea. Here, we demonstrate that during adhesion to human epithelial 
+cells N. cinerea co-localises with molecules that are also recruited by the
+meningococcus, and show that, similar to N. meningitidis, N. cinerea forms
+dynamic microcolonies on the cell surface in a Type four pilus (Tfp) dependent
+manner. Finally, we demonstrate that N. cinerea colocalises with N. meningitidis 
+on the epithelial cell surface, limits the size and motility of meningococcal
+microcolonies, and impairs the effective colonisation of epithelial cells by the 
+pathogen. Our data establish that commensal Neisseria can mimic and affect the
+behaviour of a pathogen on epithelial cell surfaces.
+
+DOI: 10.1371/journal.ppat.1008372 
+PMCID: PMC7092958
+PMID: 32208456  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

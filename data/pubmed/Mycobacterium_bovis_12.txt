@@ -1,0 +1,71 @@
+
+1. EBioMedicine. 2020 Sep 15;60:103007. doi: 10.1016/j.ebiom.2020.103007. [Epub
+ahead of print]
+
+A novel, rapid (within hours) culture-free diagnostic method for detecting live
+Mycobacterium tuberculosis with high sensitivity.
+
+Wang WH(1), Takeuchi R(2), Jain SH(1), Jiang YH(2), Watanuki S(2), Ohtaki Y(2),
+Nakaishi K(3), Watabe S(3), Lu PL(4), Ito E(5).
+
+Author information: 
+(1)Division of Infectious Disease, Department of Internal Medicine, Kaohsiung
+Medical University Hospital, 100 TzYou 1st Rd., Kaohsiung 80756, Taiwan.
+(2)R&D Department, TAUNS Laboratories, Inc., 761-1 Kamishima, Izunokuni, Shizuoka
+410-2325, Japan.
+(3)R&D Headquarters, TAUNS Laboratories, Inc., 761-1 Kamishima, Izunokuni,
+Shizuoka 410-2325, Japan; Waseda Research Institute for Science and Engineering, 
+Waseda University, 3-4-1 Okubo, Shinjuku, Tokyo 169-8555, Japan.
+(4)Division of Infectious Disease, Department of Internal Medicine, Kaohsiung
+Medical University Hospital, 100 TzYou 1st Rd., Kaohsiung 80756, Taiwan; College 
+of Medicine, Kaohsiung Medical University, 100 Shih-Chuan 1st Rd., Kaohsiung
+80756, Taiwan. Electronic address: d830166@kmu.edu.tw.
+(5)Waseda Research Institute for Science and Engineering, Waseda University,
+3-4-1 Okubo, Shinjuku, Tokyo 169-8555, Japan; Graduate Institute of Medicine,
+Kaohsiung Medical University, 100 Shih-Chuan 1st Rd., Kaohsiung 80756, Taiwan;
+Department of Biology, Waseda University, 2-2 Wakamatsucho, Shinjuku, Tokyo
+162-8480, Japan. Electronic address: eito@waseda.jp.
+
+BACKGROUND: Nucleic acid amplification tests (NAATs) are widely used to diagnose 
+tuberculosis (TB), but cannot discriminate live bacilli from dead bacilli. Live
+bacilli can be isolated by culture methods, but this is time-consuming. We
+developed a de novo TB diagnostic method that detects only live bacilli with high
+sensitivity within hours.
+METHODS: A prospective study was performed in Taiwan from 2017 to 2018. Sputum
+was collected consecutively from 1102 patients with suspected TB infection. The
+sputum was pretreated and heated at 46°C for 1 h to induce the secretion of MPT64
+protein from live Mycobacterium tuberculosis. MPT64 was detected with our
+ultrasensitive enzyme-linked immunosorbent assay (ELISA) coupled with
+thionicotinamide-adenine dinucleotide (thio-NAD) cycling. We compared our data
+with those obtained using a culture test (MGIT), a smear test (Kinyoun staining),
+and a NAAT (Xpert).
+FINDINGS: The limit of detection for MPT64 in our culture-free ultrasensitive
+ELISA was 2.0 × 10-19 moles/assay. When the criterion for a positive response was
+set as an absorbance value ≥17 mAbs, this value corresponded to ca. 330 CFU/mL in
+the culture method - almost the same high-detection sensitivity as the culture
+method. To confirm that MPT64 is secreted from only live bacilli, M. bovis BCG
+was killed using 8 μg/mL rifampicin and then heated. Following this procedure,
+our method detected no MPT64. Our rapid ultra-sensitive ELISA-based method
+required only 5 h to complete. Comparing the results of our method with those of 
+culture tests for 944 specimens revealed a sensitivity of 86.9% (93/107, 95% CI: 
+79.0-92.7%) and a specificity of 92.0% (770/837, 95% CI: 89.9-93.7%). The
+performance data were not significantly different (McNemar's test, P = 0.887)
+from those of the Xpert tests. In addition, at a ≥1+ titer in the smear test, the
+positive predictive value of our culture-free ultrasensitive ELISA tests was in a
+good agreement with that of the culture tests. Furthermore, our culture-free
+ultrasensitive ELISA test had better validity for drug effectiveness examination 
+than Xpert tests because our test detected only live bacilli.
+INTERPRETATION: Our culture-free ultrasensitive ELISA method detects only live TB
+bacilli with high sensitivity within hours, allowing for rapid diagnosis of TB
+and monitoring drug efficacy.
+FUNDING: Matching Planner Program from JST (VP29117939087), the A-STEP Program
+from JST (AS3015096U), Waseda University grants for Specific Research Projects
+(2017A-015 and 2019C-123), the Precise Measurement Technology Promotion
+Foundation to E.I.
+
+Copyright © 2020 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ebiom.2020.103007 
+PMCID: PMC7501073
+PMID: 32949995 
+

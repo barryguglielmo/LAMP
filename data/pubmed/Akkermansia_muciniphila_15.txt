@@ -1,0 +1,39 @@
+
+1. Microorganisms. 2020 Sep 3;8(9). pii: E1347. doi: 10.3390/microorganisms8091347.
+
+Gut Microbial Changes in Diabetic db/db Mice and Recovery of Microbial Diversity 
+upon Pirfenidone Treatment.
+
+Singh H(1), Miyamoto S(2), Darshi M(2), Torralba MG(3), Kwon K(1), Sharma K(2),
+Pieper R(1).
+
+Author information: 
+(1)J. Craig Venter Institute, 9605 Medical Center Drive, Suite 150, Rockville, MD
+20850, USA.
+(2)Department of Medicine, University of Texas Health, San Antonio, TX 77030,
+USA.
+(3)J. Craig Venter Institute, 4120 Capricorn Lane, La Jolla, CA 92037, USA.
+
+The leptin receptor-deficient db/db mouse model is an accepted in vivo model to
+study obesity, type 2 diabetes, and diabetic kidney disease. Healthy
+gastrointestinal (GI) microbiota has been linked to weight loss, improved
+glycemic control, and physiological benefits. We investigated the effect of
+various drugs on the GI microbiota of db/db mice as compared to control db/m
+mice. Treatment with long-acting pirfenidone (PFD) increased gut microbial
+diversity in diabetic db/db mice. Firmicutes, the most abundant phylum in db/m
+mice, decreased significantly in abundance in db/db mice but showed increased
+abundance with long-acting PFD treatment. Several bacterial taxa, including
+Lactobacillus and some Bacteroides, were less abundant in db/db mice and more
+abundant in long-acting-PFD-treated db/db mice. Long-acting PFD treatment reduced
+the abundance of Akkermansia muciniphila (5%) as compared to db/db mice (~15%).
+We conclude that gut microbial dysbiosis observed in db/db mice was partially
+reversed by long-acting PFD treatment and hypothesize that PFD has beneficial
+effects, in part, via its influence on the gut microbial metabolite profile. In
+quantitatively assessing urine metabolites, we observed a high abundance of
+diabetic ketoacidosis biomarkers, including 3-hydroxybutyric acid and acetoacetic
+acid in db/db mice, which were less abundant in the long-acting-PFD-treated db/db
+mice.
+
+DOI: 10.3390/microorganisms8091347 
+PMID: 32899353 
+

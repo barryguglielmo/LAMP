@@ -1,0 +1,53 @@
+
+1. Nature. 2020 Jun;582(7813):566-570. doi: 10.1038/s41586-020-2396-4. Epub 2020 Jun
+17.
+
+A metabolic pathway for bile acid dehydroxylation by the gut microbiome.
+
+Funabashi M(1)(2), Grove TL(3), Wang M(1), Varma Y(1), McFadden ME(4), Brown
+LC(4), Guo C(1), Higginbottom S(5), Almo SC(6), Fischbach MA(7)(8).
+
+Author information: 
+(1)Department of Bioengineering and ChEM-H, Stanford University, Stanford, CA,
+USA.
+(2)Translational Research Department, Daiichi Sankyo RD Novare Co. Ltd, Tokyo,
+Japan.
+(3)Department of Biochemistry, Albert Einstein College of Medicine, Bronx, NY,
+USA.
+(4)Department of Chemistry, Indiana University, Bloomington, IN, USA.
+(5)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, CA, USA.
+(6)Department of Biochemistry, Albert Einstein College of Medicine, Bronx, NY,
+USA. steve.almo@einstein.yu.edu.
+(7)Department of Bioengineering and ChEM-H, Stanford University, Stanford, CA,
+USA. fischbach@fischbachgroup.org.
+(8)Chan Zuckerberg Biohub, San Francisco, CA, USA. fischbach@fischbachgroup.org.
+
+The gut microbiota synthesize hundreds of molecules, many of which influence host
+physiology. Among the most abundant metabolites are the secondary bile acids
+deoxycholic acid (DCA) and lithocholic acid (LCA), which accumulate at
+concentrations of around 500 μM and are known to block the growth of Clostridium 
+difficile1, promote hepatocellular carcinoma2 and modulate host metabolism via
+the G-protein-coupled receptor TGR5 (ref. 3). More broadly, DCA, LCA and their
+derivatives are major components of the recirculating pool of bile acids4; the
+size and composition of this pool are a target of therapies for primary biliary
+cholangitis and nonalcoholic steatohepatitis. Nonetheless, despite the clear
+impact of DCA and LCA on host physiology, an incomplete knowledge of their
+biosynthetic genes and a lack of genetic tools to enable modification of their
+native microbial producers limit our ability to modulate secondary bile acid
+levels in the host. Here we complete the pathway to DCA and LCA by assigning and 
+characterizing enzymes for each of the steps in its reductive arm, revealing a
+strategy in which the A-B rings of the steroid core are transiently converted
+into an electron acceptor for two reductive steps carried out by Fe-S
+flavoenzymes. Using anaerobic in vitro reconstitution, we establish that a set of
+six enzymes is necessary and sufficient for the eight-step conversion of cholic
+acid to DCA. We then engineer the pathway into Clostridium sporogenes, conferring
+production of DCA and LCA on a nonproducing commensal and demonstrating that a
+microbiome-derived pathway can be expressed and controlled heterologously. These 
+data establish a complete pathway to two central components of the bile acid
+pool.
+
+DOI: 10.1038/s41586-020-2396-4 
+PMCID: PMC7319900 [Available on 2020-12-17]
+PMID: 32555455 
+

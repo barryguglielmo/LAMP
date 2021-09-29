@@ -1,0 +1,52 @@
+
+1. Environ Pollut. 2020 Nov;266(Pt 3):115202. doi: 10.1016/j.envpol.2020.115202.
+Epub 2020 Aug 4.
+
+Synergistic effects of compost, cow bile and bacterial culture on bioremediation 
+of hydrocarbon-contaminated drill mud waste.
+
+Osei-Twumasi D(1), Fei-Baffoe B(2), Anning AK(2), Danquah KO(3).
+
+Author information: 
+(1)Department of Theoretical and Applied Biology, Faculty of Biosciences, College
+of Science, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana.
+Electronic address: danieltwumasi375@gmail.com.
+(2)Department of Theoretical and Applied Biology, Faculty of Biosciences, College
+of Science, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana.
+(3)Department of Medical Diagnostics, Faculty of Allied Health Sciences, Kwame
+Nkrumah University of Science and Technology, Kumasi, Ghana.
+
+Bioremediation has gained global prominence as an effective method for treating
+hydrocarbon-contaminated drill mud waste (HCDW). However, the problem of low
+nutrient content, bioavailability and microbial presence remain largely
+unresolved. In this study, the synergistic effects of compost, cow bile and
+bacterial culture on the degradation rate of HCDW was investigated. A homogenized
+HCDW sample (80 kg) obtained from 25 different drill mud tanks was divided into
+20 portions (4 kg each) and each adjusted to 1.4% nitrogen content + 20 ml cow
+bile (i.e., basic treatment). Pure cultures of Brevibacterium casei (Bc) and
+Bacillus zhangzhouensi (Bz) and their mixture (BcBz) were subsequently added to
+12 of the amended HCDW (basic) to undergo a 6-week incubation. A portion of the
+unamended HCDW (2 kg) was used as control. Initial pH, electrical conductivity
+and surface tension values of the HCDW were 8.83, 2.34 mS/cm and 36.5 mN/m,
+respectively. Corresponding values for total petroleum hydrocarbon (TPH), total
+nitrogen and total plate count bacteria were 165 g/kg, 0.04% and
+4.4 × 102 cfu/ml. The treatments led to a substantial reduction in TPH (p < 0.05)
+while the control had no significant effect (p > 0.05). TPH reduction after the
+experimental period occurred in the order: basic + BcBz (99.7%) > basic + Bz
+(99.5%) > basic + Bc (99.2%) > basic (95.2%) > control (0.06%). Multiple
+regression analysis revealed significant effect of total plate count, pH, CN
+ratio and electrical conductivity (R2 = 0.87, p = 0.05) on the degradation of TPH
+in the HCDW. The study demonstrates strong interactive effects of compost, cow
+bile and bacteria culture on the remediation of HCDW, which can be applied to
+boost the efficiency of the bioremediation technique.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.envpol.2020.115202 
+PMID: 32823065  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

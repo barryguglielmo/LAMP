@@ -1,0 +1,31 @@
+
+1. Pathog Dis. 2020 Sep 18. pii: ftaa055. doi: 10.1093/femspd/ftaa055. [Epub ahead
+of print]
+
+A single-gene approach for the subspecies classification of Mycobacteroides
+abscessus.
+
+Ng HF(1), Ngeow YF(1).
+
+Author information: 
+(1)Centre for Research on Communicable Diseases, Faculty of Medicine and Health
+Sciences, Universiti Tunku Abdul Rahman, Sungai Long Campus, 43000 Kajang,
+Selangor, Malaysia.
+
+The subspecies classification of Mycobacteroides abscessus complex into M.
+abscessus, M. massiliense and M. bolletii requires the amplification and
+sequencing of multiple genes. The objective of this study was to evaluate the
+possibility of subspecies classification using a single PCR target. An in silico 
+study was performed to classify 1613 strains deposited in a public database using
+9 genes (partial gene sequences of hsp65, rpoB, sodA, argH, cya, glpK, gnd, and
+murC, and the full gene sequence of MAB_3542c). We found the housekeeping gene
+gnd to be able to classify the M. abscessus subspecies with high accuracy
+(99.94%). A single-gene PCR approach based on gnd would be a suitable replacement
+for the more expensive, labor-intensive and time-consuming multi-gene PCR
+analysis currently in use for the subspecies identification of M. abscessus.
+
+© FEMS 2020.
+
+DOI: 10.1093/femspd/ftaa055 
+PMID: 32945880 
+

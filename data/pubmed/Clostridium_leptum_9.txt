@@ -1,0 +1,47 @@
+
+1. BMC Microbiol. 2020 Jan 2;20(1):2. doi: 10.1186/s12866-019-1669-2.
+
+Method comparison for the direct enumeration of bacterial species using a
+chemostat model of the human colon.
+
+Moura IB(1), Normington C(2), Ewin D(2), Clark E(2), Wilcox MH(2)(3), Buckley
+AM(2), Chilton CH(2).
+
+Author information: 
+(1)Leeds Institute of Medical Research, Faculty of Medicine and Health,
+University of Leeds, Leeds, UK. i.b.moura@leeds.ac.uk.
+(2)Leeds Institute of Medical Research, Faculty of Medicine and Health,
+University of Leeds, Leeds, UK.
+(3)Department of Microbiology, Leeds Teaching Hospitals NHS Trust, Leeds, UK.
+
+BACKGROUND: Clostridioides difficile infection (CDI) has a high recurrent
+infection rate. Faecal microbiota transplantation (FMT) has been used
+successfully to treat recurrent CDI, but much remains unknown about the human gut
+microbiota response to replacement therapies. In this study, antibiotic-mediated 
+dysbiosis of gut microbiota and bacterial growth dynamics were investigated by
+two quantitative methods: real-time quantitative PCR (qPCR) and direct culture
+enumeration, in triple-stage chemostat models of the human colon. Three in vitro 
+models were exposed to clindamycin to induce simulated CDI. All models were
+treated with vancomycin, and two received an FMT. Populations of total bacteria, 
+Bacteroides spp., Lactobacillus spp., Enterococcus spp., Bifidobacterium spp., C.
+difficile, and Enterobacteriaceae were monitored using both methods. Total
+clostridia were monitored by selective culture. Using qPCR analysis, we
+additionally monitored populations of Prevotella spp., Clostridium coccoides
+group, and Clostridium leptum group.
+RESULTS: Both methods showed an exacerbation of disruption of the colonic
+microbiota following vancomycin (and earlier clindamycin) exposure, and a quicker
+recovery (within 4 days) of the bacterial populations in the models that received
+the FMT. C. difficile proliferation, consistent with CDI, was also observed by
+both qPCR and culture. Pearson correlation coefficient showed an association
+between results varying from 98% for Bacteroides spp., to 62% for
+Enterobacteriaceae.
+CONCLUSIONS: Generally, a good correlation was observed between qPCR and
+bacterial culture. Overall, the molecular assays offer results in real-time,
+important for treatment efficacy, and allow the monitoring of additional
+microbiota groups. However, individual quantification of some genera (e.g.
+clostridia) might not be possible without selective culture.
+
+DOI: 10.1186/s12866-019-1669-2 
+PMCID: PMC6941270
+PMID: 31898476 
+

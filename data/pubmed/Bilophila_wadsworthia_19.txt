@@ -1,0 +1,61 @@
+
+1. Chin J Nat Med. 2020 Jun;18(6):446-459. doi: 10.1016/S1875-5364(20)30052-2.
+
+Dendrobium officinale Kimura et Migo and American ginseng mixture: A Chinese
+herbal formulation for gut microbiota modulation.
+
+Liu CZ(1), Chen W(2), Wang MX(1), Wang Y(1), Chen LQ(2), Zhao F(3), Shi Y(1), Liu
+HJ(1), Dou XB(4), Liu C(5), Chen H(6).
+
+Author information: 
+(1)Key laboratory of Microbial technology and Bioinformatics of Zhejiang
+Province, Zhejiang Institute of Microbiology, Hangzhou 310012, China; NMPA Key
+laboratory for Testing and Risk Warning of Pharmaceutical Microbiology, Zhejiang 
+Institute of Microbiology, Hangzhou 310012, China.
+(2)Hangzhou Huqing yu tang Traditional Chinese Medicine Mordernize Institute,
+Hangzhou 311100, China.
+(3)Key laboratory of Microbial technology and Bioinformatics of Zhejiang
+Province, Zhejiang Institute of Microbiology, Hangzhou 310012, China; NMPA Key
+laboratory for Testing and Risk Warning of Pharmaceutical Microbiology, Zhejiang 
+Institute of Microbiology, Hangzhou 310012, China; College of Life Science,
+Zhejiang Chinese Medical University, Hangzhou 310053, China.
+(4)College of Life Science, Zhejiang Chinese Medical University, Hangzhou 310053,
+China.
+(5)Department of Orthopaedics, Sir Sun Run Shaw Hospital, School of Medicine,
+Zhejiang University, Hangzhou 310009, China. Electronic address:
+liuchaozju@zju.edu.cn.
+(6)Key laboratory of Microbial technology and Bioinformatics of Zhejiang
+Province, Zhejiang Institute of Microbiology, Hangzhou 310012, China; NMPA Key
+laboratory for Testing and Risk Warning of Pharmaceutical Microbiology, Zhejiang 
+Institute of Microbiology, Hangzhou 310012, China. Electronic address:
+chenhuan7809@gmail.com.
+
+Dendrobium officinale Kimura et Migo (D. officinale) is a famous traditional
+Chinese medicine (TCM). A mixture of D. officinale and American ginseng has been 
+shown to enhance cell-mediated immunity, humoral immunity, and
+monocyte/macrophage functions in mice. Here, the effects of a D. officinale and
+American ginseng mixture on the structure of gut microbial community in dogs were
+examined using high-throughput 16S rRNA gene amplicon sequencing. The data
+revealed that while the mixture did not change the diversity of gut microbial
+community significantly, differences among individuals were significantly
+reduced. Furthermore, the mixture-responsive operational taxonomic units (OTUs)
+exhibited a phase-dependent expression pattern. Fifty-five OTUs were found to
+exhibit a mixture-induced expression pattern, among which one third were
+short-chain fatty acid (SCFA)-producing genera and the others were probiotic
+genera included Lactobacillus spp., Sutterella, Alistipes, Anaerovorax,
+Bilophila, Coprococcus, Gordonibacter, Oscillibacter, among others. By contrast, 
+36% of the OTUs exhibiting a mixture-repressed expression pattern were
+disease-associated microorganisms, and six genera, namely Actinomyces,
+Escherichia/Shigella, Fusobacterium, Slackia, Streptococcus and Solobacterium,
+were associated with cancer. In addition, five genera were closely associated
+with diabetes, namely Collinsella, Rothia, Howardella, Slackia and
+Intestinibacter. Our results indicate that this D. officinale and American
+ginseng mixture may be used as a prebiotic agent to enhance SCFA-producing genera
+and prevent gut dysbiosis.
+
+Copyright © 2020 China Pharmaceutical University. Published by Elsevier B.V. All 
+rights reserved.
+
+DOI: 10.1016/S1875-5364(20)30052-2 
+PMID: 32503736 
+

@@ -1,0 +1,45 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jan;70(1):211-219. doi: 10.1099/ijsem.0.003739.
+
+Psychrobacter pygoscelis sp. nov. isolated from the penguin Pygoscelis papua.
+
+Kämpfer P(1), Glaeser SP(1), Irgang R(2)(3), Fernández-Negrete G(4),
+Poblete-Morales M(2)(3), Fuentes-Messina D(4), Cortez-San Martín M(5),
+Avendaño-Herrera R(3)(2).
+
+Author information: 
+(1)Institut für Angewandte Mikrobiologie, Justus-Liebig-Universität Giessen,
+D-35392 Giessen, Germany.
+(2)Interdisciplinary Center for Aquaculture Research (INCAR), Viña del Mar,
+Chile.
+(3)Universidad Andrés Bello, Laboratorio de Patología de Organismos Acuáticos y
+Biotecnología Acuícola, Facultad de Ciencias de la Vida, Viña del Mar, Chile.
+(4)Fraunhofer Chile Research Foundation, Center for Systems Biotechnology,
+Santiago, Chile.
+(5)Laboratorio de Virología Molecular, Facultad de Química y Biología,
+Universidad de Santiago de Chile, Santiago, Chile.
+
+One slightly beige-white pigmented, Gram-stain-negative, rod-shaped bacterium,
+strain I-STPP5bT, was isolated from the trachea of a Gentoo penguin chick
+individual (Pygoscelin papua) investigated in Fildes Bay, Chilean Antarctic (62° 
+12' S, 58° 57' W). I-STPP5bT consists of a 3.4 Mb chromosome with a DNA G+C
+content of 44.4 mol%. Of the 3056 predicted genes, 1206 were annotated as
+hypothetical proteins and 51 were tRNAs. Phylogenetic analysis based on nearly
+full-length 16S rRNA gene sequences showed that the isolate shared a 16S rRNA
+gene sequence identity to the type strains of Psychrobacter phenylpyruvicus
+(98.8 %), Psychrobacter arenosus and Psychrobacter pasteurii (both 98.3 %),
+Psychrobacter piechaudii (98.2 %) and Psychrobacter sanguinis (98.1 %), but 16S
+rRNA gene sequence similarities to all other Psychrobacter species were ≤98.0 %. 
+Partial gyrB nucleotide and amino acid sequence similarities among strain STPP5bT
+and the next related type strains were all below 81.8 and 92.9%, respectively.
+DNA-DNA hybridisation (DDH) with P. phenylpyruvicus LMG 5372T, P. arenosus DSM
+15389T and P. sanguinis DSM 23635T also showed low values (all below 30 %). The
+main cellular fatty acids of the strain were C18 : 1ω9c and C16 : 1ω7c and/or
+C16 : 1ω6c. Based on phylogenetic, chemotaxonomic, genomic and phenotypic
+analyses we propose a new species of the genus Psychrobacter, with the name
+Psychrobacter pygoscelis sp. nov. and strain I-STPP5bT (=CIP 111410T= CCM
+8799T=LMG 30301T) as type strain.
+
+DOI: 10.1099/ijsem.0.003739 
+PMID: 31617840  [Indexed for MEDLINE]
+

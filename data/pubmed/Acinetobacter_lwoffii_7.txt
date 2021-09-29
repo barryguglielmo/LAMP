@@ -1,0 +1,41 @@
+
+1. Plasmid. 2020 Jul;110:102505. doi: 10.1016/j.plasmid.2020.102505. Epub 2020 May
+4.
+
+Plasmidome of an environmental Acinetobacter lwoffii strain originating from a
+former gold and arsenic mine.
+
+Walter T(1), Klim J(1), Jurkowski M(1), Gawor J(1), Köhling I(1), Słodownik M(1),
+Zielenkiewicz U(2).
+
+Author information: 
+(1)Institute of Biochemistry and Biophysics PAS, Pawińskiego 5a Str., 02-106
+Warsaw, Poland.
+(2)Institute of Biochemistry and Biophysics PAS, Pawińskiego 5a Str., 02-106
+Warsaw, Poland. Electronic address: ulazet@ibb.waw.pl.
+
+Emerging important Acinetobacter strains commonly accommodate a plethora of
+mobile elements including plasmids of different size. Plasmids, apart from
+encoding modules enabling their self-replication and/or transmission, can carry a
+diverse number of genes, allowing the host cell to survive in an environment that
+would otherwise be lethal or restrictive for growth. The present study
+characterizes the plasmidome generated from an arsenic-resistant strain named
+ZS207, classified as Acinetobacter lwoffii. Sequencing effort revealed the
+presence of nine plasmids in the size between 4.3 and 38.4 kb as well as one
+186.6 kb megaplasmid. All plasmids, except the megaplasmid, do apparently not
+confer distinguishing phenotypic features. In contrast, the megaplasmid carries
+arsenic and heavy metals resistance regions similar to those found in permafrost 
+A. lwoffii strains. In-depth in silico analyses have shown a significant
+similarity between the regions from these plasmids, especially concerning
+multiple transposable elements, transfer and mobilization genes, and
+toxin-antitoxin systems. Since ars genes encode proteins of major significance in
+terms of potential use in bioremediation, arsenic resistance level of ZS207 was
+determined and the functionality of selected ars genes was examined.
+Additionally, we checked the functionality of plasmid-encoded toxin-antitoxin
+systems and their impact on the formation of persister cells.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.plasmid.2020.102505 
+PMID: 32380021 
+

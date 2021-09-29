@@ -1,0 +1,43 @@
+
+1. J Antimicrob Chemother. 2020 May 1;75(5):1206-1211. doi: 10.1093/jac/dkaa004.
+
+Evaluation of penicillin G susceptibility testing methods for Staphylococcus
+lugdunensis.
+
+Hagstrand Aldman M(1)(2), Påhlman LI(1)(2).
+
+Author information: 
+(1)Division of Infectious Diseases, Skåne University Hospital Lund, Lund, Sweden.
+(2)Department of Clinical Sciences Lund, Division of Infection Medicine, Lund
+University, Lund, Sweden.
+
+BACKGROUND: Staphylococcus lugdunensis belongs to the CoNS group, but is regarded
+to be more virulent than most other CoNS. It is also remarkably susceptible to
+antibiotics, including penicillin G.
+OBJECTIVES: To evaluate different methods for penicillin susceptibility testing, 
+to assess penicillin susceptibility rates among S. lugdunensis and to describe
+the clinical presentation including antibiotic treatment.
+METHODS: Clinical isolates of S. lugdunensis were tested for penicillin
+susceptibility using disc diffusion according to CLSI (10 U disc) and EUCAST (1 U
+disc), assessment of zone-edge appearance, nitrocefin test and Etest for MIC
+determination. PCR of the blaZ gene was used as a reference method.
+RESULTS: Of the 112 isolates included in the study, 67% were susceptible to
+penicillin G according to blaZ PCR. The EUCAST disc diffusion test had 100%
+sensitivity, whereas the CLSI method had one very major error with a
+false-susceptible isolate. When zone-edge appearance was included in the
+assessment, the false-susceptible isolate was correctly classified as resistant. 
+Foreign-body infection was the most common focus of infection, affecting 49% of
+the participants. Only 4% of the patients were treated with penicillin G.
+CONCLUSIONS: Penicillin susceptibility is common in S. lugdunensis and the disc
+diffusion method according to EUCAST had a higher sensitivity than that of CLSI. 
+Assessment of zone-edge appearance could increase the sensitivity of the disc
+diffusion test. Penicillin susceptibility testing and treatment should be
+considered in S. lugdunensis infections.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the
+British Society for Antimicrobial Chemotherapy.
+
+DOI: 10.1093/jac/dkaa004 
+PMCID: PMC7177478
+PMID: 32016343 
+

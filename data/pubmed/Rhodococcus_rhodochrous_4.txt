@@ -1,0 +1,37 @@
+
+1. Data Brief. 2020 Feb 26;29:105336. doi: 10.1016/j.dib.2020.105336. eCollection
+2020 Apr.
+
+Data on genome sequencing, assembly, annotation and genomic analysis of
+Rhodococcus rhodochrous strain SPC17 isolated from Lonar Lake.
+
+Kumar S(1)(2), Paul D(1), Shouche Y(1), Suryavanshi M(3).
+
+Author information: 
+(1)National Centre for Cell Science, Savitribai Phule Pune University Campus,
+Pune, MH, India.
+(2)ICAR-National Institute of Abiotic Stress Management, Baramati, Pune, MH,
+India.
+(3)Yenepoya Research Centre, Yenepoya Deemed to be University, Mangalore, 575018,
+Karnataka, India.
+
+The bacterial isolates of genus Rhodococcus are best known for their significant 
+biodegradation abilities. Here, we report the data related to draft genome
+sequencing of Rhodococcus rhodochrous strain SPC17 isolated from sediments of
+Lonar Lake. The de novo assembly of 1598096 Illumina's paired-end sequencing
+reads resulted in 51 contigs for an overall genome assembly size of 4.98Mb. A
+total of 4546 genes were predicted using the National Center for Biotechnology
+Information- Prokaryotic Genome Annotation Pipeline (NCBI-PGAP). RAST
+server-based annotation of the Rhodococcus strain SPC17 genome resulted in a
+total of 295 subsystems with 25% subsystem coverage. The data on the draft genome
+shotgun project are accessible at NCBI-GenBank under the accession number
+WUUR00000000. Our data resource will facilitate further molecular and genomic
+studies of diverse hydrocarbon catabolizing genes present in Rhodococcus
+rhodochrous strain SPC17.
+
+© 2020 The Authors.
+
+DOI: 10.1016/j.dib.2020.105336 
+PMCID: PMC7058525
+PMID: 32154356 
+

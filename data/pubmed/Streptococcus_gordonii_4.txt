@@ -1,0 +1,44 @@
+
+1. ACS Biomater Sci Eng. 2020 Sep 14;6(9):4929-4939. doi:
+10.1021/acsbiomaterials.0c00845. Epub 2020 Aug 10.
+
+Keratinocyte-Specific Peptide-Based Surfaces for Hemidesmosome Upregulation and
+Prevention of Bacterial Colonization.
+
+Fischer NG(1), Moussa DG(1), Skoe EP(1), De Jong DA(1), Aparicio C(2).
+
+Author information: 
+(1)MDRCBB-Minnesota Dental Research Center for Biomaterials and Biomechanics,
+University of Minnesota, Minneapolis, Minnesota 55455, United States.
+(2)MDRCBB-Minnesota Dental Research Center for Biomaterials and Biomechanics,
+University of Minnesota, Minneapolis, Minnesota 55455, United State.
+
+Percutaneous devices like orthopedic prosthetic implants for amputees, catheters,
+and dental implants suffer from high infection rates. A critical aspect mediating
+peri-implant infection of dental implants is the lack of a structural barrier
+between the soft tissue and the implant surface which could impede bacteria
+access and colonization of exposed implant surfaces. Parafunctional soft tissue
+regeneration around dental implants is marked by a lack of hemidesmosome
+formation and thereby weakened mechanical attachment. In response to this
+healthcare burden, a simultaneously hemidesmosome-inducing, antimicrobial,
+multifunctional implant surface was engineered. A designer antimicrobial peptide,
+GL13K, and a laminin-derived peptide, LamLG3, were coimmobilized with two
+different surface fractional areas. The coimmobilized peptide surfaces showed
+antibiofilm activity against Streptococcus gordonii while enhancing
+proliferation, hemidesmosome formation, and mechanical attachment of orally
+derived keratinocytes. Notably, the coatings demonstrated specific activation of 
+keratinocytes: the coatings showed no effects on gingival fibroblasts which are
+known to impede the quality of soft tissue attachment to dental implants. These
+coatings demonstrated stability and retained activity against mechanical and
+thermochemical challenges, suggesting their intraoral durability. Overall, these 
+multifunctional surfaces may be able to reduce peri-implantitis rates and enhance
+the success rates of all percutaneous devices via strong antimicrobial activity
+and enhanced soft tissue attachment to implants.
+
+DOI: 10.1021/acsbiomaterials.0c00845 
+PMCID: PMC7494210 [Available on 2021-09-14]
+PMID: 32953986 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

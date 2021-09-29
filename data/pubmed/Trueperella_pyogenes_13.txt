@@ -1,0 +1,54 @@
+
+1. Comput Struct Biotechnol J. 2020 May 16;18:1228-1237. doi:
+10.1016/j.csbj.2020.05.015. eCollection 2020.
+
+Abasy Atlas v2.2: The most comprehensive and up-to-date inventory of
+meta-curated, historical, bacterial regulatory networks, their completeness and
+system-level characterization.
+
+Escorcia-Rodríguez JM(1), Tauch A(2), Freyre-González JA(1).
+
+Author information: 
+(1)Regulatory Systems Biology Research Group, Laboratory of Systems and Synthetic
+Biology, Center for Genomic Sciences, Universidad Nacional Autónoma de México,
+Av. Universidad s/n, Col. Chamilpa, 62210 Cuernavaca, Morelos, Mexico.
+(2)Centrum für Biotechnologie (CeBiTec). Universität Bielefeld,
+Universitätsstraße 27, 33615 Bielefeld, Germany.
+
+Some organism-specific databases about regulation in bacteria have become larger,
+accelerated by high-throughput methodologies, while others are no longer updated 
+or accessible. Each database homogenize its datasets, giving rise to
+heterogeneity across databases. Such heterogeneity mainly encompasses different
+names for a gene and different network representations, generating duplicated
+interactions that could bias network analyses. Abasy (Across-bacteria systems)
+Atlas consolidates information from different sources into meta-curated
+regulatory networks in bacteria. The high-quality networks in Abasy Atlas enable 
+cross-organisms analyses, such as benchmarking studies where gold standards are
+required. Nevertheless, network incompleteness still casts doubts on the
+conclusions of network analyses, and available sampling methods cannot reflect
+the curation process. To tackle this problem, the updated version of Abasy Atlas 
+presented in this work provides historical snapshots of regulatory networks.
+Thus, network analyses can be performed at different completeness levels, making 
+possible to identify potential bias and to predict future results. We leverage
+the recently found constraint in the complexity of regulatory networks to develop
+a novel model to quantify the total number of regulatory interactions as a
+function of the genome size. This completeness estimation is a valuable insight
+that may aid in the daunting task of network curation, prediction, and
+validation. The new version of Abasy Atlas provides 76 networks (204,282
+regulatory interactions) covering 42 bacteria (64% Gram-positive and 36%
+Gram-negative) distributed in 9 species (Mycobacterium tuberculosis, Bacillus
+subtilis, Escherichia coli, Corynebacterium glutamicum, Staphylococcus aureus,
+Pseudomonas aeruginosa, Streptococcus pyogenes, Streptococcus pneumoniae, and
+Streptomyces coelicolor), containing 8459 regulons and 4335 modules. Database
+URL: https://abasy.ccg.unam.mx/.
+
+© 2020 The Author(s).
+
+DOI: 10.1016/j.csbj.2020.05.015 
+PMCID: PMC7283102
+PMID: 32542109 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

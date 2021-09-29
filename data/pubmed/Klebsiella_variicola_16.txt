@@ -1,0 +1,60 @@
+
+1. BMC Infect Dis. 2019 Nov 8;19(1):946. doi: 10.1186/s12879-019-4498-x.
+
+Clinical characteristics in blood stream infections caused by Klebsiella
+pneumoniae, Klebsiella variicola, and Klebsiella quasipneumoniae: a comparative
+study, Japan, 2014-2017.
+
+Imai K(1)(2), Ishibashi N(2)(3), Kodana M(4), Tarumoto N(5)(6), Sakai J(1)(2),
+Kawamura T(4), Takeuchi S(4), Taji Y(7), Ebihara Y(7), Ikebuchi K(4), Murakami
+T(2)(8), Maeda T(2)(8), Mitsutake K(2)(3), Maesaki S(1)(2).
+
+Author information: 
+(1)Department of Infectious Disease and Infection Control, Saitama Medical
+University, 38 Morohongo, Moroyama-machi, Iruma-gun, Saitama, 350-0495, Japan.
+(2)Center for Clinical Infectious Diseases and Research, Saitama Medical
+University, 38 Morohongo, Moroyama-machi, Iruma-gun, Saitama, 350-0495, Japan.
+(3)Infectious Diseases and Infection Control, Saitama Medical University
+International Medical Center, 1-1397 Yamane, Hidaka, Saitama, 350-1298, Japan.
+(4)Clinical Laboratory Medicine, Saitama Medical University Hospital, 38
+Morohongo, Moroyama-machi, Iruma-gun, Saitama, 350-0495, Japan.
+(5)Department of Infectious Disease and Infection Control, Saitama Medical
+University, 38 Morohongo, Moroyama-machi, Iruma-gun, Saitama, 350-0495, Japan.
+tarumoto@saitama-med.ac.jp.
+(6)Center for Clinical Infectious Diseases and Research, Saitama Medical
+University, 38 Morohongo, Moroyama-machi, Iruma-gun, Saitama, 350-0495, Japan.
+tarumoto@saitama-med.ac.jp.
+(7)Department of Clinical Laboratory Medicine, Saitama Medical University
+International Medical Center, 1-1397 Yamane, Hidaka, Saitama, 350-1298, Japan.
+(8)Department of Microbiology, Saitama Medical University, 38 Morohongo,
+Moroyama-machi, Iruma-gun, Saitama, 350-0495, Japan.
+
+BACKGROUND: Klebsiella variicola and K. quasipneumoniae are new species
+distinguishable from K. pneumoniae but they are often misidentified as K.
+pneumoniae in clinical settings. Several reports have demonstrated the
+possibility that the virulence factors and clinical features differ among these
+three phylogroups. In this study, we aimed to clarify whether there were
+differences in clinical and bacterial features between the three phylogroups
+isolated from patients with bloodstream infections (BSIs) in Japan.
+METHODS: Isolates from all patients with BSIs caused by K. pneumoniae admitted to
+two hospitals between 2014 and 2017 (n = 119) were included in the study.
+Bacterial species were identified via sequence analysis, and their virulence
+factors and serotypes were analyzed via multiplex PCR results. Clinical data were
+retrieved from medical records.
+RESULTS: Of the 119 isolates, 21 (17.7%) were identified as K. variicola and 11
+(9.2%) as K. quasipneumoniae; K1 serotype was found in 16 (13.4%), and K2
+serotype in 13 (10.9%). Significant differences in the prevalence of rmpA, iutA, 
+ybtS, entB and kfu (p < 0.001), and allS genes (p < 0.05) were found between the 
+three phylogroups. However, there were no significant differences in clinical
+features, including the 30-day mortality rate, between the three organisms,
+although K. variicola was more frequently detected in patients over 80 years old 
+compared with other Klebsiella species (p < 0.005), and K. quasipneumoniae more
+frequently occurred in patients with malignancy (p < 0.05).
+CONCLUSIONS: Our findings demonstrated the differences in bacterial pathogenicity
+and clinical features among these three phylogroups. Further epidemiological
+studies into BSI caused by Klebsiella species are warranted.
+
+DOI: 10.1186/s12879-019-4498-x 
+PMCID: PMC6842162
+PMID: 31703559  [Indexed for MEDLINE]
+

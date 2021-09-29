@@ -1,0 +1,38 @@
+
+1. J Microbiol. 2020 Apr;58(4):288-296. doi: 10.1007/s12275-020-9580-y. Epub 2020
+Feb 27.
+
+Optimization of bacterial sporulation using economic nutrient for self-healing
+concrete.
+
+Ryu Y(1), Lee KE(2), Cha IT(2), Park W(3).
+
+Author information: 
+(1)Laboratory of Molecular Environmental Microbiology, Department of
+Environmental Sciences and Ecological Engineering, Korea University, Seoul,
+02841, Republic of Korea.
+(2)National Institute of Biological Resources, Incheon, 22689, Republic of Korea.
+(3)Laboratory of Molecular Environmental Microbiology, Department of
+Environmental Sciences and Ecological Engineering, Korea University, Seoul,
+02841, Republic of Korea. wpark@korea.ac.kr.
+
+The use of heat- and alkali-resistant bacteria is essential for the biological
+repair of damaged concrete. Lysinibacillus boronitolerans YS11 was isolated from 
+the rhizosphere of Miscanthus sacchariflorus. The increased pH in the urea-minus 
+condition during the growth of the YS11 strain promoted calcium carbonate (CaCO3)
+formation. To identify the optimum medium that promoted the growth of the YS11
+strain, a Plackett-Burman design was conducted for the screening process.
+Consequently, malt powder, rice bran, (NH4)2SO4, and corn syrup were chosen to
+enhance YS11 growth. The optimization of these four useful factors was carried
+out using a central composite design. To obtain higher survivability in mortar,
+the sporulation process is essential, and additional factors such as Mn2+, Fe2+, 
+and Ca2+ were found to contribute to sporulation. A mixture of L. boronitolerans 
+YS11 spore powder, cement, paste, sand, yeast extract, calcium lactate, and water
+showed a healing effect on a 0.3 mm mortar crack in 7 days. Furthermore, calcium 
+carbonate precipitation was observed over the crack surface. Thus, we confirmed
+that mortar treated with YS11 spore powder was effective in healing micro-cracks 
+in concrete.
+
+DOI: 10.1007/s12275-020-9580-y 
+PMID: 32103443 
+

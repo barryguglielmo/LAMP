@@ -1,0 +1,63 @@
+
+1. Appl Environ Microbiol. 2020 Aug 28. pii: AEM.01569-20. doi:
+10.1128/AEM.01569-20. [Epub ahead of print]
+
+Salmonella enterica serovar Typhimurium Temporally Modulates the Enteric
+Microbiota and Host Responses to Overcome Colonization Resistance in Swine.
+
+Bescucci DM(1)(2), Moote PE(1)(2), Ortega Polo R(1), Uwiera RRE(3), Inglis GD(4).
+
+Author information: 
+(1)Lethbridge Research and Development Centre, Agriculture and Agri-Food Canada, 
+Lethbridge, Alberta, Canada.
+(2)Department of Agricultural, Food and Nutritional Science, University of
+Alberta, Edmonton, Alberta, Canada.
+(3)Department of Agricultural, Food and Nutritional Science, University of
+Alberta, Edmonton, Alberta, Canada Douglas.Inglis@canada.ca
+Richard.Uwiera@ualberta.ca.
+(4)Lethbridge Research and Development Centre, Agriculture and Agri-Food Canada, 
+Lethbridge, Alberta, Canada Douglas.Inglis@canada.ca Richard.Uwiera@ualberta.ca.
+
+Salmonella enterica serovar Typhimurium is a prevalent incitant of enteritis in
+human beings and animals. It has been proposed that host defense responses
+incited by Salmonella allow the bacterium to overcome colonization resistance.
+Piglets (n=24) were orally inoculated with S. enterica Typhimurium DT104 or
+buffer alone, and the host and microbial responses were temporally examined at
+acute (2 days post-inoculation [dpi]), subacute (6 dpi), and recovery (10 dpi)
+stages of salmonellosis. At the acute stage of disease, body temperatures were
+elevated, and feed consumption and weight gain were reduced. Densities of
+Salmonella associated with gut mucosa decreased over time, with higher densities 
+of the bacterium in the ileum and the large intestine. Moreover, substantive
+histopathologic changes were observed as a function of time, with prominent
+epithelial injury and neutrophil infiltration observed at 2 dpi. Correspondingly,
+a variety of host metrics were temporally affected in piglets with salmonellosis 
+(e.g. TNFα, IFNγ, PR39, βD2, iNOS, IL8, REGIIIγ). The enteric microbiota was
+characterized using culture-independent and -dependent methods in concert, and
+taxon- and location-specific changes to the microbiota were observed in infected 
+piglets. Bacteroides spp. (e.g. B. uniformis, B. fragilis), Streptococcus spp.
+(e.g. S. gallolyticus), and various Gammaproteobacteria were highly associated
+with inflamed tissues, while bacteria within Ruminococcaceae and Veillonellaceae 
+were mainly associated with healthy mucosa. In conclusion, the study findings
+showed that S. Typhimurium incited temporal and spatial modifications to the
+swine autochthonous microbiota, and to host defense responses, that were
+consistent with overcoming colonization resistance to incite salmonellosis in
+swine.IMPORTANCE Limited information is available on host and enteric microbiota 
+responses incited by Salmonella enterica Typhimurium in swine, and possible
+mechanisms by which the bacterium overcomes colonization resistance to incite
+salmonellosis. Temporal characterization of a variety of host metrics in piglets 
+(e.g. physiologic, histopathologic, and immunologic) showed the importance of
+studying the progression of salmonellosis. A number of host responses integrally 
+associated with disease development were identified. Utilization of
+next-generation sequence analysis to characterize the enteric microbiota was
+found to lack sufficient resolution; however, culture-dependent and -independent 
+methods in combination identified taxon- and location-specific changes to
+bacterial communities in infected piglets. The study identified bacteria and host
+responses associated with salmonellosis, which will be beneficial in
+understanding colonization resistance and for the development of effective
+alternatives to antibiotics to mitigate salmonellosis.
+
+© Crown copyright 2020.
+
+DOI: 10.1128/AEM.01569-20 
+PMID: 32859592 
+

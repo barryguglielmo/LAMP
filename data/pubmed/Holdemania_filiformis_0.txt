@@ -1,0 +1,55 @@
+
+1. J Eur Acad Dermatol Venereol. 2020 Feb;34(2):400-405. doi: 10.1111/jdv.15885.
+Epub 2019 Oct 2.
+
+Analysis of the gut microbiota in alopecia areata: identification of bacterial
+biomarkers.
+
+Moreno-Arrones OM(1), Serrano-Villar S(2), Perez-Brocal V(3)(4), Saceda-Corralo
+D(1), Morales-Raya C(5), Rodrigues-Barata R(1), Moya A(3)(4)(6), Jaen-Olasolo
+P(1), Vano-Galvan S(1).
+
+Author information: 
+(1)Dermatology Department, Hospital Universitario Ramón y Cajal, IRYCIS,
+Universidad de Alcalá, Madrid, Spain.
+(2)Infectious Diseases Department, Ramon y Cajal Hospital, Madrid, Spain.
+(3)Department of Genomics and Health, Foundation for the Promotion of Health and 
+Biomedical Research of Valencia Region (FISABIO-Public Health), València, Spain.
+(4)CIBER in Epidemiology and Public Health (CIBEResp), Madrid, Spain.
+(5)Clinica Pedro Jaen, Madrid, Spain.
+(6)Institute for Integrative Systems Biology (I2SysBio), The University of
+Valencia and The Spanish National Research Council (CSIC)-UVEG), València, Spain.
+
+BACKGROUND: Alopecia areata is a T-cell-mediated autoimmune disease with an
+unknown etiopathogenesis. Gut microbiota has been revealed as a key modulator of 
+systemic immunity.
+OBJECTIVE: To determine whether patients affected by alopecia universalis present
+differences in gut bacteria composition compared with healthy controls and
+investigate possible bacterial biomarkers of the disease.
+METHODS: We conducted a cross-sectional study that involved 15 patients affected 
+by alopecia universalis and 15 controls. Gut microbiome of the study subjects was
+analysed by sequencing the 16SrRNA of stool samples. We searched for bacterial
+biomarkers of alopecia universalis using the linear discriminant analysis effect 
+size (LEFse) tool.
+RESULTS: In total, 30 study subjects (46.6% female; mean [SD] age, 40.1 [9.8]
+years) were enrolled. Neither alpha (Shannon diversity index 5.31 ± 0.43 vs.
+5.03 ± 0.43, P 0.1) or beta diversity (ADONIS P value: 0.35) of gut microbiota
+showed statistically significant differences between cases and controls. In
+patients affected with alopecia, we found an enriched presence (LDA SCORE > 2) of
+Holdemania filiformis, Erysipelotrichacea, Lachnospiraceae, Parabacteroides
+johnsonii, Clostridiales vadin BB60 group, Bacteroides eggerthii and
+Parabacteroides distasonis. A predictive model based on the number of bacterial
+counts of Parabacteroides distasonis and Clostridiales vadin BB60 group correctly
+predicted disease status in 80% of patients (AUC 0.804 (0.633-0.976), P 0.004).
+CONCLUSION: Alopecia universalis does not seem to affect broadly gut microbiota
+structure. Bacterial biomarkers found associated with the disease (Holdemania
+filiformis, Erysipelotrichacea, Lachnospiraceae, Parabacteroides johnsonii,
+Eggerthellaceae, Clostridiales vadin BB60 group, Bacteroides eggerthii and
+Parabacteroides distasonis) should be further studied as they could be involved
+in its pathophysiology or be used as diagnostic tools.
+
+© 2019 European Academy of Dermatology and Venereology.
+
+DOI: 10.1111/jdv.15885 
+PMID: 31419351 
+

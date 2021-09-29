@@ -1,0 +1,45 @@
+
+1. J Glob Antimicrob Resist. 2020 Sep;22:713-717. doi: 10.1016/j.jgar.2020.06.001.
+Epub 2020 Jun 11.
+
+Comparative in vitro activities of meropenem in combination with colistin,
+levofloxacin, or chloramphenicol against Achromobacter xylosoxidans strains
+isolated from patients with cystic fibrosis.
+
+Damar-Çelik D(1), Nørskov-Lauritsen N(2), Özbek-Çelik B(3).
+
+Author information: 
+(1)Department of Pharmaceutical Microbiology, Faculty of Pharmacy, University of 
+Istanbul, 34116 Fatih, Istanbul, Turkey.
+(2)Department of Clinical Microbiology, Aarhus University Hospital, DK-8200
+Aarhus N, Denmark.
+(3)Department of Pharmaceutical Microbiology, Faculty of Pharmacy, University of 
+Istanbul, 34116 Fatih, Istanbul, Turkey. Electronic address:
+berna.ozbek@istanbul.edu.tr.
+
+OBJECTIVES: Achromobacter xylosoxidans is an emerging pathogen in cystic fibrosis
+(CF). Relatively little is known about its clinical impact and optimal
+management. In the present study, the in vitro bactericidal activities of
+meropenem, either alone or in combination with colistin, levofloxacin, or
+chloramphenicol, were assessed using A. xylosoxidans strains isolated from CF
+patients. The synergistic interactions of these combinations were also
+investigated.
+METHODS: Minimal inhibitory concentrations (MICs) were determined by microbroth
+dilution. Bactericidal and synergistic effects of the tested antibiotic
+combinations were assessed by using the time-kill curve technique.
+RESULTS: Based on the time-kill curves, we found that meropenem-colistin
+combinations have bactericidal and synergistic activities for 24 h against A.
+xylosoxidans strains, both at 1 × MIC and 4 × MIC. Although synergistic
+interactions were seen with meropenem-levofloxacin combinations, no bactericidal 
+interactions were observed. Additionally, the meropenem-chloramphenicol
+combinations were found to be neither bactericidal nor synergistic. No antagonism
+was observed with any combination tested.
+CONCLUSIONS: This study's findings could have important implications for
+empirical or combination antimicrobial therapy with tested antibiotics.
+
+Copyright © 2020 International Society for Antimicrobial Chemotherapy. Published 
+by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jgar.2020.06.001 
+PMID: 32534046 
+

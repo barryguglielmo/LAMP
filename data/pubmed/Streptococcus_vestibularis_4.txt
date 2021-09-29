@@ -1,0 +1,53 @@
+
+1. Clin Infect Dis. 2020 Aug 22;71(5):1195-1203. doi: 10.1093/cid/ciz968.
+
+Association Between the Respiratory Microbiome and Susceptibility to Influenza
+Virus Infection.
+
+Tsang TK(1), Lee KH(2), Foxman B(2), Balmaseda A(3)(4), Gresh L(3), Sanchez N(3),
+Ojeda S(3), Lopez R(3)(4), Yang Y(1)(5), Kuan G(6), Gordon A(2).
+
+Author information: 
+(1)Department of Biostatistics, University of Florida, Gainesville, Florida, USA.
+(2)Department of Epidemiology, School of Public Health, University of Michigan,
+Ann Arbor, Michigan, USA.
+(3)Sustainable Sciences Institute, Managua, Nicaragua.
+(4)Laboratorio Nacional de Virología, Centro Nacional de Diagnóstico y
+Referencia, Ministry of Health, Managua, Nicaragua.
+(5)Emerging Pathogens Institute, University of Florida, Gainesville, Florida,
+USA.
+(6)Centro de Salud Sócrates Flores Vivas, Ministry of Health, Managua, Nicaragua.
+
+BACKGROUND: Previous studies suggest that the nose/throat microbiome may play an 
+important role in shaping host immunity and modifying the risk of respiratory
+infection. Our aim is to quantify the association between the nose/throat
+microbiome and susceptibility to influenza virus infection.
+METHODS: In this household transmission study, index cases with confirmed
+influenza virus infection and their household contacts were followed for 9-12
+days to identify secondary influenza infections. Respiratory swabs were collected
+at enrollment to identify and quantify bacterial species via high-performance
+sequencing. Data were analyzed by an individual hazard-based transmission model
+that was adjusted for age, vaccination, and household size.
+RESULTS: We recruited 115 index cases with influenza A(H3N2) or B infection and
+436 household contacts. We estimated that a 10-fold increase in the abundance in 
+Streptococcus spp. and Prevotella salivae was associated with 48% (95% credible
+interval [CrI], 9-69%) and 25% (95% CrI, 0.5-42%) lower susceptibility to
+influenza A(H3N2) infection, respectively. In contrast, for influenza B
+infection, a 10-fold increase in the abundance in Streptococcus vestibularis and 
+Prevotella spp. was associated with 63% (95% CrI, 17-83%) lower and 83% (95% CrI,
+15-210%) higher susceptibility, respectively.
+CONCLUSIONS: Susceptibility to influenza infection is associated with the
+nose/throat microbiome at the time of exposure. The effects of oligotypes on
+susceptibility differ between influenza A(H3N2) and B viruses. Our results
+suggest that microbiome may be a useful predictor of susceptibility, with the
+implication that microbiome could be modulated to reduce influenza infection
+risk, should these associations be causal.
+
+© The Author(s) 2019. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/cid/ciz968 
+PMCID: PMC7442850
+PMID: 31562814 
+

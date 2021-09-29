@@ -1,0 +1,54 @@
+
+1. Microb Cell Fact. 2020 Oct 1;19(1):185. doi: 10.1186/s12934-020-01446-6.
+
+The temperature of growth and sporulation modulates the efficiency of
+spore-display in Bacillus subtilis.
+
+Petrillo C(1), Castaldi S(1), Lanzilli M(1)(2), Saggese A(1), Donadio G(1)(3),
+Baccigalupi L(4), Ricca E(5), Isticato R(1).
+
+Author information: 
+(1)Department of Biology, Federico II University complesso universitario di Monte
+Sant' Angelo via Cinthia, 80126, Napoli, Italy.
+(2)Institute of Biomolecular Chemistry, National Research Council of Italy,
+Pozzuoli (Naples), Italy.
+(3)Department of Medicine, Surgery and Dentistry "Scuola Medica Salernitana",
+University of Salerno, Fisciano (SA), Italy.
+(4)Department of Molecular Medicine and Medical Biotechnology, Federico II
+University of Naples, Napoli, Italy.
+(5)Department of Biology, Federico II University complesso universitario di Monte
+Sant' Angelo via Cinthia, 80126, Napoli, Italy. ericca@unina.it.
+
+BACKGROUND: Bacterial spores displaying heterologous antigens or enzymes have
+long been proposed as mucosal vaccines, functionalized probiotics or
+biocatalysts. Two main strategies have been developed to display heterologous
+molecules on the surface of Bacillus subtilis spores: (i) a recombinant approach,
+based on the construction of a gene fusion between a gene coding for a coat
+protein (carrier) and DNA coding for the protein to be displayed, and (ii) a
+non-recombinant approach, based on the spontaneous and stable adsorption of
+heterologous molecules on the spore surface. Both systems have advantages and
+drawbacks and the selection of one or the other depends on the protein to be
+displayed and on the final use of the activated spore. It has been recently shown
+that B. subtilis builds structurally and functionally different spores when grown
+at different temperatures; based on this finding B. subtilis spores prepared at
+25, 37 or 42 °C were compared for their efficiency in displaying various model
+proteins by either the recombinant or the non-recombinant approach.
+RESULTS: Immune- and fluorescence-based assays were used to analyze the display
+of several model proteins on spores prepared at 25, 37 or 42 °C. Recombinant
+spores displayed different amounts of the same fusion protein in response to the 
+temperature of spore production. In spores simultaneously displaying two fusion
+proteins, each of them was differentially displayed at the various temperatures. 
+The display by the non-recombinant approach was only modestly affected by the
+temperature of spore production, with spores prepared at 37 or 42 °C slightly
+more efficient than 25 °C spores in adsorbing at least some of the model proteins
+tested.
+CONCLUSION: Our results indicate that the temperature of spore production allows 
+control of the display of heterologous proteins on spores and, therefore, that
+the spore-display strategy can be optimized for the specific final use of the
+activated spores by selecting the display approach, the carrier protein and the
+temperature of spore production.
+
+DOI: 10.1186/s12934-020-01446-6 
+PMCID: PMC7528486
+PMID: 33004043 
+

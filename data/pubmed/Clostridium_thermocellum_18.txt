@@ -1,0 +1,48 @@
+
+1. Nat Commun. 2020 Apr 22;11(1):1937. doi: 10.1038/s41467-020-15704-z.
+
+Development of a thermophilic coculture for corn fiber conversion to ethanol.
+
+Beri D(1)(2), York WS(2)(3)(4), Lynd LR(5)(6)(7)(8), Peña MJ(9)(10), Herring
+CD(1)(2)(11).
+
+Author information: 
+(1)Thayer School of Engineering, Dartmouth College, Hanover, NH, 03755, USA.
+(2)Centre for Bioenergy Innovation, Oak Ridge National Laboratory, Oak Ridge, TN,
+37830, USA.
+(3)Complex Carbohydrate Research Center, University of Georgia, Athens, GA,
+30602, USA.
+(4)Department of Biochemistry and Molecular Biology, University of Georgia,
+Athens, GA, 30602, USA.
+(5)Thayer School of Engineering, Dartmouth College, Hanover, NH, 03755, USA.
+lee.r.lynd@dartmouth.edu.
+(6)Centre for Bioenergy Innovation, Oak Ridge National Laboratory, Oak Ridge, TN,
+37830, USA. lee.r.lynd@dartmouth.edu.
+(7)Enchi Corporation, Lebanon, NH, 03766, USA. lee.r.lynd@dartmouth.edu.
+(8)Department of Biological Sciences, Dartmouth College, Hanover, NH, 03755, USA.
+lee.r.lynd@dartmouth.edu.
+(9)Centre for Bioenergy Innovation, Oak Ridge National Laboratory, Oak Ridge, TN,
+37830, USA. mpena@ccrc.uga.edu.
+(10)Complex Carbohydrate Research Center, University of Georgia, Athens, GA,
+30602, USA. mpena@ccrc.uga.edu.
+(11)Enchi Corporation, Lebanon, NH, 03766, USA.
+
+The fiber in corn kernels, currently unutilized in the corn to ethanol process,
+represents an opportunity for introduction of cellulose conversion technology. We
+report here that Clostridium thermocellum can solubilize over 90% of the
+carbohydrate in autoclaved corn fiber, including its hemicellulose component
+glucuronoarabinoxylan (GAX). However, Thermoanaerobacterium thermosaccharolyticum
+or several other described hemicellulose-fermenting thermophilic bacteria can
+only partially utilize this GAX. We describe the isolation of a previously
+undescribed organism, Herbinix spp. strain LL1355, from a thermophilic microbiome
+that can consume 85% of the recalcitrant GAX. We sequence its genome, and based
+on structural analysis of the GAX, identify six enzymes that hydrolyze GAX
+linkages. Combinations of up to four enzymes are successfully expressed in T.
+thermosaccharolyticum. Supplementation with these enzymes allows T.
+thermosaccharolyticum to consume 78% of the GAX compared to 53% by the parent
+strain and increases ethanol yield from corn fiber by 24%.
+
+DOI: 10.1038/s41467-020-15704-z 
+PMCID: PMC7176698
+PMID: 32321909  [Indexed for MEDLINE]
+

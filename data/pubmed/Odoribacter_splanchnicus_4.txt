@@ -1,0 +1,39 @@
+
+1. Br J Haematol. 2020 Jun;189(5):926-930. doi: 10.1111/bjh.16458. Epub 2020 Feb 21.
+
+An alpha-defensin gene single nucleotide polymorphism modulates the gut
+microbiota and may alter the risk of acute graft-versus-host disease.
+
+Rashidi A(1), Herman A(2), Gomes ALC(3)(4), Peled JU(3)(4), Jenq RR(5), Brereton 
+DG(3), Staley C(6), Blazar BR(7), Weisdorf DJ(1).
+
+Author information: 
+(1)Division of Hematology, Oncology, and Transplantation, Department of Medicine,
+University of Minnesota, Minneapolis, MN, USA.
+(2)Minnesota Supercomputing Institute, Minneapolis, MN, USA.
+(3)Adult Bone Marrow Transplantation Service, Department of Medicine, Memorial
+Sloan Kettering Cancer Center, New York, NY, USA.
+(4)Weill Cornell Medical College, New York, NY, USA.
+(5)Departments of Genomic Medicine and Stem Cell Transplantation and Cellular
+Therapy, The University of Texas MD Anderson Cancer Center, Houston, TX, USA.
+(6)Department of Surgery, University of Minnesota, Minneapolis, MN, USA.
+(7)Division of Blood and Marrow Transplantation, Department of Pediatrics,
+University of Minnesota, Minneapolis, MN, USA.
+
+We previously reported a protective association between single nucleotide
+polymorphisms (SNPs; rs4415345G and rs4610776A alleles) of Paneth cell
+α-defensin-5 against acute graft-versus-host disease (aGVHD). Because dysbiosis
+has been associated with aGVHD, we hypothesized that these SNPs may have a gut
+microbiota signature. In Lasso regression analysis of 248 healthy individuals,
+rs4415345G was associated with a higher abundance of Odoribacter splanchnicus, an
+anaerobic butyrogenic commensal. In multivariable analysis of data from 613
+allogeneic haematopoietic cell transplant recipients, peri-engraftment presence
+of O. splanchnicus was associated with ~50% lower risk for grade II-IV aGVHD
+(hazard ratio 0·53, 95% confidence interval 0·28-1·00, P = 0·05). O. splanchnicus
+may protect rs4415345G individuals against aGVHD.
+
+© 2020 British Society for Haematology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/bjh.16458 
+PMID: 32086815 
+

@@ -1,0 +1,61 @@
+
+1. Int J Food Microbiol. 2020 Apr 2;318:108466. doi:
+10.1016/j.ijfoodmicro.2019.108466. Epub 2019 Dec 2.
+
+A mathematical modeling approach to the quantification of lactic acid bacteria in
+vacuum-packaged samples of cooked meat: Combining the TaqMan-based quantitative
+PCR method with the plate-count method.
+
+Martins WF(1), Longhi DA(2), de Aragão GMF(3), Melero B(4), Rovira J(4), Diez
+AM(5).
+
+Author information: 
+(1)Federal University of Santa Catarina, Department of Chemical Engineering and
+Food Engineering, Center of Technology, Florianópolis, SC 88040-901, Brazil;
+Federal Institute of Education, Science and Technology of Goiano, Food
+Technology, Campus Morrinhos, Morrinhos, GO 75650-000, Brazil.
+(2)Federal University of Paraná, Food Engineering, Campus Jandaia do Sul, Jandaia
+do Sul, PR 86900-000, Brazil.
+(3)Federal University of Santa Catarina, Department of Chemical Engineering and
+Food Engineering, Center of Technology, Florianópolis, SC 88040-901, Brazil.
+(4)University of Burgos, Department of Biotechnology and Food Science, Burgos
+09001, Spain.
+(5)University of Burgos, Department of Biotechnology and Food Science, Burgos
+09001, Spain. Electronic address: amdiez@ubu.es.
+
+The TaqMan-based quantitative Polymerase Chain Reaction (qPCR) method and the
+Plate Count (PC) method are both used in combination with primary and secondary
+mathematical modeling, to describe the growth curves of Leuconostoc mesenteroides
+and Weissella viridescens in vacuum-packaged meat products during storage under
+different isothermal conditions. Vacuum-Packaged Morcilla (VPM), a typical cooked
+blood sausage, is used as a representative meat product, with the aim of
+improving shelf-life prediction methods for those sorts of meat products. The
+standard curves constructed by qPCR showed good linearity between the cycle
+threshold (CT) and log10 CFU/g, demonstrating the high precision and the
+reproducible results of the qPCR method. The curves were used for the
+quantification of L. mesenteroides and W. viridescens in artificially inoculated 
+VPM samples under isothermal storage (5, 8, 13 and 18 °C). Primally, both the
+qPCR and the PC methods were compared, and a linear regression analysis
+demonstrated a statistically significant linear correlation between the methods. 
+Secondly, the Baranyi and Roberts model was fitted to the growth curve data to
+estimate the kinetic parameters of L. mesenteroides and W. viridescens under
+isothermal conditions, and secondary models were used to establish the dependence
+of the maximum specific growth rate on the temperature. The results proved that
+primary and secondary models were adequate for describing the growth curves of
+both methods in relation to both bacteria. In conclusion, the results of all the 
+experiments proved that the qPCR method in combination with the PC method can be 
+used to construct microbial growth kinetics and that primary and secondary
+mathematical modeling can be successfully applied to describe the growth of L.
+mesenteroides and W. viridescens in vacuum-packaged morcilla and, by extension,
+other cooked meat products with similar characteristics.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijfoodmicro.2019.108466 
+PMID: 31865245  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

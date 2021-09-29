@@ -1,0 +1,51 @@
+
+1. Data Brief. 2020 Sep 11;32:106305. doi: 10.1016/j.dib.2020.106305. eCollection
+2020 Oct.
+
+Data for microbe resistant engineered recombinant spider silk protein based 2D
+and 3D materials.
+
+Kumari S(1), Lang G(1)(2), DeSimone E(1), Spengler C(3), Trossmann VT(1), Lücker 
+S(4), Hudel M(5), Jacobs K(3), Krämer N(4), Scheibel T(1)(6)(7)(8)(9).
+
+Author information: 
+(1)Department of Biomaterials, Faculty of Engineering Science, University of
+Bayreuth, Prof.-Rüdiger-Bormann-Str. 1, 95447 Bayreuth, Germany.
+(2)Biopolymer Processing Group, Faculty of Engineering Science, University of
+Bayreuth, Ludwig-Thoma-Str. 36A, 95447 Bayreuth, Germany.
+(3)Department of Experimental Physics and Center for Biophysics, Saarland
+University, 66123 Saarbrücken, Germany.
+(4)Medical Center for Dentistry, Department of Paediatric Dentistry, Medical
+Center Gießen and Marburg, Justus-Liebig University Gießen, Schlagenzahl 14,
+35392 Gießen, Germany.
+(5)Institute of Medical Microbiology, Justus-Liebig University Gießen,
+Schubertstraße 81, 35392 Gießen, Germany.
+(6)Bayreuth Center for Material Science and Engineering (BayMAT), Germany.
+(7)Bavarian Polymer Institute (BPI), Germany.
+(8)Bayreuth Center for Colloids and Interfaces (BZKG), Germany.
+(9)Bayreuth Center for Molecular Biosciences (BZMB), University of Bayreuth,
+Universitätsstraße 30, 95447 Bayreuth, Germany.
+
+Data presented in this article describe bacterial and fungal repellent properties
+of 2D-films and 3D-hydrogels made of different recombinantly produced spider silk
+proteins based on consensus sequences of Araneus diadematus dragline silk
+proteins (fibroin 3 and 4). Here, the attachment, growth, and microbial
+colonization of Streptococcus mutans (S. mutans) as well as Candida albicans (C. 
+albicans) on plane and micro-patterned films were visualized by scanning electron
+microscopy (SEM). Also, microbial viability data are provided of Escherichia coli
+(E. coli) and Pichia pastoris (P. pastoris) on hydrogels made of eADF4(C16) and
+eADF4(C16)-RGD, quantified using the Alamar blue assay. Experimental results,
+design of a post-operative contamination model of microbes with mammalian cells, 
+and methods in the data article refer to the research paper "Engineered spider
+silk-based 2D and 3D materials prevent microbial infestation" published recently 
+[1].
+
+© 2020 The Author(s).
+
+DOI: 10.1016/j.dib.2020.106305 
+PMCID: PMC7509184
+PMID: 32995396 
+
+Conflict of interest statement: The authors declare the following competing
+financial interest (s): T.S. is co-founder and share-holder of the AMSilk GmbH.
+

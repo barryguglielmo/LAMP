@@ -1,0 +1,60 @@
+
+1. Exp Eye Res. 2020 Feb;191:107921. doi: 10.1016/j.exer.2020.107921. Epub 2020 Jan 
+7.
+
+Gut microbiota compositional profile and serum metabolic phenotype in patients
+with primary open-angle glaucoma.
+
+Gong H(1), Zhang S(2), Li Q(3), Zuo C(2), Gao X(2), Zheng B(2), Lin M(4).
+
+Author information: 
+(1)State Key Laboratory of Ophthalmology, Guangdong Provincial Key Laboratory of 
+Ophthalmology and Visual Science, Zhongshan Ophthalmic Center, Sun Yat-sen
+University, Guangzhou, China; Department of Ophthalmology, Guangdong Provincial
+Key Laboratory of Malignant Tumor Epigenetics and Gene Regulation, Sun Yat-sen
+Memorial hospital, Sun Yat-sen University, Guangzhou, China.
+(2)State Key Laboratory of Ophthalmology, Guangdong Provincial Key Laboratory of 
+Ophthalmology and Visual Science, Zhongshan Ophthalmic Center, Sun Yat-sen
+University, Guangzhou, China.
+(3)Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene
+Regulation, Sun Yat-sen Memorial hospital, Sun Yat-sen University, Guangzhou,
+China.
+(4)State Key Laboratory of Ophthalmology, Guangdong Provincial Key Laboratory of 
+Ophthalmology and Visual Science, Zhongshan Ophthalmic Center, Sun Yat-sen
+University, Guangzhou, China. Electronic address: linmk@mail.sysu.edu.cn.
+
+The gut microbiota (GM) and its influence on host metabolism are considered to be
+an environmental factor that contributes to the progression of many immune and
+neurodegenerative diseases. However, the features of the GM and serum metabolites
+in Primary open-angle glaucoma (POAG) patients have not been clearly elucidated. 
+The purpose of this research is to explore the gut microbial composition and
+serum metabolic phenotype in POAG patients. 16S rRNA V4 genes of bacteria from
+the fecal samples of 30 POAG patients and 30 healthy subjects were sequenced by
+the Illumina MiSeq platform and then analyzed by QIIME. Their serum samples were 
+analyzed by gas chromatography/mass spectrometry (GC-MS)-based metabolomics. The 
+association between gut microbial species and host circulating metabolites and
+clinical phenotypes was also analyzed. Compared with controls, f Prevotellaceae, 
+g unidentified Enterobacteriaceae, and s Escherichia coli increased the most in
+POAG patients, whereas g Megamonas and s Bacteroides plebeius significantly
+decreased in POAG patients. The alteration of the endogenous metabolomic profile 
+in POAG patients included five amino acids or dipeptides, two hormone derivates, 
+one purine derivative, one bile acid derivative and one organic acid. It also
+showed that citric acid was positively correlated with Megamonas, whereas
+L-γ-Glutamyl-L-alanine, MHPG, cholic acid glucuronide and hypoxanthine were
+negatively correlated with Megamonas. Mean visual acuity was negatively
+correlated with Blautia, mean VF-MD was negatively correlated with
+Faecalibacterium, and average RNFL thickness was positively correlated with
+Streptococcus. Our results revealed that there was a distinct difference in GM
+composition and serum metabolic phenotype between POAG patients and healthy
+individuals. This finding suggests the potential correlations between the GM and 
+serum metabolites in the pathogenesis of glaucoma and thus provides new insight
+into the GM-targeted interventions of this disease.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.exer.2020.107921 
+PMID: 31917963  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest All authors
+claimed there were no conflicts of interest.
+

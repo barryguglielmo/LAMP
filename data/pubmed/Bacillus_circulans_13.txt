@@ -1,0 +1,49 @@
+
+1. Appl Microbiol Biotechnol. 2020 Jan;104(1):173-185. doi:
+10.1007/s00253-019-10249-8. Epub 2019 Nov 22.
+
+Improved production of cyclodextrin glycosyltransferase from Bacillus
+stearothermophilus NO2 in Escherichia coli via directed evolution.
+
+Tao X(1)(2)(3), Su L(1)(2)(3), Wang L(1)(2)(3), Chen X(2), Wu J(4)(5)(6).
+
+Author information: 
+(1)State Key Laboratory of Food Science and Technology, Jiangnan University, 1800
+Lihu Avenue, Wuxi, 214122, China.
+(2)School of Biotechnology and Key Laboratory of Industrial Biotechnology
+Ministry of Education, Jiangnan University, 1800 Lihu Avenue, Wuxi, 214122,
+China.
+(3)International Joint Laboratory on Food Safety, Jiangnan University, 1800 Lihu 
+Avenue, Wuxi, 214122, China.
+(4)State Key Laboratory of Food Science and Technology, Jiangnan University, 1800
+Lihu Avenue, Wuxi, 214122, China. jingwu@jiangnan.edu.cn.
+(5)School of Biotechnology and Key Laboratory of Industrial Biotechnology
+Ministry of Education, Jiangnan University, 1800 Lihu Avenue, Wuxi, 214122,
+China. jingwu@jiangnan.edu.cn.
+(6)International Joint Laboratory on Food Safety, Jiangnan University, 1800 Lihu 
+Avenue, Wuxi, 214122, China. jingwu@jiangnan.edu.cn.
+
+Cyclodextrin glycosyltransferases (CGTases) are widely used in starch deep
+processing, so reducing their cost by improving their production is of
+significant industrial interest. The CGTase from Bacillus stearothermophilus NO2 
+possesses excellent catalytic properties but suffers from low production in E.
+coli. In this study, directed evolution was used to create three point mutants
+(I631T, I641T and K647E) that were produced in E. coli with shake-flask yields
+1.7-, 2.1-, and 2.2-fold higher than that of wild-type, respectively. The
+wild-type and K647E were then produced in a 3-L fermenter. The CGTase activity of
+the K647E (1904 U mL-1) was 2.0-fold higher than that of the wild-type. The K647E
+fermentation supernatant could be used directly to prepare
+2-O-α-D-glucopyranosyl-L-ascorbic acid, reducing the costs associated with its
+production. Structural modeling of the three mutants suggested that
+hydrophilicity, hydrogen bonding, and negative charge may be responsible for
+their improved production. Since K647 is conserved in the CGTase family, the
+corresponding residues in the CGTases from Bacillus circulans 251, Paenibacillus 
+macerans, and Anaerobranca gottschalkii were changed to glutamic acid.
+Productions of the resulting K647E mutants were 2.0-, 1.5-, and 1.0-fold higher
+than those of their respective wild-types. Electrostatic protein surface analysis
+suggested that mutations occurring at low negative surface charge may increase
+CGTase production.
+
+DOI: 10.1007/s00253-019-10249-8 
+PMID: 31758236  [Indexed for MEDLINE]
+

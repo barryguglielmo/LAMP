@@ -1,0 +1,56 @@
+
+1. Int J Antimicrob Agents. 2020 Jan;55(1):105806. doi:
+10.1016/j.ijantimicag.2019.09.010. Epub 2019 Sep 15.
+
+Within-host heterogeneity and flexibility of mcr-1 transmission in chicken gut.
+
+Li XP(1), Sun RY(2), Song JQ(2), Fang LX(2), Zhang RM(2), Lian XL(2), Liao XP(2),
+Liu YH(2), Lin J(3), Sun J(4).
+
+Author information: 
+(1)National Risk Assessment Laboratory for Antimicrobial Resistance of Animal
+Original Bacteria, South China Agricultural University, Guangzhou, P. R. China;
+College of Veterinary Medicine, South China Agricultural University, Guangzhou,
+P. R. China; Department of Animal Science, The University of Tennessee,
+Knoxville, TN, USA.
+(2)National Risk Assessment Laboratory for Antimicrobial Resistance of Animal
+Original Bacteria, South China Agricultural University, Guangzhou, P. R. China;
+College of Veterinary Medicine, South China Agricultural University, Guangzhou,
+P. R. China.
+(3)Department of Animal Science, The University of Tennessee, Knoxville, TN, USA.
+Electronic address: jlin6@utk.edu.
+(4)National Risk Assessment Laboratory for Antimicrobial Resistance of Animal
+Original Bacteria, South China Agricultural University, Guangzhou, P. R. China;
+College of Veterinary Medicine, South China Agricultural University, Guangzhou,
+P. R. China. Electronic address: jiansun@scau.edu.cn.
+
+OBJECTIVES: To characterize the colistin-resistant bacterial population in the
+gut and assess diversity of mcr-1 transmission within a single individual.
+METHODS: Large numbers of isolates (>100 colonies/chicken cecum sample) were
+collected from nine randomly selected mcr-1-positive chickens in China and used
+for comprehensive microbiological, molecular and comparative genomics analyses.
+RESULTS: Of 1273 colonies, 968 were mcr-1 positive (962 Escherichia coli, two
+Escherichia fergusonii, two Klebsiella pneumoniae and two Klebsiella
+quasipneumoniae). One to six colistin-resistant species and three to 10 E. coli
+pulsed-field gel electrophoresis (PFGE) clusters could be identified from each
+sample. Whole-genome sequencing (WGS) analysis of the representative E. coli
+strains revealed three to nine sequence types observed in a single chicken host. 
+The mcr-1 genes are located in either chromosomes or plasmids of different types,
+including IncI2 (n=30), IncHI2 (n=14), IncX4 (n=4), p0111(n=2) and IncHI1(n=1).
+Strikingly, in single cecum samples, one to five Inc type plasmids harbouring
+mcr-1 could be identified. Great diversity was also observed for the same IncI2
+plasmid within a single chicken host. In addition, up to eight genetic contexts
+of the mcr-1 gene occurred within a single chicken.
+CONCLUSIONS: There is extensive heterogeneity and flexibility of mcr-1
+transmission in chicken gut due to bacterial species differences, distant clonal 
+relatedness of isolates, many types and variations of mcr-positive plasmids, and 
+the flexible genetic context of the mcr-1 gene. These compelling findings
+indicate that the gut is a 'melting pot' for active horizontal transfer of the
+mcr-1 gene.
+
+Copyright © 2019 Elsevier B.V. and International Society of Chemotherapy. All
+rights reserved.
+
+DOI: 10.1016/j.ijantimicag.2019.09.010 
+PMID: 31533074 
+

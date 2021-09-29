@@ -1,0 +1,54 @@
+
+1. Microbiol Mol Biol Rev. 2020 Jan 29;84(1). pii: e00092-19. doi:
+10.1128/MMBR.00092-19. Print 2020 Feb 19.
+
+Molecular Hydrogen Metabolism: a Widespread Trait of Pathogenic Bacteria and
+Protists.
+
+Benoit SL(#)(1), Maier RJ(2), Sawers RG(3), Greening C(#)(4)(5).
+
+Author information: 
+(1)Department of Microbiology, University of Georgia, Athens, Georgia, USA.
+(2)Department of Microbiology, University of Georgia, Athens, Georgia, USA
+rmaier@uga.edu chris.greening@monash.edu.
+(3)Institute of Microbiology, Martin Luther University Halle-Wittenberg, Halle,
+Germany.
+(4)School of Biological Sciences, Monash University, Clayton, VIC, Australia
+rmaier@uga.edu chris.greening@monash.edu.
+(5)Department of Microbiology, Monash Biomedicine Discovery Institute, Clayton,
+VIC, Australia.
+(#)Contributed equally
+
+Pathogenic microorganisms use various mechanisms to conserve energy in host
+tissues and environmental reservoirs. One widespread but often overlooked means
+of energy conservation is through the consumption or production of molecular
+hydrogen (H2). Here, we comprehensively review the distribution, biochemistry,
+and physiology of H2 metabolism in pathogens. Over 200 pathogens and pathobionts 
+carry genes for hydrogenases, the enzymes responsible for H2 oxidation and/or
+production. Furthermore, at least 46 of these species have been experimentally
+shown to consume or produce H2 Several major human pathogens use the large
+amounts of H2 produced by colonic microbiota as an energy source for aerobic or
+anaerobic respiration. This process has been shown to be critical for growth and 
+virulence of the gastrointestinal bacteria Salmonella enterica serovar
+Typhimurium, Campylobacter jejuni, Campylobacter concisus, and Helicobacter
+pylori (including carcinogenic strains). H2 oxidation is generally a facultative 
+trait controlled by central regulators in response to energy and oxidant
+availability. Other bacterial and protist pathogens produce H2 as a diffusible
+end product of fermentation processes. These include facultative anaerobes such
+as Escherichia coli, S Typhimurium, and Giardia intestinalis, which persist by
+fermentation when limited for respiratory electron acceptors, as well as obligate
+anaerobes, such as Clostridium perfringens, Clostridioides difficile, and
+Trichomonas vaginalis, that produce large amounts of H2 during growth. Overall,
+there is a rich literature on hydrogenases in growth, survival, and virulence in 
+some pathogens. However, we lack a detailed understanding of H2 metabolism in
+most pathogens, especially obligately anaerobic bacteria, as well as a holistic
+understanding of gastrointestinal H2 transactions overall. Based on these
+findings, we also evaluate H2 metabolism as a possible target for drug
+development or other therapies.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/MMBR.00092-19 
+PMCID: PMC7167206 [Available on 2021-01-29]
+PMID: 31996394 
+

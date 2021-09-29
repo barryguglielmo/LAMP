@@ -1,0 +1,48 @@
+
+1. Cells. 2020 Sep 16;9(9). pii: E2104. doi: 10.3390/cells9092104.
+
+In Vitro Characterization of Gut Microbiota-Derived Commensal Strains: Selection 
+of Parabacteroides distasonis Strains Alleviating TNBS-Induced Colitis in Mice.
+
+Cuffaro B(1)(2), Assohoun ALW(2)(3), Boutillier D(1), Súkeníková L(4), Desramaut 
+J(1), Boudebbouze S(2), Salomé-Desnoulez S(5), Hrdý J(4), Waligora-Dupriet AJ(6),
+Maguin E(2), Grangette C(1).
+
+Author information: 
+(1)Université de Lille, CNRS, Inserm, CHU Lille, Institut Pasteur de Lille,
+U1019-UMR 9017-CIIL-Centre d'Infection et d'Immunité de Lille, 59000 Lille,
+France.
+(2)Institut Micalis, MIHA Team, Université Paris-Saclay, INRAE, AgroParisTech,
+78350 Jouy-en-Josas, France.
+(3)Laboratoire de Biotechnologie et Microbiologie des Aliments, UFR en Sciences
+et Technologies des Aliments, Université Nangui Abrogoua, Abidjan 00225, Côte
+d'Ivoire.
+(4)Institute of Immunology and Microbiology, First Faculty of Medicine, Charles
+University and General University Hospital, 121 08 Prague, Czech Republic.
+(5)Université de Lille, CNRS, Inserm, CHU Lille, Institut Pasteur de Lille, US
+41-UMS 2014-PLBS, 59000 Lille, France.
+(6)UMR-S1139 INSERM, Faculté de Pharmacie de Paris, Université de Paris, 75006
+Paris, France.
+
+Alterations in the gut microbiota composition and diversity seem to play a role
+in the development of chronic diseases, including inflammatory bowel disease
+(IBD), leading to gut barrier disruption and induction of proinflammatory immune 
+responses. This opens the door for the use of novel health-promoting bacteria. We
+selected five Parabacteroides distasonis strains isolated from human adult and
+neonates gut microbiota. We evaluated in vitro their immunomodulation capacities 
+and their ability to reinforce the gut barrier and characterized in vivo their
+protective effects in an acute murine model of colitis. The in vitro beneficial
+activities were highly strain dependent: two strains exhibited a potent
+anti-inflammatory potential and restored the gut barrier while a third strain
+reinstated the epithelial barrier. While their survival to in vitro gastric
+conditions was variable, the levels of P. distasonis DNA were higher in the
+stools of bacteria-treated animals. The strains that were positively scored in
+vitro displayed a strong ability to rescue mice from colitis. We further showed
+that two strains primed dendritic cells to induce regulatory T lymphocytes from
+naïve CD4+ T cells. This study provides better insights on the functionality of
+commensal bacteria and crucial clues to design live biotherapeutics able to
+target inflammatory chronic diseases such as IBD.
+
+DOI: 10.3390/cells9092104 
+PMID: 32947881 
+

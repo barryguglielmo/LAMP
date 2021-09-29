@@ -1,0 +1,31 @@
+
+1. Animals (Basel). 2020 Sep 10;10(9). pii: E1619. doi: 10.3390/ani10091619.
+
+Characterization of Gut Microbiota in Prenatal Cold Stress Offspring Rats by 16S 
+rRNA Sequencing.
+
+Zheng J(1), Zhu T(1), Wang L(1), Wang J(1), Lian S(1).
+
+Author information: 
+(1)College of Animal Science and Veterinary Medicine, Heilongjiang Bayi
+Agricultural University, Daqing 163319, China.
+
+Our previous study showed a reduction of anxiety-like behavior in offspring rats 
+suffered from prenatal cold stress; whether this was related to changes in the
+offspring gut microbiota is unclear. To obtain the evidence for the role of the
+gut microbiota in prenatal cold stress offspring, 16S rRNA sequencing technology 
+was used. Male and female offspring rat feces were collected from a room
+temperature group and a prenatal cold stress group (n ≥ 8) for microbial DNA
+extraction, followed by 16S rRNA sequencing. The results indicated that prenatal 
+cold stress could change the offspring's gut microbiota composition. Prenatal
+cold stress significantly upregulates Lactobacillus, Lactobacillus_gasseri,
+Bacteroides, and Bacteroides-acidifaciens in female offspring, whereas prenatal
+cold stress significantly reduced Lachnospiraceae and Prevotellaceae in male
+offspring. These data showed the characterization of gut microbiota in prenatal
+cold stress offspring rats, and these data suggest that microbiological
+intervention in the future can potentially prevent the negative effects caused by
+cold stress to animals.
+
+DOI: 10.3390/ani10091619 
+PMID: 32927774 
+

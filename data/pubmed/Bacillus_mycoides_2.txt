@@ -1,0 +1,73 @@
+
+1. BMC Plant Biol. 2020 May 18;20(1):220. doi: 10.1186/s12870-020-02400-9.
+
+Diversity of nitrogen-fixing rhizobacteria associated with sugarcane: a
+comprehensive study of plant-microbe interactions for growth enhancement in
+Saccharum spp.
+
+Singh RK(1)(2)(3), Singh P(1)(2)(3), Li HB(1)(2), Song QQ(1)(2), Guo DJ(1)(2)(3),
+Solanki MK(4), Verma KK(1)(3), Malviya MK(1)(3), Song XP(1)(2), Lakshmanan
+P(1)(3)(5), Yang LT(2)(3), Li YR(6)(7).
+
+Author information: 
+(1)Key Laboratory of Sugarcane Biotechnology and Genetic Improvement (Guangxi),
+Ministry of Agriculture, Sugarcane Research Center, Chinese Academy of
+Agricultural Sciences, Guangxi Key Laboratory of Sugarcane Genetic Improvement,
+Sugarcane Research Institute, Guangxi Academy of Agricultural Sciences, Nanning, 
+530007, Guangxi, China.
+(2)College of Agriculture, State Key Laboratory of Conservation and Utilization
+of Subtropical Agro-bio resources, Guangxi University, Nanning, 530005, China.
+(3)Guangxi Key Laboratory of Crop Genetic Improvement and Biotechnology, Nanning,
+530007, Guangxi, China.
+(4)Department of Food Quality and Safety, Institute for Post-harvest and Food
+Sciences, The Volcani Center, Agricultural Research Organization, 7528809, Rishon
+LeZion, Israel.
+(5)Queensland Alliance for Agriculture and Food Innovation, The University of
+Queensland, St Lucia, QLD, 4072, Australia.
+(6)Key Laboratory of Sugarcane Biotechnology and Genetic Improvement (Guangxi),
+Ministry of Agriculture, Sugarcane Research Center, Chinese Academy of
+Agricultural Sciences, Guangxi Key Laboratory of Sugarcane Genetic Improvement,
+Sugarcane Research Institute, Guangxi Academy of Agricultural Sciences, Nanning, 
+530007, Guangxi, China. liyr@gxaas.net.
+(7)College of Agriculture, State Key Laboratory of Conservation and Utilization
+of Subtropical Agro-bio resources, Guangxi University, Nanning, 530005, China.
+liyr@gxaas.net.
+
+BACKGROUND: Nitrogen is an essential element for sugarcane growth and development
+and is generally applied in the form of urea often much more than at recommended 
+rates, causing serious soil degradation, particularly soil acidification, as well
+as groundwater and air pollution. In spite of the importance of nitrogen for
+plant growth, fewer reports are available to understand the application and
+biological role of N2 fixing bacteria to improve N2 nutrition in the sugarcane
+plant.
+RESULTS: In this study, a total of 350 different bacterial strains were isolated 
+from rhizospheric soil samples of the sugarcane plants. Out of these, 22 isolates
+were selected based on plant growth promotion traits, biocontrol, and nitrogenase
+activity. The presence and activity of the nifH gene and the ability of
+nitrogen-fixation proved that all 22 selected strains have the ability to fix
+nitrogen. These strains were used to perform 16S rRNA and rpoB genes for their
+identification. The resulted amplicons were sequenced and phylogenetic analysis
+was constructed. Among the screened strains for nitrogen fixation, CY5 (Bacillus 
+megaterium) and CA1 (Bacillus mycoides) were the most prominent. These two
+strains were examined for functional diversity using Biolog phenotyping, which
+confirmed the consumption of diverse carbon and nitrogen sources and tolerance to
+low pH and osmotic stress. The inoculated bacterial strains colonized the
+sugarcane rhizosphere successfully and were mostly located in root and leaf. The 
+expression of the nifH gene in both sugarcane varieties (GT11 and GXB9)
+inoculated with CY5 and CA1 was confirmed. The gene expression studies showed
+enhanced expression of genes of various enzymes such as catalase,
+phenylalanine-ammonia-lyase, superoxide dismutase, chitinase and glucanase in
+bacterial-inoculated sugarcane plants.
+CONCLUSION: The results showed that a substantial number of Bacillus isolates
+have N-fixation and biocontrol property against two sugarcane pathogens
+Sporisorium scitamineum and Ceratocystis paradoxa. The increased activity of
+genes controlling free radical metabolism may at least in part accounts for the
+increased tolerance to pathogens. Nitrogen-fixation was confirmed in sugarcane
+inoculated with B. megaterium and B. mycoides strains using N-balance and 15N2
+isotope dilution in different plant parts of sugarcane. This is the first report 
+of Bacillus mycoides as a nitrogen-fixing rhizobacterium in sugarcane.
+
+DOI: 10.1186/s12870-020-02400-9 
+PMCID: PMC7236179
+PMID: 32423383 
+

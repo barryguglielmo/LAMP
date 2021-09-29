@@ -1,0 +1,36 @@
+
+1. Int J Syst Evol Microbiol. 2020 Sep 16. doi: 10.1099/ijsem.0.004468. [Epub ahead 
+of print]
+
+Re-identification of strains deposited as Pseudomonas aeruginosa, Pseudomonas
+fluorescens and Pseudomonas putida in GenBank based on whole genome sequences.
+
+Morimoto Y(1)(2), Tohya M(2), Aibibula Z(3), Baba T(2), Daida H(1), Kirikae T(2).
+
+Author information: 
+(1)Faculty of Health Science, Juntendo University, Tokyo, Japan.
+(2)Department of Microbiology, Juntendo University School of Medicine, Tokyo,
+Japan.
+(3)Atopy (Allergy) Research Center, Juntendo University School of Medicine,
+Tokyo, Japan.
+
+The taxonomic classification of Pseudomonas species has been revised and updated 
+several times. This study utilized average nucleotide identity (ANI) and digital 
+DNA-DNA hybridization (dDDH) cutoff values of 95 and 70 %, respectively, to
+re-identify the species of strains deposited in GenBank as P. aeruginosa, P.
+fluorescens and P. putida. Of the 264 deposited P. aeruginosa strains, 259 were
+correctly identified as P. aeruginosa, but the remaining five were not. All 28
+deposited P. fluorescens strains had been incorrectly identified as P.
+fluorescens. Four of these strains were re-identified, including two as P.
+kilonensis and one each as P. aeruginosa and P. brassicacearum, but the remaining
+24 could not be re-identified. Similarly, all 35 deposited P. putida strains had 
+been incorrectly identified as P. putida. Nineteen of these strains were
+re-identified, including 12 as P. alloputida, four as P. asiatica and one each as
+P. juntendi, P. monteilii and P. mosselii. These results strongly suggest that
+Pseudomonas bacteria should be identified using ANI and dDDH analyses based on
+whole genome sequencing when Pseudomonas species are initially deposited in
+GenBank/DDBJ/EMBL databases.
+
+DOI: 10.1099/ijsem.0.004468 
+PMID: 32936751 
+

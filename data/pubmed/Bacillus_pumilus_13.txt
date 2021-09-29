@@ -1,0 +1,43 @@
+
+1. Enzyme Microb Technol. 2020 Oct;140:109624. doi: 10.1016/j.enzmictec.2020.109624.
+Epub 2020 Jun 20.
+
+Sequence analysis and docking performance of extracellular chitinase from
+Bacillus pumilus MCB-7, a novel mangrove isolate.
+
+K S R(1), Varghese S(2), M S J(3).
+
+Author information: 
+(1)UniBiosys Biotech Research Labs, Cochin, Kerala, India.
+(2)School of Biosciences, Mahatma Gandhi University, Kottayam, Kerala, India.
+(3)School of Biosciences, Mahatma Gandhi University, Kottayam, Kerala, India.
+Electronic address: jishams@mgu.ac.in.
+
+Bacterial chitinases has a major role in chitinaceous waste management,
+biological control of pests and phytopathogens. In the present study,
+exochitinase gene ChitA encoding extracellular chitinase from the mangrove
+bacteria Bacillus pumilus MCB-07 was genetically characterized. Oligonucleotide
+primers speciﬁc to chitinase gene of Bacillus pumilus were designed and amplified
+by PCR. The puriﬁed PCR product was successfully cloned in pGEM-T vector and
+transformed into Escherichia coli DH5-α competent cells. Nucleotide sequence
+alignment of the chitinase gene revealed 96 % similarity whereas 94 % of the
+catalytic domain of 598 amino acids is conserved with protein family GH18
+chitinases, which is a novel report for Bacillus pumilus. The insert also showed 
+a number of substitutions (mutations) with other sp. of Bacillus which
+demonstrated that chitinase of Bacillus pumilus MCB-07 is a novel gene. Multiple 
+sequence alignment of chitinase gene sequences and its predicted amino acid
+sequences were also evaluated and the sequence was deposited in GenBank with
+accession number KT966736.1. Homology modeling of the chitinase depicted the
+typical (α/β) 8 TIM barrel structure. Molecular docking of the protein was
+performed by Autodock 4.2.6 and the docked pocket contained Val 113, Met 114, Gln
+99, Ala 75 and Cys 98 as the key binding residues. The molecular docking of
+Bacillus pumilus chitinase, revealed the involvement of a phenylalanine of the
+catalytic domain in the catalytic process of chitin to mono and oligomers of NAG.
+The amino acid exhibited both hydrophobic and hydrogen bond interactions of
+chitin molecules with phenylalanine.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.enzmictec.2020.109624 
+PMID: 32912684 
+

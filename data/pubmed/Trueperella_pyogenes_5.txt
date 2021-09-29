@@ -1,0 +1,40 @@
+
+1. Sci Rep. 2020 Jul 23;10(1):12353. doi: 10.1038/s41598-020-69317-z.
+
+Dynamics of uterine microbiota in postpartum dairy cows with clinical or
+subclinical endometritis.
+
+Pascottini OB(1), Van Schyndel SJ(2), Spricigo JFW(3), Rousseau J(4), Weese
+JS(4), LeBlanc SJ(2).
+
+Author information: 
+(1)Population Medicine, Ontario Veterinary College, University of Guelph, Guelph,
+ON, N1G 2W1, Canada. osvaldo.bogado@ugent.be.
+(2)Population Medicine, Ontario Veterinary College, University of Guelph, Guelph,
+ON, N1G 2W1, Canada.
+(3)Department of Animal Biosciences, University of Guelph, Guelph, ON, N1G 2W1,
+Canada.
+(4)Department of Pathobiology, Ontario Veterinary College, University of Guelph, 
+Guelph, ON, N1G 2W1, Canada.
+
+Our objectives were to describe and compare the uterine bacterial composition of 
+postpartum Holstein cows diagnosed as healthy (n = 8), subclinical endometritis
+(SCE; n = 8), or clinical endometritis (CE; n = 5) in the fifth week postpartum. 
+We did metagenomic analyses of 16S rRNA gene sequences from endometrial cytobrush
+samples at 10, 21, and 35 days in milk (DIM), and endometrial bacterial culture
+at 35 DIM. Uterine bacterial composition in healthy, SCE, and CE was stable at
+10, 21, and 35 DIM. Alpha and beta diversities showed a different uterine
+microbiome from CE compared to healthy or SCE, but no differences were found
+between healthy and SCE cows. At the phylum level, the relative abundance of
+Bacteroidetes and Fusobacteria, and at genera level, of Trueperella was greater
+in CE than healthy or SCE cows. Trueperella pyogenes was the predominant bacteria
+cultured in cows with CE, and a wide variety of bacterial growth was found in
+healthy and SCE cows. Bacteria that grew in culture were represented within the
+most abundant bacterial genera based on metagenomic sequencing. The uterine
+microbiota was similar between SCE and healthy, but the microbiome in cows with
+CE had a loss of bacterial diversity.
+
+DOI: 10.1038/s41598-020-69317-z 
+PMCID: PMC7378066
+PMID: 32704012 
+

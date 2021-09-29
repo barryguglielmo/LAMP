@@ -1,0 +1,53 @@
+
+1. BMC Vet Res. 2020 May 24;16(1):152. doi: 10.1186/s12917-020-02362-y.
+
+Fatal Clostridium sordellii-mediated hemorrhagic and necrotizing
+gastroenteropathy in a dog: case report.
+
+Capewell P(1), Rupp A(2), Fuentes M(2), McDonald M(2), Weir W(2).
+
+Author information: 
+(1)College of Medical, Veterinary and Life Sciences, Institute of Biodiversity
+Animal Health and Comparative Medicine, University of Glasgow, Urquhart Building,
+464 Bearsden Road, Glasgow, G61 1QH, UK. paul.capewell@glasgow.ac.uk.
+(2)College of Medical, Veterinary and Life Sciences, Institute of Biodiversity
+Animal Health and Comparative Medicine, University of Glasgow, Urquhart Building,
+464 Bearsden Road, Glasgow, G61 1QH, UK.
+
+BACKGROUND: Canine hemorrhagic gastroenteritis (also canine gastrointestinal
+hemorrhagic syndrome) is commonly associated with Clostridium perfringens,
+although in some cases the etiology remains unclear. This report describes a
+fatal acute hemorrhagic and necrotizing gastroenteropathy in a dog associated
+with Clostridium sordellii, a bacterial species never before identified as the
+etiological agent of hemorrhagic and necrotizing gastroenteropathy in dogs.
+CASE PRESENTATION: A fully vaccinated, eight-year-old, female neutered Labrador
+presented with a history of vomiting without diarrhea. Clinical examination
+revealed pink mucous membranes, adequate hydration, normothermia, and
+normocardia. The dog was discovered deceased the following day. Post-mortem
+examination showed moderate amounts of dark red, non-clotted fluid within the
+stomach that extended into the jejunum. Discoloration was noted in the gastric
+mucosa, liver, lungs, and kidneys, with small petechial hemorrhages present in
+the endocardium over the right heart base and thymic remnants. Histological
+analysis demonstrated that the gastric fundic mucosa, the pyloric region, small
+intestine, and large intestine exhibited superficial coagulative necrosis and
+were lined with a layer of short Gram-positive rods. Anaerobic culture of the
+gastric content revealed C. sordellii as the dominant bacterial species and
+neither Salmonella spp., Campylobacter spp., C. perfringens, nor C. difficile
+were isolated. Unexpectedly, whole genome sequencing of the C. sordellii isolate 
+showed that it lacked the main plasmid-encoded virulence factors typical of the
+species, indicating that the genetic determinants of pathogenicity of this strain
+must be chromosomally encoded. Further phylogenetic analysis revealed it to be
+genetically similar to C. sordellii isolates associated with gastroenteric
+disease in livestock, indicating that the infection may have been acquired from
+the environment.
+CONCLUSIONS: This case demonstrates that C. sordellii can associate with a canine
+hemorrhagic and necrotizing gastroenteropathy in the absence of C. perfringens
+and illustrates the benefits of using bacterial whole genome sequencing to
+support pathological investigations in veterinary diagnostics. These data also
+update the molecular phylogeny of C. sordellii, indicating a possible pathogenic 
+clade in the environment that is distinct from currently identified clades.
+
+DOI: 10.1186/s12917-020-02362-y 
+PMCID: PMC7245850
+PMID: 32448314 
+

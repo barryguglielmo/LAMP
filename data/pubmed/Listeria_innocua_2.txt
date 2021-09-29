@@ -1,0 +1,47 @@
+
+1. J Food Prot. 2020 Oct 1;83(10):1838-1843. doi: 10.4315/JFP-20-104.
+
+Effect of Storage Conditions on Shelf Stability of Undiluted Neutral Electrolyzed
+Water.
+
+Block Z(1), Eyles A(2)(3), Corkrey R(1), Stanley R(1)(2), Ross T(1)(2),
+Kocharunchitt C(1).
+
+Author information: 
+(1)Centre for Food Safety and Innovation, University of Tasmania, Private Bag 98 
+Hobart Tasmania 7001.
+(2)ARC Training Centre for Innovative Horticultural Products, Tasmanian Institute
+of Agriculture, University of Tasmania, Private Bag 98 Hobart Tasmania 7001.
+(3)(ORCID: https://orcid.org/0000-0003-4432-6216 [A.E.]).
+
+ABSTRACT: Neutral electrolyzed water (NEW) is an oxidizing sanitizer that can be 
+made locally on-site; it is often stored in a ready-to-use format to accumulate
+the large volumes required for periodic or seasonal use. The shelf stability of
+NEW sanitizer was, therefore, assessed under various storage conditions to guide 
+the development of protocols for its industrial application. To that end, fresh
+NEW with an available chlorine concentration (ACC) of 480 mg/L, pH 6.96, and
+oxidation reduction potential (ORP) of 916 mV was stored under different
+conditions. These were open or sealed polypropylene bottles, three different
+surface area-to-volume (SA:V) ratios (0.9, 1.7, and 8.7), and two temperatures (4
+and 25°C). NEW stored at 4°C was significantly more stable than NEW stored at
+25°C; ACC and pH decreased by 137 mg/L and 0.7, respectively, whereas ORP
+increased by 23 mV, after 101 days of storage. At 25°C, ACC decreased to <0.01
+mg/L after 52 days in bottles with a SA:V ratio of 8.7, with a similar decrease
+after 101 days in bottles with a SA:V ratio of 1.7. However, pH decreased by up
+to 3.7 pH units, and ORP increased by up to 208 mV. The antimicrobial efficacy of
+"aged" electrolyzed oxidizing (EO) water with different ACC and ORP, but the same
+pH (i.e., 3.4 ± 0.2), was evaluated against Escherichia coli and Listeria innocua
+to determine any differences in residual antimicrobial activity. EO water with an
+ACC of ≥7 mg/L and an ORP of 1,094 mV caused a reduction of at least 4.7 log,
+whereas EO water with nondetectable ACC and considerably high ORP (716 mV) had
+little antimicrobial effect (<1-log reduction). Results from this study indicate 
+that the efficacy of NEW as a sanitizer for large-scale applications such as
+horticulture can be maintained for at least 3 months when it is stored in closed 
+containers with low SA:V ratio at low temperatures.
+HIGHLIGHTS:
+
+Copyright ©, International Association for Food Protection.
+
+DOI: 10.4315/JFP-20-104 
+PMID: 32991722 
+

@@ -1,0 +1,53 @@
+
+1. Cancers (Basel). 2020 May 27;12(6). pii: E1379. doi: 10.3390/cancers12061379.
+
+The Role of Vitamin D Receptor Gene Polymorphisms in Colorectal Cancer Risk.
+
+Messaritakis I(1), Koulouridi A(1), Sfakianaki M(1), Vogiatzoglou K(1), Gouvas
+N(2), Athanasakis E(3), Tsiaoussis J(4), Xynos E(5), Mavroudis D(1)(6), Tzardi
+M(7), Souglakos J(1)(6).
+
+Author information: 
+(1)Laboratory of Translational Oncology, Medical School, University of Crete,
+70013 Heraklion, Greece.
+(2)Medical School, University of Cyprus, 20537 Nicosia, Cyprus.
+(3)Department of General Surgery, Heraklion University Hospital, 71110 Heraklion,
+Greece.
+(4)Department of Anatomy, School of Medicine, University of Crete, 70013
+Heraklion, Greece.
+(5)Department of Surgery, Creta Interclinic Hospital of Heraklion, 71305
+Heraklion, Greece.
+(6)Department of Medical Oncology, University General Hospital of Heraklion,
+71110 Heraklion, Greece.
+(7)Laboratory of Pathology, University General Hospital of Heraklion, 70013
+Heraklion, Greece.
+
+Vitamin D deficiency has been associated with increased colorectal cancer (CRC)
+incidence risk and mortality. Vitamin D mediates its action through the binding
+of the vitamin D receptor (VDR), and polymorphisms of the VDR might explain these
+inverse associations. The aim of the study was the investigation of the relevance
+of rs731236; Thermus aquaticus I (TaqI), rs7975232; Acetobacter pasteurianus sub.
+pasteurianus I (ApaI), rs2228570; Flavobacterium okeanokoites I (FokI) and
+rs1544410, Bacillus stearothermophilus I (BsmI) polymorphisms of the VDR gene to 
+colorectal carcinogenesis (CRC) and progression. Peripheral blood was obtained
+from 397 patients with early operable stage II/III (n = 202) and stage IV (n =
+195) CRC. Moreover, samples from 100 healthy donors and 40 patients with
+adenomatous polyps were also included as control groups. Genotyping in the
+samples from patients and controls was performed using polymerase chain
+reaction-restriction fragment length polymorphisms (PCR-RFLP). A significant
+association was revealed between all four polymorphisms and cancer. Individuals
+with homozygous mutant (tt, aa, ff or bb) genotypes were more susceptible to the 
+disease (p < 0.001). All of the mutant genotypes detected were also significantly
+associated with stage IV (p < 0.001), leading to significantly decreased survival
+(p < 0.001). Moreover, all four polymorphisms were significantly associated with 
+KRAS (Kirsten ras oncogene) mutations and Toll-like receptor (TLR2, TLR4 and
+TLR9) genetic variants. In multivariate analysis, tt, aa and ff genotypes emerged
+as independent factors associated with decreased overall survival (OS) (p =
+0.001, p < 0.001 and p = 0.001, respectively). The detection of higher
+frequencies of the VDR polymorphisms in CRC patients highlights the role of these
+polymorphisms in cancer development and progression.
+
+DOI: 10.3390/cancers12061379 
+PMCID: PMC7352496
+PMID: 32471257 
+

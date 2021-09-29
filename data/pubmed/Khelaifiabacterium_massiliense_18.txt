@@ -1,0 +1,60 @@
+
+1. J Clin Microbiol. 2020 Jun 24;58(7). pii: e00295-20. doi: 10.1128/JCM.00295-20.
+Print 2020 Jun 24.
+
+Genomic Analysis of Mycobacterium abscessus Complex Isolates Collected in Ireland
+between 2006 and 2017.
+
+Redondo N(1)(2)(3), Mok S(1)(4), Montgomery L(1), Flanagan PR(1)(4), McNamara
+E(2)(5), Smyth EG(6), O'Sullivan N(7), Schaffer K(8), Rogers TR(1)(4), Fitzgibbon
+MM(9)(4).
+
+Author information: 
+(1)Irish Mycobacteria Reference Laboratory, St. James's Hospital, Dublin,
+Ireland.
+(2)Public Health Laboratory, Health Services Executive, Dublin, Ireland.
+(3)European Public Health Microbiology Training Programme (EUPHEM), European
+Centre for Disease Prevention and Control, Stockholm, Sweden.
+(4)Department of Clinical Microbiology, School of Medicine, Trinity College
+Dublin, St. James's Hospital, Dublin, Ireland.
+(5)Department of Clinical Microbiology, St James's Hospital, Dublin, Ireland.
+(6)Department of Clinical Microbiology, Beaumont Hospital, Dublin, Ireland.
+(7)Department of Clinical Microbiology, CHI at Crumlin, Dublin, Ireland.
+(8)Department of Clinical Microbiology, St. Vincent's University Hospital,
+Dublin, Ireland.
+(9)Irish Mycobacteria Reference Laboratory, St. James's Hospital, Dublin, Ireland
+mfitzgibbon@stjames.ie.
+
+Members of the Mycobacterium abscessus complex (MABC) are multidrug-resistant
+nontuberculous mycobacteria and cause opportunistic pulmonary infections in
+individuals with cystic fibrosis (CF). In this study, genomic analysis of MABC
+isolates was performed to gain greater insights into the epidemiology of
+circulating strains in Ireland. Whole-genome sequencing (WGS) was performed on 70
+MABC isolates that had been referred to the Irish Mycobacteria Reference
+Laboratory between 2006 and 2017 across nine Irish health care centers. The MABC 
+isolates studied comprised 52 isolates from 27 CF patients and 18 isolates from
+10 non-CF patients. WGS identified 57 (81.4%) as M. abscessus subsp. abscessus,
+10 (14.3%) as M. abscessus subsp. massiliense, and 3 (4.3%) as M. abscessus
+subsp. bolletii Forty-nine (94%) isolates from 25 CF patients were identified as 
+M. abscessus subsp. abscessus, whereas 3 (6%) isolates from 2 CF patients were
+identified as M. abscessus subsp. massiliense Among the isolates from non-CF
+patients, 44% (8/18) were identified as M. abscessus subsp. abscessus, 39% (7/18)
+were identified as M. abscessus subsp. massiliense, and 17% (3/18) were
+identified as M. abscessus subsp. bolletii WGS detected two clusters of closely
+related M. abscessus subsp. abscessus isolates that included isolates from
+different CF centers. There was a greater genomic diversity of MABC isolates
+among the isolates from non-CF patients than among the isolates from CF patients.
+Although WGS failed to show direct evidence of patient-to-patient transmission
+among CF patients, there was a predominance of two different strains of M.
+abscessus subsp. abscessus Furthermore, some MABC isolates were closely related
+to global strains, suggesting their international spread. Future prospective
+real-time epidemiological and clinical data along with contemporary MABC sequence
+analysis may elucidate the sources and routes of transmission among patients
+infected with MABC.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/JCM.00295-20 
+PMCID: PMC7315040 [Available on 2020-12-24]
+PMID: 32295892 
+

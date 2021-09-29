@@ -1,0 +1,35 @@
+
+1. PLoS One. 2020 Sep 14;15(9):e0238988. doi: 10.1371/journal.pone.0238988.
+eCollection 2020.
+
+Employing lytic phage-mediated horizontal gene transfer in Lactococcus lactis.
+
+Marcelli B(1), Karsens H(1), Nijland M(1), Oudshoorn R(1), Kuipers OP(1), Kok
+J(1).
+
+Author information: 
+(1)Department of Molecular Genetics, Groningen Biomolecular Sciences and
+Biotechnology Institute, University of Groningen, Groningen, The Netherlands.
+
+Lactococcus lactis is a lactic acid bacterium widely used as a starter culture in
+the manufacture of dairy products, especially a wide variety of cheeses. Improved
+industrial strains would help to manufacture better food products that can meet
+the industry's and consumer's demands with respect to e.g. quality, taste,
+texture and shelf life. Bacteriophage infection of L. lactis starter cultures
+represents one of the main causes of fermentation failure and consequent economic
+losses for the dairy industry. In this study, however, we aim at employing
+bacteriophages for beneficial purposes. We developed an experimental setup to
+assess whether phage-mediated horizontal gene transfer could be used to enhance
+the genetic characteristics of L. lactis strains in accordance with the European 
+law regarding the use of genetically modified organisms (GMOs) in the food
+industry. Although we could not show the transfer of chromosomal DNA we did
+successfully transduce two dissimilar plasmids from L. lactis strain MG1363 to
+one of its derivatives employing three different lactococcal bacteriophages.
+
+DOI: 10.1371/journal.pone.0238988 
+PMCID: PMC7489543
+PMID: 32925946 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

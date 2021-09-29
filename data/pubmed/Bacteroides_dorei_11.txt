@@ -1,0 +1,53 @@
+
+1. Genome Med. 2019 Oct 9;11(1):61. doi: 10.1186/s13073-019-0672-4.
+
+Relating the gut metagenome and metatranscriptome to immunotherapy responses in
+melanoma patients.
+
+Peters BA(1), Wilson M(2)(3)(4), Moran U(3)(5), Pavlick A(2)(3), Izsak A(5),
+Wechter T(5), Weber JS(2)(3), Osman I(2)(3)(5), Ahn J(6)(7).
+
+Author information: 
+(1)Department of Population Health, NYU School of Medicine, New York, NY, 10016, 
+USA.
+(2)Department of Medicine, NYU School of Medicine, New York, NY, USA.
+(3)NYU Perlmutter Cancer Center, New York, NY, USA.
+(4)Present Address: Sidney Kimmel Cancer Center, Thomas Jefferson University,
+Philadelphia, PA, USA.
+(5)The Ronald O. Perelman Department of Dermatology, NYU School of Medicine, New 
+York, NY, USA.
+(6)Department of Population Health, NYU School of Medicine, New York, NY, 10016, 
+USA. Jiyoung.Ahn@nyumc.org.
+(7)NYU Perlmutter Cancer Center, New York, NY, USA. Jiyoung.Ahn@nyumc.org.
+
+BACKGROUND: Recent evidence suggests that immunotherapy efficacy in melanoma is
+modulated by gut microbiota. Few studies have examined this phenomenon in humans,
+and none have incorporated metatranscriptomics, important for determining
+expression of metagenomic functions in the microbial community.
+METHODS: In melanoma patients undergoing immunotherapy, gut microbiome was
+characterized in pre-treatment stool using 16S rRNA gene and shotgun metagenome
+sequencing (n = 27). Transcriptional expression of metagenomic pathways was
+confirmed with metatranscriptome sequencing in a subset of 17. We examined
+associations of taxa and metagenomic pathways with progression-free survival
+(PFS) using 500 × 10-fold cross-validated elastic-net penalized Cox regression.
+RESULTS: Higher microbial community richness was associated with longer PFS in
+16S and shotgun data (p < 0.05). Clustering based on overall microbiome
+composition divided patients into three groups with differing PFS; the low-risk
+group had 99% lower risk of progression than the high-risk group at any time
+during follow-up (p = 0.002). Among the species selected in regression, abundance
+of Bacteroides ovatus, Bacteroides dorei, Bacteroides massiliensis, Ruminococcus 
+gnavus, and Blautia producta were related to shorter PFS, and Faecalibacterium
+prausnitzii, Coprococcus eutactus, Prevotella stercorea, Streptococcus sanguinis,
+Streptococcus anginosus, and Lachnospiraceae bacterium 3 1 46FAA to longer PFS.
+Metagenomic functions related to PFS that had correlated metatranscriptomic
+expression included risk-associated pathways of L-rhamnose degradation, guanosine
+nucleotide biosynthesis, and B vitamin biosynthesis.
+CONCLUSIONS: This work adds to the growing evidence that gut microbiota are
+related to immunotherapy outcomes, and identifies, for the first time,
+transcriptionally expressed metagenomic pathways related to PFS. Further research
+is warranted on microbial therapeutic targets to improve immunotherapy outcomes.
+
+DOI: 10.1186/s13073-019-0672-4 
+PMCID: PMC6785875
+PMID: 31597568  [Indexed for MEDLINE]
+

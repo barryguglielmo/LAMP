@@ -1,0 +1,57 @@
+
+1. Diabetologia. 2020 Jun;63(6):1223-1235. doi: 10.1007/s00125-020-05122-7. Epub
+2020 Mar 16.
+
+Dominant gut Prevotella copri in gastrectomised non-obese diabetic Goto-Kakizaki 
+rats improves glucose homeostasis through enhanced FXR signalling.
+
+Péan N(1), Le Lay A(1), Brial F(1), Wasserscheid J(2), Rouch C(3), Vincent M(3), 
+Myridakis A(4), Hedjazi L(5), Dumas ME(4), Grundberg E(2), Lathrop M(2), Magnan
+C(3), Dewar K(6), Gauguier D(7)(8).
+
+Author information: 
+(1)Inserm UMR 1124, Université de Paris, 45 rue des Saint-Pères, 75006, Paris,
+France.
+(2)McGill University and Genome Quebec Innovation Centre, 740 Doctor Penfield
+Avenue, Montreal, QC, H3A 0G1, Canada.
+(3)Unit of Functional and Adaptive Biology, UMR 8251, CNRS, Université de Paris, 
+4 rue Marie Andrée Lagroua Weill-Halle, Paris, France.
+(4)Section of Biomolecular Medicine, Division of Computational and Systems
+Medicine, Department of Surgery and Cancer, Faculty of Medicine, Imperial College
+London, London, UK.
+(5)Beemetrix SAS, Massy, France.
+(6)McGill University and Genome Quebec Innovation Centre, 740 Doctor Penfield
+Avenue, Montreal, QC, H3A 0G1, Canada. ken.dewar@mcgill.ca.
+(7)Inserm UMR 1124, Université de Paris, 45 rue des Saint-Pères, 75006, Paris,
+France. dominique.gauguier@inserm.fr.
+(8)McGill University and Genome Quebec Innovation Centre, 740 Doctor Penfield
+Avenue, Montreal, QC, H3A 0G1, Canada. dominique.gauguier@inserm.fr.
+
+AIMS/HYPOTHESIS: Drug and surgical-based therapies in type 2 diabetes are
+associated with altered gut microbiota architecture. Here we investigated the
+role of the gut microbiome in improved glucose homeostasis following bariatric
+surgery.
+METHODS: We carried out gut microbiome analyses in gastrectomised (by vertical
+sleeve gastrectomy [VSG]) rats of the Goto-Kakizaki (GK) non-obese model of
+spontaneously occurring type 2 diabetes, followed by physiological studies in the
+GK rat.
+RESULTS: VSG in the GK rat led to permanent improvement of glucose tolerance
+associated with minor changes in the gut microbiome, mostly characterised by
+significant enrichment of caecal Prevotella copri. Gut microbiota enrichment with
+P. copri in GK rats through permissive antibiotic treatment, inoculation of gut
+microbiota isolated from gastrectomised GK rats, and direct inoculation of P.
+copri, resulted in significant improvement of glucose tolerance, independent of
+changes in body weight. Plasma bile acids were increased in GK rats following
+inoculation with P. copri and P. copri-enriched microbiota from VSG-treated rats;
+the inoculated GK rats then showed increased liver glycogen and upregulated
+expression of Fxr (also known as Nr1h4), Srebf1c, Chrebp (also known as Mlxipl)
+and Il10 and downregulated expression of Cyp7a1.
+CONCLUSIONS: Our data underline the impact of intestinal P. copri on improved
+glucose homeostasis through enhanced bile acid metabolism and farnesoid X
+receptor (FXR) signalling, which may represent a promising opportunity for novel 
+type 2 diabetes therapeutics.
+
+DOI: 10.1007/s00125-020-05122-7 
+PMCID: PMC7228998
+PMID: 32173762 
+

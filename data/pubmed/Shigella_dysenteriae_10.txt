@@ -1,0 +1,58 @@
+
+1. Sci Rep. 2020 Jun 16;10(1):9752. doi: 10.1038/s41598-020-66522-8.
+
+Differential recognition of lipid domains by two Gb3-binding lectins.
+
+Schubert T(1)(2)(3), Sych T(1)(2)(4), Madl J(1)(2), Xu M(1)(2), Omidvar R(1)(2), 
+Patalag LJ(5), Ries A(6), Kettelhoit K(5), Brandel A(1)(2), Mely Y(4), Steinem
+C(6), Werz DB(5), Thuenauer R(7)(8)(9), Römer W(10)(11).
+
+Author information: 
+(1)Faculty of Biology, Albert-Ludwigs-University Freiburg, Freiburg, Germany.
+(2)Synthetic Biology of Signalling Processes, Signalling Research Centres BIOSS
+and CIBSS, Albert-Ludwigs-University Freiburg, Freiburg, Germany.
+(3)Toolbox, BIOSS Centre for Biological Signalling Studies,
+Albert-Ludwigs-University Freiburg, Freiburg, Germany.
+(4)Laboratory of Bioimaging and Pathologies, UMR 7021 CNRS, Faculty of Pharmacy, 
+University of Strasbourg, Strasbourg, France.
+(5)Technische Universität Braunschweig, Institut für Organische Chemie,
+Braunschweig, Germany.
+(6)Institut für Organische und Biomolekulare Chemie, Georg-August-Universität
+Göttingen, Göttingen, Germany.
+(7)Faculty of Biology, Albert-Ludwigs-University Freiburg, Freiburg, Germany.
+roland.thuenauer@cssb-hamburg.de.
+(8)Synthetic Biology of Signalling Processes, Signalling Research Centres BIOSS
+and CIBSS, Albert-Ludwigs-University Freiburg, Freiburg, Germany.
+roland.thuenauer@cssb-hamburg.de.
+(9)Advanced Light and Fluorescence Microscopy Facility, Centre for Structural
+Systems Biology (CSSB) and University of Hamburg, Hamburg, Germany.
+roland.thuenauer@cssb-hamburg.de.
+(10)Faculty of Biology, Albert-Ludwigs-University Freiburg, Freiburg, Germany.
+winfried.roemer@bioss.uni-freiburg.de.
+(11)Synthetic Biology of Signalling Processes, Signalling Research Centres BIOSS 
+and CIBSS, Albert-Ludwigs-University Freiburg, Freiburg, Germany.
+winfried.roemer@bioss.uni-freiburg.de.
+
+The two lectins LecA from Pseudomonas aeruginosa and the B-subunit of Shiga toxin
+from Shigella dysenteriae (StxB) share the glycosphingolipid
+globotriaosylceramide (Gb3) as receptor. Counterintuitively, we found that LecA
+and StxB segregated into different domains after recognizing Gb3 at the plasma
+membrane of cells. We hypothesized that the orientation of the carbohydrate head 
+group of Gb3 embedded in the lipid bilayer differentially influences LecA and
+StxB binding. To test this hypothesis, we reconstituted lectin-Gb3 interaction
+using giant unilamellar vesicles and were indeed able to rebuild LecA and StxB
+segregation. Both, the Gb3 fatty acyl chain structure and the local membrane
+environment, modulated Gb3 recognition by LecA and StxB. Specifically, StxB
+preferred more ordered membranes compared to LecA. Based on our findings, we
+propose comparing staining patterns of LecA and StxB as an alternative method to 
+assess membrane order in cells. To verify this approach, we re-established that
+the apical plasma membrane of epithelial cells is more ordered than the
+basolateral plasma membrane. Additionally, we found that StxB recognized Gb3 at
+the primary cilium and the periciliary membrane, whereas LecA only bound
+periciliary Gb3. This suggests that the ciliary membrane is of higher order than 
+the surrounding periciliary membrane.
+
+DOI: 10.1038/s41598-020-66522-8 
+PMCID: PMC7297801
+PMID: 32546842 
+

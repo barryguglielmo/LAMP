@@ -1,0 +1,57 @@
+
+1. J Contam Hydrol. 2020 Aug 29;235:103707. doi: 10.1016/j.jconhyd.2020.103707.
+[Epub ahead of print]
+
+Laboratory results and mathematical modeling of spore surface interactions in
+stormwater runoff.
+
+Mikelonis AM(1), Ratliff K(2), Youn S(3).
+
+Author information: 
+(1)Office of Research and Development, Center for Environmental Solutions and
+Emergency Response, Homeland Security and Materials Management Division, U.S.
+Environmental Protection Agency, 109 T.W. Alexander Drive, Research Triangle
+Park, NC 27709, USA. Electronic address: mikelonis.anne@epa.gov.
+(2)Office of Research and Development, Center for Environmental Solutions and
+Emergency Response, Homeland Security and Materials Management Division, U.S.
+Environmental Protection Agency, 109 T.W. Alexander Drive, Research Triangle
+Park, NC 27709, USA.
+(3)Marshall University, Department of Civil Engineering, College of Engineering
+and Computer Sciences, 1 John Marshall Drive, Huntington, WV 25755, United
+States.
+
+Development of numerical models to predict stormwater-mediated transport of
+pathogenic spores in the environment depends on an understanding of adhesion
+forces that dictate detachment after rain events. Zeta potential values were
+measured in the laboratory for Bacillus globigii and Bacillus thuringiensis
+kurstaki, two common surrogates used to represent Bacillus anthracis, in
+synthetic baseline ultrapure water and laboratory prepared stormwater. Zeta
+potential curves were also determined for materials representative of urban
+infrastructure (concrete and asphalt). These data were used to predict the
+interaction energy between the spores and urban materials using
+Derjaguin-Landau-Verwey-Overbeek (DLVO) modeling. B. globigii and B.
+thuringiensis kurstaki sourced from Yakibou Inc., were found to have similar zeta
+potential curves, whereas spores sourced from the U.S. military's Dugway
+laboratory were found to diverge. In the ultrapure water, the modeling results
+use the laboratory data to demonstrate that the energy barriers between the
+spores and the urban materials were tunable through compression of the electrical
+double layer of the spores via changes of ionic strength and pH of the water. In 
+the runoff water, charge neutralization dominated surface processes. The cations,
+metals, and natural organic matter (NOM) in the runoff water contributed to
+equalizing the zeta potential values for Dugway B. globigii and B. thuringiensis 
+kurstaki, and drastically modified the surface of the concrete and asphalt. All
+DLVO energy curves using the runoff water were repulsive. The highest energy
+barrier predicted in this study was for Dugway B. globigii spores interacting
+with a concrete surface in runoff water, suggesting that this would be the most
+challenging combination to detach through water-based decontamination.
+
+Published by Elsevier B.V.
+
+DOI: 10.1016/j.jconhyd.2020.103707 
+PMID: 32916588 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

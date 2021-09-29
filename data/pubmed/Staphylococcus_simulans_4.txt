@@ -1,0 +1,50 @@
+
+1. Antimicrob Agents Chemother. 2020 May 21;64(6). pii: e00172-20. doi:
+10.1128/AAC.00172-20. Print 2020 May 21.
+
+Novel Peptide from Commensal Staphylococcus simulans Blocks Methicillin-Resistant
+Staphylococcus aureus Quorum Sensing and Protects Host Skin from Damage.
+
+Brown MM(1), Kwiecinski JM(1), Cruz LM(2), Shahbandi A(2), Todd DA(2), Cech
+NB(2), Horswill AR(3)(4).
+
+Author information: 
+(1)Department of Immunology and Microbiology, University of Colorado School of
+Medicine, Aurora, Colorado, USA.
+(2)Department of Chemistry and Biochemistry, University of North Carolina at
+Greensboro, Greensboro, North Carolina, USA.
+(3)Department of Immunology and Microbiology, University of Colorado School of
+Medicine, Aurora, Colorado, USA alexander.horswill@cuanschutz.edu.
+(4)Department of Veterans Affairs, Eastern Colorado Healthcare System, Aurora,
+Colorado, USA.
+
+Recent studies highlight the abundance of commensal coagulase-negative
+staphylococci (CoNS) on healthy skin. Evidence suggests that CoNS actively shape 
+the skin immunological and microbial milieu to resist colonization or infection
+by opportunistic pathogens, including methicillin-resistant Staphylococcus aureus
+(MRSA), in a variety of mechanisms collectively termed colonization resistance.
+One potential colonization resistance mechanism is the application of quorum
+sensing, also called the accessory gene regulator (agr) system, which is
+ubiquitous among staphylococci. Common and rare CoNS make autoinducing peptides
+(AIPs) that function as MRSA agr inhibitors, protecting the host from invasive
+infection. In a screen of CoNS spent media, we found that Staphylococcus
+simulans, a rare human skin colonizer and frequent livestock colonizer, released 
+potent inhibitors of all classes of MRSA agr signaling. We identified three S.
+simulans agr classes and have shown intraspecies cross talk between noncognate S.
+simulans agr types for the first time. The S. simulans AIP-I structure was
+confirmed, and the novel AIP-II and AIP-III structures were solved via mass
+spectrometry. Synthetic S. simulans AIPs inhibited MRSA agr signaling with
+nanomolar potency. S. simulans in competition with MRSA reduced dermonecrotic and
+epicutaneous skin injury in murine models. The addition of synthetic AIP-I also
+effectively reduced MRSA dermonecrosis and epicutaneous skin injury in murine
+models. These results demonstrate potent anti-MRSA quorum sensing inhibition by a
+rare human skin commensal and suggest that cross talk between CoNS and MRSA may
+be important in maintaining healthy skin homeostasis and preventing MRSA skin
+damage during colonization or acute infection.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.00172-20 
+PMCID: PMC7269516 [Available on 2020-11-21]
+PMID: 32253213 
+

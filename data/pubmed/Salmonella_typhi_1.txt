@@ -1,0 +1,66 @@
+
+1. Clin Transl Immunology. 2020 Sep 24;9(9):e1178. doi: 10.1002/cti2.1178.
+eCollection 2020.
+
+Human Salmonella Typhi exposure generates differential multifunctional
+cross-reactive T-cell memory responses against Salmonella Paratyphi and invasive 
+nontyphoidal Salmonella.
+
+Rapaka RR(1)(2), Wahid R(1)(3), Fresnay S(1)(3)(4), Booth JS(1)(3), Darton
+TC(5)(6), Jones C(5), Waddington CS(5)(7), Levine MM(1)(2)(3), Pollard AJ(5),
+Sztein MB(1)(2)(3).
+
+Author information: 
+(1)Center for Vaccine Development and Global Health University of Maryland School
+of Medicine Baltimore MD USA.
+(2)Department of Medicine University of Maryland School of Medicine Baltimore MD 
+USA.
+(3)Department of Pediatrics University of Maryland School of Medicine Baltimore
+MD USA.
+(4)Present address: Stephanie Fresnay GlaxoSmithKline Rockville MD USA.
+(5)Oxford Vaccine Group Department of Paediatrics University of Oxford and the
+NIHR Oxford Biomedical Research Centre Oxford UK.
+(6)Present address: Thomas C Darton University of Sheffield Medical School
+Sheffield UK.
+(7)Present address: University of Cambridge Cambridge UK.
+
+Objective: There are no vaccines for most of the major invasive Salmonella
+strains causing severe infection in humans. We evaluated the specificity of
+adaptive T memory cell responses generated after Salmonella Typhi exposure in
+humans against other major invasive Salmonella strains sharing capacity for
+dissemination.
+Methods: T memory cells from eleven volunteers who underwent controlled oral
+challenge with wt S. Typhi were characterised by flow cytometry for
+cross-reactive cellular cytokine/chemokine effector responses or evidence of
+degranulation upon stimulation with autologous B-lymphoblastoid cells infected
+with either S. Typhi, Salmonella Paratyphi A (PA), S. Paratyphi B (PB) or an
+invasive nontyphoidal Salmonella strain of the S. Typhimurium serovar (iNTSTy).
+Results: Blood T-cell effector memory (TEM) responses after exposure to S. Typhi 
+in humans evolve late, peaking weeks after infection in most volunteers. Induced 
+multifunctional CD4+ Th1 and CD8+ TEM cells elicited after S. Typhi challenge
+were cross-reactive with PA, PB and iNTSTy. The magnitude of multifunctional CD4+
+TEM cell responses to S. Typhi correlated with induction of cross-reactive
+multifunctional CD8+ TEM cells against PA, PB and iNTSTy. Highly multifunctional 
+subsets and T central memory and T effector memory cells that re-express CD45
+(TEMRA) demonstrated less heterologous T-cell cross-reactivity, and
+multifunctional Th17 elicited after S. Typhi challenge was not cross-reactive
+against other invasive Salmonella.
+Conclusion: Gaps in cross-reactive immune effector functions in human T-cell
+memory compartments were highly dependent on invasive Salmonella strain,
+underscoring the importance of strain-dependent vaccination in the design of
+T-cell-based vaccines for invasive Salmonella.
+
+© 2020 The Authors. Clinical & Translational Immunology published by John Wiley &
+Sons Australia, Ltd on behalf of Australian and New Zealand Society for
+Immunology, Inc.
+
+DOI: 10.1002/cti2.1178 
+PMCID: PMC7512505
+PMID: 33005416 
+
+Conflict of interest statement: AJP is chair of the UK Department of Health's
+Joint Committee on Vaccination and Immunisation and the European Medicine Agency 
+Scientific Advisory Group on Vaccines, and a member of WHO's Strategic Advisory
+Group of Experts and an NIHR Senior Investigator. The other authors declare no
+conflicts of interest.
+

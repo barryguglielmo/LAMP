@@ -1,0 +1,42 @@
+
+1. J Clin Med. 2020 May 22;9(5). pii: E1572. doi: 10.3390/jcm9051572.
+
+Eye-Catching Microbes-Polyphasic Analysis of the Microbiota on Microscope Oculars
+Verifies Their Role as Fomites.
+
+Fritz B(1), Schäfer K(1), März M(1), Wahl S(2)(3), Ziemssen F(4), Egert M(1).
+
+Author information: 
+(1)Faculty of Medical and Life Sciences, Institute of Precision Medicine,
+Microbiology and Hygiene Group, Furtwangen University, Jakob-Kienzle-Strasse 17, 
+78054 Villingen-Schwenningen, Germany.
+(2)Carl Zeiss Vision International GmbH, Turnstrasse 27, 73430 Aalen, Germany.
+(3)Institute for Ophthalmic Research, Eberhard-Karls University,
+Elfriede-Aulhorn-Strasse 7, 72076 Tuebingen, Germany.
+(4)Center for Ophthalmology, Eberhard-Karls University, Elfriede-Aulhorn-Strasse 
+7, 72076 Tuebingen, Germany.
+
+Microscopes are used in virtually every biological and medical laboratory.
+Previous cultivation-based studies have suggested that direct contact with
+microscope eyepieces increases the risk of eye infections. To obtain a deeper
+insight into the microbiota on oculars, we analysed 10 recently used university
+microscopes. Their left oculars were used for a cultivation-based approach, while
+the right oculars served for massive gene sequencing. After cleaning with
+isopropyl alcohol, the oculars were re-sampled and analysed again. All oculars
+were found to be contaminated with bacteria, with a maximum load of 1.7 × 103 CFU
+cm-2. MALDI Biotyping revealed mainly Cutibacterium (68%), Staphylococcus (14%)
+and Brevibacterium (10%), with the most abundant species being Cutibacterium
+acnes (13%) and Staphylococcus capitis (6%). Cleaning reduced the microbial load 
+by up to 2 log scales. Within 10 uncleaned and 5 cleaned samples, 1480 ASVs were 
+assigned to 10 phyla and 262 genera. The dominant genera before cleaning were
+Cutibacterium (78%), Paracoccus (13%), Pseudomonas (2%) and Acinetobacter (1%).
+The bacteriota composition on the cleaned oculars was similar; however, it
+probably largely represented dead bacteria. In summary, used oculars were
+significantly contaminated with skin and environmental bacteria, including
+potential pathogens. Regular cleaning is highly recommended to prevent eye and
+skin infections.
+
+DOI: 10.3390/jcm9051572 
+PMCID: PMC7290821
+PMID: 32455878 
+

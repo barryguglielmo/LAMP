@@ -1,0 +1,51 @@
+
+1. Proc Natl Acad Sci U S A. 2020 Sep 1;117(35):21299-21307. doi:
+10.1073/pnas.2012196117. Epub 2020 Aug 17.
+
+An enzymatic toolkit for selective proteolysis, detection, and visualization of
+mucin-domain glycoproteins.
+
+Shon DJ(1), Malaker SA(1), Pedram K(1), Yang E(1), Krishnan V(2), Dorigo O(2),
+Bertozzi CR(3)(4).
+
+Author information: 
+(1)Department of Chemistry, Stanford Chemistry, Engineering & Medicine for Human 
+Health (ChEM-H), Stanford University, Stanford, CA 94305.
+(2)Stanford Women's Cancer Center, Division of Gynecologic Oncology, Stanford
+University, Stanford, CA 94305.
+(3)Department of Chemistry, Stanford Chemistry, Engineering & Medicine for Human 
+Health (ChEM-H), Stanford University, Stanford, CA 94305; bertozzi@stanford.edu.
+(4)Howard Hughes Medical Institute, Stanford University, Stanford, CA 94305.
+
+Densely O-glycosylated mucin domains are found in a broad range of cell surface
+and secreted proteins, where they play key physiological roles. In addition,
+alterations in mucin expression and glycosylation are common in a variety of
+human diseases, such as cancer, cystic fibrosis, and inflammatory bowel diseases.
+These correlations have been challenging to uncover and establish because tools
+that specifically probe mucin domains are lacking. Here, we present a panel of
+bacterial proteases that cleave mucin domains via distinct peptide- and
+glycan-based motifs, generating a diverse enzymatic toolkit for mucin-selective
+proteolysis. By mutating catalytic residues of two such enzymes, we engineered
+mucin-selective binding agents with retained glycoform preferences. StcEE447D is 
+a pan-mucin stain derived from enterohemorrhagic Escherichia coli that is
+tolerant to a wide range of glycoforms. BT4244E575A derived from Bacteroides
+thetaiotaomicron is selective for truncated, asialylated core 1 structures
+commonly associated with malignant and premalignant tissues. We demonstrated that
+these catalytically inactive point mutants enable robust detection and
+visualization of mucin-domain glycoproteins by flow cytometry, Western blot, and 
+immunohistochemistry. Application of our enzymatic toolkit to ascites fluid and
+tissue slices from patients with ovarian cancer facilitated characterization of
+patients based on differences in mucin cleavage and expression patterns.
+
+DOI: 10.1073/pnas.2012196117 
+PMCID: PMC7474620 [Available on 2021-02-17]
+PMID: 32817557 
+
+Conflict of interest statement: Competing interest statement: D.J.S., S.A.M.,
+K.P., and C.R.B. are coinventors on a Stanford patent application related to this
+work. C.R.B. is a cofounder and Scientific Advisory Board member of Lycia
+Therapeutics, Palleon Pharmaceuticals, Enable Bioscience, Redwood Biosciences (a 
+subsidiary of Catalent), and InterVenn Biosciences, and a member of the Board of 
+Directors of Eli Lilly & Company. O.D. has participated in advisory boards for
+Tesaro, Merck, and Geneos. O.D. is a speaker for Tesaro and AstraZeneca.
+

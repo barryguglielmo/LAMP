@@ -1,0 +1,42 @@
+
+1. Food Microbiol. 2020 Dec;92:103580. doi: 10.1016/j.fm.2020.103580. Epub 2020 Jul 
+21.
+
+Antimicrobial peptide cocktail activity in minced turkey meat.
+
+Palman Y(1), De Leo R(2), Pulvirenti A(2), Green SJ(3), Hayouka Z(4).
+
+Author information: 
+(1)Institute of Biochemistry, Food Science and Nutrition, The Robert H. Smith
+Faculty of Agriculture, Food and Environment, The Hebrew University of Jerusalem,
+Rehovot, 76100, Israel.
+(2)Department of Life Sciences, University of Modena and Reggio Emilia, Via
+Amendola 2, 42124, Reggio Emilia, Italy.
+(3)Sequencing Core, Research Resources Center, University of Illinois at Chicago,
+Chicago, IL, USA.
+(4)Institute of Biochemistry, Food Science and Nutrition, The Robert H. Smith
+Faculty of Agriculture, Food and Environment, The Hebrew University of Jerusalem,
+Rehovot, 76100, Israel. Electronic address: zvi.hayouka@mail.huji.ac.il.
+
+Meat products contain valuable nutrients that are important for human health and 
+development but are also highly susceptible to colonization by microorganisms.
+This can lead to spoilage and serious foodborne illnesses. Natural antimicrobial 
+peptides, produced by many organisms as part of their innate immune system to
+fight microbial infections, have great potential as food preservatives. In this
+study, we explored the effect of ternary antimicrobial random peptide mixtures
+(RPMs) on food spoilage bacteria in minced turkey meat. Amendment of RPMs to meat
+led to significant reductions in bacterial abundance in experimental tests, and
+RPMs worked synergistically with nitrite to reduce bacterial loads. Using
+high-throughput 16S ribosomal RNA gene amplicon sequencing, we characterized the 
+effect of RPMs and nitrite on meat microbial community structure before and
+during incubation under refrigerated conditions. Our findings reveal strong
+antimicrobial activity for RPMs against spoilage bacteria in meat, including
+Listeria monocytogenes and Pseudomonas putida. These results demonstrate the
+potential of RPMs as a safer preservative for reducing spoilage in meat and other
+food products.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.fm.2020.103580 
+PMID: 32950164 
+

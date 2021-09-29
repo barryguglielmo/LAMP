@@ -1,0 +1,46 @@
+
+1. Food Funct. 2020 Sep 23;11(9):7892-7904. doi: 10.1039/d0fo01103g.
+
+In vitro fermentation outcomes of arabinoxylan and galactoxyloglucan depend on
+fecal inoculum more than substrate chemistry.
+
+Feng G(1), Mikkelsen D(1), Hoedt EC(2), Williams BA(1), Flanagan BM(1), Morrison 
+M(3), Gidley MJ(1).
+
+Author information: 
+(1)Centre for Nutrition and Food Sciences, Queensland Alliance for Agriculture
+and Food Innovation, The University of Queensland, Brisbane, 4072, Australia.
+m.gidley@uq.edu.au.
+(2)Diamantina Institute, Faculty of Medicine, The University of Queensland,
+Brisbane, 4072, Australia. m.morrison@uq.edu.au and APC Microbiome Ireland,
+University College Cork, Cork, T12, Ireland.
+(3)Diamantina Institute, Faculty of Medicine, The University of Queensland,
+Brisbane, 4072, Australia. m.morrison@uq.edu.au.
+
+Using in vitro fermentation conditions, this study investigated the fermentation 
+characteristics of arabinoxylan (AX) and xyloglucan (XG) with a fecal inoculum
+that was collected either from humans consuming unrestricted diets or pigs fed a 
+semi-defined diet with cellulose being the sole non-starch polysaccharide for 10 
+days prior to fecal collection. Metagenomic analysis revealed that microbial
+communities in the two types of inoculum were distinctively different, which led 
+to distinct fermentation characteristics with the polysaccharides. The microbial 
+communities fermented with the porcine fecal inoculum were clustered according to
+the fermentation time, while those fermented with the human fecal inoculum were
+differentiated by the substrates. Using the porcine fecal inoculum, irrespective 
+of the substrates, Prevotella copri and the unclassified lineage rc4-4 were the
+dominant operational taxonomic units (OTUs) promoted during fermentation.
+Fermentation of wheat AX (WAX) and galacto-XG (GXG) with the human fecal
+inoculum, however, promoted different OTUs, except for a shared OTU belonging to 
+Lachnospiraceae. Specifically, WAX promoted the growth of Bacteroides plebeius
+and a Blautia sp., while GXG promoted an unclassified Bacteroidales,
+Parabacteroides distasonis, Bacteroides uniformis and Bacteroides sp. 2. These
+changes in bacterial communities were in accordance with the short chain fatty
+acid (SCFA) production, where comparable SCFA profiles were obtained from the
+porcine fecal fermentation while different amounts and proportions of SCFA were
+acquired from fermentation of WAX and GXG with the human fecal inoculum.
+Altogether, this study indicated that the starting inoculum composition had a
+greater effect than polysaccharide chemistry in driving fermentation outcomes.
+
+DOI: 10.1039/d0fo01103g 
+PMID: 32813756 
+

@@ -1,0 +1,50 @@
+
+1. Sci Rep. 2020 Sep 29;10(1):16017. doi: 10.1038/s41598-020-72457-x.
+
+A lectin-coupled porous silicon-based biosensor: label-free optical detection of 
+bacteria in a real-time mode.
+
+Yaghoubi M(1), Rahimi F(2), Negahdari B(3), Rezayan AH(1), Shafiekhani A(4).
+
+Author information: 
+(1)Division of Nanobiotechnoloy, Department of Life Science Engineering, Faculty 
+of New Sciences and Technologies, University of Tehran, Tehran, Iran.
+(2)Division of Nanobiotechnoloy, Department of Life Science Engineering, Faculty 
+of New Sciences and Technologies, University of Tehran, Tehran, Iran.
+rahimi.f@ut.ac.ir.
+(3)Department of Medical Biotechnology, School of Advanced Technologies in
+Medicine, Tehran University of Medical Sciences, Tehran, Iran.
+(4)School of Physics, Institute for Research in Fundamental Sciences, Tehran,
+Iran.
+
+Accuracy and speed of detection, along with technical and instrumental
+simplicity, are indispensable for the bacterial detection methods. Porous silicon
+(PSi) has unique optical and chemical properties which makes it a good candidate 
+for biosensing applications. On the other hand, lectins have specific
+carbohydrate-binding properties and are inexpensive compared to popular
+antibodies. We propose a lectin-conjugated PSi-based biosensor for label-free and
+real-time detection of Escherichia coli (E. coli) and Staphylococcus aureus (S.
+aureus) by reflectometric interference Fourier transform spectroscopy (RIFTS). We
+modified meso-PSiO2 (10-40 nm pore diameter) with three lectins of ConA
+(Concanavalin A), WGA (Wheat Germ Agglutinin), and UEA (Ulex europaeus
+agglutinin) with various carbohydrate specificities, as bioreceptor. The results 
+showed that ConA and WGA have the highest binding affinity for E. coli and S.
+aureus respectively and hence can effectively detect them. This was confirmed by 
+6.8% and 7.8% decrease in peak amplitude of fast Fourier transform (FFT) spectra 
+(at 105 cells mL-1 concentration). A limit of detection (LOD) of about 103
+cells mL-1 and a linear response range of 103 to 105 cells mL-1 were observed for
+both ConA-E. coli and WGA-S. aureus interaction platforms that are comparable to 
+the other reports in the literature. Dissimilar response patterns among lectins
+can be attributed to the different bacterial cell wall structures. Further
+assessments were carried out by applying the biosensor for the detection of
+Klebsiella aerogenes and Bacillus subtilis bacteria. The overall obtained results
+reinforced the conjecture that the WGA and ConA have a stronger interaction with 
+Gram-positive and Gram-negative bacteria, respectively. Therefore, it seems that 
+specific lectins can be suggested for bacterial Gram-typing or even serotyping.
+These observations were confirmed by the principal component analysis (PCA)
+model.
+
+DOI: 10.1038/s41598-020-72457-x 
+PMCID: PMC7525577
+PMID: 32994483 
+

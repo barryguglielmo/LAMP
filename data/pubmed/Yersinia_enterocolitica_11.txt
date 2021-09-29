@@ -1,0 +1,35 @@
+
+1. Microb Genom. 2020 Sep;6(9). doi: 10.1099/mgen.0.000411. Epub 2020 Jul 23.
+
+Comparative genomic insights into Yersinia hibernica - a commonly misidentified
+Yersinia enterocolitica-like organism.
+
+Nguyen SV(1), Muthappa DM(1), Eshwar AK(2), Buckley JF(3), Murphy BP(3), Stephan 
+R(2), Lehner A(2), Fanning S(4)(1).
+
+Author information: 
+(1)UCD-Centre for Food Safety, School of Public Health, Physiotherapy & Sports
+Science, University College Dublin, Belfield, Dublin D04 N2E5, Ireland.
+(2)Institute for Food Safety and Hygiene, University of Zurich, Zurich,
+Switzerland.
+(3)Veterinary Food Safety Laboratory, Cork County Council, Inniscarra, Co. Cork
+and Department of Microbiology, National University of Ireland, Cork, College
+Road, Cork, Ireland.
+(4)Institute for Global Food Security, Queen's University Belfast, 19 Chlorine
+Gardens, Belfast BT9 5AG, UK.
+
+Food-associated outbreaks linked to enteropathogenic Yersinia enterocolitica are 
+of concern to public health. Pigs and their meat are recognized risk factors for 
+transmission of Y. enterocolitica. This study aimed to describe the comparative
+genomics of Y. enterocolitica along with a number of misclassified Yersinia
+isolates, now constituting the recently described Yersinia hibernica. The latter 
+was originally cultured from an environmental sample taken at a pig
+slaughterhouse. Unique features were identified in the genome of Y. hibernica,
+including a novel integrative conjugative element (ICE), denoted as ICEYh-1
+contained within a 255 kbp region of plasticity. In addition, a zebrafish embryo 
+infection model was adapted and applied to assess the virulence potential among
+Yersinia isolates including Y. hibernica.
+
+DOI: 10.1099/mgen.0.000411 
+PMID: 32701425 
+

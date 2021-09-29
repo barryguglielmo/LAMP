@@ -1,0 +1,48 @@
+
+1. J Biol Chem. 2020 Sep 30. pii: jbc.RA120.014083. doi: 10.1074/jbc.RA120.014083.
+[Epub ahead of print]
+
+The heptameric structure of the flagellar regulatory protein FlrC is
+indispensable for ATPase activity and disassembled by Cyclic-di-GMP.
+
+Chakraborty S(1), Biswas M(2), Dey S(1), Agarwal S(1), Chakrabortty T(3), Ghosh
+B(4), Dasgupta J(5).
+
+Author information: 
+(1)St. Xavier's College, Kolkata, India.
+(2)The University of British Columbia.
+(3)Saha Institute of Nuclear Physics, India.
+(4)Bhabha Atomic Research Centre.
+(5)Department of Biotechnology, St. Xavier's College, Kolkata, India.
+
+The bacterial enhancer binding protein (bEBP) FlrC, controls motility and
+colonization of Vibrio cholerae by regulating the transcription of class-III
+flagellar genes in σ54-dependent manner. However, the mechanism by which FlrC
+regulates transcription is not fully elucidated. While, most bEBPs require
+nucleotides to stimulate the oligomerization necessary for function, our previous
+study showed that the central domain of FlrC (FlrCC) forms heptamer in a
+nucleotide-independent manner. Furthermore, heptameric FlrCC binds ATP in
+'cis-mediated' style without any contribution from sensor I motif 285REDXXYR291
+of the trans protomer. This atypical ATP binding raises the question of whether
+heptamerization of FlrC is solely required for transcription regulation, or if it
+is also critical for ATPase activity. ATPase assays and size exclusion
+chromatography of the trans-variants FlrCC-Y290A and FlrCC-R291A showed
+destabilization of heptameric assembly with concomitant abrogation of ATPase
+activity. Crystal structures showed that in the cis-variant FlrCC-R349A drastic
+shift of Walker A encroached ATP binding site whereas the site remained occupied 
+by ADP in FlrCC-Y290A. We postulated that FlrCC heptamerizes through
+concentration dependent cooperativity for maximal ATPase activity and upon
+heptamerization, packing of trans-acting Tyr290 against cis-acting Arg349 compels
+Arg349 to maintain proper conformation of Walker A. Finally, a Trp quenching
+study revealed binding of cyclic-di-GMP with FlrCC Excess cyclic-di-GMP repressed
+ATPase activity of FlrCC through destabilization of heptameric assembly,
+especially at low concentration of protein. Systematic phylogenetic analysis
+allowed us to propose similar regulatory mechanisms for FlrCs of several Vibrio
+species and a set of monotrichous Gram negative bacteria.
+
+Published under license by The American Society for Biochemistry and Molecular
+Biology, Inc.
+
+DOI: 10.1074/jbc.RA120.014083 
+PMID: 32998953 
+

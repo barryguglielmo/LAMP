@@ -1,0 +1,57 @@
+
+1. Animals (Basel). 2020 May 28;10(6). pii: E936. doi: 10.3390/ani10060936.
+
+Metataxonomic and Histopathological Study of Rabbit Epizootic Enteropathy in
+Mexico.
+
+Puón-Peláez XD(1), McEwan NR(2), Gómez-Soto JG(3), Álvarez-Martínez RC(4),
+Olvera-Ramírez AM(5).
+
+Author information: 
+(1)Doctorado en Ciencias Biológicas, Facultad de Ciencias Naturales, Universidad 
+Autónoma de Querétaro, Avenida de las Ciencias S/N Juriquilla, Delegación Santa
+Rosa Jáuregui, Santiago de Querétaro, Qro. C.P. 76230, Mexico.
+(2)School of Pharmacy & Life Sciences, Robert Gordon University, Garthdee Road,
+Aberdeen AB10 7GJ, Scotland, UK.
+(3)Cuerpo Académico de Nutrición y Reproducción Animal, Facultad de Ciencias
+Naturales, Universidad Autónoma de Querétaro, Avenida de las Ciencias S/N
+Juriquilla, Delegación Santa Rosa Jáuregui, Santiago de Querétaro, Qro. C.P.
+76230, Mexico.
+(4)Licenciatura en Microbiología, Facultad de Ciencias Naturales, Universidad
+Autónoma de Querétaro, Av. Junipero Serra, antiguo aeropuerto, Campus Aeropuerto 
+S/N. Santiago de Querétaro, Qro. C.P. 76140, Mexico.
+(5)Cuerpo Académico Salud Animal y Microbiología Ambiental, Facultad de Ciencias 
+Naturales, Universidad Autónoma de Querétaro, Avenida de las Ciencias S/N
+Juriquilla, Delegación Santa Rosa Jáuregui, Santiago de Querétaro C.P. 76230,
+Mexico.
+
+Epizootic rabbit enteropathy (ERE) affects young rabbits and represents 32% of
+the enteropathies in rabbit production farms in Mexico. The etiology of this
+syndrome has not been clarified yet. A metataxonomic and histopathology study of 
+ERE was carried out to compare the gastrointestinal microbiota and
+histopathological lesions of healthy and positive-ERE rabbits. The metataxonomic 
+study was done using an Illumina MiSeq (MiSeq® system, Illumina, San Diego
+California, USA) massive segmentation platform, and a Divisive Amplicon Denoising
+Algorithm 2 (DADA2 algorithm) was used to obtain Shannon and Simpson diversity
+indices as well as the relative abundance of the identified communities. For the 
+histopathological study, paraffin sections of the cecum, ileo-cecal valve, and
+colon were stained with eosin and hematoxylin. AxioVision 4.9 software (Carl
+Zeiss MicroImaging GmbH, Jena, Germany) was used to measure the crypt depths.
+Statistical analysis was done using PERMANOVA analysis for the metataxonomic
+study and ANOVA for the histopathology study. Histopathologic analysis showed
+smaller sizes of crypts in the colon of ERE rabbits. Differences were observed in
+the diversity and abundance of the gastrointestinal microbiota between the
+analyzed groups. The genus Clostridium and the species Cloacibacillus porcorum
+and Akkermansia muciniphila were associated with ERE. The results obtained from
+this study can provide information for future clarification of the etiology and
+proposals of effective treatments.
+
+DOI: 10.3390/ani10060936 
+PMCID: PMC7341505
+PMID: 32481706 
+
+Conflict of interest statement: The funders had no role in the design of the
+study; in the collection, analyses, or interpretation of data; in the writing of 
+the manuscript, or in the decision to publish the results. The authors declare no
+conflict of interest.
+

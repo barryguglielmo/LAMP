@@ -1,0 +1,56 @@
+
+1. Front Oncol. 2019 Dec 6;9:1346. doi: 10.3389/fonc.2019.01346. eCollection 2019.
+
+Intestinal Flora Disruption and Novel Biomarkers Associated With Nasopharyngeal
+Carcinoma.
+
+Jiang H(1), Li J(2), Zhang B(3), Huang R(2), Zhang J(2), Chen Z(1), Shang X(1),
+Li X(1), Nie X(1).
+
+Author information: 
+(1)Clinical Laboratory, Third Xiangya Hospital, Central South University,
+Changsha, China.
+(2)Department of Blood Transfusion, Third Xiangya Hospital, Central South
+University, Changsha, China.
+(3)Department of Anatomy and Neurobiology, Biology Postdoctoral Workstation,
+School of Basic Medical Sciences, Central South University, Changsha, China.
+
+Background: Nasopharyngeal carcinoma (NPC) is a malignant nasopharyngeal disease 
+with a complicated etiology that occurs mostly in southern China. Intestinal
+flora imbalance is believed to be associated with a variety of organ
+malignancies. Current studies revealed that the destruction of intestinal flora
+is associated with NPC, and many studies have shown that intestinal flora can be 
+used as a biomarker for many cancers and to predict cancer. Methods: To compare
+the differences in intestinal flora compositions and biological functions among 8
+patients with familial NPC (NPC_F), 24 patients with sporadic NPC (NPC_S), and 27
+healthy controls (NOR), we compared the intestinal flora DNA sequencing and
+hematological testing results between every two groups using bioinformatic
+methods. Results: Compared to the NOR group, the intestinal flora structures of
+the patients in the NPC_F and NPC_S groups showed significant changes. In NPC_F, 
+Clostridium ramosum, Citrobacter spp., Veillonella spp., and Prevotella spp. were
+significantly increased, and Akkermansia muciniphila and Roseburia spp. were
+significantly reduced. In NPC_S, C. ramosum, Veillonella parvula, Veillonella
+dispar, and Klebsiella spp. were significantly increased, and Bifidobacterium
+adolescentis was significantly reduced. A beta diversity analysis showed
+significant difference compared NPC_F with NOR based on Bray Curtis (P = 0.012)
+and Unweighted UniFrac (P = 0.0045) index, respectively. The areas under the ROC 
+curves plotted were all 1. Additionally, the concentrations of
+5-hydroxytryptamine (5-HT) in NPC_F and NPC_S were significantly higher than
+those of NOR. C. ramosum was positively correlated with 5-HT (rcm: 0.85, P <
+0.001). A functional analysis of the intestinal flora showed that NPC_F was
+associated with Neurodegenerative Diseases (P = 0.023) and that NPC_S was
+associated with Neurodegenerative Diseases (P = 0.045) as well. Conclusion: We
+found that NPC was associated with structural imbalances in the intestinal flora,
+with C. ramosum that promoted the elevation of 5-HT and opportunistic pathogens
+being significantly increased, while probiotics significantly decreased. C.
+ramosum can be used as a novel biomarker and disease prediction models should be 
+established for NPC. The new biomarkers and disease prediction models may be used
+for disease risk prediction and the screening of high-risk populations, as well
+as for the early noninvasive diagnosis of NPC.
+
+Copyright © 2019 Jiang, Li, Zhang, Huang, Zhang, Chen, Shang, Li and Nie.
+
+DOI: 10.3389/fonc.2019.01346 
+PMCID: PMC6908496
+PMID: 31867274 
+

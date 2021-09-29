@@ -1,0 +1,44 @@
+
+1. Sci Rep. 2020 May 20;10(1):8358. doi: 10.1038/s41598-020-65253-0.
+
+Microbiota in vitro modulated with polyphenols shows decreased colonization
+resistance against Clostridioides difficile but can neutralize cytotoxicity.
+
+Mahnic A(1), Auchtung JM(2)(3), Poklar Ulrih N(4), Britton RA(2), Rupnik M(5)(6).
+
+Author information: 
+(1)National Laboratory for Health, Environment and Food, Prvomajska 1, 2000,
+Maribor, Slovenia.
+(2)Baylor College of Medicine, 1 Baylor Plaza, Houston, TX, 77030, USA.
+(3)University of Nebraska-Lincoln, Lincoln, NE, 68588, USA.
+(4)University of Ljubljana, Biotechnical Faculty, Jamnikarjeva 101, 1000,
+Ljubljana, Slovenia.
+(5)National Laboratory for Health, Environment and Food, Prvomajska 1, 2000,
+Maribor, Slovenia. maja.rupnik@nlzoh.si.
+(6)University of Maribor, Faculty of Medicine, Taborska 8, 2000, Maribor,
+Slovenia. maja.rupnik@nlzoh.si.
+
+While the knowledge on gut microbiota - C. difficile interactions has improved
+over the years, the understanding of the underlying mechanisms providing
+colonization resistance as well as preventative measures against the infection
+remain incomplete. In this study the antibiotic clindamycin and polyphenol
+extracts from pomegranate and blueberries were used individually and in
+combination to modulate fecal microbial communities in minibioreactor arrays
+(MBRA). Modulated communities were inoculated with C. difficile (ribotype 027).
+Subsequent 7-day periodical monitoring included evaluation of C. difficile growth
+and activity of toxins TcdA and TcdB as well as analysis of MBRA bacterial
+community structure (V3V4 16 S metagenomics). Polyphenols affected multiple
+commensal bacterial groups and showed different synergistic and antagonistic
+effects in combination with clindamycin. Exposure to either clindamycin or
+polyphenols led to the loss of colonization resistance against C. difficile. The 
+successful growth of C. difficile was most significantly correlated with the
+decrease in Collinsella and Lachnospiraceae. Additionally, we demonstrated that
+Clostridium sporogenes decreased the activity of both C. difficile toxins TcdA
+and TcdB. The feature was shown to be common among distinct C. sporogenes strains
+and could potentially be applicable as a non-antibiotic agent for the alleviation
+of C. difficile infection.
+
+DOI: 10.1038/s41598-020-65253-0 
+PMCID: PMC7239955
+PMID: 32433519 
+

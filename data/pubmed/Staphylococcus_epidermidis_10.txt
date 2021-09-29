@@ -1,0 +1,51 @@
+
+1. Infect Drug Resist. 2020 Sep 14;13:3163-3169. doi: 10.2147/IDR.S274163.
+eCollection 2020.
+
+Antibiotic Resistance and mecA Gene Characterization of Coagulase-negative
+Staphylococci Isolated from Clinical Samples in Nepal.
+
+Shrestha LB(1), Bhattarai NR(1), Rai K(1), Khanal B(1).
+
+Author information: 
+(1)Microbiology & Infectious Diseases, B. P. Koirala Institute of Health
+Sciences, Dharan, Sunsari 56700, Nepal.
+
+Background: Coagulase-negative Staphylococci (CoNS) are a significant cause of
+hospital-acquired and foreign-body-related infections. We conducted this research
+to assess methicillin susceptibility of CoNS by disc diffusion, agar dilution,
+and polymerase chain reaction (PCR) methods and to assess the antimicrobial
+susceptibility pattern.
+Methods: We received 123 CoNS isolates from different specimens including blood, 
+endotracheal tube, and central venous catheter. We performed sample processing,
+identification, and characterization following standard guidelines. Antimicrobial
+susceptibility was tested based on clinical and laboratory standards institute
+guidelines. We detected methicillin-resistant coagulase-negative staphylococci
+(MRCoNS) through mecA gene, disc diffusion method, and agar dilution method and
+compared the accuracy with PCR as reference.
+Results: We detected eight species of CoNS with Staphylococcus epidermidis as the
+most common. Most of the samples were received from the intensive care unit and
+blood was the dominant specimen followed by endotracheal-tube aspirate.
+Seventy-one percentage of isolates were methicillin-resistant by PCR method; disc
+diffusion and agar dilution method detected methicillin resistance with an
+accuracy of 96.7% and 98.3%, respectively. Antimicrobial susceptibility revealed 
+an association between the different origins of samples, and also among the types
+of sample. Similarly, a comparison of the degree of resistance of antimicrobial
+agents between mecA gene positive and negative isolates showed significant
+differences. Vancomycin, linezolid, and teicoplanin are still effective for
+treating MRCoNS.
+Conclusion: CoNS are a crucial cause of human infections especially in an
+intensive care unit setup where the use of devices is common. Disc diffusion and 
+agar dilution are reliable for the detection of MRCoNS. The degree of
+antimicrobial resistance is much higher in organisms obtained from intensive care
+unit and foreign-body-related infections.
+
+© 2020 Shrestha et al.
+
+DOI: 10.2147/IDR.S274163 
+PMCID: PMC7501466
+PMID: 32982331 
+
+Conflict of interest statement: The authors report no conflicts of interest in
+this work.
+

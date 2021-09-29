@@ -1,0 +1,38 @@
+
+1. Nat Commun. 2020 Jul 16;11(1):3557. doi: 10.1038/s41467-020-17348-5.
+
+A high-resolution transcriptome map identifies small RNA regulation of metabolism
+in the gut microbe Bacteroides thetaiotaomicron.
+
+Ryan D(1), Jenniches L(1), Reichardt S(1), Barquist L(1)(2), Westermann AJ(3)(4).
+
+Author information: 
+(1)Helmholtz Institute for RNA-based Infection Research (HIRI), Helmholtz Centre 
+for Infection Research (HZI), Würzburg, Germany.
+(2)Faculty of Medicine, University of Würzburg, Würzburg, Germany.
+(3)Helmholtz Institute for RNA-based Infection Research (HIRI), Helmholtz Centre 
+for Infection Research (HZI), Würzburg, Germany.
+alexander.westermann@uni-wuerzburg.de.
+(4)Institute of Molecular Infection Biology (IMIB), University of Würzburg,
+Würzburg, Germany. alexander.westermann@uni-wuerzburg.de.
+
+Bacteria of the genus Bacteroides are common members of the human intestinal
+microbiota and important degraders of polysaccharides in the gut. Among them, the
+species Bacteroides thetaiotaomicron has emerged as the model organism for
+functional microbiota research. Here, we use differential RNA sequencing
+(dRNA-seq) to generate a single-nucleotide resolution transcriptome map of B.
+thetaiotaomicron grown under defined laboratory conditions. An online browser,
+called 'Theta-Base' ( www.helmholtz-hiri.de/en/datasets/bacteroides ), is
+launched to interrogate the obtained gene expression data and annotations of
+~4500 transcription start sites, untranslated regions, operon structures, and 269
+noncoding RNA elements. Among the latter is GibS, a conserved, 145 nt-long small 
+RNA that is highly expressed in the presence of N-acetyl-D-glucosamine as sole
+carbon source. We use computational predictions and experimental data to
+determine the secondary structure of GibS and identify its target genes. Our
+results indicate that sensing of N-acetyl-D-glucosamine induces GibS expression, 
+which in turn modifies the transcript levels of metabolic enzymes.
+
+DOI: 10.1038/s41467-020-17348-5 
+PMCID: PMC7366714
+PMID: 32678091  [Indexed for MEDLINE]
+

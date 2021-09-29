@@ -1,0 +1,50 @@
+
+1. Front Microbiol. 2020 Jul 9;11:1487. doi: 10.3389/fmicb.2020.01487. eCollection
+2020.
+
+Rapid Detection of mecA and femA Genes by Loop-Mediated Isothermal Amplification 
+in a Microfluidic System for Discrimination of Different Staphylococcal Species
+and Prediction of Methicillin Resistance.
+
+Meng X(1)(2), Zhang G(3), Sun B(4), Liu S(1)(2), Wang Y(4), Gao M(5)(6), Fan
+Y(5)(6), Zhang G(1)(2), Shi G(7), Kang X(1)(2).
+
+Author information: 
+(1)Laboratory Diagnosis Center, Beijing Tiantan Hospital, Capital Medical
+University, Beijing, China.
+(2)Beijing Engineering Research Center of Immunological Reagents and Clinical
+Research, Beijing, China.
+(3)Beijing Baicare Biotechnology Co., Ltd., Beijing, China.
+(4)School of Biological Science and Medical Engineering, Beihang University,
+Beijing, China.
+(5)School of Medical Science and Engineering, Beihang University, Beijing, China.
+(6)Beijing Advanced Innovation Center for Biomedical Engineering, Beihang
+University, Beijing, China.
+(7)Intensive Care Unit, Beijing Tiantan Hospital, Capital Medical University,
+Beijing, China.
+
+Staphylococcal infection is one of the most pressing problems in modern medicine 
+due to the increasing antibiotic resistance with the overuse of antibiotics.
+Conventional methods for identification and antimicrobial susceptibility testing 
+(AST) generally take 3-7 days and require skilled technicians. In this study, a
+microfluidic device based on loop-mediated isothermal amplification (LAMP) was
+developed, which could discriminate Staphylococcus aureus, Staphylococcus
+epidermidis, Staphylococcus haemolyticus, and Staphylococcus hominis and predict 
+their methicillin resistance by targeting the mecA and femA genes within 70 min
+including the hands-on time. Multiplex and real-time detection was achieved in a 
+closed system without aerosol contamination. The limits of detection (LODs) for
+S. aureus, S. epidermidis, S. hominis, and methicillin-resistant S. aureus (MRSA)
+were 20 CFU/reaction, while that for S. haemolyticus was 200 CFU/reaction. A
+total of 102 positive cultures of cerebrospinal fluid (CSF) were also tested, and
+the results were in good agreement with those from conventional methods.
+Furthermore, mixed cultures were readily identified by our method. The portable
+and integrated device is rapid, accurate, and easy to use, which can provide
+information for prompt institution of proper antimicrobial therapy and has great 
+potential for clinical applications, especially in resource-limited settings.
+
+Copyright © 2020 Meng, Zhang, Sun, Liu, Wang, Gao, Fan, Zhang, Shi and Kang.
+
+DOI: 10.3389/fmicb.2020.01487 
+PMCID: PMC7367217
+PMID: 32754129 
+

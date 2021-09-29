@@ -1,0 +1,37 @@
+
+1. Prep Biochem Biotechnol. 2020 Jun 26:1-9. doi: 10.1080/10826068.2020.1780609.
+[Epub ahead of print]
+
+The response surface optimization of exopolysaccharide produced by Weissella
+confusa XG-3 and its rheological property.
+
+Zhao D(1)(2), Liu L(1)(2), Jiang J(1)(2), Guo S(1)(2), Ping W(1)(2), Ge J(1)(2).
+
+Author information: 
+(1)Engineering Research Center of Agricultural Microbiology Technology, Ministry 
+of Education, Harbin, Heilongjiang, P. R. China.
+(2)Laboratory of Microbiology, College of Life Science, Heilongjiang University, 
+Harbin, Heilongjiang, P. R. China.
+
+The response surface methodology (RSM) was used to optimize the exopolysaccharide
+(EPS) production by a lactic acid bacteria (LAB) Weissella confusa XG-3.
+Two-level factorial design screened three significantly influencing factors
+sucrose, initial pH and sodium acetate. Central composite design (CCD) predicted 
+under the condition of sucrose 80.1 g L-1, initial pH 5.8 and sodium acetate
+3.7 g L-1, the maximal EPS yield obtained a 2.9-fold increase, reaching
+97.5 ± 1.1 g L-1. This maximal value was far exceeding EPS production by other W.
+confusa species strains reported so far. The results suggested that W. confusa
+XG-3 had a potential for large-scale EPS production. The rheological properties
+of XG-3 EPS was further investigated. It was a typical non-Newtonian fluid,
+exhibiting pseudo-plastic behavior. The EPS concentration and temperature exerted
+positive and negative impact on apparent viscosity, respectively. The XG-3 EPS
+maintained relatively higher viscosity at moderate pH (6-8). The intrinsic
+viscosity [η] was 409.7 (25 °C) and 201.7 (35 °C), which was relevant to
+temperature but irrelevant to EPS concentration. This EPS efficiently coagulated 
+sucrose-supplemented milk in a concentration-dependent manner. These results
+indicated that XG-3 EPS had an applicable potential in food processing fields
+especially dairy products.
+
+DOI: 10.1080/10826068.2020.1780609 
+PMID: 32589090 
+

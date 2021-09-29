@@ -1,0 +1,54 @@
+
+1. Int J Food Microbiol. 2020 Jul 2;324:108631. doi:
+10.1016/j.ijfoodmicro.2020.108631. Epub 2020 Apr 13.
+
+Microbial dynamics in durum wheat kernels during aging.
+
+Gaglio R(1), Cirlincione F(1), Di Miceli G(1), Franciosi E(2), Di Gerlando R(1), 
+Francesca N(1), Settanni L(3), Moschetti G(1).
+
+Author information: 
+(1)Dipartimento Scienze Agrarie, Alimentari e Forestali, Università di Palermo,
+Viale delle Scienze 4, 90128 Palermo, Italy.
+(2)Research and Innovation Centre, Fondazione Edmund Mach (FEM), Via E. Mach 1,
+San Michele all'Adige, Italy.
+(3)Dipartimento Scienze Agrarie, Alimentari e Forestali, Università di Palermo,
+Viale delle Scienze 4, 90128 Palermo, Italy. Electronic address:
+luca.settanni@unipa.it.
+
+In the present work the microbial dynamics in wheat kernels were evaluated over
+time. The main aim of this research was to study the resistance of lactic acid
+bacteria (LAB) and yeasts associated to unprocessed cereals used for bread making
+during long term conservation. To this purpose four Triticum durum Desf.
+genotypes including two modern varieties (Claudio and Simeto) and two Sicilian
+wheat landraces (Russello and Timilia) were analysed by a combined
+culture-independent and -dependent microbiological approach after one, two or
+three years from cultivation and threshing. DNA based MiSeq Illumina technology
+was applied to reveal the entire bacterial composition of all semolina samples.
+The samples showed a different distribution of bacterial taxa per variety and
+time of storage. The groups mostly represented were Stenotrophomonas,
+Pseudomonas, Erwinia, Delftia and Sphingomonas genera, Enterobacteriaceae and
+Oxalobacteriaceae families, and Actinobacteria phylum. Among LAB, only
+Enterococcus genus was detected barely in a single sample (Simeto stored for one 
+year) by the next generation sequencing, indicating that LAB remained unassigned 
+or their abundances were below 0.1% or their DNAs were rendered inaccessible.
+Plate counts showed consistent differences in relation to genotypes and duration 
+of storage, with the highest levels found for total mesophilic microorganisms
+detected up 6.8 Log CFU/g. Colonies of presumptive sourdough LAB were detected
+only in a few samples. Cocci constituted the major group of LAB in almost all
+samples. Following the enrichment procedure, almost all samples were
+characterised by the presence of acidifying microorganisms. All isolates
+collected before and after enrichment represented 28 different strains belonging 
+to 10 species of Enterococcus, Lactobacillus and Pediococcus genera. The most
+resistant species during aging were Enterococcus faecium, Enterococcus durans,
+Lactobacillus brevis, Lactobacillus pentosus and Lactobacillus paracasei
+demonstrating that lactobacilli and enterococci are able to overcome the
+stressing conditions represented by cereal storage better than other LAB genera
+commonly found associated to cereals after harvest. Yeast community included
+mostly species with no interest in bread making.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijfoodmicro.2020.108631 
+PMID: 32388172  [Indexed for MEDLINE]
+

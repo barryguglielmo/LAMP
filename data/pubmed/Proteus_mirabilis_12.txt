@@ -1,0 +1,61 @@
+
+1. Photodiagnosis Photodyn Ther. 2020 Sep 2:101982. doi:
+10.1016/j.pdpdt.2020.101982. [Epub ahead of print]
+
+In vitro antimicrobial photodynamic therapy using tetra-cationic porphyrins
+against multidrug-resistant bacteria isolated from canine otitis.
+
+Seeger MG(1), Ries AS(2), Gressler LT(3), Botton SA(4), Iglesias BA(5),
+Cargnelutti JF(6).
+
+Author information: 
+(1)Programa de Residência em Área Profissional da Saúde, Universidade Federal de 
+Santa Maria (UFSM), Santa Maria, RS, Brasil; Programa de Pós-Graduação em
+Medicina Veterinária, Universidade Federal de Santa Maria (UFSM), Santa Maria,
+RS, Brasil.
+(2)Programa de Pós-Graduação em Medicina Veterinária, Universidade Federal de
+Santa Maria (UFSM), Santa Maria, RS, Brasil.
+(3)Laboratório de Microbiologia e Imunologia Veterinária, Instituto Federal
+Farroupilha, Frederico Westphalen, RS, Brasil.
+(4)Departamento de Medicina Veterinária Preventiva (DMVP), Centro de Ciências
+Rurais (CCR), UFSM, Santa Maria, RS, Brasil.
+(5)Laboratório de Bioinorgânica e Materiais Porfirínicos, Departamento de
+Química, UFSM, Santa Maria, RS, Brasil. Electronic address:
+bernardopgq@gmail.com.
+(6)Departamento de Medicina Veterinária Preventiva (DMVP), Centro de Ciências
+Rurais (CCR), UFSM, Santa Maria, RS, Brasil. Electronic address:
+jucargnelutti@gmail.com.
+
+Antimicrobial-resistant bacteria have been frequently isolated from canine
+otitis. Photodynamic therapy using porphyrins as photosensitizing molecules is an
+alternative therapy against microorganisms in localized infections. Therefore, we
+evaluated the antibacterial activity of two tetra-cationic porphyrins (H2TMeP and
+ZnTMeP) against gram-positive and -negative bacteria isolated from canine otitis,
+as well as its putative action mechanism. For this, two gram-positive and two
+gram-negative bacteria frequently detected in cases of canine otitis
+(coagulase-positive and -negative staphylococci [CPS and CNS], Pseudomonas
+aeruginosa, and Proteus mirabilis) were used in antibacterial activity assays.
+Each porphyrin at a non-cytotoxic dose was incubated with a fixed concentration
+of each bacterium and exposed to white-light irradiation for 0, 30, 60, and
+90 min. Clinical isolates of CPS and CNS were photo-inactivated after 30 min of
+white-light exposure by both porphyrins (p < 0.05). Gram-negative bacteria were
+also photo-inactivated after 30 min (p < 0.05), reaching complete inactivation
+after 60 and 90 min of white-light irradiation by H2TMeP and ZnTMeP,
+respectively. Antibacterial assays using standard bacterial strains (ATCCs)
+demonstrated similar results to those obtained with clinical isolates, except for
+P. aeruginosa, which was completely inactivated by ZnTMeP at 60 min, and the
+absence of a significant reduction in P. mirabilis concentration when irradiated 
+for 30 min. Similar assays were conducted using reactive oxygen species
+scavengers showing that the putative mechanism for bacterial inactivation is
+through the production of singlet oxygen species. These results indicated that
+H2TMeP and ZnTMeP tetra-cationic porphyrins were effective against bacteria
+isolated from canine otitis.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.pdpdt.2020.101982 
+PMID: 32890692 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare no conflict of interest.
+

@@ -1,0 +1,41 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jan;70(1):589-595. doi: 10.1099/ijsem.0.003797.
+
+Dialister hominis sp. nov., isolated from human faeces.
+
+Sakamoto M(1)(2), Ikeyama N(1), Toyoda A(3), Murakami T(3), Mori H(3), Iino T(1),
+Ohkuma M(1).
+
+Author information: 
+(1)Microbe Division/Japan Collection of Microorganisms, RIKEN BioResource
+Research Center, Tsukuba, Ibaraki 305-0074, Japan.
+(2)PRIME, Japan Agency for Medical Research and Development (AMED), Tsukuba,
+Ibaraki 305-0074, Japan.
+(3)Advanced Genomics Center, National Institute of Genetics, Mishima, Shizuoka
+411-8540, Japan.
+
+An obligately anaerobic, Gram-stain-negative, rod or coccobacilli organism was
+isolated from a faecal sample of a healthy Japanese woman. In the 16S rRNA gene
+sequence analysis, strain 5BBH33T showed the highest 16S rRNA gene sequence
+similarity to Dialister succinatiphilus YIT 11850T (95.9 %), Dialister
+propionicifaciens ADV 1053.03T (94.3 %), Dialister micraerophilus DSM 19965T
+(93.1 %), Dialister invisus DSM 15470T (92.5 %) and Dialister pneumosintes ATCC
+33048T (91.4 %). The hsp60 gene sequence analysis also revealed strain 5BBH33T
+had relatively low hsp60 gene sequence similarities (74.4-85.3 %) to other
+Dialister species. Strain 5BBH33T showed 21.8-23.9 % in silico DNA-DNA
+hybridization values with other Dialister species. In addition, the average
+nucleotide identity values between strain 5BBH33T and other Dialister species
+ranged from 68.7-74.2 %, indicating that this strain should be considered as new 
+species based on whole-genome relatedness. Strain 5BBH33T was asaccharolytic and 
+largely unreactive for commercial kit. However, its growth was enhanced by adding
+1 % (w/v) succinate to the medium; strain 5BBH33T was able to decarboxylate
+succinate to propionate. The strain 5BBH33T genome contained the enzymes involved
+in succinate utilization. These results improve our understanding of
+succinate-utilizing bacteria. On the basis of the collected data, strain 5BBH33T 
+represents a novel species in the genus Dialister, for which the name Dialister
+hominis sp. nov. is proposed. The type strain of D. hominis is 5BBH33T (=JCM
+33369T=DSM 109768T).
+
+DOI: 10.1099/ijsem.0.003797 
+PMID: 31661048  [Indexed for MEDLINE]
+

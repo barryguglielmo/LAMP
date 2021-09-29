@@ -1,0 +1,42 @@
+
+1. J Agric Food Chem. 2020 Jul 22;68(29):7660-7669. doi: 10.1021/acs.jafc.0c00259.
+Epub 2020 Jul 13.
+
+Improvement and Metabolomics-Based Analysis of d-Lactic Acid Production from
+Agro-Industrial Wastes by Lactobacillus delbrueckii Submitted to Adaptive
+Laboratory Evolution.
+
+Liang S(1), Jiang W(1), Song Y(1), Zhou SF(1).
+
+Author information: 
+(1)College of Chemical Engineering, Huaqiao University, 668 Jimei Boulevard,
+Xiamen, Fujian 361021, P. R. China.
+
+To decrease d-lactic acid production cost, sugarcane molasses and soybean meal,
+low-cost agro-industrial wastes, were selected as feedstock. First, sugarcane
+molasses was used directly by Lactobacillus delbrueckii S-NL31, and the nutrients
+were released from soybean meal by protease hydrolysis. Subsequently, to ensure
+intensive substrate utilization and enhanced d-lactic acid production from
+sugarcane molasses and soybean meal, adaptation of L. delbrueckii S-NL31 to
+substrates was performed through adaptive laboratory evolution. After two-phase
+adaptive laboratory evolution, the evolved strain L. delbrueckii S-NL31-CM3-SBM
+with improved cell growth and d-lactic acid production on sugarcane molasses and 
+soybean meal was obtained. To decipher the potential reasons for improved
+fermentation performance, a metabolomics-based approach was developed to profile 
+the differences of intracellular metabolism between initial and evolved strain.
+The in-depth analysis elucidated how the key factors exerted influence on
+d-lactic acid biosynthesis. The results revealed that the enhancement of
+glycolysis pathway and cofactor supply was directly associated with increased
+lactic acid production, and the reinforcement of pentose phosphate pathway, amino
+acid metabolism, and oleic acid uptake improved cell survival and growth. These
+might be the main reasons for significantly improved d-lactic acid production by 
+adaptive laboratory evolution. Finally, fed-batch simultaneous enzymatic
+hydrolysis of soybean meal and fermentation process by evolved strain resulted in
+d-lactic acid levels of 112.3 g/L, with an average production efficiency of 2.4
+g/(L × h), a yield of 0.98 g/g sugar, and optical purity of 99.6%. The results
+show the applicability of d-lactic acid production in L. delbrueckii fed on
+agro-industrial wastes through adaptive laboratory evolution.
+
+DOI: 10.1021/acs.jafc.0c00259 
+PMID: 32603099 
+

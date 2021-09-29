@@ -1,0 +1,73 @@
+
+1. Gastroenterology. 2020 Sep;159(3):969-983.e4. doi: 10.1053/j.gastro.2020.05.004. 
+Epub 2020 May 6.
+
+Aspirin Reduces Colorectal Tumor Development in Mice and Gut Microbes Reduce its 
+Bioavailability and Chemopreventive Effects.
+
+Zhao R(1), Coker OO(1), Wu J(2), Zhou Y(1), Zhao L(1), Nakatsu G(1), Bian X(2),
+Wei H(3), Chan AWH(4), Sung JJY(1), Chan FKL(1), El-Omar E(5), Yu J(6).
+
+Author information: 
+(1)State Key Laboratory of Digestive Disease, Institute of Digestive Disease and 
+Department of Medicine and Therapeutics, Li Ka Shing Institute of Health
+Sciences, Shenzhen Research Institute, The Chinese University of Hong Kong, Hong 
+Kong, China.
+(2)Macau Institute for Applied Research in Medicine and Health, State Key
+Laboratory for Quality Research in Chinese Medicines, Macau University of Science
+and Technology, Macau, China.
+(3)Department of Laboratory Animal Science, College of Basic Medical Sciences,
+Third Military Medical University, Chongqing, China; Department of Precision
+Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou,
+China.
+(4)Department of Anatomical and Cellular Pathology, The Chinese University of
+Hong Kong, Hong Kong, China.
+(5)Microbiome Research Centre, St George & Sutherland Clinical School, University
+of New South Wales, Sydney, Australia.
+(6)State Key Laboratory of Digestive Disease, Institute of Digestive Disease and 
+Department of Medicine and Therapeutics, Li Ka Shing Institute of Health
+Sciences, Shenzhen Research Institute, The Chinese University of Hong Kong, Hong 
+Kong, China. Electronic address: junyu@cuhk.edu.hk.
+
+Comment in
+    Nat Rev Gastroenterol Hepatol. 2020 Jul;17(7):383.
+
+BACKGROUND & AIMS: Alterations in the intestinal microbiota affect development of
+colorectal cancer and drug metabolism. We studied whether the intestinal
+microbiota affect the ability of aspirin to reduce colon tumor development in
+mice.
+METHODS: We performed studies with APCmin/+ mice and mice given azoxymethane and 
+dextran sulfate sodium to induce colorectal carcinogenesis. Some mice were given 
+antibiotics to deplete intestinal microbes, with or without aspirin, throughout
+the entire experiment. Germ-free mice were studied in validation experiments.
+Colon tissues were collected and analyzed by histopathology, quantitative
+reverse-transcription polymerase chain reaction, and immunoblots. Blood samples
+and gut luminal contents were analyzed by liquid chromatography/mass spectrometry
+and an arylesterase activity assay. Fecal samples were analyzed by 16S ribosomal 
+RNA gene and shotgun metagenome sequencing.
+RESULTS: Administration of aspirin to mice reduced colorectal tumor number and
+load in APCmin/+ mice and mice given azoxymethane and dextran sulfate sodium that
+had been given antibiotics (depleted gut microbiota), but not in mice with intact
+microbiota. Germ-free mice given aspirin developed fewer colorectal tumors than
+conventionalized germ-free mice given aspirin. Plasma levels of aspirin were
+higher in mice given antibiotics than in mice with intact gut microbiota.
+Analyses of luminal contents revealed that aerobic gut microbes, including
+Lysinibacillus sphaericus, degrade aspirin. Germ-free mice fed L sphaericus had
+lower plasma levels of aspirin than germ-free mice that were not fed this
+bacterium. There was an inverse correlation between aspirin dose and colorectal
+tumor development in conventional mice, but this correlation was lost with
+increased abundance of L sphaericus. Fecal samples from mice fed aspirin were
+enriched in Bifidobacterium and Lactobacillus genera, which are considered
+beneficial, and had reductions in Alistipes finegoldii and Bacteroides fragili,
+which are considered pathogenic.
+CONCLUSIONS: Aspirin reduces development of colorectal tumors in APCmin/+ mice
+and mice given azoxymethane and dextran sulfate sodium, depending on the presence
+of intestinal microbes. L sphaericus in the gut degrades aspirin and reduced its 
+chemopreventive effects in mice. Fecal samples from mice fed aspirin were
+enriched in beneficial bacteria, with reductions in pathogenic bacteria.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.gastro.2020.05.004 
+PMID: 32387495 
+

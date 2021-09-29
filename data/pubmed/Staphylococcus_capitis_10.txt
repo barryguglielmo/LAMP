@@ -1,0 +1,241 @@
+
+1. Eur J Clin Microbiol Infect Dis. 2020 Jun 9. doi: 10.1007/s10096-020-03925-5.
+[Epub ahead of print]
+
+Staphylococcus capitis isolated from bloodstream infections: a nationwide 3-month
+survey in 38 neonatal intensive care units.
+
+Decalonne M(1), Dos Santos S(2), Gimenes R(1), Goube F(1), Abadie G(3), Aberrane 
+S(4), Ambrogi V(5), Baron R(6), Barthelemy P(7), Bauvin I(8), Belmonte O(9),
+Benabid E(10), Ammar RB(11), Yahia SBH(12), Berrouane Y(13), Berthelot P(14),
+Beuchee A(15), Bille E(16), Bolot P(17), Bordes-Couecou S(18), Bouissou A(19),
+Bourdon S(20), Bourgeois-Nicolaos N(21), Boyer S(22), Cattoen C(23), Cattoir
+V(24), Chaplain C(25), Chatelet C(26), Claudinon A(27), Chautemps N(28), Cormier 
+H(29), Coroller-Bec C(30), Cotte B(31), De Chillaz C(32), Dauwalder O(33), Davy
+A(34), Delorme M(35), Demasure M(36), Desfrere L(37), Drancourt M(38), Dupin
+C(39), Faraut-Derouin V(40), Florentin A(41), Forget V(42), Fortineau N(43),
+Foucan T(44), Frange P(16)(45), Gambarotto K(46), Gascoin G(47), Gibert L(20),
+Gilquin J(48), Glanard A(49), Grando J(50), Gravet A(51), Guinard J(52),
+Hery-Arnaud G(53), Huart C(54), Idri N(55)(56), Jellimann JM(57), Join-Lambert
+O(58), Joron S(59), Jouvencel P(60), Kempf M(61), Ketterer-Martinon S(62),
+Khecharem M(63), Klosowski S(64), Labbe F(65), Lacazette A(66), Lapeyre F(67),
+Larche J(68), Larroude P(69), Le Pourhiennec A(70), Le Sache N(71), Ledru S(72), 
+Lefebvre A(73), Legeay C(29), Lemann F(74), Lesteven C(75), Levast-Raffin M(76), 
+Leyssene D(77), Ligi I(78), Lozniewski A(79), Lureau P(80), Mallaval FO(42),
+Malpote E(81), Marret S(82), Martres P(83), Menard G(84), Menvielle L(85),
+Mereghetti L(86), Merle V(87), Minery P(88), Morange V(89), Mourdie J(90), Muggeo
+A(91), Nakhleh J(92), Noulard MN(93), Olive C(94), Patural H(95), Penn P(96),
+Petitfrere M(97), Pozetto B(98), Riviere B(99), Robine A(100), Ceschin CR(5),
+Ruimy R(101), Siali A(102), Soive S(103), Slimani S(104), Trentesaux AS(105),
+Trivier D(26), Vandenbussche C(106), Villeneuve L(107), Werner E(108), Le Vu
+S(109), Van Der Mee-Marquet N(110)(111).
+
+Author information: 
+(1)SPIADI, CPIAS CVDL, Hôpital Bretonneau, Centre Hospitalier Universitaire,
+37044, Tours, France.
+(2)Cellule d'Epidémiologie Régionale des Infections Nosocomiales, CPIAS CVDL,
+Service de Bactériologie-Virologie-Hygiène, Hôpital Trousseau, CHRU, 37044,
+Tours, France.
+(3)Service de réanimation néonatale, Centre Hospitalier Universitaire Félix
+Guyon, 97400, Saint Denis de la Réunion, France.
+(4)Laboratoire de Microbiologie, Centre Hospitalier Inter-Communal, 94010,
+Créteil, France.
+(5)Équipe opérationnelle d'hygiène, Centre Hospitalier Universitaire, 31059,
+Toulouse, France.
+(6)Équipe opérationnelle d'hygiène, Centre Hospitalier Universitaire, 29609,
+Brest, France.
+(7)Équipe opérationnelle d'hygiène, Hôpital de la Conception, APHM, 13005,
+Marseille, France.
+(8)Service de réanimation néonatale, Centre Hospitalier, 64000, Pau, France.
+(9)Laboratoire de Microbiologie, Centre Hospitalier Universitaire Félix Guyon,
+97400, Saint Denis de la Réunion, France.
+(10)Équipe opérationnelle d'hygiène, Centre Hospitalier, 95300, Pontoise, France.
+(11)Service de réanimation néonatale, Centre Hospitalier Universitaire
+Antoine-Béclère, APHP, 92140, Clamart, France.
+(12)Laboratoire de Microbiologie, Centre Hospitalier, 62100, Calais, France.
+(13)Équipe opérationnelle d'hygiène, Centre Hospitalier Universitaire, 06200,
+Nice, France.
+(14)Équipe opérationnelle d'hygiène, Centre Hospitalier Universitaire, 42055,
+Saint Etienne, France.
+(15)Service de réanimation néonatale, Centre Hospitalier Universitaire, 35000,
+Rennes, France.
+(16)Laboratoire de Microbiologie clinique, Hôpital universitaire Necker-Enfants
+malades, APHP, 75015, Paris, France.
+(17)Service de réanimation néonatale, Centre Hospitalier Delafontaine, 93205,
+Saint Denis, France.
+(18)Équipe opérationnelle d'hygiène, Centre Hospitalier, 64100, Bayonne, France.
+(19)Service de réanimation néonatale, Centre Hospitalier Universitaire, 37044,
+Tours, France.
+(20)Équipe opérationnelle d'hygiène, Centre Hospitalier du Havre, 76290,
+Montivilliers, France.
+(21)Laboratoire de Microbiologie, Centre Hospitalier Universitaire
+Antoine-Béclère, APHP, 92140, Clamart, France.
+(22)Laboratoire de Microbiologie, Centre Hospitalier Universitaire Charles
+Nicolle, 76000, Rouen, France.
+(23)Laboratoire de Microbiologie, Centre Hospitalier, 59300, Valenciennes,
+France.
+(24)Laboratoire de Microbiologie, Centre Hospitalier Universitaire, 35000,
+Rennes, France.
+(25)Laboratoire de Microbiologie, Centre Hospitalier Delafontaine, 93205, Saint
+Denis, France.
+(26)Équipe opérationnelle d'hygiène, Centre Hospitalier, 62300, Lens, France.
+(27)Laboratoire de Microbiologie, Centre Hospitalier, 95107, Argenteuil, France.
+(28)Service de réanimation néonatale, Centre Hospitalier Métropole Savoie-Site de
+Chambéry, 73 011, Chambéry, France.
+(29)UPLIN, Centre Hospitalier Universitaire, 49933, Angers, France.
+(30)Équipe opérationnelle d'hygiène, Centre Hospitalier, 72000, Le Mans, France.
+(31)Clinique du Val d'Ouest, 69130, Ecully, France.
+(32)Service de Néonatalogie et Réanimation néonatale, Hôpital universitaire
+Necker-Enfants malades, APHP, 75015, Paris, France.
+(33)Laboratoire de Microbiologie, Hôpitaux Civils de Lyon, 69677, Bron, France.
+(34)Équipe opérationnelle d'hygiène, Centre Hospitalier, 22000, Saint Brieuc,
+France.
+(35)Équipe opérationnelle d'hygiène, Centre Hospitalier, 79021, Niort, France.
+(36)Équipe opérationnelle d'hygiène, Centre Hospitalier Régional, 45100, Orléans,
+France.
+(37)Service de réanimation néonatale, Centre Hospitalier Universitaire, Hôpital
+Louis-Mourier, APHP, 92700, Colombes, France.
+(38)Laboratoire de Microbiologie, Hôpital de la Conception, APHM, 13005,
+Marseille, France.
+(39)Laboratoire de Microbiologie, Centre Hospitalier, 22000, Saint Brieuc,
+France.
+(40)Équipe opérationnelle d'hygiène, Centre Hospitalier Universitaire
+Antoine-Béclère, APHP, 92140, Clamart, France.
+(41)Service d'hygiène et d'analyses environnementales (SHAE), Hôpitaux de
+Brabois, 54035, Nancy, France.
+(42)Équipe opérationnelle d'hygiène, Centre Hospitalier Métropole Savoie-Site de 
+Chambéry, 73 011, Chambéry, France.
+(43)Équipe opérationnelle d'hygiène, Centre Hospitalier Universitaire, Kremlin
+Bicêtre, APHP, 94275, Le Kremlin Bicêtre, France.
+(44)Équipe opérationnelle d'hygiène, Centre Hospitalier Universitaire, 97159,
+Pointe-à-Pitre, France.
+(45)Équipe opérationnelle d'hygiène, Hôpital universitaire Necker-Enfants
+malades, APHP, 75015, Paris, France.
+(46)Équipe opérationnelle d'hygiène, Centre Hospitalier Universitaire Félix
+Guyon, 97400, Saint Denis de la Réunion, France.
+(47)Service de réanimation néonatale, Centre Hospitalier Universitaire, 49933,
+Angers, France.
+(48)Équipe opérationnelle d'hygiène, Centre Hospitalier, 81100, Castres, France.
+(49)Équipe opérationnelle d'hygiène, Centre Hospitalier Delafontaine, 93205,
+Saint Denis, France.
+(50)Équipe opérationnelle d'hygiène, Hôpitaux Civils de Lyon, 69677, Bron,
+France.
+(51)Laboratoire de Microbiologie, Centre Hospitalier, 68100, Mulhouse, France.
+(52)Laboratoire de Microbiologie, Centre Hospitalier Régional, 45100, Orléans,
+France.
+(53)Laboratoire de Microbiologie, Centre Hospitalier Universitaire, 29609, Brest,
+France.
+(54)Équipe opérationnelle d'hygiène, Centre Hospitalier, 59300, Valenciennes,
+France.
+(55)Équipe opérationnelle d'hygiène, Hôpital Louis-Mourier, APHP, 92700,
+Colombes, France.
+(56)Laboratoire de Microbiologie, Hôpital Louis-Mourier, APHP, 92700, Colombes,
+France.
+(57)Service de réanimation néonatale, Centre Hospitalier Universitaire, Hôpitaux 
+de Brabois, 54035, Nancy, France.
+(58)Laboratoire de Microbiologie, Centre Hospitalier Universitaire, 14000, Caen, 
+France.
+(59)Service d'hygiène, Centre Hospitalier, 62100, Calais, France.
+(60)Service de réanimation néonatale, Centre Hospitalier, 64100, Bayonne, France.
+(61)Laboratoire de Bactériologie-Hygiène Institut de Biologie en Santé, CRCINA
+Inserm U1232, Université d'Angers, Centre Hospitalier Universitaire, 49933,
+Angers, France.
+(62)Service de réanimation néonatale et réanimation pédiatrique, Centre
+Hospitalier Universitaire de Martinique, 97261, Fort de France, France.
+(63)Laboratoire de Bactériologie-Hygiène, Centre Hospitalier Universitaire,
+Kremlin Bicêtre, APHP, 94275, Le Kremlin Bicêtre, France.
+(64)Service de réanimation néonatale, Centre Hospitalier, 62300, Lens, France.
+(65)Laboratoire de Microbiologie, Centre Hospitalier du Havre, 76290,
+Montivilliers, France.
+(66)Service de réanimation néonatale, Centre Hospitalier Universitaire, 97159,
+Pointe-à-Pitre, France.
+(67)Service de réanimation néonatale, Centre Hospitalier, 59300, Valenciennes,
+France.
+(68)Polyclinique Saint Roch, 34000, Montpellier, France.
+(69)Équipe opérationnelle d'hygiène, Centre Hospitalier, 64000, Pau, France.
+(70)Service de réanimation néonatale, Centre Hospitalier, 62100, Calais, France.
+(71)Service de réanimation néonatale, Centre Hospitalier Universitaire, Kremlin
+Bicêtre, APHP, 94275, Le Kremlin Bicêtre, France.
+(72)Laboratoire de Microbiologie, Centre Hospitalier, 62300, Lens, France.
+(73)Équipe opérationnelle d'hygiène, Université de Reims Champagne-Ardenne,
+51100, Reims, France.
+(74)Équipe opérationnelle d'hygiène, Centre Hospitalier, 95107, Argenteuil,
+France.
+(75)Équipe opérationnelle d'hygiène, Centre Hospitalier Universitaire, 14000,
+Caen, France.
+(76)Laboratoire de Biologie Médicale, Centre Hospitalier Métropole Savoie-Site de
+Chambéry, 73 011, Chambéry, France.
+(77)Laboratoire de Microbiologie, Centre Hospitalier, 64100, Bayonne, France.
+(78)Service de réanimation néonatale, Centre Hospitalier Universitaire, Hôpital
+de la Conception, APHM, 13005, Marseille, France.
+(79)Laboratoire de Microbiologie, Hôpitaux de Brabois, 54035, Nancy, France.
+(80)Laboratoire de Microbiologie, Centre Hospitalier, 79021, Niort, France.
+(81)Laboratoire de Microbiologie, Centre Hospitalier Universitaire, 97159,
+Pointe-à-Pitre, France.
+(82)Service de réanimation néonatale, Centre Hospitalier Universitaire Charles
+Nicolle, 76000, Rouen, France.
+(83)Laboratoire de Microbiologie, Centre Hospitalier, 95300, Pontoise, France.
+(84)Équipe opérationnelle d'hygiène, Centre Hospitalier Universitaire, 35000,
+Rennes, France.
+(85)Service de réanimation néonatale et réanimation pédiatrique, Centre
+Hospitalier Universitaire, Hôpital Robert Debré, Inserm UMR-S 1250 P3Cell,
+Université de Reims Champagne-Ardenne, 51100, Reims, France.
+(86)Laboratoire de Microbiologie, Centre Hospitalier Universitaire, 37044, Tours,
+France.
+(87)Équipe opérationnelle d'hygiène, Centre Hospitalier Universitaire Charles
+Nicolle, 76000, Rouen, France.
+(88)Équipe opérationnelle d'hygiène, Centre Hospitalier, 68100, Mulhouse, France.
+(89)Équipe opérationnelle d'hygiène, Centre Hospitalier Universitaire, 37044,
+Tours, France.
+(90)Service de réanimation néonatale, Centre Hospitalier du Havre, 76290,
+Montivilliers, France.
+(91)Laboratoire de Bactériologie, Université de Reims Champagne-Ardenne, 51100,
+Reims, France.
+(92)Service de réanimation néonatale, Centre Hospitalier, 68100, Mulhouse,
+France.
+(93)Laboratoire de Microbiologie, Centre Hospitalier, 62000, Arras, France.
+(94)Laboratoire de Microbiologie, Centre Hospitalier Universitaire de Martinique,
+97261, Fort de France, France.
+(95)Service de réanimation néonatale, Centre Hospitalier Universitaire, 42055,
+Saint Etienne, France.
+(96)Laboratoire de Microbiologie, Centre Hospitalier, 72000, Le Mans, France.
+(97)Polyclinique Majorelle, 54000, Nancy, France.
+(98)Laboratoire de Microbiologie, Centre Hospitalier Universitaire, 42055, Saint 
+Etienne, France.
+(99)Laboratoire de Microbiologie, Centre Hospitalier, 81100, Castres, France.
+(100)Service de réanimation néonatale, Centre Hospitalier, 72000, Le Mans,
+France.
+(101)Laboratoire de Microbiologie, Centre Hospitalier Universitaire, 06200, Nice,
+France.
+(102)Équipe opérationnelle d'hygiène, Centre Hospitalier Inter-Communal, 94010,
+Créteil, France.
+(103)Service de réanimation néonatale, Centre Hospitalier, 22000, Saint Brieuc,
+France.
+(104)Équipe opérationnelle d'hygiène, Centre Hospitalier Universitaire de
+Martinique, 97261, Fort de France, France.
+(105)Service de réanimation néonatale, Centre Hospitalier Universitaire, 14000,
+Caen, France.
+(106)Équipe opérationnelle d'hygiène, Centre Hospitalier, 62000, Arras, France.
+(107)Laboratoire de Microbiologie, Centre Hospitalier, 64000, Pau, France.
+(108)Service de réanimation néonatale, Centre Hospitalier Régional, 45100,
+Orléans, France.
+(109)Agence Santé Publique France, 94415, Saint Maurice, France.
+(110)SPIADI, CPIAS CVDL, Hôpital Bretonneau, Centre Hospitalier Universitaire,
+37044, Tours, France. n.vandermee@chu-tours.fr.
+(111)Cellule d'Epidémiologie Régionale des Infections Nosocomiales, CPIAS CVDL,
+Service de Bactériologie-Virologie-Hygiène, Hôpital Trousseau, CHRU, 37044,
+Tours, France. n.vandermee@chu-tours.fr.
+
+To increase the knowledge about S. capitis in the neonatal setting, we conducted 
+a nationwide 3-month survey in 38 neonatal intensive care units (NICUs) covering 
+56.6% of French NICU beds. We demonstrated 14.2% of S. capitis BSI (S.capBSI)
+among nosocomial BSIs. S.capBSI incidence rate was 0.59 per 1000 patient-days. A 
+total of 55.0% of the S.capBSIs were late onset catheter-related BSIs. The S.
+capitis strains infected preterm babies (median gestational age 26 weeks, median 
+birth weight 855 g). They were resistant to methicillin and aminoglycosides and
+belonged to the NRCS-A clone. Evolution was favorable in all but one case,
+following vancomycin treatment.
+
+DOI: 10.1007/s10096-020-03925-5 
+PMID: 32519215 
+

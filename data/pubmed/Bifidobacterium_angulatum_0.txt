@@ -1,0 +1,40 @@
+
+1. Nat Commun. 2019 Dec 16;10(1):5728. doi: 10.1038/s41467-019-13600-9.
+
+SAM-VI riboswitch structure and signature for ligand discrimination.
+
+Sun A(1), Gasser C(2), Li F(3), Chen H(1), Mair S(2), Krasheninina O(2), Micura
+R(4), Ren A(5).
+
+Author information: 
+(1)Life Sciences Institute, Zhejiang University, 310058, Hangzhou, Zhejiang,
+China.
+(2)Institute of Organic Chemistry, Center for Molecular Biosciences Innsbruck,
+Leopold Franzens University, Innsbruck, A6020, Austria.
+(3)National Science Center for Physical Sciences at Microscale Division of
+Molecular & Cell Biophysics and School of Life Sciences, University of Science
+and Technology of China, 230026, Hefei, China.
+(4)Institute of Organic Chemistry, Center for Molecular Biosciences Innsbruck,
+Leopold Franzens University, Innsbruck, A6020, Austria. ronald.micura@uibk.ac.at.
+(5)Life Sciences Institute, Zhejiang University, 310058, Hangzhou, Zhejiang,
+China. aimingren@zju.edu.cn.
+
+Riboswitches are metabolite-sensing, conserved domains located in non-coding
+regions of mRNA that are central to regulation of gene expression. Here we report
+the first three-dimensional structure of the recently discovered
+S-adenosyl-L-methionine responsive SAM-VI riboswitch. SAM-VI adopts a unique fold
+and ligand pocket that are distinct from all other known SAM riboswitch classes. 
+The ligand binds to the junctional region with its adenine tightly intercalated
+and Hoogsteen base-paired. Furthermore, we reveal the ligand discrimination mode 
+of SAM-VI by additional X-ray structures of this riboswitch bound to
+S-adenosyl-L-homocysteine and a synthetic ligand mimic, in combination with
+isothermal titration calorimetry and fluorescence spectroscopy to explore binding
+thermodynamics and kinetics. The structure is further evaluated by analysis of
+ligand binding to SAM-VI mutants. It thus provides a thorough basis for
+developing synthetic SAM cofactors for applications in chemical and synthetic RNA
+biology.
+
+DOI: 10.1038/s41467-019-13600-9 
+PMCID: PMC6914780
+PMID: 31844059  [Indexed for MEDLINE]
+

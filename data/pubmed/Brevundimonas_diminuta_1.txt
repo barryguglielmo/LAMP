@@ -1,0 +1,68 @@
+
+1. Dev Comp Immunol. 2020 Oct;111:103750. doi: 10.1016/j.dci.2020.103750. Epub 2020 
+May 21.
+
+Complement component C1q plays a critical role in VLRA/VLRC-mediated immune
+response.
+
+Li J(1), Ma Q(2), Liu H(2), Song X(3), Pang Y(2), Su P(2), Sun F(2), Gou M(2), Lu
+J(2), Shan Y(2), Liu X(2), Li Q(2), Han Y(4).
+
+Author information: 
+(1)College of Life Science, Liaoning Normal University, Dalian, 116029, China;
+Lamprey Research Center, Liaoning Normal University, Dalian, 116029, China;
+Collaborative Innovation Center of Seafood Deep Processing, Dalian Polytechnic
+University, Dalian, 116034, China; Liaoning Key Laboratory of Aquatic Animal
+Infectious Diseases Control and Prevention, Liaoning Institute of Freshwater
+Fisheries Sciences, Liaoyang, 111000, China.
+(2)College of Life Science, Liaoning Normal University, Dalian, 116029, China;
+Lamprey Research Center, Liaoning Normal University, Dalian, 116029, China;
+Collaborative Innovation Center of Seafood Deep Processing, Dalian Polytechnic
+University, Dalian, 116034, China.
+(3)College of Life Science, Liaoning Normal University, Dalian, 116029, China;
+Lamprey Research Center, Liaoning Normal University, Dalian, 116029, China;
+Collaborative Innovation Center of Seafood Deep Processing, Dalian Polytechnic
+University, Dalian, 116034, China; Affiliated Zhongshan Hospital of Dalian
+University, Dalian 116001, China.
+(4)College of Life Science, Liaoning Normal University, Dalian, 116029, China;
+Lamprey Research Center, Liaoning Normal University, Dalian, 116029, China;
+Collaborative Innovation Center of Seafood Deep Processing, Dalian Polytechnic
+University, Dalian, 116034, China. Electronic address: hanyinglun@163.com.
+
+In jawless vertebrates, the lamprey complement component C1q (LC1q) acts as a
+lectin and activates lamprey complement component C3 (LC3) in association with
+mannose-binding lectin (MBL)-associated serine protease (MASP) via the lectin
+pathway. Furthermore, LC1q may interact with variable lymphocyte receptor B
+(VLRB) in a complex with antigens and mediate the activation of LC3, leading to
+cytolysis. In the present study, we found, for the first time, that LC1q plays a 
+critical role in VLRA/VLRC-mediated immune response. Escherichia coli, Shigella
+flexneri, Aeromonas hydrophila, Pseudomonas plecoglossicida, Aeromonas
+allosaccharophila, P. luteola, Brevundimonas diminuta, and Bacillus cereus were
+isolated from infected Lampetra morii in our laboratory and identified using the 
+16s rRNA method. A. hydrophila was confirmed as a rapidly spreading lethal
+pathogen in the larvae of L. morii and was used in subsequent immune stimulation 
+experiments. The results of real-time quantitative polymerase chain reaction
+(Q-PCR) and immunofluorescence analyses indicated that the RNA and protein
+expression levels of LC1q were upregulated following exposure to 107 cfu/mL of A.
+hydrophila, compared to the levels of the naïve group. We obtained LC1q morphants
+(LC1q MO) of lamprey larvae by morpholino-mediated knockdowns. We found that LC1q
+played key roles in the embryonic development of lamprey. The median lethal time 
+(LT50) of LC1q MO larvae was 2 d after being exposed to the pathogens, whereas
+the LT50 of control MO was 5 d. The drastic decrease in LT50 values after LC1q
+knockdown implies that LC1q plays a critical role in lamprey immune response.
+Gene expression profiles of LC1q-deficient A. hydrophila, control MO A.
+hydrophila, wild type A. hydrophila, and naive 1-month-old ammocoetes larvae were
+compared by examining the expression levels of a selected panel of orthologous
+genes. It is worth mentioning that LC1q MO affected the VLRA+/VLRC + population
+genes but did not affect the VLRB + populations. Immunohistochemical data
+indicated that LC1q deficiency also affected VLRA and VLRC but not VLRB. Thus,
+LC1q plays a critical role in VLRA/VLRC-mediated immune response in lamprey.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.dci.2020.103750 
+PMID: 32447013 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no competing financial interests.
+

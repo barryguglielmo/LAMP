@@ -1,0 +1,50 @@
+
+1. J Antimicrob Chemother. 2020 Apr 1;75(4):907-910. doi: 10.1093/jac/dkz530.
+
+Emergence of ceftriaxone-resistant Neisseria gonorrhoeae strains harbouring a
+novel mosaic penA gene in China.
+
+Xiu L(1), Yuan Q(2), Li Y(1), Zhang C(1), Tang L(2), Peng J(1).
+
+Author information: 
+(1)NHC Key Laboratory of Systems Biology of Pathogens, Institute of Pathogen
+Biology, Chinese Academy of Medical Sciences & Peking Union Medical College,
+Beijing, China.
+(2)Department of Laboratory Medicine, Second Xiangya Hospital of Central South
+University, Changsha, Hunan, China.
+
+OBJECTIVES: The continuous emergence of ceftriaxone-resistant Neisseria
+gonorrhoeae strains threatens the effectiveness of current treatment regimens for
+gonorrhoea. The objective of the present study was to characterize three
+ceftriaxone-resistant N. gonorrhoeae strains with a novel mosaic penA allele
+isolated in China.
+METHODS: Three ceftriaxone-resistant Neisseria gonorrhoeae strains (GC150, GC161 
+and GC208) isolated in 2017 were characterized by N. gonorrhoeae multiantigen
+sequence typing (NG-MAST), MLST and N. gonorrhoeae sequence typing for
+antimicrobial resistance (NG-STAR). Recombination analyses were performed using
+the SimPlot software.
+RESULTS: Three strains had the same antibiotic resistance profiles, with
+resistance to ceftriaxone (MIC 0.5 mg/L), ciprofloxacin (MIC 8.0 mg/L),
+penicillin (MIC 2.0 mg/L) and tetracycline (MIC 2.0-8.0 mg/L). STs were assigned 
+as MLST7360, NG-MAST14292 and NG-STAR1611/NG-STAR1612. The penA gene of these
+three strains differed from previous ceftriaxone-resistant gonococcal strains and
+harboured a novel mosaic allele (penA-121.001). Like N. gonorrhoeae FC428, a
+widely disseminated ceftriaxone-resistant strain that was initially described in 
+Japan in 2015, all strains also possessed substitutions A311V and T483S in PBP2, 
+which are associated with resistance to ceftriaxone. Potential recombination
+events were detected in penA between N. gonorrhoeae strain FC428 and commensal
+Neisseria species. Our results provide further evidence that the commensal
+Neisseria species (Neisseria cinerea and Neisseria perflava) can serve as a
+reservoir of ceftriaxone resistance-mediating penA sequences in clinical
+gonococcal strains.
+CONCLUSIONS: The emergence of such strains may be the result of the interspecies 
+recombination of penA genes between N. gonorrhoeae strain FC428 and commensal
+Neisseria species.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the
+British Society for Antimicrobial Chemotherapy. All rights reserved. For
+permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jac/dkz530 
+PMID: 31899504 
+

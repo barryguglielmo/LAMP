@@ -1,0 +1,42 @@
+
+1. Sci Rep. 2020 Mar 2;10(1):3824. doi: 10.1038/s41598-020-60760-6.
+
+Optimization of concurrent production of xylanolytic and pectinolytic enzymes by 
+Bacillus safensis M35 and Bacillus altitudinis J208 using agro-industrial biomass
+through Response Surface Methodology.
+
+Thite VS(1)(2), Nerurkar AS(3), Baxi NN(3).
+
+Author information: 
+(1)Department of Microbiology and Biotechnology Centre, Faculty of Science, The
+Maharaja Sayajirao University of Baroda, Vadodara, Gujarat, 390002, India.
+thitevihang87@yahoo.com.
+(2)Department of Biological Sciences and Biotechnology, Institute of Advanced
+Research, Koba institutional area, Gandhinagar, Gujarat, 382426, India.
+thitevihang87@yahoo.com.
+(3)Department of Microbiology and Biotechnology Centre, Faculty of Science, The
+Maharaja Sayajirao University of Baroda, Vadodara, Gujarat, 390002, India.
+
+Application of crude xylanolytic and pectinolytic enzymes in diverse industrial
+processes make these enzymes commercially valuable and demand their production
+process to be cost-effective. Out of four different agrowaste biomass, wheat bran
+(WB) and citrus peel (CP), when amended as fermentation substrates, respectively 
+induced the highest xylanolytic enzymes and pectinolytic enzymes from both, B.
+safensis M35 and B. altitudinis J208. Further, the simultaneous amendment of WB
+and CP yielded concurrent production of these cellulase free xylanolytic and
+pectinolytic enzymes. Hence, the quadratic model was developed using the Central 
+Composite Design of Response Surface Method (CCD-RSM). The model gave the
+concentration values for WB and CP substrates to be amended in one single
+production medium for obtaining two optimized predicted response values of
+xylanase activity and pectinase activity units, which were further practically
+validated for the xylanase and pectinase production responses from the optimized 
+production medium (OPM). These practically obtained response values from OPM were
+found to be in accordance with a range of 95% predicted intervals (PI) values.
+These observations verified the validity of the predicted quadratic model from
+RSM and suggested that both xylanase and pectinase enzymes can be induced
+concurrently from both of the bacterial strains.
+
+DOI: 10.1038/s41598-020-60760-6 
+PMCID: PMC7052231
+PMID: 32123244 
+

@@ -1,0 +1,95 @@
+
+1. Gut. 2020 Apr 2. pii: gutjnl-2019-319766. doi: 10.1136/gutjnl-2019-319766. [Epub 
+ahead of print]
+
+Aberrant gut microbiota alters host metabolome and impacts renal failure in
+humans and rodents.
+
+Wang X(#)(1), Yang S(#)(2), Li S(#)(3), Zhao L(#)(4), Hao Y(1), Qin J(3), Zhang
+L(5), Zhang C(6), Bian W(7), Zuo L(8), Gao X(9), Zhu B(10), Lei XG(11), Gu Z(12),
+Cui W(13), Xu X(1)(14), Li Z(3), Zhu B(15), Li Y(1), Chen S(4), Guo H(4), Zhang
+H(15), Sun J(16), Zhang M(17), Hui Y(1), Zhang X(1), Liu X(1), Sun B(1), Wang
+L(1), Qiu Q(1), Zhang Y(1), Li X(4), Liu W(15), Xue R(18), Wu H(2), Shao D(2), Li
+J(9), Zhou Y(3), Li S(3), Yang R(3), Pedersen OB(19), Yu Z(20)(21), Ehrlich
+SD(22)(23), Ren F(20).
+
+Author information: 
+(1)Beijing Advanced Innovation Center for Food Nutrition and Human Health,
+College of Food Science and Nutritional Engineering, China Agricultural
+University, Beijing, China.
+(2)Department of Nephrology, Aerospace Center Hospital, Beijing, China.
+(3)Promegene Institute, Shenzhen, China.
+(4)Key Laboratory of Functional Dairy, College of Food Science and Nutritional
+Engineering, China Agricultural University, Beijing, China.
+(5)Department of Epidemiology, School of Oncology, Beijing University, Beijing,
+China.
+(6)Department of Nephrology, The Third Medical Center, Chinese PLA General
+Hospital, Beijing, China.
+(7)Renal Division, Beijing AnZhen Hospital, Capital Medical University, Beijing, 
+China.
+(8)Department of Nephrology, Peking University People's Hospital, Beijing, China.
+(9)Department of Nephrology, Peking University Shougang Hospital, Beijing, China.
+(10)Institute of Microbiology, Chinese Academy of Sciences, Beijing, China.
+(11)Department of Animal Science, Cornell University, Ithaca, New York, USA.
+(12)Division of Nutritional Sciences, Cornell University, Ithaca, New York, USA.
+(13)Institute of Reproductive and Developmental Biology, Imperial College London,
+London, UK.
+(14)Renal Division, Nanfang Hospital, National Clinical Research Center for
+Kidney Disease, Southern Medical University, State Key Laboratory for Organ
+Failure Research, Guangzhou, Guangdong, China.
+(15)Beijing Laboratory of Food Quality and Safety, College of Food Science and
+Nutritional Engineering, China Agricultural University, Beijing, China.
+(16)Department of Veterinary and Animal Sciences, University of Copenhagen,
+Copenhagen, Denmark.
+(17)School of Food and Chemical Engineering, Beijing Technology and Business
+University, Beijing, China.
+(18)Shanghai SLAC Laboratory Animal Co., Ltd, Shanghai Laboratory Animal Center, 
+Shanghai, China.
+(19)Novo Nordisk Foundation Centre for Basic Metabolic Research, Faculty of
+Health and Medical Sciences, Kobenhavns Universitet, Kobenhavn, Denmark.
+(20)Beijing Advanced Innovation Center for Food Nutrition and Human Health,
+College of Food Science and Nutritional Engineering, China Agricultural
+University, Beijing, China stanislav.ehrlich@inra.fr renfazheng@cau.edu.cn
+zyu@cau.edu.cn.
+(21)State Key Laboratories for Agrobiotechnology, College of Biological Sciences,
+China Agricultural University, Beijing, China.
+(22)Metagenopolis, Université Paris-Saclay, INRAE, MGP, 78350, Jouy-en-Josas,
+France stanislav.ehrlich@inra.fr renfazheng@cau.edu.cn zyu@cau.edu.cn.
+(23)Dental Institute, King's College London, London, London, UK.
+(#)Contributed equally
+
+OBJECTIVE: Patients with renal failure suffer from symptoms caused by uraemic
+toxins, possibly of gut microbial origin, as deduced from studies in animals. The
+aim of the study is to characterise relationships between the intestinal
+microbiome composition, uraemic toxins and renal failure symptoms in human
+end-stage renal disease (ESRD).
+DESIGN: Characterisation of gut microbiome, serum and faecal metabolome and human
+phenotypes in a cohort of 223 patients with ESRD and 69 healthy controls.
+Multidimensional data integration to reveal links between these datasets and the 
+use of chronic kidney disease (CKD) rodent models to test the effects of
+intestinal microbiome on toxin accumulation and disease severity.
+RESULTS: A group of microbial species enriched in ESRD correlates tightly to
+patient clinical variables and encode functions involved in toxin and secondary
+bile acids synthesis; the relative abundance of the microbial functions
+correlates with the serum or faecal concentrations of these metabolites.
+Microbiota from patients transplanted to renal injured germ-free mice or
+antibiotic-treated rats induce higher production of serum uraemic toxins and
+aggravated renal fibrosis and oxidative stress more than microbiota from
+controls. Two of the species, Eggerthella lenta and Fusobacterium nucleatum,
+increase uraemic toxins production and promote renal disease development in a CKD
+rat model. A probiotic Bifidobacterium animalis decreases abundance of these
+species, reduces levels of toxins and the severity of the disease in rats.
+CONCLUSION: Aberrant gut microbiota in patients with ESRD sculpts a detrimental
+metabolome aggravating clinical outcomes, suggesting that the gut microbiota will
+be a promising target for diminishing uraemic toxicity in those patients.
+TRIAL REGISTRATION NUMBER: This study was registered at ClinicalTrials.gov
+(NCT03010696).
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/gutjnl-2019-319766 
+PMID: 32241904 
+
+Conflict of interest statement: Competing interests: None declared.
+

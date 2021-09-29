@@ -1,0 +1,46 @@
+
+1. Sci Rep. 2020 Jul 13;10(1):11510. doi: 10.1038/s41598-020-68214-9.
+
+Bacteroides thetaiotaomicron and Lactobacillus johnsonii modulate intestinal
+inflammation and eliminate fungi via enzymatic hydrolysis of the fungal cell
+wall.
+
+Charlet R(1)(2)(3), Bortolus C(1)(2)(3), Sendid B(1)(2)(3), Jawhara S(4)(5)(6).
+
+Author information: 
+(1)CNRS, UMR 8576 - UGSF - Unité de Glycobiologie Structurale Et Fonctionnelle,
+INSERM U1285, 59000, Lille, France.
+(2)University of Lille, 1 place Verdun, 59000, Lille, France.
+(3)CHU Lille, Service de Parasitologie Mycologie, Pôle de Biologie Pathologie
+Génétique, 59000, Lille, France.
+(4)CNRS, UMR 8576 - UGSF - Unité de Glycobiologie Structurale Et Fonctionnelle,
+INSERM U1285, 59000, Lille, France. samir.jawhara@univ-lille.fr.
+(5)University of Lille, 1 place Verdun, 59000, Lille, France.
+samir.jawhara@univ-lille.fr.
+(6)CHU Lille, Service de Parasitologie Mycologie, Pôle de Biologie Pathologie
+Génétique, 59000, Lille, France. samir.jawhara@univ-lille.fr.
+
+Alterations to the gut microbiota can cause an amplification of the inflammatory 
+response to intestinal pathogens. We assessed the effect of Bacteroides
+thetaiotaomicron and Lactobacillus johnsonii on the elimination of Candida
+species and whether restoration of these two anaerobic bacteria could attenuate
+the development of colitis in mice. In this study, L. johnsonii and B.
+thetaiotaomicron interacted directly with Candida species and induced a
+degradation of the fungal cell wall, mediated via chitinase-like and
+mannosidase-like activities, which promoted the inhibition of Candida species
+growth. In the DSS-induced colitis model, oral administration of L. johnsonii and
+B. thetaiotaomicron to mice reduced the overgrowth of Escherichia coli,
+Enterococcus faecalis and Candida glabrata populations and resulted in a
+significant reduction in inflammatory parameters. L. johnsonii and B.
+thetaiotaomicron decreased pro-inflammatory mediators and enhanced the
+anti-inflammatory cytokine response with high TLR9 expression and chitinase-like 
+protein-1 activation, which promoted the elimination of C. glabrata from the gut.
+Overall, these findings provide evidence that L. johnsonii and B.
+thetaiotaomicron decrease the development of colitis mediated by TLR9 and promote
+the elimination of C. glabrata from the gut via chitinase-like and
+mannosidase-like activities.
+
+DOI: 10.1038/s41598-020-68214-9 
+PMCID: PMC7359362
+PMID: 32661259 
+

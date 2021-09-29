@@ -1,0 +1,35 @@
+
+1. Environ Technol. 2020 Feb;41(6):764-776. doi: 10.1080/09593330.2018.1510433. Epub
+2018 Aug 22.
+
+A hybrid process for 2,4-dichlorophenoxy acetic acid herbicidal treatment and its
+microbial identification by MALDI-TOF mass spectrometry.
+
+Okcu GD(1), Okten HE(2), Yalcuk A(1).
+
+Author information: 
+(1)Department of Environmental Engineering, Abant Izzet Baysal University, Bolu, 
+Turkey.
+(2)Department of Environmental Engineering, Izmir Institute of Technology, Urla, 
+Izmir, Turkey.
+
+The feasibility of coupling photocatalysis and a biological treatment to remove a
+herbicide - 2,4-dichlorophenoxy acetic acid (2,4-D) - from pure water was
+examined using batch experiments following three protocols: aerated (A-BR) and
+non-aerated biodegradation (NA-BR) alone, and intimately combined
+photodegradation and biodegradation (P-B). In view of a subsequent biological
+treatment, 15 and 180 min irradiation times were chosen in accordance with
+spectrophotometric and LC-MS/MS results that indicated the decrease in the
+COD/TOC ratio during photocatalysis. Pre-treatment led to a quick decrease in
+concentration of 2,4-D and COD during the biological process: a 78.79 ± 0.30% COD
+removal and 38.23 ± 3.12% 2,4-D elimination was measured after 5760 min in A-BR, 
+and 80.89 ± 0.81% COD and 81.36 ± 1.37% 2,4-D removal was achieved after 2880 min
+in P-B. For species identification using matrix-assisted laser
+desorption/ionization (MALDI)-time of flight (TOF)-TOF/MS equipment, Aeromonas
+eucrenophila, Stenotrophomonas acidaminiphila, Ralstonia pickettii,
+Sphingobacterium multivorum and Acinetobacter towneri were identified with high
+accuracy, and they play important roles in the degradation of 2,4-D.
+
+DOI: 10.1080/09593330.2018.1510433 
+PMID: 30092741  [Indexed for MEDLINE]
+

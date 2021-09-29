@@ -1,0 +1,48 @@
+
+1. Am J Med Sci. 2020 Aug;360(2):176-191. doi: 10.1016/j.amjms.2020.05.021. Epub
+2020 May 20.
+
+Protective Effects of Clostridium Butyricum in a Murine Model of Dextran Sodium
+Sulfate-Induced Colitis That Involve Inhibition of the TLR2 Signaling Pathway and
+T Helper 17 Cells.
+
+Xie Y(1), Zhou L(1), Yao X(1), Li Y(2).
+
+Author information: 
+(1)Department of Gastroenterology, Shengjing Hospital of China Medical
+University, Shenyang, Liaoning, PR China.
+(2)Department of Gastroenterology, Shengjing Hospital of China Medical
+University, Shenyang, Liaoning, PR China. Electronic address: yanli0227@126.com.
+
+BACKGROUND: This study aimed to investigate the role of Clostridium butyricum (C.
+butyricum) in conjunction with the Toll-like receptor2 (TLR2) signaling pathway
+and T helper 17 (Th17) cells in dextran sodium sulfate (DSS)-induced colitis in
+mice.
+METHODS: Forty 8-week-old BALB/c mice were randomly divided into 5 groups of 8
+mice for 7 days: control, DSS (5% DSS), DSS+C. butyricum (1 × 109 CFU), DSS+C.
+butyricum (1 × 108 CFU) and DSS+C. butyricum (1 × 107 CFU) groups. We assessed
+the disease activity index (DAI) and histological damage scores. The expression
+levels of TLR2, myeloid differentiation factor 88 (MyD88), nuclear factor kappa-B
+p65 (NF-κBp65), interleukin (IL) 17 (IL17), IL23 and retineic acid receptor
+related orphan nuclear receptor gamma t (RORγt) were determined through
+immunohistochemical staining, western blot and quantitative real-time PCR
+(qRT-PCR). The expression levels of CD3+CD4+IL17+ cells in peripheral blood were 
+measured by flow cytometry.
+RESULTS: C. butyricum dose-dependently decreased DAI and histological damage
+scores in DSS mice and down-regulated the mRNA and protein levels of TLR2, MyD88 
+and NF-κBp65 in mouse colon tissue (all P < 0.05). In addition, C. butyricum
+dose-dependently decreased the levels of CD3+CD4+IL17+ cells in peripheral blood 
+and down-regulated the mRNA and protein levels of IL17, IL23 and RORγt in mouse
+colon tissue (all P < 0.05). Moreover, the effect of C. butyricum on TLR2 was
+positively correlated with IL17, IL23 and RORγt.
+CONCLUSIONS: C. butyricum exerts a dose-dependently protective effect on acute
+intestinal inflammation induced by DSS in mice, by inhibiting the TLR2 signaling 
+pathway, down-regulating the expression of IL23 and RORγt, and inhibiting the
+secretion of IL17.
+
+Copyright © 2020 Southern Society for Clinical Investigation. Published by
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjms.2020.05.021 
+PMID: 32553747 
+

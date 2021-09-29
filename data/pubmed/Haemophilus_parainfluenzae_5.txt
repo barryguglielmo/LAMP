@@ -1,0 +1,46 @@
+
+1. Sci Rep. 2020 Jul 13;10(1):11512. doi: 10.1038/s41598-020-68161-5.
+
+Prevalence of susceptibility patterns of opportunistic bacteria in line with CLSI
+or EUCAST among Haemophilus parainfluenzae isolated from respiratory microbiota.
+
+Kosikowska U(1), Andrzejczuk S(2), Grywalska E(3), Chwiejczak E(1), Winiarczyk
+S(4), Pietras-Ożga D(4), Stępień-Pyśniak D(5).
+
+Author information: 
+(1)Department of Pharmaceutical Microbiology, Medical University of Lublin,
+Chodźki Str. 1, 20-093, Lublin, Poland.
+(2)Department of Pharmaceutical Microbiology, Medical University of Lublin,
+Chodźki Str. 1, 20-093, Lublin, Poland. sylwia.andrzejczuk@umlub.pl.
+(3)Department of Clinical Immunology, Medical University of Lublin, Chodźki Str. 
+4a, 20-093, Lublin, Poland.
+(4)Department of Epizootiology and Clinic of Infectious Diseases, University of
+Life Sciences of Lublin, Głęboka Str. 30, 20-612, Lublin, Poland.
+(5)Sub-Department of Veterinary Prevention and Avian Diseases, University of Life
+Sciences of Lublin, Głęboka Str. 30, 20-612, Lublin, Poland.
+
+The application of CLSI and EUCAST guidelines led to many discrepancies. Various 
+doubts have already appeared in preliminary stages of microbiological diagnostics
+of Haemophilus spp. A total of 87 H. parainfluenzae isolates were obtained from
+throat or nasopharyngeal swabs from adults 18 to 70 years old, both healthy
+volunteers and patients with chronic diseases between 2013 to 2015 in eastern
+Poland. Haemophilus spp. were identified by colony morphology, Gram-staining, API
+NH and MALDI-TOF MS technique. Both susceptibility to various antimicrobials and 
+phenotypes of Haemophilus spp. resistance to beta-lactams were determined.
+Statistically significant association between applied guidelines and drug
+resistance patterns were observed to as follows: ampicillin, cefuroxime,
+cefotaxime, amoxicillin-clavulanate, azithromycin, tetracycline and
+trimethoprim-sulfamethoxazole. Resistance phenotypes according to CLSI vs. EUCAST
+were as follows: 3.4% vs. 8.0% for BLNAR and 6.9% vs. 19.5% for BLPACR isolates. 
+In conclusion, this is the first study that reports comparative analysis of drug 
+susceptibility interpretation using CLSI and EUCAST of haemophili rods from human
+respiratory microbiota in Poland. In case of susceptible, increased exposure
+(formerly intermediate) category of susceptibility within H. parainfluenzae
+isolates we have observed EUCAST as more restrictive than CLSI. Moreover, BLNAI
+and BLPAI phenotype isolates have been observed, as well as BLPBR using only CLSI
+or EUCAST guidelines, respectively.
+
+DOI: 10.1038/s41598-020-68161-5 
+PMCID: PMC7359364
+PMID: 32661300 
+

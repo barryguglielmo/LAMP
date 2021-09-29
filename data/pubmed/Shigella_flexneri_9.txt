@@ -1,0 +1,67 @@
+
+1. Infect Genet Evol. 2020 Sep 8;85:104532. doi: 10.1016/j.meegid.2020.104532. [Epub
+ahead of print]
+
+Differential expression of cytokine genes in THP-1-derived macrophages infected
+with mild and virulence strains of Shigella flexneri 2a.
+
+Shabani NRM(1), Mokhtar M(2), Leow CH(3), Lean QY(4), Chuah C(5), Singh KKB(6),
+Leow CY(7).
+
+Author information: 
+(1)Institute for Research in Molecular Medicine, Universiti Sains Malaysia,
+Health Campus, 16150 Kubang Kerian, Kelantan, Malaysia; Faculty of Health
+Sciences, Universiti Teknologi MARA, Cawangan Pulau Pinang, Kampus Bertam, 13200 
+Kepala Batas, Penang, Malaysia.
+(2)Institute for Research in Molecular Medicine, Universiti Sains Malaysia,
+Health Campus, 16150 Kubang Kerian, Kelantan, Malaysia.
+(3)Institute for Research in Molecular Medicine, Universiti Sains Malaysia, 11800
+Gelugor, Penang, Malaysia.
+(4)Faculty of Pharmacy, Universiti Teknologi MARA, Cawangan Pulau Pinang, Kampus 
+Bertam, 13200 Kepala Batas, Penang, Malaysia.
+(5)School of Medical Sciences, Universiti Sains Malaysia, Health Campus, 16150
+Kubang Kerian, Kelantan, Malaysia; Faculty of Medicine and Health Sciences,
+Universiti Tunku Abdul Rahman, Sungai Long Campus, Jalan Sungai Long, Bandar
+Sungai Long, 43200 Kajang, Selangor, Malaysia.
+(6)School of Medical Sciences, Universiti Sains Malaysia, Health Campus, 16150
+Kubang Kerian, Kelantan, Malaysia.
+(7)Institute for Research in Molecular Medicine, Universiti Sains Malaysia,
+Health Campus, 16150 Kubang Kerian, Kelantan, Malaysia. Electronic address:
+yee.leow@usm.my.
+
+Shigella is an intracellular bacterial pathogen that causes bacterial dysentery
+called shigellosis. The assessment of pro- and anti-inflammatory mediators
+produced by immune cells against this bacteria are vital in identifying the
+effectiveness of the immune reaction in protecting the host. In Malaysia,
+Shigella is ranked as the third most common bacteria causing diarrheal disease
+among children below 5 years old. In the present study, we aim to examine the
+differential cytokine gene expressions of macrophages in response to two types of
+clinical strains of Shigella flexneri 2a (S. flexneri 2a) isolated from patients 
+admitted in Hospital Universiti Sains Malaysia, Kelantan, Malaysia. THP-1-derived
+macrophages, as the model of human macrophages, were infected separately with S. 
+flexneri 2a mild (SH062) and virulence (SH057) strains for 6, 12, and 24 h,
+respectively. The gene expression level of inflammatory mediators was identified 
+using real-time quantitative polymerase chain reaction (RT-qPCR). The production 
+of nitric oxide (NO) by the macrophages was measured by using a commercialized NO
+assay kit. The ability of macrophages to kill the intracellular bacteria was
+assessed by intracellular killing assay. Induction of tumor necrosis factor-alpha
+(TNFα), interleukin (IL)-1β, IL-6, IL-12, inducible NO synthase (iNOS), and NO,
+confirmed the pro-inflammatory reaction of the THP-1-derived macrophages in
+response to S. flexneri 2a, especially against the SH507 strain. The SH057 also
+induced a marked increase in the expression levels of the anti-inflammatory
+cytokine mRNAs at 12 h and 24 h post-infection. In the intracellular killing
+assay, both strains showed less viable, indicating the generation of
+pro-inflammatory cytokines in the presence of iNOS and NO was crucial in the
+stimulation of macrophages for the host defense against shigellosis.
+Transcription analysis of THP-1-derived macrophages in this study identifies
+differentially expressed cytokine genes that correlated with the virulence factor
+of S. flexneri 2a.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.meegid.2020.104532 
+PMID: 32911076 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+reported no potential conflict of interest.
+

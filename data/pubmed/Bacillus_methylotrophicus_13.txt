@@ -1,0 +1,43 @@
+
+1. Pestic Biochem Physiol. 2020 Oct;169:104669. doi: 10.1016/j.pestbp.2020.104669.
+Epub 2020 Jul 25.
+
+Antibacterial activity and rice-induced resistance, mediated by C15surfactin A,
+in controlling rice disease caused by Xanthomonas oryzae pv. oryzae.
+
+Jin P(1), Wang Y(1), Tan Z(1), Liu W(1), Miao W(2).
+
+Author information: 
+(1)College of Plant Protection, Hainan University, Haikou 570228, China; Key
+Laboratory of Green Prevention and Control of Tropical Plant Diseases and Pests
+(Ministry of Education), Hainan University, Haikou 570228, China.
+(2)College of Plant Protection, Hainan University, Haikou 570228, China; Key
+Laboratory of Green Prevention and Control of Tropical Plant Diseases and Pests
+(Ministry of Education), Hainan University, Haikou 570228, China. Electronic
+address: miao@hainu.edu.cn.
+
+Xanthomonas oryzae pv. oryzae (Xoo) is an important pathogen in rice.
+C15surfactin A, produced by Bacillus velezensis HN-2, displayed antibacterial
+activity against Xoo and effectively inhibited its infection of rice. The median 
+inhibitory concentration of C15surfactin A was 9.27 μg/mL. Scanning electron and 
+transmission electron microscopy examination showed that C15surfactin A caused
+significant damage to the cell wall structure of Xoo cells. On the other hand,
+dramatic increases in the activity of phenylalanine ammonia-lyase (Pal) and H2O2 
+content were observed in rice leaves inoculated with Xoo from 0 h to 72 h.
+Quantitative PCR assays indicated that C15surfactin A exposure upregulated the
+expression of the genes Pr1a, CatA, and Pal. The results showed that C15surfactin
+A could inhibit the growth of Xoo and effectively induce rice resistance to Xoo
+by triggering a hypersensitive reaction (HR) via mediation of the activities of
+antioxidant-related enzymes. Taken together, C15surfactin A has strong antibiotic
+activity against Xoo and effectively induces rice resistance to Xoo. These
+results highlight the potential of C15surfactin A as a biocontrol agent against
+Xoo in rice.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pestbp.2020.104669 
+PMID: 32828375  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare no competing financial interest.
+

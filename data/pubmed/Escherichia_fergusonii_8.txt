@@ -1,0 +1,64 @@
+
+1. PLoS One. 2019 Dec 31;14(12):e0226828. doi: 10.1371/journal.pone.0226828.
+eCollection 2019.
+
+Decreasing prevalence of contamination with extended-spectrum
+beta-lactamase-producing Enterobacteriaceae (ESBL-E) in retail chicken meat in
+the Netherlands.
+
+Huizinga P(1)(2), Kluytmans-van den Bergh M(1)(3)(4), Rossen JW(5), Willemsen
+I(1), Verhulst C(1), Savelkoul PHM(6)(7), Friedrich AW(5), García-Cobos S(5),
+Kluytmans J(1)(4).
+
+Author information: 
+(1)Department of Infection Control, Amphia Hospital, Breda, the Netherlands.
+(2)Laboratory for Medical Microbiology and Immunology, Elisabeth-TweeSteden
+Hospital, Tilburg, the Netherlands.
+(3)Amphia Academy Infectious Disease Foundation, Amphia Hospital, Breda, the
+Netherlands.
+(4)Julius Center for Health Sciences and Primary Care, University Medical Center 
+Utrecht, Utrecht University, Utrecht, the Netherlands.
+(5)University of Groningen, University Medical Center Groningen, Department of
+Medical Microbiology and Infection Prevention, Groningen, the Netherlands.
+(6)Maastricht University Medical Center, Caphri School for Public Health and
+Primary Care, Department of Medical Microbiology, Maastricht, the Netherlands.
+(7)Amsterdam University Medical Center, Vrije Universiteit Amsterdam, Department 
+of Medical Microbiology & Infection Control, Amsterdam, the Netherlands.
+
+Retail chicken meat is a potential source of extended-spectrum
+beta-lactamase-producing Enterobacteriaceae (ESBL-E). In the past decade, vast
+national efforts were undertaken to decrease the antibiotic use in the veterinary
+sector, resulting in a 58% decrease in antibiotic sales in the sector between
+2009 and 2014. This decrease in antibiotic use was followed by a decrease in
+ESBL-E prevalence in broilers. The current study investigates the prevalence of
+contamination with ESBL-E in retail chicken meat purchased in the Netherlands
+between December 2013 and August 2015. It looks at associations between the
+prevalence of contamination with ESBL-E and sample characteristics such as method
+of farming (free-range or conventional), supermarket chain of purchase and year
+of purchase. In the current study, 352 chicken meat samples were investigated for
+the presence of ESBL-E using selective culture methods. Six samples were excluded
+due to missing isolates or problems obtaining a good quality sequence leaving 346
+samples for further analyses. Of these 346 samples, 188 (54.3%) were positive for
+ESBL-E, yielding 216 ESBL-E isolates (Escherichia coli (n = 204), Klebsiella
+pneumoniae (n = 11) and Escherichia fergusonii (n = 1)). All ESBL-E isolates were
+analysed using whole-genome sequencing. The prevalence of contamination with
+ESBL-E in retail chicken meat decreased from 68.3% in 2014 to 44.6% in 2015,
+absolute risk difference 23.7% (95% confidence interval (CI): 12.6% - 34.1%). The
+ESBL-E prevalence was lower in free-range chicken meat (36.4%) compared with
+conventional chicken meat (61.5%), absolute risk difference 25.2% (95% CI: 12.9% 
+- 36.5%). The prevalence of contamination with ESBL-E varied between supermarket 
+chains, the highest prevalence of contamination was found in supermarket chain 4 
+(76.5%) and the lowest in supermarket chain 1 (37.8%). Pairwise isolate
+comparisons using whole-genome multilocus sequence typing (wgMLST) showed that
+clustering of isolates occurs more frequently within supermarket chains than
+between supermarket chains. In conclusion, the prevalence of contamination with
+ESBL-E in retail chicken in the Netherlands decreased over time; nevertheless, it
+remains substantial and as such a potential source for ESBL-E in humans.
+
+DOI: 10.1371/journal.pone.0226828 
+PMCID: PMC6938319
+PMID: 31891609  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

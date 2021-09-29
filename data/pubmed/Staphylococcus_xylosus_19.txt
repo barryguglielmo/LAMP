@@ -1,0 +1,48 @@
+
+1. Food Microbiol. 2020 Aug;89:103417. doi: 10.1016/j.fm.2020.103417. Epub 2020 Jan 
+10.
+
+Characterization of the microbial community composition in Italian Cinta Senese
+sausages dry-fermented with natural extracts as alternatives to sodium nitrite.
+
+Pini F(1), Aquilani C(2), Giovannetti L(1), Viti C(3), Pugliese C(2).
+
+Author information: 
+(1)Department of Agronomy, Food, Environmental and Forestry (DAGRI), University
+of Florence, Piazzale Delle Cascine 24, I-50144, Florence, Italy; Genexpress
+Laboratory, Department of Agronomy, Food, Environmental and Forestry (DAGRI),
+University of Florence, Via Della Lastruccia 14, I-50019, Sesto Fiorentino,
+Italy.
+(2)Department of Agronomy, Food, Environmental and Forestry (DAGRI), University
+of Florence, Piazzale Delle Cascine 24, I-50144, Florence, Italy.
+(3)Department of Agronomy, Food, Environmental and Forestry (DAGRI), University
+of Florence, Piazzale Delle Cascine 24, I-50144, Florence, Italy; Genexpress
+Laboratory, Department of Agronomy, Food, Environmental and Forestry (DAGRI),
+University of Florence, Via Della Lastruccia 14, I-50019, Sesto Fiorentino,
+Italy. Electronic address: carlo.viti@unifi.it.
+
+Nitrite is widely used in meat products as a multifunctional additive, combining 
+flavour and colour properties with antioxidant and antimicrobial effects.
+However, nitrite may form reaction products (i.e., nitrosamine) that are
+potentially carcinogenic to humans. The meat industry, in response to consumers' 
+demands for nitrite-free products, is seeking natural alternatives to nitrite,
+such as plant-based extracts. Three types of dry-fermented sausages were
+manufactured: NIT, containing 30 ppm of sodium nitrite; GSE, containing grape
+seed extract and olive pomace hydroxytyrosol; and CHE, containing chestnut
+extract and olive pomace hydroxytyrosol. Next-generation sequencing (NGS) was
+used to analyse microbial consortia, which were correlated with physical and
+chemical parameters. The prokaryotic community composition was similar among
+treatments, with a high relative abundance of Staphylococcus xylosus and
+Lactobacillus sakei, collectively accounting for 87% of the total community.
+However, significant differences were observed in both operational taxonomic unit
+(OTU) presence/absence and relative abundance. Ten genera varied in abundance
+between treatments. The increase in Lactobacillaceae in CHE may explain the
+reduced pH levels detected in these samples. In conclusion, NGS analysis showed
+that the prokaryotic community composition was similar in GSE and NIT, while CHE 
+varied in both the composition and relative abundance of different taxa.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fm.2020.103417 
+PMID: 32138987  [Indexed for MEDLINE]
+

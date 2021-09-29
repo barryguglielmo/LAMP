@@ -1,0 +1,38 @@
+
+1. Membranes (Basel). 2020 Aug 27;10(9). pii: E203. doi: 10.3390/membranes10090203.
+
+Continuous Production of Galacto-Oligosaccharides by an Enzyme Membrane Reactor
+Utilizing Free Enzymes.
+
+Cao T(1), Pázmándi M(1)(2), Galambos I(3), Kovács Z(1).
+
+Author information: 
+(1)Department of Food Engineering, Szent István University, Budapest 1118,
+Hungary.
+(2)Department of Microbiology and Biotechnology, Szent István University,
+Budapest 1118, Hungary.
+(3)Soós Ernő Water Technology Research and Development Center, University of
+Pannonia, Nagykanizsa 8200, Hungary.
+
+Galacto-oligosaccharides (GOS) are prebiotic compounds widely used for their
+health-promoting effects. Conventionally, GOS is produced by the enzymatic
+conversion of lactose in stirred tank reactors (STR). The high operational costs 
+associated with enzyme inactivation and removal might be reduced by the
+application of enzyme membrane reactors (EMR). In this study, we aimed to assess 
+the potential of continuous GOS production by EMR using soluble Biolacta N5, a
+Bacillus circulans-derived commercial enzyme preparation. The steady-state
+performance of the EMR equipped with an ultrafiltration module was investigated
+as function of residence time (1.1-2.8 h) and enzyme load (17-190 U·g-1) under
+fixed operational settings of temperature (50 °C), pH (6.0), lactose feed
+concentration (300 g·kg-1), and recirculation flow-rate (0.18 m3·h-1). Results
+indicate that the yield of oligosaccharides with higher degree of polymerization 
+(DP3-6) in STR (approx. 38% on total carbohydrate basis) exceeds that measured in
+EMR (ranging from 24% to 33%). However, a stable catalytic performance without a 
+significant deterioration in product quality was observed when operating the EMR 
+for an extended period of time (> 120 h). Approx. 1.4 kg of DP3-6 was produced
+per one gram of crude enzyme preparation over the long-term campaigns, indicating
+that EMR efficiently recovers enzyme activity.
+
+DOI: 10.3390/membranes10090203 
+PMID: 32867283 
+

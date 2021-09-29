@@ -1,0 +1,50 @@
+
+1. PeerJ. 2020 Aug 11;8:e9543. doi: 10.7717/peerj.9543. eCollection 2020.
+
+Antibacterial activity and mechanism of sanguinarine against Providencia rettgeri
+in vitro.
+
+Zhang Q(1)(2)(3)(4), Lyu Y(1), Huang J(1), Zhang X(1), Yu N(1), Wen Z(1), Chen
+S(3)(5).
+
+Author information: 
+(1)Department of Dermatology, Shenzhen University General Hospital, Shenzhen
+University, Shenzhen, China.
+(2)College of Physics and Optoelectronic Engineering, Shenzhen University,
+Shenzhen, China.
+(3)Shenzhen University Health Science Center, Shenzhen, China.
+(4)Department of Dermatology, PLAGH Hainan Hospital Of PLA General Hospital,
+Sanya, China.
+(5)Department of Immunology, Shenzhen University School of Medicine, Shenzhen,
+China.
+
+Background: Sanguinarine (SAG), a benzophenanthridine alkaloid, occurs in
+Papaveraceas, Berberidaceae and Ranunculaceae families. Studies have found that
+SAG has antioxidant, anti-inflammatory, and antiproliferative activities in
+several malignancies and that it exhibits robust antibacterial activities.
+However, information reported on the action of SAG against Providencia rettgeri
+is limited in the literature. Therefore, the present study aimed to evaluate the 
+antimicrobial and antibiofilm activities of SAG against P. rettgeri in vitro.
+Methods: The agar dilution method was used to determine the minimum inhibitory
+concentration (MIC) of SAG against P. rettgeri. The intracellular ATP
+concentration, intracellular pH (pHin), and cell membrane integrity and potential
+were measured. Confocal laser scanning microscopy (CLSM), field emission scanning
+electron microscopy (FESEM), and crystal violet staining were used to measure the
+antibiofilm formation of SAG.
+Results: The MIC of SAG against P. rettgeri was 7.8 μg/mL. SAG inhibited the
+growth of P. rettgeri and destroyed the integrity of P. rettgeri cell membrane,
+as reflected mainly through the decreases in the intracellular ATP concentration,
+pHin and cell membrane potential and significant changes in cellular morphology. 
+The findings of CLSM, FESEM and crystal violet staining indicated that SAG
+exhibited strong inhibitory effects on the biofilm formation of P. rettgeri and
+led to the inactivity of biofilm-related P. rettgeri cells.
+
+© 2020 Zhang et al.
+
+DOI: 10.7717/peerj.9543 
+PMCID: PMC7427548
+PMID: 32864203 
+
+Conflict of interest statement: The authors declare that they have no competing
+interests.
+

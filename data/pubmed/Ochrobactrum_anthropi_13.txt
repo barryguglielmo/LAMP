@@ -1,0 +1,38 @@
+
+1. J Hazard Mater. 2019 Dec 15;380:120873. doi: 10.1016/j.jhazmat.2019.120873. Epub 
+2019 Jul 12.
+
+Isolation and characterization of a chlorate-reducing bacterium Ochrobactrum
+anthropi XM-1.
+
+Chen HW(1), Xu M(1), Ma XW(1), Tong ZH(2), Liu DF(1).
+
+Author information: 
+(1)CAS Key Laboratory of Urban Pollutant Conversion, Department of Applied
+Chemistry, University of Science & Technology of China, Hefei, 230026, China.
+(2)CAS Key Laboratory of Urban Pollutant Conversion, Department of Applied
+Chemistry, University of Science & Technology of China, Hefei, 230026, China;
+Anhui Province Key Laboratory of Polar Environment and Global Change, University 
+of Science & Technology of China, Hefei, 230026, China. Electronic address:
+zhtong@ustc.edu.cn.
+
+A Gram-negative chlorate-reducing bacterial strain XM-1 was isolated. The 16S
+rRNA gene sequence identified the isolate as Ochrobactrum anthropi XM-1, which
+was the first strain of genus Ochrobactrum reported having the ability to reduce 
+chlorate. The optimum growth temperature and pH for strain XM-1 to reduce
+chlorate was found to be 30 °C and 5.0-7.5, respectively, under anaerobic
+condition. Strain XM-1 could tolerate high chlorate concentration (200 mM), and
+utilize a variety of carbohydrates (glucose, L-arabinose, D-fructose, sucrose),
+glycerin and sodium citrate as electron donors. In addition, oxygen and nitrate
+could be used as electron acceptors, but perchlorate could not be reduced. Enzyme
+activities related to chlorate reducing were characterized in cell extracts.
+Activities of chlorate reductase and chlorite dismutase could be detected in XM-1
+cells grown under both aerobic and anaerobic conditions, implying the two enzymes
+were constitutively expressed. This work suggests a high potential of applying
+Ochrobactrum anthropi XM-1 for remediation of chlorate contamination.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhazmat.2019.120873 
+PMID: 31325697 
+

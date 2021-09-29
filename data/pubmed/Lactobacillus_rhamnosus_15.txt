@@ -1,0 +1,30 @@
+
+1. Microbiol Resour Announc. 2020 Sep 17;9(38). pii: e00961-20. doi:
+10.1128/MRA.00961-20.
+
+Draft Genome Sequence of Lactobacillus rhamnosus Strain CBC-LR1, Isolated from
+Homemade Dairy Foods in Bulgaria.
+
+Shehata HR(1)(2), Chandler RA(3), Newmaster SG(4).
+
+Author information: 
+(1)NHP Research Alliance, College of Biological Sciences, University of Guelph,
+Guelph, Ontario, Canada hshehata@uoguelph.ca.
+(2)Department of Microbiology, Faculty of Pharmacy, Mansoura University,
+Mansoura, Egypt.
+(3)Chandler Biopharmaceutical Corp., Milton, Ontario, Canada.
+(4)NHP Research Alliance, College of Biological Sciences, University of Guelph,
+Guelph, Ontario, Canada.
+
+Here, we report the draft genome sequence of Lactobacillus rhamnosus strain
+CBC-LR1, which was isolated from naturally processed, homemade dairy foods in
+Bulgaria. The genome was assembled in 29 contigs with a total length of
+2,892,155 bp and a GC content of 46.7%. Genome annotation predicted 2,638 coding 
+genes and 49 tRNA genes.
+
+Copyright © 2020 Shehata et al.
+
+DOI: 10.1128/MRA.00961-20 
+PMCID: PMC7498437
+PMID: 32943571 
+

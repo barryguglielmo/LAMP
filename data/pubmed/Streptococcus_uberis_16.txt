@@ -1,0 +1,65 @@
+
+1. mSphere. 2020 Mar 18;5(2). pii: e00157-20. doi: 10.1128/mSphere.00157-20.
+
+Multiple Bactericidal Mechanisms of the Zinc Ionophore PBT2.
+
+Harbison-Price N(1), Ferguson SA(1), Heikal A(1), Taiaroa G(1), Hards K(1),
+Nakatani Y(1), Rennison D(2), Brimble MA(2), El-Deeb IM(3), Bohlmann L(4),
+McDevitt CA(5), von Itzstein M(3), Walker MJ(4), Cook GM(6).
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of Otago, Dunedin, New
+Zealand.
+(2)School of Chemical Sciences, University of Auckland, Auckland, New Zealand.
+(3)Institute for Glycomics, Griffith University, Queensland, Australia.
+(4)School of Chemistry and Molecular Biosciences, Australian Infectious Diseases 
+Research Centre, The University of Queensland, Queensland, Australia.
+(5)Department of Microbiology and Immunology, The Peter Doherty Institute for
+Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia.
+(6)Department of Microbiology and Immunology, University of Otago, Dunedin, New
+Zealand gregory.cook@otago.ac.nz.
+
+Globally, more antimicrobials are used in food-producing animals than in humans, 
+and the extensive use of medically important human antimicrobials poses a
+significant public health threat in the face of rising antimicrobial resistance
+(AMR). The development of novel ionophores, a class of antimicrobials used
+exclusively in animals, holds promise as a strategy to replace or reduce
+essential human antimicrobials in veterinary practice. PBT2 is a zinc ionophore
+with recently demonstrated antibacterial activity against several Gram-positive
+pathogens, although the underlying mechanism of action is unknown. Here, we
+investigated the bactericidal mechanism of PBT2 in the bovine mastitis-causing
+pathogen, Streptococcus uberis In this work, we show that PBT2 functions as a
+Zn2+/H+ ionophore, exchanging extracellular zinc for intracellular protons in an 
+electroneutral process that leads to cellular zinc accumulation. Zinc
+accumulation occurs concomitantly with manganese depletion and the production of 
+reactive oxygen species (ROS). PBT2 inhibits the activity of the
+manganese-dependent superoxide dismutase, SodA, thereby impairing oxidative
+stress protection. We propose that PBT2-mediated intracellular zinc toxicity in
+S. uberis leads to lethality through multiple bactericidal mechanisms: the
+production of toxic ROS and the impairment of manganese-dependent antioxidant
+functions. Collectively, these data show that PBT2 represents a new class of
+antibacterial ionophores capable of targeting bacterial metal ion homeostasis and
+cellular redox balance. We propose that this novel and multitarget mechanism of
+PBT2 makes the development of cross-resistance to medically important
+antimicrobials unlikely.IMPORTANCE More antimicrobials are used in food-producing
+animals than in humans, and the extensive use of medically important human
+antimicrobials poses a significant public health threat in the face of rising
+antimicrobial resistance. Therefore, the elimination of antimicrobial crossover
+between human and veterinary medicine is of great interest. Unfortunately, the
+development of new antimicrobials is an expensive high-risk process fraught with 
+difficulties. The repurposing of chemical agents provides a solution to this
+problem, and while many have not been originally developed as antimicrobials,
+they have been proven safe in clinical trials. PBT2, a zinc ionophore, is an
+experimental therapeutic that met safety criteria but failed efficacy checkpoints
+against both Alzheimer's and Huntington's diseases. It was recently found that
+PBT2 possessed potent antimicrobial activity, although the mechanism of bacterial
+cell death is unresolved. In this body of work, we show that PBT2 has multiple
+mechanisms of antimicrobial action, making the development of PBT2 resistance
+unlikely.
+
+Copyright © 2020 Harbison-Price et al.
+
+DOI: 10.1128/mSphere.00157-20 
+PMCID: PMC7082140
+PMID: 32188750 
+

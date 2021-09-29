@@ -1,0 +1,45 @@
+
+1. Appl Microbiol Biotechnol. 2020 Sep;104(17):7457-7465. doi:
+10.1007/s00253-020-10730-9. Epub 2020 Jul 17.
+
+Effect of quorum sensing and quorum sensing inhibitors on the expression of
+serine protease gene in Hafnia alvei H4.
+
+Zhu Y(1)(2), Sang X(1)(2), Li X(1)(2), Zhang Y(1)(2), Hao H(2), Bi J(1)(2), Zhang
+G(1)(2), Hou H(3)(4).
+
+Author information: 
+(1)School of Food Science and Technology, Dalian Polytechnic University, No.1,
+Qinggongyuan, Ganjingzi District, Dalian, Liaoning, People's Republic of China.
+(2)Liaoning Key Lab for Aquatic Processing Quality and Safety, No.1,
+Qinggongyuan, Ganjingzi District, Dalian, Liaoning, People's Republic of China.
+(3)School of Food Science and Technology, Dalian Polytechnic University, No.1,
+Qinggongyuan, Ganjingzi District, Dalian, Liaoning, People's Republic of China.
+houhongman@dlpu.edu.cn.
+(4)Liaoning Key Lab for Aquatic Processing Quality and Safety, No.1,
+Qinggongyuan, Ganjingzi District, Dalian, Liaoning, People's Republic of China.
+houhongman@dlpu.edu.cn.
+
+The serp gene codes for a protease that is considered to be an important factor
+associated with quorum sensing (QS)-based food spoilage caused by microorganisms.
+In this study, we evaluated the effect of temperature (4-37 °C) and QS inhibitors
+on the production of N-acyl-L-homoserine lactones (AHLs) and relative expression 
+of the luxR/I, as well as serp in Hafnia alvei H4. Production of AHLs and
+expression of luxR/I were found to reach maximum levels at 10 °C, suggesting that
+the QS system of H. alvei H4 might have higher activity at low temperatures;
+similar result was also obtained for serp expression. Mutants of H. alvei H4
+deficient in QS were used to identify the regulation of QS on serp expression.
+Significant reduction (P < 0.05) in serp expression was found in the mutants
+∆luxR, ∆luxI, and ∆luxR/I, with ∆luxI and ∆luxR/I showing greater reduction than 
+∆luxR. Minimum inhibition concentrations (MIC) of Benzyl isothiocyanate and
+3-Methylthiopropyl isothiocyanate for H. alvei H4 were determined to be 7.813 and
+15.625 mM, respectively. Furthermore, the expression of serp, as well as that of 
+luxR and luxI, was significantly repressed (P < 0.05) by the two QS inhibitors at
+1/8 MIC and 1/16 MIC, indicating that these inhibitors might repress serp
+expression through affecting luxR and luxI expression in H. alvei H4. The
+findings of this study, therefore, suggested that food spoilage caused by H.
+alvei could be controlled through the application of QS inhibitors.
+
+DOI: 10.1007/s00253-020-10730-9 
+PMID: 32676711 
+

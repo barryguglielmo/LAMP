@@ -1,0 +1,43 @@
+
+1. Appl Microbiol Biotechnol. 2020 Sep 24. doi: 10.1007/s00253-020-10909-0. [Epub
+ahead of print]
+
+A novel one-day phage-based test for rapid detection and enumeration of viable
+Mycobacterium avium subsp. paratuberculosis in cows' milk.
+
+Foddai ACG(1), Grant IR(2).
+
+Author information: 
+(1)Institute for Global Food Security, School of Biological Sciences, Queen's
+University Belfast, Belfast, Northern Ireland, BT9 5DL, UK.
+(2)Institute for Global Food Security, School of Biological Sciences, Queen's
+University Belfast, Belfast, Northern Ireland, BT9 5DL, UK. i.grant@qub.ac.uk.
+
+Bacteriophage-based methods for the rapid detection of viable Mycobacterium avium
+subsp. paratuberculosis (MAP) in veterinary specimens are a recent addition to
+the Johne's disease diagnostic toolbox. Here, we report the use of D29
+mycobacteriophage-coated tosylactivated paramagnetic beads to capture and
+concentrate MAP cells from samples (termed phagomagnetic separation, PhMS) and
+then naturally lyse viable MAP cells (from the inside out) to provide DNA for
+IS900 qPCR purposes. Transmission electron microscopy confirmed that D29 phages
+had bound to beads in the correct orientation and that the phage-coated beads
+captured MAP cells from a suspension. During test optimization, conventional
+IS900 PCR results were used to subjectively assess the effect of different
+phage:bead coating ratios, differing amounts of coated beads during PhMS, optimal
+incubation time post-PhMS to obtain maximal MAP DNA, and the potential benefit of
+a brief heat shock (55 °C/1 min) prior to IS900 TaqMan qPCR. The limit of
+detection 50% (LOD50%) of the optimised PhMS-qPCR assay was 10.00 MAP cells/50 ml
+milk (95% CI 1.20-82.83). Finally, in order to demonstrate the new assay's
+ability to detect viable MAP in naturally contaminated milk, bulk tank milk
+samples from 100 dairy farms were tested. Forty-nine (49%) of these tested
+PhMS-qPCR-positive, with viable MAP numbers detected ranging from 3-126
+MAP/50 ml. The novel PhMS-qPCR assay is a sensitive, specific and easy-to-apply
+phage-based assay for viable MAP, with potential application for milk
+surveillance or diagnosis of Johne's disease. KEY POINTS: • Phage-coated magnetic
+beads could capture, concentrate and lyse MAP cells from milk. • PhMS-qPCR assay 
+proved to be a rapid, sensitive and specific test for viable MAP. • A potential
+application of PhMS-qPCR assay for milk surveillance was demonstrated.
+
+DOI: 10.1007/s00253-020-10909-0 
+PMID: 32970181 
+

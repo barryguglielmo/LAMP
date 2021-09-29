@@ -1,0 +1,61 @@
+
+1. Appl Environ Microbiol. 2020 Sep 25. pii: AEM.01795-20. doi:
+10.1128/AEM.01795-20. [Epub ahead of print]
+
+Metabolic fluxes of nitrogen and pyrophosphate in chemostat cultures of
+Clostridium thermocellum and Thermoanaerobacterium saccharolyticum.
+
+Holwerda EK(1)(2), Zhou J(3), Hon S(3)(2), Stevenson DM(2)(4), Amador-Noguez
+D(2)(4), Lynd LR(1)(2), van Dijken JP(5).
+
+Author information: 
+(1)Thayer School of Engineering, Dartmouth College, Hanover, New Hampshire, USA. 
+evert.k.holwerda@dartmouth.edu lee.r.lynd@dartmouth.edu.
+(2)The Center for Bioenergy Innovation, Oak Ridge National Laboratory, Oak Ridge,
+Tennessee, USA.
+(3)Thayer School of Engineering, Dartmouth College, Hanover, New Hampshire, USA.
+(4)Department of Bacteriology, University of Wisconsin-Madison, Madison,
+Wisconsin, USA.
+(5)Delft University of Technology, Delft, The Netherlands.
+
+Clostridium thermocellum and Thermoanaerobacterium saccharolyticum were grown in 
+cellobiose-limited chemostat cultures at a fixed dilution rate. C. thermocellum
+produced acetate, ethanol, formate and lactate. Surprisingly, and in contrast to 
+batch cultures, in cellobiose-limited chemostat cultures of T. saccharolyticum
+ethanol was the main fermentation product. Enzyme assays confirmed that in C.
+thermocellum glycolysis proceeds via pyrophosphate (PPi)-dependent
+phosphofructokinase (PFK), pyruvate-phosphate dikinase (PPDK) as well as a malate
+shunt for the conversion of PEP to pyruvate. Pyruvate kinase activity was not
+detectable. In T. saccharolyticum ATP but not PPi served as cofactor for the PFK 
+reaction. High activities of both pyruvate kinase and PPDK were present whereas
+the activities of a malate shunt enzymes were low in T. saccharolyticum In C.
+thermocellum glycolysis via PPi-PFK and PPDK obeys the equation glucose + 5 NDP +
+3 PPi -> 2 pyruvate + 5 NTP + Pi. Metabolic flux analysis of chemostat data with 
+the wild-type and a deletion mutant of the proton-pumping pyrophosphatase showed 
+that a PPi-generating mechanism must be present that operates according to ATP + 
+Pi -> ADP + PPi. Both organisms also produced significant amounts of amino acids 
+in cellobiose-limited cultures. It was anticipated that this phenomenon would be 
+suppressed by growth under nitrogen limitation. Surprisingly, nitrogen-limited
+chemostat cultivation of wild-type C. thermocellum revealed a bottleneck in
+pyruvate oxidation as large amounts of pyruvate and amino acids, mainly valine,
+were excreted: up to 50% of the nitrogen consumed was excreted again as amino
+acids.Importance This study discusses the fate of pyrophosphate in the metabolism
+of two thermophilic anaerobes that lack a soluble irreversible pyrophosphatase as
+present in Escherichia coli but instead use a reversible membrane-bound
+proton-pumping enzyme. In such organisms the charging of tRNA with amino acids
+may become more reversible. This may contribute to the observed excretion of
+amino acids during sugar fermentation by Clostridium thermocellum and
+Thermoanaerobacterium saccharolyticum Calculation of the energetic advantage of a
+reversible pyrophosphate-dependent glycolysis, as occurring in Clostridium
+thermocellum, could not be properly evaluated as currently available genome-scale
+models neglect the anabolic generation of pyrophosphate in, for example,
+polymerization of amino acids to protein. This anabolic pyrophosphate replaces
+ATP and thus saves energy. Its amount is, however, too small to cover the
+pyrophosphate requirement of sugar catabolism in glycolysis. Consequently
+pyrophosphate for catabolism is generated according to ATP + Pi → ADP + PPi.
+
+Copyright © 2020 Holwerda et al.
+
+DOI: 10.1128/AEM.01795-20 
+PMID: 32978139 
+

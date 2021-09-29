@@ -1,0 +1,50 @@
+
+1. J Inorg Biochem. 2020 Sep 6;212:111250. doi: 10.1016/j.jinorgbio.2020.111250.
+[Epub ahead of print]
+
+Cu(II) complexes with peptides from FomA protein containing -His-Xaa-Yaa-Zaa-His 
+and -His-His-motifs. ROS generation and DNA degradation.
+
+Lesiów MK(1), Bieńko A(2), Sobańska K(3), Kowalik-Jankowska T(2), Rolka K(4),
+Łęgowska A(4), Ptaszyńska N(4).
+
+Author information: 
+(1)Faculty of Chemistry, University of Wrocław, F. Joliot-Curie 14, 50-383
+Wrocław, Poland. Electronic address: monika.lesiow@chem.uni.wroc.pl.
+(2)Faculty of Chemistry, University of Wrocław, F. Joliot-Curie 14, 50-383
+Wrocław, Poland.
+(3)Faculty of Chemistry, Jagiellonian University, Gronostajowa 2, 30-387 Kraków, 
+Poland.
+(4)Faculty of Chemistry, University of Gdańsk, Wita Stwosza 63, 80-308 Gdańsk,
+Poland.
+
+Mono- and dinuclear Cu(II) complexes with Ac-PTVHNEYH-NH2 (L1) and Ac-NHHTLND-NH2
+(L2) peptides from FomA protein of Fusobacterium nucleatum were studied by
+potentiometry, spectroscopic methods (UV-Vis, CD, EPR) and MS technique. The
+dominant mononuclear complexes for L1 ligand are: CuHL (pH range 5.0-6.0) with 2N
+{2Nim}, CuH-2L (pH range 8.0-8.5) and CuH-3L species (above pH 9.0) with 4N {Nim,
+3N-} coordination modes. The complexes: CuH-1L with 3N {2Nim, N-}, CuH-2L with 3N
+{Nim, 2N-} and CuH-3L with 4N {Nim, 3N-} binding sites are proposed for the L2
+ligand. Probably in the CuH-2L complex for CuL2 system the second His residue in 
+His-His sequence is bound to Cu(II) ion, while the first His residue may
+stabilize this complex by His-His and/or His-Cu(II) interactions. The dominant
+dinuclear Cu2L1 complexes in the pH range 6.5-10.5 are: the Cu2H-4L and Cu2H-6L
+species with 3N{Nim, 2N-}4N{Nim, 3N-} and 4N{Nim, 3N-}4N{Nim, 3N-} binding sites,
+respectively. In the case of the Cu2L2 complex in the pH range 7.2-10.5, the
+Cu2H-4L and Cu2H-7L species dominate with 2N{Nim, N-}4N{Nim, 3N-} and
+(Cu(OH)42-4N{Nim, 3N-}) coordination modes, respectively. The ability to generate
+reactive oxygen species (ROS) by uncomplexed Cu(II) ions, ligands and their
+complexes at pH 7.4 in the presence of hydrogen peroxide or ascorbic acid was
+studied. UV-Vis, luminescence, EPR spin trapping and gel electrophoresis methods 
+were used. Both complexes produce higher level of ROS compared to those of their 
+ligands. ROS produced by Cu(II) complexes are hydroxyl radical and singlet
+oxygen, which contribute to oxidative DNA cleavage.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jinorgbio.2020.111250 
+PMID: 32920436 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no conflict of interest.
+

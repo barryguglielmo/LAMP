@@ -1,0 +1,34 @@
+
+1. Genes (Basel). 2020 Aug 26;11(9). pii: E999. doi: 10.3390/genes11090999.
+
+Abundance, Diversity and Role of ICEs and IMEs in the Adaptation of Streptococcus
+salivarius to the Environment.
+
+Lao J(1)(2), Guédon G(1), Lacroix T(2), Charron-Bourgoin F(1), Libante V(1), Loux
+V(2), Chiapello H(2), Payot S(1), Leblond-Bourget N(1).
+
+Author information: 
+(1)Université de Lorraine, INRAE, DynAMic, F-54000 Nancy, France.
+(2)Université Paris-Saclay, INRAE, MaIAGE, 78350 Jouy-en-Josas, France.
+
+Streptococcus salivarius is a significant contributor to the human oral,
+pharyngeal and gut microbiomes that contribute to the maintenance of health. The 
+high genomic diversity observed in this species is mainly caused by horizontal
+gene transfer. This work aimed to evaluate the contribution of integrative and
+conjugative elements (ICEs) and integrative and mobilizable elements (IMEs) in S.
+salivarius genome diversity. For this purpose, we performed an in-depth analysis 
+of 75 genomes of S. salivarius and searched for signature genes of conjugative
+and mobilizable elements. This analysis led to the retrieval of 69 ICEs, 165 IMEs
+and many decayed elements showing their high prevalence in S. salivarius genomes.
+The identification of almost all ICE and IME boundaries allowed the
+identification of the genes in which these elements are inserted. Furthermore,
+the exhaustive analysis of the adaptation genes carried by these elements showed 
+that they encode numerous functions such as resistance to stress, to antibiotics 
+or to toxic compounds, and numerous enzymes involved in diverse cellular
+metabolic pathways. These data support the idea that not only ICEs but also IMEs 
+and decayed elements play an important role in S. salivarius adaptation to the
+environment.
+
+DOI: 10.3390/genes11090999 
+PMID: 32858915 
+

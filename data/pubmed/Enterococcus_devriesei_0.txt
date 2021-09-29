@@ -1,0 +1,41 @@
+
+1. Front Microbiol. 2020 Aug 24;11:2048. doi: 10.3389/fmicb.2020.02048. eCollection 
+2020.
+
+Comparative Genome Analysis and Phenotypic Characterization of Clostridium
+gasigenes CGAS001 Isolated From Chilled Vacuum-Packed Lamb Meat.
+
+Wambui J(1), Cernela N(1), Corti S(1), Stephan R(1).
+
+Author information: 
+(1)Institute for Food Safety and Hygiene, Vetsuisse Faculty, University of
+Zurich, Zurich, Switzerland.
+
+Genomic data for psychrophilic bacteria causing blown pack spoilage (BPS) are
+limited. This study characterizes the genome of a novel Clostridium gasigenes
+strain CGAS001 isolated from meat juice sample (MJS) of vacuum-packed lamb meat
+by comparing it with the type strain C. gasigenes DSM 12272 and five strains
+representing four other BPS-causing Clostridium sensu stricto species. Phenotypic
+characteristics of the strain, which include biochemical characteristics,
+antimicrobial resistance and production of putative polyketide, have been
+determined. The size of its draft genome is 4.1 Mb with 3,845 coding sequences,
+28.7% GC content and 95 RNA genes that include 75 tRNAs, 17 rRNAs, and 3 ncRNAs. 
+Average Nucleotide Identity (ANI) and digital DNA-DNA Hybridization (dDDH)
+predict that C. gasigenes CGAS001 and DSM 12272 constitute a single species (ANI 
+and dDDH = 98.3% for speciation) but two distinct subspecies (dDDH = 73.3% for
+subspeciation). The genome is characterized by saccharolytic, lipolytic and
+proteolytic genes as well as hemolysins and phospholipases, which are consistent 
+with its phenotype. The genome also reveals the ability of C. gasigenes to
+synthesize polyketides which is demonstrated by the antimicrobial activity of a
+crude polyketide extract against Listeria monocytogenes and Enterococcus
+devriesei. The strain is resistant to polymyxin B and streptomycin. The genetic
+and phenotypic analyses suggest that CGAS001 constitutes a novel subspecies of C.
+gasigenes adapted to a saprophytic lifestyle and can synthesize narrow spectrum
+antimicrobial compounds.
+
+Copyright © 2020 Wambui, Cernela, Corti and Stephan.
+
+DOI: 10.3389/fmicb.2020.02048 
+PMCID: PMC7476324
+PMID: 32983035 
+

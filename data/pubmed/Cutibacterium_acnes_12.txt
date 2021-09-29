@@ -1,0 +1,53 @@
+
+1. Front Microbiol. 2020 Aug 13;11:1852. doi: 10.3389/fmicb.2020.01852. eCollection 
+2020.
+
+Hop Extract: An Efficacious Antimicrobial and Anti-biofilm Agent Against
+Multidrug-Resistant Staphylococci Strains and Cutibacterium acnes.
+
+Di Lodovico S(1), Menghini L(1), Ferrante C(1), Recchia E(1), Castro-Amorim J(2),
+Gameiro P(2), Cellini L(1), Bessa LJ(2).
+
+Author information: 
+(1)Dipartimento di Farmacia, Università degli Studi "Gabriele d'Annunzio"
+Chieti-Pescara, Chieti, Italy.
+(2)LAQV/REQUIMTE, Departamento de Química e Bioquímica, Faculdade de Ciências,
+Universidade do Porto, Porto, Portugal.
+
+Bacteria belonging to Staphylococcus genus, in particular methicillin-resistant
+Staphylococcus aureus and multidrug-resistant Staphylococcus epidermidis,
+together with Cutibacterium acnes are the main strains involved in skin disease. 
+The increase in multidrug-resistant bacteria has revived attention on natural
+compounds as alternative agents for the treatment management. Among these, hop
+extract, a hydroalcoholic solution obtained from experimental crops of Humulus
+lupulus L. variety cascade (hop), displays diverse biological properties
+including an antimicrobial one. The aim of this study was to evaluate the
+antimicrobial activity and the capacity to inhibit the biofilm formation of a
+characterized hop extract against S. aureus and S. epidermidis
+multidrug-resistant strains and against a C. acnes strain. The hop extract was
+characterized by (i) phytochemical analysis through a reversed-phase
+high-performance liquid chromatography (HPLC)-fluorimetric method, (ii)
+biocompatibility test with Artemia salina L., (iii) cytotoxicity against two cell
+lines, (iv) docking analysis, and (v) antimicrobial and antibiofilm activities by
+detection of zones inhibition, minimal inhibitory concentrations (MICs), biomass 
+quantification, and cell viability. The hop extract was biocompatible and
+non-cytotoxic at all tested concentrations. HPLC analysis revealed significant
+levels of gallic acid, resveratrol, and rutin. This last compound was the most
+representative displaying a high affinity against PBP2a and KAS III (Ki values in
+the submicromolar range). The characterized hop extract showed a good
+antimicrobial action with MICs ranging from 1 to 16 μg/mL and was able to inhibit
+the biofilm formation of all tested strains, except for two S. aureus strains.
+The biofilm formed in presence of the hop extract was significantly reduced in
+most cases, even when present at a concentration of 1/4 MIC. The live/dead images
+showed a remarkable inhibition in the biofilm formation by hop extract with a
+weak killing action. Overall, the tested hop extract is a good candidate to
+further explore for its use in the prevention of infection particularly, by
+multidrug-resistant Gram-positive pathogens.
+
+Copyright © 2020 Di Lodovico, Menghini, Ferrante, Recchia, Castro-Amorim,
+Gameiro, Cellini and Bessa.
+
+DOI: 10.3389/fmicb.2020.01852 
+PMCID: PMC7438819
+PMID: 32903686 
+

@@ -1,0 +1,54 @@
+
+1. Curr Microbiol. 2020 Oct;77(10):3192-3200. doi: 10.1007/s00284-020-02134-9. Epub 
+2020 Jul 28.
+
+Acinetobacter mesopotamicus sp. nov., Petroleum-degrading Bacterium, Isolated
+from Petroleum-Contaminated Soil in Diyarbakir, in the Southeast of Turkey.
+
+Acer Ö(1), Güven K(2), Poli A(3), Di Donato P(3)(4), Leone L(3), Buono L(3),
+Güven RG(5), Nicolaus B(3), Finore I(3).
+
+Author information: 
+(1)Medical Faculty, Department of Medical Microbiology, Siirt University, 56100, 
+Siirt, Turkey. oacer21@gmail.com.
+(2)Molecular Biology and Genetic Department, Faculty of Science, Dicle
+University, 21280, Diyarbakır, Turkey.
+(3)Consiglio Nazionale Delle Ricerche (C.N.R.), Istituto Di Chimica Biomolecolare
+(I.C.B.), Via Campi Flegrei 34, 80078, Pozzuoli, Napoli, Italy.
+(4)Department of Science and Technology, Centro Direzionale -Isola C4, Parthenope
+University of Naples, 80143, Napoli, Italy.
+(5)Division of Science Teaching, Ziya Gökalp Faculty of Education, Dicle
+University, 21280, Diyarbakır, Turkey.
+
+A new petroleum-degrading bacterium, designated strain GC2T, was isolated from
+Bozkuş 1 petroleum station in Diyarbakir, located in the southeast of Turkey.
+Cells were Gram-negative staining, aerobic, coccoid-rods, non-motile,
+non-spore-forming. The bacterium was found to degrade 100% of n-alkanes ranging
+from C11 to C34 presented in the 1% crude oil after incubation of 7 days. The
+membrane phospholipids were 1,2 diacylglycero-3-phosphorylethanolamine (PEA),
+phosphatidylglycerol (PG), dipalmitoyl-sn-glycerol 1- phosphocholine (PC1), 1,2
+dipalmitoyl-sn-glycero-3-phosphocholine monohydrate (PC3), cardiolipin also
+called diphosphatidylglycerol (CL) and l-α- phosphatidic acid, dipalmitoyl (AP); 
+predominant respiratory ubiquinone was Q-8 and C16:0, C18:1ω9c and C16:1 were the
+major cellular fatty acids. The 16S rRNA sequence analysis revealed that the
+strain GC2T was a member of genus Acinetobacter and was most closely related to
+Acinetobacter lwoffii DSM 2403 T (99.79%), Acinetobacter pseudolwoffii ANC 5318 T
+(98.83%) and Acinetobacter harbinensis HITLi 7 T (98.14%). The rpoB and gyrB gene
+sequence analysis confirmed that the strain GC2T was a member of genus
+Acinetobacter and that the closest relative was Acinetobacter lwoffii DSM 2403 T 
+(99.08% and 100% similarity, respectively). DNA-DNA hybridization values between 
+GC2T and its closest relatives ranged from 65.6% (with A. lwoffii) to 5.1% (with 
+A. venetianus). The whole genome sequence of strain GC2T was obtained. The DNA
+G + C content of this strain was determined to be 42.9 mol %. ANI indexes, in
+silico estimations of DDH values and wet lab DDH values demonstrated that strain 
+GC2T represents an independent genomospecies. On the basis of phenotypic
+characteristics, chemotaxonomic, phylogenetic data and DNA-DNA hybridization and 
+whole genome analysis, we propose to assign strain GC2T as a new species of the
+genus Acinetobacter, for which the name Acinetobacter mesopotamicus sp. nov. is
+proposed. The type strain of this species is GC2T (DSM 26953 T = JCM 31073 T).
+The whole genome of strain GC2T has been deposited at DDBJ/ENA/GenBank under the 
+accession JAALFF010000000.
+
+DOI: 10.1007/s00284-020-02134-9 
+PMID: 32725341 
+

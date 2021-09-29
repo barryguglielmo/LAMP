@@ -1,0 +1,47 @@
+
+1. Shock. 2020 Sep;54(3):368-376. doi: 10.1097/SHK.0000000000001462.
+
+The Effect of Burn Resuscitation Volumes on the Gut Microbiome in a Swine Model.
+
+McIntyre MK(1), Winkler CJ(2)(3), Gómez BI(3), Lapierre JP(3), Little JS(3),
+Dubick MA(3)(4), Nicholson SE(4), Burmeister DM(3)(4)(5).
+
+Author information: 
+(1)New York Medical College, Valhalla, New York.
+(2)Yale University, New Haven, Connecticut.
+(3)Damage Control Resuscitation, US Army Institute of Surgical Research, JBSA
+Fort Sam Houston, Texas.
+(4)Department of Surgery, The University of Texas Health Science Center at San
+Antonio, San Antonio, Texas.
+(5)Department of Medicine, Uniformed Services University of the Health Sciences, 
+Bethesda, Maryland.
+
+INTRODUCTION: While recent reports underscore the significance of the gut
+microbiome (GM) in health and disease, its importance in burn outcomes remains
+unclear. Moreover, aggressive intravenous (IV) fluid resuscitation of patients
+may alter intestinal flora. Herein, we describe GM changes following a large burn
+in swine randomized to different volumes of IV Lactated Ringers' (LR).
+METHODS: Anesthetized Yorkshire swine sustained 40% total body surface area
+full-thickness burns and were randomized to different volumes of IV LR: none
+(n = 5), 15 mL/kg/d (low; n = 6), or 80 mL/kg/d (high; n = 6). At baseline and
+days 1 and 2, fecal swabs were collected for 16s rDNA sequencing. Proximal
+jejunum was collected immediately after euthanasia (day 2) for western blot,
+histopathology, and cytokine analyses.
+RESULTS: Burns produced significant shifts in β-diversity and non-significant
+reductions in α-diversity that did not recover regardless of treatment group.
+Burn-induced increases in Proteobacteria and decreases in Firmicutes were
+attenuated by IV fluids in a dose-dependent manner, and also correlated with
+α-diversity. IV fluids caused a dose-dependent increase in Bacteroides and
+prevented a transient increase in the opportunistic pathogen Haemophilus
+parainfluenzae. While high volumes of IV fluids increased intestinal Hsp70 levels
+(P = 0.0464), they reduced SGLT1 (P = 0.0213) and caspase3 (P = 0.0139) levels.
+IV fluids elicited a non-specific cytokine response; however, Bacteroidetes
+levels correlated with intestinal IL18 levels (P = 0.0166, R = 0.4201).
+CONCLUSIONS: We present the first report on the gut microbiome in a porcine burn 
+model, and present data to suggest that IV fluids may influence GM and gut
+functional proteins following a burn. Overall, burn-induced GM diversity shifts
+may expose diagnostic and/or therapeutic targets to improve outcomes.
+
+DOI: 10.1097/SHK.0000000000001462 
+PMID: 31651724 
+

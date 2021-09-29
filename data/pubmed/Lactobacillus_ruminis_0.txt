@@ -1,0 +1,56 @@
+
+1. Appl Environ Microbiol. 2020 Sep 11. pii: AEM.01646-20. doi:
+10.1128/AEM.01646-20. [Epub ahead of print]
+
+Mining and statistical modeling of natural and variant class IIa bacteriocins
+elucidates activity and selectivity profiles across species.
+
+Tresnak DT(1), Hackel BJ(2).
+
+Author information: 
+(1)Department of Chemical Engineering and Materials Science, University of
+Minnesota -Twin Cities, Minneapolis, Minnesota.
+(2)Department of Chemical Engineering and Materials Science, University of
+Minnesota -Twin Cities, Minneapolis, Minnesota hackel@umn.edu.
+
+Class IIa bacteriocin antimicrobial peptides (AMPs) are a compelling alternative 
+to current antimicrobials because of potential specific activity towards
+antibiotic-resistant bacteria, including vancomycin-resistant enterococci.
+Engineering of these molecules would be enhanced by a better understanding of AMP
+sequence-activity relationships to improve efficacy in vivo and limit effects of 
+off-target activity. Towards this goal, we experimentally evaluated 210 natural
+and variant class IIa bacteriocins for antimicrobial activity against six strains
+of enterococci. Inhibitory activity was ridge regressed to AMP sequence to
+predict performance, achieving an area under the curve of 0.70 and demonstrating 
+the potential of statistical models for identifying and designing AMPs. Active
+AMPs were individually produced and evaluated against eight enterococci strains
+and four Listeria strains to elucidate trends in susceptibility. It was
+determined that the mannose phosphotransferase system sequence is informative of 
+susceptibility to class IIa bacteriocins, yet other factors, such as membrane
+composition, also contribute strongly to susceptibility. A broadly potent
+bacteriocin variant (lactocin DT1) from a Lactobacillus ruminis genome was
+identified as the only variant with inhibitory activity towards all tested
+strains, while a novel enterocin variant (DT2) from an E. faecium genome
+demonstrated specificity towards Listeria strains. Eight AMPs were evaluated for 
+proteolytic stability to trypsin, chymotrypsin, and pepsin, and three C-terminal 
+disulfide-containing variants, including divercin V41, were identified as
+compelling for future in vivo studies given high potency and proteolytic
+stability.Importance Class IIa bacteriocin antimicrobial peptides (AMPs), an
+alternative to traditional small-molecule antibiotics, are capable of selective
+activity towards various Gram-positive bacteria, limiting negative side effects
+associated with broad-spectrum activity. This selective activity is achieved
+through targeting of the mannose phosphotransferase system (manPTS) of a subset
+of Gram-positive bacteria, although factors affecting this mechanism are not
+entirely understood. Peptides identified from genomic data, as well as variants
+of previously characterized AMPs, can offer insight into how peptide sequence
+affects activity and selectivity. The experimental methods presented here
+identify promising potent and selective bacteriocins for further evaluation,
+highlight the potential of simple computational modeling for prediction of AMP
+performance, and demonstrate that factors beyond manPTS sequence affect bacterial
+susceptibility to class IIa bacteriocins.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.01646-20 
+PMID: 32917749 
+

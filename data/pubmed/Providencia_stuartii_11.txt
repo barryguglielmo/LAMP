@@ -1,0 +1,39 @@
+
+1. Microorganisms. 2020 Jan 23;8(2). pii: E161. doi: 10.3390/microorganisms8020161.
+
+Salmonella Genomic Island 1 is Broadly Disseminated within
+Gammaproteobacteriaceae.
+
+Cummins ML(1)(2), Hamidian M(1), Djordjevic SP(1)(2).
+
+Author information: 
+(1)The Ithree Institute, University of Technology Sydney, Ultimo, NSW 2007,
+Australia.
+(2)Australian Centre for Genomic Epidemiological Microbiology, University of
+Technology Sydney, PO Box 123, Broadway, NSW 2007, Australia.
+
+Salmonella genomic island 1 (SGI1) is an integrative mobilisable element that
+plays an important role in the capture and spread of multiple drug resistance. To
+date, SGI1 has been found in clinical isolates of Salmonella enterica serovars,
+Proteus mirabilis, Morganella morganii, Acinetobacter baumannii, Providencia
+stuartii, Enterobacter spp, and recently in Escherichia coli. SGI1 preferentially
+targets the 3´-end of trmE, a conserved gene found in the Enterobacteriaceae and 
+among members of the Gammaproteobacteria. It is, therefore, hypothesised that
+SGI1 and SGI1-related elements (SGI1-REs) may have been acquired by diverse
+bacterial genera. Here, Bitsliced Genomic Signature Indexes (BIGSI) was used to
+screen the NCBI Sequence Read Archive (SRA) for putative SGI1-REs in
+Gammaproteobacteria. Novel SGI-REs were identified in diverse genera including
+Cronobacter spp, Klebsiella spp, and Vibrio spp and in two additional isolates of
+Escherichia coli. An extensively drug-resistant human clonal lineage of
+Klebsiella pneumoniae carrying an SGI1-RE in the United Kingdom and an SGI1-RE
+that lacks a class 1 integron were also identified. These findings provide
+insight into the origins of this diverse family of clinically important genomic
+islands and expand the knowledge of the potential host range of SGI1-REs within
+the Gammaproteobacteria.
+
+DOI: 10.3390/microorganisms8020161 
+PMCID: PMC7074787
+PMID: 31979280 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

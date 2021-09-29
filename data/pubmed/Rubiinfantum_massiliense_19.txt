@@ -1,0 +1,43 @@
+
+1. Appl Microbiol Biotechnol. 2020 Jun;104(11):5065-5080. doi:
+10.1007/s00253-020-10586-z. Epub 2020 Apr 6.
+
+Dps protein is related to resistance of Mycobacterium abscessus subsp.
+massiliense against stressful conditions.
+
+de Alcântara NR(1), de Oliveira FM(1), Garcia W(2), Dos Santos OAL(2),
+Junqueira-Kipnis AP(1), Kipnis A(3).
+
+Author information: 
+(1)Instituto de Patologia Tropical e Saúde Pública, Universidade Federal de
+Goiás, Goiânia, GO, Brazil.
+(2)Centro de Ciências Naturais e Humanas, Universidade Federal do ABC (UFABC),
+Santo André, SP, Brazil.
+(3)Instituto de Patologia Tropical e Saúde Pública, Universidade Federal de
+Goiás, Goiânia, GO, Brazil. andre.kipnis@gmail.com.
+
+Mycobacterium abscessus subsp. massiliense (Mycma) belongs to the Mycobacterium
+abscessus complex and is a rapidly growing non-tuberculous mycobacterium. The
+chronic pulmonary, skin, and soft tissue infections that it causes may be
+difficult to treat due to its intrinsic resistance to the commonly used
+antimicrobial drugs, making it a serious world public health problem. Iron is an 
+essential nutrient for the growth of microorganisms; nonetheless, it can be toxic
+when in excess. Thus, bacteria require an iron homeostasis mechanism to succeed
+in different environments. DNA-binding proteins from starved cells (Dps) are
+miniferritins with the property to act as additional iron storage proteins but
+also can bind to DNA, protecting it against hydroxyl radical. Annotation of the
+Mycma genome revealed the gene mycma_03135 with 79% sequential identity when
+compared to MSMEG_3242 gene from M. smegmatis mc2 155, which codifies for a known
+Dps. Recombinant Dps from M. abscessus (rMaDps) was produced in Escherichia coli,
+purified in soluble form and shown to form high mass oligomers in solution with
+ferroxidase activity, DNA binding, and protection against damage. The expression 
+of the mycma_03135 gene was induced during Mycma growth in the presence of
+hydrogen peroxide (H2O2). Additionally, the expression of rMaDps by E. coli
+conferred greater resistance to H2O2. Thus, this study is the first to identify
+and characterize a Dps from M. abscessus. KEY POINTS: Mycobacterium abscessus
+subsp. massiliense express a miniferritin protein (Dps). Mycma Dps binds to DNA
+and protects against oxidative stress.
+
+DOI: 10.1007/s00253-020-10586-z 
+PMID: 32253472 
+

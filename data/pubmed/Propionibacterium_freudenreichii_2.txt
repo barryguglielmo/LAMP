@@ -1,0 +1,57 @@
+
+1. Front Microbiol. 2020 Jul 7;11:1544. doi: 10.3389/fmicb.2020.01544. eCollection
+2020.
+
+Extracellular Vesicles Produced by the Probiotic Propionibacterium freudenreichii
+CIRM-BIA 129 Mitigate Inflammation by Modulating the NF-κB Pathway.
+
+Rodovalho VR(1)(2), da Luz BSR(1)(2), Rabah H(1), do Carmo FLR(2), Folador EL(3),
+Nicolas A(1), Jardin J(1), Briard-Bion V(1), Blottière H(4), Lapaque N(4), Jan
+G(1), Le Loir Y(1), de Carvalho Azevedo VA(2), Guédon E(1).
+
+Author information: 
+(1)INRAE, Institut Agro, STLO, Rennes, France.
+(2)Laboratory of Cellular and Molecular Genetics, Institute of Biological
+Sciences, Federal University of Minas Gerais, Belo Horizonte, Brazil.
+(3)Biotechnology Center, Federal University of Paraíba, João Pessoa, Brazil.
+(4)INRAE, AgroParisTech, Paris-Saclay University, Micalis Institute,
+Jouy-en-Josas, France.
+
+Extracellular vesicles (EVs) are nanometric spherical structures involved in
+intercellular communication, whose production is considered to be a widespread
+phenomenon in living organisms. Bacterial EVs are associated with several
+processes that include survival, competition, pathogenesis, and immunomodulation.
+Among probiotic Gram-positive bacteria, some Propionibacterium freudenreichii
+strains exhibit anti-inflammatory activity, notably via surface proteins such as 
+the surface-layer protein B (SlpB). We have hypothesized that, in addition to
+surface exposure and secretion of proteins, P. freudenreichii may produce EVs and
+thus export immunomodulatory proteins to interact with the host. In order to
+demonstrate their production in this species, EVs were purified from cell-free
+culture supernatants of the probiotic strain P. freudenreichii CIRM-BIA 129, and 
+their physicochemical characterization, using transmission electron microscopy
+and nanoparticle tracking analysis (NTA), revealed shapes and sizes typical of
+EVs. Proteomic characterization showed that EVs contain a broad range of
+proteins, including immunomodulatory proteins such as SlpB. In silico
+protein-protein interaction predictions indicated that EV proteins could interact
+with host proteins, including the immunomodulatory transcription factor NF-κB.
+This potential interaction has a functional significance because EVs modulate
+inflammatory responses, as shown by IL-8 release and NF-κB activity, in HT-29
+human intestinal epithelial cells. Indeed, EVs displayed an anti-inflammatory
+effect by modulating the NF-κB pathway; this was dependent on their concentration
+and on the proinflammatory inducer (LPS-specific). Moreover, while this
+anti-inflammatory effect partly depended on SlpB, it was not abolished by EV
+surface proteolysis, suggesting possible intracellular sites of action for EVs.
+This is the first report on identification of P. freudenreichii-derived EVs,
+alongside their physicochemical, biochemical and functional characterization.
+This study has enhanced our understanding of the mechanisms associated with the
+probiotic activity of P. freudenreichii and identified opportunities to employ
+bacterial-derived EVs for the development of bioactive products with therapeutic 
+effects.
+
+Copyright © 2020 Rodovalho, Luz, Rabah, do Carmo, Folador, Nicolas, Jardin,
+Briard-Bion, Blottière, Lapaque, Jan, Le Loir, de Carvalho Azevedo and Guédon.
+
+DOI: 10.3389/fmicb.2020.01544 
+PMCID: PMC7359729
+PMID: 32733422 
+

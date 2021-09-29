@@ -1,0 +1,39 @@
+
+1. Int J Environ Res Public Health. 2020 Feb 18;17(4). pii: E1312. doi:
+10.3390/ijerph17041312.
+
+Molecular Diversity of ESBL-Producing Escherichia coli from Foods of Animal
+Origin and Human Patients.
+
+Alegría Á(1), Arias-Temprano M(2), Fernández-Natal I(2), Rodríguez-Calleja JM(1),
+García-López ML(1), Santos JA(1).
+
+Author information: 
+(1)Department of Food Hygiene and Food Technology, Veterinary Faculty,
+Universidad de León, ES24071 León, Spain.
+(2)Department of Clinical Microbiology, Complejo Asistencial Universitario de
+León (CAULE), ES24071 León, Spain.
+
+Dissemination of enterobacteria that produce extended spectrum β-lactamases
+(ESBL) throughout the food chain has become an important health concern. This
+work aimed to evaluate the occurrence of ESBL-producing bacteria in foods of
+animal origin and to investigate the similarities between food and human
+isolates. The presence of beta-lactam-resistant Enterobacteriaceae was analyzed
+in 108 food samples, isolating 10 strains of Escherichia coli, one strain of
+Citrobacter freundi, and one of Hafnia alvei. E. coli isolates were compared to a
+group of 15 strains isolated from human patients by antibiotic susceptibility
+testing, characterization of ESBL genes (blaTEM, blaCTX,), multilocus sequence
+typing (MLST) and pulse-field gel electrophoresis (PFGE). Nineteen (14 clinical
+and five food) isolates carried blaCTX, 14 (six clinical and eight food) carried 
+blaTEM, and three (one clinical and two food) carried blaSHV gen. MLST analysis
+revealed the prevalence of ST131 among the clinical strains, which grouped
+together in a PFGE cluster. Food isolates showed higher diversity and two of them
+(ST57) grouped with clinical strains, whereas another two belonged to clonal
+groups with virulence potential (ST59). In conclusion, the results showed that
+foods of animal origin must be regarded as a reservoir of ESBL-producing bacteria
+of clinical relevance, which might spread through the food chain.
+
+DOI: 10.3390/ijerph17041312 
+PMCID: PMC7068493
+PMID: 32085569  [Indexed for MEDLINE]
+

@@ -1,0 +1,43 @@
+
+1. Biosens Bioelectron. 2020 Aug 25;169:112552. doi: 10.1016/j.bios.2020.112552.
+[Epub ahead of print]
+
+Recent advances in developing biosensing based platforms for neonatal sepsis.
+
+Balayan S(1), Chauhan N(1), Chandra R(2), Kuchhal NK(3), Jain U(4).
+
+Author information: 
+(1)Amity Institute of Nanotechnology, Amity University, Noida, 201313, Uttar
+Pradesh, India.
+(2)Department of Chemistry, University of Delhi, Delhi, 110007, India.
+(3)Bio Diagnostic Laboratory, Rohini, Delhi, 110085, India.
+(4)Amity Institute of Nanotechnology, Amity University, Noida, 201313, Uttar
+Pradesh, India. Electronic address: ujain@amity.edu.
+
+Neonatal sepsis is a bloodstream infection primarily caused by Escherichia coli
+(E. coli), Group B Streptococcus (GBS), Listeria monocytogenes, Haemophilus
+influenzae, S. aureus, Klebsiella spp. and non-typhoidal Salmonella bacteria.
+Neonatal Sepsis is referred as a critical response to the infection in the
+neonatal period that can lead to the failure of body organs and thereby causing
+damage to the tissues resulting in death of the neonates. Nearly 4 million deaths
+across the world are occurred due to neonatal sepsis infections. In order to
+prevent the bloodstream infections in the neonates, it is indispensable to
+diagnose the disease properly for appropriate treatment during the point of care.
+Numerous studies have been reported to identify major biomarkers associated with 
+neonatal sepsis including Serum Amyloid A (SAA), C - reactive protein (CRP),
+Procalcitonin (PCT) and Lipopolysaccharide-binding protein (LBP). Distinct
+diagnostic platforms have also been developed detecting the presence of
+bloodstream infections including electrochemical, potentiometric, and
+impedimetric sensors. Recently, electrochemical biosensors with the integration
+of nanomaterials have emerged as a better platform for neonatal sepsis biomarkers
+detection. This review article summarizes the diverse screening platforms,
+evaluation parameters, and new advances based on implications of nanomaterials
+for the development of biosensors detecting neonatal sepsis infections. The
+review further elucidates the significance and future scope of distinctive
+platforms which are predominantly associated with detection of neonatal sepsis.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bios.2020.112552 
+PMID: 32931992 
+

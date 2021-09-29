@@ -1,0 +1,58 @@
+
+1. J Transl Med. 2020 Aug 15;18(1):317. doi: 10.1186/s12967-020-02477-8.
+
+Lactobacillus sakei suppresses collagen-induced arthritis and modulates the
+differentiation of T helper 17 cells and regulatory B cells.
+
+Jhun J(1)(2), Min HK(3), Ryu J(1)(2), Lee SY(1)(2), Ryu JG(1)(2), Choi JW(1)(2), 
+Na HS(1)(2), Lee SY(1)(2), Jung Y(4)(5), Park SJ(5), Park MS(4), Kwon B(4), Ji
+GE(4)(5), Cho ML(6)(7)(8), Park SH(9).
+
+Author information: 
+(1)Rheumatism Research Center, Catholic Research Institute of Medical Science,
+College of Medicine, The Catholic University of Korea, Seoul, 06591, South Korea.
+(2)Laboratory of Immune Network, Catholic Research Institute of Medical Science, 
+College of Medicine, College of Medicine, The Catholic University of Korea,
+Seoul, Republic of Korea.
+(3)Division of Rheumatology, Department of Internal Medicine, Konkuk University
+Medical Center, Seoul, Republic of Korea.
+(4)Research center, BIFIDO Co., Ltd., Hongcheon, Gangwon-do, Republic of Korea.
+(5)Department of Food and Nutrition, Research Institute of Human Ecology, Seoul
+National University, Seoul, Republic of Korea.
+(6)Rheumatism Research Center, Catholic Research Institute of Medical Science,
+College of Medicine, The Catholic University of Korea, Seoul, 06591, South Korea.
+iammila@catholic.ac.kr.
+(7)Laboratory of Immune Network, Catholic Research Institute of Medical Science, 
+College of Medicine, College of Medicine, The Catholic University of Korea,
+Seoul, Republic of Korea. iammila@catholic.ac.kr.
+(8)Department of Medical Lifescience, College of Medicine, The Catholic
+University of Korea, 222, Banpo-daero, Seocho-gu, Seoul, 06591, Republic of
+Korea. iammila@catholic.ac.kr.
+(9)Devision of Rheumatology, Department of Internal Medicine, Seoul St. Mary's
+Hospital, College of Medicine, The Catholic University of Korea, Seoul, Republic 
+of Korea. rapark@catholic.ac.kr.
+
+BACKGROUND: To evaluate the immunomodulatory effect of Lactobacillus sakei in a
+mouse model of rheumatoid arthritis (RA) and in human immune cells.
+METHODS: We evaluated whether L. sakei reduced the severity of collagen-induced
+arthritis (CIA) and modulated interleukin (IL)-17 and IL-10 levels, as well as
+whether it affected the differentiation of CD4+ T cells and regulatory B cells.
+We evaluated osteoclastogenesis after culturing bone marrow-derived mononuclear
+cells with L. sakei.
+RESULTS: The differentiation of T helper 17 cells and the serum level of IL-17
+were suppressed by L. sakei in both human peripheral blood mononuclear cells and 
+mouse splenocytes. The serum level of IL-10 was significantly increased in the L.
+sakei-treated group, whereas the regulatory T cell population was unchanged. The 
+population of regulatory B cells significantly increased the in L. sakei-treated 
+group. Oral administration of L. sakei reduced the arthritis incidence and score 
+in mice with CIA. Finally, osteoclastogenesis and the mRNA levels of
+osteoclast-related genes were suppressed in the L. sakei-treated group.
+CONCLUSION: L. sakei exerted an anti-inflammatory effect in an animal model of
+RA, regulated Th17 and regulatory B cell differentiation, and suppressed
+osteoclastogenesis. Our findings suggest that L. sakei has therapeutic potential 
+for RA.
+
+DOI: 10.1186/s12967-020-02477-8 
+PMCID: PMC7429687
+PMID: 32799896 
+

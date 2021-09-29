@@ -1,0 +1,45 @@
+
+1. Front Genet. 2020 Jul 16;11:703. doi: 10.3389/fgene.2020.00703. eCollection 2020.
+
+Analysis of the Antifungal Properties of Bacillus velezensis B-4 Through a
+Bioassay and Complete-Genome Sequencing.
+
+Zhu Z(1), Peng Q(2), Man Y(2), Li Z(2), Zhou X(2), Bai L(3), Peng D(2).
+
+Author information: 
+(1)College of Plant Protection, Hunan Agricultural University, Changsha, China.
+(2)Hunan Agricultural Biotechnology Research Institute, Changsha, China.
+(3)Hunan Academy of Agricultural Sciences (CAAS), Changsha, China.
+
+The strain B-4, isolated from a field in Changsha (China), presents strong
+antifungal activities, as identified by the Kirby-Bauer test, especially for
+pathogens that harm crops. Here, we obtained the complete genome sequence of the 
+strain B-4 by Pacific Biosciences single-molecule real-time sequencing, making it
+well analyzed for understanding mechanisms and creating biological agents. Its
+3,919-kb circular chromosome genome has 3,725 protein-coding genes [coding
+sequences (CDSs)] and 46.7% guanine-cytosine content. A comparative genome
+analysis of B-4 with other published strains (including Bacillus velezensis,
+Bacillus amyloliquefaciens, and Bacillus subtilis) revealed that the strain B-4
+is a B. velezensis strain. These different strains have 2,889 CDSs in common,
+whereas 179 CDSs were found to be unique in the strain B-4, which is a far
+greater number than that in other strains. Regarding the antifungal activities of
+B-4, we were specifically concerned with the genes involved in the biosynthesis
+of secondary metabolites. In total, more than 19.56% of the genome was annotated 
+to 12 gene clusters relating to synthesis of antimicrobial metabolites, which
+contained various enzyme-encoding operons for non-ribosomal peptide synthetases, 
+polyketide synthases, and lantipeptide synthesis proteins. They were all
+considered to be related to the production of bacteriostatic substances or
+stimulation of induced systemic resistance by bacterial metabolites. These
+situations also present an advantage over those of other strains for biocontrol
+potential. We provide evidence that the biological control effect of the strain
+B-4, as demonstrated in antibacterial activity experiments and predicted from the
+complete genome sequence analysis, provides the basis for research promoting
+agricultural research on sustainable development, especially the contribution of 
+biotechnology to agriculture.
+
+Copyright © 2020 Zhu, Peng, Man, Li, Zhou, Bai and Peng.
+
+DOI: 10.3389/fgene.2020.00703 
+PMCID: PMC7378798
+PMID: 32765583 
+

@@ -1,0 +1,49 @@
+
+1. Microorganisms. 2020 Aug 4;8(8). pii: E1185. doi: 10.3390/microorganisms8081185.
+
+Comparative Genome Analysis of Bacillus sporothermodurans with Its Closest
+Phylogenetic Neighbor, Bacillus oleronius, and Bacillus cereus and Bacillus
+subtilis Groups.
+
+Owusu-Darko R(1), Allam M(2), Ismail A(2), Ferreira CAS(3), Oliveira SD(3), Buys 
+EM(1).
+
+Author information: 
+(1)Department of Consumer and Food Sciences, University of Pretoria, Private Bag 
+X20, Hatfield, Pretoria 0028, South Africa.
+(2)National Institute for Communicable Diseases, Private Bag X4, Sandringham,
+Johannesburg 2131, South Africa.
+(3)Laboratory of Immunology and Microbiology, School of Health and Life Sciences,
+Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Porto Alegre
+90619-900, Brazil.
+
+Bacillus sporothermodurans currently possesses one of the most highly
+heat-resistant spores (HRS), which can withstand ultra-high temperature (UHT)
+processing. Determination of multiple whole genome sequences of B.
+sporothermodurans provided an opportunity to perform the first comparative genome
+analysis between strains and with B. oleronius, B. cereus, and B. subtilis
+groups. In this study, five whole genome sequences of B. sporothermodurans
+strains, including those belonging to the HRS clone (SAD and BR12) normally
+isolated from UHT milk, were compared with the aforementioned Bacillus species
+for gene clusters responsible for heat resistance. In the phylogenomic analysis, 
+B. sporothermodurans, with its closest phylogenetic neighbor, B. oleronius,
+clustered with B. thermoamylovorans and B. thermotolerans. Heat shock proteins
+GrpE, GroES, GroEL, and DnaK presented identical sequences for all B.
+sporothermodurans strains, indicating that differences in functional efficiency
+are not involved in the thermal resistance variations. However, comparing all
+species evaluated, B. sporothermodurans exhibited a different gene configuration 
+in the chromosomal region of the heat shock protein GrpE. Furthermore, only B.
+sporothermodurans strains presented the stage II sporulation protein P gene
+located in this region. Multisequence alignment and phylogenetic analysis of the 
+ClpB protein showed differences for HRS and non-HRS strains. The study identified
+ClpC, ClpE, and ClpX as the three ATPases putatively involved in protein
+disaggregation in B. sporothermodurans. Bacillussporothermodurans exhibits high
+homology with other Bacillus species in the DnaK, DnaJ, GroEL, and GroES cluster 
+of genes involved in heat resistance. The data presented here pave the way to
+select and evaluate the phenotypic effects of genes putatively involved in heat
+resistance.
+
+DOI: 10.3390/microorganisms8081185 
+PMCID: PMC7464528
+PMID: 32759699 
+

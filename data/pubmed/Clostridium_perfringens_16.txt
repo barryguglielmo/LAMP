@@ -1,0 +1,63 @@
+
+1. Cell Signal. 2020 Nov;75:109776. doi: 10.1016/j.cellsig.2020.109776. Epub 2020
+Sep 8.
+
+Clostridium perfringens phospholipase C impairs innate immune response by
+inducing integrated stress response and mitochondrial-induced epigenetic
+modifications.
+
+Bunkar N(1), Sharma J(1), Chouksey A(1), Kumari R(1), Gupta PK(1), Tiwari R(1),
+Lodhi L(1), Srivastava RK(2), Bhargava A(1), Mishra PK(3).
+
+Author information: 
+(1)Department of Molecular Biology, ICMR-National Institute for Research in
+Environmental Health, Bhopal, India.
+(2)Department of Biotechnology, All India Institute of Medical Sciences, New
+Delhi, India.
+(3)Department of Molecular Biology, ICMR-National Institute for Research in
+Environmental Health, Bhopal, India. Electronic address: pkm_8bh@yahoo.co.uk.
+
+Clostridium perfringens, a rod-shaped, gram-positive, anaerobic, spore-forming
+bacterium is one of the most widely occurring bacterial pathogens, associated
+with a spectrum of diseases in humans. A major virulence factor during its
+infection is the enzyme phospholipase C encoded by the plc gene, known as
+Clostridium perfringens phospholipase C (CpPLC). The present study was designed
+to understand the role of CpPLC in inducing survival mechanisms and
+mitochondrial-induced epigenetic changes in a human lymphocyte cell culture
+model. Following exposure to CpPLC, a significant generation of mitochondrial
+reactive oxygen species was observed, which coincided with the changes in the
+expression of vital components of MAP/ERK/RTK signaling cascade that regulates
+the downstream cellular functions. These disturbances further led to alterations 
+in the mitochondrial genome and functioning. This was supported by the observed
+upregulation in the expression of mitochondrial fission genes Drp1, Fis1, and
+Mff, and mitochondrial fusion genes MFN1, MFN2, and OPA1 following CpPLC
+exposure. CpPLC exposed cells showed upregulation of OMA1, DELE1, and HRI genes
+involved in the integrated stress response (ISR), which suggests that it may
+induce the ISR that provides a pro-survival mechanism to the host cell. CpPLC
+also initiated immune patho-physiologic mechanisms including
+mitochondrial-induced epigenetic modifications through a mitochondrial-ROS driven
+signaling pathway. Interestingly, epigenetic machinery not only play a pivotal
+role in lymphocyte homeostasis by contributing to cell-fate decisions but thought
+to be one of the mechanisms by which intracellular pathogens survive within the
+host cells. Importantly, the impairment of mtDNA repair among the CpPLC exposed
+cells, induced alterations within mtDNA methylation, and led to the deregulation 
+of MT-CO1, MT-ND6, MT-ATPase 6, and MT-ATPase8 gene expression profiles that are 
+important for mitochondrial bioenergetics and subsequent metabolic pathways. This
+was further confirmed by the changes in the activity of mitochondrial electron
+chain complexes (complex I, II, III, IV and V). The altered mtDNA methylation
+profile was also found to be closely associated with the varied expression of
+mitomiRs and their targets. CpPLC exposed cells showed up-regulation of miR24
+expression and down-regulation of miR34a, miR150, and miR155, while the increased
+expression of mitomiR target genes i.e. of K-Ras, MYC, EGFR, and NF-kβ was also
+observed in these cells. Altogether, our findings provide novel insights into the
+derailment of redox signaling machinery in CpPLC treated lymphocytes and its role
+in the induction of survival mechanisms and mitochondrial-induced epigenetic
+modifications.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cellsig.2020.109776 
+PMID: 32916276 
+
+Conflict of interest statement: Declaration of Competing Interest None.
+

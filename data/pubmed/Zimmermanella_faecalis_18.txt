@@ -1,0 +1,33 @@
+
+1. Membranes (Basel). 2020 Sep 24;10(10). pii: E255. doi: 10.3390/membranes10100255.
+
+Electrophysiology Measurements of Metal Transport by MntH2 from Enterococcus
+faecalis.
+
+Gantner M(1), Laftsoglou T(1), Rong H(1), Postis VLG(1)(2), Jeuken LJC(1).
+
+Author information: 
+(1)School of Biomedical Sciences and the Astbury Centre for Structural Molecular 
+Biology, University of Leeds, Leeds LS2 9JT, UK.
+(2)School of Clinical & Applied Sciences, Leeds Beckett University, Leeds LS1
+3HE, UK.
+
+Transition metals are essential trace elements and their high-affinity uptake is 
+required for many organisms. Metal transporters are often characterised using
+metal-sensitive fluorescent dyes, limiting the metals and experimental conditions
+that can be studied. Here, we have tested whether metal transport by Enterococcus
+faecalis MntH2 can be measured with an electrophysiology method that is based on 
+the solid-supported membrane technology. E. faecalis MntH2 belongs to the Natural
+Resistance-Associated Macrophage Protein (Nramp) family of proton-coupled
+transporters, which transport divalent transition metals and do not transport the
+earth metals. Electrophysiology confirms transport of Mn(II), Co(II), Zn(II) and 
+Cd(II) by MntH2. However, no uptake responses for Cu(II), Fe(II) and Ni(II) were 
+observed, while the presence of these metals abolishes the uptake signals for
+Mn(II). Fluorescence assays confirm that Ni(II) is transported. The data are
+discussed with respect to properties and structures of Nramp-type family members 
+and the ability of electrophysiology to measure charge transport and not directly
+substrate transport.
+
+DOI: 10.3390/membranes10100255 
+PMID: 32987882 
+

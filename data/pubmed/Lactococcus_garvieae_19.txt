@@ -1,0 +1,45 @@
+
+1. PLoS One. 2020 Mar 26;15(3):e0230739. doi: 10.1371/journal.pone.0230739.
+eCollection 2020.
+
+A whole-cell Lactococcus garvieae autovaccine protects Nile tilapia against
+infection.
+
+Bwalya P(1)(2)(3), Hang'ombe BM(2), Gamil AA(1), Munang'andu HM(1), Evensen Ø(1),
+Mutoloki S(1).
+
+Author information: 
+(1)Faculty of Veterinary Medicine, Norwegian University of Life Sciences, Oslo,
+Norway.
+(2)Samora Machel School of Veterinary Medicine, University of Zambia, Lusaka,
+Zambia.
+(3)Department of Veterinary and Livestock Services, Ministry of Fisheries and
+Livestock, Lusaka, Zambia.
+
+The autovaccine was produced in-house using a bacterial isolate from a diseased
+fish from the target farm. Three groups of 150 fish each were injected with
+either 1) an oil-adjuvanted, inactivated whole cell autovaccine, 2) adjuvant only
+or 3) PBS (negative control). Approximately 660 degree days post vaccination, the
+fish were challenged with 9x105 cfu bacteria/fish by intraperitoneal injection
+and monitored for a further 28 days. Protection against infections was measured
+by lack of/reduced bacterial loads both by bacterial re-isolation and
+immunohistochemistry as well as absence of clinical signs/pathology.
+Significantly less L. garvieae (p<0.03) was re-isolated from either the adjuvant 
+only or control groups compared to the vaccinated group. Furthermore, a
+significantly high amount (p<0.001) of anti-L. garvieae specific antibodies were 
+observed in the vaccinated group compared to the adjuvant only or control groups 
+at time of challenge. This coincided with protection against infection measured
+by absence/reduced L. garvieae re-isolation from internal organs, reduced
+clinical signs and lack of pathology in this group. In the adjuvant only and
+control groups, bacteria were re-isolated from the kidney, liver, spleen, brain
+and eyes during the first 14 days. The findings suggest that oil-based vaccines
+can protect tilapia against L. garvieae infection through an antibody mediated
+response.
+
+DOI: 10.1371/journal.pone.0230739 
+PMCID: PMC7098586
+PMID: 32214386  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

@@ -1,0 +1,39 @@
+
+1. Chem Res Toxicol. 2020 Apr 20;33(4):915-932. doi: 10.1021/acs.chemrestox.9b00467.
+Epub 2020 Mar 19.
+
+Safe-by-Design of Glucan Nanoparticles: Size Matters When Assessing the
+Immunotoxicity.
+
+Colaço M(1)(2), Marques AP(1), Jesus S(1), Duarte A(1)(2), Borges O(1)(2).
+
+Author information: 
+(1)Center for Neuroscience and Cell Biology, University of Coimbra, 3000-548
+Coimbra, Portugal.
+(2)Department of Pharmaceutical Technology, Faculty of Pharmacy, University of
+Coimbra, 3000-548 Coimbra, Portugal.
+
+Glucan (from Alcaligenes faecalis) is a polymer composed of β-1,3-linked glucose 
+residues, and it has been addressed in different medical fields, namely in
+nanotechnology, as a vaccine or a drug delivery system. However, due to their
+small size, nanomaterials may present new risks and uncertainties. Thus, this
+work aims to describe the production of glucan nanoparticles (NPs) with two
+different sizes, and to evaluate the influence of the NPs size on immunotoxicity.
+Results showed that, immediately after production, glucan NPs presented average
+sizes of 129.7 ± 2.5 and 355.4 ± 41.0 nm. Glucan NPs of 130 nm presented greater 
+ability to decrease human peripheral blood mononuclear cells and macrophage
+viability and to induce reactive oxygen species production than glucan NPs of 355
+nm. Both NP sizes caused hemolysis and induced a higher metabolic activity in
+lymphocytes, although the concentration required to observe such effect was lower
+for the 130 nm glucan NPs. Regarding pro-inflammatory cytokines, only the larger 
+glucan NPs (355 nm) were able to induce the secretion of IL-6 and TNF-α, probably
+due to their recognition by dectin-1. This higher immunomodulatory effect of the 
+larger NPs was also observed in its ability to stimulate the production of nitric
+oxide (NO) and IL-1β. On the contrary, a small amount of Glu 130 NPs inhibited NO
+production. In conclusion, on the safe-by-design of glucan NPs, the size of the
+particles should be an important critical quality attribute to guarantee the
+safety and effectiveness of the nanomedicine.
+
+DOI: 10.1021/acs.chemrestox.9b00467 
+PMID: 32138518 
+

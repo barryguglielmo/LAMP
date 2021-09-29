@@ -1,0 +1,41 @@
+
+1. Bioprocess Biosyst Eng. 2020 Sep 29. doi: 10.1007/s00449-020-02452-z. [Epub ahead
+of print]
+
+Enhanced production of poly(3-hydroxybutyrate-co-3-hydroxyvalerate) biopolymer by
+recombinant Bacillus megaterium in fed-batch bioreactors.
+
+Akdoğan M(1), Çelik E(2)(3).
+
+Author information: 
+(1)Department of Chemical Engineering, Hacettepe University, Beytepe, 06800,
+Ankara, Turkey.
+(2)Department of Chemical Engineering, Hacettepe University, Beytepe, 06800,
+Ankara, Turkey. edacelik@hacettepe.edu.tr.
+(3)Institute of Science, Bioengineering Division, Hacettepe University, Beytepe, 
+06800, Ankara, Turkey. edacelik@hacettepe.edu.tr.
+
+Polyhydroxyalkanoates (PHAs) are biodegradable polyesters accumulated in a wide
+variety of microorganisms as intracellular carbon and energy storage compounds.
+Poly(3-hydroxybutyrate-co-3-hydroxyvalerate) (PHBV) is one of the most valuable
+biopolymers because of its superior mechanical properties. Here, we developed a
+bioprocess utilizing recombinant Bacillus megaterium strain for PHBV
+over-production from glucose, without any precursor addition. PHA production was 
+performed in a controlled bioreactor by batch and fed-batch modes using wild-type
+B. megaterium and rec-B. megaterium cells overexpressing the native phaC gene.
+The effect of oxygen transfer rate on biomass formation and PHA accumulation was 
+also investigated, under different dissolved oxygen levels. Structural and
+thermal properties of PHA were characterized by GC-FID, 1H-NMR, TGA and DSC
+analyses. Significantly, the copolymer produced from glucose as the carbon source
+in rec-B. megaterium was composed of 58 mol% of 3-hydroxyvalerate monomers. After
+66 h, rec-B. megaterium cells in fed-batch fermentation with a pre-determined
+growth rate µ0 = 0.1 h-1 produced the highest CDW (7.7 g L-1) and PHA
+concentration (6.1 g L-1). Moreover, an exponential glucose feeding profile
+resulted in 2.2-fold increase in PHA yield compared to batch cultivation.
+Overall, this study paves the way to an enhanced biopolymer production process in
+B. megaterium cells, where the highest product yield on cell was obtained as
+YP/X = 0.8 g g-1.
+
+DOI: 10.1007/s00449-020-02452-z 
+PMID: 32995978 
+

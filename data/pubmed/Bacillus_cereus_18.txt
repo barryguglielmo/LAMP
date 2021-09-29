@@ -1,0 +1,42 @@
+
+1. Biochem Biophys Res Commun. 2020 Sep 21. pii: S0006-291X(20)31789-7. doi:
+10.1016/j.bbrc.2020.09.048. [Epub ahead of print]
+
+Crystal structure of an acetyl-CoA acetyltransferase from PHB producing bacterium
+Bacillus cereus ATCC 14579.
+
+Hong J(1), Park W(1), Seo H(1), Kim IK(2), Kim KJ(3).
+
+Author information: 
+(1)School of Life Sciences, KNU Creative BioResearch Group, Kyungpook National
+University, Daegu, 41566, Republic of Korea; KNU Institute for Microorganisms,
+Kyungpook National University, Daegu, 41566, Republic of Korea.
+(2)KNU Institute for Microorganisms, Kyungpook National University, Daegu, 41566,
+Republic of Korea.
+(3)School of Life Sciences, KNU Creative BioResearch Group, Kyungpook National
+University, Daegu, 41566, Republic of Korea; KNU Institute for Microorganisms,
+Kyungpook National University, Daegu, 41566, Republic of Korea. Electronic
+address: kkim@knu.ac.kr.
+
+Bacillus cereus ATCC 14579 is a known polyhydroxybutyrate (PHB)-producing
+microorganism that possesses genes associated with PHB synthesis such as PhaA,
+PhaB, and PHA synthases. PhaA (i.e., thiolase) is the first enzyme in the PHA
+biosynthetic pathway, which catalyze the condensation of two acetyl-CoA molecules
+to acetoacetyl-CoA. Our study elucidated the crystal structure of PhaA in
+Bacillus cereus ATCC 14579 (BcTHL) in its apo- and CoA-bound forms. BcTHL adopts 
+a type II biosynthetic thiolase structure by forming a tetramer. The crystal
+structure of CoA-complexed BcTHL revealed that the substrate binding site of
+BcTHL is constituted by different residues compared with other known thiolases.
+Our study also revealed that Arg221, a residue involved in ADP binding, undergoes
+a positional conformational change upon the binding of the CoA molecule.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2020.09.048 
+PMID: 32972748 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

@@ -1,0 +1,37 @@
+
+1. Vaccines (Basel). 2020 Jun 17;8(2). pii: E314. doi: 10.3390/vaccines8020314.
+
+Search of Potential Vaccine Candidates against Trueperella pyogenes Infections
+through Proteomic and Bioinformatic Analysis.
+
+Galán-Relaño Á(1), Gómez-Gascón L(1), Rodríguez-Franco A(2), Luque I(1), Huerta
+B(1), Tarradas C(1), Rodríguez-Ortega MJ(2).
+
+Author information: 
+(1)Departamento de Sanidad Animal, Universidad de Córdoba; Campus de Excelencia
+Internacional CeiA3, 14071 Córdoba, Spain.
+(2)Departamento de Bioquímica y Biología Molecular, Universidad de Córdoba, and
+Campus de Excelencia Internacional CeiA3, 14071 Córdoba, Spain.
+
+Trueperella pyogenes is an opportunistic pathogen, responsible for important
+infections in pigs and significant economic losses in swine production. To date, 
+there are no available commercial vaccines to control diseases caused by this
+bacterium. In this work, we performed a comparative proteomic analysis of 15 T.
+pyogenes clinical isolates, by "shaving" live cells, followed by LC-MS/MS, aiming
+at the identification of the whole set of surface proteins (i.e., the
+"pan-surfome") as a source of antigens to be tested in further studies as
+putative vaccine candidates, or used in diagnostic tools. A total of 140 surface 
+proteins were detected, comprising 25 cell wall proteins, 10 secreted proteins,
+23 lipoproteins and 82 membrane proteins. After describing the "pan-surfome", the
+identified proteins were ranked in three different groups based on the following 
+criteria: to be (i) surface-exposed, (ii) highly conserved and (iii) widely
+distributed among different isolates. Two cell wall proteins, three lipoproteins,
+four secreted and seven membrane proteins were identified in more than 70% of the
+studied strains, were highly expressed and highly conserved. These proteins are
+potential candidates, alone or in combination, to obtain effective vaccines
+against T. pyogenes or to be used in the diagnosis of this pathogen.
+
+DOI: 10.3390/vaccines8020314 
+PMCID: PMC7350218
+PMID: 32560444 
+

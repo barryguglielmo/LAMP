@@ -1,0 +1,39 @@
+
+1. Sci Adv. 2020 Jul 29;6(31):eaba0466. doi: 10.1126/sciadv.aba0466. eCollection
+2020 Jul.
+
+Gut dysbiosis contributes to amyloid pathology, associated with C/EBPβ/AEP
+signaling activation in Alzheimer's disease mouse model.
+
+Chen C(1), Ahn EH(1), Kang SS(1), Liu X(1), Alam A(2), Ye K(1).
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, Emory University School of
+Medicine, 615 Michael Street, Atlanta, GA 30322, USA.
+(2)Microbiology, Immunology, and Molecular Genetics, University of Kentucky
+College of Medicine, 800 Rose Street, Lexington, KY 40536, USA.
+
+The gut-brain axis is bidirectional, and gut microbiota influence brain disorders
+including Alzheimer's disease (AD). CCAAT/enhancer binding protein β/asparagine
+endopeptidase (C/EBPβ/AEP) signaling spatiotemporally mediates AD pathologies in 
+the brain via cleaving both β-amyloid precursor protein and Tau. We show that gut
+dysbiosis occurs in 5xFAD mice, and is associated with escalation of the
+C/EBPβ/AEP pathway in the gut with age. Unlike that of aged wild-type mice, the
+microbiota of aged 3xTg mice accelerate AD pathology in young 3xTg mice,
+accompanied by active C/EBPβ/AEP signaling in the brain. Antibiotic treatment
+diminishes this signaling and attenuates amyloidogenic processes in 5xFAD,
+improving cognitive functions. The prebiotic R13 inhibits this pathway and
+suppresses amyloid aggregates in the gut. R13-induced Lactobacillus salivarius
+antagonizes the C/EBPβ/AEP axis, mitigating gut leakage and oxidative stress. Our
+findings support the hypothesis that C/EBPβ/AEP signaling is activated by gut
+dysbiosis, implicated in AD pathologies in the gut.
+
+Copyright © 2020 The Authors, some rights reserved; exclusive licensee American
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works. Distributed under a Creative Commons Attribution NonCommercial License 4.0
+(CC BY-NC).
+
+DOI: 10.1126/sciadv.aba0466 
+PMCID: PMC7439296
+PMID: 32832679 
+

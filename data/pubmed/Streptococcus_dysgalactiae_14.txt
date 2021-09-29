@@ -1,0 +1,115 @@
+
+1. Acute Med Surg. 2020 May 31;7(1):e513. doi: 10.1002/ams2.513. eCollection 2020
+Jan-Dec.
+
+Clinical characteristics of patients with severe sepsis and septic shock in
+relation to bacterial virulence of beta-hemolytic Streptococcus and Streptococcus
+pneumoniae.
+
+Hifumi T(1), Fujishima S(2), Ubukata K(2), Hagiwara A(3), Abe T(4), Ogura H(5),
+Shiraishi A(6), Kushimoto S(7), Saitoh D(8), Mayumi T(9), Ikeda H(10), Ueyama
+M(11), Otomo Y(12), Okamoto K(13), Umemura Y(5), Kotani J(14), Sakamoto Y(15),
+Sasaki J(16), Shiino Y(17), Shiraishi SI(18), Takuma K(19), Tarui T(20), Tsuruta 
+R(21), Nakada TA(22), Yamakawa K(23), Masuno T(24), Takeyama N(25), Yamashita
+N(26), Fujimi S(23), Gando S(27); JAAM FORECAST group.
+
+Author information: 
+(1)Department of Emergency and Critical Care Medicine St. Luke's International
+Hospital Emergency Medical Center Tokyo Japan.
+(2)Center for General Medicine Education School of Medicine Keio University Tokyo
+Japan.
+(3)Emergency Medicine Center Hospital of the National Center for Global Health
+and Medicine Tokyo Japan.
+(4)Department of General Medicine Juntendo University Tokyo Japan.
+(5)Department of Traumatology and Acute Critical Medicine Osaka University
+Graduate School of Medicine Suita Japan.
+(6)Emergency Department Kameda Medical Center Kamogawa Japan.
+(7)Division of Emergency and Critical Care Medicine Tohoku University Graduate
+School of Medicine Sendai Japan.
+(8)Division of Traumatology Research Institute National Defense Medical College
+Saitama Japan.
+(9)Department of Emergency Medicine School of Medicine University of Occupational
+and Environmental Health Kitakyushu Japan.
+(10)Department of Emergency Medicine Teikyo University School of Medicine Tokyo
+Japan.
+(11)Department of Trauma Critical Care Medicine, and Burn Center Japan Community 
+Healthcare Organization, Chukyo Hospital Nagoya Japan.
+(12)Trauma and Acute Critical Care Medical Center Medical Hospital Tokyo Medical 
+and Dental University Tokyo Japan.
+(13)Department of Surgery Center for Gastroenterology and Liver Disease
+Kitakyushu City Yahata Hospital Kitakyushu Japan.
+(14)Department of Emergency, Disaster and Critical Care Medicine Hyogo College of
+Medicine Nishinomiya Japan.
+(15)Emergency and Critical Care Medicine Saga University Hospital Saga Japan.
+(16)Department of Emergency and Critical Care Medicine Keio University School of 
+Medicine Tokyo Japan.
+(17)Department of Acute Medicine Kawasaki Medical School Kurashiki Japan.
+(18)Department of Emergency and Critical Care Medicine Aizu Chuo Hospital
+Fukushima Japan.
+(19)Emergency and Critical Care Center Kawasaki Municipal Kawasaki Hospital
+Kawasaki Japan.
+(20)Department of Trauma and Critical Care Medicine Kyorin University School of
+Medicine Mitaka Japan.
+(21)Advanced Medical Emergency and Critical Care Center Yamaguchi University
+Hospital Ube Japan.
+(22)Department of Emergency and Critical Care Medicine Chiba University Graduate 
+School of Medicine Chiba Japan.
+(23)Division of Trauma and Surgical Critical Care Osaka General Medical Center
+Osaka Japan.
+(24)Department of Emergency and Critical Care Medicine Nippon Medical School
+Tokyo Japan.
+(25)Advanced Critical Care Center Aichi Medical University Hospital Nagakute
+Japan.
+(26)Advanced Emergency Medical Service Center Kurume University Hospital Kurume
+Japan.
+(27)Division of Acute and Critical Care Medicine Hokkaido University Graduate
+School of Medicine Sapporo Japan.
+
+Aim: Combined detailed analysis of patient characteristics and treatment as well 
+as bacterial virulence factors, which all play a central role in the cause of
+infections leading to severe illness, has not been reported. We aimed to describe
+the patient characteristics (Charlson comorbidity index [CCI]), treatment (3-h
+bundle), and outcomes in relation to bacterial virulence of Streptococcus
+pneumoniae and beta-hemolytic Streptococcus (BHS).
+Methods: This sepsis primary study is part of the larger Focused Outcomes
+Research in Emergency Care in Acute Respiratory Distress Syndrome, Sepsis and
+Trauma (FORECAST) study, a multicenter, prospective cohort study. We included
+patients diagnosed with S. pneumoniae and BHS sepsis and examined virulence,
+defining the high-virulence factor as follows: S. pneumoniae serotype 3, 31, 11A,
+35F, and 17F; Streptococcus pyogenes, emm 1; Streptococcus agalactiae, III; and
+Streptococcus dysgalactiae ssp. equisimilis, emm typing pattern stG 6792.
+Included patients were divided into high and normal categories based on the
+virulence factor.
+Results: Of 1,184 sepsis patients enrolled in the Japanese Association for Acute 
+Medicine's FORECAST study, 62 were included in the current study (29 cases with
+S. pneumoniae sepsis and 33 with BHS). The CCI and completion of a 3-h bundle did
+not differ between normal and high virulence groups. Risk of 28-day mortality was
+significantly higher for high-virulence compared to normal-virulence when
+adjusted for CCI and completion of a 3-h bundle (Cox proportional hazards
+regression analysis, hazard ratio 3.848; 95% confidence interval, 1.108-13.370;
+P = 0.034).
+Conclusion: The risk of 28-day mortality was significantly higher for patients
+with high-virulence compared to normal-virulence bacteria.
+
+© 2020 The Authors. Acute Medicine & Surgery published by John Wiley & Sons
+Australia, Ltd on behalf of Japanese Association for Acute Medicine.
+
+DOI: 10.1002/ams2.513 
+PMCID: PMC7262430
+PMID: 32489668 
+
+Conflict of interest statement: Approval of the research protocol: The study
+protocol was reviewed and approved by the ethics committee of all participating
+institutes in the JAAM study group, Japan (IRB No. 015‐0021 on Hokkaido
+University, the representative for FORECAST). Informed consent: N/A. Registry and
+the registration no. of the study/trial: The University Hospital Medical
+Information Network Clinical Trials Registry (UMIN‐CTR ID: UMIN000019702), Date
+of registration: 11/09/2015,
+https://upload.umin.ac.jp/cgi-open-bin/ctr_e/ctr_view.cgi?recptno=R000022760
+Animal studies: N/A. Conflict of interest: Dr. Seitaro Fujishima reports personal
+fees from Asahi Kasei Japan and Takeda Pharmaceutical, and grants from Chugai
+Pharmaceuticals, Daiichi‐Sankyo, Otsuka Pharmaceutical, Pfizer, Astellas Pharma, 
+Shionogi, and Teijin Pharma, outside the submitted work. Dr. Satoshi Gando
+reports personal fees from Asahi Kasei Japan and Asahi Kasei America. The other
+authors have no conflict of interest.
+

@@ -1,0 +1,44 @@
+
+1. Biochem Biophys Res Commun. 2020 May 7;525(3):720-725. doi:
+10.1016/j.bbrc.2020.02.146. Epub 2020 Mar 3.
+
+Structural basis of substrate recognition by the substrate binding protein (SBP) 
+of a hydrazide transporter, obtained from Microbacterium hydrocarbonoxydans.
+
+Shimamura K(1), Akiyama T(1), Yokoyama K(1), Takenoya M(1), Ito S(1), Sasaki
+Y(1), Yajima S(2).
+
+Author information: 
+(1)Department of Bioscience, Tokyo University of Agriculture, Setagaya-ku, Tokyo,
+Japan.
+(2)Department of Bioscience, Tokyo University of Agriculture, Setagaya-ku, Tokyo,
+Japan. Electronic address: yshun@nodai.ac.jp.
+
+Microbacterium hydrocarbonoxydans was isolated, using hydrazide compounds as its 
+sole carbon source. The key enzyme that metabolizes these compounds was
+identified as hydrazidase, and the operon containing the gene coding for the
+enzyme, was revealed by genome sequencing. The operon also contained genes coding
+for an ATP-binding cassette transporter (ABC transporter), which was expected to 
+transport the hydrazide compounds. Substrate binding protein (SBP), a component
+subunit of the transporter, plays an important role in recognizing the correct
+substrates for transport. Therefore, to elucidate the mechanism of recognition of
+the unnatural hydrazide compounds, we determined the crystal structures of the
+SBP, obtained from M. hydrocarbonoxydans (Mh-SBP), complexed with and without the
+hydrazide compound, at 2.2 Å and 1.75 Å resolutions, respectively. The overall
+structures of Mh-SBP were similar to those of the SBP in oligopeptide
+transporters such as OppA. On comparison, the liganded and unliganded structures 
+of Mh-SBP showed an open - close conformation change. Interestingly, the binding 
+mode of the compound to Mh-SBP was almost identical to that of the compound to
+hydrazidase, suggesting that the ABC transporter served transporting these
+compounds. Furthermore, based on the hydrazide complex structure, paraben, the
+other putative substrate of the protein, was successfully used with Mh-SBP to
+obtain the paraben complex structure.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2020.02.146 
+PMID: 32143826 
+
+Conflict of interest statement: Declaration of competing interest No potential
+conflict of interest was reported by the authors.
+

@@ -1,0 +1,44 @@
+
+1. J Appl Microbiol. 2020 Jul 21. doi: 10.1111/jam.14791. [Epub ahead of print]
+
+Inactivation of Bacillus anthracis and Bacillus atrophaeus spores on different
+surfaces with ultraviolet light produced with a low-pressure mercury vapor lamp
+or light emitting diodes.
+
+Wood JP(1), Archer J(1), Calfee MW(1), Serre S(2), Mickelsen L(2), Mikelonis
+A(1), Oudejans L(1), Hu M(1)(3), Hurst S(4), Rastogi VK(5).
+
+Author information: 
+(1)U.S. Environmental Protection Agency, Office of Research and Development,
+Research Triangle Park, NC, USA.
+(2)U.S. Environmental Protection Agency, Office of Land and Emergency Management,
+Research Triangle Park, NC, USA.
+(3)Oak Ridge Associated Universities, Oak Ridge, TN, USA.
+(4)Excet Inc., Springfield, VA, USA.
+(5)U.S. Army Chemical Biological Center, Aberdeen Proving Ground, MD, USA.
+
+AIMS: To obtain quantitative efficacy data of two ultraviolet light (UVC)
+technologies for surface inactivation of Bacillus anthracis Ames and Bacillus
+atrophaeus spores.
+METHODS AND RESULTS: Spores were deposited onto test coupons and controls of four
+different materials, via liquid suspension or aerosol deposition. The test
+coupons were then exposed to UVC light from either a low-pressure mercury vapor
+lamp or a system comprised of light emitting diodes, with a range of dosages.
+Positive controls were held at ambient conditions and not exposed to UVC light.
+Following exposure to UVC, spores were recovered from the coupons and efficacy
+was quantified in terms of log10 reduction (LR) in the number of viable spores
+compared to that from positive controls.
+CONCLUSIONS: Decontamination efficacy varied by material and UVC dosage (efficacy
+up to 5·7 LR was demonstrated). There was no statistical difference in efficacy
+between the two species or between inoculation methods. Efficacy improved for the
+LED lamp at lower relative humidity, but this effect was not observed with the
+mercury vapor lamp.
+SIGNIFICANCE AND IMPACT OF THE STUDY: This study will be useful in determining
+whether UVC could be used for the inactivation of B. anthracis spores on
+different surface types.
+
+Journal of Applied Microbiology © 2020 The Society for Applied Microbiology.
+
+DOI: 10.1111/jam.14791 
+PMID: 32692423 
+

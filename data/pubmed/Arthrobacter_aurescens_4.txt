@@ -1,0 +1,41 @@
+
+1. Appl Environ Microbiol. 2020 Mar 2;86(6). pii: e02487-19. doi:
+10.1128/AEM.02487-19. Print 2020 Mar 2.
+
+Biodegradation of Ephedrine Isomers by Arthrobacter sp. Strain TS-15: Discovery
+of Novel Ephedrine and Pseudoephedrine Dehydrogenases.
+
+Shanati T(1), Ansorge-Schumacher MB(2).
+
+Author information: 
+(1)Molecular Biotechnology, Faculty of Biology, Technische Universität Dresden,
+Dresden, Germany.
+(2)Molecular Biotechnology, Faculty of Biology, Technische Universität Dresden,
+Dresden, Germany marion.ansorge@tu-dresden.de.
+
+The Gram-positive soil bacterium Arthrobacter sp. strain TS-15 (DSM 32400), which
+is capable of metabolizing ephedrine as a sole source of carbon and energy, was
+isolated. According to 16S rRNA gene sequences and comparative genomic analysis, 
+Arthrobacter sp. TS-15 is closely related to Arthrobacter aurescens Distinct from
+all known physiological paths, ephedrine metabolism by Arthrobacter sp. TS-15 is 
+initiated by the selective oxidation of the hydroxyl function at the α-C atom,
+yielding methcathinone as the primary degradation product. Rational genome mining
+revealed a gene cluster potentially encoding the novel pathway. Two genes from
+the cluster, which encoded putative short-chain dehydrogenases, were cloned and
+expressed in Escherichia coli The obtained enzymes were strictly NAD+ dependent
+and catalyzed the oxidation of ephedrine to methcathinone. Pseudoephedrine
+dehydrogenase (PseDH) selectively converted (S,S)-(+)-pseudoephedrine and
+(S,R)-(+)-ephedrine to (S)- and (R)-methcathinone, respectively. Ephedrine
+dehydrogenase (EDH) exhibited strict selectivity for the oxidation of the
+diastereomers (R,S)-(-)-ephedrine and (R,R)-(-)-pseudoephedrine.IMPORTANCE
+Arthrobacter sp. TS-15 is a newly isolated bacterium with the unique ability to
+degrade ephedrine isomers. The initiating steps of the novel metabolic pathway
+are described. Arthrobacter sp. TS-15 and its isolated ephedrine-oxidizing
+enzymes have potential for use in decontamination and synthetic applications.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.02487-19 
+PMCID: PMC7054094
+PMID: 31900306 
+

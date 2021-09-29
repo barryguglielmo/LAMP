@@ -1,0 +1,53 @@
+
+1. Nutrients. 2020 Sep 24;12(10). pii: E2917. doi: 10.3390/nu12102917.
+
+Effects of a Low-Fat Vegan Diet on Gut Microbiota in Overweight Individuals and
+Relationships with Body Weight, Body Composition, and Insulin Sensitivity. A
+Randomized Clinical Trial.
+
+Kahleova H(1), Rembert E(1), Alwarith J(1), Yonas WN(1), Tura A(2), Holubkov
+R(3), Agnello M(4), Chutkan R(5), Barnard ND(1)(6).
+
+Author information: 
+(1)Physicians Committee for Responsible Medicine, Washington, DC 20016, USA.
+(2)Metabolic Unit, CNR Institute of Neuroscience, 35127 Padua, Italy.
+(3)School of Medicine, University of Utah, Salt Lake City, UT 84132, USA.
+(4)uBiome Inc., San Francisco, CA 94103, USA.
+(5)Department of Gastroenterology, Georgetown MedStar Hospital, Washington, DC
+20007, USA.
+(6)Adjunct Faculty, George Washington University School of Medicine and Health
+Sciences, Washington, DC 20052, USA.
+
+Diet modulates gut microbiota and plays an important role in human health. The
+aim of this study was to test the effect of a low-fat vegan diet on gut
+microbiota and its association with weight, body composition, and insulin
+resistance in overweight men and women. We enrolled 168 participants and randomly
+assigned them to a vegan (n = 84) or a control group (n = 84) for 16 weeks. Of
+these, 115 returned all gut microbiome samples. Gut microbiota composition was
+assessed using uBiome Explorer™ kits. Body composition was measured using dual
+energy X-ray absorptiometry. Insulin sensitivity was quantified with the
+predicted clamp-derived insulin sensitivity index from a standard meal test.
+Repeated measure ANOVA was used for statistical analysis. Body weight decreased
+in the vegan group (treatment effect -5.9 kg [95% CI, -7.0 to -4.9 kg]; p <
+0.001), mainly due to a reduction in fat mass (-3.9 kg [95% CI, -4.6 to -3.1 kg];
+p < 0.001) and in visceral fat (-240 cm3 [95% CI, -345 to -135 kg]; p < 0.001).
+PREDIcted M, insulin sensitivity index (PREDIM) increased in the vegan group
+(treatment effect +0.83 [95% CI, +0.48 to +1.2]; p < 0.001). The relative
+abundance of Faecalibacterium prausnitzii increased in the vegan group (+5.1%
+[95% CI, +2.4 to +7.9%]; p < 0.001) and correlated negatively with changes in
+weight (r = -0.24; p = 0.01), fat mass (r = -0.22; p = 0.02), and visceral fat (r
+= -0.20; p = 0.03). The relative abundance of Bacteroides fragilis decreased in
+both groups, but less in the vegan group, making the treatment effect positive
+(+18.9% [95% CI, +14.2 to +23.7%]; p < 0.001), which correlated negatively with
+changes in weight (r = -0.44; p < 0.001), fat mass (r = -0.43; p < 0.001), and
+visceral fat (r = -0.28; p = 0.003) and positively with PREDIM (r = 0.36; p <
+0.001), so a smaller reduction in Bacteroides fragilis was associated with a
+greater loss of body weight, fat mass, visceral fat, and a greater increase in
+insulin sensitivity. A low-fat vegan diet induced significant changes in gut
+microbiota, which were related to changes in weight, body composition, and
+insulin sensitivity in overweight adults, suggesting a potential use in clinical 
+practice.
+
+DOI: 10.3390/nu12102917 
+PMID: 32987642 
+

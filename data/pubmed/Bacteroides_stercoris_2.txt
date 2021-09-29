@@ -1,0 +1,55 @@
+
+1. J Clin Endocrinol Metab. 2020 Sep 1;105(9). pii: dgaa407. doi:
+10.1210/clinem/dgaa407.
+
+Gut Microbiota in T1DM-Onset Pediatric Patients: Machine-Learning Algorithms to
+Classify Microorganisms as Disease Linked.
+
+Biassoni R(1), Di Marco E(1), Squillario M(2), Barla A(2), Piccolo G(3), Ugolotti
+E(1), Gatti C(1), Minuto N(3), Patti G(4)(5), Maghnie M(3)(4)(5), d'Annunzio
+G(3).
+
+Author information: 
+(1)Molecular Diagnostics, Analysis Laboratory, IRCCS Istituto Giannina Gaslini,
+Genoa, Italy.
+(2)DIBRIS University of Genoa, Genoa, Italy.
+(3)Pediatric Clinic Regional Center for Pediatric Diabetes, IRCCS Istituto
+Giannina Gaslini, Genoa, Italy.
+(4)Department of Pediatrics, IRCCS Istituto Giannina Gaslini, University of
+Genoa, Genoa, Italy.
+(5)Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, Maternal 
+and Child Health, University Of Genoa, Genoa, Italy.
+
+AIMS: The purpose of this work is to find the gut microbial fingerprinting of
+pediatric patients with type 1 diabetes.
+METHODS: The microbiome of 31 children with type 1 diabetes at onset and of 25
+healthy children was determined using multiple polymorphic regions of the 16S
+ribosomal RNA. We performed machine-learning analyses and metagenome functional
+analysis to identify significant taxa and their metabolic pathways content.
+RESULTS: Compared with healthy controls, patients showed a significantly higher
+relative abundance of the following most important taxa: Bacteroides stercoris,
+Bacteroides fragilis, Bacteroides intestinalis, Bifidobacterium bifidum,
+Gammaproteobacteria and its descendants, Holdemania, and Synergistetes and its
+descendants. On the contrary, the relative abundance of Bacteroides vulgatus,
+Deltaproteobacteria and its descendants, Parasutterella and the Lactobacillus,
+Turicibacter genera were significantly lower in patients with respect to healthy 
+controls. The predicted metabolic pathway more associated with type 1 diabetes
+patients concerns "carbon metabolism," sugar and iron metabolisms in particular. 
+Among the clinical variables considered, standardized body mass index,
+anti-insulin autoantibodies, glycemia, hemoglobin A1c, Tanner stage, and age at
+onset emerged as most significant positively or negatively correlated with
+specific clusters of taxa.
+CONCLUSIONS: The relative abundance and supervised analyses confirmed the
+importance of B stercoris in type 1 diabetes patients at onset and showed a
+relevant role of Synergistetes and its descendants in patients with respect to
+healthy controls. In general the robustness and coherence of the showed results
+underline the relevance of studying the microbioma using multiple polymorphic
+regions, different types of analysis, and different approaches within each
+analysis.
+
+© Endocrine Society 2020. All rights reserved. For permissions, please e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1210/clinem/dgaa407 
+PMID: 32692360 
+

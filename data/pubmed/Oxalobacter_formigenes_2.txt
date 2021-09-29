@@ -1,0 +1,49 @@
+
+1. JGH Open. 2020 Feb 25;4(4):649-655. doi: 10.1002/jgh3.12313. eCollection 2020
+Aug.
+
+Microbial dysbiosis in irritable bowel syndrome: A single-center metagenomic
+study in Saudi Arabia.
+
+Masoodi I(1), Alshanqeeti AS(2), Alyamani EJ(3), AlLehibi AA(4), Alqutub AN(4),
+Alsayari KN(4), Alomair AO(4).
+
+Author information: 
+(1)College of Medicine University of Taif Taif Saudi Arabia.
+(2)National Blood & Cancer Center, Riyadh, Saudi Arabia Riyadh Saudi Arabia.
+(3)National Center for Biotechnology King Abdulaziz City for Science and
+Technology (KACST) Riyadh Saudi Arabia.
+(4)Gastroenterology and Hepatology Department King Fahad Medical City Riyadh
+Saudi Arabia.
+
+Background: The focus of this study was to explore potential differences in
+colonic mucosal microbiota in irritable bowel syndrome (IBS) patients compared to
+a control group utilizing a metagenomic study.
+Methods: Mucosal microbiota samples were collected from each IBS patient
+utilizing jet-flushing colonic mucosa in unified segments of the colon with
+distilled water, followed by aspiration, during colonoscopy. All the purified
+dsDNA was extracted and quantified before metagenomic sequencing using an
+Illumina platform. An equal number of healthy age-matched controls were also
+examined for colonic mucosal microbiota, which were obtained during screening
+colonoscopies.
+Results: The microbiota data on 50 IBS patients (31 females), with a mean age
+43.94 ± 14.50 (range19-65), were analyzed in comparison to 50 controls.
+Satisfactory DNA samples were subjected to metagenomics study, followed by
+comprehensive comparative phylogenetic analysis. Metagenomics analysis was
+carried out, and 3.58G reads were sequenced. Community richness (Chao) and
+microbial structure in IBS patients were shown to be significantly different from
+those in the control group. Enrichment of Oxalobacter formigenes, Sutterella
+wadsworthensis, and Bacteroides pectinophilus was significantly observed in
+controls, whereas enrichment of Collinsella aerofaciens, Gemella morbillorum, and
+Veillonella parvula Actinobacteria was observed significantly in the IBS cohort.
+Conclusion: The current study has demonstrated significant differences in the
+microbiota of IBS patients compared to controls.
+
+© 2020 The Authors. JGH Open: An open access journal of gastroenterology and
+hepatology published by Journal of Gastroenterology and Hepatology Foundation and
+John Wiley & Sons Australia, Ltd.
+
+DOI: 10.1002/jgh3.12313 
+PMCID: PMC7411548
+PMID: 32782952 
+

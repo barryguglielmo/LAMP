@@ -1,0 +1,51 @@
+
+1. Antimicrob Agents Chemother. 2020 Jan 27;64(2). pii: e01494-19. doi:
+10.1128/AAC.01494-19. Print 2020 Jan 27.
+
+Meningococcal Quinolone Resistance Originated from Several Commensal Neisseria
+Species.
+
+Chen M(1)(2), Zhang C(3), Zhang X(3), Chen M(1).
+
+Author information: 
+(1)Department of Microbiology, Shanghai Municipal Center for Disease Control and 
+Prevention, Shanghai, China chenmingliang@scdc.sh.cn chenmin@scdc.sh.cn.
+(2)Department of Microbiology, Shanghai Institutes of Preventive Medicine,
+Shanghai, China.
+(3)Department of Microbiology, Shanghai Municipal Center for Disease Control and 
+Prevention, Shanghai, China.
+
+Quinolone resistance is increasing in Neisseria meningitidis, with its prevalence
+in China being high (>70%), but its origin remains unknown. The aim of this study
+was to investigate the donors of mutation-harboring gyrA alleles in N.
+meningitidis A total of 198 N. meningitidis isolates and 293 commensal Neisseria 
+isolates were collected between 2005 and 2018 in Shanghai, China. The MICs of
+ciprofloxacin were determined using the agar dilution method. The
+resistance-associated genes gyrA and parC were sequenced for all isolates, while 
+a few isolates were sequenced on the Illumina platform. The prevalences of
+quinolone resistance in the N. meningitidis and commensal Neisseria isolates were
+67.7% (134/198) and 99.3% (291/293), respectively. All 134 quinolone-resistant N.
+meningitidis isolates possessed mutations in T91 (n = 123) and/or D95 (n = 12) of
+GyrA, with 7 isolates also harboring ParC mutations and exhibiting higher MICs.
+Phylogenetic analysis of the gyrA sequence identified six clusters. Among the 71 
+mutation-harboring gyrA alleles found in 221 N. meningitidis isolates and genomes
+(n = 221), 12 alleles (n = 103, 46.6%) were included in the N. meningitidis
+cluster, while 20 alleles (n = 56) were included in the N. lactamica cluster, 27 
+alleles (n = 49) were included in the N. cinerea cluster, and 9 alleles (n = 10) 
+were included in the N. subflava cluster. Genomic analyses identified the exact
+N. lactamica donors of seven mutation-harboring gyrA alleles (gyrA92, gyrA97,
+gyrA98, gyrA114, gyrA116, gyrA151, and gyrA230) and the N. subflava donor isolate
+of gyrA171, with the sizes of the recombinant fragments ranging from 634 to
+7,499 bp. Transformation of gyrA fragments from these donor strains into a
+meningococcal isolate increased its ciprofloxacin MIC from 0.004 μg/ml to 0.125
+or 0.19 μg/ml and to 0.5 μg/ml with further transformation of an additional ParC 
+mutation. Over half of the quinolone-resistant N. meningitidis isolates acquired 
+resistance by horizontal gene transfer from three commensal Neisseria species.
+Quinolone resistance in N. meningitidis increases in a stepwise manner.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.01494-19 
+PMCID: PMC6985708
+PMID: 31740556 
+

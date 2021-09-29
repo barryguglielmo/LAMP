@@ -1,0 +1,60 @@
+
+1. ISME J. 2020 Sep 7. doi: 10.1038/s41396-020-00763-3. [Epub ahead of print]
+
+Microbial interactions in the mosquito gut determine Serratia colonization and
+blood-feeding propensity.
+
+Kozlova EV(1), Hegde S(2), Roundy CM(3), Golovko G(4), Saldaña MA(1)(5), Hart
+CE(6)(7), Anderson ER(2), Hornett EA(2)(8), Khanipov K(4), Popov VL(1), Pimenova 
+M(4), Zhou Y(9), Fovanov Y(4), Weaver SC(3), Routh AL(9), Heinz E(10), Hughes
+GL(11).
+
+Author information: 
+(1)Department of Pathology, University of Texas Medical Branch, Galveston, TX,
+USA.
+(2)Departments of Vector Biology and Tropical Disease Biology, Centre for
+Neglected Tropical Disease, Liverpool School of Tropical Medicine, Liverpool, UK.
+(3)World Reference Center for Emerging Viruses and Arboviruses, Institute for
+Human Infections and Immunity, and Department of Microbiology and Immunology,
+University of Texas Medical Branch, Galveston, TX, USA.
+(4)Department of Pharmacology and Toxicology, Sealy Center for Structural
+Biology, University of Texas Medical Branch, Galveston, TX, USA.
+(5)Department of Paediatrics and Tropical Medicine, Baylor College of Medicine,
+Houston, TX, USA.
+(6)The Institute for Translational Science, University of Texas Medical Branch,
+Galveston, TX, USA.
+(7)Institute for Global Health and Translational Science and SUNY Center for
+Environmental Health and Medicine, SUNY Upstate Medical University, Syracuse, NY,
+USA.
+(8)Institute of Integrative Biology, University of Liverpool, Liverpool, UK.
+(9)Department of Biochemistry and Molecular Biology, University of Texas Medical 
+Branch, Galveston, TX, USA.
+(10)Departments of Vector Biology and Clinical Sciences, Liverpool School of
+Tropical Medicine, Liverpool, UK.
+(11)Departments of Vector Biology and Tropical Disease Biology, Centre for
+Neglected Tropical Disease, Liverpool School of Tropical Medicine, Liverpool, UK.
+grant.hughes@lstmed.ac.uk.
+
+How microbe-microbe interactions dictate microbial complexity in the mosquito gut
+is unclear. Previously we found that, Serratia, a gut symbiont that alters vector
+competence and is being considered for vector control, poorly colonized Aedes
+aegypti yet was abundant in Culex quinquefasciatus reared under identical
+conditions. To investigate the incompatibility between Serratia and Ae. aegypti, 
+we characterized two distinct strains of Serratia marcescens from Cx.
+quinquefasciatus and examined their ability to infect Ae. aegypti. Both Serratia 
+strains poorly infected Ae. aegypti, but when microbiome homeostasis was
+disrupted, the prevalence and titers of Serratia were similar to the infection in
+its native host. Examination of multiple genetically diverse Ae. aegypti lines
+found microbial interference to S. marcescens was commonplace, however, one line 
+of Ae. aegypti was susceptible to infection. Microbiome analysis of resistant and
+susceptible lines indicated an inverse correlation between Enterobacteriaceae
+bacteria and Serratia, and experimental co-infections in a gnotobiotic system
+recapitulated the interference phenotype. Furthermore, we observed an effect on
+host behavior; Serratia exposure to Ae. aegypti disrupted their feeding behavior,
+and this phenotype was also reliant on interactions with their native microbiota.
+Our work highlights the complexity of host-microbe interactions and provides
+evidence that microbial interactions influence mosquito behavior.
+
+DOI: 10.1038/s41396-020-00763-3 
+PMID: 32895494 
+

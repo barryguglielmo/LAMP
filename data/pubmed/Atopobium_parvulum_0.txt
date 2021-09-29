@@ -1,0 +1,50 @@
+
+1. Microorganisms. 2020 Mar 29;8(4). pii: E485. doi: 10.3390/microorganisms8040485.
+
+Characterization of the Duodenal Mucosal Microbiome in Obese Adult Subjects by
+16S rRNA Sequencing.
+
+Nardelli C(1)(2)(3), Granata I(4), D'Argenio V(2)(5), Tramontano S(6), Compare
+D(7), Guarracino MR(4)(8), Nardone G(7), Pilone V(6), Sacchetti L(2)(3).
+
+Author information: 
+(1)Department of Molecular Medicine and Medical Biotechnologies, University of
+Naples Federico II, 80131 Naples, Italy.
+(2)CEINGE Biotecnologie Avanzate S. C. a R. L., 80131 Naples, Italy.
+(3)Task Force on Microbiome Studies, University of Naples Federico II, 80100
+Naples, Italy.
+(4)Institute for High Performance Computing and Networking (ICAR), National
+Research Council (CNR), 80131 Naples, Italy.
+(5)Department of Human Sciences and Promotion of the Quality of Life, San
+Raffaele Open University, 00166 Rome, Italy.
+(6)Department of Medicine and Surgery, University of Salerno, 84084 Salerno,
+Italy.
+(7)Department of Clinical Medicine and Surgery, University of Naples Federico II,
+80131 Naples, Italy.
+(8)Department of Economics and Law, University of Cassino and Southern Lazio,
+03043 Cassino, Italy.
+
+The gut microbiota may have an impact on obesity. To date, the majority of
+studies in obese patients reported microbiota composition in stool samples. The
+aim of this study was to investigate the duodenal mucosa dysbiosis in adult obese
+individuals from Campania, a region in Italy with a very high percentage of obese
+people, to highlight microbial taxa likely associated with obesity. Duodenum
+biopsies were taken during upper gastrointestinal endoscopy in 19 obese (OB) and 
+16 lean control subjects (CO) and microbiome studied by 16S rRNA gene sequencing.
+Duodenal microbiome in our groups consisted of six phyla: Proteobacteria,
+Firmicutes, Actinobacteria, Fusobacteria, Bacteroidetes and Acidobacteria.
+Proteobacteria (51.1% vs. 40.1%) and Firmicutes (33.6% vs. 44.9%) were
+significantly (p < 0.05) more and less abundant in OB compared with CO,
+respectively. Oribacterium asaccharolyticum, Atopobium parvulum and Fusobacterium
+nucleatum were reduced (p < 0.01) and Pseudomonadales were increased (p < 0.05)
+in OB compared with CO. Receiver operating characteristic curve analysis showed
+Atopobium and Oribacterium genera able to discriminate with accuracy (power = 75%
+and 78%, respectively) OB from CO. In conclusion, increased Proteobacteria and
+decreased Firmicutes (Lachnospiraceae) characterized the duodenal microbiome of
+obese subjects. These data direct to further studies to evaluate the functional
+role of the dysbiotic-obese-associated signature.
+
+DOI: 10.3390/microorganisms8040485 
+PMCID: PMC7232320
+PMID: 32235377 
+

@@ -1,0 +1,62 @@
+
+1. Food Microbiol. 2020 Dec;92:103585. doi: 10.1016/j.fm.2020.103585. Epub 2020 Jul 
+2.
+
+Proteomics study unveils ROS balance in acid-adapted Salmonella Enteritidis.
+
+Hu S(1), Yu Y(2), Lv Z(3), Shen J(4), Ke Y(5), Xiao X(6).
+
+Author information: 
+(1)Key Laboratory of Molecular Epidemiology of Shenzhen, Shenzhen Center for
+Disease Control and Prevention, Shenzhen City, Guangdong Province, 518055, PR
+China; School of Food Science and Engineering, South China University of
+Technology, Guangzhou City, Guangdong Province, 510640, PR China; Beijing
+Advanced Innovation Center for Food Nutrition and Human Health, College of
+Veterinary Medicine, China Agricultural University, Beijing, 10083, PR China.
+(2)School of Food Science and Engineering, South China University of Technology, 
+Guangzhou City, Guangdong Province, 510640, PR China.
+(3)Key Laboratory of Molecular Epidemiology of Shenzhen, Shenzhen Center for
+Disease Control and Prevention, Shenzhen City, Guangdong Province, 518055, PR
+China.
+(4)Beijing Advanced Innovation Center for Food Nutrition and Human Health,
+College of Veterinary Medicine, China Agricultural University, Beijing, 10083, PR
+China.
+(5)Key Laboratory of Molecular Epidemiology of Shenzhen, Shenzhen Center for
+Disease Control and Prevention, Shenzhen City, Guangdong Province, 518055, PR
+China. Electronic address: keyke@szu.edu.cn.
+(6)School of Food Science and Engineering, South China University of Technology, 
+Guangzhou City, Guangdong Province, 510640, PR China. Electronic address:
+fexxl@scut.edu.cn.
+
+Salmonella Enteritidis is a major cause of foodborne gastroenteritis and is thus 
+a persistent threat to global public health. The acid adaptation response helps
+Salmonella survive exposure to gastric environment during ingestion. In a
+previous study we highlighted the damage caused to cell membrane and the
+regulation of intracellular reactive oxygen species (ROS) in S. Enteritidis. In
+this study, we applied both physiologic and iTRAQ analyses to explore the
+regulatory mechanism of acid resistance in Salmonella. It was found that after S.
+Enteritidis was subject to a 1 h period of acid adaptation at pH 5.5, an
+additional 1 h period of acid shock stress at pH 3.0 caused less Salmonella cell 
+death than in non-acid adapted Salmonella cells. Although there were no
+significant differences between adapted and non-adapted cells in terms of cell
+membrane damage (e.g., membrane permeability or lipid peroxidation) after 30 min,
+intracellular ROS level in acid adapted cells was dramatically reduced compared
+to that in non-acid adapted cells, indicating that acid adaption promoted less
+ROS generation or increased the ability of ROS scavenging with little reduction
+in the integrity of the cell membrane. These findings were confirmed via an iTRAQ
+analysis. The adapted cells were shown to trigger incorporation of exogenous
+long-chain fatty acids into the cellular membrane, resulting in a different
+membrane lipid profile and promoting survival rate under acid stress. S.
+Enteritidis experiences oxidative damage and iron deficiency under acid stress,
+but after acid adaption S. Enteritidis cells were able to balance their
+concentrations of intracellular ROS. Specifically, SodAB consumed the free
+protons responsible for forming reactive oxygen intermediates (ROIs) and KatE
+protected cells from the toxic effects of ROIs. Additionally, acid-labile
+proteins released free unbound iron promoting ferroptotic metabolism, and NADH
+reduced GSSH to G-SH, protecting cells from acid/oxidative stress.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fm.2020.103585 
+PMID: 32950169 
+

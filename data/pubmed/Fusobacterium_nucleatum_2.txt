@@ -1,0 +1,46 @@
+
+1. Gut Pathog. 2020 Sep 29;12:46. doi: 10.1186/s13099-020-00384-3. eCollection 2020.
+
+Fusobacterium nucleatum infection correlates with two types of microsatellite
+alterations in colorectal cancer and triggers DNA damage.
+
+Okita Y(#)(1), Koi M(#)(1), Takeda K(1), Ross R(2), Mukherjee B(2), Koeppe E(1), 
+Stoffel EM(1), Galanko JA(3), McCoy AN(3), Keku TO(3), Okugawa Y(4), Kitajima
+T(4), Toiyama Y(4), Martens E(5), Carethers JM(1)(6).
+
+Author information: 
+(1)Division of Gastroenterology and Hepatology, Department of Internal Medicine, 
+University of Michigan, Ann Arbor, MI USA.
+(2)Department of Biostatistics School of Public Health, University of Michigan,
+Ann Arbor, MI USA.
+(3)Division of Gastroenterology and Hepatology, Departments of Medicine &
+Nutrition, University of North Carolina at Chapel Hill, Chapel Hill, NC USA.
+(4)Department of Gastrointestinal and Pediatric Surgery, Graduate School of
+Medicine, Mie University, Mie, Japan.
+(5)Department of Microbiology and Immunology, University of Michigan, Ann Arbor, 
+MI USA.
+(6)Department of Human Genetics and Rogel Cancer Center, University of Michigan, 
+Ann Arbor, MI USA.
+(#)Contributed equally
+
+Fusobacterium nucleatum (Fn) is frequently found in colorectal cancers (CRCs).
+High loads of Fn DNA are detected in CRC tissues with microsatellite
+instability-high (MSI-H), or with the CpG island hypermethylation phenotype
+(CIMP). Fn infection is also associated with the inflammatory tumor
+microenvironment of CRC. A subtype of CRC exhibits inflammation-associated
+microsatellite alterations (IAMA), which are characterized by microsatellite
+instability-low (MSI-L) and/or an elevated level of microsatellite alterations at
+selected tetra-nucleotide repeats (EMAST). Here we describe two independent CRC
+cohorts in which heavy or moderate loads of Fn DNA are associated with MSI-H and 
+L/E CRC respectively. We also show evidence that Fn produces factors that induce 
+γ-H2AX, a hallmark of DNA double strand breaks (DSBs), in the infected cells.
+
+© The Author(s) 2020.
+
+DOI: 10.1186/s13099-020-00384-3 
+PMCID: PMC7526104
+PMID: 33005238 
+
+Conflict of interest statement: Competing interestsThe authors declare that they 
+have no competing interests.
+

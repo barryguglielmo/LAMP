@@ -1,0 +1,42 @@
+
+1. Nutrients. 2020 Jun 29;12(7). pii: E1917. doi: 10.3390/nu12071917.
+
+A Novel Non-Digestible, Carrot-Derived Polysaccharide (cRG-I) Selectively
+Modulates the Human Gut Microbiota while Promoting Gut Barrier Integrity: An
+Integrated in Vitro Approach.
+
+Van den Abbeele P(1), Verstrepen L(1), Ghyselinck J(1), Albers R(2), Marzorati
+M(1)(3), Mercenier A(2).
+
+Author information: 
+(1)ProDigest BV, Technologiepark 82, 9052 Ghent, Belgium.
+(2)Nutrileads BV, Bronland 12-N, 6708WH Wageningen, The Netherlands.
+(3)Center of Microbial Ecology and Technology (CMET), Ghent University, Coupure
+Links 653, 9000 Ghent, Belgium.
+
+Modulation of the gut microbiome as a means to improve human health has recently 
+gained increasing interest. In this study, it was investigated whether cRG-I, a
+carrot-derived pectic polysaccharide, enriched in rhamnogalacturonan-I (RG-I)
+classifies as a potential prebiotic ingredient using novel in vitro models.
+First, digestion methods involving α-amylase/brush border enzymes demonstrated
+the non-digestibility of cRG-I by host-derived enzymes versus digestible
+(starch/maltose) and non-digestible controls (inulin). Then, a recently developed
+short-term (48 h) colonic incubation strategy was applied and revealed that cRG-I
+fermentation increased levels of health-promoting short-chain fatty acids (SCFA; 
+mainly acetate and propionate) and lactate comparable but not identical to the
+reference prebiotic inulin. Upon upgrading this fermentation model by inclusion
+of a simulated mucosal environment while applying quantitative 16S-targeted
+Illumina sequencing, cRG-I was additionally shown to specifically stimulate
+operational taxonomic units (OTUs) related to health-associated species such as
+Bifidobacterium longum, Bifidobacterium adolescentis, Bacteroides dorei,
+Bacteroides ovatus, Roseburia hominis, Faecalibacterium prausnitzii, and
+Eubacterium hallii. Finally, in a novel model to assess host-microbe interactions
+(Caco-2/peripheral blood mononuclear cells (PBMC) co-culture) fermented cRG-I
+increased barrier integrity while decreasing markers for inflammation. In
+conclusion, by using novel in vitro models, cRG-I was identified as a promising
+prebiotic candidate to proceed to clinical studies.
+
+DOI: 10.3390/nu12071917 
+PMCID: PMC7400138
+PMID: 32610452 
+

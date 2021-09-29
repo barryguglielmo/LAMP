@@ -1,0 +1,56 @@
+
+1. Protein Pept Lett. 2020 Jun 13. doi: 10.2174/0929866527666200613221359. [Epub
+ahead of print]
+
+Molecular Insights into Zn2+ Inhibition of the Antibacterial Endopeptidase
+Lysostaphin from Staphylococcus simulans.
+
+Chen K(1), Ojha SC(2), Imtong C(3), Linn AK(4), Li HC(5), Thonabulsombat C(1),
+Angsuthanasombat C(4).
+
+Author information: 
+(1)Department of Anatomy, Faculty of Science, Mahidol University, Payatai Campus,
+Bangkok. Thailand.
+(2)Department of Infectious Diseases, the Affliliated Hospital of Southwest
+Medical University, Luzhou. China.
+(3)Division of Biology, Department of Science, Faculty of Science and Technology,
+Prince of Songkla University, Pattani Campus, Pattani. Thailand.
+(4)Laboratory of Synthetic Biophysics and Chemical Biology, Biophysics Institute 
+for Research and Development (BIRD), Chiang Mai. Thailand.
+(5)Department of Biochemistry, School of Medicine, Tzu Chi University, Hualian.
+Taiwan.
+
+BACKGROUND: Mature lysostaphin (28-kDa Lss) from Staphylococcus simulans proves 
+effective in killing methicillin-resistant Staphylococcus aureus (MRSA) which is 
+endemic in hospitals worldwide. Lss is Zn2+-dependent endopeptidase, but its
+bacteriolytic activity could be affected by exogenously added Zn2+.
+OBJECTIVE: To gain greater insights into structural and functional impacts of
+Zn2+ and Ni2+ on Lss-induced bioactivity.
+METHODS: Lss purified via immobilized metal ion-affinity chromatography was
+assessed for bioactivity using turbidity reduction assays. Conformational change 
+of metal ion-treated Lss was examined by circular dichroism and intrinsic
+fluorescence spectroscopy. Co-sedimentation assay was performed to study
+interactions between Zn2+-treated Lss and S. aureus peptidoglycans. Metal
+ion-binding prediction and intermolecular docking were used to locate an
+extraneous Zn2+-binding site.
+RESULTS: A drastic decrease in Lss bioactivity against S. aureus and MRSA was
+revealed only when treated with Zn2+, but not Ni2+, albeit no negative effect of 
+diethyldithiocarbamate-Zn2+-chelator on Lss-induced bioactivity. No severe
+conformational change was observed for Lss incubated with exogenous Zn2+ or Ni2+.
+Lss pre-treated with Zn2+ efficiently bound to S. aureus cell-wall
+peptidoglycans, suggesting non-interfering effect of exogenous metal ions on
+cell-wall targeting (CWT) activity. In silico analysis revealed that exogenous
+Zn2+, but not Ni2+, preferably interacted with a potential extraneous
+Zn2+-binding site (His253, Glu318 and His323) placed near the Zn2+- coordinating 
+Lss-active site within the catalytic (CAT) domain.
+CONCLUSION: Our present data signify the adverse influence of exogenous Zn2+ ions
+on Lss-induced staphylolytic activity through the exclusive presence within the
+CAT domain of an extraneous inhibitory Zn2+-binding site, without affecting the
+CWT activity.
+
+Copyright© Bentham Science Publishers; For any queries, please email at
+epub@benthamscience.net.
+
+DOI: 10.2174/0929866527666200613221359 
+PMID: 32533816 
+

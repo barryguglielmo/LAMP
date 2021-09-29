@@ -1,0 +1,48 @@
+
+1. Front Microbiol. 2020 Aug 7;11:1701. doi: 10.3389/fmicb.2020.01701. eCollection
+2020.
+
+Genetic Diversity Among Mycobacterium avium Subspecies Revealed by Analysis of
+Complete Genome Sequences.
+
+Bannantine JP(1), Conde C(2), Bayles DO(1), Branger M(2), Biet F(2).
+
+Author information: 
+(1)USDA-Agricultural Research Service, National Animal Disease Center, Ames, IA, 
+United States.
+(2)INRAE, Université de Tours, ISP, Nouzilly, France.
+
+Mycobacterium avium comprises four subspecies that contain both human and
+veterinary pathogens. At the inception of this study, twenty-eight M. avium
+genomes had been annotated as RefSeq genomes, facilitating direct comparisons.
+These genomes represent strains from around the world and provided a unique
+opportunity to examine genome dynamics in this species. Each genome was confirmed
+to be classified correctly based on SNP genotyping, nucleotide identity and
+presence/absence of repetitive elements or other typing methods. The
+Mycobacterium avium subspecies paratuberculosis (Map) genome size and
+organization was remarkably consistent, averaging 4.8 Mb with a variance of only 
+29.6 kb among the 13 strains. Comparing recombination events along with the
+larger genome size and variance observed among Mycobacterium avium subspecies
+avium (Maa) and Mycobacterium avium subspecies hominissuis (Mah) strains
+(collectively termed non-Map) suggests horizontal gene transfer occurs in
+non-Map, but not in Map strains. Overall, M. avium subspecies could be divided
+into two major sub-divisions, with the Map type II (bovine strains) clustering
+tightly on one end of a phylogenetic spectrum and Mah strains clustering more
+loosely together on the other end. The most evolutionarily distinct Map strain
+was an ovine strain, designated Telford, which had >1,000 SNPs and showed large
+rearrangements compared to the bovine type II strains. The Telford strain
+clustered with Maa strains as an intermediate between Map type II and Mah. SNP
+analysis and genome organization analyses repeatedly demonstrated the conserved
+nature of Map versus the mosaic nature of non-Map M. avium strains. Finally, core
+and pangenomes were developed for Map and non-Map strains. A total of 80% Map
+genes belonged to the Map core genome, while only 40% of non-Map genes belonged
+to the non-Map core genome. These genomes provide a more complete and detailed
+comparison of these subspecies strains as well as a blueprint for how genetic
+diversity originated.
+
+Copyright © 2020 Bannantine, Conde, Bayles, Branger and Biet.
+
+DOI: 10.3389/fmicb.2020.01701 
+PMCID: PMC7426613
+PMID: 32849358 
+

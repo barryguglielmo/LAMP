@@ -1,0 +1,64 @@
+
+1. Front Microbiol. 2020 Jul 29;11:1626. doi: 10.3389/fmicb.2020.01626. eCollection 
+2020.
+
+Novel Antimicrobial Cellulose Fleece Inhibits Growth of Human-Derived
+Biofilm-Forming Staphylococci During the SIRIUS19 Simulated Space Mission.
+
+Wischer D(1), Schneider D(2), Poehlein A(2), Herrmann F(1), Oruc H(1), Meinhardt 
+J(1), Wagner O(3), Ahmed R(3), Kharin S(4), Novikova N(4), Haag R(3), Daniel
+R(2), Grohmann E(1).
+
+Author information: 
+(1)Faculty of Life Sciences and Technology, Department of Microbiology, Beuth
+University of Applied Sciences, Berlin, Germany.
+(2)Department of Genomic and Applied Microbiology, Göttingen Genomics Laboratory,
+Institute of Microbiology and Genetics, Georg-August-University Göttingen,
+Göttingen, Germany.
+(3)Institute of Chemistry and Biochemistry, Freie Universität Berlin, Berlin,
+Germany.
+(4)Institute of Biomedical Problems (IBMP), Moscow, Russia.
+
+Two novel antimicrobial surface coatings were assessed for their lasting
+antibacterial effect under simulated space conditions during the SIRIUS-19 study.
+Because long-term space travel can affect the human immune system, astronauts are
+particularly susceptible to infectious disease. Moreover, the space flight
+environment can alter the composition of microbial communities within the
+spacecraft and increase bacterial virulence and resistance to antibiotics. In
+addition to protecting the crew from infection by human pathogens, prevention and
+elimination of bacterial contamination is important to avoid corrosion and damage
+of the technical equipment. The antimicrobial coating AGXX® consists of
+micro-galvanic cells composed of silver and ruthenium which damage bacterial
+cells through the release of reactive oxygen species. Over the last years,
+several studies on the antimicrobial effect of AGXX® have demonstrated an
+effective inhibition of growth and even complete elimination of many pathogenic
+bacteria - including multiresistant microorganisms - as well as their biofilms.
+The second antimicrobial coating, GOX, consists of chemically modified graphene
+oxide. Through a positive surface charge and its flexible scaffold, GOX can
+multivalently bind and immobilize bacteria via electrostatic attraction. Here,
+AGXX® and GOX were applied to non-metallic carriers not previously tested. The
+antimicrobial coated materials, as well as uncoated control samples, were exposed
+in the SIRIUS artificial space module and analyzed at different time points
+during the 4-months isolation study. Survival and growth of airborne
+heterotrophic, aerobic bacteria on the surfaces were assessed by
+cultivation-based methods, employing growth conditions suitable for potential
+human pathogens. Human-associated, biofilm-forming Staphylococcus spp. (S.
+hominis, S. haemolyticus, and S. epidermidis) strongly dominated at all time
+points, most were resistant against erythromycin, kanamycin, and ampicillin.
+AGXX® coatings completely inhibited growth of these opportunistic pathogens on
+all tested surface materials. Particularly, AGXX®-cellulose fleece achieved a
+clear reduction in bacterial load able to recover post contact. GOX-cellulose
+fleece effectively immobilized bacteria. Sequence analysis of 16S rRNA gene
+amplicons revealed that the isolated Staphylococcus spp. did not dominate the
+overall bacterial community, accounting for only 0.1-0.4% of all sequences.
+Instead, molecular data revealed Lactobacillus, Comamonas, Pseudomonas,
+Sporosarcina, and Bacillus as the dominant genera across all samples and time
+points.
+
+Copyright © 2020 Wischer, Schneider, Poehlein, Herrmann, Oruc, Meinhardt, Wagner,
+Ahmed, Kharin, Novikova, Haag, Daniel and Grohmann.
+
+DOI: 10.3389/fmicb.2020.01626 
+PMCID: PMC7405646
+PMID: 32849336 
+

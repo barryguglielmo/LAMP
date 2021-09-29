@@ -1,0 +1,41 @@
+
+1. Angew Chem Int Ed Engl. 2020 Jul 31. doi: 10.1002/anie.202007209. [Epub ahead of 
+print]
+
+Chemical Synthesis Elucidates the Key Antigenic Epitope of the Autism-Related
+Bacterium Clostridium bolteae Capsular Octadecasaccharide.
+
+Cai J(1)(2), Hu J(1)(3), Qin C(1), Li L(1), Shen D(2), Tian G(1)(2), Zou X(1)(2),
+Seeberger PH(2), Yin J(1).
+
+Author information: 
+(1)Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of
+Education, School of Biotechnology, Jiangnan University, Lihu Avenue 1800, Wuxi, 
+Jiangsu Province, 214122, P. R. China.
+(2)Department of Biomolecular Systems, Max Planck Institute of Colloids and
+Interfaces, Am Mühlenberg 1, 14476, Potsdam, Germany.
+(3)Wuxi School of Medicine, Jiangnan University, Lihu Avenue 1800, Wuxi, Jiangsu 
+Province, 214122, P. R. China.
+
+The gut pathogen Clostridium bolteae has been associated with the onset of autism
+spectrum disorder (ASD). To create vaccines against C. bolteae, it is important
+to identify exact protective epitopes of the immunologically active capsular
+polysaccharide (CPS). Here, a series of C. bolteae CPS glycans, up to an
+octadecasaccharide, was prepared. Key to achieving the total syntheses is a [2+2]
+coupling strategy based on a β-d-Rhap-(1→3)-α-d-Manp repeating unit that in turn 
+was accessed by a stereoselective β-d-rhamnosylation. The
+4,6-O-benzylidene-induced conformational locking is a powerful strategy for
+forming a β-d-mannose-type glycoside. An indirect strategy based on C2
+epimerization of β-d-quinovoside was efficiently achieved by Swern oxidation and 
+borohydride reduction. Sequential glycosylation, and regioselective and global
+deprotection produced the disaccharide and tetrasaccharide, up to the
+octadecasaccharide. Glycan microarray analysis of sera from rabbits immunized
+with inactivated C. bolteae bacteria revealed a humoral immune response to the
+di- and tetrasaccharide, but none of the longer sequences. The tetrasaccharide
+may be a key motif for designing glycoconjugate vaccines against C. bolteae.
+
+© 2020 Wiley-VCH GmbH.
+
+DOI: 10.1002/anie.202007209 
+PMID: 32734715 
+

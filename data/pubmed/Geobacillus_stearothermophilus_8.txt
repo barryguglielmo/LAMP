@@ -1,0 +1,48 @@
+
+1. Protein Expr Purif. 2020 Nov;175:105692. doi: 10.1016/j.pep.2020.105692. Epub
+2020 Jul 16.
+
+Expression and characterization of l-arabinose isomerase from Geobacillus
+stearothermophilus for improved activity under acidic condition.
+
+Laksmi FA(1), Arai S(2), Arakawa T(3), Tsurumaru H(1), Nakamura Y(1), Saksono
+B(4), Tokunaga M(1), Ishibashi M(5).
+
+Author information: 
+(1)The United Graduate School of Agricultural Sciences, Kagoshima University,
+1-21-24, Korimoto, Kagoshima, 890-0065, Japan.
+(2)Institute for Quantum Life Science, National Institute for Quantum and
+Radiological Science and Technology, 2-4 Shirakata, Tokai, Ibaraki, 319-1106,
+Japan.
+(3)Alliance Protein Laboratories, a Division of KBI Biopharma, 6042 Cornerstone
+Court West, Suite A, San Diego, CA, 92121, USA.
+(4)Research Center for Biotechnology, Indonesian Institute of Sciences (LIPI),
+Jalan Raya Bogor Km. 46, Cibinong, 16911, Indonesia.
+(5)The United Graduate School of Agricultural Sciences, Kagoshima University,
+1-21-24, Korimoto, Kagoshima, 890-0065, Japan. Electronic address:
+k6038120@kadai.jp.
+
+A low-calorie sugar-substituting sweetener, d-tagatose, can be produced by
+l-arabinose isomerase (l-AI) from the substrate d-galactose. However, this
+process suffers from a Maillard reaction when performed at alkaline pH and high
+temperature. For industrial applications, therefore, a reaction under slightly
+acidic conditions is desirable to minimize the Maillard reaction. Previously, we 
+obtained a mutant of l-AI, H18T, from Geobacillus stearothermophilus with greater
+substrate specificity. Although H18T possessed excellent thermostability, its
+activity under acidic conditions was not optimal. Here, we successfully obtained 
+a potential variant of the H18T protein, H18T-Y234C, which achieved improved
+activity at pH 6.0, based on random mutagenesis using error-prone PCR around the 
+binding pocket area of H18T. This double H18T-Y234C mutant possessed 1.8-fold and
+3-fold higher activity at pH 6.0 than the parent H18T and the wild type, thereby 
+broadening the optimal pH range to 6.0-8.0. Mutation from Tyr to Cys at residue
+234 had little effect on the secondary structure of L-AI. Furthermore, the
+formation of disulfide bonds was not detected. Thus, the improvement of activity 
+at pH 6.0 is probably caused by the change in the binding pocket area involving
+residue 234. This study offers insight into the importance of residue 234 in
+improving the activity under acidic conditions.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pep.2020.105692 
+PMID: 32681957 
+

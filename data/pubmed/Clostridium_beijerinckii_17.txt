@@ -1,0 +1,50 @@
+
+1. Biotechnol Bioeng. 2020 Jul;117(7):2008-2022. doi: 10.1002/bit.27333. Epub 2020
+Apr 9.
+
+Combined evolutionary engineering and genetic manipulation improve low pH
+tolerance and butanol production in a synthetic microbial Clostridium community.
+
+Wen Z(1), Ledesma-Amaro R(2), Lu M(1), Jiang Y(3)(4), Gao S(5), Jin M(1), Yang
+S(3)(6).
+
+Author information: 
+(1)School of Environmental and Biological Engineering, Nanjing University of
+Science & Technology, Nanjing, China.
+(2)Department of Bioengineering, Imperial College London, London, UK.
+(3)Huzhou Center of Industrial Biotechnology, Shanghai Institutes of Biological
+Sciences, Chinese Academy of Sciences, Zhejiang, China.
+(4)Shanghai TaoYuSheng Biotechnology Co., Ltd., Shanghai, China.
+(5)Zhejiang Huarui Biotechnology Co., Ltd., Zhejiang, China.
+(6)Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular
+Plant Sciences, Chinese Academy of Sciences, Shanghai, China.
+
+Synthetic microbial communities have become a focus of biotechnological research 
+since they can overcome several of the limitations of single-specie cultures. A
+paradigmatic example is Clostridium cellulovorans DSM 743B, which can decompose
+lignocellulose but cannot produce butanol. Clostridium beijerinckii NCIMB 8052
+however, is unable to use lignocellulose but can produce high amounts of butanol 
+from simple sugars. In our previous studies, both organisms were cocultured to
+produce butanol by consolidated bioprocessing. However, such consolidated
+bioprocessing implementation strongly depends on pH regulation. Since low pH (pH 
+4.5-5.5) is required for butanol fermentation, C. cellulovorans cannot grow well 
+and saccharify sufficient lignocellulose to feed both strains at a pH below 6.4. 
+To overcome this bottleneck, this study engineered C. cellulovorans by adaptive
+laboratory evolution, inactivating cell wall lyases genes (Clocel_0798 and
+Clocel_2169), and overexpressing agmatine deiminase genes (augA, encoded by
+Cbei_1922) from C. beijerinckii NCIMB 8052. The generated strain WZQ36:
+743B*6.0*3△lyt0798△lyt2169-(pXY1-Pthl -augA) can tolerate a pH of 5.5. Finally,
+the alcohol aldehyde dehydrogenase gene adhE1 from Clostridium acetobutylicum
+ATCC 824 was introduced into the strain to enable butanol production at low pH,
+in coordination with solvent fermentation of C. beijerinckii in consortium. The
+engineered consortium produced 3.94 g/L butanol without pH control within 83 hr, 
+which is more than 5-fold of the level achieved by wild consortia under the same 
+conditions. This exploration represents a proof of concept on how to combine
+metabolic and evolutionary engineering to coordinate coculture of a synthetic
+microbial community.
+
+© 2020 Wiley Periodicals, Inc.
+
+DOI: 10.1002/bit.27333 
+PMID: 32170874 
+

@@ -1,0 +1,41 @@
+
+1. Curr Microbiol. 2020 Aug;77(8):1839-1847. doi: 10.1007/s00284-020-01932-5. Epub
+2020 Mar 12.
+
+Genome Analysis of Enterococcus mundtii Pe103, a Human Gut-Originated
+Pectinolytic Bacterium.
+
+Jung DH(1), Seo DH(2), Shin JH(3), Park CS(4), Chung WH(5).
+
+Author information: 
+(1)Bacteria Research Team, Nakdonggang National Institute of Biological
+Resources, Sangju, 37242, Republic of Korea.
+(2)Department of Food Science and Technology, Jeonbuk National University,
+Jeonju, 54896, Republic of Korea.
+(3)Research Group of Healthcare, Korea Food Research Institute, Wanju, 55365,
+Republic of Korea.
+(4)Graduate School of Biotechnology and Institute of Life Science and Resources, 
+Kyung Hee University, Yongin, 17104, Republic of Korea. cspark@khu.ac.kr.
+(5)Research Group of Healthcare, Korea Food Research Institute, Wanju, 55365,
+Republic of Korea. whchung@kfri.re.kr.
+
+Pectin exists in significant amounts in vegetables and fruits as a component of
+the plant cell wall. In human diet, pectin is not degraded by the human digestive
+enzymes due to its complex structure; only gut bacteria degrade pectin in the
+large intestine. To date, although pectin is one of the most important sources of
+dietary fiber in human diet, there have been only few reports on human
+gut-originated pectinolytic bacteria. In this study, the strain Enterococcus
+mundtii Pe103, a bacterium with pectin-degrading activity, was isolated from the 
+feces of a healthy Korean adult female. Culture experiments revealed that it
+could grow on pectin as the sole carbon source by degrading pectin to
+approximately 35% within 13 h. We report the complete genome data of human gut E.
+mundtii Pe103. It consists of a circular chromosome (3,084,146 bps) and two
+plasmids (63,713 and 56,223 bps). Genomic analysis suggested that at least nine
+putative enzymes related to pectin degradation are present in E. mundtii Pe103.
+These enzymes may be involved in the degradation of pectin. The whole genome
+information of E. mundtii Pe103 could improve the understanding of the mechanism 
+underlying the degradation of pectin by human gut microbiota.
+
+DOI: 10.1007/s00284-020-01932-5 
+PMID: 32166413 
+

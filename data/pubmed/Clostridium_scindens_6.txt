@@ -1,0 +1,43 @@
+
+1. Gut Microbes. 2020 Jul 3;11(4):979-996. doi: 10.1080/19490976.2020.1732268. Epub 
+2020 Mar 5.
+
+The microbiome modulating activity of bile acids.
+
+Tian Y(1)(2), Gui W(1), Koo I(1), Smith PB(3), Allman EL(1), Nichols RG(1), Rimal
+B(1), Cai J(1), Liu Q(1), Patterson AD(1).
+
+Author information: 
+(1)Department of Veterinary and Biomedical Sciences, The Pennsylvania State
+University , University Park, Pennsylvania, USA.
+(2)CAS Key Laboratory of Magnetic Resonance in Biological Systems, State Key
+Laboratory of Magnetic Resonance and Atomic and Molecular Physics, National
+Centre for Magnetic Resonance in Wuhan, Wuhan Institute of Physics and
+Mathematics, University of Chinese Academy of Sciences , Wuhan, P. R. China.
+(3)Huck Institutes of the Life Sciences, The Pennsylvania State University ,
+University Park, Pennsylvania, USA.
+
+Bile acids are potent antibacterial compounds and play an important role in
+shaping the microbial ecology of the gut. Here, we combined flow cytometry,
+growth rate measurements (OD600), and NMR- and mass spectrometry-based
+metabolomics to systematically profile the impact of bile acids on the microbiome
+using in vitro and in vivo models. This study confirmed that (1) unconjugated
+bile acids possess more potent antibacterial activity than conjugated bile acids;
+(2) Gram-positive bacteria are more sensitive to bile acids than Gram-negative
+bacteria; (3) some probiotic bacteria such as Lactobacillus and Bifidobacterium
+and 7α-dehydroxylating bacteria such as Clostridium scindens show bile acid
+resistance that is associated with activation of glycolysis. Moreover, we
+demonstrated that (4) as one of most hydrophobic bile acids, lithocholic acid
+(LCA) shows reduced toxicity to bacteria in the cecal microbiome in both in vivo 
+and in vitro models; (5) bile acids directly and rapidly affect bacterial global 
+metabolism including membrane damage, disrupted amino acid, nucleotide, and
+carbohydrate metabolism; and (6) in vivo, short-term exposure to bile acids
+significantly affected host metabolism via alterations of the bacterial community
+structure. This study systematically profiled interactions between bile acids and
+gut bacteria providing validation of previous observation and new insights into
+the interaction of bile acids with the microbiome and mechanisms related to bile 
+acid tolerance.
+
+DOI: 10.1080/19490976.2020.1732268 
+PMID: 32138583 
+

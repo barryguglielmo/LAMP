@@ -1,0 +1,39 @@
+
+1. Bioresour Technol. 2020 Feb;298:122549. doi: 10.1016/j.biortech.2019.122549. Epub
+2019 Dec 4.
+
+A simultaneous gas feeding and cell-recycled reaction (SGCR) system to achieve
+biomass boosting and high acetate titer in microbial carbon monoxide
+fermentation.
+
+Lee M(1), Yasin M(2), Jang N(1), Chang IS(3).
+
+Author information: 
+(1)School of Earth Sciences and Environmental Engineering, Gwangju Institute of
+Science and Technology (GIST), Gwangju 61005, Republic of Korea.
+(2)Bioenergy & Environmental Sustainable Technology (BEST) Research Group,
+Department of Chemical Engineering, COMSATS Institute of Information Technology
+(CIIT), Lahore, Pakistan.
+(3)School of Earth Sciences and Environmental Engineering, Gwangju Institute of
+Science and Technology (GIST), Gwangju 61005, Republic of Korea. Electronic
+address: ischang@gist.ac.kr.
+
+This study employed a simultaneous gas feeding and cell-recycled reaction (SGCR) 
+system to ferment CO using Eubacterium limosum KIST612. A bubble column reactor
+was equipped with an ex-situ hollow fiber membrane module to enable cell
+recycling. The internal gas circulation rate was adjusted by controlling the pump
+speed to provide sufficient gas supplement to the microorganism. Gas feedings
+were conducted by either the use of a gas-tight bag (Batch), a pressurized gas
+cylinder (Continuous), or a sequential combination of the two (Mixed feeding).
+Mixed feeding mode achieved higher biomass (9.7 g/L) and acetate (9.8 g/L)
+concentrations than Batch mode (3.2 g/L biomass and 7.0 g/L acetate) or
+Continuous mode (5.0 g/L biomass and 8.1 g/L acetate). The high acetate titer in 
+Mixed feeding mode was achieved due to the high concentration of cells secured in
+a short time at the initial operation stage and maintaining a high specific
+growth rate.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biortech.2019.122549 
+PMID: 31859133  [Indexed for MEDLINE]
+

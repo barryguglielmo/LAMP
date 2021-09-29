@@ -1,0 +1,63 @@
+
+1. BMC Pediatr. 2020 Oct 3;20(1):459. doi: 10.1186/s12887-020-02342-z.
+
+Extended spectrum beta-lactamase and fluoroquinolone resistance genes among
+Escherichia coli and Salmonella isolates from children with diarrhea, Burkina
+Faso.
+
+Dembélé R(1)(2), Konaté A(3), Traoré O(3)(4), Kaboré WAD(3), Soulama I(5),
+Kagambèga A(3)(6), Traoré AS(3), Guessennd NK(7)(8), Aidara-Kane A(9),
+Gassama-Sow A(9), Barro N(3).
+
+Author information: 
+(1)Laboratory of Molecular Biology, Epidemiology and Surveillance of Bacteria and
+Viruses Transmitted by Food, Centre for Research in Biological, Food and
+Nutritional Sciences, Graduate School of Science and Technology, University
+Joseph KI-ZERBO, 03, BP 7021, Ouagadougou 03, Burkina Faso. simavedemb@gmail.com.
+(2)Training and Research Unit in Applied Sciences and Technologies, University of
+Dedougou, BP 176, Dedougou, Burkina Faso. simavedemb@gmail.com.
+(3)Laboratory of Molecular Biology, Epidemiology and Surveillance of Bacteria and
+Viruses Transmitted by Food, Centre for Research in Biological, Food and
+Nutritional Sciences, Graduate School of Science and Technology, University
+Joseph KI-ZERBO, 03, BP 7021, Ouagadougou 03, Burkina Faso.
+(4)Training and Research Unit in Applied Sciences and Technologies, University of
+Dedougou, BP 176, Dedougou, Burkina Faso.
+(5)National Centre for Research and Training on Malaria, 01, BP 2208, Ouagadougou
+01, Burkina Faso.
+(6)Institute of Sciences, 01, BP 1757, Ouagadougou 01, Burkina Faso.
+(7)Laboratory of Bacteriology-Virology, Unit of Antibiotics, Natural Substances
+and Surveillance of Resistance of Microorganisms to Antimicrobials, Pasteur
+Institute of Abidjan, 01, BP 490, Abidjan 01, Ivory Coast.
+(8)Laboratory of Bacteriology-Virology, Unit of Training and Research of Medical 
+Sciences, University Felix Houphouet BOIGNY, 01, BP V34, Abidjan 01, Ivory Coast.
+(9)Unit of Experimental Bacteriology, Pasteur Institute of Dakar, 36 Avenue
+Pasteur, BP 220, Dakar, Senegal.
+
+BACKGROUND: The emergence and spread of multidrug-resistant gram-negative
+bacteria (MDR) has become a major public health concern worldwide. This
+resistance is caused by enzymes-mediated genes (i.e., extended spectrum
+beta-lactamases) that are common in certain Enterobacterioceae species. However, 
+the distribution of these genes is poorly documented in Burkina Faso. This study 
+aims to determine the prevalence and distribution of the resistant genes coding
+for broad spectrum beta-lactamases and quinolones in rural Burkina Faso.
+METHODS: Multiplex PCR assays were carried out to detect ESBL-encoding genes,
+including blaOXA, blaTEM, blaCTX-M, blaSHV. The assays also assessed the presence
+of quinolone resistance gene namely qnrA, qnrB and qnrS in the
+quinolone-resistance DEC and Salmonella strains.
+RESULTS: The Extended-Spectrum Beta-Lactamases (ESBL) resistance phenotype was
+reported in all the E. coli isolates (5/5). Cross-resistance phenotype to
+quinolones (CRQ) was shown by one Salmonella strain (1/9) and three E. coli
+(3/5). Cross-resistance phenotypes to fluoroquinolones (CRFQ) were harboured by
+one Salmonella (1/9) and carbapenemase phenotypes were detected in two E. coli
+strains (2/5). Whilst the blaOXA genes were detected in 100% (5/5) of E. coli
+isolates and in 33.33% (3/9) Salmonella isolates. One strain of E. coli (1/5)
+harbored the blaCTX-M gene and the qnrB gene simultaneously.
+CONCLUSIONS: This study identified β-lactam (bla) and quinolone resistance (qnr) 
+genes in multidrug-resistant E. coli and Salmonella spp. in rural Burkina Faso.
+Our finding which highlighted the enterobacteriaceae strains resistance to
+β-lactams and quinolones are of high interest for adequate management of
+antimicrobial resistant genes outbreak in Burkina Faso.
+
+DOI: 10.1186/s12887-020-02342-z 
+PMID: 33010801 
+

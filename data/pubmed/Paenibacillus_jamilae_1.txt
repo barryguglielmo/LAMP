@@ -1,0 +1,46 @@
+
+1. Int J Syst Evol Microbiol. 2020 May;70(5):3134-3138. doi: 10.1099/ijsem.0.004140.
+
+Genome-based reclassification of Paenibacillus jamilae Aguilera et al. 2001 as a 
+later heterotypic synonym of Paenibacillus polymyxa (Prazmowski 1880) Ash et al. 
+1994.
+
+Kwak MJ(1), Choi SB(1), Ha SM(1), Kim EH(2)(1), Kim BY(1), Chun J(3)(1).
+
+Author information: 
+(1)​ChunLab, Inc., JW Tower, 2477, Nambusunhwan-ro, Seocho-gu, Seoul 06725,
+Republic of Korea.
+(2)Department of Biological Sciences, Inha University, Incheon 22212, Republic of
+Korea.
+(3)​School of Biological Sciences & Inst. of Molecular Biology and Genetics,
+Seoul National University, Seoul 151-742, Republic of Korea.
+
+Paenibacillus is one of the genera that has high species diversity and
+Paenibacillus polymyxa, the type species of the genus, is mainly isolated from
+plant-associated environments. Among the plant-associated species, Paenibacillus 
+jamilae B.3T (=CECT 5266T=DSM 13815T=KACC 10925T=KCTC 13919T) was proposed to be 
+a novel species according to 16S rRNA gene similarity and DNA-DNA relatedness
+with related species, including Paenibacillus polymyxa. Nevertheless, in the
+description of Paenibacillus jamilae the used strain of Paenibacillus polymyxa
+was not the type strain of this species. In this work we found that the type
+strains of both species showed 16S rRNA gene similarity of 99.6 %. Therefore, in 
+this study, we sequenced the genome of Paenibacillus jamilae KACC 10925T and
+compared it with those of the type strain of Paenibacillus polymyxa ATCC 842T and
+other phylogenetically related species. Genome relatedness value calculated by
+DNA-DNA hybridization between type strains of Paenibacillus polymyxa and
+Paenibacillus jamilae was 73.5 %, which is higher than the threshold value
+(70 %). For more objective and repeatable results of genome relatedness, we
+analysed an average nucleotide identity (ANI) between two strains. Our results
+showed that ANI value between the type strains of Paenibacillus jamilae and
+Paenibacillus polymyxa is 98.5 %, a phylogenetic distance also higher than the
+threshold values (95~96 %). These values were proposed by Yoon et al. (2017). In 
+addition, their phylogenetic distance based on 92 bacterial core genes is highly 
+close compared to other species. These mean that Paenibacillus jamilae and
+Paenibacillus polymyxa should be reclassified as a single species. Based on the
+results from genomic level comparison as well as reexamination results of
+physiological and chemotaxonomic features, we propose reclassification of
+Paenibacillus jamilae as a later heterotypic synonym of Paenibacillus polymyxa.
+
+DOI: 10.1099/ijsem.0.004140 
+PMID: 32375953  [Indexed for MEDLINE]
+

@@ -1,0 +1,48 @@
+
+1. Appl Microbiol Biotechnol. 2020 Sep 28. doi: 10.1007/s00253-020-10913-4. [Epub
+ahead of print]
+
+Metabolic reconstruction of Pseudomonas chlororaphis ATCC 9446 to understand its 
+metabolic potential as a phenazine-1-carboxamide-producing strain.
+
+Moreno-Avitia F(1), Utrilla J(2), Bolívar F(1), Nogales J(3), Escalante A(4).
+
+Author information: 
+(1)Departamento de Ingeniería Celular y Biocatálisis, Instituto de Biotecnología,
+Universidad Nacional Autónoma de México, Cuernavaca, Morelos, México.
+(2)Programa de Biología de Sistemas y Biología Sintética, Centro de Ciencias
+Genómicas, Universidad Nacional Autónoma de México, Cuernavaca, Morelos, México.
+(3)Departamento de Biotecnología de Sistemas, Centro Nacional de Biotecnología,
+CSIC, Madrid, España.
+(4)Departamento de Ingeniería Celular y Biocatálisis, Instituto de Biotecnología,
+Universidad Nacional Autónoma de México, Cuernavaca, Morelos, México.
+adelfo@ibt.unam.mx.
+
+Pseudomonas chlororaphis is a plant-associated bacterium with reported
+antagonistic activity against different organisms and plant growth-promoting
+properties. P. chlororaphis possesses exciting biotechnological features shared
+with another Pseudomonas with a nonpathogenic phenotype. Part of the antagonistic
+role of P. chlororaphis is due to its production of a wide variety of phenazines.
+To expand the knowledge of the metabolic traits of this organism, we constructed 
+the first experimentally validated genome-scale model of P. chlororaphis ATCC
+9446, containing 1267 genes and 2289 reactions, and analyzed strategies to
+maximize its potential for the production of phenazine-1-carboxamide (PCN). The
+resulting model also describes the capability of P. chlororaphis to carry out the
+denitrification process and its ability to consume sucrose (Scr), trehalose,
+mannose, and galactose as carbon sources. Additionally, metabolic network
+analysis suggested fatty acids as the best carbon source for PCN production.
+Moreover, the optimization of PCN production was performed with glucose and
+glycerol. The optimal PCN production phenotype requires an increased carbon flux 
+in TCA and glutamine synthesis. Our simulations highlight the intrinsic H2O2 flux
+associated with PCN production, which may generate cellular stress in an
+overproducing strain. These results suggest that an improved antioxidative
+strategy could lead to optimal performance of phenazine-producing strains of P.
+chlororaphis. KEY POINTS : • This is the first publication of a metabolic model
+for a strain of P. chlororaphis. • Genome-scale model is worthy tool to increase 
+the knowledge of a non model organism. • Fluxes simulations indicate a possible
+effect of H2O2 on phenazines production. • P. chlororaphis can be a suitable
+model for a wide variety of compounds.
+
+DOI: 10.1007/s00253-020-10913-4 
+PMID: 32984920 
+

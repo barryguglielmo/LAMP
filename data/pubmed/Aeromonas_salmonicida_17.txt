@@ -1,0 +1,46 @@
+
+1. Fish Physiol Biochem. 2020 Oct;46(5):1775-1794. doi: 10.1007/s10695-020-00827-3. 
+Epub 2020 Jun 9.
+
+17β-Estradiol affects the innate immune response in common carp.
+
+Maciuszek M(1), Pijanowski L(1), Pekala-Safinska A(2), Kemenade BMLV(3),
+Chadzinska M(4).
+
+Author information: 
+(1)Department of Evolutionary Immunology, Institute of Zoology and Biomedical
+Research, Faculty of Biology, Jagiellonian University, Gronostajowa 9, PL30-387, 
+Krakow, Poland.
+(2)Department of Fish Diseases, National Veterinary Research Institute,
+Partyzantow Avenue 57, PL24-100, Pulawy, Poland.
+(3)Cell Biology and Immunology Group, Wageningen University, P.O. Box 338,
+6700AH, Wageningen, The Netherlands.
+(4)Department of Evolutionary Immunology, Institute of Zoology and Biomedical
+Research, Faculty of Biology, Jagiellonian University, Gronostajowa 9, PL30-387, 
+Krakow, Poland. magdalena.chadzinska@uj.edu.pl.
+
+Inflammation is the evolutionary conserved immune response to harmful stimuli
+such as pathogens or damaged cells. This multistep process acts by removing
+injurious stimuli and initiating the healing process. Therefore, it must be
+tightly regulated by cytokines, chemokines, and enzymes, as well as
+neuroendocrine mediators. In the present work, we studied the immunoregulatory
+properties of 17β-estradiol (E2) in common carp. We determined the in vitro
+effects of E2 on the activity/polarization of macrophages and the in vivo effects
+during Aeromonas salmonicida-induced inflammation. In vitro, E2 reduced the
+lipopolysaccharide (LPS)-stimulated expression of pro- and anti-inflammatory
+mediator genes but did not change the gene expression of the estrogen receptors
+and of aromatase CYP19. In contrast, in vivo in the head kidney of A.
+salmonicida-infected fish, E2-treated feeding induced an upregulation of gene
+expression of pro-inflammatory (il-12p35 and cxcb2) and anti-inflammatory
+(arginase 1, arginase 2, il-10, and mmp9) mediators. Moreover, in infected fish
+fed with E2-treated food, a higher gene expression of the estrogen receptors and 
+of the aromatase CYP19 was found. Our results demonstrate that estrogens can
+modulate the carp innate immune response, though the in vitro and in vivo effects
+of this hormone are contrasting. This implies that estradiol not only induces a
+direct effect on macrophages but rather exerts immunomodulatory actions through
+indirect mechanisms involving other cellular targets.
+
+DOI: 10.1007/s10695-020-00827-3 
+PMCID: PMC7427712
+PMID: 32519008 
+

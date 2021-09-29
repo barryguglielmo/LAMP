@@ -1,0 +1,53 @@
+
+1. PLoS One. 2020 Oct 1;15(10):e0240040. doi: 10.1371/journal.pone.0240040.
+eCollection 2020.
+
+Prediction of true Helicobacter pylori-uninfected status using a combination of
+age, serum antibody and pepsinogen: Logistic regression analysis.
+
+Takayama T(1), Suzuki H(1)(2), Okada K(1), Yamada T(2), Maruo K(3), Saito Y(4),
+Mizokami Y(2).
+
+Author information: 
+(1)Tsukuba Preventive Medical Research Center, University of Tsukuba Hospital,
+Tsukuba, Japan.
+(2)The Department of Gastroenterology, Faculty of Medicine, University of
+Tsukuba, Tsukuba, Japan.
+(3)Department of Biostatistics, Faculty of Medicine, University of Tsukuba,
+Tsukuba, Japan.
+(4)Ibarakiken Medical Center, Mito, Japan.
+
+INTRODUCTION: To prevent gastric cancer, it is important to accurately determine 
+the presence of Helicobacter pylori (HP) infection. However, correctly
+identifying HP-uninfected individuals is difficult when using the combination of 
+HP antibody and pepsinogen (PG).
+OBJECTIVE: The aim of this study was to discriminate true HP-uninfected
+individuals from others without the need for endoscopic examination.
+METHODS: A total of 684 subjects with no history of HP eradication who underwent 
+a medical checkup at our hospital were enrolled. The "true uninfected
+individuals" were determined by a negative stool antigen test and no endoscopic
+findings of HP-associated gastritis. HP antibody was measured by the latex
+immunoassay method. Logistic regression analysis using a combination of
+noninvasive parameters was performed to develop a formula for predicting true
+uninfected individuals.
+RESULTS: A total of 528 subjects were classified as true uninfected individuals. 
+Logistic regression analysis showed that statistically significant factors for
+true uninfected individuals were age (p < 0.001), HP antibody (p <0.001), PGI (p 
+<0.001), and PGII (p = 0.012). The areas under the curve (AUCs) for true
+uninfected individuals were the highest (0.944) upon applying the prediction
+formula including four parameters: age, HP antibody, PGI, and PGII. Both the
+sensitivity and the specificity of the four-parameter prediction formula were
+higher than those of the traditional three-parameter model using HP antibody,
+PGI, and PGI/II ratio (sensitivity: 93.2% vs. 86.6% and specificity: 88.5% vs.
+82.7%).
+CONCLUSIONS: Our findings suggest that a model with a combination of four
+noninvasive parameters is useful for predicting true HP-uninfected individuals
+without the need for endoscopic examination.
+
+DOI: 10.1371/journal.pone.0240040 
+PMCID: PMC7529238
+PMID: 33002056 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

@@ -1,0 +1,51 @@
+
+1. PLoS One. 2020 Sep 18;15(9):e0238931. doi: 10.1371/journal.pone.0238931.
+eCollection 2020.
+
+Mosquito midgut Enterobacter cloacae and Serratia marcescens affect the fitness
+of adult female Anopheles gambiae s.l.
+
+Ezemuoka LC(1), Akorli EA(2), Aboagye-Antwi F(3), Akorli J(2)(4).
+
+Author information: 
+(1)African Regional Postgraduate Programme in Insect Science (ARPPIS), University
+of Ghana, Legon, Accra, Ghana.
+(2)Department of Parasitology, Noguchi Memorial Institute for Medical Research,
+University of Ghana, Legon, Accra, Ghana.
+(3)Department of Animal Biology and Conservation Science, University of Ghana,
+Legon, Accra, Ghana.
+(4)West African Centre for Cell Biology of Infectious Diseases, University of
+Ghana, Legon, Accra, Ghana.
+
+Some bacteria species found in the mosquito midgut have demonstrated their role
+in interrupting the development of Plasmodium within the midgut of the Anopheles 
+mosquito and have been identified as potential candidates for novel
+bacteria-mediated disease control. However, to use these bacteria successfully in
+biocontrol mechanisms their effect on the fitness of the vector into which they
+have been introduced has to be evaluated. This study investigated the effect of
+two such bacteria candidates, Enterobacter cloacae and Serratia marcescens, on
+Anopheles gambiae s.l. fitness. Pupae and larvae of Anopheles gambiae s.l.
+mosquitoes were collected by dipping method and reared to adults. The effect of
+these bacteria on mosquito fitness was assessed by reintroducing isolates of each
+bacteria separately into antibiotic-treated female adult mosquitoes through sugar
+meal. Wild type (non-antibiotic-treated) mosquitoes and those antibiotic-treated 
+with no bacteria reintroduction were used as controls. The mosquitoes were
+monitored on longevity/survival, fecundity, hatch rate, and larval survival. The 
+antibiotic-treated adult mosquitoes had reduced life span with median survival of
+14 days while the bacteria-reintroduced groups and the wild type survived to day 
+22 (p< 0.0001). Treatment with Enterobacter and Serratia did not affect the
+average egg deposition (p>0.05) but they affected hatch rates positively (p =
+0.008). There was, however, some evidence that suggests Enterobacter could have a
+positive effect on larval development (p < 0.0001). With no observed negative
+effect on survival/longevity of Anopheles gambiae, introducing E. cloacae and S. 
+marcescens in future bacteria-associated control strategies is unlikely to result
+in mosquitoes that will be outlived by the wild population. This, however,
+requires evaluations under field conditions.
+
+DOI: 10.1371/journal.pone.0238931 
+PMCID: PMC7500640
+PMID: 32946471 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

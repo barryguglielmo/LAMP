@@ -1,0 +1,42 @@
+
+1. Microorganisms. 2020 Sep 16;8(9). pii: E1423. doi: 10.3390/microorganisms8091423.
+
+Fatty Acids from Hermetia illucens Larvae Fat Inhibit the Proliferation and
+Growth of Actual Phytopathogens.
+
+Marusich E(1), Mohamed H(1), Afanasev Y(1), Leonov S(1)(2).
+
+Author information: 
+(1)School of Biological and Medical Physics, Moscow Institute of Physics and
+Technology, 141700 Dolgoprudny, Moscow Region, Russia.
+(2)Institute of Cell Biophysics of the Russian Academy of Sciences, 142290
+Pushchino, Moscow Region, Russia.
+
+The rapid increase of plant diseases caused by bacterial phytopathogens calls for
+an urgent search for new antibacterials. Antimicrobial compounds of natural
+origin stand up as frontiers in the attempts of the antibiotic overuse
+replacement. With this in mind, the Hermetia illucens (H. illucens) larvae have
+recently gained attention as a promising approach to fulfill this need. This
+study aimed to isolate the active constituents of H. illucens larvae fat and to
+estimate its antimicrobial capacity. We discovered the best composition of
+extracting solution retaining the pronounced antimicrobial activity of the
+extract. Using gas chromatography-mass spectrometry (GC-MS), we identified the
+unique natural array of fatty acids as the major constituents of the acidified
+water-methanol extract (AWME) as having new antimicrobial potency. In standard
+turbidimetric assay, the minimum inhibitory concentration (MIC) of the AWME was
+0.78 mg/mL after 24 h of incubation for all five tested phytopathogenic bacteria 
+strains: Pantoea agglomerans, Xanthomonas campestris, Pectobacterium carotovorum 
+subsp. carotovorum, Pectobacterium atrosepticum, and Dickeya solani. The minimum 
+bactericidal concentration (MBC) ranged from 0.78 to 1.56 mg/mL against all
+tested strains after 24 h of incubation. The inhibition zone size of AWME (INZ)
+at 50 mg/mL concentration was in the range 12.2 ± 0.56 to 19.0 ± 0.28 mm, while
+zone size for the positive control (penicillin-streptomycin) (5000 IU/mL-5000
+µg/mL) was in the scale of 20.63 ± 0.53 to 24.0 ± 0.35 mm as revealed by standard
+disk diffusion assay. For the first time, our findings indicated the substantial 
+antibacterial potential of AWME of H. illucens larvae fat against these actual
+phytopathogens, thus paving the way for further research to determine the
+mechanism of action in crop protection.
+
+DOI: 10.3390/microorganisms8091423 
+PMID: 32948050 
+

@@ -1,0 +1,60 @@
+
+1. Arch Biochem Biophys. 2020 Mar 30;682:108278. doi: 10.1016/j.abb.2020.108278.
+Epub 2020 Jan 23.
+
+Identification of hyperglycemia-associated microbiota alterations in saliva and
+gingival sulcus.
+
+Wei YS(1), Hsiao YC(2), Su GW(3), Chang YR(4), Lin HP(5), Wang YS(1), Tsai YT(1),
+Liao EC(1), Chen HY(1), Chou HC(6), Ko ML(7), Kuo WH(8), Chang SJ(9), Cheng
+WC(10), Chan HL(11).
+
+Author information: 
+(1)Institute of Bioinformatics and Structural Biology and Department of Medical
+Science, National Tsing Hua University, Hsinchu, Taiwan.
+(2)Department of Endocrinology and Metabolism, Hsinchu Mackay Memorial Hospital, 
+Taiwan.
+(3)Dental Department of Hsinchu Mackay Memorial Hospital, Taiwan.
+(4)Institute of Bioinformatics and Structural Biology and Department of Medical
+Science, National Tsing Hua University, Hsinchu, Taiwan; General Biologicals
+Corporation, Hsinchu, Taiwan.
+(5)General Biologicals Corporation, Hsinchu, Taiwan.
+(6)Department of Biomedical Engineering and Environmental Sciences, National
+Tsing Hua University, Taiwan.
+(7)Department of Biomedical Engineering and Environmental Sciences, National
+Tsing Hua University, Taiwan; Department of Ophthalmology, National Taiwan
+University Hospital Hsin-Chu Branch, Hsinchu, Taiwan.
+(8)Department of Surgery, National Taiwan University Hospital, Taipei, Taiwan.
+(9)Department of Obstetrics and Gynecology, Hsinchu MacKay Memorial Hospital,
+Hsinchu, Taiwan.
+(10)General Biologicals Corporation, Hsinchu, Taiwan. Electronic address:
+wccheng888@gmail.com.
+(11)Institute of Bioinformatics and Structural Biology and Department of Medical 
+Science, National Tsing Hua University, Hsinchu, Taiwan. Electronic address:
+hlchan@life.nthu.edu.tw.
+
+Oral microbes are a contributing factor to hyperglycemia by inducing an increase 
+in insulin resistance resulting in uncontrolled blood glucose levels. However,
+the relationship between the distribution of oral flora and hyperglycemia is
+still controversial. Combining the power of MALDI-Biotyper with anaerobic
+bacterial culture, this study explores the correlation between anaerobic bacteria
+in the oral cavity and blood glucose levels. The results demonstrated that
+altered blood glucose levels contributed to a varied bacterial distribution in
+the oral cavity. Specifically, Veillonella spp. and Prevotella spp. were
+identified in a higher proportion in people with elevated blood glucose levels.
+Six bacterial species identified in this study (Prevotella melaninogenica,
+Campylobacter rectus, Streptococcus gordonii, Streptococcus mitis, Streptococcus 
+salivarius, and Veillonella parvula) not only demonstrated a positive association
+with higher blood glucose levels, but also likely contribute to the development
+of the condition. The data demonstrated MALDI-TOF MS to be a simpler, faster, and
+more economical clinical identification tool that provides clarity and depth to
+the research on blood glucose and oral microbiota.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.abb.2020.108278 
+PMID: 31981541  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no competing interests.
+

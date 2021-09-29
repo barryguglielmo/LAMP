@@ -1,0 +1,50 @@
+
+1. Front Endocrinol (Lausanne). 2020 Jan 22;10:941. doi: 10.3389/fendo.2019.00941.
+eCollection 2019.
+
+The Association of Gut Microbiota With Idiopathic Central Precocious Puberty in
+Girls.
+
+Dong G(1), Zhang J(1), Yang Z(2), Feng X(3), Li J(1), Li D(3), Huang M(1), Li
+Y(3), Qiu M(1), Lu X(1), Liu P(1), Zeng Y(1), Xu X(2), Luo X(4), Dai W(3)(5),
+Gong S(6).
+
+Author information: 
+(1)Department of Pediatrics, Shenzhen Maternity and Child Healthcare Hospital,
+Shenzhen, China.
+(2)School of Statistics and Data Science, NanKai University, Tianjin, China.
+(3)Microbial Department, WeHealthGene Institute, Shenzhen, China.
+(4)Department of Pediatrics, Tongji Hospital, Tongji Medical College, Huazhong
+University of Science and Technology, Wuhan, China.
+(5)Joint Laboratory of Microecology and Children's Health, Shenzhen Children's
+Hospital and Shenzhen WeHealthGene Co. Ltd, Shenzhen, China.
+(6)Department of Pediatrics, Guangzhou Women and Children's Medical Center,
+Guangzhou, China.
+
+Idiopathic central precocious puberty (ICPP) is a relatively common condition in 
+preadolescent girls, and its pathogenesis remains to be uncovered. A variety of
+studies have highlighted the association of gut microbiota (GM) with endocrine
+diseases, such as obesity, which is commonly associated with ICPP. However, the
+relationship between GM and ICPP remains unexplored. Feces samples were collected
+from 25 girls with ICPP (ICPP group) and 23 healthy girls (Control group). We
+applied 16S rDNA sequencing to compare the GM between two groups. The ICPP group 
+had higher GM diversity and was enriched for several GM species, including
+Ruminococcus gnavus, Ruminococcus callidus, Ruminococcus bromii, Roseburia
+inulinivorans, Coprococcus eutactus, Clostridium leptum, and Clostridium
+lactatifermentans, which are known to be associated with obesity and are related 
+to the production of short-chain fatty acids. Additionally, 36 candidate GM
+biomarkers for patients with ICPP screening were identified with high accuracy
+(AUC = 0.95, 95% CI 0.88 to 1). We observed that the GM of the ICPP group was
+enriched for the microbial functions of cell motility, signal transduction, and
+environmental adaptation. Positive correlations were also detected between
+Fusobacterium and follicle-stimulating hormone, and Gemmiger and luteinizing
+hormone. This study documents relationships between GM and ICPP, and the
+implication of these findings remains to be determined.
+
+Copyright © 2020 Dong, Zhang, Yang, Feng, Li, Li, Huang, Li, Qiu, Lu, Liu, Zeng, 
+Xu, Luo, Dai and Gong.
+
+DOI: 10.3389/fendo.2019.00941 
+PMCID: PMC6987398
+PMID: 32038493 
+

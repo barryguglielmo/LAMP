@@ -1,0 +1,39 @@
+
+1. Curr Microbiol. 2020 Sep 9. doi: 10.1007/s00284-020-02182-1. [Epub ahead of
+print]
+
+The Draft Genome Sequence of Clostridium butyricum QXYZ514, a Potent Bacterium
+for Converting Glycerol into Fuels and Bioproducts in the Waste-Based
+Biorefinery.
+
+Yang M(1), Zabed HM(1), Yun J(1), Zhang G(1), Qi X(2).
+
+Author information: 
+(1)School of Food and Biological Engineering, Jiangsu University, 301 Xuefu Road,
+Zhenjiang, 212013, Jiangsu, China.
+(2)School of Food and Biological Engineering, Jiangsu University, 301 Xuefu Road,
+Zhenjiang, 212013, Jiangsu, China. qxh@ujs.edu.cn.
+
+An anaerobic bacterium Clostridium buturicum QXYZ514 was isolated from a pond
+soil sample located neighboring to a biodiesel factory. This bacterium possesses 
+excellent metabolic features for converting biodiesel-derived glycerol into
+various bioproducts, including 1,3-propanediol, butyrate, lactate, and acetate,
+and fuels, like ethanol and butanol. To further improve the yield of the target
+products and minimize the production of the by-products, the whole genome
+sequence of this multipurpose strain might provide necessary genetic information,
+and hence, the complete genome of QXYZ514 strain was sequenced using the PacBio
+RS II sequencing method. According to the complete genome sequence, the genome of
+QXYZ514 consisted of two circular chromosomes with a total of 4,636,461 bp, where
+GC content was found to be 28.76%. Major predicted features of the genome
+included a total of 4220 coding sequences (CDS), 87 tRNAs genes, and 36 rRNAs
+genes, which were annotated with the help of different databases for a better
+understanding of this strain. Six possible CRISPR components were also predicted 
+in the genome. The exploration of the complete genome sequence of the QXYZ514
+strain would have the potential to enrich the diversity of this species, and to
+recognize some significant hydrolytic enzymes, which could provide the references
+for overcoming the bottlenecks in the biorefinery usage of this bacterium in the 
+valorization of biodiesel-derived glycerol.
+
+DOI: 10.1007/s00284-020-02182-1 
+PMID: 32902703 
+

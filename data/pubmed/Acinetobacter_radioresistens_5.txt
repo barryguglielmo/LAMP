@@ -1,0 +1,44 @@
+
+1. Appl Microbiol Biotechnol. 2020 Jan;104(1):427-437. doi:
+10.1007/s00253-019-10271-w. Epub 2019 Dec 10.
+
+Phenol biodegradation by Acinetobacter radioresistens APH1 and its application in
+soil bioremediation.
+
+Liu Y(1), Wang W(1), Shah SB(1), Zanaroli G(2), Xu P(1), Tang H(3).
+
+Author information: 
+(1)State Key Laboratory of Microbial Metabolism, and School of Life Sciences &
+Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, People's Republic
+of China.
+(2)Department of Civil, Chemical, Environmental, and Materials Engineering
+(DICAM), University of Bologna, 40131, Bologna, Italy.
+(3)State Key Laboratory of Microbial Metabolism, and School of Life Sciences &
+Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, People's Republic
+of China. tanghongzhi@sjtu.edu.cn.
+
+Phenol accounts for a large proportion of the contamination in industrial
+wastewater discharged from chemical plants due to its wide use as a raw chemical.
+Residual phenol waste in water and soil significantly endangers human health and 
+the natural environment. In this study, an Acinetobacter radioresistens strain,
+APH1, was isolated and identified for its efficient capability of utilizing
+phenol as sole carbon source for growth. A draft genome sequence containing
+3,290,330 bases with 45 contigs was obtained, and 22 genes were found to be
+involved in phenol metabolism and 51 putative drug-resistance genes were
+annotated by genomic analysis. The optimal conditions for cell culture and phenol
+removal were determined to be 30 °C, pH 6.0, and a phenol concentration of
+500 mg/L; the upper limit of phenol tolerance was 950 mg/L. Based on GC-MS
+analysis, the key metabolites including cis,cis-muconic acid, catechol, and
+succinic acid were detected. During bioremediation experiment using 450 mg/kg
+(dry weight) of phenol-contaminated soil, the strain APH1 removed 99% of the
+phenol within 3 days. According to microbial diversity analysis, the microbial
+abundance of Chungangia, Bacillus, Nitrospira, Lysinibacillus, and Planomicrobium
+increased after the addition of phenol. Furthermore, at day 23, the abundance of 
+strain APH1 was greatly reduced, and the microbial diversity and structure of the
+whole microbial community were gradually recovered, indicating that strain APH1
+would not affect this microbial ecosystem. These findings provide insights into
+the bioremediation of soil contaminated with phenol.
+
+DOI: 10.1007/s00253-019-10271-w 
+PMID: 31822982  [Indexed for MEDLINE]
+

@@ -1,0 +1,43 @@
+
+1. World J Microbiol Biotechnol. 2020 Aug 14;36(9):138. doi:
+10.1007/s11274-020-02914-2.
+
+Recent advances in n-butanol and butyrate production using engineered Clostridium
+tyrobutyricum.
+
+Bao T(1), Feng J(2), Jiang W(1), Fu H(2), Wang J(2), Yang ST(3).
+
+Author information: 
+(1)Department of Chemical and Biomolecular Engineering, The Ohio State
+University, Columbus, OH, 43210, USA.
+(2)School of Biology and Biological Engineering, South China University of
+Technology, Guangzhou, 510006, China.
+(3)Department of Chemical and Biomolecular Engineering, The Ohio State
+University, Columbus, OH, 43210, USA. yang.15@osu.edu.
+
+Acidogenic clostridia naturally producing acetic and butyric acids has attracted 
+high interest as a novel host for butyrate and n-butanol production. Among them, 
+Clostridium tyrobutyricum is a hyper butyrate-producing bacterium, which
+re-assimilates acetate for butyrate biosynthesis by butyryl-CoA/acetate CoA
+transferase (CoAT), rather than the phosphotransbutyrylase-butyrate kinase
+(PTB-BK) pathway widely found in clostridia and other microbial species. To date,
+C. tyrobutyricum has been engineered to overexpress a heterologous
+alcohol/aldehyde dehydrogenase, which converts butyryl-CoA to n-butanol. Compared
+to conventional solventogenic clostridia, which produce acetone, ethanol, and
+butanol in a biphasic fermentation process, the engineered C. tyrobutyricum with 
+a high metabolic flux toward butyryl-CoA produced n-butanol at a high yield
+of > 0.30 g/g and titer of > 20 g/L in glucose fermentation. With no acetone
+production and a high C4/C2 ratio, butanol was the only major fermentation
+product by the recombinant C. tyrobutyricum, allowing simplified downstream
+processing for product purification. In this review, novel metabolic engineering 
+strategies to improve n-butanol and butyrate production by C. tyrobutyricum from 
+various substrates, including glucose, xylose, galactose, sucrose, and cellulosic
+hydrolysates containing the mixture of glucose and xylose, are discussed.
+Compared to other recombinant hosts such as Clostridium acetobutylicum and
+Escherichia coli, the engineered C. tyrobutyricum strains with higher butyrate
+and butanol titers, yields and productivities are the most promising hosts for
+potential industrial applications.
+
+DOI: 10.1007/s11274-020-02914-2 
+PMID: 32794091 
+

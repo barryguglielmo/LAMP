@@ -1,0 +1,41 @@
+
+1. Molecules. 2020 Feb 9;25(3). pii: E744. doi: 10.3390/molecules25030744.
+
+Identification and Characterization of Nnematicidal Volatile Organic Compounds
+from Deep-Sea Virgibacillus dokdonensis MCCC 1A00493.
+
+Huang D(1), Yu C(1), Shao Z(2), Cai M(1), Li G(2), Zheng L(1), Yu Z(1), Zhang
+J(1).
+
+Author information: 
+(1)State Key Laboratory of Agricultural Microbiology, National Engineering
+Research Center of Microbe Pesticides, College of Life Science and Technology,
+Huazhong Agricultural University, Wuhan 430070, China.
+(2)Key Laboratory of Marine Biogenetic Resources, Third Institute of
+Oceanography, Ministry of Natural Resources, Xiamen 361005, China.
+
+Root-knot nematode diseases cause severe yield and economic losses each year in
+global agricultural production. Virgibacillus dokdonensis MCCC 1A00493, a
+deep-sea bacterium, shows a significant nematicidal activity against Meloidogyne 
+incognita in vitro. However, information about the active substances of V.
+dokdonensis MCCC 1A00493 is limited. In this study, volatile organic compounds
+(VOCs) from V. dokdonensis MCCC 1A00493 were isolated and analyzed through
+solid-phase microextraction and gas chromatography-mass spectrometry. Four VOCs, 
+namely, acetaldehyde, dimethyl disulfide, ethylbenzene, and 2-butanone, were
+identified, and their nematicidal activities were evaluated. The four VOCs had a 
+variety of active modes on M. incognita juveniles. Acetaldehyde had direct
+contact killing, fumigation, and attraction activities; dimethyl disulfide had
+direct contact killing and attraction activities; ethylbenzene had an attraction 
+activity; and 2-butanone had a repellent activity. Only acetaldehyde had a
+fumigant activity to inhibit egg hatching. Combining this fumigant activity
+against eggs and juveniles could be an effective strategy to control the
+different developmental stages of M. incognita. The combination of direct contact
+and attraction activities could also establish trapping and killing strategies
+against root-knot nematodes. Considering all nematicidal modes or strategies, we 
+could use V. dokdonensis MCCC 1A00493 to set up an integrated strategy to control
+root-knot nematodes.
+
+DOI: 10.3390/molecules25030744 
+PMCID: PMC7037310
+PMID: 32050419 
+

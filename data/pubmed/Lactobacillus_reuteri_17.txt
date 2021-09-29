@@ -1,0 +1,50 @@
+
+1. Front Immunol. 2020 Jul 31;11:1331. doi: 10.3389/fimmu.2020.01331. eCollection
+2020.
+
+Alterations in the Gut Microbiome and Cecal Metabolome During Klebsiella
+pneumoniae-Induced Pneumosepsis.
+
+Wu T(1), Xu F(1), Su C(2), Li H(3), Lv N(4), Liu Y(5)(6), Gao Y(1), Lan Y(5)(6), 
+Li J(1)(2)(5)(6).
+
+Author information: 
+(1)Department of Infectious Diseases, The First Affiliated Hospital of Anhui
+Medical University, Hefei, China.
+(2)Department of Infectious Diseases, The Chaohu Affiliated Hospital of Anhui
+Medical University, Hefei, China.
+(3)Department of Neurology, Xiangya Hospital Central South University, Changsha, 
+China.
+(4)Department of Stomatology, The First Affiliated Hospital of Anhui Medical
+University, Hefei, China.
+(5)Anhui Center for Surveillance of Bacterial Resistance, Hefei, China.
+(6)Institute of Bacterial Resistance, Anhui Medical University, Hefei, China.
+
+Klebsiella (K.) pneumoniae is a common cause of pneumonia-derived sepsis in human
+and is associated with high morbidity and mortality. The microbiota promotes and 
+maintains host immune homeostasis during bacterial infections. However, the
+mechanisms by which the gut microbiota affects immune responses in the lung still
+remain poorly understood. Here, we performed cecal metabolomics sequencing and
+fecal 16s rRNA sequencing in K. pneumoniae-infected mice and uninfected controls 
+and showed that K. pneumoniae infection led to profound alterations in the gut
+microbiome and thus the cecal metabolome. We observed that the levels of
+Lactobacillus reuteri and Bifidobacterium pseudolongum were significantly
+decreased in K. pneumoniae-infected mice. Spearman correlation analysis showed
+that alterations in the richness and composition of the gut microbiota were
+associated with profound changes in host metabolite concentrations. Further,
+short-chain fatty acids (SCFAs), including acetate, propionate, and butyrate,
+were detected in cecal contents and serum by gas chromatography-mass spectrometry
+(GC-MS). We observed that the concentrations of these three SCFAs were all lower 
+in the infected groups than in the untreated controls. Lastly, oral
+supplementation with these three SCFAs reduced susceptibility to K. pneumoniae
+infections, as indicated by lower bacterial burdens in the lung and higher
+survival rates. Our data highlight the protective roles of gut microbiota and
+certain metabolites in K. pneumoniae-pneumonia and suggests that it is possible
+to intervene in this bacterial pneumonia by targeting the gut microbiota.
+
+Copyright © 2020 Wu, Xu, Su, Li, Lv, Liu, Gao, Lan and Li.
+
+DOI: 10.3389/fimmu.2020.01331 
+PMCID: PMC7411141
+PMID: 32849494 
+

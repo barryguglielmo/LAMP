@@ -1,0 +1,50 @@
+
+1. Antimicrob Agents Chemother. 2020 Jul 22;64(8). pii: e00236-20. doi:
+10.1128/AAC.00236-20. Print 2020 Jul 22.
+
+AR-12 Exhibits Direct and Host-Targeted Antibacterial Activity toward
+Mycobacterium abscessus.
+
+Zhang S(#)(1), Zou Y(#)(1)(2), Guo Q(1)(2), Chen J(1)(2), Xu L(1), Wan X(1),
+Zhang Z(1), Li B(3), Chu H(3)(4).
+
+Author information: 
+(1)Department of Respiratory Medicine, Shanghai Pulmonary Hospital, Tongji
+University School of Medicine, Shanghai, China.
+(2)Tongji University School of Medicine, Shanghai, China.
+(3)Department of Respiratory Medicine, Shanghai Pulmonary Hospital, Tongji
+University School of Medicine, Shanghai, China libing044162@163.com
+chu_haiqing@126.com.
+(4)Shanghai Key Laboratory of Tuberculosis, Shanghai Pulmonary Hospital, Tongji
+University School of Medicine, Shanghai, China.
+(#)Contributed equally
+
+Therapeutic options for Mycobacterium abscessus infections are extremely limited.
+New or repurposed drugs are needed. The anti-M. abscessus activity of AR-12
+(OSU-03012), reported to express broad-spectrum antimicrobial effects, was
+investigated in vitro and in vivo Antimicrobial susceptibility testing was
+performed on 194 clinical isolates. Minimum bactericidal concentration and
+time-kill kinetics assays were conducted to distinguish the bactericidal versus
+bacteriostatic activity of AR-12. Synergy between AR-12 and five clinically
+important antibiotics was determined using a checkerboard synergy assay. The
+activity of AR-12 against intracellular M. abscessus residing within macrophage
+was also evaluated. Finally, the potency of AR-12 in vivo was determined in a
+neutropenic mouse model that mimics pulmonary M. abscessus infection. AR-12
+exhibited high anti-M. abscessus activity in vitro, with an MIC50 of 4 mg/liter
+(8.7 μM) and an MIC90 of 8 mg/liter (17.4 μM) for both subsp. abscessus and
+subsp. massiliense AR-12 and amikacin exhibited comparable bactericidal activity 
+against extracellular M. abscessus in culture. AR-12, however, exhibited
+significantly greater intracellular antibacterial activity than amikacin and
+caused a significant reduction in the bacterial load in the lungs of neutropenic 
+mice infected with M. abscessus No antagonism between AR-12 and clarithromycin,
+amikacin, imipenem, cefoxitin, or tigecycline was evident. In conclusion, AR-12
+is active against M. abscessus in vitro and in vivo and does not antagonize the
+most frequently used anti-M. abscessus drugs. As such, AR-12 is a potential
+candidate to include in novel strategies to treat M. abscessus infections.
+
+Copyright © 2020 Zhang et al.
+
+DOI: 10.1128/AAC.00236-20 
+PMCID: PMC7526805
+PMID: 32482678 
+

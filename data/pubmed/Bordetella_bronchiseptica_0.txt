@@ -1,0 +1,36 @@
+
+1. Toxins (Basel). 2020 Sep 15;12(9). pii: E596. doi: 10.3390/toxins12090596.
+
+Production of Highly Active Recombinant Dermonecrotic Toxin of Bordetella
+Pertussis.
+
+Stanek O(1), Linhartova I(1), Holubova J(1), Bumba L(1), Gardian Z(2), Malandra
+A(1), Bockova B(1), Teruya S(3), Horiguchi Y(3), Osicka R(1), Sebo P(1).
+
+Author information: 
+(1)Institute of Microbiology of the Czech Academy of Sciences, Videnska 1083, 142
+20 Prague, Czech Republic.
+(2)Institute of Parasitology, Biology Centre, The Czech Academy of Sciences,
+Branišovská 31, 370 05 České Budějovice, Czech Republic.
+(3)Department of Molecular Bacteriology, Research Institute for Microbial
+Diseases, Osaka University, Suita, Osaka 565-0871, Japan.
+
+Pathogenic Bordetella bacteria release a neurotropic dermonecrotic toxin (DNT)
+that is endocytosed into animal cells and permanently activates the Rho family
+GTPases by polyamination or deamidation of the glutamine residues in their switch
+II regions (e.g., Gln63 of RhoA). DNT was found to enable high level colonization
+of the nasal cavity of pigs by B. bronchiseptica and the capacity of DNT to
+inhibit differentiation of nasal turbinate bone osteoblasts causes atrophic
+rhinitis in infected pigs. However, it remains unknown whether DNT plays any role
+also in virulence of the human pathogen B. pertussis and in pathogenesis of the
+whooping cough disease. We report a procedure for purification of large amounts
+of LPS-free recombinant DNT that exhibits a high biological activity on cells
+expressing the DNT receptors Cav3.1 and Cav3.2. Electron microscopy and single
+particle image analysis of negatively stained preparations revealed that the DNT 
+molecule adopts a V-shaped structure with well-resolved protein domains. These
+results open the way to structure-function studies on DNT and its interactions
+with airway epithelial layers.
+
+DOI: 10.3390/toxins12090596 
+PMID: 32942577 
+

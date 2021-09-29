@@ -1,0 +1,58 @@
+
+1. mBio. 2020 Jun 23;11(3). pii: e00729-20. doi: 10.1128/mBio.00729-20.
+
+Capsular Polysaccharide Cross-Regulation Modulates Bacteroides thetaiotaomicron
+Biofilm Formation.
+
+Béchon N(#)(1)(2), Mihajlovic J(#)(1)(2), Vendrell-Fernández S(1), Chain F(3),
+Langella P(3), Beloin C(1), Ghigo JM(4).
+
+Author information: 
+(1)Institut Pasteur, Genetics of Biofilms Laboratory, Paris, France.
+(2)Université de Paris, Ecole Doctorale Bio Sorbonne Paris Cite (BioSPC), Cellule
+Pasteur, Paris, France.
+(3)Commensals and Probiotics-Host Interactions Laboratory, Université
+Paris-Saclay, INRAE, AgroParisTech, Micalis Institute, Jouy-en-Josas, France.
+(4)Institut Pasteur, Genetics of Biofilms Laboratory, Paris, France
+jmghigo@pasteur.fr.
+(#)Contributed equally
+
+Bacteroides thetaiotaomicron is one of the most abundant gut symbiont species,
+whose contribution to host health through its ability to degrade dietary
+polysaccharides and mature the immune system is under intense scrutiny. In
+contrast, adhesion and biofilm formation, which are potentially involved in gut
+colonization and microbiota structure and stability, have hardly been
+investigated in this intestinal bacterium. To uncover B. thetaiotaomicron
+biofilm-related functions, we performed a transposon mutagenesis in the poorly
+biofilm-forming reference strain VPI-5482 and showed that capsule 4, one of the
+eight B. thetaiotaomicron capsules, hinders biofilm formation. We then showed
+that the production of capsules 1, 2, 3, 5, and 6 also inhibits biofilm formation
+and that decreased capsulation of the population correlated with increased
+biofilm formation, suggesting that capsules could be masking adhesive surface
+structures. In contrast, we showed that capsule 8 displayed intrinsic adhesive
+properties. Finally, we demonstrated that BT2934, the wzx homolog of the B.
+thetaiotaomicron glycosylation locus, competes with capsule production and
+impacts its adhesion capacity. This study therefore establishes B.
+thetaiotaomicron capsule regulation as a major determinant of B. thetaiotaomicron
+biofilm formation, providing new insights into how modulation of different B.
+thetaiotaomicron surface structures affects in vitro biofilm formation.IMPORTANCE
+The human gut harbors a complex bacterial community that plays important roles in
+host health and disease, including nutrient acquisition, maturation of the immune
+system, and resistance to infections. The capacity to adhere to surfaces and form
+communities called biofilms is believed to be important for niche colonization
+and maintenance of gut bacteria. However, little is known about the adhesion
+capacity of most gut bacteria. In this study, we investigated biofilm formation
+in Bacteroides thetaiotaomicron, one of the most abundant bacteria of the normal 
+mammalian intestine. We identified that B. thetaiotaomicron capsules, a group of 
+eight surface-exposed polysaccharidic layers mediating important interactions
+with the gut environment, are also major determinants of biofilm formation that
+mask or unmask adhesion factors. Studying how B. thetaiotaomicron regulates its
+adhesion properties will allow us to better understand the physiology and
+specific properties of this important gut symbiont within anaerobic biofilms.
+
+Copyright © 2020 Béchon et al.
+
+DOI: 10.1128/mBio.00729-20 
+PMCID: PMC7315117
+PMID: 32576670 
+

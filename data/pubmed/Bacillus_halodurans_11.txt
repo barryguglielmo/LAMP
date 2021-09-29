@@ -1,0 +1,41 @@
+
+1. Mol Microbiol. 2019 Nov;112(5):1552-1563. doi: 10.1111/mmi.14379. Epub 2019 Sep
+22.
+
+Disruption of the OLE ribonucleoprotein complex causes magnesium toxicity in
+Bacillus halodurans.
+
+Harris KA(1)(2), Odzer NB(2), Breaker RR(1)(2)(3).
+
+Author information: 
+(1)Howard Hughes Medical Institute, Yale University, New Haven, CT, USA.
+(2)Department of Molecular, Cellular and Developmental Biology, Yale University, 
+New Haven, CT, USA.
+(3)Department of Molecular Biophysics and Biochemistry, Yale University, New
+Haven, CT, USA.
+
+OLE RNAs represent an unusual class of bacterial noncoding RNAs common in
+Gram-positive anaerobes. The OLE RNA of the alkaliphile Bacillus halodurans is
+highly expressed and naturally interacts with at least two RNA-binding proteins
+called OapA and OapB. The phenotypes of the corresponding knockouts include
+growth inhibition when exposed to ethanol or other short-chain alcohols or when
+incubated at modestly reduced temperatures (e.g. 20°C). Intriguingly, the OapA
+'PM1' mutant, which carries two amino acid changes to a highly conserved region, 
+yields a dominant-negative phenotype that causes more severe growth defects under
+these same stress conditions. Herein, we report that the PM1 strain also exhibits
+extreme sensitivity to elevated Mg2+ concentrations, beginning as low as 2 mM.
+Suppressor mutants predominantly map to genes for aconitate hydratase and
+isocitrate dehydrogenase, which are expected to alter cellular citrate
+concentrations. Citrate reduces the severity of the Mg2+ toxicity phenotype, but 
+neither the genomic mutations nor the addition of citrate to the medium overcomes
+ethanol toxicity or temperature sensitivity. These findings reveal that OLE RNA
+and its protein partners are involved in biochemical responses under several
+stress conditions, wherein the unusual sensitivity to Mg2+ can be independently
+suppressed by specific genomic mutations.
+
+© 2019 John Wiley & Sons Ltd.
+
+DOI: 10.1111/mmi.14379 
+PMCID: PMC6842403 [Available on 2020-11-01]
+PMID: 31461569  [Indexed for MEDLINE]
+

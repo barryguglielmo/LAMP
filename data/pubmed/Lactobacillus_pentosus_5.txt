@@ -1,0 +1,32 @@
+
+1. Biotechnol Appl Biochem. 2020 Aug 1. doi: 10.1002/bab.1994. [Epub ahead of print]
+
+Parametric optimization and kinetic study of l-lactic acid production by
+homologous batch fermentation of Lactobacillus pentosus cells.
+
+Wang J(1), Huang J(1)(2), Jiang S(1), Zhang J(1), Zhang Q(1), Ning Y(1), Fang
+M(1), Liu S(1).
+
+Author information: 
+(1)Department of Paper and Bioprocess Engineering, SUNY College of Environmental 
+Science and Forestry, Syracuse, USA.
+(2)The Center for Biotechnology & Interdisciplinary Studies (CBIS) at Rensselaer 
+Polytechnic Institute, Troy, USA.
+
+Parametric optimization always plays important roles in bioengineering systems to
+obtain a high product yield under the proper conditions. The parametric
+conditions of lactic acid production by homologous batch fermentation of
+Lactobacillus pentosus cells was optimized by the Box-Behnken design. The highest
+l-lactic acid yield was obtained as 0.836 ± 0.003 g/g glucose with the
+productivity of 0.906 ± 0.003 g/(L × H) under the optimum conditions of 34.7 °C, 
+pH 6.2, 148 rpm agitation speed, and 9.3 g/L nitrogen source concentration
+determined by quadratic response surface with high accuracy. The adequate kinetic
+models of cell growth rate, lactic production rate, and glucose consumption rate 
+were also established to describe the fermentation behavior of L. pentosus cells 
+with the correlation coefficients of 09985, 0.9990, and 0.9989, respectively.
+
+© 2020 International Union of Biochemistry and Molecular Biology, Inc.
+
+DOI: 10.1002/bab.1994 
+PMID: 32738151 
+

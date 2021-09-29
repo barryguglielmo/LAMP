@@ -1,0 +1,66 @@
+
+1. Genome Med. 2020 May 29;12(1):50. doi: 10.1186/s13073-020-00747-0.
+
+Strain-resolved microbiome sequencing reveals mobile elements that drive
+bacterial competition on a clinical timescale.
+
+Zlitni S(1)(2), Bishara A(1)(3), Moss EL(1)(2), Tkachenko E(1)(2), Kang JB(4),
+Culver RN(1), Andermann TM(5), Weng Z(6), Wood C(7), Handy C(7), Ji HP(7),
+Batzoglou S(3), Bhatt AS(8)(9).
+
+Author information: 
+(1)Departments of Genetics, Stanford University, Stanford, CA, USA.
+(2)Department of Medicine, Division of Hematology, Stanford University, 269
+Campus Drive, MC5156, Stanford, CA, 94305, USA.
+(3)Department of Computer Science, Stanford University, Stanford, CA, USA.
+(4)Harvard Medical School, Boston, MA, USA.
+(5)Department of Medicine, Division of Infectious Diseases, University of North
+Carolina, Chapel Hill, USA.
+(6)Department of Pathology, Stanford University School of Medicine, Stanford, CA,
+USA.
+(7)Division of Oncology, Department of Medicine, Stanford University, Stanford,
+CA, USA.
+(8)Departments of Genetics, Stanford University, Stanford, CA, USA.
+asbhatt@stanford.edu.
+(9)Department of Medicine, Division of Hematology, Stanford University, 269
+Campus Drive, MC5156, Stanford, CA, 94305, USA. asbhatt@stanford.edu.
+
+BACKGROUND: Populations of closely related microbial strains can be
+simultaneously present in bacterial communities such as the human gut microbiome.
+We recently developed a de novo genome assembly approach that uses read cloud
+sequencing to provide more complete microbial genome drafts, enabling precise
+differentiation and tracking of strain-level dynamics across metagenomic samples.
+In this case study, we present a proof-of-concept using read cloud sequencing to 
+describe bacterial strain diversity in the gut microbiome of one hematopoietic
+cell transplantation patient over a 2-month time course and highlight temporal
+strain variation of gut microbes during therapy. The treatment was accompanied by
+diet changes and administration of multiple immunosuppressants and
+antimicrobials.
+METHODS: We conducted short-read and read cloud metagenomic sequencing of DNA
+extracted from four longitudinal stool samples collected during the course of
+treatment of one hematopoietic cell transplantation (HCT) patient. After applying
+read cloud metagenomic assembly to discover strain-level sequence variants in
+these complex microbiome samples, we performed metatranscriptomic analysis to
+investigate differential expression of antibiotic resistance genes. Finally, we
+validated predictions from the genomic and metatranscriptomic findings through in
+vitro antibiotic susceptibility testing and whole genome sequencing of isolates
+derived from the patient stool samples.
+RESULTS: During the 56-day longitudinal time course that was studied, the
+patient's microbiome was profoundly disrupted and eventually dominated by
+Bacteroides caccae. Comparative analysis of B. caccae genomes obtained using read
+cloud sequencing together with metagenomic RNA sequencing allowed us to identify 
+differences in substrain populations over time. Based on this, we predicted that 
+particular mobile element integrations likely resulted in increased antibiotic
+resistance, which we further supported using in vitro antibiotic susceptibility
+testing.
+CONCLUSIONS: We find read cloud assembly to be useful in identifying key
+structural genomic strain variants within a metagenomic sample. These strains
+have fluctuating relative abundance over relatively short time periods in human
+microbiomes. We also find specific structural genomic variations that are
+associated with increased antibiotic resistance over the course of clinical
+treatment.
+
+DOI: 10.1186/s13073-020-00747-0 
+PMCID: PMC7260799
+PMID: 32471482 
+

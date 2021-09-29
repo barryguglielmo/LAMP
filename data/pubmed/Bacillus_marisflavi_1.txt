@@ -1,0 +1,49 @@
+
+1. Iran J Biotechnol. 2020 Jan 1;18(1):e2275. doi: 10.30498/IJB.2020.133622.2275.
+eCollection 2020 Jan.
+
+Molecular Identification and Characterization of Bacillus sp. NIGAB-1 for Phenol 
+Degradation Under Saline Conditions.
+
+Ahmad N(1), Ali GM(1), Khan MR(1).
+
+Author information: 
+(1)PARC Institute of Advanced Studies in Agriculture (PIASA), National
+Agricultural Research Centre (NARC), Park Road, Islamabad-45500, Pakistan.
+
+Background: Phenol is an aromatic pollutant in industrial wastes that in
+combination with salts is highly toxic for all forms of life. Phenol elimination 
+is the foremost challenge to meet the goal of pollutant-free environment.
+Objective: The present study was carried out to isolate phenol degrading bacteria
+which can degrade phenol under saline conditions and to identify the isolated
+strains using 16S rRNA gene sequence analysis.
+Material and Methods: Sediment samples were collected from Rawal Lake, Islamabad,
+Pakistan and enriched in mineral salt medium (MSM) containing phenol (150
+mg.L-1). Isolated strains were identified on the basis of 16S rRNA gene sequence 
+analysis. Growth of strains were tested at different pH, NaCl concentrations and 
+temperature using Tryptic Soy Agar (TSA). Tolerance to phenol (0-750 mg.L-1) was 
+checked at 5% NaCl and phenol degrading experiment was performed at 4% NaCl, pH 7
+and 30 oC. In both, phenol tolerance and degradation study, phenol was used a
+sole source of carbon and energy.
+Results: Thirteen bacterial strains were isolated after enrichment among which,
+NIGAB-1 was found capable of degrading phenol in saline conditions. This strain
+was identified as Bacillus sp. NIGAB-1 on the basis of 16S rRNA gene sequence
+analysis and the closest match was Bacillus marisflavi with 99.71% sequence
+identity. The Bacillus sp. NIGAB-1 exhibited best growth at 30 oC at pH 7 with
+10% NaCl. The optimum phenol concentration for growth was recorded as 300 mg.L-1.
+This strain degraded 300 mg.L-1 of phenol at 4% NaCl in 120 hours with the
+average degradation rate of 2.63 mg.L-1.h.
+Conclusion: These findings suggest that this strain could be efficient in phenol 
+degradation at adverse environmental conditions and helpful in remediation of
+phenol where the salt concentration is high.
+
+Copyright: © 2019 The Author(s); Published by Iranian Journal of Biotechnology.
+
+DOI: 10.30498/IJB.2020.133622.2275 
+PMCID: PMC7461705
+PMID: 32884957 
+
+Conflict of interest statement: Conflict of Interest : The authors have no
+conflicting interests, and all authors have approved themanuscript and agree with
+submission of its final version.
+

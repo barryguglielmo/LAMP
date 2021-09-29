@@ -1,0 +1,56 @@
+
+1. Curr Aging Sci. 2020 Sep 29. doi: 10.2174/1874609813666200929113341. [Epub ahead 
+of print]
+
+Designing an Outer Membrane Protein (Omp-W) Based Vaccine for Immunization
+against Vibrio and Salmonella: An in silico approach.
+
+Tehrani SS(1), Jahangiri A(1), Taheri-Anganeh M(2), Maghsoudi H(3), Khalili S(4),
+Fana SE(5), Maniati M(6), Amani J(1).
+
+Author information: 
+(1)Applied Microbiology Research Center, Baqiyatallah University of Medical
+Sciences, Tehran. Iran.
+(2)Cellular and Molecular Research Center, Research Institute on Cellular and
+Molecular Medicine, Urmia University of Medical Sciences, Urmia. Iran.
+(3)Student Research Committee, Babol University of Medical Sciences, Babol. Iran.
+(4)Department of Medical Biotechnology, Faculty of Medical Sciences, Tarbiat
+Modares University, Tehran. Iran.
+(5)Department of Clinical Biochemistry, School of medicine, Tehran University of 
+Medical Sciences, Tehran. Iran.
+(6)English Department, Ahvaz Jundishapur University of Medical Sciences, Ahvaz.
+Iran.
+
+BACKGROUND: Cholera triggered by Vibrio cholerae remains the main reason of
+morbidity and mortality all over the world. In addition, salmonellosis is
+regarded as an infectious disease that makes it essential for identification and 
+detection of salmonella. With a beta-barrel structure consisting of eight
+non-parallel beta strands, OmpW family are widely distributed among gram-negative
+bacteria. Moreover, OmpW isolated from S. Typhimurium and Vibrio cholerae can be 
+used in vaccine design.
+METHODS: Topology prediction was determined. T-cell and B-cell epitopes were
+selected from exposed areas, and sequence conservancy was evaluated. The
+remaining loops and inaccessible residues were removed to prepare OmpW-1. High
+antigenicity peptides were detected to replace inappropriate residues to obtain
+OmpW-2. Physicochemical properties were assessed, and antigenicity,
+hydrophobicity, flexibility, and accessibility were compared to the native Omp-W 
+structure. Low score areas were removed from the designed structure for preparing
+the OmpW-3. To construct OmpW-4, TTFrC was used as T-CD4+ cell-stimulating factor
+and CTB as adjuvants to the end of the C-terminal of this sequence, which can
+increase the antigenicity and sequence density. The sequences were re-analyzed to
+delete the unfavorable residues. Besides, the solubility of the mature OmpW and
+the designed structure were predicted while overexpressed in E. coli.
+RESULTS: The designed vaccine is a stable protein which has immune cells
+recognizing epitopes and is considered as an antigen. The construct can be
+overexpressed in a E. coli.
+CONCLUSION: The multi-epitope vaccine is a suitable stimulator for immune system 
+and would be a candidate for experimental research. Recent patents describing
+numerous inventions related to the clinical facets of vaccine peptide against
+human infectious disease.
+
+Copyright© Bentham Science Publishers; For any queries, please email at
+epub@benthamscience.net.
+
+DOI: 10.2174/1874609813666200929113341 
+PMID: 32990553 
+

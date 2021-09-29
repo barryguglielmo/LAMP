@@ -1,0 +1,68 @@
+
+1. Syst Appl Microbiol. 2020 Sep;43(5):126105. doi: 10.1016/j.syapm.2020.126105.
+Epub 2020 Jun 21.
+
+Desulfolutivibrio sulfoxidireducens gen. nov., sp. nov., isolated from a
+pyrite-forming enrichment culture and reclassification of Desulfovibrio
+sulfodismutans as Desulfolutivibrio sulfodismutans comb. nov.
+
+Thiel J(1), Spring S(2), Tindall BJ(3), Spröer C(4), Bunk B(5), Koeksoy E(6),
+Ngugi DK(7), Schink B(8), Pester M(9).
+
+Author information: 
+(1)Department of Biology, University of Konstanz, 78464 Konstanz, Germany.
+Electronic address: joana.thiel@uni-konstanz.de.
+(2)Department of Microorganisms, Leibniz Institute DSMZ-German Culture Collection
+for Microorganisms and Cell Cultures, 38124 Braunschweig, Germany. Electronic
+address: ssp@dsmz.de.
+(3)Department of Microorganisms, Leibniz Institute DSMZ-German Culture Collection
+for Microorganisms and Cell Cultures, 38124 Braunschweig, Germany. Electronic
+address: bti@dsmz.de.
+(4)Department of Microorganisms, Leibniz Institute DSMZ-German Culture Collection
+for Microorganisms and Cell Cultures, 38124 Braunschweig, Germany. Electronic
+address: ckc@dsmz.de.
+(5)Department of Microorganisms, Leibniz Institute DSMZ-German Culture Collection
+for Microorganisms and Cell Cultures, 38124 Braunschweig, Germany. Electronic
+address: boyke.bunk@dsmz.de.
+(6)Department of Microorganisms, Leibniz Institute DSMZ-German Culture Collection
+for Microorganisms and Cell Cultures, 38124 Braunschweig, Germany. Electronic
+address: elif.koeksoy@dsmz.de.
+(7)Department of Microorganisms, Leibniz Institute DSMZ-German Culture Collection
+for Microorganisms and Cell Cultures, 38124 Braunschweig, Germany. Electronic
+address: david.ngugi@dsmz.de.
+(8)Department of Biology, University of Konstanz, 78464 Konstanz, Germany.
+Electronic address: bernhard.schink@uni-konstanz.de.
+(9)Department of Microorganisms, Leibniz Institute DSMZ-German Culture Collection
+for Microorganisms and Cell Cultures, 38124 Braunschweig, Germany; Institute for 
+Microbiology, Technical University of Braunschweig, 38106 Braunschweig, Germany. 
+Electronic address: michael.pester@dsmz.de.
+
+Two strains of sulfate-reducing bacteria (J.5.4.2-L4.2.8T and J.3.6.1-H7) were
+isolated from a pyrite-forming enrichment culture and were compared
+phylogenetically and physiologically to the closest related type strain
+Desulfovibrio sulfodismutans DSM 3696T. The isolated strains were vibrio-shaped, 
+motile rods that stained Gram-negative. Growth occurred from 15 to 37°C and
+within a pH range of 6.5-8.5. Both strains used sulfate, thiosulfate, sulfite,
+and dimethyl sulfoxide (DMSO) as electron acceptor when grown with lactate.
+Lactate was incompletely oxidized to acetate. Formate and H2 were used as
+electron donor in the presence of acetate. Dismutation of thiosulfate and
+pyrosulfite was observed. The two new isolates differed from D. sulfodismutans by
+the utilization of DMSO as electron acceptor, 82% genome-wide average nucleotide 
+identity (ANI) and 32% digital DNA-DNA hybridization (dDDH), thus representing a 
+novel species. The type strain of the type species Desulfovibrio desulfuricans
+Essex6T revealed merely 88% 16S rRNA gene identity and 49% genome-wide average
+amino acid identity (AAI) to the new isolates as well as to D. sulfodismutans.
+Furthermore, the dominance of menaquinone MK-7 over MK-6 and the dominance of
+ai-C15:0 fatty acids were observed not only in the two new isolated strains but
+also in D. sulfodismutans. Therefore, the definition of a new genus is indicated 
+for which the name Desulfolutivibrio is proposed. We propose for strains
+J.5.4.2-L4.2.8T and J.3.6.1-H7 the name Desulfolutivibrio sulfoxidireducens gen. 
+nov. sp. nov. with strain J.5.4.2-L4.2.8T defined as type strain. In addition, we
+propose the reclassification of Desulfovibrio sulfodismutans as Desulfolutivibrio
+sulfodismutans comb. nov.
+
+Copyright © 2020 The Author(s). Published by Elsevier GmbH.. All rights reserved.
+
+DOI: 10.1016/j.syapm.2020.126105 
+PMID: 32847780 
+

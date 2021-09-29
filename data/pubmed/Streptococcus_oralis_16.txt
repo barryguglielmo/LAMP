@@ -1,0 +1,50 @@
+
+1. Microb Pathog. 2020 Jun 15;149:104260. doi: 10.1016/j.micpath.2020.104260. [Epub 
+ahead of print]
+
+Roles of membrane vesicles from Streptococcus mutans for the induction of
+antibodies to glucosyltransferase in mucosal immunity.
+
+Nakamura T(1), Iwabuchi Y(2), Hirayama S(2), Narisawa N(3), Takenaga F(3), Nakao 
+R(2), Senpuku H(4).
+
+Author information: 
+(1)Department of Food Bioscience and Biotechnology, College of Bioresource
+Sciences, Nihon University, Fujisawa, Kanagawa, 252-0880, Japan; Department of
+Bacteriology, National Institute of Infectious Diseases, Tokyo, 162-8640, Japan.
+(2)Department of Bacteriology, National Institute of Infectious Diseases, Tokyo, 
+162-8640, Japan.
+(3)Department of Food Bioscience and Biotechnology, College of Bioresource
+Sciences, Nihon University, Fujisawa, Kanagawa, 252-0880, Japan.
+(4)Department of Bacteriology, National Institute of Infectious Diseases, Tokyo, 
+162-8640, Japan. Electronic address: hsenpuku@nih.go.jp.
+
+Glucosyltransferase (Gtf) B and GtfC from Streptococcus mutans are key enzymes
+for the development of biofilm-associated diseases such as dental caries. Gtfs
+are involved in membrane vesicles (MVs) and function in the formation of biofilms
+by initial colonizers such as Streptococcus mitis and Streptococcus oralis on the
+tooth surface. Therefore, MVs may be important virulence factors and targets for 
+the prevention of biofilm-associated disease. To clarify how GtfB encoded by gtfB
+and GtfC encoded by gtfC associate with MVs and whether MVs are effective as a
+mucosal immunogen to induce the production of antibodies against Gtfs, MVs from
+S. mutans UA159 wild-type (WT), gtfB-, gtfC- and gtfB-C- were extracted from
+culture supernatants by ultracentrifugation and observed by scanning electron
+microscopy. Compared with GtfB, GtfC was mainly contained in MVs and regulated
+the size and aggregation of MVs, and the biofilm formation of S. mutans. The
+intranasal immunization of BALB/c mice with MVs plus a TLR3 agonist, poly(I-C),
+was performed 2 or 3 times for 5 weeks, with an interval of 2 or 3 weeks. MVs
+from all strains caused anti-MV IgA and IgG antibody production. In quality
+analysis of these antibodies, the IgA and IgG antibodies produced by immunization
+with MVs from WT and gtfB- strains reacted with Gtfs in the saliva, nasal wash
+and serum but those produced by immunization with MVs from gtfC- and gtfB-C-
+strains did not. S. mutans MVs mainly formed by GtfC are an intriguing immunogen 
+for the production of anti-Gtf antibodies in mucosal immunogenicity.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.micpath.2020.104260 
+PMID: 32554054 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no conflicts of interest associated with this manuscript.
+

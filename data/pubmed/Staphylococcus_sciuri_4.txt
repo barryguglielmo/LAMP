@@ -1,0 +1,42 @@
+
+1. Curr Microbiol. 2020 Oct;77(10):3147-3157. doi: 10.1007/s00284-020-02137-6. Epub 
+2020 Jul 29.
+
+Biodegradation and Kinetic Analysis of Acetaminophen with Co-culture of Bacterial
+Strains Isolated from Sewage Wastewater.
+
+Chopra S(1), Kumar D(2).
+
+Author information: 
+(1)Department of Biotechnology, Deenbandhu Chhotu Ram University of Science and
+Technology, Murthal, Sonepat, Haryana, 131039, India.
+(2)Department of Biotechnology, Deenbandhu Chhotu Ram University of Science and
+Technology, Murthal, Sonepat, Haryana, 131039, India. dkbiology@gmail.com.
+
+Acetaminophen (paracetamol, APAP) is one of the fastest growing pharmaceutical
+pollutants in the environment and has been classified under among the emerging
+organic pollutants (EOPs). The increasing concentration of it in our environment 
+is not only harmful to the ecosystem, but also to the humans as well. In this
+study, the microscopy, biochemical test and 16S rRNA sequencing the
+characterization of APAP as the sole degrading stains viz. Staphylococcus sciuri 
+strain DPP1 (MN744326), Bacillus subtilis strain DPP3 (MN744327), Bacillus
+paralicheniformis strain DKP1 (MN744324), Enterococcus faecium strain DKP2
+(MN744325) and DDP2 (MT705211) were performed. Haldane's growth kinetic model was
+used to identify specific growth rate and observed for DPP1 (485 mg/L), DPP3
+(593 mg/L), DKP1 (477 mg/L), DKP2 (702 mg/L) and DDP2 (685 mg/L). The maximum
+specific growth rate was reported for the stains viz. DPP1, DPP3, DKP1, DKP2, and
+DDP2, was in order of 0.076, 0.223, 0.259, 0.179, and 0.141, respectively. The
+Box-Behnken Design (BBD) was used to identify the effect of physical parameters
+on degradation using mathematical modeling. The analysis of variance (ANOVA)
+showed that the strains DPP1, DPP3, DKP1, DKP2, and DDP2 had significant F-value 
+and regression coefficient (R2) value of 0.01%, 0.06%, 0.37%, and 0.18%,
+respectively. The co-culture of the five strains has utilized 1200 mg/L of APAP
+within 70 h while individual strains took 10 days. The intermediate metabolites
+like 4-aminophenol, benzamide, (R)-2-methylpentanoic acid, methylene-3-vinyl
+cyclohexane, and 1,5-hexadiene were identified by GC-MS. The degradation
+metabolic pathway was predicted by the intermediates by GC-MS, and PathPred based
+analysis.
+
+DOI: 10.1007/s00284-020-02137-6 
+PMID: 32728793 
+

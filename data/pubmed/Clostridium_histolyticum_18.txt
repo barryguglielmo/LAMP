@@ -1,0 +1,44 @@
+
+1. J Med Chem. 2020 Aug 13;63(15):8359-8368. doi: 10.1021/acs.jmedchem.0c00584. Epub
+2020 Jun 17.
+
+N-Aryl-3-mercaptosuccinimides as Antivirulence Agents Targeting Pseudomonas
+aeruginosa Elastase and Clostridium Collagenases.
+
+Konstantinović J(1), Yahiaoui S(1), Alhayek A(1)(2), Haupenthal J(1), Schönauer
+E(3), Andreas A(4), Kany AM(1), Müller R(2)(4), Koehnke J(5), Berger FK(6),
+Bischoff M(6), Hartmann RW(1)(2), Brandstetter H(3), Hirsch AKH(1)(2).
+
+Author information: 
+(1)Department of Drug Design and Optimization, Helmholtz Institute for
+Pharmaceutical Research Saarland (HIPS) - Helmholtz Centre for Infection Research
+(HZI), Campus Building E8.1, 66123 Saarbrücken, Germany.
+(2)Department of Pharmacy, Saarland University, Campus Building E8.1, 66123
+Saarbrücken, Germany.
+(3)Department of Biosciences, University of Salzburg, Billrothstr. 11, 5020
+Salzburg, Austria.
+(4)Department of Microbial Natural Products, Helmholtz Institute for
+Pharmaceutical Research Saarland (HIPS) - Helmholtz Centre for Infection Research
+(HZI), Campus Building E8.1, 66123 Saarbrücken, Germany.
+(5)Workgroup Structural Biology of Biosynthetic Enzymes, Helmholtz Institute for 
+Pharmaceutical Research Saarland (HIPS), Campus Building E8.1, 66123 Saarbrücken,
+Germany.
+(6)Institute of Medical Microbiology and Hygiene, Saarland University, 66421
+Homburg/Saar, Germany.
+
+In light of the global antimicrobial-resistance crisis, there is an urgent need
+for novel bacterial targets and antibiotics with novel modes of action. It has
+been shown that Pseudomonas aeruginosa elastase (LasB) and Clostridium
+histolyticum (Hathewaya histolytica) collagenase (ColH) play a significant role
+in the infection process and thereby represent promising antivirulence targets.
+Here, we report novel N-aryl-3-mercaptosuccinimide inhibitors that target both
+LasB and ColH, displaying potent activities in vitro and high selectivity for the
+bacterial over human metalloproteases. Additionally, the inhibitors demonstrate
+no signs of cytotoxicity against selected human cell lines and in a zebrafish
+embryo toxicity model. Furthermore, the most active ColH inhibitor shows a
+significant reduction of collagen degradation in an ex vivo pig-skin model.
+
+DOI: 10.1021/acs.jmedchem.0c00584 
+PMCID: PMC7429951
+PMID: 32470298 
+

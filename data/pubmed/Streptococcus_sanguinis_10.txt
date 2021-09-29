@@ -1,0 +1,58 @@
+
+1. Drug Des Devel Ther. 2020 Jul 27;14:2977-2985. doi: 10.2147/DDDT.S255269.
+eCollection 2020.
+
+Potential Allylpyrocatechol Derivatives as Antibacterial Agent Against Oral
+Pathogen of S. sanguinis ATCC 10,556 and as Inhibitor of MurA Enzymes: in vitro
+and in silico Study.
+
+Kurnia D(1), Hutabarat GS(1), Windaryanti D(1), Herlina T(1), Herdiyati Y(2),
+Satari MH(3).
+
+Author information: 
+(1)Department of Chemistry, Faculty of Mathematics and Natural Science,
+Universitas Padjadjaran, Sumedang, Indonesia.
+(2)Department of Pediatric Dentistry, Faculty of Dentistry, Universitas
+Padjadjaran, Bandung, Indonesia.
+(3)Department of Oral Biology, Faculty of Dentistry, Universitas Padjadjaran,
+Bandung, Indonesia.
+
+Background: Streptococcus sanguinis is Gram-positive bacteria that contribute to 
+caries. Many antibacterial agents are resistant against bacteria so that the
+discovery of new antibacterial agents is a crucial issue. Mechanism of
+antibacterial agents by disrupting cell wall bacteria is a promising target to be
+developed. One of the enzymes contributing to the cell wall is MurA enzyme. MurA 
+is an enzyme catalyzing the first step of peptidoglycan biosynthesis in the cell 
+wall formation. Inhibiting MurA is an effective and efficient way to kill the
+bacteria. Source of bioactive compounds including the antibacterial agent can be 
+found in natural product such as herbal plant. Piper betle L. was reported to
+contain active antibacterial compounds. However, there is no more information on 
+the antibacterial activity and molecular mechanism of P. betle's compound against
+S. sanguinis.
+Purpose: The study aims to identify antibacterial constituents of P. betle L. and
+evaluate their activities through two different methods including in vitro and in
+silico analysis.
+Materials and Methods: The antibacterial agent was purified by bioactivity-guided
+isolation with combination chromatography methods and the chemical structure was 
+determined by spectroscopic methods. The in vitro antibacterial activity was
+evaluated by disc diffusion and dilution methods while the in silico study of a
+compound binds on the MurA was determined using PyRx program.
+Results: The antibacterial compound identified as allylpyrocatechol showed
+inhibitory activity against S. sanguinis with an inhibition zone of 11.85 mm at
+1%, together with MIC and MBC values of 39.1 and 78.1 μg/mL, respectively.
+Prediction for molecular inhibition mechanism of allylpyrocatechols against the
+MurA presented two allylpyrocatechol derivatives showing binding activity of
+-5.4, stronger than fosfomycin as a reference with the binding activity of -4.6.
+Conclusion: Two allylpyrocatechol derivatives were predicted to have a good
+potency as a novel natural antibacterial agent against S. sanguinis through
+blocking MurA activity that causes disruption of bacterial cell wall.
+
+© 2020 Kurnia et al.
+
+DOI: 10.2147/DDDT.S255269 
+PMCID: PMC7396738
+PMID: 32801638 
+
+Conflict of interest statement: The authors report no conflicts of interest in
+this work.
+

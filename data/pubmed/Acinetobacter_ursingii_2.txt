@@ -1,0 +1,73 @@
+
+1. Antimicrob Resist Infect Control. 2020 Mar 4;9(1):45. doi:
+10.1186/s13756-020-0705-1.
+
+Oral colonisation by antimicrobial-resistant Gram-negative bacteria among
+long-term care facility residents: prevalence, risk factors, and molecular
+epidemiology.
+
+Le MN(1)(2), Kayama S(1)(2)(3), Yoshikawa M(4), Hara T(1)(2)(5), Kashiyama
+S(1)(2)(5), Hisatsune J(1)(2)(3), Tsuruda K(6), Onodera M(1)(5), Ohge H(1)(7),
+Tsuga K(4), Sugai M(8)(9)(10).
+
+Author information: 
+(1)Project Research Centre for Nosocomial Infectious Diseases, Hiroshima
+University, Hiroshima, Japan.
+(2)Department of Antimicrobial Resistance, Hiroshima University Graduate School
+of Biomedical & Health Sciences, Hiroshima, Japan.
+(3)Antimicrobial Resistance Research Centre, National Institute of Infectious
+Diseases, Higashi Murayama, Japan.
+(4)Department of Advanced Prosthodontics, Hiroshima University Graduate School of
+Biomedical and Health Sciences, Hiroshima, Japan.
+(5)Clinical Laboratory, Hiroshima University Hospital, Hiroshima, Japan.
+(6)Department of Oral Epidemiology, Hiroshima University Graduate School of
+Biomedical & Health Sciences, Hhiroshima, Japan.
+(7)Department of Infectious Diseases, Hiroshima University Hospital, Hiroshima,
+Japan.
+(8)Project Research Centre for Nosocomial Infectious Diseases, Hiroshima
+University, Hiroshima, Japan. sugai@niid.go.jp.
+(9)Department of Antimicrobial Resistance, Hiroshima University Graduate School
+of Biomedical & Health Sciences, Hiroshima, Japan. sugai@niid.go.jp.
+(10)Antimicrobial Resistance Research Centre, National Institute of Infectious
+Diseases, Higashi Murayama, Japan. sugai@niid.go.jp.
+
+BACKGROUND: For residents of long-term care facilities (LTCFs),
+antimicrobial-resistant bacteria (ARB) are a risk factor, yet their oral
+colonisation, potentially leading to aspiration pneumonia, remains unclear. This 
+study was undertaken to survey the prevalence, phenotypic characteristics, and
+molecular epidemiology of antimicrobial-resistant Gram-negative bacteria in the
+oral cavity of LTCF residents, and to analyse the risk factors for such carriers.
+METHODS: This study involved 98 residents of a LTCF in Hiroshima City, Japan,
+aged between 55 and 101 years. Oropharyngeal swabs were collected and plated on
+screening media for ESBL-producing and carbapenem-resistant bacteria; isolates
+were identified and tested for antibiotic susceptibility; biofilm formation was
+tested in vitro; identification of epidemic clones were pre-determined by PCR;
+resistance genes, sequence types, and whole-genome comparison of strains were
+conducted using draft genome sequences. Demographic data and clinical
+characterisations were collected and risk factors analysed.
+RESULTS: Fifty-four strains from 38% of the residents grew on screening media and
+comprised predominantly of Acinetobacter spp. (35%), Enterobacteriaceae spp.
+(22%), and Pseudomonas spp. (19%). All Escherichia coli isolates carried
+CTX-M-9 group and belonged to the phylogroup B2, O25:H4 ST131 fimH30 lineage. Six
+Acinetobacter baumannii isolates presented identical molecular characteristics
+and revealed more biofilm production than the others, strongly suggesting their
+clonal lineage. One Acinetobacter ursingii isolate displayed extensive resistance
+to various ß-lactams due to multiple acquired resistance genes. One Pseudomonas
+aeruginosa isolate showed exceptional resistance to all ß-lactams including
+carbapenems, aminoglycosides, and a new quinolone, showing a multidrug-resistant 
+Pseudomonas aeruginosa (MDRP) phenotype and remarkable biofilm formation. Genome 
+sequence analysis revealed this isolate was the blaIMP-1-positive clone ST235 in 
+Japan. Strokes (cerebral infarction or cerebral haemorrhage) and percutaneous
+endoscopic gastrostomy tubes were recognised as risk factors for oral
+colonisation by ARB in the LTCF residents.
+CONCLUSIONS: ARB, as defined by growth on screening agar plates, which carried
+mobile resistance genes or elements or conferred high biofilm formation, were
+already prevalent in the oral cavity of LTCF residents. Health-care workers
+involved in oral care should be aware of antimicrobial resistance and pay special
+attention to transmission prevention and infection control measures to diminish
+ARB or mobile resistance elements dissemination in LTCFs.
+
+DOI: 10.1186/s13756-020-0705-1 
+PMCID: PMC7057508
+PMID: 32131899 
+

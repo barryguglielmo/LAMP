@@ -1,0 +1,58 @@
+
+1. mSphere. 2020 Sep 23;5(5). pii: e00988-19. doi: 10.1128/mSphere.00988-19.
+
+Immune Response Characterization after Controlled Infection with Lyophilized
+Shigella sonnei 53G.
+
+Clarkson KA(1), Frenck RW Jr(2), Dickey M(2), Suvarnapunya AE(1), Chandrasekaran 
+L(1), Weerts HP(1), Heaney CD(3), McNeal M(2), Detizio K(4), Parker S(2), Hoeper 
+A(2), Bourgeois AL(5), Porter CK(4), Venkatesan MM(1), Kaminski RW(6).
+
+Author information: 
+(1)Department of Enteric Infections, Bacterial Diseases Branch, Walter Reed Army 
+Institute of Research, Silver Spring, Maryland, USA.
+(2)Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, USA.
+(3)Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA.
+(4)Naval Medical Research Center, Silver Spring, Maryland, USA.
+(5)PATH, Washington, DC, USA.
+(6)Department of Enteric Infections, Bacterial Diseases Branch, Walter Reed Army 
+Institute of Research, Silver Spring, Maryland, USA
+Robert.W.Kaminski.civ@mail.mil.
+
+Shigella is a major cause of moderate to severe diarrhea largely affecting
+children (<5 years old) living in low- and middle-income countries. Several
+vaccine candidates are in development, and controlled human infection models
+(CHIMs) can be useful tools to provide an early assessment of vaccine efficacy
+and potentially support licensure. A lyophilized strain of S. sonnei 53G was
+manufactured and evaluated to establish a dose that safely and reproducibly
+induced a ≥60% attack rate. Samples were collected pre- and postchallenge to
+assess intestinal inflammatory responses, antigen-specific serum and mucosal
+antibody responses, functional antibody responses, and memory B cell responses.
+Infection with S. sonnei 53G induced a robust intestinal inflammatory response as
+well as antigen-specific antibodies in serum and mucosal secretions and
+antigen-specific IgA- and IgG-secreting B cells positive for the α4β7 gut-homing 
+marker. There was no association between clinical disease outcomes and systemic
+or functional antibody responses postchallenge; however, higher
+lipopolysaccharide (LPS)-specific serum IgA- and IgA-secreting memory B cell
+responses were associated with a reduced risk of disease postchallenge. This
+study provides unique insights into the immune responses pre- and postinfection
+with S. sonnei 53G in a CHIM, which could help guide the rational design of
+future vaccines to induce protective immune responses more analogous to those
+triggered by infection.IMPORTANCE Correlate(s) of immunity have yet to be defined
+for shigellosis. As previous disease protects against subsequent infection in a
+serotype-specific manner, investigating immune response profiles pre- and
+postinfection provides an opportunity to identify immune markers potentially
+associated with the development of protective immunity and/or with a reduced risk
+of developing shigellosis postchallenge. This study is the first to report such
+an extensive characterization of the immune response after challenge with S.
+sonnei 53G. Results demonstrate an association of progression to shigellosis with
+robust intestinal inflammatory and mucosal gut-homing responses. An important
+finding in this study was the association of elevated Shigella LPS-specific serum
+IgA and memory B cell IgA responses at baseline with reduced risk of disease. The
+increased baseline IgA responses may contribute to the lack of dose response
+observed in the study and suggests that IgA responses should be further
+investigated as potential correlates of immunity.
+
+DOI: 10.1128/mSphere.00988-19 
+PMID: 32968012 
+

@@ -1,0 +1,44 @@
+
+1. Front Microbiol. 2020 Jun 9;11:1239. doi: 10.3389/fmicb.2020.01239. eCollection
+2020.
+
+Comparative Proteomic Analysis of Adhesion/Invasion Related Proteins in
+Cronobacter sakazakii Based on Data-Independent Acquisition Coupled With
+LC-MS/MS.
+
+Li P(1), Dong X(1), Wang XY(1), Du T(1), Du XJ(1), Wang S(1)(2).
+
+Author information: 
+(1)State Key Laboratory of Food Nutrition and Safety, Tianjin University of
+Science and Technology, Tianjin, China.
+(2)Tianjin Key Laboratory of Food Science and Health, School of Medicine, Nankai 
+University, Tianjin, China.
+
+Cronobacter sakazakii is foodborne pathogen that causes serious illnesses such as
+necrotizing enterocolitis, meningitis and septicemia in infants. However, the
+virulence determinants and mechanisms of pathogenicity of these species remain
+unclear. In this study, multilocus sequence typing (MLST) was performed on 34 C. 
+sakazakii strains and two strains with the same sequence type (ST) but distinct
+adhesion/invasion capabilities were selected for identification of differentially
+expressed proteins using data-independent acquisition (DIA) proteomic analysis. A
+total of 2,203 proteins were identified and quantified. Among these proteins, 210
+exhibited differential expression patterns with abundance ratios ≥3 or ≤0.33 and 
+P values ≤0.05. Among these 210 proteins, 67 were expressed higher, and 143 were 
+expressed lower in C. sakazakii SAKA80220 (strongly adhesive/invasive strain)
+compared with C. sakazakii SAKA80221 (weakly adhesive/invasive strain). Based on 
+a detailed analysis of the differentially expressed proteins, the highly
+expressed genes involved in flagellar assembly, lipopolysaccharide synthesis,
+LuxS/AI-2, energy metabolic pathways and iron-sulfur cluster may be associated
+with the adhesion/invasion capability of C. sakazakii. To verify the accuracy of 
+the proteomic results, real-time qPCR was used to analyze the expression patterns
+of some genes at the transcriptional level, and consistent results were observed.
+This study, for the first time, used DIA proteomic to investigate potential
+adhesion/invasion related factors as a useful reference for further studies on
+the pathogenic mechanism of C. sakazakii.
+
+Copyright © 2020 Li, Dong, Wang, Du, Du and Wang.
+
+DOI: 10.3389/fmicb.2020.01239 
+PMCID: PMC7296052
+PMID: 32582128 
+

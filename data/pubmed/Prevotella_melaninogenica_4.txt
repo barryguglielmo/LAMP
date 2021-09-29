@@ -1,0 +1,55 @@
+
+1. Anaerobe. 2020 Jul 25:102237. doi: 10.1016/j.anaerobe.2020.102237. [Epub ahead of
+print]
+
+Human gut-derived commensal suppresses generation of T-cell response to gliadin
+in humanized mice by modulating gut microbiota.
+
+Bodkhe R(1), Marietta EV(2), Balakrishnan B(3), Luckey DH(3), Horwath IE(2),
+Shouche YS(4), Taneja V(5), Murray JA(6).
+
+Author information: 
+(1)Department of Immunology, Mayo Clinic, Rochester, MN, USA; The YSS Lab,
+National Centre for Microbial Resource, National Centre for Cell Science, Pune,
+India.
+(2)Department of Medicine, Division of Gastroenterology and Hepatology, Mayo
+Clinic College of Medicine, Rochester, MN, USA.
+(3)Department of Immunology, Mayo Clinic, Rochester, MN, USA.
+(4)The YSS Lab, National Centre for Microbial Resource, National Centre for Cell 
+Science, Pune, India.
+(5)Department of Immunology, Mayo Clinic, Rochester, MN, USA. Electronic address:
+taneja.veena@mayo.edu.
+(6)Department of Medicine, Division of Gastroenterology and Hepatology, Mayo
+Clinic College of Medicine, Rochester, MN, USA. Electronic address:
+murray.joseph@mayo.edu.
+
+The human intestinal tract is colonized by a large number of diverse
+microorganisms that play various important physiologic functions. In inflammatory
+gut diseases including celiac disease (CeD), a dysbiotic state of microbiome has 
+been observed. Interestingly, this perturbed microbiome is normalized towards
+eubiosis in patients showing recovery after treatment. The treatment has been
+observed to increase the abundance of beneficial microbes in comparison to
+non-treated patients. In this study, we investigated the effect of Prevotella
+histicola or Prevotella melaninogenica, isolated from the duodenum of a treated
+CeD patient, on the induction and maintenance of oral tolerance to gliadin, a CeD
+associated subgroup of gluten proteins, in NOD.DQ8.ABo transgenic mice.
+Conventionally raised mice on a gluten free diet were orally gavaged with
+bacteria before and after injection with pepsin trypsin digested gliadin
+(PTD-gliadin). P. histicola suppressed the cellular response to gliadin, whereas 
+P. melaninogenica failed to suppress an immune response against gliadin.
+Interestingly, tolerance to gliadin in NOD.DQ8.ABo mice may be associated with
+gut microbiota as mice gavaged with P melaninogenica harbored a different
+microbial diversity as compared to P. histicola treated mice. This study provides
+experimental evidence that gut microbes like P. histicola from treated patients
+can suppress the immune response against gliadin epitopes.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.anaerobe.2020.102237 
+PMID: 32721554 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare the following conflicts of interest: Dr. Joseph Murray, Dr. Veena Taneja,
+and Dr. Eric Marietta are co-inventors on patent #9005603 “PREVOTELLA HISTICOLA
+PREPARATIONS AND THE TREATMENT OF AUTOIMMUNE CONDITIONS.”
+

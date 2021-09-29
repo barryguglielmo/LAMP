@@ -1,0 +1,35 @@
+
+1. Pathogens. 2020 Sep 10;9(9). pii: E742. doi: 10.3390/pathogens9090742.
+
+Assessing Campylobacter Colonization of Broiler Herds Ante Mortem and Monitoring 
+Campylobacter Contamination Post Mortem by qPCR.
+
+Overesch G(1), Haas K(1), Kuhnert P(1).
+
+Author information: 
+(1)Institute of Veterinary Bacteriology, University of Bern, 3012 Bern,
+Switzerland.
+
+Human campylobacteriosis is the most prevalent zoonosis, with chicken meat
+contributing substantially to the number of cases. Measures to avoid or at least 
+reduce exposure by meat contaminated with Campylobacter (C.) spp. are needed.
+With regard to the process hygiene criterion introduced in 2018 for Campylobacter
+spp. on broiler carcasses, we evaluated the performance of a recently developed
+quantitative real-time PCR (qPCR) for C. jejuni/coli on random caecal samples and
+chicken meat. With the qPCR on pooled caecal samples not only C. jejuni/coli
+positive (69.6%) versus negative broiler herds (30.4%) were identified, but herds
+highly colonized with C. jejuni/coli (39.4%) could also be identified. From the
+chicken meat samples, 8.0% were positive for C. jejuni/coli by qPCR and 0.7% by
+enumeration (>10 cfu/g) compared to 58.3% using cultural enrichment. Given the
+higher sensitivity, the qPCR method could replace the currently used enumeration 
+method to assess the process hygiene criterion for Campylobacter spp. on broiler 
+carcasses. Moreover, with the qPCR, a reliable identification of C. jejuni/coli
+colonized incoming broiler herds a few days before slaughter is feasible, which
+provides important information to optimize slaughter processes. Finally,
+identifying and monitoring herds with high C. jejuni/coli colonization rates
+could help to individually improve biosecurity measures at farm level, eventually
+reducing the C. jejuni/coli load on chicken meat.
+
+DOI: 10.3390/pathogens9090742 
+PMID: 32927630 
+

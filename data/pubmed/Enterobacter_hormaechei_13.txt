@@ -1,0 +1,51 @@
+
+1. PLoS One. 2020 Apr 14;15(4):e0231146. doi: 10.1371/journal.pone.0231146.
+eCollection 2020.
+
+Whole genome sequencing of extended-spectrum β-lactamase genes in
+Enterobacteriaceae isolates from Nigeria.
+
+Jesumirhewe C(1), Springer B(2), Allerberger F(2), Ruppitsch W(2).
+
+Author information: 
+(1)Department of Pharmaceutical Microbiology, Prof Dora Akunyili College of
+Pharmacy, Igbinedion University, Okada, Nigeria.
+(2)Institute of Medical Microbiology and Hygiene, Austrian Agency for Health and 
+Food Safety (AGES), Vienna, Austria.
+
+Extended Spectrum β-lactamase (ESBL)-producing Enterobacteriaceae are of major
+concern as they are implicated in multidrug resistant nosocomial infections. They
+are listed on a recently published global priority list of antibiotic-resistant
+bacteria by the World Health Organization which raises concern in both healthcare
+and community settings. This study aimed at determining the frequency of ESBL
+genes in multidrug resistant human clinical Enterobacteriaceae isolates from Edo 
+state Nigeria and to characterize the resistance mechanisms using whole genome
+sequencing. A total of 217 consecutive clinical isolates of Enterobacteriaceae,
+selection based on inclusion criteria, were collected from March-May 2015 from
+three medical microbiology laboratories of hospitals in Edo state Nigeria. All
+isolates were analyzed using matrix-assisted laser desorption ionization-time of 
+flight (MALDI-TOF) mass spectrometry. Antibiotic susceptibility testing was
+performed by Kirby-Bauer method and minimum inhibitory concentration (MIC)
+determination by E-test method. Double disc synergy test was used to screen for
+the production of ESBL. Whole genome sequencing (WGS) was performed for isolate
+characterization and identification of resistance determinants. Out of 217
+consecutive clinical Enterobacteriaceae isolates, 148 (68.2%) were multi-drug
+resistant. Of these multi-drug resistant isolates, 60 (40.5%) were positive for
+the ESBL phenotypic test and carried ESBL genes. CTX-M-15 was the predominant
+ESBL found, among 93.3% (n = 56/60). Thirty-two plasmid incompatibility groups
+and 28 known and two new sequence types were identified among the ESBL isolates. 
+The high occurrence of CTX-M-15 with associated resistant determinants in
+multidrug resistant Enterobacteriaceae harboring different plasmid
+incompatibility groups and sequence types calls for the need of continuous
+monitoring of this resistance threat to reduce its public health impact. To our
+knowledge, this study presents the first genomic characterization of ESBL
+production mediated by blaCTX-M-15 in human clinical isolates of Enterobacter
+hormaechei, Citrobacter werkmanii and Atlantibacter hermannii from Nigeria.
+
+DOI: 10.1371/journal.pone.0231146 
+PMCID: PMC7156064
+PMID: 32287306  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

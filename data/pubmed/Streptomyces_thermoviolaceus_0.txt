@@ -1,0 +1,39 @@
+
+1. Int J Mol Sci. 2020 Apr 21;21(8). pii: E2892. doi: 10.3390/ijms21082892.
+
+The Crystal Structure of a Streptomyces thermoviolaceus Thermophilic Chitinase
+Known for Its Refolding Efficiency.
+
+Malecki PH(1), Bejger M(1), Rypniewski W(1), Vorgias CE(2).
+
+Author information: 
+(1)Institute of Bioorganic Chemistry, Polish Academy of Sciences, Noskowskiego
+12/14, 61-704 Poznan, Poland.
+(2)Department of Biology, Section of Biochemistry and Molecular Biology, National
+and Kapodistrian University of Athens, 15701 Zografou, Greece.
+
+Analyzing the structure of proteins from extremophiles is a promising way to
+study the rules governing the protein structure, because such proteins are
+results of structural and functional optimization under well-defined conditions. 
+Studying the structure of chitinases addresses an interesting aspect of
+enzymology, because chitin, while being the world's second most abundant
+biopolymer, is also a recalcitrant substrate. The crystal structure of a
+thermostable chitinase from Streptomyces thermoviolaceus (StChi40) has been
+solved revealing a β/α-barrel (TIM-barrel) fold with an α+β insertion domain.
+This is the first chitinase structure of the multi-chitinase system of S.
+thermoviolaceus. The protein is also known to refold efficiently after thermal or
+chemical denaturation. StChi40 is structurally close to the catalytic domain of
+psychrophilic chitinase B from Arthrobacter TAD20. Differences are noted in
+comparison to the previously examined chitinases, particularly in the
+substrate-binding cleft. A comparison of the thermophilic enzyme with its
+psychrophilic homologue revealed structural features that could be attributed to 
+StChi40's thermal stability: compactness of the structure with trimmed surface
+loops and unique disulfide bridges, one of which is additionally stabilized by
+S-π interactions with aromatic rings. Uncharacteristically for thermophilic
+proteins, StChi40 has fewer salt bridges than its mesophilic and psychrophilic
+homologues.
+
+DOI: 10.3390/ijms21082892 
+PMCID: PMC7215727
+PMID: 32326166 
+

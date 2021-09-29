@@ -1,0 +1,59 @@
+
+1. Circ Res. 2020 Jul 31;127(4):453-465. doi: 10.1161/CIRCRESAHA.119.316448. Epub
+2020 May 1.
+
+Gut Microbiota-Derived Short-Chain Fatty Acids Promote Poststroke Recovery in
+Aged Mice.
+
+Lee J(1), d'Aigle J(1), Atadja L(1), Quaicoe V(1), Honarpisheh P(1), Ganesh
+BP(1), Hassan A(2), Graf J(2), Petrosino J(3), Putluri N(4), Zhu L(5), Durgan
+DJ(6), Bryan RM Jr(6), McCullough LD(1), Venna VR(1).
+
+Author information: 
+(1)From the Department of Neurology, McGovern Medical School (J.L., J.d'A., L.A.,
+V.Q., P.H., B.P.G., L.D.M., V.R.V.), The University of Texas Health Science
+Center at Houston.
+(2)Department of Molecular and Cell Biology, Institute of Systems Genomics, The
+University of Connecticut, Storrs (A.H., J.G.).
+(3)Alkek Center for Metagenomics and Microbiome Research, Department of Molecular
+Virology and Microbiology, Baylor College of Medicine, Houston, TX (J.P.).
+(4)Department of Molecular and Cellular Biology, Dan L. Duncan Comprehensive
+Cancer Center, Advanced Technology Core, Alkek Center for Molecular Discovery
+(N.P.), Baylor College of Medicine, Houston, TX.
+(5)Biostatistics and Epidemiology Research Design Core, Center for Clinical and
+Translational Sciences (L.Z.), The University of Texas Health Science Center at
+Houston.
+(6)Department of Anesthesiology (D.J.D., R.M.B.), Baylor College of Medicine,
+Houston, TX.
+
+RATIONALE: The elderly experience profound systemic responses after stroke, which
+contribute to higher mortality and more severe long-term disability. Recent
+studies have revealed that stroke outcomes can be influenced by the composition
+of gut microbiome. However, the potential benefits of manipulating the gut
+microbiome after injury is unknown.
+OBJECTIVE: To determine if restoring youthful gut microbiota after stroke aids in
+recovery in aged subjects, we altered the gut microbiome through young fecal
+transplant gavage in aged mice after experimental stroke. Further, the effect of 
+direct enrichment of selective bacteria producing short-chain fatty acids (SCFAs)
+was tested as a more targeted and refined microbiome therapy.
+METHODS AND RESULTS: Aged male mice (18-20 months) were subjected to ischemic
+stroke by middle cerebral artery occlusion. We performed fecal transplant gavage 
+3 days after middle cerebral artery occlusion using young donor biome (2-3
+months) or aged biome (18-20 months). At day 14 after stroke, aged stroke mice
+receiving young fecal transplant gavage had less behavioral impairment, and
+reduced brain and gut inflammation. Based on data from microbial sequencing and
+metabolomics analysis demonstrating that young fecal transplants contained much
+higher SCFA levels and related bacterial strains, we selected 4 SCFA-producers
+(Bifidobacterium longum, Clostridium symbiosum, Faecalibacterium prausnitzii, and
+Lactobacillus fermentum) for transplantation. These SCFA-producers alleviated
+poststroke neurological deficits and inflammation, and elevated gut, brain and
+plasma SCFA concentrations in aged stroke mice.
+CONCLUSIONS: This is the first study suggesting that the poor stroke recovery in 
+aged mice can be reversed via poststroke bacteriotherapy following the
+replenishment of youthful gut microbiome via modulation of immunologic,
+microbial, and metabolomic profiles in the host.
+
+DOI: 10.1161/CIRCRESAHA.119.316448 
+PMCID: PMC7415518 [Available on 2021-07-31]
+PMID: 32354259 
+

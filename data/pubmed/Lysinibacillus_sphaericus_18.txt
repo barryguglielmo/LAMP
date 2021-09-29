@@ -1,0 +1,43 @@
+
+1. Parasit Vectors. 2020 Feb 12;13(1):68. doi: 10.1186/s13071-020-3928-3.
+
+Synergistic effect of Lysinibacillus sphaericus and glyphosate on
+temephos-resistant larvae of Aedes aegypti.
+
+Bernal L(1), Dussán J(2).
+
+Author information: 
+(1)Microbiological Research Center (CIMIC), Department of Biological Sciences,
+Universidad de Los Andes, Carrera 1 No. 18 A-12, Bogotá, 111711, Colombia.
+(2)Microbiological Research Center (CIMIC), Department of Biological Sciences,
+Universidad de Los Andes, Carrera 1 No. 18 A-12, Bogotá, 111711, Colombia.
+jdussan@uniandes.edu.co.
+
+BACKGROUND: Glyphosate-based herbicides are one of the most commonly used
+compounds to control perennial weeds around the world. This compound is very
+persistent in the environment and tends to filter into aquatic ecosystems,
+affecting non-target species such as mosquito larvae. Aedes aegypti mosquitoes
+are vectors of multiple arboviruses such as dengue and Zika. Glyphosate can be
+degraded into non-harmful environmental compounds by Lysinibacillus sphaericus, a
+spore forming bacterium which can also kill Ae. aegypti larvae. In this study, we
+assessed the effect of glyphosate concentrations, typically used in Colombia, on 
+the entomopathogenic activity of L. sphaericus against Ae. aegypti larvae.
+METHODS: Bioassays and toxicity curves were performed to compare the larval
+mortality between different treatments with and without bacteria and glyphosate
+(Roundup 747®). Larvae were exposed to both bacteria and glyphosate by adding the
+compound on chloride-free water. Comparisons were made using both probit
+regression and ANOVA analysis.
+RESULTS: ANOVA showed a significant difference in larval mortality when adding
+glyphosate and L. sphaericus at the same time. Thus, a positive synergic effect
+on larval mortality was found when L. sphaericus and glyphosate were mixed.
+According to probit analysis, median lethal dose (LD50) for bacterial mixture was
+of 106.23 UFC/ml and for glyphosate was 2.34 g/l.
+CONCLUSIONS: A positive synergic effect on the mortality of larval Ae. aegypti
+when exposed to L. sphaericus mixture and glyphosate was found. Molecular studies
+focusing on the toxin production of L. sphaericus are required to understand more
+about this synergistic effect.
+
+DOI: 10.1186/s13071-020-3928-3 
+PMCID: PMC7017551
+PMID: 32051012  [Indexed for MEDLINE]
+

@@ -1,0 +1,52 @@
+
+1. J Biol Chem. 2019 Oct 25;294(43):15662-15671. doi: 10.1074/jbc.RA119.010406. Epub
+2019 Aug 27.
+
+An extended bacterial reductive pyrimidine degradation pathway that enables
+nitrogen release from β-alanine.
+
+Yin J(1), Wei Y(2), Liu D(1), Hu Y(1), Lu Q(1), Ang EL(2), Zhao H(3)(4), Zhang
+Y(5).
+
+Author information: 
+(1)Tianjin Key Laboratory for Modern Drug Delivery and High Efficiency,
+Collaborative Innovation Center of Chemical Science and Engineering, School of
+Pharmaceutical Science and Technology, Tianjin University, Tianjin 300072, China.
+(2)Metabolic Engineering Research Laboratory, Institute of Chemical and
+Engineering Sciences, Agency for Science, Technology and Research (A*STAR),
+Singapore, Singapore.
+(3)Metabolic Engineering Research Laboratory, Institute of Chemical and
+Engineering Sciences, Agency for Science, Technology and Research (A*STAR),
+Singapore, Singapore zhao5@illinois.edu.
+(4)Department of Chemical and Biomolecular Engineering, University of Illinois at
+Urbana-Champaign, Urbana, Illinois 61801.
+(5)Tianjin Key Laboratory for Modern Drug Delivery and High Efficiency,
+Collaborative Innovation Center of Chemical Science and Engineering, School of
+Pharmaceutical Science and Technology, Tianjin University, Tianjin 300072, China 
+yan.zhang@tju.edu.cn.
+
+The reductive pyrimidine catabolic pathway is the most widespread pathway for
+pyrimidine degradation in bacteria, enabling assimilation of nitrogen for growth.
+This pathway, which has been studied in several bacteria including Escherichia
+coli B, releases only one utilizable nitrogen atom from each molecule of uracil, 
+whereas the other nitrogen atom remains trapped in the end product β-alanine.
+Here, we report the biochemical characterization of a β-alanine:2-oxoglutarate
+aminotransferase (PydD) and an NAD(P)H-dependent malonic semialdehyde reductase
+(PydE) from a pyrimidine degradation gene cluster in the bacterium Lysinibacillus
+massiliensis Together, these two enzymes converted β-alanine into
+3-hydroxypropionate (3-HP) and generated glutamate, thereby making the second
+nitrogen from the pyrimidine ring available for assimilation. Using
+bioinformatics analyses, we found that PydDE homologs are associated with
+reductive pyrimidine pathway genes in many Gram-positive bacteria in the classes 
+Bacilli and Clostridia. We demonstrate that Bacillus smithii grows in a defined
+medium with uracil or uridine as its sole nitrogen source and detected the
+accumulation of 3-HP as a waste product. Our findings extend the reductive
+pyrimidine catabolic pathway and expand the diversity of enzymes involved in
+bacterial pyrimidine degradation.
+
+© 2019 Yin et al.
+
+DOI: 10.1074/jbc.RA119.010406 
+PMCID: PMC6816092 [Available on 2020-10-25]
+PMID: 31455636  [Indexed for MEDLINE]
+

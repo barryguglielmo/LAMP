@@ -1,0 +1,41 @@
+
+1. Pharmaceuticals (Basel). 2020 Jul 16;13(7). pii: E153. doi: 10.3390/ph13070153.
+
+Curcumin, a Natural Antimicrobial Agent with Strain-Specific Activity.
+
+Adamczak A(1), Ożarowski M(2), Karpiński TM(3).
+
+Author information: 
+(1)Department of Botany, Breeding and Agricultural Technology of Medicinal
+Plants, Institute of Natural Fibres and Medicinal Plants, Kolejowa 2, 62-064
+Plewiska, Poland.
+(2)Department of Biotechnology, Institute of Natural Fibres and Medicinal Plants,
+Wojska Polskiego 71b, 60-630 Poznań, Poland.
+(3)Chair and Department of Medical Microbiology, Poznań University of Medical
+Sciences, Wieniawskiego 3, 61-712 Poznań, Poland.
+
+Curcumin, a principal bioactive substance of turmeric (Curcuma longa L.), is
+reported as a strong antioxidant, anti-inflammatory, antibacterial, antifungal,
+and antiviral agent. However, its antimicrobial properties require further
+detailed investigations into clinical and multidrug-resistant (MDR) isolates. In 
+this work, we tested curcumin's efficacy against over 100 strains of pathogens
+belonging to 19 species. This activity was determined by the broth microdilution 
+method and by calculating the minimum inhibitory concentration (MIC). Our
+findings confirmed a much greater sensitivity of Gram-positive than Gram-negative
+bacteria. This study exhibited a significantly larger variation in the curcumin
+activity than previous works and suggested that numerous clinical strains of
+widespread pathogens have a poor sensitivity to curcumin. Similarly, the MICs of 
+the MDR types of Staphylococcus aureus, S. haemolyticus, Escherichia coli, and
+Proteus mirabilis were high (≥2000 µg/mL). However, curcumin was effective
+against some species and strains: Streptococcus pyogenes (median MIC = 31.25
+µg/mL), methicillin-sensitive S. aureus (250 µg/mL), Acinetobacter lwoffii (250
+µg/mL), and individual strains of Enterococcus faecalis and Pseudomonas
+aeruginosa (62.5 µg/mL). The sensitivity of species was not associated with its
+affiliation to the genus, and it could differ a lot (e.g., S. pyogenes, S.
+agalactiae and A. lwoffii, A. baumannii). Hence, curcumin can be considered as a 
+promising antibacterial agent, but with a very selective activity.
+
+DOI: 10.3390/ph13070153 
+PMCID: PMC7408453
+PMID: 32708619 
+

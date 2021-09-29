@@ -1,0 +1,41 @@
+
+1. Nucleic Acids Res. 2020 Aug 20;48(14):7991-8005. doi: 10.1093/nar/gkaa562.
+
+Bulk and single-molecule analysis of a bacterial DNA2-like helicase-nuclease
+reveals a single-stranded DNA looping motor.
+
+Wilkinson OJ(1), Carrasco C(2), Aicart-Ramos C(2), Moreno-Herrero F(2),
+Dillingham MS(1).
+
+Author information: 
+(1)School of Biochemistry, Biomedical Sciences Building, University of Bristol,
+University Walk, Bristol BS8 1TD, UK.
+(2)Department of Macromolecular Structures, Centro Nacional de Biotecnología,
+Consejo Superior de Investigaciones Científicas, 28049 Cantoblanco, Madrid,
+Spain.
+
+DNA2 is an essential enzyme involved in DNA replication and repair in eukaryotes.
+In a search for homologues of this protein, we identified and characterised
+Geobacillus stearothermophilus Bad, a bacterial DNA helicase-nuclease with
+similarity to human DNA2. We show that Bad contains an Fe-S cluster and identify 
+four cysteine residues that are likely to co-ordinate the cluster by analogy to
+DNA2. The purified enzyme specifically recognises ss-dsDNA junctions and
+possesses ssDNA-dependent ATPase, ssDNA binding, ssDNA endonuclease, 5' to 3'
+ssDNA translocase and 5' to 3' helicase activity. Single molecule analysis
+reveals that Bad is a processive DNA motor capable of moving along DNA for
+distances of >4 kb at a rate of ∼200 bp per second at room temperature.
+Interestingly, as reported for the homologous human and yeast DNA2 proteins, the 
+DNA unwinding activity of Bad is cryptic and can be unmasked by inactivating the 
+intrinsic nuclease activity. Strikingly, our experiments show that the enzyme
+loops DNA while translocating, which is an emerging feature of processive DNA
+unwinding enzymes. The bacterial Bad enzymes will provide an excellent model
+system for understanding the biochemical properties of DNA2-like
+helicase-nucleases and DNA looping motor proteins in general.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkaa562 
+PMCID: PMC7430649
+PMID: 32621607  [Indexed for MEDLINE]
+

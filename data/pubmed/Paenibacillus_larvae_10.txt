@@ -1,0 +1,57 @@
+
+1. BMC Ecol. 2020 Mar 6;20(1):15. doi: 10.1186/s12898-020-00283-w.
+
+American foulbrood in a honeybee colony: spore-symptom relationship and
+feedbacks.
+
+Stephan JG(1)(2), de Miranda JR(3), Forsgren E(3).
+
+Author information: 
+(1)Department of Ecology, Swedish University of Agricultural Sciences, 750 07,
+Uppsala, Sweden. jorg.stephan@slu.se.
+(2)Swedish Species Information Centre, Swedish University of Agricultural
+Sciences, 750 07, Uppsala, Sweden. jorg.stephan@slu.se.
+(3)Department of Ecology, Swedish University of Agricultural Sciences, 750 07,
+Uppsala, Sweden.
+
+Erratum in
+    BMC Ecol. 2020 Mar 23;20(1):16.
+
+BACKGROUND: The most severe bacterial disease of honeybees is American foulbrood 
+(AFB). The epidemiology of AFB is driven by the extreme spore resilience, the
+difficulty of bees to remove these spores, and the considerable incidence of
+undetected spore-producing colonies. The honeybee collective defence mechanisms
+and their feedback on colony development, which involves a division of labour at 
+multiple levels of colony organization, are difficult to model. To better predict
+disease outbreaks we need to understand the feedback between colony development
+and disease progression within the colony. We therefore developed Bayesian models
+with data from forty AFB-diseased colonies monitored over an entire foraging
+season to (i) investigate the relationship between spore production and symptoms,
+(ii) disentangle the feedback loops between AFB epidemiology and natural colony
+development, and (iii) discuss whether larger insect societies promote or limit
+within-colony disease transmission.
+RESULTS: Rather than identifying a fixed spore count threshold for clinical
+symptoms, we estimated the probabilities around the relationship between spore
+counts and symptoms, taking into account modulators such as brood amount/number
+of bees and time post infection. We identified a decrease over time in the
+bees-to-brood ratio related to disease development, which should ultimately
+induce colony collapse. Lastly, two contrasting theories predict that larger
+colonies could promote either higher (classical epidemiological SIR-model) or
+lower (increasing spatial nest segregation and more effective pathogen removal)
+disease prevalence.
+CONCLUSIONS: AFB followed the predictions of the SIR-model, partly because
+disease prevalence and brood removal are decoupled, with worker bees acting more 
+as disease vectors, infecting new brood, than as agents of social immunity, by
+removing infected brood. We therefore established a direct link between disease
+prevalence and social group size for a eusocial insect. We furthermore provide a 
+probabilistic description of the relationship between AFB spore counts and
+symptoms, and how disease development and colony strength over a season modulate 
+this relationship. These results help to better understand disease development
+within honeybee colonies, provide important estimates for further epidemiological
+modelling, and gained important insights into the optimal sampling strategy for
+practical beekeeping and honeybee research.
+
+DOI: 10.1186/s12898-020-00283-w 
+PMCID: PMC7060557
+PMID: 32143610  [Indexed for MEDLINE]
+

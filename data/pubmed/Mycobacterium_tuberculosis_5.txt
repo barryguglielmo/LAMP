@@ -1,0 +1,40 @@
+
+1. Tuberculosis (Edinb). 2020 Sep 19;125:101993. doi: 10.1016/j.tube.2020.101993.
+[Epub ahead of print]
+
+Machine-assisted interpretation of auramine stains substantially increases
+through-put and sensitivity of microscopic tuberculosis diagnosis.
+
+Horvath L(1), Hänselmann S(2), Mannsperger H(2), Degenhardt S(2), Last K(1),
+Zimmermann S(1), Burckhardt I(3).
+
+Author information: 
+(1)Department for Infectious Diseases, Microbiology and Hygiene, University
+Hospital of Heidelberg, Im Neuenheimer Feld 324, 69120, Heidelberg, Germany.
+(2)MetaSystems Hard & Software GmbH, Robert-Bosch-Str. 6, 68804, Altlussheim,
+Germany.
+(3)Department for Infectious Diseases, Microbiology and Hygiene, University
+Hospital of Heidelberg, Im Neuenheimer Feld 324, 69120, Heidelberg, Germany.
+Electronic address: Irene.Burckhardt@med.uni-heidelberg.de.
+
+Of all bacterial infectious diseases, infection by Mycobacterium tuberculosis
+poses one of the highest morbidity and mortality burdens on humans throughout the
+world. Due to its speed and cost-efficiency, manual microscopy of
+auramine-stained sputum smears remains a crucial first-line detection method.
+However, it puts considerable workload on laboratory staff and suffers from a
+limited sensitivity. Here we validate a scanning and analysis system that
+combines fully-automated microscopy with deep-learning based image analysis.
+After automated scanning, the system summarizes diagnosis-relevant image
+information and presents it to the microbiologist in order to assist diagnosis.
+We tested the benefit of the automated scanning and analysis system using 531
+slides from routine workflow, of which 56 were from culture positive specimen.
+Assistance by the scanning and analysis system allowed for a higher sensitivity
+(40/56 positive slides detected) than manual microscopy (34/56 positive slides
+detected), while greatly reducing manual slide-analysis time from a recommended
+5-15 min to around 10 s per slide on average.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.tube.2020.101993 
+PMID: 33010589 
+

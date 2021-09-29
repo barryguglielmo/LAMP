@@ -1,0 +1,54 @@
+
+1. Antibiotics (Basel). 2020 Jul 13;9(7). pii: E404. doi:
+10.3390/antibiotics9070404.
+
+Antimicrobial Susceptibility and Characterization of Resistance Mechanisms of
+Corynebacterium urealyticum Clinical Isolates.
+
+Chapartegui-González I(1)(2), Fernández-Martínez M(2)(3), Rodríguez-Fernández
+A(3), Rocha DJP(4), Aguiar ERGR(5), Pacheco LGC(4), Ramos-Vivas J(2), Calvo
+J(2)(3), Martínez-Martínez L(6)(7)(8), Navas J(1)(2).
+
+Author information: 
+(1)Grupo BIOMEDAGE, Facultad de Medicina, Universidad de Cantabria, Herrera Oria 
+2, 39011 Santander, Spain.
+(2)Instituto de Investigación Valdecilla (IDIVAL), Herrera Oria s/n, 39011
+Santander, Spain.
+(3)Servicio de Microbiología, Hospital Universitario Marqués de Valdecilla
+(HUMV), Av. Valdecilla, 25, 39008 Santander, Spain.
+(4)Instituto de Ciências da Saúde, Universidade Federal da Bahia, Av. Reitor
+Miguel Calmon, s/n -Canela, Salvador 40231-300, Brasil.
+(5)Department of Biological Sciences, Center of Biotechnology and Genetics, State
+University of Santa Cruz (UESC), Ilhéus 45662-90, Brazil.
+(6)Unidad de Gestión Clínica, Hospital Universitario Reina Sofía, Av. Menéndez
+Pidal, s/n, 14004 Córdoba, Spain.
+(7)Departamento de Microbiología, Universidad de Córdoba, Campus Rabanales. Edif.
+Severo Ochoa (C6), 14071 Córdoba, Spain.
+(8)Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC), Av.
+Menéndez Pidal, s/n, 14004 Córdoba, Spain.
+
+Corynebacterium urealyticum is a non-diphtherial urease-producing clinically
+relevant corynebacterial, most frequently involved in urinary tract infections.
+Most of the C. urealyticum clinical isolates are frequently resistant to several 
+antibiotics. We investigated the susceptibility of 40 C. urealyticum isolated in 
+our institution during the period 2005-2017 to eight compounds representative of 
+the main clinically relevant classes of antimicrobial agents. Antimicrobial
+susceptibility was determined by the Epsilometer test. Resistance genes were
+searched by PCR. All strains were susceptible to vancomycin whereas linezolid and
+rifampicin also showed good activity (MICs90 = 1 and 0.4 mg/L, respectively).
+Almost all isolates (39/40, 97.5%) were multidrug resistant. The highest
+resistance rate was observed for ampicillin (100%), followed by erythromycin
+(95%) and levofloxacin (95%). Ampicillin resistance was associated with the
+presence of the blaA gene, encoding a class A β-lactamase. The two
+rifampicin-resistant strains showed point mutations driving amino acid
+replacements in conserved residues of RNA polymerase subunit β (RpoB).
+Tetracycline resistance was due to an efflux-mediated mechanism. Thirty-nine PFGE
+patterns were identified among the 40 C. urealyticum, indicating that they were
+not clonally related, but producing sporadic infections. These findings raise the
+need of maintaining surveillance strategies among this multidrug resistant
+pathogen.
+
+DOI: 10.3390/antibiotics9070404 
+PMCID: PMC7400432
+PMID: 32668585 
+

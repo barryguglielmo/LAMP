@@ -1,0 +1,41 @@
+
+1. Microorganisms. 2020 Jul 18;8(7). pii: E1074. doi: 10.3390/microorganisms8071074.
+
+Functional Identification and Evolutionary Analysis of Two Novel Plasmids
+Mediating Quinolone Resistance in Proteus vulgaris.
+
+Zhang H(1), Chang M(2), Zhang X(1), Cai P(1), Dai Y(1), Song T(1), Wu Z(1), Xu
+H(1), Qiao M(1).
+
+Author information: 
+(1)The Key Laboratory of Molecular Microbiology and Technology, Ministry of
+Education, College of Life Sciences, Nankai University, Tianjin 300071, China.
+(2)Zhengzhou University Industrial Technology Institute Co. Ltd., Zhengzhou
+450000, China.
+
+Plasmid-mediated quinolone resistance (PMQR) remains one of the main mechanisms
+of bacterial quinolone resistance and plays an important role in the transmission
+of antibiotic resistance genes (ARGs). In this study, two novel plasmids, p3M-2A 
+and p3M-2B, which mediate quinolone resistance in Proteus vulgaris strain 3M
+(P3M) were identified. Of these, only p3M-2B appeared to be a qnrD-carrying
+plasmid. Both p3M-2A and p3M-2B could be transferred into Escherichia coli, and
+the latter caused a twofold change in ciprofloxacin resistance, according to the 
+measured minimum inhibitory concentration (MIC). Plasmid curing/complementation
+and qRT-PCR results showed that p3M-2A can directly regulate the expression of
+qnrD in p3M-2B under treatment with ciprofloxacin, in which process, ORF1 was
+found to play an important role. Sequence alignments and phylogenetic analysis
+revealed the evolutionary relationships of all reported qnrD-carrying plasmids
+and showed that ORF1-4 in p3M-2B is the most conserved backbone for the normal
+function of qnrD-carrying plasmids. The identified direct repeats (DR) suggested 
+that, from an evolutionary perspective, p3M-2B may have originated from the
+2683-bp qnrD-carrying plasmid and may increase the possibility of plasmid
+recombination and then of qnrD transfer. To the best of our knowledge, this is
+the first identification of a novel qnrD-carrying plasmid isolated from a P.
+vulgaris strain of shrimp origin and a plasmid that plays a regulatory role in
+qnrD expression. This study also sheds new light on plasmid evolution and on the 
+mechanism of horizontal transfer of ARGs encoded by plasmids.
+
+DOI: 10.3390/microorganisms8071074 
+PMCID: PMC7409132
+PMID: 32708454 
+

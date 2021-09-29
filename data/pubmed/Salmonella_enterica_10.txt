@@ -1,0 +1,55 @@
+
+1. PLoS Biol. 2020 Sep 29;18(9):e3000813. doi: 10.1371/journal.pbio.3000813.
+eCollection 2020 Sep.
+
+Short-chain fatty acids bind to apoptosis-associated speck-like protein to
+activate inflammasome complex to prevent Salmonella infection.
+
+Tsugawa H(1), Kabe Y(1)(2), Kanai A(1), Sugiura Y(1), Hida S(3), Taniguchi S(4), 
+Takahashi T(5), Matsui H(6), Yasukawa Z(7), Itou H(8), Takubo K(9), Suzuki H(10),
+Honda K(11), Handa H(12), Suematsu M(1).
+
+Author information: 
+(1)Department of Biochemistry, Keio University School of Medicine, Tokyo, Japan.
+(2)Japan Agency for Medical Research and Development (AMED), Core Research for
+Evolutional Science and Technology (CREST), Tokyo, Japan.
+(3)Department of Molecular and Cellular Health Sciences, Graduate School of
+Pharmaceutical Sciences, Nagoya City University, Nagoya, Japan.
+(4)Department of Comprehensive Cancer Therapy, Shinshu University School
+Medicine, Matsumoto, Japan.
+(5)Suntory Foundation for Life Sciences, Bioorganic Research Institute, Kyoto,
+Japan.
+(6)Omura Satoshi Memorial Institute, Kitasato University, Tokyo, Japan.
+(7)TAIYO KAGAKU CO., LTD., Mie, Japan.
+(8)Meiji Co., Ltd., Tokyo, Japan.
+(9)Department of Stem Cell Biology, Research Institute, National Center for
+Global Health and Medicine, Tokyo, Japan.
+(10)Division of Gastroenterology and Hepatology, Department of Internal Medicine,
+Tokai University School of Medicine, Kanagawa, Japan.
+(11)Department of Microbiology and Immunology, Keio University School of
+Medicine, Tokyo, Japan.
+(12)Department of Chemical Biology, Tokyo Medical University, Tokyo, Japan.
+
+Short-chain fatty acids (SCFAs) produced by gastrointestinal microbiota regulate 
+immune responses, but host molecular mechanisms remain unknown. Unbiased
+screening using SCFA-conjugated affinity nanobeads identified
+apoptosis-associated speck-like protein (ASC), an adaptor protein of inflammasome
+complex, as a noncanonical SCFA receptor besides GPRs. SCFAs promoted
+inflammasome activation in macrophages by binding to its ASC PYRIN domain.
+Activated inflammasome suppressed survival of Salmonella enterica serovar
+Typhimurium (S. Typhimurium) in macrophages by pyroptosis and facilitated
+neutrophil recruitment to promote bacterial elimination and thus inhibit systemic
+dissemination in the host. Administration of SCFAs or dietary fibers, which are
+fermented to SCFAs by gut bacteria, significantly prolonged the survival of S.
+Typhimurium-infected mice through ASC-mediated inflammasome activation. SCFAs
+penetrated into the inflammatory region of the infected gut mucosa to protect
+against infection. This study provided evidence that SCFAs suppress Salmonella
+infection via inflammasome activation, shedding new light on the therapeutic
+activity of dietary fiber.
+
+DOI: 10.1371/journal.pbio.3000813 
+PMID: 32991574 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

@@ -1,0 +1,38 @@
+
+1. Sci Rep. 2020 Aug 10;10(1):13431. doi: 10.1038/s41598-020-70328-z.
+
+Extensive bacteriocin gene shuffling in the Streptococcus bovis/Streptococcus
+equinus complex reveals gallocin D with activity against vancomycin resistant
+enterococci.
+
+Hill D(1)(2)(3), O'Connor PM(2)(3), Altermann E(4)(5), Day L(4), Hill C(3)(6),
+Stanton C(2)(3), Ross RP(7)(8).
+
+Author information: 
+(1)School of Food and Nutritional Sciences, University College Cork, Cork,
+Ireland.
+(2)Teagasc Food Research Centre, Moorepark, Fermoy, Co. Cork, Ireland.
+(3)APC Microbiome Ireland, Cork, Ireland.
+(4)AgResearch, Grasslands Research Centre, Palmerston North, New Zealand.
+(5)Riddet Institute, Massey University, Palmerston North, New Zealand.
+(6)School of Microbiology, University College Cork, Cork, Ireland.
+(7)APC Microbiome Ireland, Cork, Ireland. p.ross@ucc.ie.
+(8)School of Microbiology, University College Cork, Cork, Ireland. p.ross@ucc.ie.
+
+Streptococcus gallolyticus LL009 produces gallocin D, a narrow spectrum two
+component bacteriocin with potent activity against vancomycin-resistant
+enterococci. Gallocin D is distinct from gallocin A, a separate two component
+bacteriocin produced by S. gallolyticus. Although the gene clusters encoding
+gallocin A and gallocin D have a high degree of gene synteny, the structural
+genes are highly variable and appear to have undergone gene shuffling with other 
+streptococcal species. Gallocin D was analysed in laboratory-based experiments.
+The mature peptides are 3,343 ± 1 Da and 3,019 ± 1 Da and could be readily
+synthesized and display activity against a vancomycin resistant Enterococcus
+strain EC300 with a MIC value of 1.56 µM. Importantly, these bacteriocins could
+contribute to the ability of S. gallolyticus to colonize the colon where they
+have been associated with colorectal cancer.
+
+DOI: 10.1038/s41598-020-70328-z 
+PMCID: PMC7417737
+PMID: 32778686 
+

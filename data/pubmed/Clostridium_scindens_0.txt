@@ -1,0 +1,69 @@
+
+1. Cell. 2020 Aug 20;182(4):901-918.e18. doi: 10.1016/j.cell.2020.06.029. Epub 2020 
+Jul 14.
+
+The Intestinal Microbiome Restricts Alphavirus Infection and Dissemination
+through a Bile Acid-Type I IFN Signaling Axis.
+
+Winkler ES(1), Shrihari S(2), Hykes BL Jr(3), Handley SA(3), Andhey PS(4), Huang 
+YS(5), Swain A(4), Droit L(3), Chebrolu KK(6), Mack M(7), Vanlandingham DL(5),
+Thackray LB(2), Cella M(4), Colonna M(4), Artyomov MN(4), Stappenbeck TS(8),
+Diamond MS(9).
+
+Author information: 
+(1)Department of Medicine, Washington University School of Medicine, St. Louis,
+MO 63110, USA; Department of Pathology and Immunology, Washington University
+School of Medicine, St. Louis, MO 63110, USA.
+(2)Department of Medicine, Washington University School of Medicine, St. Louis,
+MO 63110, USA.
+(3)Department of Pathology and Immunology, Washington University School of
+Medicine, St. Louis, MO 63110, USA; The Edison Family Center for Genome Sciences 
+and Systems Biology, Washington University School of Medicine, St. Louis, MO
+63110, USA.
+(4)Department of Pathology and Immunology, Washington University School of
+Medicine, St. Louis, MO 63110, USA.
+(5)Department of Diagnostic Medicine/Pathobiology, College of Veterinary
+Medicine, Biosecurity Research Institute, Kansas State University, Manhattan, KS 
+66506, USA.
+(6)Proteomics and Mass Spectrometry Facility, Donald Danforth Plant Science
+Center, St. Louis, MO 63132, USA.
+(7)Department of Internal Medicine II, University Hospital Regensburg,
+Regensburg, Germany.
+(8)Department of Inflammation and Immunity, Lerner Research Institute, Cleveland 
+Clinic, Cleveland, OH 44195, USA.
+(9)Department of Medicine, Washington University School of Medicine, St. Louis,
+MO 63110, USA; Department of Pathology and Immunology, Washington University
+School of Medicine, St. Louis, MO 63110, USA; Department of Molecular
+Microbiology, Washington University School of Medicine, St. Louis, MO 63110, USA;
+Andrew M. and Jane M. Bursky Center for Human Immunology and Immunotherapy
+Programs, Washington University School of Medicine, St. Louis, MO 63110, USA.
+Electronic address: diamond@wusm.wustl.edu.
+
+Chikungunya virus (CHIKV), an emerging alphavirus, has infected millions of
+people. However, the factors modulating disease outcome remain poorly understood.
+Here, we show in germ-free mice or in oral antibiotic-treated conventionally
+housed mice with depleted intestinal microbiomes that greater CHIKV infection and
+spread occurs within 1 day of virus inoculation. Alteration of the microbiome
+alters TLR7-MyD88 signaling in plasmacytoid dendritic cells (pDCs) and blunts
+systemic production of type I interferon (IFN). Consequently, circulating
+monocytes express fewer IFN-stimulated genes and become permissive for CHIKV
+infection. Reconstitution with a single bacterial species, Clostridium scindens, 
+or its derived metabolite, the secondary bile acid deoxycholic acid, can restore 
+pDC- and MyD88-dependent type I IFN responses to restrict systemic CHIKV
+infection and transmission back to vector mosquitoes. Thus, symbiotic intestinal 
+bacteria modulate antiviral immunity and levels of circulating alphaviruses
+within hours of infection through a bile acid-pDC-IFN signaling axis, which
+affects viremia, dissemination, and potentially transmission.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2020.06.029 
+PMCID: PMC7483520 [Available on 2021-08-20]
+PMID: 32668198 
+
+Conflict of interest statement: Declaration of Interests M.S.D. is a consultant
+for Inbios, Eli Lilly, Vir Biotechnology, NGM Biopharmaceuticals, and on the
+Scientific Advisory Board of Moderna. The Diamond laboratory has received
+unrelated funding under sponsored research agreements from Moderna and Emergent
+BioSolutions.
+

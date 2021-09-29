@@ -1,0 +1,49 @@
+
+1. Front Neurosci. 2019 Oct 18;13:1102. doi: 10.3389/fnins.2019.01102. eCollection
+2019.
+
+Alterations of the Gut Microbiota in Multiple System Atrophy Patients.
+
+Wan L(1), Zhou X(1), Wang C(1), Chen Z(1), Peng H(1), Hou X(1), Peng Y(1), Wang
+P(1), Li T(1), Yuan H(1), Shi Y(1), Hou X(1), Xu K(1), Xie Y(1), He L(1), Xia
+K(2), Tang B(1)(3)(4)(2), Jiang H(1)(3)(4)(2)(5).
+
+Author information: 
+(1)Department of Neurology, Xiangya Hospital, Central South University, Changsha,
+China.
+(2)Laboratory of Medical Genetics, Central South University, Changsha, China.
+(3)National Clinical Research Center for Geriatric Disorders, Central South
+University, Changsha, China.
+(4)Key Laboratory of Hunan Province in Neurodegenerative Disorders, Central South
+University, Changsha, China.
+(5)Department of Neurology, Xinjiang Medical University, Urumchi, China.
+
+Erratum in
+    Front Neurosci. 2020 Jan 31;14:19.
+
+Multiple system atrophy (MSA) is a fatal neurodegenerative disease, and the
+pathogenesis is still quite challenging. Emerging evidence has shown that the
+brain-gut-microbiota axis served a pivotal role in neurological diseases;
+however, researches utilizing metagenomic sequencing to analyze the alteration in
+gut microbiota of MSA patients were quite rare. Here, we carried out metagenomic 
+sequencing in feces of 15 MSA patients and 15 healthy controls, to characterize
+the alterations in gut microbial composition and function of MSA patients in
+mainland China. The results showed that gut microbial community of MSA patients
+was significantly different from healthy controls, characterized by increased
+genus Akkermansia and species Roseburia hominis, Akkermansia muciniphila,
+Alistipes onderdonkii, Streptococcus parasanguinis, and Staphylococcus xylosus,
+while decreased genera Megamonas, Bifidobacterium, Blautia, and Aggregatibacter
+and species Bacteroides coprocola, Megamonas funiformis, Bifidobacterium
+pseudocatenulatum, Clostridium nexile, Bacteroides plebeius, and Granulicatella
+adiacens. Further, functional analysis based on the KEGG database revealed
+aberrant functional pathways in fecal microbiome of MSA patients. In conclusion, 
+our findings provided evidence for dysbiosis in gut microbiota of Chinese MSA
+cohorts and helped develop new testable hypotheses on pathophysiology of MSA.
+
+Copyright © 2019 Wan, Zhou, Wang, Chen, Peng, Hou, Peng, Wang, Li, Yuan, Shi,
+Hou, Xu, Xie, He, Xia, Tang and Jiang.
+
+DOI: 10.3389/fnins.2019.01102 
+PMCID: PMC6813281
+PMID: 31680836 
+

@@ -1,0 +1,54 @@
+
+1. Int J Pept Res Ther. 2020 Jul 22:1-21. doi: 10.1007/s10989-020-10094-8. [Epub
+ahead of print]
+
+Statistical and Artificial Neural Network Approaches to Modeling and Optimization
+of Fermentation Conditions for Production of a Surface/Bioactive
+Glyco-lipo-peptide.
+
+Ekpenyong M(1), Asitok A(1), Antai S(1), Ekpo B(2)(3), Antigha R(4), Ogarekpe
+N(4).
+
+Author information: 
+(1)Department of Microbiology, University of Calabar, Calabar, Cross River State 
+Nigeria.
+(2)Department of Chemistry, University of Calabar, Calabar, Cross River State
+Nigeria.
+(3)Nigerian National Petroleum Corporation (NNPC), Port Harcourt, Nigeria.
+(4)Department of Civil Engineering, Cross River University of Technology,
+Calabar, Cross River State Nigeria.
+
+A freshwater alkaliphilic strain of Pseudomonas aeruginosa, grown on waste frying
+oil-basal medium, produced a surface-active metabolite identified as
+glycolipopeptide. Bioprocess conditions namely temperature, pH, agitation and
+duration were comparatively modeled using statistical and artificial neural
+network (ANN) methods to predict and optimize product yield using the matrix of a
+central composite rotatable design (CCRD). Response surface methodology (RSM) was
+the statistical approach while a feed-forward neural network, trained with
+Levenberg-Marquardt back-propagation algorithm, was the neural network method.
+Glycolipopeptide model was predicted by a significant (P < 0.001, R 2 of 0.9923) 
+quadratic function of the RSM with a mean squared error (MSE) of 3.6661. The
+neural network model, on the other hand, returned an R 2 value of 0.9964 with an 
+MSE of 1.7844. From all error metrics considered, ANN glycolipopeptide model
+significantly (P < 0.01) outperformed RSM counterpart in predictive modeling
+capability. Optimization of factor levels for maximum glycolipopeptide
+concentration produced bioprocess conditions of 32 °C for temperature, 7.6 for
+pH, agitation speed of 130 rpm and a fermentation time of 66 h, at a combined
+desirability function of 0.872. The glycosylated lipid-tailed peptide
+demonstrated significant anti-bacterial activity (MIC = 8.125 µg/mL) against
+Proteus vulgaris, dose-dependent anti-biofilm activities against Escherichia coli
+(83%) and Candida dubliniensis (90%) in 24 h and an equally dose-dependent
+cytotoxic activity against human breast (MCF-7: IC50 = 65.12 µg/mL) and cervical 
+(HeLa: IC50 = 16.44 µg/mL) cancer cell lines. The glycolipopeptide compound is
+recommended for further studies and trials for application in human cancer
+therapy.
+
+© Springer Nature B.V. 2020.
+
+DOI: 10.1007/s10989-020-10094-8 
+PMCID: PMC7375705
+PMID: 32837457 
+
+Conflict of interest statement: Conflict of interestThe authors declare that
+there was no conflict of interest.
+

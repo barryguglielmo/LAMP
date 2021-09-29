@@ -1,0 +1,44 @@
+
+1. Bioresour Technol. 2020 Jul;308:123260. doi: 10.1016/j.biortech.2020.123260. Epub
+2020 Mar 27.
+
+Sequential and consolidated bioprocessing of biogenic municipal solid waste: A
+strategic pairing of thermophilic anaerobe and mesophilic microaerobe for ethanol
+production.
+
+Althuri A(1), Venkata Mohan S(2).
+
+Author information: 
+(1)Bioengineering and Environmental Sciences Lab, Energy and Environmental
+Engineering, CSIR-Indian Institute of Chemical Technology, Tarnaka, Hyderabad
+500007, Telangana, India. Electronic address: avanthi34@gmail.com.
+(2)Bioengineering and Environmental Sciences Lab, Energy and Environmental
+Engineering, CSIR-Indian Institute of Chemical Technology, Tarnaka, Hyderabad
+500007, Telangana, India.
+
+Feedstock availability and its pretreatment, high process economics and
+insufficient ethanol (HEt) titres necessitated the bioprocesses that are
+sustainable. The advanced consolidated bioprocessing (CBPSeq) strategy presently 
+considered for improved HEt production involves, sequential coupling of CBP
+thermophile, Clostridium thermocellum ATCC-27405 with mesophilic microaerobe,
+Pichia stipitis NCIM-3498. Biogenic municipal solid waste (BMSW) pretreated with 
+0.5% NaOH (CSPBMSW) served as the sole carbon source. CBPSeq (23.99 g/L) fared
+better than CBP standalone (18.10 g/L) wherein 1.32-folds improvement in HEt
+titre was recorded. Considering insufficient xylanase titre in cellulosome
+complex of C. thermocellum, CBPSeq was performed employing exogenous xylanases
+(CBPSeqE) to improve xylan digestibility and HEt yield. CBPSeqE-II biosystem at
+pH 5 showed maximum HEt titre of 36.90 g/L which corresponds to yield of 0.26 g
+HEt/ g CSPBMSW. This study substantiates efficacy of CBPSeqE-II biosystem in
+sustainable bioethanol production from BMSW in a single reactor without laborious
+steps.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biortech.2020.123260 
+PMID: 32251860  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

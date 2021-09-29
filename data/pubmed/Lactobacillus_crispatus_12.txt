@@ -1,0 +1,53 @@
+
+1. mSphere. 2020 Aug 12;5(4). pii: e00560-20. doi: 10.1128/mSphere.00560-20.
+
+Comparative Genomic Study of Lactobacillus jensenii and the Newly Defined
+Lactobacillus mulieris Species Identifies Species-Specific Functionality.
+
+Putonti C(1)(2)(3), Shapiro JW(4), Ene A(2), Tsibere O(4), Wolfe AJ(3).
+
+Author information: 
+(1)Department of Biology, Loyola University Chicago, Chicago, Illinois, USA
+cputonti@luc.edu.
+(2)Bioinformatics Program, Loyola University Chicago, Chicago, Illinois, USA.
+(3)Department of Microbiology and Immunology, Stritch School of Medicine, Loyola 
+University Chicago, Maywood, Illinois, USA.
+(4)Department of Biology, Loyola University Chicago, Chicago, Illinois, USA.
+
+Lactobacilli are dominant members of the "healthy" female urogenital microbiota. 
+One of these species, Lactobacillus jensenii, is routinely identified in the
+urinary microbiota of women both with and without urinary tract symptoms. In
+March 2020, the new bacterial species Lactobacillus mulieris was introduced, and 
+phylogenetic and average nucleotide identity analysis identified eight L.
+jensenii strains that should be classified as members of the L. mulieris species.
+This prompted our phylogenomic study of all publicly available L. jensenii and L.
+mulieris genome sequences. While there is little variation in the 16S rRNA gene
+sequences, the core genome shows a clear distinction between genomes of the two
+species. We find eight additional strains of the species L. mulieris among these 
+genomes. Furthermore, one strain, currently classified as L. mulieris UMB7784, is
+distinct from both L. jensenii and L. mulieris strains. As part of our
+comparative genomic study, we also investigated the genetic content that
+distinguishes these two species. Unique to the L. jensenii genomes are several
+genes related to catabolism of disaccharides. In contrast, L. mulieris genomes
+encode several cell surface and secreted proteins that are not found within the
+L. jensenii genomes. These L. jensenii-specific and L. mulieris-specific loci
+provide insight into phenotypic differences of these two species.IMPORTANCE
+Lactobacillus species play a key role in the health of the urinary tract. For
+instance, Lactobacillus crispatus and L. jensenii have been found to inhibit
+uropathogenic Escherichia coli growth. While L. crispatus is typically found only
+within the microbiota of women without lower urinary tract symptoms (LUTS), L.
+jensenii has been found in the microbiota of women both with and without LUTS.
+With the recent introduction of the new species Lactobacillus mulieris, several
+strains of L. jensenii were reclassified as L. mulieris based upon gene marker
+and average nucleotide identity. We took a phylogenomic and comparative genomic
+approach to ascertain the genetic determinants of these two species. Looking at a
+larger data set, we identified additional L. mulieris strains, including one
+distinct from other members of the species-L. mulieris UMB7784. Furthermore, we
+identified unique loci in each species that may have clinical implications.
+
+Copyright © 2020 Putonti et al.
+
+DOI: 10.1128/mSphere.00560-20 
+PMCID: PMC7426171
+PMID: 32817455 
+

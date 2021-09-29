@@ -1,0 +1,49 @@
+
+1. Enzymes. 2020;47:399-425. doi: 10.1016/bs.enz.2020.05.011. Epub 2020 Jul 18.
+
+Styrene monooxygenases, indole monooxygenases and related flavoproteins applied
+in bioremediation and biocatalysis.
+
+Tischler D(1), Kumpf A(2), Eggerichs D(3), Heine T(4).
+
+Author information: 
+(1)Microbial Biotechnology, Faculty of Biology and Biotechnology,
+Ruhr-Universität Bochum, Bochum, Germany. Electronic address:
+dirk.tischler@rub.de.
+(2)Microbial Biotechnology, Faculty of Biology and Biotechnology,
+Ruhr-Universität Bochum, Bochum, Germany; Environmental Microbiology, Faculty of 
+Chemistry and Physics, TU Bergakademie Freiberg, Freiberg, Germany.
+(3)Microbial Biotechnology, Faculty of Biology and Biotechnology,
+Ruhr-Universität Bochum, Bochum, Germany.
+(4)Environmental Microbiology, Faculty of Chemistry and Physics, TU Bergakademie 
+Freiberg, Freiberg, Germany.
+
+Styrene and indole are naturally occurring compounds, which are also produced and
+processed by various chemical industries. Thus, it is not surprisingly that
+microorganisms evolved pathways to detoxify or even to utilize those compounds as
+carbon sources. Especially, among bacteria several routes are described
+specifically for the activation and degradation of styrene and indole.
+Respectively, the initial attack toward these compounds occurs via a
+flavin-dependent monooxygenase: styrene monooxygenase (SMO) or indole
+monooxygenase (IMO). In the first place, SMOs have been described to initiate a
+styrene specific degradation. These are in general two-component systems, whereas
+a small FAD-reductase (SMOB) delivers reduced FAD on the expense of NADH toward
+the monooxygenase (SMOA). Various modes of interaction are possible and for both 
+mostly dimeric protein subunits structural data were reported. Thus, this
+flavoprotein monooxygenase-especially the one from Pseudomonas putida S12 can be 
+seen as the prototype of this class of enzymes. In the course of describing
+related members of this enzyme family some remarkable findings were made. For
+example, self-sufficient fusion proteins have been reported as well as enzymes,
+which could not be assigned to a styrene metabolic activity, rather to indole
+conversion. Later it was found that this flavoprotein group can be separated at
+least into two subgroups: styrene and indole monooxygenases. And both enzymes
+rely on a FAD-reductase to obtain the reduced cofactor (FADred), which is
+employed to activate molecular oxygen toward hydroperoxy-FAD, which allows
+substrate epoxidation and the formation of hydroxy-FAD, which finally yields H2O 
+and oxidized FAD.
+
+© 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/bs.enz.2020.05.011 
+PMID: 32951830 
+

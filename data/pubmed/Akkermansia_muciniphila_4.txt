@@ -1,0 +1,47 @@
+
+1. Nat Commun. 2020 Sep 24;11(1):4822. doi: 10.1038/s41467-020-18649-5.
+
+Abiraterone acetate preferentially enriches for the gut commensal Akkermansia
+muciniphila in castrate-resistant prostate cancer patients.
+
+Daisley BA(1)(2)(3), Chanyi RM(1)(2)(3), Abdur-Rashid K(1)(2)(3), Al KF(1)(2)(3),
+Gibbons S(1)(2)(3), Chmiel JA(1)(2)(3), Wilcox H(1)(2)(3), Reid G(1)(2)(3),
+Anderson A(4), Dewar M(4), Nair SM(4), Chin J(4), Burton JP(5)(6)(7)(8).
+
+Author information: 
+(1)Department of Microbiology and Immunology, The University of Western Ontario, 
+London, ON, N6A 5C1, Canada.
+(2)Canadian Centre for Human Microbiome and Probiotics Research, London, ON, N6C 
+2R5, Canada.
+(3)Lawson Health Research Institute, St. Joseph's Health Care London, London, ON,
+N6A 4V2, Canada.
+(4)Department of Surgery, Division of Urology, Schulich School of Medicine,
+London, ON, N6A 5C1, Canada.
+(5)Department of Microbiology and Immunology, The University of Western Ontario, 
+London, ON, N6A 5C1, Canada. jeremy.burton@lawsonresearch.com.
+(6)Canadian Centre for Human Microbiome and Probiotics Research, London, ON, N6C 
+2R5, Canada. jeremy.burton@lawsonresearch.com.
+(7)Lawson Health Research Institute, St. Joseph's Health Care London, London, ON,
+N6A 4V2, Canada. jeremy.burton@lawsonresearch.com.
+(8)Department of Surgery, Division of Urology, Schulich School of Medicine,
+London, ON, N6A 5C1, Canada. jeremy.burton@lawsonresearch.com.
+
+Abiraterone acetate (AA) is an inhibitor of androgen biosynthesis, though this
+cannot fully explain its efficacy against androgen-independent prostate cancer.
+Here, we demonstrate that androgen deprivation therapy depletes
+androgen-utilizing Corynebacterium spp. in prostate cancer patients and that oral
+AA further enriches for the health-associated commensal, Akkermansia muciniphila.
+Functional inferencing elucidates a coinciding increase in bacterial biosynthesis
+of vitamin K2 (an inhibitor of androgen dependent and independent tumor growth). 
+These results are highly reproducible in a host-free gut model, excluding the
+possibility of immune involvement. Further investigation reveals that AA is
+metabolized by bacteria in vitro and that breakdown components selectively impact
+growth. We conclude that A. muciniphila is a key regulator of AA-mediated
+restructuring of microbial communities, and that this species may affect
+treatment response in castrate-resistant cohorts. Ongoing initiatives aimed at
+modulating the colonic microbiota of cancer patients may consider targeted
+delivery of poorly absorbed selective bacterial growth agents.
+
+DOI: 10.1038/s41467-020-18649-5 
+PMID: 32973149 
+

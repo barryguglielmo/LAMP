@@ -1,0 +1,65 @@
+
+1. Allergy Asthma Immunol Res. 2020 May;12(3):412-429. doi:
+10.4168/aair.2020.12.3.412.
+
+Relationship of Microbial Profile With Airway Immune Response in Eosinophilic or 
+Neutrophilic Inflammation of Asthmatics.
+
+Son JH(1), Kim JH(#)(2), Chang HS(#)(3), Park JS(4), Park CS(5).
+
+Author information: 
+(1)Department of Interdisciplinary Program in Biomedical Science Major, Graduate 
+School, Soonchunhyang University, Asan, Korea.
+(2)Department of Internal Medicine, Korean Armed Forces Capital Hospital,
+Seongnam, Korea.
+(3)Department of Interdisciplinary Program in Biomedical Science Major, Graduate 
+School, Soonchunhyang University, Asan, Korea. hschang@sch.ac.kr.
+(4)Genome Research Center and Division of Allergy and Respiratory Medicine,
+Department of Internal Medicine, Soonchunhyang University Bucheon Hospital,
+Bucheon, Korea. newstart1221@naver.com.
+(5)Genome Research Center and Division of Allergy and Respiratory Medicine,
+Department of Internal Medicine, Soonchunhyang University Bucheon Hospital,
+Bucheon, Korea.
+(#)Contributed equally
+
+PURPOSE: Different characteristics of airway microbiome in asthmatics may lead to
+differential immune responses, which in turn cause eosinophilic or neutrophilic
+airway inflammation. However, the relationships among these factors have yet to
+be fully elucidated.
+METHODS: Microbes in induced sputum samples were subjected to sequence analysis
+of 16S rRNA. Airway inflammatory phenotypes were defined as neutrophils (>60%)
+and eosinophils (>3%), and inflammation endotypes were defined by levels of T
+helper (Th) 1 (interferon-γ), Th2 (interleukin [IL]-5 and IL-13), Th-17 (IL-17), 
+and innate Th2 (IL-25, IL-33, and thymic stromal lymphopoietin) cytokines,
+inflammasomes (IL-1β), epithelial activation markers (granulocyte-macrophage
+colony-stimulating factor and IL-8), and Inflammation (IL-6 and tumor necrosis
+factor-α) cytokines in sputum supernatants was assessed by enzyme-linked
+immunosorbent assay.
+RESULTS: The numbers of operational taxonomic units were significantly higher in 
+the mixed (n = 21) and neutrophilic (n = 23) inflammation groups than in the
+paucigranulocytic inflammation group (n = 19; p < 0.05). At the species level,
+Granulicatella adiacens, Streptococcus parasanguinis, Streptococcus pneumoniae,
+Veillonella rogosae, Haemophilus parainfluenzae, and Neisseria perflava levels
+were significantly higher in the eosinophilic inflammation group (n = 20),
+whereas JYGU_s levels were significantly higher in the neutrophilic inflammation 
+group compared to the other subtypes (p < 0.05). Additionally, IL-5 and IL-13
+concentrations were correlated with the percentage of eosinophils (p < 0.05) and 
+IL-13 levels were positively correlated with the read counts of Porphyromonas
+pasteri and V. rogosae (p < 0.05). IL-1β concentrations were correlated with the 
+percentage of neutrophils (p < 0.05). had a tendency to be positively correlated 
+with the read count of JYGU_s (p = 0.095), and was negatively correlated with
+that of S. pneumoniae (p < 0.05).
+CONCLUSIONS: Difference of microbial patterns in airways may induce distinctive
+endotypes of asthma, which is responsible for the neutrophilic or eosinophilic
+inflammation in asthma.
+
+Copyright © 2020 The Korean Academy of Asthma, Allergy and Clinical Immunology · 
+The Korean Academy of Pediatric Allergy and Respiratory Disease.
+
+DOI: 10.4168/aair.2020.12.3.412 
+PMCID: PMC7061157
+PMID: 32141256 
+
+Conflict of interest statement: There are no financial or other issues that might
+lead to conflict of interest.
+

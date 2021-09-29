@@ -1,0 +1,48 @@
+
+1. Prev Vet Med. 2020 Aug 19;183:105124. doi: 10.1016/j.prevetmed.2020.105124. [Epub
+ahead of print]
+
+Bayesian estimation of the true prevalence of paratuberculosis in Hungarian dairy
+cattle herds.
+
+Ozsvari L(1), Lang Z(2), Monostori A(3), Kostoulas P(4), Fodor I(5).
+
+Author information: 
+(1)Department of Veterinary Forensics and Economics, University of Veterinary
+Medicine Budapest, Budapest, Hungary. Electronic address:
+ozsvari.laszlo@univet.hu.
+(2)Department of Biomathematics and Informatics, University of Veterinary
+Medicine Budapest, Budapest, Hungary.
+(3)Livestock Performance Testing Ltd., Gödöllő, Hungary.
+(4)Faculty of Veterinary Science, University of Thessaly, Volos, 43100, Greece.
+(5)Department of Veterinary Forensics and Economics, University of Veterinary
+Medicine Budapest, Budapest, Hungary.
+
+Paratuberculosis is a chronic incurable disease caused by Mycobacterium avium
+subsp. paratuberculosis (MAP), which leads to extensive economic losses on dairy 
+farms, and may also pose serious public health risk to the consumers. The aim of 
+our study was to estimate the true prevalence of paratuberculosis in commercial
+dairy cattle herds participating in a voluntary MAP testing programme that
+started in February 2018 in Hungary. Milk samples collected during official milk 
+recording were used for MAP ELISA testing. A Bayesian two-stage hierarchical
+(herd and animal level) model was fitted to the data. Altogether, 26,437 cows
+from 51 herds were sampled, which represents 14.4 % of the Hungarian dairy cow
+population. The median herd size was 477 cows (interquartile range: 331-709).
+Each studied farm had at least one ELISA positive cow, resulting in a herd-level 
+apparent prevalence of 100 %. The overall within herd apparent prevalence was 5.5
+%. Herd-level true prevalence was estimated at 89.1 % [95 % credible interval
+(CrI): 80.3-95.6%]. Within the infected herds, the median animal-level true
+prevalence was 4.4 % (3.2-5.8%) for primiparous and 10.3 % (7.9-12.9%) for
+multiparous cows, respectively. The probability of having an animal-level true
+prevalence of at least 5% among primiparous cows, within infected herds, was 17.8
+%. Similarly, the probability of having an animal-level true prevalence of at
+least 5% or 10 % among multiparous cows was 100 % and 56 %, respectively.
+Simulations assuming herd-level true prevalence varying from 50 to 100 % revealed
+high accuracy of our Bayesian model. Our study showed that a large percentage of 
+the studied Hungarian dairy cattle herds was infected with MAP.
+
+Copyright © 2020 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.prevetmed.2020.105124 
+PMID: 32889487 
+

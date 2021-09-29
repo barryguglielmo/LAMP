@@ -1,0 +1,47 @@
+
+1. Curr Microbiol. 2020 Mar;77(3):509-515. doi: 10.1007/s00284-019-01843-0. Epub
+2019 Dec 12.
+
+Paenibacillus oralis sp. nov., Isolated from Human Subgingival Dental Plaque of
+Gingivitis Lesion.
+
+Park SN(1), Lim YK(1), Shin JH(2), Jo E(1), Chang YH(3), Shin Y(3), Paek J(3),
+Kim H(4), Kook JK(5).
+
+Author information: 
+(1)Korean Collection for Oral Microbiology and Department of Oral Biochemistry,
+School of Dentistry, Chosun University, Gwangju, Republic of Korea.
+(2)Department of Laboratory Medicine, Inje University College of Medicine, Busan,
+Republic of Korea.
+(3)ABS Research Support Center, KRIBB, Daejeon, Republic of Korea.
+(4)Vitabio, Inc, Daejeon, Republic of Korea.
+(5)Korean Collection for Oral Microbiology and Department of Oral Biochemistry,
+School of Dentistry, Chosun University, Gwangju, Republic of Korea.
+jkkook@chosun.ac.kr.
+
+A Gram-stain-negative, facultative anaerobic, spore-forming, motile, and
+rod-shaped bacterium, strain ChDC PVNT-B20T, was isolated from the human
+subgingival dental plaque of a gingivitis lesion. Phylogenetic analysis based on 
+the 16S ribosomal RNA gene (16S rDNA) showed that the strain belonged to the
+genus Paenibacillus. BLAST analysis of 16S rDNA sequence of the strain displayed 
+high identity to those of Paenibacillus faecis DSM 23593T (97.7% similarity) and 
+Paenibacillus macerans ATCC 8244T (97.6% similarity). Draft genome of strain ChDC
+PVNT-B20T was composed of 8,112,407 bp. The DNA G+C content of the strain was
+51.3 mol%. Average nucleotide identity values between strain ChDC PVNT-B20T and
+P. faecis DSM 23593T or P. macerans ATCC 8244T were 75.71% and 91.5%,
+respectively. Genome-to-genome distance values between strain ChDC PVNT-B20T and 
+P. faecis DSM 23593T or P. macerans ATCC 8244T were 21.6% (19.3-24.0%) and 44.9% 
+(42.3-47.4%), respectively. Major cellular fatty acids of strain ChDC PVNT-B20T
+were anteiso-C15:0 (43.4%), C16:0 (16.6%), iso-C16:0 (14.4%), and anteiso-C17:0
+(12.4%). The sole respiratory quinone of the strain was menaqinone-7. Major polar
+lipids of the strain were phosphatidylglycerol (PG), diphosphatidylglycerol
+(DPG), and one unidentified glycolipid (GL). Minor polar lipids were one
+unidentified aminolipid (AL), one unidentified phospholipid (PL), and three
+unidentified lipids (L1-L3). Based on these results, strain ChDC PVNT-B20T is
+considered to represent a novel species of the genus Paenibacillus, for which the
+name Paenibacillus oralis sp. nov. is proposed. Type strain is ChDC PVNT-B20T
+(= KCOM 3021T = JCM 33462 T).
+
+DOI: 10.1007/s00284-019-01843-0 
+PMID: 31832844 
+

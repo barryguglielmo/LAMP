@@ -1,0 +1,44 @@
+
+1. Environ Microbiol. 2020 Aug 18. doi: 10.1111/1462-2920.15201. [Epub ahead of
+print]
+
+Anaerobic biodegradation of phenanthrene by a newly isolated nitrate-dependent
+Achromobacter denitrificans strain PheN1 and exploration of the biotransformation
+processes by metabolite and genome analyses.
+
+Zhang Z(1), Sun J(1), Guo H(1), Wang C(1), Fang T(1), Rogers MJ(2), He J(2), Wang
+H(1).
+
+Author information: 
+(1)State Key Joint Laboratory of Environment Simulation and Pollution Control,
+School of Environment, Tsinghua University, Beijing, 100084, China.
+(2)Department of Civil and Environmental Engineering, National University of
+Singapore, Singapore.
+
+Polycyclic aromatic hydrocarbons (PAHs) are widespread and harmful contaminants
+and are more persistent under anaerobic conditions. The bioremediation of PAHs in
+anaerobic zones has been enhanced by treating the contamination with nitrate,
+which is thermodynamically favourable, cost-effective, and highly soluble.
+However, anaerobic PAHs biotransformation processes that employ nitrate as an
+electron acceptor have not been fully explored. In this study, we investigated
+the anaerobic biotransformation of PAHs by strain PheN1, a newly isolated
+phenanthrene-degrading denitrifier, using phenanthrene as a model compound. PheN1
+is phylogenetically closely related to Achromobacter denitrificans and reduces
+nitrate to nitrite (not N2 ) during the anaerobic phenanthrene degradation
+process. Phenanthrene biotransformation processes were detected using gas
+chromatography-mass spectrometry and were further examined by reverse
+transcription-quantitative PCR and genome analyses. Carboxylation and methylation
+were both found to be the initial steps in the phenanthrene degradation process. 
+Downstream biotransformation processed benzene compounds and cyclohexane
+derivatives. This study describes the isolation of an anaerobic
+phenanthrene-degrading bacterium along with the pure-culture evidence of
+phenanthrene biotransformation processes with nitrate as an electron acceptor.
+The findings in this study can improve our understanding of anaerobic PAHs
+biodegradation processes and guide PAHs bioremediation by adding nitrate to
+anaerobic environments.
+
+© 2020 Society for Applied Microbiology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/1462-2920.15201 
+PMID: 32812321 
+

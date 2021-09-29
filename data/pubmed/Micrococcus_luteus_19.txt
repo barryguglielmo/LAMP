@@ -1,0 +1,53 @@
+
+1. Int J Mol Sci. 2020 Jul 11;21(14). pii: E4894. doi: 10.3390/ijms21144894.
+
+Molecular Characterization of a Novel Lytic Enzyme LysC from Clostridium
+intestinale URNW and Its Antibacterial Activity Mediated by Positively Charged
+N-Terminal Extension.
+
+Plotka M(1), Szadkowska M(1), Håkansson M(2), Kovačič R(2), Al-Karadaghi S(2),
+Walse B(2), Werbowy O(1), Kaczorowska AK(3), Kaczorowski T(1).
+
+Author information: 
+(1)Laboratory of Extremophiles Biology, Department of Microbiology, Faculty of
+Biology, University of Gdansk, 80-822 Gdansk, Poland.
+(2)SARomics Biostructures, SE-223 81 Lund, Sweden.
+(3)Collection of Plasmids and Microorganisms, Faculty of Biology, University of
+Gdansk, 80-308 Gdansk, Poland.
+
+Peptidoglycan hydrolytic enzymes are considered to be a promising alternative to 
+conventional antibiotics in combating bacterial infections. To identify novel
+hydrolytic enzymes, we performed a database search with the sequences of two
+thermostable endolysins with high bactericidal activity, studied earlier in our
+laboratory. Both these enzymes originate from Thermus scotoductus bacteriophages 
+MAT2119 and vB_Tsc2631. A lytic enzyme LysC from Clostridium intestinale URNW was
+found to have the highest amino acid sequence similarity to the bacteriophage
+proteins and was chosen for further analysis. The recombinant enzyme showed
+strong activity against its host bacteria C. intestinale, as well as against C.
+sporogenes, Bacillus cereus, Micrococcus luteus, and Staphylococcus aureus, on
+average causing a 5.12 ± 0.14 log reduction of viable S. aureus ATCC 25923 cells 
+in a bactericidal assay. Crystallographic studies of the protein showed that the 
+catalytic site of LysC contained a zinc atom coordinated by amino acid residues
+His50, His147, and Cys155, a feature characteristic for type 2 amidases.
+Surprisingly, neither of these residues, nor any other of the four conserved
+residues in the vicinity of the active site, His51, Thr52, Tyr76, and Thr153,
+were essential to maintain the antibacterial activity of LysC. Therefore, our
+attention was attracted to the intrinsically disordered and highly positively
+charged N-terminal region of the enzyme. Potential antibacterial activity of this
+part of the sequence, predicted by the Antimicrobial Sequence Scanning System,
+AMPA, was confirmed in our experimental studies; the truncated version of LysC
+(LysCΔ2-23) completely lacked antibacterial activity. Moreover, a synthetic
+peptide, which we termed Intestinalin, with a sequence identical to the first
+thirty amino acids of LysC, displayed substantial anti-staphylococcal activity
+with IC50 of 6 μg/mL (1.5 μM). This peptide was shown to have α-helical
+conformation in solution in the presence of detergents which is a common feature 
+of amphipathic α-helical antimicrobial peptides.
+
+DOI: 10.3390/ijms21144894 
+PMCID: PMC7404271
+PMID: 32664473 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

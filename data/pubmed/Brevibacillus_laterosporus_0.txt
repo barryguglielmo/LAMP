@@ -1,0 +1,68 @@
+
+1. Appl Environ Microbiol. 2020 Sep 25. pii: AEM.01981-20. doi:
+10.1128/AEM.01981-20. [Epub ahead of print]
+
+Novel modifications of nonribosomal peptides from Brevibacillus laterosporus MG64
+and investigation of their mode of action.
+
+Li Z(1), de Vries RH(2), Chakraborty P(3), Song C(4), Zhao X(1), Scheffers DJ(3),
+Roelfes G(2), Kuipers OP(5).
+
+Author information: 
+(1)Department of Molecular Genetics, Groningen Biomolecular Sciences and
+Biotechnology Institute, University of Groningen, Groningen, 9747AG, the
+Netherlands.
+(2)Biomolecular Chemistry & Catalysis, Stratingh Institute for Chemistry,
+University of Groningen, Groningen, 9747AG, the Netherlands.
+(3)Department of Molecular Microbiology, Groningen Biomolecular Sciences and
+Biotechnology Institute, University of Groningen, Groningen, 9747AG, the
+Netherlands.
+(4)College of Resources and Environmental Science; National Academy of
+Agriculture Green Development; Key Laboratory of Plant-Soil Interaction, Ministry
+of Education, China Agricultural University, Beijing, 100193, China.
+(5)Department of Molecular Genetics, Groningen Biomolecular Sciences and
+Biotechnology Institute, University of Groningen, Groningen, 9747AG, the
+Netherlands o.p.kuipers@rug.nl.
+
+Nonribosomal peptides (NRPs) are a class of secondary metabolites usually
+produced by microorganisms. They are of paramount importance in different
+applications including biocontrol and pharmacy. Brevibacillus spp. is a rich
+source of NRPs yet has received little attention. In this study, we characterize 
+four novel bogorol variants (bogorol I-L, cationic linear lipopeptides) and four 
+succilins (succilin I-L, containing a succinyl group that is attached to the
+Orn3/Lys3 in bogorol I-L) from the biocontrol strain B. laterosporus MG64.
+Further investigation revealed that the bogorol family of peptides employ an
+adenylation pathway for lipoinitiation, which is different from the usual pattern
+that is based on an external ligase and coenzyme A. Moreover, the formation of
+valinol was proven to be mediated by a terminal reductase domain and a reductase 
+encoded by gene bogI Furthermore, succinylation, which is a novel type of
+modification in the family of bogorols, was discovered. Its occurrence requires a
+high concentration of substrate (bogorols) but its responsible enzyme remains
+unknown. Bogorols display potent activity against both Gram-positive and
+Gram-negative bacteria. Investigation of their mode of action reveals that
+bogorols form pores in the cell membrane of both Gram-positive and Gram-negative 
+bacteria. A combination of bogorols and relacidines, another class of NRPs
+produced by B. laterosporus MG64, displays a synergistic effect on different
+pathogens, suggesting great potential of both peptides as well as their producer 
+B. laterosporus MG64 for broad applications. Our study provides a further
+understanding of the bogorol family of peptides as well as their
+applications.Importance NRPs form a class of secondary metabolites with
+biocontrol and pharmaceutical potential. This work describes the identification
+of novel bogorol variants and succinylated bogorols (namely succilins) and
+further investigate their biosynthetic pathway and mode of action. Adenylation
+domain-mediated lipoinitiation of bogorols represents a novel pathway of NRPs to 
+incorporate fatty acid tail. This pathway provides the possibility to engineer
+the lipid tail of NRPs without identifying a fatty acid coenzyme ligase, which is
+usually not present in the biosynthetic gene cluster. The terminal reductase
+domain (TD) and BogI-mediated valinol formation and its effect on the biological 
+activity of bogorols are revealed. Succinylation, which is barely reported in
+NRPs, is discovered in the bogorol family of peptides. We demonstrate that
+bogorols combat bacterial pathogens by forming pores in the cell membrane. We
+also report synergistic effect of two natural products (relacidine B and bogorol 
+K) produced by the same strain, which is relevant for competition for a niche.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.01981-20 
+PMID: 32978140 
+

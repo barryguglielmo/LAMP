@@ -1,0 +1,33 @@
+
+1. Synth Biol (Oxf). 2020 Jun 8;5(1):ysaa006. doi: 10.1093/synbio/ysaa006.
+eCollection 2020.
+
+Dual UTR-A novel 5' untranslated region design for synthetic biology
+applications.
+
+Balzer Le S(1), Onsager I(1), Lorentzen JA(1), Lale R(1).
+
+Author information: 
+(1)PhotoSynLab, Department of Biotechnology, Faculty of Natural Sciences,
+Norwegian University of Science and Technology, N-7491, Trondheim, Norway.
+
+Bacterial 5' untranslated regions of mRNA (UTR) involve in a complex regulation
+of gene expression; however, the exact sequence features contributing to gene
+regulation are not yet fully understood. In this study, we report the design of a
+novel 5' UTR, dual UTR, utilizing the transcriptional and translational
+characteristics of 5' UTRs in a single expression cassette. The dual UTR consists
+of two 5' UTRs, each separately leading to either increase in transcription or
+translation of the reporter, that are separated by a spacer region, enabling de
+novo translation initiation. We rationally create dual UTRs with a wide range of 
+expression profiles and demonstrate the functionality of the novel design concept
+in Escherichia coli and Pseudomonas putida using different promoter systems and
+coding sequences. Overall, we demonstrate the application potential of dual UTR
+design concept in various synthetic biology applications ranging from fine-tuning
+of gene expression to maximization of protein production.
+
+© The Author(s) 2020. Published by Oxford University Press.
+
+DOI: 10.1093/synbio/ysaa006 
+PMCID: PMC7476403
+PMID: 32995550 
+

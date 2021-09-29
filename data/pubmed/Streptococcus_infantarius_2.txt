@@ -1,0 +1,51 @@
+
+1. PLoS One. 2020 Mar 5;15(3):e0229417. doi: 10.1371/journal.pone.0229417.
+eCollection 2020.
+
+Biochemical, genetic and transcriptional characterization of multibacteriocin
+production by the anti-pneumococcal dairy strain Streptococcus infantarius LP90.
+
+Campanero C(1), Muñoz-Atienza E(1), Diep DB(2), Feito J(1), Arbulu S(1), Del
+Campo R(3), Nes IF(2), Hernández PE(1), Herranz C(1), Cintas LM(1).
+
+Author information: 
+(1)Grupo de Seguridad y Calidad de los Alimentos por Bacterias Lácticas,
+Bacteriocinas y Probióticos (Grupo SEGABALBP), Sección Departamental de Nutrición
+y Ciencia de los Alimentos (Nutrición, Bromatología, Higiene y Seguridad
+Alimentaria), Facultad de Veterinaria, Universidad Complutense de Madrid, Madrid,
+Spain.
+(2)Department of Chemistry, Biotechnology and Food Science, Norwegian University 
+of Life Sciences (NMBU), Ås, Norway.
+(3)Servicio de Microbiología, Hospital Universitario Ramón y Cajal & Instituto
+Ramón y Cajal de Investigación Sanitaria (IRYCIS), Madrid, Spain.
+
+Streptococcus pneumoniae infections are one of the major causes of morbility and 
+mortality worldwide. Although vaccination and antibiotherapy constitute
+fundamental and complementary strategies against pneumococcal infections, they
+present some limitations including the increase in non-vaccine serotypes and the 
+emergence of multidrug-resistances, respectively. Ribosomally-synthesized
+antimicrobial peptides (i.e. bacteriocins) produced by Lactic Acid Bacteria (LAB)
+may represent an alternative or complementary strategy to antibiotics for the
+control of pneumococal infections. We tested the antimicrobial activity of 37
+bacteriocinogenic LAB, isolated from food and other sources, against clinical S. 
+pneumoniae strains. Streptococcus infantarius subsp. infantarius LP90, isolated
+from Venezuelan water-buffalo milk, was selected because of its broad and strong 
+anti-pneumococcal spectrum. The in vitro safety assessment of S. infantarius LP90
+revealed that it may be considered avirulent. The analysis of a 19,539-bp cluster
+showed the presence of 29 putative open reading frames (ORFs), including the
+genes encoding 8 new class II-bacteriocins, as well as the proteins involved in
+their secretion, immunity and regulation. Transcriptional analyses evidenced that
+the induction factor (IF) structural gene, the bacteriocin/IF transporter genes, 
+the bacteriocin structural genes and most of the bacteriocin immunity genes were 
+transcribed. MALDI-TOF analyses of peptides purified using different
+multichromatographic procedures revealed that the dairy strain S. infantarius
+LP90 produces at least 6 bacteriocins, including infantaricin A1, a novel
+anti-pneumococcal two-peptide bacteriocin.
+
+DOI: 10.1371/journal.pone.0229417 
+PMCID: PMC7058333
+PMID: 32134941  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

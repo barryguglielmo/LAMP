@@ -1,0 +1,51 @@
+
+1. Sci Rep. 2019 Dec 4;9(1):18355. doi: 10.1038/s41598-019-54989-z.
+
+Species-specific transcriptional profiles of the gut and gut microbiome of
+Ceratitis quilicii and Ceratitis rosa sensu stricto.
+
+Khamis FM(1), Mireji PO(2)(3), Ombura FLO(4), Malacrida AR(5), Awuoche EO(2)(6), 
+Rono M(3), Mohamed SA(4), Tanga CM(4), Ekesi S(4).
+
+Author information: 
+(1)International Centre of Insect Physiology and Ecology, P.O. Box 30772-00100,
+Nairobi, Kenya. fkhamis@icipe.org.
+(2)Biotechnology Research Institute, Kenya Agricultural and Livestock Research
+Organization, P.O. Box 362-00902, Kikuyu, Kenya.
+(3)Centre for Geographic Medicine Research Coast, Kenya Medical Research
+Institute, P.O. Box 428, Kilifi, Kenya.
+(4)International Centre of Insect Physiology and Ecology, P.O. Box 30772-00100,
+Nairobi, Kenya.
+(5)Department of Biology and Biotechnology, Universita degli Studi di Pavia,
+Corso Strada Nuova, 65, 27100, Pavia, Italy.
+(6)Department of Agriculture, School of Agriculture and Food Science, Meru
+University of Science and Technology, P.O. Box 972, Meru, Kenya.
+
+The fruit fly species, Ceratitis rosa sensu stricto and Ceratitis quilicii, are
+sibling species restricted to the lowland and highland regions, respectively.
+Until recently, these sibling species were considered as allopatric populations
+of C. rosa with distinct bionomics. We used deep Next Generation Sequencing (NGS)
+technology on intact guts of individuals from the two sibling species to compare 
+their transcriptional profiles and simultaneously understand gut microbiome and
+host molecular processes and identify distinguishing genetic differences between 
+the two species. Since the genomes of both species had not been published
+previously, the transcriptomes were assembled de novo into transcripts.
+Microbe-specific transcript orthologs were separated from the assembly by
+filtering searches of the transcripts against microbe databases using OrthoMCL.
+We then used differential expression analysis of host-specific transcripts (i.e. 
+those remaining after the microbe-specific transcripts had been removed) and
+microbe-specific transcripts from the two-sibling species to identify defining
+species-specific transcripts that were present in only one fruit fly species or
+the other, but not in both. In C. quilicii females, bacterial transcripts of
+Pectobacterium spp., Enterobacterium buttiauxella, Enterobacter cloacae and
+Klebsiella variicola were upregulated compared to the C. rosa s.s. females.
+Comparison of expression levels of the host transcripts revealed a heavier
+investment by C. quilicii (compared with C. rosa s.s.) in: immunity; energy
+production; cell proliferation; insecticide resistance; reproduction and
+proliferation; and redox reactions that are usually associated with responses to 
+stress and degradation of fruit metabolites.
+
+DOI: 10.1038/s41598-019-54989-z 
+PMCID: PMC6892911
+PMID: 31798006 
+

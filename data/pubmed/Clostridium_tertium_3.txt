@@ -1,0 +1,59 @@
+
+1. Virulence. 2019 Dec;10(1):657-676. doi: 10.1080/21505594.2019.1637699.
+
+Comparative genomics identifies potential virulence factors in Clostridium
+tertium and C. paraputrificum.
+
+Muñoz M(1)(2), Restrepo-Montoya D(1)(3), Kumar N(4), Iraola G(5)(6), Herrera
+G(1), Ríos-Chaparro DI(1), Díaz-Arévalo D(7)(8), Patarroyo MA(7)(9), Lawley
+TD(4), Ramírez JD(1).
+
+Author information: 
+(1)a Grupo de Investigaciones Microbiológicas - UR (GIMUR), Programa de Biología,
+Facultad de Ciencias Naturales y Matemáticas , Universidad del Rosario , Bogotá ,
+Colombia.
+(2)b Posgrado Interfacultades, Doctorado en Biotecnología, Facultad de Ciencias ,
+Universidad Nacional de Colombia , Bogotá , Colombia.
+(3)c Genomics and Bioinformatics Program , North Dakota State University , Fargo 
+, ND , USA.
+(4)d Host-Microbiota Interactions Laboratory , Wellcome Trust Sanger Institute , 
+Hinxton , UK.
+(5)e Microbial Genomics Laboratory , Institut Pasteur Montevideo , Montevideo ,
+Uruguay.
+(6)f Center for Integrative Biology , Universidad Mayor , Santiago de Chile ,
+Chile.
+(7)g Molecular Biology and Immunology Department , Fundación Instituto de
+Inmunología de Colombia (FIDIC) , Bogotá , Colombia.
+(8)h Faculty of Animal Sciences , Universidad de Ciencias Aplicadas y Ambientales
+(UDCA) , Bogotá , Colombia.
+(9)i School of Medicine and Health Sciences , Universidad del Rosario , Bogotá , 
+Colombia.
+
+Some well-known Clostridiales species such as Clostridium difficile and C.
+perfringens are agents of high impact diseases worldwide. Nevertheless, other
+foreseen Clostridiales species have recently emerged such as Clostridium tertium 
+and C. paraputrificum. Three fecal isolates were identified as Clostridium
+tertium (Gcol.A2 and Gcol.A43) and C. paraputrificum (Gcol.A11) during public
+health screening for C. difficile infections in Colombia. C. paraputrificum
+genomes were highly diverse and contained large numbers of accessory genes.
+Genetic diversity and accessory gene percentage were lower among the C. tertium
+genomes than in the C. paraputrificum genomes. C. difficile tcdA and tcdB toxins 
+encoding homologous sequences and other potential virulence factors were also
+identified. EndoA interferase, a toxic component of the type II toxin-antitoxin
+system, was found among the C. tertium genomes. toxA was the only toxin encoding 
+gene detected in Gcol.A43, the Colombian isolate with an
+experimentally-determined high cytotoxic effect. Gcol.A2 and Gcol.A43 had higher 
+sporulation efficiencies than Gcol.A11 (84.5%, 83.8% and 57.0%, respectively), as
+supported by the greater number of proteins associated with sporulation pathways 
+in the C. tertium genomes compared with the C. paraputrificum genomes (33.3 and
+28.4 on average, respectively). This work allowed complete genome description of 
+two clostridiales species revealing high levels of intra-taxa diversity,
+accessory genomes containing virulence-factors encoding genes (especially in C.
+paraputrificum), with proteins involved in sporulation processes more highly
+represented in C. tertium. These finding suggest the need to advance in the study
+of those species with potential importance at public health level.
+
+DOI: 10.1080/21505594.2019.1637699 
+PMCID: PMC6629180
+PMID: 31304854  [Indexed for MEDLINE]
+

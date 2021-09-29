@@ -1,0 +1,62 @@
+
+1. Antibiotics (Basel). 2020 Sep 18;9(9). pii: E619. doi:
+10.3390/antibiotics9090619.
+
+Amidochelocardin Overcomes Resistance Mechanisms Exerted on Tetracyclines and
+Natural Chelocardin.
+
+Hennessen F(1)(2), Miethke M(1)(2), Zaburannyi N(1)(2), Loose M(3), Lukežič
+T(1)(2)(4), Bernecker S(2)(5), Hüttel S(2)(5), Jansen R(2)(5), Schmiedel J(6),
+Fritzenwanker M(6), Imirzalioglu C(6), Vogel J(7), Westermann AJ(7), Hesterkamp
+T(2), Stadler M(2)(5), Wagenlehner F(3), Petković H(8), Herrmann J(1)(2), Müller 
+R(1)(2).
+
+Author information: 
+(1)Department of Microbial Natural Products, Helmholtz Institute for
+Pharmaceutical Research Saarland (HIPS)-Helmholtz Centre for Infection Research
+(HZI), and Department of Pharmacy, Saarland University Campus E8.1, 66123
+Saarbrücken, Germany.
+(2)German Center for Infection Research (DZIF), Partner Site
+Hannover-Braunschweig, 38124 Braunschweig, Germany.
+(3)Clinic for Urology, Paediatric Urology & Andrology, Justus-Liebig University
+Gießen, and German Center for Infection Research (DZIF), Partner Site
+Giessen-Marburg-Langen, 35392 Gießen, Germany.
+(4)National Institute of Biology, Večna pot 111, 1000 Ljubljana, Slovenia.
+(5)Department of Microbial Drugs, Helmholtz Centre for Infection Research (HZI), 
+Inhoffenstrasse 7, 38124 Braunschweig, Germany.
+(6)Institute of Medical Microbiology, Justus-Liebig University Gießen, and German
+Center for Infection Research (DZIF), Partner Site Giessen-Marburg-Langen, 35390 
+Gießen, Germany.
+(7)Helmholtz Institute for RNA-based Infection Research (HIRI), Helmholtz Centre 
+for Infection Research (HZI) and Institute of Molecular Infection Biology (IMIB),
+University of Würzburg, Josef-Schneider-Str. 2, 97080 Würzburg, Germany.
+(8)Department of Food Science and Technology, Biotechnical Faculty, University of
+Ljubljana, Jamnikarjeva 101, 1000 Ljubljana, Slovenia.
+
+The reassessment of known but neglected natural compounds is a vital strategy for
+providing novel lead structures urgently needed to overcome antimicrobial
+resistance. Scaffolds with resistance-breaking properties represent the most
+promising candidates for a successful translation into future therapeutics. Our
+study focuses on chelocardin, a member of the atypical tetracyclines, and its
+bioengineered derivative amidochelocardin, both showing broad-spectrum
+antibacterial activity within the ESKAPE (Enterococcus faecium, Staphylococcus
+aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa,
+and Enterobacter species) panel. Further lead development of chelocardins
+requires extensive biological and chemical profiling to achieve favorable
+pharmaceutical properties and efficacy. This study shows that both molecules
+possess resistance-breaking properties enabling the escape from most common
+tetracycline resistance mechanisms. Further, we show that these compounds are
+potent candidates for treatment of urinary tract infections due to their in vitro
+activity against a large panel of multidrug-resistant uropathogenic clinical
+isolates. In addition, the mechanism of resistance to natural chelocardin was
+identified as relying on efflux processes, both in the chelocardin producer
+Amycolatopsis sulphurea and in the pathogen Klebsiella pneumoniae. Resistance
+development in Klebsiella led primarily to mutations in ramR, causing increased
+expression of the acrAB-tolC efflux pump. Most importantly, amidochelocardin
+overcomes this resistance mechanism, revealing not only the improved activity
+profile but also superior resistance-breaking properties of this novel
+antibacterial compound.
+
+DOI: 10.3390/antibiotics9090619 
+PMID: 32962088 
+

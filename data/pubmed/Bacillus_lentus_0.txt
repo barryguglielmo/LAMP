@@ -1,0 +1,51 @@
+
+1. PeerJ. 2020 Jun 26;8:e9408. doi: 10.7717/peerj.9408. eCollection 2020.
+
+Conformational heterogeneity of Savinase from NMR, HDX-MS and X-ray diffraction
+analysis.
+
+Wu S(1), Nguyen TTTN(2), Moroz OV(3), Turkenburg JP(3), Nielsen JE(4), Wilson
+KS(3), Rand KD(2), Teilum K(1).
+
+Author information: 
+(1)Structural Biology and NMR Laboratory, Linderstrøm-Lang Centre for Protein
+Science, Department of Biology, University of Copenhagen, Copenhagen N, Denmark.
+(2)Protein Analysis Group, Department of Pharmacy, University of Copenhagen,
+Copenhagen Ø, Denmark.
+(3)York Structural Biology Laboratory, Department of Chemistry, University of
+York, York, United Kingdom.
+(4)Novozymes A/S, Lyngby, Denmark.
+
+Background: Several examples have emerged of enzymes where slow conformational
+changes are of key importance for function and where low populated conformations 
+in the resting enzyme resemble the conformations of intermediate states in the
+catalytic process. Previous work on the subtilisin protease, Savinase, from
+Bacillus lentus by NMR spectroscopy suggested that this enzyme undergoes slow
+conformational dynamics around the substrate binding site. However, the
+functional importance of such dynamics is unknown.
+Methods: Here we have probed the conformational heterogeneity in Savinase by
+following the temperature dependent chemical shift changes. In addition, we have 
+measured changes in the local stability of the enzyme when the inhibitor
+phenylmethylsulfonyl fluoride is bound using hydrogen-deuterium exchange mass
+spectrometry (HDX-MS). Finally, we have used X-ray crystallography to compare
+electron densities collected at cryogenic and ambient temperatures and searched
+for possible low populated alternative conformations in the crystals.
+Results: The NMR temperature titration shows that Savinase is most flexible
+around the active site, but no distinct alternative states could be identified.
+The HDX shows that modification of Savinase with inhibitor has very little impact
+on the stability of hydrogen bonds and solvent accessibility of the backbone. The
+most pronounced structural heterogeneities detected in the diffraction data are
+limited to alternative side-chain rotamers and a short peptide segment that has
+an alternative main-chain conformation in the crystal at cryo conditions.
+Collectively, our data show that there is very little structural heterogeneity in
+the resting state of Savinase and hence that Savinase does not rely on
+conformational selection to drive the catalytic process.
+
+©2020 Wu et al.
+
+DOI: 10.7717/peerj.9408 
+PMCID: PMC7323712
+PMID: 32617193 
+
+Conflict of interest statement: Jens E. Nielsen is employed by Novozymes A/S.
+

@@ -1,0 +1,53 @@
+
+1. J Endod. 2020 Aug 14. pii: S0099-2399(20)30584-7. doi:
+10.1016/j.joen.2020.08.004. [Epub ahead of print]
+
+Analysis of Active Bacteria Persisting after Chemomechanical Procedures: An RNA- 
+and DNA-based Molecular Study.
+
+Nardello LCL(1), Vilela BG(1), Fernandes FS(1), Bruno FP(1), Carvalho APL(1),
+Cazares RXR(1), Nascimento LCP(1), Honório HM(2), Ando ES(3), Mayer MPA(3),
+Gavini G(1), Pinheiro ET(4).
+
+Author information: 
+(1)Department of Dentistry, School of Dentistry, University of São Paulo, São
+Paulo, SP, Brazil.
+(2)Department of Pediatric Dentistry, Orthodontics and Public Health, Bauru,
+School of Dentistry, Bauru, SP, Brazil.
+(3)Department of Microbiology, Institute of Biomedical Sciences, University of
+São Paulo, São Paulo, SP, Brazil.
+(4)Department of Dentistry, School of Dentistry, University of São Paulo, São
+Paulo, SP, Brazil. Electronic address: erickapinheiro@usp.br.
+
+INTRODUCTION: Because active cells present higher abundance of ribosomal RNA
+(rRNA) than rDNA (rRNA genes), data obtained with rDNA-based quantitative
+polymerase chain reaction (qPCR) and rRNA-based qPCR (RT-qPCR) were correlated to
+search for active bacteria after chemomechanical procedures (CMP). In addition,
+the ability of both assays to detect bacteria in endodontic samples was
+evaluated.
+METHODS: Samples were taken from 40 teeth with primary endodontic infections
+before (S1) and after CMP (S2). DNA and cDNA (synthetized from RNA) were used as 
+templates for qPCR using universal primers for bacteria and species-specific
+primers for Bacteroidaceae sp. HOT-272, Cutibacterium acnes, Selenomonas spp.,
+and Enterococcus faecalis.
+RESULTS: After CMP, there was a drastic reduction in the number of total
+bacteria, Selenomonas spp., and E. faecalis, whereas no significant difference
+was observed for the levels of Bacteroidaceae sp. HOT-272 and C. acnes. The
+concentration of rRNA copies in S2 samples was significantly higher than the
+corresponding levels of rDNA for assays targeting total bacteria, Bacteroidaceae 
+sp. HOT-272, and C. acnes (P < .05), indicating persistence of active bacteria.
+The rDNA-based qPCR presented low sensitivity and high specificity when compared 
+with RT-qPCR. For most assays, samples positive for rDNA were also positive for
+rRNA (positive predictive value = 100%).
+CONCLUSIONS: CMP was effective in reducing levels but not the metabolic activity 
+of total bacteria. Bacteroidaceae sp. HOT-272 and C. acnes were active members of
+the persistent community. Although less sensitive than RT-qPCR, most rDNA-based
+qPCR assays had a low risk of providing false-positive results in
+postinstrumentation samples.
+
+Copyright © 2020 American Association of Endodontists. Published by Elsevier Inc.
+All rights reserved.
+
+DOI: 10.1016/j.joen.2020.08.004 
+PMID: 32805336 
+

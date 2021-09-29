@@ -1,0 +1,45 @@
+
+1. Sci Rep. 2019 Nov 11;9(1):16465. doi: 10.1038/s41598-019-52955-3.
+
+Pseudomonas aeruginosa quorum sensing inhibition by clinical isolate Delftia
+tsuruhatensis 11304: involvement of N-octadecanoylhomoserine lactones.
+
+Malešević M(1), Di Lorenzo F(2), Filipić B(1)(3), Stanisavljević N(1), Novović
+K(1), Senerovic L(1), Polović N(4), Molinaro A(2), Kojić M(1), Jovčić B(5)(6).
+
+Author information: 
+(1)Institute of Molecular Genetics and Genetic Engineering, University of
+Belgrade, Belgrade, 11010, Serbia.
+(2)University of Napoli Federico II, Department of Chemical Sciences, Napoli,
+80126, Italy.
+(3)Faculty of Pharmacy, University of Belgrade, Belgrade, 11221, Serbia.
+(4)Faculty of Chemistry, University of Belgrade, Belgrade, 11000, Serbia.
+(5)Institute of Molecular Genetics and Genetic Engineering, University of
+Belgrade, Belgrade, 11010, Serbia. bjovcic@bio.bg.ac.rs.
+(6)Faculty of Biology, University of Belgrade, Belgrade, 11000, Serbia.
+bjovcic@bio.bg.ac.rs.
+
+Pseudomonas aeruginosa is one of the most common opportunistic pathogens that use
+quorum sensing (QS) system to regulate virulence factors expression and biofilm
+development. Delftia sp. 11304 was selected among 663 Gram-negative clinical
+isolates based on its QS inhibitory activity against P. aeruginosa MMA83 clinical
+isolate. Whole genome sequencing identified this isolate as D. tsuruhatensis and 
+revealed genetic armamentarium of virulence factors and antibiotic resistance
+determinants. Ethyl acetate extract of D. tsuruhatensis 11304 culture supernatant
+(QSI extract) prevented biofilm formation of P. aeruginosa MMA83, but was unable 
+to cause biofilm decomposition. QSI extract showed a synergistic effect in
+combination with meropenem and gentamycin, against P. aeruginosa MMA83. A
+dose-dependent reduction of the virulence factors: elastase, rhamnolipid and
+pyocyanin production by P. aeruginosa MMA83 and significant downregulation of
+lasI, lasR, rhlI, rhlR, pqs and mvfR expression were observed. Matrix-assisted
+Laser Desorption Ionization (MALDI) mass spectrometry of D. tsuruhatensis 11304
+QSI extract revealed the presence of N-acyl homoserine lactones (AHL) with chain 
+lengths of C12 to C18. The main ion peak was identified as
+N-octadecanoylhomoserine lactone (C18-HSL). Commercial C18-HSL (20 µM) reduced
+pyocyanin production as well as mRNA level of the lasI gene. A novel AHL species,
+dihydroxy-N-octadecanoylhomoserine lactone, was also described.
+
+DOI: 10.1038/s41598-019-52955-3 
+PMCID: PMC6848482
+PMID: 31712724 
+

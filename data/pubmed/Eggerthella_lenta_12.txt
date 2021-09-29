@@ -1,0 +1,48 @@
+
+1. Nat Microbiol. 2020 Jan;5(1):56-66. doi: 10.1038/s41564-019-0596-1. Epub 2019 Nov
+4.
+
+Genetic basis for the cooperative bioactivation of plant lignans by Eggerthella
+lenta and other human gut bacteria.
+
+Bess EN(1)(2)(3), Bisanz JE(1), Yarza F(1), Bustion A(1), Rich BE(2), Li X(4),
+Kitamura S(5), Waligurski E(1), Ang QY(1), Alba DL(6), Spanogiannopoulos P(1),
+Nayfach S(7), Koliwad SK(6), Wolan DW(5), Franke AA(4), Turnbaugh PJ(8)(9).
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of California, San
+Francisco, San Francisco, CA, USA.
+(2)Department of Chemistry, University of California, Irvine, Irvine, CA, USA.
+(3)Department of Molecular Biology and Biochemistry, University of California,
+Irvine, Irvine, CA, USA.
+(4)University of Hawaii Cancer Center, Honolulu, HI, USA.
+(5)Department of Molecular Medicine, The Scripps Research Institute, La Jolla,
+CA, USA.
+(6)Diabetes Center, University of California San Francisco, San Francisco, CA,
+USA.
+(7)United States Department of Energy Joint Genome Institute, Walnut Creek, CA,
+USA.
+(8)Department of Microbiology and Immunology, University of California, San
+Francisco, San Francisco, CA, USA. peter.turnbaugh@ucsf.edu.
+(9)Chan Zuckerberg Biohub, San Francisco, CA, USA. peter.turnbaugh@ucsf.edu.
+
+Plant-derived lignans, consumed daily by most individuals, are thought to protect
+against cancer and other diseases1; however, their bioactivity requires gut
+bacterial conversion to enterolignans2. Here, we dissect a four-species bacterial
+consortium sufficient for all five reactions in this pathway. A single enzyme
+(benzyl ether reductase, encoded by the gene ber) was sufficient for the first
+two biotransformations, variable between strains of Eggerthella lenta, critical
+for enterolignan production in gnotobiotic mice and unique to Coriobacteriia.
+Transcriptional profiling (RNA sequencing) independently identified ber and
+genomic loci upregulated by each of the remaining substrates. Despite their low
+abundance in gut microbiomes and restricted phylogenetic range, all of the
+identified genes were detectable in the distal gut microbiomes of most
+individuals living in northern California. Together, these results emphasize the 
+importance of considering strain-level variations and bacterial co-occurrence to 
+gain a mechanistic understanding of the bioactivation of plant secondary
+metabolites by the human gut microbiome.
+
+DOI: 10.1038/s41564-019-0596-1 
+PMCID: PMC6941677
+PMID: 31686027  [Indexed for MEDLINE]
+

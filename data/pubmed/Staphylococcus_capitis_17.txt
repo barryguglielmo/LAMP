@@ -1,0 +1,60 @@
+
+1. J Infect Chemother. 2020 Jul;26(7):699-705. doi: 10.1016/j.jiac.2020.02.018. Epub
+2020 Mar 31.
+
+Characterization of an ST5-SCCmec II-t311 methicillin-resistant Staphylococcus
+aureus strain with a widespread cfr-positive plasmid.
+
+Wu D(1), Wang H(2), Zhu F(2), Jiang S(2), Sun L(2), Zhao F(3), Yu Y(4), Chen
+Y(5).
+
+Author information: 
+(1)Department of Infectious Diseases, Second Affiliated Hospital, Zhejiang
+University School of Medicine, Hangzhou, Zhejiang, 310009, China.
+(2)Department of Infectious Diseases, Sir Run Run Shaw Hospital, School of
+Medicine, Zhejiang University, Hangzhou, Zhejiang, 310016, China.
+(3)Department of Clinical Laboratory, Sir Run Run Shaw Hospital, School of
+Medicine, Zhejiang University, Hangzhou, Zhejiang, 310016, China.
+(4)Department of Infectious Diseases, Sir Run Run Shaw Hospital, School of
+Medicine, Zhejiang University, Hangzhou, Zhejiang, 310016, China; Key Laboratory 
+of Microbial Technology and Bioinformatics of Zhejiang Province, Hangzhou,
+Zhejiang, 310016, China. Electronic address: yvys119@zju.edu.cn.
+(5)Department of Infectious Diseases, Sir Run Run Shaw Hospital, School of
+Medicine, Zhejiang University, Hangzhou, Zhejiang, 310016, China; Key Laboratory 
+of Microbial Technology and Bioinformatics of Zhejiang Province, Hangzhou,
+Zhejiang, 310016, China; Department of Hospital Epidemiology and Infection
+Control, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University,
+Hangzhou, Zhejiang, 310016, China. Electronic address: chenyan@zju.edu.cn.
+
+PURPOSE: To determine the genetic characteristics of the Chinese epidemic
+ST5-SCCmec II-t311 methicillin-resistant Staphylococcus aureus (MRSA) clone and
+to investigate the transmission characteristics of the cfr-positive plasmid.
+METHODS: The complete genome of SR153 was sequenced. Genomic comparison with MRSA
+strains of other lineages was performed. The cfr-positive plasmid was
+investigated and compared with other cfr-positive plasmids from different origins
+and different areas.
+RESULTS: The cfr-positive MRSA strain SR153 was a Chinese epidemic ST5-SCCmec
+II-t311 strain. It clustered much closer to the Japanese ST5-SCCmec II clone than
+to the European and American ST5-SCCmec II clones. The genome of SR153 contains
+one circular chromosome and three plasmids. It harbors the genomic islands νSaα, 
+νSaβ, νSaγ, ΦSa1 and ΦSa3, the pathogenicity island νSa4, and genes encoding
+virulence factors such as tst and many enterotoxins. The SR153 genome also
+contains several resistance genes and mutations, such as ermA, aadD, spc,
+aacA-aphD, lnuA, tetK, blaZ and mutations in grlA and gyrA. SR153 harbors a
+cfr-positive plasmid, pSR01, which is highly similar to pSX01 from a
+Staphylococcus xylosus of pig origin from Henan Province. pSR01 was also highly
+similar to pXWZ from a Staphylococcus capitis and pLRSA417 from S. aureus. Both
+were obtained from geographically separated hospitals in Zhejiang Province.
+CONCLUSIONS: SR153, which clustered closely to the Japanese ST5-SCCmec II clone, 
+is more resistant than N315. A pSR01-like cfr-positive plasmid was widespread
+among different Staphylococcus species of both human and animal origin in
+different hospitals and areas.
+
+Copyright © 2020 Japanese Society of Chemotherapy and The Japanese Association
+for Infectious Diseases. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jiac.2020.02.018 
+PMID: 32245640 
+
+Conflict of interest statement: Declaration of Competing Interest None.
+

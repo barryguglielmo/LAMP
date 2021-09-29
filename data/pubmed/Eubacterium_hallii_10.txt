@@ -1,0 +1,38 @@
+
+1. Food Funct. 2019 Dec 11;10(12):7973-7982. doi: 10.1039/c9fo01490j.
+
+Habitual animal fat consumption in shaping gut microbiota and microbial
+metabolites.
+
+Wan Y (1), Tong W , Zhou R , Li J , Yuan J , Wang F , Li D .
+
+Author information: 
+(1)Institute of Nutrition and Health, Qingdao University, Qingdao, 266071, China.
+duoli@qdu.edu.cn.
+
+Short-term intervention studies support a link between animal-based diet and the 
+outgrowth of microorganisms capable of triggering inflammatory bowel disease.
+However, whether habitual animal fat intake is associated with gut-related health
+remains unclear. Thus, we collected dietary information, clinical data and fecal 
+samples from 297 healthy young subjects and characterized gut microbiota by 16S
+rRNA gene sequencing and microbial metabolites, including short-chain fatty acids
+(SCFAs) and bile acids (BAs) using a gas chromatography coupled to time-of-flight
+mass spectrometry (GC-TOF/MS) system and ultra performance liquid chromatography 
+coupled with tandem mass spectrometry (UPLC-MS/MS) platform, respectively. We
+found that the microbial diversity of butyric acid (rho = -0.17, p = 0.004 for
+the Shannon index) and the concentrations of butyric acid (rho = -0.33, p <
+0.001) and valeric acid (rho = -0.28, p = 0.002) were negatively associated with 
+animal fat consumption. In line with this, the abundance of SCFAs-producing
+bacteria such as Blautia, Eubacterium hallii, and Megamonas were significantly
+lower in the high animal fat group compared with the low animal fat group (all p 
+< 0.05). Additionally, the high animal fat group had higher concentrations of
+total (p = 0.06) and unconjugated (p = 0.09) BAs relative to the lower animal fat
+groups. The findings of our study indicate that a diet with higher animal-based
+fat consumption is likely to be associated with moderately unfavorable impacts on
+gut microbial diversity, community, and regulation of fecal SCFAs, which may
+influence the host cardiometabolic health in the long term among healthy Chinese 
+adults whose diet is in a nutrition transition.
+
+DOI: 10.1039/c9fo01490j 
+PMID: 31776537  [Indexed for MEDLINE]
+

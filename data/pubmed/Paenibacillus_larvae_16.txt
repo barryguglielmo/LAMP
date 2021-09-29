@@ -1,0 +1,40 @@
+
+1. Sci Rep. 2019 Dec 30;9(1):20355. doi: 10.1038/s41598-019-56699-y.
+
+Characterization of a new podovirus infecting Paenibacillus larvae.
+
+Ribeiro HG(1), Melo LDR(1), Oliveira H(1), Boon M(2), Lavigne R(2), Noben JP(3), 
+Azeredo J(1), Oliveira A(4).
+
+Author information: 
+(1)CEB - Centre of Biological Engineering, LIBRO - Laboratório de Investigação em
+Biofilmes Rosário Oliveira, University of Minho, 4710-057, Braga, Portugal.
+(2)Laboratory of Gene Technology, KU Leuven, Leuven, Belgium.
+(3)Biomedical Research Institute and Transnational University Limburg, Hasselt
+University, Agoralaan D, 3590, Hasselt, Belgium.
+(4)CEB - Centre of Biological Engineering, LIBRO - Laboratório de Investigação em
+Biofilmes Rosário Oliveira, University of Minho, 4710-057, Braga, Portugal.
+anaoliveira@deb.uminho.pt.
+
+The Paenibacillus larvae infecting phage API480 (vB_PlaP_API480) is the first
+reported podovirus for this bacterial species, with an 58 nm icosahedral capsid
+and a 12 × 8 nm short, non-contractile tail. API480 encodes 77 coding sequences
+(CDSs) on its 45,026 bp dsDNA genome, of which 47 were confirmed using mass
+spectrometry. This phage has got very limited genomic and proteomic similarity to
+any other known ones registered in public databases, including P. larvae phages. 
+Comparative genomics indicates API480 is a new species as it's a singleton with
+28 unique proteins. Interestingly, the lysis module is highly conserved among P. 
+larvae phages, containing a predicted endolysin and two putative holins. The well
+kept overall genomic organisation (from the structural and morphogenetic modules 
+to the host lysis, DNA replication and metabolism related proteins) confirms a
+common evolutionary ancestor among P. larvae infecting phages. API480 is able to 
+infect 69% of the 61 field strains with an ERIC I genotype, as well as ERIC II
+strains. Furthermore, this phage is very stable when exposed to high glucose
+concentrations and to larval gastrointestinal conditions. This highly-specific
+phage, with its broad lytic activity and stability in hive conditions, might
+potentially be used in the biocontrol of American Foulbrood (AFB).
+
+DOI: 10.1038/s41598-019-56699-y 
+PMCID: PMC6937236
+PMID: 31889094 
+

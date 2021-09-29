@@ -1,0 +1,67 @@
+
+1. PLoS One. 2019 Dec 5;14(12):e0226111. doi: 10.1371/journal.pone.0226111.
+eCollection 2019.
+
+Sharing of gut microbial strains between selected individual sets of twins
+cohabitating for decades.
+
+Koo H(1), Hakim JA(2), Crossman DK(1), Lefkowitz EJ(3), Morrow CD(4).
+
+Author information: 
+(1)Department of Genetics and Heflin Center for Genomic Science, University of
+Alabama at Birmingham, Birmingham, Alabama, United States of America.
+(2)Department of Biology, University of Alabama at Birmingham, Birmingham,
+Alabama, United States of America.
+(3)Department of Microbiology, University of Alabama at Birmingham, Birmingham,
+Alabama, United States of America.
+(4)Department of Cell, Developmental and Integrative Biology, University of
+Alabama at Birmingham, Birmingham, Alabama, United States of America.
+
+BACKGROUND: Given the increasing realization of the important functions of the
+gut microbial community in human health, it is important to determine whether the
+increased age of the host coupled with inevitable environmental changes can alter
+the stability of individual microbial strains of the gut microbial community.
+Since early studies demonstrated that pairs of twins possess the related gut
+microbial communities, to gain insights into the temporal stability of the
+reservoir of gut microbial strains in humans, we have assessed the strain
+relatedness of samples from two previously published data sets that were obtained
+from twin children and adults (36-80 years old) who have been either living
+together or apart for different times.
+METHODS: We analyzed the two data sets; twin children (n = 24) and adults (n =
+50) using our previously developed strain-tracking program called Window-based
+Single Nucleotide Variant (SNV) Similarity (WSS) that can distinguish a related
+strain pair from a non-related strain pair based on the overall genome-wide SNV
+similarity. To independently substantiate the identification of distinct
+microbial genomic variants (herein strains) observed from WSS analysis, we used
+analysis by StrainPhlAn.
+RESULTS: Analysis of the twin children data set revealed a significantly (P-value
+<0.05) higher number of the shared strain pairs with a predominance of
+Bacteroides vulgatus between individual sets of twin pairs than the twin adult
+data set. Additional analysis on the adult twins showed that twins who have been 
+living apart less than 10 years shared significantly more related strain pairs
+than twins living apart between 10 to 60 years. Eighty-year-old twins who had
+been living together for 79 years then separated for 1 year showed the highest
+number of related strain pairs consisting of B. vulgatus, Eubacterium eligens,
+and Bifidobacterium adolescentis. The next highest number of related strain pairs
+was found in 56-year-old twins who had been living together for 51 years then
+separated for 5 years (B. vulgatus and Coprococcus eutactus as related strains), 
+73-year-old twins living together for 66 years and then separated for 7 years
+(Bacteroides uniformis and Clostrium sp. L2-50 as related strains) and
+36-year-old twins separated for 19 years (shared strains of Alistipes shahii and 
+E. eligens). Finally, a sporadic appearance of a single shared strain that did
+not show a correlation with time of separation was observed in three twin sets
+that had separation times between 22 to 54 years.
+CONCLUSION: We conclude from our strain-tracking analysis of twins that certain
+gut microbial strains can be shared between individuals in some cases for
+decades. Changes in the host environmental conditions over time can impact the
+stability landscape of the gut microbial community resulting in the appearance of
+new strains that could potentially impact microbe interactions that are essential
+for function in human health.
+
+DOI: 10.1371/journal.pone.0226111 
+PMCID: PMC6894816
+PMID: 31805145  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

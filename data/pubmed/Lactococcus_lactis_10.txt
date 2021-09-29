@@ -1,0 +1,58 @@
+
+1. Sci Rep. 2020 Sep 15;10(1):15115. doi: 10.1038/s41598-020-71864-4.
+
+Genomic profiling of bacterial and fungal communities and their predictive
+functionality during pulque fermentation by whole-genome shotgun sequencing.
+
+Chacón-Vargas K(1)(2), Torres J(3), Giles-Gómez M(4), Escalante A(5), Gibbons
+JG(6)(7)(8).
+
+Author information: 
+(1)Molecular and Cellular Biology Graduate Program, University of Massachusetts, 
+Amherst, MA, 01003, USA.
+(2)Department of Food Science, University of Massachusetts, Amherst, MA, 01003,
+USA.
+(3)Departamento de Ingeniería Celular y Biocatálisis, Instituto de Biotecnología,
+Universidad Nacional Autónoma de México, Cuernavaca, Mexico.
+(4)Departamento de Biología, Facultad de Química, Universidad Nacional Autónoma
+de México, Ciudad de México, Mexico.
+(5)Departamento de Biología, Facultad de Química, Universidad Nacional Autónoma
+de México, Ciudad de México, Mexico. adelfo@ibt.unam.mx.
+(6)Molecular and Cellular Biology Graduate Program, University of Massachusetts, 
+Amherst, MA, 01003, USA. jggibbons@umass.edu.
+(7)Department of Food Science, University of Massachusetts, Amherst, MA, 01003,
+USA. jggibbons@umass.edu.
+(8)Organismic and Evolutionary Biology Graduate Program, University of
+Massachusetts, Amherst, MA, 01003, USA. jggibbons@umass.edu.
+
+Pulque is a culturally important 4,000-year-old traditional Mexican fermented
+drink. Pulque is produced by adding fresh aguamiel (agave sap) to mature pulque, 
+resulting in a mixture of microbial communities and chemical compositions. We
+performed shotgun metagenomic sequencing of five stages of pulque fermentation to
+characterize organismal and functional diversity. We identified 6 genera
+(Acinetobacter, Lactobacillus, Lactococcus, Leuconostoc, Saccharomyces and
+Zymomonas) and 10 species (Acinetobacter boissieri, Acinetobacter nectaris,
+Lactobacillus sanfranciscensis, Lactococcus lactis, Lactococcus piscium,
+Lactococcus plantarum, Leuconostoc citreum, Leuconostoc gelidum, Zymomonas
+mobilis and Saccharomyces cerevisiae) that were present ≥ 1% in at least one
+stage of pulque fermentation. The abundance of genera and species changed during 
+fermentation and was associated with a decrease in sucrose and increases in
+ethanol and lactic acid, suggesting that resource competition shapes organismal
+diversity. We also predicted functional profiles, based on organismal gene
+content, for each fermentation stage and identified an abundance of genes
+associated with the biosynthesis of folate, an essential B-vitamin. Additionally,
+we investigated the evolutionary relationships of S. cerevisiae and Z. mobilis,
+two of the major microbial species found in pulque. For S. cerevisiae, we used a 
+metagenomics assembly approach to identify S. cerevisiae scaffolds from pulque,
+and performed phylogenetic analysis of these sequences along with a collection of
+158 S. cerevisiae strains. This analysis suggests that S. cerevisiae from pulque 
+is most closely related to Asian strains isolated from sake and bioethanol.
+Lastly, we isolated and sequenced the whole-genomes of three strains of Z.
+mobilis from pulque and compared their relationship to seven previously sequenced
+isolates. Our results suggest pulque strains may represent a distinct lineage of 
+Z. mobilis.
+
+DOI: 10.1038/s41598-020-71864-4 
+PMCID: PMC7493934
+PMID: 32934253 
+

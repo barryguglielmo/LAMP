@@ -1,0 +1,35 @@
+
+1. J Basic Microbiol. 2020 Oct 1. doi: 10.1002/jobm.202000416. [Epub ahead of print]
+
+Draft genome sequence of plastic degrading Bacillus sp. AIIW2 isolated from the
+Arabian ocean.
+
+Kumari A(1), Bano N(2)(3), Chaudhary DR(1)(3), Jha B(1).
+
+Author information: 
+(1)Division of Plant Omics, CSIR-Central Salt and Marine Chemicals Research
+Institute, Bhavnagar, Gujarat, India.
+(2)Department of Molecular Biology and Biotechnology, CSIR-National Botanical
+Research Institute, Lucknow, Uttar Pradesh, India.
+(3)CSIR-Academy of Scientific and Innovative Research, Ghaziabad, Uttar Pradesh, 
+India.
+
+The endemic spread of plastic in the environment requires urgent need of a
+sustainable approach. Marine microbes found to have vast bioactivity and play a
+central role in biogeochemical cycling in the ocean; however, very few of them
+had been explored for biochemical cycling or plastic degradation. In the present 
+study, we report the draft genome sequence of marine Bacillus sp. AIIW2 which was
+found to utilize plastic as a carbon source. The Bacillus sonorensis SRCM101395
+was used as a reference genome for mapping the reads. The genome size of strain
+AIIW2 was approximately 4.4 Mb and composed of 4737 coding sequences with 45.7%
+G + C contents. The whole genome comparison of strain AIIW2 with three closest
+Bacillus strains showed strain specificity, the 16S ribosomal RNA sequence shows 
+99.93% similarity with Bacillus paralicheniformis KJ-16T (KY694465). This genome 
+data would provide the genetic basis in developing plastic bioremediation
+approaches and discover the enzymes pertinent in the biodegradation processes.
+
+© 2020 Wiley-VCH GmbH.
+
+DOI: 10.1002/jobm.202000416 
+PMID: 33006156 
+

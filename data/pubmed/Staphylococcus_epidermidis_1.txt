@@ -1,0 +1,46 @@
+
+1. Microorganisms. 2020 Sep 30;8(10). pii: E1508. doi:
+10.3390/microorganisms8101508.
+
+Temporal Changes in Patient-Matched Staphylococcus epidermidis Isolates from
+Infections: towards Defining a 'True' Persistent Infection.
+
+Harris LG(1), Bodger O(1), Post V(2), Mack D(3), Morgenstern M(4), Rohde H(5),
+Moriarty TF(2), Wilkinson TS(1).
+
+Author information: 
+(1)Microbiology and Infectious Diseases, Institute of Life Science, Swansea
+University Medical School, Swansea SA2 8PP, UK.
+(2)AO Research Institute Davos, 7270 Davos, Switzerland.
+(3)Bioscientia Labor Ingelheim, Institut für Medizinische Diagnostik GmbH,
+Mikrobiologie/Infektiologie, 55218 Ingelheim, Germany.
+(4)Department of Orthopaedic Surgery and Traumatology, University Hospital Basel,
+4031 Basel, Switzerland.
+(5)Institut für Medizinische Mikrobiologie, Virologie & Hygiene,
+Universitätsklinikum Hamburg-Eppendorf, Universität Hamburg, D-20246 Hamburg,
+Germany.
+
+Staphylococcus epidermidis is found naturally on the skin but is a common cause
+of persistent orthopaedic device-related infections (ODRIs). This study used a
+pan-genome and gene-by-gene approach to analyse the clonality of whole genome
+sequences (WGS) of 115 S. epidermidis isolates from 55 patients with persistent
+ODRIs. Analysis of the 522 gene core genome revealed that the isolates clustered 
+into three clades, and MLST analysis showed that 83% of the isolates belonged to 
+clonal complex 2 (CC2). Analysis also found 13 isolate pairs had different MLST
+types and less than 70% similarity within the genes; hence, these were defined as
+re-infection by a different S. epidermidis strain. Comparison of allelic
+diversity in the remaining 102 isolates (49 patients) revealed that 6 patients
+had microevolved infections (>7 allele differences), and only 37 patients (77
+isolates) had a 'true' persistent infection. Analysis of the core genomes of
+isolate pairs from 37 patients found 110/841 genes had variations; mainly in
+metabolism associated genes. The accessory genome consisted of 2936 genes; with
+an average size of 1515 genes. To conclude, this study demonstrates the advantage
+of using WGS for identifying the accuracy of a persistent infection diagnosis.
+Hence, persistent infections can be defined as 'true' persistent infections if
+the core genome of paired isolates has ≤7 allele differences; microevolved
+persistent infection if the paired isolates have >7 allele differences but same
+MLST type; and polyclonal if they are the same species but a different MLST type.
+
+DOI: 10.3390/microorganisms8101508 
+PMID: 33007861 
+

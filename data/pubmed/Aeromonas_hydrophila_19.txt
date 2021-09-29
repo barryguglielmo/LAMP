@@ -1,0 +1,42 @@
+
+1. Front Immunol. 2020 Aug 12;11:1706. doi: 10.3389/fimmu.2020.01706. eCollection
+2020.
+
+MAp34 Regulates the Non-specific Cell Immunity of Monocytes/Macrophages and
+Inhibits the Lectin Pathway of Complement Activation in a Teleost Fish.
+
+Mu L(1), Yin X(1), Wu H(1), Han K(1), Guo Z(1), Ye J(1).
+
+Author information: 
+(1)Guangdong Provincial Key Laboratory for Healthy and Safe Aquaculture, School
+of Life Sciences, Institute of Modern Aquaculture Science and Engineering, South 
+China Normal University, Guangzhou, China.
+
+The lectin pathway of the complement system is one of the main components of
+innate immunity, which plays a pivotal role in the defense against infectious
+microorganisms and maintains immune homeostasis. However, its control mechanisms 
+remain unclear in teleost fish. In this study, we described the identification
+and functional characterization of a mannose-binding lectin associated protein
+MAp34 (OnMAp34) from Nile tilapia (Oreochromis niloticus) at molecular, cellular,
+and protein levels. The open reading frame (ORF) of OnMAp34 is 918 bp of
+nucleotide sequence encoding a polypeptide of 305 amino acids. The deduced amino 
+acid sequence has three characteristic structures, including two C1r/C1s-Uegf-BMP
+domains (CUB) and one epidermal growth factor domain (EGF). Expression analysis
+revealed that the OnMAp34 was highly expressed in the liver and widely existed in
+other examined tissues. In addition, the mRNA and protein expression levels of
+OnMAp34 were remarkably altered upon infection with Streptococcus agalactiae and 
+Aeromonas hydrophila in vivo and in vitro. Further, we found that the OnMAp34
+could participate in the non-specific cellular immune defense, including the
+regulation of inflammation, migration, and enhancement of phagocytosis of
+monocytes/macrophages. Moreover, the OnMAp34 could compete with OnMASPs to
+combine OnMBL and inhibit the lectin pathway of complement activation. Overall,
+our results provide new insights into the understanding of MAp34 as a potent
+regulator in the lectin complement pathway and non-specific cell immunity in an
+early vertebrate.
+
+Copyright © 2020 Mu, Yin, Wu, Han, Guo and Ye.
+
+DOI: 10.3389/fimmu.2020.01706 
+PMCID: PMC7435015
+PMID: 32903484 
+

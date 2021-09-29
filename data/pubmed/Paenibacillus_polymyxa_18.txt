@@ -1,0 +1,33 @@
+
+1. Microbiol Resour Announc. 2020 Feb 13;9(7). pii: e01464-19. doi:
+10.1128/MRA.01464-19.
+
+Draft Genome Sequence of Paenibacillus polymyxa 3A-25AI, a Strain Antagonist to
+Root Rot Causal Phytopathogens.
+
+López-Martínez J(1), De La Cruz-Rodríguez Y(1), Alvarado-Gutiérrez A(1),
+Alvarado-Rodríguez M(2), Vega-Arreguín J(3), Fraire-Velázquez S(4).
+
+Author information: 
+(1)Biología Integrativa de Plantas y Microorganismos, Unidad Académica de
+Ciencias Biológicas, Universidad Autónoma de Zacatecas, Zacatecas, Mexico.
+(2)Unidad Académica de Agronomía, Universidad Autónoma de Zacatecas, Zacatecas,
+Mexico.
+(3)ENES-León, Universidad Nacional Autónoma de México, León, Guanajuato, Mexico.
+(4)Biología Integrativa de Plantas y Microorganismos, Unidad Académica de
+Ciencias Biológicas, Universidad Autónoma de Zacatecas, Zacatecas, Mexico
+sfraire@uaz.edu.mx.
+
+Here, we report the draft genome sequence of the Paenibacillus polymyxa 3A-25AI
+strain, isolated from the rhizosphere of wild grass. This strain inhibits
+Phytophthora capsici and Rhizoctonia solani phytopathogens. The genome size is
+5.6 Mb, with a G+C content of 45.59%, and contains 5,079 genes, 4,968 coding DNA 
+sequences (CDSs), 35 tRNAs, 3 rRNAs, and 72 unexpected miscellaneous RNA
+(miscRNA) features.
+
+Copyright © 2020 López-Martínez et al.
+
+DOI: 10.1128/MRA.01464-19 
+PMCID: PMC7019065
+PMID: 32054710 
+

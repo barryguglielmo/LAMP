@@ -1,0 +1,48 @@
+
+1. Foods. 2020 May 26;9(6). pii: E686. doi: 10.3390/foods9060686.
+
+Comparison of Antimicrobial Resistance and Pan-Genome of Clinical and
+Non-Clinical Enterococcus cecorum from Poultry Using Whole-Genome Sequencing.
+
+Sharma P(1), Gupta SK(1), Barrett JB(1), Hiott LM(1), Woodley TA(1), Kariyawasam 
+S(2), Frye JG(1), Jackson CR(1).
+
+Author information: 
+(1)Bacterial Epidemiology and Antimicrobial Resistance Research Unit, United
+States Department of Agriculture, Agricultural Research Service, U.S. National
+Poultry Research Center, Athens, GA 30605, USA.
+(2)Department of Comparative, Diagnostic, and Population Medicine, College of
+Veterinary Medicine, The University of Florida, Gainesville, FL 32610, USA.
+
+Enterococcus cecorum is an emerging avian pathogen, particularly in chickens, but
+can be found in both diseased (clinical) and healthy (non-clinical) poultry. To
+better define differences between E. cecorum from the two groups, whole-genome
+sequencing (WGS) was used to identify and compare antimicrobial resistance genes 
+as well as the pan-genome among the isolates. Eighteen strains selected from our 
+previous study were subjected to WGS using Illumina MiSeq and comparatively
+analyzed. Assembled contigs were analyzed for resistance genes using ARG-ANNOT.
+Resistance to erythromycin was mediated by ermB, ermG, and mefA, in clinical
+isolates and ermB and mefA, in non-clinical isolates. Lincomycin resistance genes
+were identified as linB, lnuB, lnuC, and lnuD with lnuD found only in
+non-clinical E. cecorum; however, lnuB and linB were found in only one clinical
+isolate. For both groups of isolates, kanamycin resistance was mediated by
+aph3-III, while tetracycline resistance was conferred by tetM, tetO, and tetL. No
+mutations or known resistance genes were found for isolates resistant to either
+linezolid or chloramphenicol, suggesting possible new mechanisms of resistance to
+these drugs. A comparison of WGS results confirmed that non-clinical isolates
+contained more resistance genes than clinical isolates. The pan-genome of
+clinical and non-clinical isolates resulted in 3651 and 4950 gene families,
+respectively, whereas the core gene sets were comprised of 1559 and 1534 gene
+families in clinical and non-clinical isolates, respectively. Unique genes were
+found more frequently in non-clinical isolates than clinical. Phylogenetic
+analysis of the isolates and all the available complete and draft genomes showed 
+no correlation between healthy and diseased poultry. Additional genomic
+comparison is required to elucidate genetic factors in E. cecorum that contribute
+to disease in poultry.
+
+DOI: 10.3390/foods9060686 
+PMCID: PMC7353540
+PMID: 32466367 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

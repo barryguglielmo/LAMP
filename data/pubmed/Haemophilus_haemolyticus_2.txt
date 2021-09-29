@@ -1,0 +1,41 @@
+
+1. Pathogens. 2020 Mar 25;9(4). pii: E243. doi: 10.3390/pathogens9040243.
+
+In Vitro Anti-NTHi Activity of Haemophilin-Producing Strains of Haemophilus
+haemolyticus.
+
+Atto B(1), Latham R(2), Kunde D(1), Gell DA(2), Tristram S(1).
+
+Author information: 
+(1)School of Health Sciences, University of Tasmania, Newnham Drive, Launceston, 
+TAS 7248, Australia.
+(2)School of Medicine, University of Tasmania, 17 Liverpool Street, Hobart, TAS
+7000, Australia.
+
+Nontypeable Haemophilus influenzae (NTHi) is a leading causative organism of
+opportunistic respiratory tract infections. However, there are currently no
+effective vaccination strategies, and existing treatments are compromised by
+antibiotic resistance. We previously characterized Haemophilus haemolyticus (Hh) 
+strains capable of producing haemophilin (HPL), a heme-binding protein that
+restricts NTHi growth by limiting its access to an essential growth factor, heme.
+Thus, these strains may have utility as a probiotic therapy against NTHi
+infection by limiting colonization, migration and subsequent infection in
+susceptible individuals. Here, we assess the preliminary feasibility of this
+approach by direct in vitro competition assays between NTHi and Hh strains with
+varying capacity to produce HPL. Subsequent changes in NTHi growth rate and
+fitness, in conjunction with HPL expression analysis, were employed to assess the
+NTHi-inhibitory capacity of Hh strains. HPL-producing strains of Hh not only
+outcompeted NTHi during short-term and extended co-culture, but also demonstrated
+a growth advantage compared with Hh strains unable to produce the protein.
+Additionally, HPL expression levels during competition correlated with the
+NTHi-inhibitory phenotype. HPL-producing strains of Hh demonstrate significant
+probiotic potential against NTHi colonization in the upper respiratory tract,
+however, further investigations are warranted to demonstrate a range of other
+characteristics that would support the eventual development of a probiotic.
+
+DOI: 10.3390/pathogens9040243 
+PMCID: PMC7238096
+PMID: 32218184 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

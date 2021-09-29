@@ -1,0 +1,49 @@
+
+1. ACS Appl Mater Interfaces. 2020 Mar 4;12(9):10938-10948. doi:
+10.1021/acsami.9b21465. Epub 2020 Feb 25.
+
+Optimization of Sporulation and Germination Conditions of Functional Bacteria for
+Concrete Crack-Healing and Evaluation of their Repair Capacity.
+
+Jiang L(1)(2), Jia G(3)(2), Wang Y(4), Li Z(1)(2).
+
+Author information: 
+(1)College of Civil Engineering, Taiyuan University of Technology, Taiyuan,
+Shanxi 030024, P. R. China.
+(2)Shanxi Shengke Microorganism Building Materials Technology Co., Ltd., Taiyuan,
+Shanxi 030032, P. R. China.
+(3)Department of Civil Engineering, Shanxi University, Tauyuan, Shanxi 030013, P.
+R. China.
+(4)College of Materials Science and Engineering, Taiyuan University of
+Technology, Taiyuan, Shanxi 030024, P. R. China.
+
+While microbial spore production and germination of bacteria have been widely
+studied for their applications in animal husbandry, aquatic products, medicine,
+and food, few studies have investigated their use for the crack-healing of
+concrete. To effectively heal the cracks in concrete, studies suggest that the
+rate of sporulation and the germination of bacteria should be sufficiently high. 
+This study investigates the effects of different carbon sources, nitrogen
+sources, Mn2+ concentrations, and external culture conditions on the sporulation 
+rate and analyzes the effects of the pH value, heat activation, germinants,
+various cations, and nutrients on the germination of spores. Bacillus cohnii (B. 
+cohnii) is chosen as the bacterium to be mixed in concrete because of its
+alkalophilic nature. The mineralization activity of spores after germination and 
+the crack-healing capacity of concrete are studied. The optimal culture medium
+and the optimum external conditions for spore production are obtained. The total 
+cell count and sporulation rate of bacteria obtained on this medium are 3.14 ×
+109 CFU/mL and 92.6%, respectively, under the optimum external conditions. The
+optimal pH value for the spore germination of B. cohnii is 9.7. While the cation 
+Na+ strongly stimulates the germination of B. cohnii spores, other cations (such 
+as K+, NH4+, and Ca2+) do not stimulate spore germination. The optimal
+concentration of Na+ is 200 mM. The germination rate of spores in the control
+group concrete specimen (room temperature 24°C) was more than 50%, thus
+suggesting that B. cohnii bacteria can be used in the self-healing of concrete
+cracks. The mineralization activity test proves that the spores of B. cohnii have
+a mineralizing function after germination, and the crystals produced by
+microbial-induced carbonate precipitation (MICP) are of pure calcite. When the
+crack width of the concrete specimen with spores of B. cohnii is less than 1.2
+mm, it can be completely repaired after 28 days of healing.
+
+DOI: 10.1021/acsami.9b21465 
+PMID: 32023024 
+

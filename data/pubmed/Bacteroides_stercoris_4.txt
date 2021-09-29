@@ -1,0 +1,53 @@
+
+1. Sci Rep. 2019 Oct 25;9(1):15303. doi: 10.1038/s41598-019-51698-5.
+
+Retinal artery occlusion is associated with compositional and functional shifts
+in the gut microbiome and altered trimethylamine-N-oxide levels.
+
+Zysset-Burri DC(1)(2), Keller I(3)(4), Berger LE(5), Neyer PJ(6)(7), Steuer C(8),
+Wolf S(5)(3), Zinkernagel MS(5)(3).
+
+Author information: 
+(1)Department of Ophthalmology, Inselspital, Freiburgstrasse, CH-3010, Bern,
+Switzerland. denise.zysset@insel.ch.
+(2)Department of Clinical Research, University of Bern, Murtenstrasse 31,
+CH-3010, Bern, Switzerland. denise.zysset@insel.ch.
+(3)Department of Clinical Research, University of Bern, Murtenstrasse 31,
+CH-3010, Bern, Switzerland.
+(4)Swiss Institute of Bioinformatics, Baltzerstrasse 6, CH-3012, Bern,
+Switzerland.
+(5)Department of Ophthalmology, Inselspital, Freiburgstrasse, CH-3010, Bern,
+Switzerland.
+(6)Institute of Laboratory Medicine, Kantonsspital Aarau, Tellstrasse 25,
+CH-5001, Aarau, Switzerland.
+(7)Graduate School for Cellular & Biomedical Sciences, University of Bern,
+Freiestrasse 1, CH-3012, Bern, Switzerland.
+(8)Department of Chemistry and Applied Biosciences, Institute of Pharmaceutical
+Sciences, Swiss Federal Institute of Technology (ETH), Vladimir-Prelog-Weg 4,
+CH-8093, Zürich, Switzerland.
+
+Retinal artery occlusion (RAO) is a sight threatening complication of
+cardiovascular disease and commonly occurs due to underlying atherosclerosis. As 
+cardiovascular disease and atherosclerosis in particular has been associated with
+compositional alterations in the gut microbiome, we investigated this association
+in patients with clinically confirmed non-arteritic RAO compared to age- and
+sex-matched controls. On the phylum level, the relative abundance of
+Bacteroidetes was decreased in patients with RAO compared to controls, whereas
+the opposite applied for the phylum of Proteobacteria. Several genera and species
+such as Actinobacter, Bifidobacterium spp., Bacteroides stercoris,
+Faecalibacterium prausnitzii were relatively enriched in patients with RAO,
+whereas others such as Odoribacter, Parasutterella or Lachnospiraceae were
+significantly lower. Patient's gut microbiomes were enriched in genes of the
+cholesterol metabolism pathway. The gut derived, pro-atherogenic metabolite
+trimethylamine-N-oxide (TMAO) was significantly higher in patients with RAO
+compared to controls (p = 0.023) and a negative correlation between relative
+abundances of genera Parasutterella and Lachnospiraceae and TMAO levels and a
+positive correlation between relative abundance of genus Akkermansia and TMAO
+levels was found in study subjects. Our findings proposes that RAO is associated 
+with alterations in the gut microbiome and with elevated TMAO levels, suggesting 
+that RAO could be targeted by microbiome-altering interventions.
+
+DOI: 10.1038/s41598-019-51698-5 
+PMCID: PMC6814871
+PMID: 31653902 
+

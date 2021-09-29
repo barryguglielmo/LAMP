@@ -1,0 +1,35 @@
+
+1. Arch Microbiol. 2020 Jul 18. doi: 10.1007/s00203-020-01977-x. [Epub ahead of
+print]
+
+Complete genome sequence of the aromatic-hydrocarbon-degrading bacterium
+Achromobacter xylosoxidans DN002.
+
+Li Y(1), Tian Y(1), Hao Z(1), Ma Y(2).
+
+Author information: 
+(1)Shaanxi Provincial Key Laboratory of Biotechnology, Key Laboratory of
+Resources Biology and Biotechnology in Western China, Ministry of Education,
+College of Life Science, Northwest University, 229 TaibaiNorth Rd, Xi'an, 710069,
+Shaanxi, People's Republic of China.
+(2)Shaanxi Provincial Key Laboratory of Biotechnology, Key Laboratory of
+Resources Biology and Biotechnology in Western China, Ministry of Education,
+College of Life Science, Northwest University, 229 TaibaiNorth Rd, Xi'an, 710069,
+Shaanxi, People's Republic of China. mayanling@nwu.edu.cn.
+
+Achromobacter xylosoxidans DN002 is capable of utilizing numerous aromatic
+hydrocarbons as sole carbon and energy resource. In this study, the whole genome 
+of strain DN002 was sequenced and analyzed, which consisted of one circular
+chromosome of 5,943,204 bp and a 278,917 bp plasmid with an average GC content of
+65.46 mol%, 5694 protein-coding genes, 13 rRNA genes and 57 tRNA genes. Analysis 
+of cluster of orthologous group (COG) demonstrated that strain DN002 had
+remarkable gene abundance foramino acid transport and metabolism, transcription, 
+inorganic ion transport and metabolism, energy production and conversion, and
+carbohydrate transport and metabolism. Genes related to biodegradation of
+aromatic hydrocarbons, chemotaxis and flagella were identified from the genome,
+which will advance our fundamental understanding the molecular mechanism for
+degradation and metabolizing of aromatic hydrocarbons.
+
+DOI: 10.1007/s00203-020-01977-x 
+PMID: 32683476 
+

@@ -1,0 +1,49 @@
+
+1. Antibiotics (Basel). 2020 Aug 15;9(8). pii: E520. doi:
+10.3390/antibiotics9080520.
+
+Strain-Specific Adaptations of Streptococcus mitis-oralis to Serial In Vitro
+Passage in Daptomycin (DAP): Genotypic and Phenotypic Characteristics.
+
+Mishra NN(1)(2), Tran TT(3)(4), Arias CA(3)(4), Seepersaud R(5)(6), Sullam
+PM(5)(6), Bayer AS(1)(2).
+
+Author information: 
+(1)Division of Infectious Diseases, The Lundquist Institute at Harbor-UCLA
+Medical Center, Torrance, CA 90502, USA.
+(2)David Geffen School of Medicine at the University of California, Los Angeles
+(UCLA), CA 90024, USA.
+(3)Center for Antimicrobial Resistance and Microbial Genomics, Division of
+Infectious Diseases, University of Texas McGovern School of Medicine, Houston, TX
+77030, USA.
+(4)Antimicrobial Resistance Unit and International Center for Microbial Genomics,
+Universidad El Bosque, Bogota 10121, Colombia.
+(5)University of California, San Francisco, CA 94143, USA.
+(6)VA Medical Center, San Francisco, CA 94121, USA.
+
+Viridans group streptococci (VGS), especially the Streptococcus mitis-oralis
+subgroup, are pivotal pathogens in a variety of invasive endovascular infections,
+including "toxic shock" in neutropenic cancer patients and infective endocarditis
+(IE). Previously, we showed that the serial in vitro passage of S. mitis-oralis
+strains in sublethal daptomycin (DAP) resulted in rapid, high-level and stable
+DAP-resistance (DAP-R), which is accompanied by distinct changes in several
+genotypic and phenotypic signatures: (1) the disappearance of two key membrane
+phospholipids, phosphatidylglycerol (PG) and cardiolipin (CL); (2) increased
+membrane fluidity; (3) increased positive surface charge; (4) single nucleotide
+polymorphisms (SNPs) in two loci involved in CL biosynthesis (pgsA; cdsA); and
+(5) DAP hyperaccumulation. The current study examined these same metrics
+following in vitro serial DAP passages of a separate well-characterized S.
+mitis-oralis bloodstream isolate (SF100). Although some metrics seen in prior DAP
+post-passage strains were recapitulated with SF100 (e.g., pgsA SNPs, enhanced
+membrane fluidity), we observed the following major differences (comparing the
+parental versus post-passage variant): (1) no change in PG content; (2) reduced, 
+but not absent, CL, with enhancement in phosphatidic acid (PA) content; (3) an
+unusual pattern of CL localization; (4) significantly decreased positive surface 
+charge; (5) no difference in DAP accumulation; and (6) no cdsA SNPs. Thus, S.
+mitis-oralis strains are not "pre-programmed" phenotypically and/or genotypically
+to adapt in an identical manner during the evolution of the DAP-R.
+
+DOI: 10.3390/antibiotics9080520 
+PMCID: PMC7460094
+PMID: 32824132 
+

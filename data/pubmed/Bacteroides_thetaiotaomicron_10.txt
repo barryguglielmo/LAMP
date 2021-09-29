@@ -1,0 +1,60 @@
+
+1. mSystems. 2020 Jul 28;5(4). pii: e00317-20. doi: 10.1128/mSystems.00317-20.
+
+Consumption of a Western-Style Diet Modulates the Response of the Murine Gut
+Microbiome to Ciprofloxacin.
+
+Cabral DJ(#)(1), Wurster JI(#)(1), Korry BJ(1), Penumutchu S(1), Belenky P(2).
+
+Author information: 
+(1)Department of Molecular Microbiology and Immunology, Brown University,
+Providence, Rhode Island, USA.
+(2)Department of Molecular Microbiology and Immunology, Brown University,
+Providence, Rhode Island, USA peter_belenky@brown.edu.
+(#)Contributed equally
+
+Dietary composition and antibiotic use have major impacts on the structure and
+function of the gut microbiome, often resulting in dysbiosis. Despite this,
+little research has been done to explore the role of host diet as a determinant
+of antibiotic-induced microbiome disruption. Here, we utilize a multi-omic
+approach to characterize the impact of Western-style diet consumption on
+ciprofloxacin-induced changes to gut microbiome structure and transcriptional
+activity. We found that Western diet consumption dramatically increased
+Bacteroides abundances and shifted the community toward the metabolism of simple 
+sugars and mucus glycoproteins. Mice consuming a Western-style diet experienced a
+greater expansion of Firmicutes following ciprofloxacin treatment than those
+eating a control diet. Transcriptionally, we found that ciprofloxacin reduced the
+abundance of tricarboxylic acid (TCA) cycle transcripts on both diets, suggesting
+that carbon metabolism plays a key role in the response of the gut microbiome to 
+this antibiotic. Despite this, we observed extensive diet-dependent differences
+in the impact of ciprofloxacin on microbiota function. In particular, at the
+whole-community level we detected an increase in starch degradation, glycolysis, 
+and pyruvate fermentation following antibiotic treatment in mice on the Western
+diet, which we did not observe in mice on the control diet. Similarly, we
+observed diet-specific changes in the transcriptional activity of two important
+commensal bacteria, Akkermansia muciniphila and Bacteroides thetaiotaomicron,
+involving diverse cellular processes such as nutrient acquisition, stress
+responses, and capsular polysaccharide (CPS) biosynthesis. These findings
+demonstrate that host diet plays a role in determining the impacts of
+ciprofloxacin on microbiome composition and microbiome function.IMPORTANCE Due to
+the growing incidence of disorders related to antibiotic-induced dysbiosis, it is
+essential to determine how our "Western"-style diet impacts the response of the
+microbiome to antibiotics. While diet and antibiotics have profound impacts on
+gut microbiome composition, little work has been done to examine their combined
+effects. Previous work has shown that nutrient availability, influenced by diet, 
+plays an important role in determining the extent of antibiotic-induced
+disruption to the gut microbiome. Thus, we hypothesize that the Western diet will
+shift microbiota metabolism toward simple sugar and mucus degradation and away
+from polysaccharide utilization. Because of bacterial metabolism's critical role 
+in antibiotic susceptibility, this change in baseline metabolism will impact how 
+the structure and function of the microbiome are impacted by ciprofloxacin
+exposure. Understanding how diet modulates antibiotic-induced microbiome
+disruption will allow for the development of dietary interventions that can
+alleviate many of the microbiome-dependent complications of antibiotic treatment.
+
+Copyright © 2020 Cabral et al.
+
+DOI: 10.1128/mSystems.00317-20 
+PMCID: PMC7394352
+PMID: 32723789 
+

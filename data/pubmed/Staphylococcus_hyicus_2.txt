@@ -1,0 +1,52 @@
+
+1. Appl Microbiol Biotechnol. 2020 Feb;104(4):1555-1568. doi:
+10.1007/s00253-019-10313-3. Epub 2020 Jan 3.
+
+A new high-yielding antimicrobial peptide NZX and its antibacterial activity
+against Staphylococcus hyicus in vitro/vivo.
+
+Liu H(1)(2), Yang N(1)(2), Mao R(1)(2), Teng D(3)(4), Hao Y(1)(2), Wang X(1)(2), 
+Wang J(5)(6).
+
+Author information: 
+(1)Gene Engineering Laboratory, Feed Research Institute, Chinese Academy of
+Agricultural Sciences, Beijing, 100081, People's Republic of China.
+(2)Key Laboratory of Feed Biotechnology, Ministry of Agriculture and Rural
+Affairs, Beijing, 100081, People's Republic of China.
+(3)Gene Engineering Laboratory, Feed Research Institute, Chinese Academy of
+Agricultural Sciences, Beijing, 100081, People's Republic of China.
+tengda@caas.cn.
+(4)Key Laboratory of Feed Biotechnology, Ministry of Agriculture and Rural
+Affairs, Beijing, 100081, People's Republic of China. tengda@caas.cn.
+(5)Gene Engineering Laboratory, Feed Research Institute, Chinese Academy of
+Agricultural Sciences, Beijing, 100081, People's Republic of China.
+wangjianhua@caas.cn.
+(6)Key Laboratory of Feed Biotechnology, Ministry of Agriculture and Rural
+Affairs, Beijing, 100081, People's Republic of China. wangjianhua@caas.cn.
+
+Staphylococcus hyicus, considered as a leading pathogen of exudative epidermitis,
+is a serious threat to humans and animals. The emergency of bacterial resistance 
+to antibiotics, especially in human and animal health fields, leads to an urgent 
+need of exploration of new antimicrobial agents. In this study, NZX, a
+plectasin-derived peptide, was firstly expressed in Pichia pastoris X-33 and was 
+purified by cation exchange chromatography, followed by detection of its
+antibacterial activity in vitro and in vivo. The results showed that the total
+secreted protein concentration in fermentation supernatant was up to 2820 mg/L
+(29 °C) after 120-h induction in a 5-L fermentor. The yield of NZX reached up to 
+965 mg/L with a purity of 92.6%. The recombinant expressed NZX had a strong
+antimicrobial activity, high stability, and low toxicity. The minimal inhibitory 
+concentrations (MICs) of NZX and ceftriaxone (CRO) against Gram-positive bacteria
+were 0.46 to 0.91 μM and 6.04 to 12.09 μM, respectively. The time-killing curves 
+showed that S. hyicus NCTC10350 was killed completely by 2× and 4 × MIC of NZX
+within 24 h. NZX also exhibited the intracellular activity against S. hyicus in
+Hacat cells. After treatment with NZX (10 mg/kg) and CRO (60 mg/kg), the survival
+rates of mice were 100% and 83.3%, respectively. NZX inhibited the bacterial
+translocation, downregulated pro-inflammatory cytokines (TNF-α/IL-1β/IL-6),
+upregulated the anti-inflammatory cytokine (IL-10), and ameliorated
+multiple-organ injuries (the liver, spleen, lung, and kidney). This study
+provides evidence that the expressed NZX has the potential to become a powerful
+candidate as novel antimicrobial agents against S. hyicus infections.
+
+DOI: 10.1007/s00253-019-10313-3 
+PMID: 31900561 
+

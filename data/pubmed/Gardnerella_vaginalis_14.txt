@@ -1,0 +1,66 @@
+
+1. mSystems. 2020 Jul 28;5(4). pii: e00502-20. doi: 10.1128/mSystems.00502-20.
+
+Host Genetic Factors Associated with Vaginal Microbiome Composition in Kenyan
+Women.
+
+Mehta SD(1), Nannini DR(2)(3), Otieno F(4), Green SJ(5), Agingu W(4), Landay
+A(6), Zheng Y(2)(3), Hou L(2)(3).
+
+Author information: 
+(1)Division of Epidemiology & Biostatistics, University of Illinois at Chicago
+School of Public Health, Chicago, Illinois, USA Supriyad@uic.edu.
+(2)Center for Global Oncology, Institute of Global Health, Northwestern
+University Feinberg School of Medicine, Chicago, Illinois, USA.
+(3)Department of Preventive Medicine, Northwestern University Feinberg School of 
+Medicine, Chicago, Illinois, USA.
+(4)Nyanza Reproductive Health Society, Kisumu, Kenya.
+(5)Genome Research Core, University of Illinois at Chicago, College of Medicine, 
+Chicago, Illinois, USA.
+(6)Department of Internal Medicine, Rush University College of Medicine, Chicago,
+Illinois, USA.
+
+Bacterial vaginosis (BV) affects 20% of women worldwide and is associated with
+adverse reproductive health outcomes and increased risk for HIV. Typically, BV
+represents a shift in the vaginal microbiome from one that is dominated by
+Lactobacillus to one that is diverse. Persistent racial differences in BV and
+diverse vaginal microbiome composition overlap with racial disparities in risks
+for HIV and sexually transmitted infection, especially among women of African
+descent. Risk factors for BV and nonoptimal vaginal microbiome include sexual
+practices, yet racial differences persist when adjusted for behavioral factors,
+suggesting a host genetic component. Here, we perform a genome-wide association
+study on vaginal microbiome traits in Kenyan women. Linear regression and
+logistic regression were performed, adjusting for age and principal components of
+genetic ancestry, to evaluate the association between Lactobacillus crispatus,
+Lactobacillus iners, Gardnerella vaginalis, Shannon diversity index, and
+community state type (CST) with host genetic single nucleotide polymorphisms
+(SNPs). We identified novel genomic loci associated with the vaginal microbiome
+traits, though no SNP reached genome-wide significance. During pathway enrichment
+analysis, Toll-like receptors (TLRs), cytokine production, and other components
+of innate immune response were associated with L. crispatus, L. iners, and CST.
+Multiple previously reported genomic loci were replicated, including IL-8
+(Shannon, CST), TIRAP (L. iners, Shannon), TLR2 (Shannon, CST), MBL2 (L. iners,
+G. vaginalis, CST), and MYD88 (L. iners, Shannon). These genetic associations
+suggest a role for the innate immune system and cell signaling in vaginal
+microbiome composition and susceptibility to nonoptimal vaginal
+microbiome.IMPORTANCE Globally, bacterial vaginosis (BV) is a common condition in
+women. BV is associated with poorer reproductive health outcomes and HIV risk.
+Typically, BV represents a shift in the vaginal microbiome from one that is
+dominated by Lactobacillus to one that is diverse. Despite many women having
+similar exposures, the prevalence of BV and nonoptimal vaginal microbiome is
+increased for women of African descent, suggesting a possible role for host
+genetics. We conducted a genome-wide association study of important vaginal
+microbiome traits in Kenyan women. We identified novel genetic loci and
+biological pathways related to mucosal immunity, cell signaling, and infection
+that were associated with vaginal microbiome traits; we replicated previously
+reported loci associated with mucosal immune response. These results provide
+insight into potential host genetic influences on vaginal microbiome composition 
+and can guide larger longitudinal studies, with genetic and functional comparison
+across microbiome sites within individuals and across populations.
+
+Copyright © 2020 Mehta et al.
+
+DOI: 10.1128/mSystems.00502-20 
+PMCID: PMC7394359
+PMID: 32723796 
+

@@ -1,0 +1,38 @@
+
+1. Int J Syst Evol Microbiol. 2020 Feb;70(2):732-737. doi: 10.1099/ijsem.0.003803.
+
+Absicoccus porci gen. nov., sp. nov., a member of the family Erysipelotrichaceae 
+isolated from pig faeces.
+
+Shin Y(1), Paek J(1), Kim H(2), Kook JK(3), Kim JS(4), Kim SH(5), Chang YH(1).
+
+Author information: 
+(1)ABS Research Support Center, KRIBB, 125 Gwahak-ro, Yuseong-gu, Daejeon
+305-806, Republic of Korea.
+(2)Vitabio, Inc., Daejeon, 305-500, Republic of Korea.
+(3)Korean Collection for Oral Microbiology and Department of Oral Biochemistry,
+School of Dentistry, Chosun University, Gwangju, 501-759, Republic of Korea.
+(4)Jeonbuk Branch Institute, Molecular Bioprocess Research Center, KRIBB, 1404
+Sinjeong-dong, Jeongeup-si, Jeonbuk 580-185, Republic of Korea.
+(5)Department of Clinical Laboratory Science, Semyung University, Jecheon,
+Republic of Korea.
+
+An obligately anaerobic, Gram-stain-positive and coccus-shaped bacterium,
+designated strain YH-panp20T, was isolated from pig faeces. Phylogenetic analysis
+based on 16S rRNA gene sequencing indicated that the isolate belongs to the
+family Erysipelotrichaceae, and is most closely related to Catenisphaera
+adipataccumulans KCTC 15517T (93.5 % sequence similarity), followed by
+Faecalitalea cylindroides KCTC 5815T (92.2 %), Faecalicoccus acidiformans KCTC
+15521T (90.2 %) and Holdemanella biformis KCTC 5969T (89.6 %). Average nucleotide
+identity values between YH-panp20T and its closest relatives were lower than
+71 %. The G+C content of the isolate was 38.4 mol%, and its cell-wall
+peptidoglycan was found to be of A1γ type and contained meso-diaminopimelic acid.
+The predominant fatty acids were C18 : 1 cis 9, C18 : 0 DMA and C16 : 0. The
+major end-products of glucose fermentation were lactate, acetate and formate.
+Therefore, based on the phenotypic, phylogenetic and chemotaxonomic properties, a
+novel genus and species, Absicoccus porci gen. nov., sp. nov., is proposed for
+isolate YH-panp20T (=KCTC 15747T=JCM 32769T).
+
+DOI: 10.1099/ijsem.0.003803 
+PMID: 31702538  [Indexed for MEDLINE]
+

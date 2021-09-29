@@ -1,0 +1,30 @@
+
+1. Microbiol Resour Announc. 2019 Nov 14;8(46). pii: e01193-19. doi:
+10.1128/MRA.01193-19.
+
+Complete Genome Sequences of Seven EA Cluster Microbacteriophages, Bustleton,
+MillyPhilly, Riyhil, Phriends, Pherbot, PrincePhergus, and TinSulphur.
+
+Nguyen Quach AM(1), Varghese AE(1), Siddiq K(1), Pappano IG(1), Thaha A(1),
+Marcelis TA(1), Feruku B(1), Vindyala A(1), Mohamed R(1), Johnson KA(1), Hakim
+S(1), Sekar S(1), Vinnakota P(1), Borsha NH(1), McKenzie R(1), Ailani SS(1),
+Patel S(1), Beggarly VA(1); Drexel University SEA-PHAGES annotators 2019,
+McDonald MT(1), Dalia RR(1), Khakhina S(1), Gurney SMR(2).
+
+Author information: 
+(1)Department of Biology, Drexel University, Philadelphia, Pennsylvania, USA.
+(2)Department of Biology, Drexel University, Philadelphia, Pennsylvania, USA
+smg366@drexel.edu.
+
+Seven EA cluster microbacteriophages were isolated from soil collected around
+Philadelphia, PA, using the bacterial host Microbacterium foliorum All of these
+phages have a highly conserved genome with regions of diversity localized to the 
+3' end. In phage Phriends (EA1 cluster), this region contains an orpham gene with
+no known function.
+
+Copyright © 2019 Nguyen Quach et al.
+
+DOI: 10.1128/MRA.01193-19 
+PMCID: PMC6856279
+PMID: 31727713 
+

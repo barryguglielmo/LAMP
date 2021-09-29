@@ -1,0 +1,48 @@
+
+1. Sci Rep. 2020 Oct 2;10(1):16377. doi: 10.1038/s41598-020-72454-0.
+
+Contrasting effects of linezolid on healthy and dysfunctional human neutrophils: 
+reducing C5a-induced injury.
+
+Evans SJ(1), Roberts AEL(1), Morris AC(2), Simpson AJ(3), Harris LG(1), Mack
+D(1)(4), Jenkins RE(1), Wilkinson TS(5).
+
+Author information: 
+(1)Microbiology and Infectious Disease, Institute of Life Science, Swansea
+University Medical School, Floor 1, Room 137, Singleton Park, Swansea, SA2 8PP,
+UK.
+(2)Division of Anaesthesia, Department of Medicine, School of Clinical Medicine, 
+University of Cambridge, Level 4, Addenbrooke's Hospital, Cambridge Biomedical
+Campus, Hills Road, Box 93, Cambridge, CB2, 0QQ, UK.
+(3)Institute of Cellular Medicine, Medical School, Newcastle University,
+Newcastle upon Tyne, NE2 4HH, UK.
+(4)Bioscientia Labor Ingelheim, Institut für Medizinische Diagnostik GmbH,
+Konrad-Adenauer-Str. 17, 55218, Ingelheim, Germany.
+(5)Microbiology and Infectious Disease, Institute of Life Science, Swansea
+University Medical School, Floor 1, Room 137, Singleton Park, Swansea, SA2 8PP,
+UK. t.s.wilkinson@swansea.ac.uk.
+
+Methicillin-resistant Staphylococcus aureus (MRSA) is an important cause of
+ventilator-associated pneumonia (VAP). Patients with VAP have poorly functioning 
+neutrophils, related to increased levels of the complement fragment C5a. The
+antibiotic linezolid has been useful in controlling MRSA-related VAP infections; 
+however clinical benefit does not always correlate with antimicrobial effect,
+suggesting the possibility of immunomodulatory properties. Here the effects of
+linezolid on healthy and dysfunctional neutrophils (modelled by C5a-induced
+injury) was investigated. Functional assays (killing, phagocytosis,
+transmigration, and respiratory burst) were used to assess the effects of pre-,
+co- and post-incubating linezolid (0.4-40 mg/L) with healthy neutrophils relative
+to those with C5a-induced injury. C5a decreased neutrophil killing, and
+phagocytosis of MRSA. Furthermore, C5a significantly decreased neutrophil
+transmigration to IL-8, but did not affect respiratory burst. Co-incubation of
+linezolid significantly improved killing of MRSA by dysfunctional neutrophils,
+which was supported by concomitant increases in phagocytosis. Conversely
+linezolid impaired killing responses in healthy neutrophils. Pre- or
+post-incubation of linezolid prior or following C5a induced injury had no effect 
+on neutrophil function. This study suggests that linezolid has immunomodulatory
+properties that protect human neutrophils from injury and provides insight into
+its mode of action beyond a basic antibiotic.
+
+DOI: 10.1038/s41598-020-72454-0 
+PMID: 33009444 
+

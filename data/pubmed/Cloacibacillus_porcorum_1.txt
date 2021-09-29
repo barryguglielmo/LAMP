@@ -1,0 +1,37 @@
+
+1. FEMS Microbiol Ecol. 2020 Jul 1;96(7). pii: fiaa077. doi: 10.1093/femsec/fiaa077.
+
+Characterization and survey in cattle of a rumen Pyrimadobacter sp. which
+degrades the plant toxin fluoroacetate.
+
+Kang S(1), Khan S(1), Webb R(2), Denman S(1), McSweeney C(1).
+
+Author information: 
+(1)CSIRO Agriculture and Food, Queensland Bioscience Precinct, St. Lucia, QLD,
+Australia.
+(2)Centre for Microscopy and Microanalysis, University of Queensland, QLD,
+Australia.
+
+Among the natural halogenic compounds, the plant toxin fluoroacetate (FA) causes 
+livestock fatalities in southern hemisphere countries. Here, we report on the
+isolation of a rumen bacterium, strain C12-8 that degrades FA under anaerobic
+conditions. 16S rRNA gene sequence analysis showed this bacterium belonged to the
+Pyramidobacter genus within the Synergistetes phylum and was 98% similar to
+Pyramidobacter piscolens W5455 isolated from the human oral cavity. Transmission 
+electron microscopy showed the cell envelope to be unusual, with only one
+membrane and no obvious external wall. Growth and FA degradation were enhanced by
+peptide-rich protein hydrolysates but not carbohydrates. End products of
+metabolism were mainly acetate, propionate/isovalerate and isobutyrate. Strain
+C12-8 preferentially used peptide-bound amino acids rather than free amino acids.
+Glycine, serine, threonine, leucine, histidine and isoleucine were utilized as
+free and peptide-bound amino acids, but there was minimal utilization of alanine,
+proline, methionine, aspartic acid, lysine and arginine in either form. A survey 
+of several cattle properties in northern Australia showed that strain C12-8 and
+other FA degrading bacteria affiliated with Cloacibacillus porcorum strain MFA1
+were endemic to cattle in the northern beef herd and may help to reduce toxicity.
+
+© FEMS 2020.
+
+DOI: 10.1093/femsec/fiaa077 
+PMID: 32353874 
+

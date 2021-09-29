@@ -1,0 +1,46 @@
+
+1. J Biol Chem. 2020 Sep 25. pii: jbc.RA119.012442. doi: 10.1074/jbc.RA119.012442.
+[Epub ahead of print]
+
+Peptidoglycan analysis reveals that synergistic deacetylase activity in
+vegetative Clostridium difficile impacts the host response.
+
+Coullon H(1), Rifflet A(2), Wheeler R(2), Janoir C(3), Boneca IG(4), Candela
+T(5).
+
+Author information: 
+(1)Université Paris-Saclay, France.
+(2)Institut Pasteur, France.
+(3)Université Paris-Sud, Université Paris-Saclay, France.
+(4)Institute Pasteur, France.
+(5)INRAE, AgroParisTech, Micalis Institute, Université Paris-Saclay, France.
+
+Clostridium difficile is an anaerobic and spore-forming bacterium, responsible
+for 15 to 25% of post-antibiotic diarrhea and 95% of pseudomembranous colitis.
+Peptidoglycan is a crucial element of the bacterial cell wall that is exposed to 
+the host, making it an important target for the innate immune system. The C.
+difficile peptidoglycan is largely N-deacetylated on its glucosamine (93% of
+muropeptides) through the activity of enzymes known as N-deacetylases  and this
+N-deacetylation modulates host-pathogen interactions, such as resistance to the
+bacteriolytic activity of lysozyme, virulence and host innate immune responses.
+C. difficile genome analysis showed that 12 genes potentially encode
+N-deacetylases, however, which of these N-deacetylases are involved in
+peptidoglycan N-deacetylation remains unknown. Here, we report the enzymes
+responsible for peptidoglycan N-deacetylation and their respective regulation.
+Through peptidoglycan analysis of several mutants, we found that the
+N-deacetylases PdaV and PgdA act in synergy. Together they are responsible for
+the high level of peptidoglycan N-deacetylation in C. difficile, and the
+consequent resistance to lysozyme. We also characterized a third enzyme, PgdB, as
+a glucosamine N-deacetylase. However, its impact on N-deacetylation and lysozyme 
+resistance is limited, and its physiological role remains to be dissected.
+Finally, given the influence of peptidoglycan N-deacetylation on host defense
+against pathogens, we investigated the virulence and colonization ability of the 
+mutants. Unlike what has been shown in other pathogenic bacteria, lack of
+N-deacetylation in C. difficile is not linked to a decrease in virulence.
+
+Published under license by The American Society for Biochemistry and Molecular
+Biology, Inc.
+
+DOI: 10.1074/jbc.RA119.012442 
+PMID: 32978253 
+

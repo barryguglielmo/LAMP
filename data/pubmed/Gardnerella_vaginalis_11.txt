@@ -1,0 +1,42 @@
+
+1. J Infect Dis. 2020 Aug 21. pii: jiaa529. doi: 10.1093/infdis/jiaa529. [Epub ahead
+of print]
+
+Vaginal and Penile Microbiome Associations with HSV-2 in Women and their Male Sex
+Partners.
+
+Mehta SD(1), Nandi D(1), Agingu W(2), Green SJ(3), Bhaumik DK(1), Bailey RC(1),
+Otieno F(3).
+
+Author information: 
+(1)Division of Epidemiology & Biostatistics, University of Illinois at Chicago
+School of Public Health, Chicago, USA.
+(2)Nyanza Reproductive Health Society, Kisumu, Kenya.
+(3)Genome Research Core, University of Illinois at Chicago School of Medicine,
+Chicago, USA.
+
+BACKGROUND: We determined how the vaginal and penile microbiomes contribute to
+HSV-2 serostatus within sexual partnerships.
+METHODS: Microbiomes were characterized in cervicovaginal lavage and penile
+meatal swab through high-throughput 16s ribosomal RNA gene amplicon sequencing.
+HSV-2 antibody was detected in serum. We modeled vaginal and penile taxa and
+covariates contributing to HSV-2 status in women and men using bivariate probit.
+RESULTS: Among 231 couples, HSV-2 was detected in: 78 (33.8%) both the man and
+woman, 52 (22.5%) woman only, 27 (11.7%) man only, 74 (32.0%) neither. Women were
+median age 22 years, 10.9% with HIV, 21.4% with Bacterial vaginosis (BV). Men
+were median age 26 years, 11.8% with HIV, 55.0% circumcised. In analysis adjusted
+for sociodemographics and BV, enrichment of vaginal Gardnerella vaginalis and
+Lactobacillus iners was associated with increased likelihood of HSV-2 in women
+and HSV-2 in male partners. Penile taxa (including Ureaplasma and Aerococcus)
+were associated with HSV-2 in women.
+CONCLUSIONS: We demonstrate that penile taxa are associated with HSV-2 in female 
+partners, and vaginal taxa are associated with HSV-2 in male partners. Our
+findings suggest that couples-level joint consideration of genital microbiome and
+STI or related outcomes could lead to new avenues for prevention.
+
+© The Author(s) 2020. Published by Oxford University Press for the Infectious
+Diseases Society of America.
+
+DOI: 10.1093/infdis/jiaa529 
+PMID: 32822500 
+

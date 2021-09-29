@@ -1,0 +1,55 @@
+
+1. Eur J Med Chem. 2020 Aug 29;208:112776. doi: 10.1016/j.ejmech.2020.112776. [Epub 
+ahead of print]
+
+Efficient chemoenzymatic synthesis of fluorinated sialyl Thomsen-Friedenreich
+antigens and investigation of their characteristics.
+
+Li T(1), Zhang H(1), Guo Y(1), Zhu T(2), Yu P(1), Meng X(3).
+
+Author information: 
+(1)China International Science and Technology Cooperation Base of Food
+Nutrition/Safety and Medicinal Chemistry, Sino-French Joint Lab of Food
+Nutrition/Safety and Medicinal Chemistry, Key Laboratory of Industrial
+Fermentation Microbiology of Ministry of Education, Tianjin Key Laboratory of
+Industry Microbiology, College of Biotechnology, Tianjin University of Science
+and Technology, Tianjin, 300457, China.
+(2)China International Science and Technology Cooperation Base of Food
+Nutrition/Safety and Medicinal Chemistry, Sino-French Joint Lab of Food
+Nutrition/Safety and Medicinal Chemistry, Key Laboratory of Industrial
+Fermentation Microbiology of Ministry of Education, Tianjin Key Laboratory of
+Industry Microbiology, College of Biotechnology, Tianjin University of Science
+and Technology, Tianjin, 300457, China; CanSino Biologics Inc., Tianjin
+Enterprise Key Laboratory of Respiratory Bacterial Recombination and Conjugated
+Vaccine, Tianjin, 300457, China.
+(3)China International Science and Technology Cooperation Base of Food
+Nutrition/Safety and Medicinal Chemistry, Sino-French Joint Lab of Food
+Nutrition/Safety and Medicinal Chemistry, Key Laboratory of Industrial
+Fermentation Microbiology of Ministry of Education, Tianjin Key Laboratory of
+Industry Microbiology, College of Biotechnology, Tianjin University of Science
+and Technology, Tianjin, 300457, China. Electronic address: mengxin@tust.edu.cn.
+
+A set of fluorinated sialyl-T derivatives were efficiently synthesized using
+one-pot multi-enzyme (OPME) chemoenzymatic approach. The P. multocida
+α2-3-sialyltransferase (PmST1) involved in the synthesis showed extremely
+flexible donor and acceptor substrate specificities. These sialosides have been
+successfully investigated with stability towards Clostridium perfringens
+sialidase substrate specificity assay using 1H NMR spectroscopy. Hydrolysis
+studies monitored by 1H NMR clearly demonstrated that the fluorine substitution
+obviously reduced hydrolysis rate of Clostridium perfringens sialidase. To
+further investigate the fluorine influence, structure-dependent variation of
+sialoside-lectin binding was observed for MAL and different sialoside-immobilized
+surfaces. Subtle changes on the ligand of carbohydrate-binding protein were
+distinguished by SPR. These fluorinated sialyl-T derivatives obtained are
+valuable probes for further biological studies or antitumor drug design.
+
+Copyright © 2020 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.ejmech.2020.112776 
+PMID: 32896759 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

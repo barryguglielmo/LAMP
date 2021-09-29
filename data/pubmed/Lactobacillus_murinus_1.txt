@@ -1,0 +1,54 @@
+
+1. Physiol Rep. 2020 Aug;8(15):e14523. doi: 10.14814/phy2.14523.
+
+Age- and duration-dependent effects of whey protein on high-fat diet-induced
+changes in body weight, lipid metabolism, and gut microbiota in mice.
+
+Boscaini S(1)(2)(3), Cabrera-Rubio R(1)(2), Nychyk O(1), Roger Speakman J(4)(5), 
+Francis Cryan J(2)(3), David Cotter P(1)(2), Nilaweera KN(1).
+
+Author information: 
+(1)Food Biosciences Department, Teagasc Food Research Centre, Moorepark, Fermoy, 
+Ireland.
+(2)APC Microbiome Ireland, University College Cork, Cork, Ireland.
+(3)Department of Anatomy and Neuroscience, University College Cork, Cork,
+Ireland.
+(4)State Key Laboratory of Molecular Developmental Biology, Institute of Genetics
+and Developmental Biology, Chinese Academy of Sciences, Beijing, China.
+(5)Institute of Biological and Environmental Sciences, University of Aberdeen,
+Aberdeen, Scotland.
+
+Bovine whey protein has been demonstrated to exert a positive effect on energy
+balance, lipid metabolism, and nutrient absorption. Additionally, it affects gut 
+microbiota configuration. Thus, whey protein is considered as good dietary
+candidate to prevent or ameliorate metabolic diseases, such as obesity. However, 
+the relationship that links energy balance, metabolism, and intestinal microbial 
+population mediated by whey protein intake remains poorly understood. In this
+study, we investigated the beneficial effects attributed to whey protein in the
+context of high-fat diet (HFD) in mice at two different ages, with short or
+longer durations of whey protein supplementation. Here, a 5-week dietary
+intervention with HFD in combination with either whey protein isolate (WPI) or
+the control nonwhey milk protein casein (CAS) was performed using 5-week or
+10-week-old C57BL/6J mice. Notably, the younger mice had no prior history of
+ingestion of WPI, while older mice did. 5-week-old HFD-WPI-fed mice showed a
+decrease in weight gain and changes in the expression of genes within the
+epidydimal white adipose tissue including those encoding leptin, inflammatory
+marker CD68, fasting-induced adipose factor FIAF and enzymes involved in fatty
+acids catabolism, relative to HFD-CAS-fed mice. Differences in β-diversity and
+higher proportions of Lactobacillus murinus, and related functions, were evident 
+within the gut microbiota of HFD-WPI mice. However, none of these changes were
+observed in mice that started the HFD dietary intervention at 10-weeks-old, with 
+an extended period of WPI supplementation. These results suggest that the effect 
+of whey protein on mouse body weight, adipose tissue, and intestinal parameters
+depends on diet duration and stage of life during which the diet is provided. In 
+some instances, WPI influences gut microbiota composition and functional
+potential, which might orchestrate observed metabolic and physiological
+modifications.
+
+© 2020 The Authors. Physiological Reports published by Wiley Periodicals LLC on
+behalf of The Physiological Society and the American Physiological Society.
+
+DOI: 10.14814/phy2.14523 
+PMCID: PMC7399378
+PMID: 32748559 
+

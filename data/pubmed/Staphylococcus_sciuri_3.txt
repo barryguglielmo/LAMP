@@ -1,0 +1,36 @@
+
+1. Antibiotics (Basel). 2020 Aug 5;9(8). pii: E483. doi: 10.3390/antibiotics9080483.
+
+Identification and Characterization of Quorum-Quenching Activity of
+N-Acylhomoserine Lactonase from Coagulase-Negative Staphylococci.
+
+Morohoshi T(1), Kamimura Y(1), Someya N(2).
+
+Author information: 
+(1)Department of Material and Environmental Chemistry, Graduate School of
+Engineering, Utsunomiya University, Utsunomiya 321-8585, Japan.
+(2)Institute of Vegetable and Floriculture Science, National Agriculture and Food
+Research Organization, 3-1-1 Kannondai, Ibaraki 305-8519, Japan.
+
+N-Acylhomoserine lactones (AHLs) are used as quorum-sensing signals in
+Gram-negative bacteria. Many genes encoding AHL-degrading enzymes have been
+cloned and characterized in various microorganisms. Coagulase-negative
+staphylococci (CNS) are present on the skin of animals and are considered
+low-virulent species. The AHL-lactonase gene homologue, ahlS, was present in the 
+genomes of the CNS strains Staphylococcus carnosus, Staphylococcus haemolyticus, 
+Staphylococcus saprophyticus, and Staphylococcus sciuri. We cloned the candidate 
+ahlS homologue from six CNS strains into the pBBR1MCS5 vector. AhlS from the CNS 
+strains showed a higher degrading activity against AHLs with short acyl chains
+compared to those with long acyl chains. AhlS from S. sciuri was expressed and
+purified as a maltose-binding protein (MBP) fusion. Pseudomonas aeruginosa is an 
+opportunistic pathogen that regulates several virulence factors such as elastase 
+and pyocyanin by quorum-sensing systems. When MBP-AhlS was added to the culture
+of P. aeruginosa PAO1, pyocyanin production and elastase activity were
+substantially reduced compared to those in untreated PAO1. These results
+demonstrate that the AHL-degrading activity of AhlS from the CNS strains can
+inhibit quorum sensing in P. aeruginosa PAO1.
+
+DOI: 10.3390/antibiotics9080483 
+PMCID: PMC7459623
+PMID: 32764492 
+

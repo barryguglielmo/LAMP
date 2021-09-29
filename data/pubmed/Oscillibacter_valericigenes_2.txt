@@ -1,0 +1,49 @@
+
+1. Animal. 2020 Apr;14(4):731-744. doi: 10.1017/S1751731119002453. Epub 2019 Oct 30.
+
+Taxonomic and functional assessment using metatranscriptomics reveals the effect 
+of Angus cattle on rumen microbial signatures.
+
+Neves ALA(1), Chen Y(1), Lê Cao KA(2), Mandal S(3), Sharpton TJ(4), McAllister
+T(5), Guan LL(1).
+
+Author information: 
+(1)Department of Agricultural, Food and Nutritional Science, University of
+Alberta, Edmonton, T6G2P5 Alberta, Canada.
+(2)Melbourne Integrative Genomics, School of Mathematics and Statistics,
+University of Melbourne, Melbourne, Victoria, 3010, Australia.
+(3)Public Health Foundation of IndiaPlot 47, Sector 44, Gurgaon, 122002, India.
+(4)Departments of Microbiology and Statistics, Oregon State University,
+Corvallis, OR97331, Oregon, USA.
+(5)Lethbridge Research Center, Agriculture and Agri-Food Canada, Lethbridge,
+T1J4P4, Alberta, Canada.
+
+A greater understanding of the rumen microbiota and its function may help find
+new strategies to improve feed efficiency in cattle. This study aimed to
+investigate whether the cattle breed affects specific ruminal taxonomic microbial
+groups and functions associated with feed conversion ratio (FCR), using two
+genetically related Angus breeds as a model. Total RNA was extracted from 24
+rumen content samples collected from purebred Black and Red Angus bulls fed the
+same forage diet and then subjected to metatranscriptomic analysis. Multivariate 
+discriminant analysis (sparse partial least square discriminant analysis
+(sPLS-DA)) and analysis of composition of microbiomes were conducted to identify 
+microbial signatures characterizing Black and Red Angus cattle. Our analyses
+revealed relationships among bacterial signatures, host breeds and FCR. Although 
+Black and Red Angus are genetically similar, sPLS-DA detected 25 bacterial
+species and 10 functions that differentiated the rumen microbial signatures
+between those two breeds. In Black Angus, we identified bacterial taxa
+Chitinophaga pinensis, Clostridium stercorarium and microbial functions with
+large and small subunits ribosomal proteins L16 and S7 exhibiting a higher
+abundance in the rumen microbiome. In Red Angus, nonetheless, we identified the
+poorly characterized bacterial taxon Oscillibacter valericigenes with a higher
+abundance and pathways related to carbohydrate metabolism. Analysis of
+composition of microbiomes revealed that C. pinensis and C. stercorarium
+exhibited a higher abundance in Black Angus compared to Red Angus associated with
+FCR, suggesting that these bacterial species may play a key role in the feed
+conversion efficiency of forage-fed bulls. This study highlights how the
+discovery of signatures of bacterial taxa and their functions can be used to
+harness the full potential of the rumen microbiome in Angus cattle.
+
+DOI: 10.1017/S1751731119002453 
+PMID: 31662129  [Indexed for MEDLINE]
+

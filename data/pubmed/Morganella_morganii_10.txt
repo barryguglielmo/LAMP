@@ -1,0 +1,46 @@
+
+1. Clin Drug Investig. 2020 Oct;40(10):901-913. doi: 10.1007/s40261-020-00955-x.
+
+Cefiderocol, a New Siderophore Cephalosporin for the Treatment of Complicated
+Urinary Tract Infections Caused by Multidrug-Resistant Pathogens: Preclinical and
+Clinical Pharmacokinetics, Pharmacodynamics, Efficacy and Safety.
+
+Lee YR(1), Yeo S(2).
+
+Author information: 
+(1)Department of Pharmacy Practice, Adult Medicine Division, Jerry H. Hodge
+School of Pharmacy, Texas Tech University Health Sciences Center, 1718 Pine
+Street, Abilene, TX, 79601, USA. young.lee@ttuhsc.edu.
+(2)Jerry H. Hodge School of Pharmacy, Texas Tech University Health Sciences
+Center, Amarillo, TX, USA.
+
+Cefiderocol (Fetroja®) is a siderophore cephalosporin and has demonstrated potent
+activity against extended-spectrum beta-lactamases producing Enterobacteriaceae, 
+carbapenem-resistant Enterobacteriaceae, and nonfermenting Gram-negative bacilli,
+including Pseudomonas aeruginosa, Stenotrophomonas maltophilia, and Acinetobacter
+baumannii, Burkholderia cepacia, and Klebsiella pneumoniae. However, cefiderocol 
+has limited activity against Gram-positive bacteria and anaerobes like
+Bacterodies fragilis. In the APEKS-cUTI study, 183 (73%) of 252 patients in the
+cefiderocol group versus 65 (55%) of 119 patients in the imipenem-cilastatin
+group achieved the composite outcome of clinical and microbiological eradication 
+of Gram-negative bacteria (treatment difference of 18.58%; 95% CI 8.23-28.92, p =
+0.0004) in complicated urinary tract infections (cUTIs). Cefiderocol was
+non-inferior to imipenem-cilastatin in cUTIs caused by Gram-negative bacteria
+such as E. coli, K. pneumoniae, P. aeruginosa, Proteus mirabilis, Enterobacter
+cloacae, Morganella morganii, and Citrobacter freundii. Cefiderocol required dose
+adjustment in patients with renal impairment and percentage of time that free
+drug concentrations above the minimum inhibitory concentration (%fT > MIC) best
+correlated with clinical outcomes. The most common adverse events with
+cefiderocol were gastrointestinal symptoms such as diarrhea, constipation,
+nausea, vomiting, or upper abdominal pain. Two phase III clinical trials, the
+CREDIBLE-CR study and the APEKS-NP study, investigated the efficacy and safety of
+cefiderocol for the treatment of pneumonia or cUTI, and both studies showed
+higher all-cause mortality associated with cefiderocol. Therefore, the use of
+cefiderocol should be limited only to the treatment of cUTIs from Gram-negative
+bacteria, especially in patients who have limited or no alternative treatment
+options.
+
+DOI: 10.1007/s40261-020-00955-x 
+PMCID: PMC7374078
+PMID: 32700154 
+

@@ -1,0 +1,47 @@
+
+1. J Appl Microbiol. 2020 Aug 19. doi: 10.1111/jam.14829. [Epub ahead of print]
+
+Desulphurisation kinetics of thiophenic compound by sulphur oxidizing Klebsiella 
+oxytoca SOB-1.
+
+Mawad AMM(1)(2), Hassanein M(1), Aldaby ES(1), Yousef N(1).
+
+Author information: 
+(1)Botany and Microbiology Department, Faculty of Science, Assiut University,
+Assiut, Egypt.
+(2)Biology Department, College of Science, Taibah University, Al-Madinah Al
+Munawwarah, Saudi Arabia.
+
+AIMS: The major aims of this study are to determine the capability of sulphur
+oxidizing bacterium (SOB-1) to desulphurize dibenzothiophene (DBT) and crude oil,
+detection of the reaction kinetics and identify the proposed pathway of DBT
+desulphurization.
+METHODS AND RESULTS: The isolate was genetically identified based on 16S rRNA
+gene sequencing as Klebsiella oxytoca and deposited in the Genebank database
+under the accession number: MT355440. The HPLC analysis of the remaining DBT
+concentration revealed that, SOB-1 could desulphurize 90% of DBT (0·25 mmol l-1 )
+within 96 h. The maximum production of sulphate ions from the desulphurization of
+DBT (0·36 mmol l-1 ) and crude oil (0·4 mmol l-1 ) could be quantitatively
+detected after 48 h of incubation at 30°C. The high values of correlation
+coefficient (R2 ) obtained at all studied concentrations; suggested that
+biodesulfurization kinetics of DBT follows the first-order reaction model. The
+kinetics studies showed that, DBT may have an inhibitory effect on SOB-1 when the
+initial concentration exceeded 0·75 mmol l-1 . The GC-MS analysis exhibited four 
+main metabolites rather than DBT. The most important ones are 2-hydroxybiphenyl
+(2-HBP) and methoxybiphenyl n(2-MBP).
+CONCLUSIONS: Klebsiella oxytoca SOB-1 catalyzes the desulphurization of DBT
+through 4S pathway and forms four main metabolic products. The release of
+sulphate ion and formation of 2-HBP indicating the elimination of sulphur group
+without altering the carbon skeleton of DBT. The bacterial strain could also
+catalyzes desulphurization of crude oil. The desulphurization kinetics follows
+the first-order reaction model.
+SIGNIFICANCE AND IMPACT OF THE STUDY: Klebsiella oxytoca SOB-1 could be used as a
+promising industrial and environmental biodesulfurizing agent as it is not
+affecting carbon skeleton of thiophenic compounds and forming less toxic
+metabolic product (2-MBP).
+
+© 2020 The Society for Applied Microbiology.
+
+DOI: 10.1111/jam.14829 
+PMID: 32813930 
+

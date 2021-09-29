@@ -1,0 +1,66 @@
+
+1. J Bacteriol. 2020 Mar 26;202(8). pii: e00553-19. doi: 10.1128/JB.00553-19. Print 
+2020 Mar 26.
+
+Comparative Genomic Analysis of Closely Related Acetobacter pasteurianus Strains 
+Provides Evidence of Horizontal Gene Transfer and Reveals Factors Necessary for
+Thermotolerance.
+
+Matsutani M(1)(2)(3), Matsumoto N(4)(2), Hirakawa H(5), Shiwa Y(3), Yoshikawa
+H(3)(6), Okamoto-Kainuma A(7), Ishikawa M(7), Kataoka N(4)(2)(8), Yakushi
+T(4)(2)(8), Matsushita K(4)(2)(8).
+
+Author information: 
+(1)Department of Biological Chemistry, Faculty of Agriculture, Yamaguchi
+University, Yamaguchi, Japan mm207299@nodai.ac.jp.
+(2)Graduate School of Science and Technology for Innovation, Yamaguchi
+University, Yamaguchi, Japan.
+(3)NODAI Genome Research Center, Tokyo University of Agriculture, Setagaya,
+Tokyo, Japan.
+(4)Department of Biological Chemistry, Faculty of Agriculture, Yamaguchi
+University, Yamaguchi, Japan.
+(5)Kazusa DNA Research Institute, Kisarazu, Chiba, Japan.
+(6)Department of Bioscience, Faculty of Life Sciences, Tokyo University of
+Agriculture, Setagaya, Tokyo, Japan.
+(7)Department of Fermentation Science, Faculty of Applied Bioscience, Tokyo
+University of Agriculture, Setagaya, Tokyo, Japan.
+(8)Research Center for Thermotolerant Microbial Resources, Yamaguchi University, 
+Yamaguchi, Japan.
+
+Acetobacter pasteurianus is an industrial strain used for the vinegar production.
+Many A. pasteurianus strains with different phenotypic characteristics have been 
+isolated so far. To understand the genetic background underpinning these
+phenotypes, a comparative genomic analysis of A. pasteurianus strains was
+conducted. Based on bioinformatics and experimental results, we report the
+following. (i) The gene repertoire related to the respiratory chains showed that 
+several horizontal gene transfer events occurred after the divergence of these
+strains, indicating that the respiratory chain in A. pasteurianus has the
+diversity to adapt to its environment. (ii) There is a clear difference in
+thermotolerance even between 12 closely related strains. NBRC 3279, NBRC 3284,
+and NBRC 3283, in particular, which have only 55 mutations in total, showed
+differences in thermotolerance. The Na+/H+ antiporter gene nhaK2 was mutated in
+the thermosensitive NBRC 3279 and NBRC 3284 strains and not in the thermotolerant
+NBRC 3283 strain. The Na+/H+ antiporter activity of the three strains and
+expression of nhaK2 gene from NBRC 3283 in the two thermosensitive strains showed
+that these mutations are critical for thermotolerance. These results suggested
+that horizontal gene transfer events and several mutations have affected the
+phenotypes of these closely related strains.IMPORTANCE Acetobacter pasteurianus, 
+an industrial vinegar-producing strain, exhibits diverse phenotypic differences
+such as respiratory activity related to acetic acid production, acetic acid
+resistance, or thermotolerance. In this study, we investigated the correlations
+between genome sequences and phenotypes among closely related A. pasteurianus
+strains. The gene repertoire related to the respiratory chains showed that the
+respiratory components of A. pasteurianus has a diversity caused by several
+horizontal gene transfers and mutations. In three closely related strains with
+clear differences in their thermotolerances, we found that the insertion or
+deletion that occurred in the Na+/H+ antiporter gene nhaK2 is directly related to
+their thermotolerance. Our study suggests that a relatively quick mutation has
+occurred in the closely related A. pasteurianus due to its genetic instability
+and that this has largely affected its phenotype.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/JB.00553-19 
+PMCID: PMC7099137
+PMID: 32015144 
+

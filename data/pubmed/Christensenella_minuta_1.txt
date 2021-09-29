@@ -1,0 +1,57 @@
+
+1. mBio. 2020 Feb 4;11(1). pii: e03235-19. doi: 10.1128/mBio.03235-19.
+
+Syntrophy via Interspecies H2 Transfer between Christensenella and
+Methanobrevibacter Underlies Their Global Cooccurrence in the Human Gut.
+
+Ruaud A(#)(1), Esquivel-Elizondo S(#)(1)(2), de la Cuesta-Zuluaga J(1), Waters
+JL(1), Angenent LT(2), Youngblut ND(1), Ley RE(3).
+
+Author information: 
+(1)Department of Microbiome Science, Max Planck Institute for Developmental
+Biology, Tübingen, Germany.
+(2)Center for Applied Geosciences, Eberhard-Karls-Universität Tübingen, Tübingen,
+Germany.
+(3)Department of Microbiome Science, Max Planck Institute for Developmental
+Biology, Tübingen, Germany rley@tuebingen.mpg.de.
+(#)Contributed equally
+
+Across human populations, 16S rRNA gene-based surveys of gut microbiomes have
+revealed that the bacterial family Christensenellaceae and the archaeal family
+Methanobacteriaceae cooccur and are enriched in individuals with a lean, compared
+to an obese, body mass index (BMI). Whether these association patterns reflect
+interactions between metabolic partners, as well as whether these associations
+play a role in the lean host phenotype with which they associate, remains to be
+ascertained. Here, we validated previously reported cooccurrence patterns of the 
+two families and their association with a lean BMI with a meta-analysis of 1,821 
+metagenomes derived from 10 independent studies. Furthermore, we report positive 
+associations at the genus and species levels between Christensenella spp. and
+Methanobrevibacter smithii, the most abundant methanogen of the human gut. By
+coculturing three Christensenella spp. with M. smithii, we show that
+Christensenella spp. efficiently support the metabolism of M. smithii via H2
+production far better than Bacteroides thetaiotaomicron does. Christensenella
+minuta forms flocs colonized by M. smithii even when H2 is in excess. In culture 
+with C. minuta, H2 consumption by M. smithii shifts the metabolic output of C.
+minuta's fermentation toward acetate rather than butyrate. Together, these
+results indicate that the widespread cooccurrence of these microorganisms is
+underpinned by both physical and metabolic interactions. Their combined metabolic
+activity may provide insights into their association with a lean host
+BMI.IMPORTANCE The human gut microbiome is made of trillions of microbial cells, 
+most of which are Bacteria, with a subset of Archaea The bacterial family
+Christensenellaceae and the archaeal family Methanobacteriaceae are widespread in
+human guts. They correlate with each other and with a lean body type. Whether
+species of these two families interact and how they affect the body type are
+unanswered questions. Here, we show that species within these families correlate 
+with each other across people. We also demonstrate that particular species of
+these two families grow together in dense flocs, wherein the bacteria provide
+hydrogen gas to the archaea, which then make methane. When the archaea are
+present, the ratio of bacterial products (which are nutrients for humans) is
+changed. These observations indicate that when these species grow together, their
+products have the potential to affect the physiology of their human host.
+
+Copyright © 2020 Ruaud et al.
+
+DOI: 10.1128/mBio.03235-19 
+PMCID: PMC7002349
+PMID: 32019803 
+

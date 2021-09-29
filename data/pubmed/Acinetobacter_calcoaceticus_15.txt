@@ -1,0 +1,59 @@
+
+1. Microorganisms. 2020 Mar 12;8(3). pii: E397. doi: 10.3390/microorganisms8030397.
+
+Long-Term Surveillance of Antibiotic Prescriptions and the Prevalence of
+Antimicrobial Resistance in Non-Fermenting Gram-Negative Bacilli.
+
+Chou CH(1)(2), Lai YR(3), Chi CY(1)(2), Ho MW(1)(2), Chen CL(4), Liao WC(2)(5),
+Ho CM(6)(7), Chen YA(8)(9), Chen CY(5), Lin YT(2), Lin CD(2)(10), Lai
+CH(2)(3)(9)(11)(12).
+
+Author information: 
+(1)Departments of Infectious Disease, China Medical University Hospital, Taichung
+40447, Taiwan.
+(2)School of Medicine, Department of Medical Laboratory Science and
+Biotechnology, Graduate Institute of Biomedical Sciences, China Medical
+University, Taichung 40402, Taiwan.
+(3)Graduate Institute of Biomedical Sciences, Department of Microbiology and
+Immunology, Chang Gung University, Taoyuan 33302, Taiwan.
+(4)Department of Pharmacology and Toxicology, Virginia Commonwealth University,
+Richmond, VA 23284, USA.
+(5)Department of Pulmonary and Critical Care Medicine, China Medical University
+Hospital, Taichung 40447, Taiwan.
+(6)Department of Laboratory Medicine and Clinical Pathology, Taichung Tzu Chi
+Hospital, Buddhist Tzu Chi Medical Foundation, Taichung 42743, Taiwan.
+(7)Department of Nursing, Hungkuang University, Taichung 43302, Taiwan.
+(8)Department of Life Sciences, National Chung Hsing University, Taichung 40227, 
+Taiwan.
+(9)Department of Urology, University of Texas Southwestern Medical Center,
+Dallas, TX 75390, USA.
+(10)Department of Otolaryngology-Head and Neck Surgery, China Medical University 
+and Hospital, Taichung 40447, Taiwan.
+(11)Department of Nursing, Asia University, Taichung 41354, Taiwan.
+(12)Molecular Infectious Disease Research Center, Department of Pediatrics, Chang
+Gung Memorial Hospital, Linkou 33305, Taiwan.
+
+The increasing emergence of multidrug-resistant (MDR) bacteria has been
+recognized as a public health threat worldwide. Hospitalized patients and
+outpatients are commonly infected by non-fermenting Gram-negative bacilli
+(NFGNB), particularly the Acinetobacter calcoaceticus-Acinetobacter baumannii
+complex (ACB) and Pseudomonas aeruginosa. Antimicrobial agents are critical for
+treating the nosocomial infections caused by NFGNB. The aim of this study was to 
+assess antimicrobial resistance and the use of antimicrobial agents. The
+bacterial isolates of 638,152 specimens from both inpatients and outpatients,
+retrieved from 2001 to 2008 at a medical center in central Taiwan, were examined 
+for their susceptibility to various antimicrobial agents, including cefepime,
+imipenem, ciprofloxacin, gentamicin, amikacin, meropenem, and levofloxacin.
+Administrated prescriptions of the monitored antibiotics were analyzed using the 
+Taiwan National Health Insurance Research Database (NHIRD). Our results show that
+the defined daily doses (DDDs) for cefepime, imipenem, and ciprofloxacin
+increased with time, and a trend toward reduced antimicrobial sensitivities of
+both ACB and P. aeruginosa was noticeable. In conclusion, the antimicrobial
+sensitivities of ACB and P. aeruginosa were reduced with the increased use of
+antibiotics. Continuous surveillance of antibiotic prescriptions and the
+prevalence of emerging resistance in nosocomial infections is warranted.
+
+DOI: 10.3390/microorganisms8030397 
+PMCID: PMC7142802
+PMID: 32178340 
+

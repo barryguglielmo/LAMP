@@ -1,0 +1,44 @@
+
+1. Arch Microbiol. 2020 Sep;202(7):1749-1756. doi: 10.1007/s00203-020-01886-z. Epub 
+2020 Apr 25.
+
+Directed mutation of β-glucanases from probiotics to enhance enzymatic activity, 
+thermal and pH stability.
+
+Sun ZB(1), Xu JL(1), Lu X(2), Zhang W(3), Ji C(1), Ren Q(4).
+
+Author information: 
+(1)School of Light Industry, Beijing Technology and Business University, Beijing,
+100048, China.
+(2)State Key Laboratory for Infectious Disease Prevention and Control, National
+Institute for Communicable Disease Control and Prevention, Chinese Center for
+Disease Control and Prevention, Beijing, 102206, China.
+(3)College of Food Science and Technology, Hebei Agricultural University,
+Baoding, 071001, China.
+(4)School of Light Industry, Beijing Technology and Business University, Beijing,
+100048, China. renqing@th.btbu.edu.cn.
+
+β-glucanases are widely applied in biological control, brewing and feed
+industries; however, there are seldom studies of β-glucanases in probiotics.
+Here, β-glucanase genes were cloned from Bacillus licheniformis, Lactobacillus
+fermentum and L. johnsonii. β-glucanase genes, as blg, lfg and ljg isolated from 
+B. licheniformis, L. fermentum and L. johnsonii were prokaryotic expressed to
+obtain recombinant strains BL, LF and LJ, respectively. Directed mutations in
+these genes were introduced by sequential error-prone PCR. Results showed that
+β-glucanase activities in three mutants mblg, mlfg and mljg were 1.94-, 2.72- and
+1.29-fold higher than the BL, LF and LJ, respectively. Mutation sites analysis
+showed substitutions at Ser370Gly and Leu395Phe in mblg; Arg169His and Asn302Ser 
+in mlfg; Val132Met, Ser226Asn, and Asp355Gly in mljg. Spatial structural
+predictions revealed the numbers and positions of α-helices and β-strands in the 
+three mutants were altered, which might result in β-glucanase activity
+increasement. Analysis of β-glucanase properties revealed no significant
+differences in the optimal temperatures and pH between mutant and wild-type
+strains. However, mlfg and mljg exhibited greater thermal stability at 30-50 ℃
+than the wild-type strains, and mblg improved pH stability compared with
+wild-type strain. This is the first report about β-glucanase-encoding genes in L.
+fermentum and L. johnsonii. These findings provide an efficient way to improve
+the activity of β-glucanase.
+
+DOI: 10.1007/s00203-020-01886-z 
+PMID: 32335717  [Indexed for MEDLINE]
+

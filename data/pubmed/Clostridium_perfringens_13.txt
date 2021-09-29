@@ -1,0 +1,47 @@
+
+1. 3 Biotech. 2020 Oct;10(10):420. doi: 10.1007/s13205-020-02415-x. Epub 2020 Sep 8.
+
+Extension of the taxonomic coverage of the family GH126 outside Firmicutes and in
+silico characterization of its non-catalytic terminal domains.
+
+Kerényiová L(1), Janeček Š(1)(2).
+
+Author information: 
+(1)Laboratory of Protein Evolution, Institute of Molecular Biology, Slovak
+Academy of Sciences, 84551 Bratislava, Slovakia.
+(2)Department of Biology, Faculty of Natural Sciences, University of SS. Cyril
+and Methodius, 91701 Trnava, Slovakia.
+
+The family GH126 is a family of glycoside hydrolases established in 2011.
+Officially, in the CAZy database, it counts ~ 1000 sequences originating solely
+from bacterial phylum Firmicutes. Two members, the proteins CPF_2247 from
+Clostridium perfringens and PssZ from Listeria monocytogenes have been
+characterized as a probable α-amylase and an exopolysaccharide-specific
+glycosidase, respectively; their three-dimensional structures being also solved
+as possessing catalytic (α/α)6-barrel fold. Previously, based on a detailed in
+silico analysis, the seven conserved sequence regions (CSRs) were identified for 
+the family along with elucidating basic evolutionary relationships within the
+family members. The present study represents a continuation study focusing on two
+particular aims: (1) to find out whether the taxonomic coverage of the family
+GH126 might be extended outside the Firmicutes and, if positive, to deliver those
+out-of-Firmicutes proteins with putting them into the context of the family; and 
+(2) to identify the family members containing the N- and/or C-terminal extensions
+of their polypeptide chain, additional to the catalytic (α/α)6-barrel domain, and
+perform the bioinformatics characterization of the extra domains. The main
+results could be summarized as follows: (1) 17 bacterial proteins caught by BLAST
+searches outside Firmicutes (especially from phyla Proteobacteria, Actinobacteria
+and Bacteroidetes) have been found and convincingly suggested as new family GH126
+members; and (2) a thioredoxin-like fold and various leucine-rich repeat motifs
+identified by Phyre2 structure homology modelling have been recognized as extra
+domains occurring most frequently in the N-terminal extensions of family GH126
+members possessing a modular organization.
+
+© The Author(s) 2020.
+
+DOI: 10.1007/s13205-020-02415-x 
+PMCID: PMC7479077
+PMID: 32953382 
+
+Conflict of interest statement: Conflict of interestThe authors declare that they
+have no conflict of interest in the publication.
+

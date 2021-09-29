@@ -1,0 +1,51 @@
+
+1. BMC Microbiol. 2020 Jun 3;20(1):142. doi: 10.1186/s12866-020-01830-7.
+
+PCR-based screening, isolation, and partial characterization of motile
+lactobacilli from various animal feces.
+
+Suzuki S(1), Fujita K(1), Maeno S(2), Shiwa Y(3), Endo A(4), Yokota K(5), Igimi
+S(5), Kajikawa A(6).
+
+Author information: 
+(1)Department of Agricultural Chemistry, Graduate School of Agriculture, Tokyo
+University of Agriculture, 1-1-1 Sakuragaoka, Setagaya, Tokyo, 156-8502, Japan.
+(2)Department of Food, Aroma and Cosmetic Chemistry, Graduate School of
+Bioindustry, Tokyo University of Agriculture, 196 Yasaka, Abashiri, Hokkaido,
+099-2493, Japan.
+(3)Department of Molecular Microbiology, Tokyo University of Agriculture, 1-1-1
+Sakuragaoka, Setagaya, Tokyo, 156-8502, Japan.
+(4)Department of Food, Aroma and Cosmetic Chemistry, Tokyo University of
+Agriculture, 196 Yasaka, Abashiri, Hokkaido, 099-2493, Japan.
+(5)Department of Agricultural Chemistry, Tokyo University of Agriculture, 1-1-1
+Sakuragaoka, Setagaya, Tokyo, 156-8502, Japan.
+(6)Department of Agricultural Chemistry, Tokyo University of Agriculture, 1-1-1
+Sakuragaoka, Setagaya, Tokyo, 156-8502, Japan. a3kajika@nodai.ac.jp.
+
+BACKGROUND: Most lactobacilli found in animal intestines are generally
+non-motile, but there are few exceptions. Our previous work showed that
+Lactobacillus agilis BKN88, which is a highly motile strain originating from a
+chicken, takes advantage of motility in gut colonization in murine models, and
+thus motile lactobacilli likely have unique ecological characteristics conferred 
+by motility. However, the ecology and habitat of gut-derived motile lactobacilli 
+are still rarely understood. In addition, the limited availability of motile
+Lactobacillus isolates is one of the major obstacles for further studies. To gain
+insight into the ecology and habitat of the motile lactobacilli, we established a
+routinely applicable detection method for motile lactobacilli using PCR and
+subsequent selective isolation in semi-solid MRS medium for the collection of
+additional motile lactobacilli from animal feces.
+RESULTS: We applied the PCR detection using motile lactobacilli-specific primers,
+based on the motor switch protein gene (fliG) of flagella, to 120 animal feces,
+followed by selective isolation performed using 45 animal feces. As a result,
+motile lactobacilli were detected in 44 animal feces. In the selective isolation,
+29 isolates of L. agilis and 2 isolates of L. ruminis were obtained from 8 animal
+species.
+CONCLUSIONS: These results indicated that motile lactobacilli are distributed in 
+different animal species. Moreover, phylogenetic analysis of the L. agilis
+isolates suggests co-evolution with the host, and adaptation to a particular
+environmental niche.
+
+DOI: 10.1186/s12866-020-01830-7 
+PMCID: PMC7268542
+PMID: 32493209 
+

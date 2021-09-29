@@ -1,0 +1,59 @@
+
+1. Microb Drug Resist. 2020 May;26(5):520-530. doi: 10.1089/mdr.2019.0114. Epub 2019
+Nov 21.
+
+Enterotoxigenicity and Antibiotic Resistance of Coagulase-Negative Staphylococci 
+Isolated from Raw Buffalo and Cow Milk.
+
+Osman KM(1), Pires ÁDS(2), Franco OL(2)(3)(4), Orabi A(1), Hanafy MH(1), Marzouk 
+E(5), Hussien H(6), Alzaben FA(7)(8), Almuzaini AM(7), Elbehiry A(5)(9).
+
+Author information: 
+(1)Department of Microbiology, Faculty of Veterinary Medicine, Cairo University, 
+Giza, Egypt.
+(2)Pós-Graduação em Ciências Genômicas e Biotecnologia, Centro de Análises
+Proteômicas e Bioquímicas, Universidade Católica de Brasília, Brasília, Brazil.
+(3)Programa de Pós-Graduação em Biotecnologia, S-Inova Biotech, Universidade
+Católica Dom Bosco, Campo Grande, Brazil.
+(4)Graduação em Ciências Biológicas, Universidade Católica Dom Bosco, Campo
+Grande, Brazil.
+(5)Department of Public Health, College of Public Health and Health Informatics, 
+Qassim University, Buraydah, Saudi Arabia.
+(6)Department of Food Hygiene and Control, Faculty of Veterinary Medicine,
+University of Sadat City, Sadat City, Egypt.
+(7)Department of Veterinary Medicine, College of Agriculture and Veterinary
+Medicine, Qassim University, Buraydah, Saudi Arabia.
+(8)Department of Preventive Medicine, King Fahad Armed Forces Hospital, Jeddah
+City, Saudi Arabia.
+(9)Department of Bacteriology, Mycology and Immunology, Faculty of Veterinary
+Medicine, University of Sadat City, Sadat City, Egypt.
+
+Staphylococcal food poisoning is considered to be one of the most common
+foodborne illnesses worldwide. Because milk is rich in nutrients and its neutral 
+pH, it leads to the growth of various bacteria. To date, the correlation between 
+enterotoxigenic potential in Staphylococcus species and antimicrobial resistance 
+(AMR), using bioinformatics analysis in buffalo and cow raw milk and the possible
+health risks from these bacteria, has not been examined in Egypt. A total of 42
+Staphylococcus isolates representing 12 coagulase-positive staphylococci
+(Staphylococcus aureus and Staphylococcus intermedius) and 30 coagulase-negative 
+staphylococci (Staphylococcus capitis, Staphylococcus xylosus, Staphylococcus
+carnosus, Staphylococcus saccharolyticus, and Staphylococcus auricularis) were
+isolated. An assay of the antimicrobial resistance phenotypes indicated low
+resistance against vancomycin (9.5%). The blaZ gene was associated with
+penicillin G and methicillin resistance and not with sulbactam + ampicillin. The 
+presence of the gene ermB presented the correlation with erythromycin resistance 
+and tetK with tetracycline resistance (correlation index: 0.57 and 0.49,
+respectively), despite the absence of the same behavior for ermC and tetM,
+respectively. Interestingly, the gene mecA was not correlated with resistance to 
+methicillin or any other β-lactam. Correlation showed that slime-producing
+isolates had more resistance to antibiotics than those of nonslime producers. The
+multiple correlations between antibiotic resistance phenotypes and resistance
+genes indicate a complex nature of resistance in Staphylococcus species. The
+antimicrobial resistance could potentially spread to the community and thus, the 
+resistance of Staphylococcus species to various antibiotics does not depend only 
+on the use of a single antimicrobial, but also extends to other unrelated classes
+of antimicrobials.
+
+DOI: 10.1089/mdr.2019.0114 
+PMID: 31750778 
+

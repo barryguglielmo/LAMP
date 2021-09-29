@@ -1,0 +1,40 @@
+
+1. Toxins (Basel). 2020 Sep 17;12(9). pii: E603. doi: 10.3390/toxins12090603.
+
+Structural and Biochemical Characterization of Botulinum Neurotoxin Subtype B2
+Binding to Its Receptors.
+
+Davies JR(1), Masuyer G(1)(2), Stenmark P(1)(3).
+
+Author information: 
+(1)Department of Biochemistry and Biophysics, Stockholm University, SE-106 91
+Stockholm, Sweden.
+(2)Department of Pharmacy and Pharmacology, Centre for Therapeutic Innovation,
+University of Bath, Bath BA2 7AY, UK.
+(3)Department of Experimental Medical Science, Lund University, SE-221 00 Lund,
+Sweden.
+
+Botulinum neurotoxins (BoNTs) can be used therapeutically to treat a wide range
+of neuromuscular and neurological conditions. A collection of natural BoNT
+variants exists which can be classified into serologically distinct serotypes
+(BoNT/B), and further divided into subtypes (BoNT/B1, B2, …). BoNT subtypes share
+a high degree of sequence identity within the same serotype yet can display large
+variation in toxicity. One such example is BoNT/B2, which was isolated from
+Clostridium botulinum strain 111 in a clinical case of botulism, and presents a
+10-fold lower toxicity than BoNT/B1. In an effort to understand the molecular
+mechanisms behind this difference in potency, we here present the crystal
+structures of BoNT/B2 in complex with the ganglioside receptor GD1a, and with the
+human synaptotagmin I protein receptor. We show, using receptor-binding assays,
+that BoNT/B2 has a slightly higher affinity for GD1a than BoNT/B1, and confirm
+its considerably weaker affinity for its protein receptors. Although the overall 
+receptor-binding mechanism is conserved for both receptors, structural analysis
+suggests the lower affinity of BoNT/B2 is the result of key substitutions, where 
+hydrophobic interactions important for synaptotagmin-binding are replaced by
+polar residues. This study provides a template to drive the development of future
+BoNT therapeutic molecules centered on assessing the natural subtype variations
+in receptor-binding that appears to be one of the principal stages driving
+toxicity.
+
+DOI: 10.3390/toxins12090603 
+PMID: 32957706 
+

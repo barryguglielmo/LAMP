@@ -1,0 +1,59 @@
+
+1. ACS Omega. 2020 Apr 1;5(14):7861-7876. doi: 10.1021/acsomega.9b04084. eCollection
+2020 Apr 14.
+
+Destruction of Cell Topography, Morphology, Membrane, Inhibition of Respiration, 
+Biofilm Formation, and Bioactive Molecule Production by Nanoparticles of Ag, ZnO,
+CuO, TiO2, and Al2O3 toward Beneficial Soil Bacteria.
+
+Ahmed B(1), Ameen F(2), Rizvi A(1), Ali K(1), Sonbol H(3), Zaidi A(1), Khan
+MS(1), Musarrat J(1)(4).
+
+Author information: 
+(1)Department of Agricultural Microbiology, Aligarh Muslim University, Aligarh
+202002, India.
+(2)Department of Botany and Microbiology, College of Science, King Saud
+University, Riyadh 11451, Saudi Arabia.
+(3)Department of Biology, College of Science, Princess Nourah bint Abdulrahman
+University, Riyadh 11671, Saudi Arabia.
+(4)School of Biosciences and Biotechnology, Baba Ghulam Shah Badshah University, 
+Rajouri, Jammu and Kashmir 185234, India.
+
+The unregulated discharge of nanoparticles (NPs) from various nanotechnology
+industries into the environment is expected to alter the composition and
+physiological functions of soil microbiota. Considering this knowledge gap, the
+impact of five NPs (Ag, ZnO, CuO, Al2O3, and TiO2) differing in size and
+morphology on growth behavior and physiological activity of Azotobacter
+chroococcum, Bacillus thuringiensis, Pseudomonas mosselii, and Sinorhizobium
+meliloti were investigated. Various biochemical and microscopic approaches were
+adopted. Interestingly, all bacterial strains were found sensitive to Ag-NPs and 
+ZnO-NPs but showed tolerance toward CuO, Al2O3, and TiO2-NPs. The loss of
+cellular respiration due to NPs was coupled with a reduction in population size. 
+ZnO-NPs at 387.5 μg mL-1 had a maximum inhibitory impact on A. chroococcum and
+reduced its population by 72%. Under Ag-NP stress, the reduction in IAA secretion
+by bacterial strains followed the order S. meliloti (74%) > P. mosselii (63%) >
+A. chroococcum (49%). The surface of bacterial cells had small- or large-sized
+aggregates of NPs. Also, numerous gaps, pits, fragmented, and disorganized cell
+envelopes were visible. Additionally, a treated cell surface appeared corrugated 
+with depressions and alteration in cell length and a strong heterogeneity was
+noticed under atomic force microscopy (AFM). For instance, NPs induced cell
+roughness for P. mosselii followed the order 12.6 nm (control) > 58 nm (Ag-NPs) >
+41 nm (ZnO-NPs). TEM analysis showed aberrant morphology, cracking, and
+disruption of the cell envelope with extracellular electron-dense materials.
+Increased permeability of the inner cell membrane caused cell death and lowered
+EPS production. Ag-NPs and ZnO-NPs also disrupted the surface adhering ability of
+bacteria, which varied with time and concentration of NPs. Conclusively, a
+plausible mechanism of NP toxicity to bacteria has been proposed to understand
+the mechanistic basis of ecological interaction between NPs and resourceful
+bacteria. These results also emphasize to develop strategies for the safe
+disposal of NPs.
+
+Copyright © 2020 American Chemical Society.
+
+DOI: 10.1021/acsomega.9b04084 
+PMCID: PMC7160826
+PMID: 32309695 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

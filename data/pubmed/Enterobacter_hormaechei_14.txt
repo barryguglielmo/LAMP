@@ -1,0 +1,40 @@
+
+1. Antimicrob Agents Chemother. 2020 May 21;64(6). pii: e00128-20. doi:
+10.1128/AAC.00128-20. Print 2020 May 21.
+
+MgrB Inactivation Is Responsible for Acquired Resistance to Colistin in
+Enterobacter hormaechei subsp. steigerwaltii.
+
+Mhaya A(1)(2), Bégu D(1), Tounsi S(2), Arpin C(3).
+
+Author information: 
+(1)Laboratoire de Microbiologie Fondamentale et Pathogénicité (MFP), Université
+de Bordeaux, CNRS UMR-5234, Bordeaux, France.
+(2)Laboratoire des Biopesticides, Centre de Biotechnologie de Sfax, Sfax,
+Tunisia.
+(3)Laboratoire de Microbiologie Fondamentale et Pathogénicité (MFP), Université
+de Bordeaux, CNRS UMR-5234, Bordeaux, France corinne.arpin@u-bordeaux.fr.
+
+Multidrug-resistant strains belonging to the Enterobacter cloacae complex (ECC)
+group, and especially those belonging to clusters C-III, C-IV, and C-VIII, have
+increasingly emerged as a leading cause of health care-associated infections,
+with colistin used as one of the last lines of treatment. However,
+colistin-resistant ECC strains have emerged. The aim of this study was to prove
+that MgrB, the negative regulator of the PhoP/PhoQ two-component regulatory
+system, is involved in colistin resistance in ECC of cluster C-VIII, formerly
+referred to as Enterobacter hormaechei subsp. steigerwaltii An in vitro mutant
+(Eh22-Mut) was selected from a clinical isolate of Eh22. The sequencing analysis 
+of its mgrB gene showed the presence of one nucleotide deletion leading to the
+formation of a truncated protein of six instead of 47 amino acids. The wild-type 
+mgrB gene from Eh22 and that of a clinical strain of Klebsiella pneumoniae used
+as controls were cloned, and the corresponding recombinant plasmids were used for
+complementation assays. The results showed a fully restored susceptibility to
+colistin and confirmed for the first time that mgrB gene expression plays a key
+role in acquired resistance to colistin in ECC strains.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.00128-20 
+PMCID: PMC7269514 [Available on 2020-11-21]
+PMID: 32253218 
+

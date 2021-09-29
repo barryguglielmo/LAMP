@@ -1,0 +1,39 @@
+
+1. Protein Pept Lett. 2020 Aug 13. doi: 10.2174/0929866527666200813201242. [Epub
+ahead of print]
+
+Construction and Evaluation of Peptide-Linked Lactobacillus brevis
+β-Galactosidase Heterodimers.
+
+Han YY(1), Yue HY(1), Zhang XY(1), Lyu YM(1), Liu L(1), Voglmeir J(1).
+
+Author information: 
+(1)Glycomics and Glycan Bioengineering Research Center (GGBRC), College of Food
+Science and Technology, Nanjing Agricultural University, Nanjing. China.
+
+BACKGROUND: β-galactosidases are enzymes that are utilized to hydrolyze lactose
+into galactose and glucose, and are is widely used in the food industry.
+OBJECTIVE: We describe the recombinant expression of an unstudied, heterodimeric 
+β-galactosidase originating from Lactobacillus brevis ATCC 367 in Escherichia
+coli. Furthermore, six different constructs, in which the two protein subunits
+were fused with different peptide linkers.
+METHOD: The heterodimeric subunits of the β-galactosidase were cloned in
+expressed in various expression constructs, by using either two vectors for the
+independent expression of each subunit, or using a single Duet vector for the
+co-expression of the two subunits.
+RESULTS: The co-expression in two independent expression vectors only resulted in
+low β-galactosidase activities, whereas the co-expression in a single Duet vector
+of the independent and fused subunits increased the β-galactosidase activity
+significantly. The recombinant β-galactosidase showed comparable hydrolyzing
+properties towards lactose, N-acetyllactosamine, and pNP-β-D-galactoside.
+CONCLUSION: The usability of the recombinant L. brevis β-galactosidase was
+further demonstrated by the hydrolysis of human, bovine, and goat milk samples.
+The herein presented fused β-galactosidase constructs may be of interest for
+analytical research as well as in food- and biotechnological applications.
+
+Copyright© Bentham Science Publishers; For any queries, please email at
+epub@benthamscience.net.
+
+DOI: 10.2174/0929866527666200813201242 
+PMID: 32798366 
+

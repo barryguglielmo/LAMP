@@ -1,0 +1,78 @@
+
+1. Gastroenterology. 2020 Jan;158(1):238-252. doi: 10.1053/j.gastro.2019.09.023.
+Epub 2019 Oct 1.
+
+Mutated CEACAMs Disrupt Transforming Growth Factor Beta Signaling and Alter the
+Intestinal Microbiome to Promote Colorectal Carcinogenesis.
+
+Gu S(1), Zaidi S(1), Hassan MI(2), Mohammad T(2), Malta TM(3), Noushmehr H(3),
+Nguyen B(4), Crandall KA(4), Srivastav J(5), Obias V(6), Lin P(6), Nguyen BN(1), 
+Yao M(7), Yao R(8), King CH(8), Mazumder R(8), Mishra B(1), Rao S(1), Mishra
+L(9).
+
+Author information: 
+(1)Center for Translational Medicine, Department of Surgery, The George
+Washington University, Washington, DC.
+(2)Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia,
+Jamia Nagar, New Delhi, India.
+(3)Department of Neurosurgery, Henry Ford Health System, Detroit, Michigan.
+(4)Computational Biology Institute and Department of Biostatistics and
+Bioinformatics, Milken Institute School of Public Health, The George Washington
+University, Washington, DC.
+(5)University of Toledo College of Medicine, Toledo, Ohio.
+(6)Department of Surgery, The George Washington University, Washington, DC.
+(7)Department of Gastroenterology, Veterans Affairs Medical Center, Washington,
+DC.
+(8)Department of Biochemistry and Molecular Medicine, The George Washington
+University, Washington, DC.
+(9)Center for Translational Medicine, Department of Surgery, The George
+Washington University, Washington, DC; Department of Gastroenterology, Veterans
+Affairs Medical Center, Washington, DC. Electronic address:
+lmishra@email.gwu.edu.
+
+BACKGROUND & AIMS: We studied interactions among proteins of the carcinoembryonic
+antigen-related cell adhesion molecule (CEACAM) family, which interact with
+microbes, and transforming growth factor beta (TGFB) signaling pathway, which is 
+often altered in colorectal cancer cells. We investigated mechanisms by which
+CEACAM proteins inhibit TGFB signaling and alter the intestinal microbiome to
+promote colorectal carcinogenesis.
+METHODS: We collected data on DNA sequences, messenger RNA expression levels, and
+patient survival times from 456 colorectal adenocarcinoma cases, and a separate
+set of 594 samples of colorectal adenocarcinomas, in The Cancer Genome Atlas. We 
+performed shotgun metagenomic sequencing analyses of feces from wild-type mice
+and mice with defects in TGFB signaling (Sptbn1+/- and Smad4+/-/Sptbn1+/-) to
+identify changes in microbiota composition before development of colon tumors.
+CEACAM protein and its mutants were overexpressed in SW480 and HCT116 colorectal 
+cancer cell lines, which were analyzed by immunoblotting and proliferation and
+colony formation assays.
+RESULTS: In colorectal adenocarcinomas, high expression levels of genes encoding 
+CEACAM proteins, especially CEACAM5, were associated with reduced survival times 
+of patients. There was an inverse correlation between expression of CEACAM genes 
+and expression of TGFB pathway genes (TGFBR1, TGFBR2, and SMAD3). In colorectal
+adenocarcinomas, we also found an inverse correlation between expression of genes
+in the TGFB signaling pathway and genes that regulate stem cell features of
+cells. We found mutations encoding L640I and A643T in the B3 domain of human
+CEACAM5 in colorectal adenocarcinomas; structural studies indicated that these
+mutations would alter the interaction between CEACAM5 and TGFBR1. Overexpression 
+of these mutants in SW480 and HCT116 colorectal cancer cell lines increased their
+anchorage-independent growth and inhibited TGFB signaling to a greater extent
+than overexpression of wild-type CEACAM5, indicating that they
+are gain-of-function mutations. Compared with feces from wild-type mice, feces
+from mice with defects in TGFB signaling had increased abundance of bacterial
+species that have been associated with the development of colon tumors, including
+Clostridium septicum, and decreased amounts of beneficial bacteria, such as
+Bacteroides vulgatus and Parabacteroides distasonis.
+CONCLUSION: We found expression of CEACAMs and genes that regulate stem cell
+features of cells to be increased in colorectal adenocarcinomas and inversely
+correlated with expression of TGFB pathway genes. We found colorectal
+adenocarcinomas to express mutant forms of CEACAM5 that inhibit TGFB signaling
+and increase proliferation and colony formation. We propose that CEACAM proteins 
+disrupt TGFB signaling, which alters the composition of the intestinal microbiome
+to promote colorectal carcinogenesis.
+
+Copyright © 2020 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.gastro.2019.09.023 
+PMCID: PMC7124154 [Available on 2021-01-01]
+PMID: 31585122  [Indexed for MEDLINE]
+

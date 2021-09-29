@@ -1,0 +1,56 @@
+
+1. Front Microbiol. 2020 Apr 23;11:751. doi: 10.3389/fmicb.2020.00751. eCollection
+2020.
+
+Assessment of a Potential Role of Dickeya dadantii DSM 18020 as a Pectinase
+Producer for Utilization in Poultry Diets Based on in silico Analyses.
+
+Dittoe DK(1), Barabote RD(2), Rothrock MJ(3), Ricke SC(1).
+
+Author information: 
+(1)Department of Food Science and Center for Food Safety, University of Arkansas,
+Fayetteville, AR, United States.
+(2)Department of Biological Sciences, University of Arkansas, Fayetteville, AR,
+United States.
+(3)Egg Safety and Quality Research Unit, U.S. National Poultry Research Center,
+United States Department of Agriculture-Agricultural Research Service (USDA-ARS),
+Athens, GA, United States.
+
+Currently, the poultry industry has been faced with consumer pressure to utilize 
+only vegetable feedstuffs in poultry diets, eliminate antibiotics from poultry
+production, and rear poultry in free range systems. To maintain current
+production standards, the industry must determine ways to enhance nutrient uptake
+and utilization further. One possible solution is the supplementation of
+pectinase, an enzyme that degrades pectin within the cell walls of plants, in
+poultry diets. Therefore, the objective of the current study was to determine the
+potential role of a pectinase producer, Dickeya dadantii DSM 18020, as a
+commercially utilized pectinase producer in poultry diets against other known
+pectinase producers, in silico. In the current study, whole genomes of Dickeya
+dadantii DSM 18020 (Dd18020), D. dadantii 3937 (Dd3937), D. solani IPO 2222
+(Ds2222), Bacillus halodurans C-125 (BhC125), and B. subtilis subsp. subtilis
+str. 168 (Bs168) were compared using bioinformatic approaches to compare the
+chromosomal genome size, GC content, protein coding genes (CDS), total genes,
+average protein length (a.a.) and determine the predicted metabolic pathways,
+predicted pectin degrading enzymes, and pectin-degradation pathways across
+pectinase producers. Due to insufficient information surrounding the genome of
+Dd18020 (lack of annotation), the genome of Dd3937, a 99% identical genome to
+Dd18020, was utilized to compare pectinase-associated enzymes and pathways. The
+results from the current study demonstrated that Dd3937 possessed the most
+significant proportion of pathways presented and the highest number of pathways
+related to degradation, assimilation, and utilization of pectin. Also, Dd18020
+exhibited a high number of pectinase-related enzymes. Both Dd3937 and Dd2222
+shared the pectin degradation I pathway via the EC 3.1.1.11, EC 3.2.1.82, and EC 
+4.2.2.- enzymes, but did not share this pathway with either Bacillus species. In 
+conclusion, Dd18020 demonstrated the genetic potential to produce multiple
+pectinase enzymes that could be beneficial to the degradation of pectin in
+poultry diets. However, for Dd18020 to become a commercially viable enzyme
+producer for the poultry industry, further research quantifying the pectinase
+production in vitro and determining the stability of the produced pectinases
+during feed manufacturing are necessary.
+
+Copyright © 2020 Dittoe, Barabote, Rothrock and Ricke.
+
+DOI: 10.3389/fmicb.2020.00751 
+PMCID: PMC7191031
+PMID: 32390987 
+

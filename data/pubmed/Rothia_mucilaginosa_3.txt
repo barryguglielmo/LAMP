@@ -1,0 +1,51 @@
+
+1. Microorganisms. 2020 Jun 26;8(6). pii: E959. doi: 10.3390/microorganisms8060959.
+
+Clinical Detection of Chronic Rhinosinusitis through Next-Generation Sequencing
+of the Oral Microbiota.
+
+Yuan BC(1), Yeh YT(2)(3)(4), Lin CC(2)(3), Huang CH(5), Liu HC(6), Chiang
+CP(3)(7)(8).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Fooyin University Hospital, Pingtung 92849,
+Taiwan.
+(2)Department of Education and Research, Fooyin University Hospital, Pingtung
+92849, Taiwan.
+(3)Department of Medical Laboratory Sciences and Biotechnology, Fooyin
+University, Kaohsiung 83102, Taiwan.
+(4)Aging and Disease Prevention Research Center, Fooyin University, Kaohsiung
+83102, Taiwan.
+(5)Program in Environmental and Occupational Medicine, Kaohsiung Medical
+University, Kaohsiung 80708, Taiwan.
+(6)Department of Laboratory Medicine, Fooyin University Hospital, Pingtung 92849,
+Taiwan.
+(7)Department of Surgery, Kaohsiung Medical University Hospital, Kaohsiung 80756,
+Taiwan.
+(8)Division of Breast Surgery, Department of Surgery, Kaohsiung Medical
+University Hospital, Kaohsiung 80756, Taiwan.
+
+Chronic rhinosinusitis (CRS) is the chronic inflammation of the sinus cavities of
+the upper respiratory tract, which can be caused by a disrupted microbiome.
+However, the role of the oral microbiome in CRS is not well understood.
+Polymicrobial and anaerobic infections of CRS frequently increased the difficulty
+of cultured and antibiotic therapy. This study aimed to elucidate the patterns
+and clinical feasibility of the oral microbiome in CRS diagnosis. Matched saliva 
+and nasal swabs were collected from 18 CRS patients and 37 saliva specimens from 
+normal volunteers were collected for 16S rRNA sequencing. The α-diversity of the 
+saliva displayed no significant difference between control and CRS patients,
+whereas the β-diversity was significantly different (p = 0.004). Taxonomic
+indices demonstrated that Veillonella dispar, Rothia mucilaginosa, and
+Porphyromonas endodontalis were enriched, while Campylobacter and Cardiobacterium
+were reduced in the saliva of CRS patients. These microbial markers could
+significantly distinguish CRS patients from control (AUC = 0.939). It is noted
+that the 16S rRNA results of the nasal swab were consistent with the nasopharynx 
+aerobic culture, and additionally detected multiple pathogens in CRS patients. In
+summary, these results indicated these oral microbiomes may provide a novel
+signal for CRS detection and that NGS may be an alternative approach for CRS
+diagnosis.
+
+DOI: 10.3390/microorganisms8060959 
+PMCID: PMC7356624
+PMID: 32604855 
+

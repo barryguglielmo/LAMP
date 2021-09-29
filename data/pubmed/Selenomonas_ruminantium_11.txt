@@ -1,0 +1,47 @@
+
+1. Shanghai Kou Qiang Yi Xue. 2020 Apr;29(2):208-212.
+
+[Comparative study of submucosal microbial ecological environment between human
+peri-implantitis and healthy implants].
+
+[Article in Chinese]
+
+Zhao X(1), Ge HB, Feng J, DU Y.
+
+Author information: 
+(1)Department of General Dentistry, Wangfujing Branch of Beijing Stomatological
+Hospital, Capital Medical University. Beijing 100006, China.
+E-mail:snowfox155@163.com.
+
+PURPOSE: To investigate the balance of submucosal microbial ecological
+environment in human peri-implantitis and healthy implants.
+METHODS: The patients with peri-implantitis and dental implants in Beijing
+Stomatological Hospital, and followed up for one year from September 2017 to
+January 2019 were enrolled. Patients were divided into two groups according to
+the presence or absence of peri-implantitis, i.e. peri-implantitis group (43, 51 
+implants) and healthy group (59 patients, 63 implants). The probing depth, bone
+resorption, probing bleeding, mPLI and mSBI were recorded. DNA of the submucosal 
+microflora was extracted using a microbial gene extraction kit and sequenced by
+Illumina's MiSeq sequencing platform. Logistic regression analysis was used to
+analyze the correlation between the dominant bacteria and the average maximum
+probing depth, mPLI grading and MSBI grading in peri-implantitis group. The data 
+were processed by SPSS 23.0 software package.
+RESULTS: The average maximum probing depth of peri-implantitis group was
+significantly higher than that in healthy group (P<0.05). The proportion of mPLI 
+grade 2 in peri-implantitis group was significantly higher than that in healthy
+group [56.86%(29/51) vs 0.00%(0/63), P<0.05]. The proportion of mSBI grade 2 in
+peri-implantitis group was significantly higher than that in healthy group
+[60.78%(31/51) vs 0.00%(0/63), P<0.05]. The Simpson index of peri-implantitis
+group was significantly higher than that of the healthy group, and the Shannon
+index was significantly lower than the healthy group (P<0.05). In
+peri-implantitis group, the dominant microflora were Selenomonas (16.35%),
+Pseudomonas (11.20%), Fusobacterium (10.05%), Streptococcus (7.63%) and Treponema
+(6.84%).
+CONCLUSIONS: Compared with healthy implants, submucosal microorganisms of
+peri-implantitis have high species abundance and low species evenness,
+Pseudomonas, Selenomonas, Fusobacterium, Streptococcus and Treponema account for 
+high proportions in the dominant bacteria.
+
+
+PMID: 32626887  [Indexed for MEDLINE]
+

@@ -1,0 +1,56 @@
+
+1. PLoS One. 2020 Feb 28;15(2):e0229485. doi: 10.1371/journal.pone.0229485.
+eCollection 2020.
+
+Development of Oral Care Chip, a novel device for quantitative detection of the
+oral microbiota associated with periodontal disease.
+
+Nozawa A(1), Oshima H(1), Togawa N(1), Nozaki T(2), Murakami S(3).
+
+Author information: 
+(1)Tsurumi R&D center, Mitsubishi Chemical Corporation, Yokohama, Kanagawa,
+Japan.
+(2)Division of Interdisciplinary Dentistry, Osaka University Dental Hospital,
+Suita, Osaka, Japan.
+(3)Department of Periodontology, Osaka University Graduate School of Dentistry,
+Suita, Osaka, Japan.
+
+Periodontal disease, the most prevalent infectious disease in the world, is
+caused by biofilms formed in periodontal pockets. No specific bacterial species
+that can cause periodontitis alone has been found in any study to date. Several
+periodontopathic bacteria are associated with the progress of periodontal
+disease. Consequently, it is hypothesized that dysbiosis of subgingival
+microbiota may be a cause of periodontal disease. This study aimed to investigate
+the relationship between the subgingival microbiota and the clinical status of
+periodontal pockets in a quantitative and clinically applicable way with the
+newly developed Oral Care Chip. The Oral Care Chip is a DNA microarray tool with 
+improved quantitative performance, that can be used in combination with
+competitive PCR to quantitatively detect 17 species of subgingival bacteria.
+Cluster analysis based on the similarity of each bacterial quantity was performed
+on 204 subgingival plaque samples collected from periodontitis patients and
+healthy volunteers. A significant difference in the number of total bacteria,
+Treponema denticola, Campylobacter rectus, Fusobacterium nucleatum, and
+Streptococcus intermedia bacteria in any combination of the three clusters
+indicated that these bacteria gradually increased in number from the stage before
+the pocket depth deepened. Conversely, Porphyromonas gingivalis, Tannerella
+forsythia, Prevotella intermedia, and Streptococcus constellatus, which had
+significant differences only in limited clusters, were thought to increase in
+number as the pocket depth deepened, after periodontal pocket formation.
+Furthermore, in clusters where healthy or mild periodontal disease sites were
+classified, there was no statistically significant difference in pocket depth,
+but the number of bacteria gradually increased from the stage before the pocket
+depth increased. This means that quantitative changes in these bacteria can be a 
+predictor of the progress of periodontal tissue destruction, and this novel
+microbiological test using the Oral Care Chip could be effective at detecting
+dysbiosis.
+
+DOI: 10.1371/journal.pone.0229485 
+PMCID: PMC7048280
+PMID: 32109938  [Indexed for MEDLINE]
+
+Conflict of interest statement: A research grant was provided by Mitsubishi
+Chemical Corporation based on the joint research agreement between Mitsubishi
+Chemical Corporation and Osaka University. Authors AN, HO & NT are affiliated to 
+the funders. This does not alter our adherence to PLOS ONE policies on sharing
+data and materials.
+

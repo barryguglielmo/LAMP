@@ -1,0 +1,55 @@
+
+1. Front Microbiol. 2020 Jul 28;11:1735. doi: 10.3389/fmicb.2020.01735. eCollection 
+2020.
+
+Great Tit (Parus major) Uropygial Gland Microbiomes and Their Potential Defensive
+Roles.
+
+Bodawatta KH(1), Schierbech SK(1)(2), Petersen NR(1)(2), Sam K(3)(4), Bos N(2),
+Jønsson KA(1), Poulsen M(2).
+
+Author information: 
+(1)Natural History Museum of Denmark, University of Copenhagen, Copenhagen,
+Denmark.
+(2)Section for Ecology and Evolution, Department of Biology, University of
+Copenhagen, Copenhagen, Denmark.
+(3)Biology Centre of Czech Academy of Sciences, Institute of Entomology, České
+Budějovice, Czechia.
+(4)Faculty of Science, University of South Bohemia, České Budějovice, Czechia.
+
+The uropygial gland (preen gland) of birds plays an important role in maintaining
+feather integrity and hygiene. Although a few studies have demonstrated potential
+defensive roles of bacteria residing within these glands, the diversity and
+functions of the uropygial gland microbiota are largely unknown. Therefore, we
+investigated the microbiota of great tit (Parus major) uropygial glands through
+both isolation of bacteria (culture-dependent) and 16S rRNA amplicon sequencing
+(culture-independent). Co-culture experiments of selected bacterial isolates with
+four known feather-degrading bacteria (Bacillus licheniformis, Kocuria
+rhizophila, Pseudomonas monteilii, and Dermacoccus nishinomiyaensis), two
+non-feather degrading feather bacteria, one common soil bacterial pathogen and
+two common fungal pathogens enabled us to evaluate the potential antimicrobial
+properties of these isolates. Our results show major differences between
+bacterial communities characterized using culture-dependent and -independent
+approaches. In the former, we were only able to isolate 12 bacterial genera
+(dominated by members of the Firmicutes and Actinobacteria), while amplicon
+sequencing identified 110 bacterial genera (dominated by Firmicutes,
+Bacteroidetes, and Proteobacteria). Uropygial gland bacterial isolates belonging 
+to the genera Bacillus and Kocuria were able to suppress the growth of four of
+the nine tested antagonists, attesting to potential defensive roles. However,
+these bacterial genera were infrequent in our MiSeq results suggesting that the
+isolated bacteria may not be obligate gland symbionts. Furthermore, bacterial
+functional predictions using 16S rRNA sequences also revealed the ability of
+uropygial gland bacteria to produce secondary metabolites with antimicrobial
+properties, such as terpenes. Our findings support that uropygial gland bacteria 
+may play a role in feather health and that bacterial symbionts might act as
+defensive microbes. Future investigations of these bacterial communities, with
+targeted approaches (e.g., bacterial isolation and chemical analyses), are thus
+warranted to improve our understanding of the evolution and function of these
+host-microbe interactions.
+
+Copyright © 2020 Bodawatta, Schierbech, Petersen, Sam, Bos, Jønsson and Poulsen.
+
+DOI: 10.3389/fmicb.2020.01735 
+PMCID: PMC7401573
+PMID: 32849371 
+

@@ -1,0 +1,38 @@
+
+1. Microorganisms. 2020 Sep 25;8(10). pii: E1474. doi:
+10.3390/microorganisms8101474.
+
+Exploring Beneficial Properties of the Bacteriocinogenic Enterococcus faecium
+ST10Bz Strain Isolated from Boza, a Bulgarian Cereal-Based Beverage.
+
+Valledor SJD(1), Bucheli JEV(1), Holzapfel WH(1), Todorov SD(1).
+
+Author information: 
+(1)ProBacLab, Advanced Green Energy and Environment Institute (AGEE), Handong
+Global University, Pohang, Gyeongbuk 791-708, Korea.
+
+The bacteriocin-producing strain Enterococcus faecium ST10Bz, isolated from boza,
+a Bulgarian cereal-based beverage, exhibited strong activity against Listeria
+strains, vancomycin-resistant and other Enterococcus strains, but not against
+most of the other lactic acid bacteria (LAB) strains included in the test panel. 
+Bacteriocin ST10Bz was proven as a stable antimicrobial, even after exposure to
+various environmental conditions, including varying pH values, temperatures, and 
+commonly used chemicals in industry and laboratory practice. Bacteriocin activity
+against L. monocytogenes ATCC®15313™ was recorded at 25,600 AU/mL when the
+producer strain was cultured in MRS broth at 25 °C and 30 °C, and 19,200 AU/mL,
+when cultured at 37 °C. Additionally, bacteriocin ST10Bz exhibited bactericidal
+mode of action when added to actively growing cultures of L. monocytogenes
+ATCC®15313™ and Enterococcus faecalis 200A. E. faecium ST10Bz was susceptible to 
+the antibiotics kanamycin, gentamycin, ampicillin, streptomycin, tylosin,
+chloramphenicol, clindamycin, tetracycline, and vancomycin; with no evidence for 
+vanA, B, C, D, E, or G genes. PCR analysis of DNA from strain ST10Bz generated
+positive results for presence of some bacterial adhesion genes, including map,
+mub and ef-tu, as well as the gamma aminobutyric acid (GABA) production-related
+gene, gad. Under simulated gastrointestinal conditions in single and co-culture
+with L. monocytogenes ATCC®15313™ and E. faecalis 200A, E. faecium ST10Bz showed 
+a high survival rate and the ability to reduce the viable numbers of the two test
+strains.
+
+DOI: 10.3390/microorganisms8101474 
+PMID: 32992853 
+

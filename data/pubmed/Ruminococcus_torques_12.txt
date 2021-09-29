@@ -1,0 +1,42 @@
+
+1. Anal Chem. 2019 Nov 5;91(21):13582-13590. doi: 10.1021/acs.analchem.9b02739. Epub
+2019 Oct 23.
+
+Fluorogenic Assay for Acetohydroxyacid Synthase: Design and Applications.
+
+Xie Y(1), Zhang C(2), Wang Z(3), Wei C(1), Liao N(1), Wen X(1), Niu C(1), Yi
+L(2)(4), Wang Z(3), Xi Z(1)(4).
+
+Author information: 
+(1)State Key Laboratory of Elemento-Organic Chemistry, College of Chemistry,
+National Pesticide Engineering Research Center (Tianjin), College of Chemistry , 
+Nankai University , Tianjin 300071 , P. R. China.
+(2)State Key Laboratory of Organic-Inorganic Composites and Beijing Key Lab of
+Bioprocess , Beijing University of Chemical Technology (BUCT) , Beijing 100029 , 
+P. R. China.
+(3)State Key Laboratory of Bioreactor Engineering , East China University of
+Science and Technology , 130 Meilong Road , Shanghai 200237 , P. R. China.
+(4)Collaborative Innovation Center of Chemical Science and Engineering , Nankai
+University , Tianjin 300071 , P. R. China.
+
+Acetohydroxyacid synthase (AHAS) exists in plants and many microorganisms
+(including gut flora) but not in mammals, making it an attractive drug target.
+Fluorescent-based methods should be practical for high-throughput screening of
+inhibitors. Herein, we describe the development of the first AHAS fluorogenic
+assay based on an intramolecular charge transfer (ICT)-based fluorescent probe.
+The assay is facile, sensitive, and continuous and can be applied toward various 
+AHASs from different species, AHAS mutants, and crude cell lysates. The
+fluorogenic assay was successfully applied for (1) high-throughput screening of
+commerical herbicides toward different AHASs for choosing matching herbicides,
+(2) identification of a Soybean AHAS gene with broad-spectrum herbicide
+resistance, and (3) identification of selective inhibitors toward
+intestinal-bacterial AHASs. Among the AHAS inhibitors, an active agent was found 
+for selective inhibition of obesity-associated Ruminococcus torques growth,
+implying the possibility of AHAS inhibitors for the ultimate goal toward
+antiobesity therapeutics. The fluorogenic assay opens the door for
+high-throughput programs in AHAS-related fields, and the design principle might
+be applied for development of fluorogenic assays of other synthases.
+
+DOI: 10.1021/acs.analchem.9b02739 
+PMID: 31603309 
+

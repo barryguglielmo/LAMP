@@ -1,0 +1,54 @@
+
+1. J Anim Sci Biotechnol. 2020 Aug 3;11:76. doi: 10.1186/s40104-020-00488-5.
+eCollection 2020.
+
+Lactobacillus salivarius alleviates inflammation via NF-κB signaling in ETEC
+K88-induced IPEC-J2 cells.
+
+Qiao J(1), Sun Z(1), Liang D(1), Li H(2).
+
+Author information: 
+(1)College of Life Sciences, Tianjin Key Laboratory of Animal and Plant
+Resistance, Tianjin Normal University, Tianjin, 300387 People's Republic of
+China.
+(2)Tianjin Key Laboratory of Agricultural Animal Breeding and Healthy Husbandry, 
+College of Animal Science and Veterinary Medicine, Tianjin Agricultural
+University, 22 Jinjing Road, Tianjin, 300384 People's Republic of China.
+
+Background: Enterotoxigenic Escherichia coli (ETEC) K88 commonly colonize in the 
+small intestine and keep releasing enterotoxins to impair the intestinal barrier 
+function and trigger inflammatory reaction. Although Lactobacillus salivarius (L.
+salivarius) has been reported to enhance intestinal health, it remains to be seen
+whether there is a functional role of L. salivarius in intestinal inflammatory
+response in intestinal porcine epithelial cell line (IPEC-J2) when stimulated
+with ETEC K88. In the present study, IPEC-J2 cells were first treated with L.
+salivarius followed by the stimulation of ETEC K88 for distinct time period. ETEC
+K88 adherent status, pattern recognition receptors (PRRs) mRNA, mitogen-activated
+protein kinase (MAPK) and nuclear factor-κB (NF-κB) activation, the release of
+pro-inflammation cytokines and cell integrity were examined.
+Results: Aside from an inhibited adhesion of ETEC K88 to IPEC-J2 cells, L.
+salivarius was capable of remarkably attenuating the expression levels of
+interleukin (IL)-1β, tumor necrosis factor-α (TNF-α), IL-8, Toll-like receptor
+(TLR) 4, nucleotide-binding oligomerization domain (NOD)-like receptor pyrin
+domain-containing protein (NLRP) 3 and NLRP6. This alternation was accompanied by
+a significantly decreased phosphorylation of p38 MAPK and p65 NF-κB during ETEC
+K88 infection with L. salivarius pretreatment. Western blot analysis revealed
+that L. salivarius increased the expression levels of zona occludens 1 (ZO-1) and
+occludin (P < 0.05) in ETEC K88-infected IPEC-J2 cells. Compared with ETEC
+K88-infected groups, the addition of L. salivarius as well as extra inhibitors
+for MAPKs and NF-κB to ETEC K88-infected IPEC-J2 cells had the capability to
+reduce pro-inflammatory cytokines.
+Conclusions: Collectively, our results suggest that L. salivarius might reduce
+inflammation-related cytokines through attenuating phosphorylation of p38 MAPK
+and blocking the NF-κB signaling pathways. Besides, L. salivarius displayed a
+potency in the enhancement of IPEC-J2 cell integrity.
+
+© The Author(s) 2020.
+
+DOI: 10.1186/s40104-020-00488-5 
+PMCID: PMC7398071
+PMID: 32774852 
+
+Conflict of interest statement: Competing interestsThe authors declare that they 
+have no competing interests.
+

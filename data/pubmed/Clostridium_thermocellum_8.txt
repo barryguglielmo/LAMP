@@ -1,0 +1,46 @@
+
+1. Plant Cell Rep. 2020 Oct;39(10):1317-1329. doi: 10.1007/s00299-020-02566-4. Epub 
+2020 Jul 10.
+
+High-level production in a plant system of a thermostable carbonic anhydrase and 
+its immobilization on microcrystalline cellulose beads for CO2 capture.
+
+Kumari M(1), Lee J(1), Lee DW(1)(2), Hwang I(3)(4).
+
+Author information: 
+(1)Division of Integrative Biosciences and Biotechnology, Pohang University of
+Science and Technology, Pohang, 37673, South Korea.
+(2)Department of Bioenergy Science and Technology, Chonnam National University,
+Gwangju, 61186, South Korea.
+(3)Division of Integrative Biosciences and Biotechnology, Pohang University of
+Science and Technology, Pohang, 37673, South Korea. ihhwang@postech.ac.kr.
+(4)Department of Life Sciences, Pohang University of Science and Technology,
+Pohang, 37673, South Korea. ihhwang@postech.ac.kr.
+
+KEY MESSAGE: Plant-produced SazCA and its application to CO2 capture.
+Technologies that rely on chemical absorption or physical adsorption have been
+developed to capture CO2 from industrial flue gases and sequester it at storage
+sites. Carbonic anhydrases (CAs), metalloenzymes, that catalyze the reversible
+hydration of CO2 have recently received attention as biocatalysts in the capture 
+of CO2 from flue gases, but their cost presents a major obstacle for use at an
+industrial scale. This cost, however, can be reduced either by producing a
+long-lasting enzyme suitable for CO2 capture or by lowering production costs.
+High-level expression, easy purification, and immobilization of CAs from
+Sulfurihydrogenibium azorense (SazCA) were investigated in a plant system. Fusion
+of the 60-amino acid-long ectodomain (M-domain) of the human receptor-type
+tyrosine-protein phosphatase C increased the levels of SazCA accumulation. Fusion
+of the cellulose-binding module (CBM3) from Clostridium thermocellum resulted in 
+tight binding of recombinant protein to microcrystalline cellulose beads,
+enabling easy purification. The chimeric fusion protein, BMC-SazCA, which
+consisted of SazCA with the M and CBM3 domains, was expressed in tobacco
+(Nicotiana benthamiana), giving a recombinant protein yield in leaf extracts of
+350 mg/kg fresh weight. BMC-SazCA produced in planta was active in the presence
+of various chemicals used in CO2 capture. Immobilization of BMC-SazCA on the
+surface of microcrystalline cellulose beads extended its heat stability, allowing
+its reuse in multiple rounds of the CO2 hydration reaction. These results suggest
+that production of SazCA in plants has great potential for CA-based CO2
+sequestration and mineralization.
+
+DOI: 10.1007/s00299-020-02566-4 
+PMID: 32651706 
+

@@ -1,0 +1,34 @@
+
+1. ISME J. 2020 Sep 1. doi: 10.1038/s41396-020-00760-6. [Epub ahead of print]
+
+The cell organization underlying structural colour is involved in Flavobacterium 
+IR1 predation.
+
+Hamidjaja R(1), Capoulade J(2), Catón L(1)(3), Ingham CJ(4).
+
+Author information: 
+(1)Hoekmine BV, Utrecht, 3548 CH, The Netherlands.
+(2)Department of Bionanoscience, Kavli Institute of Nanoscience, Delft University
+of Technology, van der Maasweg 9, Delft, 2629 HZ, The Netherlands.
+(3)Department of Chemistry, Cambridge University, Lensfield Road, Cambridge, UK.
+(4)Hoekmine BV, Utrecht, 3548 CH, The Netherlands. colinutrecht@gmail.com.
+
+Flavobacterium IR1 is a gliding bacterium with a high degree of colonial
+organization as a 2D photonic crystal, resulting in vivid structural coloration
+when illuminated. Enterobacter cloacae B12, an unrelated bacterium, was isolated 
+from the brown macroalga Fucus vesiculosus from the same location as IR1. IR1 was
+found to be a predator of B12. A process of surrounding, infiltration,
+undercutting and killing of B12 supported improved growth of IR1. A combination
+of motility and capillarity facilitated the engulfment of B12 colonies by IR1.
+Predation was independent of illumination. Mutants of IR1 that formed photonic
+crystals less effectively than the wild type were reduced in predation.
+Conversely, formation of a photonic crystal was not advantageous in resisting
+predation by Rhodococcus spp. PIR4. These observations suggest that the
+organization required to create structural colour has a biological function
+(facilitating predation) but one that is not directly related to the photonic
+properties of the colony. This work is the first experimental evidence supporting
+a role for this widespread type of cell organization in the Flavobacteriia.
+
+DOI: 10.1038/s41396-020-00760-6 
+PMID: 32873891 
+

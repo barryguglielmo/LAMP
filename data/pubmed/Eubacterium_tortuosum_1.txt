@@ -1,0 +1,46 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jun;70(6):3656-3664. doi: 10.1099/ijsem.0.004215.
+Epub 2020 May 14.
+
+Amedibacterium intestinale gen. nov., sp. nov., isolated from human faeces, and
+reclassification of Eubacterium dolichum Moore et al. 1976 (Approved Lists 1980) 
+as Amedibacillus dolichus gen. nov., comb. nov.
+
+Ikeyama N(1), Toyoda A(2), Morohoshi S(3), Kunihiro T(3), Murakami T(2), Mori
+H(2), Iino T(1), Ohkuma M(1), Sakamoto M(4)(1).
+
+Author information: 
+(1)Microbe Division/Japan Collection of Microorganisms, RIKEN BioResource
+Research Center, Tsukuba, Ibaraki 305-0074, Japan.
+(2)Advanced Genomics Center, National Institute of Genetics, Mishima, Shizuoka
+411-8540, Japan.
+(3)TechnoSuruga Laboratory Co. Ltd, 330 Nagasaki, Shimizu-ku, Shizuoka-shi,
+Shizuoka 424-0065, Japan.
+(4)PRIME, Japan Agency for Medical Research and Development (AMED), Tsukuba,
+Ibaraki 305-0074, Japan.
+
+Four strains (9CBEGH2T, 9BBH35, 6BBH38 and 6EGH11) of Gram-stain-positive,
+obligately anaerobic, rod-shaped bacteria were isolated from faecal samples from 
+healthy Japanese humans. The results of 16S rRNA gene sequence analysis indicated
+that the four strains represented members of the family Erysipelotrichaceae and
+formed a monophyletic cluster with 'Absiella argi' strain N6H1-5 (99.4% sequence 
+similarity) and Eubacterium sp. Marseille-P5640 (99.3 %). Eubacterium dolichum
+JCM 10413T (94.2 %) and Eubacterium tortuosum ATCC 25548T (93.7 %) were located
+near this monophyletic cluster. The isolates, 9CBEGH2T, 'A. argi' JCM 30884 and
+Eubacterium sp. Marseille-P5640 shared 98.7-99.1% average nucleotide identity
+(ANI) with each other. Moreover, the in silico DNA-DNA hybridization (DDH) values
+among three strains were 88.4-90.6%, indicating that these strains represent the 
+same species. Strain 9CBEGH2T showed 21.5-24.1 % in silico DDH values with other 
+related taxa. In addition, the ANI values between strain 9CBEGH2T and other
+related taxa ranged from 71.2 % to 73.5 %, indicating that this strain should be 
+considered as representing a novel species on the basis of whole-genome
+relatedness. Therefore, we formally propose a novel name for 'A. argi' strains
+identified because the name 'A. argi' has been effectively, but not validly,
+published since 2017. On the basis of the collected data, strain 9CBEGH2T
+represents a novel species of a novel genus, for which the name Amedibacterium
+intestinale gen. nov., sp. nov. is proposed. The type strain of A. intestinale is
+9CBEGH2T (=JCM 33778T=DSM 110575T).
+
+DOI: 10.1099/ijsem.0.004215 
+PMID: 32416738  [Indexed for MEDLINE]
+

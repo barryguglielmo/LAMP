@@ -1,0 +1,54 @@
+
+1. Sci Total Environ. 2020 Mar 25;710:136329. doi: 10.1016/j.scitotenv.2019.136329. 
+Epub 2019 Dec 27.
+
+Bio-removal of tetracycline antibiotics under the consortium with probiotics
+Bacillus clausii T and Bacillus amyloliquefaciens producing biosurfactants.
+
+Liu CX(1), Xu QM(2), Yu SC(3), Cheng JS(4), Yuan YJ(1).
+
+Author information: 
+(1)Key Laboratory of Systems Bioengineering (Ministry of Education), School of
+Chemical Engineering and Technology, Tianjin University, Yaguan Road 135, Jinnan 
+District, Tianjin 300350, PR China; SynBio Research Platform, Collaborative
+Innovation Centre of Chemical Science and Engineering (Tianjin), School of
+Chemical Engineering and Technology, Tianjin University, Yaguan Road 135, Jinnan 
+District, Tianjin 300350, PR China.
+(2)Tianjin Key Laboratory of Animal and Plant Resistance, College of Life
+Science, Tianjin Normal University, Binshuixi Road 393, Xiqing District, Tianjin 
+300387, PR China. Electronic address: qmxu0929@126.com.
+(3)Key Laboratory of Systems Bioengineering (Ministry of Education), School of
+Chemical Engineering and Technology, Tianjin University, Yaguan Road 135, Jinnan 
+District, Tianjin 300350, PR China.
+(4)Key Laboratory of Systems Bioengineering (Ministry of Education), School of
+Chemical Engineering and Technology, Tianjin University, Yaguan Road 135, Jinnan 
+District, Tianjin 300350, PR China; SynBio Research Platform, Collaborative
+Innovation Centre of Chemical Science and Engineering (Tianjin), School of
+Chemical Engineering and Technology, Tianjin University, Yaguan Road 135, Jinnan 
+District, Tianjin 300350, PR China. Electronic address: jscheng@tju.edu.cn.
+
+The contamination of the aquatic environments by tetracycline antibiotics (TCs)
+is an increasingly pressing issue. Here, we used the addition of exogenous
+surfactants and in situ biosynthesis of biosurfactants to remove tetracycline
+(TC), oxytetracycline (OTC), chlortetracycline (CTC), and their mixtures using
+the co-culture of probiotic Bacillus clausii T and Bacillus amyloliquefaciens
+HM618 producing surfactin. The addition of exogenous biosurfactants to remove TCs
+was superior to nonionic surfactants. The maximal bio-removal efficiencies for
+OTC and CTC among mixed antibiotics under the co-culture of B. clausii T and B.
+amyloliquefaciens HM618 were 76.6% and 88.9%, respectively, which were both
+better than the efficiency of the pure culture of B. clausii T. TCs were removed 
+mainly through biotransformation rather than absorption and hydrolysis. The
+removal efficiency was in the order CTC > OTC > TC. The co-culture of B. clausii 
+T and B. amyloliquefaciens HM618 alleviated the cytotoxicity of OTC and CTC. The 
+toxicity of the biotransformation products was lower than that of the parent
+compounds. Demethylation, hydroxylation, and dehydration are likely the major
+mechanisms of TC biotransformation. These results illustrate the potential of
+using surfactants in the bioremediation of tetracycline antibiotics, and provide 
+new avenues for further exploration of the bioremediation of antibiotics
+pollution.
+
+Copyright © 2019. Published by Elsevier B.V.
+
+DOI: 10.1016/j.scitotenv.2019.136329 
+PMID: 31918182  [Indexed for MEDLINE]
+

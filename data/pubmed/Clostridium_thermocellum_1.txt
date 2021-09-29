@@ -1,0 +1,55 @@
+
+1. Front Bioeng Biotechnol. 2020 Aug 21;8:772. doi: 10.3389/fbioe.2020.00772.
+eCollection 2020.
+
+Development of a Genome-Scale Metabolic Model of Clostridium thermocellum and Its
+Applications for Integration of Multi-Omics Datasets and Computational Strain
+Design.
+
+Garcia S(1)(2), Thompson RA(2)(3)(4), Giannone RJ(2)(5), Dash S(2)(6), Maranas
+CD(2)(6), Trinh CT(1)(2)(3)(4).
+
+Author information: 
+(1)Department of Chemical and Biomolecular Engineering, The University of
+Tennessee, Knoxville, TN, United States.
+(2)Center for Bioenergy Innovation, Oak Ridge National Laboratory, Oak Ridge, TN,
+United States.
+(3)Bredesen Center for Interdisciplinary Research and Graduate Education, The
+University of Tennessee, Knoxville, TN, United States.
+(4)Oak Ridge National Laboratory, Oak Ridge, TN, United States.
+(5)Chemical Sciences Division, Oak Ridge National Laboratory, Oak Ridge, TN,
+United States.
+(6)Department of Chemical Engineering, The Pennsylvania State University,
+University Park, PA, United States.
+
+Solving environmental and social challenges such as climate change requires a
+shift from our current non-renewable manufacturing model to a sustainable
+bioeconomy. To lower carbon emissions in the production of fuels and chemicals,
+plant biomass feedstocks can replace petroleum using microorganisms as
+biocatalysts. The anaerobic thermophile Clostridium thermocellum is a promising
+bacterium for bioconversion due to its capability to efficiently degrade
+lignocellulosic biomass. However, the complex metabolism of C. thermocellum is
+not fully understood, hindering metabolic engineering to achieve high titers,
+rates, and yields of targeted molecules. In this study, we developed an updated
+genome-scale metabolic model of C. thermocellum that accounts for recent
+metabolic findings, has improved prediction accuracy, and is standard-conformant 
+to ensure easy reproducibility. We illustrated two applications of the developed 
+model. We first formulated a multi-omics integration protocol and used it to
+understand redox metabolism and potential bottlenecks in biofuel (e.g., ethanol) 
+production in C. thermocellum. Second, we used the metabolic model to design
+modular cells for efficient production of alcohols and esters with broad
+applications as flavors, fragrances, solvents, and fuels. The proposed designs
+not only feature intuitive push-and-pull metabolic engineering strategies, but
+also present novel manipulations around important central metabolic
+branch-points. We anticipate the developed genome-scale metabolic model will
+provide a useful tool for system analysis of C. thermocellum metabolism to
+fundamentally understand its physiology and guide metabolic engineering
+strategies to rapidly generate modular production strains for effective
+biosynthesis of biofuels and biochemicals from lignocellulosic biomass.
+
+Copyright © 2020 Garcia, Thompson, Giannone, Dash, Maranas and Trinh.
+
+DOI: 10.3389/fbioe.2020.00772 
+PMCID: PMC7471609
+PMID: 32974289 
+

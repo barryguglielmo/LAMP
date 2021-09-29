@@ -1,0 +1,70 @@
+
+1. Int J Biol Macromol. 2020 Apr 15;149:593-599. doi:
+10.1016/j.ijbiomac.2020.01.254. Epub 2020 Jan 27.
+
+Biosynthesis of polyhydroxyalkanoates from sucrose by metabolically engineered
+Escherichia coli strains.
+
+Sohn YJ(1), Kim HT(2), Baritugo KA(1), Song HM(1), Ryu MH(3), Kang KH(4), Jo
+SY(1), Kim H(5), Kim YJ(6), Choi JI(7), Park SK(1), Joo JC(8), Park SJ(9).
+
+Author information: 
+(1)Division of Chemical Engineering and Materials Science, Ewha Womans
+University, 52 Ewhayeodae-gil, Seodaemun-gu, Seoul 03760, Republic of Korea.
+(2)Bio-based Chemistry Research Center, Advanced Convergent Chemistry Division,
+Korea Research Institute of Chemical Technology, P.O. Box 107, 141 Gajeong-ro,
+Yuseong-gu, Daejeon 34602, Republic of Korea. Electronic address:
+heetaek@krict.re.kr.
+(3)Bio-based Chemistry Research Center, Advanced Convergent Chemistry Division,
+Korea Research Institute of Chemical Technology, P.O. Box 107, 141 Gajeong-ro,
+Yuseong-gu, Daejeon 34602, Republic of Korea. Electronic address:
+miheeryu@krict.re.kr.
+(4)Bio-based Chemistry Research Center, Advanced Convergent Chemistry Division,
+Korea Research Institute of Chemical Technology, P.O. Box 107, 141 Gajeong-ro,
+Yuseong-gu, Daejeon 34602, Republic of Korea. Electronic address:
+coolcool@krict.re.kr.
+(5)Bio-based Chemistry Research Center, Advanced Convergent Chemistry Division,
+Korea Research Institute of Chemical Technology (KRICT), Jongga-ro, Jung-gu,
+Ulsan 44429, Republic of Korea. Electronic address: hykim03@krict.re.kr.
+(6)Department of Environmental Engineering and Energy, Myongji University,
+Cheoin-gu, Yongin-shi, Gyeonggi-do 17058, Republic of Korea.
+(7)Department of Biotechnology and Engineering, Interdisciplinary Program of
+Bioenergy and Biomaterials, Chonnam National University, 77 Yongbong‑ro, Buk-gu, 
+Gwangju 61186, Republic of Korea. Electronic address: choiji01@jnu.ac.kr.
+(8)Bio-based Chemistry Research Center, Advanced Convergent Chemistry Division,
+Korea Research Institute of Chemical Technology, P.O. Box 107, 141 Gajeong-ro,
+Yuseong-gu, Daejeon 34602, Republic of Korea. Electronic address:
+jcjoo@krict.re.kr.
+(9)Division of Chemical Engineering and Materials Science, Ewha Womans
+University, 52 Ewhayeodae-gil, Seodaemun-gu, Seoul 03760, Republic of Korea.
+Electronic address: parksj93@ewha.ac.kr.
+
+Sucrose utilization has been established in Escherichia coli strains by
+expression of Mannheimia succiniciproducens β-fructofuranosidase (SacC), which
+hydrolyzes sucrose into glucose and fructose. Recombinant E. coli strains that
+can utilize sucrose were examined for their abilities to produce
+poly(3-hydroxybutyrate) [P(3HB)] and poly(3-hydroxybutyrate-co-lactate)
+[P(3HB-co-LA)] from sucrose. When recombinant E. coli strains expressing
+Ralstonia eutropha PhaCAB and SacC were cultured in MR medium containing 20 g/L
+of sucrose, all recombinant E. coli strains could produce P(3HB) from sucrose.
+Also, recombinant E. coli strains expressing Pseudomonas sp. MBEL 6-19 PhaC1437, 
+Clostridium propionicum Pct540, R. eutropha PhaAB enzymes along with SacC could
+produce P(3HB-co-LA) from sucrose. Among the examined E. coli strains,
+recombinant E. coli XL1-Blue produced the highest contents of P(3HB)
+(53.60 ± 2.55 wt%) and P(3HB-co-LA) (29.44 ± 0.39 wt%). In the batch
+fermentations, recombinant E. coli XL1-Blue strains completely consumed 20 g/L of
+sucrose as the sole carbon source and supported the production of 3.76 g/L of
+P(3HB) and 1.82 g/L of P(3HB-co-LA) with 38.21 wt% P(3HB) and 20.88 wt%
+P(3HB-co-LA) contents, respectively. Recombinant E. coli strains developed in
+this study can be used to establish a cost-efficient biorefinery for the
+production of polyhydroxyalkanoates (PHAs) from sucrose, which is an abundant and
+inexpensive carbon source.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2020.01.254 
+PMID: 32001289 
+
+Conflict of interest statement: Declaration of competing interest The authors
+have declared that there is no conflict of interest.
+

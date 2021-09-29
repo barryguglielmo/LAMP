@@ -1,0 +1,39 @@
+
+1. Microorganisms. 2019 Nov 13;7(11). pii: E562. doi: 10.3390/microorganisms7110562.
+
+Perilla frutescens Leaf Alters the Rumen Microbial Community of Lactating Dairy
+Cows.
+
+Sun Z(1), Yu Z(1), Wang B(1).
+
+Author information: 
+(1)College of Grass Science and Technology, China Agricultural University,
+Beijing 100193, China.
+
+Perilla frutescens (L.) Britt., an annual herbaceous plant, has antibacterial,
+anti-inflammation, and antioxidant properties. To understand the effects of P.
+frutescens leaf on the ruminal microbial ecology of cattle, Illumina MiSeq 16S
+rRNA sequencing technology was used. Fourteen cows were used in a randomized
+complete block design trial. Two diets were fed to these cattle: a control diet
+(CON); and CON supplemented with 300 g/d P. frutescens leaf (PFL) per cow.
+Ruminal fluid was sampled at the end of the experiment for microbial DNA
+extraction. Overall, our findings revealed that supplementation with PFL could
+increase ruminal fluid pH value. The ruminal bacterial community of cattle was
+dominated by Bacteroidetes, Firmicutes, and Proteobacteria. The addition of PFL
+had a positive effect on Firmicutes, Actinobacteria, and Spirochaetes, but had no
+effect on Bacteroidetes and Proteobacteria compared with the CON. The
+supplementation with PFL significantly increased the abundance of Marvinbryantia,
+Acetitomaculum, Ruminococcus gauvreauii, Eubacterium coprostanoligenes,
+Selenomonas_1, Pseudoscardovia, norank_f__Muribaculaceae, and Sharpea, and
+decreased the abundance of Treponema_2 compared to CON. Eubacterium
+coprostanoligenes, and norank_f__Muribaculaceae were positively correlated with
+ruminal pH value. It was found that norank_f__Muribaculaceae and Acetitomaculum
+were positively correlated with milk yield, indicating that these different
+genera are PFL associated bacteria. This study suggests that PFL supplementation 
+could increase the ruminal pH value and induce shifts in the ruminal bacterial
+composition.
+
+DOI: 10.3390/microorganisms7110562 
+PMCID: PMC6921060
+PMID: 31766265 
+

@@ -1,0 +1,55 @@
+
+1. Adv Healthc Mater. 2020 Jul;9(13):e1901812. doi: 10.1002/adhm.201901812. Epub
+2020 Jun 11.
+
+Tumor Microenvironment Targeting Nano-Bio Emulsion for Synergistic Combinational 
+X-Ray PDT with Oncolytic Bacteria Therapy.
+
+Park W(1)(2), Cho S(1), Kang D(3), Han JH(2)(4), Park JH(5), Lee B(6), Lee
+J(3)(7), Kim DH(1)(8)(9).
+
+Author information: 
+(1)Department of Radiology, Feinberg School of Medicine, Northwestern University,
+Chicago, IL, 60611, USA.
+(2)Department of Biomedical-Chemical Engineering, The Catholic University of
+Korea, 43 Jibong-ro, Bucheon-si, Gyeonggi, 14662, Republic of Korea.
+(3)Molecular Recognition Research Center, Korea Institute of Science and
+Technology (KIST), Seoul, 02792, Republic of Korea.
+(4)Department of Biological Science, Korea University, Seoul, 02841, Republic of 
+Korea.
+(5)Biomedical Engineering Research Center, Asan Institute for Life Sciences, Asan
+Medical Center, 88 Olympic-ro 43-gil, Songpa-gu, Seoul, 05505, Republic of Korea.
+(6)X-Ray Science Division, Argonne National Laboratory, Argonne, IL, 60439, USA.
+(7)Department of HY-KIST Bio-Convergence, Hanyang University, Seoul, 04763,
+Republic of Korea.
+(8)Robert H. Lurie Comprehensive Cancer Center, Chicago, IL, 60611, USA.
+(9)Department of Biomedical Engineering, McCormick School of Engineering,
+Evanston, IL, 60208, USA.
+
+Various cancer therapies have been developed, but tumor recurrence with
+incomplete tumor killing and remaining tumor cells/tissues is frequent in
+monotherapies. Herein, a nano-bio therapeutic emulsion formulated with
+multifunctional nanoscintillators and anaerobic Clostridium novyi-NT spores for
+synergistic image-guided combinational cancer therapy is reported. MRI visible
+nanoscintillators (NSs) are synthesized with a NaGdF4 :Tb,Ce@NaGdF4 core/shell
+structure for an image-guided X-ray photodynamic therapy (PDT) of the normoxic
+peripheral tumor. An anaerobic oncolytic bacterium (C. novyi-NT) therapy is
+combined to treat the hypoxic central tumor tissues. Photosensitizer-coated NSs
+(PS-NSs) and C. novyi-NT spores are emulsified with clinically available
+ethiodized oil (Lipiodol) to be the nano-bio therapeutic emulsion and injected
+into the tumor with computed tomography image guidance. The distribution of
+nano-bio therapeutic emulsion, including PS-NSs and anaerobic C. novyi-NT spores 
+in the tumor site, is confirmed by both X-ray and T1 -weighted magnetic resonance
+imaging. Following the image-guided X-ray PDT and anaerobic C. novyi- NT
+combination treatment, apoptotic cell death in cancer tissues, including both
+peripheral and central tumor regions, is significantly higher than in the control
+groups. This combination therapy approach using a nano-bio therapeutic emulsion
+is expected to overcome the limitations of conventional cancer therapy, resulting
+in increased cancer-therapeutic efficacy.
+
+© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/adhm.201901812 
+PMCID: PMC7523430 [Available on 2021-07-01]
+PMID: 32529747 
+

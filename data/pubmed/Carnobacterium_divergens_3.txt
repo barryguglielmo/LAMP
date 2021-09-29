@@ -1,0 +1,37 @@
+
+1. Arch Microbiol. 2020 Sep;202(7):1945-1955. doi: 10.1007/s00203-020-01914-y. Epub 
+2020 May 27.
+
+Metatranscriptomic analysis of modified atmosphere packaged poultry meat enables 
+prediction of Brochothrix thermosphacta and Carnobacterium divergens in situ
+metabolism.
+
+Höll L(1), Hilgarth M(1), Geissler AJ(1), Behr J(1)(2), Vogel RF(3).
+
+Author information: 
+(1)Lehrstuhl für Technische Mikrobiologie, Technische Universität München,
+Gregor-Mendel-Straße 4, 85354, Freising, Germany.
+(2)Leibniz-Institut für Lebensmittel-Systembiologie an der Technischen
+Universität München, Lise-Meitner-Straße 34, 85354, Freising, Germany.
+(3)Lehrstuhl für Technische Mikrobiologie, Technische Universität München,
+Gregor-Mendel-Straße 4, 85354, Freising, Germany. rudi.vogel@tum.de.
+
+In this study, in situ-expressed metabolic routes of Brochothrix (B.)
+thermosphacta and Carnobacterium (C.) divergens were evaluated based on a
+metatranscriptomic dataset from bacteria growing on MAP chicken meat (O2/CO2;
+N2/CO2). Both species exhibited no (C. divergens) or minor transcription
+regulation (B. thermosphacta) within their main metabolic routes in response to
+different atmospheres. Both employ pathways related to glucose and ribose.
+Gluconeogenesis from lipid-borne glycerol is active in the progressing lack of
+carbohydrates. Pyruvate fates in both species comprise lactate, ethanol, acetate,
+CO2, formate, C4-compounds and H2O2 (only B. thermosphacta). Both species express
+genes for a minimal aerobic respiratory chain, but do not possess the genetic
+setting for a functional citric acid cycle. While products of carbohydrate and
+glycerol metabolism display mild to medium sensorial off-characteristics,
+predicted end products of their amino acid metabolism comprise, e.g., isobutyrate
+and isovalerate (B. thermosphacta) or cadaverine and tyramine (C. divergens) as
+potent spoilage compounds.
+
+DOI: 10.1007/s00203-020-01914-y 
+PMID: 32462213  [Indexed for MEDLINE]
+

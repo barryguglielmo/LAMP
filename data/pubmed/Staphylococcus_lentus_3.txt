@@ -1,0 +1,45 @@
+
+1. J Glob Antimicrob Resist. 2020 Sep;22:139-144. doi: 10.1016/j.jgar.2020.01.013.
+Epub 2020 Jan 30.
+
+Prevalence and characterisation of methicillin-resistant staphylococci from
+bovine bulk tank milk in England and Wales.
+
+Fisher EA(1), Paterson GK(2).
+
+Author information: 
+(1)School of Life Sciences, University of Hull, Hull, HU6 7RX, UK.
+(2)Easter Bush Pathology, Royal (Dick) School of Veterinary Studies, UK; The
+Roslin Institute, University of Edinburgh, Easter Bush Campus, Midlothian, EH25
+9RG, UK. Electronic address: gavin.paterson@ed.ac.uk.
+
+OBJECTIVES: To investigate the prevalence and characteristics of
+methicillin-resistant staphylococci on dairy farms in England and Wales including
+zoonotic MRSA.
+METHODS: Bulk tank milk was sampled from 363 dairy farms in 2015-2016 and
+methicillin-resistant staphylococci were isolated by salt broth enrichment and
+plating on MRSA Brilliance selective agar. Isolates were characterised through
+antimicrobial susceptibility testing and whole-genome sequencing.
+RESULTS: Methicillin-resistant staphylococci were isolated from ∼5% of dairy
+farms and belonged to six different species, Staphylococcus aureus,
+Staphylococcus epidermidis, Staphylococcus lentus, Staphylococcus saprophyticus, 
+Staphylococcus fleurettii and Staphylococcus sciuri. Whole-genome sequencing
+revealed a large variety of antimicrobial resistance genes and SCCmec elements
+were present, including mecA and mecC alleles. Potentially zoonotic
+methicillin-resistance S. aureus were found at a low prevalence (0.83% of sampled
+dairy farms). Whole-genome sequencing also provided evidence for the mobility of 
+a primordial mec gene complex, independently of a SCCmec element, which appears
+to have been acquired by S. saprophyticus from S. fleurettii.
+CONCLUSIONS: These data give new insight into the epidemiology of veterinary
+methicillin-resistant staphylococci to inform future surveillance and zoonotic
+risk evaluation. Our data indicate that MRSA has likely decreased in prevalence
+since earlier survey work in England and Wales during 2011-12 and highlights the 
+diversity of methicillin resistance and other resistance determinants among
+bovine-associated staphylococci with implications for veterinary and human
+medicine.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jgar.2020.01.013 
+PMID: 32006753 
+

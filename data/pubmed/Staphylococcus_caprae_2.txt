@@ -1,0 +1,51 @@
+
+1. Front Cell Infect Microbiol. 2020 Jun 12;10:274. doi: 10.3389/fcimb.2020.00274.
+eCollection 2020.
+
+Determining the Genetic Characteristics of Resistance and Virulence of the
+"Epidermidis Cluster Group" Through Pan-Genome Analysis.
+
+Sun Z(1)(2)(3), Zhou D(1)(3), Zhang X(1)(2)(3), Li Q(1)(2)(3), Lin H(1)(2)(3), Lu
+W(1)(3), Liu H(1)(2)(3), Lu J(1)(3), Lin X(1)(3), Li K(1)(3), Xu T(4), Bao
+Q(1)(3), Zhang H(2)(3).
+
+Author information: 
+(1)Key Laboratory of Medical Genetics of Zhejiang Province, Key Laboratory of
+Laboratory Medicine, Ministry of Education, School of Laboratory Medicine and
+Life Sciences, Wenzhou Medical University, Wenzhou, China.
+(2)The Second Affiliated Hospital and Yuying Children's Hospital, Wenzhou Medical
+University, Wenzhou, China.
+(3)Institute of Biomedical Informatics, Wenzhou Medical University, Wenzhou,
+China.
+(4)Institute of Translational Medicine, Baotou Central Hospital, Baotou, China.
+
+Staphylococcus caprae, Staphylococcus capitis, and Staphylococcus epidermidis
+belong to the "Epidermidis Cluster Group" (ECG) and are generally opportunistic
+pathogens. In this work, whole genome sequencing, molecular cloning and
+pan-genome analysis were performed to investigate the genetic characteristics of 
+the resistance, virulence and genome structures of 69 ECG strains, including a
+clinical isolate (S. caprae SY333) obtained in this work. Two resistance genes
+(blaZ and aadD2) encoded on the plasmids pSY333-41 and pSY333-45 of S. caprae
+SY333 were confirmed to be functional. The bla region in ECG exhibited three
+distinct structures, and these chromosome- and plasmid-encoded bla operons seemed
+to follow two different evolutionary paths. Pan-genome analysis revealed their
+pan-genomes tend to be "open." For the virulence-related factors, the genes
+involved in primary attachment were observed almost exclusively in S.
+epidermidis, while the genes associated with intercellular aggregation were
+observed more frequently in S. caprae and S. capitis. The type VII secretion
+system was present in all strains of S. caprae and some of S. epidermidis but not
+in S. capitis. Moreover, the isd locus (iron regulated surface determinant) was
+first found to be encoded on the genomes of S. caprae and S. capitis. These
+findings suggested that the plasmid and chromosome encoded bla operons of ECG
+species underwent different evolution paths, as well as they differed in the
+abundance of virulence genes associated with adherence, invasion, secretion
+system and immune evasion. Identification of isd loci in S. caprae and S. capitis
+indicated their ability to acquire heme as nutrient iron during infection.
+
+Copyright © 2020 Sun, Zhou, Zhang, Li, Lin, Lu, Liu, Lu, Lin, Li, Xu, Bao and
+Zhang.
+
+DOI: 10.3389/fcimb.2020.00274 
+PMCID: PMC7303328
+PMID: 32596166 
+

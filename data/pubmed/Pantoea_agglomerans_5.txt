@@ -1,0 +1,56 @@
+
+1. J Biotechnol. 2020 Sep 24;324:21-27. doi: 10.1016/j.jbiotec.2020.09.021. [Epub
+ahead of print]
+
+Stereospecific linalool production utilizing two-phase cultivation system in
+Pantoea ananatis.
+
+Hoshino Y(1), Moriya M(2), Matsudaira A(3), Katashkina JI(4), Nitta N(5), Nishio 
+Y(6), Usuda Y(7).
+
+Author information: 
+(1)Research Institute for Bioscience Products & Fine Chemicals, Ajinomoto Co.,
+Inc. 1-1, Suzuki-cho, Kawasaki-ku, Kawasaki, 210-8681, Japan. Electronic address:
+yasushi_hoshino@ajinomoto.com.
+(2)Research Institute for Bioscience Products & Fine Chemicals, Ajinomoto Co.,
+Inc. 1-1, Suzuki-cho, Kawasaki-ku, Kawasaki, 210-8681, Japan. Electronic address:
+mika_moriya@ajinomoto.com.
+(3)Research Institute for Bioscience Products & Fine Chemicals, Ajinomoto Co.,
+Inc. 1-1, Suzuki-cho, Kawasaki-ku, Kawasaki, 210-8681, Japan. Electronic address:
+akiko_matsudaira@ajinomoto.com.
+(4)Ajinomoto-Genetika Research Institute, 1st Dorozhny pr. 1-1, Moscow, 117545,
+Russian Federation. Electronic address: Joanna_Katashkina@agri.ru.
+(5)Research Institute for Bioscience Products & Fine Chemicals, Ajinomoto Co.,
+Inc. 1-1, Suzuki-cho, Kawasaki-ku, Kawasaki, 210-8681, Japan. Electronic address:
+nobuhisa_nitta@ajinomoto.com.
+(6)Research Institute for Bioscience Products & Fine Chemicals, Ajinomoto Co.,
+Inc. 1-1, Suzuki-cho, Kawasaki-ku, Kawasaki, 210-8681, Japan.
+(7)Research Institute for Bioscience Products & Fine Chemicals, Ajinomoto Co.,
+Inc. 1-1, Suzuki-cho, Kawasaki-ku, Kawasaki, 210-8681, Japan. Electronic address:
+yousuke_nishio@ajinomoto.com.
+
+Linalool is a monoterpene alcohol, which imparts floral scents to a variety of
+plants and is extensively used in various kinds of products, such as processed
+foods and beverages for fragrances and flavors. However, linalool from natural
+resources is racemate, and production of linalool enantiomers is difficult. To
+produce stereospecific linalool, we evaluated linalool synthase genes (LINS) from
+plants, such as Actinidia arguta (AaLINS) and Coriandrum sativum (CsLINS) for
+(S)-specific LINS and a gram-positive bacterium Streptomyces clavuligerus
+(ScLINS) for (R)-specific LINS, with Pantoea ananatis strain as the host. Among
+the 16 LINS examined, AaLINS and ScLINS showed the best (S)-linalool production
+and (R)-linalool production, respectively, with 100 % enantio excess.
+Co-expression of the mutated farnesyl diphosphate synthase gene, ispA* (S80 F),
+from Escherichia coli along with the LINS genes also improved linalool
+production. In order to prevent volatilization and cell toxicity of linalool,
+two-phase cultivation with isopropyl myristate was done, which had positive
+effects on linalool production. The carbon flux to the MVA pathway from glucose
+was increased by inactivating a membrane-bound glucose dehydrogenase. Overall,
+5.60 g/L (S)-linalool and 3.71 g/L (R)-linalool were produced from 60.0 g/L
+glucose by introduction of AaLINS-ispA* and ScLINS-ispA* in P. ananatis,
+respectively.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jbiotec.2020.09.021 
+PMID: 32980368 
+

@@ -1,0 +1,43 @@
+
+1. J Dairy Sci. 2020 Feb;103(2):1238-1249. doi: 10.3168/jds.2019-17496. Epub 2019
+Dec 19.
+
+PacBio sequencing reveals bacterial community diversity in cheeses collected from
+different regions.
+
+Yang C(1), Zhao F(1), Hou Q(1), Wang J(1), Li M(1), Sun Z(2).
+
+Author information: 
+(1)Key Laboratory of Dairy Biotechnology and Engineering, Key Laboratory of Dairy
+Products Processing, Inner Mongolia Agricultural University, Hohhot 010018, P. R.
+China.
+(2)Key Laboratory of Dairy Biotechnology and Engineering, Key Laboratory of Dairy
+Products Processing, Inner Mongolia Agricultural University, Hohhot 010018, P. R.
+China. Electronic address: sunzhihong78@163.com.
+
+Cheese is a fermented dairy product that is popular for its unique flavor and
+nutritional value. Recent studies have shown that microorganisms in cheese play
+an important role in the fermentation process and determine the quality of the
+cheese. We collected 12 cheese samples from different regions and studied the
+composition of their bacterial communities using PacBio small-molecule real-time 
+sequencing (Pacific Biosciences, Menlo Park, CA). Our data revealed 144 bacterial
+genera (including Lactobacillus, Streptococcus, Lactococcus, and Staphylococcus) 
+and 217 bacterial species (including Lactococcus lactis, Streptococcus
+thermophilus, Staphylococcus equorum, and Streptococcus uberis). We investigated 
+the flavor quality of the cheese samples using an electronic nose system and we
+found differences in flavor-quality indices among samples from different regions.
+We found a clustering tendency based on flavor quality using principal component 
+analysis. We found correlations between lactic acid bacteria and the flavor
+quality of the cheese samples. Biodegradation and metabolism of xenobiotics, and 
+lipid-metabolism-related pathways, were predicted to contribute to differences in
+cheese flavor using Phylogenetic Investigation of Communities by Reconstruction
+of Unobserved States (PICRUSt). This preliminary study explored the bacterial
+communities in cheeses collected from different regions and their potential
+genome functions from the perspective of flavor quality.
+
+Copyright © 2020 American Dairy Science Association. Published by Elsevier Inc.
+All rights reserved.
+
+DOI: 10.3168/jds.2019-17496 
+PMID: 31864732  [Indexed for MEDLINE]
+

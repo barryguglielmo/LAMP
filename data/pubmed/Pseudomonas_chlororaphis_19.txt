@@ -1,0 +1,51 @@
+
+1. PLoS One. 2020 Feb 28;15(2):e0226232. doi: 10.1371/journal.pone.0226232.
+eCollection 2020.
+
+Investigation of the quorum-sensing regulon of the biocontrol bacterium
+Pseudomonas chlororaphis strain PA23.
+
+Shah N(1), Gislason AS(1), Becker M(2), Belmonte MF(2), Fernando WGD(3), de
+Kievit TR(1).
+
+Author information: 
+(1)Department of Microbiology, University of Manitoba, Winnipeg, Manitoba,
+Canada.
+(2)Department of Biological Sciences, University of Manitoba, Winnipeg, Manitoba,
+Canada.
+(3)Department of Plant Science, University of Manitoba, Winnipeg, Manitoba,
+Canada.
+
+Pseudomonas chlororaphis strain PA23 is a biocontrol agent capable of protecting 
+canola from stem rot disease caused by the fungal pathogen Sclerotinia
+sclerotiorum. PA23 produces several inhibitory compounds that are under control
+of a complex regulatory network. Included in this cascade is the PhzRI quorum
+sensing (QS) system, which plays an essential role in PA23 biocontrol, as well as
+CsaRI and AurRI, which have not yet been characterized in PA23. The focus of the 
+current study was to employ RNA sequencing to explore the spectrum of PA23 genes 
+under QS control. In this work, we investigated genes under the control of the
+main QS transcriptional regulator, PhzR, as well as those differentially
+expressed in an AHL-deficient strain, PA23-6863, which constitutively expresses
+an AiiA lactonase, rendering the strain QS defective. Transcriptomic profiling
+revealed 545 differentially expressed genes (365 downregulated; 180 upregulated) 
+in the phzR mutant and 534 genes (382 downregulated; 152 upregulated) in the
+AHL-deficient PA23-6863. In both strains, decreased expression of phenazine,
+pyrrolnitrin, and exoprotease biosynthetic genes was observed. We have previously
+reported that QS activates expression of these genes and their encoded products. 
+In addition, elevated siderophore and decreased chitinase gene expression was
+observed in the QS-deficient stains, which was confirmed by phenotypic analysis. 
+Inspection of the promoter regions revealed the presence of "phz-box" sequences
+in only 58 of the 807 differentially expressed genes, suggesting that much of the
+QS regulon is indirectly regulated. Consistent with this notion, 41
+transcriptional regulators displayed altered expression in one or both of the
+QS-deficient strains. Collectively, our findings indicate that QS governs
+expression of approximately 13% of the PA23 genome affecting diverse functions
+ranging from secondary metabolite production to general metabolism.
+
+DOI: 10.1371/journal.pone.0226232 
+PMCID: PMC7048289
+PMID: 32109244  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

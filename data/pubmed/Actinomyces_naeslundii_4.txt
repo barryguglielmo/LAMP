@@ -1,0 +1,39 @@
+
+1. Microorganisms. 2020 Aug 21;8(9). pii: E1272. doi: 10.3390/microorganisms8091272.
+
+Probiotic Effects on Multispecies Biofilm Composition, Architecture, and Caries
+Activity In Vitro.
+
+Chen Z(1), Schlafer S(2), Göstemeyer G(3), Schwendicke F(1).
+
+Author information: 
+(1)Department of Oral Diagnostics, Digital Health and Health Services Research,
+Charité-Universitätsmedizin, 14197 Berlin, Germany.
+(2)Department of Dentistry and Oral Health, Aarhus University, 8000 Aarhus,
+Denmark.
+(3)Department of Operative and Preventive Dentistry, Charité-Universitätsmedizin 
+Berlin, 14197 Berlin, Germany.
+
+While probiotics have been tested for their anti-caries effect in vitro and also 
+clinically, there is a lack of understanding of their effects on complex dental
+biofilms. We assessed two probiotics, Lactobacillus reuteri and Streptococcus
+oligofermentans, on a continuous-cultured model containing Streptococcus mutans, 
+Lactobacillus rhamnosus and Actinomyces naeslundii. Cariogenic biofilms were
+grown on bovine enamel specimens and daily challenged with L. reuteri or S.
+oligofermentans whole culture (LC/SC) or cell-free supernatant (LS/SS) or medium 
+only (negative control, NC) (n = 21/group) for 10 days. Biofilm was assessed via 
+counting colony-forming units, quantitative polymerase chain reaction, and
+fluorescence in situ hybridization. Caries activity was determined by pH
+measurements and by assessing mineral loss (ΔZ) using transverse
+microradiography. Both LC and SC significantly reduced total and strain-specific 
+cariogenic bacterial numbers (p < 0.05). ΔZ was reduced in LC (mean ± SD: 1846.67
+± 317.89) and SC (3315.87 ± 617.30) compared to NC (4681.48 ± 495.18, p < 0.05). 
+No significant reductions in bacterial numbers and ΔZ was induced by
+supernatants. Biofilm architecture was not considerably affected by probiotic
+applications. Viable probiotics L. reuteri and S. oligofermentans, but not their 
+culture supernatants, could reduce the caries activity of multi-species biofilms 
+in vitro.
+
+DOI: 10.3390/microorganisms8091272 
+PMID: 32825575 
+

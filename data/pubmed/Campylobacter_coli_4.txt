@@ -1,0 +1,80 @@
+
+1. Water Res. 2020 Sep 20;187:116421. doi: 10.1016/j.watres.2020.116421. [Epub ahead
+of print]
+
+Tracing the animal sources of surface water contamination with Campylobacter
+jejuni and Campylobacter coli.
+
+Mulder AC(1), Franz E(2), de Rijk S(2), Versluis MAJ(3), Coipan C(2), Buij R(4), 
+Müskens G(4), Koene M(5), Pijnacker R(2), Duim B(6), Bloois LVG(6), Veldman K(5),
+Wagenaar JA(7), Zomer AL(6), Schets FM(2), Blaak H(2), Mughini-Gras L(8).
+
+Author information: 
+(1)Centre for Infectious Disease Control (CIb), National Institute for Public
+Health and the Environment (RIVM), Postbus 1, 3720 BA Bilthoven Bilthoven,
+Utrecht, The Netherlands. Electronic address: annemieke.mulder@rivm.nl.
+(2)Centre for Infectious Disease Control (CIb), National Institute for Public
+Health and the Environment (RIVM), Postbus 1, 3720 BA Bilthoven Bilthoven,
+Utrecht, The Netherlands.
+(3)Institute for Risk Assessment Sciences (IRAS), Utrecht University, Yalelaan 1,
+De Uithof, 3584 CL, Utrecht, The Netherlands.
+(4)Wageningen Environmental Research (WENR), Wageningen University & Research
+(WUR), Droevendaalsesteeg 3-3 A, 6708 PB, Wageningen, The Netherlands.
+(5)Wageningen Bioveterinary Research (WBVR), Wageningen University & Research
+(WUR), Houtribweg 39, 8221 RA, Lelystad, The Netherlands.
+(6)Department of Infectious Diseases and Immunology (I&I), Utrecht University,
+Yalelaan 1, De Uithof, 3584 CL, Utrecht, The Netherlands; WHO Collaborating
+Centre for Campylobacter / OIE Reference Laboratory for Campylobacteriosis,
+Yalelaan 1, De Uithof, 3584 CL, Utrecht, The Netherlands.
+(7)Wageningen Bioveterinary Research (WBVR), Wageningen University & Research
+(WUR), Houtribweg 39, 8221 RA, Lelystad, The Netherlands; Department of
+Infectious Diseases and Immunology (I&I), Utrecht University, Yalelaan 1, De
+Uithof, 3584 CL, Utrecht, The Netherlands; WHO Collaborating Centre for
+Campylobacter / OIE Reference Laboratory for Campylobacteriosis, Yalelaan 1, De
+Uithof, 3584 CL, Utrecht, The Netherlands.
+(8)Centre for Infectious Disease Control (CIb), National Institute for Public
+Health and the Environment (RIVM), Postbus 1, 3720 BA Bilthoven Bilthoven,
+Utrecht, The Netherlands; Institute for Risk Assessment Sciences (IRAS), Utrecht 
+University, Yalelaan 1, De Uithof, 3584 CL, Utrecht, The Netherlands.
+
+Campylobacter jejuni and C. coli, the primary agents of human bacterial
+gastroenteritis worldwide, are widespread in surface water. Several animal
+sources contribute to surface water contamination with Campylobacter, but their
+relative contributions thus far remained unclear. Here, the prevalence, genotype 
+diversity, and potential animal sources of C. jejuni and C. coli strains in
+surface water in the Netherlands were investigated. It was also assessed whether 
+the contribution of the different animal sources varied according to surface
+water type (i.e. agricultural water, surface water at discharge points of
+wastewater treatment plants [WWTPs], and official recreational water), season,
+and local livestock (poultry, pig, ruminant) density. For each surface water
+type, 30 locations spread over six areas with either high or low density of
+poultry, ruminants, or pigs, were sampled once every season in 2018-2019.
+Campylobacter prevalence was highest in agricultural waters (77%), and in autumn 
+and winter (74%), and lowest in recreational waters (46%) and in summer (54%). In
+total, 76 C. jejuni and 177 C. coli water isolates were whole-genome sequenced.
+Most C. coli water isolates (78.5%) belonged to hitherto unidentified clones when
+using the seven-locus sequence type (ST) scheme, while only 11.8% of the C.
+jejuni isolates had unidentified STs. The origin of these isolates, as defined by
+core-genome multi-locus sequence typing (cgMLST), was inferred by comparison with
+Campylobacter strain collections from meat-producing poultry, laying hens, adult 
+cattle, veal calves, small ruminants, pigs, and wild birds. Water isolates were
+mainly attributed to wild birds (C. jejuni: 60.0%; C. coli: 93.7%) and
+meat-producing poultry (C. jejuni: 18.9%; C. coli: 5.6%). Wild bird contribution 
+was high among isolates from recreational waters and WWTP discharge points, and
+in areas with low poultry (C. coli) or high ruminant (C. jejuni) densities. The
+contribution of meat-producing poultry was high in areas with high density of
+poultry, springtime, agricultural waters and WWTP discharge points. While wild
+birds and poultry were the main contributors to Campylobacter contamination in
+surface water, their contribution differed significantly by water type, season,
+and local poultry and ruminant densities.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.watres.2020.116421 
+PMID: 32992147 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

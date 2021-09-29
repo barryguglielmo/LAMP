@@ -1,0 +1,83 @@
+
+1. Arch Biochem Biophys. 2020 Sep 30;691:108487. doi: 10.1016/j.abb.2020.108487.
+Epub 2020 Jul 22.
+
+Adepamycin: design, synthesis and biological properties of a new peptide with
+antimicrobial properties.
+
+Almeida LHO(1), Oliveira CFR(2), Rodrigues MS(3), Neto SM(4), Boleti APA(5),
+Taveira GB(6), Mello ÉO(7), Gomes VM(8), Santos ELD(9), Crusca E Jr(10), Franco
+OL(11), Cardoso MHES(12), Macedo MLR(13).
+
+Author information: 
+(1)Laboratório de Purificação de Proteínas e suas Funções Biológicas,
+Universidade Federal de Mato Grosso do Sul, Cidade Universitária, 79.070-900,
+Campo Grande, Mato Grosso do Sul, Brazil. Electronic address:
+luishenrique.oa@gmail.com.
+(2)Universidade Federal da Grande Dourados, 79.804-970, Dourados, Mato Grosso do 
+Sul, Brazil. Electronic address: oliveiracfr@gmail.com.
+(3)Laboratório de Purificação de Proteínas e suas Funções Biológicas,
+Universidade Federal de Mato Grosso do Sul, Cidade Universitária, 79.070-900,
+Campo Grande, Mato Grosso do Sul, Brazil. Electronic address:
+maysouza_rodrigues@hotmail.com.
+(4)Laboratório de Purificação de Proteínas e suas Funções Biológicas,
+Universidade Federal de Mato Grosso do Sul, Cidade Universitária, 79.070-900,
+Campo Grande, Mato Grosso do Sul, Brazil. Electronic address:
+simoneneto@gmail.com.
+(5)Universidade Federal da Grande Dourados, 79.804-970, Dourados, Mato Grosso do 
+Sul, Brazil. Electronic address: apboleti@yahoo.com.br.
+(6)Laboratório de Bioquímica e Fisiologia de Microrganismos, Universidade
+Estadual do Norte Fluminense Darcy Ribeiro, 28.013-602, Campo dos Goytacazes, Rio
+de Janeiro, Brazil. Electronic address: gabrielbtaveira@yahoo.com.br.
+(7)Laboratório de Bioquímica e Fisiologia de Microrganismos, Universidade
+Estadual do Norte Fluminense Darcy Ribeiro, 28.013-602, Campo dos Goytacazes, Rio
+de Janeiro, Brazil. Electronic address: ericamello08@gmail.com.
+(8)Laboratório de Bioquímica e Fisiologia de Microrganismos, Universidade
+Estadual do Norte Fluminense Darcy Ribeiro, 28.013-602, Campo dos Goytacazes, Rio
+de Janeiro, Brazil. Electronic address: valmguenf@gmail.com.
+(9)Universidade Federal da Grande Dourados, 79.804-970, Dourados, Mato Grosso do 
+Sul, Brazil. Electronic address: edsonsantos@ufgd.edu.br.
+(10)Universidade Estadual Paulista Júlio de Mesquita Filho, 14.800-060,
+Araraquara, Sao Paulo, Brazil. Electronic address: ecrusca@gmail.com.
+(11)Centro de Análises Proteômicas e Bioquímicas, Universidade Católica de
+Brasília, 70.790-160, Brasília, Distrito Federal, Brazil; S-Inova Biotech,
+Universidade Católica Dom Bosco, 79.117-010, Campo Grande, Mato Grosso do Sul,
+Brazil. Electronic address: ocfranco@gmail.com.
+(12)Centro de Análises Proteômicas e Bioquímicas, Universidade Católica de
+Brasília, 70.790-160, Brasília, Distrito Federal, Brazil; S-Inova Biotech,
+Universidade Católica Dom Bosco, 79.117-010, Campo Grande, Mato Grosso do Sul,
+Brazil. Electronic address: marlonhenrique6@gmail.com.
+(13)Laboratório de Purificação de Proteínas e suas Funções Biológicas,
+Universidade Federal de Mato Grosso do Sul, Cidade Universitária, 79.070-900,
+Campo Grande, Mato Grosso do Sul, Brazil. Electronic address:
+ligiamacedo18@gmail.com.
+
+Antimicrobial peptides (AMP) are molecules with a broad spectrum of activities
+that have been identified in most living organisms. In addition, synthetic AMPs
+designed from natural polypeptides have been largely investigated. Here, we
+designed a novel AMP using the amino acid sequence of a plant trypsin inhibitor
+from Adenanthera pavonina seeds (ApTI) as a template. The 176 amino acid residues
+ApTI sequence was cleaved in silico using the Collection of Antimicrobial
+Peptides (CAMPR3), through the sliding-window method. Further improvements in AMP
+structure were carried out, resulting in adepamycin, an AMP designed from ApTI.
+Adepamycin showed antimicrobial activity from 0.9 to 3.6 μM against Escherichia
+coli, Klebsiella oxytoca, Klebsiella pneumoniae, Pseudomonas aeruginosa, and
+Staphylococcus aureus strains. Moreover, this peptide also displayed activity
+against Candida albicans and Candida tropicalis. No toxic effects were observed
+on healthy human cells. Studies on the mechanism of action of adepamycin were
+carried out using an E. coli and C. tropicalis. Adepamycin triggers membrane
+disturbances, leading to intracellular nucleic acids release in E. coli. For C.
+tropicalis, an initial interference with the plasma membrane integrity is
+followed by the formation of intracellular reactive oxygen species (ROS), leading
+to apoptosis. Structurally, adepamycin was submitted to circular dichroism
+spectroscopy, molecular modeling and molecular dynamics simulations, revealing an
+environment-dependent α-helical structure in the presence of 2,2,2-
+trifluoroethanol (TFE) and in contact with mimetic vesicles/membranes. Therefore,
+adepamycin represents a novel lytic AMP with dual antibacterial and antifungal
+properties.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.abb.2020.108487 
+PMID: 32710881 
+

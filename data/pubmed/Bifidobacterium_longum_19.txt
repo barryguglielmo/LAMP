@@ -1,0 +1,41 @@
+
+1. Front Microbiol. 2020 Jul 24;11:1534. doi: 10.3389/fmicb.2020.01534. eCollection 
+2020.
+
+First Evidence of Acyl-Hydrolase/Lipase Activity From Human Probiotic Bacteria:
+Lactobacillus rhamnosus GG and Bifidobacterium longum NCC 2705.
+
+Manasian P(1)(2), Bustos AS(2)(3), Pålsson B(1), Håkansson A(2), Peñarrieta
+JM(3), Nilsson L(2), Linares-Pastén JA(1).
+
+Author information: 
+(1)Biotechnology, Faculty of Engineering, Lunds Tekniska Högskola (LTH), Lund
+University, Lund, Sweden.
+(2)Food Technology, Faculty of Engineering, Lunds Tekniska Högskola (LTH), Lund
+University, Lund, Sweden.
+(3)Faculty of Pure and Natural Sciences, School of Chemistry, Universidad Mayor
+de San Andrés, La Paz, Bolivia.
+
+Lactobacillus rhamnosus GG (ATCC 53103) and Bifidobacterium longum NCC 2705 are
+among the most studied probiotics. However, the first evidence of acyl
+hydrolase/lipase of two annotated proteins, one in each genome of these strains, 
+is reported in this work. Signal peptide analysis has predicted that these
+proteins are exported to the extracellular medium. Both proteins were produced in
+Escherichia coli, purified and characterized. Molecular masses (without signal
+peptides) were 27 and 52.3 kDa for the proteins of L. rhamnosus and B. longum,
+respectively. Asymmetrical flow field-flow fractionation analysis has shown that 
+both proteins are present as monomers in their native forms at pH 7. Both have
+shown enzymatic activity on pNP-laurate at pH 7 and 37°C. The enzyme from L.
+rhamnosus was characterized deeper, showing preference on pNP-esters with short
+chain fatty acids. In addition, a computational model of the 3D structure has
+allowed the prediction of the catalytic amino acids. The enzymatic activities
+using synthetic substrates were very low for both enzymes. The investigation of
+natural substrates and biological functions of these enzymes is still open.
+
+Copyright © 2020 Manasian, Bustos, Pålsson, Håkansson, Peñarrieta, Nilsson and
+Linares-Pastén.
+
+DOI: 10.3389/fmicb.2020.01534 
+PMCID: PMC7393678
+PMID: 32793131 
+

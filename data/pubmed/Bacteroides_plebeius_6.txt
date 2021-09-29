@@ -1,0 +1,49 @@
+
+1. Sci Rep. 2019 Dec 16;9(1):19208. doi: 10.1038/s41598-019-55691-w.
+
+Characterization of the fecal microbiome in cats with inflammatory bowel disease 
+or alimentary small cell lymphoma.
+
+Marsilio S(1)(2), Pilla R(3), Sarawichitr B(3), Chow B(4)(5), Hill SL(4)(6),
+Ackermann MR(7), Estep JS(8), Lidbury JA(3), Steiner JM(3), Suchodolski JS(3).
+
+Author information: 
+(1)Gastrointestinal Laboratory, Department of Small Animal Clinical Science,
+Texas A&M University, 4474 TAMU, College Station, TX, 77843-4474, USA.
+SMarsilio@ucdavis.edu.
+(2)University of California Davis, School of Veterinary Medicine, Department of
+Medicine & Epidemiology, Davis, CA, 95616, USA. SMarsilio@ucdavis.edu.
+(3)Gastrointestinal Laboratory, Department of Small Animal Clinical Science,
+Texas A&M University, 4474 TAMU, College Station, TX, 77843-4474, USA.
+(4)Veterinary Specialty Hospital, 10435 Sorrento Valley Rd, San Diego, CA, 92121,
+USA.
+(5)VCA Animal Specialty & Emergency Center, 1535 South Sepulveda Blvd, Los
+Angeles, CA, 90025, USA.
+(6)Flagstaff Veterinary Internal Medicine Consulting (FLG VIM-C), 6135 Kaitlin
+Way, Flagstaff, AZ, 86003, USA.
+(7)Oregon Veterinary Diagnostic Laboratory, Carlson College of Veterinary
+Medicine, Oregon State University, Corvallis, OR, USA.
+(8)Texas Veterinary Pathology, LLC, San Antonio, TX, USA.
+
+Feline chronic enteropathy (CE) is a common gastrointestinal disorder in cats and
+mainly comprises inflammatory bowel disease (IBD) and small cell lymphoma (SCL). 
+Both IBD and SCL in cats share features with chronic enteropathies such as IBD
+and monomorphic epitheliotropic intestinal T-cell lymphoma in humans. The aim of 
+this study was to characterize the fecal microbiome of 38 healthy cats and 27
+cats with CE (13 cats with IBD and 14 cats with SCL). Alpha diversity indices
+were significantly decreased in cats with CE (OTU p = 0.003, Shannon Index
+p = 0.008, Phylogenetic Diversity p = 0.019). ANOSIM showed a significant
+difference in bacterial communities, albeit with a small effect size (P = 0.023, 
+R = 0.073). Univariate analysis and LEfSE showed a lower abundance of facultative
+anaerobic taxa of the phyla Firmicutes (families Ruminococcaceae and
+Turicibacteraceae), Actinobacteria (genus Bifidobacterium) and Bacteroidetes
+(i.a. Bacteroides plebeius) in cats with CE. The facultative anaerobic taxa
+Enterobacteriaceae and Streptococcaceae were increased in cats with CE. No
+significant difference between the microbiome of cats with IBD and those with SCL
+was found. Cats with CE showed patterns of dysbiosis similar to those in found
+people with IBD.
+
+DOI: 10.1038/s41598-019-55691-w 
+PMCID: PMC6914782
+PMID: 31844119 
+

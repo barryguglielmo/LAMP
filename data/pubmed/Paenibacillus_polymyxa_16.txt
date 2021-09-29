@@ -1,0 +1,31 @@
+
+1. Microbiol Resour Announc. 2020 Mar 12;9(11). pii: e00071-20. doi:
+10.1128/MRA.00071-20.
+
+Draft Genome Sequence of Paenibacillus polymyxa DSM 292, a Gram-Positive,
+Spore-Forming Soil Bacterium with High Biotechnological Potential.
+
+Heinze S(1), Lagkouvardos I(2), Liebl W(1), Schwarz WH(3), Kornberger P(1),
+Zverlov VV(4)(5).
+
+Author information: 
+(1)Department of Microbiology, Technical University of Munich, Freising, Germany.
+(2)ZIEL Institute for Food and Health, Technical University of Munich, Freising, 
+Germany.
+(3)Aspratis GmbH, Munich, Germany.
+(4)Department of Microbiology, Technical University of Munich, Freising, Germany 
+vladimir.zverlov@tum.de.
+(5)Institute of Molecular Genetics, Russian Academy of Science, Moscow, Russia.
+
+Paenibacillus polymyxa DSM 292 was originally isolated from soil in 1947 due to
+its ability to produce antibiotics. The low proteolytic properties of strain DSM 
+292 warrant its examination as a host for heterologous protein production. Here, 
+we report the draft genome sequence of DSM 292 as established by Illumina MiSeq
+paired-end sequencing.
+
+Copyright © 2020 Heinze et al.
+
+DOI: 10.1128/MRA.00071-20 
+PMCID: PMC7067951
+PMID: 32165383 
+

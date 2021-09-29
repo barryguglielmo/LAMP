@@ -1,0 +1,79 @@
+
+1. Elife. 2020 Feb 18;9. pii: e50845. doi: 10.7554/eLife.50845.
+
+A widely distributed metalloenzyme class enables gut microbial metabolism of
+host- and diet-derived catechols.
+
+Maini Rekdal V(#)(1), Nol Bernadino P(#)(2)(3), Luescher MU(#)(1), Kiamehr S(1), 
+Le C(1), Bisanz JE(4), Turnbaugh PJ(4)(5), Bess EN(2)(3), Balskus EP(1).
+
+Author information: 
+(1)Department of Chemistry and Chemical Biology, Harvard University, Cambridge,
+United States.
+(2)Department of Chemistry and Molecular Biology, University of California,
+Irvine, Irvine, United States.
+(3)Department of Chemistry and Molecular Biochemistry, University of California, 
+Irvine, Irvine, United States.
+(4)Department of Microbiology and Immunology, University of California, San
+Francisco, San Francisco, United States.
+(5)Chan Zuckerberg Biohub, San Francisco, United States.
+(#)Contributed equally
+
+Catechol dehydroxylation is a central chemical transformation in the gut
+microbial metabolism of plant- and host-derived small molecules. However, the
+molecular basis for this transformation and its distribution among gut
+microorganisms are poorly understood. Here, we characterize a
+molybdenum-dependent enzyme from the human gut bacterium Eggerthella lenta that
+dehydroxylates catecholamine neurotransmitters. Our findings suggest that this
+activity enables E. lenta to use dopamine as an electron acceptor. We also
+identify candidate dehydroxylases that metabolize additional host- and
+plant-derived catechols. These dehydroxylases belong to a distinct group of
+largely uncharacterized molybdenum-dependent enzymes that likely mediate primary 
+and secondary metabolism in multiple environments. Finally, we observe catechol
+dehydroxylation in the gut microbiotas of diverse mammals, confirming the
+presence of this chemistry in habitats beyond the human gut. These results
+suggest that the chemical strategies that mediate metabolism and interactions in 
+the human gut are relevant to a broad range of species and habitats.
+
+plain-language-summary: Inside the human gut there are trillions of bacteria.
+These microbes are critical for breaking down and modifying molecules that the
+body consumes (such as nutrients and drugs) and produces (such as hormones).
+Although metabolizing these molecules is known to impact health and disease,
+little is known about the specific components, such as the genes and enzymes,
+involved in these reactions. A prominent microbial reaction in the gut
+metabolizes molecules by removing a hydroxyl group from an aromatic ring and
+replacing it with a hydrogen atom. This chemical reaction influences the fate of 
+dietary compounds, clinically used drugs and chemicals which transmit signals
+between nerves (neurotransmitters). But even though this reaction was discovered 
+over 50 years ago, it remained unknown which microbial enzymes are directly
+responsible for this metabolism. In 2019, researchers discovered the human gut
+bacteria Eggerthella lenta produces an enzyme named Dadh that can remove a
+hydroxyl group from the neurotransmitter dopamine. Now, Maini Rekdal et al. –
+including many of the researchers involved in the 2019 study – have used a range 
+of different experiments to further characterize this enzyme and see if it can
+break down molecules other than dopamine. This revealed that Dadh specifically
+degrades dopamine, and this process promotes E. lenta growth. Next, Maini Rekdal 
+et al. uncovered a group of enzymes that had similar characteristics to Dadh and 
+could metabolize molecules other than dopamine, including molecules derived from 
+plants and nutrients in food. These Dadh-like enzymes were found not only in the 
+guts of humans, but in other organisms and environments, including the soil,
+ocean and plants. Plant-derived molecules are associated with human health, and
+the discovery of the enzymes that break down these products could provide new
+insights into the health effects of plant-based foods. In addition, the finding
+that gut bacteria harbor a dopamine metabolizing enzyme has implications for the 
+interaction between the gut microbiome and the nervous system, which has been
+linked to human health and disease. These newly discovered enzymes are also
+involved in metabolic reactions outside the human body. Future work investigating
+the mechanisms and outputs of these reactions could improve current strategies
+for degrading pollutants and producing medically useful molecules.
+© 2020, Maini Rekdal et al.
+
+DOI: 10.7554/eLife.50845 
+PMCID: PMC7028382
+PMID: 32067637 
+
+Conflict of interest statement: VM, PN, ML, SK, CL, JB, EB No competing interests
+declared, PT Reviewing editor, eLife, EB has consulted for Merck, Novartis, and
+Kintai Therapeutics; is on the Scientific Advisory Boards of Kintai Therapeutics 
+and Caribou Biosciences.
+

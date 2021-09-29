@@ -1,0 +1,52 @@
+
+1. Exp Ther Med. 2020 Nov;20(5):10. doi: 10.3892/etm.2020.9138. Epub 2020 Aug 25.
+
+Clostridium butyricum protects intestinal barrier function via upregulation of
+tight junction proteins and activation of the Akt/mTOR signaling pathway in a
+mouse model of dextran sodium sulfate-induced colitis.
+
+Liu M(1)(2)(3), Xie W(3)(4), Wan X(1)(2)(3), Deng T(1)(2)(3).
+
+Author information: 
+(1)Department of Gastroenterology, Renmin Hospital of Wuhan University, Wuhan,
+Hubei 430060, P.R. China.
+(2)Key Laboratory of Hubei Province for Digestive System Disease, Wuhan, Hubei
+430060, P.R. China.
+(3)Central Laboratory of Renmin Hospital, Wuhan, Hubei 430060, P.R. China.
+(4)Department of Critical Care Medicine, Renmin Hospital of Wuhan University,
+Wuhan, Hubei 430060, P.R. China.
+
+Clostridium butyricum (CB), a probiotic, is a gram-positive obligate anaerobic
+bacillus with acid and heat resistant properties. Previous studies have reported 
+that CB has beneficial effects in intestinal diseases and regulates intestinal
+function. The aim of the present study was to investigate the protective effects 
+and mechanisms of CB on the intestinal barrier function. Mice were randomly
+divided into three experimental groups (n=15 mice/group), including control,
+dextran sodium sulfate (DSS) and DSS + CB. In the DSS and DSS + CB groups colitis
+was induced with 3% DSS dissolved in drinking water for 7 days. DSS + CB group
+mice were co-treated daily with 200 µl (2x108 CFU) CB solution via gavage. The
+intestinal mucosal barrier function in mice was assessed by measuring
+FITC-labeled 4-kDa dextran (molecular weight, 4,000 Da) flux and by analyzing the
+expression of tight junction (TJ)-related proteins using western blot analysis.
+In addition, the secretion levels of tumor necrosis factor-α (TNF-α), interleukin
+(IL)-1β, IL-6, IL-10 and IL-13, and the concentration of malondialdehyde,
+glutathione and superoxide dismutase were detected using ELISAs to determine
+inflammation and oxidative stress, respectively. The activation status of the
+Akt/mTOR signaling pathway was also investigated using western blot analysis. The
+results demonstrated that, in mice with DSS-induced colitis treatment,
+co-treatment with CB attenuated colitis symptoms and intestinal permeability,
+increased the expression levels of TJ-related proteins, decreased TNF-α, IL-1β
+and IL-13 secretion levels but increased those of IL-10, and reduced oxidative
+stress. Additionally, CB elevated the phosphorylation of Akt, mTOR and p70
+ribosomal protein S6 kinase. Collectively, the present results indicated that CB 
+protected intestinal barrier function and decreased intestinal mucosal
+permeability via upregulating the expression levels of TJ-related proteins in a
+mouse model of DSS-induced colitis. Moreover, the results suggested that the
+effects of CB could be mediated by the Akt/mTOR signaling pathway.
+
+Copyright: © Liu et al.
+
+DOI: 10.3892/etm.2020.9138 
+PMCID: PMC7471846
+PMID: 32934675 
+

@@ -1,0 +1,52 @@
+
+1. mBio. 2020 Aug 11;11(4). pii: e01668-20. doi: 10.1128/mBio.01668-20.
+
+A Novel High-Potency Tetanus Vaccine.
+
+Przedpelski A(1), Tepp WH(2), Pellett S(2), Johnson EA(2), Barbieri JT(3).
+
+Author information: 
+(1)Medical College of Wisconsin, Department of Microbiology and Immunology,
+Milwaukee, Wisconsin, USA.
+(2)University of Wisconsin-Madison, Department of Bacteriology, Madison,
+Wisconsin, USA.
+(3)Medical College of Wisconsin, Department of Microbiology and Immunology,
+Milwaukee, Wisconsin, USA jtb01@mcw.edu.
+
+Chemically inactivated tetanus toxoid (CITT) is clinically effective and widely
+used. However, CITT is a crude nonmalleable vaccine that contains hundreds of
+Clostridium tetani proteins, and the active component is present in variable and 
+sometimes minor percentages of vaccine mass. Recombinant production of a
+genetically inactivated tetanus vaccine offers an opportunity to replace and
+improve the current tetanus vaccine. Previous studies showed the feasibility of
+engineering full-length tetanus toxin (TT) in Escherichia coli In the present
+study, full-length TT was engineered with eight individual amino acid mutations
+(8MTT) to inactivate catalysis, translocation, and host receptor-binding
+functions, retaining 99.4% amino acid identity to native tetanus toxin. 8MTT
+purified as a 150-kDa single-chain protein, which trypsin nicked to a 100-kDa
+heavy chain and 50-kDa light chain. The 8MTT was not toxic for outbred mice and
+was >50 million-fold less toxic than native TT. Relative to CITT, 8MTT
+vaccination elicited a strong immune response and showed good vaccine potency
+against TT challenge. The strength of the immune response to both vaccines varied
+among individual outbred mice. These data support 8MTT as a candidate vaccine
+against tetanus and a malleable candidate conjugate vaccine platform to enhance
+the immune response to polysaccharides and other macromolecular molecules to
+facilitate a rapid response to emerging microbial pathogens.IMPORTANCE Chemical
+inactivation is a clinically effective mechanism to detoxify protein toxins to
+produce vaccines against microbial infections and to serve as a platform for
+production of conjugate polysaccharide vaccines. This method is widely used for
+the production of protein toxin vaccines, including tetanus toxoid. However,
+chemical modification alters the protein structure with unknown effects on
+antigenicity. Here, a recombinant full-length tetanus toxin (TT) is engineered
+with 8 mutations (8MTT) that inactivate three toxin functions: catalysis,
+translocation, and receptor binding. 8MTT is nontoxic and elicits a potent immune
+response in outbred mice. 8MTT also represents a malleable platform for the
+production of conjugate vaccines, which can facilitate a rapid vaccine response
+against emerging microbial pathogens.
+
+Copyright © 2020 Przedpelski et al.
+
+DOI: 10.1128/mBio.01668-20 
+PMCID: PMC7439469
+PMID: 32788381 
+

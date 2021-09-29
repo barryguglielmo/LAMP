@@ -1,0 +1,51 @@
+
+1. Nat Commun. 2020 Apr 24;11(1):1999. doi: 10.1038/s41467-020-15856-y.
+
+The vaginal microbiota associates with the regression of untreated cervical
+intraepithelial neoplasia 2 lesions.
+
+Mitra A(1)(2), MacIntyre DA(1)(3), Ntritsos G(4), Smith A(5), Tsilidis KK(4)(6), 
+Marchesi JR(3)(7)(8), Bennett PR(1)(2)(3), Moscicki AB(9), Kyrgiou M(10)(11).
+
+Author information: 
+(1)Institute for Reproductive and Developmental Biology, Imperial College,
+Hammersmith Hospital Campus, London, W12 0NN, UK.
+(2)Queen Charlotte's and Chelsea Hospital and Hammersmith Hospital, Imperial
+College Healthcare NHS Trust, London, W12 OHS, UK.
+(3)March of Dimes Prematurity Research Centre, Imperial College London, London,
+W12 0NN, UK.
+(4)Department of Hygiene and Epidemiology, University of Ioannina School of
+Medicine, Ioannina, Greece.
+(5)Division of Population Medicine, Cardiff University, Heath Park, Cardiff, CF14
+4YS, UK.
+(6)Department of Epidemiology and Biostatistics, School of Public Health,
+Imperial College London, London, UK.
+(7)School of Biosciences, Cardiff University, Cardiff, CF10 3AX, UK.
+(8)Division of Integrative Systems Medicine and Digestive Disease, St. Mary's
+Hospital, Imperial College London, London, W2 1NY, UK.
+(9)Ronald Reagan UCLA Medical Center, UCLA Mattel Children's Hospital, Santa
+Monica, CA, USA.
+(10)Institute for Reproductive and Developmental Biology, Imperial College,
+Hammersmith Hospital Campus, London, W12 0NN, UK. m.kyrgiou@imperial.ac.uk.
+(11)Queen Charlotte's and Chelsea Hospital and Hammersmith Hospital, Imperial
+College Healthcare NHS Trust, London, W12 OHS, UK. m.kyrgiou@imperial.ac.uk.
+
+Emerging evidence suggests associations between the vaginal microbiota (VMB)
+composition, human papillomavirus (HPV) infection, and cervical intraepithelial
+neoplasia (CIN); however, causal inference remains uncertain. Here, we use
+bacterial DNA sequencing from serially collected vaginal samples from a cohort of
+87 adolescent and young women aged 16-26 years with histologically confirmed,
+untreated CIN2 lesions to determine whether VMB composition affects rates of
+regression over 24 months. We show that women with a Lactobacillus-dominant
+microbiome at baseline are more likely to have regressive disease at 12 months.
+Lactobacillus spp. depletion and presence of specific anaerobic taxa including
+Megasphaera, Prevotella timonensis and Gardnerella vaginalis are associated with 
+CIN2 persistence and slower regression. These findings suggest that VMB
+composition may be a future useful biomarker in predicting disease outcome and
+tailoring surveillance, whilst it may offer rational targets for the development 
+of new prevention and treatment strategies.
+
+DOI: 10.1038/s41467-020-15856-y 
+PMCID: PMC7181700
+PMID: 32332850  [Indexed for MEDLINE]
+

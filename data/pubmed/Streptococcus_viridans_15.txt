@@ -1,0 +1,60 @@
+
+1. Int J Nanomedicine. 2020 Aug 6;15:5813-5824. doi: 10.2147/IJN.S254860.
+eCollection 2020.
+
+Synthesis of Graphene Oxide Using Atmospheric Plasma for Prospective Biological
+Applications.
+
+Alam K(#)(1), Jo YY(#)(2), Park CK(3), Cho H(1).
+
+Author information: 
+(1)School of Materials Science & Engineering, Chonnam National University,
+Gwangju 61186, Republic of Korea.
+(2)Department of Anesthesiology and Pain Medicine, Gachon University, Gil Medical
+Center, Incheon 21565, Republic of Korea.
+(3)Gachon Pain Center and Department of Physiology, College of Medicine, Gachon
+University, Incheon 21999, Republic of Korea.
+(#)Contributed equally
+
+Introduction: This paper presents a novel technique for the synthesis of graphene
+oxide (GO) with various surface features using high-density atmospheric plasma
+deposition. Furthermore, to investigate the use of hydrophobic,
+super-hydrophobic, and hydrophilic graphene in biological applications, we
+synthesized hydrophobic, super-hydrophobic, and hydrophilic graphene oxides by
+additional heat treatment and argon plasma treatment, respectively. In contrast
+to conventional fabrication procedures, reduced graphene oxide (rGO) formed under
+low pressure and high-temperature environment using a new synthesis
+method-developed and described in this study-offers a convenient deposition
+method on any kind surface with controlled wettability.
+Methods: High density at atmospheric plasma is used for the synthesis of rGO and 
+GO and its biocompatibility based on various wetting properties was evaluated
+using MTT (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide) assay,
+and the viability of cells in response to rGO and GO with various surface
+features was investigated. Structural integrity was characterized by Raman
+spectroscopy, FESEM and FE-TEM. Wettability was measured via contact angle method
+and confirmed with XPS analysis.
+Results: We found that GO coating with a hydrophilic feature is more
+biocompatible than other surfaces as observed in case of fibroblast cells. We
+have shown that wettability-controlled by GO deposition-influences
+biocompatibilities and antibacterial effect of biomaterial surfaces.
+Discussion: Measuring the contact angle, it is found that contact angle for
+hydrophobic is increased to 150.590 and reduced to 11.580 by heat and argon
+plasma treatment, respectively, from 75.880 that was initially in the case of
+hydrophobic surface. XPS analysis confirmed various oxygen-containing functional 
+groups transforming as deposited hydrophobic surface into superhydrophobic and
+hydrophilic surface. Thus, we have proposed a new, direct, cost-effective, and
+highly productive method for the synthesis of rGO and GO-with various surface
+properties-for biological applications. Similarly, for the dental implant
+application, the Streptococcus mutans was used as an antibacterial effect and
+found that S. mutans grows slowly on hydrophilic surface. Thus, antibacterial
+effect was prominent on GO with hydrophilic surface.
+
+© 2020 Alam et al.
+
+DOI: 10.2147/IJN.S254860 
+PMCID: PMC7418166
+PMID: 32821103  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest in
+this work.
+

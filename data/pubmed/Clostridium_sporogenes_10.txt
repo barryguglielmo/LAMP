@@ -1,0 +1,59 @@
+
+1. mSphere. 2020 Jul 1;5(4). pii: e00424-20. doi: 10.1128/mSphere.00424-20.
+
+Architecture and Self-Assembly of Clostridium sporogenes and Clostridium
+botulinum Spore Surfaces Illustrate a General Protective Strategy across Spore
+Formers.
+
+Janganan TK(1)(2), Mullin N(1)(3), Dafis-Sagarmendi A(1)(2), Brunt J(4), Tzokov
+SB(1)(2), Stringer S(4), Moir A(1)(2), Chaudhuri RR(1)(2), Fagan RP(1)(2), Hobbs 
+JK(1)(3), Bullough PA(5)(2).
+
+Author information: 
+(1)Krebs Institute, University of Sheffield, Sheffield, United Kingdom.
+(2)Department of Molecular Biology and Biotechnology, University of Sheffield,
+Sheffield, United Kingdom.
+(3)Department of Physics and Astronomy, University of Sheffield, Sheffield,
+United Kingdom.
+(4)Quadram Institute, Norwich, United Kingdom.
+(5)Krebs Institute, University of Sheffield, Sheffield, United Kingdom
+p.bullough@sheffield.ac.uk.
+
+Spores, the infectious agents of many Firmicutes, are remarkably resilient cell
+forms. Even distant relatives can have similar spore architectures although some 
+display unique features; they all incorporate protective proteinaceous envelopes.
+We previously found that Bacillus spores can achieve these protective properties 
+through extensive disulfide cross-linking of self-assembled arrays of
+cysteine-rich proteins. We predicted that this could be a mechanism employed by
+spore formers in general, even those from other genera. Here, we tested this by
+revealing in nanometer detail how the outer envelope (exosporium) in Clostridium 
+sporogenes (surrogate for C. botulinum group I), and in other clostridial
+relatives, forms a hexagonally symmetric semipermeable array. A cysteine-rich
+protein, CsxA, when expressed in Escherichia coli, self-assembles into a highly
+thermally stable structure identical to that of the native exosporium. Like the
+exosporium, CsxA arrays require harsh "reducing" conditions for disassembly. We
+conclude that in vivo, CsxA self-organizes into a highly resilient, disulfide
+cross-linked array decorated with additional protein appendages enveloping the
+forespore. This pattern is remarkably similar to that in Bacillus spores, despite
+a lack of protein homology. In both cases, intracellular disulfide formation is
+favored by the high lattice symmetry. We have identified cysteine-rich proteins
+in many distantly related spore formers and propose that they may adopt a similar
+strategy for intracellular assembly of robust protective structures.IMPORTANCE
+Bacteria such as those causing botulism and anthrax survive harsh conditions and 
+spread disease as spores. Distantly related species have similar spore
+architectures with protective proteinaceous layers aiding adhesion and targeting.
+The structures that confer these common properties are largely unstudied, and the
+proteins involved can be very dissimilar in sequence. We identify CsxA as a
+cysteine-rich protein that self-assembles in a two-dimensional lattice enveloping
+the spores of several Clostridium species. We show that apparently unrelated
+cysteine-rich proteins from very different species can self-assemble to form
+remarkably similar and robust structures. We propose that diverse cysteine-rich
+proteins identified in the genomes of a broad range of spore formers may adopt a 
+similar strategy for assembly.
+
+Copyright © 2020 Janganan et al.
+
+DOI: 10.1128/mSphere.00424-20 
+PMCID: PMC7333573
+PMID: 32611700 
+

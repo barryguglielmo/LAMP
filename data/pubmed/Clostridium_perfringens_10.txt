@@ -1,0 +1,47 @@
+
+1. J Biol Chem. 2020 Sep 24. pii: jbc.RA120.015371. doi: 10.1074/jbc.RA120.015371.
+[Epub ahead of print]
+
+Biosynthesis of the sactipeptide Ruminococcin C by the human microbiome:
+Mechanistic insights into thioether bond formation by radical SAM enzymes.
+
+Balty C(1), Guillot A(1), Fradale L(1), Brewee C(1), Lefranc B(2), Herrero C(3), 
+Sandström C Jr(4), Leprince J(2), Berteau O(5), Benjdia A(1).
+
+Author information: 
+(1)INRAE, France.
+(2)Université de Normandie-Rouen, France.
+(3)ICMMO, France.
+(4)Swedish University of Agricultural Sciences, Sweden.
+(5)MICALIS, ChemSyBio, INRAE, France.
+
+Despite its major importance in human health, the metabolic potential of the
+human gut microbiota is still poorly understood. We have recently shown that
+biosynthesis of Ruminococcin C (RumC), a novel ribosomally synthesized and
+post-translationally modified peptide (RiPP) produced by the commensal bacterium 
+Ruminococcus gnavus, requires two radical SAM enzymes (RumMC1 and RumMC2)
+catalyzing the formation of four Cα-thioether bridges. These bridges, which are
+essential for RumC's antibiotic properties against human pathogens such as
+Clostridium perfringens, define two hairpin domains giving this sactipeptide
+(sulfur-to-α-carbon thioether-containing peptide) an unusual architecture among
+natural products. We report here the biochemical and spectroscopic
+characterizations of RumMC2. EPR spectroscopy and mutagenesis data support that
+RumMC2 is a member of the large family of SPASM-domain radical SAM enzymes
+characterized by the presence of three [4Fe-4S] clusters. We also demonstrate
+that this enzyme initiates its reaction by Cα H-atom abstraction and is able to
+catalyze the formation of non-natural thioether bonds in engineered peptide
+substrates. Unexpectedly, our data support the formation of a ketoimine rather
+than an α,β-dehydro-amino acid intermediate during Cα-thioether bridge LC-MS/MS
+fragmentation. Finally, we explored the roles of the leader peptide and of the
+RiPP precursor peptide recognition element (RRE), present in myriad
+RiPP-modifying enzymes. Collectively, our data support a more complex role for
+the RRE and the core peptide for the installation of post-translational
+modifications in RiPPs than previously anticipated and suggest a possible
+reaction intermediate for thioether bond formation.
+
+Published under license by The American Society for Biochemistry and Molecular
+Biology, Inc.
+
+DOI: 10.1074/jbc.RA120.015371 
+PMID: 32972973 
+

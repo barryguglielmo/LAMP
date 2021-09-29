@@ -1,0 +1,57 @@
+
+1. Cell Host Microbe. 2020 Jun 10;27(6):1001-1013.e9. doi:
+10.1016/j.chom.2020.04.006. Epub 2020 Apr 28.
+
+A Genomic Toolkit for the Mechanistic Dissection of Intractable Human Gut
+Bacteria.
+
+Bisanz JE(1), Soto-Perez P(1), Noecker C(1), Aksenov AA(2), Lam KN(1), Kenney
+GE(3), Bess EN(1), Haiser HJ(4), Kyaw TS(1), Yu FB(5), Rekdal VM(3), Ha CWY(6),
+Devkota S(6), Balskus EP(3), Dorrestein PC(2), Allen-Vercoe E(7), Turnbaugh
+PJ(8).
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of California San
+Francisco, San Francisco, CA 94143, USA.
+(2)Collaborative Mass Spectrometry Innovation Center, Department of Pediatrics,
+Center for Microbiome Innovation, Department of Pharmacology, Skaggs School of
+Pharmacy and Pharmaceutical Sciences, San Diego, CA 92093, USA.
+(3)Department of Chemistry and Chemical Biology, Harvard University, Cambridge,
+MA 02138, USA.
+(4)Faculty of Arts and Sciences Center for Systems Biology, Harvard University,
+Cambridge, MA 02138, USA.
+(5)Chan Zuckerberg Biohub, San Francisco, CA 94158, USA.
+(6)Department of Medicine, Division of Gastroenterology, Cedars-Sinai Medical
+Center, Los Angeles, CA 90048, USA.
+(7)Molecular and Cellular Biology, University of Guelph, Guelph, ON N1G 2W1,
+Canada.
+(8)Department of Microbiology and Immunology, University of California San
+Francisco, San Francisco, CA 94143, USA; Chan Zuckerberg Biohub, San Francisco,
+CA 94158, USA. Electronic address: peter.turnbaugh@ucsf.edu.
+
+Despite the remarkable microbial diversity found within humans, our ability to
+link genes to phenotypes is based upon a handful of model microorganisms. We
+report a comparative genomics platform for Eggerthella lenta and other
+Coriobacteriia, a neglected taxon broadly relevant to human health and disease.
+We uncover extensive genetic and metabolic diversity and validate a tool for
+mapping phenotypes to genes and sequence variants. We also present a tool for the
+quantification of strains from metagenomic sequencing data, enabling the
+identification of genes that predict bacterial fitness. Competitive growth is
+reproducible under laboratory conditions and attributable to intrinsic growth
+rates and resource utilization. Unique signatures of in vivo competition
+in gnotobiotic mice include an adhesin enriched in poor colonizers. Together,
+these computational and experimental resources represent a strong foundation for 
+the continued mechanistic dissection of the Coriobacteriia and a template that
+can be applied to study other genetically intractable taxa.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.chom.2020.04.006 
+PMCID: PMC7292766 [Available on 2021-06-10]
+PMID: 32348781 
+
+Conflict of interest statement: Declaration of Interests P.J.T. is on the
+scientific advisory boards for Kaleido, Pendulum, Seres, and SNIPRbiome. E.A.V.
+is co-founder and CSO of NuBiyota. All other authors declare no competing
+interests.
+

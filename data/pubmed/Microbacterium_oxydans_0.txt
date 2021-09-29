@@ -1,0 +1,50 @@
+
+1. Ecotoxicol Environ Saf. 2020 Oct 1;202:110953. doi: 10.1016/j.ecoenv.2020.110953.
+Epub 2020 Jul 13.
+
+Discrimination of heavy metal acclimated environmental strains by chemometric
+analysis of FTIR spectra.
+
+Kepenek ES(1), Severcan M(2), Gozen AG(1), Severcan F(3).
+
+Author information: 
+(1)Department of Biological Sciences, Middle East Technical University, 06800,
+Ankara, Turkey.
+(2)Department of Electrical and Electronics Engineering, School of Engineering
+and Natural Sciences, Altinbas University, Istanbul, Turkey. Electronic address: 
+mete.severcan@altinbas.edu.tr.
+(3)Department of Biological Sciences, Middle East Technical University, 06800,
+Ankara, Turkey; Department of Biophysics, Faculty of Medicine, Altinbas
+University, Istanbul, Turkey.
+
+Heavy metal acclimated bacteria are profoundly the preferred choice for
+bioremediation studies. Bacteria get acclimated to toxic concentrations of heavy 
+metals by induction of specific enzymes and genetic selection favoring new
+metabolic abilities leading to activation of one or several of resistance
+mechanisms creating bacterial populations with differences in resistance profile 
+and/or level. Therefore, to use in bioremediation processes, it is important to
+discriminate acclimated bacterial populations and choose a more resistant strain.
+In this study, we discriminated heavy metal acclimated bacteria by using
+Attenuated Total Reflectance Fourier Transform Infrared (ATR-FTIR) spectroscopy
+and multivariate analysis methods namely Hierarchical Cluster Analysis (HCA),
+Principal Component Analysis (PCA) and Soft Independent Modeling of Class Analogy
+(SIMCA). Two acclimation methods, acute and gradual, were used which cause
+differences in molecular changes resulting in bacterial populations with
+different molecular and resistance profiles. Brevundimonas sp., Gordonia sp., and
+Microbacterium oxydans were exposed to the toxic concentrations of Cd (30 μg/ml) 
+or Pb (90 μg/ml) by using broth medium as a growth media. Our results revealed
+that PCA and HCA clearly discriminated the acute-acclimated, gradual-acclimated, 
+and control bacteria from each other in protein, carbohydrate, and whole spectral
+regions. Furthermore, we classified acclimated (acute and gradual) and control
+bacteria more accurately by using SIMCA with 99.9% confidence. This study
+demonstrated that heavy metal acclimated and control group bacteria can be
+discriminated by using chemometric analysis of FTIR spectra in a powerful,
+cost-effective, and handy way. In addition to the determination of the most
+appropriate acclimation procedure, this approach can be used in the detection of 
+the most resistant bacterial strains to be used in bioremediation studies.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ecoenv.2020.110953 
+PMID: 32800227  [Indexed for MEDLINE]
+

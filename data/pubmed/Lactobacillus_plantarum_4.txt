@@ -1,0 +1,34 @@
+
+1. Sci Rep. 2020 Oct 1;10(1):16340. doi: 10.1038/s41598-020-73201-1.
+
+Food-borne Lactiplantibacillus plantarum protect normal intestinal cells against 
+inflammation by modulating reactive oxygen species and IL-23/IL-17 axis.
+
+Prete R(1), Garcia-Gonzalez N(1), Di Mattia CD(1), Corsetti A(2), Battista N(1).
+
+Author information: 
+(1)Faculty of Bioscience and Technology for Food, Agriculture and Environment,
+University of Teramo, Teramo, Italy.
+(2)Faculty of Bioscience and Technology for Food, Agriculture and Environment,
+University of Teramo, Teramo, Italy. acorsetti@unite.it.
+
+Food-associated Lactiplantibacillus plantarum (Lpb. plantarum) strains,
+previously classified as Lactobacillus plantarum, are a promising strategy to
+face intestinal inflammatory diseases. Our study was aimed at clarifying the
+protective role of food-borne Lpb. plantarum against inflammatory damage by
+testing the scavenging microbial ability both in selected strains and in
+co-incubation with normal mucosa intestinal cells (NCM460). Here, we show that
+Lpb. plantarum endure high levels of induced oxidative stress through partially
+neutralizing reactive oxygen species (ROS), whereas they elicit their production 
+when co-cultured with NCM460. Moreover, pre-treatment with food-borne Lpb.
+plantarum significantly reduce pro-inflammatory cytokines IL-17F and IL-23 levels
+in inflamed NCM460 cells. Our results suggest that food-vehicled Lpb. plantarum
+strains might reduce inflammatory response in intestinal cells by directly
+modulating local ROS production and by triggering the IL-23/IL-17 axis with
+future perspectives on health benefits in the gut derived by the consumption of
+functional foods enriched with selected strains.
+
+DOI: 10.1038/s41598-020-73201-1 
+PMCID: PMC7529774
+PMID: 33004903 
+

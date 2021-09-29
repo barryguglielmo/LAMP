@@ -1,0 +1,40 @@
+
+1. J Agric Food Chem. 2020 Sep 9;68(36):9804-9815. doi: 10.1021/acs.jafc.0c03587.
+Epub 2020 Aug 26.
+
+Reciprocal Interactions between Epigallocatechin-3-gallate (EGCG) and Human Gut
+Microbiota In Vitro.
+
+Liu Z(1)(2), de Bruijn WJC(1), Bruins ME(3), Vincken JP(1).
+
+Author information: 
+(1)Laboratory of Food Chemistry, Wageningen University, P.O. Box 17, 6700 AA
+Wageningen, The Netherlands.
+(2)Institute of Food Science & Technology, Fuzhou University, Fuzhou 350108, P.
+R. China.
+(3)Food & Biobased Research, Wageningen University & Research, P.O. Box 17, 6700 
+AA Wageningen, The Netherlands.
+
+Interaction of tea phenolics with gut microbiota may play an integral role in the
+health benefits of these bioactive compounds, yet this interaction is not fully
+understood. Here, the metabolic fate of epigallocatechin-3-gallate (EGCG) and its
+impact on gut microbiota were integrally investigated via in vitro fermentation. 
+As revealed by ultrahigh performance liquid chromatography hybrid quadrupole
+Orbitrap mass spectrometry (UHPLC-Q-Orbitrap-MS), EGCG was promptly degraded into
+a series of metabolites, including 4-phenylbutyric acid,
+3-(3',4'-dihydroxyphenyl)propionic acid, and 3-(4'-hydroxyphenyl)propionic acid, 
+through consecutive ester hydrolysis, C-ring opening, A-ring fission,
+dehydroxylation, and aliphatic chain shortening. Microbiome profiling indicated
+that, compared to the blank, EGCG treatment resulted in stimulation of the
+beneficial bacteria Bacteroides, Christensenellaceae, and Bifidobacterium.
+Additionally, the pathogenic bacteria Fusobacterium varium, Bilophila, and
+Enterobacteriaceae were inhibited. Furthermore, changes in concentrations of
+metabolites, including 4-phenylbutyric acid and phenylacetic acid, were strongly 
+correlated with changes in the abundance of specific gut microbiota. These
+reciprocal interactions between EGCG and gut microbiota may collectively
+contribute to the health benefits of EGCG.
+
+DOI: 10.1021/acs.jafc.0c03587 
+PMCID: PMC7496747
+PMID: 32808768 
+

@@ -1,0 +1,42 @@
+
+1. Microbiology (Reading). 2020 Sep 4. doi: 10.1099/mic.0.000955. [Epub ahead of
+print]
+
+nosX is essential for whole-cell N2O reduction in Paracoccus denitrificans but
+not for assembly of copper centres of nitrous oxide reductase.
+
+Bennett SP(1), Torres MJ(2), Soriano-Laguna MJ(2), Richardson DJ(2), Gates AJ(2),
+Le Brun NE(1).
+
+Author information: 
+(1)Centre for Molecular and Structural Biochemistry, School of Chemistry,
+University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK.
+(2)Centre for Molecular and Structural Biochemistry, School of Biological
+Sciences, University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK.
+
+Nitrous oxide (N2O) is a potent greenhouse gas that is produced naturally as an
+intermediate during the process of denitrification carried out by some soil
+bacteria. It is consumed by nitrous oxide reductase (N2OR), the terminal enzyme
+of the denitrification pathway, which catalyses a reduction reaction to generate 
+dinitrogen. N2OR contains two important copper cofactors (CuA and CuZ centres)
+that are essential for activity, and in copper-limited environments, N2OR fails
+to function, contributing to rising levels of atmospheric N2O and a major
+environmental challenge. Here we report studies of nosX, one of eight genes in
+the nos cluster of the soil dwelling α-proteobaterium Paraccocus denitrificans. A
+P. denitrificans ΔnosX deletion mutant failed to reduce N2O under both
+copper-sufficient and copper-limited conditions, demonstrating that NosX plays an
+essential role in N2OR activity. N2OR isolated from nosX-deficient cells was
+found to be unaffected in terms of the assembly of its copper cofactors, and to
+be active in in vitro assays, indicating that NosX is not required for the
+maturation of the enzyme; in particular, it plays no part in the assembly of
+either of the CuA and CuZ centres. Furthermore, quantitative Reverse
+Transcription PCR (qRT-PCR) studies showed that NosX does not significantly
+affect the expression of the N2OR-encoding nosZ gene. NosX is a homologue of the 
+FAD-binding protein ApbE from Pseudomonas stutzeri, which functions in the
+flavinylation of another N2OR accessory protein, NosR. Thus, it is likely that
+NosX is a system-specific maturation factor of NosR, and so is indirectly
+involved in maintaining the reaction cycle of N2OR and cellular N2O reduction.
+
+DOI: 10.1099/mic.0.000955 
+PMID: 32886603 
+

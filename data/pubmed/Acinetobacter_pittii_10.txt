@@ -1,0 +1,54 @@
+
+1. J Glob Antimicrob Resist. 2020 Jun;21:353-356. doi: 10.1016/j.jgar.2019.11.013.
+Epub 2019 Nov 27.
+
+Detection of Acinetobacter pittii ST220 co-producing NDM-1 and OXA-820
+carbapenemases from a hospital sink in a non-endemic country of NDM.
+
+Iimura M(1), Hayashi W(2), Arai E(3), Natori T(3), Horiuchi K(3), Matsumoto G(3),
+Tanaka H(1), Soga E(1), Nagano Y(4), Nagano N(5).
+
+Author information: 
+(1)Department of Health and Medical Sciences, Shinshu University Graduate School 
+of Medicine, 3-1-1 Asahi, Matsumoto, Nagano 390-8621, Japan.
+(2)Department of Medical Sciences, Shinshu University Graduate School of
+Medicine, Science and Technology, 3-1-1 Asahi, Matsumoto, Nagano 390-8621, Japan.
+(3)Department of Laboratory Medicine, Shinshu University Hospital, 3-1-1 Asahi,
+Matsumoto, Nagano 390-8621, Japan.
+(4)Department of Bacteriology, Nagoya University Graduate School of Medicine, 65 
+Tsurumai-cho, Showa-ku, Nagoya, Aichi 466-8550, Japan.
+(5)Department of Health and Medical Sciences, Shinshu University Graduate School 
+of Medicine, 3-1-1 Asahi, Matsumoto, Nagano 390-8621, Japan; Department of
+Medical Sciences, Shinshu University Graduate School of Medicine, Science and
+Technology, 3-1-1 Asahi, Matsumoto, Nagano 390-8621, Japan. Electronic address:
+naganon@shinshu-u.ac.jp.
+
+OBJECTIVES: NDM-1 is by far one of the most commonly prevalent carbapenemases in 
+Enterobacteriaceae and Acinetobacter baumannii. This study presented an
+Acinetobacter pittii (A. pittii) isolate co-harboring blaNDM-1 and blaOXA-820
+from a university hospital sink, where New Delhi metallo-β-lactamase (NDM)
+producers have not been found in either patients or their environments.
+METHODS: Whole-genome sequencing was performed on the HiSeq 4000 platform, and
+the reads were de novo assembled using the A5-miSeq Assembly pipeline. Annotation
+of the resulting scaffolds were performed by using the DDBJ Fast Annotation and
+Submission Tool (DFAST). The blaNDM-1-carrying plasmid was determined.
+RESULTS: The A. pittii ST220 strain SU1805 detected from a sink strainer in the
+treatment room was resistant to imipenem and meropenem. Antimicrobial resistance 
+genes blaNDM-1, blaOXA-820, blaADC-43, and aphA6 were found in this strain. The
+blaNDM-1 was found to be located downstream of an ISAba125 element on a plasmid
+pSU1805NDM with a size of 41,022 bp, and GC content of 38.3% harbouring 48
+protein-coding genes. The aphA6 gene was also located upstream of the ISAba125 on
+the same plasmid. The A. pittii intrinsic blaOXA-213-like gene blaOXA-820 was
+located between fxsA and yncA genes in the chromosome. The strain also harboured 
+biofilm-associated genes such as ompA, the csu operon and their regulating genes 
+bfmRS.
+CONCLUSION: This study described the first isolation of NDM-1-producing A. pittii
+in Japan, and highlighted the importance of proper implementation of measures
+against AMR for sink drainage systems, since NDM producers may have already been 
+hidden in such environments in a non-endemic country of NDM.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jgar.2019.11.013 
+PMID: 31783194 
+

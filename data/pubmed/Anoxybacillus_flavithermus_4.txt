@@ -1,0 +1,50 @@
+
+1. Spectrochim Acta A Mol Biomol Spectrosc. 2020 Apr 5;230:118055. doi:
+10.1016/j.saa.2020.118055. Epub 2020 Jan 10.
+
+An evolution-based designing and characterization of mutants of
+cyclomaltodextrinase: Molecular modeling and spectroscopic studies.
+
+Mehrvand J(1), Hayati Roodbari N(1), Hassani L(2), Jafarian V(3), Khalifeh K(4).
+
+Author information: 
+(1)Department of Biology, Science and Research Branch, Islamic Azad University,
+Tehran, Iran.
+(2)Department of Biological Sciences, Institute for Advanced Studies in Basic
+Sciences (IASBS), Zanjan, Iran.
+(3)Department of Biology, Faculty of Sciences, University of Zanjan, Zanjan,
+Iran. Electronic address: V.Jafarian@znu.ac.ir.
+(4)Department of Biology, Faculty of Sciences, University of Zanjan, Zanjan,
+Iran. Electronic address: khalifeh@znu.ac.ir.
+
+Cyclomaltodextrinase (CDase) is a member of the alpha-amylase family GH13, the
+subfamily GH13_20. In addition to CDase and neopullulanase, this subfamily also
+contains maltogenic amylase. They have common structural features, but different 
+substrate specificity. In current work, a combination of bioinformatics and
+experimental tools were used for designing and constructions of single and double
+mutants of a new variant of CDase from Anoxybacillus flavithermus. Considering
+the evolutionary variable positions 123 and 127 at the dimer interface of
+subunits in the alpha-amylase family, these positions in CDase were modified and 
+three mutants, including A123V, C127Q and A123V/C127Q were constructed. The
+tertiary structure of WT and mutants were made with the MODELLER program, and the
+phylogenetic tree of homologous protein sequences was built with selected
+programs in Phylip package. Enzyme kinetic studies revealed that the catalytic
+efficiency of mutants, especially double one, is lower than the WT enzyme.
+Heat-induced denaturation experiments were monitored by measuring the UV/Vis
+signal at 280 nm, and it was found that WT protein is structurally more stable at
+25 °C. However, it is more susceptible to changes in temperature compared to the 
+double mutant. It was concluded that the positions 123 and 127 at the dimeric
+interface of CDase, not only could affect the conformational stability; but also;
+the catalytic properties of the enzyme by setting up the active site
+configuration in the dimeric state.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.saa.2020.118055 
+PMID: 31955121 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

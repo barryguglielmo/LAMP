@@ -1,0 +1,54 @@
+
+1. Front Microbiol. 2019 Nov 29;10:2779. doi: 10.3389/fmicb.2019.02779. eCollection 
+2019.
+
+Multidrug-Resistant and Clinically Relevant Gram-Negative Bacteria Are Present in
+German Surface Waters.
+
+Falgenhauer L(1)(2), Schwengers O(1)(2)(3), Schmiedel J(1)(2), Baars C(4),
+Lambrecht O(4), Heß S(5)(6), Berendonk TU(5), Falgenhauer J(1)(2), Chakraborty
+T(1)(2), Imirzalioglu C(1)(2).
+
+Author information: 
+(1)Institute of Medical Microbiology, Justus Liebig University Giessen, Giessen, 
+Germany.
+(2)German Center for Infection Research (DZIF), Partner Site
+Giessen-Marburg-Langen, Justus Liebig University Giessen, Giessen, Germany.
+(3)Bioinformatics & Systems Biology, Justus Liebig University Giessen, Giessen,
+Germany.
+(4)Norddeutscher Rundfunk, Hamburg, Germany.
+(5)Institute of Hydrobiology, Technical University of Dresden, Dresden, Germany.
+(6)Department of Microbiology, University of Helsinki, Helsinki, Finland.
+
+Water is considered to play a role in the dissemination of antibiotic-resistant
+Gram-negative bacteria including those encoding Extended-spectrum beta-lactamases
+(ESBL) and carbapenemases. To investigate the role of water for their spread in
+more detail, we characterized ESBL/Carbapenemase-producing bacteria from surface 
+water and sediment samples using phenotypic and genotypic approaches.
+ESBL/Carbapenemase-producing isolates were obtained from water/sediment samples. 
+Species and antibiotic resistance were determined. A subset of these isolates (n 
+= 33) was whole-genome-sequenced and analyzed for the presence of antibiotic
+resistance genes and virulence determinants. Their relatedness to isolates
+associated with human infections was investigated using multilocus sequence type 
+and cgMLST-based analysis. Eighty-nine percent of the isolates comprised of
+clinically relevant species. Fifty-eight percent exhibited a multidrug-resistance
+phenotype. Two isolates harbored the mobile colistin resistance gene mcr-1. One
+carbapenemase-producing isolate identified as Enterobacter kobei harbored bla
+VIM- 1. Two Escherichia coli isolates had sequence types (ST) associated with
+human infections (ST131 and ST1485) and a Klebsiella pneumoniae isolate was
+classified as hypervirulent. A multidrug-resistant (MDR) Pseudomonas aeruginosa
+isolate encoding known virulence genes associated with severe lung infections in 
+cystic fibrosis patients was also detected. The presence of MDR and clinically
+relevant isolates in recreational and surface water underlines the role of
+aquatic environments as both reservoirs and hot spots for MDR bacteria. Future
+assessment of water quality should include the examination of the multidrug
+resistance of clinically relevant bacterial species and thus provide an important
+link regarding the spread of MDR bacteria in a One Health context.
+
+Copyright © 2019 Falgenhauer, Schwengers, Schmiedel, Baars, Lambrecht, Heβ,
+Berendonk, Falgenhauer, Chakraborty and Imirzalioglu.
+
+DOI: 10.3389/fmicb.2019.02779 
+PMCID: PMC6896662
+PMID: 31849911 
+

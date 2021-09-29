@@ -1,0 +1,45 @@
+
+1. Nat Commun. 2020 Oct 2;11(1):4963. doi: 10.1038/s41467-020-18800-2.
+
+Bacterial nanotubes as a manifestation of cell death.
+
+Pospíšil J(1), Vítovská D(1), Kofroňová O(2), Muchová K(3), Šanderová H(1),
+Hubálek M(4), Šiková M(1), Modrák M(5), Benada O(6), Barák I(7), Krásný L(8).
+
+Author information: 
+(1)Laboratory of Microbial Genetics and Gene Expression, Institute of
+Microbiology of the Czech Academy of Sciences, 142 20, Prague 4, Czech Republic.
+(2)Laboratory of Molecular Structure Characterization, Institute of Microbiology 
+of the Czech Academy of Sciences, 142 20, Prague 4, Czech Republic.
+(3)Department of Microbial Genetics, Institute of Molecular Biology, Slovak
+Academy of Sciences, 845 51, Bratislava, Slovakia.
+(4)Institute of Organic Chemistry and Biochemistry of the Czech Academy of
+Sciences, 160 00, Prague 6, Czech Republic.
+(5)Laboratory of Bioinformatics/Core Facility, Institute of Microbiology of the
+Czech Academy of Sciences, 142 20, Prague 4, Czech Republic.
+(6)Laboratory of Molecular Structure Characterization, Institute of Microbiology 
+of the Czech Academy of Sciences, 142 20, Prague 4, Czech Republic.
+benada@biomed.cas.cz.
+(7)Department of Microbial Genetics, Institute of Molecular Biology, Slovak
+Academy of Sciences, 845 51, Bratislava, Slovakia. imrich.barak@savba.sk.
+(8)Laboratory of Microbial Genetics and Gene Expression, Institute of
+Microbiology of the Czech Academy of Sciences, 142 20, Prague 4, Czech Republic. 
+krasny@biomed.cas.cz.
+
+Bacterial nanotubes are membranous structures that have been reported to function
+as conduits between cells to exchange DNA, proteins, and nutrients. Here, we
+investigate the morphology and formation of bacterial nanotubes using Bacillus
+subtilis. We show that nanotube formation is associated with stress conditions,
+and is highly sensitive to the cells' genetic background, growth phase, and
+sample preparation methods. Remarkably, nanotubes appear to be extruded
+exclusively from dying cells, likely as a result of biophysical forces. Their
+emergence is extremely fast, occurring within seconds by cannibalizing the cell
+membrane. Subsequent experiments reveal that cell-to-cell transfer of
+non-conjugative plasmids depends strictly on the competence system of the cell,
+and not on nanotube formation. Our study thus supports the notion that bacterial 
+nanotubes are a post mortem phenomenon involved in cell disintegration, and are
+unlikely to be involved in cytoplasmic content exchange between live cells.
+
+DOI: 10.1038/s41467-020-18800-2 
+PMID: 33009406 
+

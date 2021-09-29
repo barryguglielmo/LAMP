@@ -1,0 +1,31 @@
+
+1. Microbiol Resour Announc. 2020 Jul 16;9(29). pii: e00336-20. doi:
+10.1128/MRA.00336-20.
+
+Draft Genome Sequences of Plant-Pathogenic Klebsiella variicola Strains Isolated 
+from Plantain in Haiti.
+
+Fulton JC(#)(1), Klein JM(#)(1), Bec S(1), Fayette J(1)(2), Garrett KA(1)(2),
+Jones JB(1), Timilsina S(3), Harmon CL(3).
+
+Author information: 
+(1)Department of Plant Pathology, University of Florida, Gainesville, Florida,
+USA.
+(2)Institute for Sustainable Food Systems, University of Florida, Gainesville,
+Florida, USA.
+(3)Department of Plant Pathology, University of Florida, Gainesville, Florida,
+USA sujan.timilsina@ufl.edu clharmon@ufl.edu.
+(#)Contributed equally
+
+The genus Klebsiella includes pathogenic and nonpathogenic species. We report the
+5.57-Mb genome sequences of two Klebsiella variicola strains, G18-1365 and
+G18-1376, isolated from symptomatic plantain plants in Haiti. These strains are
+genetically closely related (average nucleotide identity [ANI] > 99%) to the
+previously described type strain of K. variicola, DSM 15968.
+
+Copyright © 2020 Fulton et al.
+
+DOI: 10.1128/MRA.00336-20 
+PMCID: PMC7365790
+PMID: 32675179 
+

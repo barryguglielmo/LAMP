@@ -1,0 +1,57 @@
+
+1. Biochem Biophys Res Commun. 2019 Nov 5;519(2):274-279. doi:
+10.1016/j.bbrc.2019.08.166. Epub 2019 Sep 5.
+
+Structural and functional analyses of the lipase CinB from Enterobacter asburiae.
+
+Shang F(1), Lan J(1), Liu W(1), Chen Y(1), Wang L(2), Zhao J(1), Chen J(1), Gao
+P(3), Ha NC(4), Quan C(5), Nam KH(6), Xu Y(7).
+
+Author information: 
+(1)Department of Bioengineering, College of Life Science, Dalian Minzu
+University, Dalian, 116600, Liaoning, China; Key Laboratory of Biotechnology and 
+Bioresources Utilization (Dalian Minzu University), Ministry of Education, China.
+(2)Department of Bioengineering, College of Life Science, Dalian Minzu
+University, Dalian, 116600, Liaoning, China; Key Laboratory of Biotechnology and 
+Bioresources Utilization (Dalian Minzu University), Ministry of Education, China;
+School of Life Science and Biotechnology, Dalian University of Technology, No 2
+Linggong Road, Dalian, 116024, Liaoning, China.
+(3)Clinical Laboratory, Dalian Sixth People's Hospital, Dalian, 116024, Liaoning,
+China.
+(4)Department of Agricultural Biotechnology, College of Agriculture and Life
+Sciences, Seoul National University, Gwanak-gu, Seoul, 08826, Republic of Korea.
+(5)Department of Bioengineering, College of Life Science, Dalian Minzu
+University, Dalian, 116600, Liaoning, China; Key Laboratory of Biotechnology and 
+Bioresources Utilization (Dalian Minzu University), Ministry of Education, China.
+Electronic address: mikyeken@dlnu.edu.cn.
+(6)Division of Biotechnology, College of Life Sciences and Biotechnology, Korea
+University, Seoul, 02841, Republic of Korea; Institute of Life Science and
+Natural Resources, Korea University, Seoul, 02841, Republic of Korea. Electronic 
+address: structures@korea.ac.kr.
+(7)Department of Bioengineering, College of Life Science, Dalian Minzu
+University, Dalian, 116600, Liaoning, China; Key Laboratory of Biotechnology and 
+Bioresources Utilization (Dalian Minzu University), Ministry of Education, China.
+Electronic address: yongbinxu@dlnu.edu.cn.
+
+Lipases are widely present in various plants, animals and microorganisms,
+constituting a large category of enzymes. They have the ability to catalyze the
+cleavage of ester bonds. The lipase CinB from Enterobacter asburiae (E. asburiae)
+is an acetyl esterase. The primary amino acid sequence suggests that the EaCinB
+protein belongs to the α/β-hydrolase (ABH) superfamily of the esterase/lipase
+superfamily. However, its molecular functions have not yet been determined. Here,
+we report the crystal structure of E. asburiae CinB at a 1.45 Å resolution.
+EaCinB contains a signal peptide, cap domain and catalytic domain. The active
+site of EaCinB contains the catalytic triad (Ser180-His307-Asp277) on the
+catalytic domain. The oxyanion hole is composed of Gly106 and Gly107 within the
+conserved sequence motif HGGG (amino acid residues 106-109). The substrate is
+accessible between the α1 and α2 helices or the α1 helix and catalytic domain.
+Narrow substrate pockets are formed by the α2 helix of the cap domain.
+Site-directed mutagenesis showed that EaCinB-W208H exhibits a higher catalytic
+ability than EaCinB-WT by approximately nine times. Our results provide insight
+into the molecular function of EaCinB.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2019.08.166 
+PMID: 31493870  [Indexed for MEDLINE]
+

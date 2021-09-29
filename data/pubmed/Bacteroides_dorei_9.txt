@@ -1,0 +1,52 @@
+
+1. Front Immunol. 2019 Nov 8;10:2623. doi: 10.3389/fimmu.2019.02623. eCollection
+2019.
+
+Human Islet Response to Selected Type 1 Diabetes-Associated Bacteria: A
+Transcriptome-Based Study.
+
+Abdellatif AM(1)(2)(3), Jensen Smith H(4)(5), Harms RZ(1)(2), Sarvetnick
+NE(1)(2).
+
+Author information: 
+(1)Department of Surgery-Transplant, University of Nebraska Medical Center,
+Omaha, NE, United States.
+(2)Mary and Dick Holland Regenerative Medicine Program, University of Nebraska
+Medical Center, Omaha, NE, United States.
+(3)Department of Anatomy and Embryology, Faculty of Veterinary Medicine, Mansoura
+University, Mansoura, Egypt.
+(4)Fred & Pamela Buffett Cancer Center, University of Nebraska Medical Center,
+Omaha, NE, United States.
+(5)Eppley Institute for Research in Cancer, University of Nebraska Medical
+Center, Omaha, NE, United States.
+
+Type 1 diabetes (T1D) is a chronic autoimmune disease that results from
+destruction of pancreatic β-cells. T1D subjects were recently shown to harbor
+distinct intestinal microbiome profiles. Based on these findings, the role of gut
+bacteria in T1D is being intensively investigated. The mechanism connecting
+intestinal microbial homeostasis with the development of T1D is unknown. Specific
+gut bacteria such as Bacteroides dorei (BD) and Ruminococcus gnavus (RG) show
+markedly increased abundance prior to the development of autoimmunity. One
+hypothesis is that these bacteria might traverse the damaged gut barrier, and
+their constituents elicit a response from human islets that causes metabolic
+abnormalities and inflammation. We have tested this hypothesis by exposing human 
+islets to BD and RG in vitro, after which RNA-Seq analysis was performed. The
+bacteria altered expression of many islet genes. The commonly upregulated genes
+by these bacteria were cytokines, chemokines and enzymes, suggesting a
+significant effect of gut bacteria on islet antimicrobial and biosynthetic
+pathways. Additionally, each bacteria displayed a unique set of differentially
+expressed genes (DEGs). Ingenuity pathway analysis of DEGs revealed that top
+activated pathways and diseases included TREM1 signaling and inflammatory
+response, illustrating the ability of bacteria to induce islet inflammation. The 
+increased levels of selected factors were confirmed using immunoblotting and
+ELISA methods. Our data demonstrate that islets produce a complex anti-bacterial 
+response. The response includes both symbiotic and pathogenic aspects. Both
+oxidative damage and leukocyte recruitment factors were prominent, which could
+induce beta cell damage and subsequent autoimmunity.
+
+Copyright © 2019 Abdellatif, Jensen Smith, Harms and Sarvetnick.
+
+DOI: 10.3389/fimmu.2019.02623 
+PMCID: PMC6857727
+PMID: 31781116 
+

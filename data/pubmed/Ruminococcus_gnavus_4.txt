@@ -1,0 +1,63 @@
+
+1. Immunity. 2020 Aug 18;53(2):398-416.e8. doi: 10.1016/j.immuni.2020.07.010.
+
+Paneth Cell-Derived Lysozyme Defines the Composition of Mucolytic Microbiota and 
+the Inflammatory Tone of the Intestine.
+
+Yu S(1), Balasubramanian I(1), Laubitz D(2), Tong K(3), Bandyopadhyay S(1), Lin
+X(4), Flores J(1), Singh R(1), Liu Y(1), Macazana C(1), Zhao Y(5), Béguet-Crespel
+F(6), Patil K(2), Midura-Kiela MT(2), Wang D(1), Yap GS(5), Ferraris RP(7), Wei
+Z(4), Bonder EM(1), Häggblom MM(8), Zhang L(9), Douard V(6), Verzi MP(3), Cadwell
+K(10), Kiela PR(11), Gao N(12).
+
+Author information: 
+(1)Department of Biological Sciences, Rutgers University, Newark, NJ, USA.
+(2)Department of Pediatrics, University of Arizona, Tucson, AZ, USA.
+(3)Department of Genetics, Rutgers University, Piscataway, NJ, USA.
+(4)Department of Computer Science, New Jersey Institute of Technology, Newark,
+NJ, USA.
+(5)Center for Immunity and Inflammation, Rutgers New Jersey Medical School,
+Newark, NJ, USA.
+(6)Micalis Institute, Institut National de la Recherche Agronomique (INRA),
+AgroParisTech, Université Paris-Saclay, Jouy-en-Josas, France.
+(7)Department of Pharmacology, Physiology and Neuroscience, Rutgers New Jersey
+Medical School, Newark, NJ, USA.
+(8)Department of Biochemistry and Microbiology, Rutgers University, New
+Brunswick, NJ, USA.
+(9)Department of Biological Sciences, Rutgers University, Newark, NJ, USA;
+Department of Pathology, Princeton Medical Center, Plainsboro, NJ, USA.
+(10)Department of Microbiology and Kimmel Center for Biology and Medicine at the 
+Skirball Institute, New York University School of Medicine, New York, NY, USA.
+(11)Department of Pediatrics, University of Arizona, Tucson, AZ, USA; Department 
+of Immunobiology, University of Arizona, Tucson, AZ, USA.
+(12)Department of Biological Sciences, Rutgers University, Newark, NJ, USA;
+Rutgers Cancer Institute of New Jersey, New Brunswick, NJ, USA. Electronic
+address: ngao@newark.rutgers.edu.
+
+Paneth cells are the primary source of C-type lysozyme, a
+β-1,4-N-acetylmuramoylhydrolase that enzymatically processes bacterial cell
+walls. Paneth cells are normally present in human cecum and ascending colon, but 
+are rarely found in descending colon and rectum; Paneth cell metaplasia in this
+region and aberrant lysozyme production are hallmarks of inflammatory bowel
+disease (IBD) pathology. Here, we examined the impact of aberrant lysozyme
+production in colonic inflammation. Targeted disruption of Paneth cell lysozyme
+(Lyz1) protected mice from experimental colitis. Lyz1-deficiency diminished
+intestinal immune responses to bacterial molecular patterns and resulted in the
+expansion of lysozyme-sensitive mucolytic bacteria, including Ruminococcus
+gnavus, a Crohn's disease-associated pathobiont. Ectopic lysozyme production in
+colonic epithelium suppressed lysozyme-sensitive bacteria and exacerbated
+colitis. Transfer of R. gnavus into Lyz1-/- hosts elicited a type 2 immune
+response, causing epithelial reprograming and enhanced anti-colitogenic capacity.
+In contrast, in lysozyme-intact hosts, processed R. gnavus drove pro-inflammatory
+responses. Thus, Paneth cell lysozyme balances intestinal anti- and
+pro-inflammatory responses, with implications for IBD.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.immuni.2020.07.010 
+PMCID: PMC7461615 [Available on 2021-08-18]
+PMID: 32814028 
+
+Conflict of interest statement: Declaration of Interests The authors declare no
+competing interests.
+

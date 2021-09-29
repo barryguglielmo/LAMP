@@ -1,0 +1,50 @@
+
+1. Microbiol Res. 2020 Aug;237:126483. doi: 10.1016/j.micres.2020.126483. Epub 2020 
+May 1.
+
+Genome analysis of plant growth-promoting rhizobacterium Pseudomonas chlororaphis
+subsp. aurantiaca JD37 and insights from comparasion of genomics with three
+Pseudomonas strains.
+
+Zhang L(1), Chen W(2), Jiang Q(3), Fei Z(2), Xiao M(4).
+
+Author information: 
+(1)Development Center of Plant Germplasm Resources, College of Life Sciences,
+Shanghai Normal University, Shanghai, 200234, China.
+(2)Boyce Thompson Institute, Cornell University, Ithaca, NY, 14853, USA.
+(3)Development Center of Plant Germplasm Resources, College of Life Sciences,
+Shanghai Normal University, Shanghai, 200234, China; Department of Microbiology
+and Microbial Engineering, School of Life Sciences, Fudan University, Shanghai,
+200438, China.
+(4)Development Center of Plant Germplasm Resources, College of Life Sciences,
+Shanghai Normal University, Shanghai, 200234, China. Electronic address:
+xiaom88@shnu.edu.cn.
+
+Pseudomonas chlororaphis subsp. aurantiaca strain JD37 is a plant
+growth-promoting rhizobacterium (PGPR), which has important biotechnological
+features such as plant growth promotion, rhizosphere colonization and biocontrol 
+activities. In present study, the genome sequence of JD37 was obtained and
+comparative genomic analysis were performed to explore unique features of the
+JD37 genome and its relationship with other Pseudomonas PGPR: P. chlororaphis
+PA23, P. protegens Pf-5 and P. aeruginosa M18. JD37 possessed a single circular
+chromosome of 6,702,062 bp in length with an average GC content of 62.75 %. No
+plasmid was detected in JD37. A total of 5003 functional proteins of JD37 were
+predicted according to the clusters of orthologous groups (COGs) database. The
+JD37 genome consisted of various genes involved in plant growth promotion,
+biocontrol activities and defense responses. Genes involved in the rhizosphere
+colonization and motility were also found in the genome of JD37, suggesting the
+common plant growth-promoting traits in PGPR. The identified resistance genes
+(e.g. those related to metal resistance, antibiotics, and osmotic and
+temperature-shock) and secondary metabolite biosynthesis revealed the pathways
+for metabolites it produced. Data presented in present study further provided
+valuable information on its molecular genetics and adaptive capacity in the
+rhizosphere niche.
+
+Copyright © 2020 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.micres.2020.126483 
+PMID: 32402945 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare no competing interests.
+

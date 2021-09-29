@@ -1,0 +1,61 @@
+
+1. Prev Vet Med. 2020 Aug 30:105134. doi: 10.1016/j.prevetmed.2020.105134. [Epub
+ahead of print]
+
+The interpretation of serial Johne's disease milk antibody results is affected by
+test characteristics, pattern of test results and parallel bovine tuberculosis
+testing.
+
+Barden M(1), Smith RF(2), Higgins HM(2).
+
+Author information: 
+(1)Department of Livestock and One Health, Institute of Infection, Veterinary and
+Ecological Sciences, University of Liverpool, Leahurst Campus, Chester High Road,
+Neston, Cheshire, CH64 7TE, United Kingdom. Electronic address:
+mbarden@liverpool.ac.uk.
+(2)Department of Livestock and One Health, Institute of Infection, Veterinary and
+Ecological Sciences, University of Liverpool, Leahurst Campus, Chester High Road,
+Neston, Cheshire, CH64 7TE, United Kingdom.
+
+BACKGROUND: In the UK, quarterly Johne's disease milk antibody ELISAs
+(JD-mELISAs) are commonly used to classify animals which are likely to be
+infectious, termed "red cows". "Red cows" are classified following two positive
+results from the previous four tests (e.g. + - - +). All cattle are also
+regularly screened for bovine tuberculosis using intradermal avian and bovine
+tuberculin, and it is advised to maintain a 60 day interval between a
+tuberculosis test and JD-mELISA.
+AIMS: To evaluate the impact of bovine tuberculosis testing on JD-mELISAs, and to
+quantify the impact of test specificity and "red cow" classification test pattern
+on the probability of infection.
+METHODS: Four years of individual cow milk records with JD-mELISA results were
+collated from 735 dairy farms and matched to tuberculosis testing records. A
+two-level multivariable logistic regression model quantified the effect of
+tuberculosis testing on JD-mELISA result. The specificity and age-dependent
+sensitivity of a single JD-mELISA were estimated and used to calculate likelihood
+ratios following each test. Using Bayes' theorem, the posterior probability of
+infection with Johne's disease was calculated for different specificities, ages
+of cow, and patterns of test results.
+RESULTS: There were increased odds of a positive JD-mELISA if it was ≤30 days
+(OR: 2.1) or 31-60 days (OR: 1.2) after a tuberculosis test, compared to >90
+days. A larger avian skin reaction at the tuberculosis test was also associated
+with increased odds of a positive JD-mELISA. The proportion of cows which tested 
+exclusively negative after their first positive JD-mELISA was higher if that
+JD-mELISA was ≤30 days after a tuberculosis test compared to >90 days. The
+posterior probability of infection reduced substantially when the test
+specificity was slightly reduced. In "red cows" classified following two
+consecutive positive tests, if the test specificity was reduced to 0.95, then the
+posterior probability of infection was only >95 % if the prior probability was
+>13 %. If the "red cow" classification was due to two non-consecutive positive
+tests (+ - - +), the posterior probability of infection was only >95 % if the
+prior probability was >43 %.
+CONCLUSIONS: Testing for Johne's disease within 60 days of a tuberculosis test is
+associated with a higher chance of a positive JD-mELISA and this may reflect a
+reduction in the ELISA specificity. Relatively small reductions in JD-mELISA
+specificity can markedly reduce the posterior probability of infection which also
+depends on the pattern of test results which classifies "red cows".
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.prevetmed.2020.105134 
+PMID: 32912605 
+

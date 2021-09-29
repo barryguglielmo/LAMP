@@ -1,0 +1,41 @@
+
+1. Braz J Microbiol. 2020 Jul 29. doi: 10.1007/s42770-020-00353-7. [Epub ahead of
+print]
+
+Cellular response of Brevibacterium casei #NIOSBA88 to arsenic and chromium-a
+proteomic approach.
+
+Shah S(1), Damare S(2).
+
+Author information: 
+(1)Biological Oceanography Division, CSIR- National Institute of Oceanography,
+Dona Paula, Goa, India.
+(2)Biological Oceanography Division, CSIR- National Institute of Oceanography,
+Dona Paula, Goa, India. samir@nio.org.
+
+Cellular response against different heavy metal stress differs with the metal.
+Arsenic and chromium are heavy metals and toxic to living systems. The
+concentration of these metals in seawater is very low. However, due to their
+solubility in nature, they actively enter cells via various transport mechanisms 
+and cause damage to the cells. Brevibacterium casei #NIOSBA88, a marine-derived, 
+gram-positive isolate was multi-metal tolerant. Proteomic analysis of this
+isolate in response to arsenic and chromium resulted in the identification of
+total 2549 proteins, out of which 880 proteins were found to be commonly
+expressed at 750 mgL-1 arsenic and 100 mgL-1 chromium and in absence of both the 
+metals. In contrast, 533, 212, and 270 proteins were found to be unique in the
+absence of any metal, 750 mgL-1 of arsenic and 100 mgL-1 of chromium
+respectively. Proteins such as antibiotic biosynthesis monooxygenase, ArsR family
+transcriptional regulator, cytochrome C oxidase subunit II, and thioredoxin
+reductase were exclusively expressed only in response to arsenic and chromium.
+Other proteins like superoxide dismutase, lipid hydroperoxide reductase, and
+thioredoxin-disulfide reductase were found to be upregulated in response to both 
+the metals. Most of the proteins involved in the normal cell functioning were
+found to be downregulated. Major metabolic functions affected include amino acid 
+metabolism, carbohydrate metabolism, translation, and energy metabolism. Peptide 
+mass fingerprinting of Brevibacterium casei #NIOSBA88 exposed to arsenic and
+chromium respectively revealed the deleterious effect of these metals on the
+bacterium and its strategy to overcome the stress.
+
+DOI: 10.1007/s42770-020-00353-7 
+PMID: 32729030 
+

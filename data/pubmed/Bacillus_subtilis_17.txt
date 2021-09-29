@@ -1,0 +1,42 @@
+
+1. Sci Rep. 2020 Sep 29;10(1):15938. doi: 10.1038/s41598-020-72854-2.
+
+Uridine diphosphate N-acetylglucosamine orchestrates the interaction of GlmR with
+either YvcJ or GlmS in Bacillus subtilis.
+
+Foulquier E(1), Pompeo F(1), Byrne D(2), Fierobe HP(1), Galinier A(3).
+
+Author information: 
+(1)Laboratoire de Chimie Bactérienne, UMR7283, Institut de Microbiologie de La
+Méditerranée, CNRS, Aix-Marseille Université, 31 Chemin Joseph Aiguier, 13402,
+Marseille Cedex 20, France.
+(2)Institut de Microbiologie de La Méditerranée, Protein Expression Facility,
+CNRS, Aix Marseille Université, 31 Chemin Joseph Aiguier, 13402, Marseille Cedex 
+20, France.
+(3)Laboratoire de Chimie Bactérienne, UMR7283, Institut de Microbiologie de La
+Méditerranée, CNRS, Aix-Marseille Université, 31 Chemin Joseph Aiguier, 13402,
+Marseille Cedex 20, France. galinier@imm.cnrs.fr.
+
+In bacteria, glucosamine-6-phosphate (GlcN6P) synthase, GlmS, is an enzyme
+required for the synthesis of Uridine diphosphate N-acetylglucosamine
+(UDP-GlcNAc), a precursor of peptidoglycan. In Bacillus subtilis, an UDP-GlcNAc
+binding protein, GlmR (formerly YvcK), essential for growth on non-glycolytic
+carbon sources, has been proposed to stimulate GlmS activity; this activation
+could be antagonized by UDP-GlcNAc. Using purified proteins, we demonstrate that 
+GlmR directly stimulates GlmS activity and the presence of UDP-GlcNAc (at
+concentrations above 0.1 mM) prevents this regulation. We also showed that YvcJ, 
+whose gene is associated with yvcK (glmR), interacts with GlmR in an UDP-GlcNAc
+dependent manner. Strains producing GlmR variants unable to interact with YvcJ
+show decreased transformation efficiency similar to that of a yvcJ null mutant.
+We therefore propose that, depending on the intracellular concentration of
+UDP-GlcNAc, GlmR interacts with either YvcJ or GlmS. When UDP-GlcNAc
+concentration is high, this UDP-sugar binds to YvcJ and to GlmR, blocking the
+stimulation of GlmS activity and driving the interaction between GlmR and YvcJ to
+probably regulate the cellular role of the latter. When the UDP-GlcNAc level is
+low, GlmR does not interact with YvcJ and thus does not regulate its cellular
+role but interacts with GlmS to stimulate its activity.
+
+DOI: 10.1038/s41598-020-72854-2 
+PMCID: PMC7525490
+PMID: 32994436 
+

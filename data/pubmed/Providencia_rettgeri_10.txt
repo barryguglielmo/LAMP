@@ -1,0 +1,40 @@
+
+1. BMC Microbiol. 2019 Dec 24;19(Suppl 1):285. doi: 10.1186/s12866-019-1646-9.
+
+Assessment of the Bacteria community structure across life stages of the Chinese 
+Citrus Fly, Bactrocera minax (Diptera: Tephritidae).
+
+Andongma AA(1), Wan L(1), Dong YC(1), Wang YL(1), He J(2), Niu CY(3).
+
+Author information: 
+(1)College of Plant Science & Technology, Huazhong Agricultural University,
+Wuhan, 430070, China.
+(2)State key laboratory of Agricultural Microbiology, Huazhong Agricultural
+University, Wuhan, 430070, China.
+(3)College of Plant Science & Technology, Huazhong Agricultural University,
+Wuhan, 430070, China. niuchangying88@163.com.
+
+BACKGROUND: Symbiotic bacteria play a critical role in insect's biology. They
+also offer great opportunities to improve on current pest management techniques. 
+In order to exploit and integrate the roles played by the gut microbiota on pest 
+management programs, a better understanding of the structural organization of the
+microbial community in the Chinese citrus fly Bactrocera minax is essential.
+RESULTS: The results revealed a total of 162 OTUs at 97% similarity interval. The
+dominant bacteria phyla were Proteobacteria, Bacteroidetes, Antinobacteria and
+Firmicutes, with the Proteobacteria having the highest relative abundance (more
+than 80% in all life stages). There was also a shift in the dominant OTUs from
+the early developmental stages to the late developmental stages and adult
+stages in B. minax. These OTUs related to Klebsiella pneumoniae, Providencia
+rettgeri and Enterobacter aerogenes, respectively. Six bacteria OTU were shared
+by all the life stages. These belonged to the Enterobacteriaceae and the
+Enterococcaceae families.
+CONCLUSION: The common bacteria groups shared by all the life stages and other
+fruit flies could be important targets for further research. This should aim
+towards realizing how these bacteria affect the biology of the fly and how their 
+relationship could be exploited in the development of sustainable management
+strategies against fruit flies.
+
+DOI: 10.1186/s12866-019-1646-9 
+PMCID: PMC6929268
+PMID: 31870291  [Indexed for MEDLINE]
+

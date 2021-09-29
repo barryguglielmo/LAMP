@@ -1,0 +1,54 @@
+
+1. Vet World. 2019 Oct;12(10):1540-1545. doi: 10.14202/vetworld.2019.1540-1545. Epub
+2019 Oct 8.
+
+Identification of Staphylococcus species isolated from preputium of Aceh cattle
+based on 16S rRNA gene sequences analysis.
+
+Hambal M(1), Admi M(2)(3), Safika S(4), Sari WE(5)(6), Ferasyi TR(6), Dasrul
+D(7), Balqis U(8), Darmawi D(2)(9).
+
+Author information: 
+(1)Laboratory of Parasitology, Faculty of Veterinary Medicine, Universitas Syiah 
+Kuala, Banda Aceh, Aceh, Indonesia.
+(2)Laboratory of Microbiology, Faculty of Veterinary Medicine, Universitas Syiah 
+Kuala, Banda Aceh, Aceh, Indonesia.
+(3)Department of Mathematics and Applied Sciences, Universitas Syiah Kuala,
+Darussalam, Banda Aceh, 23111, Indonesia.
+(4)Department of Veterinary Infectious Diseases and Veterinary Public Health,
+Faculty of Veterinary Medicine, IPB University, Jl. Agatis Dramaga, Bogor, 16680,
+West Java, Indonesia.
+(5)Laboratory of Research, Faculty of Veterinary Medicine, Universitas Syiah
+Kuala, Banda Aceh, Aceh, Indonesia.
+(6)Laboratory of Veterinary Public Health, Faculty of Veterinary Medicine,
+Universitas Syiah Kuala, Banda Aceh, Aceh, Indonesia.
+(7)Laboratory of Reproduction, Faculty of Veterinary Medicine, Universitas Syiah 
+Kuala, Banda Aceh, Aceh, Indonesia.
+(8)Laboratory of Pathology, Faculty of Veterinary Medicine, Universitas Syiah
+Kuala, Banda Aceh, Aceh, Indonesia.
+(9)Laboratory of Biomedical Science, Faculty of Public Health, University of
+Teuku Umar, Meulaboh, Aceh, Indonesia.
+
+Aim: This research aimed to identify Staphylococcus species isolated from
+preputial swabs of healthy Aceh cattle, based on 16S ribosomal RNA gene analysis.
+Materials and Methods: The bacterium was isolated from preputial swabs of healthy
+Aceh cattle. The total DNA from the isolated bacteria was extracted using the
+Genomic DNA Mini Kit followed by polymerase chain reaction (PCR) amplification of
+the 16S rRNA gene. The product of PCR amplification was then sequenced and
+aligned to the known sequences in the GenBank database by multiple alignments and
+was also analyzed by bioinformatics software to construct a phylogenetic tree.
+Results: The results revealed that the bacterial isolate 3A had genetically
+closed relation to Staphylococcus pasteuri with <97% maximum identity. Data
+derived from the phylogenetic tree revealed that the bacterial isolate 3A was
+also related to Staphylococcus warneri, yet, it shows a different evolutionary
+distance with the ancestors (S. pasteuri).
+Conclusion: The results of this research suggested that the bacterium 3A,
+isolated from preputial swabs of healthy Aceh cattle, is a Staphylococcus
+species.
+
+Hambal, et al.
+
+DOI: 10.14202/vetworld.2019.1540-1545 
+PMCID: PMC6868254
+PMID: 31849414 
+

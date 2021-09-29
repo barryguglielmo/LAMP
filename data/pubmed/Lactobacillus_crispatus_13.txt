@@ -1,0 +1,50 @@
+
+1. Appl Environ Microbiol. 2020 Oct 1;86(20). pii: e01594-20. doi:
+10.1128/AEM.01594-20. Print 2020 Oct 1.
+
+Novel Selective Inhibition of Lactobacillus iners by Lactobacillus-Derived
+Bacteriocins.
+
+Nilsen T(1), Swedek I(1), Lagenaur LA(1), Parks TP(2).
+
+Author information: 
+(1)Osel, Inc., Mountain View, California, USA.
+(2)Osel, Inc., Mountain View, California, USA tparks@oselinc.com.
+
+Lactobacillus iners is often associated with vaginal dysbiosis and bacterial
+vaginosis (BV), which are risk factors for adverse gynecological and obstetric
+outcomes. To discover natural inhibitors of L. iners, cell-free culture
+supernatants (CFSs) from 77 vaginal human Lactobacillus strains and 1 human
+intestinal strain were screened for inhibitory activity. Three active strains
+were identified, and Lactobacillus paragasseri K7 (K7), a human intestinal
+strain, produced the most potent L. iners-inhibitory activity. The active
+material was purified from the K7 CFS and yielded three active peptides,
+identified as components of two different class IIb, two-peptide bacteriocins,
+gassericin K7A (GasK7A) and gassericin K7B (GasK7B). The peptides corresponded to
+the GasK7A α peptide and the GasK7B α and β peptides. While all three peptides
+exhibited individual activity against L. iners, GasK7B α was the most potent,
+with an MIC of 23 ng/ml (4 nM). When combined in equal amounts, the GasK7B α and 
+β peptides showed synergistic inhibition, with an MIC of 2 ng/ml (each peptide at
+0.4 nM). Among the four major vaginal Lactobacillus species, the K7 bacteriocins 
+selectively inhibited L. iners All 21 strains of L. iners tested (100%) were
+inhibited by the K7 bacteriocins, whereas <20% of the vaginal Lactobacillus
+crispatus, L. jensenii, and L. gasseri strains were inhibited. The combination of
+the BV treatment metronidazole and K7 bacteriocins completely killed both L.
+iners and Gardnerella vaginalis in a coculture experiment to mimic BV conditions.
+In contrast, this treatment did not inhibit L. crispatus cultures.IMPORTANCE
+Lactobacillus iners is a prevalent species of the vaginal microbiome, but unlike 
+other major vaginal Lactobacillus species, it is not considered protective
+against BV and can coexist with BV-associated bacteria. L. iners is generally the
+first Lactobacillus species to emerge following the treatment of BV with
+metronidazole, and mounting evidence suggests that it may contribute to the onset
+and maintenance of vaginal dysbiosis. The discovery of highly potent bacteriocins
+that selectively kill L. iners while sparing protective vaginal lactobacilli may 
+provide novel pharmacological tools to better understand the roles of this
+enigmatic bacterium in vaginal ecology and potentially lead to new and improved
+therapies for dysbiosis-related conditions such as BV.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.01594-20 
+PMID: 32801180 
+

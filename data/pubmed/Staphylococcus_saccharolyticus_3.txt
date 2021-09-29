@@ -1,0 +1,43 @@
+
+1. J Clin Med. 2019 Nov 19;8(11). pii: E2024. doi: 10.3390/jcm8112024.
+
+Monitoring of Bactericidal Effects of Silver Nanoparticles Based on Protein
+Signatures and VOC Emissions from Escherichia coli and Selected Salivary
+Bacteria.
+
+Monedeiro F(1)(2)(3), Pomastowski P(1)(2), Milanowski M(1)(2), Ligor T(1)(2),
+Buszewski B(1)(2).
+
+Author information: 
+(1)Department of Environmental Chemistry and Bioanalytics, Faculty of Chemistry, 
+Nicolaus Copernicus University, 87-100 Toruń, Poland.
+(2)Interdisciplinary Centre of Modern Technologies, Nicolaus Copernicus
+University, 87-100 Toruń, Poland.
+(3)Department of Chemistry, Faculty of Philosophy, Science and Letters of
+Ribeirão Preto, University of São Paulo, Ribeirão Preto CEP 14040-901, Brazil.
+
+Escherichia coli and salivary Klebsiella oxytoca and Staphylococcus
+saccharolyticus were subjected to different concentrations of silver
+nanoparticles (AgNPs), namely: 12.5, 50, and 100 µg mL-1. Matrix-assisted laser
+desorption/ionization-time-of-flight mass spectrometry (MALDI-TOF MS) spectra
+were acquired after specified periods: 0, 1, 4, and 12 h. For study of volatile
+metabolites, headspace solid-phase microextraction coupled to gas
+chromatography/mass spectrometry (HS-SPME-GC-MS) was employed-AgNPs were added to
+bacteria cultures and the headspace was analyzed immediately and after 12 h of
+incubation. Principal components analysis provided discrimination between
+clusters of protein profiles belonging to different strains. Canonical
+correlation, network analysis, and multiple linear regression approach revealed
+that dimethyl disulfide, dimethyl trisulfide, 2-heptanone, and dodecanal (related
+to the metabolism of sulfur-containing amino acids and fatty acids synthesis) are
+exemplary molecular indicators, whose response variation deeply correlated to the
+interaction with bacteria. Therefore, such species can serve as biomarkers of the
+agent's effectiveness. The present investigation pointed out that the used
+approaches can be useful in the monitoring of response to therapeutic treatment
+based on AgNPs. Furthermore, biochemical mechanisms enrolled in the bactericidal 
+action of nanoparticles can be applied in the development of new agents with
+enhanced properties.
+
+DOI: 10.3390/jcm8112024 
+PMCID: PMC6912796
+PMID: 31752439 
+

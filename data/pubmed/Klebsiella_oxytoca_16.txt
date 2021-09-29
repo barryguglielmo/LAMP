@@ -1,0 +1,43 @@
+
+1. Biotechnol Lett. 2020 Jul 20. doi: 10.1007/s10529-020-02969-z. [Epub ahead of
+print]
+
+Enantioselective synthesis of a chiral intermediate of himbacine analogs by
+Burkholderia cepacia lipase A.
+
+Chen Y(1)(2), Gao F(2), Zheng G(2), Gao S(3)(4).
+
+Author information: 
+(1)Tianjin Key Laboratory for Modern Drug Delivery & High-Efficiency, School of
+Pharmaceutical Science and Technology, Tianjin University, 92 Weijin Road, Nankai
+District, Tianjin, 300072, People's Republic of China.
+(2)State Key Laboratory of Chemical Resources Engineering, Beijing University of 
+Chemical Technology, Beijing, 100029, People's Republic of China.
+(3)State Key Laboratory of Chemical Resources Engineering, Beijing University of 
+Chemical Technology, Beijing, 100029, People's Republic of China.
+shuaihuagao@berkeley.edu.
+(4)Department of Chemistry, and California Institute for Quantitative
+Biosciences, University of California, Berkeley, 94720, USA.
+shuaihuagao@berkeley.edu.
+
+The enantiomers of (4R/S)-4-hydroxy-N, N-diphenyl-2-pentynamide are key chiral
+synthons for the synthesis of thrombin receptor antagonists such as vorapaxar. In
+this paper, we report the enzymatic preparation of enantiomerically enriched
+(4R)-4-hydroxy-N, N-diphenyl-2-pentynamide using lipase A from Burkholderia
+cepacia ATCC 25416 as the catalyst. First, the lipase gene (lipA) and its
+chaperone gene (lipB) was cloned and expressed in Escherichia coli system. After 
+purification, lipase A activation was performed with the assistance of foldase
+lipase B. Enzyme assay revealed that the activated lipase A showed the optimal
+catalytic activity at 60 ºC and pH 7. The effects of various metals on the
+activity were investigated and results demonstrated that most of the metals
+inhibited the activity. To further improve the catalytic outcome, two-phase
+reaction was studied, and n-hexane proved to be a good organic solvent for the
+combination system. Using the optimize conditions, (4R)-4-hydroxy-N,
+N-diphenyl-2-pentynamide with 94.5% ee value and 48.93% conversion ratio was
+achieved. Our investigation on this lipase reveals lipase A as a promising
+biocatalyst for producing chiral propargyl alcohol for preparation of novel
+himbacine analogs.
+
+DOI: 10.1007/s10529-020-02969-z 
+PMID: 32691184 
+

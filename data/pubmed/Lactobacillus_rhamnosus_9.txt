@@ -1,0 +1,62 @@
+
+1. BMC Genomics. 2020 Sep 24;21(1):661. doi: 10.1186/s12864-020-07062-3.
+
+Intra-species variation within Lactobacillus rhamnosus correlates to beneficial
+or harmful outcomes: lessons from the oral cavity.
+
+Nadkarni MA(1)(2)(3), Deshpande NP(4), Wilkins MR(4)(5)(6), Hunter N(7)(8).
+
+Author information: 
+(1)Institute of Dental Research, Westmead Centre for Oral Health, Westmead
+Hospital, Sydney, New South Wales, Australia. mangala.nadkarni@health.nsw.gov.au.
+(2)Westmead Institute for Medical Research, The University of Sydney, Sydney, New
+South Wales, Australia. mangala.nadkarni@health.nsw.gov.au.
+(3)The School of Dentistry, the Faculty of Medicine and Health, The University of
+Sydney, Sydney, New South Wales, Australia. mangala.nadkarni@health.nsw.gov.au.
+(4)Systems Biology Initiative, School of Biotechnology and Biomolecular Sciences,
+The University of New South Wales, Sydney, New South Wales, Australia.
+(5)School of Biotechnology and Biomolecular Sciences, The University of New South
+Wales, Sydney, New South Wales, Australia.
+(6)Ramaciotti Centre for Genomics, The University of New South Wales, Sydney, New
+South Wales, Australia.
+(7)Institute of Dental Research, Westmead Centre for Oral Health, Westmead
+Hospital, Sydney, New South Wales, Australia.
+(8)Westmead Institute for Medical Research, The University of Sydney, Sydney, New
+South Wales, Australia.
+
+BACKGROUND: The origin of most of the Lactobacillus rhamnosus genome sequences
+lodged in NCBI can be traced to food and faecal isolates followed by blood and
+tissue sites but with minimal representation from oral and vaginal isolates.
+However, on the L. rhamnosus phylogenetic tree no apparent clade is linked to the
+origin of isolation or to the relevant clinical source, except for a distinct
+clade exclusively shared by L. rhamnosus isolates from early stages of dental
+pulp infection (LRHMDP2 and LRHMDP3) and from bronchoalveolar lavage (699_LRHA
+and 708_LRHA) from a critical care patient. These L. rhamnosus strains, LRHMDP2, 
+LRHMDP3, 699_LRHA and 708_LRHA isolated from different continents, display
+closest genome neighbour gapped identity of 99.95%. The aim of this study was to 
+define a potentially unique complement of genes of clinical relevance shared
+between these L. rhamnosus clinical isolates in comparison to probiotic L.
+rhamnosus strains.
+RESULTS: In this analysis we used orthologous protein identification tools such
+as ProteinOrtho followed by tblastn alignments to identify a novel tyrosine
+protein phosphatase (wzb)-tyrosine-protein kinase modulator EpsC (wzd)- synteny
+exopolysaccharide (EPS) cluster. This EPS cluster was specifically conserved in a
+clade of 5 clinical isolates containing the four L. rhamnosus clinical isolates
+noted above and Lactobacillus spp. HMSC077C11, a clinical isolate from a neck
+abscess. The EPS cluster was shared with only two other strains, L. rhamnosus
+BPL5 and BPL15, which formed a distant clade on the L. rhamnosus phylogenetic
+tree, with a closest genome neighbour gapped identity of 97.51% with L. rhamnosus
+LRHMDP2 and LRHMDP3. Exclusivity of this EPS cluster (from those identified
+before) was defined by five EPS genes, which were specifically conserved between 
+the clade of 5 clinical isolates and L. rhamnosus BPL5 and BPL15 when compared to
+the remaining L. rhamnosus strains. Comparative genome analysis between the clade
+of 5 clinical isolates and L. rhamnosus BPL5 and BPL15 showed a set of 58
+potentially unique genes characteristic of the clade of 5.
+CONCLUSION: The potentially unique functional protein orthologs associated with
+the clade of 5 clinical isolates may provide understanding of fitness under
+selective pressure.
+
+DOI: 10.1186/s12864-020-07062-3 
+PMCID: PMC7513527
+PMID: 32972358 
+

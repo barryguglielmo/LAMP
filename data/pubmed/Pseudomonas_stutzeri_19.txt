@@ -1,0 +1,41 @@
+
+1. Braz J Microbiol. 2020 Jun 1. doi: 10.1007/s42770-020-00303-3. [Epub ahead of
+print]
+
+Decoding social behaviors in a glycerol dependent bacterial consortium during
+Reactive Blue 28 degradation.
+
+Nanjani S(1), Rawal K(1), Keharia H(2).
+
+Author information: 
+(1)P. G. Department of Biosciences, Sardar Patel University, UGC-Centre of
+Advanced Study, Vadtal Road, Bakrol, Gujarat, 388315, India.
+(2)P. G. Department of Biosciences, Sardar Patel University, UGC-Centre of
+Advanced Study, Vadtal Road, Bakrol, Gujarat, 388315, India. haresh970@gmail.com.
+
+Biodegradation of reactive azo dyes has been an arduous problem for decades.
+Several efficient biosystems have been proposed for dye degradation, but most of 
+them are dependent on the availability of costly co-substrates such as peptone,
+yeast extract, and/or glucose. The present study describes the azo dye
+degradation by a bacterial consortium using glycerol as a sole co-substrate. The 
+consortium was developed from a mixed bacterial culture obtained upon enrichment 
+of soil sediment for Reactive Blue 28 (RB28) decolorization in the presence of
+glycerol (0.1%; v/v). The consortium with three bacterial species, i.e.,
+Stenotrophomonas acidaminiphila APG1, Cellulomonas sp. APG4, and Pseudomonas
+stutzeri APG2, designated as "SCP," decolorized 92% of 100 ppm dye in 96 h. The
+intricacies of the interactions existing within the members of the consortium
+were resolved by a simple and unique analysis called "BSocial." Among all the
+members, Cellulomonas sp. APG4 exerted a net-positive impact for decolorization
+(%) on the consortium. The net fitness of the community increased when all the
+three species were present, and thus, all of them were selected for further
+analysis. Moreover, APG4 seemed to be central in the reductive decolorization as 
+it possessed the highest reductase activity. The dye degradation by the
+consortium was demonstrated by UV-Visible spectroscopy, HPTLC, and FTIR
+spectroscopy of control and decolorized cell-free supernatant. The LC-ESI-MS
+analysis of metabolites extracted from decolorized cell-free medium led to the
+identification of degradation products, thus leading us to propose the plausible 
+pathway for degradation of RB28 by bacterial consortium.
+
+DOI: 10.1007/s42770-020-00303-3 
+PMID: 32483666 
+

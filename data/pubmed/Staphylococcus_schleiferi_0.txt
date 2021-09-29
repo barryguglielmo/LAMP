@@ -1,0 +1,59 @@
+
+1. Front Vet Sci. 2020 Jul 23;7:376. doi: 10.3389/fvets.2020.00376. eCollection
+2020.
+
+Molecular Detection and Characterization of the mecA and nuc Genes From
+Staphylococcus Species (S. aureus, S. pseudintermedius, and S. schleiferi)
+Isolated From Dogs Suffering Superficial Pyoderma and Their Antimicrobial
+Resistance Profiles.
+
+González-Domínguez MS(1), Carvajal HD(2), Calle-Echeverri DA(2),
+Chinchilla-Cárdenas D(3).
+
+Author information: 
+(1)INCA-CES Research Group, Veterinary Teaching Hospital, Faculty of Veterinary
+Medicine and Zootechny, CES University, Medellín, Colombia.
+(2)Instituto Colombiano de Medicina Tropical (ICMT), CES University, Medellín,
+Colombia.
+(3)Laboratorio de Genética Animal Mascolab S. A., Medellín, Colombia.
+
+Canine superficial pyoderma (CSP) is a bacterial infection secondary to several
+skin diseases of the dog. Staphylococcus pseudintermedius, which is a commensal
+bacterium of the dog's skin, is the leading agent found in dogs affected by CSP, 
+which can progress to deep pyoderma. It is also of clinical significance because 
+S. pseudintermedius strains carry antimicrobial resistance genes, mainly the mecA
+gene. In this descriptive longitudinal study, molecular characterization of
+bacterial isolates from dogs affected by CSP was performed in addition to
+phenotyping, antimicrobial profiling, and assessment of resistance carriage
+status. Fifty dogs (24 females and 26 males) attending the CES University
+Veterinary Teaching Hospital were included in the study. CSP was confirmed
+according to clinical signs and cytological examination. Swabs were taken from
+active skin lesions for bacterial culture, and phenotyping and antimicrobial
+resistance profiles were assessed using API-Staph phenotyping and the Kirby-Bauer
+method, respectively. We also performed molecular detection and characterization 
+of the mecA and nuc encoding gene of coagulase-positive Staphylococci. The mecA
+gene frequency was established by qPCR amplification of a 131bp gene fragment.
+Data were evaluated by descriptive statistics. Erythema, peeling, pruritus, and
+alopecia were the predominant symptoms (72, 56, and 46%, respectively). We
+isolated bacteria compatible with Staphylococcus species from all samples tested.
+API phenotyping showed 83.1 to 97.8% compatibility with S. pseudintermedius.
+PCR-genotyping resulted in 15, 3, and 1 isolates positive for S.
+pseudintermedius, S. aureus, and S. schleiferi, respectively. Isolated strains
+showed high susceptibility to Imipenem, Ampicillin/Sulbactam, and Rifampicin
+(100, 94, and 92%, respectively). The highest resistance was against Vancomycin
+and Trimethoprim/Sulfamethoxazole (98 and 74%, respectively). S.
+pseudintermedius, S. aureus, and S. schleiferi isolates were cloned and shared
+96% sequence homology. Finally, we found 62% carriage status of the mecA gene in 
+isolates of CSP patients, although only 36% of the isolates were
+methicillin-resistant. Identification of three Staphylococcus species causing
+CSP, high-level resistance against conventional antimicrobials, and carriage of
+the mecA gene highlight the importance of performing molecular characterization
+of bacteria causing dermatological conditions in dogs.
+
+Copyright © 2020 González-Domínguez, Carvajal, Calle-Echeverri and
+Chinchilla-Cárdenas.
+
+DOI: 10.3389/fvets.2020.00376 
+PMCID: PMC7390895
+PMID: 32793641 
+

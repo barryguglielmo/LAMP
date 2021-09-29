@@ -1,0 +1,52 @@
+
+1. Front Bioeng Biotechnol. 2020 Apr 30;8:340. doi: 10.3389/fbioe.2020.00340.
+eCollection 2020.
+
+Development of a Continuous Pulsed Electric Field (PEF) Vortex-Flow Chamber for
+Improved Treatment Homogeneity Based on Hydrodynamic Optimization.
+
+Schottroff F(1), Knappert J(2), Eppmann P(2), Krottenthaler A(1), Horneber T(2), 
+McHardy C(2), Rauh C(2), Jaeger H(1).
+
+Author information: 
+(1)Institute of Food Technology, Department of Food Science and Technology,
+University of Natural Resources and Life Sciences (BOKU), Vienna, Austria.
+(2)Institute of Food Technology and Food Chemistry, Department of Food
+Biotechnology and Food Process Engineering, Technische Universität Berlin,
+Berlin, Germany.
+
+Pulsed electric fields (PEF) treatment is an effective process for preservation
+of liquid products in food and biotechnology at reduced temperatures, by causing 
+electroporation. It may contribute to increase retention of heat-labile
+constituents with similar or enhanced levels of microbial inactivation, compared 
+to thermal processes. However, especially continuous PEF treatments suffer from
+inhomogeneous treatment conditions. Typically, electric field intensities are
+highest at the inner wall of the chamber, where the flow velocity of the treated 
+product is lowest. Therefore, inhomogeneities of the electric field within the
+treatment chamber and associated inhomogeneous temperature fields emerge. For
+this reason, a specific treatment chamber was designed to obtain more homogeneous
+flow properties inside the treatment chamber and to reduce local temperature
+peaks, therefore increasing treatment homogeneity. This was accomplished by a
+divided inlet into the chamber, consequently generating a swirling flow (vortex).
+The influence of inlet angles on treatment homogeneity was studied (final values:
+radial angle α = 61°; axial angle β = 98°), using computational fluid dynamics
+(CFD). For the final design, the vorticity, i.e., the intensity of the fluid
+rotation, was the lowest of the investigated values in the first treatment zone
+(1002.55 1/s), but could be maintained for the longest distance, therefore
+providing an increased mixing and most homogeneous treatment conditions. The new 
+design was experimentally compared to a conventional co-linear setup, taking into
+account inactivation efficacy of Microbacterium lacticum as well as retention of 
+heat-sensitive alkaline phosphatase (ALP). Results showed an increase in M.
+lacticum inactivation (maximum Δlog of 1.8 at pH 7 and 1.1 at pH 4) by the vortex
+configuration and more homogeneous treatment conditions, as visible by the
+simulated temperature fields. Therefore, the new setup can contribute to optimize
+PEF treatment conditions and to further extend PEF applications to currently
+challenging products.
+
+Copyright © 2020 Schottroff, Knappert, Eppmann, Krottenthaler, Horneber, McHardy,
+Rauh and Jaeger.
+
+DOI: 10.3389/fbioe.2020.00340 
+PMCID: PMC7203427
+PMID: 32426339 
+

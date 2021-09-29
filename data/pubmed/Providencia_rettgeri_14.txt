@@ -1,0 +1,51 @@
+
+1. Ann N Y Acad Sci. 2020 Feb;1462(1):92-103. doi: 10.1111/nyas.14237. Epub 2019 Sep
+23.
+
+Genomic analysis of a multidrug-resistant clinical Providencia rettgeri (PR002)
+strain with the novel integron ln1483 and an A/C plasmid replicon.
+
+Mbelle NM(1)(2), Osei Sekyere J(1), Amoako DG(3), Maningi NE(1), Modipane L(1),
+Essack SY(4), Feldman C(5).
+
+Author information: 
+(1)Department of Medical Microbiology, Faculty of Health Sciences, University of 
+Pretoria, Pretoria, South Africa.
+(2)National Health Laboratory Services, Pretoria, South Africa.
+(3)Biomedical Resource Unit, School of Laboratory Medicine and Medical Sciences, 
+University of KwaZulu-Natal, Durban, South Africa.
+(4)Antimicrobial Research Unit, School of Health Sciences, University of
+KwaZulu-Natal, Durban, South Africa.
+(5)Department of Internal Medicine, University of the Witwatersrand,
+Johannesburg, South Africa.
+
+Whole-genome sequence analysis was performed on a multidrug-resistant Providencia
+rettgeri PR002 clinical strain isolated from the urine of a hospitalized patient 
+in Pretoria, South Africa, in 2013. The resistome, mobilome, pathogenicity
+island(s), as well as virulence and heavy-metal resistance genes of the isolate, 
+were characterized using whole-genome sequencing and bioinformatic analysis.
+PR002 had a genome assembly size of 4,832,624 bp with a GC content of 40.7%, an
+A/C2 plasmid replicase gene, four integrons/gene cassettes, 17 resistance genes, 
+and several virulence and heavy metal resistance genes, confirming PR002 as a
+human pathogen. A novel integron, In1483, harboring the gene blaOXA-2 , was
+identified, with other uncharacterized class 1 integrons harboring aacA4cr and
+dfrA1. Aac(3')-IIa and blaSCO-1 , as well as blaPER-7 , sul2, and tet(B), were
+found bracketed by composite Tn3 transposons, and IS91, IS91, and IS4 family
+insertion sequences, respectively. PR002 was resistant to all antibiotics tested 
+except amikacin, carbapenems, cefotaxime-clavulanate, ceftazidime-clavulanate,
+cefoxitin, and fosfomycin. PR002 was closely related to PR1 (USA), PRET_2032
+(SPAIN), DSM_1131, and NCTC7477 clinical P. rettgeri strains, but not close
+enough to suggest it was imported into South Africa from other countries.
+Multidrug resistance in P. rettgeri is rare, particularly in clinical settings,
+making this case an important incident requiring urgent attention. This is also
+the first report of an A/C plasmid in P. rettgeri. The array, multiplicity, and
+diversity of resistance and virulence genes in this strain are concerning,
+necessitating stringent infection control, antibiotic stewardship, and periodic
+resistance surveillance/monitoring policies to preempt further horizontal and
+vertical spread of these resistance genes.
+
+© 2019 New York Academy of Sciences.
+
+DOI: 10.1111/nyas.14237 
+PMID: 31549428  [Indexed for MEDLINE]
+

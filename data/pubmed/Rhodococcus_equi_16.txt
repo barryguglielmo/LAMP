@@ -1,0 +1,40 @@
+
+1. Environ Microbiol. 2020 Jul;22(7):2858-2869. doi: 10.1111/1462-2920.15020. Epub
+2020 May 4.
+
+The novel and transferable erm(51) gene confers macrolides, lincosamides and
+streptogramins B (MLSB ) resistance to clonal Rhodococcus equi in the
+environment.
+
+Huber L(1), Giguère S(1), Slovis NM(2), Álvarez-Narváez S(1), Hart KA(1), Greiter
+M(2), Morris ERA(3), Cohen ND(3).
+
+Author information: 
+(1)Department of Large Animal Medicine, College of Veterinary Medicine,
+University of Georgia, Athens, Georgia, USA.
+(2)Hagyard Equine Medical Institute, Lexington, Kentucky, USA.
+(3)Department of Large Animal Clinical Sciences, College of Veterinary Medicine &
+Biomedical Sciences, Texas A&M University, College Station, Texas, USA.
+
+The use of mass antimicrobial treatment has been linked to the emergence of
+antimicrobial resistance in human and animal pathogens. Using whole-genome
+single-molecule real-time (SMRT) sequencing, we characterized genomic variability
+of multidrug-resistant Rhodococcus equi isolated from soil samples from 100 farms
+endemic for R. equi infections in Kentucky. We discovered the novel
+erm(51)-encoding resistance to MLSB in R. equi isolates from soil of
+horse-breeding farms. Erm(51) is inserted in a transposon (TnErm51) that is
+associated with a putative conjugative plasmid (pRErm51), a mobilizable plasmid
+(pMobErm51), or both enabling horizontal gene transfer to susceptible organisms
+and conferring high levels of resistance against MLSB in vitro. This new
+resistant genotype also carries a previously unidentified rpoB mutation
+conferring resistance to rifampicin. Isolates carrying both vapA and erm(51) were
+rarely found, indicating either a recent acquisition of erm(51) and/or impaired
+survival when isolates carry both genes. Isolates carrying erm(51) are closely
+related genetically and were likely selected by antimicrobial exposure in the
+environment.
+
+© 2020 Society for Applied Microbiology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/1462-2920.15020 
+PMID: 32291839 
+

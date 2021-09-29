@@ -1,0 +1,70 @@
+
+1. mSphere. 2020 Jul 15;5(4). pii: e00507-20. doi: 10.1128/mSphere.00507-20.
+
+Multiple Plasmid Vectors Mediate the Spread of fosA3 in
+Extended-Spectrum-β-Lactamase-Producing Enterobacterales Isolates from Retail
+Vegetables in China.
+
+Lv L(#)(1)(2), Huang X(#)(1), Wang J(3), Huang Y(1), Gao X(1), Liu Y(1), Zhou
+Q(1), Zhang Q(1), Yang J(1)(2), Guo JY(1), Liu JH(4)(2).
+
+Author information: 
+(1)College of Veterinary Medicine, National Risk Assessment Laboratory for
+Antimicrobial Resistant of Microorganisms in Animals, Guangdong Provincial Key
+Laboratory of Veterinary Pharmaceutics Development and Safety Evaluation, South
+China Agricultural University, Guangzhou, China.
+(2)Guangdong Laboratory for Lingnan Modern Agriculture, Guangzhou, China.
+(3)Key Laboratory of Prevention and Control of Biological Hazard Factors (Animal 
+Origin) for Agrifood Safety and Quality, Ministry of Agriculture of China,
+Yangzhou University, Yangzhou, China.
+(4)College of Veterinary Medicine, National Risk Assessment Laboratory for
+Antimicrobial Resistant of Microorganisms in Animals, Guangdong Provincial Key
+Laboratory of Veterinary Pharmaceutics Development and Safety Evaluation, South
+China Agricultural University, Guangzhou, China jhliu@scau.edu.cn.
+(#)Contributed equally
+
+The plasmid-mediated fosfomycin resistance gene fosA3 has been detected in
+Enterobacterales from various sources but has rarely been reported in vegetables.
+In this study, the aim was to investigate the prevalence of and, subsequently, to
+characterize fosA3-positive Enterobacterales isolates from retail vegetables.
+Seventeen (7.3%) fosA3-carrying strains were identified from 233
+extended-spectrum-β-lactamase-producing Enterobacterales isolates from
+vegetables. All 17 isolates, including six Escherichia coli, seven Klebsiella
+pneumoniae, two Raoultella ornithinolytica, and two Citrobacter freundii
+isolates, carried bla CTX-M S1-nuclease pulsed-field gel electrophoresis
+(S1-PFGE) and hybridization confirmed that the fosA3 genes in 16 isolates were
+located on plasmids ranging in size from ∼40 kb to ∼250 kb, except one located on
+chromosome of C. freundii All the fosA3-carrying plasmids from 16 fosA3-positive 
+isolates were successfully transferred into the recipient bacteria by
+transformation or conjugation. In agreement with data determined with isolates
+from food animals, the IncHI2/ST3 and IncN-F33:A-:B-/F33:A-:B plasmids were the
+main vectors of fosA3 in E. coli Additionally, F24:A-:B1, IncFIIK-IncR, IncFIIS, 
+IncR, and two untypeable plasmids were found for the first time to be vectors for
+fosA3 in Enterobacterales The genetic contexts of fosA3 in 15 Enterobacterales
+isolates differed due to insertion and/or loss of molecular modules mediated by
+mobile elements. However, all fosA3 genes were flanked by IS26, as commonly
+observed in other fosA3-carrying plasmids. Here, we report a high rate of
+detection of fosA3 genes, mediated by multiple plasmid vectors, in ESBL-producing
+Enterobacterales from retail vegetables. FosA3-producing Enterobacterales could
+be transmitted to the human body by direct contact or consumption of vegetables, 
+which might pose a potential threat to public health.IMPORTANCE This report
+provides important information on the transmission and epidemiology of fosA3
+among Enterobacterales isolates from vegetables. The rate of occurrence of fosA3 
+in ESBL-producing Enterobacterales from retail vegetables is high, and fosA3 was 
+found to be carried by diverse plasmids. Some novel genetic contexts of fosA3 and
+novel fosA3-carrying plasmids, including several plasmid types common in K.
+pneumoniae, were identified, increasing the number of known transfer vectors for 
+the fosA3 gene and reflecting the complexity of fosA3 transmission in
+Enterobacterales The capture of fosA3 by the resident plasmid of K. pneumoniae
+will accelerate the spread of fosA3 in K. pneumoniae, one of the most pathogenic 
+species in clinical medicine. Considering the clinical importance of fosfomycin, 
+and the fact that vegetables are directly consumed, the fosfomycin resistance
+genes present a risk of transmission to the human body through the food chain and
+thus pose a threat to public health.
+
+Copyright © 2020 Lv et al.
+
+DOI: 10.1128/mSphere.00507-20 
+PMCID: PMC7364219
+PMID: 32669475 
+

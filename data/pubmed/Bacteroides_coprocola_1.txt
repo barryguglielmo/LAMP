@@ -1,0 +1,62 @@
+
+1. Sci Rep. 2020 Apr 15;10(1):6436. doi: 10.1038/s41598-020-63475-w.
+
+Gut metagenomic and short chain fatty acids signature in hypertension: a
+cross-sectional study.
+
+Calderón-Pérez L(1)(2), Gosalbes MJ(3)(4), Yuste S(5), Valls RM(6)(7), Pedret
+A(1)(2), Llauradó E(2), Jimenez-Hernandez N(3)(4), Artacho A(3)(4), Pla-Pagà
+L(1)(2), Companys J(1)(2), Ludwig I(1), Romero MP(5), Rubió L(8)(9), Solà
+R(1)(2)(10).
+
+Author information: 
+(1)Eurecat, Centre Tecnològic de Catalunya, Unitat de Nutrició i Salut, Reus,
+Spain.
+(2)Universitat Rovira i Virgili, Facultat de Medicina i Ciències de la Salut,
+Functional Nutrition, Oxidation, and Cardiovascular Diseases Group (NFOC-Salut), 
+C/Sant Llorenç 21, 43201, Reus, Spain.
+(3)Fundación para el Fomento de la Investigación Sanitaria y Biomédica, Valencia,
+Spain.
+(4)CIBER en Epidemiología y Salud Pública (CIBEResp), Madrid, Spain.
+(5)Food Technology Department, XaRTA-TPV, Agrotecnio Center, Escola Tècnica
+Superior d'Enginyeria Agrària, University of Lleida, Avda/Alcalde Rovira Roure
+191, 25198, Lleida, Catalonia, Spain.
+(6)Eurecat, Centre Tecnològic de Catalunya, Unitat de Nutrició i Salut, Reus,
+Spain. rosamaria.valls@urv.cat.
+(7)Universitat Rovira i Virgili, Facultat de Medicina i Ciències de la Salut,
+Functional Nutrition, Oxidation, and Cardiovascular Diseases Group (NFOC-Salut), 
+C/Sant Llorenç 21, 43201, Reus, Spain. rosamaria.valls@urv.cat.
+(8)Universitat Rovira i Virgili, Facultat de Medicina i Ciències de la Salut,
+Functional Nutrition, Oxidation, and Cardiovascular Diseases Group (NFOC-Salut), 
+C/Sant Llorenç 21, 43201, Reus, Spain. laura.rubio@udl.cat.
+(9)Food Technology Department, XaRTA-TPV, Agrotecnio Center, Escola Tècnica
+Superior d'Enginyeria Agrària, University of Lleida, Avda/Alcalde Rovira Roure
+191, 25198, Lleida, Catalonia, Spain. laura.rubio@udl.cat.
+(10)Hospital Universitari Sant Joan de Reus, Reus, Spain.
+
+Hypertension is an independent and preventable risk factor for the development
+of cardiovascular diseases, however, little is known about the impact of gut
+microbiota composition in its development. We carried out comprehensive gut
+microbiota analysis and targeted metabolomics in a cross-sectional study of 29
+non-treated hypertensive (HT) and 32 normotensive (NT) subjects. We determined
+fecal microbiota composition by 16S rRNA gene sequencing and bacterial functions 
+by metagenomic analysis. The microbial metabolites analysed were short chain
+fatty acids (SCFA) both in plasma and feces, and trimethylamine N-oxide (TMAO) in
+plasma. The overall bacterial composition and diversity of bacterial community in
+the two groups were not significantly different. However, Ruminococcaceae
+NK4A214, Ruminococcaceae_UCG-010, Christensenellaceae_R-7, Faecalibacterium
+prausnitzii and Roseburia hominis were found to be significantly enriched in NT
+group, whereas, Bacteroides coprocola, Bacteroides plebeius and genera of
+Lachnospiraceae were increased in HT patients. We found a positive correlation
+between the HT-associated species and systolic and diastolic blood pressure after
+adjusted for measured confounders. SCFA showed antagonistic results in plasma and
+feces, detecting in HT subjects significant higher levels in feces and lower
+levels in plasma, which could indicate a less efficient SCFA absorption. Overall,
+our results present a disease classifier based on microbiota and bacterial
+metabolites to discriminate HT individuals from NT controls in a first disease
+grade prior to drug treatment.
+
+DOI: 10.1038/s41598-020-63475-w 
+PMCID: PMC7160119
+PMID: 32296109 
+

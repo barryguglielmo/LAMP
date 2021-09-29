@@ -1,0 +1,49 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jan;70(1):473-480. doi: 10.1099/ijsem.0.003778.
+
+Alistipes communis sp. nov., Alistipes dispar sp. nov. and Alistipes onderdonkii 
+subsp. vulgaris subsp. nov., isolated from human faeces, and creation of
+Alistipes onderdonkii subsp. onderdonkii subsp. nov.
+
+Sakamoto M(1)(2), Ikeyama N(2), Ogata Y(3), Suda W(3), Iino T(2), Hattori
+M(4)(3), Ohkuma M(2).
+
+Author information: 
+(1)PRIME, Japan Agency for Medical Research and Development (AMED), Tsukuba,
+Ibaraki 305-0074, Japan.
+(2)Microbe Division/Japan Collection of Microorganisms, RIKEN BioResource
+Research Center, Tsukuba, Ibaraki 305-0074, Japan.
+(3)Laboratory for Microbiome Sciences, RIKEN Center for Integrative Medical
+Sciences, 1-7-22 Suehirocho, Tsurumi-ku, Yokohama 230-0045, Japan.
+(4)Graduate School of Advanced Science and Engineering, Waseda University, 3-4-1 
+Okubo, Shinjuku-ku, Tokyo 169-8555, Japan.
+
+Three groups of Gram-stain-negative, obligately anaerobic, rod or coccoid-shaped 
+bacteria, which were phylogenetically assigned in the genus Alistipes belonging
+to the family Rikenellaceae in the phylum Bacteroidetes, were isolated from the
+faecal samples of healthy Japanese humans. Group I (strains 5CBH24T and 6CPBBH3) 
+showed highest 16S rRNA gene sequence similarity to 'Alistipes obesi' ph8T
+(99.73 %). Group II (strain 5CPEGH6T) was related to Alistipes shahii WAL 8301T
+(96.82 %). Ten strains of group III (3BBH6T, 5CPYCFAH4, 5NYCFAH2 and others) were
+related to Alistipes onderdonkii DSM 19147T (98.96 %). Group I could be
+differentiated from other strains by the ability to hydrolyse aesculin and the
+lack of catalase activity. Strain 5CPEGH6T could be differentiated from A. shahii
+JCM 16773T by the inability to hydrolyse aesculin and the lack of catalase
+activity, and so on. Phenotypic characteristics of group III were similar to
+those of A. onderdonkii JCM 16771T. Strains 5CBH24T, 6CPBBH3 and 'A. obesi' ph8T 
+shared 98.8-98.9 % average nucleotide identity (ANI) with each other. In
+addition, the in silico DNA-DNA hybridization (DDH) values among three strains
+were 86.7-89.4 %. Strain 5CPEGH6T showed relatively low values (≤ 84.4 % for ANI 
+; ≤26.2 % for DDH) with other strains. Three strains in the group III (3BBH6T,
+5CPYCFAH4 and 5NYCFAH2) shared 97.9-99.9% ANI with each other. These three
+strains showed 96.9-97.3 % ANI with A. onderdonkii DSM 19147T. The DDH values of 
+strains 3BBH6T, 5CPYCFAH4 and 5NYCFAH2 among themselves were 80.5-99.8 %, while
+those compared to A. onderdonkii DSM 19147T were 71.0-73.4 %. On the basis of the
+collected data, three novel species, Alistipes communis sp. nov. (5CBH24T=JCM
+32850T=DSM 108979T), Alistipes dispar sp. nov. (5CPEGH6T=JCM 32848T=DSM 108978T) 
+and Alistipes onderdonkii subsp. vulgaris subsp. nov. (3BBH6T=JCM 32839T=DSM
+108977T), are proposed.
+
+DOI: 10.1099/ijsem.0.003778 
+PMID: 31633480  [Indexed for MEDLINE]
+

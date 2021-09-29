@@ -1,0 +1,33 @@
+
+1. Microbiol Resour Announc. 2020 Jun 4;9(23). pii: e00402-20. doi:
+10.1128/MRA.00402-20.
+
+Draft Genome Sequence of Actinomyces neuii UMB1295, Isolated from the Female
+Urinary Tract.
+
+Markovic T(1)(2), Miller-Ensminger T(3), Voukadinova A(3), Wolfe AJ(4), Putonti
+C(5)(3)(4)(6).
+
+Author information: 
+(1)Neuroscience Program, Loyola University Chicago, Chicago, Illinois, USA.
+(2)Department of Biology, Loyola University Chicago, Chicago, Illinois, USA.
+(3)Bioinformatics Program, Loyola University Chicago, Chicago, Illinois, USA.
+(4)Department of Microbiology and Immunology, Stritch School of Medicine, Loyola 
+University Chicago, Maywood, Illinois, USA.
+(5)Department of Biology, Loyola University Chicago, Chicago, Illinois, USA
+cputonti@luc.edu.
+(6)Department of Computer Science, Loyola University Chicago, Chicago, Illinois, 
+USA.
+
+Actinomyces neuii is an opportunistic pathogen. Within the urogenital tract, it
+has been associated with bacterial vaginosis and overactive bladder symptoms.
+Here, we investigate a draft genome sequence of A. neuii UMB1295, which was
+isolated from a catheterized urine sample from a woman with a urinary tract
+infection.
+
+Copyright © 2020 Markovic et al.
+
+DOI: 10.1128/MRA.00402-20 
+PMCID: PMC7272554
+PMID: 32499345 
+

@@ -1,0 +1,72 @@
+
+1. Nat Microbiol. 2020 May;5(5):735-745. doi: 10.1038/s41564-020-0676-2. Epub 2020
+Apr 27.
+
+Niche specialization and spread of Staphylococcus capitis involved in neonatal
+sepsis.
+
+Wirth T(1)(2), Bergot M(3), Rasigade JP(4)(3)(5), Pichon B(6), Barbier M(4),
+Martins-Simoes P(3)(5), Jacob L(7), Pike R(6), Tissieres P(8)(9), Picaud JC(10), 
+Kearns A(6), Supply P(11), Butin M(12)(13), Laurent F(3)(5); International
+Consortium for Staphylococcus capitis neonatal sepsis; ESGS Study Group of
+ESCMID.
+
+Collaborators: Adamkova V, Barkham T, Becker K, Bennett D, Claris O, Creech CB,
+De Lencastre H, Deighton M, Denis O, Ferguson J, Huang YC, Klingenberg C,
+Ingebretsen A, Laferrière C, Dos Santos KRN, Schrenzel J, Spiliopoulou I, Stefani
+S, TaekSoo K, Tarkka E, Friedrich A, Vandenbroucke-Grauls C, Ussher J, Vandenesch
+F, Westblade L, Lindsay J, Vandenesch F, Larsen AR, Zanger P, Kahl BC, Aymerich
+CP.
+
+Author information: 
+(1)Institut Systématique Evolution Biodiversité (ISYEB), Muséum national
+d'Histoire naturelle, CNRS, Sorbonne Université, Université des Antilles, EPHE,
+Paris, France. wirth@mnhn.fr.
+(2)PSL University, EPHE, Paris, France. wirth@mnhn.fr.
+(3)Institut des Agents Infectieux, Département de Bactériologie, Centre National 
+de Référence des Staphylocoques, Hospices Civils de Lyon, Lyon, France.
+(4)Institut Systématique Evolution Biodiversité (ISYEB), Muséum national
+d'Histoire naturelle, CNRS, Sorbonne Université, Université des Antilles, EPHE,
+Paris, France.
+(5)Centre International de recherche en Infectiologie, INSERM U1111 - CNRS
+UMR5308 - ENS Lyon - Université Lyon 1, Lyon, France.
+(6)Staphylococcus Reference Section, National Infection Service, Public Health
+England, London, UK.
+(7)Laboratoire Biométrie et Biologie Evolutive, CNRS UMR5558, Université Lyon 1, 
+Lyon, France.
+(8)Institut de Biologie de la cellule (I2BC-UMR9198), CNRS, CEA, Univ. Paris Sud,
+Université Paris Saclay, Gif-sur-Yvette, France.
+(9)Service de Réanimation Néonatale, Hôpitaux Universitaires Paris Sud APHP, Le
+Kremlin-Bicêtre, Paris, France.
+(10)Service de Réanimation Néonatale, Hôpital Croix Rousse, Hospices Civils de
+Lyon, Lyon, France.
+(11)Université de Lille, CNRS, Inserm, CHU Lille, Institut Pasteur de Lille,
+U1019 - UMR 8204 - CIIL - Centre d'Infection et d'Immunité de Lille, Lille,
+France.
+(12)Centre International de recherche en Infectiologie, INSERM U1111 - CNRS
+UMR5308 - ENS Lyon - Université Lyon 1, Lyon, France. marine.butin@chu-lyon.fr.
+(13)Service de Réanimation Néonatale, Hôpital Femme Mère Enfant, Hospices Civils 
+de Lyon, Lyon, France. marine.butin@chu-lyon.fr.
+
+The multidrug-resistant Staphylococcus capitis NRCS-A clone is responsible for
+sepsis in preterm infants in neonatal intensive care units (NICUs) worldwide.
+Here, to retrace the spread of this clone and to identify drivers of its specific
+success, we investigated a representative collection of 250 S. capitis isolates
+from adults and newborns. Bayesian analyses confirmed the spread of the NRCS-A
+clone and enabled us to date its emergence in the late 1960s and its expansion
+during the 1980s, coinciding with the establishment of NICUs and the increasing
+use of vancomycin in these units, respectively. This dynamic was accompanied by
+the acquisition of mutations in antimicrobial resistance- and
+bacteriocin-encoding genes. Furthermore, combined statistical tools and a
+genome-wide association study convergently point to vancomycin resistance as a
+major driver of NRCS-A success. We also identified another S. capitis subclade
+(alpha clade) that emerged independently, showing parallel evolution towards NICU
+specialization and non-susceptibility to vancomycin, indicating convergent
+evolution in NICU-associated pathogens. These findings illustrate how the broad
+use of antibiotics can repeatedly lead initially commensal drug-susceptible
+bacteria to evolve into multidrug-resistant clones that are able to successfully 
+spread worldwide and become pathogenic for highly vulnerable patients.
+
+DOI: 10.1038/s41564-020-0676-2 
+PMID: 32341568  [Indexed for MEDLINE]
+

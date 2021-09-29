@@ -1,0 +1,65 @@
+
+1. Clin Nutr. 2020 May 11. pii: S0261-5614(20)30218-1. doi:
+10.1016/j.clnu.2020.05.002. [Epub ahead of print]
+
+Gut microbiota alteration in a mouse model of Anorexia Nervosa.
+
+Breton J(1), Tirelle P(2), Hasanat S(2), Pernot A(2), L'Huillier C(2), do Rego
+JC(3), Déchelotte P(1), Coëffier M(1), Bindels LB(4), Ribet D(5).
+
+Author information: 
+(1)Normandie Univ, UNIROUEN, INSERM UMR1073, Nutrition, inflammation et
+dysfonction de l'axe intestin-cerveau, Rouen, France; Normandie Univ, UNIROUEN,
+Institute for Research and Innovation in Biomedicine (IRIB), Rouen, France; Rouen
+University Hospital, Nutrition Department, Rouen, France.
+(2)Normandie Univ, UNIROUEN, INSERM UMR1073, Nutrition, inflammation et
+dysfonction de l'axe intestin-cerveau, Rouen, France; Normandie Univ, UNIROUEN,
+Institute for Research and Innovation in Biomedicine (IRIB), Rouen, France.
+(3)Normandie Univ, UNIROUEN, Institute for Research and Innovation in Biomedicine
+(IRIB), Rouen, France; Normandie Univ, UNIROUEN, Behavioural Analysis Platform
+(SCAC), Rouen, France.
+(4)Metabolism and Nutrition Research Group, Louvain Drug Research Institute,
+Université catholique de Louvain, Brussels, Belgium.
+(5)Normandie Univ, UNIROUEN, INSERM UMR1073, Nutrition, inflammation et
+dysfonction de l'axe intestin-cerveau, Rouen, France; Normandie Univ, UNIROUEN,
+Institute for Research and Innovation in Biomedicine (IRIB), Rouen, France.
+Electronic address: david.ribet@inserm.fr.
+
+BACKGROUND & AIMS: Anorexia Nervosa is a severe disease depending on both
+biological, psychological and environmental factors. The gut microbiota has
+recently been proposed as one of the biological factors potentially involved in
+the onset or maintenance of Anorexia Nervosa. To unravel the potential role of
+the gut microbiota in this disease, we characterized the dysbiosis occurring in a
+mouse model of Anorexia and correlated bacteria level changes with different
+physiological parameters such as body weight, food intake or levels of
+hypothalamic neuropeptides.
+METHODS: We used the Activity-Based Anorexia (ABA) mouse model, which combines
+food restriction and physical activity, and which mimics core features of
+Anorexia Nervosa. We characterized the gut microbiota alteration in ABA mice by
+combining 16S rRNA gene sequencing and quantitative PCR analyses of targeted
+genera or species.
+RESULTS: We identified 68 amplicon sequence variants (ASVs) with decreased levels
+and 8 ASVs with increased levels in the cecal content of ABA mice compared to
+control mice. We observed in particular in ABA mice increases in the abundance of
+Clostridium cocleatum and several Lactobacillus species and a decrease in the
+abundance of Burkholderiales compared to control mice. Interestingly, we show
+that most of the observed gut microbiota alterations are due to food restriction 
+and are not affected by physical activity. In addition, we identified several
+bacterial groups that correlate with mice body weight, food intake, lean and fat 
+masses as well as with hypothalamic mRNA levels of NPY (Neuropeptide Y) and POMC 
+(Pro-opiomelanocortin).
+CONCLUSIONS: Our study provides a comprehensive characterization of the gut
+microbiota dysbiosis occurring in the Activity-Based Anorexia mouse model. These 
+data constitute a valuable resource to further decipher the role of the gut
+microbiota in the different facets of anorexia pathophysiology, such as
+functional gastrointestinal disorders, appetite regulation and mood disorders.
+
+Copyright © 2020 Elsevier Ltd and European Society for Clinical Nutrition and
+Metabolism. All rights reserved.
+
+DOI: 10.1016/j.clnu.2020.05.002 
+PMID: 32460959 
+
+Conflict of interest statement: Conflicts of interest PD is a co-founder of the
+TargEDys company; JB, PT, SH, AP, CL, JCDR, MC, LB, DR, no conflicts of interest.
+

@@ -1,0 +1,51 @@
+
+1. EClinicalMedicine. 2020 Jun 27;24:100427. doi: 10.1016/j.eclinm.2020.100427.
+eCollection 2020 Jul.
+
+Enrichment of the airway microbiome in people living with HIV with potential
+pathogenic bacteria despite antiretroviral therapy.
+
+Rofael SAD(1)(2), Brown J(3)(4), Pickett E(4), Johnson M(4), Hurst JR(3), Spratt 
+D(5), Lipman M(3)(4), McHugh TD(1).
+
+Author information: 
+(1)UCL Centre for Clinical Microbiology, Division of Infection & Immunity,
+University College London, Rowland Hill Street, London, NW3 2PF UK.
+(2)Faculty of Pharmacy, University of Alexandria, Egypt.
+(3)UCL Respiratory, Division of Medicine, University College London, UK.
+(4)Royal Free London NHS Foundation Trust, Pond Street, NW3 2QG London, UK.
+(5)Department of Microbial Diseases, UCL Eastman Dental Institute, UCL, 256
+Gray's Inn Rd, WC1 8LD London, UK.
+
+Background: Long-term antiretroviral therapy (ART) enables people living with HIV
+(PLW-HIV) to be healthier and live longer; though they remain at greater risk of 
+pneumonia and chronic lung disease than the general population. Lung microbial
+dysbiosis has been shown to contribute to respiratory disease.
+Methods: 16S-rRNA gene sequencing on the Miseq-platform and qPCR for typical
+respiratory pathogens were performed on sputum samples collected from 64 PLW-HIV 
+(median blood CD4 count 676 cells/μL) and 38 HIV-negative participants.
+Finding: Richness and α-diversity as well as the relative-abundance (RA) of the
+major taxa (RA>1%) were similar between both groups. In unweighted-Unifrac
+ß-diversity, the samples from PLW-HIV showed greater diversity, in contrast to
+the HIV negative samples which clustered together. Gut bacterial taxa such as
+Bilophila and members of Enterobacteriaceae as well as pathogenic respiratory
+taxa (Staphylococcus, Pseudomonas and Klebsiella) were significantly more
+frequent in PLW-HIV and almost absent in the HIV-negative group. Carriage of
+these taxa was correlated with the length of time between HIV diagnosis and
+initiation of ART (Spearman-rho=0·279, p=0·028).
+Interpretation: Although the core airway microbiome was indistinguishable between
+PLW-HIV on effective ART and HIV-negative participants, PLW-HIV's respiratory
+microbiome was enriched with potential respiratory pathogens and gut bacteria.
+The observed differences in PLW-HIV may be due to HIV infection altering the
+local lung microenvironment to be more permissive to harbour pathogenic bacteria 
+that could contribute to respiratory comorbidities. Prompt start of ART for
+PLW-HIV may reduce this risk.
+
+© 2020 The Author(s).
+
+DOI: 10.1016/j.eclinm.2020.100427 
+PMCID: PMC7327893
+PMID: 32637900 
+
+Conflict of interest statement: There were no conflicts of interests.
+

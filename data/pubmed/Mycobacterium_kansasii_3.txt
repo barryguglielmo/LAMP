@@ -1,0 +1,33 @@
+
+1. Int Microbiol. 2020 Sep 2. doi: 10.1007/s10123-020-00143-z. [Epub ahead of print]
+
+Detection of Mycobacterium kansasii using a combination of loop-mediated
+isothermal amplification (LAMP) and lateral flow biosensors.
+
+Chen C(1), Lu J(1), Long B(1), Rao Z(1), Gao Y(1), Wang W(1), Gao W(1), Yang
+J(1), Zhang S(2).
+
+Author information: 
+(1)Sichuan Center for Disease Control and Prevention, Chengdu, 610041, Sichuan
+Province, China.
+(2)Sichuan Center for Disease Control and Prevention, Chengdu, 610041, Sichuan
+Province, China. dulianyouchao@qq.com.
+
+Mycobacterium kansasii is an opportunistic pathogen that causes both
+intrapulmonary and extrapulmonary infections. The symptoms of the pulmonary
+diseases caused by M. kansasii closely resemble Mycobacterium tuberculosis. Rapid
+and accurate differentiation of M. kansasii from M. tuberculosis, as well as
+other mycobacteria, is crucial for developing effective therapeutics and disease 
+treatment. In this study, we combined loop-mediated isothermal amplification
+(LAMP) with lateral flow biosensors (LFB) to detect M. kansasii, by targeting the
+species-specific sequence of rpoB, a gene which encodes the β subunit of
+bacterial RNA polymerase. The assay was validated to ensure that it was highly
+selective by testing M. kansasii, M. tuberculosis, other species of respiratory
+bacteria, and other nontuberculous mycobacteria. The detection limit of the assay
+was 1 fg/μL of DNA and 50 CFU of bacilli in sputum. The M. kansasii-LAMP-LFB
+assay is a fast, cheap, and accurate method for detecting M. kansasii by constant
+temperature amplification and simple interpretation.
+
+DOI: 10.1007/s10123-020-00143-z 
+PMID: 32880033 
+

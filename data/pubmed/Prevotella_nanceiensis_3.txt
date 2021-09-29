@@ -1,0 +1,50 @@
+
+1. Int J Pediatr Otorhinolaryngol. 2019 Nov;126:109624. doi:
+10.1016/j.ijporl.2019.109624. Epub 2019 Aug 7.
+
+The bacteriome of otitis media with effusion: Does it originate from the adenoid?
+
+Ari O(1), Karabudak S(1), Kalcioglu MT(2), Gunduz AY(3), Durmaz R(4).
+
+Author information: 
+(1)Ankara Yildirim Beyazit University, Central Research and Application Center,
+Ankara, Turkey.
+(2)Istanbul Medeniyet University, Faculty of Medicine, Goztepe Training and
+Research Hospital, Department of Otorhinolaryngology, Istanbul, Turkey.
+Electronic address: mahmut.kalcioglu@medeniyet.edu.tr.
+(3)Istanbul Medeniyet University, Faculty of Medicine, Goztepe Training and
+Research Hospital, Department of Otorhinolaryngology, Istanbul, Turkey.
+(4)Ankara Yildirim Beyazit University, Central Research and Application Center,
+Ankara, Turkey; Ankara Yildirim Beyazit University, Faculty of Medicine
+Department of Clinical Microbiology, Ankara, Turkey.
+
+OBJECTIVE: The aim of this study was to evaluate the composition and the
+diversity of bacteriome in middle ear effusion (MEE) and adenoid specimens of
+pediatric patients having otitis media with effusion (OME).
+MATERIALS AND METHODS: Sample collection from children with OME followed by next 
+generation sequencing. Seventeen adenoid and 43 middle ear effusion specimens
+from 25 children having OME were evaluated. Microbiome analysis was performed via
+Ion 16S rRNA metagenomics kit.
+RESULTS: Twenty-two different bacterial species were identified from all of the
+samples analyzed. There were variations in the prevalence and relative abundance 
+of the bacteriome observed between adenoid and MEE samples. MEE microbiome was
+significantly dominated by Alloicoccus otitis (44%), Turicella otitidis (6%), and
+Staphylococcus auricularis (3%). Whereas, Rothia mucilaginosa (39%), R.
+dentocariosa (11%), S. aureus (5%), Veillonella rogosae (2%), Granulicatella
+elegans (2%), Granulicatella adiacens (2%), Eikenella corrodens (1%), and
+Prevotella nanceiensis (1%) had significantly higher relative abundance in
+adenoid samples. Overall, there was no statistically significant difference in
+alpha diversity of MEE and adenoid samples, whereas adenoid samples constituted a
+cluster in the beta diversity graph.
+CONCLUSION: Bacteriome of MEE is mostly dominated by A. otitis yet accompanied by
+other bacteria with lower relative abundances suggests that OME is likely to be a
+polymicrobial process. Despite similarities, significant differences in relative 
+abundances of several predominant species between bacteriome in the MEE and
+adenoid put the theory that OME in children is originated from the adenoids under
+question.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijporl.2019.109624 
+PMID: 31408742  [Indexed for MEDLINE]
+

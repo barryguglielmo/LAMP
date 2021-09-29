@@ -1,0 +1,40 @@
+
+1. Bioresour Technol. 2020 Nov;315:123855. doi: 10.1016/j.biortech.2020.123855. Epub
+2020 Jul 16.
+
+One-pot process for lactic acid production from wheat straw by an adapted
+Bacillus coagulans and identification of genes related to hydrolysate-tolerance.
+
+Ouyang S(1), Zou L(1), Qiao H(1), Shi J(1), Zheng Z(1), Ouyang J(2).
+
+Author information: 
+(1)Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest
+Resources, College of Chemical Engineering, Nanjing Forestry University, Nanjing 
+210037, People's Republic of China.
+(2)Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest
+Resources, College of Chemical Engineering, Nanjing Forestry University, Nanjing 
+210037, People's Republic of China. Electronic address: hgouyj@njfu.edu.cn.
+
+In this study, Bacillus coagulans CC17A with highly tolerant to hydrolysate was
+obtained through adaptive evolution. After 63 generations, the strain CC17A was
+stably in 45% (v/v) hydrolysate media and could digest multiple inhibitors in the
+hydrolysate. Based on its promising features, a one-pot process was developed to 
+produce lactic acid (LA) from wheat straw. After dilute acid pretreatment of
+wheat straw, simultaneous saccharification and co-fermentation was conducted
+using CC17A without any solid-liquid separation and pre-detoxification. Total
+35.50 g LA was produced from 80 g raw substrate and the production yield was as
+high as 70.9% of theoretical. To elucidate the tolerance mechanism,
+transcriptomic profiling of CC17A was studied. The highly up-regulated
+oxidoreductases and phenolic acid decarboxylase are considered to be involved
+with the inhibitors-tolerance of B. coagulans CC17A.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biortech.2020.123855 
+PMID: 32707506  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

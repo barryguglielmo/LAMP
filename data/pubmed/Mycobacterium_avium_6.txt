@@ -1,0 +1,50 @@
+
+1. Prev Vet Med. 2020 Sep 16;183:105152. doi: 10.1016/j.prevetmed.2020.105152. [Epub
+ahead of print]
+
+Modelling spread and surveillance of Mycobacterium avium subsp. paratuberculosis 
+in the Swedish cattle trade network.
+
+Rosendal T(1), Widgren S(2), Ståhl K(2), Frössling J(3).
+
+Author information: 
+(1)Department of Disease Control and Epidemiology, National Veterinary Institute 
+(SVA), SE-751 89 Uppsala, Sweden. Electronic address: thomas.rosendal@sva.se.
+(2)Department of Disease Control and Epidemiology, National Veterinary Institute 
+(SVA), SE-751 89 Uppsala, Sweden.
+(3)Department of Disease Control and Epidemiology, National Veterinary Institute 
+(SVA), SE-751 89 Uppsala, Sweden; Department of Animal Environment and Health,
+Swedish University of Agricultural Sciences, PO Box 234, SE-532 23 Skara, Sweden.
+
+To monitor a state of disease freedom and to ensure a timely detection of new
+introductions of disease, surveillance programmes need be evaluated prior to
+implementation. We present a strategy to evaluate surveillance of Mycobacterium
+avium subsp. paratuberculosis (MAP) using simulated testing of bulk milk in an
+infectious disease spread model. MAP is a globally distributed, chronic
+infectious disease with substantial animal health impact. Designing surveillance 
+for this disease poses specific challenges because methods for surveillance
+evaluation have focused on estimating surveillance system sensitivity and
+probability of freedom from disease and do not account for spread of disease or
+complex and changing population structure over long periods. The aims of the
+study were to 1. define a model that describes the spread of MAP within and
+between Swedish herds; 2. define a method for simulation of imperfect diagnostic 
+testing in this framework; 3. to compare surveillance strategies to support
+surveillance design choices. The results illustrate how this approach can be used
+to identify differences between the probability of detecting disease in the
+population based on choices of the number of herds sampled and the use of
+risk-based or random selection of these herds. The approach was also used to
+assess surveillance to detect introduction of disease and to detect a very low
+prevalence endemic state. The use of bulk milk sampling was determined to be an
+effective method to detect MAP in the population with as few as 500 herds tested 
+per year if the herd-level prevalence was 0.2 %. However, detection of point
+introductions in the population was unlikely in the 13-year simulation period
+even if as many as 2000 herds were tested per year. Interestingly, the use of a
+risk-based selection strategy was found to be a disadvantage to detect MAP given 
+the modelled disease dynamics.
+
+Copyright © 2020 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.prevetmed.2020.105152 
+PMCID: PMC7493800
+PMID: 32979661 
+

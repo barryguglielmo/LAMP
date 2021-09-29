@@ -1,0 +1,62 @@
+
+1. Gut. 2020 Jun;69(6):1076-1084. doi: 10.1136/gutjnl-2019-318717. Epub 2019 Oct 10.
+
+No distinct microbiome signature of irritable bowel syndrome found in a Swedish
+random population.
+
+Hugerth LW(1), Andreasson A(2)(3)(4), Talley NJ(5), Forsberg AM(3), Kjellström
+L(6), Schmidt PT(3), Agreus L(7), Engstrand L(8)(9).
+
+Author information: 
+(1)Center for Translational Microbiome Research, CTMR, Department of
+Microbiology, Tumour and Cell Biology (MTC), Karolinska Institutet, Science for
+Life Laboratory, Solna, Sweden.
+(2)Stress Research Institute, Stockholm University, Stockholm, Sweden.
+(3)Department of Medicine, Karolinska University Hospital, Solna, Sweden.
+(4)Department of Psychology, Macquarie University, Sydney, New South Wales,
+Australia.
+(5)Health, University of Newcastle, Callaghan, New South Wales, Australia.
+(6)Gastromottagning City, Stockholm, Sweden.
+(7)Center for Family and Community Medicine, Karolinska Institutet, Stockholm,
+Sweden.
+(8)Center for Translational Microbiome Research, CTMR, Department of
+Microbiology, Tumour and Cell Biology (MTC), Karolinska Institutet, Science for
+Life Laboratory, Solna, Sweden lars.engstrand@ki.se.
+(9)Bacteriology, Swedish Institute for Communicable Disease Control, Stockholm,
+Sweden.
+
+OBJECTIVE: The ethiopathogenesis of irritable bowel syndrome (IBS) is unknown.
+While a link to the gut microbiome is postulated, the heterogeneity of the
+healthy gut makes it difficult to draw definitive conclusions. We aimed to
+describe the faecal and mucosa-associated microbiome (MAM) and health correlates 
+on a community cohort of healthy and IBS individuals with no colonoscopic
+findings.
+DESIGN: The PopCol study recruited a random sample of 3556 adults; 745 underwent 
+colonoscopy. IBS was defined by Rome IV criteria and organic disease excluded.
+16S rRNA gene sequencing was conducted on sigmoid biopsy samples from 376
+representative individuals (63 IBS cases) and faecal samples from 185 individuals
+(32 IBS cases).
+RESULTS: While sigmoid MAM was dominated by Lachnospiraceae, faeces presented a
+higher relative abundance of Ruminococcaceae. Microbial richness in MAM was
+linearly correlated to that in faeces from the same individual (R²=0.255,
+p<3E-11) as was diversity (R²=0.06, p=0.0022). MAM diversity decreased with
+increasing body mass index (BMI; Pearson's r=-0.1, p=0.08) and poorer self-rated 
+health (r=-0.15, p=0.007), but no other health correlates. Faecal microbiome
+diversity was correlated to stool consistency (r=-0.16, p=0.043). Several
+taxonomic groups were correlated to age, BMI, depression and self-reported
+health, including Coprococcus catus associated with lower levels of depression
+(r=-0.003, p=0.00017). The degree of heterogeneity observed between IBS patients 
+is higher than that observed between healthy individuals.
+CONCLUSIONS: No distinct microbial signature was observed in IBS. Individuals
+presenting with low self-rated health or high BMI have lower gut microbiome
+richness.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/gutjnl-2019-318717 
+PMCID: PMC7282555
+PMID: 31601615 
+
+Conflict of interest statement: Competing interests: None declared.
+

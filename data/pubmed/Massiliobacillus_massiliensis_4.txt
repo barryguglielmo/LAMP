@@ -1,0 +1,42 @@
+
+1. FEMS Microbiol Lett. 2020 Aug 1;367(16). pii: fnaa135. doi:
+10.1093/femsle/fnaa135.
+
+A toddler SHIME® model to study microbiota of young children.
+
+Bondue P(1), Lebrun S(1), Taminiau B(1), Everaert N(2), LaPointe G(3), Crevecoeur
+S(1), Daube G(1), Delcenserie V(1).
+
+Author information: 
+(1)Department of Food Science, Fundamental and Applied Research for Animal and
+Health, Faculty of Veterinary Medicine, University of Liège, Quartier Vallée 2,
+Avenue de Cureghem 10, 4000 Liège, Belgium.
+(2)Precision Livestock and Nutrition Unit, Gembloux Agro-Bio Tech, University of 
+Liège, Passage des déportés 2, 5030 Gembloux, Belgium.
+(3)Canadian Research institute for Food safety, University of Guelph, N1G
+2W1Guelph, Canada.
+
+The 'first 1000 days of life' determine the gut microbiota composition and can
+have long-term health consequences. In this study, the simulator of the human
+intestinal microbial ecosystem (SHIME®) model, which represents the main
+functional sections of the digestive tract, was chosen to study the microbiota of
+young children. The aim of this study was to reproduce the digestive process of
+toddlers and their specific colonic environment. The ascending, transverse and
+descending colons of SHIME® model were inoculated with feces from three donors
+aged between 1 and 2 years-old, in three separate runs. For each run, samples
+from colon vessels were collected at days 14, 21 and 28 after microbiota
+stabilization period. Short chain fatty acid concentrations determined by HPLC
+showed that microbiota obtained in SHIME® model shared characteristics between
+adults and infants. In addition, microbial diversity and bacterial populations
+determined by 16S rRNA amplicon sequencing were specific to each colon vessel. In
+conclusion, the SHIME® model developed in this study seemed well adapted to
+evaluate prebiotic and probiotic impact on the specific microbiota of toddlers,
+or medicine and endocrine disruptor metabolism. Moreover, this study is the first
+to highlight some biofilm development in in vitro gastrointestinal modelling
+systems.
+
+© FEMS 2020.
+
+DOI: 10.1093/femsle/fnaa135 
+PMID: 32840558 
+

@@ -1,0 +1,42 @@
+
+1. Clin Chem Lab Med. 2020 Feb 25;58(3):340-349. doi: 10.1515/cclm-2019-0657.
+
+Gut microbiome investigation in celiac disease: from methods to its pathogenetic 
+role.
+
+Sacchetti L(1)(2), Nardelli C(1)(2)(3).
+
+Author information: 
+(1)CEINGE-Biotecnologie Avanzate SCarl, Naples, Italy.
+(2)Task Force on Microbiome Studies, Università degli Studi di Napoli Federico II
+and CEINGE-Biotecnologie Avanzate SCarl, Naples, Italy.
+(3)Dipartimento di Medicina Molecolare e Biotecnologie Mediche, Università degli 
+Studi di Napoli Federico II, Naples, Italy.
+
+Our body is inhabited by a variety of microbes (microbiota), mainly bacteria,
+that outnumber our own cells. Until recently, most of what we knew about the
+human microbiota was based on culture methods, whereas a large part of the
+microbiota is uncultivable, and consequently previous information was limited.
+The advent of culture-independent methods and, particularly, of next-generation
+sequencing (NGS) methodology, marked a turning point in studies of the microbiota
+in terms of its composition and of the genes encoded by these microbes
+(microbiome). The microbiome is influenced predominantly by environmental factors
+that cause a large inter-individual variability (~20%) being its heritability
+only 1.9%. The gut microbiome plays a relevant role in human physiology, and its 
+alteration ("dysbiosis") has been linked to a variety of inflammatory gut
+diseases, including celiac disease (CD). CD is a chronic, immune-mediated
+disorder that is triggered by both genetic (mainly HLA-DQ2/DQ8 haplotypes) and
+environmental factors (gluten), but, in recent years, a large body of
+experimental evidence suggested that the gut microbiome is an additional
+contributing factor to the pathogenesis of CD. In this review, we summarize the
+literature that has investigated the gut microbiome associated with CD, the
+methods and biological samples usually employed in CD microbiome investigations
+and the putative pathogenetic role of specific microbial alterations in CD. In
+conclusion, both gluten-microbe and host-microbe interactions drive the
+gluten-mediated immune response. However, it remains to be established whether
+the CD-associated dysbiosis is the consequence of the disease, a simple
+concomitant association or a concurring causative factor.
+
+DOI: 10.1515/cclm-2019-0657 
+PMID: 31494628 
+

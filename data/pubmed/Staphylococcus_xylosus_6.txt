@@ -1,0 +1,61 @@
+
+1. Front Cell Infect Microbiol. 2020 Jun 3;10:259. doi: 10.3389/fcimb.2020.00259.
+eCollection 2020.
+
+High Levels of Oxidative Stress Create a Microenvironment That Significantly
+Decreases the Diversity of the Microbiota in Diabetic Chronic Wounds and Promotes
+Biofilm Formation.
+
+Kim JH(1), Ruegger PR(2), Lebig EG(1), VanSchalkwyk S(3), Jeske DR(3), Hsiao
+A(2), Borneman J(2), Martins-Green M(1).
+
+Author information: 
+(1)Molecular, Cell and Systems Biology Department, University of California,
+Riverside, Riverside, CA, United States.
+(2)Microbiology and Plant Pathology Department, University of California,
+Riverside, Riverside, CA, United States.
+(3)Statistics Department, University of California, Riverside, Riverside, CA,
+United States.
+
+Diabetics chronic wounds are characterized by high levels of oxidative stress
+(OS) and are often colonized by biofilm-forming bacteria that severely compromise
+healing and can result in amputation. However, little is known about the role of 
+skin microbiota in wound healing and chronic wound development. We hypothesized
+that high OS levels lead to chronic wound development by promoting the
+colonization of biofilm-forming bacteria over commensal/beneficial bacteria. To
+test this hypothesis, we used our db/db -/- mouse model for chronic wounds where 
+pathogenic biofilms develop naturally after induction of high OS immediately
+after wounding. We sequenced the bacterial rRNA internal transcribed spacer (ITS)
+gene of the wound microbiota from wound initiation to fully developed chronic
+wounds. Indicator species analysis, which considers a species' fidelity and
+specificity, was used to determine which bacterial species were strongly
+associated with healing wounds or chronic wounds. We found that healing wounds
+were colonized by a diverse and dynamic bacterial microbiome that never developed
+biofilms even though biofilm-forming bacteria were present. Several clinically
+relevant species that are present in human chronic wounds, such as Cutibacterium 
+acnes, Achromobacter sp., Delftia sp., and Escherichia coli, were highly
+associated with healing wounds. These bacteria may serve as bioindicators of
+healing and may actively participate in the processes of wound healing and
+preventing pathogenic bacteria from colonizing the wound. In contrast, chronic
+wounds, which had high levels of OS, had low bacterial diversity and were
+colonized by several clinically relevant, biofilm-forming bacteria such as
+Pseudomonas aeruginosa, Enterobacter cloacae, Corynebacterium frankenforstense,
+and Acinetobacter sp. We observed unique population trends: for example, P.
+aeruginosa associated with aggressive biofilm development, whereas Staphylococcus
+xylosus was only present early after injury. These findings show that high levels
+of OS in the wound significantly altered the bacterial wound microbiome,
+decreasing diversity and promoting the colonization of bacteria from the skin
+microbiota to form biofilm. In conclusion, bacteria associated with non-chronic
+or chronic wounds could function as bioindicators of healing or non-healing
+(chronicity), respectively. Moreover, a better understanding of bacterial
+interactions between pathogenic and beneficial bacteria within an evolving
+chronic wound microbiota may lead to better solutions for chronic wound
+management.
+
+Copyright © 2020 Kim, Ruegger, Lebig, VanSchalkwyk, Jeske, Hsiao, Borneman and
+Martins-Green.
+
+DOI: 10.3389/fcimb.2020.00259 
+PMCID: PMC7283391
+PMID: 32582564 
+

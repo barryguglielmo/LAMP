@@ -1,0 +1,48 @@
+
+1. J Pediatr Gastroenterol Nutr. 2019 Dec;69(6):696-703. doi:
+10.1097/MPG.0000000000002461.
+
+Variation of Gut Mucosal Microbiome With Anti-Saccharomyces cerevisiae Antibody
+Status in Pediatric Crohn Disease.
+
+Kansal S(1)(2)(3), Catto-Smith AG(3)(4), Boniface K(2), Thomas S(2), Cameron
+DJ(1), Oliver M(1), Alex G(1), Kirkwood CD(2)(5), Wagner J(3)(6).
+
+Author information: 
+(1)Department of Gastroenterology and Clinical Nutrition, Royal Children's
+Hospital.
+(2)Enteric Virus Group, Murdoch Children's Research Institute.
+(3)Department of Pediatrics, University of Melbourne, Parkville, Victoria.
+(4)Department of Gastroenterology, Hepatology and Liver Transplant, Lady Cilento 
+Children's Hospital, Brisbane, Queensland, Australia.
+(5)Enteric and Diarrheal Diseases, Global Health, Bill and Melinda Gates
+Foundation, Seattle, WA.
+(6)Wellcome Trust, Sanger Institute, Cambridge, UK.
+
+OBJECTIVES: Crohn disease (CD) is a chronic relapsing condition possibly caused
+by a dysbiotic microbiome. Approximately 30% to 60% of patients with CD have
+anti-Saccharomyces cerevisiae antibody (ASCA), but any association with gut
+microbiota is unexplored. We hypothesized that ASCA positivity would predict a
+signature microbial status and clinical phenotype.
+METHODS: Ileocolonic mucosal biopsies were obtained from children with CD
+(n = 135), and controls without inflammatory bowel disease (n = 45). Comparison
+was made between ASCA status, microbial diversity, and clinical characteristics.
+RESULTS: ASCA was highly specific but poorly sensitive for the diagnosis of CD.
+In patients with CD, ASCA positivity was associated with older age (≥10 years),
+ileocolonic disease, and long-term risk of surgery. Microbial alpha and beta
+diversity were similar in patients with CD with or without ASCA, but
+significantly less when compared to noninflammatory bowel disease controls.
+Microbial richness was similar across all 3 groups. Fourteen bacterial species
+were associated with ASCA-positive patients with CD and 14 species with
+ASCA-negative patients (P < 0.05). After using a false discovery rate correction 
+Ruminococcus torques and bacterium Yersinia enterocolitica 61 remained
+significantly associated with CD ASCA positivity (P = 0.0178), whereas
+Enterobacter cloacae and Faecalibacterium prausnitzii were significantly
+associated with CD ASCA negativity (P = 0.0178 and 0.0342).
+CONCLUSION: ASCA-positive and ASCA-negative patients with CD have significant
+differences in gut microbiome composition, which could possibly be influencing
+the phenotype of the disease.
+
+DOI: 10.1097/MPG.0000000000002461 
+PMID: 31764438 
+

@@ -1,0 +1,38 @@
+
+1. Microorganisms. 2020 Sep 17;8(9). pii: E1427. doi: 10.3390/microorganisms8091427.
+
+A Protective Vaccine against Johne's Disease in Cattle.
+
+Phanse Y(1), Wu CW(2), Venturino AJ(2), Hansen C(2), Nelson K(3), Broderick
+SR(4), Steinberg H(2), Talaat AM(1)(2).
+
+Author information: 
+(1)Pan Genome Systems, Madison, WI 53719, USA.
+(2)Department of Pathobiological Sciences, University of Wisconsin-Madison,
+Madison, WI 53706, USA.
+(3)Research Animal Resources Center, University of Wisconsin-Madison, Madison, WI
+53706, USA.
+(4)Department of Materials Design and Innovation, University at Buffalo, State
+University of New York, New York, NY 14260, USA.
+
+Johne's disease (JD) caused by Mycobacterium avium subsp. paratuberculosis (M.
+paratuberculosis) is a chronic infection characterized by the development of
+granulomatous enteritis in wild and domesticated ruminants. It is one of the most
+significant livestock diseases not only in the USA but also globally, accounting 
+for USD 200-500 million losses annually for the USA alone with potential link to 
+cases of Crohn's disease in humans. Developing safe and protective vaccines is of
+a paramount importance for JD control in dairy cows. The current study evaluated 
+the safety, immunity and protective efficacy of a novel live attenuated vaccine
+(LAV) candidate with and without an adjuvant in comparison to an inactivated
+vaccine. Results indicated that the LAV, irrespective of the adjuvant presence,
+induced robust T cell immune responses indicated by proinflammatory cytokine
+production such as IFN-γ, IFN-α, TNF-α and IL-17 as well as strong response to
+intradermal skin test against M. paratuberculosis antigens. Furthermore, the LAV 
+was safe with minimal tissue pathology. Finally, calves vaccinated with
+adjuvanted LAV did not shed M. paratuberculosis post-challenge, a much-desired
+characteristic of an effective vaccine against JD. Together, this data suggests a
+strong potential of testing LAV in field trials to curb JD in dairy herds.
+
+DOI: 10.3390/microorganisms8091427 
+PMID: 32957508 
+

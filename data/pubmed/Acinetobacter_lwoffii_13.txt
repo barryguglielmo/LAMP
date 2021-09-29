@@ -1,0 +1,37 @@
+
+1. Sci Rep. 2020 Feb 19;10(1):2969. doi: 10.1038/s41598-020-59938-9.
+
+Abundance of mobile genetic elements in an Acinetobacter lwoffii strain isolated 
+from Transylvanian honey sample.
+
+Veress A(1), Nagy T(1), Wilk T(1), Kömüves J(1), Olasz F(1), Kiss J(2).
+
+Author information: 
+(1)Department of Genetics, Agricultural Biotechnology Institute, National
+Agricultural Research and Innovation Centre, Gödöllő, H-2100, Hungary.
+(2)Department of Genetics, Agricultural Biotechnology Institute, National
+Agricultural Research and Innovation Centre, Gödöllő, H-2100, Hungary.
+kiss.janos@abc.naik.hu.
+
+Based on phylogenetic analyses, strain M2a isolated from honey, an unexpected
+source of acinetobacters, was classified as Acinetobacter lwoffii. The genome of 
+this strain is strikingly crowded with mobile genetic elements. It harbours more 
+than 250 IS elements of 15 IS-families, several unit and compound transposons and
+15 different plasmids. These IS elements, including 30 newly identified ones,
+could be classified into at least 53 IS species. Regarding the plasmids, 13 of
+the 15 belong to the Rep-3 superfamily and only one plasmid, belonging to the
+"Low-GC" family, possesses a seemingly complete conjugative system. The other
+plasmids, with one exception, have a mobilization region of common pattern,
+consisting of the divergent mobA/mobL-family and mobS-, mobC- or traD-like genes 
+separated by an oriT-like sequence. Although two plasmids of M2a are almost
+identical to those of A. lwoffi strains isolated from gold mine or Pleistocene
+sediments, most of them have no close relatives. The presence of numerous
+plasmid-borne and chromosomal metal resistance determinants suggests that M2a
+previously has also evolved in a metal-polluted environment. The numerous,
+possibly transferable, plasmids and the outstanding number of transposable
+elements may reflect the high potential of M2a for rapid evolution.
+
+DOI: 10.1038/s41598-020-59938-9 
+PMCID: PMC7031236
+PMID: 32076091 
+

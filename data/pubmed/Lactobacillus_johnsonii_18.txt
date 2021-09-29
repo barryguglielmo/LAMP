@@ -1,0 +1,63 @@
+
+1. Microb Ecol. 2020 Aug;80(2):487-499. doi: 10.1007/s00248-020-01501-0. Epub 2020
+Mar 23.
+
+Vaginal Microbiome of Pregnant Indian Women: Insights into the Genome of Dominant
+Lactobacillus Species.
+
+Mehta O(1), Ghosh TS(1)(2), Kothidar A(1), Gowtham MR(1), Mitra R(1), Kshetrapal 
+P(3), Wadhwa N(3), Thiruvengadam R(3); GARBH-Ini study group, Nair GB(1),
+Bhatnagar S(3), Das B(4).
+
+Collaborators: Bhatnagar S, Das B, Wadhwa N, Kshetrapal PS, Balakrish Nair BG,
+Natchu UCM, Rath S, Sachdeva K, Sopory S, Misra S, Singh A, Sharma D,
+Thiruvengadam R, Maitra A, Majumder PP, Maiti TK, Salunke DM, Bahl M, Sharma S,
+Mehta U, Sindhu B, Arya S, Bharti R, Chellani H, Mittal P, Ramji S, Tripathi R,
+Garg A, Khurana A, Hari S, Gupta Y, Tandon N, Gupta R, Bal V.
+
+Author information: 
+(1)Molecular Genetics Laboratory, Translational Health Science and Technology
+Institute|, NCR Biotech Science Cluster, 3rd Milestone, Faridabad - Gurgaon
+Expressway, PO box #04, Faridabad, Haryana, 121001, India.
+(2)APC Microbiome Ireland, University College Cork, Cork, Ireland.
+(3)Pediatric Biology Center, Translational Health Science and Technology
+institute, NCR Biotech Science Cluster, Faridabad, India.
+(4)Molecular Genetics Laboratory, Translational Health Science and Technology
+Institute|, NCR Biotech Science Cluster, 3rd Milestone, Faridabad - Gurgaon
+Expressway, PO box #04, Faridabad, Haryana, 121001, India.
+bhabatosh@thsti.res.in.
+
+The trillions of microorganisms residing in the human body display varying
+degrees of compositional and functional diversities within and between
+individuals and contribute significantly to host physiology and susceptibility to
+disease. Microbial species present in the vaginal milieu of reproductive age
+women showed a large personal component and varies widely in different ethnic
+groups at the taxonomic, genomic, and functional levels. Lactobacillus iners, L. 
+crispatus, L. gasseri, L. jensenii, and L. johnsonii are most frequently detected
+bacterial species in the vaginal milieu of reproductive age women. However, we
+currently lack (i) an understanding of the baseline vaginal microbiota of
+reproductive age Indian women, (ii) the extent of taxonomic and functional
+variations of vaginal microbiota between individuals and (iii) the genomic
+repertoires of the dominant vaginal microbiota associated with the Indian
+subjects. In our study, we analyzed the metagenome of high vaginal swab (HVS)
+samples collected from 40 pregnant Indian women enrolled in the GARBH-Ini cohort.
+Composition and abundance of bacterial species was characterized by
+pyrosequencing 16S rRNA gene. We identified 3067 OTUs with ≥ 10 reads from four
+different bacterial phyla. Several species of lactobacilli were clustered into
+three community state types (CSTs). L. iners, L. crispatus, L. gasseri, and L.
+jensenii are the most frequently detected Lactobacillus species in the vaginal
+environment of Indian women. Other than Lactobacillus, several species of
+Halomonas were also identified in the vaginal environment of most of the women
+sampled. To gain genomic and functional insights, we isolated several
+Lactobacillus species from the HVS samples and explored their whole genome
+sequences by shotgun sequencing. We analyzed the genome of dominant Lactobacillus
+species, L. iners, L. crispatus, L. gasseri, and L. paragesseri to represent the 
+CSTs and identify functions that may influence the composition of complex vaginal
+microbial ecology. This study reports for the first time the vaginal microbial
+ecology of Indian women and genomic insights into L. iners, L. crispatus, L.
+gasseri, and L. paragesseri commonly found in the genital tract of reproductive
+age women.
+
+DOI: 10.1007/s00248-020-01501-0 
+PMID: 32206831 
+

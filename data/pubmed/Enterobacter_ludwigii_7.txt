@@ -1,0 +1,43 @@
+
+1. Heliyon. 2019 Nov 1;5(10):e02742. doi: 10.1016/j.heliyon.2019.e02742. eCollection
+2019 Oct.
+
+Screening of polycyclic aromatic hydrocarbon degrading bacterial isolates from
+oil refinery wastewater and detection of conjugative plasmids in polycyclic
+aromatic hydrocarbon tolerant and multi-metal resistant bacteria.
+
+Khatoon K(1), Malik A(1).
+
+Author information: 
+(1)Department of Agricultural Microbiology, Faculty of Agricultural Sciences,
+Aligarh Muslim University, Aligarh, 202002, Uttar Pradesh, India.
+
+Wastewater were collected from the effluent channel in the vicinity of Mathura
+oil refinery, U.P. (India) and analysed for physicochemical characteristics,
+heavy metals as well as organic compounds including PAHs. The interaction of PAHs
+and heavy metals with various group of microorganisms revealed the viable count
+of aerobic heterotrophs, asymbiotic nitrogen fixers, actinomycetes and fungi were
+found to be 2.38 × 106, 1.89 × 104, 2.20 × 104 CFU/mL and 8.76 × 103 CFU/mL
+respectively. We have selected and screened 50 bacterial isolates for their
+resistance/tolerance to heavy metal and PAHs. Out of 25 multi-metal resistant
+isolates, 6 were able to tolerate PAHs at the concentration of 5000 μg/mL
+(50μg/disc) to naphthalene, anthracene, phenanthrene and pyrene. The PAH
+degradation efficiency of the isolates was assessed using spectrophotometer with 
+100 μg/mL of phenanthrene and observed different degree of degradation ranging
+from 34-66% after 96 h of incubation. One of the bacterial isolates KWB3
+(identified as Enterobacter ludwigii by 16S rDNA sequencing) exhibited maximum
+degradation efficiency (66%) was further tested for phenanthrene degrading
+ability in the presence and absence of a co-substrate (glucose) in a mineral salt
+medium; and a number of metabolites were produced and detected by GC-MS which
+revealed the presence of benzocoumarin, phthalic acid, catechol and several low
+molecular weight compounds. The DNA derived from multi-metal and PAHs tolerant
+bacteria were PCR amplified using Inc specific primers and positive PCR products 
+were obtained with oriT and trfA2 of the IncP group; indicates that these
+bacteria have gene-mobilizing capacity.
+
+© 2019 The Authors.
+
+DOI: 10.1016/j.heliyon.2019.e02742 
+PMCID: PMC6838955
+PMID: 31720477 
+

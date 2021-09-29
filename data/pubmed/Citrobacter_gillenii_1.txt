@@ -1,0 +1,51 @@
+
+1. BMC Microbiol. 2020 Jan 6;20(1):5. doi: 10.1186/s12866-019-1668-3.
+
+In vitro synergy between sodium deoxycholate and furazolidone against
+enterobacteria.
+
+Le VVH(1), Olivera C(1), Spagnuolo J(1)(2), Davies IG(3), Rakonjac J(4).
+
+Author information: 
+(1)School of Fundamental Sciences, Massey University, Palmerston North, New
+Zealand.
+(2)Present Address: Department of Biomedicine, University Hospital Basel, 4031,
+Basel, Switzerland.
+(3)New Zealand Pharmaceuticals Ltd, Palmerston North, New Zealand.
+(4)School of Fundamental Sciences, Massey University, Palmerston North, New
+Zealand. j.rakonjac@massey.ac.nz.
+
+BACKGROUND: Antimicrobial combinations have been proven as a promising approach
+in the confrontation with multi-drug resistant bacterial pathogens. In the
+present study, we identify and characterize a synergistic interaction of
+broad-spectrum nitroreductase-activated prodrugs 5-nitrofurans, with a secondary 
+bile salt, Sodium Deoxycholate (DOC) in growth inhibition and killing of
+enterobacteria.
+RESULTS: Using checkerboard assay, we show that combination of nitrofuran
+furazolidone (FZ) and DOC generates a profound synergistic effect on growth
+inhibition in several enterobacterial species including Escherichia coli,
+Salmonella enterica, Citrobacter gillenii and Klebsiella pneumoniae. The
+Fractional Inhibitory Concentration Index (FICI) for DOC-FZ synergy ranges from
+0.125 to 0.35 that remains unchanged in an ampicillin-resistant E. coli strain
+containing a β-lactamase-producing plasmid. Findings from the time-kill assay
+further highlight the synergy with respect to bacterial killing in E. coli and
+Salmonella. We further characterize the mechanism of synergy in E. coli K12,
+showing that disruption of the tolC or acrA genes that encode components of
+multidrug efflux pumps causes, respectively, a complete or partial loss, of the
+DOC-FZ synergy. This finding indicates the key role of TolC-associated efflux
+pumps in the DOC-FZ synergy. Overexpression of Nitric Oxide-detoxifying enzyme
+Hmp results in a three-fold increase in FICI for DOC-FZ interaction, suggesting a
+role of nitric oxide in the synergy. We further demonstrate that DOC-FZ synergy
+is largely independent of NfsA and NfsB, the two major activation enzymes of the 
+nitrofuran prodrugs.
+CONCLUSIONS: This study is to our knowledge the first report of
+nitrofuran-deoxycholate synergy against Gram-negative bacteria, offering
+potential applications in antimicrobial therapeutics. The mechanism of DOC-FZ
+synergy involves FZ-mediated inhibition of TolC-associated efflux pumps that
+normally remove DOC from bacterial cells. One possible route contributing to that
+effect is via FZ-mediated nitric oxide production.
+
+DOI: 10.1186/s12866-019-1668-3 
+PMCID: PMC6945529
+PMID: 31906851 
+

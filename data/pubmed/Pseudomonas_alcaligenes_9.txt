@@ -1,0 +1,45 @@
+
+1. Bioelectrochemistry. 2020 Jun;133:107481. doi: 10.1016/j.bioelechem.2020.107481. 
+Epub 2020 Feb 11.
+
+Coupling of electricity generation and denitrification in three-phase
+single-chamber MFCs in high-salt conditions.
+
+Zeng F(1), Wu Y(1), Bo L(1), Zhang L(2), Liu W(1), Zhu Y(1).
+
+Author information: 
+(1)Environmental Science and Engineering College, Dalian Maritime University, 1
+Linghai Road, Dalian 116026, People's Republic of China.
+(2)Environmental Science and Engineering College, Dalian Maritime University, 1
+Linghai Road, Dalian 116026, People's Republic of China. Electronic address:
+dlzlh2008@163.com.
+
+High-salt conditions reduce the efficiency of electricity generation and nitrogen
+removal in microbial fuel cells (MFCs). In this work, we propose a three-phase
+single-chamber MFC (TP-MFC) by setting up a phase with immobilized cells in a
+conventional bipolar single-chamber MFC (common MFC). Cells from Halomonas were
+used as the immobilized phase, because these cells secrete the compatible solute 
+ectoine and exhibit simultaneous nitrification and denitrification (SND). This
+enhanced the efficiency of SND and subsequent electricity generation under
+high-salt conditions. The average voltage of TP-MFC generated during the stable
+period in the presence of 30 g/L NaCl was 439.3 mV, which was 55.2% higher than
+that generated in common MFC. In addition, the N-removal rate of TP-MFC at 72 h
+was 63.4%, which was 38.4% higher than that of common MFC. The 16S rRNA diversity
+analysis showed an improved abundance of Pseudomonas, Acinetobacter, Alcaligenes,
+and Halomonas in TP-MFC, indicating that the ectoine secreted by immobilized
+Halomonas conferred substantial salt-tolerance on the electrogenic bacteria
+growing in a high-salt environment. This paper establishes an efficient and
+convenient method for improving the salt tolerance of microbial flora in MFCs,
+which is of great significance for the application of MFCs in high-strength
+wastewater treatment.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bioelechem.2020.107481 
+PMID: 32088575 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

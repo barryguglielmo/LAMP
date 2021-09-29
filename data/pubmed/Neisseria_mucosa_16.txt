@@ -1,0 +1,58 @@
+
+1. mBio. 2020 Mar 3;11(2). pii: e03046-19. doi: 10.1128/mBio.03046-19.
+
+Repurposed Drugs That Block the Gonococcus-Complement Receptor 3 Interaction Can 
+Prevent and Cure Gonococcal Infection of Primary Human Cervical Epithelial Cells.
+
+Poole J(#)(1), Day CJ(#)(1), Haselhorst T(1), Jen FE(1), Torres VJ(2), Edwards
+JL(3), Jennings MP(4).
+
+Author information: 
+(1)Institute for Glycomics, Griffith University, Southport, Queensland,
+Australia.
+(2)Department of Microbiology, New York University School of Medicine, New York, 
+New York, USA.
+(3)The Center for Microbial Pathogenesis, The Abigail Wexner Research Institute
+at Nationwide Children's Hospital and The Department of Pediatrics, The Ohio
+State University, Columbus, Ohio, USA Jennifer.Edwards@nationwidechildrens.org
+m.jennings@griffith.edu.au.
+(4)Institute for Glycomics, Griffith University, Southport, Queensland, Australia
+Jennifer.Edwards@nationwidechildrens.org m.jennings@griffith.edu.au.
+(#)Contributed equally
+
+In the absence of a vaccine, multidrug-resistant Neisseria gonorrhoeae has
+emerged as a major human health threat, and new approaches to treat gonorrhea are
+urgently needed. N. gonorrhoeae pili are posttranslationally modified by a glycan
+that terminates in a galactose. The terminal galactose is critical for initial
+contact with the human cervical mucosa via an interaction with the I-domain of
+complement receptor 3 (CR3). We have now identified the I-domain
+galactose-binding epitope and characterized its galactose-specific lectin
+activity. Using surface plasmon resonance and cellular infection assays, we found
+that a peptide mimic of this galactose-binding region competitively inhibited the
+N. gonorrhoeae-CR3 interaction. A compound library was screened for potential
+drugs that could similarly prohibit the N. gonorrhoeae-CR3 interaction and be
+repurposed as novel host-targeted therapeutics for multidrug-resistant gonococcal
+infections in women. Two drugs, methyldopa and carbamazepine, prevented and cured
+cervical cell infection by multidrug-resistant gonococci by blocking the
+gonococcal-CR3 I-domain interaction.IMPORTANCE Novel therapies that avert the
+problem of Neisseria gonorrhoeae with acquired antibiotic resistance are urgently
+needed. Gonococcal infection of the human cervix is initiated by an interaction
+between a galactose modification made to its surface appendages, pili, and the
+I-domain region of (host) complement receptor 3 (CR3). By targeting this crucial 
+gonococcal-I-domain interaction, it may be possible to prevent cervical infection
+in females. To this end, we identified the I-domain galactose-binding epitope of 
+CR3 and characterized its galactose lectin activity. Moreover, we identified two 
+drugs, carbamazepine and methyldopa, as effective host-targeted therapies for
+gonorrhea treatment. At doses below those currently used for their respective
+existing indications, both carbamazepine and methyldopa were more effective than 
+ceftriaxone in curing cervical infection ex vivo This host-targeted approach
+would not be subject to N. gonorrhoeae drug resistance mechanisms. Thus, our data
+suggest a long-term solution to the growing problem of multidrug-resistant N.
+gonorrhoeae infections.
+
+Copyright © 2020 Poole et al.
+
+DOI: 10.1128/mBio.03046-19 
+PMCID: PMC7064771
+PMID: 32127453 
+

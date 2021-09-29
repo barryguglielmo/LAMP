@@ -1,0 +1,63 @@
+
+1. J Bacteriol. 2020 Sep 23;202(20). pii: e00146-20. doi: 10.1128/JB.00146-20. Print
+2020 Sep 23.
+
+Light Response of Pseudomonas putida KT2440 Mediated by Class II LitR, a
+Photosensor Homolog.
+
+Sumi S(1), Mutaguchi N(1), Ebuchi T(1), Tsuchida H(1), Yamamoto T(1), Suzuki
+M(1), Natsuka C(1), Shiratori-Takano H(1), Shintani M(2), Nojiri H(3)(4), Ueda
+K(1), Takano H(5).
+
+Author information: 
+(1)Life Science Research Center, College of Bioresource Sciences, Nihon
+University, Tokyo, Japan.
+(2)Applied Chemistry and Biochemical Engineering Course, Department of
+Engineering, Graduate School of Integrated Science and Technology, Shizuoka
+University, Hamamatsu, Shizuoka, Japan.
+(3)Biotechnology Research Center, The University of Tokyo, Tokyo, Japan.
+(4)Collaborative Research Institute for Innovative Microbiology, The University
+of Tokyo, Tokyo, Japan.
+(5)Life Science Research Center, College of Bioresource Sciences, Nihon
+University, Tokyo, Japan takano.hideaki@nihon-u.ac.jp.
+
+Pseudomonas putida KT2440 retains three homologs (PplR1 to PplR3) of the
+LitR/CarH family, an adenosyl B12-dependent light-sensitive MerR family
+transcriptional regulator. Transcriptome analysis revealed the existence of a
+number of photoinducible genes, including pplR1, phrB (encoding DNA photolyase), 
+ufaM (furan-containing fatty acid synthase), folE (GTP cyclohydrolase I), cryB
+(cryptochrome-like protein), and multiple genes without annotated/known function.
+Transcriptional analysis by quantitative reverse transcription-PCR with knockout 
+mutants of pplR1 to pplR3 showed that a triple knockout completely abolished the 
+light-inducible transcription in P. putida, which indicates the occurrence of
+ternary regulation of PplR proteins. A DNase I footprint assay showed that PplR1 
+protein specifically binds to the promoter regions of light-inducible genes,
+suggesting a consensus PplR1-binding direct repeat,
+5'-T(G/A)TACAN12TGTA(C/T)A-3'. The disruption of B12 biosynthesis cluster did not
+affect the light-inducible transcription; however, disruption of ppSB1-LOV (where
+LOV indicates "light, oxygen, or voltage") and ppSB2-LOV, encoding blue light
+photoreceptors adjacently located to pplR3 and pplR2, respectively, led to the
+complete loss of light-inducible transcription. Overall, the results suggest that
+the three PplRs and two PpSB-LOVs cooperatively regulate the light-inducible gene
+expression. The wide distribution of the pplR/ppSB-LOV cognate pair homologs in
+Pseudomonas spp. and related bacteria suggests that the response and adaptation
+to light are similarly regulated in the group of nonphototrophic
+bacteria.IMPORTANCE The LitR/CarH family is a new group of photosensor homologous
+to MerR-type transcriptional regulators. Proteins of this family are distributed 
+to various nonphototrophic bacteria and grouped into at least five classes (I to 
+V). Pseudomonas putida retaining three class II LitR proteins exhibited a
+genome-wide response to light. All three paralogs were functional and mediated
+photodependent activation of promoters directing the transcription of
+light-induced genes or operons. Two LOV (light, oxygen, or voltage) domain
+proteins, adjacently encoded by two litR genes, were also essential for the
+photodependent transcriptional control. Despite the difference in light-sensing
+mechanisms, the DNA binding consensus of class II LitR [T(G/A)TA(C/T)A] was the
+same as that of class I. This is the first study showing the actual involvement
+of class II LitR in light-induced transcription.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/JB.00146-20 
+PMCID: PMC7515241 [Available on 2021-03-23]
+PMID: 32967908 
+

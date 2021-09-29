@@ -1,0 +1,51 @@
+
+1. Insects. 2020 Aug 31;11(9). pii: E578. doi: 10.3390/insects11090578.
+
+The Microbiome of Neotropical Water Striders and Its Potential Role in
+Codiversification.
+
+Castillo AM(1)(2), Saltonstall K(3), Arias CF(3)(4), Chavarria KA(3)(5),
+Ramírez-Camejo LA(1)(6), Mejía LC(1)(3), De León LF(1)(3)(4)(6).
+
+Author information: 
+(1)Centro de Biodiversidad y Descubrimiento de Drogas, Instituto de
+Investigaciones Científicas y Servicios de Alta Tecnología (INDICASAT-AIP), P.O. 
+Box 0843-01103 Panamá 5, Panama.
+(2)Department of Biotechnology, Acharya Nagarjuna University, Guntur 522 510,
+Andhra Pradesh, India.
+(3)Smithsonian Tropical Research Institute, P.O. Box 0843-03092 Amador, Naos,
+Panama.
+(4)Department of Biology, University of Massachusetts Boston, Boston, MA 02125,
+USA.
+(5)Department of Civil and Environmental Engineering, University of California,
+Berkeley, CA 94720, USA.
+(6)Coiba Scientific Station (COIBA-AIP), City of Knowledge, P.O. Box 0843-01853
+Balboa, Panama.
+
+Insects host a highly diverse microbiome, which plays a crucial role in insect
+life. However, the composition and diversity of microbiomes associated with
+Neotropical freshwater insects is virtually unknown. In addition, the extent to
+which diversification of this microbiome is associated with host phylogenetic
+divergence remains to be determined. Here, we present the first comprehensive
+analysis of bacterial communities associated with six closely related species of 
+Neotropical water striders in Panama. We used comparative phylogenetic analyses
+to assess associations between dominant bacterial linages and phylogenetic
+divergence among species of water striders. We found a total of 806 16S rRNA
+amplicon sequence variants (ASVs), with dominant bacterial taxa belonging to the 
+phyla Proteobacteria (76.87%) and Tenericutes (19.51%). Members of the α- (e.g., 
+Wolbachia) and γ- (e.g., Acinetobacter, Serratia) Proteobacteria, and Mollicutes 
+(e.g., Spiroplasma) were predominantly shared across species, suggesting the
+presence of a core microbiome in water striders. However, some bacterial lineages
+(e.g., Fructobacillus, Fluviicola and Chryseobacterium) were uniquely associated 
+with different water strider species, likely representing a distinctive feature
+of each species' microbiome. These findings indicate that both host identity and 
+environmental context are important drivers of microbiome diversity in water
+striders. In addition, they suggest that diversification of the microbiome is
+associated with diversification in water striders. Although more research is
+needed to establish the evolutionary consequences of host-microbiome interaction 
+in water striders, our findings support recent work highlighting the role of
+bacterial community host-microbiome codiversification.
+
+DOI: 10.3390/insects11090578 
+PMID: 32878094 
+

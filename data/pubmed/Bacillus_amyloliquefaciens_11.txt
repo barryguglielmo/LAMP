@@ -1,0 +1,42 @@
+
+1. Microb Biotechnol. 2020 Sep 20. doi: 10.1111/1751-7915.13659. [Epub ahead of
+print]
+
+Membrane disruption of Fusarium oxysporum f. sp. niveum induced by myriocin from 
+Bacillus amyloliquefaciens LZN01.
+
+Wang H(1)(2)(3), Wang Z(1)(2)(3), Liu Z(1)(3), Wang K(1)(3), Xu W(1)(2)(3).
+
+Author information: 
+(1)College of Life Science and Agroforestry, Qiqihar University, Qiqihar, 161006,
+China.
+(2)Key Laboratory of Urban Agriculture, Ministry of Agriculture and Rural
+Affairs, Shanghai, 200240, China.
+(3)Heilongjiang Provincial Technology Innovation Center of Agromicrobial
+Preparation Industrialization, Qiqihar, 161006, China.
+
+Myriocin, which is produced by Bacillus amyloliquefaciens LZN01, can inhibit the 
+growth of Fusarium oxysporum f. sp. niveum (Fon). In the present study, the
+antifungal mechanism of myriocin against Fon was investigated with a focus on the
+effects of myriocin on the cell membrane. Myriocin decreased the membrane
+fluidity and destroyed the membrane integrity of Fon. Significant microscopic
+morphological changes, including conidial shrinkage, the appearance of larger
+vacuoles and inhomogeneity of electron density, were observed in myriocin-treated
+cells. A membrane-targeted mechanism of action was also supported by
+transcriptomic and proteomic analyses; a total of 560 common differentially
+expressed genes (DEGs) and 285 common differentially expressed proteins (DEPs)
+were identified. The DEGs were further verified by using RT-qPCR. The combined
+analysis between the transcriptome and proteome revealed that the expression of
+some membrane-related genes and proteins, mainly those related to sphingolipid
+metabolism, glycerophospholipid metabolism, steroid biosynthesis, ABC
+transporters and protein processing in the endoplasmic reticulum, was disordered.
+Myriocin affected the serine palmitoyl transferase (SPT) activity as evidenced
+through molecular docking. Our results indicate that myriocin has significant
+antifungal activity owing to its ability to induce membrane damage in Fon.
+
+© 2020 The Authors. Microbial Biotechnology published by Society for Applied
+Microbiology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/1751-7915.13659 
+PMID: 32954686 
+

@@ -1,0 +1,45 @@
+
+1. Comput Struct Biotechnol J. 2020 Mar 13;18:631-641. doi:
+10.1016/j.csbj.2020.03.003. eCollection 2020.
+
+The landscape of bacterial presence in tumor and adjacent normal tissue across 9 
+major cancer types using TCGA exome sequencing.
+
+Rodriguez RM(1)(2), Hernandez BY(3)(2), Menor M(1), Deng Y(1), Khadka VS(1).
+
+Author information: 
+(1)Bioinformatics Core, Department of Quantitative Health Sciences, John A. Burns
+School of Medicine, University of Hawaii Mānoa, Honolulu, HI, United States.
+(2)Population Sciences in the Pacific Program-Cancer Epidemiology, University of 
+Hawaii Cancer Center, Honolulu, HI, United States.
+(3)Epidemiology, University of Hawaii Cancer Center, University of Hawaii,
+Honolulu, HI, United States.
+
+Identification of microbial composition directly from tumor tissue permits
+studying the relationship between microbial changes and cancer pathogenesis. We
+interrogated bacterial presence in tumor and adjacent normal tissue strictly in
+pairs utilizing human whole exome sequencing to generate microbial profiles.
+Profiles were generated for 813 cases from stomach, liver, colon, rectal, lung,
+head & neck, cervical and bladder TCGA cohorts. Core microbiota examination
+revealed twelve taxa to be common across the nine cancer types at all
+classification levels. Paired analyses demonstrated significant differences in
+bacterial shifts between tumor and adjacent normal tissue across stomach, colon, 
+lung squamous cell, and head & neck cohorts, whereas little or no differences
+were evident in liver, rectal, lung adenocarcinoma, cervical and bladder cancer
+cohorts in adjusted models. Helicobacter pylori in stomach and Bacteroides
+vulgatus in colon were found to be significantly higher in adjacent normal
+compared to tumor tissue after false discovery rate correction. Computational
+results were validated with tissue from an independent population by
+species-specific qPCR showing similar patterns of co-occurrence among
+Fusobacterium nucleatum and Selenomonas sputigena in gastric samples. This study 
+demonstrates the ability to identify bacteria differential composition derived
+from human tissue whole exome sequences. Taken together our results suggest the
+microbial profiles shift with advanced disease and that the microbial composition
+of the adjacent tissue can be indicative of cancer stage disease progression.
+
+© 2020 The Authors.
+
+DOI: 10.1016/j.csbj.2020.03.003 
+PMCID: PMC7109368
+PMID: 32257046 
+

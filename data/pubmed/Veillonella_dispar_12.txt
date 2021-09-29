@@ -1,0 +1,58 @@
+
+1. BMC Oral Health. 2019 Nov 13;19(1):246. doi: 10.1186/s12903-019-0906-2.
+
+Composition and diversity of the subgingival microbiome and its relationship with
+age in postmenopausal women: an epidemiologic investigation.
+
+LaMonte MJ(1), Genco RJ(2), Buck MJ(3), McSkimming DI(4), Li L(5), Hovey KM(6),
+Andrews CA(7), Zheng W(5), Sun Y(5), Millen AE(6), Tsompana M(3), Banack HR(6),
+Wactawski-Wende J(6).
+
+Author information: 
+(1)Department of Epidemiology and Environmental Health, School of Public Health
+and Health Professions, University at Buffalo, 270 Farber Hall, 3435 Main Street,
+Buffalo, NY, 14214, USA. mlamonte@buffalo.edu.
+(2)Department of Oral Biology, School of Dental Medicine, UB Microbiome Center,
+University at Buffalo, Buffalo, NY, USA.
+(3)Department of Biochemistry, School of Medicine and Biomedical Sciences, NY
+State Center of Excellence in Bioinformatics and Life Sciences, University at
+Buffalo, Buffalo, NY, USA.
+(4)Genome, Environment, and Microbiome Center of Excellence, University at
+Buffalo, Buffalo, NY, USA.
+(5)Department of Microbiology and Immunology and Department of Computer and
+Engineering Science, NY State Center of Excellence in Bioinformatics and Life
+Sciences, University at Buffalo, Buffalo, NY, USA.
+(6)Department of Epidemiology and Environmental Health, School of Public Health
+and Health Professions, University at Buffalo, 270 Farber Hall, 3435 Main Street,
+Buffalo, NY, 14214, USA.
+(7)Department of Ophthalmology, School of Medicine, University of Michigan, Ann
+Arbor, MI, USA.
+
+BACKGROUND: The extent to which the composition and diversity of the oral
+microbiome varies with age is not clearly understood.
+METHODS: The 16S rRNA gene of subgingival plaque in 1219 women, aged 53-81 years,
+was sequenced and its taxonomy annotated against the Human Oral Microbiome
+Database (v.14.5). Composition of the subgingival microbiome was described in
+terms of centered log(2)-ratio (CLR) transformed OTU values, relative abundance, 
+and prevalence. Correlations between microbiota abundance and age were evelauted 
+using Pearson Product Moment correlations. P-values were corrected for multiple
+testing using the Bonferroni method.
+RESULTS: Of the 267 species identified overall, Veillonella dispar was the most
+abundant bacteria when described by CLR OTU (mean 8.3) or relative abundance
+(mean 8.9%); whereas Streptococcus oralis, Veillonella dispar and Veillonella
+parvula were most prevalent (100%, all) when described as being present at any
+amount. Linear correlations between age and several CLR OTUs (Pearson r = - 0.18 
+to 0.18), of which 82 (31%) achieved statistical significance (P < 0.05). The
+correlations lost significance following Bonferroni correction. Twelve species
+that differed across age groups (each corrected P < 0.05); 5 (42%) were higher in
+women ages 50-59 compared to ≥70 (corrected P < 0.05), and 7 (48%) were higher in
+women 70 years and older.
+CONCLUSIONS: We identified associations between several bacterial species and age
+across the age range of postmenopausal women studied. Understanding the functions
+of these bacteria could identify intervention targets to enhance oral health in
+later life.
+
+DOI: 10.1186/s12903-019-0906-2 
+PMCID: PMC6854792
+PMID: 31722703  [Indexed for MEDLINE]
+

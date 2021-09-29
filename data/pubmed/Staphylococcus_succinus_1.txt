@@ -1,0 +1,57 @@
+
+1. Microorganisms. 2020 Mar 26;8(4). pii: E473. doi: 10.3390/microorganisms8040473.
+
+New Insights into the Microbial Degradation of D-Cyphenothrin in Contaminated
+Water/Soil Environments.
+
+Huang Y(1)(2), Lin Z(1)(2), Zhang W(1)(2), Pang S(1)(2), Bhatt P(1)(2), Rene
+ER(3), Kumar AJ(4), Chen S(1)(2).
+
+Author information: 
+(1)State Key Laboratory for Conservation and Utilization of Subtropical
+Agro-bioresources, Guangdong Province Key Laboratory of Microbial Signals and
+Disease Control, Integrative Microbiology Research Centre, South China
+Agricultural University, Guangzhou 510642, China.
+(2)Guangdong Laboratory for Lingnan Modern Agriculture, Guangzhou 510642, China.
+(3)Department of Environmental Engineering and Water Technology, IHE Delft
+Institute for Water Education, 2601DA Delft, The Netherlands.
+(4)School of Chemistry and Chemical Engineering, Jiangsu University, Zhenjiang
+212013, China.
+
+Persistent use of the insecticide D-cyphenothrin has resulted in heavy
+environmental contamination and public concern. However, microbial degradation of
+D-cyphenothrin has never been investigated and the mechanism remains unknown.
+During this study, for the first time, an efficient D-cyphenothrin-degrading
+bacterial strain Staphylococcus succinus HLJ-10 was identified. Response surface 
+methodology was successfully employed by using Box-Behnken design to optimize the
+culture conditions. At optimized conditions, over 90% degradation of
+D-cyphenothrin (50 mg·L-1) was achieved in a mineral salt medium within 7 d.
+Kinetics analysis revealed that its half-life was reduced by 61.2 d, in
+comparison with the uninoculated control. Eight intermediate metabolites were
+detected in the biodegradation pathway of D-cyphenothrin including
+cis-D-cyphenothrin, trans-D-cyphenothrin, 3-phenoxybenzaldehyde,
+α-hydroxy-3-phenoxy-benzeneacetonitrile,
+trans-2,2-dimethyl-3-propenyl-cyclopropanol,
+2,2-dimethyl-3-propenyl-cyclopropionic acid,
+trans-2,2-dimethyl-3-propenyl-cyclopropionaldehyde, and 1,2-benzenedicarboxylic
+acid, dipropyl ester. This is the first report about the degradation of
+D-cyphenothrin through cleavage of carboxylester linkage and diaryl bond. In
+addition to degradation of D-cyphenothrin, strain HLJ-10 effectively degraded a
+wide range of synthetic pyrethroids including permethrin, tetramethrin,
+bifenthrin, allethrin, and chlorempenthrin, which are also widely used
+insecticides with environmental contamination problems. Bioaugmentation of
+D-cyphenothrin-contaminated soils with strain HLJ-10 substantially enhanced its
+degradation and over 72% of D-phenothrin was removed from soils within 40 d.
+These findings unveil the biochemical basis of a highly efficient
+D-cyphenothrin-degrading bacterial isolate and provide potent agents for
+eliminating environmental residues of pyrethroids.
+
+DOI: 10.3390/microorganisms8040473 
+PMCID: PMC7232362
+PMID: 32225056 
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or
+interpretation of data; in the writing of the manuscript, or in the decision to
+publish the results.
+

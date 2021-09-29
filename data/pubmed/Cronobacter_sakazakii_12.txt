@@ -1,0 +1,53 @@
+
+1. Food Chem. 2020 Dec 1;332:127420. doi: 10.1016/j.foodchem.2020.127420. Epub 2020 
+Jun 27.
+
+Catalytic intense pulse light inactivation of Cronobacter sakazakii and other
+pathogens in non-fat dry milk and wheat flour.
+
+Chen D(1), Wiertzema JR(2), Peng P(3), Cheng Y(3), Wang Y(4), Liu J(2), Ma Y(2), 
+Mosher W(2), Kang M(2), Min M(3), Chen P(3), Baumler DJ(2), Chen C(2), Lee L(5), 
+Vickers Z(2), Feirtag J(2), Ruan R(6).
+
+Author information: 
+(1)Center for Biorefining and Department of Bioproducts and Biosystems
+Engineering, University of Minnesota, St. Paul, MN, USA; Department of Food
+Science and Nutrition, University of Minnesota, St. Paul, MN, USA.
+(2)Department of Food Science and Nutrition, University of Minnesota, St. Paul,
+MN, USA.
+(3)Center for Biorefining and Department of Bioproducts and Biosystems
+Engineering, University of Minnesota, St. Paul, MN, USA.
+(4)Center for Biorefining and Department of Bioproducts and Biosystems
+Engineering, University of Minnesota, St. Paul, MN, USA; National Key Laboratory 
+of Food Science, Nanchang University, Jiangxi, China.
+(5)LZL Engineering, Owatonna, MN, USA.
+(6)Center for Biorefining and Department of Bioproducts and Biosystems
+Engineering, University of Minnesota, St. Paul, MN, USA; Department of Food
+Science and Nutrition, University of Minnesota, St. Paul, MN, USA. Electronic
+address: ruanx001@umn.edu.
+
+The outbreaks of Cronobacter sakazakii, Salmonella spp, and Bacillus cereus in
+powdered foods have been increasing in worldwide. However, an effective method to
+pasteurize powdered foods before consumption remains lacking. A prototype Intense
+Pulsed Light (IPL) system was developed to disinfect powdered foods under
+different IPL and environmental conditions. Synergistic effect of IPL and TiO2
+photocatalysis on microbial inactivation was studied. The results show that high 
+energy intensity of each pulse, high peak intensity, and short pulsed duration
+contributed to a high microbe inactivation. With TiO2 photocatalysis, one
+additional log10 reduction was achieved, bringing the total log reduction to
+4.71 ± 0.07 (C. sakazakii), 3.49 ± 0.01 (E. faecium), and 2.52 ± 0.10 (B. cereus)
+in non-fat dry milk, and 5.42 ± 0.10 (C. sakazakii), 4.95 ± 0.24 (E. faecium),
+2.80 ± 0.23 (B. cereus) in wheat flour. IPL treatment combined with the TiO2
+photocatalysis exhibits a strong potential to reduce the energy consumption in
+improving the safety of powdered foods.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foodchem.2020.127420 
+PMID: 32622191  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

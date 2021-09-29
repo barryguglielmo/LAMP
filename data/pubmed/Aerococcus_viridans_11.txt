@@ -1,0 +1,65 @@
+
+1. Nan Fang Yi Ke Da Xue Xue Bao. 2020 Jul 30;40(7):949-957. doi:
+10.12122/j.issn.1673-4254.2020.07.06.
+
+[Characteristics of intestinal flora in patients with primary Sjögren syndrome].
+
+[Article in Chinese]
+
+Wang X(1)(2), Wang J(1)(2), Guo W(1)(2), Zhou Y(1)(2), Sun C(1)(2), Li Z(1)(2),
+Chen L(1)(2), Pan X(1)(2).
+
+Author information: 
+(1)Department of Rheumatology and Immunology, First Affiliated Hospital of Bengbu
+Medical College, Bengbu 233004, China.
+(2)Anhui Province Key Laboratory of Immunology in Chronic Diseases, Bengbu
+233004, China.
+
+OBJECTIVE: To investigate changes in intestinal flora in patients with primary
+Sj?gren syndrome (pSS) and explore the relationship between pSS disease activity 
+and intestinal flora structure.
+METHODS: Fecal samples were collected from 18 female pSS patients, including 9
+patients with active disease (group A) and 9 with disease inactivity or low
+activity (group B), with 10 healthy subjects as the control group. The total
+bacterial DNA was extracted from the fecal samples for PCR amplification, and
+Illumina Hiseq 2500 high-throughput sequencing was performed for the v3-v4 region
+of 16Sr DNA gene to obtain the biological information of the intestinal flora.
+The intergroup OTU analysis, structural diversity analysis, significant
+difference analysis and LEFSE analysis were performed with information mining of 
+the literature think tanks.
+RESULTS: The dilution curves generated based on the OTUshannon index for analysis
+of sample complexity showed that the measured data were relatively complete and
+could reflect the diversity of the microorganisms in the subjects. Analysis of
+the Alpha diversity index showed that the Shannon index differed significantly
+between group A and group B, and the Simpson index differed significantly between
+group A and group B and between group A and the control group (P &lt; 0.05).
+Sequence analysis the 3 groups all consisted mainly of 4 phylum (Firmicutes,
+Bacteroidetes, Actinobacteria, showed that the intestinal flora in and
+proteobacteria) and 4 genera (finegoldia, Prevotella, Streptococcus, and
+Corynebacterium_1), all showing no significant differences among the 3 groups (P 
+&gt; 0.05) with the exception of Streptococcus genus, which differed
+significantly among the 3 groups (P &lt; 0.05). The 16S v3-v4 region in the genus
+Alloscardovia, Bacteroides, Barnesiella, Butyricicoccus, Facklamia,
+Faecalibacterium, Lachnospiraceae_FCS020_group, Lachnospiraceae_ND3007_group,
+Lachnospiraceae_UCG-001, Lachnospirace, Lachnospirace, Ruminococcaceae_UCG-002,
+Streptococcus and Coprococcus_1 differed significantly among the 3 groups (P &lt;
+0.05). The high-dimensional biometrics and genomic characteristics of the
+intestinal microorganisms differed significantly among the 3 groups (P &lt;
+0.05). According to the size of LDA SCORE (effect size), the core flora in group 
+A included the genera Barnesiellaccae, Aerococcaceae, Family-XIII,
+Bacteroidaceae, Lachnospiraceae_UCG-001, Barnesiella, Facklamia, Alloscardovia,
+Faecalibacterium and Bacteroides, as compared with the genera Streptococcaceae,
+Streptococcus, Coprococcus_1, Ruminococcaceae_ucg-002,
+Lachnospiraceae_FCS020_group, Lachnospiraceae_ucg-004,
+Lachnospiraceae_ND3007_group, Lachnospiraceae_ucg-008 and Butyricicoccus in the
+control group.
+CONCLUSIONS: Patients with pSS have significant changes in the diversity of
+intestinal flora, especially in some specific bacteria in Streptococcu genus and 
+in 16S v3-v4 region of the bacteria. The differences in the core bacteria in the 
+intestinal flora of pSS patients suggest the role of flora structure changes in
+the pathogenesis of pSS.
+
+DOI: 10.12122/j.issn.1673-4254.2020.07.06 
+PMCID: PMC7386224
+PMID: 32895147  [Indexed for MEDLINE]
+

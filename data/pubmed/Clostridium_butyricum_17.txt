@@ -1,0 +1,50 @@
+
+1. Folia Microbiol (Praha). 2020 Oct;65(5):917-924. doi: 10.1007/s12223-020-00803-7.
+Epub 2020 Jul 3.
+
+Establishment and evaluation of a method for efficient screening of Clostridium
+butyricum.
+
+Yi Z(1)(2), Sadiq FA(1)(2), Wang H(1)(2), Zhao J(1)(2)(3), Zhang H(1)(2)(3)(4),
+Lu W(5)(6)(7)(8), Chen W(1)(2)(3)(9).
+
+Author information: 
+(1)State Key Laboratory of Food Science and Technology, Jiangnan University,
+Wuxi, 214122, Jiangsu Province, China.
+(2)School of Food Science and Technology, Jiangnan University, Wuxi, 214122,
+Jiangsu Province, China.
+(3)National Engineering Research Center for Functional Food, Jiangnan University,
+Wuxi, 214122, Jiangsu Province, China.
+(4)Wuxi Translational Medicine Research Center and Jiangsu Translational Medicine
+Research Institute Wuxi Branch, Wuxi, 214122, Jiangsu Province, China.
+(5)State Key Laboratory of Food Science and Technology, Jiangnan University,
+Wuxi, 214122, Jiangsu Province, China. luwenwei@jiangnan.edu.cn.
+(6)School of Food Science and Technology, Jiangnan University, Wuxi, 214122,
+Jiangsu Province, China. luwenwei@jiangnan.edu.cn.
+(7)National Engineering Research Center for Functional Food, Jiangnan University,
+Wuxi, 214122, Jiangsu Province, China. luwenwei@jiangnan.edu.cn.
+(8)Wuxi Translational Medicine Research Center and Jiangsu Translational Medicine
+Research Institute Wuxi Branch, Wuxi, 214122, Jiangsu Province, China.
+luwenwei@jiangnan.edu.cn.
+(9)Beijing Innovation Centre of Food Nutrition and Human Health, Beijing
+Technology and Business University (BTBU), Beijing, 100048, China.
+
+At present, the traditional methods for the screening of Clostridium butyricum
+are not sufficiently selective and efficient. Therefore, it is necessary to
+establish a targeted and efficient screening method for the detection of C.
+butyricum. Bioinformatics was used in this study to find C. butyricum specific
+genes, and species-specific primers were designed based on the conserved regions 
+of the targeted genes, followed by optimization of the PCR conditions.
+Methodological evaluation was carried out, and the results were compared with the
+traditional screening method based on Trypticase Sulfite Neomycin (TSN) selective
+medium. A high-efficiency PCR screening method, targeting C. butyricum
+species-specific primers, was established. The method was confirmed to have high 
+specificity and sensitivity towards C. butyricum cut-off CFU 103. Compared with
+the traditional method, the screening success rate of C. butyricum strains
+increased from 0.61 to 81.91%. The PCR screening method could quickly and
+accurately detect C. butyricum in samples and dramatically improve screening
+efficiency.
+
+DOI: 10.1007/s12223-020-00803-7 
+PMID: 32621129 
+

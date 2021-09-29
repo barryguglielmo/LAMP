@@ -1,0 +1,46 @@
+
+1. Appl Microbiol Biotechnol. 2020 Aug;104(16):7143-7153. doi:
+10.1007/s00253-020-10689-7. Epub 2020 Jul 4.
+
+A comparative study of microbial community and functions of type 2 diabetes
+mellitus patients with obesity and healthy people.
+
+Wang TY(1), Zhang XQ(2), Chen AL(2), Zhang J(3)(4), Lv BH(1), Ma MH(3), Lian
+J(1), Wu YX(1), Zhou YT(3), Ma CC(2), Dong RJ(1), Ge DY(1), Gao SH(5)(6), Jiang
+GJ(7)(8).
+
+Author information: 
+(1)School of Traditional Chinese Medicine, Beijing University of Chinese
+Medicine, Beijing, 100029, China.
+(2)Chui Yang Liu Hospital affiliated to Tsinghua University, Beijing, 100022,
+China.
+(3)Tangshan Gongren Hospital, Tangshan, 063000, China.
+(4)Tangshan People Hospital, Tangshan, 063001, China.
+(5)School of Traditional Chinese Medicine, Beijing University of Chinese
+Medicine, Beijing, 100029, China. sihuagaopaper@sina.com.
+(6)Diabetes Research Center, Beijing University of Chinese Medicine, Beijing,
+100029, China. sihuagaopaper@sina.com.
+(7)School of Traditional Chinese Medicine, Beijing University of Chinese
+Medicine, Beijing, 100029, China. guangjianjiang@sina.com.
+(8)Diabetes Research Center, Beijing University of Chinese Medicine, Beijing,
+100029, China. guangjianjiang@sina.com.
+
+The gut microbiota is crucial in the pathogenesis of type 2 diabetes mellitus
+(T2DM). However, the metabolism of T2DM patients is not well-understood. We aimed
+to identify the differences on composition and function of gut microbiota between
+T2DM patients with obesity and healthy people. In this study, 6 T2DM patients
+with obesity and 6 healthy volunteers were recruited, and metagenomic approach
+and bioinformatics analysis methods were used to understand the composition of
+the gut microbiota and the metabolic network. We found a decrease in the
+abundance of Firmicutes, Oribacterium, and Paenibacillus; this may be attributed 
+to a possible mechanism and biological basis of T2DM; moreover, we identified
+three critical bacterial taxa, Bacteroides plebeius, Phascolarctobacterium sp.
+CAG207, and the order Acidaminococcales that can potentially be used for T2DM
+treatment. We also revealed the composition of the microbiota through functional 
+annotation based on multiple databases and found that carbohydrate metabolism
+contributed greatly to the pathogenesis of T2DM. This study helps in elucidating 
+the different metabolic roles of microbes in T2DM patients with obesity.
+
+DOI: 10.1007/s00253-020-10689-7 
+PMID: 32623494 
+

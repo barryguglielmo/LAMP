@@ -1,0 +1,50 @@
+
+1. Pak J Med Sci. 2020 Sep-Oct;36(6):1234-1240. doi: 10.12669/pjms.36.6.2207.
+
+DNA Gyrase and Topoisomerase IV Mutations and their effect on Quinolones
+Resistant Proteus mirabilis among UTIs Patients.
+
+Abdelkreem RH(1), Yousuf AM(2), Elmekki MA(3), Elhassan MM(4).
+
+Author information: 
+(1)Randa H Abdelkreem Dept. of Microbiology, College of Medical Laboratory
+Science, Shendi University, Shendi, Sudan.
+(2)Amjad M Yousuf, Dept. of Medical Laboratory Technology, College of Applied
+Medical Sciences, Taibah University, Al-Madinah Al-Monawwarah, Saudi Arabia.
+(3)Miskelyemen A. Elmekki, Dept. of Medical Laboratory Technology, College of
+Applied Medical Sciences, Taibah University, Al-Madinah Al-Monawwarah, Saudi
+Arabia.
+(4)Mogahid M Elhassan, Dept. of Medical Laboratory Technology, College of Applied
+Medical Sciences, Taibah University, Al-Madinah Al-Monawwarah, Saudi Arabia.
+
+Objective: This study aimed to highlight the importance of mutations within
+Proteus mirabilis genome that are related to fluoroquinolone resistance.
+Methods: This is a cross sectional study performed in different teaching
+hospitals in Khartoum State from June 2016 to May 2017. A total of (120) P
+mirabilis isolates from patients with symptoms of UTIs attending different
+hospitals in Khartoum State were examined. First, modified Kurby Bauer method was
+performed for phenotypical detection of resistant isolates. Then polymerase chain
+reaction-restriction fragment length polymorphism (PCR-RFLP) followed by
+sequencing were applied for detection of mutations in GyrA, GyrB, ParC and ParE
+genes of isolates.
+Results: P. mirabilis showed 30% resistance to ciprofloxacin. All samples
+revealed mutation at (serine 83) of GyrA and (serine 84) of ParC by Hinf1
+restriction endonuclease digestion. Sequencing was performed for 12 samples. For 
+each gene, two resistant and one susceptible strains were randomly selected. The 
+mutations associated with ciprofloxacin resistant P. mirabilis were as follows;
+(1/3) GyrA (Ser 83 to Ile) and (2/3) ParC (Ser 81 to Ile). Also it revealed
+silent mutations at codons of GyrB 474 leucine (3/3), 585 valine (2/3), 612
+histidine (1/3) and 639 asparagine (1/3) and ParE 469 isoleucine (2/3), 531
+aspartic (2/3) and 533 glycine (1/3).
+Conclusions: Ciprofloxacin resistance in P. mirabilis could be monitored through 
+detection of mutations within DNA gyrase (encoded by gyrA and gyrB) and
+topoisomerase IV (encoded by parC and parE).
+
+Copyright: © Pakistan Journal of Medical Sciences.
+
+DOI: 10.12669/pjms.36.6.2207 
+PMCID: PMC7501041
+PMID: 32968386 
+
+Conflict of interest statement: Conflict of interest: None.
+

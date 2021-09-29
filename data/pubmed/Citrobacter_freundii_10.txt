@@ -1,0 +1,51 @@
+
+1. J Glob Antimicrob Resist. 2020 Aug 18;23:64-66. doi: 10.1016/j.jgar.2020.08.002. 
+[Epub ahead of print]
+
+Genetic characterisation of a complex class 1 integron in an NDM-1-producing
+Citrobacter freundii ST396 clinical strain isolated from a urine sample.
+
+Li Z(1), Lin Y(2), Lu L(3), Wang K(2), Yang L(2), Li P(2), Li J(4), Jia L(4), Li 
+P(5), Song H(6).
+
+Author information: 
+(1)Center for Disease Control and Prevention of PLA, 20 DongDa Street, Fengtai
+District, Beijing 100071, China; College of Environmental and Chemical
+Engineering, Nanchang Hangkong University, Nanchang, Jiangxi 330063, China.
+(2)Center for Disease Control and Prevention of PLA, 20 DongDa Street, Fengtai
+District, Beijing 100071, China; Academy of Military Medical Sciences, Academy of
+Military Sciences, Beijing 100850, China.
+(3)Department of Laboratory, Sun Yat-Sen University affiliated Zhongshan
+Hospital, Zhongshan, Guangdong 528400, China.
+(4)Center for Disease Control and Prevention of PLA, 20 DongDa Street, Fengtai
+District, Beijing 100071, China.
+(5)Center for Disease Control and Prevention of PLA, 20 DongDa Street, Fengtai
+District, Beijing 100071, China. Electronic address: jiekenlee@126.com.
+(6)Center for Disease Control and Prevention of PLA, 20 DongDa Street, Fengtai
+District, Beijing 100071, China. Electronic address: hongbinsong@263.net.
+
+OBJECTIVES: The aim of this study was to characterise a multidrug-resistant (MDR)
+Citrobacter freundii strain carrying a blaNDM-1-harbouring conjugative
+IncA/C2-type plasmid in China.
+METHODS: The whole genome of C. freundii strain L75 was sequenced both on HiSeq® 
+(Novogene Corp., China) and GridION X5 (GrandOmics Biosciences Co., Ltd.)
+platforms. De novo genome assembly, genome annotation, multilocus sequence typing
+(MLST) and plasmid replicon typing were performed.
+RESULTS: Citrobacter freundii L75 was assigned to ST396 and contains a 5.1-Mb
+chromosome and two plasmids (∼146 kb and ∼73 kb) designated pCf75 and pCf76,
+respectively. The antibiotic resistance determinants blaNDM-1, sul1, sul2, arr-3,
+mph(A), aadA16, aph(3")-Ib, aac(3)-IId, aph(6)-Id, aac(6')-Ib-cr and dfrA27 were 
+located on plasmid pCf75, whilst blaCMY-78 was chromosomally encoded. A 22.1-kb
+MDR-encoding region (MDRR) in a complex class 1 integron contained all of the
+resistance genes of plasmid pCf75.
+CONCLUSIONS: We detected and characterised a plasmid carrying a novel MDRR in
+which a complex class 1 integron plays an essential role. In addition, this study
+provides fresh genomic insights into the diversity of C. freundii ST396 prevalent
+in Guangzhou Province, China, and underscores the increasing clinical relevance
+of the IncA/C2 plasmid family.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jgar.2020.08.002 
+PMID: 32818668 
+

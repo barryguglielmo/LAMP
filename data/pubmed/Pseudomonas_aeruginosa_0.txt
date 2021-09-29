@@ -1,0 +1,37 @@
+
+1. Mol Microbiol. 2020 Oct 4. doi: 10.1111/mmi.14617. [Epub ahead of print]
+
+Cell-type specific hypertranslocation of effectors by the Pseudomonas aeruginosa 
+type III secretion system.
+
+Armentrout EI(1), Kundracik EC(1), Rietsch A(1).
+
+Author information: 
+(1)Dept. of Molecular Biology and Microbiology, Case Western Reserve University, 
+Cleveland, OH, U.S.A.
+
+Many Gram-negative pathogens use a type III secretion system (T3SS) to promote
+disease by injecting effector proteins into host cells. Common to many T3SSs is
+that injection of effector proteins is feedback inhibited. The mechanism of
+feedback inhibition and its role in pathogenesis are unclear. In the case of P.
+aeruginosa, the effector protein ExoS is central to limiting effector injection. 
+ExoS is bifunctional, with an amino-terminal RhoGAP- and a carboxy-terminal
+ADP-ribosyltransferase domain. We demonstrate that both domains are required to
+fully feedback inhibit effector injection. The RhoGAP-, but not the
+ADP-ribosyltransferase domain of the related effector protein ExoT also
+participates. Feedback inhibition does not involve translocator insertion nor
+pore-formation. Instead, feedback inhibition is due, in part, to a loss of the
+activating trigger for effector injection, and likely also decreased translocon
+stability. Surprisingly, feedback inhibition is abrogated in phagocytic cells.
+The lack of feedback inhibition in these cells requires phagocytic uptake of the 
+bacteria, but cannot be explained through acidification of the phagosome or
+calcium limitation. Given that phagocytes are crucial for controlling P.
+aeruginosa infections, our data suggest that feedback inhibition allows P.
+aeruginosa to direct its effector arsenal against the cell types most damaging to
+its survival.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1111/mmi.14617 
+PMID: 33012037 
+

@@ -1,0 +1,61 @@
+
+1. J Dairy Sci. 2020 Sep;103(9):8378-8387. doi: 10.3168/jds.2019-17748. Epub 2020
+Jun 18.
+
+Heat load increases the risk of clinical mastitis in dairy cattle.
+
+Vitali A(1), Felici A(2), Lees AM(3), Giacinti G(4), Maresca C(2), Bernabucci
+U(5), Gaughan JB(6), Nardone A(5), Lacetera N(5).
+
+Author information: 
+(1)Dipartimento Scienze Agrarie e Forestali, Università della Tuscia, 01100
+Viterbo, Italy. Electronic address: vitali@unitus.it.
+(2)Istituto Zooprofilattico Sperimentale dell'Umbria e delle Marche, 06126
+Perugia, Italy.
+(3)School of Agriculture and Food Sciences, The University of Queensland, Gatton,
+QLD 4343, Australia; School of Environmental and Rural Science, Animal Science,
+University of New England Australia, Armidale, NSW, Australia, 2350.
+(4)Istituto Zooprofilattico Sperimentale del Lazio e Toscana, 00178 Roma, Italy.
+(5)Dipartimento Scienze Agrarie e Forestali, Università della Tuscia, 01100
+Viterbo, Italy.
+(6)School of Agriculture and Food Sciences, The University of Queensland, Gatton,
+QLD 4343, Australia.
+
+The study was aimed at assessing heat load-related risk of clinical mastitis (CM)
+in dairy cows. Records of CM for the years 2014 and 2015 were obtained from a
+large conventional dairy farm milking about 1,200 Holstein cows in central Italy.
+A case of CM was defined by the presence of clinical signs and veterinary
+confirmation. Quarter milk samples were collected and bacteriological
+investigated for each CM. Etiological agents were identified and classified as
+environmental or contagious pathogens. Hourly weather data from the nearest
+weather station were used to calculate heat load index (HLI). Upper and lower
+thresholds of HLI, at which the animal accumulates or dissipates heat, were
+settled and used to measure heat load balance through the accumulated heat load
+(AHL) model. Zero and positive values of AHL indicate periods of thermo-neutral
+and heat accumulation, respectively. Each case of CM was associated with HLI-AHL 
+values recorded 5 d before the event. The risk of CM was evaluated using a
+case-crossover design. A conditional logistic regression model was used to
+calculate the odds ratio and 95% confidence intervals of CM recorded in
+thermo-neutral (AHL = 0) or heat load (AHL > 0) days, pooled or stratified for
+pathogen type (environmental or contagious). Classes of AHL as low (<6.5), medium
+(6.6-34.9), and high (>35) were included in the model. Other variables included
+in the model were milk yield as liters (<20, 20-30, and >30), days in milk (<60, 
+60-150, and >150), and parity (1, 2-3, and >3). A total of 1,086 CM cases were
+identified from 677 cows. Escherichia coli, Streptococcus spp., and Streptococcus
+uberis were the environmental pathogens isolated with the highest frequency;
+Staphylococcus aureus prevailed within contagious species. The analysis of pooled
+data indicated a significant effect of heat load on the occurrence of CM in the
+contagious pathogen stratum. Higher milk yield, middle and late stage of
+lactation, and older parity increased the risk of CM under heat load conditions. 
+However, the association between pathogen type and these factors was not clear
+because the model provided significant odds ratios within all pathogen
+categories. The present study provided the first evidence of an association
+between HLI and CM in dairy cattle and suggested the ability of the AHL model to 
+assess the risk of mastitis associated with heat load.
+
+Copyright © 2020 American Dairy Science Association. Published by Elsevier Inc.
+All rights reserved.
+
+DOI: 10.3168/jds.2019-17748 
+PMID: 32564950 
+

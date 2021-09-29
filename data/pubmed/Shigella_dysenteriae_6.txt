@@ -1,0 +1,46 @@
+
+1. PLoS Genet. 2020 Jul 9;16(7):e1008931. doi: 10.1371/journal.pgen.1008931.
+eCollection 2020 Jul.
+
+Impact of insertion sequences on convergent evolution of Shigella species.
+
+Hawkey J(1), Monk JM(2), Billman-Jacobe H(3), Palsson B(2), Holt KE(1)(4).
+
+Author information: 
+(1)Department of Infectious Diseases, Central Clinical School, Monash University,
+Melbourne, Victoria, Australia.
+(2)Department of Bioengineering, University of California, San Diego, San Diego, 
+California, United States of America.
+(3)Faculty of Veterinary and Agricultural Sciences, University of Melbourne,
+Parkville, Victoria, Australia.
+(4)The London School of Hygiene and Tropical Medicine, London, WC1E 7HT, United
+Kingdom.
+
+Shigella species are specialised lineages of Escherichia coli that have converged
+to become human-adapted and cause dysentery by invading human gut epithelial
+cells. Most studies of Shigella evolution have been restricted to comparisons of 
+single representatives of each species; and population genomic studies of
+individual Shigella species have focused on genomic variation caused by single
+nucleotide variants and ignored the contribution of insertion sequences (IS)
+which are highly prevalent in Shigella genomes. Here, we investigate the
+distribution and evolutionary dynamics of IS within populations of Shigella
+dysenteriae Sd1, Shigella sonnei and Shigella flexneri. We find that five IS
+(IS1, IS2, IS4, IS600 and IS911) have undergone expansion in all Shigella
+species, creating substantial strain-to-strain variation within each population
+and contributing to convergent patterns of functional gene loss within and
+between species. We find that IS expansion and genome degradation are most
+advanced in S. dysenteriae and least advanced in S. sonnei; and using
+genome-scale models of metabolism we show that Shigella species display
+convergent loss of core E. coli metabolic capabilities, with S. sonnei and S.
+flexneri following a similar trajectory of metabolic streamlining to that of S.
+dysenteriae. This study highlights the importance of IS to the evolution of
+Shigella and provides a framework for the investigation of IS dynamics and
+metabolic reduction in other bacterial species.
+
+DOI: 10.1371/journal.pgen.1008931 
+PMCID: PMC7373316
+PMID: 32644999  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

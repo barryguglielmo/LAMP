@@ -1,0 +1,55 @@
+
+1. Anal Biochem. 2020 Sep 20;612:113975. doi: 10.1016/j.ab.2020.113975. [Epub ahead 
+of print]
+
+Optical characterization and tunable antibacterial properties of gold
+nanoparticles with common proteins.
+
+Simon J(1), Udayan S(2), Bindiya ES(3), Bhat SG(3), Nampoori VPN(2), Kailasnath
+M(2).
+
+Author information: 
+(1)International School of Photonics, Cochin University of Science and
+Technology, Cochin, India. Electronic address: jessypps@cusat.ac.in.
+(2)International School of Photonics, Cochin University of Science and
+Technology, Cochin, India.
+(3)Department of Biotechnology, Cochin University of Science and Technology,
+Cochin, India.
+
+The interaction of three proteins, viz. Bovine Serum Albumin (BSA), Human Serum
+Albumin (HSA) and Hen Egg White Lysozyme (HEWL) with gold nanoparticles (GNPs) is
+investigated using surface plasmon resonance (SPR) spectroscopy, fluorescence
+spectroscopy and circular dichroism (CD). Size and morphology of the samples was 
+established using Transmission Electron Microscopy (TEM) and stability studies
+was established using zeta potential analysis. The stability of protein-GNP
+complex was found to be greater than that of individual protein as well as
+individual GNPs. Also HEWL-GNP complex was more stable compared to the other
+protein complexes. Absorbance of proteins increases with increase in gold
+nanoparticle concentration due to the extension of peptide strands of protein and
+decrease in hydrophobicity of gold nanoparticles. A ground state complex is also 
+formed which is evident from the moderate shift observed in the absorbance peaks.
+Apparent association constant was also determined from the absorption spectra and
+was found to be maximum for HEWL and minimum for HSA. Gold nanoparticles were
+found to act as quenchers and reduced the protein fluorescence intensity. Binding
+constant and number of binding sites were found to be maximum for HEWL and
+minimum for HSA. The temperature dependent fluorescence studies were also
+performed to calculate the thermodynamic parameters and to determine the nature
+of interaction between the proteins and gold nanoparticles. The circular
+dichroism studies elucidate the reason behind the maximum binding for HEWL and
+minimum binding for HSA. TGA analysis determined the thermal stability of the
+samples. Fluorescence lifetime studies indicate static quenching of proteins.
+Antibacterial activity of protein-gold nanoparticles was studied against four
+pathogens, viz. Bacillus pumilus, Escherichia coli, Pseudomonas aeruginosa, and
+Staphylococcus aureus. HEWL exhibits a tunable antimicrobial activity against
+Pseudomonas aeruginosa due to the maximum binding of HEWL with gold
+nanoparticles. The study proposes a novel method for adjusting the antibacterial 
+activity of HEWL against Pseudomonas aeruginosa when the resistance of this
+pathogen is a major issue in the chemotherapy of many infectious diseases. Thus
+the combination therapy of protein-gold nanoparticles could prove to be a new
+approach in medical field in the near future.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ab.2020.113975 
+PMID: 32966803 
+

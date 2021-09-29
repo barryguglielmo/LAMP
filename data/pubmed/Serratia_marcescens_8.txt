@@ -1,0 +1,47 @@
+
+1. Braz J Microbiol. 2020 Sep 23. doi: 10.1007/s42770-020-00382-2. [Epub ahead of
+print]
+
+Complete genome sequence of the biocontrol agent Serratia marcescens strain N4-5 
+uncovers an assembly artefact.
+
+Ferreira LC(1)(2), Maul JE(3), Viana MVC(4), de Sousa TJ(4), de Carvalho Azevedo 
+VA(4), Roberts DP(3), de Souza JT(5).
+
+Author information: 
+(1)Plant Pathology Department, Federal University of Lavras, Lavras, MG,
+37200-000, Brazil.
+(2)Institute of Biological, Environmental and Rural Sciences, Aberystwyth
+University, Aberystwyth, SY23 3DA, UK.
+(3)Sustainable Agricultural Systems Laboratory, USDA-Agricultural Research
+Service, Beltsville, MD, 20705, USA.
+(4)Institute of Biological Sciences, Federal University of Minas Gerais, Belo
+Horizonte, MG, 31270-901, Brazil.
+(5)Institute of Biological, Environmental and Rural Sciences, Aberystwyth
+University, Aberystwyth, SY23 3DA, UK. jorge.souza@ufla.br.
+
+Serratia marcescens are gram-negative bacteria found in several environmental
+niches, including the plant rhizosphere and patients in hospitals. Here, we
+present the genome of Serratia marcescens strain N4-5 (=NRRL B-65519), which has 
+a size of 5,074,473 bp (664-fold coverage) and contains 4840 protein coding
+genes, 21 RNA genes, and an average G + C content of 59.7%. N4-5 harbours a
+plasmid of 11,089 bp and 43.5% G + C content that encodes six unique CDS repeated
+2.5× times totalling 13 CDS. Our genome assembly and manual curation uncovered
+the insertion of two extra copies of the 5S rRNA gene in the assembled sequence, 
+which was confirmed by PCR and Sanger sequencing to be a misassembly. This
+artefact was subsequently removed from the final assembly. The occurrence of
+extra copies of the 5S rRNA gene was also observed in most complete genomes of
+Serratia spp. deposited in public databases in our comparative analysis. These
+elements, which also occur naturally, can easily be confused with true genetic
+variation. Efforts to discover and correct assembly artefacts should be made in
+order to generate genome sequences that represent the biological truth underlying
+the studied organism. We present the genome of N4-5 and discuss genes potentially
+involved in biological control activity against plant pathogens and also the
+possible mechanisms responsible for the artefact we observed in our initial
+assembly. This report raises awareness about the extra copies of the 5S rRNA gene
+in sequenced bacterial genomes as they may represent misassemblies and therefore 
+should be verified experimentally.
+
+DOI: 10.1007/s42770-020-00382-2 
+PMID: 32965626 
+

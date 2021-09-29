@@ -1,0 +1,45 @@
+
+1. Microb Cell Fact. 2020 Jul 28;19(1):152. doi: 10.1186/s12934-020-01412-2.
+
+Sexual dimorphism of gut microbiota at different pubertal status.
+
+Yuan X(1), Chen R(2), Zhang Y(1), Lin X(1), Yang X(1).
+
+Author information: 
+(1)Department of Endocrinology, Fuzhou Children's Hospital of Fujian Medical
+University, NO. 145, 817 Middle Road, Fuzhou, 350005, China.
+(2)Department of Endocrinology, Fuzhou Children's Hospital of Fujian Medical
+University, NO. 145, 817 Middle Road, Fuzhou, 350005, China. chenrm321@163.com.
+
+BACKGROUND: Accumulating evidence infer that gut microbiome-host relations are
+key mediators or modulators driving the observed sexual dimorphism in some
+disease onset and progression. To date, the sex-differences of gut microbiota at 
+different pubertal status have not been reported.
+OBJECTIVE: To determine the characteristics of gut microbiota of both genders at 
+different pubertal status.
+METHODS: Gut microbiota was analyzed in 89 Chinese participants aged 5-15 years. 
+Participants were divided into pre-puberty and puberty groups for both male and
+female. The composition of gut microbiota was investigated by 16S rRNA-based
+metagenomics. Ecological representations of microbial communities were computed. 
+The prediction of metagenomic functional content from 16S rRNA gene surveys was
+conducted.
+RESULTS: There were 49 males (9.76 ± 2.15 years) and 40 females
+(9.74 ± 1.63 years); 21 males and 26 females were at puberty. At genus level,
+Alistipes, Megamonas, Oscillospira and Parabacteroides were more prevalent in
+girls than in boys (p < 0.05). There were no significantly differences of
+alpha-diversity between genders, which was independent of pubertal status. The
+beta-diversity was significantly different in pubertal subjects between genders. 
+Using statistical analyses, we assigned genera Dorea, Megamonas, Bilophila,
+Parabacteroides and Phascolarctobacterium as microbial markers for pubertal
+subjects. The predicted metabolic profiles differ in both pubertal and
+pre-pubertal groups between genders.
+CONCLUSION: This cross-sectional study revealed that sex differences in the gut
+microbiota composition and predicted metabolic profiles exist before puberty,
+which become more significant at puberty. The identification of novel puberty
+bacterial markers may disclose a potential effects of gender-related microbiota
+profiles on puberty onset.
+
+DOI: 10.1186/s12934-020-01412-2 
+PMCID: PMC7390191
+PMID: 32723385 
+

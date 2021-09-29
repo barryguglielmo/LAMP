@@ -1,0 +1,45 @@
+
+1. Environ Sci Pollut Res Int. 2020 Apr;27(10):10495-10505. doi:
+10.1007/s11356-020-07690-y. Epub 2020 Jan 15.
+
+Selective metal removal from chromium-containing synthetic effluents using
+Shewanella xiamenensis biofilm supported on zeolite.
+
+Zinicovscaia I(1)(2)(3), Safonov A(4), Boldyrev K(5), Gundorina S(6), Yushin
+N(6), Petuhov O(7), Popova N(4).
+
+Author information: 
+(1)Joint Institute for Nuclear Research, Joliot-Curie Str., 6, 141980 Dubna,
+Moscow, Russia. zinikovskaia@mail.ru.
+(2)Horia Holubei National Institute for R&D in Physics and Nuclear Engineering
+(IFIN-HH), Reactorului Str., 30, MG-6, Bucharest -, Magurele, Romania.
+zinikovskaia@mail.ru.
+(3)The Institute of Chemistry, Academiei Str.3, Kishinev, Chisinau, Moldova.
+zinikovskaia@mail.ru.
+(4)Frumkin Institute of Physical Chemistry and Electrochemistry, Russian Academy 
+of Sciences, 31 Leninsky prospect, 119071, Moscow, Russia.
+(5)Nuclear Safety Institute of the Russian Academy of Sciences, 52, Bolshaya
+Tulskaya, Moscow, 115191, Russia.
+(6)Joint Institute for Nuclear Research, Joliot-Curie Str., 6, 141980 Dubna,
+Moscow, Russia.
+(7)The Institute of Chemistry, Academiei Str.3, Kishinev, Chisinau, Moldova.
+
+A scheme of selective removal of metal ions from chromium-containing synthetic
+solutions with the following chemical composition, Cr (VI)-Fe (III), Cr (VI)-Fe
+(III)-Ni (II), Cr (VI)-Fe (III)-Ni (II)-Zn (II), and Cr (VI)-Fe (III)-Ni (II)-Zn 
+(II)-Cu (II)) by Shewanella xiamenensis biofilm immobilized on a zeolite support,
+was proposed. Three biological processes, biosorption, bioaccumulation, and
+longtime bioreduction, were applied for metal removal. The process of Zn (II), Ni
+(II), and Cu (II) showed to be pH dependent. The maximum removal of Ni (II) was
+achieved during a 1-hour biosorption process at pH 5.0-6.0, of Zn (II) at pH 5.0,
+and of Cu (II) at pH 3.0. Chromium (VI) and Fe (III) ions were more efficiently
+removed by bioaccumulation. Chromium (VI) removal in the studied systems varied
+from 16.4% to 34.8 and of iron from 55.8 to 94.6%. In a long-term bioreduction
+experiment, it was possible to achieve complete reduction of Cr (VI) to Cr (III) 
+ions by Shewanella xiamenensis in 42 days and by Shewanella xiamenensis biofilm
+on zeolite in 35 days. Shewanella oneidensis can be effectively used to remove
+metal ions from chemically complex effluents.
+
+DOI: 10.1007/s11356-020-07690-y 
+PMID: 31942714  [Indexed for MEDLINE]
+

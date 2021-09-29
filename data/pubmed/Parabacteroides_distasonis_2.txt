@@ -1,0 +1,65 @@
+
+1. Biol Blood Marrow Transplant. 2020 Jul 24. pii: S1083-8791(20)30453-5. doi:
+10.1016/j.bbmt.2020.07.023. [Epub ahead of print]
+
+Baseline Gut Microbiota Composition Is Associated with Major Infections Early
+after Hematopoietic Cell Transplantation.
+
+Murthy HS(1), Gharaibeh RZ(2), Al-Mansour Z(1), Kozlov A(3), Trikha G(4), Newsome
+RC(5), Gauthier J(5), Farhadfar N(1), Wang Y(6), Kelly DL(7), Lybarger J(4),
+Jobin C(2), Wang GP(3), Wingard JR(8).
+
+Author information: 
+(1)Division of Hematology/Oncology, Department of Medicine, University of Florida
+College of Medicine, Gainesville, Florida; UF Health Cancer Center, Gainesville, 
+Florida.
+(2)UF Health Cancer Center, Gainesville, Florida; Division of Gastroenterology,
+Department of Medicine, University of Florida College of Medicine, Gainesville,
+Florida.
+(3)Division of Infectious Disease and Global Medicine, Department of Medicine,
+University of Florida College of Medicine, Gainesville, Florida.
+(4)Division of Hematology/Oncology, Department of Medicine, University of Florida
+College of Medicine, Gainesville, Florida.
+(5)Division of Gastroenterology, Department of Medicine, University of Florida
+College of Medicine, Gainesville, Florida.
+(6)Division of Quantitative Sciences And Biostatistics, University of Florida
+Health Cancer Center, Gainesville, Florida.
+(7)UF Health Cancer Center, Gainesville, Florida; College of Nursing, University 
+of Florida, Gainesville, Florida.
+(8)Division of Hematology/Oncology, Department of Medicine, University of Florida
+College of Medicine, Gainesville, Florida; UF Health Cancer Center, Gainesville, 
+Florida. Electronic address: wingajr@ufl.edu.
+
+Infection is a major cause of morbidity and mortality after hematopoietic cell
+transplantation (HCT). Gut microbiota (GM) composition and metabolites provide
+colonization resistance against dominance of potential pathogens, and GM
+dysbiosis following HCT can be deleterious to immune reconstitution. Little is
+known about the composition, diversity, and evolution of GM communities in HCT
+patients and their association with subsequent febrile neutropenia (FN) and
+infection. Identification of markers before HCT that predict subsequent infection
+could be useful in developing individualized antimicrobial strategies. Fecal
+samples were collected prospectively from 33 HCT recipients at serial time
+points: baseline, post-conditioning regimen, neutropenia onset, FN onset (if
+present), and hematologic recovery. GM was assessed by 16S rRNA sequencing. FN
+and major infections (ie, bloodstream infection, typhlitis, invasive fungal
+infection, pneumonia, and Clostridium difficile enterocolitis) were identified.
+Significant shifts in GM composition and diversity were observed during HCT, with
+the largest alterations occurring after initiation of antibiotics. Loss of
+diversity persisted without a return to baseline at hematologic recovery. GM in
+patients with FN was enriched in Mogibacterium, Bacteroides fragilis, and
+Parabacteroides distasonis, whereas increased abundance of Prevotella,
+Ruminococcus, Dorea, Blautia, and Collinsella was observed in patients without
+fever. A baseline protective GM profile (BPGMP) was predictive of protection from
+major infection. The BPGMP was associated with subsequent major infections with
+77% accuracy and an area under the curve of 79%, with sensitivity, specificity,
+and positive and negative predictive values of 0.71, 0.91, 0.77, and 0.87,
+respectively. Our data show that large shifts in GM composition occur early after
+HCT, and differences in baseline GM composition are associated with the
+development of subsequent major infections.
+
+Copyright © 2020 American Society for Transplantation and Cellular Therapy.
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbmt.2020.07.023 
+PMID: 32717434 
+

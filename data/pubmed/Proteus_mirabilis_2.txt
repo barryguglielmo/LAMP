@@ -1,0 +1,44 @@
+
+1. Int J Biol Macromol. 2020 Sep 29. pii: S0141-8130(20)34595-5. doi:
+10.1016/j.ijbiomac.2020.09.233. [Epub ahead of print]
+
+Proteomic analysis deciphers the multi-targeting antivirulence activity of tannic
+acid in modulating the expression of MrpA, FlhD, UreR, HpmA and Nrp system in
+Proteus mirabilis.
+
+Durgadevi R(1), Abirami G(1), Swasthikka RP(1), Alexpandi R(1), Pandian SK(1),
+Ravi AV(2).
+
+Author information: 
+(1)Department of Biotechnology, Alagappa University, Science Campus, Karaikudi
+630 003, Tamil Nadu, India.
+(2)Department of Biotechnology, Alagappa University, Science Campus, Karaikudi
+630 003, Tamil Nadu, India. Electronic address: aveeraravi@rediffmail.com.
+
+In the present study, the multi-targeting antivirulence activity of tannic acid
+(TA) was explored against Proteus mirabilis through MS-based proteomic approach. 
+The in vitro biofilm biomass quantification assay and microscopic analysis
+demonstrated the antibiofilm activity of TA against P. mirabilis in which,
+minimum biofilm inhibitory concentration (MBIC) of TA was found to be 200 μg/mL
+concentration. Moreover, the nanoscale liquid chromatography coupled to tandem
+mass spectrometry (nano LC-MS/MS) analysis revealed that TA (at MBIC)
+differentially regulated the proteins involved in fimbrial adhesion, flagellar
+motility, iron acquisition, Fe-S cluster assembly, heat shock response, virulence
+enzymes, and toxin secretion. Further, the transcriptomic analysis validated the 
+outcomes of proteomic analysis in which, the expression level of virulence genes 
+responsible for MR/P fimbrial adhesion (mrpA), flagellar transcriptional
+activation (flhD), biosynthesis of urease (ureR), hemolysin (hmpA), non-ribosomal
+peptide siderophore system (Nrp), oxidative stress responsible enzymes and
+fitness factors proteins were down-regulated in TA exposed P. mirabilis. These
+observations were also in correspondence with the in vitro bioassays. Thus, this 
+study reports the feasibility of TA to act as a promising therapeutic agent
+against multifactorial P. mirabilis infections.
+
+Copyright © 2018. Published by Elsevier B.V.
+
+DOI: 10.1016/j.ijbiomac.2020.09.233 
+PMID: 33007322 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no conflict of interest.
+

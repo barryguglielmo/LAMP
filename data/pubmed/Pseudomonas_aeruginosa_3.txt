@@ -1,0 +1,47 @@
+
+1. ISME J. 2020 Oct 3. doi: 10.1038/s41396-020-00794-w. [Epub ahead of print]
+
+Phage gene expression and host responses lead to infection-dependent costs of
+CRISPR immunity.
+
+Meaden S(1), Capria L(2), Alseth E(2), Gandon S(3), Biswas A(4), Lenzi L(5), van 
+Houte S(2), Westra ER(6).
+
+Author information: 
+(1)Biosciences, University of Exeter, Exeter, TR10 9EZ, UK.
+s.meaden@exeter.ac.uk.
+(2)Biosciences, University of Exeter, Exeter, TR10 9EZ, UK.
+(3)CEFE, Univ Montpellier, CNRS, EPHE, IRD, Univ Paul Valéry Montpellier 3,
+Montpellier, France.
+(4)Department of Microbiology and Immunology, University of Otago, Dunedin, New
+Zealand.
+(5)Institute of Infection, Veterinary and Ecological Sciences, University of
+Liverpool, Liverpool, UK.
+(6)Biosciences, University of Exeter, Exeter, TR10 9EZ, UK.
+e.r.westra@exeter.ac.uk.
+
+CRISPR-Cas immune systems are widespread in bacteria and archaea, but not
+ubiquitous. Previous work has demonstrated that CRISPR immunity is associated
+with an infection-induced fitness cost, which may help explain the patchy
+distribution observed. However, the mechanistic basis of this cost has remained
+unclear. Using Pseudomonas aeruginosa PA14 and its phage DMS3vir as a model, we
+perform a 30-day evolution experiment under phage mediated selection. We
+demonstrate that although CRISPR is initially selected for, bacteria carrying
+mutations in the phage receptor rapidly invade the population following
+subsequent reinfections. We then test three potential mechanisms for the observed
+cost of CRISPR: (1) autoimmunity from the acquisition of self-targeting spacers, 
+(2) immunopathology or energetic costs from increased cas gene expression and (3)
+toxicity caused by phage gene expression prior to CRISPR-mediated cleavage. We
+find that phages can express genes before the immune system clears the infection 
+and that expression of these genes can have a negative effect on host fitness.
+While infection does not lead to increased expression of cas genes, it does cause
+differential expression of multiple other host processes that may further
+contribute to the cost of CRISPR immunity. In contrast, we found little support
+for infection-induced autoimmunological and immunopathological effects. Phage
+gene expression prior to cleavage of the genome by the CRISPR-Cas immune system
+is therefore the most parsimonious explanation for the observed phage-induced
+fitness cost.
+
+DOI: 10.1038/s41396-020-00794-w 
+PMID: 33011743 
+

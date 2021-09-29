@@ -1,0 +1,53 @@
+
+1. J Nanobiotechnology. 2020 Oct 2;18(1):140. doi: 10.1186/s12951-020-00699-y.
+
+Micelles self-assembled by 3-O-β-D-glucopyranosyl latycodigenin enhance cell
+membrane permeability, promote antibiotic pulmonary targeting and improve
+anti-infective efficacy.
+
+Zhang M(1), Ye L(1), Huang H(2), Cheng D(3), Liu K(1), Wu W(1), Shen F(1), Jiang 
+Z(2), Hou Y(4), Bai G(5).
+
+Author information: 
+(1)State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy and
+Tianjin Key Laboratory of Molecular Drug Research, Nankai University, Haihe
+Education Park, 38 Tongyan Road, Tianjin, 300353, People's Republic of China.
+(2)State Key Laboratory of Quality Research in Chinese Medicine, Macau University
+of Science and Technology, Taipa, Macau, China.
+(3)Tianjin University of Traditional Chinese Medicine, Tianjin, 300193, People's 
+Republic of China.
+(4)State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy and
+Tianjin Key Laboratory of Molecular Drug Research, Nankai University, Haihe
+Education Park, 38 Tongyan Road, Tianjin, 300353, People's Republic of China.
+houyy@nankai.edu.cn.
+(5)State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy and
+Tianjin Key Laboratory of Molecular Drug Research, Nankai University, Haihe
+Education Park, 38 Tongyan Road, Tianjin, 300353, People's Republic of China.
+gangbai@nankai.edu.cn.
+
+BACKGROUND: Nanoparticle-based pulmonary drug delivery systems are commonly
+developed and applied for drug-targeted delivery. They exhibit significant
+advantages compared to traditional pulmonary drug delivery systems. However,
+developing the formulation of each drug is a time-consuming and laborious task.
+RESULTS: In this study, a universal lung-targeting nanoparticle was designed and 
+constructed. The self-assembled micelles were composed of a platycodon secondary 
+saponin, 3-O-β-D-glucopyranosyl platycodigenin 682 (GP-682), based on its
+specific amphiphilic structure. The GP-682 micelles exhibited a relatively stable
+zeta potential with a particle size between 60 and 90 nm, and the critical
+micelle concentration (CMC) value was approximately 42.3 μg/mL. Preincubation of 
+GP-682 micelles markedly enhanced their cell membrane permeability and improved
+drug uptake in vitro. The results were visualized using fluorescent dye tracing, 
+transmission electron microscopy (TEM) observations and the lactate dehydrogenase
+(LDH) release assay. The obtained benefits enhanced the distribution of
+levofloxacin (Lev) in mouse lung tissue and reduced antibiotics overdosing. The
+acute lung injury mouse model induced by the Pseudomonas aeruginosa PA 14 strain 
+demonstrated that preinjection of GP-682 micelles before antibiotic
+administration resulted in a higher survival rate and anti-infective efficacy in 
+vivo. It also caused reductions in pulmonary injury, bacterial invasion and
+cytokine expression compared with treatment with Lev alone.
+CONCLUSIONS: GP-682 micelles are another nanoparticle-based pulmonary drug
+delivery system and provide a new lung-targeting therapy option.
+
+DOI: 10.1186/s12951-020-00699-y 
+PMID: 33008413 
+

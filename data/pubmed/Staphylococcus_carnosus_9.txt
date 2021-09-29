@@ -1,0 +1,31 @@
+
+1. Bioprocess Biosyst Eng. 2020 Feb;43(2):359. doi: 10.1007/s00449-019-02225-3.
+
+Correction to: Application of a multiphase microreactor chemostat for the
+determination of reaction kinetics of Staphylococcus carnosus.
+
+Lladó Maldonado S(1)(2), Krull J(1)(2), Rasch D(1)(2), Panjan P(3), Sesay AM(3), 
+Marques MPC(4), Szita N(4), Krull R(5)(6).
+
+Author information: 
+(1)Institute of Biochemical Engineering, Technische Universität Braunschweig,
+Rebenring 56, 38106, Brunswick, Germany.
+(2)Center of Pharmaceutical Engineering (PVZ), Technische Universität
+Braunschweig, Brunswick, Germany.
+(3)Measurement Technology Unit, CEMIS-Oulu, Kajaani University Consortium,
+University of Oulu, Kajaani, Finland.
+(4)Department of Biochemical Engineering, University College London, London, UK.
+(5)Institute of Biochemical Engineering, Technische Universität Braunschweig,
+Rebenring 56, 38106, Brunswick, Germany. r.krull@tu-braunschweig.de.
+(6)Center of Pharmaceutical Engineering (PVZ), Technische Universität
+Braunschweig, Brunswick, Germany. r.krull@tu-braunschweig.de.
+
+Erratum for
+    Bioprocess Biosyst Eng. 2019 Jun;42(6):953-961.
+
+Unfortunately, in the "How to Cite as" section, the given and the family name of 
+the author was incorrectly published, the correct name is Lladó Maldonado. S.
+
+DOI: 10.1007/s00449-019-02225-3 
+PMID: 31584123 
+

@@ -1,0 +1,44 @@
+
+1. J Environ Manage. 2020 Nov 15;274:111156. doi: 10.1016/j.jenvman.2020.111156.
+Epub 2020 Aug 12.
+
+Impact of hydrochar and biochar amendments on sorption and biodegradation of
+organophosphorus pesticides during transport through Danube alluvial sediment.
+
+Isakovski MK(1), Maletić S(2), Tamindžija D(1), Apostolović T(1), Petrović J(3), 
+Tričković J(1), Agbaba J(1).
+
+Author information: 
+(1)University of Novi Sad, Faculty of Sciences, Department of Chemistry,
+Biochemistry and Environmental Protection, Trg Dositeja Obradovića 3, 21000 Novi 
+Sad, Serbia.
+(2)University of Novi Sad, Faculty of Sciences, Department of Chemistry,
+Biochemistry and Environmental Protection, Trg Dositeja Obradovića 3, 21000 Novi 
+Sad, Serbia. Electronic address: snezana.maletic@dh.uns.ac.rs.
+(3)Institute fot Technology of Nuclear and Other Mineral Raw Materials, 86
+Franchet d'Esperey St., 11000 Belgrade, Serbia.
+
+This work investigates the transport behaviour of selected organophosphorus
+pesticides, OPPs (chlorpyrifos, CP; chlorpyrifos-methyl, CPM; chlorfenvinphos,
+CF) through Danube alluvial sediment in the presence of hydrochars and biochars. 
+The investigated hydrochar, obtained at three different temperatures (180 °C, 200
+°Cand 220 °C), originated from sugar beet shreds (SBS) and Miscanthus×giganteus
+(MIS). Results are described by conventional advective-dispersive equation (ADE).
+Retardation coefficients (Rd) for all OPPs were in the range 6.2-16.
+Biodegradation was 4.15 and 1.80 for CPM and CP, respectively, while for CF
+biodegradation did not occur. The addition of carbon rich materials increases
+retardation of all OPPs in the range from 4 to 18 times depending on the
+material. Column experiment results indicated that biodegradation of OPPs
+occurred (up to λ = 13). In order to confirm that biodegradation occurred in the 
+column experiments, we isolated OPPs degrading microorganisms for the first time 
+from the alluvial sediment. A strain capable of degrading CP and CPM was isolated
+and identified as Bacillus megaterium BD5 based on biochemical properties, MALDI 
+TOF and 16S rRNA analysis (99.54% identity). The results demonstrate that
+hydrochars, biochars and isolated degrading bacteria may be effective agents for 
+reducing the mobility of or removing OPPs in contaminated soils or sediments.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jenvman.2020.111156 
+PMID: 32798844  [Indexed for MEDLINE]
+

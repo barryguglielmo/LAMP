@@ -1,0 +1,58 @@
+
+1. Front Microbiol. 2020 Jun 9;11:1134. doi: 10.3389/fmicb.2020.01134. eCollection
+2020.
+
+Phenotypic Variation and Carbapenem Resistance Potential in OXA-499-Producing
+Acinetobacter pittii.
+
+Zhang L(1)(2), Fu Y(2)(3), Han X(1)(2), Xu Q(1)(2), Weng S(1)(2), Yan B(4), Liu
+L(1)(2), Hua X(1)(2), Chen Y(1)(2), Yu Y(1)(2).
+
+Author information: 
+(1)Department of Infectious Diseases, Sir Run Run Shaw Hospital, College of
+Medicine, Zhejiang University, Hangzhou, China.
+(2)Key Laboratory of Microbial Technology and Bioinformatics of Zhejiang
+Province, Hangzhou, China.
+(3)Department of Clinical Laboratory, Sir Run Run Shaw Hospital, College of
+Medicine, Zhejiang University, Hangzhou, China.
+(4)Department of Laboratory Medicine, The Second Affiliated Hospital of Zhejiang 
+University School of Medicine, Hangzhou, China.
+
+Acinetobacter pittii is increasingly recognized as a clinically important
+species. Here, we identified a carbapenem-non-resistant A. pittii clinical
+isolate, A1254, harboring bla OXA- 499, bla OXA- 826, and bla ADC- 221. The bla
+OXA- 499 genetic environment in A1254 was identical to that of another
+OXA-499-producing, but carbapenem-resistant, A. pittii isolate, YMC2010/8/T346,
+indicating the existence of phenotypic variation among OXA-499-producing A.
+pittii strains. Under imipenem-selective pressure, the A1254 isolate developed
+resistance to carbapenems in 60 generations. Two carbapenem-resistant mutants
+(CAB009 and CAB010) with mutations in the bla OXA- 499 promoter region were
+isolated from two independently evolved populations (CAB001 and CAB004). The
+CAB009 mutant, with a mutation at position -14 (A to G), exhibited a four-fold
+higher carbapenem minimum inhibitory concentration (MIC) and a 4.53 ± 0.19 log2
+fold change higher expression level of bla OXA- 499 than the ancestor strain,
+A1254. The other mutant, CAB010, with a mutation at position -42 (G to A), showed
+a two-fold higher carbapenem MIC and a 1.65 ± 0.25 log2 fold change higher bla
+OXA- 499 expression level than the ancestor strain. The bla OXA- 499 gene and its
+promoter region were amplified from the wild-type strain and two mutant isolates 
+and then individually cloned into the pYMAb2-Hyg r vector and expressed in
+Acinetobacter baumannii ATCC 17978, A. pittii LMG 1035, and A. pittii A1254. All 
+the transformed strains were resistant to carbapenem, irrespective of whether
+they harbored the initial or an evolved promoter sequence, and transformed
+strains expressing the promoter from the most resistant mutant, CAB009, showed
+the highest carbapenem MICs, with values of 32-64 μg/ml for imipenem and 128
+μg/ml for meropenem. RNA sequencing was performed to confirm the contribution of 
+bla OXA- 499 to the development of carbapenem resistance. Although the CAB009 and
+CAB010 transcriptional patterns were different, bla OXA- 499 was the only
+differentially expressed gene shared by the two mutants. Our results indicate
+that carbapenem-non-resistant Acinetobacter spp. strains carrying bla OXA genes
+have the potential to develop carbapenem resistance and need to be further
+investigated and monitored to prevent treatment failure due to the development of
+resistance.
+
+Copyright © 2020 Zhang, Fu, Han, Xu, Weng, Yan, Liu, Hua, Chen and Yu.
+
+DOI: 10.3389/fmicb.2020.01134 
+PMCID: PMC7296048
+PMID: 32582088 
+

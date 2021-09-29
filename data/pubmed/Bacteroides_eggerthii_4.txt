@@ -1,0 +1,31 @@
+
+1. Prep Biochem Biotechnol. 2020;50(5):477-485. doi: 10.1080/10826068.2019.1709977. 
+Epub 2020 Jan 3.
+
+Cloning, expression, and characterization of a novel heparinase I from
+Bacteroides eggerthii.
+
+Liu CY(1), Su WB(1), Guo LB(1), Zhang YW(1).
+
+Author information: 
+(1)School of Pharmacy, Jiangsu University, Zhenjiang, People's Republic of China.
+
+Heparinase I (Hep I) specifically degrades heparin to oligosaccharide or
+unsaturated disaccharide and has been widely used in preparation of low molecular
+weight heparin (LMWH). In this work, a novel Hep I from Bacteroides eggerthii VPI
+T5-42B-1 was cloned and overexpressed in Escherichia coli BL21 (DE3). The enzyme 
+has specific activity of 480 IU·mg-1 at the optimal temperature and pH of 30 °C
+and pH 7.5, and the Km and Vmax were 3.6 mg·mL-1 and 647.93 U·mg-1, respectively.
+The Hep I has good stability with t1/2 values of 350 and 60 min at 30 and 37 °C, 
+respectively. And it showed a residual relative activity of 70.8% after 21 days
+incubation at 4 °C. Substrate docking study revealed that Lys99, Arg101, Gln241, 
+Lys270, Asn275, and Lys292 were mainly involved in the substrate binding of Hep
+I. The shorter hydrogen bonds formed between heparin and these residues suggested
+the higher specific activity of BeHep I. And the minimum conformational entropy
+value of 756 J·K-1 provides an evidence for the improved stability of this
+enzyme. This Hep I could be of interest in the industrial preparation of LMWH for
+its high specific activity and good stability.
+
+DOI: 10.1080/10826068.2019.1709977 
+PMID: 31900079 
+

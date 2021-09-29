@@ -1,0 +1,50 @@
+
+1. Front Microbiol. 2020 Aug 18;11:1974. doi: 10.3389/fmicb.2020.01974. eCollection 
+2020.
+
+Resistance to Bipyridyls Mediated by the TtgABC Efflux System in Pseudomonas
+putida KT2440.
+
+Henríquez T(1), Stein NV(1), Jung H(1).
+
+Author information: 
+(1)Mikrobiologie, Biozentrum, Ludwig-Maximilians-Universität München, Munich,
+Germany.
+
+Resistance-nodulation-division (RND) transporters are involved in antibiotic
+resistance and have a broad substrate specificity. However, the physiological
+significance of these efflux pumps is not fully understood. Here, we have
+investigated the role of the RND system TtgABC in resistance to metal ion
+chelators in the soil bacterium Pseudomonas putida KT2440. We observed that the
+combined action of an RND inhibitor and the chelator 2,2'-bipyridyl inhibited
+bacterial growth. In addition, the deletion of ttgB made the strain susceptible
+to 2,2'-bipyridyl and natural bipyridyl derivatives such as caerulomycin A,
+indicating that TtgABC is required for detoxification of compounds of the
+bipyridyl family. Searching for the basis of growth inhibition by bipyridyls, we 
+found reduced adenosine triphosphate (ATP) levels in the ttgB mutant compared to 
+the wild type. Furthermore, the expression of genes related to iron acquisition
+and the synthesis of the siderophore pyoverdine were reduced in the mutant
+compared to the wild type. Investigating the possibility that 2,2'-bipyridyl in
+the ttgB mutant mediates iron accumulation in cells (which would cause the
+upregulation of genes involved in oxidative stress via the Fenton reaction), we
+measured the expression of genes coding for proteins involved in intracellular
+iron storage and the response to oxidative stress. However, none of the genes was
+significantly upregulated. In a further search for a possible link between
+2,2'-bipyridyl and the observed phenotypes, we considered the possibility that
+the ion chelator limits the intracellular availability of metabolically important
+metal ions. In this context, we found that the addition of copper restores the
+growth of the ttgB mutant and the production of pyoverdine, suggesting a
+relationship between copper availability and iron acquisition. Taken together,
+the results suggest that detoxification of metal chelating compounds of the
+bipyridyl family produced by other bacteria or higher ordered organisms is one of
+the native functions of the RND efflux pump TtgABC. Without the efflux pump,
+these compounds may interfere with cell ion homeostasis with adverse effects on
+cell metabolism, including siderophore production. Finally, our results suggest
+that TtgABC is involved in resistance to bile salts and deoxycholate.
+
+Copyright © 2020 Henríquez, Stein and Jung.
+
+DOI: 10.3389/fmicb.2020.01974 
+PMCID: PMC7461776
+PMID: 32973714 
+

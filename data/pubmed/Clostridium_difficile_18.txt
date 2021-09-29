@@ -1,0 +1,53 @@
+
+1. World J Clin Cases. 2020 Sep 6;8(17):3708-3717. doi: 10.12998/wjcc.v8.i17.3708.
+
+Efficacy of stool multiplex polymerase chain reaction assay in adult patients
+with acute infectious diarrhea.
+
+Ahn JS(1), Seo SI(2), Kim J(3), Kim T(1), Kang JG(1), Kim HS(2), Shin WG(2), Jang
+MK(2), Kim HY(2).
+
+Author information: 
+(1)Department of Internal Medicine, Kangdong Sacred Heart Hospital, Seoul KS013, 
+South Korea.
+(2)Department of Internal Medicine, Kangdong Sacred Heart Hospital, Hallym
+University College of Medicine, Seoul KS013, South Korea.
+(3)Department of Epidemiology, School of Public Health, Seoul National
+University, Seoul KS013, South Korea.
+
+BACKGROUND: Recently, stool multiplex polymerase chain reaction (PCR) tests have 
+been developed for identifying diarrhea-causing bacterial pathogens. Furthermore,
+fecal calprotectin is a well-known effective marker for intestinal mucosal
+inflammation.
+AIM: To evaluate the efficacy of stool multiplex PCR and fecal calprotectin in
+acute infectious diarrhea.
+METHODS: Overall, 400 patients with acute infectious diarrhea were enrolled from 
+Kangdong Sacred Heart Hospital (January 2016 to December 2018). Multiplex PCR
+detected 7 enteropathogenic bacteria including Salmonella, Campylobacter,
+Shigella, Escherichia coli O157:H7, Aeromonas, Vibrio, and Clostridium difficile.
+We reviewed clinical and laboratory findings using stool multiplex PCR.
+RESULTS: Stool multiplex PCR test detected considerably more bacterial pathogens 
+than stool culture (49.2% vs 5.2%), with Campylobacter as the most common
+pathogen (54%). Patients with positive stool PCR showed elevated fecal
+calprotectin expression compared to patients with negative stool PCR (1124.5 ±
+816.9 mg/kg vs 609 ± 713.2 mg/kg, P = 0.001). C-reactive protein (OR = 1.01,
+95%CI: 1.001-1.027, P = 0.034) and sigmoidoscopy-detected colitis (OR = 4.76,
+95%CI: 1.101-20.551, P = 0.037) were independent factors in stool PCR-based
+detection of bacterial pathogens. Sensitivity and specificity of calprotectin
+were evaluated to be 70.5% and 60.9%, respectively (adjusted cut-off value = 388 
+mg/kg).
+CONCLUSION: Stool multiplex PCR test has increased sensitivity in detecting
+pathogens than conventional culture, and it is correlated with calprotectin
+expression. Stool multiplex PCR and calprotectin may be effective in predicting
+clinical severity of infectious diarrhea.
+
+©The Author(s) 2020. Published by Baishideng Publishing Group Inc. All rights
+reserved.
+
+DOI: 10.12998/wjcc.v8.i17.3708 
+PMCID: PMC7479561
+PMID: 32953847 
+
+Conflict of interest statement: Conflict-of-interest statement: All authors have 
+no any conflicts of interest.
+

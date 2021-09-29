@@ -1,0 +1,46 @@
+
+1. Front Microbiol. 2020 Aug 26;11:2084. doi: 10.3389/fmicb.2020.02084. eCollection 
+2020.
+
+Fic Proteins Inhibit the Activity of Topoisomerase IV by AMPylation in Diverse
+Bacteria.
+
+Lu CH(1)(2)(3), McCloskey A(3), Chen FR(2), Nakayasu ES(4), Zhang LQ(2), Luo
+ZQ(3).
+
+Author information: 
+(1)Yunnan Academy of Tobacco Agriculture Science, Kunming, China.
+(2)Department of Plant Pathology and MOA Key Lab of Pest Monitoring and Green
+Management, College of Plant Protection, China Agricultural University, Beijing, 
+China.
+(3)Department of Biological Sciences, Purdue University, West Lafayette, IN,
+United States.
+(4)Biological Science Division, Pacific Northwest National Laboratory, Richland, 
+WA, United States.
+
+The Fic (filamentation induced by cyclic AMP) domain is a widely distributed
+motif with a conserved sequence of HPFx[D/E]GN[G/K]R, some of which regulate
+cellular activity by catalyzing the transfer of the AMP moiety from ATP to
+protein substrates. Some Fic proteins, including Fic-1 from the soil bacterium
+Pseudomonas fluorescens strain 2P24, have been shown to inhibit bacterial DNA
+replication by AMPylating the subunit B of DNA gyrase (GyrB), but the biochemical
+activity and cellular target of most Fic proteins remain unknown. Here, we report
+that Fic-2, which is another Fic protein from strain 2P24 and Fic-1 AMPylate the 
+topoisomerase IV ParE at Tyr109. We also examined Fic proteins from several
+phylogenetically diverse bacteria and found that those from Yersinia
+pseudotuberculosis and Staphylococcus aureus AMPylate ParE and GrlB, the
+counterpart of ParE in Gram-positive bacteria, respectively. Modification by
+Fic-1 of P. fluorescens and FicY of Y. pseudotuberculosis inhibits the relaxation
+activity of topoisomerase IV. Consistent with the inhibition of ParE activity,
+ectopic expression of these Fic proteins causes cell filamentation akin to the
+canonical par phenotype in which nucleoids are assembled in the center of
+elongated cells, a process accompanied by the induction of the SOS response. Our 
+results establish that Fic proteins from diverse bacterial species regulate
+chromosome division and cell separation in bacteria by targeting ParE.
+
+Copyright © 2020 Lu, McCloskey, Chen, Nakayasu, Zhang and Luo.
+
+DOI: 10.3389/fmicb.2020.02084 
+PMCID: PMC7479194
+PMID: 32983060 
+

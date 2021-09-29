@@ -1,0 +1,52 @@
+
+1. Helicobacter. 2020 Oct 1:e12760. doi: 10.1111/hel.12760. [Epub ahead of print]
+
+The relation between Helicobacter pylori immunoglobulin G seropositivity and
+leukocyte telomere length in US adults from NHANES 1999-2000.
+
+Huang JW(1), Xie C(2), Niu Z(3), He LJ(4), Li JJ(4).
+
+Author information: 
+(1)Department of Gastroenterology, People's Hospital of Longhua District of
+Shenzhen, Shenzhen, China.
+(2)Cancer Prevention Cancer, Sun Yat-sen University Cancer Center, State Key
+Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer
+Medicine, Guangzhou, China.
+(3)Department of Epidemiology and Environmental Health, School of Public Health
+and Health Professions, the State University of New York at Buffalo, Buffalo, NY,
+USA.
+(4)Department of Endoscopy, Sun Yat-sen University Cancer Center, State Key
+Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer
+Medicine, Guangzhou, China.
+
+BACKGROUND: Helicobacter pylori (H pylori) immunoglobulin G (IgG) seropositivity 
+is prevalent but its relation with leukocyte telomere length (LTL), a cellular
+aging biomarker, is unclear.
+METHODS: Among 3,472 participants from the National Health and Nutrition
+Examination Survey (NHANES) cycle 1999-2000, LTL was measured with the
+quantitative polymerase chain reaction. H pylori IgG was measured by
+enzyme-linked immunosorbent assays and defined as seropositivity with an immune
+status ratio score > 0.9. We used linear regression models to examine the
+relation of H pylori IgG seropositivity with continuous LTL and logistic
+regression for the relation with short LTL (<10th percentile of the population
+distribution) adjusting for potential confounders. We stratified the analyses by 
+a priori selected variables.
+RESULTS: Population prevalence of H pylori IgG seropositivity was 31.5% in the
+overall population with higher prevalence found in those with older age, other
+races than non-Hispanic whites, lower education, and being born out of the United
+States. Continuous LTL was non-significantly shorter in those with H Pylori IgG
+seropositivity versus seronegativity (mean difference = -40.3 bp, 95% CI: -112.4,
+31.9). This difference was not significant after adjusting for potential
+confounders nor stratifying by potential effect modifiers. H Pylori IgG
+seropositivity was significantly associated with short LTL among the elderly
+(55-75 years, adjusted OR: 3.06, 95% CI: 1.17, 7.99), but not in the overall
+population (OR: 1.28, 95% CI: 0.81-2.02).
+CONCLUSION: H Pylori IgG seropositivity was not associated with continuous LTL in
+the general population but may be associated with an excessively short LTL in the
+elderly.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/hel.12760 
+PMID: 33002310 
+

@@ -1,0 +1,45 @@
+
+1. Arch Microbiol. 2020 Aug 11. doi: 10.1007/s00203-020-02011-w. [Epub ahead of
+print]
+
+Dysbiosis of salivary microbiome and cytokines influence oral squamous cell
+carcinoma through inflammation.
+
+Rai AK(1), Panda M(2), Das AK(1), Rahman T(1), Das R(1), Das K(1), Sarma A(1),
+Kataki AC(1), Chattopadhyay I(3).
+
+Author information: 
+(1)Dr. B. Borooah Cancer Institute, A. K. Azad Road, Gopinath Nagar, Guwahati,
+Assam, 16, India.
+(2)Department of Life Sciences, School of Life Sciences, Central University of
+Tamil Nadu, Thiruvarur, 610101, India.
+(3)Department of Life Sciences, School of Life Sciences, Central University of
+Tamil Nadu, Thiruvarur, 610101, India. indranil@cutn.ac.in.
+
+Advanced combinatorial treatments of surgery, chemotherapy, and radiotherapy do
+not have any effect on the enhancement of a 5-year survival rate of oral squamous
+cell carcinoma (OSCC). The discovery of early diagnostic non-invasive biomarkers 
+is required to improve the survival rate of OSCC patients. Recently, it has been 
+reported that oral microbiome has a significant contribution to the development
+of OSCC. Oral microbiome induces inflammatory response through the production of 
+cytokines and chemokines that enhances tumor cell proliferation and survival. The
+study aims to develop saliva-based oral microbiome and cytokine biomarker panel
+that screen OSCC patients based on the level of the microbiome and cytokine
+differences. We compared the oral microbiome signatures and cytokine level in the
+saliva of OSCC patients and healthy individuals by 16S rRNA gene sequencing
+targeting the V3/V4 region using the MiSeq platform and cytokine assay,
+respectively. The higher abundance of Prevotella melaninogenica, Fusobacterium
+sp., Veillonella parvula, Porphyromonas endodontalis, Prevotella pallens,
+Dialister, Streptococcus anginosus, Prevotella nigrescens, Campylobacter
+ureolyticus, Prevotella nanceiensis, Peptostreptococcus anaerobius and
+significant elevation of IL-8, IL-6, TNF-α, GM-CSF, and IFN-γ in the saliva of
+patients having OSCC. Oncobacteria such as S. anginosus, V. parvula, P.
+endodontalis, and P. anaerobius may contribute to the development of OSCC by
+increasing inflammation via increased expression of inflammatory cytokines such
+as IL-6, IL-8, TNF-α, IFN-γ, and GM-CSF. These oncobacteria and cytokines panels 
+could potentially be used as a non-invasive biomarker in clinical practice for
+more efficient screening and early detection of OSCC patients.
+
+DOI: 10.1007/s00203-020-02011-w 
+PMID: 32783067 
+

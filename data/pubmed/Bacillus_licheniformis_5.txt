@@ -1,0 +1,38 @@
+
+1. Biotechnol Prog. 2020 Aug 25:e3072. doi: 10.1002/btpr.3072. [Epub ahead of print]
+
+CRISPR-Cas9 mediated engineering of Bacillus licheniformis for industrial
+production of (2R,3S)-butanediol.
+
+Song CW(1), Rathnasingh C(1), Park JM(1), Kwon M(1), Song H(1).
+
+Author information: 
+(1)Research and Development Center, GS Caltex Corporation, Daejeon, Republic of
+Korea.
+
+Bacillus lichenformis is an industrially promising GRAS (generally recognized as 
+safe) strain that can be used for the production of a valuable chemical,
+2,3-butanediol (BDO). Conventional gene deletion vectors and/or methods are
+time-consuming and have poor efficiency. Therefore, CRISPR-Cas9 mediated
+homologous recombination was used to engineer a newly isolated and UV-mutagenized
+Bacillus licheniformis 4,071-15 strain. With the help of a CRISPR-Cas9 system,
+this one-step process could be used for the deletion of ldh gene within 4 days
+with high efficiency exceeding 60%. In addition, the sequential deletion of
+target genes for engineering studies was evaluated, and it was confirmed that a
+triple mutant strain (ldh, dgp, and acoR) could be obtained by repeated one-step 
+cycles. Furthermore, a practical metabolic engineering study was carried out
+using a CRISPR-Cas9 system for the stereospecific production of (2R,3S)-BDO. The 
+predicted (2R,3R)-butanediol dehydrogenase encoded by the gdh gene was selected
+as a target for the production of (2R,3S)-BDO, and the mutant was successfully
+obtained. The results show that the stereospecific production of (2R,3S)-BDO was 
+possible with the gdh deletion mutant, while the 4,071-15 host strain still
+generated 26% of (2R,3R)-BDO. It was also shown that the 4,071-15 Δgdh mutant
+could produce 115 g/L of (2R,3S)-BDO in 64 h by two-stage fed-batch fermentation.
+This study has shown the efficient development of a (2R,3S)-BDO producing B.
+licheniformis strain based on CRISPR-Cas9 and fermentation technologies.
+
+© 2020 American Institute of Chemical Engineers.
+
+DOI: 10.1002/btpr.3072 
+PMID: 32964665 
+

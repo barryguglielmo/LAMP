@@ -1,0 +1,53 @@
+
+1. J Mol Med (Berl). 2020 Sep;98(9):1301-1317. doi: 10.1007/s00109-020-01954-3. Epub
+2020 Aug 10.
+
+Investigating the importance of B cells and antibodies during Trichuris muris
+infection using the IgMi mouse.
+
+Sahputra R(1)(2), Murphy EA(3), Forman R(3), Mair I(3), Fadlullah MZH(4), Waisman
+A(5), Muller W(3), Else KJ(6).
+
+Author information: 
+(1)Division of Infection, Immunity and Respiratory Medicine, Lydia Becker
+Institute for Immunology, The University of Manchester, Manchester, UK.
+rinal.sahputra@manchester.ac.uk.
+(2)Division of Cell Matrix Biology and Regenerative Medicine, School of
+Biological Sciences, Faculty of Biology, Medicine and Health, University of
+Manchester, Manchester, UK. rinal.sahputra@manchester.ac.uk.
+(3)Division of Infection, Immunity and Respiratory Medicine, Lydia Becker
+Institute for Immunology, The University of Manchester, Manchester, UK.
+(4)Cancer Research UK Stem Cell Biology Group, Cancer Research UK Manchester
+Institute, The University of Manchester, Macclesfield, SK10 4TG, UK.
+(5)Institute for Molecular Medicine, University of Mainz, Mainz, Germany.
+(6)Division of Infection, Immunity and Respiratory Medicine, Lydia Becker
+Institute for Immunology, The University of Manchester, Manchester, UK.
+kathryn.j.else@manchester.ac.uk.
+
+The IgMi mouse has normal B cell development; its B cells express an IgM B cell
+receptor but cannot class switch or secrete antibody. Thus, the IgMi mouse offers
+a model system by which to dissect out antibody-dependent and
+antibody-independent B cell function. Here, we provide the first detailed
+characterisation of the IgMi mouse post-Trichuris muris (T. muris) infection,
+describing expulsion phenotype, cytokine production, gut pathology and changes in
+T regulatory cells, T follicular helper cells and germinal centre B cells, in
+addition to RNA sequencing (RNA seq) analyses of wild-type littermates (WT) and
+mutant B cells prior to and post infection. IgMi mice were susceptible to a
+high-dose infection, with reduced Th2 cytokines and elevated B cell-derived IL-10
+in mesenteric lymph nodes (MLN) compared to controls. A low-dose infection regime
+revealed IgMi mice to have significantly more apoptotic cells in the gut compared
+to WT mice, but no change in intestinal inflammation. IL-10 levels were again
+elevated. Collectively, this study showcases the potential of the IgMi mouse as a
+tool for understanding B cell biology and suggests that the B cell plays both
+antibody-dependent and antibody-independent roles post high- and low-dose T.
+muris infection. KEY MESSAGES: During a high-dose T. muris infection, B cells are
+important in maintaining the Th1/Th2 balance in the MLN through an
+antibody-independent mechanism. High levels of IL-10 in the MLN early
+post-infection, and the presence of IL-10-producing B cells, correlates with
+susceptibility to T. muris infection. B cells maintain gut homeostasis during
+chronic T. muris infection via an antibody-dependent mechanism.
+
+DOI: 10.1007/s00109-020-01954-3 
+PMCID: PMC7447682
+PMID: 32778925 
+

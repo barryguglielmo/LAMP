@@ -1,0 +1,47 @@
+
+1. Nat Commun. 2020 Oct 1;11(1):4915. doi: 10.1038/s41467-020-18668-2.
+
+Piperacillin/tazobactam resistance in a clinical isolate of Escherichia coli due 
+to IS26-mediated amplification of blaTEM-1B.
+
+Hubbard ATM(1), Mason J(2), Roberts P(2)(3), Parry CM(4)(5)(6)(7), Corless C(2), 
+van Aartsen J(2), Howard A(2), Bulgasim I(8), Fraser AJ(8), Adams ER(8), Roberts 
+AP(8), Edwards T(9).
+
+Author information: 
+(1)Department of Tropical Disease Biology, Liverpool School of Tropical Medicine,
+Pembroke Place, Liverpool, L3 5QA, UK. alasdair.hubbard@lstmed.ac.uk.
+(2)Liverpool University Hospital Foundation Trust, Prescot Street, Liverpool, L7 
+8XP, UK.
+(3)Faculty of Science and Engineering, University of Wolverhampton, Wulfruna
+Building MA, Wulfruna Street, Wolverhampton, WV1 1LY, UK.
+(4)Alder Hey Children's NHS Foundation Trust, Eaton Road, Liverpool, L12 2AP, UK.
+(5)Department of Clinical Infection, Microbiology and Immunology, University of
+Liverpool, Liverpool, L69 7BE, UK.
+(6)Clinical Sciences, Liverpool School of Tropical Medicine, Pembroke Place,
+Liverpool, L3 5QA, UK.
+(7)School of Tropical Medicine and Global Health, University of Nagasaki,
+Nagasaki, Japan.
+(8)Department of Tropical Disease Biology, Liverpool School of Tropical Medicine,
+Pembroke Place, Liverpool, L3 5QA, UK.
+(9)Department of Tropical Disease Biology, Liverpool School of Tropical Medicine,
+Pembroke Place, Liverpool, L3 5QA, UK. thomas.edwards@lstmed.ac.uk.
+
+A phenotype of Escherichia coli and Klebsiella pneumoniae, resistant to
+piperacillin/tazobactam (TZP) but susceptible to carbapenems and 3rd generation
+cephalosporins, has emerged. The resistance mechanism associated with this
+phenotype has been identified as hyperproduction of the β-lactamase TEM. However,
+the mechanism of hyperproduction due to gene amplification is not well
+understood. Here, we report a mechanism of gene amplification due to a
+translocatable unit (TU) excising from an IS26-flanked pseudo-compound
+transposon, PTn6762, which harbours blaTEM-1B. The TU re-inserts into the
+chromosome adjacent to IS26 and forms a tandem array of TUs, which increases the 
+copy number of blaTEM-1B, leading to TEM-1B hyperproduction and TZP resistance.
+Despite a significant increase in blaTEM-1B copy number, the TZP-resistant
+isolate does not incur a fitness cost compared to the TZP-susceptible ancestor.
+This mechanism of amplification of blaTEM-1B is an important consideration when
+using genomic data to predict susceptibility to TZP.
+
+DOI: 10.1038/s41467-020-18668-2 
+PMID: 33004811 
+

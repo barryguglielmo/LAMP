@@ -1,0 +1,54 @@
+
+1. Inflamm Bowel Dis. 2020 Jun 18;26(7):1026-1037. doi: 10.1093/ibd/izaa001.
+
+Bacterial Taxa and Functions Are Predictive of Sustained Remission Following
+Exclusive Enteral Nutrition in Pediatric Crohn's Disease.
+
+Jones CMA(1), Connors J(2), Dunn KA(3), Bielawski JP(3)(4), Comeau AM(5),
+Langille MGI(1)(5), Van Limbergen J(2)(6)(7).
+
+Author information: 
+(1)Department of Pharmacology, Dalhousie University, Halifax, Canada.
+(2)Department of Pediatrics, Dalhousie University, Halifax, Canada.
+(3)Department of Biology, Dalhousie University, Halifax, Canada.
+(4)Department of Mathematics & Statistics, Dalhousie University, Halifax, Canada.
+(5)Integrated Microbiome Resource (IMR), Dalhousie University, Halifax, Canada.
+(6)Tytgat Institute for Liver and Intestinal Research, Amsterdam Gastroenterology
+and Metabolism, Academic Medical Center, University of Amsterdam, Amsterdam, the 
+Netherlands.
+(7)Department of Pediatrics, Division of Pediatric Gastroenterology & Nutrition, 
+Emma Children's Hospital, Academic Medical Center, University of Amsterdam,
+Amsterdam, the Netherlands.
+
+BACKGROUND: The gut microbiome is extensively involved in induction of remission 
+in pediatric Crohn's disease (CD) patients by exclusive enteral nutrition (EEN). 
+In this follow-up study of pediatric CD patients undergoing treatment with EEN,
+we employ machine learning models trained on baseline gut microbiome data to
+distinguish patients who achieved and sustained remission (SR) from those who did
+not achieve remission nor relapse (non-SR) by 24 weeks.
+METHODS: A total of 139 fecal samples were obtained from 22 patients (8-15 years 
+of age) for up to 96 weeks. Gut microbiome taxonomy was assessed by 16S rRNA gene
+sequencing, and functional capacity was assessed by metagenomic sequencing. We
+used standard metrics of diversity and taxonomy to quantify differences between
+SR and non-SR patients and to associate gut microbial shifts with fecal
+calprotectin (FCP), and disease severity as defined by weighted Pediatric Crohn's
+Disease Activity Index. We used microbial data sets in addition to clinical
+metadata in random forests (RFs) models to classify treatment response and
+predict FCP levels.
+RESULTS: Microbial diversity did not change after EEN, but species richness was
+lower in low-FCP samples (<250 µg/g). An RF model using microbial abundances,
+species richness, and Paris disease classification was the best at classifying
+treatment response (area under the curve [AUC] = 0.9). KEGG Pathways also
+significantly classified treatment response with the addition of the same
+clinical data (AUC = 0.8). Top features of the RF model are consistent with
+previously identified IBD taxa, such as Ruminococcaceae and Ruminococcus gnavus.
+CONCLUSIONS: Our machine learning approach is able to distinguish SR and non-SR
+samples using baseline microbiome and clinical data.
+
+© 2020 Crohn’s & Colitis Foundation. Published by Oxford University Press on
+behalf of Crohn’s & Colitis Foundation.
+
+DOI: 10.1093/ibd/izaa001 
+PMCID: PMC7301407
+PMID: 31961432 
+

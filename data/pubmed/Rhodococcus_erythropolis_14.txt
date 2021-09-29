@@ -1,0 +1,49 @@
+
+1. Anal Biochem. 2020 Mar 15;593:113607. doi: 10.1016/j.ab.2020.113607. Epub 2020
+Feb 5.
+
+Development of a new chromogenic method for putrescine quantification using
+coupling reactions involving putrescine oxidase.
+
+Sugiyama Y(1), Ohta H(2), Hirano R(3), Shimokawa H(4), Sakanaka M(5), Koyanagi
+T(6), Kurihara S(7).
+
+Author information: 
+(1)Faculty of Bioresources and Environmental Sciences, Ishikawa Prefectural
+University, Nonoichi, 921-8836, Ishikawa, Japan. Electronic address:
+yusugi@ishikawa-pu.ac.jp.
+(2)Faculty of Bioresources and Environmental Sciences, Ishikawa Prefectural
+University, Nonoichi, 921-8836, Ishikawa, Japan. Electronic address:
+p1794001@ishikawa-pu.ac.jp.
+(3)Faculty of Bioresources and Environmental Sciences, Ishikawa Prefectural
+University, Nonoichi, 921-8836, Ishikawa, Japan. Electronic address:
+rikahirano@outlook.com.
+(4)Faculty of Bioresources and Environmental Sciences, Ishikawa Prefectural
+University, Nonoichi, 921-8836, Ishikawa, Japan. Electronic address:
+shim0_000@yahoo.co.jp.
+(5)Faculty of Bioresources and Environmental Sciences, Ishikawa Prefectural
+University, Nonoichi, 921-8836, Ishikawa, Japan. Electronic address:
+sakanaka@ishikawa-pu.ac.jp.
+(6)Faculty of Bioresources and Environmental Sciences, Ishikawa Prefectural
+University, Nonoichi, 921-8836, Ishikawa, Japan. Electronic address:
+koyataka@ishikawa-pu.ac.jp.
+(7)Faculty of Bioresources and Environmental Sciences, Ishikawa Prefectural
+University, Nonoichi, 921-8836, Ishikawa, Japan. Electronic address:
+skurihara@waka.kindai.ac.jp.
+
+Quantification of polyamines, including putrescine, is generally performed using 
+high-performance liquid chromatography (HPLC) or gas chromatography. However,
+these methods are time-consuming because of sample derivatization and analytical 
+reagent preparation. In this study, we developed a simple and high-throughput
+putrescine quantification method on a 96-well microtiter plate using putrescine
+oxidase from Rhodococcus erythropolis NCIMB 11540, peroxidase, 4-aminoantipyrine,
+and N-ethyl-N-(3-sulfopropyl)-3-methylaniline sodium salt. The developed method
+(named as PuO-POD-4AA-TOPS method) was applicable to bacterial culture
+supernatants. Furthermore, putrescine concentrations determined by the developed 
+method roughly corresponded to the concentrations determined by HPLC.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ab.2020.113607 
+PMID: 32006471 
+

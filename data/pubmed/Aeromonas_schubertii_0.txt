@@ -1,0 +1,56 @@
+
+1. Microb Pathog. 2020 Sep 17;149:104501. doi: 10.1016/j.micpath.2020.104501. [Epub 
+ahead of print]
+
+Aeromonas schubertii, a novel bacterium recovered from AHPND affected farm is
+lethal to whiteleg shrimp, Penaeus vannamei.
+
+Sangpo P(1), Thitamadee S(1), Dong HT(2), Senapin S(3).
+
+Author information: 
+(1)Department of Biotechnology, Faculty of Science, Mahidol University, Bangkok, 
+Thailand; Center of Excellence for Shrimp Molecular Biology and Biotechnology
+(Centex Shrimp), Faculty of Science, Mahidol University, Bangkok, Thailand.
+(2)Faculty of Science and Technology, Suan Sunandha Rajabhat University, Bangkok,
+Thailand.
+(3)Department of Biotechnology, Faculty of Science, Mahidol University, Bangkok, 
+Thailand; Center of Excellence for Shrimp Molecular Biology and Biotechnology
+(Centex Shrimp), Faculty of Science, Mahidol University, Bangkok, Thailand;
+National Center for Genetic Engineering and Biotechnology (BIOTEC), National
+Science and Technology Development Agency (NSTDA), Pathum Thani, Thailand.
+Electronic address: saengchan@biotec.or.th.
+
+Retrospective diagnosis of a bacterial collection (n = 31) originated from five
+farms reportedly affected by early mortality syndrome (EMS) in Southeast Asia in 
+2016 revealed that 9/31 isolates from two farms tested positive for V.
+parahaemolyticus causing acute hepatopancreatic necrosis disease (VPAHPND).
+Molecular analysis of the 22 remaining isolates showed that 21 isolates belong to
+Vibrio species including VPnon-AHPND, V. vulnificus, V. cholerae, V. owensii and 
+V. alginolyticus. One isolate from an AHPND farm was preliminarily identified as 
+Aeromonas schubertii based on 99.43% nucleotide identity of 16S rRNA to the
+reference strain ATCC 43700 (X60416). Diseases caused by Vibrio bacteria have
+been well-studied in shrimp while pathogenic potential of non-Vibrio species has 
+been relatively overlooked. Since the description of A. schubertii present in
+shrimp farms is rare, this study therefore focused on species identification and 
+its pathogenic potential to shrimp based on a combination of multiple approaches 
+i.e. multilocus sequence analysis (MLSA), challenge test, histopathology and in
+situ hybridization (ISH). Based on MLSA of 2464 bp derived from 16S rRNA (1346
+bp), gyrB (568 bp) and rpoB (550 bp), this isolate was confirmed as A.
+schubertii. Immersion challenge using three successive 10-fold serial dilutions
+(2 × 104 to 2 × 106 CFU/mL) revealed that A. schubertii was pathogenic to shrimp 
+and cumulative mortalities were dose-dependent (45-70%). The diseased shrimp
+exhibited gross sign of reddish body and remarkable histopathological lesion of
+collapsed hepatopancreatic tubules and typical encapsulation. ISH using A.
+schubertii-specific probe confirmed localization of bacteria in the
+hepatopancreas of the infected shrimp. In summary, this study reported a novel
+pathogenic, non-Vibrio species, A. schubertii recovered from an AHPND-affected
+farm causing up to 70% mortality in immersion challenge. Since A. schubertii is
+relatively new to shrimp, this may pose a potential risk for low salinity shrimp 
+farming areas, active surveillance of this pathogen, therefore, should not be
+overlooked.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.micpath.2020.104501 
+PMID: 32950638 
+

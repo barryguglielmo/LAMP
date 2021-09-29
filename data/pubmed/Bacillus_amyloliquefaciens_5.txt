@@ -1,0 +1,41 @@
+
+1. ISME J. 2020 Sep 24. doi: 10.1038/s41396-020-00759-z. [Epub ahead of print]
+
+Achieving similar root microbiota composition in neighbouring plants through
+airborne signalling.
+
+Kong HG(1)(2), Song GC(1)(3), Sim HJ(4), Ryu CM(5).
+
+Author information: 
+(1)Molecular Phytobacteriology Laboratory, Infectious Disease Research Center,
+KRIBB, Daejeon, 34141, South Korea.
+(2)Crop Protection Division, National Institute of Agricultural Sciences, Rural
+Development Administration, Wanju-gun, 54875, South Korea.
+(3)Plant Nutrition Laboratory, Industrial Microbiology Center, CJ, Suwon, 16509, 
+South Korea.
+(4)Environmental Chemistry Research Group, Korea Institute of Toxicology (KIT),
+17 Jegok-gil, Munsan-eup, Jinju, 52834, South Korea.
+(5)Molecular Phytobacteriology Laboratory, Infectious Disease Research Center,
+KRIBB, Daejeon, 34141, South Korea. cmryu@kribb.re.kr.
+
+The ability to recognize and respond to environmental signals is essential for
+plants. In response to environmental changes, the status of a plant is
+transmitted to other plants in the form of signals such as volatiles.
+Root-associated bacteria trigger the release of plant volatile organic compounds 
+(VOCs). However, the impact of VOCs on the rhizosphere microbial community of
+neighbouring plants is not well understood. Here, we investigated the effect of
+VOCs on the rhizosphere microbial community of tomato plants inoculated with a
+plant growth-promoting rhizobacterium Bacillus amyloliquefaciens strain GB03 and 
+that of their neighbouring plants. Interestingly, high similarity (up to 69%) was
+detected in the rhizosphere microbial communities of the inoculated and
+neighbouring plants. Leaves of the tomato plant treated with strain GB03-released
+β-caryophyllene as a signature VOC, which elicited the release of a large amount 
+of salicylic acid (SA) in the root exudates of a neighbouring tomato seedling.
+The exposure of tomato leaves to β-caryophyllene resulted in the secretion of SA 
+from the root. Our results demonstrate for the first time that the composition of
+the rhizosphere microbiota in surrounding plants is synchronized through aerial
+signals from plants.
+
+DOI: 10.1038/s41396-020-00759-z 
+PMID: 32973341 
+

@@ -1,0 +1,37 @@
+
+1. Environ Sci Technol. 2020 Aug 4;54(15):9652-9661. doi: 10.1021/acs.est.0c02424.
+Epub 2020 Jul 23.
+
+Inactivation of Bacteria by Peracetic Acid Combined with Ultraviolet Irradiation:
+Mechanism and Optimization.
+
+Zhang T(1), Wang T(1), Mejia-Tickner B(1), Kissel J(1), Xie X(1), Huang CH(1).
+
+Author information: 
+(1)School of Civil and Environmental Engineering, Georgia Institute of
+Technology, Atlanta, Georgia 30332, United States.
+
+Peracetic acid (PAA) is an emerging disinfectant for municipal wastewater
+treatment owing to good biocidal effects and limited harmful by-product
+formation. This study investigated the inactivation of Gram-negative Escherichia 
+coli (E. coli) and Gram-positive Enterococcus durans (E. durans) and
+Staphylococcus epidermidis (S. epidermidis) by PAA combined with UV concurrently 
+(UV/PAA) or sequentially (PAA-UV/PAA) for enhanced disinfection. Under UV/PAA,
+the contributions of different mechanisms (UV, PAA, reactive radicals (mainly •OH
+and CH3C(O)OO•), and the synergistic effect of all mechanisms involved) to the
+overall inactivation were quantitatively assessed. Results revealed that radicals
+played a moderate role in the enhanced disinfection, while the synergistic effect
+presented a greater contribution, which could be partially linked to the
+diffusion of PAA into the cells as evidenced for the first time by a fluorescence
+microscopic method. Taking advantage of PAA diffusion into bacteria, pre-exposure
+of PAA followed by UV/PAA was demonstrated to yield the highest disinfection
+efficiency. Indeed, compared to UV/PAA, PAA-UV/PAA could achieve additional
+4.7-5.4, 4.1-5.3, and 2.9-3.4 log inactivation of E. coli, E. durans, and S.
+epidermidis, respectively, in clean water and secondary/tertiary wastewater
+effluents when the same amounts of PAA and UV doses were applied in both
+approaches. Bacterial regrowth tests confirmed minimal regrowth potential after
+the disinfection.
+
+DOI: 10.1021/acs.est.0c02424 
+PMID: 32643925 
+

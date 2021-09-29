@@ -1,0 +1,57 @@
+
+1. 3 Biotech. 2020 Apr;10(4):166. doi: 10.1007/s13205-020-2155-0. Epub 2020 Mar 11.
+
+Identification and genome analysis of a novel 17β-estradiol degradation
+bacterium, Lysinibacillus sphaericus DH-B01.
+
+Wang Y(1), Zhao X(1), Tian K(1), Meng F(1), Zhou D(1), Xu X(1), Zhang H(2), Huo
+H(1)(3).
+
+Author information: 
+(1)1School of Environment, Northeast Normal University, No. 2555 Jingyue Avenue, 
+Changchun, Jilin China.
+(2)3School of Life Sciences, Northeast Normal University, No. 5268, Renmin Main
+Street, Nanguan District, Changchun, Jilin China.
+(3)Jilin Province Water Pollution Control and Resource Engineering Laboratory,
+No. 2555 Jingyue Avenue, Changchun, Jilin China.
+
+The natural estrogen 17β-estradiol (17β-E2) is a major endocrine disruptor.
+Accordingly, due to their frequent presence in global surface waters, prolonged
+exposure to estrogen-contaminated water may disrupt sexual development in
+animals. It has adverse effects on wildlife and humans. To date, the most
+effective strategy for estrogen removal from the environment is biodegradation
+using microorganisms. To this end, we isolated a strain of Lysinibacillus
+sphaericus, namely DH-B01, from a contraceptive factory in Beijing. The
+experimental results revealed that the bacterium has a high capacity to degrade
+estrogen, with a 17β-E2 degradation rate of about 97%, and produces the secondary
+metabolite estrone. In addition, a series of genes involved in steroid metabolism
+and stress response in L. sphaericus sp. DH-B01 were predicted, and several key
+genes with high similarity to those of other strains were subjected to sequence
+alignment to find their conserved regions. This is the first study of the ability
+of L. sphaericus strains to degrade estrogens and the degradation mechanism
+involved. This work advances the genomic study of estrogen-degrading strains and 
+the study of bacterial estrogen degradation mechanisms. In this paper, a novel
+bacterial strain capable of degrading 17β-E2 was studied. L. sphaericus sp.
+DH-B01 can effectively degrade 17β-E2. During the degradation process, 17β-E2 can
+be gradually metabolized to a substance without estrogen activity. By analyzing
+the enzymatic reactions in the metabolic process, we found genes with high
+similarity to reported 17β-HSD. L. sphaericus sp. DH-B01 was found to degrade
+17β-E2. There are many types of bacteria that are currently being studied for the
+degradation of estrogen, but L. sphaericus sp. DH-B01 is the only strain of L.
+sphaericus that has been shown to degrade estrogen. This work advances the
+genomic study of estrogen-degrading bacterial strains and the study of bacterial 
+estrogen degradation mechanisms. Additionally, it explores the correlation
+between different L. sphaericus strains. The differences play an important role
+and further enrich the functionality and diversity of L. sphaericus strains. In
+subsequent studies, the specificity of L. sphaericus sp. DH-B01 can be applied to
+different environments for future environmental restoration.
+
+© King Abdulaziz City for Science and Technology 2020.
+
+DOI: 10.1007/s13205-020-2155-0 
+PMCID: PMC7066359 [Available on 2021-04-01]
+PMID: 32206500 
+
+Conflict of interest statement: Conflicts of interestThe authors declare no
+conflict of interest, financial or otherwise.
+

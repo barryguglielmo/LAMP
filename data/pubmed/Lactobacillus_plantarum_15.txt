@@ -1,0 +1,42 @@
+
+1. Pharmaceuticals (Basel). 2020 Sep 23;13(10). pii: E266. doi: 10.3390/ph13100266.
+
+Potential of Cell-Free Supernatant from Lactobacillus plantarum NIBR97, Including
+Novel Bacteriocins, as a Natural Alternative to Chemical Disinfectants.
+
+Kim SW(1), Kang SI(1), Shin DH(1), Oh SY(1), Lee CW(2), Yang Y(2), Son YK(2),
+Yang HS(2), Lee BH(2), An HJ(3), Jeong IS(4), Bang WY(2).
+
+Author information: 
+(1)Gene Analysis Center, Gyeongnam National University of Science & Technology,
+Jinju 52725, Korea.
+(2)National Institute of Biological Resources (NIBR), Environmental Research
+Complex, Incheon 22689, Korea.
+(3)Department of Pathology, CHA Bundang Medical Center, CHA University, Seongnam 
+13496, Korea.
+(4)Center for Immune Cell Research, CHA Advanced Research Institute, Seongnam
+13488, Korea.
+
+The recent pandemic of coronavirus disease 2019 (COVID-19) has increased demand
+for chemical disinfectants, which can be potentially hazardous to users. Here, we
+suggest that the cell-free supernatant from Lactobacillus plantarum NIBR97,
+including novel bacteriocins, has potential as a natural alternative to chemical 
+disinfectants. It exhibits significant antibacterial activities against a broad
+range of pathogens, and was observed by scanning electron microscopy (SEM) to
+cause cellular lysis through pore formation in bacterial membranes, implying that
+its antibacterial activity may be mediated by peptides or proteins and supported 
+by proteinase K treatment. It also showed significant antiviral activities
+against HIV-based lentivirus and influenza A/H3N2, causing lentiviral lysis
+through envelope collapse. Furthermore, whole-genome sequencing revealed that
+NIBR97 has diverse antimicrobial peptides, and among them are five novel
+bacteriocins, designated as plantaricin 1 to 5. Plantaricin 3 and 5 in particular
+showed both antibacterial and antiviral activities. SEM revealed that plantaricin
+3 causes direct damage to both bacterial membranes and viral envelopes, while
+plantaricin 5 damaged only bacterial membranes, implying different antiviral
+mechanisms. Our data suggest that the cell-free supernatant from L. plantarum
+NIBR97, including novel bacteriocins, is potentially useful as a natural
+alternative to chemical disinfectants.
+
+DOI: 10.3390/ph13100266 
+PMID: 32977547 
+

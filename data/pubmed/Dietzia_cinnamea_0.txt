@@ -1,0 +1,51 @@
+
+1. Front Microbiol. 2020 Jun 19;11:1149. doi: 10.3389/fmicb.2020.01149. eCollection 
+2020.
+
+Inoculation With a Microbe Isolated From the Negev Desert Enhances Corn Growth.
+
+Khan N(1), Martínez-Hidalgo P(1)(2), Humm EA(1), Maymon M(1), Kaplan D(3), Hirsch
+AM(1)(4).
+
+Author information: 
+(1)Department of Molecular, Cell & Developmental Biology, University of
+California, Los Angeles, Los Angeles, CA, United States.
+(2)Department of Biology, Geology, Physics and Inorganic Chemistry, Universidad
+Rey Juan Carlos, Madrid, Spain.
+(3)Department of Environmental Hydrology and Microbiology, Zuckerberg Institute
+for Water Research, Jacob Blaustein Institutes for Desert Research, Ben-Gurion
+University of the Negev, Beersheba, Israel.
+(4)Molecular Biology Institute, University of California, Los Angeles, Los
+Angeles, CA, United States.
+
+Corn (Zea mays L.) is not only an important food source, but also has numerous
+uses, including for biofuels, fillers for cosmetics, glues, and so on. The amount
+of corn grown in the U.S. has significantly increased since the 1960's and with
+it, the demand for synthetic fertilizers and pesticides/fungicides to enhance its
+production. However, the downside of the continuous use of these products,
+especially N and P fertilizers, has been an increase in N2O emissions and other
+greenhouse gases into the atmosphere as well as run-off into waterways that fuel 
+pollution and algal blooms. These approaches to agriculture, especially if
+exacerbated by climate change, will result in decreased soil health as well as
+human health. We searched for microbes from arid, native environments that are
+not being used for agriculture because we reasoned that indigenous microbes from 
+such soils could promote plant growth and help restore degraded soils. Employing 
+cultivation-dependent methods to isolate bacteria from the Negev Desert in
+Israel, we tested the effects of several microbial isolates on corn in both
+greenhouse and small field studies. One strain, Dietzia cinnamea 55, originally
+identified as Planomicrobium chinense, significantly enhanced corn growth over
+the uninoculated control in both greenhouse and outside garden experiments. We
+sequenced and analyzed the genome of this bacterial species to elucidate some of 
+the mechanisms whereby D. cinnamea 55 promoted plant growth. In addition, to
+ensure the biosafety of this previously unknown plant growth promoting bacterial 
+(PGPB) strain as a potential bioinoculant, we tested the survival and growth of
+Caenorhabditis elegans and Galleria mellonella (two animal virulence tests) as
+well as plants in response to D. cinnamea 55 inoculation. We also looked for
+genes for potential virulence determinants as well as for growth promotion.
+
+Copyright © 2020 Khan, Martínez-Hidalgo, Humm, Maymon, Kaplan and Hirsch.
+
+DOI: 10.3389/fmicb.2020.01149 
+PMCID: PMC7316896
+PMID: 32636811 
+

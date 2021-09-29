@@ -1,0 +1,52 @@
+
+1. Antibiotics (Basel). 2020 May 21;9(5). pii: E270. doi:
+10.3390/antibiotics9050270.
+
+Isolation, Characterization and Chemical Synthesis of Large Spectrum
+Antimicrobial Cyclic Dipeptide (l-leu-l-pro) from Streptomyces misionensisV16R3Y1
+Bacteria Extracts. A Novel 1H NMR Metabolomic Approach.
+
+Saadouli I(1), Zendah El Euch I(1)(2), Trabelsi E(3), Mosbah A(3), Redissi A(3), 
+Ferjani R(1), Fhoula I(1), Cherif A(3), Sabatier JM(4), Sewald N(2), Ouzari
+HI(1).
+
+Author information: 
+(1)LR03ES03, Laboratoire de Microorganismes et Biomolécules Actives, Faculté des 
+Sciences de Tunis, Université Tunis Manar, Tunis 2092, Tunisia.
+(2)Organic and Bioorganic Chemistry, Department of Chemistry, Bielefeld
+University, Universitätsstraße 25, 33615 Bielefeld, Germany.
+(3)Higher Institute for Biotechnology (ISBST), LR Biotechnology and Bio-Geo
+Resources Valorization, University of Manouba,BVBGR-LR11ES31,
+BiotechpoleSidiThabet, Ariana 2020, Tunisia.
+(4)Institute of Neuro Physiopathology (INP), Université d'Aix-Marseille, UMR
+7051, Faculté de Pharmacie, 27 Bd Jean Moulin, 13385 Marseille CEDEX, France.
+
+Streptomyces is the most frequently described genus of Actinomycetes, a producer 
+of biologically active secondary metabolites. Indeed, the Streptomyces species
+produces about 70% of antibiotics and 60% of antifungal molecules used in
+agriculture. Our study was carried out with the goal of isolating and identifying
+antimicrobial secondary metabolites from Streptomyces misionensisV16R3Y1 isolated
+from the date palm rhizosphere (southern Tunisia). This strain presented a broad 
+range of antifungal activity against Fusarium oxysporum, Aspergillus flavus,
+Penicillium expansum, Aspergillus niger, Candida albicans, Candida metapsilosis, 
+and Candida parapsilosis and antibacterial activity against human pathogenic
+bacteria, including Escherichia fergusonii, Staphylococcus aureus, Salmonella
+enterica, Enterococcus faecalis, Bacillus cereus and Pseudomonas aeruginosa. The 
+purification procedure entailed ethyl acetate extract, silica gel column, and
+thin layer chromatography. Based on 1H NMR metabolomic procedure application,
+also supported by the GC-MS analysis, cyclic dipeptide (l-Leucyl-l-Proline) was
+identified as the major compound in the bioactive fraction. In order to confirm
+the identity of the active compound and to have a large quantity thereof, a
+chemical synthesis of the cyclic dipeptide was performed. The synthetic compound 
+was obtained with a very good yield (50%) and presented almost the same effect
+compared to the extracted fraction. This study indicates for the first time that 
+Streptomyces misionensis V16R3Y1 exhibits a broad spectrum of antimicrobial
+activities, produced cyclic dipeptide (l-Leucyl-l-Proline) and might have
+potential use as a natural agent for pharmaceutical and agri-food applications.
+
+DOI: 10.3390/antibiotics9050270 
+PMCID: PMC7277807
+PMID: 32455784 
+
+Conflict of interest statement: The authors declare no conflicts of interest
+

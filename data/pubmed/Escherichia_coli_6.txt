@@ -1,0 +1,60 @@
+
+1. Arch Biochem Biophys. 2020 Oct 1:108615. doi: 10.1016/j.abb.2020.108615. [Epub
+ahead of print]
+
+Preferential modification of CyaA-hemolysin by CyaC-acyltransferase through the
+catalytic Ser30-His33 dyad in esterolysis of palmitoyl-donor substrate devoid of 
+acyl carrier proteins.
+
+Yentongchai M(1), Thamwiriyasati N(2), Imtong C(3), Li HC(4), Angsuthanasombat
+C(5).
+
+Author information: 
+(1)Bacterial Toxin Research Innovation Cluster (BRIC), Institute of Molecular
+Biosciences, Mahidol University, Salaya Campus, Nakornpathom, 73170, Thailand.
+(2)Molecular Medicine Research Group (MMRG), Division of Medical Technology,
+Faculty of Allied Health Sciences, Burapha University, Chonburi, 20131, Thailand.
+Electronic address: niramon@go.buu.ac.th.
+(3)Division of Biology, Department of Science, Faculty of Science and Technology,
+Prince of Songkla University, Pattani, 94000, Thailand.
+(4)Department of Biochemistry, School of Medicine, Tzu Chi University, Hualian,
+97004, Taiwan.
+(5)Bacterial Toxin Research Innovation Cluster (BRIC), Institute of Molecular
+Biosciences, Mahidol University, Salaya Campus, Nakornpathom, 73170, Thailand;
+Department of Biochemistry, School of Medicine, Tzu Chi University, Hualian,
+97004, Taiwan; Laboratory of Synthetic Biophysics and Chemical Biology,
+Biophysics Institute for Research and Development (BIRD), Chiang Mai, 50230,
+Thailand. Electronic address: chanan.ang@mahidol.ac.th.
+
+We previously demonstrated that the ∼130-kDa CyaA-hemolysin domain (CyaA-Hly)
+from Bordetella pertussis co-expressed with CyaC-acyltransferase in Escherichia
+coli was acylated at Lys983 and thus activated its hemolytic activity. Here,
+attempts were made to provide greater insights into such toxin activation via
+fatty-acyl modification by CyaC-acyltransferase. Non-acylated CyaA-Hly
+(NA/CyaA-Hly) and CyaC were separately expressed in E. coli and subsequently
+purified by FPLC to near homogeneity. When effects of acyl-chain length were
+comparatively evaluated through CyaC-esterolysis using various p-nitrophenyl
+(pNP) derivatives, Michaelis-Menten steady-state kinetic parameters (KM and kcat)
+of CyaC-acyltransferase revealed a marked preference for myristoyl (C14:0) and
+palmitoyl (C16:0) substrates of which catalytic efficiencies (kcat/KM) were
+roughly the same (∼1.5 × 103 s-1mM-1). However, pNP-palmitate (pNPP) gave the
+highest hemolytic activity of NA/CyaA-Hly after being acylated in vitro with a
+range of acyl-donor substrates. LC-MS/MS analysis confirmed such CyaC-mediated
+palmitoylation of CyaA-Hly occurring at Lys983, denoting no requirement of an
+acyl carrier protein (ACP). A homology-based CyaC structure inferred a role of a 
+potential catalytic dyad of conserved Ser30 and His33 residues in substrate
+esterolysis. CyaC-ligand binding analysis via molecular docking corroborated
+high-affinity binding of palmitate with its carboxyl group oriented toward such a
+dyad. Ala-substitutions of each residue (S30A or H33A) caused a drastic decrease 
+in kcat/KM of CyaC toward pNPP, and hence its catalytic malfunction through
+palmitoylation-dependent activation of NA/CyaA-Hly. Altogether, our present data 
+evidently provide such preferential palmitoylation of CyaA-Hly by
+CyaC-acyltransferase through the enzyme Ser30-His33 nucleophile-activation dyad
+in esterolysis of palmitoyl-donor substrate, particularly devoid of a natural
+acyl-ACP donor.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.abb.2020.108615 
+PMID: 33011179 
+

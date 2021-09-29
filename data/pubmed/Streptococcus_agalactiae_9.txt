@@ -1,0 +1,50 @@
+
+1. J Bacteriol. 2020 Sep 21. pii: JB.00504-20. doi: 10.1128/JB.00504-20. [Epub ahead
+of print]
+
+Genetic basis underlying the hyper-hemolytic phenotype of Streptococcus
+agalactiae strain CNCTC10/84.
+
+Zhu L(1)(2), Beres SB(3), Yerramilli P(3), Pruitt L(3), Cantu CC(3), Olsen
+RJ(3)(2), Musser JM(3)(2).
+
+Author information: 
+(1)Center for Molecular and Translational Human Infectious Diseases Research,
+Houston Methodist Research Institute, and Department of Pathology and Genomic
+Medicine, Houston Methodist Hospital, Houston, Texas, USA.
+lzhu2@houstonmethodist.org.
+(2)Department of Pathology and Laboratory Medicine, Weill Medical College of
+Cornell University, New York, New York, USA.
+(3)Center for Molecular and Translational Human Infectious Diseases Research,
+Houston Methodist Research Institute, and Department of Pathology and Genomic
+Medicine, Houston Methodist Hospital, Houston, Texas, USA.
+
+Streptococcus agalactiae (group B streptococcus, GBS) is a major cause of
+infections in newborns, pregnant women, and immunocompromised patients. GBS
+strain CNCTC10/84 is a clinical isolate that has high virulence in animal models 
+of infection and has been used extensively to study GBS pathogenesis. Two unusual
+features of this strain are hyper-hemolytic activity and hypo-CAMP factor
+activity. These two phenotypes are typical of GBS strains functionally deficient 
+in the CovR-CovS two-component regulatory system. A previous whole-genome
+sequencing study found that strain CNCTC10/84 has intact covR and covS regulatory
+genes. We investigated CovR-CovS regulation in CNCTC10/84 and discovered that a
+single-nucleotide insertion in a homopolymeric tract in the covR promoter region 
+underlies the strong hemolytic activity and weak CAMP activity of this strain.
+Using isogenic mutant strains, we demonstrate that this single-nucleotide
+insertion confers significantly decreased expression of covR and covS, and
+altered expression of CovR-CovS regulated genes, including genes encoding
+β-hemolysin and CAMP factor. This single-nucleotide insertion also confers
+significantly increased GBS survival in human whole blood ex vivo IMPORTANCE
+Group B streptococcus (GBS) is the leading cause of neonatal sepsis, pneumonia,
+and meningitis. GBS strain CNCTC10/84 is a highly virulent blood isolate that has
+been used extensively to study GBS pathogenesis for over twenty years. Strain
+CNCTC10/84 has an unusually strong hemolytic activity, but the genetic basis is
+unknown. In this study, we discovered that a single-nucleotide insertion in an
+intergenic homopolymeric tract is responsible for the elevated hemolytic activity
+of CNCTC10/84.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/JB.00504-20 
+PMID: 32958630 
+

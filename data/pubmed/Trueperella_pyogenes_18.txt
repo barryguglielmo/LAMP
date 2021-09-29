@@ -1,0 +1,44 @@
+
+1. Reproduction. 2020 Jul;160(1):93-107. doi: 10.1530/REP-19-0564.
+
+Uterine infection alters the transcriptome of the bovine reproductive tract three
+months later.
+
+Horlock AD(1), Piersanti RL(2), Ramirez-Hernandez R(2), Yu F(3), Ma Z(2), Jeong
+KC(2), Clift MJD(1), Block J(2), Santos JEP(2), Bromfield JJ(2), Sheldon IM(1).
+
+Author information: 
+(1)Swansea University Medical School, Swansea University, Swansea, UK.
+(2)Department of Animal Sciences, University of Florida, Gainesville, Florida,
+USA.
+(3)Interdisciplinary Center for Biotechnology Research, University of Florida,
+Gainesville, Florida, USA.
+
+Infection of the postpartum uterus with pathogenic bacteria is associated with
+infertility months later in dairy cattle. However, it is unclear whether these
+bacterial infections lead to long-term changes in the reproductive tract that
+might help explain this infertility. Here we tested the hypothesis that infusion 
+of pathogenic bacteria into the uterus leads to changes in the transcriptome of
+the reproductive tract 3 months later. We used virgin Holstein heifers to avoid
+potential confounding effects of periparturient problems, lactation, and negative
+energy balance. Animals were infused intrauterine with endometrial pathogenic
+bacteria Escherichia coli and Trueperella pyogenes (n = 4) and compared with
+control animals (n = 6). Three months after infusion, caruncular and
+intercaruncular endometrium, isthmus and ampulla of the oviduct, and granulosa
+cells from ovarian follicles >8 mm diameter were profiled by RNA sequencing.
+Bacterial infusion altered the transcriptome of all the tissues when compared
+with control. Most differentially expressed genes were tissue specific, with 109 
+differentially expressed genes unique to caruncular endometrium, 57 in
+intercaruncular endometrium, 65 in isthmus, 298 in ampulla, and 83 in granulosa
+cells. Surprisingly, despite infusing bacteria into the uterus, granulosa cells
+had more predicted upstream regulators of differentially expressed genes than all
+the other tissues combined. In conclusion, there were changes in the
+transcriptome of the endometrium, oviduct and even granulosa cells, 3 months
+after intrauterine infusion of pathogenic bacteria. These findings imply that
+long-term changes throughout the reproductive tract could contribute to
+infertility after bacterial infections of the uterus.
+
+DOI: 10.1530/REP-19-0564 
+PMCID: PMC7291824 [Available on 2021-07-01]
+PMID: 32422601 
+

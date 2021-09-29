@@ -1,0 +1,38 @@
+
+1. Microorganisms. 2020 Sep 14;8(9). pii: E1414. doi: 10.3390/microorganisms8091414.
+
+Response of Barley Plants to Drought Might Be Associated with the Recruiting of
+Soil-Borne Endophytes.
+
+Yang L(1), Schröder P(1), Vestergaard G(2), Schloter M(1), Radl V(1).
+
+Author information: 
+(1)Helmholtz Zentrum München, Research Unit Comparative Microbiome Analysis,
+Ingolstädterlandstr. 1, 85764 Oberschleißheim, Germany.
+(2)Section for Bioinformatics, Department of Health Technology, Technical
+University of Denmark, DK-2800 Lyngby, Denmark.
+
+Mechanisms used by plants to respond to water limitation have been extensively
+studied. However, even though the inoculation of beneficial microbes has been
+shown to improve plant performance under drought stress, the inherent role of
+soil microbes on plant response has been less considered. In the present work, we
+assessed the importance of the soil microbiome for the growth of barley plants
+under drought stress. Plant growth was not significantly affected by the
+disturbance of the soil microbiome under regular watering. However, after drought
+stress, we observed a significant reduction in plant biomass, particularly of the
+root system. Plants grown in the soil with disturbed microbiome were
+significantly more affected by drought and did not recover two weeks after
+re-watering. These effects were accompanied by changes in the composition of
+endophytic fungal and bacterial communities. Under natural conditions,
+soil-derived plant endophytes were major colonizers of plant roots, such as
+Glycomyces and Fusarium, whereas, for plants grown in the soil with disturbed
+microbiome seed-born bacterial endophytes, e.g., Pantoea, Erwinia, and
+unclassified Pseudomonaceae and fungal genera normally associated with
+pathogenesis, such as Gibberella and Gaeumannomyces were observed. Therefore, the
+role of the composition of the indigenous soil microbiota should be considered in
+future approaches to develop management strategies to make plants more resistant 
+towards abiotic stress, such as drought.
+
+DOI: 10.3390/microorganisms8091414 
+PMID: 32937884 
+

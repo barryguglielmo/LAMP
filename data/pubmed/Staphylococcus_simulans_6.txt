@@ -1,0 +1,50 @@
+
+1. Prev Vet Med. 2020 Jan;174:104815. doi: 10.1016/j.prevetmed.2019.104815. Epub
+2019 Nov 2.
+
+Association between species-specific staphylococcal intramammary infections and
+milk somatic cell score over time in dairy goats.
+
+Bernier Gosselin V(1), Dufour S(2), Middleton JR(3).
+
+Author information: 
+(1)Department of Veterinary Medicine and Surgery, College of Veterinary Medicine,
+University of Missouri, 900 East Campus Dr., Columbia, MO, 65211 USA. Electronic 
+address: v.bernier.gosselin@umontreal.ca.
+(2)Department of Pathology and Microbiology, Faculty of Veterinary Medicine,
+Université de Montréal, 3200 Sicotte, Saint-Hyacinthe, QC, J2S 2M2, Canada;
+Mastitis Network, 3200 Sicotte, Saint-Hyacinthe, QC, J2S 2M2, Canada. Electronic 
+address: simon.dufour@umontreal.ca.
+(3)Department of Veterinary Medicine and Surgery, College of Veterinary Medicine,
+University of Missouri, 900 East Campus Dr., Columbia, MO, 65211 USA. Electronic 
+address: middletonjr@missouri.edu.
+
+Numerous factors affect milk somatic cell score (SCS) in dairy goats including
+physiologic factors such as stage of lactation, and pathological factors such as 
+bacterial intramammary infection (IMI), e.g. staphylococcal IMI. The association 
+between IMI and udder inflammation and especially differences in the inflammatory
+response between the different staphylococcal species are yet to be identified.
+The objectives of this study were to use data from a recently published
+longitudinal study that characterized IMI status over time to evaluate the
+species-specific effect of staphylococcal IMI on udder half-level milk SCS, and
+to evaluate the effect of time since IMI diagnosis on this relationship.
+Half-level milk samples for culture and determination of SCS were collected from 
+171 goats starting within 10 days in milk (DIM), and then at various intervals
+until ≥ 120 DIM. A mixed linear model was used to assess the effect of
+species-specific staphylococcal IMI on SCS, accounting for confounding by
+lentivirus infection, parity, DIM, and the contralateral half IMI status, and for
+repeated measurements within udder half and for clustering of halves within goat.
+A second model was used to evaluate the effect of time since first IMI diagnosis 
+and its interaction with staphylococcal IMI status on the relationship between
+staphylococcal IMI status and SCS. Lentivirus seropositivity and contralateral
+half IMI status were associated with SCS. Staphylococcal IMI status was
+associated with SCS, with differences between species. Staphyloccocus caprae,
+Staphylococcus epidermidis, Staphylococcus simulans, and Staphylococcus xylosus
+were associated with higher SCS than a number of other species. Time since first 
+diagnosis did not modify the relationship between IMI status and SCS.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.prevetmed.2019.104815 
+PMID: 31731036  [Indexed for MEDLINE]
+

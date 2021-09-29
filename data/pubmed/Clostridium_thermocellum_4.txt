@@ -1,0 +1,46 @@
+
+1. Int J Biol Macromol. 2020 Sep 13. pii: S0141-8130(20)34412-3. doi:
+10.1016/j.ijbiomac.2020.09.054. [Epub ahead of print]
+
+Analyzing the weak dimerization of a cellulose binding module by analytical
+ultracentrifugation.
+
+Fedorov D(1), Batys P(2), Hayes DB(3), Sammalkorpi M(4), Linder MB(5).
+
+Author information: 
+(1)Department of Bioproducts and Biosystems, School of Chemical Engineering,
+Aalto University, Box 16100, 00076-Aalto Espoo, Finland.
+(2)Jerzy Haber Institute of Catalysis and Surface Chemistry, Polish Academy of
+Sciences, Niezapominajek 8, PL-30239 Krakow, Poland.
+(3)International Solidarity of Scientists, LLC, Gorham, NH, USA.
+(4)Department of Bioproducts and Biosystems, School of Chemical Engineering,
+Aalto University, Box 16100, 00076-Aalto Espoo, Finland; Department of Chemistry 
+and Materials Science, School of Chemical Engineering, Aalto University, Box
+16100, 00076-Aalto Espoo, Finland.
+(5)Department of Bioproducts and Biosystems, School of Chemical Engineering,
+Aalto University, Box 16100, 00076-Aalto Espoo, Finland. Electronic address:
+markus.linder@aalto.fi.
+
+Cellulose binding modules (CBMs) are found widely in different proteins that act 
+on cellulose. Because they allow a very easy way of binding recombinant proteins 
+to cellulose, they have become widespread in many biotechnological applications
+involving cellulose. One commonly used variant is the CBMCipA from Clostridium
+thermocellum. Here we studied the oligomerization behavior of CBMCipA, as such
+solution association may have an impact on its use. As the principal approach, we
+used sedimentation velocity and sedimentation equilibrium analytical
+ultracentrifugation. To enhance our understanding of the possible interactions,
+we used molecular dynamics simulations. By analysis of the sedimentation velocity
+data by a discrete model genetic algorithm and by building a binding isotherm
+based on weight average sedimentation coefficient and by global fitting of
+sedimentation equilibrium data we found that the CBMCipA shows a weak
+dimerization interaction with a dissociation constant KD of 90 ± 30 μM. As the KD
+of CBMCipA binding to cellulose is below 1 μM, we conclude that the dimerization 
+is unlikely to affect cellulose binding. However, at high concentrations used in 
+some applications of the CBMCipA, its dimerization is likely to have a marked
+effect on its solution behavior.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.ijbiomac.2020.09.054 
+PMID: 32937156 
+

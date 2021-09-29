@@ -1,0 +1,67 @@
+
+1. Front Microbiol. 2020 Jul 30;11:1758. doi: 10.3389/fmicb.2020.01758. eCollection 
+2020.
+
+A Refined View of Airway Microbiome in Chronic Obstructive Pulmonary Disease at
+Species and Strain-Levels.
+
+Wang Z(1), Liu H(2), Wang F(3), Yang Y(3), Wang X(1), Chen B(1), Stampfli MR(4), 
+Zhou H(2), Shu W(1), Brightling CE(5), Liang Z(3), Chen R(3)(6).
+
+Author information: 
+(1)Institute of Ecological Science, School of Life Sciences, South China Normal
+University, Guangzhou, China.
+(2)State Key Laboratory of Organ Failure Research, Microbiome Medicine Center,
+Division of Laboratory Medicine, Zhujiang Hospital, Southern Medical University, 
+Guangzhou, China.
+(3)State Key Laboratory of Respiratory Disease, National Clinical Research Center
+for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First
+Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.
+(4)Department of Medicine, Firestone Institute for Respiratory Health at St.
+Joseph's Healthcare, McMaster University, Hamilton, ON, Canada.
+(5)Institute for Lung Health, NIHR Leicester Biomedical Research Centre,
+Department of Respiratory Sciences, University of Leicester, Leicester, United
+Kingdom.
+(6)Pulmonary and Critical Care Department, Shenzhen Institute of Respiratory
+Diseases, Shenzhen People's Hospital, Shenzhen, China.
+
+Little is known about the underlying airway microbiome diversity in chronic
+obstructive pulmonary disease (COPD) at in-depth taxonomic levels. Here we
+present the first insights on the COPD airway microbiome at species and
+strain-levels. The full-length 16S rRNA gene was characterized from sputum in 98 
+COPD patients and 27 age-matched healthy controls, using the Pacific Biosciences 
+sequencing platform. Individual species within the same genus exhibited
+reciprocal relationships with COPD and disease severity. Species dominant in
+health can be taken over by another species within the same genus but with
+potentially increasing pathogenicity in severe COPD patients. Ralstonia
+mannitolilytica, an opportunistic pathogen, was significantly increased in
+frequent exacerbators (fold-change = 4.94, FDR P = 0.005). There were distinct
+patterns of interaction between bacterial species and host inflammatory mediators
+according to neutrophilic or eosinophilic inflammations, two major airway
+inflammatory phenotypes in COPD. Haemophilus influenzae, Moraxella catarrhalis,
+Pseudomonas aeruginosa, and Neisseria meningitidis were associated with enhanced 
+Th1, Th17 and pro-inflammatory mediators, while a group of seven species
+including Tropheryma whipplei were specifically associated with Th2 mediators
+related to eosinophilia. We developed an automated pipeline to assign
+strain-level taxonomy leveraging bacterial intra-genomic 16S allele frequency.
+Using this pipeline we further resolved three non-typeable H. influenzae strains 
+PittEE, PittGG and 86-028NP with reasonable precision and uncovered strain-level 
+variation related to airway inflammation. In particular, 86-028NP and PittGG
+strains exhibited inverse associations with Th2 chemokines CCL17 and CCL13,
+suggesting their abundances may inversely predict eosinophilic inflammation. A
+systematic comparison of 16S hypervariable regions indicated V1V3 instead of the 
+commonly used V4 region was the best surrogate for airway microbiome. The
+full-length 16S data augmented the power of functional inference, which slightly 
+better recapitulated the actual metagenomes. This led to the unique
+identification of butyrate-producing and nitrate reduction pathways as depleted
+in COPD. Our analysis uncovered finer-scale airway microbial diversity that was
+previously underappreciated, thus enabled a refined view of the airway microbiome
+in COPD.
+
+Copyright © 2020 Wang, Liu, Wang, Yang, Wang, Chen, Stampfli, Zhou, Shu,
+Brightling, Liang and Chen.
+
+DOI: 10.3389/fmicb.2020.01758 
+PMCID: PMC7406711
+PMID: 32849386 
+

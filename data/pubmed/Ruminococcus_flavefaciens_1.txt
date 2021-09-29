@@ -1,0 +1,46 @@
+
+1. Front Bioeng Biotechnol. 2020 Jul 30;8:856. doi: 10.3389/fbioe.2020.00856.
+eCollection 2020.
+
+CRISPR/Cas13d-Mediated Microbial RNA Knockdown.
+
+Zhang K(1)(2), Zhang Z(1)(2), Kang J(3), Chen J(1), Liu J(1), Gao N(1)(2), Fan
+L(1)(4), Zheng P(1)(2)(4), Wang Y(1)(2), Sun J(1)(2).
+
+Author information: 
+(1)Key Laboratory of Systems Microbial Biotechnology, Tianjin Institute of
+Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, China.
+(2)University of Chinese Academy of Sciences, Beijing, China.
+(3)College of Life Engineering, Shenyang Institute of Technology, Fushun, China.
+(4)School of Life Sciences, University of Science and Technology of China, Hefei,
+China.
+
+RNA-guided and RNA-targeting type IV-D CRISPR/Cas systems (CRISPR/Cas13d) have
+recently been identified and employed for efficient and specific RNA knockdown in
+mammalian and plant cells. Cas13d possesses dual RNase activities and is capable 
+of processing CRISPR arrays and cleaving target RNAs in a protospacer flanking
+sequence (PFS)-independent manner. These properties make this system a promising 
+tool for multiplex gene expression regulation in microbes. Herein, we aimed to
+establish a CRISPR/Cas13d-mediated RNA knockdown platform for bacterial chassis. 
+CasRx, Cas13d from Ruminococcus flavefaciens XPD3002, was selected due to its
+high activity. However, CasRx was found to be highly toxic to both Escherichia
+coli and Corynebacterium glutamicum, especially when it cooperated with its guide
+and target RNAs. After employing a low copy number vector, a tightly controlled
+promoter, and a weakened ribosome binding site, we successfully constructed an
+inducible expression system for CasRx and applied it for repressing the
+expression of a green fluorescent protein (GFP) in E. coli. Despite our efforts
+to optimize inducer usage, guide RNA (gRNA) architecture and combination, and
+target gene expression level, the highest gene repression efficiency was 30-50%
+at the protein level and ∼70% at the mRNA level. The moderate RNA knockdown is
+possibly caused by the collateral cleavage activity toward bystander RNAs, which 
+acts as a mechanism of type IV-D immunity and perturbs microbial metabolism.
+Further studies on cellular response to CRISPR/Cas13d and improvement in RNA
+knockdown efficiency are required prior to practical application of this system
+in microbes.
+
+Copyright © 2020 Zhang, Zhang, Kang, Chen, Liu, Gao, Fan, Zheng, Wang and Sun.
+
+DOI: 10.3389/fbioe.2020.00856 
+PMCID: PMC7406568
+PMID: 32850723 
+

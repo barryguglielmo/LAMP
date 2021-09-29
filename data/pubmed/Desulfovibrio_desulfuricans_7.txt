@@ -1,0 +1,41 @@
+
+1. J Am Chem Soc. 2020 Jan 8;142(1):222-232. doi: 10.1021/jacs.9b09745. Epub 2019
+Dec 30.
+
+Spectroscopic and Computational Evidence that [FeFe] Hydrogenases Operate
+Exclusively with CO-Bridged Intermediates.
+
+Birrell JA(1), Pelmenschikov V(2), Mishra N(3), Wang H(3), Yoda Y(4), Tamasaku
+K(4), Rauchfuss TB(5), Cramer SP(6), Lubitz W(1), DeBeer S(1).
+
+Author information: 
+(1)Max Planck Institute for Chemical Energy Conversion , Stiftstrasse 34-36 ,
+45470 Mülheim an der Ruhr , Germany.
+(2)Institut für Chemie , Technische Universität Berlin , Strasse des 17 Juni 135 
+, 10623 Berlin , Germany.
+(3)Department of Chemistry , University of California, Davis , One Shields Avenue
+, Davis , California 95616 , United States.
+(4)JASRI Spring-8, 1-1-1 Kouto, Mikazuki-cho , Sayo-gun , Hyogo 679-5198 , Japan.
+(5)School of Chemical Sciences , University of Illinois , 600 S. Mathews Avenue ,
+Urbana , Illinois 61801 , United States.
+(6)SETI Institute , Mountain View , California 94043 , United States.
+
+[FeFe] hydrogenases are extremely active H2-converting enzymes. Their mechanism
+remains highly controversial, in particular, the nature of the one-electron and
+two-electron reduced intermediates called HredH+ and HsredH+. In one model, the
+HredH+ and HsredH+ states contain a semibridging CO, while in the other model,
+the bridging CO is replaced by a bridging hydride. Using low-temperature IR
+spectroscopy and nuclear resonance vibrational spectroscopy, together with
+density functional theory calculations, we show that the bridging CO is retained 
+in the HsredH+ and HredH+ states in the [FeFe] hydrogenases from Chlamydomonas
+reinhardtii and Desulfovibrio desulfuricans, respectively. Furthermore, there is 
+no evidence for a bridging hydride in either state. These results agree with a
+model of the catalytic cycle in which the HredH+ and HsredH+ states are integral,
+catalytically competent components. We conclude that proton-coupled electron
+transfer between the two subclusters is crucial to catalysis and allows these
+enzymes to operate in a highly efficient and reversible manner.
+
+DOI: 10.1021/jacs.9b09745 
+PMCID: PMC6956316
+PMID: 31820961 
+

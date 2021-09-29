@@ -1,0 +1,50 @@
+
+1. J Antimicrob Chemother. 2020 Oct 1;75(10):2787-2796. doi: 10.1093/jac/dkaa279.
+
+Arrival of the rare carbapenemase OXA-204 in Canada causing a multispecies
+outbreak over 3 years.
+
+Gobeille Paré S(1), Mataseje LF(2), Ruest A(1), Boyd DA(2), Lefebvre B(3),
+Trépanier P(1), Longtin J(3), Dolce P(4), Mulvey MR(2).
+
+Author information: 
+(1)Medical Microbiology and Infectious Diseases Department, CHU de
+Québec-Université Laval, Hôtel-Dieu de Québec, Québec, Canada.
+(2)Public Health Agency of Canada, National Microbiology Laboratory, Winnipeg,
+Canada.
+(3)Laboratoire de santé publique du Québec, Ste-Anne de Bellevue, Canada.
+(4)CSSS Rimouski-Neigette, Rimouski, Canada.
+
+OBJECTIVES: To investigate a persistent multispecies OXA-204 outbreak occurring
+simultaneously in multiple distant hospitals in the province of Quebec, Canada.
+METHODS: OXA-204 carbapenemase-producing Enterobacterales (CPE) isolated from
+multiple hospitals between January 2016 and October 2018 were included in the
+study. An epidemiological inquiry was conducted in order to elucidate possible
+transmission routes and a putative source. Isolates were characterized by
+standardized antibiotic susceptibility testing and by WGS, using Illumina
+short-read data and MinION long-read data.
+RESULTS: The outbreak comprised 65 patients and 82 isolates from four hospital
+sites. Most patients were ≥65 years old, had multiple comorbidities and had
+received antibiotics recently. The infection to colonization ratio was 1:20. No
+persistent environmental reservoir was identified. The most frequent organism was
+Citrobacter freundii (n = 78), followed by Klebsiella spp. (n = 3) and
+Escherichia coli (n = 1). WGS analysis showed 77/78 C. freundii isolates
+differing by 0-26 single nucleotide variants (SNVs). Results of WGS analysis
+showed blaOXA-204 was present on three plasmids types (IncX1, IncA/C2 and
+IncFII/FIB/A/C2) and on a prophage. All C. freundii isolates harboured multiple
+copies of blaOXA-204, both on the chromosome and a plasmid. Plasmid
+IncFII/FIB/A/C2 was observed in all three species.
+CONCLUSIONS: Transfer of OXA-204 plasmids likely occurred between species within 
+the same patient, highlighting the plasticity of these plasmids and potential for
+widespread dissemination. OXA-204 carbapenemase has been introduced into Quebec
+and has rapidly disseminated. Although the infection to colonization ratio was
+low in this outbreak, this carbapenemase has been associated with severe
+infection elsewhere.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the
+British Society for Antimicrobial Chemotherapy. All rights reserved. For
+permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jac/dkaa279 
+PMID: 32766684 
+

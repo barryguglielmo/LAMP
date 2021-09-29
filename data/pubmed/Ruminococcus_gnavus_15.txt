@@ -1,0 +1,39 @@
+
+1. J Med Chem. 2020 May 14;63(9):4617-4627. doi: 10.1021/acs.jmedchem.9b01918. Epub 
+2020 Mar 9.
+
+Substituent Position of Iminocyclitols Determines the Potency and Selectivity for
+Gut Microbial Xenobiotic-Reactivating Enzymes.
+
+Dashnyam P(1)(2)(3)(4), Lin HY(1), Chen CY(1), Gao S(1), Yeh LF(1), Hsieh WC(1), 
+Tu Z(1), Lin CH(1)(2)(3)(5)(6).
+
+Author information: 
+(1)Institute of Biological Chemistry, Academia Sinica, No 128, Academia Road,
+Taipei 11529, Taiwan.
+(2)Molecular and Biological Agricultural Sciences, Taiwan International Graduate 
+Program, Academia Sinica, Taipei 11529, Taiwan.
+(3)National Chung-Hsing University, Taichung 40227, Taiwan.
+(4)Graduate Institute of Biotechnology, National Chung-Hsing University, Taichung
+40227, Taiwan.
+(5)Biotechnology Center, National Chung-Hsing University, Taichung 40227, Taiwan.
+(6)Department of Chemistry and Institute of Biochemical Sciences, National Taiwan
+University, Taipei 10617, Taiwan.
+
+Selective inhibitors of gut bacterial β-glucuronidases (GUSs) are of particular
+interest in the prevention of xenobiotic-induced toxicities. This study reports
+the first structure-activity relationships on potency and selectivity of several 
+iminocyclitols (2-7) for the GUSs. Complex structures of Ruminococcus gnavus GUS 
+with 2-7 explained how charge, conformation, and substituent of iminocyclitols
+affect their potency and selectivity. N1 of uronic isofagomine (2) made strong
+electrostatic interactions with two catalytic glutamates of GUSs, resulting in
+the most potent inhibition (Ki ≥ 11 nM). C6-propyl analogue of 2 (6) displayed
+700-fold selectivity for opportunistic bacterial GUSs (Ki = 74 nM for E. coli GUS
+and 51.8 μM for RgGUS). In comparison with 2, there was 200-fold enhancement in
+the selectivity, which was attributed to differential interactions between the
+propyl group and loop 5 residues of the GUSs. The results provide useful insights
+to develop potent and selective inhibitors for undesired GUSs.
+
+DOI: 10.1021/acs.jmedchem.9b01918 
+PMID: 32105467 
+

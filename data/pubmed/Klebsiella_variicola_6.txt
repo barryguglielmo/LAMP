@@ -1,0 +1,49 @@
+
+1. mSystems. 2020 Jul 14;5(4). pii: e00140-20. doi: 10.1128/mSystems.00140-20.
+
+Tracking Recombination Events That Occur in Conjugative Virulence Plasmid
+p15WZ-82_Vir during the Transmission Process.
+
+Yang X(1), Ye L(1), Chan EW(2), Zhang R(3), Chen S(4).
+
+Author information: 
+(1)Department of Infectious Diseases and Public Health, Jockey Club College of
+Veterinary Medicine and Life Sciences, City University of Hong Kong, Kowloon,
+Hong Kong.
+(2)State Key Lab of Chemical Biology and Drug Discovery, Department of Applied
+Biology and Chemical Technology, The Hong Kong Polytechnic University, Hung Hom, 
+Hong Kong.
+(3)Department of Clinical Laboratory, School of Medicine, Second Affiliated
+Hospital of Zhejiang University, Zhejiang, Hangzhou, China.
+(4)Department of Infectious Diseases and Public Health, Jockey Club College of
+Veterinary Medicine and Life Sciences, City University of Hong Kong, Kowloon,
+Hong Kong shechen@cityu.edu.hk.
+
+We recently reported the recovery of a conjugative virulence plasmid,
+p15WZ-82_Vir, from a clinical Klebsiella variicola strain. In this study, we
+found that several new plasmid types were generated due to genetic rearrangement.
+Partial integration of plasmid p15WZ-82_Vir with existing plasmids such as
+resistance plasmids by different homologous recombination events was observable
+in three recipient strains. Such recombination events enable the formation of
+various types of mosaic plasmids simultaneously carrying virulence-encoding and
+antibiotic resistance-encoding genes as well as genes involved in plasmid
+conjugation, which promote transmission of various virulence-encoding and
+resistance-encoding elements among pathogens. Our data also suggest that these
+conjugative events may play an integral role in the development of novel mosaic
+plasmids, which is vital for plasmid evolution.IMPORTANCE Although they are often
+nonconjugative, large virulence plasmids are increasingly detected in clinical K.
+pneumoniae and contribute to the hypervirulence phenotype of this organism. In
+this study, we demonstrated that the virulence-encoding region that originated
+from virulence plasmid pLVPK actively interacted with different types of plasmids
+via homologous recombination to generate new conjugative plasmids. This report
+provides insights into the evolution of self-transmissible plasmids carrying
+genetic elements encoding both hypervirulent and multidrug-resistant phenotypes, 
+which facilitate the rapid development of clinical K. pneumoniae strains that are
+hypervirulent and multidrug resistant.
+
+Copyright © 2020 Yang et al.
+
+DOI: 10.1128/mSystems.00140-20 
+PMCID: PMC7363002
+PMID: 32665326 
+

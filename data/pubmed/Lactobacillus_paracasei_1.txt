@@ -1,0 +1,48 @@
+
+1. Materials (Basel). 2020 Sep 30;13(19). pii: E4347. doi: 10.3390/ma13194347.
+
+Zinc Oxide Nanocomposites-Extracellular Synthesis, Physicochemical
+Characterization and Antibacterial Potential.
+
+Pomastowski P(1), Król-Górniak A(1)(2), Railean-Plugaru V(1)(2), Buszewski
+B(1)(2).
+
+Author information: 
+(1)Centre for Modern Interdisciplinary Technologies, Nicolaus Copernicus
+University in Torun, 4 Wileńska Str., 87-100 Torun, Poland.
+(2)Department of Environmental Chemistry and Bioanalytics, Faculty of Chemistry, 
+Nicolaus Copernicus University in Torun, 7 Gagarina Str., 87-100 Torun, Poland.
+
+This research presents, for the first time, the potential of the Lactobacillus
+paracasei LC20 isolated from sweet whey as a novel, effective and accessible
+source for post-cultured ZnO nanocomposites synthesis. The obtained
+nanocomposites were subjected to comprehensive characterization by a broad
+spectrum of instrumental techniques. Results of spectroscopic and microscopic
+analysis confirmed the hexagonal crystalline structure of ZnO in the nanometer
+size. The dispersion stability of the obtained nanocomposites was determined
+based on the zeta potential (ZP) measurements-the average ZP value was found to
+be -29.15 ± 1.05 mV in the 7-9 pH range. The ZnO nanocomposites (NCs)
+demonstrated thermal stability up to 130 °C based on the results of
+thermogravimetric TGA/DTG) analysis. The organic deposit on the nanoparticle
+surface was recorded by spectroscopic analysis in the infrared range (FT-IR).
+Results of the spectrometric study exhibited nanostructure-assisted laser
+desorption/ionization effects and also pointed out the presence of organic
+deposits and, what is more, allowed us to identify the specific amino acids and
+peptides present on the ZnO NCs surfaces. In this context, mass spectrometry (MS)
+data confirmed the nano-ZnO formation mechanism. Moreover, fluorescence data
+showed an increase in fluorescence signal in the presence of nanocomposites
+designed for potential use as, e.g., biosensors. Despite ZnO NCs' luminescent
+properties, they can also act as promising antiseptic agents against clinically
+relevant pathogens. Therefore, a pilot study on the antibacterial activity of
+biologically synthesized ZnO NCs was carried out against four strains
+(Escherichia coli, Staphylococcus aureus, Klebsiella pneumoniae and Pseudomonas
+aeruginosa) by using MIC (minimal inhibitory concentration). Additionally, the
+colony forming units (CFU) assay was performed and quantified for all bacterial
+cells as the percentage of viable cells in comparison to a control sample
+(untreated culture) The nanocomposites were effective among three pathogens with 
+MIC values in the range of 86.25-172.5 μg/mL and showed potential as a new type
+of, e.g., medical path or ointment formulation.
+
+DOI: 10.3390/ma13194347 
+PMID: 33007802 
+

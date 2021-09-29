@@ -1,0 +1,57 @@
+
+1. Bioorg Med Chem Lett. 2020 Jun 1;30(11):127110. doi: 10.1016/j.bmcl.2020.127110. 
+Epub 2020 Mar 16.
+
+Substituted sulfonamide bioisosteres of 8-hydroxyquinoline as zinc-dependent
+antibacterial compounds.
+
+McGowan JE(1), Harper AD(1), Davison EK(1), Jeong JY(1), Mros S(2),
+Harbison-Price N(2), Van Zuylen EM(2), Knottenbelt MK(2), Heikal A(2), Ferguson
+SA(2), McConnell MA(2), Cook GM(3), Krittaphol W(4), Walker GF(4), Brimble MA(5),
+Rennison D(6).
+
+Author information: 
+(1)School of Chemical Sciences, University of Auckland, 23 Symonds Street,
+Auckland, New Zealand.
+(2)Department of Microbiology and Immunology, University of Otago, 720 Cumberland
+Street, Dunedin, New Zealand.
+(3)Maurice Wilkins Centre for Molecular Biodiscovery, University of Auckland,
+Auckland 1042, New Zealand; Department of Microbiology and Immunology, University
+of Otago, 720 Cumberland Street, Dunedin, New Zealand.
+(4)School of Pharmacy, University of Otago, 18 Frederick Street, Dunedin, New
+Zealand.
+(5)School of Chemical Sciences, University of Auckland, 23 Symonds Street,
+Auckland, New Zealand; Maurice Wilkins Centre for Molecular Biodiscovery,
+University of Auckland, Auckland 1042, New Zealand.
+(6)School of Chemical Sciences, University of Auckland, 23 Symonds Street,
+Auckland, New Zealand. Electronic address: d.rennison@auckland.ac.nz.
+
+A series of substituted sulfonamide bioisosteres of 8-hydroxyquinoline were
+evaluated for their antibacterial activity against the common mastitis causative 
+pathogens Streptococcus uberis, Staphylococcus aureus and Escherichia coli, both 
+in the presence and absence of supplementary zinc. Compounds 9a-e, 10a-c, 11a-e, 
+12 and 13 were demonstrated to have MICs of 0.0625 µg/mL against S. uberis in the
+presence of 50 µM ZnSO4. Against S. aureus compounds 9g (MIC 4 µg/mL) and 11d
+(MIC 8 µg/mL) showed the greatest activity, whereas all compounds were found to
+be inactive against E. coli (MIC > 256 µg/mL); again in the presence of 50 µM
+ZnSO4. All compounds were demonstrated to be significantly less active in the
+absence of supplementary zinc. Compound 9g was subsequently confirmed to be
+bactericidal, with an MBC (≥3log10 cfu/mL reduction) of 0.125 µg/mL against S.
+uberis in the presence of 50 µM ZnSO4. To validate the sanitising activity of
+compound 9g in the presence of supplementary zinc, a quantitative suspension
+disinfection (sanitizer) test was performed. In this preliminary test, sanitizing
+activity (>5log10 reduction of CFU/mL in 5 min) was observed against S. uberis
+for compound 9g at concentrations as low as 1 mg/mL, validating the potential of 
+this compound to function as a topical sanitizer against the major environmental 
+mastitis-causing microorganism S. uberis.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.bmcl.2020.127110 
+PMID: 32229060 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

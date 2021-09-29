@@ -1,0 +1,27 @@
+
+1. Chem Commun (Camb). 2020 Sep 7;56(69):9958-9961. doi: 10.1039/d0cc03155k. Epub
+2020 Aug 13.
+
+Reactivation of sulfide-protected [FeFe] hydrogenase in a redox-active hydrogel.
+
+Oughli AA (1), Hardt S , Rüdiger O , Birrell JA , Plumeré N .
+
+Author information: 
+(1)Centre for Electrochemical Sciences-Molecular Nanostructures, Ruhr-Universität
+Bochum Universitätsstrasse 150, 44780 Bochum, Germany. nicolas.plumere@rub.de
+alaa.alsheikhoughli@rub.de.
+
+[FeFe] hydrogenases are highly active hydrogen conversion catalysts but are
+notoriously sensitive to oxidative damage. Redox hydrogels have been used for
+protecting hydrogenases from both high potential inactivation and oxygen
+inactivation under turnover conditions. However, [FeFe] hydrogenase containing
+redox hydrogels must be fabricated under strict anoxic conditions. Sulfide
+coordination at the active center of the [FeFe] hydrogenase from Desulfovibrio
+desulfuricans protects this enzyme from oxygen in an inactive state, which can be
+reactivated upon reduction. Here, we show that this oxygen-stable inactive form
+of the hydrogenase can be reactivated in a redox hydrogel enabling practical use 
+of this highly O2 sensitive enzyme without the need for anoxic conditions.
+
+DOI: 10.1039/d0cc03155k 
+PMID: 32789390 
+

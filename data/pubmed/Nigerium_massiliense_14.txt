@@ -1,0 +1,43 @@
+
+1. Int J Mycobacteriol. 2020 Jan-Mar;9(1):71-75. doi: 10.4103/ijmy.ijmy_181_19.
+
+Targeting bedaquiline mycobacterial efflux pump to potentially enhance therapy in
+Mycobacterium abscessus.
+
+Martin A(1), Bouyakoub Y(1), Soumillion K(1), Mantu EON(1), Colmant A(2),
+Rodriguez-Villalobos H(2).
+
+Author information: 
+(1)Department of Microbiology, Institute of Experimental and Clinical Research,
+Laboratory of Medical Microbiology, Université Catholique De Louvain, Brussels,
+Belgium.
+(2)University Hospital Saint-Luc, Brussels, Belgium.
+
+Background: Mycobacterium abscessus is notorious for being intrinsically
+resistant to most antibiotics. Antibiotic efflux is one of the mechanisms used by
+M. abscessus to pump out antibiotics from their cells. Inhibiting efflux pumps
+(EPs) can be an attractive strategy to enhance the activity of drugs. The
+objective of this study is to determine the activity of EP inhibitors (EPIs) to
+enhance the efficacy of the new drug bedaquiline against M. abscessus clinical
+isolates.
+Methods: A total of 31 phenotypically and genotypically identified M. abscessus
+subsp. abscessus, M. abscesss subsp. massiliense, and M. abscessus subsp.
+bolletii clinical isolates were studied. The contribution of EPs was determined
+by investigating the minimum inhibitory concentration (MIC) levels of bedaquiline
+reduction in the absence and presence of EPIs verapamil and reserpine using the
+resazurin microtiter assay.
+Results: The observed bedaquiline MIC reduction by verapamil was observed in 100%
+isolates and by reserpine in 54.8% isolates. Bedaquiline MIC was 4-32-fold using 
+verapamil with M. abscessus subsp. bolletii showing the highest fold change and
+between 2- and 4-fold using reserpine.
+Conclusions: The results obtained in this study confirm that bedaquiline MIC
+decreased in the presence of EPIs verapamil and reserpine in clinical isolates of
+M. abscessus. Verapamil was the most effective EPI. As shown in previous studies,
+verapamil may have clinical potential as adjunctive therapy to enhance the effect
+of bedaquiline.
+
+DOI: 10.4103/ijmy.ijmy_181_19 
+PMID: 32474492 
+
+Conflict of interest statement: None
+

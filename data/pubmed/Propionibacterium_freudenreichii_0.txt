@@ -1,0 +1,39 @@
+
+1. Food Microbiol. 2020 Dec;92:103579. doi: 10.1016/j.fm.2020.103579. Epub 2020 Jun 
+27.
+
+Surface properties associated with the production of polysaccharides in the food 
+bacteria Propionibacterium freudenreichii.
+
+Guyomarc'h F(1), Francius G(2), Parayre S(1), Madec MN(1), Deutsch SM(3).
+
+Author information: 
+(1)STLO, INRAE, Institut Agro, 35042, Rennes, France.
+(2)Université de Lorraine, LCPME, Laboratoire de Chimie Physique et Microbiologie
+pour l'Environnement, UMR 7564, 54600, Villers-lès-Nancy, France.
+(3)STLO, INRAE, Institut Agro, 35042, Rennes, France. Electronic address:
+stephanie-marie.deutsch@inrae.fr.
+
+This study explores the production of polysaccharides (PS) in the strain Pf2289
+of the food species Propionibacterium freudenreichii. Pf2289 presents
+characteristics atypical of the species: a molar-shaped morphotype upon plating, 
+and cells strongly aggregative in liquid medium. When plating Pf2289, another
+morphotype was observed with a 4% frequency of appearance: round-shaped colonies,
+typical of the species. A clone was isolated, designated Pf456. No reversibility 
+of Pf456 towards the molar-shaped morphotype was observed. Pf2289 was shown to
+produce a surface polysaccharide (PS) bound to the cell wall, mainly during the
+stationary growth phase. Meanwhile, Pf456 had lost the ability to produce the PS.
+AFM images of Pf2289 showed that entangled filaments spread over the whole
+surface of the bacteria, whereas Pf456 exhibited a smooth surface. Adhesion force
+maps, performed with concanavalin-A grafted probes, revealed twice as much
+adhesion of Pf2289 to concanavalin-A compared to Pf456. Furthermore, the length
+of PS molecules surrounding Pf2289 measured at least 7 μm, whereas it only
+reached 1 μm in Pf456. Finally, the presence of PS had a strong impact on
+adhesion properties: Pf2289 did not adhere to hydrophobic surfaces, whereas Pf456
+showed strong adhesion.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fm.2020.103579 
+PMID: 32950163 
+

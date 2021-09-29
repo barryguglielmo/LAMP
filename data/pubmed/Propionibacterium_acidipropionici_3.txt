@@ -1,0 +1,58 @@
+
+1. Microorganisms. 2019 Oct 30;7(11). pii: E512. doi: 10.3390/microorganisms7110512.
+
+Red-Brown Pigmentation of Acidipropionibacterium jensenii Is Tied to Haemolytic
+Activity and cyl-Like Gene Cluster.
+
+Deptula P(1)(2), Loivamaa I(3), Smolander OP(4), Laine P(5), Roberts RJ(6),
+Piironen V(7), Paulin L(8), Savijoki K(9), Auvinen P(10), Varmanen P(11).
+
+Author information: 
+(1)Institute of Biotechnology, University of Helsinki, 00014 Helsinki, Finland.
+paulina.deptula@helsinki.fi.
+(2)Department of Food Sciences, University of Copenhagen, Rolighedsvej 26,
+DK-1958 Frederiksberg C, Denmark. paulina.deptula@helsinki.fi.
+(3)Department of Food and Nutrition, University of Helsinki, 00014 Helsinki,
+Finland. iida.loivamaa@helsinki.fi.
+(4)Institute of Biotechnology, University of Helsinki, 00014 Helsinki, Finland.
+olli-pekka.smolander@helsinki.fi.
+(5)Institute of Biotechnology, University of Helsinki, 00014 Helsinki, Finland.
+pia.k.laine@helsinki.fi.
+(6)New England Biolabs, Ipswich, MA 01938-2723, USA. roberts@neb.com.
+(7)Department of Food and Nutrition, University of Helsinki, 00014 Helsinki,
+Finland. vieno.piironen@helsinki.fi.
+(8)Institute of Biotechnology, University of Helsinki, 00014 Helsinki, Finland.
+lars.paulin@helsinki.fi.
+(9)Division of Pharmaceutical Biosciences, University of Helsinki, 00014
+Helsinki, Finland. kirsi.savijoki@helsinki.fi.
+(10)Institute of Biotechnology, University of Helsinki, 00014 Helsinki, Finland. 
+petri.auvinen@helsinki.fi.
+(11)Department of Food and Nutrition, University of Helsinki, 00014 Helsinki,
+Finland. pekka.varmanen@helsinki.fi.
+
+The novel Acidipropionibacterium genus encompasses species of industrial
+importance but also those associated with food spoilage. In particular,
+Acidipropionibacterium acidipropionici, Acidipropionibacterium thoenii, and
+Acidipropionibacterium jensenii play an important role in food fermentation, as
+biopreservatives, or as potential probiotics. Notably, A. jensenii and A. thoenii
+can cause brown spot defects in Swiss-type cheeses, which have been tied to the
+rhamnolipid pigment granadaene. In the pathogenic bacterium Streptococcus
+agalactiae, production of granadaene depends on the presence of a cyl gene
+cluster, an important virulence factor linked with haemolytic activity. Here, we 
+show that the production of granadaene in pigmented Acidipropionibacterium,
+including A. jensenii, A. thoenii, and Acidipropionibacterium virtanenii, is tied
+to haemolytic activity and the presence of a cyl-like gene cluster. Furthermore, 
+we propose a PCR-based test, which allows pinpointing acidipropionibacteria with 
+the cyl-like gene cluster. Finally, we present the first two whole genome
+sequence analyses of the A. jensenii strains as well as testing phenotypic
+characteristics important for industrial applications. In conclusion, the present
+study sheds light on potential risks associated with the presence of pigmented
+Acidipropionibacterium strains in food fermentation. In addition, the results
+presented here provide ground for development of a quick and simple diagnostic
+test instrumental in avoiding potential negative effects of
+Acidipropionibacterium strains with haemolytic activity on food quality.
+
+DOI: 10.3390/microorganisms7110512 
+PMCID: PMC6920887
+PMID: 31671651 
+

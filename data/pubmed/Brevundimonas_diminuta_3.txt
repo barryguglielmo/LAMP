@@ -1,0 +1,46 @@
+
+1. Molecules. 2020 Mar 17;25(6). pii: E1371. doi: 10.3390/molecules25061371.
+
+Steady-State Kinetics of Enzyme-Catalyzed Hydrolysis of Echothiophate, a P-S
+Bonded Organophosphorus as Monitored by Spectrofluorimetry.
+
+Zueva IV(1), Lushchekina SV(2), Daudé D(3), Chabrière E(4), Masson P(5).
+
+Author information: 
+(1)Arbuzov Institute of Organic and Physical Chemistry, Federal Research Center
+"Kazan Scientific Center of the Russian Academy of Sciences", Arbuzov str. 8,
+420088 Kazan, Russia.
+(2)Emanuel Institute of Biochemical Physics, Russian Academy of Sciences, Kosygin
+str 4, 119334 Moscow, Russia.
+(3)Gene&GreenTK, HU Méditerranée Infection, Jean Moulin Blvd 19-21, 13005
+Marseille, France.
+(4)Aix-Marseille University, IRD, APHM, MEPHI, IHU-Méditerranée Infection, 15005 
+Marseille, France.
+(5)Kazan Federal University, Neuropharmacology Laboratory, Kremlevskaya str 18,
+480002 Kazan, Russia.
+
+Enzyme-catalyzed hydrolysis of echothiophate, a P-S bonded organophosphorus (OP) 
+model, was spectrofluorimetrically monitored, using Calbiochem Probe IV as the
+thiol reagent. OP hydrolases were: the G117H mutant of human
+butyrylcholinesterase capable of hydrolyzing OPs, and a multiple mutant of
+Brevundimonas diminuta phosphotriesterase, GG1, designed to hydrolyze a large
+spectrum of OPs at high rate, including V agents. Molecular modeling of
+interaction between Probe IV and OP hydrolases (G117H butyrylcholinesterase, GG1,
+wild types of Brevundimonas diminuta and Sulfolobus solfataricus
+phosphotriesterases, and human paraoxonase-1) was performed. The high sensitivity
+of the method allowed steady-state kinetic analysis of echothiophate hydrolysis
+by highly purified G117H butyrylcholinesterase concentration as low as 0.85 nM.
+Hydrolysis was michaelian with Km = 0.20 ± 0.03 mM and kcat = 5.4 ± 1.6 min-1.
+The GG1 phosphotriesterase hydrolyzed echothiophate with a high efficiency (Km = 
+2.6 ± 0.2 mM; kcat = 53400 min-1). With a kcat/Km = (2.6 ± 1.6) × 107 M-1min-1,
+GG1 fulfills the required condition of potential catalytic bioscavengers. quantum
+mechanics/molecular mechanics (QM/MM) and molecular docking indicate that Probe
+IV does not interact significantly with the selected phosphotriesterases.
+Moreover, results on G117H mutant show that Probe IV does not inhibit
+butyrylcholinesterase. Therefore, Probe IV can be recommended for monitoring
+hydrolysis of P-S bonded OPs by thiol-free OP hydrolases.
+
+DOI: 10.3390/molecules25061371 
+PMCID: PMC7144395
+PMID: 32192230 
+

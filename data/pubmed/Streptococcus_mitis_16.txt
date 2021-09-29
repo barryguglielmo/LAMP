@@ -1,0 +1,56 @@
+
+1. Infect Genet Evol. 2020 Jul 27;85:104483. doi: 10.1016/j.meegid.2020.104483.
+[Epub ahead of print]
+
+Cytotoxic property of Streptococcus mitis strain producing two different types of
+cholesterol-dependent cytolysins.
+
+Tabata A(1), Ohkuni H(2), Hino H(3), Saigo T(3), Kodama C(3), Tang Q(3), Tomoyasu
+T(1), Fukunaga Y(4), Itoh Y(4), Nagamune H(5).
+
+Author information: 
+(1)Department of Bioscience and Bioindustry, Graduate School of Technology,
+Industrial and Social Sciences, Tokushima University, 2-1 Minamijousanjima-cho,
+Tokushima 770-8513, Japan; Department of Biological Science and Technology, Life 
+System, Institute of Technology and Science, Tokushima University, 2-1
+Minamijousanjima-cho, Tokushima 770-8513, Japan.
+(2)Health Science Research Institute East Japan, 3-673 Tenjin, Kounosu, Saitama
+365-8585, Japan.
+(3)Department of Biological Science and Technology, Life System, Institute of
+Technology and Science, Tokushima University, 2-1 Minamijousanjima-cho, Tokushima
+770-8513, Japan.
+(4)Department of Pediatrics, Nippon Medical School, 1-1-5 Sendagi, Bunkyo-ku,
+Tokyo 113-8603, Japan.
+(5)Department of Bioscience and Bioindustry, Graduate School of Technology,
+Industrial and Social Sciences, Tokushima University, 2-1 Minamijousanjima-cho,
+Tokushima 770-8513, Japan; Department of Biological Science and Technology, Life 
+System, Institute of Technology and Science, Tokushima University, 2-1
+Minamijousanjima-cho, Tokushima 770-8513, Japan. Electronic address:
+nagamune@tokushima-u.ac.jp.
+
+Streptococcus mitis strain Nm-65 secretes an atypical 5-domain-type
+cholesterol-dependent cytolysin (CDC) called S. mitis-derived human platelet
+aggregation factor (Sm-hPAF) originally described as a platelet aggregation
+factor. Sm-hPAF belongs to Group III CDC that recognize both membrane cholesterol
+and human CD59 as the receptors, and shows preferential activity towards human
+cells. Draft genome analyses have shown that the Nm-65 strain also harbors a gene
+encoding another CDC called mitilysin (MLY). This CDC belongs to Group I CDC that
+recognizes only membrane cholesterol as a receptor, and it is a homolog of the
+pneumococcal CDC, pneumolysin. The genes encoding each CDC are located about
+20 kb apart on the Nm-65 genome. Analysis of the genomic locus of these
+CDC-encoding genes in silico showed that the gene encoding Sm-hPAF and the region
+including the gene encoding MLY were both inserted into a specific locus of the
+S. mitis genome. The results obtained using deletion mutants of the gene(s)
+encoding CDC in Nm-65 indicated that each CDC contributes to both hemolysis and
+cytotoxicity, and that MLY is the major hemolysin/cytolysin in Nm-65. The present
+study aimed to determine the potential pathogenicity of an S. mitis strain that
+produces two CDC with different receptor recognition properties and secretion
+modes.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.meegid.2020.104483 
+PMID: 32731044 
+
+Conflict of interest statement: Declaration of competing interest None.
+

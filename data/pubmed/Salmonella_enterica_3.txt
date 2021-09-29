@@ -1,0 +1,62 @@
+
+1. Appl Environ Microbiol. 2020 Oct 2. pii: AEM.01204-20. doi: 10.1128/AEM.01204-20.
+[Epub ahead of print]
+
+Selection for resistance to a glyphosate-containing herbicide in Salmonella
+enterica does not result in a sustained activation of the tolerance response or
+increased cross-tolerance and cross-resistance to clinically important
+antibiotics.
+
+Pöppe J(1), Bote K(1), Ramesh A(1), Murugaiyan J(1)(2), Kuropka B(3), Kühl M(1), 
+Johnston P(4)(5)(6), Roesler U(1), Makarova O(7).
+
+Author information: 
+(1)Institute of Animal Hygiene and Environmental Health, Centre for Infection
+Medicine, Freie Universität Berlin, Berlin, Germany.
+(2)Department of Biology & Biotechnology, SRM University-AP, Andhra Pradesh,
+India.
+(3)Institute for Chemistry and Biochemistry, Freie Universität Berlin, Berlin,
+Germany.
+(4)Evolutionary Biology, Institute for Biology, Freie Universität Berlin, Berlin,
+Germany.
+(5)Berlin Center for Genomics in Biodiversity Research, Berlin, Germany.
+(6)Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin,
+Germany.
+(7)Institute of Animal Hygiene and Environmental Health, Centre for Infection
+Medicine, Freie Universität Berlin, Berlin, Germany olga.makarova@fu-berlin.de
+tierhygiene@vetmed.fu-berlin.de.
+
+Evolution of bacterial tolerance to antimicrobials precedes evolution of
+resistance and may result in cross-tolerance, cross-resistance or collateral
+sensitivity to other antibiotics. Transient exposure of gut bacteria to
+glyphosate, the world's most widely used herbicide, has been linked to the
+activation of the stress response and changes in susceptibility to antibiotics.
+In this study, we investigated whether a chronic exposure to a
+glyphosate-containing herbicide (GBH) results in resistance, a constitutive
+activation of the tolerance and stress response and cross-tolerance or
+cross-resistance to antibiotics. Of the ten farm animals-derived clinical
+isolates of Salmonella enterica subjected to experimental evolution in increasing
+concentrations of GBH, three isolates showed a stable resistance with mutations
+associated with the glyphosate target gene aroA and no fitness costs. The global 
+quantitative proteomics analysis demonstrated activation of the cellular
+tolerance and stress response during the transient exposure to GBH, but not
+constitutively in the resistant mutants. Resistant mutants displayed no
+cross-resistance or cross-tolerance to antibiotics. These results suggest that
+while transient exposure to GBH triggers cellular tolerance response in
+Salmonella enterica, this response does not become genetically fixed after
+selection for resistance to GBH and does not result in increased cross-tolerance 
+or cross-resistance to clinically important antibiotics under our experimental
+conditions.ImportanceGlyphosate-based herbicides (GBH) are among the world's most
+popular, with traces commonly found in food, feed and the environment. Such high 
+ubiquity means that the herbicide may come into contact with various
+microorganisms, on which it acts as an antimicrobial and may select for
+resistance and cross-resistance to clinically important antibiotics. It is
+therefore important to estimate whether the widespread use of pesticides may be
+an underappreciated source of antibiotic resistant microorganisms that may
+compromise efficiency of antibiotic treatments in humans and animals.
+
+Copyright © 2020 Pöppe et al.
+
+DOI: 10.1128/AEM.01204-20 
+PMID: 33008821 
+

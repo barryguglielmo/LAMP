@@ -1,0 +1,54 @@
+
+1. Arch Microbiol. 2020 Sep 23. doi: 10.1007/s00203-020-01973-1. [Epub ahead of
+print]
+
+Microbiomes in agricultural and mining soils contaminated with arsenic in
+Guanajuato, Mexico.
+
+López-Pérez ME(1), Saldaña-Robles A(1)(2), Zanor GA(1)(3), Ibarra JE(4), Del
+Rincón-Castro MC(5)(6).
+
+Author information: 
+(1)Posgrado en Biociencias, División de Ciencias de la Vida, Universidad de
+Guanajuato, Campus Irapuato-Salamanca, Km. 9.0 Carr. Irapuato-León, 36500,
+Irapuato, Guanajuato, Mexico.
+(2)División de Ciencias de la Vida, Departamento de Ingeniería Agrícola,
+Universidad de Guanajuato, Campus Irapuato-Salamanca, Km. 9.0 Carr.
+Irapuato-León, 36500, Irapuato, Guanajuato, Mexico.
+(3)División de Ciencias de la Vida, Departamento de Ciencias Ambientales,
+Universidad de Guanajuato, Campus Irapuato-Salamanca, Km. 9.0 Carr.
+Irapuato-León, 36500, Irapuato, Guanajuato, Mexico.
+(4)Departamento de Biotecnología y Bioquímica, CINVESTAV-Unidad Irapuato,
+CINVESTAV-Unidad Irapuato, Km. 9.6 Libramiento Norte, Carretera Irapuato-León,
+36500, Irapuato, Guanajuato, Mexico.
+(5)Posgrado en Biociencias, División de Ciencias de la Vida, Universidad de
+Guanajuato, Campus Irapuato-Salamanca, Km. 9.0 Carr. Irapuato-León, 36500,
+Irapuato, Guanajuato, Mexico. cdelrincon@ugto.mx.
+(6)División de Ciencias de la Vida, Departamento de Alimentos, Universidad de
+Guanajuato, Campus Irapuato-Salamanca, Km. 9.0 Carr. Irapuato-León, 36500,
+Irapuato, Guanajuato, Mexico. cdelrincon@ugto.mx.
+
+In this report, physical and chemical properties, and total arsenic (As)
+concentrations were analyzed in agricultural (MASE) and mining soils (SMI) in the
+State of Guanajuato, México. Additionally, a metagenomic analysis of both types
+of soils was the bases for the identification and selection of bacteria and fungi
+resistant to As. The SMI soil showed higher concentration of As (39 mg kg-1) as
+compared to MASE soil (15 mg kg-1). The metagenome showed a total of 175,240
+reads from both soils. MASE soil showed higher diversity of bacteria, while the
+SMI soil showed higher diversity of fungi. 16S rRNA analysis showed that the
+phylum Proteobacteria showed the highest proportion (39.6% in MASE and 36.4% in
+SMI) and Acidobacteria was the second most representative (24.2% in SMI and 11.6%
+in MASE). 18S rRNA analysis, showed that the phylum Glomeromycota was found only 
+in the SMI soils (11.6%), while Ascomycota was the most abundant, followed by
+Basidiomycota, and Zygomycota, in both soils. Genera Bacillus and Penicillium
+were able to grow in As concentrations as high as 5 and 10 mM, reduced As (V) to 
+As (III), and removed As at 9.8% and 12.1% rates, respectively. When aoxB, arsB, 
+ACR3(1), ACR3(2,) and arrA genes were explored, only the arsB gene was identified
+in Bacillus sp., B. simplex, and B. megaterium. In general, SMI soils showed more
+microorganisms resistant to As than MASE soils. Bacteria and fungi selected in
+this work may show potential to be used as bioremediation agents in As
+contaminated soils.
+
+DOI: 10.1007/s00203-020-01973-1 
+PMID: 32964256 
+

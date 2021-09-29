@@ -1,0 +1,56 @@
+
+1. NPJ Biofilms Microbiomes. 2020 Mar 13;6(1):11. doi: 10.1038/s41522-020-0121-6.
+
+Metagenomic analysis of bacterial species in tongue microbiome of current and
+never smokers.
+
+Sato N(1)(2), Kakuta M(3), Hasegawa T(4), Yamaguchi R(3), Uchino E(2)(5),
+Kobayashi W(6), Sawada K(7), Tamura Y(6), Tokuda I(8), Murashita K(9), Nakaji
+S(7), Imoto S(4), Yanagita M(2), Okuno Y(10).
+
+Author information: 
+(1)Department of Biomedical Data Intelligence, Graduate School of Medicine, Kyoto
+University, 54 Shogoin Kawahara-cho, Sakyo-ku, Kyoto, 606-8507, Japan.
+(2)Department of Nephrology, Graduate School of Medicine, Kyoto University, 54
+Shogoin Kawahara-cho, Sakyo-ku, Kyoto, 606-8507, Japan.
+(3)Human Genome Center, The Institute of Medical Science, The University of
+Tokyo, 4-6-1 Shirokanedai, Minato-ku, Tokyo, 108-8639, Japan.
+(4)Health Intelligence Center, The Institute of Medical Science, The University
+of Tokyo, 4-6-1 Shirokanedai, Minato-ku, Tokyo, 108-8639, Japan.
+(5)Department of Medical Intelligent Systems, Graduate School of Medicine, Kyoto 
+University, 54 Shogoin Kawahara-cho, Sakyo-ku, Kyoto, 606-8507, Japan.
+(6)Department of Oral and Maxillofacial Surgery, Hirosaki University Graduate
+School of Medicine, 5 Zaifu-cho Hirosaki, Aomori, 036-8562, Japan.
+(7)Department of Social Medicine, Hirosaki University Graduate School of
+Medicine, 5 Zaifu-cho Hirosaki, Aomori, 036-8562, Japan.
+(8)Department of Oral Health Care, Hirosaki University Graduate School of
+Medicine, 5 Zaifu-cho Hirosaki, Aomori, 036-8562, Japan.
+(9)COI Research Initiatives Organization, 5 Zaifu-cho Hirosaki, Aomori, 036-8562,
+Japan.
+(10)Department of Biomedical Data Intelligence, Graduate School of Medicine,
+Kyoto University, 54 Shogoin Kawahara-cho, Sakyo-ku, Kyoto, 606-8507, Japan.
+okuno.yasushi.4c@kyoto-u.ac.jp.
+
+Cigarette smoking affects the oral microbiome, which is related to various
+systemic diseases. While studies that investigated the relationship between
+smoking and the oral microbiome by 16S rRNA amplicon sequencing have been
+performed, investigations involving metagenomic sequences are rare. We
+investigated the bacterial species composition in the tongue microbiome, as well 
+as single-nucleotide variant (SNV) profiles and gene content of these species, in
+never and current smokers by utilizing metagenomic sequences. Among 234 never
+smokers and 52 current smokers, beta diversity, as assessed by weighted UniFrac
+measure, differed between never and current smokers (pseudo-F = 8.44, R2 = 0.028,
+p = 0.001). Among the 26 species that had sufficient coverage, the SNV profiles
+of Actinomyces graevenitzii, Megasphaera micronuciformis, Rothia mucilaginosa,
+Veillonella dispar, and one Veillonella sp. were significantly different between 
+never and current smokers. Analysis of gene and pathway content revealed that
+genes related to the lipopolysaccharide biosynthesis pathway in Veillonella
+dispar were present more frequently in current smokers. We found that
+species-level tongue microbiome differed between never and current smokers, and 5
+species from never and current smokers likely harbor different strains, as
+suggested by the difference in SNV frequency.
+
+DOI: 10.1038/s41522-020-0121-6 
+PMCID: PMC7069950
+PMID: 32170059 
+

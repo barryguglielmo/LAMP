@@ -1,0 +1,48 @@
+
+1. Front Plant Sci. 2020 Jul 10;11:796. doi: 10.3389/fpls.2020.00796. eCollection
+2020.
+
+Bacillus firmus Strain I-1582, a Nematode Antagonist by Itself and Through the
+Plant.
+
+Ghahremani Z(1), Escudero N(1), Beltrán-Anadón D(1), Saus E(2)(3), Cunquero M(4),
+Andilla J(4), Loza-Alvarez P(4), Gabaldón T(2)(3)(5), Sorribas FJ(1).
+
+Author information: 
+(1)Departament d'Enginyeria Agroalimentària i Biotecnologia, Universitat
+Politècnica de Catalunya, Barcelona, Spain.
+(2)Bioinformatics and Genomics Program, Centre for Genomic Regulation (CRG),
+Barcelona Institute of Science and Technology, Barcelona, Spain.
+(3)Department of Experimental and Health Sciences, Universitat Pompeu Fabra,
+Barcelona, Spain.
+(4)Institut de Ciències Fotòniques (ICFO), The Barcelona Institute of Science and
+Technology, Barcelona, Spain.
+(5)Institució Catalana de Recerca i Estudis Avançats, Barcelona, Spain.
+
+Bacillus firmus I-1582 is approved in Europe for the management of Meloidogyne on
+vegetable crops. However, little information about its modes of action and
+temperature requirements is available, despite the effect of these parameters in 
+its efficacy. The cardinal temperatures for bacterial growth and biofilm
+formation were determined. The bacteria was transformed with GFP to study its
+effect on nematode eggs and root colonization of tomato (Solanum lycopersicum)
+and cucumber (Cucumis sativus) by laser-scanning confocal microscopy. Induction
+of plant resistance was determined in split-root experiments and the dynamic
+regulation of genes related to jasmonic acid (JA) and salicylic acid (SA) by
+RT-qPCR at three different times after nematode inoculation. The bacteria was
+able to grow and form biofilms between 15 and 45°C; it degraded egg-shells and
+colonized eggs; it colonized tomato roots more extensively than cucumber roots;
+it induced systemic resistance in tomato, but not in cucumber; SA and JA related 
+genes were primed at different times after nematode inoculation in tomato, but
+only the SA-related gene was up-regulated at 7 days after nematode inoculation in
+cucumber. In conclusion, B. firmus I-1582 is active at a wide range of
+temperatures; its optimal growth temperature is 35°C; it is able to degrade
+Meloidogyne eggs, and to colonize plant roots, inducing systemic resistance in a 
+plant dependent species manner.
+
+Copyright © 2020 Ghahremani, Escudero, Beltrán-Anadón, Saus, Cunquero, Andilla,
+Loza-Alvarez, Gabaldón and Sorribas.
+
+DOI: 10.3389/fpls.2020.00796 
+PMCID: PMC7381289
+PMID: 32765537 
+

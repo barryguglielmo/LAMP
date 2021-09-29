@@ -1,0 +1,30 @@
+
+1. IEEE/ACM Trans Comput Biol Bioinform. 2019 Nov-Dec;16(6):2078-2088. doi:
+10.1109/TCBB.2018.2831212. Epub 2018 Apr 30.
+
+Robust Microbial Markers for Non-Invasive Inflammatory Bowel Disease
+Identification.
+
+Wingfield B, Coleman S, McGinnity TM, Bjourson AJ.
+
+Inflammatory Bowel Disease (IBD) is an umbrella term for a group of inflammatory 
+diseases of the gastrointestinal tract, including Crohn's Disease and ulcerative 
+colitis. Changes to the intestinal microbiome, the community of micro-organisms
+that resides in the human gut, have been shown to contribute to the pathogenesis 
+of IBD. IBD diagnosis is often delayed due to its non-specific symptoms and
+because an invasive colonoscopy is required for confirmation, which leads to poor
+growth in children and worse treatment outcomes. Feature selection algorithms are
+often applied to microbial communities to identify bacterial groups that drive
+disease. It has been shown that aggregating Ensemble Feature Selection (EFS) can 
+improve the robustness of feature selection algorithms, which is defined as the
+variation of feature selector output caused by small changes to the dataset. In
+this work, we apply a two-step filter and an EFS process to generate robust
+feature subsets that can non-invasively predict IBD subtypes from high-resolution
+microbiome data. The predictive power of the robust feature subsets is the
+highest reported in literature to date. Furthermore, we identify five
+biologically plausible bacterial species that have not previously been implicated
+in IBD aetiology.
+
+DOI: 10.1109/TCBB.2018.2831212 
+PMID: 29994028  [Indexed for MEDLINE]
+

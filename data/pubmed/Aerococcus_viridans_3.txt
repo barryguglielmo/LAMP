@@ -1,0 +1,64 @@
+
+1. Bone. 2020 Sep 21:115652. doi: 10.1016/j.bone.2020.115652. [Epub ahead of print]
+
+Assessing causal relationship from gut microbiota to heel bone mineral density.
+
+Ni JJ(1), Yang XL(2), Zhang H(1), Xu Q(3), Wei XT(3), Feng GJ(3), Zhao M(1), Pei 
+YF(4), Zhang L(5).
+
+Author information: 
+(1)Jiangsu Key Laboratory of Preventive and Translational Medicine for Geriatric 
+Diseases, Medical College of Soochow University, Jiangsu, PR China; Center for
+Genetic Epidemiology and Genomics, School of Public Health, Medical College of
+Soochow University, Jiangsu, PR China.
+(2)Department of Gastroenterology, Affiliated Hospital of Yangzhou University,
+Yangzhou University, Jiangsu, PR China; Laboratory of Gastroenterology,
+Affiliated Hospital of Yangzhou University, Yangzhou University, Jiangsu, PR
+China.
+(3)Jiangsu Key Laboratory of Preventive and Translational Medicine for Geriatric 
+Diseases, Medical College of Soochow University, Jiangsu, PR China; Department of
+Epidemiology and Health Statistics, School of Public Health, Medical College of
+Soochow University, Jiangsu, PR China.
+(4)Jiangsu Key Laboratory of Preventive and Translational Medicine for Geriatric 
+Diseases, Medical College of Soochow University, Jiangsu, PR China; Department of
+Epidemiology and Health Statistics, School of Public Health, Medical College of
+Soochow University, Jiangsu, PR China. Electronic address: ypei@suda.edu.cn.
+(5)Jiangsu Key Laboratory of Preventive and Translational Medicine for Geriatric 
+Diseases, Medical College of Soochow University, Jiangsu, PR China; Center for
+Genetic Epidemiology and Genomics, School of Public Health, Medical College of
+Soochow University, Jiangsu, PR China. Electronic address: lzhang6@suda.edu.cn.
+
+Recent studies have demonstrated the important role played by gut microbiota in
+regulating bone development, but the evidence of such causal relationship is
+still sparse in human population. The aim of this study is to assess the causal
+relationship from gut microbiota to bone development and to identify specific
+causal bacteria taxa via a Mendelian randomization (MR) approach. A genome-wide
+association study (GWAS) summary statistic based two-sample MR analysis was
+performed. Summary statistics of microbiome GWAS (MGWAS) in 1126 twin pairs of
+the TwinsUK study was used as discovery sample, and the MGWAS in 984 Dutch
+participants from the LifeLines-DEEP cohort was used as replication sample.
+Estimated heel bone mineral density (eBMD) GWAS in 426,824 participants from the 
+UK biobank (UKB) cohort was used as outcome. Bacteria were grouped into taxa
+features at both order and family levels. In the discovery sample, a total of 25 
+bacteria features including 9 orders and 16 families were analyzed. Fourteen
+features (5 orders + 9 families) were nominally significant, including 5 orders
+(Bacteroidales, Clostridiales, Lactobacillales, Pasteurellales and
+Verrucomicrobiales) and 9 families (Bacteroidaceae, Clostridiaceae,
+Lachnospiraceae, Mogibacteriaceae, Pasteurellaceae, Porphyromonadaceae,
+Streptococcaceae, Verrucomicrobiaceae and Veillonellaceae). One order
+Clostridiales and its child taxon, family Lachnospiraceae, were successfully
+replicated in the replication sample (Clostridiales
+Pdiscovery = 3.32 × 10-3Preplication = 7.29 × 10-3; Lachnospiraceae
+Pdiscovery = 0.03 Preplication = 7.29 × 10-3). Our findings provided evidence of 
+causal relationship from microbiota to bone development, as well as identified
+specific bacteria taxa that regulated bone mass variation, thus providing new
+insights into the microbiota mediated bone development mechanism.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bone.2020.115652 
+PMID: 32971307 
+
+Conflict of interest statement: Declaration of competing interest The authors
+state that there is no conflict of interest.
+

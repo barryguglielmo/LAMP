@@ -1,0 +1,39 @@
+
+1. Molecules. 2020 Sep 27;25(19). pii: E4446. doi: 10.3390/molecules25194446.
+
+Hetiamacin E and F, New Amicoumacin Antibiotics from Bacillus subtilis PJS Using 
+MS/MS-Based Molecular Networking.
+
+Wang T(1)(2), Lu Q(1)(2), Sun C(1)(2), Lukianov D(3), Osterman IA(3)(4), Sergiev 
+PV(3)(4), Dontsova OA(3)(4)(5), Hu X(1)(2), You X(1)(2), Liu S(1)(2), Wu G(1)(2).
+
+Author information: 
+(1)Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences and 
+Peking Union Medical College, Beijing 100050, China.
+(2)Beijing Key Laboratory of Antimicrobial Agents, Institute of Medicinal
+Biotechnology, Chinese Academy of Medical Sciences and Peking Union Medical
+College, Beijing 100050, China.
+(3)Center of Life Sciences, Skolkovo Institute of Science and Technology, Moscow 
+143025, Russia.
+(4)Department of Chemistry, Lomonosov Moscow State University, Moscow 119992,
+Russia.
+(5)Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry, Russian Academy of
+Sciences, Moscow 119992, Russia.
+
+To combat escalating levels of antibiotic resistance, novel strategies are
+developed to address the everlasting demand for new antibiotics. This study aimed
+at investigating amicoumacin antibiotics from the desert-derived Bacillus
+subtilis PJS by using the modern MS/MS-based molecular networking approach. Two
+new amicoumacins, namely hetiamacin E (1) and hetiamacin F (2), were finally
+isolated. The planar structures were determined by analysis of extensive NMR
+spectroscopic and HR-ESI-MS data, and the absolute configurations were concluded 
+by analysis of the CD spectrum. Hetiamacin E (1) showed strong antibacterial
+activities against methicillin-sensitive and resistant Staphylococcus epidermidis
+at 2-4 µg/mL, and methicillin-sensitive and resistant Staphylococcus aureus at
+8-16 µg/mL. Hetiamacin F (2) exhibited moderate antibacterial activities against 
+Staphylococcus sp. at 32 µg/mL. Both compounds were inhibitors of protein
+biosynthesis demonstrated by a double fluorescent protein reporter system.
+
+DOI: 10.3390/molecules25194446 
+PMID: 32992672 
+

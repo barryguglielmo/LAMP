@@ -1,0 +1,49 @@
+
+1. Front Microbiol. 2020 Mar 31;11:524. doi: 10.3389/fmicb.2020.00524. eCollection
+2020.
+
+The Versatility of Opportunistic Infections Caused by Gemella Isolates Is
+Supported by the Carriage of Virulence Factors From Multiple Origins.
+
+García López E(1)(2), Martín-Galiano AJ(3).
+
+Author information: 
+(1)Departamento de Biotecnología Microbiana y de Plantas, Centro de
+Investigaciones Biológicas (CSIC), Madrid, Spain.
+(2)CIBER de Enfermedades Respiratorias (CIBERES), Madrid, Spain.
+(3)Intrahospital Infections Laboratory, National Centre for Microbiology,
+Instituto de Salud Carlos III (ISCIII), Majadahonda, Spain.
+
+The molecular basis of the pathogenesis of the opportunistic invasive infections 
+caused by isolates of the Gemella genus remains largely unknown. Moreover,
+inconsistencies in the current species assignation were detected after
+genome-level comparison of 16 public Gemella isolates. A literature search
+detected that, between the two most pathogenic species, Gemella morbillorum
+causes about twice the number of cases compared to Gemella haemolysans. These two
+species shared their mean diseases - sepsis and endocarditis - but differed in
+causing other syndromes. A number of well-known virulence factors were harbored
+by all species, such as a manganese transport/adhesin sharing 83% identity from
+oral endocarditis-causing streptococci. Likewise, all Gemellae carried the genes 
+required for incorporating phosphorylcholine into their cell walls and encoded
+some choline-binding proteins. In contrast, other proteins were species-specific,
+which may justify the known epidemiological differences. G. haemolysans, but not 
+G. morbillorum, harbor a gene cluster potentially encoding a polysaccharidic
+capsule. Species-specific surface determinants also included Rib and MucBP
+repeats, hemoglobin-binding NEAT domains, peptidases of C5a complement factor and
+domains that recognize extracellular matrix molecules exposed in damaged heart
+valves, such as collagen and fibronectin. Surface virulence determinants were
+associated with several taxonomically dispersed opportunistic genera of the oral 
+microbiota, such as Granulicatella, Parvimonas, and Streptococcus, suggesting the
+existence of a horizontally transferrable gene reservoir in the oral environment,
+likely facilitated by close proximity in biofilms and ultimately linked to
+endocarditis. The identification of the Gemella virulence pool should be
+implemented in whole genome-based protocols to rationally predict the pathogenic 
+potential in ongoing clinical infections caused by these poorly known bacterial
+pathogens.
+
+Copyright © 2020 García López and Martín-Galiano.
+
+DOI: 10.3389/fmicb.2020.00524 
+PMCID: PMC7136413
+PMID: 32296407 
+

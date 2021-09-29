@@ -1,0 +1,45 @@
+
+1. Int J Microbiol. 2020 Jul 30;2020:6906921. doi: 10.1155/2020/6906921. eCollection
+2020.
+
+Bacterial Composition, Community Structure, and Diversity in Apis nigrocincta
+Gut.
+
+Lombogia CA(1)(2), Tulung M(1), Posangi J(1)(3), Tallei TE(4).
+
+Author information: 
+(1)Entomology Study Program, Postgraduate Program, Sam Ratulangi University,
+Manado, North Sulawesi, Indonesia.
+(2)Nursing Study Program, Faculty of Nursing, De La Salle Catholic University,
+Manado, North Sulawesi, Indonesia.
+(3)Public Health Study Program, Faculty of Public Health, Sam Ratulangi
+University, Manado, North Sulawesi, Indonesia.
+(4)Department of Biology, Faculty of Mathematics and Natural Sciences, Sam
+Ratulangi University, Manado, North Sulawesi, Indonesia.
+
+Understanding the honeybee gut bacteria is an essential aspect as honeybees are
+the primary pollinators of many crops. In this study, the honeybee-associated gut
+bacteria were investigated by targeting the V3-V4 region of 16S rRNA genes using 
+the Illumina MiSeq. The adult worker was captured in an urban area in a dense
+settlement. In total, 83,018 reads were obtained, revealing six phyla from 749
+bacterial operational taxonomic units (OTUs). The gut was dominated by
+Proteobacteria (58% of the total reads, including Enterobacteriaceae 28.2%,
+Erwinia 6.43%, and Klebsiella 4.90%), Firmicutes (29% of the total reads,
+including Lactococcus garvieae 13.45%, Lactobacillus spp. 8.19%, and Enterococcus
+spp. 4.47%), and Actinobacteria (8% of the total reads, including Bifidobacterium
+spp. 7.96%). Many of these bacteria belong to the group of lactic acid bacteria
+(LAB), which was claimed to be composed of beneficial bacteria involved in
+maintaining a healthy host. The honeybee was identified as Apis nigrocincta based
+on an identity BLAST search of its COI region. This study is the first report on 
+the gut microbial community structure and composition of A. nigrocincta from
+Indonesia.
+
+Copyright © 2020 Christian Apolinaris Lombogia et al.
+
+DOI: 10.1155/2020/6906921 
+PMCID: PMC7414324
+PMID: 32802072 
+
+Conflict of interest statement: The authors declare that they have no conflicts
+of interest.
+

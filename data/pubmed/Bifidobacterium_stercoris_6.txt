@@ -1,0 +1,52 @@
+
+1. Front Microbiol. 2020 Jul 22;11:1642. doi: 10.3389/fmicb.2020.01642. eCollection 
+2020.
+
+The Butyrogenic and Lactic Bacteria of the Gut Microbiota Determine the Outcome
+of Allogenic Hematopoietic Cell Transplant.
+
+Devaux CA(1)(2), Million M(1), Raoult D(1).
+
+Author information: 
+(1)Aix-Marseille Univ, IRD, APHM, MEPHI, IHU-Méditerranée Infection, Marseille,
+France.
+(2)Centre National de la Recherche Scientifique (CNRS), Marseille, France.
+
+Graft versus host disease (GVHD) is a post-transplant pathology in which
+donor-derived T cells present in the Peyer's patches target the cell-surface
+alloantigens of the recipient, causing host tissue damages. Therefore, the GVHD
+has long been considered only a purely immunological process whose prevention
+requires an immunosuppressive treatment. However, since the early 2010s, the
+impact of gut microbiota on GVHD has received increased attention. Both a
+surprising fall in gut microbiota diversity and a shift toward Enterobacteriaceae
+were described in this disease. Recently, unexpected results were reported that
+further link GVHD with changes in bacterial composition in the gut and disruption
+of intestinal epithelial tight junctions leading to abnormal intestinal barrier
+permeability. Patients receiving allogenic hematopoietic stem cell transplant
+(allo-HCT) as treatment of hematologic malignancies showed a decrease of the
+overall diversity of the gut microbiota that affects Clostridia and Blautia spp. 
+and a predominance of lactic acid bacteria (LAB) of the Enterococcus genus, in
+particular the lactose auxotroph Enterococcus faecium. The reduced microbiota
+diversity (likely including Actinobacteria, such as Bifidobacterium adolescentis 
+that cross feed butyrogenic bacteria) deprives the butyrogenic bacteria (such as 
+Roseburia intestinalis or Eubacterium) of their capacity to metabolize acetate to
+butyrate. Indeed, administration of butyrate protects against the GVHD. Here, we 
+review the data highlighting the possible link between GVHD and lactase defect,
+accumulation of lactose in the gut lumen, reduction of Reg3 antimicrobial
+peptides, narrower enzyme equipment of bacteria that predominate post-transplant,
+proliferation of En. faecium that use lactose as metabolic fuels, induction of
+innate and adaptive immune response against these bacteria which maintains an
+inflammatory process, elevated expression of myosin light chain kinase 210
+(MLCK210) and subsequent disruption of intestinal barrier, and translocation of
+microbial products (lactate) or transmigration of LAB within the liver. The
+analysis of data from the literature confirms that the gut microbiota plays a
+major role in the GVHD. Moreover, the most recent publications uncover that the
+LAB, butyrogenic bacteria and bacterial cross feeding were the missing pieces in 
+the puzzle. This opens new bacteria-based strategies in the treatment of GVHD.
+
+Copyright © 2020 Devaux, Million and Raoult.
+
+DOI: 10.3389/fmicb.2020.01642 
+PMCID: PMC7387665
+PMID: 32793150 
+

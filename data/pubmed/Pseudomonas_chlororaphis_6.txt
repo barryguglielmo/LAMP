@@ -1,0 +1,39 @@
+
+1. Front Microbiol. 2020 Jul 8;11:1560. doi: 10.3389/fmicb.2020.01560. eCollection
+2020.
+
+Aer Receptors Influence the Pseudomonas chlororaphis PCL1606 Lifestyle.
+
+Arrebola E(1)(2), Cazorla FM(1)(2).
+
+Author information: 
+(1)Departamento de Microbiología, Faculta de Ciencias, Universidad de Málaga,
+Málaga, Spain.
+(2)Instituto de Hortofruticultura Subtropical y Mediterránea "La Mayora" IHSM,
+UMA-CSIC, Málaga, Spain.
+
+Pseudomonas chlororaphis PCL1606 (PcPCL1606) is a rhizobacterium isolated from
+avocado roots, which is a favorable niche for its development. This strain
+extensively interacts with plant roots and surrounding microbes and is considered
+a biocontrol rhizobacterium. Genome sequencing has shown the presence of
+thirty-one potential methyl-accepting chemotaxis proteins (MCPs). Among these
+MCPs, two candidates are putative functional aerotaxis receptors, encoded at
+locus PCL1606_41090 (aer1-1) and locus PLC1606_20530 (aer1-2), that are
+homologous to the Aer receptor of Pseudomonas aeruginosa strain PaO1. Single- and
+double-deletion mutants in one or both genes have led to motility deficiencies in
+oxygen-rich areas, particularly reduced swimming motility compared with that of
+wildtype PcPCL1606. No differences in swarming tests were detected, and less
+adhesion by the aer double mutant was observed. However, the single and double
+mutants on avocado plant roots showed delayed biocontrol ability. During the
+first days of the biocontrol experiment, the aer-defective mutants also showed
+delayed root colonization. The current research characterizes the presence of aer
+transductors on P. chlororaphis. Thus, the functions of the PCL1606_41090 and
+PCL1606_20530 loci, corresponding to genes aer1-1 and aer1-2, respectively, are
+elucidated.
+
+Copyright © 2020 Arrebola and Cazorla.
+
+DOI: 10.3389/fmicb.2020.01560 
+PMCID: PMC7367214
+PMID: 32754135 
+

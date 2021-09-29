@@ -1,0 +1,54 @@
+
+1. Front Microbiol. 2019 Dec 6;10:2774. doi: 10.3389/fmicb.2019.02774. eCollection
+2019.
+
+Comparative Genomic Analysis of Citrobacter and Key Genes Essential for the
+Pathogenicity of Citrobacter koseri.
+
+Yuan C(1)(2)(3)(4)(5), Yin Z(1)(2)(3)(4)(5), Wang J(1)(2)(3)(4)(5), Qian
+C(1)(2)(3)(4), Wei Y(1)(2)(3)(4), Zhang S(1)(2)(3)(4), Jiang L(1)(2)(3)(4), Liu
+B(1)(2)(3)(4).
+
+Author information: 
+(1)Key Laboratory of Molecular Microbiology and Technology, Ministry of
+Education, TEDA College, Nankai University, Tianjin, China.
+(2)TEDA Institute of Biological Sciences and Biotechnology, Nankai University,
+Tianjin, China.
+(3)Tianjin Research Center for Functional Genomics and Biochips, TEDA College,
+Nankai University, Tianjin, China.
+(4)Tianjin Key Laboratory of Microbial Functional Genomics, TEDA College, Nankai 
+University, Tianjin, China.
+(5)College of Life Sciences, Nankai University, Tianjin, China.
+
+Citrobacter species are opportunistic bacterial pathogens that have been
+implicated in both nosocomial and community-acquired infections. Among the genus 
+Citrobacter, Citrobacter koseri is often isolated from clinical material, and has
+been known to cause meningitis and brain abscess in neonates and
+immunocompromised individuals. The virulence determinants of Citrobacter,
+however, remain largely unknown. Based on traditional methods, the genus
+Citrobacter has been divided into 11 species, but this has been problematic.
+Here, we determined an improved, detailed, and more accurate phylogeny of the
+genus Citrobacter based on whole genome sequence (WGS) data from 129 Citrobacter 
+genomes, 31 of which were sequenced in this study. A maximum likelihood (ML)
+phylogeny constructed with core genome single-nucleotide polymorphisms (SNPs)
+classified all Citrobacter isolates into 11 distinct groups, with all C. koseri
+strains clustering into a single group. For comprehensive and systematic
+comparative genomic analyses, we investigated the distribution of virulence
+factors, resistance genes, and macromolecular secretion systems among the
+Citrobacter genus. Moreover, combined with group-specific genes analysis, we
+identified a key gene cluster for iron transport, which is present in the C.
+koseri group, but absent in other the groups, suggesting that the
+high-pathogenicity island (HPI) cluster may be important for the pathogenicity of
+C. koseri. Animal experiments showed that loss of the HPI cluster significantly
+decreased C. koseri virulence in mice and rat. Further, we provide evidence to
+explain why Citrobacter freundii is less susceptible than C. koseri to several
+antibiotics in silico. Overall, our data reveal novel virulence clusters specific
+to the predominantly pathogenic C. koseri strains, which form the basis for
+elucidating the virulence mechanisms underlying these important pathogens.
+
+Copyright © 2019 Yuan, Yin, Wang, Qian, Wei, Zhang, Jiang and Liu.
+
+DOI: 10.3389/fmicb.2019.02774 
+PMCID: PMC6908497
+PMID: 31866966 
+

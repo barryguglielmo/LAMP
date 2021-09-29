@@ -1,0 +1,56 @@
+
+1. Infect Drug Resist. 2020 May 25;13:1527-1536. doi: 10.2147/IDR.S245553.
+eCollection 2020.
+
+Co-Occurrence of the bla KPC-2 and Mcr-3.3 Gene in Aeromonas caviae SCAc2001
+Isolated from Patients with Diarrheal Disease.
+
+Tang L(#)(1)(2), Huang J(#)(3), She J(1), Zhao K(4), Zhou Y(1).
+
+Author information: 
+(1)Department of Pathogenic Biology, School of Basic Medicine, Southwest Medical 
+University, Luzhou 646000, Sichuan, People's Republic of China.
+(2)Department of Clinical Laboratory, People's Hospital of Gao County, Yibing
+644000, Sichuan, People's Republic of China.
+(3)Department of Clinical Laboratory, The Second Affiliated Hospital of Xiamen
+Medical College, Xiaman 361600, People's Republic of China.
+(4)Antibiotics Research and Re-Evaluation Key Laboratory of Sichuan Province,
+Sichuan Industrial Institute of Antibiotics, Chengdu University, Chengdu 610052, 
+Sichuan, People's Republic of China.
+(#)Contributed equally
+
+Purpose: To characterize the genetic feature of a multi-drug-resistant Aeromonas 
+caviae strain isolated from the diarrhea sample of a 45-year-old male patient
+with acute diarrhea.
+Materials and Methods: Whole-genome of the A. caviae strain SCAc2001 was
+sequenced via the Illumina system, followed by a series of bioinformatic analyses
+to describe the genetic feature.
+Results: The ﻿genome sequence of A. caviae SCAc2001 was assembled into 340
+scaffolds (305 of them were > 1000 bp in length and 4,487,370 bp in total) with
+an average G+C content of 61.09%. Phylogenetic analysis showed that the A. caviae
+SCAc2001 strain was highly similar to the A. caviae strain R25-2 and T25-39.
+Resistome analysis identified that A. caviae SCAc2001 carried 13 antimicrobial
+resistance genes, including β-lactams (bla KPC, bla CTX-M-14, bla TEM-1, bla
+OXA-10, bla OXA-427, bla VEB-3 and bla MOX-6), aminoglycosides (aadA1),
+fluoroquinolones (aac(6')-Ib-cr), phenicol resistance (catB3), sulfonamide
+(sul1), trimethoprim (dfrA5) and colistin resistance (mcr-3.3).And also, A.
+caviae ScAc2001 carried 54 putative virulence genes including the type IV pilus, 
+fimbria, flagellarthe, and hemolysin A encoding genes, and 12 ﻿pathogen-﻿host
+﻿interactions (PHI) genes. There were also ﻿four genomic islands and ﻿eight
+prophages in the genome of A. caviae ScAc2001. ﻿In addition, A. caviae SCAc2001
+also carried ﻿three secondary metabolism products coding clusters including
+nonribosomal peptide synthetases (nrps), hserlactone and bacteriocin.
+Conclusion: A. caviae ScAc2001 carrie﻿s many resistance genes, a variety of
+virulence factors, PHI genes and ﻿four genomic islands and ﻿eight prophages,
+which poses a severe threat to infectious diseases control strategies, diagnosis 
+methods and clinical treatment.
+
+© 2020 Tang et al.
+
+DOI: 10.2147/IDR.S245553 
+PMCID: PMC7259443
+PMID: 32547122 
+
+Conflict of interest statement: The authors report no conflicts of interest in
+this work.
+

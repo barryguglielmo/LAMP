@@ -1,0 +1,47 @@
+
+1. Oncol Lett. 2020 Oct;20(4):106. doi: 10.3892/ol.2020.11967. Epub 2020 Aug 10.
+
+Alteration of the abundance of Parvimonas micra in the gut along the
+adenoma-carcinoma sequence.
+
+Xu J(1), Yang M(2), Wang D(2), Zhang S(2), Yan S(1), Zhu Y(3), Chen W(1).
+
+Author information: 
+(1)Department of Gastroenterology, The First Affiliated Hospital of Soochow
+University, Suzhou, Jiangsu 215006, P.R. China.
+(2)Suzhou Precision Gene Biotechnology Co., Ltd., Suzhou, Jiangsu 215000, P.R.
+China.
+(3)Precision Gene, Inc., Fremont, CA 95134, USA.
+
+Parvimonas micra (P. micra) is reported to be associated with colorectal cancer
+(CRC). However, its association with colorectal adenoma (CRA) and its role in the
+initiation of colorectal tumors remain unknown. The present study aimed to
+clarify the relationship between P. micra and CRA and CRC by exploring the
+changes of P. micra abundance in an adenoma-carcinoma sequence in a new cohort
+and 4 public sequencing datasets. To investigate the alterations of P. micra
+abundance in the gut along the adenoma-carcinoma sequence, quantitative PCR
+(qPCR) was conducted to measure the relative abundance of P. micra in fecal
+samples from 277 subjects (128 patients with CRA, 66 patients with CRC and 83
+healthy individuals, as controls) who underwent colonoscopy as outpatients. Then,
+the relative abundance of P. micra was analyzed in fecal samples from 596
+subjects (185 healthy controls, 158 CRC, 253 CRA) in four public 16S rRNA
+sequencing datasets. The qPCR results demonstrated that the CRA group had an
+abundance of P. micra (P=0.2) similar to that of the healthy control group, while
+the CRC group had a significantly increased abundance (P=8.2×10-11). The level of
+P. micra effectively discriminated patients with CRC from healthy controls, while
+it poorly discriminated patients with CRA from healthy controls; with an area
+under the receiver operating characteristic curve of 0.867 for patients with CRC 
+and 0.554 for patients with CRA. The same pattern of the alteration of P. micra
+abundance, which was low in healthy controls and patients with CRA but elevated
+in patients with CRC, was found in all four public sequencing datasets. These
+results suggested that P. micra was closely associated with, and may serve as a
+diagnostic marker for, CRC but not CRA. Moreover, it was indicated that P. micra 
+may be an opportunistic pathogen of CRC, which may promote CRC development but
+serve a limited role in tumorigenesis.
+
+Copyright: © Xu et al.
+
+DOI: 10.3892/ol.2020.11967 
+PMCID: PMC7439112
+PMID: 32831925 
+

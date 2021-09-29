@@ -1,0 +1,29 @@
+
+1. Nano Lett. 2020 Sep 11. doi: 10.1021/acs.nanolett.0c03189. [Epub ahead of print]
+
+Plasmonic and electrostatic interactions enable uniformly-enhanced liquid
+bacterial surface-enhanced Raman scattering (SERS).
+
+Tadesse LF, Ho CS, Chen DH, Arami H, Banaei N, Gambhir SS, Jeffrey SS, Saleh AAE,
+Dionne JA.
+
+Surface-enhanced Raman spectroscopy (SERS) is a promising cellular identification
+and drug susceptibility testing platform, provided it can be performed in a
+controlled liquid environment that maintains cell viability. We investigate
+bacterial liquid-SERS, studying plasmonic and electrostatic interactions between 
+gold nanorods and bacteria that enable uniformly-enhanced SERS. We synthesize
+five nanorod sizes with longitudinal plasmon resonances ranging from 670-860 nm
+and characterize SERS signatures of Gram-negative Escherichia coli and Serratia
+marcescens, and Gram-positive Staphylococcus aureus and Staphylococcus
+epidermidis bacteria in water. Varying the concentration of bacteria and
+nanorods, we achieve large-area SERS enhancement that is independent of nanorod
+resonance and bacteria type; however, bacteria with higher surface charge density
+exhibit significantly higher SERS signal. Using cryo-electron microscopy and zeta
+potential measurements, we show that higher signal results from attraction
+between positively-charged nanorods and negatively-charged bacteria. Our robust
+liquid-SERS measurements provide a foundation for bacterial identification and
+drug testing in biological fluids.
+
+DOI: 10.1021/acs.nanolett.0c03189 
+PMID: 32914987 
+

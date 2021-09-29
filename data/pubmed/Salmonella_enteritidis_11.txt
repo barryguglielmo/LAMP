@@ -1,0 +1,48 @@
+
+1. Food Microbiol. 2020 Dec;92:103586. doi: 10.1016/j.fm.2020.103586. Epub 2020 Jul 
+2.
+
+Development of a broad-spectrum Salmonella phage cocktail containing Viunalike
+and Jerseylike viruses isolated from Thailand.
+
+Phothaworn P(1), Supokaivanich R(1), Lim J(2), Klumpp J(3), Imam M(4), Kutter
+E(5), Galyov EE(4), Dunne M(6), Korbsrisate S(7).
+
+Author information: 
+(1)Department of Immunology, Faculty of Medicine Siriraj Hospital, Mahidol
+University, Bangkok, 10700, Thailand.
+(2)DSO National Laboratories, Singapore, 117510, Singapore.
+(3)Institute of Food, Nutrition and Health, ETH Zurich, Zurich, 8092,
+Switzerland.
+(4)Department of Genetics and Genome Biology, College of Life Sciences,
+University of Leicester, Leicester, LE1 7HN, United Kingdom.
+(5)Bacteriophage Lab, the Evergreen State College, Olympia, WA, USA.
+(6)Institute of Food, Nutrition and Health, ETH Zurich, Zurich, 8092,
+Switzerland. Electronic address: matthew.dunne@hest.ethz.
+(7)Department of Immunology, Faculty of Medicine Siriraj Hospital, Mahidol
+University, Bangkok, 10700, Thailand. Electronic address: sunee.kor@mahidol.edu.
+
+Salmonella is one of the most common agents of foodborne disease worldwide. As
+natural alternatives to traditional antimicrobial agents, bacteriophages (phages)
+are emerging as highly effective biocontrol agents against Salmonella and other
+foodborne bacteria. Due to the high diversity within the Salmonella genus and
+emergence of drug resistant strains, improved efforts are necessary to find broad
+range and strictly lytic Salmonella phages for use in food biocontrol. Here, we
+describe the isolation and characterization of two Salmonella phages: ST-W77
+isolated on S. Typhimurium and SE-W109 isolated on S. Enteritidis with
+extraordinary Salmonella specificity. Whole genome sequencing identified ST-W77
+as a Myovirus within the Viunalikevirus genus and SE-W109 as a Siphovirus within 
+the Jerseylikevirus genus. Infectivity studies using a panel of S. Typhimurium
+cell wall mutants revealed both phages require the lipopolysaccharide O-antigen, 
+with SE-W109 also recognizing the flagella, during infection of Salmonella. A
+combination of both phages was capable of prolonged (one-week) antibacterial
+activity when added to milk or chicken meat contaminated with Salmonella. Due to 
+their broad host ranges, strictly lytic lifestyles and lack of lysogeny-related
+genes or virulence genes in their genomes, ST-W77 and SE-W109 are ideal phages
+for further development as Salmonella biocontrol agents for food production.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.fm.2020.103586 
+PMID: 32950171 
+

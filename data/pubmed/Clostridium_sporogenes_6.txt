@@ -1,0 +1,38 @@
+
+1. Curr Res Food Sci. 2020 Mar 25;3:82-91. doi: 10.1016/j.crfs.2020.03.005.
+eCollection 2020 Nov.
+
+Comparison of pulsed light inactivation kinetics and modeling of Escherichia coli
+(ATCC-29055), Clostridium sporogenes (ATCC-7955) and Geobacillus
+stearothermophilus (ATCC-10149).
+
+John D(1), Ramaswamy HS(1).
+
+Author information: 
+(1)Department of Food Science and Agricultural Chemistry, McGill University
+21,111 Lakeshore, Ste. Anne-de-Bellevue, QC H9X 3V9, Canada.
+
+Pulsed light (PL) inactivation kinetics of Escherichia coli K-12, Clostridium
+sporogenes and Geobacillus stearothermophilus were evaluated under different
+treatment conditions. The PL system was factory set to operate at three pulses
+per second with a pulse width of 360 μs exposing samples placed on one of the 9
+trays on a rack. Two PL parameters were evaluated in the study: number of pulses 
+(a time factor) and the tray position (a spatial distance factor) both
+influencing the amount of light energy absorbed. As expected, the level of
+microbial inactivation increased with an increase in the number of pulses (from 1
+to 15) and decreased with an increase in the Spatial distance (Tray # 1 to 9)
+away from the light source. Both the number of pulses and spatial distance as
+well as their interactions were found to have a significant effect (P < 0.05) on 
+the extent of microbial inactivation. Vegetative cells of E. coli were most
+sensitive to PL treatment with a maximum 5 logarithmic reductions on Tray 1 after
+a 12-pulse treatment (4 s). G. stearothermophilus was more resistant to PL than
+C. sporogenes. Overall, the PL treatments (12-15 pulses) achieved a minimum four 
+logarithmic reductions in the populations of all three microorganisms on the top 
+tray at doses still below 12 J/cm2, the FDA-approved limit.
+
+© 2020 The Authors.
+
+DOI: 10.1016/j.crfs.2020.03.005 
+PMCID: PMC7473348
+PMID: 32914124 
+

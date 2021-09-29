@@ -1,0 +1,44 @@
+
+1. J Food Sci Technol. 2019 Dec;56(12):5326-5335. doi: 10.1007/s13197-019-04003-1.
+Epub 2019 Aug 8.
+
+Finding a common core microbiota in two Brazilian dairies through culture and DNA
+metabarcoding studies.
+
+Frazilio DA(1), de Almeida OGG(1), Niño-Arias FC(1), De Martinis ECP(1).
+
+Author information: 
+(1)Faculdade de Ciências Farmacêuticas de Ribeirão Preto, Universidade de São
+Paulo, Avenida do Café s/n, Monte Alegre, Ribeirão Prêto, São Paulo 14040-903
+Brazil.
+
+Dairy foods are complex ecosystems composed of microorganisms from different
+origins that can affect flavor and safety of final products. The objective of
+this paper is to assess the in-house microbiota of two Brazilian dairies and to
+discuss the possible implications of the taxa determined for food protection. In 
+total, 27 samples from dairies were cultured in selective (Baird Parker, de Man, 
+Rogosa and Sharpe) and non-selective (Brain Heart Infusion) media, and the
+isolates were identified by Sanger sequencing. Moreover, metagenomic DNA was
+directly extracted from samples and the structure of the bacterial community was 
+determined by massive DNA sequencing followed by bioinformatics analyses. The
+results showed the majority of isolates belonged to the group of lactic acid
+bacteria, but Enterobacteriaceae, Staphylococcacceae, Bacillaceae,
+Pseudomonadaceae and Moraxellaceae were also detected. From the reads obtained in
+metataxonomics analyses, a heatmap was constructed and the top 20 OTUs
+(operational taxonomic units) were determined. Besides, 12 most prevalent
+bacterial taxa were assigned to the core microbiota of the dairies evaluated,
+which included Thiomonas thermosulfata, Alkalibacillus salilacus, Pseudomonas
+clemancea, Erythrobacter aquimans, Tetragenococcus doogicus, Macrococcus
+brunensis, Pseudomonas ludensis, Streptococcus dentinousetti, Serratia
+entomophila, Vagococcus teuberi, Lactococcus fujiensis and Tolumonas auensis. In 
+conclusion, the results reveal the presence of bacteria that may be related to
+spoilage and also foodborne diseases, in microbial niches that also present rare 
+taxa, highlighting the importance to consider culture-independent results to
+evaluate and improve food safety.
+
+© Association of Food Scientists & Technologists (India) 2019.
+
+DOI: 10.1007/s13197-019-04003-1 
+PMCID: PMC6838242 [Available on 2020-12-01]
+PMID: 31749480 
+

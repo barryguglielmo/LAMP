@@ -1,0 +1,55 @@
+
+1. J Med Microbiol. 2020 Jun;69(6):797-805. doi: 10.1099/jmm.0.001107. Epub 2019 Nov
+28.
+
+Metagenome-wide association study of the alterations in the intestinal microbiome
+composition of ankylosing spondylitis patients and the effect of traditional and 
+herbal treatment.
+
+Huang R(1), Li F(1), Zhou Y(2)(1), Zeng Z(1), He X(1), Fang L(1), Pan F(1), Chen 
+Y(1), Lin J(3), Li J(1), Qiu D(4), Tian Y(1), Tan X(1), Song Y(1), Xu Y(1), Lai
+Y(1), Yi H(1), Gao Q(1), Fang X(1), Shi M(1), Zhou C(1), Huang J(1), He YT(1).
+
+Author information: 
+(1)The Second Affiliated Hospital, Guangzhou University of Chinese Medicine
+(Guangdong Provincial Hospital of Chinese Medicine), Guangzhou 510120 or 510006, 
+PR China.
+(2)Postdoctoral Mobile Research Station, Guangzhou 510006, PR China.
+(3)Nephropathy Center, The Affiliated Jiangmen TCM Hospital, Jinan University,
+Jiangmen 529000, PR China.
+(4)Department of Traditional Chinese Medicine, Guangdong Armed Police Corps
+Hospital, Guangzhou 510507, PR China.
+
+Introduction. Ankylosing spondylitis (AS) is a systemic progressive disease with 
+an unknown etiology that may be related to the gut microbiome. Therefore, a more 
+thorough understanding of its pathogenesis is necessary for directing future
+therapy.Aim. We aimed to determine the differences in intestinal microbial
+composition between healthy individuals and patients with AS who received and who
+did not receive treatment interventions. In parallel, the pathology of AS in each
+patient was analysed to better understand the link between AS treatment and the
+intestinal microbiota of the patients.Methodology. Sixty-six faecal DNA samples, 
+including 37 from healthy controls (HCs), 11 from patients with untreated AS
+(NM), 7 from patients treated with nonsteroidal anti-inflammatory drugs (e.g.
+celecoxib; WM) and 11 from patients treated with Chinese herbal medicine (CHM),
+such as the Bushen-Qiangdu-Zhilv decoction, were collected and used in the drug
+effect analysis. All samples were sequenced using Illumina HiSeq 4000 and the
+microbial composition was determined.Results. Four species were enriched in the
+patients with AS: Flavonifractor plautii, Oscillibacter, Parabacteroides
+distasonis and Bacteroides nordii (HC vs. NM, P<0.05); only F. plautii was found 
+to be significantly changed in the NM-HC comparison. No additional species were
+found in the HC vs. CHM analysis, which indicated a beneficial effect of CHM in
+removing the other three strains. F. plautii was found to be significantly
+increased in the comparison between the HC and WM groups, along with four other
+species (Clostridium bolteae, Clostridiales bacterium 1_7_47FAA, C. asparagiforme
+and C. hathewayi). The patients with AS harboured more bacterial species
+associated with carbohydrate metabolism and glycan biosynthesis in their faeces. 
+They also had bacterial profiles less able to biodegrade xenobiotics or
+synthesize and transport vitamins.Conclusion. The gut microbiota of the patients 
+with AS varied from that of the HCs, and the treatment had an impact on this
+divergence. Our data provide insight that could guide improvements in AS
+treatment.
+
+DOI: 10.1099/jmm.0.001107 
+PMCID: PMC7451032
+PMID: 31778109  [Indexed for MEDLINE]
+

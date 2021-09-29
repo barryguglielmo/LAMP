@@ -1,0 +1,41 @@
+
+1. Metabolites. 2020 May 20;10(5). pii: E210. doi: 10.3390/metabo10050210.
+
+Metabolic Profiling of PGPR-Treated Tomato Plants Reveal Priming-Related
+Adaptations of Secondary Metabolites and Aromatic Amino Acids.
+
+Mhlongo MI(1), Piater LA(1), Steenkamp PA(1), Labuschagne N(2), Dubery IA(1).
+
+Author information: 
+(1)Department of Biochemistry, University of Johannesburg, Auckland Park,
+Johannesburg 2006, South Africa.
+(2)Department of Plant and Soil Sciences, University of Pretoria, Hatfield,
+Pretoria 0028, South Africa.
+
+Plant growth-promoting rhizobacteria (PGPR) are beneficial microbes in the
+rhizosphere that can directly or indirectly stimulate plant growth. In addition, 
+some can prime plants for enhanced defense against a broad range of pathogens and
+insect herbivores. In this study, four PGPR strains (Pseudomonas fluorescens N04,
+P. koreensis N19, Paenibacillus alvei T19, and Lysinibacillus sphaericus T22)
+were used to induce priming in Solanum lycopersicum (cv. Moneymaker) plants.
+Plants were inoculated with each of the four PGPRs, and plant tissues (roots,
+stems, and leaves) were harvested at 24 h and 48 h post-inoculation.
+Methanol-extracted metabolites were analyzed by ultra-high performance liquid
+chromatography mass spectrometry (UHPLC-MS). Chemometric methods were applied to 
+mine the data and characterize the differential metabolic profiles induced by the
+PGPR. The results revealed that all four strains induced defense-related
+metabolic reprogramming in the plants, characterized by dynamic changes to the
+metabolomes involving hydroxycinnamates, benzoates, flavonoids, and
+glycoalkaloids. In addition, targeted analysis of aromatic amino acids indicated 
+differential quantitative increases or decreases over a two-day period in
+response to the four PGPR strains. The metabolic alterations point to an altered 
+or preconditioned state that renders the plants primed for enhanced defense
+responses. The results contribute to ongoing efforts in investigating and
+unraveling the biochemical processes that define the PGPR priming phenomenon.
+
+DOI: 10.3390/metabo10050210 
+PMCID: PMC7281251
+PMID: 32443694 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

@@ -1,0 +1,46 @@
+
+1. Microbiologyopen. 2020 Aug;9(8):e1059. doi: 10.1002/mbo3.1059. Epub 2020 Jun 2.
+
+Identification and functional characterization of NAD(P)+ -dependent
+meso-diaminopimelate dehydrogenase from Numidum massiliense.
+
+Akita H(1), Nakamichi Y(1), Morita T(2), Matsushika A(1)(3).
+
+Author information: 
+(1)Research Institute for Sustainable Chemistry, National Institute of Advanced
+Industrial Science and Technology (AIST), Hiroshima, Japan.
+(2)Research Institute for Sustainable Chemistry, National Institute of Advanced
+Industrial Science and Technology (AIST), Tsukuba, Ibaraki, Japan.
+(3)Graduate School of Integrated Sciences for Life, Hiroshima University,
+Hiroshima, Japan.
+
+meso-Diaminopimelate dehydrogenase (meso-DAPDH) catalyzes the reversible NADP+
+-dependent oxidative deamination of meso-2,6-diaminopimelate (meso-DAP) to
+produce l-2-amino-6-oxopimelate. Moreover, d-amino acid dehydrogenase (d-AADHs)
+derived from protein-engineered meso-DAPDH is useful for one-step synthesis of
+d-amino acids with high optical purity. Here, we report the identification and
+functional characterization of a novel NAD(P)+ -dependent meso-DAPDH from Numidum
+massiliense (NmDAPDH). After the gene encoding the putative NmDAPDH was expressed
+in recombinant Escherichia coli cells, the enzyme was purified 4.0-fold to
+homogeneity from the crude extract through five purification steps. Although the 
+previously known meso-DAPDHs use only NADP+ as a coenzyme, NmDAPDH was able to
+use both NADP+ and NAD+ as coenzymes. When NADP+ was used as a coenzyme, NmDAPDH 
+exhibited an approximately 2 times higher kcat /Km value toward meso-DAP than
+that of meso-DAPDH from Symbiobacterium thermophilum (StDAPDH). NmDAPDH also
+catalyzed the reductive amination of corresponding 2-oxo acids to produce acidic 
+d-amino acids such as d-aspartate and d-glutamate. The optimum pH and temperature
+for the oxidative deamination of meso-DAP were about 10.5 and 75°C, respectively.
+Like StDAPDH, NmDAPDH exhibited high stability: it retained more than 75% of its 
+activity after 30 min at 60°C (pH 7.2) or at pHs ranging from 5.5 to 13.0 (50°C).
+Alignment of the amino acid sequences of NmDAPDH and the known meso-DAPDHs
+suggested NmDAPDH has a hexameric structure. Given its specificity for both NADP+
+and NAD+ , high stability, and a broad range of reductive amination activity
+toward 2-oxo acids, NmDAPDH appears to offer advantages for engineering a more
+effective d-AADH.
+
+© 2020 The Authors. MicrobiologyOpen published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/mbo3.1059 
+PMCID: PMC7424261
+PMID: 32485072 
+

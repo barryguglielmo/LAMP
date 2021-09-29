@@ -1,0 +1,40 @@
+
+1. Protein Expr Purif. 2020 Nov;175:105721. doi: 10.1016/j.pep.2020.105721. Epub
+2020 Aug 5.
+
+Co-expression of Pseudomonas alcaligenes lipase and its specific foldase in
+Pichia pastoris by a dual expression cassette strategy.
+
+Zhang Z(1), Zhang X(2), Hao H(3), Gong X(3), Gu X(4).
+
+Author information: 
+(1)State Key Laboratory of Microbial Metabolism, School of Life Sciences and
+Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, China; China
+Research Center, DuPont Industrial Bioscience, Shanghai, 200335, PR China.
+(2)State Key Laboratory of Microbial Metabolism, School of Life Sciences and
+Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, China.
+(3)China Research Center, DuPont Industrial Bioscience, Shanghai, 200335, PR
+China.
+(4)China Research Center, DuPont Industrial Bioscience, Shanghai, 200335, PR
+China. Electronic address: Xiaogang.Gu@dupont.com.
+
+Lipomax is a commercialized foldase-dependent Pseudomonas lipase that was
+previously expressed only in Pseudomonas strains. Here, using Pichia pastoris as 
+the host, we report a new co-expression method that leads to the successful
+production of Lipomax. The active Lipomax is extracellularly co-expressed with
+its cognate foldase (LIM); and the purified enzyme mix has the optimum pH at pH
+8.0 and an optimal temperature around 40 °C. N-glycosylation was observed for
+Pichia produced Lipomax, and its reduction was shown to increase the lipolytic
+activity. With different p-nitrophenyl esters as the substrates, the substrate
+profiling analyses further indicate that Lipomax prefers esters with middle-long 
+chain fatty acids, showing the highest specific activity to p-nitrophenyl
+caprylate (C8). The extracellular co-expression of Lipomax and LIM in Pichia will
+not only increase our ability to investigate additional eukaryotic hosts for
+lipase expression, but also be of considerable value in analyzing other
+foldase-dependent lipases.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pep.2020.105721 
+PMID: 32763465 
+

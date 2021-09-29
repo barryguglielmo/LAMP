@@ -1,0 +1,38 @@
+
+1. Cell Microbiol. 2020 Sep 17:e13264. doi: 10.1111/cmi.13264. [Epub ahead of print]
+
+Distinctive probiotic features share common TLR2-dependent signalling in
+intestinal epithelial cells.
+
+Paveljšek D(1), Ivičak-Kocjan K(2), Treven P(1), Benčina M(2), Jerala R(2),
+Rogelj I(1).
+
+Author information: 
+(1)Biotechnical Faculty, Department of Animal Science, University of Ljubljana,
+Domžale, Slovenia.
+(2)Department of Synthetic Biology and Immunology, National Institute of
+Chemistry, Ljubljana, Slovenia.
+
+The underlying mechanisms of probiotics and postbiotics are not well understood, 
+but it is known that both affect the adaptive and innate immune responses. In
+addition, there is a growing concept that some probiotic strains have common core
+mechanisms that provide certain health benefits. Here, we aimed to elucidate the 
+signalization of the probiotic bacterial strains Lactobacillus paragasseri K7,
+Limosilactobacillus fermentum L930BB, Bifidobacterium animalis subsp. animalis
+IM386 and Lactiplantibacillus plantarum WCFS1. We showed in in vitro experiments 
+that the tested probiotics exhibit common TLR2- and TLR10-dependent downstream
+signalling cascades involving inhibition of NF-κB signal transduction. Under
+inflammatory conditions, the probiotics activated phosphatidylinositol 3-kinase
+(PI3K)/Akt anti-apoptotic pathways and protein kinase C (PKC)-dependent pathways,
+which led to regulation of the actin cytoskeleton and tight junctions. These
+pathways contribute to the regeneration of the intestinal epithelium and
+modulation of the mucosal immune system, which, together with the inhibition of
+canonical TLR signalling, promote general immune tolerance. With this study we
+identified shared probiotic mechanisms and were the first to pinpoint the role of
+anti-inflammatory probiotic signalling through TLR10.
+
+© 2020 The Authors. Cellular Microbiology published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/cmi.13264 
+PMID: 32945079 
+

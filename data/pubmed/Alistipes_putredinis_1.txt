@@ -1,0 +1,50 @@
+
+1. Obes Surg. 2020 Sep;30(9):3536-3548. doi: 10.1007/s11695-020-04684-0.
+
+Gut Microbial Predictors of Type 2 Diabetes Remission Following Bariatric
+Surgery.
+
+Davies N(1)(2), O'Sullivan JM(2)(3), Plank LD(4), Murphy R(5)(6).
+
+Author information: 
+(1)Department of Medicine, Faculty of medical and health sciences, University of 
+Auckland, Auckland, New Zealand.
+(2)Maurice Wilkins Centre, The University of Auckland, Auckland, New Zealand.
+(3)Liggins Institute, The University of Auckland, Auckland, New Zealand.
+(4)Department of Surgery, The University of Auckland, Auckland, New Zealand.
+(5)Department of Medicine, Faculty of medical and health sciences, University of 
+Auckland, Auckland, New Zealand. r.murphy@auckland.ac.nz.
+(6)Maurice Wilkins Centre, The University of Auckland, Auckland, New Zealand.
+r.murphy@auckland.ac.nz.
+
+PURPOSE: Distinct anatomical rearrangements of the gastrointestinal tract
+achieved by various types of bariatric surgery cause changes in nutrient intake
+and gut microbiota. The contribution of such gut microbiota changes to remission 
+of type 2 diabetes (T2D) remains unclear.
+AIM: We examined gut microbiota changes following banded Roux-en-Y gastric bypass
+(RYGB) or sleeve gastrectomy (SG) in a randomised study, in relation to T2D
+remission.
+MATERIALS AND METHODS: Whole-metagenome shotgun sequencing was carried out on
+paired stool samples at pre- and 1-year post-surgery collected from 44
+participants with T2D randomised to banded Roux-en-Y gastric bypass (RYGB) or
+sleeve gastrectomy (SG). Taxonomic composition and predicted functional potential
+of the gut bacteria were identified using HUMANn2, and annotated using MetaCyc.
+Five-day dietary records (analysed using FoodWorks v8.0), body weight and
+diabetes status were recorded at both time points.
+RESULTS: RYGB participants had higher percentage excess weight loss than SG
+(p = 0.01), even though dietary intake was similar at 1-year post-surgery.
+Similar proportions achieved diabetes remission (HbA1c < 48 mmol/mol without
+medications) after either RYGB (68%) or SG (59%). RYGB resulted in increased
+abundances of Firmicutes and Proteobacteria, while SG resulted in increased
+Bacteroidetes. Pre-surgery, an increased abundance of Eubacteriaceae (p = 0.01)
+and Alistipes putredinis (p = 0.01) was observed in those who went on to remit
+from T2D post-surgery. Following surgery, Lachnospiraceae (p = 0.04) and
+Roseburia (p = 0.01) species were more abundant in those who had achieved T2D
+remission.
+CONCLUSIONS: Specific stool bacterial taxa may signal likelihood of T2D remission
+after bariatric surgery which is potentially mediated by increases in
+Lachnospiraceae and Roseburia.
+
+DOI: 10.1007/s11695-020-04684-0 
+PMID: 32447634 
+

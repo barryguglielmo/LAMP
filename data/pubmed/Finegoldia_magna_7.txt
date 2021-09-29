@@ -1,0 +1,36 @@
+
+1. Front Microbiol. 2020 Jan 29;11:65. doi: 10.3389/fmicb.2020.00065. eCollection
+2020.
+
+Finegoldia magna, an Anaerobic Gram-Positive Bacterium of the Normal Human
+Microbiota, Induces Inflammation by Activating Neutrophils.
+
+Neumann A(1), Björck L(1), Frick IM(1).
+
+Author information: 
+(1)Division of Infection Medicine, Department of Clinical Sciences, Lund
+University, Lund, Sweden.
+
+The Gram-positive anaerobic commensal Finegoldia magna colonizes the skin and
+other non-sterile body surfaces, and is an important opportunistic pathogen. Here
+we analyzed the effect of F. magna on human primary neutrophils. F. magna strains
+ALB8 (expressing protein FAF), 312 (expressing protein L) and 505 (naturally
+lacking both protein FAF and L) as well as their associated proteins activate
+neutrophils to release reactive oxygen species, an indication for neutrophil
+oxidative burst. Co-incubation of neutrophils with the bacteria leads to a strong
+increase of CD66b surface expression, another indicator for neutrophil
+activation. Furthermore, all tested stimuli triggered the release of NETs from
+the activated neutrophils, pointing to a host defense mechanism in response to
+the tested stimuli. This phenotype is dependent on actin rearrangement, NADPH
+oxidases and the ERK1/2 pathway. Proteins FAF and L also induced the secretion of
+several pro-inflammatory neutrophil proteins; HBP, IL-8 and INFγ. This study
+shows for the first time a direct interaction of F. magna with human neutrophils 
+and suggests that the activation of neutrophils plays a role in F. magna
+pathogenesis.
+
+Copyright © 2020 Neumann, Björck and Frick.
+
+DOI: 10.3389/fmicb.2020.00065 
+PMCID: PMC7025542
+PMID: 32117109 
+

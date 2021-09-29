@@ -1,0 +1,58 @@
+
+1. Front Cell Infect Microbiol. 2019 Oct 11;9:347. doi: 10.3389/fcimb.2019.00347.
+eCollection 2019.
+
+Species-Level Salivary Microbial Indicators of Well-Resolved Periodontitis: A
+Preliminary Investigation.
+
+Acharya A(1)(2), Chen T(3)(4), Chan Y(1), Watt RM(1), Jin L(1), Mattheos N(1).
+
+Author information: 
+(1)Faculty of Dentistry, The University of Hong Kong, Hong Kong, China.
+(2)Dr. D. Y. Patil Dental College and Hospital, Dr. D. Y. Patil Vidyapeeth, Pune,
+India.
+(3)Department of Microbiology, The Forsyth Institute, Cambridge, MA, United
+States.
+(4)Department of Oral Medicine, Infection & Immunity, Harvard School of Dental
+Medicine, Harvard Medical School, Boston, MA, United States.
+
+Objective: To profile the salivary microbiomes of a Hong Kong Chinese cohort at a
+species-level resolution and determine species that discriminated clinically
+resolved periodontitis from periodontally healthy cases. Methods: Salivary
+microbiomes of 35 Hong Kong Chinese subjects' under routine supportive dental
+care were analyzed. All subjects had been treated for any dental caries or
+periodontal disease with all restorative treatment completed at least 1 year ago 
+and had ≤3 residual pockets. They were categorized based on a past diagnosis of
+chronic periodontitis into "healthy" (H) or "periodontitis" (P) categories.
+Unstimulated whole saliva was collected, genomic DNA was isolated, and high
+throughput Illumina MiSeq sequencing of 16S rRNA (V3-V4) gene amplicons was
+performed. The sequences were assigned taxonomy at the species level by using a
+BLASTN based algorithm that used a combined reference database of HOMD
+RefSeqV14.51, HOMD RefSeqExtended V1.1 and GreenGeneGold. Species-level OTUs were
+subjected to downstream analysis in QIIME and R. For P and H group comparisons,
+community diversity measures were compared, differentially abundant species were 
+determined using DESeq2, and disease indicator species were determined using
+multi-level pattern analysis within the R package "indicspecies." Results: P
+subjects were significantly older than H subjects (p = 0.003) but not
+significantly different in their BOP scores (p = 0.82). No significant
+differences were noted in alpha diversity measures after adjusting for age,
+gender, and BOP or in the beta diversity estimates. Four species; Treponema sp.
+oral taxon 237, TM7 sp. Oral Taxon A56, Prevotella sp. oral taxon 314, Prevotella
+sp. oral taxon 304, and Capnocytophaga leadbetteri were significantly more
+abundant in P than in the H group. Indicator species analysis showed 7
+significant indicators species of P group. Fusobacterium sp oral taxon 370 was
+the sole positive indicator of P group (positive predictive value = 0.9, p =
+0.04). Significant indicators of the H category were Leptotrichia buccalis,
+Corynebacterium matruchotii, Leptotrichia hofstadii, and Streptococcus
+intermedius. Conclusion: This exploratory study showed salivary microbial species
+could discriminate treated, well-maintained chronic periodontitis from healthy
+controls with similar gingival inflammation levels. The findings suggest that
+certain salivary microbiome features may identify periodontitis-susceptible
+individuals despite clinical disease resolution.
+
+Copyright © 2019 Acharya, Chen, Chan, Watt, Jin and Mattheos.
+
+DOI: 10.3389/fcimb.2019.00347 
+PMCID: PMC6797555
+PMID: 31681625  [Indexed for MEDLINE]
+

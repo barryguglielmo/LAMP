@@ -1,0 +1,53 @@
+
+1. Front Microbiol. 2020 Mar 20;11:383. doi: 10.3389/fmicb.2020.00383. eCollection
+2020.
+
+Featured Gut Microbiomes Associated With the Progression of Chronic Hepatitis B
+Disease.
+
+Chen Z(1)(2)(3), Xie Y(1)(2), Zhou F(2), Zhang B(1)(2), Wu J(1)(2), Yang L(4), Xu
+S(5), Stedtfeld R(6), Chen Q(1)(2), Liu J(2), Zhang X(1), Xu H(1)(2), Ren
+J(1)(2).
+
+Author information: 
+(1)Department of Gastroenterology, Zhongshan Hospital Xiamen University, Xiamen, 
+China.
+(2)Institute for Microbial Ecology, School of Medicine, Xiamen University,
+Xiamen, China.
+(3)College of Chemistry and Chemical Engineering, Xiamen University, Xiamen,
+China.
+(4)School of Life Sciences, Xiamen University, Xiamen, China.
+(5)Fisheries College, Jimei University, Xiamen, China.
+(6)Civil and Environmental Engineering, Michigan State University, East Lansing, 
+MI, United States.
+
+Dysbiosis of gut microbiota during the progression of HBV-related liver disease
+is not well understood, as there are very few reports that discuss the featured
+bacterial taxa in different stages. The aim of this study was to reveal the
+featured bacterial species whose abundances are directly associated with HBV
+disease progression, that is, progression from healthy subjects to, chronic HBV
+infection, chronic hepatitis B to liver cirrhosis. Approximately 400 fecal
+samples were collected, and 97 samples were subjected to 16S rRNA gene sequencing
+after age and BMI matching. Compared with the healthy individuals, significant
+gut microbiota alterations were associated with the progression of liver disease.
+LEfSe results showed that the HBV infected patients had higher Fusobacteria,
+Veillonella, and Haemophilus abundance while the healthy individuals had higher
+levels of Prevotella and Phascolarctobacterium. Indicator analysis revealed that 
+57 OTUs changed as the disease progressed, and their combination produced an AUC 
+value of 90% (95% CI: 86-94%) between the LC and non-LC groups. In addition, the 
+abundances of OTU51 (Dialister succinatiphilus) and OTU50 (Alistipes onderdonkii)
+decreased as the disease progressed, and these results were further verified by
+qPCR. The LC patients had the higher bacterial network complexity, which was
+accompanied with a lower abundance of potential beneficial bacterial taxa, such
+as Dialister and Alistipes, while they had a higher abundance of pathogenic
+species within Actinobacteria. The compositional and network changes in the gut
+microbiota in varied CHB stages, suggest the potential contributions of gut
+microbiota in CHB disease progression.
+
+Copyright © 2020 Chen, Xie, Zhou, Zhang, Wu, Yang, Xu, Stedtfeld, Chen, Liu,
+Zhang, Xu and Ren.
+
+DOI: 10.3389/fmicb.2020.00383 
+PMCID: PMC7098974
+PMID: 32265857 
+

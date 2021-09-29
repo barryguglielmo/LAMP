@@ -1,0 +1,42 @@
+
+1. Cells. 2020 Aug 13;9(8). pii: E1899. doi: 10.3390/cells9081899.
+
+A Novel Approach for Detecting Unique Variations among Infectious Bacterial
+Species in Endocarditic Cardiac Valve Vegetation.
+
+Hannachi N(1), Lepidi H(2), Fontanini A(1), Takakura T(3), Bou-Khalil J(1),
+Gouriet F(1), Habib G(4), Raoult D(1), Camoin-Jau L(1)(5), Baudoin JP(1).
+
+Author information: 
+(1)Aix Marseille Univ, IRD, APHM, MEPHI, IHU Méditerranée Infection, 13005
+Marseille, France.
+(2)Laboratoire D'anatomie et de Cytologie Pathologique, Hôpital de la Timone,
+AP-HM, boulevard Jean-Moulin, 13005 Marseille, France.
+(3)Hitachi High-Tech Corporation, Analytical & Medical Solution Business Group
+882 Ichige, Hitachinaka-shi, Ibaraki-ken 312-8504, Japan.
+(4)Département de Cardiologie, Hôpital de la Timone, AP-HM, Boulevard
+Jean-Moulin, 13005 Marseille, France.
+(5)Laboratoire D'Hématologie, Hôpital de la Timone, APHM, Boulevard Jean- Moulin,
+13005 Marseille, France.
+
+Infectious endocarditis (IE) remains one of the deadliest heart diseases with a
+high death rate, generally following thrombo-embolic events. Today, therapy is
+based on surgery and antibiotic therapy. When thromboembolic complications in IE 
+patients persist, this is often due to our lack of knowledge regarding the
+pathophysiological development and organization of cells in the vegetation, most 
+notably the primordial role of platelets and further triggered hemostasis, which 
+is related to the diversity of infectious microorganisms involved. Our objective 
+was to study the organization of IE vegetations due to different bacteria species
+in order to understand the related pathophysiological mechanism of vegetation
+development. We present an approach for ultrastructural analysis of
+whole-infected heart valve tissue based on scanning electron microscopy and
+energy-dispersive X-ray spectroscopy. Our approach allowed us to detect
+differences in cell organization between the analyzed vegetations and revealed a 
+distinct chemical feature in viridans Streptococci ones. Our results illustrate
+the benefits that such an approach may bring for guiding therapy, considering the
+germ involved for each IE patient.
+
+DOI: 10.3390/cells9081899 
+PMCID: PMC7464176
+PMID: 32823780 
+

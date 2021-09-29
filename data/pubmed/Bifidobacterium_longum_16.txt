@@ -1,0 +1,45 @@
+
+1. Neurogastroenterol Motil. 2020 Aug 19:e13966. doi: 10.1111/nmo.13966. [Epub ahead
+of print]
+
+An altered composition of fecal microbiota, organic acids, and the effect of
+probiotics in the guinea pig model of postoperative ileus.
+
+Shin SY(1)(2), Hussain Z(1), Lee YJ(1), Park H(1).
+
+Author information: 
+(1)Department of Internal Medicine, Gangnam Severance Hospital, Yonsei University
+College of Medicine, Seoul, Korea.
+(2)Department of Internal Medicine, Chung-Ang University College of Medicine,
+Seoul, Korea.
+
+BACKGROUND: The aim of this study is to investigate the altered composition of
+fecal microbiota, organic acids, and the effect of probiotics in the guinea pig
+model of the postoperative ileus (POI).
+METHODS: A laparotomy with cecal manipulation was performed to induce POI in
+guinea pigs. Fecal pellets were collected before the operation (the baseline) and
+1, 3, and 5 days after the operation. The extracted fecal DNA was amplified and
+sequenced using the Illumina MiSeq sequencing system. The same POI procedures
+were performed after oral pretreatment of the probiotics for 7 days before
+operation. The effect of the probiotics on the selected taxa and fecal acetate
+were evaluated, as were the butyrate levels. The colonic transit was assessed by 
+measurement of the fecal pellet output.
+KEY RESULTS: The communities of the baseline and POI groups indicated
+significantly distinct composition. The genera Bifidobacterium and Lactobacillus 
+were more abundant in the baseline group compared with the POI groups, and
+Bacteroides and Blautia were more abundant in the POI groups. Decreased
+abundances of the species Bifidobacterium bifidum and Bifidobacterium longum
+after the POI procedure were significantly increased in the probiotics group. The
+decreased fecal butyrate level after the POI procedure was significantly
+increased, and colonic transit was significantly improved in the probiotics
+group.
+CONCLUSIONS AND INFERENCES: POI induces gut bacterial dysbiosis. Moreover,
+pretreatment of probiotics before operation restores the beneficial bacterial
+species, butyrate production, and bowel movement. The modulation of gut
+microbiota may help the treatment and prevention of POI.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/nmo.13966 
+PMID: 32815235 
+

@@ -1,0 +1,43 @@
+
+1. Front Microbiol. 2020 Aug 25;11:1963. doi: 10.3389/fmicb.2020.01963. eCollection 
+2020.
+
+Characterization and in vitro Analysis of Probiotic-Derived Peptides Against
+Multi Drug Resistance Bacterial Infections.
+
+Mazumdar A(1)(2), Haddad Y(1)(2), Sur VP(1)(2), Milosavljevic V(1)(2), Bhowmick
+S(1)(2), Michalkova H(1), Guran R(1)(2), Vesely R(3), Moulick A(1)(2).
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, Faculty of AgriSciences, Mendel
+University in Brno, Brno, Czechia.
+(2)Central European Institute of Technology, Brno University of Technology, Brno,
+Czechia.
+(3)Department of Traumatology at the Medical Faculty, Masaryk University and
+Trauma Hospital of Brno, Brno, Czechia.
+
+An inexorable switch from antibiotics has become a major desideratum to overcome 
+antibiotic resistance. Bacteriocin from Lactobacillus casei, a cardinal probiotic
+was used to design novel antibacterial peptides named as Probiotic Bacteriocin
+Derived and Modified (PBDM) peptides (PBDM1: YKWFAHLIKGLC and PBDM2:
+YKWFRHLIKKLC). The loop-shaped 3D structure of peptides was characterized in
+silico via molecular dynamics simulation as well as biophysically via
+spectroscopic methods. Thereafter, in vitro results against multidrug resistant
+bacterial strains and hospital samples demonstrated the strong antimicrobial
+activity of PBDM peptides. Further, in vivo studies with PBDM peptides showed
+downright recovery of balb/c mice from Vancomycin Resistant Staphylococcus aureus
+(VRSA) infection to its healthy condition. Thereafter, in vitro study with human 
+epithelial cells showed no significant cytotoxic effects with high
+biocompatibility and good hemocompatibility. In conclusion, PBDM peptides
+displayed significant antibacterial activity against certain drug resistant
+bacteria which cause infections in human beings. Future analysis are required to 
+unveil its mechanism of action in order to execute it as an alternative to
+antibiotics.
+
+Copyright © 2020 Mazumdar, Haddad, Sur, Milosavljevic, Bhowmick, Michalkova,
+Guran, Vesely and Moulick.
+
+DOI: 10.3389/fmicb.2020.01963 
+PMCID: PMC7477325
+PMID: 32983007 
+

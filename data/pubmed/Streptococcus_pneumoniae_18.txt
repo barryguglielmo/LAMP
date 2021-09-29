@@ -1,0 +1,51 @@
+
+1. EMBO Mol Med. 2020 Sep 28:e12695. doi: 10.15252/emmm.202012695. [Epub ahead of
+print]
+
+Mannose receptor-derived peptides neutralize pore-forming toxins and reduce
+inflammation and development of pneumococcal disease.
+
+Subramanian K(1), Iovino F(1), Tsikourkitoudi V(1), Merkl P(1), Ahmed S(2), Berry
+SB(3), Aschtgen MS(1), Svensson M(3), Bergman P(2)(4), Sotiriou GA(1),
+Henriques-Normark B(1)(5)(6).
+
+Author information: 
+(1)Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet,
+Stockholm, Sweden.
+(2)Department of Laboratory Medicine, Karolinska Institutet, Huddinge, Sweden.
+(3)Department of Medicine, Center for Infectious Medicine, Karolinska Institutet,
+Karolinska University Hospital, Huddinge, Sweden.
+(4)The Immunodeficiency Unit, Department of Infectious Diseases, Karolinska
+University Hospital, Stockholm, Sweden.
+(5)Clinical Microbiology, Karolinska University Hospital, Stockholm, Sweden.
+(6)Lee Kong Chian School of Medicine (LKC) and Singapore Centre on Environmental 
+Life Sciences Engineering (SCELSE), Nanyang Technological University, Singapore, 
+Singapore.
+
+Cholesterol-dependent cytolysins (CDCs) are essential virulence factors for many 
+human pathogens like Streptococcus pneumoniae (pneumolysin, PLY), Streptococcus
+pyogenes (streptolysin O, SLO), and Listeria monocytogenes (Listeriolysin, LLO)
+and induce cytolysis and inflammation. Recently, we identified that pneumococcal 
+PLY interacts with the mannose receptor (MRC-1) on specific immune cells thereby 
+evoking an anti-inflammatory response at sublytic doses. Here, we identified the 
+interaction sites between MRC-1 and CDCs using computational docking. We designed
+peptides from the CTLD4 domain of MRC-1 that binds to PLY, SLO, and LLO,
+respectively. In vitro, the peptides blocked CDC-induced cytolysis and
+inflammatory cytokine production by human macrophages. Also, they reduced
+PLY-induced damage of the epithelial barrier integrity as well as blocked
+bacterial invasion into the epithelium in a 3D lung tissue model. Pre-treatment
+of human DCs with peptides blocked bacterial uptake via MRC-1 and reduced
+intracellular bacterial survival by targeting bacteria to autophagosomes. In
+order to use the peptides for treatment in vivo, we developed calcium phosphate
+nanoparticles (CaP NPs) as peptide nanocarriers for intranasal delivery of
+peptides and enhanced bioactivity. Co-administration of peptide-loaded CaP NPs
+during infection improved survival and bacterial clearance in both zebrafish and 
+mice models of pneumococcal infection. We suggest that MRC-1 peptides can be
+employed as adjunctive therapeutics with antibiotics to treat bacterial
+infections by countering the action of CDCs.
+
+© 2020 The Authors. Published under the terms of the CC BY 4.0 license.
+
+DOI: 10.15252/emmm.202012695 
+PMID: 32985105 
+

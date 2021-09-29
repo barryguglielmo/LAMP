@@ -1,0 +1,50 @@
+
+1. ACS Omega. 2020 Jul 9;5(28):17743-17752. doi: 10.1021/acsomega.0c02365.
+eCollection 2020 Jul 21.
+
+Synthesis, Biochemical Characterization, and Theoretical Studies of Novel
+β-Keto-enol Pyridine and Furan Derivatives as Potent Antifungal Agents.
+
+Tighadouini S(1), Radi S(2), Benabbes R(3), Youssoufi MH(2), Shityakov S(4), El
+Massaoudi M(2), Garcia Y(5).
+
+Author information: 
+(1)Laboratory of Organic Synthesis, Extraction and Valorization, Faculty of
+Sciences Ain Chock, Hassan II University, Route d'El Jadida Km 2, BP 5366
+Casablanca, Morocco.
+(2)Laboratory of Applied Chemistry & Environment, Faculty of Sciences, Mohammed
+First University, 60000 Oujda, Morocco.
+(3)Department of Biology, Faculty of Sciences, Mohammed First University, 60000
+Oujda, Morocco.
+(4)Department of Bioinformatics, Würzburg University, Am Hubland, 97074 Würzburg,
+Germany.
+(5)Institute of Condensed Matter and Nanosciences, Molecular Chemistry, Materials
+and Catalysis (IMCN/MOST), Universite' catholique de Louvain, Place Louis Pasteur
+1, 1348 Louvain-la-Neuve, Belgium.
+
+In the present study, we report the design and synthesis of new derivatives of
+the β-keto-enol grafted on pyridine and furan moieties (L 1 -L 11 ). Structures
+of compounds were fully confirmed by Fourier transform infrared spectroscopy
+(FT-IR), 1H NMR, 13C NMR, electrospray ionization/liquid chromatography-mass
+spectrometry (ESI/LC-MS), and elemental analysis. The compounds were screened for
+antifungal and antibacterial activities (Escherichia coli, Bacillus subtilis, and
+Micrococcus luteus). In vitro evaluation showed significant fungicidal activity
+for L 1 , L 4 , and L 5 against fungal strains (Fusarium oxysporum f.sp
+albedinis) compared to the reference standard. Especially, the exceptional
+activity has been demonstrated for L 1 with IC50 = 12.83 μg/mL. This compound and
+the reference benomyl molecule also showed a correlation between experimental
+antifungal activity and theoretical predictions by Petra/Osiris/Molinspiration
+(POM) calculations and molecular coupling against the Fgb1 protein. The highest
+inhibition of bacterial growth for L 1 is due to its strongest binding to the
+target protein. This report may stimulate the further synthesis of examples of
+this substance class for the development of new drugs.
+
+Copyright © 2020 American Chemical Society.
+
+DOI: 10.1021/acsomega.0c02365 
+PMCID: PMC7377641
+PMID: 32715261 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

@@ -1,0 +1,66 @@
+
+1. Scand J Gastroenterol. 2020 Aug 11:1-11. doi: 10.1080/00365521.2020.1803396.
+[Epub ahead of print]
+
+Faecal microbiota signatures of IBD and their relation to diagnosis, disease
+phenotype, inflammation, treatment escalation and anti-TNF response in a European
+Multicentre Study (IBD-Character).
+
+Vatn S(1)(2), Carstens A(3)(4), Kristoffersen AB(5), Bergemalm D(3), Casén C(5), 
+Moen AEF(2)(6), Tannaes TM(2)(6), Lindstrøm J(2)(7)(8), Detlie TE(1)(2), Olbjørn 
+C(2)(9), Lindquist CM(3), Söderholm JD(10), Gomollón F(11), Kalla R(12), Satsangi
+J(12), Vatn MH(2), Jahnsen J(1)(2), Halfvarson J(3), Ricanek P(1); IBD-Character 
+Consortium.
+
+Author information: 
+(1)Department of Gastroenterology, Division of Medicine, Akershus University
+Hospital, Lørenskog, Norway.
+(2)Institute of Clinical Medicine, University of Oslo, Oslo, Norway.
+(3)Department of Gastroenterology, Faculty of Medicine and Health, Örebro
+University, Örebro, Sweden.
+(4)Department of Internal Medicine, Ersta Hospital, Stockholm, Sweden.
+(5)Genetic Analysis AS, Oslo, Norway.
+(6)Department of Clinical Molecular Biology (EpiGen), Division of Medicine,
+Akershus University Hospital, Lørenskog, Norway.
+(7)Health Services Research Unit, Akershus University Hospital, Lørenskog,
+Norway.
+(8)Department of Pediatric and Adolescent Medicine, Akershus University Hospital,
+Lørenskog, Norway.
+(9)Department of Clinical and Experimental Medicine, Faculty of Health Sciences, 
+Linköping University, Linköping, Sweden.
+(10)Digestive Diseases Unit, IIS Aragón, Zaragoza, Spain.
+(11)Gastrointestinal Unit, Centre for Genomics and Molecular Medicine, Division
+of Medical and Radiological Sciences, University of Edinburgh, Edinburgh, UK.
+(12)Translational Gastroenterology Unit, Medical Sciences/Experimental Medicine
+Division, University of Oxford, Oxford, UK.
+
+METHOD: We examined faecal samples, using the GA-map™ Dysbiosis Test, to
+associate gut microbiota composition with Crohn's disease (CD) and ulcerative
+colitis (UC) and to identify markers for future biomarker identification. We
+conducted a prospective case-control study (EU-ref. no. 305676) in an inception
+cohort of 324 individuals (64 CD, 84 UC, 116 symptomatic non-IBD controls and 44 
+healthy controls) across five European centres and examined 54 predetermined
+bacterial markers. We categorized patients according to the Montreal
+Classification and calculated the dysbiosis index (DI). Non-parametric tests were
+used to compare groups and the Bonferroni correction to adjust for multiple
+comparisons.
+RESULTS: The fluorescent signals (FSSs) for Firmicutes and Eubacterium hallii
+were lower in inflammatory bowel disease (IBD) vs. symptomatic controls (p<.05). 
+FSS for Firmicutes, Lachnospiraceae, Eubacterium hallii and Ruminococcus
+albus/bromii were lower, whereas the signal for Bacteroides Fragilis was higher
+in UC vs. symptomatic controls (p<.05). FSS was higher for Bifidobacterium spp., 
+Eubacterium hallii, Actinobacteria and Firmicutes among patients with ulcerative 
+proctitis, compared to extensive colitis (p<.05). In CD, we observed no
+association with disease location. The DI correlated with faecal-calprotectin in 
+both CD and in UC (p<.001). In terms of treatment escalation and anti-TNF
+response, differences were observed for some bacterial markers, but none of these
+associations were statistically significant.
+CONCLUSION: Our data reveal that the GA-map™ Dysbiosis Test holds the potential
+to characterize the faecal microbiota composition and to assess the degree of
+dysbiosis in new-onset IBD. On the other hand, our results cannot demonstrate any
+proven diagnostic or predictive value of this method to support clinical decision
+making.
+
+DOI: 10.1080/00365521.2020.1803396 
+PMID: 32780604 
+

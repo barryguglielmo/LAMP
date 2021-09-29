@@ -1,0 +1,33 @@
+
+1. J Microbiol Biotechnol. 2020 Feb 28;30(2):155-162. doi: 10.4014/jmb.2001.01004.
+
+Functional Expression and Characterization of Acetyl Xylan Esterases CE Family 7 
+from Lactobacillus antri and Bacillus halodurans.
+
+Kim MJ(1), Jang MU(1), Nam GH(1), Shin H(1), Song JR(1), Kim TJ(1).
+
+Author information: 
+(1)Division of Animal, Horticultural and Food Sciences, Graduate School of
+Chungbuk National University, Cheongju 28644, Republic of Korea.
+
+Acetyl xylan esterase (AXE; E.C. 3.1.1.72) is one of the accessory enzymes for
+xylan degradation, which can remove the terminal acetate residues from xylan
+polymers. In this study, two genes encoding putative AXEs (LaAXE and BhAXE) were 
+cloned from Lactobacillus antri DSM 16041 and Bacillus halodurans C-125, and
+constitutively expressed in Escherichia coli. They possess considerable
+activities towards various substrates such as p-nitrophenyl acetate,
+4-methylumbelliferyl acetate, glucose pentaacetate, and 7-amino cephalosporanic
+acid. LaAXE and BhAXE showed the highest activities at pH 7.0 and 8.0 at 50°C,
+respectively. These enzymes are AXE members of carbohydrate esterase (CE) family 
+7 with the cephalosporine-C deacetylase activity for the production of
+antibiotics precursors. The simultaneous treatment of LaAXE with Thermotoga
+neapolitana β-xylanase showed 1.44-fold higher synergistic degradation of
+beechwood xylan than the single treatment of xylanase, whereas BhAXE showed no
+significant synergism. It was suggested that LaAXE can deacetylate beechwood
+xylan and enhance the successive accessibility of xylanase towards the resulting 
+substrates. The novel LaAXE originated from a lactic acid bacterium will be
+utilized for the enzymatic production of D-xylose and xylooligosaccharides.
+
+DOI: 10.4014/jmb.2001.01004 
+PMID: 31986559 
+

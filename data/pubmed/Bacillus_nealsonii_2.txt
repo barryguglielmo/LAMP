@@ -1,0 +1,45 @@
+
+1. Arch Microbiol. 2020 Apr;202(3):567-578. doi: 10.1007/s00203-019-01773-2. Epub
+2019 Nov 18.
+
+Screening of plant growth promoting attributes and arsenic remediation efficacy
+of bacteria isolated from agricultural soils of Chhattisgarh.
+
+Pandey N(1)(2)(3), Manjunath K(2), Sahu K(4).
+
+Author information: 
+(1)School of Studies in Biotechnology, Pt. Ravishankar Shukla University, Raipur,
+492 010, India.
+(2)Department of Microbiology and Biotechnology, Jnana Bharathi Campus, Bangalore
+University, Bengaluru, 560 056, India.
+(3)Kristu Jayanti College (Autonomous), K. Narayanapura, Kothanur, Bengaluru, 560
+077, India.
+(4)School of Studies in Biotechnology, Pt. Ravishankar Shukla University, Raipur,
+492 010, India. skeshavkant@gmail.com.
+
+Arsenic (As) resistant indigenous bacteria with discrete minimum inhibitory
+concentration values for arsenate [As(V)] and arsenite [As(III)] were isolated
+from the paddy fields of different regions of Chhattisgarh, India, following
+enrichment culture technique. Evaluation of the plant growth promoting (PGP)
+properties of the isolates revealed that two rod-shaped Gram-positive bacteria
+viz., ARP2 and ART2 acquired various PGP traits, including phosphate
+solubilization, production of siderophore, indole acetic acid, ammonia, and
+exopolysaccharide. Both the isolates significantly increased (40-80%) the root
+length of Oryza sativa L. even under As-exposure. Sequencing of 16S rRNA gene
+identified these isolates as Bacillus nealsonii strain ARP2 and Bacillus
+tequilensis strain ART2, respectively. Isolate ARP2 exhibited arsenate reductase 
+activity thereby rapidly reduced As(V) into As(III), achieving a reduction rate
+of 37.5 μM min-1. Alike, strain ART2 was capable of oxidizing As(III) into As(V) 
+via arsenite oxidase enzyme, and revealed the oxidation rate of 21.8 μM min-1.
+Quantitative estimation of As through atomic absorption spectrophotometer
+revealed that the isolates ARP2 and ART2 removed 93 ± 0.2% and 77 ± 0.14% of
+As(V) and As(III), respectively, from As-containing culture media. The FTIR
+analysis showed the interaction of As with the cell membrane and was further
+confirmed by SEM and TEM techniques, which marked the increase in cell volume
+owing to successive accumulation of As. The As-resistant and PGP properties of
+above two isolates demonstrates their potentiality for sustainable bioremediation
+of As, and establishment of flora in As-rich environment.
+
+DOI: 10.1007/s00203-019-01773-2 
+PMID: 31741012  [Indexed for MEDLINE]
+

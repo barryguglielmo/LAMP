@@ -1,0 +1,48 @@
+
+1. Pathogens. 2020 Aug 27;9(9). pii: E705. doi: 10.3390/pathogens9090705.
+
+Immunoinformatic-Based Prediction of Candidate Epitopes for the Diagnosis and
+Control of Paratuberculosis (Johne's Disease).
+
+Tilocca B(1), Soggiu A(2)(3), Greco V(4)(5), Piras C(1), Arrigoni N(6), Ricchi
+M(6), Britti D(1), Urbani A(4)(5), Roncada P(1).
+
+Author information: 
+(1)Department of Health Science, University "Magna Græcia" of Catanzaro, Viale
+Europa, 88100 Catanzaro, Italy.
+(2)Department of Biomedical, Surgical and Dental Sciences-One Health Unit,
+University of Milano, Via Celoria10, 20133 Milano, Italy.
+(3)Department of Veterinary Medicine, University of Milano, Via dell'Università
+6, 26900 Lodi, Italy.
+(4)Department of Basic Biotechnological Sciences, Intensivological and
+Perioperative Clinics, Università Cattolica del Sacro Cuore, Largo Francesco Vito
+1, 00168 Roma, Italy.
+(5)Dipartimento di Scienze di laboratorio e infettivologiche, Fondazione
+Policlinico Universitario Agostino Gemelli IRCCS, Largo A. Gemelli 8, 00168 Roma,
+Italy.
+(6)National Reference Center for Paratuberculosis, Istituto Zooprofilattico
+Sperimentale della Lombardia e dell'Emilia Romagna, Strada Faggiola 1, 29027
+Gariga di Podenzano, Italy.
+
+Paratuberculosis is an infectious disease of ruminants caused by Mycobacterium
+avium subsp. paratuberculosis (MAP). MAP is an intracellular pathogen with a
+possible zoonotic potential since it has been successfully isolated from the
+intestine and blood of Crohn's disease patients.Since no cure is available, after
+the detection of the disease, animal culling is the sole applicable containment
+strategy. However, the difficult detection of the disease in its subclinical
+form, facilitates its spread raising the need for the development of effective
+diagnosis and vaccination strategies. The prompt identification and isolation of 
+the infected animals in the subclinical stage would prevent the spread of the
+infection.In the present study, an immunoinformatic approach has been used to
+investigate the immunogenic properties of 10 MAP proteins. These proteins were
+chosen according to a previously published immunoproteomics approach. For each
+previously-described immunoreactive protein, we predicted the epitopes capable of
+eliciting an immune response by binding both B-cells and/or class I MHC antigens.
+The retrieved peptide sequences were analyzed for their specificity and
+cross-reactivity. The final aim is to employ the discovered peptides sequences as
+a filtered library useful for early-stage diagnosis and/or to be used in novel
+multi-subunit or recombinant vaccine formulations.
+
+DOI: 10.3390/pathogens9090705 
+PMID: 32867087 
+

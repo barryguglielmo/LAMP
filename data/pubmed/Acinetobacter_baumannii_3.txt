@@ -1,0 +1,57 @@
+
+1. Infect Genet Evol. 2020 Sep 29:104577. doi: 10.1016/j.meegid.2020.104577. [Epub
+ahead of print]
+
+PmrB mutations including a novel 10-amino acid repeat sequence insertion
+associated with low-level colistin resistance in carbapenem-resistant
+Acinetobacter baumannii.
+
+Lunha K(1), Thet KT(1), Ngudsuntia A(1), Charoensri N(1), Lulitanond A(1),
+Tavichakorntrakool R(1), Wonglakorn L(2), Faksri K(3), Chanawong A(4).
+
+Author information: 
+(1)Centre for Research and Development of Medical Diagnostic Laboratories (CMDL),
+Faculty of Associated Medical Sciences, Khon Kaen University, Khon Kaen 40002,
+Thailand.
+(2)Clinical Microbiology Laboratory, Srinagarind Hospital, Faculty of Medicine,
+Khon Kaen University, Khon Kaen 40002, Thailand.
+(3)Department of Microbiology, Faculty of Medicine, Khon Kaen University, Khon
+Kaen 40002, Thailand.
+(4)Centre for Research and Development of Medical Diagnostic Laboratories (CMDL),
+Faculty of Associated Medical Sciences, Khon Kaen University, Khon Kaen 40002,
+Thailand. Electronic address: aroonwad@kku.ac.th.
+
+The global emergence of colistin resistance in carbapenem-resistant Acinetobacter
+baumannii (CRAB) clinical isolates is a serious public health concern. We
+therefore aimed to investigate colistin resistance mechanisms in 5
+colistin-resistant (COL-R) CRAB isolates collected from Thai patients in 2016 by 
+whole genome sequencing (WGS) compared with those of 5 colistin-intermediate
+(COL-I) CRAB isolates from the same period. All isolates were subjected to
+antimicrobial susceptibility testing, efflux pump inhibitor-based test and WGS.
+Mutations in known genes associated with colistin resistance were analyzed and
+deleterious mutations were then predicted by PROVEAN tool. The 10 CRAB isolates
+carried blaOXA-23 with the addition of blaOXA-58 in 1 isolate. All COL-R isolates
+exhibited colistin MICs of 4 μg/mL except for 1 isolate with that of 16 μg/mL.
+They belonged to ST2, ST16, ST23, ST164 and ST215, whereas the COL-I isolates
+with colistin MICs of ≤0.25-1 μg/mL were ST2, ST164 and ST215. Neither increased 
+efflux pump activity nor mcr gene was found in any COL-R isolate. Three COL-R
+isolates contained different PmrB variants: a novel 10-amino acid (aa) repeat
+sequence insertion, VILGCILIFS between positions 27 and 28 (S27_A28insVILGCILIFS)
+in transmembrane domain (TM); a 1-aa insertion, alanine between positions 162 and
+163 (A162_I163insA) in TM; and a 1-aa substitution, A226T in histidine kinase
+domain. One COL-R isolate possessed PmrA variant with A80V substitution. These
+alterations were predicted as deleterious. Mechanisms of colistin resistance in
+the remaining COL-R isolate were still unknown. In conclusion, the alterations in
+both PmrB and PmrA were predicted and suggested as initial mutations responsible 
+for low-level colistin resistance in our CRAB isolates. Under selective pressure,
+these isolates may exhibit higher level colistin resistance by the additional
+mutations, leading to more therapeutic difficulties.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.meegid.2020.104577 
+PMID: 33007498 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare no competing financial interests.
+

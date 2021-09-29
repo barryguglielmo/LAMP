@@ -1,0 +1,47 @@
+
+1. Int J Syst Evol Microbiol. 2020 May;70(5):3027-3036. doi: 10.1099/ijsem.0.004125.
+
+Arthrobacter bussei sp. nov., a pink-coloured organism isolated from cheese made 
+of cow's milk.
+
+Flegler A(1), Runzheimer K(1), Kombeitz V(1), Mänz AT(1), Heidler von Heilborn
+D(1), Etzbach L(2), Schieber A(2), Hölzl G(3), Hüttel B(4), Woehle C(4), Lipski
+A(1).
+
+Author information: 
+(1)University of Bonn, Institute of Nutritional and Food Science, Food
+Microbiology and Hygiene, Endenicher Allee 19B, 53115 Bonn, Germany.
+(2)University of Bonn, Institute of Nutritional and Food Science, Molecular Food 
+Technology, Endenicher Allee 19B, 53115 Bonn, Germany.
+(3)University of Bonn, Institute of Molecular Physiology and Biotechnology of
+Plants (IMBIO), 53115 Bonn, Germany.
+(4)Max Planck Institute for Plant Breeding Research, Max Planck-Genome-Centre
+Cologne (MP-GC), Carl-von-Linné-Weg 10, 50829 Cologne, Germany.
+
+A pink-coloured bacterium (strain KR32T) was isolated from cheese and assigned to
+the 'Arthrobacter agilis group'. Members of the 'pink Arthrobacter agilis group' 
+form a stable clade (100 % bootstrap value) and contain the species Arthrobacter 
+agilis, Arthrobacter ruber and Arthrobacter echini, which share ≥99.0 % 16S rRNA 
+gene sequence similarity. Isolate KR32T showed highest 16S rRNA gene sequence
+similarity (99.9 %) to A. agilis DSM 20550T. Additional multilocus sequence
+comparison confirmed the assignment of strain KR32T to the clade 'pink A. agilis 
+group'. Average nucleotide identity and digital DNA-DNA hybridization values
+between isolate KR32T and A. agilis DSM 20550T were 82.85 and 26.30 %,
+respectively. The G+C content of the genomic DNA of isolate KR32T was 69.14 mol%.
+Chemotaxonomic analysis determined anteiso-C15 : 0 as the predominant fatty acid 
+and MK-9(H2) as the predominant menaquinone. Polar lipids were
+diphosphatidylglycerol, phosphatidylglycerol, phosphatidylinositol and
+monoacyldimannosyl-monoacylglycerol. The peptidoglycan type of the isolate was
+A3α. The carotenoid bacterioruberin was detected as the major pigment. At 10 °C, 
+strain KR32T grew with increased concentrations of bacterioruberin and production
+of unsaturated fatty acids. Strain KR32T was a Gram-stain-positive,
+catalase-positive, oxidase-positive and coccus-shaped bacterium with optimal
+growth at 27-30 °C and pH 8. The results of phylogenetic and phenotypic analyses 
+enabled the differentiation of the isolate from other closely related species of 
+the 'pink A. agilis group'. Therefore, strain KR32T represents a novel species
+for which the name Arthrobacter bussei sp. nov. is proposed. The type strain is
+KR32T (=DSM 109896T=LMG 31480T=NCCB 100733T).
+
+DOI: 10.1099/ijsem.0.004125 
+PMID: 32223834  [Indexed for MEDLINE]
+

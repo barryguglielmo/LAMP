@@ -1,0 +1,39 @@
+
+1. Molecules. 2019 Dec 26;25(1). pii: E100. doi: 10.3390/molecules25010100.
+
+Efficient Synthesis of Purine Nucleoside Analogs by a New Trimeric Purine
+Nucleoside Phosphorylase from Aneurinibacillus migulanus AM007.
+
+Liu G(1), Cheng T(1), Chu J(2), Li S(2), He B(2).
+
+Author information: 
+(1)College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech
+University, Nanjing 211800, China.
+(2)School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211800,
+China.
+
+Purine nucleoside phosphorylases (PNPs) are promising biocatalysts for the
+synthesis of purine nucleoside analogs. Although a number of PNPs have been
+reported, the development of highly efficient enzymes for industrial applications
+is still in high demand. Herein, a new trimeric purine nucleoside phosphorylase
+(AmPNP) from Aneurinibacillus migulanus AM007 was cloned and heterologously
+expressed in Escherichia coli BL21(DE3). The AmPNP showed good thermostability
+and a broad range of pH stability. The enzyme was thermostable below 55 °C for 12
+h (retaining nearly 100% of its initial activity), and retained nearly 100% of
+the initial activity in alkaline buffer systems (pH 7.0-9.0) at 60 °C for 2 h.
+Then, a one-pot, two-enzyme mode of transglycosylation reaction was successfully 
+constructed by combining pyrimidine nucleoside phosphorylase (BbPyNP) derived
+from Brevibacillus borstelensis LK01 and AmPNP for the production of purine
+nucleoside analogs. Conversions of 2,6-diaminopurine ribonucleoside (1),
+2-amino-6-chloropurine ribonucleoside (2), and 6-thioguanine ribonucleoside (3)
+synthesized still reached >90% on the higher concentrations of substrates
+(pentofuranosyl donor: purine base; 20:10 mM) with a low enzyme ratio of BbPyNP: 
+AmPNP (2:20 μg/mL). Thus, the new trimeric AmPNP is a promising biocatalyst for
+industrial production of purine nucleoside analogs.
+
+DOI: 10.3390/molecules25010100 
+PMCID: PMC6983109
+PMID: 31888088  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

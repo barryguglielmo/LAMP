@@ -1,0 +1,36 @@
+
+1. PLoS One. 2020 Sep 30;15(9):e0238153. doi: 10.1371/journal.pone.0238153.
+eCollection 2020.
+
+Quantitative bioluminescence assay for measuring Bacillus cereus nonhemolytic
+enterotoxin complex.
+
+Rasooly R(1), Do P(1), Hernlem B(1).
+
+Author information: 
+(1)Western Regional Research Center, Foodborne Toxin Detection & Prevention
+Research Unit, Agricultural Research Service, United States Department of
+Agriculture, Albany, CA, United States of America.
+
+Bacillus cereus is a foodborne pathogen causing emesis and diarrhea in those
+affected. It is assumed that the non-hemolytic enterotoxin (Nhe) plays a key role
+in B. cereus induced diarrhea. The ability to trace Nhe activity is important for
+food safety. While assays such as PCR and ELISA exist to detect Nhe, those
+methods cannot differentiate between active and inactive forms of Nhe. The
+existing rabbit ileal loop bioassay used to detect Nhe activity is ethically
+disfavored because it uses live experimental animals. Here we present a custom
+built low-cost CCD based luminometer and applied it in conjunction with a
+cell-based assay using Vero cells transduced to express the luciferase enzyme.
+The activity of Nhe was measured as its ability to inhibit synthesis of
+luciferase as quantified by reduction of light emission by the luciferase
+reaction. Emitted light intensity was observed to be inversely proportional to
+Nhe concentration over a range of 7 ng/ml to 125 ng/ml, with a limit of detection
+of 7 ng/ml Nhe.
+
+DOI: 10.1371/journal.pone.0238153 
+PMCID: PMC7527251
+PMID: 32998160 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

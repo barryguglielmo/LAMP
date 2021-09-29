@@ -1,0 +1,45 @@
+
+1. AMB Express. 2020 Aug 26;10(1):155. doi: 10.1186/s13568-020-01093-5.
+
+Bioconversion of biphenyl to a polyhydroxyalkanoate copolymer by Alcaligenes
+denitrificans A41.
+
+Yajima T(1), Nagatomo M(1), Wakabayashi A(1), Sato M(1), Taguchi S(2), Maeda
+M(3).
+
+Author information: 
+(1)Microbial Genetics Laboratory, Department of Agricultural Chemistry, School of
+Agriculture, Meiji University, 1-1-1 Higashimita, Tama-ku, Kawsaki, Kanagawa,
+214-8571, Japan.
+(2)Department of Chemistry for Life Sciences and Agriculture, Faculty of Life
+Sciences, Tokyo University of Agriculture, 1-1-1 Sakuragaoka, Setagaya, Tokyo,
+156-8502, Japan.
+(3)Microbial Genetics Laboratory, Department of Agricultural Chemistry, School of
+Agriculture, Meiji University, 1-1-1 Higashimita, Tama-ku, Kawsaki, Kanagawa,
+214-8571, Japan. mmaeda@meiji.ac.jp.
+
+A polyhydroxyalkanoate (PHA) copolymer,
+poly(3-hydroxybutyrate-co-3-hydroxyvalerate) [P(3HB-co-3HV)], was biosynthesized 
+from biphenyl as the sole carbon source using Alcaligenes (currently
+Achromobacter) denitrificans A41. This strain is capable of degrading
+polychlorinated biphenyls (PCBs) and biphenyl. This proof-of-concept of the
+conversion of aromatic chemicals such as the environmental pollutant
+PCBs/biphenyl to eco-friendly products such as biodegradable polyester PHA was
+inspired by the uncovering of two genes encoding PHA synthases in the A.
+denitrificans A41 genome. When the carbon/nitrogen (C/N) ratio was set at 21, the
+cellular P(3HB-co-3HV) content in strain A41 reached its highest value of 10.1%
+of the cell dry weight (CDW). A two-step cultivation protocol improved the
+accumulation of P(3HB-co-3HV) by up to 26.2% of the CDW, consisting of 13.0 mol %
+3HV when grown on minimum salt medium without nitrogen sources. The highest
+cellular content of P(3HB-co-3HV) (47.6% of the CDW) was obtained through the
+two-step cultivation of strain A41 on biphenyl as the sole carbon source. The
+purified copolymer had ultra-high molecular weight (weight-average molecular
+weight of 3.5 × 106), as revealed through gel-permeation chromatography. Based on
+the genomic information related to both polymer synthesis and biphenyl
+degradation, we finally proposed a metabolic pathway for the production of
+P(3HB-co-3HV) associated with the degradation of biphenyl by strain A41.
+
+DOI: 10.1186/s13568-020-01093-5 
+PMCID: PMC7450020
+PMID: 32845442 
+

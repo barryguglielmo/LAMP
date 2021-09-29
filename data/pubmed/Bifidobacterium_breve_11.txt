@@ -1,0 +1,64 @@
+
+1. Probiotics Antimicrob Proteins. 2020 Aug 10. doi: 10.1007/s12602-020-09694-z.
+[Epub ahead of print]
+
+Evaluation of Porcine Intestinal Epitheliocytes as an In vitro Immunoassay System
+for the Selection of Probiotic Bifidobacteria to Alleviate Inflammatory Bowel
+Disease.
+
+Sato N(1)(2), Yuzawa M(1)(2), Aminul MI(1)(2), Tomokiyo M(1)(2), Albarracin
+L(1)(3)(4), Garcia-Castillo V(5), Ideka-Ohtsubo W(1)(2), Iwabuchi N(6), Xiao
+JZ(6), Garcia-Cancino A(5), Villena J(7)(8), Kitazawa H(9)(10).
+
+Author information: 
+(1)Food and Feed Immunology Group, Graduate School of Agricultural Science,
+Tohoku University, Sendai, 981-8555, Japan.
+(2)Livestock Immunology Unit, International Education and Research Center for
+Food Agricultural Immunology (CFAI), Graduate School of Agricultural Science,
+Tohoku University, Sendai, Japan.
+(3)Laboratory of Immunobiotechnology, Reference Centre for Lactobacilli
+(CERELA-CONICET), San Miguel de Tucuman, Tucuman, Argentina.
+(4)Laboratory of Computing Science, Faculty of Exact Sciences and Technology,
+Tucuman University, San Miguel de Tucuman, Tucuman, Argentina.
+(5)Laboratory of Bacterial Pathogenicity, Faculty of Biological Sciences,
+University of Concepcion, Concepcion, Chile.
+(6)Food Science and Technology Institute, Morinaga Milk Industry Co. Ltd, Zama,
+Kanagawa, Japan.
+(7)Food and Feed Immunology Group, Graduate School of Agricultural Science,
+Tohoku University, Sendai, 981-8555, Japan. jcvillena@cerela.org.ar.
+(8)Laboratory of Immunobiotechnology, Reference Centre for Lactobacilli
+(CERELA-CONICET), San Miguel de Tucuman, Tucuman, Argentina.
+jcvillena@cerela.org.ar.
+(9)Food and Feed Immunology Group, Graduate School of Agricultural Science,
+Tohoku University, Sendai, 981-8555, Japan. haruki.kitazawa.c7@tohoku.ac.jp.
+(10)Livestock Immunology Unit, International Education and Research Center for
+Food Agricultural Immunology (CFAI), Graduate School of Agricultural Science,
+Tohoku University, Sendai, Japan. haruki.kitazawa.c7@tohoku.ac.jp.
+
+The use of in vitro systems that allow efficient selection of probiotic
+candidates with immunomodulatory properties could significantly minimize the use 
+of experimental animals. In this work, we generated an in vitro immunoassay
+system based on porcine intestinal epithelial (PIE) cells and dextran sodium
+sulfate (DSS) administration that could be useful for the selection and
+characterization of potential probiotic strains to be used in inflammatory bowel 
+disease (IBD) patients. Our strategy was based on two fundamental pillars: on the
+one hand, the capacity of PIE cells to create a monolayer by attaching to
+neighboring cells and efficiently mount inflammatory responses and, on the other 
+hand, the use of two probiotic bifidobacteria strains that have been
+characterized in terms of their immunomodulatory capacities, particularly in
+mouse IBD models and patients. Our results demonstrated that DSS administration
+can alter the epithelial barrier created in vitro by PIE cells and induce a
+potent inflammatory response, characterized by increases in the expression levels
+of several inflammatory factors including TNF-α, IL-1α, CCL4, CCL8, CCL11, CXCL5,
+CXCL9, CXCL10, SELL, SELE, EPCAM, VCAM, NCF2, and SAA2. In addition, we
+demonstrated that Bifidobacterium breve M-16V and B. longum BB536 are able to
+regulate the C-jun N-terminal kinase (JNK) intracellular signalling pathway,
+reducing the DSS-induced alterations of the in vitro epithelial barrier and
+differentially regulating the inflammatory response in a strain-dependent
+fashion. The good correlation between our in vitro findings in PIE cells and
+previous studies in animal models and IBD patients shows the potential value of
+our system to select new probiotic candidates in an efficient way.
+
+DOI: 10.1007/s12602-020-09694-z 
+PMID: 32779098 
+

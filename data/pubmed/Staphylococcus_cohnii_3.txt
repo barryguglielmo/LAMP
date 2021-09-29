@@ -1,0 +1,50 @@
+
+1. Materials (Basel). 2019 Nov 21;12(23). pii: E3838. doi: 10.3390/ma12233838.
+
+Burst Release of Antibiotics Combined with Long-Term Release of Silver Targeting 
+Implant-Associated Infections: Design, Characterization and in vitro Evaluation
+of Novel Implant Hybrid Surface.
+
+Borcherding K(1), Marx D(1), Gätjen L(1), Bormann N(2), Wildemann B(2)(3), Specht
+U(1), Salz D(1), Thiel K(1), Grunwald I(4).
+
+Author information: 
+(1)Department of Adhesive Bonding Technology and Surfaces, Fraunhofer Institute
+for Manufacturing Technology and Advanced Materials (IFAM), 28359 Bremen,
+Germany.
+(2)Julius Wolff Institute, BIH Center for Regenerative Therapies,
+Charité-Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin,
+Humboldt-Universität zu Berlin, and Berlin Institute of Health, 13353 Berlin,
+Germany.
+(3)Experimental Trauma Surgery, Department of Trauma, Hand and Reconstructive
+Surgery, University Hospital Jena, 07747 Jena, Germany.
+(4)Industrial and Environmental Biology, Hochschule Bremen-City University of
+Applied Sciences, Neustadswall 30, 28199 Bremen, Germany.
+
+Implant-associated infections represent a serious risk in human medicine and can 
+lead to complications, revisions and in worst cases, amputations. To target these
+risks, the objective was to design a hybrid implant surface that allows a local
+burst release of antibiotics combined with long-term antimicrobial activity based
+on silver. The efficacy should be generated with simultaneous in vitro
+cytocompatibility. The investigations were performed on titanium K-wires and
+plates and gentamicin was selected as an illustrative antibiotic. A gentamicin
+depot (max 553 µg/cm2) was created on the surface using laser structuring. The
+antibiotic was released within 15 min in phosphate buffered saline (PBS) or agar 
+medium. Metallic silver particles (4 µg/cm2) in a titanium dioxide layer were
+deposited using plasma vapor deposition (PVD). About 16% of the silver was
+released within 28 days in the agar medium. The local efficacy of the
+incorporated silver was demonstrated in a direct contact assay with a reduction
+of more than 99.99% (Escherichia coli). The local efficacy of the hybrid surface 
+was confirmed in a zone of inhibition (ZOI) assay using Staphylococcus cohnii.
+The biocompatibility of the hybrid surface was proven using fibroblasts and
+osteoblasts as cell systems. The hybrid surface design seems to be promising as
+treatment of implant-associated infections, considering the achieved amount and
+release behavior of the active ingredients (gentamicin, silver). The generated in
+vitro results (efficacy, biocompatibility) proofed the concept. Further in vivo
+studies will be necessary translate the hybrid surface towards clinical applied
+research.
+
+DOI: 10.3390/ma12233838 
+PMCID: PMC6926566
+PMID: 31766488 
+

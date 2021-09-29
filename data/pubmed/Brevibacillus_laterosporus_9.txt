@@ -1,0 +1,42 @@
+
+1. Genomics. 2020 Jan;112(1):1042-1053. doi: 10.1016/j.ygeno.2019.06.020. Epub 2019 
+Jun 19.
+
+Phylogenetic determinants of toxin gene distribution in genomes of Brevibacillus 
+laterosporus.
+
+Glare TR(1), Durrant A(2), Berry C(3), Palma L(4), Ormskirk MM(2), Cox MP(5).
+
+Author information: 
+(1)Bio-Protection Research Centre, PO Box 85084, Lincoln University, Lincoln, New
+Zealand. Electronic address: travis.glare@lincoln.ac.nz.
+(2)Bio-Protection Research Centre, PO Box 85084, Lincoln University, Lincoln, New
+Zealand.
+(3)Cardiff School of Biosciences, Cardiff University, Museum Avenue, Cardiff CF10
+3AX, UK.
+(4)Universidad Nacional de Villa María, Instituto A.P. de Ciencias Básicas y
+Aplicadas, Av. Arturo Jauretche 1555, Villa María 5900, Córdoba, Argentina.
+(5)Statistics and Bioinformatics Group, Institute of Fundamental Sciences, Massey
+University, Palmerston North 4410, New Zealand.
+
+Brevibacillus laterosporus is a globally ubiquitous, spore forming bacterium,
+strains of which have shown toxic activity against invertebrates and microbes and
+several have been patented due to their commercial potential. Relatively little
+is known about this bacterium. Here, we examined the genomes of six published and
+five newly determined genomes of B. laterosporus, with an emphasis on the
+relationships between known and putative toxin encoding genes, as well as the
+phylogenetic relationships between strains. Phylogenetically, strain
+relationships are similar using average nucleotide identity (ANI) values and
+multi-gene approaches, although PacBio sequencing revealed multiple copies of the
+16S rDNA gene which lessened utility at the strain level. Based on ANI values,
+the New Zealand isolates were distant from other isolates and may represent a new
+species. While all of the genomes examined shared some putative toxicity or
+virulence related proteins, many specific genes were only present in a subset of 
+strains.
+
+Copyright © 2019 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ygeno.2019.06.020 
+PMCID: PMC6978878
+PMID: 31226484  [Indexed for MEDLINE]
+

@@ -1,0 +1,53 @@
+
+1. Proc Natl Acad Sci U S A. 2020 Sep 29;117(39):24484-24493. doi:
+10.1073/pnas.2009556117. Epub 2020 Sep 16.
+
+Nanaerobic growth enables direct visualization of dynamic cellular processes in
+human gut symbionts.
+
+García-Bayona L(1), Coyne MJ(1), Hantman N(2)(3), Montero-Llopis P(4), Von SS(1),
+Ito T(2), Malamy MH(5), Basler M(6), Barquera B(2)(3), Comstock LE(7).
+
+Author information: 
+(1)Division of Infectious Diseases, Brigham and Women's Hospital, Harvard Medical
+School, Boston, MA 02115.
+(2)Center for Biotechnology and Interdisciplinary Sciences, Rensselaer
+Polytechnic Institute, Troy, NY 12180.
+(3)Department of Biological Sciences, Rensselaer Polytechnic Institute, Troy, NY 
+12180.
+(4)MicRoN, Department of Microbiology, Harvard Medical School, Boston, MA 02115.
+(5)Department of Molecular Biology and Microbiology, Tufts University School of
+Medicine, Boston, MA 02111.
+(6)Biozentrum, University of Basel, CH 4056 Basel, Switzerland.
+(7)Division of Infectious Diseases, Brigham and Women's Hospital, Harvard Medical
+School, Boston, MA 02115; lcomstock@rics.bwh.harvard.edu.
+
+Mechanistic studies of anaerobic gut bacteria have been hindered by the lack of a
+fluorescent protein system to track and visualize proteins and dynamic cellular
+processes in actively growing bacteria. Although underappreciated, many gut
+"anaerobes" are able to respire using oxygen as the terminal electron acceptor.
+The oxygen continually released from gut epithelial cells creates an oxygen
+gradient from the mucus layer to the anaerobic lumen [L. Albenberg et al.,
+Gastroenterology 147, 1055-1063.e8 (2014)], with oxygen available to bacteria
+growing at the mucus layer. Here, we show that Bacteroides species are
+metabolically and energetically robust and do not mount stress responses in the
+presence of 0.10 to 0.14% oxygen, defined as nanaerobic conditions [A. D. Baughn,
+M. H. Malamy, Nature 427, 441-444 (2004)]. Taking advantage of this metabolic
+capability, we show that nanaerobic growth provides sufficient oxygen for the
+maturation of oxygen-requiring fluorescent proteins in Bacteroides species. Type 
+strains of four different Bacteroides species show bright GFP fluorescence when
+grown nanaerobically versus anaerobically. We compared four different red
+fluorescent proteins and found that mKate2 yields the highest red fluorescence
+intensity in our assay. We show that GFP-tagged proteins can be localized in
+nanaerobically growing bacteria. In addition, we used time-lapse fluorescence
+microscopy to image dynamic type VI secretion system processes in metabolically
+active Bacteroides fragilis The ability to visualize fluorescently labeled
+Bacteroides and fluorescently linked proteins in actively growing nanaerobic gut 
+symbionts ushers in an age of imaging analyses not previously possible in these
+bacteria.
+
+DOI: 10.1073/pnas.2009556117 
+PMID: 32938803 
+
+Conflict of interest statement: The authors declare no competing interest.
+

@@ -1,0 +1,42 @@
+
+1. Microb Drug Resist. 2020 Sep 8. doi: 10.1089/mdr.2020.0082. [Epub ahead of print]
+
+Antimicrobial Resistance of Campylobacter spp. Causing Human Infection in
+Australia: An International Comparison.
+
+Wallace RL(1), Bulach D(2)(3), McLure A(1), Varrone L(4), Jennison AV(5),
+Valcanis M(3), Smith JJ(6), Polkinghorne BG(1), Glass K(1), Kirk MD(1).
+
+Author information: 
+(1)National Centre for Epidemiology and Population Health, The Australian
+National University, Canberra, Australia.
+(2)Melbourne Bioinformatics, The University of Melbourne, Melbourne, Australia.
+(3)Microbiological Diagnostic Unit Public Health Laboratory, The Peter Doherty
+Institute, Melbourne, Australia.
+(4)Faculty of Medicine, The University of Queensland, Brisbane, Australia.
+(5)Forensic and Scientific Services, Queensland Health, Brisbane, Australia.
+(6)Food Safety Standards and Regulation, Health Protection Branch, Queensland
+Health, Brisbane, Australia.
+
+The study investigates the prevalence of antimicrobial resistance in
+Campylobacter jejuni and Campylobacter coli in gastroenteritis patients in the
+eight most populous regions in Australia and compares the prevalence of
+antimicrobial resistance in Europe and North America. A total of 164
+Campylobacter isolates were collected from patients with campylobacteriosis and
+tested for susceptibility to six antimicrobials using ETEST® strips and compared 
+with reports from Europe and the United States. Genomes were sequenced on
+Illumina NextSeq to identify genetic determinants of resistance. Phenotypically, 
+1.8%, 14.0%, 14.6%, and 20.1% of isolates were resistant to erythromycin (ERY),
+ampicillin, tetracycline (TET), and ciprofloxacin (CIP), respectively. Comparing 
+published phenotypic results of antimicrobial resistance in several European
+countries and the United States with these Australian isolates reveals that rates
+observed in Australia are among the lowest observed for ERY, CIP, and TET for
+both C. coli and C. jejuni. For each antimicrobial tested, concordance between
+resistance phenotype and genotype ranged from 66.6% to 100.0%. This study
+highlights that, among industrialized countries, Portugal and Spain have very
+high levels of antimicrobial resistance in C. jejuni and C. coli, especially when
+compared with the United Kingdom, United States, and Australia.
+
+DOI: 10.1089/mdr.2020.0082 
+PMID: 32898460 
+

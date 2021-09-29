@@ -1,0 +1,32 @@
+
+1. Pharmaceutics. 2020 Sep 6;12(9). pii: E848. doi: 10.3390/pharmaceutics12090848.
+
+Preclinical Progress of Subunit and Live Attenuated Mycobacterium tuberculosis
+Vaccines: A Review following the First in Human Efficacy Trial.
+
+Watt J(1), Liu J(1).
+
+Author information: 
+(1)Department of Molecular Genetics, University of Toronto, Toronto, ON M5S 1A8, 
+Canada.
+
+Tuberculosis (TB) is the global leading cause of death from an infectious agent
+with approximately 10 million new cases of TB and 1.45 million deaths in 2018.
+Bacille Calmette-Guérin (BCG) remains the only approved vaccine for Mycobacterium
+tuberculosis (M. tb, causative agent of TB), however clinical studies have shown 
+BCG has variable effectiveness ranging from 0-80% in adults. With 1.7 billion
+people latently infected, it is becoming clear that vaccine regimens aimed at
+both post-exposure and pre-exposure to M. tb will be crucial to end the TB
+epidemic. The two main strategies to improve or replace BCG are subunit and live 
+attenuated vaccines. However, following the failure of the MVA85A phase IIb trial
+in 2013, more varied and innovative approaches are being developed. These include
+recombinant BCG strains, genetically attenuated M. tb and naturally attenuated
+mycobacteria strains, novel methods of immunogenic antigen discovery including
+for hypervirulent M. tb strains, improved antigen recognition and delivery
+strategies, and broader selection of viral vectors. This article reviews
+preclinical vaccine work in the last 5 years with focus on those tested against
+M. tb challenge in relevant animal models.
+
+DOI: 10.3390/pharmaceutics12090848 
+PMID: 32899930 
+

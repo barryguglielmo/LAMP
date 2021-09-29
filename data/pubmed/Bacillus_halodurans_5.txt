@@ -1,0 +1,37 @@
+
+1. Environ Sci Pollut Res Int. 2020 Feb;27(4):4468-4477. doi:
+10.1007/s11356-019-06503-1. Epub 2019 Dec 12.
+
+Pesticide application inhibit the microbial carbonic anhydrase-mediated carbon
+sequestration in a soil microcosm.
+
+Nathan VK(1)(2), Jasna V(1), Parvathi A(3).
+
+Author information: 
+(1)CSIR-National Institute Oceanography, Regional Centre, Dr. Salim Ali Road,
+Post Box No. 1913, Kochi, 682 018, India.
+(2)School of Chemical and Biotechnology, SASTRA Deemed to be University,
+Thirumalaisamudram, Thanjavur, Tamil Nadu, 613 401, India.
+(3)CSIR-National Institute Oceanography, Regional Centre, Dr. Salim Ali Road,
+Post Box No. 1913, Kochi, 682 018, India. parvathi@nio.org.
+
+Heterotrophic system for carbon sequestration is gaining importance in the recent
+decades. Carbonic anhydrase (CA) is a major enzyme involved in carbon
+sequestration and biomineralization process. In this paper, we evaluate the
+effect of pesticide on CA activity using inhibitory assay. 2,4-D, being one of
+the most extensively used pesticide, being deleterious to soil health, its usage 
+should be minimized to regain the soil health. Maximum inhibitory constant (Ki)
+was observed for 5% 2,4-D (49.53 mM) followed by 5% glyphosate (43.92 mM). The
+maximum Km increase with increase in pesticide concentration by 3.05-fold was in 
+case of glyphosate which was higher than that of 2,4-D (2.08-fold) and dichlorvos
+(2.38-fold). Moreover, we evaluated the carbon sequestration using CA enzyme in
+the soil microcosm. In the present study, we identified the negative impact of
+2,4-D on carbonic anhydrase produced by Bacillus halodurans PO15. The inhibition 
+was a mixed type and had significantly lowered the carbon reduction to about 2.38
+± 0.17% in a soil microcosm study. Based on the molecular docking, the inhibition
+was contributed due to weak H-bonding interaction with amino acid residues
+(Gly65, Gly95, Val147, Ser150 and Gly65, Ser146, and Ser150).
+
+DOI: 10.1007/s11356-019-06503-1 
+PMID: 31832940  [Indexed for MEDLINE]
+

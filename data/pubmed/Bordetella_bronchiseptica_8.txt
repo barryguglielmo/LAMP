@@ -1,0 +1,45 @@
+
+1. Antibiotics (Basel). 2020 Jul 11;9(7). pii: E402. doi:
+10.3390/antibiotics9070402.
+
+Antimicrobial Susceptibility Pattern of Porcine Respiratory Bacteria in Spain.
+
+Vilaró A(1), Novell E(1), Enrique-Tarancón V(1), Balielles J(1), Vilalta C(2),
+Martinez S(3), Fraile Sauce LJ(4).
+
+Author information: 
+(1)Grup de Sanejament Porcí, 25192 Lleida, Spain.
+(2)Freelance researcher, Arbeca, 25192 Lleida, Spain.
+(3)Departamento de Sanidad Animal, Universidad de León, 24006 León, Spain.
+(4)Departament de Ciència Animal, Escola Tècnica Superior d'Enginyeria Agrària,
+University of Lleida-Agrotecnio, 25198 Lleida, Spain.
+
+The monitoring of antimicrobial susceptibility of pig pathogens is critical to
+optimize antimicrobial treatments and prevent development of resistance with a
+one-health approach. The aim of this study was to investigate the antimicrobial
+susceptibility patterns of swine respiratory pathogens in Spain from 2017 to
+2019. Bacterial isolation and identification were carried out following
+standardized methods from samples coming from sacrificed or recently deceased
+pigs with acute clinical signs compatible with respiratory tract infections.
+Minimum inhibitory concentration (MIC) values were determined using the broth
+microdilution method containing a total of 10 and 7-8
+antimicrobials/concentrations respectively, in accordance with the
+recommendations presented by the Clinical and Laboratory Standards Institute
+(CLSI). The obtained antimicrobial susceptibility varies between pig respiratory 
+pathogens. Actinobacillus pleuropneumoniae (APP) and Pasteurella multocida (PM)
+were highly susceptible (≥90%) to ceftiofur, florfenicol and macrolides
+(tilmicosin, tildipirosin and tulathromycin). However, the antimicrobial
+susceptibility was intermediate (>60% but <90%) for amoxicillin and enrofloxacin 
+in the case of APP and sulfamethoxazole/trimethropim and tiamulin in the case of 
+PM. Both bacteria showed low (<60%) antimicrobial susceptibility to doxycycline. 
+Finally, Bordetella bronchiseptica was highly susceptible only to tildipirosin
+and tulathromycin (100%) and its susceptibility for florfenicol was close to 50% 
+and <30% for the rest of the antimicrobial families tested. These results
+emphasize the need of determining antimicrobial susceptibility in pig respiratory
+cases in order to optimize the antimicrobial treatment in a case-by-case
+scenario.
+
+DOI: 10.3390/antibiotics9070402 
+PMCID: PMC7400251
+PMID: 32664493 
+

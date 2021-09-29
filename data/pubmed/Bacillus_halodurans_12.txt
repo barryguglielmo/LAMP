@@ -1,0 +1,37 @@
+
+1. Int J Syst Evol Microbiol. 2019 Nov;69(11):3599-3602. doi:
+10.1099/ijsem.0.003666.
+
+Genome-based reclassification of Bacillus okuhidensis as a later heterotypic
+synonym of Bacillus halodurans.
+
+Liu GH(1), Narsing Rao MP(2), Dong ZY(2), Wang JP(1), Che JM(1), Chen QQ(1),
+Sengonca C(3), Liu B(1), Li WJ(4)(2).
+
+Author information: 
+(1)Agricultural Bio-resources Research Institute, Fujian Academy of Agricultural 
+Sciences, Fuzhou, Fujian 350003, PR China.
+(2)State Key Laboratory of Biocontrol and Guangdong Provincial Key Laboratory of 
+Plant Resources, School of Life Sciences, Sun Yat-Sen University, Guangzhou
+510275, PR China.
+(3)Institute of Crop Sciences and Resource Conservation (INRES), University of
+Bonn, Meckenheimer Allee 166A D-53115 Bonn, Germany.
+(4)Key Laboratory of Biogeography and Bioresource in Arid Land, Xinjiang
+Institute of Ecology and Geography, Chinese Academy of Sciences, Ürűmqi 830011,
+PR China.
+
+The present study was carried out to clarify the taxonomic relationship between
+two closely related Bacillus species, Bacillus okuhidensis Li et al. 2002 and
+Bacillus halodurans (ex Boyer 1973) Nielsen et al. 1995. The maximum-likelihood
+tree based on the 16S rRNA gene sequence and the phylogenomic tree based on
+concatenation of 16 protein-marker genes showed that these species were similar. 
+Average nucleotide identity (ANIm 99.25 %, ANIb 98.2 %) and digital DNA-DNA
+hybridization values (93.5 %) between B. okuhidensis DSM 13666T and B. halodurans
+DSM 497T were greater than the threshold values for bacterial species
+delineation, indicating that they belong to the same species. Therefore, B.
+okuhidensis Li et al. 2002 should be reclassified as a later heterotypic synonym 
+of B. halodurans (ex Boyer 1973) Nielsen et al. 1995.
+
+DOI: 10.1099/ijsem.0.003666 
+PMID: 31436524  [Indexed for MEDLINE]
+

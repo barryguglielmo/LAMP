@@ -1,0 +1,34 @@
+
+1. ChemMedChem. 2020 Sep 23. doi: 10.1002/cmdc.202000680. [Epub ahead of print]
+
+Benzylaminoethylureido-tailed benzenesulfonamides show potent inhibitory action
+against bacterial carbonic anhydrases.
+
+Ali M(1), Bozdag M(2), Angeli A(3), Carta F(2), Capasso C(4), Farooq U(1),
+Supuran CT(2).
+
+Author information: 
+(1)COMSATS University Islamabad, chemistry, PAKISTAN.
+(2)University of Florence: Universita degli Studi di Firenze, NEUROFARBA, ITALY.
+(3)Università degli Studi di Firenze, NEUROFARBA, Via Ugo Schiff 6, 50019, Sesto 
+Fiorentino, ITALY.
+(4)CNR: Consiglio Nazionale delle Ricerche, IBBR, ITALY.
+
+A series of benzylaminoethylureido-tailed benzenesulfonamides was analyzed for
+their inhibition potential against bacterial carbonic anhydrases (CAs) such as
+VhCA α, β, and γ from Vibrio cholerae , and BpsCA β and γ-CAs from Burkholderia
+pseudomallei . Growing drug-resistance against antibiotics demands alternative
+targets and mechanisms of action. As CA is essential for the survival of
+bacteria, such enzymes have the potential for developing new antibiotics. Most of
+the compounds presented excellent inhibition potential against VhCA γ as compared
+to α and β, with K i s in the range of 82.5 - 191.4 nM. Several sulfonamides
+presented excellent inhibition against BpsCA β with K i s in the range of 394 -
+742.8 nM. Recently it has been demonstrated that sufonamides CA inhibitors are
+effective against vancomycin-resistant enterococcus. Such data proved that CA
+inhibition of pathogenic bacteria may lead to a new class of antibiotics.
+
+© 2020 Wiley-VCH GmbH.
+
+DOI: 10.1002/cmdc.202000680 
+PMID: 32966693 
+

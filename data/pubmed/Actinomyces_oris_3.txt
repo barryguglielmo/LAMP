@@ -1,0 +1,54 @@
+
+1. Sci Rep. 2020 May 22;10(1):8520. doi: 10.1038/s41598-020-65256-x.
+
+A Cell-based Screen in Actinomyces oris to Identify Sortase Inhibitors.
+
+Gosschalk JE(1)(2), Chang C(3), Sue CK(1)(2), Siegel SD(4), Wu C(4), Kattke
+MD(1)(2), Yi SW(1), Damoiseaux R(5)(6), Jung ME(1)(7), Ton-That H(8)(9), Clubb
+RT(10)(11)(12).
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, University of California, Los
+Angeles, USA.
+(2)UCLA-DOE Institute of Genomics and Proteomics, University of California, Los
+Angeles, USA.
+(3)Division of Oral Biology and Medicine, University of California, Los Angeles, 
+USA.
+(4)Department of Microbiology and Molecular Genetics, University of Texas Health 
+Science Center, Houston, TX, USA.
+(5)Department of Molecular and Medicinal Pharmacology, University of California, 
+Los Angeles, USA.
+(6)California NanoSystems Institute, University of California, Los Angeles, USA.
+(7)Molecular Biology Institute, University of California, Los Angeles, 611
+Charles Young Drive East, Los Angeles, CA, 90095, USA.
+(8)Division of Oral Biology and Medicine, University of California, Los Angeles, 
+USA. htonthat@dentistry.ucla.edu.
+(9)Department of Molecular and Medicinal Pharmacology, University of California, 
+Los Angeles, USA. htonthat@dentistry.ucla.edu.
+(10)Department of Chemistry and Biochemistry, University of California, Los
+Angeles, USA. rclubb@mbi.ucla.edu.
+(11)UCLA-DOE Institute of Genomics and Proteomics, University of California, Los 
+Angeles, USA. rclubb@mbi.ucla.edu.
+(12)Molecular Biology Institute, University of California, Los Angeles, 611
+Charles Young Drive East, Los Angeles, CA, 90095, USA. rclubb@mbi.ucla.edu.
+
+Sortase enzymes are attractive antivirulence drug targets that attach virulence
+factors to the surface of Staphylococcus aureus and other medically significant
+bacterial pathogens. Prior efforts to discover a useful sortase inhibitor have
+relied upon an in vitro activity assay in which the enzyme is removed from its
+native site on the bacterial surface and truncated to improve solubility. To
+discover inhibitors that are effective in inactivating sortases in vivo, we
+developed and implemented a novel cell-based screen using Actinomyces oris, a key
+colonizer in the development of oral biofilms. A. oris is unique because it
+exhibits sortase-dependent growth in cell culture, providing a robust phenotype
+for high throughput screening (HTS). Three molecules representing two unique
+scaffolds were discovered by HTS and disrupt surface protein display in intact
+cells and inhibit enzyme activity in vitro. This represents the first HTS for
+sortase inhibitors that relies on the simple metric of cellular growth and
+suggests that A. oris may be a useful platform for discovery efforts targeting
+sortase.
+
+DOI: 10.1038/s41598-020-65256-x 
+PMCID: PMC7244523
+PMID: 32444661 
+

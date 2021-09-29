@@ -1,0 +1,42 @@
+
+1. J Fish Dis. 2020 Oct;43(10):1145-1154. doi: 10.1111/jfd.13224. Epub 2020 Jul 27.
+
+Pathogenic characterization of Aeromonas salmonicida subsp. masoucida turbot
+isolate from China.
+
+Wang P(1)(2), Li J(3), He TT(2), Li N(2), Mo ZL(3), Nie P(1)(2)(4), Xie HX(2).
+
+Author information: 
+(1)School of Marine Science and Engineering, Qingdao Agricultural University,
+Qingdao, China.
+(2)State Key Laboratory of Freshwater Ecology and Biotechnology, Institute of
+Hydrobiology, Chinese Academy of Sciences, Wuhan, China.
+(3)Key Laboratory of Maricultural Organism Disease Control, Ministry of
+Agriculture and Rural Affairs, Yellow Sea Fisheries Research Institute, Chinese
+Academy of Fishery Sciences, Qingdao, China.
+(4)Laboratory for Marine Biology and Biotechnology, Pilot National Laboratory for
+Marine Science and Technology, Qingdao, China.
+
+Aeromonas salmonicida is a gram-negative bacterium that is the causative agent of
+furunculosis. An A. salmonicida strain was isolated from diseased turbot
+(Scophthalmus maximus) with the sign of furunculosis from North China. Based on
+vapA gene, the strain was further classified as A. salmonicida subsp. masoucida
+RZ6S-1. Culturing RZ6S-1 strain at high temperature (28°C) obtained the virulence
+attenuated strain RZ6S. Genome sequence comparison between the two strains
+revealed the loss of the type IV secretion system (T4SS) and type III secretion
+system (T3SS) from the native plasmid pAsmB-1 and pAsmC-1 of wild-type strain
+RZ6S-1, respectively. Further study demonstrated that the wild-type strain
+RZ6S-1, but not its derivative mutant RZ6S, can stimulate apoptosis. Elevated
+protein level of cleaved caspase-3 was detected from epithelioma papulosum
+cyprinid (EPC) cells infected with wild-type strain RZ6S-1 as compared with that 
+infected with RZ6S strain. Meanwhile, the invasion of the mutant strain RZ6S was 
+about 17-fold higher than the wild-type strain RZ6S-1, suggesting that some
+protein(s) from A. salmonicida subsp. masoucida RZ6S-1 suppress its invasion. The
+RZ6S mutant strain was attenuated, since its LD50 is over 10,000 times higher
+compared to the wild-type strain as revealed in the turbot infection model.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/jfd.13224 
+PMID: 32720397 
+

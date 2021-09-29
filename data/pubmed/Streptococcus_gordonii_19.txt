@@ -1,0 +1,50 @@
+
+1. PLoS Genet. 2020 Jul 30;16(7):e1008779. doi: 10.1371/journal.pgen.1008779.
+eCollection 2020 Jul.
+
+The DEAD-box RNA helicase CshA is required for fatty acid homeostasis in
+Staphylococcus aureus.
+
+Khemici V(1), Prados J(1), Petrignani B(1), Di Nolfi B(1), Bergé E(1), Manzano
+C(1), Giraud C(1), Linder P(1).
+
+Author information: 
+(1)Department of Microbiology and Molecular Medicine, Faculty of Medicine,
+University of Geneva, Geneva, Switzerland.
+
+Comment in
+    PLoS Genet. 2020 Jul 30;16(7):e1008842.
+
+Staphylococcus aureus is an opportunistic pathogen that can grow in a wide array 
+of conditions: on abiotic surfaces, on the skin, in the nose, in planktonic or
+biofilm forms and can cause many type of infections. Consequently, S. aureus must
+be able to adapt rapidly to these changing growth conditions, an ability largely 
+driven at the posttranscriptional level. RNA helicases of the DEAD-box family
+play an important part in this process. In particular, CshA, which is part of the
+degradosome, is required for the rapid turnover of certain mRNAs and its deletion
+results in cold-sensitivity. To understand the molecular basis of this phenotype,
+we conducted a large genetic screen isolating 82 independent suppressors of cold 
+growth. Full genome sequencing revealed the fatty acid synthesis pathway affected
+in many suppressor strains. Consistent with that result, sublethal doses of
+triclosan, a FASII inhibitor, can partially restore growth of a cshA mutant in
+the cold. Overexpression of the genes involved in branched-chain fatty acid
+synthesis was also able to suppress the cold-sensitivity. Using gas
+chromatography analysis of fatty acids, we observed an imbalance of straight and 
+branched-chain fatty acids in the cshA mutant, compared to the wild-type. This
+imbalance is compensated in the suppressor strains. Thus, we reveal for the first
+time that the cold sensitive growth phenotype of a DEAD-box mutant can be
+explained, at least partially, by an improper membrane composition. The defect
+correlates with an accumulation of the pyruvate dehydrogenase complex mRNA, which
+is inefficiently degraded in absence of CshA. We propose that the resulting
+accumulation of acetyl-CoA fuels straight-chained fatty acid production at the
+expense of the branched ones. Strikingly, addition of acetate into the medium
+mimics the cshA deletion phenotype, resulting in cold sensitivity suppressed by
+the mutations found in our genetic screen or by sublethal doses of triclosan.
+
+DOI: 10.1371/journal.pgen.1008779 
+PMCID: PMC7392221
+PMID: 32730248  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

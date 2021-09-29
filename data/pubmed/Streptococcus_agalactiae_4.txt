@@ -1,0 +1,51 @@
+
+1. Front Microbiol. 2020 Aug 31;11:1993. doi: 10.3389/fmicb.2020.01993. eCollection 
+2020.
+
+Development and Application of a Prophage Integrase Typing Scheme for Group B
+Streptococcus.
+
+Crestani C(1), Forde TL(1), Zadoks RN(1)(2).
+
+Author information: 
+(1)Institute of Biodiversity, Animal Health and Comparative Medicine, University 
+of Glasgow, Glasgow, United Kingdom.
+(2)Sydney School of Veterinary Science, University of Sydney, Camden, NSW,
+Australia.
+
+Group B Streptococcus (GBS) is a gram-positive pathogen mainly affecting humans, 
+cattle, and fishes. Mobile genetic elements play an important role in the
+evolution of GBS, its adaptation to host species and niches, and its
+pathogenicity. In particular, lysogenic prophages have been associated with a
+high virulence of certain strains and with their ability to cause invasive
+infections in humans. It is therefore important to be able to accurately detect
+and classify prophages in GBS genomes. Several bioinformatic tools for the
+identification of prophages in bacterial genomes are available on-line. However, 
+genome searches for most of these programs are affected by the composition of
+their reference database. Lack of databases specific to GBS results in failure to
+recognize all prophages in the species. Additionally, performance of these
+programs is affected by genome fragmentation in the case of draft genomes,
+leading to underestimation of the number of phages. They also prove impractical
+when dealing with large genome datasets and they do not offer a quick way of
+classifying bacteriophages. We developed a GBS-specific method to screen genome
+assemblies for the presence of prophages and to classify them based on a
+reproducible typing scheme. This was achieved through an extensive search of a
+vast number of high-quality GBS sequences (n = 572) originating from different
+host species and countries in order to build a database of phage integrase types,
+on which the scheme is based. The proposed typing scheme comprises 12 integration
+sites and sixteen prophage integrase types, including multiple subtypes per
+integration site and integrase genes that were not site-specific. Two putative
+phage-inducible chromosomal islands (PICI) and their insertion sites were also
+identified during the course of these analyses. Phages were common and diverse in
+all major clonal complexes associated with human disease and detected in isolates
+from every animal species and continent included in the study. This database will
+facilitate further work on the prevalence and role of prophages in GBS evolution,
+and identifies the roles of PICIs in GBS and of prophage in hypervirulent ST283
+as areas for further research.
+
+Copyright © 2020 Crestani, Forde and Zadoks.
+
+DOI: 10.3389/fmicb.2020.01993 
+PMCID: PMC7487436
+PMID: 32983017 
+

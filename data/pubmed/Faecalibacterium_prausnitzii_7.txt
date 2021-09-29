@@ -1,0 +1,48 @@
+
+1. PeerJ. 2020 Aug 3;8:e9622. doi: 10.7717/peerj.9622. eCollection 2020.
+
+Gut microbiota of obese and diabetic Thai subjects and interplay with dietary
+habits and blood profiles.
+
+Gruneck L(1)(2), Kullawong N(2)(3), Kespechara K(4), Popluechai S(1)(2).
+
+Author information: 
+(1)School of Science, Mae Fah Luang University, Muang, Chiang Rai, Thailand.
+(2)Gut Microbiome Research Group, Mae Fah Luang University, Muang, Chiang Rai,
+Thailand.
+(3)School of Health Science, Mae Fah Luang University, Muang, Chiang Rai,
+Thailand.
+(4)Sooksatharana (Social Enterprise) Co., Ltd., Muang, Phuket, Thailand.
+
+Obesity and type 2 diabetes mellitus (T2DM) have become major public health
+issues globally. Recent research indicates that intestinal microbiota play roles 
+in metabolic disorders. Though there are numerous studies focusing on gut
+microbiota of health and obesity states, those are primarily focused on Western
+countries. Comparatively, only a few investigations exist on gut microbiota of
+people from Asian countries. In this study, the fecal microbiota of 30 adult
+volunteers living in Chiang Rai Province, Thailand were examined using
+next-generation sequencing (NGS) in association with blood profiles and dietary
+habits. Subjects were categorized by body mass index (BMI) and health status as
+follows; lean (L) = 8, overweight (OV) = 8, obese (OB) = 7 and diagnosed T2DM =
+7. Members of T2DM group showed differences in dietary consumption and fasting
+glucose level compared to BMI groups. A low level of high-density cholesterol
+(HDL) was observed in the OB group. Principal coordinate analysis (PCoA) revealed
+that microbial communities of T2DM subjects were clearly distinct from those of
+OB. An analogous pattern was additionally illustrated by multiple factor analysis
+(MFA) based on dietary habits, blood profiles, and fecal gut microbiota in BMI
+and T2DM groups. In all four groups, Bacteroidetes and Firmicutes were the
+predominant phyla. Abundance of Faecalibacterium prausnitzii, a
+butyrate-producing bacterium, was significantly higher in OB than that in other
+groups. This study is the first to examine the gut microbiota of adult Thais in
+association with dietary intake and blood profiles and will provide the platform 
+for future investigations.
+
+© 2020 Gruneck et al.
+
+DOI: 10.7717/peerj.9622 
+PMCID: PMC7409811
+PMID: 32832269 
+
+Conflict of interest statement: Kongkiat Kespechara is the president of
+Sooksatharana (Social Enterprise) Co., Ltd, Thailand.
+

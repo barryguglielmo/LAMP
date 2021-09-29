@@ -1,0 +1,42 @@
+
+1. Int Immunol. 2020 Sep 8;32(9):597-603. doi: 10.1093/intimm/dxz085.
+
+Development of prime-boost-type next-generation mucosal vaccines.
+
+Fujimoto K(1)(2), Uematsu S(1)(2)(3).
+
+Author information: 
+(1)Department of Immunology and Genomics, Osaka City University Graduate School
+of Medicine, Asahi-machi, Abeno-ku, Osaka, Japan.
+(2)Division of Innate Immune Regulation, International Research and Development
+Center for Mucosal Vaccines, The Institute of Medical Science, The University of 
+Tokyo, Shirokanedai, Minato-ku, Tokyo, Japan.
+(3)Collaborative Research Institute for Innovative Microbiology, The University
+of Tokyo, Yayoi, Bunkyo-ku, Tokyo, Japan.
+
+Our bodies are constantly exposed to a wide variety of pathogenic micro-organisms
+through mucosal sites. Therefore, effective vaccines that can protect at the
+mucosa are vital; however, only a few clinically established mucosal vaccines are
+available. Although conventional injectable vaccines can induce antigen-specific 
+serum immunoglobulin G (IgG) and prevent severe infection, it is difficult to
+efficiently inhibit the invasion of pathogens at mucosal surfaces because of the 
+inadequate ability to induce antigen-specific IgA. Recently, we have developed a 
+parenteral vaccine with emulsified curdlan and CpG oligodeoxynucleotides and
+reported its application. Unlike other conventional injectable vaccines, this
+immunization contributes to the induction of antigen-specific mucosal and
+systemic immune responses. Even if antigen-specific IgA at the mucosa disappears,
+this immunization can induce high-titer IgA after boosting with a small amount of
+antigen on the target mucosal surface. Indeed, vaccination with Streptococcus
+pneumoniae antigen effectively prevented lung infection induced by this
+bacterium. In addition, vaccination with Clostridium ramosum, which is a
+representative pathobiont associated with obesity and diabetes in humans, reduced
+obesity in mice colonized with this microorganism. This immunization approach
+might be an effective treatment for intestinal bacteria-mediated diseases that
+have been difficult to regulate so far, as well as common infectious diseases.
+
+© The Japanese Society for Immunology. 2019. All rights reserved. For
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/intimm/dxz085 
+PMID: 31882997 
+

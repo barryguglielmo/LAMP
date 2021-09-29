@@ -1,0 +1,41 @@
+
+1. Molecules. 2020 Feb 6;25(3). pii: E709. doi: 10.3390/molecules25030709.
+
+Assessment of Biodegradation Efficiency of Polychlorinated Biphenyls (PCBs) and
+Petroleum Hydrocarbons (TPH) in Soil Using Three Individual Bacterial Strains and
+Their Mixed Culture.
+
+Steliga T(1), Wojtowicz K(1), Kapusta P(2), Brzeszcz J(2).
+
+Author information: 
+(1)Department of Reservoir Fluid Production Technology, Oil and Gas
+Institute-National Research Institute, ul. Lubicz 25 A, 31-503 Krakow, Poland.
+(2)Department of Microbiology, Oil and Gas Institute-National Research Institute,
+ul. Lubicz 25A, 31-503 Krakow, Poland.
+
+Biodegradation is one of the most effective and profitable methods for the
+elimination of toxic polychlorinated biphenyls (PCBs) and total petroleum
+hydrocarbons (TPH) from the environment. In this study, aerobic degradation of
+the mentioned pollutants by bacterial strains Mycolicibacterium frederiksbergense
+IN53, Rhodococcus erythropolis IN129, and Rhodococcus sp. IN306 and mixed culture
+M1 developed based on those strains at 1:1:1 ratio was analyzed. The
+effectiveness of individual strains and of the mixed culture was assessed based
+on carried out respirometric tests and chromatographic analyses. The Rhodococcus 
+sp. IN306 turned out most effective in terms of 18 PCB congeners biodegradation
+(54.4%). The biodegradation index was decreasing with an increasing number of
+chlorine atoms in a molecule. Instead, the Mycolicobacterium frederiksbergense
+IN53 was the best TPH degrader (37.2%). In a sterile soil, contaminated with PCBs
+and TPH, the highest biodegradation effectiveness was obtained using inoculation 
+with mixed culture M1, which allowed to reduce both the PCBs (51.8%) and TPH
+(34.6%) content. The PCBs and TPH biodegradation capacity of the defined mixed
+culture M1 was verified ex-situ with prism method in a non-sterile soil polluted 
+with aged petroleum hydrocarbons (TPH) and spent transformer oil (PCBs). After
+inoculation with mixed culture M1, the PCBs were reduced during 6 months by 84.5%
+and TPH by 70.8% as well as soil toxicity was decreased.
+
+DOI: 10.3390/molecules25030709 
+PMCID: PMC7036857
+PMID: 32041368 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

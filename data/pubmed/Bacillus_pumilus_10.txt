@@ -1,0 +1,42 @@
+
+1. Appl Microbiol Biotechnol. 2020 Sep 12. doi: 10.1007/s00253-020-10897-1. [Epub
+ahead of print]
+
+Enhancing the decolorization activity of Bacillus pumilus W3 CotA-laccase to
+Reactive Black 5 by site-saturation mutagenesis.
+
+Ma H(1), Xu KZ(1), Wang YJ(1), Yan N(1), Liao XR(1), Guan ZB(2).
+
+Author information: 
+(1)The Key Laboratory of Industrial Biotechnology, Ministry of Education, School 
+of Biotechnology, Jiangnan University, Wuxi, 214122, People's Republic of China.
+(2)The Key Laboratory of Industrial Biotechnology, Ministry of Education, School 
+of Biotechnology, Jiangnan University, Wuxi, 214122, People's Republic of China. 
+guanzb@jiangnan.edu.cn.
+
+Reactive Black 5 (RB5) is a typical refractory azo dye. Widespread utilization of
+RB5 has caused a variety of environmental and health problems. The enzymatic
+degradation of RB5 can be a promising solution due to its superiority as an
+eco-friendly and cost-competitive process. Bacterial CotA-laccase shows great
+application prospect to eliminate hazardous dyes from wastewater. However,
+efficient decolorization of RB5 CotA-laccase generally requires the participation
+of costly, toxic mediators. In the present study, we modified the amino acids
+Thr415 and Thr418 near the type 1 copper site and the amino acid Gln442 at the
+entrance of the substrate-binding pocket of Bacillus pumilus W3 CotA-laccase to
+boost its RB5 decolorization activity based on molecular docking analysis and
+site-saturation mutagenesis. Through the strategies, two double site mutants
+T415D/Q442A and T418K/Q442A obtained demonstrated 43.94 and 52.64% RB5
+decolorization rates in the absence of a mediator at pH 10.0, respectively, which
+were about 3.70- and 4.43-fold higher compared with the wild-type CotA-laccase.
+Unexpectedly, the catalytic efficiency of the T418K/Q442A to ABTS was enhanced by
+5.33-fold compared with the wild-type CotA-laccase. The mechanisms of conferring 
+enhanced activity to the mutants were proposed by structural analysis. In
+summary, the mutants T415D/Q442A and T418K/Q442A have good application potentials
+for the biodegradation of RB5. KEY POINTS: • Three amino acids of CotA-laccase
+were manipulated by site-saturation mutagenesis. • Decolorization rate of two
+mutants to RB5 was enhanced 3.70- and 4.43-fold, respectively. • The mechanisms
+of awarding enhanced activity to the mutants were supposed.
+
+DOI: 10.1007/s00253-020-10897-1 
+PMID: 32918582 
+

@@ -1,0 +1,55 @@
+
+1. Data Brief. 2020 May 22;31:105745. doi: 10.1016/j.dib.2020.105745. eCollection
+2020 Aug.
+
+An effective datasets describing antimicrobial peptide produced from Pediococcus 
+acidilactici - purification and mode of action determined by molecular docking.
+
+Chelliah R(1), Saravanakumar K(2), Daliri EB(1), Kim JH(2)(3), Lee JK(2)(3), Jo
+HY(1), Madar IH(4), Kim SH(1), Ramakrishnan SR(5), Rubab M(1), Barathikannan
+K(1), Ofosu FK(1), Subin H(1), Eun-Ji P(1), Elahi F(1), Wang MH(2), Oh DH(1).
+
+Author information: 
+(1)Department of Food Science and Biotechnology, College of Agriculture and Life 
+Sciences, Kangwon National University, Chuncheon, Gangwon-do 24341, Korea.
+(2)Department of Medical Biotechnology, College of Biomedical Sciences, Kangwon
+National University, Chuncheon, Gangwon-do 24341, Korea.
+(3)Erom, Co., Ltd., Chuncheon, Gangwon-do 24427, Korea.
+(4)Department of Biochemistry, School of Life Science, Bharathidasan, University,
+Thiruchirappalli, Tamilnadu, India.
+(5)School of Food Science and Biotechnology, Kyungpook National University,
+Daegu, South Korea.
+
+Most of the probiotics Bacterial cells, express native antibacterial genes,
+resulting in the production of, antimicrobial peptides, which have various
+applications in biotechnology and drug development. But the identification of
+antibacterial peptide, structural characterization of antimicrobial peptide and
+prediction on mode of action. Regardless of the significance of protein
+manufacturing, three individual factors are required for the production method:
+gene expression, stabilization and specific peptide purification. Our protocol
+describes a straightforward technique of detecting and characterizing particular 
+extracellular peptides and enhancing the antimicrobial peptide expression we
+optimized using low molecular weight peptides. This protocol can be used to
+improve peptide detection and expression. The following are the benefits of this 
+method, (DOI - https://doi.org/10.1016/j.ijbiomac.2019.10.196 [1]). The data
+briefly describe a simple method in detection identification, characterization of
+antimicrobial extracellular peptide, predicating the mode of action of peptide in
+targeting pathogens (In-silico method), brief method on profiling of
+antimicrobial peptide and its mode of action [1]. Further the protocol can be
+used to enhance the specific peptide expressions, detection of peptides. The
+advantages of this technique are presented below:•Characterization protocol of
+specific antimicrobial peptide•The folded antimicrobial peptide expression were
+less expressed or non-expressed peptides.•Besides being low cost, less
+time-consuming, easy to handle, universal and fast to execute, the suggested
+technique can be used for multiple proteins expressed in probiotics
+(Lactobacillus species) expression system.
+
+© 2020 The Author(s).
+
+DOI: 10.1016/j.dib.2020.105745 
+PMCID: PMC7287260
+PMID: 32551342 
+
+Conflict of interest statement: There is no conflict of interest between the
+authors.
+

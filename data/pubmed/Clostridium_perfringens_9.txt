@@ -1,0 +1,46 @@
+
+1. Microb Genom. 2020 Sep 25. doi: 10.1099/mgen.0.000441. [Epub ahead of print]
+
+Phylogenetic and genomic analysis reveals high genomic openness and genetic
+diversity of Clostridium perfringens.
+
+Feng Y(1), Fan X(2), Zhu L(2), Yang X(1), Liu Y(1), Gao S(3), Jin X(1), Liu D(1),
+Ding J(2), Guo Y(1), Hu Y(1).
+
+Author information: 
+(1)State Key Laboratory of Animal Nutrition, College of Animal Science and
+Technology, China Agricultural University, Beijing 100193, PR China.
+(2)China Institute of Veterinary Drug Control, Beijing 100081, PR China.
+(3)Dandong Customs, Liaoning 118000, PR China.
+
+Clostridium perfringens is associated with a variety of diseases in both humans
+and animals. Recent advances in genomic sequencing make it timely to re-visit
+this important pathogen. Although the genome sequence of C. perfringens was first
+determined in 2002, large-scale comparative genomics with isolates of different
+origins is still lacking. In this study, we used whole-genome sequencing of 45 C.
+perfringens isolates with isolation time spanning an 80-year period and performed
+comparative analysis of 173 genomes from worldwide strains. We also conducted
+phylogenetic lineage analysis and introduced an openness index (OI) to evaluate
+the openness of bacterial genomes. We classified all these genomes into five
+lineages and hypothesized that the origin of C. perfringens dates back to
+~80 000 years ago. We showed that the pangenome of the 173 C. perfringens strains
+contained a total of 26 954 genes, while the core genome comprised 1020 genes,
+accounting for about a third of the genome of each isolate. We demonstrated that 
+C. perfringens had the highest OI compared with 51 other bacterial species.
+Intact prophage sequences were found in nearly 70.0 % of C. perfringens genomes, 
+while CRISPR sequences were found only in ~40.0 %. Plasmids were prevalent in C. 
+perfringens isolates, and half of the virulence genes and antibiotic resistance
+genes (ARGs) identified in all the isolates could be found in plasmids.
+ARG-sharing network analysis showed that C. perfringens shared its 11 ARGs with
+55 different bacterial species, and a high frequency of ARG transfer may have
+occurred between C. perfringens and species in the genera Streptococcus and
+Staphylococcus. Correlation analysis showed that the ARG number in C. perfringens
+strains increased with time, while the virulence gene number was relative stable.
+Our results, taken together with previous studies, revealed the high genome
+openness and genetic diversity of C. perfringens and provide a comprehensive view
+of the phylogeny, genomic features, virulence gene and ARG profiles of worldwide 
+strains.
+
+DOI: 10.1099/mgen.0.000441 
+PMID: 32975504 
+

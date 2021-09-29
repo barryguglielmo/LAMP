@@ -1,0 +1,54 @@
+
+1. PLoS One. 2019 Dec 11;14(12):e0225858. doi: 10.1371/journal.pone.0225858.
+eCollection 2019.
+
+California condor microbiomes: Bacterial variety and functional properties in
+captive-bred individuals.
+
+Jacobs L(1), McMahon BH(1), Berendzen J(2), Longmire J(1), Gleasner C(1),
+Hengartner NW(1), Vuyisich M(3), Cohn JR(1), Jenkins M(4), Bartlow AW(1), Fair
+JM(1).
+
+Author information: 
+(1)Los Alamos National Laboratory, Los Alamos, New Mexico, United States of
+America.
+(2)GenerisBio, Santa Fe, New Mexico, United States of America.
+(3)Viome, Los Alamos, New Mexico, United States of America.
+(4)The Peregrine Fund, Boise, Idaho, United States of America.
+
+Erratum in
+    PLoS One. 2020 Mar 16;15(3):e0230738.
+
+Around the world, scavenging birds such as vultures and condors have been
+experiencing drastic population declines. Scavenging birds have a distinct
+digestive process to deal with higher amounts of bacteria in their primary diet
+of carcasses in varying levels of decay. These observations motivate us to
+present an analysis of captive and healthy California condor (Gymnogyps
+californianus) microbiomes to characterize a population raised together under
+similar conditions. Shotgun metagenomic DNA sequences were analyzed from fecal
+and cloacal samples of captive birds. Classification of shotgun DNA sequence data
+with peptide signatures using the Sequedex package provided both phylogenetic and
+functional profiles, as well as individually annotated reads for targeted
+confirmatory analysis. We observed bacterial species previously associated with
+birds and gut microbiomes, including both virulent and opportunistic pathogens
+such as Clostridium perfringens, Propionibacterium acnes, Shigella flexneri, and 
+Fusobacterium mortiferum, common flora such as Lactobacillus johnsonii,
+Lactobacillus ruminus, and Bacteroides vulgatus, and mucosal microbes such as
+Delftia acidovorans, Stenotrophomonas maltophilia, and Corynebacterium falsnii.
+Classification using shotgun metagenomic reads from phylogenetic marker genes was
+consistent with, and more specific than, analysis based on 16S rDNA data.
+Classification of samples based on either phylogenetic or functional profiles of 
+genomic fragments differentiated three types of samples: fecal, mature cloacal
+and immature cloacal, with immature birds having approximately 40% higher
+diversity of microbes.
+
+DOI: 10.1371/journal.pone.0225858 
+PMCID: PMC6905524
+PMID: 31825977  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest regarding the publication of this paper. All work was completed and
+funded at Los Alamos National Laboratory. Two authors (MV and JB) have since left
+Los Alamos National Laboratory and their new commercial affiliations and this
+does not alter our adherence to PLOS ONE policies on sharing data and materials.
+

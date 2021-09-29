@@ -1,0 +1,41 @@
+
+1. J Mol Model. 2020 Jul 7;26(8):200. doi: 10.1007/s00894-020-04459-5.
+
+Molecular basis of the beta-lactamase protein using comparative modelling, drug
+screening and molecular dynamics studies to understand the resistance of β-lactam
+antibiotics.
+
+Alazmi M(1).
+
+Author information: 
+(1)Department of Computer Science, College of Computer Science and Engineering,
+University of Ha'il, P.O. Box 2440, Ha'il, 81481, Saudi Arabia.
+ms.alazmi@uoh.edu.sa.
+
+Beta-lactamase (ampC) in general causes the onset of antibiotic resistance in
+pathogenic bacteria against the β-lactam antibiotics. Morganella morganii which
+belongs to the Proteae tribe of the Enterobacteriaceae family is a Gram-negative 
+bacillus. Gram-negative bacteria are the key problematic agents among the human
+population in overexpressing resistance against β-lactam antibiotics. These
+β-lactam antibiotics being experimentally well studied still lack the key
+information and mechanism for their resistance. The structural information of the
+ampC protein is unknown and poorly studied; hence, it is the need of the hour to 
+find effective inhibitors against it. In our study, the prediction of the
+three-dimensional structure of ampC protein from Morganella morganii was
+performed using a comparative modelling approach. The predicted structure was
+energetically stabilized and functional conformations were mapped through 100-ns 
+molecular dynamics simulation runs. Also, Ramachandran plot shows the model to be
+stereo-chemically stable with most residues found under core allowed regions.
+Drug screening with several experimentally tested inhibitors was then confirmed
+to check the activity against ampC protein using an AutoDock tool. The results
+suggested OncoglabrinolC molecule as the best inhibitor (out of 21 drug
+molecules) with a binding affinity of - 11.44 kcal/mol.
+Anti-bacterial/anti-parasitic inhibitors have not only been used against
+bacterial infections, but later reports have also shown them to work against
+deadly viruses such as SARS-CoV2. This key structural and inhibitory information 
+is certain to help in the discovery of specific and potent substitute therapeutic
+drugs and the development of experimental procedures against human infection.
+
+DOI: 10.1007/s00894-020-04459-5 
+PMID: 32638150 
+

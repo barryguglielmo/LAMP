@@ -1,0 +1,39 @@
+
+1. Antioxidants (Basel). 2020 Sep 10;9(9). pii: E849. doi: 10.3390/antiox9090849.
+
+Insights into the Oxidative Stress Response of Salmonella enterica serovar
+Enteritidis Revealed by the Next Generation Sequencing Approach.
+
+Liu X(1), Omar M(1), Abrahante JE(2), Nagaraja KV(1), Vidovic S(1)(3).
+
+Author information: 
+(1)Department of Veterinary and Biomedical Sciences, University of Minnesota,
+Saint Paul, MN 55108, USA.
+(2)University of Minnesota Informatics Institute, University of Minnesota,
+Minneapolis, MN 55455, USA.
+(3)The New Zealand Institute for Plant and Food Research, 1025 Auckland, New
+Zealand.
+
+As a facultative intracellular pathogen, Salmonella Enteritidis must develop an
+effective oxidative stress response to survive exposure to reactive oxygen
+species within the host. To study this defense mechanism, we carried out a series
+of oxidative stress assays in parallel with a comparative transcriptome analyses 
+using a next generation sequencing approach. It was shown that the expression of 
+45% of the genome was significantly altered upon exposure to H2O2. Quantitatively
+the most significant (≥100 fold) gene expression alterations were observed among 
+genes encoding the sulfur utilization factor of Fe-S cluster formation and iron
+homeostasis. Our data point out the multifaceted nature of the oxidative stress
+response. It includes not only numerous mechanisms of DNA and protein repair and 
+redox homeostasis, but also the key genes associated with osmotic stress,
+multidrug efflux, stringent stress, decrease influx of small molecules, manganese
+and phosphate starvation stress responses. Importantly, this study revealed that 
+oxidatively stressed S. Enteritidis cells simultaneously repressed key motility
+encoding genes and induced a wide range of adhesin- and salmonellae-essential
+virulence-encoding genes, that are critical for the biofilm formation and
+intracellular survival, respectively. This finding indicates a potential
+intrinsic link between oxidative stress and pathogenicity in non-typhoidal
+Salmonella that needs to be empirically evaluated.
+
+DOI: 10.3390/antiox9090849 
+PMID: 32927804 
+

@@ -1,0 +1,39 @@
+
+1. Microbes Environ. 2020;35(2). doi: 10.1264/jsme2.ME19155.
+
+Diversity of Antibiotic Biosynthesis Gene-possessing Rhizospheric Fluorescent
+Pseudomonads in Japan and Their Biocontrol Efficacy.
+
+Someya N(1), Kubota M(1), Takeuchi K(2), Unno Y(3), Sakuraoka R(4), Morohoshi
+T(5).
+
+Author information: 
+(1)Institute of Vegetable and Floriculture Science, National Agriculture and Food
+Research Organization (NARO).
+(2)Institute of Agrobiological Sciences, NARO.
+(3)Institute for Environmental Sciences.
+(4)Department of Innovation Systems Engineering, Graduate School of Engineering, 
+Utsunomiya University.
+(5)Department of Material and Environmental Chemistry, Graduate School of
+Engineering, Utsunomiya University.
+
+More than 3,000 isolates of fluorescent pseudomonads have been collected from
+plant roots in Japan and screened for the presence of antibiotic-synthesizing
+genes. In total, 927 hydrogen cyanide (HCN)-, 47 2,4-diacetylphloroglucinol
+(PHL)-, 6 pyoluteorin (PLT)-, 14 pyrrolnitrin (PRN)-, and 8 phenazine
+(PHZ)-producing isolates have been detected. A cluster analysis (≥99% identity)
+identified 10 operational taxonomic units (OTUs) in antibiotic biosynthesis
+gene-possessing pseudomonads. OTU HLR (PHL, PLT, and PRN) contained four
+antibiotics: HCN, PHL, PLT, and PRN, while OTU RZ (PRN and PHZ) contained three: 
+HCN, PRN, and PHZ. OTU H1, H2, H3, H4, H5, H6, and H7 (PHL1-7) contained two
+antibiotics: HCN and PHL, while OTU H8 (PHL8) contained one: PHL. Isolates
+belonging to OTU HLR and RZ suppressed damping-off disease in cabbage seedlings
+caused by Rhizoctonia solani. Effective strains belonging to OTU HLR and RZ were 
+related to Pseudomonas protegens and Pseudomonas chlororaphis, respectively.
+Antibiotic biosynthesis gene-possessing fluorescent pseudomonads are distributed 
+among different geographical sites in Japan and plant species.
+
+DOI: 10.1264/jsme2.ME19155 
+PMCID: PMC7308580
+PMID: 32269203 
+

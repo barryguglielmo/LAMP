@@ -1,0 +1,55 @@
+
+1. Antimicrob Agents Chemother. 2020 Apr 21;64(5). pii: e02502-19. doi:
+10.1128/AAC.02502-19. Print 2020 Apr 21.
+
+Co-occurrence of Plasmid-Mediated Tigecycline and Carbapenem Resistance in
+Acinetobacter spp. from Waterfowls and Their Neighboring Environment.
+
+Cui CY(#)(1)(2), Chen C(#)(1)(2), Liu BT(#)(3), He Q(1)(2), Wu XT(1)(2), Sun
+RY(1)(2), Zhang Y(1)(2), Cui ZH(1)(2), Guo WY(1)(2), Jia QL(1)(2), Li C(1)(2),
+Kreiswirth BN(4), Liao XP(1)(2)(5), Chen L(4), Liu YH(1)(2)(5), Sun J(6)(2)(5).
+
+Author information: 
+(1)National Risk Assessment Laboratory for Antimicrobial Resistance of Animal
+Original Bacteria, South China Agricultural University, Guangzhou, China.
+(2)Guangdong Laboratory for Lingnan Modern Agriculture, Guangzhou, Guangdong,
+China.
+(3)College of Veterinary Medicine, Qingdao Agricultural University, Qingdao,
+China.
+(4)Hackensack-Meridian Health Center for Discovery and Innovation, Nutley, New
+Jersey, USA.
+(5)Guangdong Provincial Key Laboratory of Veterinary Pharmaceutics Development
+and Safety Evaluation, South China Agricultural University, Guangzhou, China.
+(6)National Risk Assessment Laboratory for Antimicrobial Resistance of Animal
+Original Bacteria, South China Agricultural University, Guangzhou, China
+jiansun@scau.edu.cn.
+(#)Contributed equally
+
+Tigecycline serves as one of the antibiotics of last resort to treat
+multidrug-resistant (including carbapenem-resistant) pathogens. However, the
+recently emerged plasmid-mediated tigecycline resistance mechanism, Tet(X),
+challenges the clinical efficacy of this class of antibiotics. In this study, we 
+detected 180 tet(X)-harboring Acinetobacter isolates (8.9%, n = 180) from 2,018
+samples collected from avian farms and adjacent environments in China. Eighteen
+tet(X)-harboring isolates (10.0%) were found to cocarry the carbapenemase gene
+bla NDM-1, mostly from waterfowl samples (94.4%, 17/18). Interestingly, among six
+Acinetobacter strains, tet(X) and bla NDM-1 were found to colocalize on the same 
+plasmids. Moreover, whole-genome sequencing (WGS) revealed a novel orthologue of 
+tet(X) in the six isolates coharboring tet(X) and bla NDM-1 Inverse PCR suggested
+that the two tet(X) genes form a single transposable unit and may be
+cotransferred. Sequence comparison between six tet(X)- and bla NDM-1-coharboring 
+plasmids showed that they shared a highly homologous plasmid backbone even though
+they were isolated from different Acinetobacter species (three from Acinetobacter
+indicus, two from Acinetobacter schindleri, and one from Acinetobacter lwoffii)
+from various sources and from different geological regions, suggesting the
+horizontal genetic transfer of a common tet(X)- and bla NDM-1-coharboring plasmid
+among Acinetobacter species in China. Emergence and spread of such plasmids and
+strains are of great clinical concern, and measures must be implemented to avoid 
+their dissemination.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.02502-19 
+PMCID: PMC7179582 [Available on 2020-10-21]
+PMID: 32122894 
+

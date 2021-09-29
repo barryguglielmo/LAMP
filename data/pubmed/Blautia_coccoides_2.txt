@@ -1,0 +1,51 @@
+
+1. Curr Biol. 2020 Mar 23;30(6):1049-1062.e7. doi: 10.1016/j.cub.2020.01.050. Epub
+2020 Mar 5.
+
+Specific Eco-evolutionary Contexts in the Mouse Gut Reveal Escherichia coli
+Metabolic Versatility.
+
+Barroso-Batista J(1), Pedro MF(1), Sales-Dias J(2), Pinto CJG(1), Thompson JA(1),
+Pereira H(3), Demengeot J(1), Gordo I(1), Xavier KB(4).
+
+Author information: 
+(1)Instituto Gulbenkian de Ciência, 2780-156 Oeiras, Portugal.
+(2)Instituto Gulbenkian de Ciência, 2780-156 Oeiras, Portugal; Instituto de
+Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa,
+2780-157 Oeiras, Portugal.
+(3)Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova 
+de Lisboa, 2780-157 Oeiras, Portugal.
+(4)Instituto Gulbenkian de Ciência, 2780-156 Oeiras, Portugal. Electronic
+address: kxavier@igc.gulbenkian.pt.
+
+Members of the gut microbiota are thought to experience strong competition for
+nutrients. However, how such competition shapes their evolutionary dynamics and
+depends on intra- and interspecies interactions is poorly understood. Here, we
+test the hypothesis that Escherichia coli evolution in the mouse gut is more
+predictable across hosts in the absence of interspecies competition than in the
+presence of other microbial species. In support, we observed that lrp, a gene
+encoding a global regulator of amino acid metabolism, was repeatedly selected in 
+germ-free mice 2 weeks after mono-colonization by this bacterium. We established 
+that this specific genetic adaptation increased E. coli's ability to compete for 
+amino acids, and analysis of gut metabolites identified serine and threonine as
+the metabolites preferentially consumed by E. coli in the mono-colonized mouse
+gut. Preference for serine consumption was further supported by testing a set of 
+mutants that showed loss of advantage of an lrp mutant impaired in serine
+metabolism in vitro and in vivo. Remarkably, the presence of a single additional 
+member of the microbiota, Blautia coccoides, was sufficient to alter the gut
+metabolome and, consequently, the evolutionary path of E. coli. In this
+environment, the fitness advantage of the lrp mutant bacteria is lost, and
+mutations in genes involved in anaerobic respiration were selected instead,
+recapitulating the eco-evolutionary context from mice with a complex microbiota. 
+Together, these results highlight the metabolic plasticity and evolutionary
+versatility of E. coli, tailored to the specific ecology it experiences in the
+gut.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cub.2020.01.050 
+PMID: 32142697 
+
+Conflict of interest statement: Declaration of Interests The authors declare no
+competing interests.
+

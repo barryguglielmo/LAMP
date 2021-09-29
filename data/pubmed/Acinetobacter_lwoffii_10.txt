@@ -1,0 +1,70 @@
+
+1. Genome Biol. 2020 Mar 3;21(1):55. doi: 10.1186/s13059-020-01964-x.
+
+Longitudinal survey of microbiome associated with particulate matter in a
+megacity.
+
+Qin N(1)(2), Liang P(3)(4), Wu C(5), Wang G(4), Xu Q(6)(5), Xiong X(5), Wang
+T(5), Zolfo M(7), Segata N(7), Qin H(6), Knight R(8)(9)(10), Gilbert
+JA(11)(12)(13), Zhu TF(14).
+
+Author information: 
+(1)Institute of Intestinal Diseases, Department of General Surgery, Shanghai
+Tenth People's Hospital, Tongji University School of Medicine, Shanghai, 200072, 
+China. qinnan001@126.com.
+(2)Realbio Genomics Institute, Shanghai, 200050, China. qinnan001@126.com.
+(3)School of Life Sciences, Peking University, Beijing, 100871, China.
+(4)School of Life Sciences, Tsinghua-Peking Center for Life Sciences, Beijing
+Frontier Research Center for Biological Structure, Center for Synthetic and
+Systems Biology, Ministry of Education Key Laboratory of Bioorganic Phosphorus
+Chemistry and Chemical Biology, Ministry of Education Key Laboratory of
+Bioinformatics, Tsinghua University, Beijing, 100084, China.
+(5)Realbio Genomics Institute, Shanghai, 200050, China.
+(6)Institute of Intestinal Diseases, Department of General Surgery, Shanghai
+Tenth People's Hospital, Tongji University School of Medicine, Shanghai, 200072, 
+China.
+(7)Centre for Integrative Biology, University of Trento, 38123, Trento, Italy.
+(8)Department of Pediatrics, School of Medicine, University of California, San
+Diego, La Jolla, CA, USA.
+(9)Department of Computer Science and Engineering, University of California, San 
+Diego, La Jolla, CA, USA.
+(10)Center for Microbiome Innovation, University of California, San Diego, La
+Jolla, CA, USA.
+(11)Department of Pediatrics, School of Medicine, University of California, San
+Diego, La Jolla, CA, USA. gilbertjack@gmail.com.
+(12)Center for Microbiome Innovation, University of California, San Diego, La
+Jolla, CA, USA. gilbertjack@gmail.com.
+(13)Scripps Institution of Oceanography, University of California, San Diego, La 
+Jolla, CA, 92093, USA. gilbertjack@gmail.com.
+(14)School of Life Sciences, Tsinghua-Peking Center for Life Sciences, Beijing
+Frontier Research Center for Biological Structure, Center for Synthetic and
+Systems Biology, Ministry of Education Key Laboratory of Bioorganic Phosphorus
+Chemistry and Chemical Biology, Ministry of Education Key Laboratory of
+Bioinformatics, Tsinghua University, Beijing, 100084, China.
+tzhu@tsinghua.edu.cn.
+
+BACKGROUND: While the physical and chemical properties of airborne particulate
+matter (PM) have been extensively studied, their associated microbiome remains
+largely unexplored. Here, we performed a longitudinal metagenomic survey of 106
+samples of airborne PM2.5 and PM10 in Beijing over a period of 6 months in 2012
+and 2013, including those from several historically severe smog events.
+RESULTS: We observed that the microbiome composition and functional potential
+were conserved between PM2.5 and PM10, although considerable temporal variations 
+existed. Among the airborne microorganisms, Propionibacterium acnes, Escherichia 
+coli, Acinetobacter lwoffii, Lactobacillus amylovorus, and Lactobacillus reuteri 
+dominated, along with several viral species. We further identified an extensive
+repertoire of genes involved in antibiotic resistance and detoxification,
+including transporters, transpeptidases, and thioredoxins. Sample stratification 
+based on Air Quality Index (AQI) demonstrated that many microbial species,
+including those associated with human, dog, and mouse feces, exhibit
+AQI-dependent incidence dynamics. The phylogenetic and functional diversity of
+air microbiome is comparable to those of soil and water environments, as its
+composition likely derives from a wide variety of sources.
+CONCLUSIONS: Airborne particulate matter accommodates rich and dynamic microbial 
+communities, including a range of microbial elements that are associated with
+potential health consequences.
+
+DOI: 10.1186/s13059-020-01964-x 
+PMCID: PMC7055069
+PMID: 32127018 
+

@@ -1,0 +1,56 @@
+
+1. Ecotoxicol Environ Saf. 2020 Jun 15;196:110498. doi:
+10.1016/j.ecoenv.2020.110498. Epub 2020 Apr 2.
+
+Effect of rhizospheric inoculation of isolated arsenic (As) tolerant strains on
+growth, As-uptake and bacterial communities in association with Adiantum
+capillus-veneris.
+
+Marwa N(1), Mishra N(2), Singh N(3), Mishra A(2), Saxena G(4), Pandey V(3), Singh
+N(5).
+
+Author information: 
+(1)Plant Ecology and Climate Change Science, National Botanical Research
+Institute, Rana Pratap Marg, Lucknow, 226001, UP, India; Department of Botany,
+University of Lucknow, UP, India. Electronic address: naina.marwa@gmail.com.
+(2)Division of Microbial Technology, National Botanical Research Institute, Rana 
+Pratap Marg, Lucknow, 226001, UP, India.
+(3)Plant Ecology and Climate Change Science, National Botanical Research
+Institute, Rana Pratap Marg, Lucknow, 226001, UP, India.
+(4)Department of Botany, University of Lucknow, UP, India.
+(5)Plant Ecology and Climate Change Science, National Botanical Research
+Institute, Rana Pratap Marg, Lucknow, 226001, UP, India. Electronic address:
+nanditasingh8@yahoo.co.in.
+
+Two arsenic (As) hyper-tolerant bacterial strains NM01 Paracoccus versutus and
+NM04 Aeromonas caviae were isolated from As polluted site of West Bengal, India. 
+The strains not only possess the potential to tolerate up to 20,000 mgl-1 As(V)
+and 10,000 mgl-1 As(III) but also possess plant growth promoting (PGP) traits
+like phosphate solubilization, siderophore production, IAA production. Greenhouse
+pot experiments were conducted to assess the effect of rhizospheric inoculation
+of both the strains individually and in consortia in As accumulation by Adiantum 
+capillus-veneries. It was observed that the microbial inoculation significantly
+(p < 0.05) increased the synthesis of thiolic compounds and thus, enhanced As
+accumulation with translocation factor (TF) > 1. The strains regulated endogenous
+phytohormone up to 90% and 77.9% increase in auxin of consortia inoculated root
+and shoot, respectively. Interestingly, inoculation of the isolated strains
+augmented rhizospheric microbial diversity which was negatively affected by heavy
+metal. The results of high-throughput Illumina MiSeq sequencing technique to
+observe the composition of the bacterial community revealed 11,536 unique
+bacterial operational taxonomic units (OTUs) from As + S (non-inoculated),
+whereas 11,884 from Consortia As + S (inoculated) rhizospheric soil samples.
+Inoculated soil displayed higher bacterial diversity indices (ACE and Chao 1)
+with the dominant bacterial phyla Proteobacteria, Actinobacteria and Firmicutes. 
+Our results highlight the innate PGP abilities of the strains and its potential
+to facilitate phytoextraction by enhancing As accumulation in the shoot.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ecoenv.2020.110498 
+PMID: 32247957  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interests The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

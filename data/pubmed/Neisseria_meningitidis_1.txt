@@ -1,0 +1,55 @@
+
+1. PLoS Pathog. 2020 Oct 2;16(10):e1008882. doi: 10.1371/journal.ppat.1008882. [Epub
+ahead of print]
+
+4CMenB vaccine induces elite cross-protective human antibodies that compete with 
+human factor H for binding to meningococcal fHbp.
+
+Veggi D(1), Bianchi F(2), Santini L(1), Lo Surdo P(3), Chesterman CC(3),
+Pansegrau W(1), Bechi N(1), Huang Y(3), Masignani V(1), Pizza M(1), Rappuoli
+R(1), Bottomley MJ(3), Cozzi R(1), Maione D(1).
+
+Author information: 
+(1)GSK, Siena, Italy.
+(2)University of Florence, Firenze, Italy.
+(3)GSK, Rockville, MD, United States of America.
+
+Neisseria meningitidis serogroup B (MenB) is the leading cause of meningococcal
+meningitis and sepsis in industrialized countries, with the highest incidence in 
+infants and adolescents. Two recombinant protein vaccines that protect against
+MenB are now available (i.e. 4CMenB and MenB-fHbp). Both vaccines contain the
+Factor H Binding Protein (fHbp) antigen, which can bind the Human Factor H (fH), 
+the main negative regulator of the alternative complement pathway, thus enabling 
+bacterial survival in the blood. fHbp is present in meningococcal strains as
+three main variants which are immunologically distinct. Here we sought to obtain 
+detailed information about the epitopes targeted by anti-fHbp antibodies induced 
+by immunization with the 4CMenB multicomponent vaccine. Thirteen anti-fHbp human 
+monoclonal antibodies (mAbs) were identified in a library of over 100 antibody
+fragments (Fabs) obtained from three healthy adult volunteers immunized with
+4CMenB. Herein, the key cross-reactive mAbs were further characterized for
+antigen binding affinity, complement-mediated serum bactericidal activity (SBA)
+and the ability to inhibit binding of fH to live bacteria. For the first time, we
+identified a subset of anti-fHbp mAbs able to elicit human SBA against strains
+with all three variants and able to compete with human fH for fHbp binding. We
+present the crystal structure of fHbp v1.1 complexed with human antibody 4B3. The
+structure, combined with mutagenesis and binding studies, revealed the critical
+cross-reactive epitope. The structure also provided the molecular basis of
+competition for fH binding. These data suggest that the fH binding site on fHbp
+v.1.1 can be accessible to the human immune system upon immunization, enabling
+elicitation of human mAbs broadly protective against MenB. The novel structural, 
+biochemical and functional data are of great significance because the human
+vaccine-elicited mAbs are the first reported to inhibit the binding of fH to
+fHbp, and are bactericidal with human complement. Our studies provide molecular
+insights into the human immune response to the 4CMenB meningococcal vaccine and
+fuel the rationale for combined structural, immunological and functional studies 
+when seeking deeper understanding of the mechanisms of action of human vaccines.
+
+DOI: 10.1371/journal.ppat.1008882 
+PMID: 33007046 
+
+Conflict of interest statement: I have read the journal's policy and the authors 
+of this manuscript have the following competing interests: All authors except
+Federica Bianchi were permanent employees of Novartis Vaccines at the time of the
+study and are now permanent employees of the GSK group of companies. Several
+authors are listed as inventors on patents owned by the GSK group of companies.
+

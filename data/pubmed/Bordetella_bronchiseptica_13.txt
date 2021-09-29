@@ -1,0 +1,46 @@
+
+1. Biomolecules. 2020 May 19;10(5). pii: E785. doi: 10.3390/biom10050785.
+
+Green Synthesis of MnO Nanoparticles Using Abutilon indicum Leaf Extract for
+Biological, Photocatalytic, and Adsorption Activities.
+
+Khan SA(1), Shahid S(2), Shahid B(2), Fatima U(2), Abbasi SA(3).
+
+Author information: 
+(1)Center of Super-Diamond and Advanced Films (COSDAF), Department of Chemistry, 
+City University of Hong Kong, 83 Tat Chee Avenue, Kowloon, Hong Kong, China.
+(2)Department of Chemistry, University of Management and Technology,
+Lahore-54770, Pakistan.
+(3)Department of Mathematics, Statistics, and Physics, Qatar University, Doha
+2713, Qatar.
+
+We report the synthesis of MnO nanoparticles (AI-MnO NAPs) using biological
+molecules of Abutilon indicum leaf extract. Further, they were evaluated for
+antibacterial and cytotoxicity activity against different pathogenic microbes
+(Escherichia coli, Bordetella bronchiseptica, Staphylococcus aureus, and Bacillus
+subtilis) and HeLa cancerous cells. Synthesized NAPs were also investigated for
+photocatalytic dye degradation potential against methylene blue (MB), and
+adsorption activity against Cr(VI) was also determined. Results from Scanning
+electron microscope (SEM), X-ray powder diffraction (XRD), Energy-dispersive
+X-ray (EDX), and Fourier-transform infrared spectroscopy (FTIR) confirmed the
+successful synthesis of NAPs with spherical morphology and crystalline nature.
+Biological activity results demonstrated that synthesized AI-MnO NAPs exhibited
+significant antibacterial and cytotoxicity propensities against pathogenic
+microbes and cancerous cells, respectively, compared with plant extract.
+Moreover, synthesized AI-MnO NAPs demonstrated the comparable biological
+activities results to standard drugs. These excellent biological activities
+results are attributed to the existence of the plant's biological molecules on
+their surfaces and small particle size (synergetic effect). Synthesized NAPs
+displayed better MB-photocatalyzing properties under sunlight than an ultraviolet
+lamp. The Cr(VI) adsorption result showed that synthesized NAPs efficiently
+adsorbed more Cr(VI) at higher acidic pH than at basic pH. Hence, the current
+findings suggest that Abutilon indicum is a valuable source for tailoring the
+potential of NAPs toward various enhanced biological, photocatalytic, and
+adsorption activities. Consequently, the plant's biological molecule-mediated
+synthesized AI-MnO NAPs could be excellent contenders for future therapeutic
+applications.
+
+DOI: 10.3390/biom10050785 
+PMCID: PMC7277848
+PMID: 32438654 
+

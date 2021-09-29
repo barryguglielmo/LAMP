@@ -1,0 +1,48 @@
+
+1. PLoS One. 2019 Dec 23;14(12):e0226576. doi: 10.1371/journal.pone.0226576.
+eCollection 2019.
+
+Kinetics of the thermal inactivation and the refolding of bacterial luciferases
+in Bacillus subtilis and in Escherichia coli differ.
+
+Gnuchikh E(1)(2), Baranova A(1)(3)(4), Schukina V(1), Khaliullin I(1),
+Zavilgelsky G(2), Manukhov I(1)(2).
+
+Author information: 
+(1)Moscow Institute of Physics and Technology, Dolgoprudny, Moscow Region,
+Russia.
+(2)National Research Center, Kurchatov Institute, GOSNIIGENETIKA, Moscow, Russia.
+(3)School of Systems Biology, George Mason University, Fairfax, VA, United States
+of America.
+(4)Research Centre for Medical Genetics, Moscow, Russia.
+
+Here we present a study of the thermal inactivation and the refolding of the
+proteins in Gram positive Bacillus subtilis. To enable use of bacterial
+luciferases as the models for protein thermal inactivation and refolding in B.
+subtilis cells, we developed a variety of bright luminescent B. subtilis strains 
+which express luxAB genes encoding luciferases of differing thermolability. The
+kinetics of the thermal inactivation and the refolding of luciferases from
+Photorhabdus luminescens and Photobacterium leiognathi were compared in Gram
+negative and Gram positive bacteria. In B. subtilis cells, these luciferases are 
+substantially more thermostable than in Escherichia coli. Thermal inactivation of
+the thermostable luciferase P. luminescens in B. subtilis at 48.5°С behaves as a 
+first-order reaction. In E.coli, the first order rate constant (Kt) of the
+thermal inactivation of luciferase in E. coli exceeds that observed in B.
+subtilis cells 2.9 times. Incubation time dependence curves for the thermal
+inactivation of the thermolabile luciferase of P. leiognathi luciferase in the
+cells of E. coli and B. subtilis may be described by first and third order
+kinetics, respectively. Here we shown that the levels and the rates of refolding 
+of thermally inactivated luciferases in B. subtilis cells are substantially lower
+that that observed in E. coli. In dnaK-negative strains of B. subtilis, both the 
+rates of thermal inactivation and the efficiency of refolding are similar to that
+observed in wild-type strains. These experiments point that the role that DnaKJE 
+plays in thermostability of luciferases may be limited to bacterial species
+resembling E. coli.
+
+DOI: 10.1371/journal.pone.0226576 
+PMCID: PMC6927610
+PMID: 31869349  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing
+interests.
+

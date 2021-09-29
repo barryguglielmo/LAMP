@@ -1,0 +1,42 @@
+
+1. Pathogens. 2020 Sep 30;9(10). pii: E805. doi: 10.3390/pathogens9100805.
+
+Pituitary Adenylate Cyclase-Activating Polypeptide Alleviates Intestinal,
+Extra-Intestinal and Systemic Inflammatory Responses during Acute Campylobacter
+jejuni-induced Enterocolitis in Mice.
+
+Heimesaat MM(1), Mousavi S(1), Kløve S(1), Genger C(1), Weschka D(1), Tamas A(2),
+Reglodi D(2), Bereswill S(1).
+
+Author information: 
+(1)Institute of Microbiology, Infectious Diseases and Immunology,
+Charité-University Medicine Berlin, Corporate Member of Freie Universität Berlin,
+Humboldt-Universität zu Berlin, and Berlin Institute of Health, 12203 Berlin,
+Germany.
+(2)Department of Anatomy, MTA-PTE PACAP Research Team, Centre for Neuroscience,
+University of Pecs Medical School, 7691 Pecs, Hungary.
+
+Human Campylobacter jejuni infections are emerging, and constitute a significant 
+health burden worldwide. The ubiquitously expressed pituitary adenylate
+cyclase-activating polypeptide (PACAP) is well-known for its cell-protective and 
+immunomodulatory effects. In our actual intervention study, we used an acute
+campylobacteriosis model and assessed the potential disease-alleviating effects
+of exogenous PACAP. Therefore, secondary abiotic IL-10-/- mice were perorally
+infected with C. jejuni and treated with synthetic PACAP38 intraperitoneally from
+day 2 until day 5 post-infection. Whereas PACAP did not interfere with the
+gastrointestinal colonization of the pathogen, mice from the PACAP group
+exhibited less severe clinical signs of C. jejuni-induced disease, as compared to
+mock controls, which were paralleled by alleviated apoptotic, but enhanced cell
+proliferative responses in colonic epithelia on day 6 post-infection.
+Furthermore, PACAP dampened the accumulation of macrophages and monocytes, but
+enhanced regulatory T cell responses in the colon, which were accompanied by less
+IFN-γ secretion in intestinal compartments in PACAP versus mock-treated mice.
+Remarkably, the inflammation-dampening properties of PACAP could also be observed
+in extra-intestinal organs, and strikingly, even the systemic circulation on day 
+6 post-infection. For the first time, we provide evidence that synthetic PACAP
+might be a promising candidate to combat acute campylobacteriosis and
+post-infectious sequelae.
+
+DOI: 10.3390/pathogens9100805 
+PMID: 33007819 
+

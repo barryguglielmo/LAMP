@@ -1,0 +1,45 @@
+
+1. Sci Rep. 2020 May 7;10(1):7705. doi: 10.1038/s41598-020-64834-3.
+
+The Antioxidants Glutathione, Ascorbic Acid and Uric Acid Maintain Butyrate
+Production by Human Gut Clostridia in The Presence of Oxygen In Vitro.
+
+Million M(1)(2), Armstrong N(3)(4), Khelaifia S(3)(4), Guilhot E(3)(4), Richez
+M(3)(4), Lagier JC(3)(4), Dubourg G(3)(4), Chabriere E(3)(4), Raoult D(5)(6).
+
+Author information: 
+(1)Aix Marseille Univ, IRD, AP-HM, MEPHI, Marseille, France.
+matthieumillion@gmail.com.
+(2)IHU-Méditerranée Infection, Marseille, France. matthieumillion@gmail.com.
+(3)Aix Marseille Univ, IRD, AP-HM, MEPHI, Marseille, France.
+(4)IHU-Méditerranée Infection, Marseille, France.
+(5)Aix Marseille Univ, IRD, AP-HM, MEPHI, Marseille, France.
+didier.raoult@gmail.com.
+(6)IHU-Méditerranée Infection, Marseille, France. didier.raoult@gmail.com.
+
+Uncontrolled oxidative stress, reported in Salmonella and HIV infections,
+colorectal cancer or severe acute malnutrition, has been associated with
+anaerobic gut microbiome alteration, impaired butyrate production, mucosal
+immunity dysregulation and disruption of host-bacterial mutualism. However, the
+role of major antioxidant molecules in the human body, such as glutathione,
+ascorbic acid and uric acid, has been neglected in this context. Here, we
+performed an in vitro metabolomics study of the 3 most odorous anaerobic microbes
+isolated from the human gut in our laboratory (Clostridium sporogenes,
+Clostridium subterminale and Romboutsia lituseburensis) when grown in
+anaerobiosis or in aerobiosis with these 3 antioxidant molecules via gas and
+liquid chromatography-mass spectrometry (GC/MS and LC/MS). There was no growth or
+volatile organic compound production in aerobic cultures without the 3
+antioxidant molecules. In anaerobiosis, the major metabolic products of the
+bacteria were thiols, alcohols and short-chain fatty acid esters. The production 
+of alkanes, cycloheptatriene and, paradoxically, increased butyrate production,
+was observed in the cultures grown in aerobiosis with the 3 antioxidant
+molecules. The qualitative shift suggests specific molecular mechanisms that
+remain to be elucidated. The increased production of butyrate, but also
+isobutyrate and isovalerate in vitro suggests that these 3 antioxidant molecules 
+contributed to the maintenance and active resilience of host-bacterial mutualism 
+against mucosal oxygen and uncontrolled oxidative stress in vivo.
+
+DOI: 10.1038/s41598-020-64834-3 
+PMCID: PMC7205886
+PMID: 32382092 
+

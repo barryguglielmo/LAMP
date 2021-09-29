@@ -1,0 +1,45 @@
+
+1. Biosens Bioelectron. 2020 Nov 15;168:112527. doi: 10.1016/j.bios.2020.112527.
+Epub 2020 Aug 22.
+
+Electrochemical biosensor for rapid detection of bacteria based on facile
+synthesis of silver wire across electrodes.
+
+Feng Y(1), Zhou D(1), Gao L(2), He F(3).
+
+Author information: 
+(1)State Key Laboratory of Chemo/Biosensing and Chemometrics, College of
+Chemistry and Chemical Engineering, Hunan University, Changsha, 410082, China.
+(2)Chemistry Department, Reed College, Portland, 97202, USA.
+(3)State Key Laboratory of Chemo/Biosensing and Chemometrics, College of
+Chemistry and Chemical Engineering, Hunan University, Changsha, 410082, China.
+Electronic address: fengjiaohe@hnu.edu.cn.
+
+The early detection of bacteria is of critical importance in addressing serious
+public health problems. Here, an electrochemical biosensor for rapid detection of
+bacteria based on facile synthesis of silver wire across electrodes was
+constructed. High-variable region of 16S rRNA of bacteria was used as biomarker. 
+Polymerase-free synthesis of silver wire was introduced into electrochemical
+signal transduction to improve the sensitivity of electrochemical detection. The 
+construction biosensor of proposed method is as follows: Metastable hairpin probe
+H1 was modified on electrode surface, biomarker can open the stem-loop structure 
+of H1 and activates HCR. The alternate opening of the stem-loop structure of H1
+and H2-AuNPs finally results in the formation of long double-stranded DNA-RNA
+(HCR products) -AuNPs. The formed AuNPs modified HCR products was blown in one
+direction using N2 to across the electrode gap. Using this HCR products as
+template, the silver wire was formed between the electrodes by silver deposition,
+and resulted in sharp change in electrical parameters of electrode. As the
+proof-of-concept work, multichannel series piezoelectric quartz crystal (MSPQC)
+was utilized as detector. The detection of Staphylococcus aureus in the
+concentration range from 50 to 107 CFU/mL within 100 min was achieved. The
+detection limit was 50 CFU/mL. Escherichia coli, Salmonella enteritidis, Listeria
+innocua, Pseudomonas aeruginosa and Streptococcus pneumoniae did not interfere
+the detection results. This newly proposed electrochemical biosensor is simple,
+rapid and exhibit high signal-to-noise ratio, it has great potential for being
+applied in food safety monitoring and clinical diagnosis.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bios.2020.112527 
+PMID: 32905927 
+

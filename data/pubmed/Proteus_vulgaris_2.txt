@@ -1,0 +1,51 @@
+
+1. Front Cell Infect Microbiol. 2020 Jul 31;10:369. doi: 10.3389/fcimb.2020.00369.
+eCollection 2020.
+
+Analysis of Resistance to Florfenicol and the Related Mechanism of Dissemination 
+in Different Animal-Derived Bacteria.
+
+Li P(1)(2)(3), Zhu T(1)(2)(3), Zhou D(1)(2), Lu W(1)(2), Liu H(1)(2), Sun
+Z(1)(2), Ying J(1)(2), Lu J(1)(2), Lin X(1)(2)(3), Li K(1)(2)(3), Ying
+J(1)(2)(3), Bao Q(1)(2)(3), Xu T(4)(5).
+
+Author information: 
+(1)Key Laboratory of Medical Genetics of Zhejiang Province, Key Laboratory of
+Laboratory Medicine, Ministry of Education, Wenzhou Medical University, Wenzhou, 
+China.
+(2)School of Laboratory Medicine and Life Sciences, Wenzhou Medical University,
+Wenzhou, China.
+(3)Institute of Biomedical Informatics, Wenzhou Medical University, Wenzhou,
+China.
+(4)Research Center for Translational Medicine, Shanghai East Hospital, Tongji
+University School of Medicine, Shanghai, China.
+(5)Institute of Translational Medicine, Baotou Central Hospital, Baotou, China.
+
+Bacterial resistance to antibiotics has become an important concern for public
+health. This study was aimed to investigate the characteristics and the
+distribution of the florfenicol-related resistance genes in bacteria isolated
+from four farms. A total of 106 florfenicol-resistant Gram-negative bacilli were 
+examined for florfenicol-related resistance genes, and the positive isolates were
+further characterized. The antimicrobial sensitivity results showed that most of 
+them (100, 94.33%) belonged to multidrug resistance Enterobacteriaceae. About
+91.51% of the strains carried floR gene, while 4.72% carried cfr gene. According 
+to the pulsed-field gel electrophoresis results, 34 Escherichia coli were
+subdivided into 22 profiles, the genetic similarity coefficient of which ranged
+from 80.3 to 98.0%. The multilocus sequence typing (MLST) results revealed 17
+sequence types (STs), with ST10 being the most prevalent. The genome sequencing
+result showed that the Proteus vulgaris G32 genome consists of a 4.06-Mb
+chromosome, a 177,911-bp plasmid (pG32-177), and a 51,686-bp plasmid (pG32-51). A
+floR located in a drug-resistant region on the chromosome of P. vulgaris G32 was 
+with IS91 family transposase, and the other floR gene on the plasmid pG32-177 was
+with an ISCR2 insertion sequence. The cfr gene was located on the pG32-51 flanked
+by IS26 element and TnpA26. This study suggested that the mobile genetic elements
+played an important role in the replication of resistance genes and the
+horizontal resistance gene transfer.
+
+Copyright © 2020 Li, Zhu, Zhou, Lu, Liu, Sun, Ying, Lu, Lin, Li, Ying, Bao and
+Xu.
+
+DOI: 10.3389/fcimb.2020.00369 
+PMCID: PMC7438884
+PMID: 32903722 
+

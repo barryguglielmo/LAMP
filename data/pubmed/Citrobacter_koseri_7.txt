@@ -1,0 +1,44 @@
+
+1. Bioprocess Biosyst Eng. 2020 Sep;43(9):1599-1607. doi:
+10.1007/s00449-020-02351-3. Epub 2020 Apr 24.
+
+Covalent immobilization of recombinant Citrobacter koseri transaminase onto epoxy
+resins for consecutive asymmetric synthesis of L-phosphinothricin.
+
+Jia DX(1)(2), Xu HP(1)(2), Sun CY(1)(2), Peng C(1)(2), Li JL(1)(2), Jin LQ(1)(2),
+Cheng F(1)(2), Liu ZQ(1)(2), Xue YP(3)(4), Zheng YG(1)(2).
+
+Author information: 
+(1)The National and Local Joint Engineering Research Center for Biomanufacturing 
+of Chiral Chemicals, Zhejiang University of Technology, 18 Chaowang road,
+Hangzhou, 310014, P. R. China.
+(2)Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of
+Biotechnology and Bioengineering, Zhejiang University of Technology, 18 Chaowang 
+road, Hangzhou, 310014, P. R. China.
+(3)The National and Local Joint Engineering Research Center for Biomanufacturing 
+of Chiral Chemicals, Zhejiang University of Technology, 18 Chaowang road,
+Hangzhou, 310014, P. R. China. xyp@zjut.edu.cn.
+(4)Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of
+Biotechnology and Bioengineering, Zhejiang University of Technology, 18 Chaowang 
+road, Hangzhou, 310014, P. R. China. xyp@zjut.edu.cn.
+
+Transaminase responsible for alienating prochiral ketone compound is applicable
+to asymmetric synthesis of herbicide L-phosphinothricin (L-PPT). In this work,
+the covalent immobilization of recombinant transaminase from Citrobacter koseri
+(CkTA) was investigated on different epoxy resins. Using optimum ES-105 support, 
+a higher immobilized activity was obtained via optimizing immobilization process 
+in terms of enzyme loading, coupling time and initial PLP concentration.
+Crucially, due to blocking unreacted epoxy groups on support surface with amino
+acids, the reaction temperature of blocked immobilized biocatalyst was enhanced
+from 37 to 57 °C. Its thermostability at 57 °C was also found to be superior to
+that of free CkTA. The Km value was shifted from 36.75 mM of free CkTA to
+39.87 mM of blocked immobilized biocatalyst, demonstrating that the affinity of
+enzyme to the substrate has not been apparently altered. Accordingly, the
+biocatalyst performed the consecutive synthesis of L-PPT for 11 cycles
+(yields>91%) with retaining more than 91.13% of the initial activity. The
+seemingly the highest reusability demonstrates this biocatalyst has prospective
+for reducing the costs of consecutive synthesis of L-PPT with high conversion.
+
+DOI: 10.1007/s00449-020-02351-3 
+PMID: 32333194 
+

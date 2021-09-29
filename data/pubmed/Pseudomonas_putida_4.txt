@@ -1,0 +1,51 @@
+
+1. Front Microbiol. 2020 Sep 2;11:2114. doi: 10.3389/fmicb.2020.02114. eCollection
+2020.
+
+Pseudomonas Species Diversity Along the Danube River Assessed by rpoD Gene
+Sequence and MALDI-TOF MS Analyses of Cultivated Strains.
+
+Mulet M(1), Montaner M(1), Román D(1), Gomila M(1), Kittinger C(2), Zarfel G(2), 
+Lalucat J(1)(3), García-Valdés E(1)(3).
+
+Author information: 
+(1)Microbiologia, Departament de Biologia, Edifici Guillem Colom, Universitat de 
+les Illes Balears, Palma de Mallorca, Spain.
+(2)Diagnostic and Research Institute of Hygiene, Microbiology and Environmental
+Medicine, Medical University of Graz, Graz, Austria.
+(3)Institut Mediterrani d'Estudis Avançats (IMEDEA, CSIC-UIB), Palma de Mallorca,
+Spain.
+
+A collection of 611 Pseudomonas isolated from 14 sampling sites along the Danube 
+River were identified previously by MALDI-TOF MS with the VITEK MS system and
+were grouped in 53 clusters by their main protein profiles. The strains were
+identified in the present study at the phylospecies level by rpoD gene
+sequencing. Partial sequences of the rpoD gene of 190 isolates representatives of
+all clusters were analyzed. Strains in the same MALDI-TOF cluster were grouped in
+the same phylospecies when they shared a minimum 95% similarity in their rpoD
+sequences. The sequenced strains were assigned to 34 known species (108 strains) 
+and to 32 possible new species (82 strains). The 611 strains were identified at
+the phylospecies level combining both methods. Most strains were assigned to
+phylospecies in the Pseudomonas putida phylogenetic group of species. Special
+attention was given to 14 multidrug resistant strains that could not be assigned 
+to any known Pseudomonas species and were considered environmental reservoir of
+antibiotic resistance genes. Coverage indices and rarefaction curves demonstrated
+that at least 50% of the Pseudomonas species in the Danube River able to grow in 
+the isolation conditions have been identified at the species level. Main
+objectives were the confirmation of the correlation between the protein profile
+clusters detected by MALDI-TOF MS and the phylogeny of Pseudomonas strains based 
+on the rpoD gene sequence, the assessment of the higher species discriminative
+power of the rpoD gene sequence, as well as the estimation of the high diversity 
+of Pseudomonas ssp. along the Danube river. This study highlights the Pseudomonas
+species diversity in freshwater ecosystems and the usefulness of the combination 
+of MALDI-TOF mass spectrometry for the dereplication of large sets of strains and
+the rpoD gene sequences for rapid and accurate identifications at the species
+level.
+
+Copyright © 2020 Mulet, Montaner, Román, Gomila, Kittinger, Zarfel, Lalucat and
+García-Valdés.
+
+DOI: 10.3389/fmicb.2020.02114 
+PMCID: PMC7492575
+PMID: 32983072 
+

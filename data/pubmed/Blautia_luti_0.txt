@@ -1,0 +1,39 @@
+
+1. Microbiol Resour Announc. 2020 May 7;9(19). pii: e00088-20. doi:
+10.1128/MRA.00088-20.
+
+Draft Genome Sequence of Blautia luti DSM 14534T, Isolated from Human Stool.
+
+Ortiz RL(1), Melis-Arcos F(2), Covarrubias PC(3), Ugalde JA(4), Apte ZS(5),
+Pérez-Donoso J(6), Cárdenas JP(7)(8), Almonacid DE(9).
+
+Author information: 
+(1)Faculty of Life Sciences, Universidad Andres Bello, Santiago, Chile.
+(2)Programa Institucional de Fomento a la Investigación, Desarrollo e Innovación 
+(PIDi), Universidad Tecnológica Metropolitana, Santiago, Chile.
+(3)Independent Researcher, Santiago, Chile.
+(4)Millennium Initiative for Collaborative Research on Bacterial Resistance
+(MICROB-R), Santiago, Chile.
+(5)Independent Researcher, San Francisco, California, USA.
+(6)BioNanotechnology and Microbiology Lab, Center for Bioinformatics and
+Integrative Biology, Faculty of Life Sciences, Universidad Andres Bello,
+Santiago, Chile.
+(7)Center for Genomics and Bioinformatics, Faculty of Sciences, Universidad
+Mayor, Huechuraba, Chile juan.cardenas@umayor.cl daniel.almonacid@unab.cl.
+(8)Escuela de Biotecnología, Faculty of Sciences, Universidad Mayor, Campus
+Huechuraba, Huechuraba, Chile.
+(9)Center for Bioinformatics and Integrative Biology, Faculty of Life Sciences,
+Universidad Andres Bello, Santiago, Chile juan.cardenas@umayor.cl
+daniel.almonacid@unab.cl.
+
+Here, we report the draft sequence of Blautia luti strain DSM 14534T, originally 
+isolated from human feces. This draft contains 74 contigs, comprising
+3,718,760 bp with a G+C content of 42.87%. The annotated draft contains 3,338
+coding sequences (CDSs) and 110 RNA genes.
+
+Copyright © 2020 Ortiz et al.
+
+DOI: 10.1128/MRA.00088-20 
+PMCID: PMC7206481
+PMID: 32381603 
+

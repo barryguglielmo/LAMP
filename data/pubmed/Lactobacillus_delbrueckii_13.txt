@@ -1,0 +1,44 @@
+
+1. Appl Microbiol Biotechnol. 2020 Sep;104(17):7631-7642. doi:
+10.1007/s00253-020-10788-5. Epub 2020 Jul 27.
+
+Whole-genome sequencing and genomic-based acid tolerance mechanisms of
+Lactobacillus delbrueckii subsp. bulgaricus LJJ.
+
+Li W(1), Yang L(1), Nan W(2), Lu J(1), Zhang S(1), Ujiroghene OJ(1)(3), Pang
+X(4), Lv J(5).
+
+Author information: 
+(1)Institute of Food Science and Technology, Chinese Academy of Agricultural
+Sciences, Beijing, 100193, China.
+(2)China Animal Health and Epidemiology Center, Qingdao, 266032, China.
+(3)Department of Food Science and Technology, Auchi Polytechnic, Auchi, Edo
+State, Nigeria.
+(4)Institute of Food Science and Technology, Chinese Academy of Agricultural
+Sciences, Beijing, 100193, China. pangxiaoyang@163.com.
+(5)Institute of Food Science and Technology, Chinese Academy of Agricultural
+Sciences, Beijing, 100193, China. lvjiapingcaas@126.com.
+
+The probiotic efficacy and fermentative ability of Lactobacillus delbrueckii
+subsp. bulgaricus (L. bulgaricus), a widely used probiotic, is majorly affected
+by its acid tolerance. Here, we conducted whole-genome sequencing of the high
+acid-tolerant L. bulgaricus LJJ stored in the laboratory. Compared with the whole
+genome of low acid-tolerant strain L. bulgaricus ATCC11842, the results show that
+16 candidate acid-tolerant genes may be involved in the regulation of the acid
+tolerance of L. bulgaricus LJJ. Association analysis of candidate acid-tolerant
+genes and acid-tolerant traits of different L. bulgaricus strains revealed that
+the three genes dapA, dapH, and lysC are the main reasons for the strong acid
+tolerance of L. bulgaricus LJJ. The results of real-time quantitative PCR
+(RT-qPCR) supported this conclusion. KEGG pathway analysis showed that these
+three acid-tolerant genes are involved in the synthesis of lysine; the synthesis 
+of lysine may confer L. bulgaricus LJJ strong acid tolerance. This study
+successfully revealed the acid tolerance mechanism of L. bulgaricus LJJ and
+provides a theoretical basis for the subsequent selection of strains with high
+acid tolerance for improved probiotic functions. KEY POINTS: • Three genes are
+identified as acid-tolerant genes, respectively, lysC, dapA, and dapH. • LysC and
+dapA are the major key genes in the synthesis of lysine. • The synthesis of
+lysine may confer L. bulgaricus LJJ strong acid tolerance.
+
+DOI: 10.1007/s00253-020-10788-5 
+PMID: 32715364 
+

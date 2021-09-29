@@ -1,0 +1,47 @@
+
+1. BMC Oral Health. 2019 Dec 3;19(1):269. doi: 10.1186/s12903-019-0960-9.
+
+Comparing dental plaque microbiome diversity of extrinsic black stain in the
+primary dentition using Illumina MiSeq sequencing technique.
+
+Chen L(1)(2), Zhang Q(2), Wang Y(2), Zhang K(3), Zou J(4).
+
+Author information: 
+(1)Department of Pediatric Dentistry, Beijing Stomatological Hospital, Capital
+Medical University, Beijing, 100050, China.
+(2)State Key Laboratory of Oral Diseases & National Clinical Research Center for 
+Oral Diseases & Department of Pediatric Dentistry, West China Hospital of
+Stomatology, Sichuan University, Chengdu, Sichuan, China.
+(3)School and Hospital of Stomatology, Wenzhou Medical University, Wenzhou,
+Zhejiang, China.
+(4)State Key Laboratory of Oral Diseases & National Clinical Research Center for 
+Oral Diseases & Department of Pediatric Dentistry, West China Hospital of
+Stomatology, Sichuan University, Chengdu, Sichuan, China. zjwestchina@163.com.
+
+BACKGROUND: Extrinsic black stain (EBS) is characterized by discrete dark dots or
+lines on the tooth surface. The relationship between EBS and oral microbiota in
+children remains elusive. The aim of this study was to compare dental plaque
+microbiome in EBS children with that in EBS-free children in the primary
+dentition.
+METHODS: The Illumina MiSeq sequencing technique was utilized in the
+cross-sectional pilot study to investigate the diversity and composition of the
+supragingival plaque microbiota from 10 EBS-positive and 10 EBS-free children.
+The results were analysed with nonparametric Mann-Whitney U test, Pearson
+Chi-Square test, Fisher's Exact test and one-way ANOVA tests.
+RESULTS: We identified 13 different phyla, 22 classes, 33 orders, 54 families,
+105 genera, and 227 species from a total of 52,646 high-quality sequences.
+Between two groups, no statistical differences were observed in the estimators of
+community richness and diversity at 97% similarity, as well as in the Unweighted 
+Unifrac principal co-ordinates analysis (PCoA). At the species level, higher
+level of relative abundance of Actinomyces naeslundii and lower level of relative
+abundance of a species belonging to Candidate_division_TM7 was observed in dental
+plaque of EBS-positive subjects, compared to dental plaque of EBS-free subjects
+(P < 0.05). This indicated that some species might be involved in the EBS
+process.
+CONCLUSION: Changes in dental plaque microbiota is possibly relevant to the
+process of EBS in the primary dentition.
+
+DOI: 10.1186/s12903-019-0960-9 
+PMCID: PMC6892020
+PMID: 31796065  [Indexed for MEDLINE]
+

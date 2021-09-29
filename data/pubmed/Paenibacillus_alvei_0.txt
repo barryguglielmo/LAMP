@@ -1,0 +1,55 @@
+
+1. Sci Total Environ. 2020 Jul 17;746:140968. doi: 10.1016/j.scitotenv.2020.140968. 
+[Epub ahead of print]
+
+Biodegradation of the fungicide Pyraclostrobin by bacteria from orange
+cultivation plots.
+
+Birolli WG(1), da Silva BF(2), Rodrigues-Filho E(3).
+
+Author information: 
+(1)Laboratory of Micromolecular Biochemistry of Microorganisms (LaBioMMi), Center
+for Exact Sciences and Technology, Federal University of São Carlos, Via
+Washington Luiz, km 235, 13.565-905, P.O. Box 676, São Carlos, SP, Brazil.
+Electronic address: willianbirolli@gmail.com.
+(2)Institute of Chemistry, Department of Analytical Chemistry, São Paulo State
+University (UNESP), 14800-060, P.O. Box 355, Araraquara, SP, Brazil.
+(3)Laboratory of Micromolecular Biochemistry of Microorganisms (LaBioMMi), Center
+for Exact Sciences and Technology, Federal University of São Carlos, Via
+Washington Luiz, km 235, 13.565-905, P.O. Box 676, São Carlos, SP, Brazil.
+Electronic address: edinho@pq.cnpq.br.
+
+The pesticides belonging the strobilurin group are among the most common
+contaminants in the environment. In this work, biodegradation studies of the
+strobilurin fungicide Pyraclostrobin by bacteria from orange cultivation plots
+were performed aiming to contribute with the development of a bioremediation
+method. Experiments were performed in triplicate with validated methods, and
+optimization was performed by Central Composite Design and Response Surface
+Methodology. The strains were evaluated in liquid nutrient medium containing
+100 mg L-1 of Pyraclostrobin, and decreased concentrations of 61.5 to
+100.5 mg L-1 were determined after 5 days at 37 °C and 130 rpm, showing the
+importance of strain selection. When the five most efficient strains (Bacillus
+sp. CSA-13, Paenibacillus alvei CBMAI2221, Bacillus sp. CBMAI2222, Bacillus
+safensis CBMAI2220 and Bacillus aryabhattai CBMAI2223) were used in consortia,
+synergistic and antagonistic effects were observed accordingly to the employed
+combination of bacteria, resulting in 64.2 ± 3.9 to 95.4 ± 4.9 mg L-1 residual
+Pyraclostrobin. In addition, the formation of 1-(4-chlorophenyl)-1H-pyrazol-3-ol 
+was quantified (0.59-0.01 mg L-1), and a new biodegradation pathway was proposed 
+with 15 identified metabolites. Experiments were also performed in soil under
+controlled conditions (30 °C, 0-28 days, 100 mg kg-1 pesticide), and the native
+microbiome reduced the pesticide concentration to 70.4 ± 2.3 mg L-1, whereas the 
+inoculation of an efficient bacterial consortium promoted clearly better results,
+57.2 ± 3.9 mg L-1 residual Pyraclostrobin. This suggests that the introduction of
+these strains in soil in a bioaugmentation process increases decontamination.
+However, the native microbiome is important for a more efficient bioremediation.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2020.140968 
+PMID: 32763599 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the study reported in this
+paper.
+

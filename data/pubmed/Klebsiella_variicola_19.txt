@@ -1,0 +1,54 @@
+
+1. J Antimicrob Chemother. 2019 Nov 1;74(11):3205-3210. doi: 10.1093/jac/dkz332.
+
+Klebsiella pneumoniae and Klebsiella quasipneumoniae define the population
+structure of blaKPC-2Klebsiella: a 5 year retrospective genomic study in
+Singapore.
+
+Octavia S(1), Kalisvar M(2)(3)(4), Venkatachalam I(5), Ng OT(2)(3)(6), Xu W(2),
+Sridatta PSR(2), Ong YF(2), Wang L(2), Chua A(2), Cheng B(7), Lin RTP(1)(7), Teo 
+JWP(7).
+
+Author information: 
+(1)National Public Health Laboratory, National Centre for Infectious Diseases,
+Singapore.
+(2)Tan Tock Seng Hospital, Department of Infectious Diseases, Singapore.
+(3)National Centre for Infectious Diseases, Singapore.
+(4)National University of Singapore, Yong Loo Lin School of Medicine, Singapore.
+(5)Singapore General Hospital, Department of Infectious Diseases, Singapore.
+(6)Nanyang Technological University, Lee Kong Chian School of Medicine,
+Singapore.
+(7)National University Hospital, Department of Laboratory Medicine, Singapore.
+
+OBJECTIVES: To describe the population structure, molecular epidemiology and
+genetic context of blaKPC-2-bearing Klebsiella pneumoniae.
+METHODS: Isolates (n = 157) were retrospective, phenotypically
+carbapenem-resistant blaKPC-positive K. pneumoniae, collected from public
+hospitals. WGS was performed on the Illumina platform. Phylogenomic analysis,
+screening of resistance and virulence genes, and comparison of the genetic
+environment of blaKPC were carried out.
+RESULTS: Based on core-tree phylogeny, 67.5% of the isolates were K. pneumoniae
+and the remainder comprised Klebsiella quasipneumoniae. No Klebsiella variicola
+strains were observed. Only a single K. pneumoniae carbapenemase (KPC) variant
+type, blaKPC-2, was seen. MLSTs were diverse and did not comprise the
+'traditional' KPC clonal group (CG) 258. blaKPC-2 was associated with a
+non-Tn4401 element (NTE) in >99% of genomes. Screening for four key virulence
+loci: yersiniabactin (ybt), aerobactin (iuc), salmochelin (iro) and colibactin
+(clb) as well as ICEKp (virulence-associated integrative conjugative element of
+K. pneumoniae), revealed the lack of virulence factors and ICEKp within K.
+quasipneumoniae. Amongst the K. pneumoniae, there were 32 ybt+ isolates (32/106, 
+30.2%) and, of these, 8 isolates were also clb+ (7.5%). K. pneumoniae serotypes
+K1 and K2, the majority of capsular serotype seen in patients with invasive liver
+abscess syndrome, were detected at 4.5% (7/157).
+CONCLUSIONS: Results suggest that dissemination of blaKPC-2 is driven by NTEKPC
+in non-ST258 isolates. The detection of blaKPC-2K. pneumoniae serotypes K1/K2
+carrying virulence factors, albeit in low numbers, reflects the worrisome
+convergence of carbapenem resistance and hypervirulence in K. pneumoniae.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the
+British Society for Antimicrobial Chemotherapy. All rights reserved. For
+permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jac/dkz332 
+PMID: 31504571  [Indexed for MEDLINE]
+

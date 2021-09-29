@@ -1,0 +1,48 @@
+
+1. J Glob Antimicrob Resist. 2020 Mar;20:178-182. doi: 10.1016/j.jgar.2019.07.013.
+Epub 2019 Jul 17.
+
+Genome-based insights into the resistomes and mobilomes of two Providencia
+rettgeri strains isolated from wound infections in Madagascar.
+
+Tchuinte PLS(1), Rabenandrasana MAN(2), Ramparany L(2), Ratsima E(2), Enouf V(3),
+Randrianirina F(2), Collard JM(2).
+
+Author information: 
+(1)Institut Pasteur de Madagascar, Antananarivo, Madagascar. Electronic address: 
+simolandrie@yahoo.fr.
+(2)Institut Pasteur de Madagascar, Antananarivo, Madagascar.
+(3)Institut Pasteur, Pasteur International Bioresources network (PIBnet),
+Plateforme de Microbiologie Mutualisée (P2M), Paris, France.
+
+OBJECTIVES: A molecular analysis was performed of two Providencia rettgeri (P.
+rettgeri) strains (Pr 297 and Pr 269) collected in 2007 and 2009 from wound swabs
+of patients admitted to the intensive care units at Joseph Ravoangy
+Andrianavalona hospital and the Military Hospital in Antananarivo, Madagascar.
+METHODS: The two P. rettgeri isolates were subjected to susceptibility testing.
+Whole genome sequencing was performed to characterise the antibiotic resistance
+genes, genomic islands and mobilomes (integrons, plasmids and insertion
+sequences).
+RESULTS: All isolates were found to be multidrug-resistant. Antibiotic-resistant 
+genes described were amongst eight different classes of antimicrobial agents.
+Thirty insertion sequences and twelve genomic islands were predicted in each
+genome. Class 1 and class 2 integrons were found in both genomes, with gene
+cassette regions encompassing arr-2 - cmlA5 - blaOXA-10 - ant (3")-Ia and dfrA1 -
+sat2 - ant (3")-Ia - orfX, respectively. IncA/C2, ColM and ColE1-like plasmids
+were described harbouring blaCMY-30, qnrD and aac(6')-Ib-cr4 genes, respectively.
+Phylogenetic analysis showed that Pr 297 and Pr 269 isolates were genetically
+identical and clustered with P. rettgeri strains described in the USA and Spain.
+CONCLUSIONS: It is believed that this is the first molecular characterisation of 
+wound infection pathogens from Madagascan patients and the first description of
+P. rettgeri co-producing CMY-30, OXA-10 and AAC(6')-Ib-cr4 enzymes. The diversity
+of the resistance determinants and mobile genetic elements was probably due to
+extensive horizontal gene transfer events, highlighting the need to conduct
+further molecular monitoring studies to understand the genomic plasticity of
+resistant bacteria in Madagascan hospitals.
+
+Copyright © 2019 International Society for Antimicrobial Chemotherapy. Published 
+by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jgar.2019.07.013 
+PMID: 31325615 
+

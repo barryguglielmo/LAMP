@@ -1,0 +1,41 @@
+
+1. J Gastrointest Oncol. 2019 Dec;10(6):1164-1170. doi: 10.21037/jgo.2019.06.04.
+
+Genomics and metagenomics of colorectal cancer.
+
+Ng C(1), Li H(2), Wu WKK(2)(3), Wong SH(3), Yu J(3).
+
+Author information: 
+(1)Department of Surgery, Yong Loo Lin School of Medicine, National University of
+Singapore, Singapore, Singapore.
+(2)Li Ka Shing Institute of Health Science, State Key Laboratory of Digestive
+Disease, Institute of Digestive Disease, Department of Medicine and Therapeutics,
+Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong, China.
+(3)Department of Anaesthesia and Intensive Care, Faculty of Medicine, The Chinese
+University of Hong Kong, Hong Kong, China.
+
+Colorectal cancer (CRC) is a common cancer globally. It is a complex disease
+influenced by genetic and environmental factors. Early studies on familial cases 
+have identified major genes involved in CRC, such as proto-oncogenes KRAS, PIK3CA
+and BRAF, and tumour-suppressor genes APC and TP53. These genes have provided
+valuable insight into the molecular pathogenesis of CRC, and some have made ways 
+to clinical utility to help diagnose cancer syndromes, prognosticate oncological 
+outcomes and predict treatment responses. While these genetic factors are
+important, recent studies have suggested contribution of microorganisms to
+colorectal carcinogenesis. Observational studies, animal experiments and
+translational works have identified several microorganisms as potential
+carcinogenic bacteria, such as Fusobacterium nucleatum and Peptostreptococcus
+anaerobius. With the advent of sequencing technology and bioinformatics, more
+genomic and metagenomic factors are being uncovered as important players in CRC
+carcinogenesis. This article aims to review recent genomic and metagenomic
+discoveries relating to CRC.
+
+2019 Journal of Gastrointestinal Oncology. All rights reserved.
+
+DOI: 10.21037/jgo.2019.06.04 
+PMCID: PMC6955013
+PMID: 31949936 
+
+Conflict of interest statement: Conflicts of Interest: The authors have no
+conflicts of interest to declare.
+

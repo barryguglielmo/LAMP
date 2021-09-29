@@ -1,0 +1,47 @@
+
+1. J Pediatr Surg. 2020 Jun 20. pii: S0022-3468(20)30438-3. doi:
+10.1016/j.jpedsurg.2020.06.018. [Epub ahead of print]
+
+A piglet model of iatrogenic rectosigmoid hypoganglionosis reveals the impact of 
+the enteric nervous system on gut barrier function and microbiota postnatal
+development.
+
+Arnaud AP(1), Hascoet J(2), Berneau P(2), LeGouevec F(3), Georges J(3),
+Randuineau G(2), Formal M(2), Henno S(4), Boudry G(2).
+
+Author information: 
+(1)Institut NuMeCan INRAE, INSERM, Univ Rennes, Saint-Gilles, France; Service de 
+chirurgie pédiatrique, CHU Rennes, Univ Rennes, Rennes, France. Electronic
+address: Alexis.Arnaud@chu-rennes.fr.
+(2)Institut NuMeCan INRAE, INSERM, Univ Rennes, Saint-Gilles, France.
+(3)UEPR, INRA, Saint-Gilles, France.
+(4)Service d'anatomo-pathologie, CHU Rennes, Univ Rennes, Rennes, France.
+
+BACKGROUND: Hirschsprung-associated enterocolitis physiopathology likely involves
+disturbed interactions between gut microbes and the host during the early
+neonatal period. Our objective was to create a neonatal porcine model of
+iatrogenic aganglionosis to evaluate the impact of the enteric nervous system
+(ENS) on microbiota and intestinal barrier postnatal development.
+METHODS: Under general anesthesia, the rectosigmoid serosa of 5-day-old suckling 
+piglets was exposed to 0.5% benzalkonium chloride solution (BAC, n = 7) or saline
+(SHAM, n = 5) for 1 h. After surgery, animals returned to their home-cage with
+the sow and littermates and were studied 21 days later.
+RESULTS: BAC treatment induced partial aganglionosis with absence of myenteric
+plexus and reduced surface area of submucosal plexus ganglia (-58%, P < 0.05) in 
+one third of the rectosigmoid circumference. Epithelial permeability of this zone
+was increased (conductance +63%, FITC-dextran flux +386%, horseradish-peroxidase 
+flux +563%, P < 0.05). Tight junction protein remodeling was observed with
+decreased ZO-1 (-95%, P < 0.05) and increased claudin-3 and e-cadherin
+expressions (+197% and 61%, P < 0.05 and P = 0.06, respectively). BAC piglets
+harbored greater abundance of proinflammatory bacteria (Bilophila, Fusobacterium)
+compared to SHAM in the rectosigmoid lumen.
+CONCLUSIONS: This large animal model demonstrates that hypoganglionosis is
+associated with dramatic defects of gut barrier function and establishment of
+proinflammatory bacteria.
+LEVEL OF EVIDENCE:
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jpedsurg.2020.06.018 
+PMID: 32680586 
+

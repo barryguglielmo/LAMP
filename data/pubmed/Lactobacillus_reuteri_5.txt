@@ -1,0 +1,51 @@
+
+1. Genes Genomics. 2020 Sep 26. doi: 10.1007/s13258-020-00998-6. [Epub ahead of
+print]
+
+Identification of differentially expressed miRNAs after Lactobacillus reuteri
+treatment in the ileum mucosa of piglets.
+
+Wang Q(1)(2)(3), Sun Q(1), Wang J(1)(2)(3), Qiu X(1), Qi R(1)(2)(3), Huang
+J(4)(5)(6).
+
+Author information: 
+(1)Chongqing Academy of Animal Sciences, Rongchang, Chongqing, 402460, China.
+(2)Key Laboratory of Pig Industry Sciences, Ministry of Agriculture, Rongchang,
+Chongqing, 402460, China.
+(3)Chongqing Key Laboratory of Pig Industry Sciences, Rongchang, Chongqing,
+402460, China.
+(4)Chongqing Academy of Animal Sciences, Rongchang, Chongqing, 402460, China.
+short00@163.com.
+(5)Key Laboratory of Pig Industry Sciences, Ministry of Agriculture, Rongchang,
+Chongqing, 402460, China. short00@163.com.
+(6)Chongqing Key Laboratory of Pig Industry Sciences, Rongchang, Chongqing,
+402460, China. short00@163.com.
+
+BACKGROUND: Lactobacillus reuteri I5007 possesses many excellent probiotic
+characteristics in piglets. miRNA plays important role in host-microbiota
+interactions, but the mechanism by which L. reuteri I5007 regulates intestinal
+function through its influence on miRNA expression is unknown.
+OBJECTIVE: This study analyzed the miRNA expression patterns in the ileum mucosa 
+tissue of piglets by L. reuteri I5007 treatment, aim to clarify its molecular
+mechanism for regulating intestinal function through miRNA.
+METHODS: Neonatal piglets were orally administered L. reuteri I5007 or a placebo 
+daily starting on day 1, and differential expression of ileal miRNAs was analyzed
+at 10 and 20 days of age by small RNA sequencing.
+RESULTS: 361 known porcine miRNAs were identified, and ten miRNAs were highly
+expressed in the ileum mucosa in both treatments. Nineteen differentially
+expressed (DE) miRNAs were identified in response to L. reuteri treatment, and
+four DE miRNAs (ssc-miR-196a, -196b-5p, -1285 and -10386) were differentially
+expressed at both time points. The KEGG pathway analyses showed the targets of 19
+DE miRNAs were involved in 63 significantly enriched pathways, including the
+PI3K-Akt and MAPK pathways, which were confirmed to play important roles in
+probiotic-host communication. L. reuteri I5007 exerted anti-inflammatory effects 
+by influencing the levels of inflammatory cytokines. Suppressor of cytokine
+signalling 4 gene was the target gene of ssc-miR-196a/-196b-5p, overexpression of
+ssc-miR-196a/-196b-5p downregulated the mRNA expression of IL-1β and TNFα in
+IPEC-J2 cells.
+CONCLUSION: Our study provides new insight into the role of miRNAs in the
+intestinal function of piglets after L. reuteri I5007 treatment.
+
+DOI: 10.1007/s13258-020-00998-6 
+PMID: 32980994 
+

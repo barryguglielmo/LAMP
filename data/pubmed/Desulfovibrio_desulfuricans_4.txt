@@ -1,0 +1,43 @@
+
+1. Environ Sci Technol. 2020 Jul 7;54(13):8094-8103. doi: 10.1021/acs.est.0c01751.
+Epub 2020 Jun 17.
+
+Toward an Internally Consistent Model for Hg(II) Chemical Speciation Calculations
+in Bacterium-Natural Organic Matter-Low Molecular Mass Thiol Systems.
+
+Song Y(1), Adediran GA(2), Jiang T(1), Hayama S(3), Björn E(2), Skyllberg U(1).
+
+Author information: 
+(1)Department of Forest Ecology and Management, Swedish University of
+Agricultural Science, SE-901 83 Umeå, Sweden.
+(2)Department of Chemistry, Umeå University, SE-901 87 Umeå, Sweden.
+(3)Diamond Light Source, Didcot, Oxfordshire OX11 0DE, United Kingdom.
+
+To advance the scientific understanding of bacteria-driven mercury (Hg)
+transformation processes in natural environments, thermodynamics and kinetics of 
+divalent mercury Hg(II) chemical speciation need to be understood. Based on Hg
+LIII-edge extended X-ray absorption fine structure (EXAFS) spectroscopic
+information, combined with competitive ligand exchange (CLE) experiments, we
+determined Hg(II) structures and thermodynamic constants for Hg(II) complexes
+formed with thiol functional groups in bacterial cell membranes of two
+extensively studied Hg(II) methylating bacteria: Geobacter sulfurreducens PCA and
+Desulfovibrio desulfuricans ND132. The Hg EXAFS data suggest that 5% of the total
+number of membranethiol functionalities (Mem-RStot = 380 ± 50 μmol g-1 C) are
+situated closely enough to be involved in a 2-coordinated Hg(Mem-RS)2 structure
+in Geobacter. The remaining 95% of Mem-RSH is involved in mixed-ligation
+Hg(II)-complexes, combining either with low molecular mass (LMM) thiols like Cys,
+Hg(Cys)(Mem-RS), or with neighboring O/N membrane functionalities, Hg(Mem-RSRO). 
+We report log K values for the formation of the structures Hg(Mem-RS)2,
+Hg(Cys)(Mem-RS), and Hg(Mem-RSRO) to be 39.1 ± 0.2, 38.1 ± 0.1, and 25.6 ± 0.1,
+respectively, for Geobacter and 39.2 ± 0.2, 38.2 ± 0.1, and 25.7 ± 0.1,
+respectively, for ND132. Combined with results obtained from previous studies
+using the same methodology to determine chemical speciation of Hg(II) in the
+presence of natural organic matter (NOM; Suwannee River DOM) and 15 LMM thiols,
+an internally consistent thermodynamic data set is created, which we recommend to
+be used in studies of Hg transformation processes in bacterium-NOM-LMM thiol
+systems.
+
+DOI: 10.1021/acs.est.0c01751 
+PMCID: PMC7467648
+PMID: 32491838 
+

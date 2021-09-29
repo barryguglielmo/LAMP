@@ -1,0 +1,57 @@
+
+1. Microbiology (Reading). 2020 Jan;166(1):34-43. doi: 10.1099/mic.0.000849. Epub
+2019 Oct 4.
+
+Characterizing species interactions that contribute to biofilm formation in a
+multispecies model of a potable water bacterial community.
+
+Thompson AF(1), English EL(2), Nock AM(3)(2), Willsey GG(4)(2), Eckstrom K(2),
+Cairns B(5), Bavelock M(6), Tighe SW(7), Foote A(1), Shulman H(2), Pericleous
+A(8), Gupta S(8), Kadouri DE(8), Wargo MJ(2)(4).
+
+Author information: 
+(1)Cellular, Molecular, and Biomedical Sciences Graduate Program, University of
+Vermont Gradaute College, Burlington, VT 05405, USA.
+(2)Department of Microbiology and Molecular Genetics, University of Vermont
+Larner College of Medicin, Burlington, VT 05405, USA.
+(3)Present address: Host Parasite Interactions Section, Laboratory of
+Bacteriology, Rocky Mountain Laboratories, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Hamilton, MT, USA.
+(4)The Vermont Lung Center, University of Vermont Larner College of Medicine,
+Burlington, VT 05405, USA.
+(5)Department of Natural Sciences, Northern Vermont University, Johnson, VT
+05656, USA.
+(6)Landmark College, Putney, VT 05346, USA.
+(7)The Vermont Integrated Genomics Resource, University of Vermont Larner College
+of Medicine, Burlington, VT 05405, USA.
+(8)Department of Oral Biology, Rutgers School of Dental Medicine, Newark, NJ
+07103.
+
+Microbial biofilms are ubiquitous in drinking water systems, yet our
+understanding of drinking water biofilms lags behind our understanding of those
+in other environments. Here, a six-member model bacterial community was used to
+identify the interactions and individual contributions of each species to
+community biofilm formation. These bacteria were isolated from the International 
+Space Station potable water system and include Cupriavidus metallidurans,
+Chryseobacterium gleum, Ralstonia insidiosa, Ralstonia pickettii, Methylorubrum
+(Methylobacterium) populi and Sphingomonas paucimobilis, but all six species are 
+common members of terrestrial potable water systems. Using reconstituted
+assemblages, from pairs to all 6 members, community biofilm formation was
+observed to be robust to the absence of any single species and only removal of
+the C. gleum/S. paucimobilis pair, out of all 15 possible 2-species subtractions,
+led to loss of community biofilm formation. In conjunction with these findings,
+dual-species biofilm formation assays supported the view that the contribution of
+C. gleum to community biofilm formation was dependent on synergistic biofilm
+formation with either R. insidiosa or C. metallidurans. These data support a
+model of multiple, partially redundant species interactions to generate
+robustness in biofilm formation. A bacteriophage and multiple predatory bacteria 
+were used to test the resilience of the community to the removal of individual
+members in situ, but the combination of precise and substantial depletion of a
+single target species was not achievable. We propose that this assemblage can be 
+used as a tractable model to understand the molecular bases of the interactions
+described here and to decipher other functions of drinking water biofilms.
+
+DOI: 10.1099/mic.0.000849 
+PMCID: PMC7137775
+PMID: 31585061 
+

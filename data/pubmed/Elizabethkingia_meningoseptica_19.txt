@@ -1,0 +1,58 @@
+
+1. Int J Syst Evol Microbiol. 2020 Aug;70(8):4432-4450. doi: 10.1099/ijsem.0.003935.
+Epub 2020 Jan 2.
+
+Division of the genus Chryseobacterium: Observation of discontinuities in amino
+acid identity values, a possible consequence of major extinction events, guides
+transfer of nine species to the genus Epilithonimonas, eleven species to the
+genus Kaistella, and three species to the genus Halpernia gen. nov., with
+description of Kaistella daneshvariae sp. nov. and Epilithonimonas vandammei sp. 
+nov. derived from clinical specimens.
+
+Nicholson AC(1), Gulvik CA(1), Whitney AM(1), Humrighouse BW(1), Bell ME(1),
+Holmes B(2), Steigerwalt AG(1), Villarma A(1), Sheth M(3), Batra D(3), Rowe
+LA(3), Burroughs M(3), Pryor JC(1), Bernardet JF(4), Hugo C(5), Kämpfer P(6),
+Newman JD(7)(5), McQuiston JR(1).
+
+Author information: 
+(1)Special Bacteriology Reference Laboratory, Bacterial Special Pathogens Branch,
+Division of High-Consequence Pathogens and Pathology, Centers for Disease Control
+and Prevention, Atlanta, Georgia 30333, USA.
+(2)National Collection of Type Cultures, Health Protection Agency, Colindale,
+London NW9 5EQ, UK.
+(3)Division of Scientific Resources, Centers for Disease Control and Prevention, 
+Atlanta, Georgia 30333, USA.
+(4)Institut National de la Recherche Agronomique, Unité de Virologie et
+Immunologie Moléculaires, Domaine de Vilvert, Jouy-en-Josas, France.
+(5)Department of Microbial, Biochemical and Food Biotechnology, University of the
+Free State, Bloemfontein, South Africa.
+(6)Institut für Angewandte Mikrobiologie, Universität Giessen, Giessen, Germany.
+(7)Biology Department, Lycoming College, Williamsport PA 17701, USA.
+
+The genus Chryseobacterium in the family Weeksellaceae is known to be
+polyphyletic. Amino acid identity (AAI) values were calculated from whole-genome 
+sequences of species of the genus Chryseobacterium, and their distribution was
+found to be multi-modal. These naturally-occurring non-continuities were
+leveraged to standardise genus assignment of these species. We speculate that
+this multi-modal distribution is a consequence of loss of biodiversity during
+major extinction events, leading to the concept that a bacterial genus
+corresponds to a set of species that diversified since the Permian extinction.
+Transfer of nine species (Chryseobacterium arachidiradicis, Chryseobacterium
+bovis, Chryseobacterium caeni, Chryseobacterium hispanicum, Chryseobacterium
+hominis, Chryseobacterium hungaricum﻿,, Chryseobacterium pallidum and
+Chryseobacterium zeae) to the genus Epilithonimonas and eleven (Chryseobacterium 
+anthropi, Chryseobacterium antarcticum, Chryseobacterium carnis, Chryseobacterium
+chaponense, Chryseobacterium haifense, Chryseobacterium jeonii, Chryseobacterium 
+montanum, Chryseobacterium palustre, Chryseobacterium solincola, Chryseobacterium
+treverense and Chryseobacterium yonginense) to the genus Kaistella is proposed.
+Two novel species are described: Kaistella daneshvariae sp. nov. and
+Epilithonimonas vandammei sp. nov. Evidence is presented to support the
+assignment of Planobacterium taklimakanense to a genus apart from
+Chryseobacterium, to which Planobacterium salipaludis comb nov. also belongs. The
+novel genus Halpernia is proposed, to contain the type species Halpernia
+frigidisoli comb. nov., along with Halpernia humi comb. nov., and Halpernia
+marina comb. nov.
+
+DOI: 10.1099/ijsem.0.003935 
+PMID: 32735208  [Indexed for MEDLINE]
+

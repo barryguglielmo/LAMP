@@ -1,0 +1,37 @@
+
+1. Folia Microbiol (Praha). 2020 Jun;65(3):523-532. doi: 10.1007/s12223-019-00756-6.
+Epub 2019 Dec 13.
+
+The volatile organic compound dimethylhexadecylamine affects bacterial growth and
+swarming motility of bacteria.
+
+Martínez-Cámara R(1), Montejano-Ramírez V(1), Moreno-Hagelsieb G(2), Santoyo
+G(1), Valencia-Cantero E(3).
+
+Author information: 
+(1)Instituto de Investigaciones Químico Biológicas, Universidad Michoacana de San
+Nicolás de Hidalgo, Morelia, Michoacán, México.
+(2)Department of Biology, Wilfrid Laurier University, Waterloo, Ontario, Canada.
+(3)Instituto de Investigaciones Químico Biológicas, Universidad Michoacana de San
+Nicolás de Hidalgo, Morelia, Michoacán, México. vcantero@umich.mx.
+
+Bacteria have developed different intra- and inter-specific communication
+mechanisms that involve the production, release, and detection of signaling
+molecules, because these molecules serve as the autoinducers involved in "quorum 
+sensing" systems. Other communication mechanisms employ volatile signaling
+molecules that regulate different bacterial processes. The Arthrobacter agilis
+strain UMCV2 is a plant growth promoting actinobacterium, which induces plant
+growth and inhibits phytopathogenic fungi by emitting the dimethylhexadecylamine 
+(DMHDA). However, little is known about the effect of this volatile compound on
+A. agilis UMCV2 itself, as well as on other bacteria. By exposing A. agilis UMCV2
+and bacteria of the genus Bacillus and Pseudomonas to different concentrations of
+DMHDA, this study showed the dose-dependent effects of DMHDA on A. agilis UMCV2
+growth, cellular viability, swarming motility, and expression of marker genes of 
+the flagellar apparatus of bacteria. DMHDA was found to also modulate swarming
+motility of Bacillus sp. ZAP018 and P. fluorescens UM270, but not that of P.
+aeruginosa PA01. These data indicate that DMHDA is involved in both intra- and
+inter-specific bacterial interaction.
+
+DOI: 10.1007/s12223-019-00756-6 
+PMID: 31834593 
+

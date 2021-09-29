@@ -1,0 +1,44 @@
+
+1. Probiotics Antimicrob Proteins. 2020 Aug 11. doi: 10.1007/s12602-020-09695-y.
+[Epub ahead of print]
+
+Real-Time PCR Assays for the Specific Identification of Probiotic Strains
+Lactobacillus gasseri BNR17 and Lactobacillus reuteri LRC (NCIMB 30242).
+
+Shehata HR(1)(2), Ragupathy S(3), Allen S(4), Leyer G(4), Newmaster SG(3).
+
+Author information: 
+(1)NHP Research Alliance, College of Biological Sciences, University of Guelph,
+Guelph, Ontario, N1G 2W1, Canada. hshehata@uoguelph.ca.
+(2)Department of Microbiology, Faculty of Pharmacy, Mansoura University,
+Mansoura, Egypt. hshehata@uoguelph.ca.
+(3)NHP Research Alliance, College of Biological Sciences, University of Guelph,
+Guelph, Ontario, N1G 2W1, Canada.
+(4)UAS Laboratories, 555 N. 72nd Ave, Wausau, WI, 54401, USA.
+
+The broad spectrum of health benefits attributed to probiotics has contributed to
+a rapid increase in the value of the probiotic market. Probiotic health benefits 
+can be strain specific. Thus, strain-level identification of probiotic strains is
+of paramount importance to ensure probiotic efficacy. Both Lactobacillus gasseri 
+BNR17 and Lactobacillus reuteri LRC (NCIMB 30242) strains have clinically proven 
+health benefits; however, no assays were developed to enable strain-level
+identification of either of these strains. The objective of this study is to
+develop strain-specific PCR-based methods for Lactobacillus gasseri BNR17 and
+Lactobacillus reuteri LRC strains, and to validate these assays according to the 
+guidelines for validating qualitative real-time PCR assays. Using RAST (Rapid
+Annotation using Subsystem Technology), unique sequence regions were identified
+in the genome sequences of both strains. Probe-based assays were designed and
+validated for specificity, sensitivity, efficiency, repeatability, and
+reproducibility. Both assays were specific to target strain with 100% true
+positive and 0% false positive rates. Reaction efficiency for both assays was in 
+the range of 90 to 108% with R square values > 0.99. Repeatability and
+reproducibility were evaluated using five samples at three DNA concentrations
+each and relative standard deviation was < 4% for repeatability and < 8% for
+reproducibility. Both of the assays developed and validated in this study for the
+specific identification of Lactobacillus gasseri BNR17 and Lactobacillus reuteri 
+LRC strains are specific, sensitive, and precise. These assays can be applied to 
+evaluate and ensure compliance in probiotic products.
+
+DOI: 10.1007/s12602-020-09695-y 
+PMID: 32780278 
+

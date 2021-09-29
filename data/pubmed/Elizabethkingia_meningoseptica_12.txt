@@ -1,0 +1,40 @@
+
+1. IUBMB Life. 2020 Aug 22. doi: 10.1002/iub.2358. [Epub ahead of print]
+
+Mass production of active recombinant Chryseobacterium proteolyticum protein
+glutaminase in Escherichia coli using a sequential dual expression system and
+one-step purification.
+
+Lu X(1)(2), Poon TCW(1), Zhang H(2).
+
+Author information: 
+(1)Pilot Laboratory, Institute of Translational Medicine, Centre for Precision
+Medicine Research and Training, Faculty of Health sciences, University of Macau, 
+Macau, China.
+(2)Department of Biology, Guangdong Provincial Key Laboratory of Cell
+Microenvironment and Disease Research and Shenzhen Key Laboratory of Cell
+Microenvironment, Southern University of Science and Technology, Shenzhen, China.
+
+Protein glutaminase (PG) is an enzyme that specifically catalyzes the deamidation
+of glutamine residues on proteins or peptides, remarkably improving the
+solubility, emulsification and foaming properties of food proteins and, thereby, 
+conferring great potential in food industry applications. PG is primarily
+produced from wild strains of Chryseobacterium proteolyticum and the low enzyme
+production yield restricts large-scale industrial applications. In this context, 
+by evaluating different cleavage site insertions between the pro-region and
+mature domain of PG as well as different linkers flanking the cleavage site, an
+E. coli expression and purification protocol has been developed to produce active
+recombinant PG. To simplify the production workflow, we developed a sequential
+dual expression system. More than 15 mg of pure and active PG was obtained from 1
+L of shaking-flask bacteria culture by one-step nickel affinity chromatography
+purification. The enzymatic characteristics of the recombinant PG protein were
+similar to those of native PG. For the deamidation effect of recombinant PG, the 
+deamidation degree (DD) of gliadin reached up to 67% and the solubility increased
+84-fold. Thus, this study provides a practical approach to mass producing active 
+PG proteins and investigates its potential applications on food proteins.
+
+© 2020 International Union of Biochemistry and Molecular Biology.
+
+DOI: 10.1002/iub.2358 
+PMID: 32827356 
+

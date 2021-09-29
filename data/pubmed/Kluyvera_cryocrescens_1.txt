@@ -1,0 +1,45 @@
+
+1. Biotechnol Lett. 2020 Nov;42(11):2367-2377. doi: 10.1007/s10529-020-02959-1. Epub
+2020 Jul 12.
+
+Secretory expression and characterization of a novel amidase from Kluyvera
+cryocrescens in Bacillus subtilis.
+
+Kang XM(1)(2), Cai X(1)(2), Liu ZQ(3)(4), Zheng YG(1)(2).
+
+Author information: 
+(1)The National and Local Joint Engineering Research Center for Biomanufacturing 
+of Chiral Chemicals, Zhejiang University of Technology, Hangzhou, 310014,
+People's Republic of China.
+(2)Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of
+Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou,
+310014, People's Republic of China.
+(3)The National and Local Joint Engineering Research Center for Biomanufacturing 
+of Chiral Chemicals, Zhejiang University of Technology, Hangzhou, 310014,
+People's Republic of China. microliu@zjut.edu.cn.
+(4)Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of
+Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou,
+310014, People's Republic of China. microliu@zjut.edu.cn.
+
+OBJECTIVE: Cloning and secretory expression of an amidase from Kluyvera
+cryocrescens and characterization of its potential in preparation of chiral amino
+acids.
+RESULTS: An amidase belonging to the Ntn-hydrolase superfamily was identified
+from Kluyvera cryocrescens ZJB-17005 (Kc-Ami). The maximum activity of Kc-Ami was
+observed at pH 8.5 and 55 °C. Remarkably, Kc-Ami showed an excellent
+enantioselectivity (99% ee) using
+rac-4-(hydroxy(methyl)phosphoryl)-2-(2-phenylacetamido) butanoic acid as
+substrate. Kc-Ami remained stable at pH 7.0-9.0 and exhibited prominent
+thermostability with a half-life time of 59.1, 47.4 and 20.4 h at 50, 55 and
+60 °C, respectively. Kc-Ami could be appllied to synthesize chiral amino acids
+and its derivatives with excellent enantioselectivity (> 99% ee). The
+synthesized chiral amino acids could contain short or long side chain, and
+further the side chain could be replaced with -OH, -COOH or benzene ring.
+CONCLUSIONS: Kc-Ami exhibited remarkable thermostability and excellent
+enantioselectivity for synthesizing chiral amino acids and its derivatives. This 
+specific characteristic provides great potential for industrial application in
+preparation of chiral amino acids and its derivatives.
+
+DOI: 10.1007/s10529-020-02959-1 
+PMID: 32656682 
+

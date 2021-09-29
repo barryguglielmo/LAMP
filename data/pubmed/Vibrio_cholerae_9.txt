@@ -1,0 +1,36 @@
+
+1. ACS Appl Mater Interfaces. 2020 Sep 29. doi: 10.1021/acsami.0c14313. [Epub ahead 
+of print]
+
+Characterization of the Vibriocidal Activity of Chitosan Microparticles: A
+Potential Therapeutic Agent for Emerging Multi-Drug Resistant Cholera Infections.
+
+Weppelmann TA, Jeong KC, Ali A.
+
+Due to increasing reports of multi-drug resistant (MDR) Vibrio cholerae O1, the
+goal of this study was to characterize the in vitro antimicrobial activity of
+chitosan microparticles (CMs) to evaluate their potential as a novel therapeutic 
+agent for cholera. We examined the antimicrobial activity of CMs against
+toxigenic V. cholerae O1 using direct enumeration, microscopy, and fluorescence
+microplate assays. Bacterial viability kinetics were measured with different
+concentrations of CMs, solution pH, and salt content using a live/dead staining
+technique. Growth inhibition of CM-exposed V. cholerae strains conducted using a 
+redox-sensitive stain and compared between wild-type and isogenic outer membrane 
+(OM) mutants. CM concentrations above 0.1% wt. were sufficient to kill V.
+cholerae O1 suspensions with approximately 108 CFU/mL within three hours. The
+non-viable cells demonstrated increased OM permeability that corresponded to
+gross morphological changes observed through scanning electron microscopy. CMs
+exhibited dose-dependent bactericidal activity that increased predictably at
+lower pH and decreased with salt addition. V. cholerae O1 strains lacking
+O-antigen were twice as susceptible to growth inhibition by CMs, whereas those
+with glycine modification to lipid A were ten times more resistant. We propose
+that CM exert vibriocidal activity via electrostatic surface interactions between
+their positively charged amine groups and the negatively charged gram-negative
+bacterial OM, resulting in disruption, increased permeability, decreased redox
+metabolism, and subsequent loss of cellular viability. Further research should be
+conducted in vivo to evaluate the efficacy of CMs as luminal agents to treat
+infections caused by MDR, toxigenic V. cholerae and other diarrheal pathogens.
+
+DOI: 10.1021/acsami.0c14313 
+PMID: 32990431 
+

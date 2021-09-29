@@ -1,0 +1,38 @@
+
+1. Microb Cell Fact. 2020 May 4;19(1):98. doi: 10.1186/s12934-020-01352-x.
+
+Novel enterocin E20c purified from Enterococcus hirae 20c synergised with
+ß-lactams and ciprofloxacin against Salmonella enterica.
+
+Sharma P(1), Rashid M(1), Kaur S(2).
+
+Author information: 
+(1)Department of Microbiology, Guru Nanak Dev University, Amritsar, Punjab,
+India.
+(2)Department of Microbiology, Guru Nanak Dev University, Amritsar, Punjab,
+India. drsukhrajkaur@gmail.com.
+
+BACKGROUND: An increasing rate of antibiotic resistance among Gram-negative
+bacterial pathogens has created an urgent need to discover novel therapeutic
+agents to combat infectious diseases. Use of bacteriocins as therapeutic agents
+has immense potential due to their high potency and mode of action different from
+that of conventional antibiotics.
+RESULTS: In this study, a novel bacteriocin E20c of molecular weight 6.5 kDa was 
+purified and characterized from the probiotic strain of Enterococcus hirae. E20c 
+had bactericidal activities against several multidrug resistant (MDR)
+Gram-negative bacterial pathogens. Flow cytometry and scanning electron
+microscopy studies showed that it killed the Salmonella enterica cells by forming
+ion-permeable channels in the cell membrane leading to enhanced cell membrane
+permeability. Further, checkerboard titrations showed that E20c had synergistic
+interaction with antibiotics such as ampicillin, penicillin, ceftriaxone, and
+ciprofloxacin against a ciprofloxacin- and penicillin-resistant strain of S.
+enterica.
+CONCLUSION: Thus, this study shows the broad spectrum antimicrobial activity of
+novel enterocin E20c against various MDR pathogens. Further, it highlights the
+importance of bacteriocins in lowering the minimum inhibitory concentrations of
+conventional antibiotics when used in combination.
+
+DOI: 10.1186/s12934-020-01352-x 
+PMCID: PMC7197179
+PMID: 32366243 
+

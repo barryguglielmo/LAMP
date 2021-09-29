@@ -1,0 +1,42 @@
+
+1. Plants (Basel). 2020 May 6;9(5). pii: E592. doi: 10.3390/plants9050592.
+
+From Genome to Field-Observation of the Multimodal Nematicidal and Plant
+Growth-Promoting Effects of Bacillus firmus I-1582 on Tomatoes Using
+Hyperspectral Remote Sensing.
+
+Susič N(1), Žibrat U(1), Sinkovič L(2), Vončina A(1), Razinger J(1), Knapič M(1),
+Sedlar A(2), Širca S(1), Gerič Stare B(1).
+
+Author information: 
+(1)Plant Protection Department, Agricultural Institute of Slovenia, SI-1000
+Ljubljana, Slovenia.
+(2)Crop Science Department, Agricultural Institute of Slovenia, SI-1000
+Ljubljana, Slovenia.
+
+Root-knot nematodes are considered the most important group of plant-parasitic
+nematodes due to their wide range of plant hosts and subsequent role in yield
+losses in agricultural production systems. Chemical nematicides are the primary
+control method, but ecotoxicity issues with some compounds has led to their
+phasing-out and consequential development of new control strategies, including
+biological control. We evaluated the nematicidal activity of Bacillus firmus
+I-1582 in pot and microplot experiments against Meloidogyne luci. I-1582 reduced 
+nematode counts by 51% and 53% compared to the untreated control in pot and
+microplot experiments, respectively. I-1582 presence in the rhizosphere had
+concurrent nematicidal and plant growth-promoting effects, measured using plant
+morphology, relative chlorophyll content, elemental composition and hyperspectral
+imaging. Hyperspectral imaging in the 400-2500 nm spectral range and supervised
+classification using partial least squares support vector machines successfully
+differentiated B. firmus-treated and untreated plants, with 97.4% and 96.3%
+accuracy in pot and microplot experiments, respectively. Visible and shortwave
+infrared spectral regions associated with chlorophyll, N-H and C-N stretches in
+proteins were most relevant for treatment discrimination. This study shows the
+ability of hyperspectral imaging to rapidly assess the success of biological
+measures for pest control.
+
+DOI: 10.3390/plants9050592 
+PMCID: PMC7285481
+PMID: 32384661 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

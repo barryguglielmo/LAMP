@@ -1,0 +1,66 @@
+
+1. Antimicrob Resist Infect Control. 2020 Sep 29;9(1):160. doi:
+10.1186/s13756-020-00824-4.
+
+Influence of severity of infection on the effect of appropriate antimicrobial
+therapy for Acinetobacter baumannii bacteremic pneumonia.
+
+Kang FY(1), How CK(1)(2), Wang YC(3), Cheng A(4), Yang YS(3), Kuo SC(5), Liu
+CP(6)(7), Liu YM(8), Chen TL(9)(10), Lee YT(11)(12).
+
+Author information: 
+(1)Department of Emergency Medicine, Taipei Veterans General Hospital, No.201,
+Section 2, Shipai Road, Taipei, 11217, Taiwan.
+(2)Faculty of Medicine, School of Medicine, National Yang-Ming University,
+Taipei, Taiwan.
+(3)Division of Infectious Diseases and Tropical Medicine, Department of Internal 
+Medicine, Tri-Service General Hospital, National Defense Medical Center, Taipei, 
+Taiwan.
+(4)Department of Internal Medicine, National Taiwan University Hospital and
+National Taiwan University College of Medicine, Taipei, Taiwan.
+(5)National Institute of Infectious Diseases and Vaccinology, National Health
+Research Institute, Miaoli County, Taiwan.
+(6)Division of Infectious Diseases, Department of Internal Medicine, Mackay
+Memorial Hospital, Taipei, Taiwan.
+(7)Department of Medical Research, Mackay Memorial Hospital, Taipei, Taiwan.
+(8)Division of Infectious Diseases, Department of Internal Medicine, Changhua
+Christian Hospital, Changhua, Taiwan.
+(9)Graduate Institute of Life Sciences, National Defense Medical Center, Taipei, 
+Taiwan.
+(10)Division of Infectious Diseases, Department of Medicine, Taipei Veterans
+General Hospital, Taipei, Taiwan.
+(11)Department of Emergency Medicine, Taipei Veterans General Hospital, No.201,
+Section 2, Shipai Road, Taipei, 11217, Taiwan. s851009@yahoo.com.tw.
+(12)Faculty of Medicine, School of Medicine, National Yang-Ming University,
+Taipei, Taiwan. s851009@yahoo.com.tw.
+
+BACKGROUND: The impact of appropriate antimicrobial therapy for A. baumannii
+bacteremic pneumonia has not been well established due to the inclusion of the
+three phenotypically indistinguishable Acinetobacter species and confounding
+factors including underlying diseases and severity of infection. This
+retrospective study aimed to evaluate the impact of appropriate antimicrobial
+therapy on 14-day mortality in A. baumannii bacteremic pneumonia patients after
+adjusting for risk factors.
+METHODS: This study was conducted at five medical centers in Taiwan between July 
+2012 and June 2016. A. baumannii species identification was performed using
+reference molecular methods. Risk factors for 14-day mortality were analyzed via 
+logistic regression. The interaction between the Acute Physiology and Chronic
+Health Evaluation (APACHE) II score and appropriate antimicrobial therapy was
+assessed using the logistic model.
+RESULTS: A total of 336 patients with monomicrobial A. baumannii bacteremic
+pneumonia were included in this study. The overall 14-day mortality rate was
+47.3%. The crude mortality of appropriate antimicrobial therapy was 35.9% (57 of 
+151 patients). Appropriate antimicrobial therapy was associated with a lower
+mortality after multivariate adjustment (odds ratio [OR], 0.57; 95% confidence
+interval [CI], 0.34-0.97; p = 0.04), and the effect was influenced by APACHE II
+score (OR for interaction term, 0.0098; 95% CI, 0.0005-0.1885; p = 0.002).
+Further analysis demonstrated that appropriate antimicrobial therapy
+significantly reduced 14-day mortality among the patients with an APACHE II
+score > 35 (OR 0.0098; 95% CI 0.0005-0.1885).
+CONCLUSION: Appropriate antimicrobial therapy decreases 14-day mortality of the
+most severely ill patients with A. baumannii bacteremic pneumonia.
+
+DOI: 10.1186/s13756-020-00824-4 
+PMCID: PMC7523485
+PMID: 32993810 
+

@@ -1,0 +1,55 @@
+
+1. Dev Comp Immunol. 2020 Sep 10;114:103864. doi: 10.1016/j.dci.2020.103864. [Epub
+ahead of print]
+
+Azadirachtin interferes with basal immunity and microbial homeostasis in the
+Rhodnius prolixus midgut.
+
+Vieira CS(1), Figueiredo MB(2), Moraes CDS(2), Pereira SB(2), Dyson P(3), Mello
+CB(4), Castro DP(1), Azambuja P(5).
+
+Author information: 
+(1)Laboratório de Bioquímica e Fisiologia de Insetos, Instituto Oswaldo Cruz,
+Fundação Oswaldo Cruz (IOC/FIOCRUZ), Rio de Janeiro, RJ, Brazil; Departamento de 
+Entomologia Molecular, Instituto Nacional de Entomologia Molecular (INCT-EM), Rio
+de Janeiro, RJ, Brazil.
+(2)Laboratório de Bioquímica e Fisiologia de Insetos, Instituto Oswaldo Cruz,
+Fundação Oswaldo Cruz (IOC/FIOCRUZ), Rio de Janeiro, RJ, Brazil.
+(3)School of Medicine, Swansea University, Swansea, UK.
+(4)Laboratório de Biologia de Insetos, Universidade Federal Fluminense, Niteroi, 
+RJ, Brazil; Departamento de Entomologia Molecular, Instituto Nacional de
+Entomologia Molecular (INCT-EM), Rio de Janeiro, RJ, Brazil; Programa de
+Pós-Graduação Em Ciências e Biotecnologia, Universidade Federal Fluminense,
+Niteroi, RJ, Brazil.
+(5)Departamento de Entomologia Molecular, Instituto Nacional de Entomologia
+Molecular (INCT-EM), Rio de Janeiro, RJ, Brazil; Programa de Pós-Graduação Em
+Ciências e Biotecnologia, Universidade Federal Fluminense, Niteroi, RJ, Brazil.
+Electronic address: Patriciaazambuja@id.uff.br.
+
+Rhodnius prolixus is an insect vector of two flagellate parasites, Trypanosoma
+rangeli and Trypanosoma cruzi, the latter being the causative agent of Chagas
+disease in Latin America. The R. prolixus neuroendocrine system regulates the
+synthesis of the steroid hormone ecdysone, which is essential for not only
+development and molting but also insect immunity. Knowledge for how this
+modulates R. prolixus midgut immune responses is essential for understanding
+interactions between the vector, its parasites and symbiotic microbes. In the
+present work, we evaluated the effects of ecdysone inhibition on R. prolixus
+humoral immunity and homeostasis with its microbiota, using the triterpenoid
+natural product, azadirachtin. Our results demonstrated that azadirachtin
+promoted a fast and lasting inhibitory effect on expression of both RpRelish, a
+nuclear factor kappa B transcription factor (NF-kB) component of the IMD pathway,
+and several antimicrobial peptide (AMP) genes. On the other hand, RpDorsal,
+encoding the equivalent NF-kB transcription factor in the Toll pathway, and the
+defC AMP gene were upregulated later in azadirachtin treated insects. The
+treatment also impacted on proliferation of Serratia marcescens, an abundant
+commensal bacterium. The simultaneous administration of ecdysone and azadirachtin
+in R. prolixus blood meals counteracted the azadirachtin effects on insect
+molting and also on expression of RpRelish and AMPs genes. These results support 
+the direct involvement of ecdysone in regulation of the IMD pathway in the
+Rhodnius prolixus gut.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.dci.2020.103864 
+PMID: 32918931 
+

@@ -1,0 +1,50 @@
+
+1. Front Bioeng Biotechnol. 2020 Aug 20;8:958. doi: 10.3389/fbioe.2020.00958.
+eCollection 2020.
+
+A Straightforward Assay for Screening and Quantification of Biosurfactants in
+Microbial Culture Supernatants.
+
+Kubicki S(1)(2), Bator I(2)(3), Jankowski S(2)(4), Schipper K(2)(4), Tiso
+T(2)(3), Feldbrügge M(2)(4), Blank LM(2)(3), Thies S(1)(2), Jaeger KE(5)(1)(2).
+
+Author information: 
+(1)Institute of Molecular Enzyme Technology, Heinrich Heine University
+Düsseldorf, Jülich, Germany.
+(2)Forschungszentrum Jülich GmbH, Bioeconomy Science Center (BioSC), Jülich,
+Germany.
+(3)iAMB-Institute of Applied Microbiology, ABBt-Aachen Biology and Biotechnology,
+RWTH Aachen University, Aachen, Germany.
+(4)Center of Excellence on Plant Sciences, Institute for Microbiology, Heinrich
+Heine University Düsseldorf, Düsseldorf, Germany.
+(5)Forschungszentrum Jülich GmbH, Institute of Bio- and Geosciences IBG 1:
+Biotechnology, Jülich, Germany.
+
+A large variety of microorganisms produces biosurfactants with the potential for 
+a number of diverse industrial applications. To identify suitable wild-type or
+engineered production strains, efficient screening methods are needed, allowing
+for rapid and reliable quantification of biosurfactants in multiple cultures,
+preferably at high throughput. To this end, we have established a novel and
+sensitive assay for the quantification of biosurfactants based on the dye
+Victoria Pure Blue BO (VPBO). The assay allows the colorimetric assessment of
+biosurfactants directly in culture supernatants and does not require extraction
+or concentration procedures. Working ranges were determined for precise
+quantification of different rhamnolipid biosurfactants; titers in culture
+supernatants of recombinant Pseudomonas putida KT2440 calculated by this assay
+were confirmed to be the same ranges detected by independent high-performance
+liquid chromatography (HPLC)-charged aerosol detector (CAD) analyses. The assay
+was successfully applied for detection of chemically different anionic or
+non-ionic biosurfactants including mono- and di-rhamnolipids (glycolipids),
+mannosylerythritol lipids (MELs, glycolipids), 3-(3-hydroxyalkanoyloxy) alkanoic 
+acids (fatty acid conjugates), serrawettin W1 (lipopeptide), and N-acyltyrosine
+(lipoamino acid). In summary, the VPBO assay offers a broad range of applications
+including the comparative evaluation of different cultivation conditions and
+high-throughput screening of biosurfactant-producing microbial strains.
+
+Copyright © 2020 Kubicki, Bator, Jankowski, Schipper, Tiso, Feldbrügge, Blank,
+Thies and Jaeger.
+
+DOI: 10.3389/fbioe.2020.00958 
+PMCID: PMC7468441
+PMID: 32974305 
+

@@ -1,0 +1,43 @@
+
+1. ACS Cent Sci. 2020 May 27;6(5):739-746. doi: 10.1021/acscentsci.0c00050. Epub
+2020 May 6.
+
+A Biological Nanomachine at Work: Watching the Cellulosome Degrade Crystalline
+Cellulose.
+
+Eibinger M(1), Ganner T(2), Plank H(2)(3), Nidetzky B(1)(4).
+
+Author information: 
+(1)Institute of Biotechnology and Biochemical Engineering, Graz University of
+Technology, Petersgasse 10-12/1, 8010 Graz, Austria.
+(2)Institute for Electron Microscopy and Nanoanalysis, Graz University of
+Technology, Steyrergasse 17, 8010 Graz, Austria.
+(3)Graz Centre of Electron Microscopy, Steyrergasse 17, A-8010 Graz, Austria.
+(4)Austrian Centre of Industrial Biotechnology, Petersgasse 14, 8010 Graz,
+Austria.
+
+The cellulosome is a supramolecular multienzymatic protein complex that functions
+as a biological nanomachine of cellulosic biomass degradation. How the
+megadalton-size cellulosome adapts to a solid substrate is central to its
+mechanism of action and is also key for its efficient use in bioconversion
+applications. We report time-lapse visualization of crystalline cellulose
+degradation by individual cellulosomes from Clostridium thermocellum by atomic
+force microscopy. Upon binding to cellulose, the cellulosomes switch to
+elongated, even filamentous shapes and morph these dynamically at below 1 min
+time scale according to requirements of the substrate surface under attack.
+Compared with noncomplexed cellulases that peel off material while sliding along 
+crystalline cellulose surfaces, the cellulosomes remain bound locally for minutes
+and remove the material lying underneath. The consequent roughening up of the
+surface leads to an efficient deconstruction of cellulose nanocrystals both from 
+the ends and through fissions within. Distinct modes of cellulose nanocrystal
+deconstruction by nature's major cellulase systems are thus revealed.
+
+Copyright © 2020 American Chemical Society.
+
+DOI: 10.1021/acscentsci.0c00050 
+PMCID: PMC7256933
+PMID: 32490190 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

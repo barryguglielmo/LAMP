@@ -1,0 +1,57 @@
+
+1. Biomed Res Int. 2020 Jul 1;2020:1242364. doi: 10.1155/2020/1242364. eCollection
+2020.
+
+Biliary Microbiota and Bile Acid Composition in Cholelithiasis.
+
+Petrov VA(1), Fernández-Peralbo MA(2), Derks R(3), Knyazeva EM(4), Merzlikin
+NV(5), Sazonov AE(1), Mayboroda OA(3)(6), Saltykova IV(1).
+
+Author information: 
+(1)Central Research Laboratory, Siberian State Medical University, Tomsk, Russia.
+(2)Department of Analytical Chemistry, Annex Marie Curie Building, Campus of
+Rabanales, University of Córdoba, E-14071 Córdoba, Spain.
+(3)Center for Proteomics and Metabolomics, Leiden University Medical Center,
+Leiden, Netherlands.
+(4)School of Core Engineering Education, National Research Tomsk Polytechnic
+University, Tomsk, Russia.
+(5)Surgical Diseases Department of Pediatric Faculty, Siberian State Medical
+University, Tomsk, Russia.
+(6)Department of Chemistry, Tomsk State University, Tomsk, Russia.
+
+Background: A functional interplay between BAs and microbial composition in gut
+is a well-documented phenomenon. In bile, this phenomenon is far less studied,
+and with this report, we describe the interactions between the BAs and microbiota
+in this complex biological matrix. Methodology. Thirty-seven gallstone disease
+patients of which twenty-one with Opisthorchis felineus infection were enrolled
+in the study. The bile samples were obtained during laparoscopic cholecystectomy 
+for gallstone disease operative treatment. Common bile acid composition was
+measured by LC-MS/MS. Gallbladder microbiota were previously analyzed with 16S
+rRNA gene sequencing on Illumina MiSeq platform. The associations between bile
+acid composition and microbiota were analyzed.
+Results: Bile acid signature and Opisthorchis felineus infection status exert
+influence on beta-diversity of bile microbial community. Direct correlations were
+found between taurocholic acid, taurochenodeoxycholic acid concentrations, and
+alpha-diversity of bile microbiota. Taurocholic acid and taurochenodeoxycholic
+acid both show positive associations with the presence of Chitinophagaceae
+family, Microbacterium and Lutibacterium genera, and Prevotella intermedia. Also,
+direct associations were identified for taurocholic acid concentration and the
+presence of Actinomycetales and Bacteroidales orders, Lautropia genus,
+Jeotgalicoccus psychrophilus, and Haemophilus parainfluenzae as well as for
+taurochenodeoxycholic acid and Acetobacteraceae family and Sphingomonas genus.
+There were no differences in bile acid concentrations between O.
+felineus-infected and noninfected patients. Conclusions/Significance.
+Associations between diversity, taxonomic profile of bile microbiota, and bile
+acid levels were evidenced in patients with cholelithiasis. Increase of
+taurochenodeoxycholic acid and taurocholic acid concentration correlates with
+bile microbiota alpha-diversity and appearance of opportunistic pathogens.
+
+Copyright © 2020 Vyacheslav A. Petrov et al.
+
+DOI: 10.1155/2020/1242364 
+PMCID: PMC7352139
+PMID: 32714973 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

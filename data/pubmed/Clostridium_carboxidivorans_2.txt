@@ -1,0 +1,41 @@
+
+1. Genomics. 2019 Dec;111(6):1687-1694. doi: 10.1016/j.ygeno.2018.11.020. Epub 2018 
+Nov 20.
+
+Deciphering mixotrophic Clostridium formicoaceticum metabolism and energy
+conservation: Genomic analysis and experimental studies.
+
+Bao T(1), Cheng C(1), Xin X(1), Wang J(2), Wang M(3), Yang ST(4).
+
+Author information: 
+(1)William G. Lowrie Department of Chemical and Biomolecular Engineering, The
+Ohio State University, 151 W. Woodruff Avenue, Columbus, OH 43210, USA.
+(2)School of Bioscience and Bioengineering, South China University of Technology,
+Guangzhou 510006, China.
+(3)School of Animal Science and Technology, Zhejiang University, Hangzhou,
+Zhejiang, China.
+(4)William G. Lowrie Department of Chemical and Biomolecular Engineering, The
+Ohio State University, 151 W. Woodruff Avenue, Columbus, OH 43210, USA.
+Electronic address: yang.15@osu.edu.
+
+Clostridium formicoaceticum, a Gram-negative mixotrophic homoacetogen, produces
+acetic acid as the sole metabolic product from various carbon sources, including 
+fructose, glycerol, formate, and CO2. Its genome of 4.59-Mbp contains a highly
+conserved Wood-Ljungdahl pathway gene cluster with the same layout as that in
+other mixotrophic acetogens, including Clostridium aceticum, Clostridium
+carboxidivorans, and Clostridium ljungdahlii. For energy conservation, C.
+formicoaceticum does not have all the genes required for the synthesis of
+cytochrome or quinone used for generating proton gradient in H+-dependent
+acetogens such as Moorella thermoacetica; instead, it has the Rnf system and a
+Na+-translocating ATPase similar to the one in Acetobacterium woodii. Its growth 
+in both heterotrophic and autotrophic media were dependent on the sodium
+concentration. C. formicoaceticum has genes encoding acetaldehyde dehydrogenases,
+alcohol dehydrogenases, and aldehyde oxidoreductases, which could convert
+acetyl-CoA and acetate to ethanol and butyrate to butanol under excessive
+reducing equivalent conditions.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ygeno.2018.11.020 
+PMID: 30465914  [Indexed for MEDLINE]
+

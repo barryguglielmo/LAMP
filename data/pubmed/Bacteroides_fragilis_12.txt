@@ -1,0 +1,61 @@
+
+1. Toxins (Basel). 2020 Sep 7;12(9). pii: E575. doi: 10.3390/toxins12090575.
+
+Wound Infections of Snakebites from the Venomous Protobothrops mucrosquamatus and
+Viridovipera stejnegeri in Taiwan: Bacteriology, Antibiotic Susceptibility, and
+Predicting the Need for Antibiotics-A BITE Study.
+
+Lin CC(1)(2), Chen YC(3)(4), Goh ZNL(5), Seak CK(5), Seak JC(5), Shi-Ying G(1),
+Seak CJ(1)(2)(6), Spot Investigators(1)(5)(6).
+
+Author information: 
+(1)Department of Emergency Medicine, Lin-Kou Medical Center, Chang Gung Memorial 
+Hospital, Taoyuan 33305, Taiwan.
+(2)College of Medicine, Chang Gung University, Taoyuan 33302, Taiwan.
+(3)Department of Emergency medicine, Taipei Veterans General Hospital, Taipei
+11217, Taiwan.
+(4)Department of Emergency Medicine, School of Medicine, National Yang-Ming
+University, Taipei 11221, Taiwan.
+(5)Sarawak General Hospital, Kuching, Sarawak 93586, Malaysia.
+(6)Department of Emergency Medicine, New Taipei Municipal Tucheng Hospital, New
+Taipei City 23652, Taiwan.
+
+Snakebites from Taiwan habus (Protobothrops mucrosquamatus) and green bamboo
+vipers (Viridovipera stejnegeri) account for two-thirds of all venomous
+snakebites in Taiwan. While there has been ongoing optimization of antivenin
+therapy, the proper management of superimposed bacterial wound infections is not 
+well studied. In this Bacteriology of Infections in Taiwanese snake Envenomation 
+(BITE) study, we investigated the prevalence of wound infection, bacteriology,
+and corresponding antibiotic usage in patients presenting with snakebites from
+these two snakes. We further developed a BITE score to evaluate the probability
+of wound infections and guide antibiotic usage in this patient population. All
+snakebite victims who presented to the emergency departments of seven training
+and research hospitals and received at least one vial of freeze-dried hemorrhagic
+antivenin between January 2001 and January 2017 were identified. Patient biodata,
+laboratory investigation results, and treatment modalities were retrieved. We
+developed our BITE score via univariate and multiple logistic regression
+analyses. The receiver operating characteristic (ROC) curve was plotted to
+evaluate the predictive performance of the BITE score. Out of 8,295,497 emergency
+department visits, 726 patients presented with snakebites from a Taiwan habu or a
+green bamboo viper. The wound infection rate was 22.45%, with seven positive
+wound cultures, including six polymicrobial infections. Morganella morganii,
+Enterococcus spp., Bacteroides fragilis, and Aeromonas hydrophila were most
+frequently cultured. There were no positive blood cultures. A total of 33.0% (n =
+106) of snakebite patients who received prophylactic antibiotics nevertheless
+developed wound infections, while 44.8% (n = 73) of wound infection patients were
+satisfactorily treated with one of the following antibiotics:
+amoxicillin/clavulanic acid, oxacillin, cefazolin, and ampicillin/sulbactam. With
+the addition of gentamicin, the success of antibiotic therapy increased by up to 
+66.54%. The prognostic factors for the secondary bacterial infection of
+snakebites were white blood cell counts, the neutrophil lymphocyte ratio, and the
+need for hospital admission. The area under the ROC curve for the BITE score was 
+0.839. At the optimal cut-off point of 5, the BITE score had a 79.58% accuracy,
+82.31% sensitivity, and 79.71% specificity when predicting infection in snakebite
+patients. Our BITE score may help with antibiotic stewardship by guiding
+appropriate antibiotic use in patients presenting with snakebites. It may also be
+employed in further studies into antibiotic prophylaxis in snakebite patients for
+the prevention of superimposed bacterial wound infections.
+
+DOI: 10.3390/toxins12090575 
+PMID: 32906845 
+

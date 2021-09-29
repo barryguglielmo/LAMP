@@ -1,0 +1,47 @@
+
+1. BMC Microbiol. 2020 Apr 6;20(1):77. doi: 10.1186/s12866-020-01772-0.
+
+Bioinformatic prospecting and phylogenetic analysis reveals 94 undescribed
+circular bacteriocins and key motifs.
+
+Vezina B(1), Rehm BHA(1), Smith AT(2).
+
+Author information: 
+(1)Centre for Cell Factories and Biopolymers, Griffith Institute for Drug
+Discovery, Griffith University, Nathan, Australia.
+(2)Centre for Cell Factories and Biopolymers, Griffith Institute for Drug
+Discovery, Griffith University, Nathan, Australia. andrew.smith@griffith.edu.au.
+
+BACKGROUND: Circular bacteriocins are antimicrobial peptides produced by bacteria
+with a N and C termini ligation. They have desirable properties such as activity 
+at low concentrations along with thermal, pH and proteolytic resistance. There
+are twenty experimentally confirmed circular bacteriocins as part of bacteriocin 
+gene clusters, with transport, membrane and immunity proteins. Traditionally,
+novel antimicrobials are found by testing large numbers of isolates against
+indicator strains, with no promise of corresponding novel sequence.
+RESULTS: Through bioprospecting publicly available sequence databases, we
+identified ninety-nine circular bacteriocins across a variety of bacteria
+bringing the total to 119. They were grouped into two families within class I
+modified bacteriocins (i and ii) and further divided into subfamilies based on
+similarity to experimentally confirmed circular bacteriocins. Within subfamilies,
+sequences overwhelmingly shared similar characteristics such as sequence length, 
+presence of a polybasic region, conserved locations of aromatic residues, C and N
+termini, gene clusters similarity, translational coupling and hydrophobicity
+profiles. At least ninety were predicted to be putatively functional based on
+gene clusters. Furthermore, bacteriocins identified from Enterococcus,
+Staphylococcus and Streptococcus species may have activity against clinically
+relevant strains, due to the presence of putative immunity genes required for
+expression in a toxin-antitoxin system. Some strains such as Paenibacillus larvae
+subsp. pulvifaciens SAG 10367 contained multiple circular bacteriocin gene
+clusters from different subfamilies, while some strains such as Bacillus cereus
+BCE-01 contained clusters with multiple circular bacteriocin structural genes.
+CONCLUSIONS: Sequence analysis provided rapid insight into identification of
+novel, putative circular bacteriocins, as well as conserved genes likely
+essential for circularisation. This represents an expanded library of putative
+antimicrobial proteins which are potentially active against human, plant and
+animal pathogens.
+
+DOI: 10.1186/s12866-020-01772-0 
+PMCID: PMC7132975
+PMID: 32252629 
+

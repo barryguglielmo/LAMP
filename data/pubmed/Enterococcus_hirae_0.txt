@@ -1,0 +1,38 @@
+
+1. Microorganisms. 2020 Sep 11;8(9). pii: E1395. doi: 10.3390/microorganisms8091395.
+
+Modulation of the Gut Microbiota Alters the Tumour-Suppressive Efficacy of Tim-3 
+Pathway Blockade in a Bacterial Species- and Host Factor-Dependent Manner.
+
+Lee B(1)(2), Lee J(1)(2), Woo MY(1)(2), Lee MJ(1), Shin HJ(1)(2), Kim K(1)(2),
+Park S(1)(2).
+
+Author information: 
+(1)Department of Microbiology, Ajou University School of Medicine, Youngtongku
+Wonchondong San 5, Suwon 442-749, Korea.
+(2)Department of Biomedical Sciences, The Graduate School, Ajou University,
+Youngtongku Wonchondong San 5, Suwon 442-749, Korea.
+
+T cell immunoglobulin and mucin domain-containing protein-3 (Tim-3) is an immune 
+checkpoint molecule and a target for anti-cancer therapy. In this study, we
+examined whether gut microbiota manipulation altered the anti-tumour efficacy of 
+Tim-3 blockade. The gut microbiota of mice was manipulated through the
+administration of antibiotics and oral gavage of bacteria. Alterations in the gut
+microbiome were analysed by 16S rRNA gene sequencing. Gut dysbiosis triggered by 
+antibiotics attenuated the anti-tumour efficacy of Tim-3 blockade in both C57BL/6
+and BALB/c mice. Anti-tumour efficacy was restored following oral gavage of
+faecal bacteria even as antibiotic administration continued. In the case of oral 
+gavage of Enterococcus hirae or Lactobacillus johnsonii, transferred bacterial
+species and host mouse strain were critical determinants of the anti-tumour
+efficacy of Tim-3 blockade. Bacterial gavage did not increase the alpha diversity
+of gut microbiota in antibiotic-treated mice but did alter the microbiome
+composition, which was associated with the restoration of the anti-tumour
+efficacy of Tim-3 blockade. Conclusively, our results indicate that gut
+microbiota modulation may improve the therapeutic efficacy of Tim-3 blockade
+during concomitant antibiotic treatment. The administered bacterial species and
+host factors should be considered in order to achieve therapeutically beneficial 
+modulation of the microbiota.
+
+DOI: 10.3390/microorganisms8091395 
+PMID: 32932843 
+

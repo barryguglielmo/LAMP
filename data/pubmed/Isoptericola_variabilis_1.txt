@@ -1,0 +1,46 @@
+
+1. Antonie Van Leeuwenhoek. 2020 Jul;113(7):1009-1021. doi:
+10.1007/s10482-020-01413-6. Epub 2020 Apr 18.
+
+Lactococcus protaetiae sp. nov. and Xylanimonas protaetiae sp. nov., isolated
+from gut of larvae of Protaetia brevitarsis seulensis.
+
+Heo J(1), Kim SJ(1), Kim MA(2), Tamura T(3), Saitou S(3), Hamada M(3), Kim JS(1),
+Hong SB(1), Kwon SW(4).
+
+Author information: 
+(1)Agricultural Microbiology Division, National Institute of Agricultural
+Sciences, Rural Development Administration, Wanju-gun, Jeollabuk-do, 55365,
+Republic of Korea.
+(2)Industrial Insect Division, National Institute of Agricultural Sciences, Rural
+Development Administration, Wanju-gun, Jeollabuk-do, 55365, Republic of Korea.
+(3)Biological Resource Center, National Institute of Technology and Evaluation
+(NBRC), Kazusakamatari 2-5-8, Kisarazu, Chiba, 292-0818, Japan.
+(4)Agricultural Microbiology Division, National Institute of Agricultural
+Sciences, Rural Development Administration, Wanju-gun, Jeollabuk-do, 55365,
+Republic of Korea. swkwon1203@korea.kr.
+
+Two bacterial strains, designated 2DFWM-2T and FW10M-9T, were isolated from gut
+of larva of Protaetia brevitarsis seulensis grown at the National Institute of
+Agricultural Sciences, Wanju-gun, South Korea. 16S rRNA and rpoB gene sequences
+showed that strain 2DFWM-2T formed a separate branch with Lactococcus allomyrinae
+1JSPR-7T in the genus Lactococcus, adjacent to a group of Lactococcus lactis
+subspecies. ANI and dDDH values between 2DFWM-2T and Lactococcus allomyrinae
+1JSPR-7T were 93.30% and 53.20%, respectively. Based on the 16S rRNA gene
+sequence analysis, strain FW10M-9T was classified into the genus Xylanimonas
+revealing 96.9-98.5% sequence similarities with the Xylanimonas species. The ANI 
+values of strain FW10M-9T with the closely species Xylanimonas pachnodae NBRC
+107786T, Xylanimonas allomyrinae 2JSPR-7T, Isoptericola variabilis JCM 11754T and
+Xylanimonas cellulosilytica DSM 15894T was 81.5%, 81.2%, 81.0% and 84.1%,
+respectively, and the dDDH values estimated by GGDC was 24.3%, 24.3%, 29.3% and
+28.1%, respectively. On the basis of the phenotypic and genotypic data, it is
+proposed that strain 2DFWM-2T represents a novel species of the genus
+Lactococcus, for which the name Lactococcus protaetiae sp. nov. is proposed, and 
+the type strain is 2DFWM-2T (= KACC 19320T = NBRC 113069T). And, strain FW10M-9T 
+represents a novel species of the genus Xylanimonas, for which the name
+Xylanimonas protaetiae sp. nov. is proposed, and the type strain is FW10M-9T
+(= KACC 19331T = NBRC 113053T).
+
+DOI: 10.1007/s10482-020-01413-6 
+PMID: 32306134 
+

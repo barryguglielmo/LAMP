@@ -1,0 +1,46 @@
+
+1. Int J Biol Macromol. 2020 Feb 1;144:813-820. doi: 10.1016/j.ijbiomac.2019.09.159.
+Epub 2019 Nov 16.
+
+Detection and isolation of protein susceptible indigenous bacteria affected by
+dietary milk-casein, albumen and soy-protein in the caecum of ICR mice.
+
+Xia Y(1), Fukunaga M(2), Kuda T(3), Goto M(1), Chiaraluce G(4), Hoshiba H(1),
+Takahashi H(1), Kimura B(1).
+
+Author information: 
+(1)Department of Food Science and Technology, Tokyo University of Marine Science 
+and Technology, 4-5-7 Konan, Minato-ku, Tokyo 108-8477, Japan.
+(2)Department of Food Science and Technology, Tokyo University of Marine Science 
+and Technology, 4-5-7 Konan, Minato-ku, Tokyo 108-8477, Japan; Department of
+Agricultural, Food and Environmental Sciences, Università Politecnica delle
+Marche, Piazza Roma 22, I-60121 Ancona, Italy.
+(3)Department of Food Science and Technology, Tokyo University of Marine Science 
+and Technology, 4-5-7 Konan, Minato-ku, Tokyo 108-8477, Japan. Electronic
+address: kuda@kaiyodai.ac.jp.
+(4)Department of Agricultural, Food and Environmental Sciences, Università
+Politecnica delle Marche, Piazza Roma 22, I-60121 Ancona, Italy.
+
+In this study, we fed ICR mice with a high-sucrose diet containing 20% w/w of
+milk-casein (MC), egg-white (EW), or soy-protein (SP) for 14 days in order to
+detect the presence of protein-susceptible gut indigenous bacteria (P-SIB). The
+caecal microbiome was examined by 16S rDNA amplicon sequencing using a
+next-generation MiSeq system. Principal coordinate analysis of the operational
+taxonomic units (OTUs) revealed that the microbiomes differed among the three
+groups. Typical SIB found in the MC-fed group were Bacteroides acidifaciens-,
+Bacteroides sartorii-, Eisenbergiella sp., and Lachnospiraceae sp.-like; in the
+EW-fed group were Lactobacillus murinus and Enterococcus faecium/avium-like; and 
+in the SP-fed group were Muribaculaceae sp.-like bacteria. We also found that a
+few Lachnospiraceae sp.- and Clostridium disporicum-like bacteria were suppressed
+in the EW-fed mice. Out of the P-SIB detected, B. acidifaciens, L. murinus, E.
+faecium, and E. avium could be isolated and identified using BL agar and 16S rDNA
+BLAST search, respectively.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2019.09.159 
+PMID: 31743706 
+
+Conflict of interest statement: Declaration of Competing Interest We declare that
+there are no conflicts of interest related to this work.
+

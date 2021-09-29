@@ -1,0 +1,50 @@
+
+1. J Microbiol Methods. 2020 Sep 12;178:106058. doi: 10.1016/j.mimet.2020.106058.
+[Epub ahead of print]
+
+mCloverBlaster: A tool to make markerless deletions and fusions using lambda red 
+and I-SceI in Gram-negative bacterial genomes.
+
+Lehner KM(1), Stella NA(2), Calvario RC(3), Shanks RMQ(4).
+
+Author information: 
+(1)Department of Ophthalmology, Charles T. Campbell Laboratory of Ophthalmic
+Microbiology, University of Pittsburgh, Pittsburgh, PA 15213, USA. Electronic
+address: kml163@pitt.edu.
+(2)Department of Ophthalmology, Charles T. Campbell Laboratory of Ophthalmic
+Microbiology, University of Pittsburgh, Pittsburgh, PA 15213, USA. Electronic
+address: nas92@pitt.edu.
+(3)Department of Ophthalmology, Charles T. Campbell Laboratory of Ophthalmic
+Microbiology, University of Pittsburgh, Pittsburgh, PA 15213, USA. Electronic
+address: RCC50@pitt.edu.
+(4)Department of Ophthalmology, Charles T. Campbell Laboratory of Ophthalmic
+Microbiology, University of Pittsburgh, Pittsburgh, PA 15213, USA. Electronic
+address: shanksrm@upmc.edu.
+
+This study introduces mCloverBlaster as a genetic tool to create deletions and
+transcriptional and translational fusions in bacterial genomes using
+recombineering. The major advantage of this system is that it can be used to make
+deletions and fusions without leaving a selectable marker on the chromosome.
+mCloverBlaster has a kanamycin resistance cassette with an I-SceI restriction
+site flanked by fragments of the gene for the mClover3 fluorescent protein
+including direct repeats of mClover3 sequence on both sides of the kanamycin
+resistance gene. The mCloverBlaster sequence is introduced into the chromosome
+using lambda red recombineering, expression of I-SceI creates a double stranded
+break in the kanamycin resistance cassette that initiates a recombination event
+that can occur in the mClover3 repeats. This recombination results in the
+simultaneous removal of the kanamycin resistance gene and the restoration of a
+functional mClover3 gene that can be used as a reporter. Here, this system was
+used to replace the rcsB stress response gene in Serratia marcescens. The
+resulting strain was tested for mClover3 fluorescence as a reporter for rcsB gene
+expression and evaluated for pigment biosynthesis. In summary, mCloverBlaster is 
+a molecular genetic tool to make markerless mClover3 fusions and gene deletions.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.mimet.2020.106058 
+PMID: 32931841 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no conflicts of interest with the contents of this
+article.
+

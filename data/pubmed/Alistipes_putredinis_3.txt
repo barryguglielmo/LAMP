@@ -1,0 +1,61 @@
+
+1. Acta Diabetol. 2020 May;57(5):569-581. doi: 10.1007/s00592-019-01434-2. Epub 2019
+Dec 9.
+
+Metagenomic analysis reveals gestational diabetes mellitus-related microbial
+regulators of glucose tolerance.
+
+Wu Y(1), Bible PW(2)(3), Long S(4), Ming WK(1), Ding W(1), Long Y(1), Wen X(2),
+Li X(2), Deng X(2), Deng Y(2), Guo S(2), Doçi CL(3), Wei L(5), Chen H(6), Wang
+Z(7).
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, The First Affiliated Hospital, Sun
+Yat-sen University, Guangzhou, 510080, People's Republic of China.
+(2)State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun
+Yat-sen University, Guangzhou, 510060, People's Republic of China.
+(3)College of Arts and Sciences, Marian University, Indianapolis, IN, USA.
+(4)Statistics Section, Center for Information Technology and Statistics, The
+First Affiliated Hospital of Sun Yat-sen University, Guangzhou, 510080, People's 
+Republic of China.
+(5)State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun
+Yat-sen University, Guangzhou, 510060, People's Republic of China.
+weil9@mail.sysu.edu.cn.
+(6)Department of Obstetrics and Gynecology, The First Affiliated Hospital, Sun
+Yat-sen University, Guangzhou, 510080, People's Republic of China.
+seagullchenht@163.com.
+(7)Department of Obstetrics and Gynecology, The First Affiliated Hospital, Sun
+Yat-sen University, Guangzhou, 510080, People's Republic of China.
+wangzil@mail.sysu.edu.cn.
+
+AIMS: Recent studies have suggested a possible association between microbiota and
+gestational diabetes (GDM). However, the results are inconsistent. Our objective 
+was to investigate further the relationship between GDM and microbiota and verify
+the potential microbial marker.
+METHODS: Two complementary approaches were used for the demonstration. First, we 
+compared the gut microbial composition of 23 GDM patients and 26 non-GDM
+ethnically Chinese Han pregnant women, by using whole-metagenome shotgun
+sequencing of their stool samples collected at the third trimester. Second, we
+used Q-PCR (quantitative polymerase chain reaction) to evaluate the gut microbial
+composition in the stool samples from another cohort of 150 Chinese pregnant
+women (113 Control and 37 GDM), to further confirm the potential microbial
+marker.
+RESULTS: The gut microbiota of GDM women show lower albeit not statistically
+significant (p = 0.18) alpha diversity at the species level than non-GDM women.
+However, the species-level beta-diversity or between-sample diversity measured by
+Bray-Curtis distance shows significant differences (p < 2.2e-16) between the two 
+groups. The species Bacteroides dorei positively correlated with both OGTT (oral 
+glucose tolerance test) 0-Hour (p = 0.0099) and OGTT 1-Hour (p = 0.0070). There
+is a similar trend between Bacteroides sp. 3_1_33FAA and both OGTT 0-Hour
+(p = 0.014) and OGTT 1-Hour (p = 0.0101) response variables. The species
+Alistipes putredinis negatively correlated with OGTT 1-Hour (p = 0.0172) and OGTT
+2-Hour (p = 0.0147). Q-PCR validation further confirmed the association between
+the glucose tolerance loci of Bacteroides dorei and OGTT response.
+CONCLUSIONS: Gut microbiome is related to the diabetic status of Chinese women
+during pregnancy. Specific species such as Bacteroides dorei associate with
+glucose response and could be potential monitoring and therapeutic microbial
+markers for GDM.
+
+DOI: 10.1007/s00592-019-01434-2 
+PMID: 31820107  [Indexed for MEDLINE]
+

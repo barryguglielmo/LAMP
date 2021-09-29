@@ -1,0 +1,52 @@
+
+1. Sci Rep. 2019 Dec 6;9(1):18521. doi: 10.1038/s41598-019-55008-x.
+
+Genomic characterization of an emerging blaKPC-2 carrying Enterobacteriaceae
+clinical isolates in Thailand.
+
+Kerdsin A(1), Deekae S(2), Chayangsu S(2), Hatrongjit R(3), Chopjitt P(4),
+Takeuchi D(5), Akeda Y(5)(6)(7), Tomono K(6)(7), Hamada S(5).
+
+Author information: 
+(1)Faculty of Public Health, Kasetsart University, Chalermphrakiat Sakon Nakhon
+Province Campus, Sakon Nakhon, Thailand. Anusak.ke@ku.th.
+(2)Surin Hospital, Surin, Thailand.
+(3)Faculty of Science and Engineering, Kasetsart University, Chalermphrakiat
+Sakon Nakhon Province Campus, Sakon Nakhon, Thailand.
+(4)Faculty of Public Health, Kasetsart University, Chalermphrakiat Sakon Nakhon
+Province Campus, Sakon Nakhon, Thailand.
+(5)Japan-Thailand Research Collaboration Center for Infectious Diseases, Research
+Institute for Microbial Diseases, Osaka University, Osaka, Japan.
+(6)Department of Infection Control and Prevention, Graduate School of Medicine,
+Osaka University, Osaka, Japan.
+(7)Division of Infection Control and Prevention, Osaka University Hospital, Osaka
+University, Osaka, Japan.
+
+The rapidly increasing prevalence of carbapenem-resistant Enterobacteriaceae
+(CRE) over the past decade has increased concern in healthcare facilities and the
+impact on public health. The prevalence of blaKPC (KPC) in Thailand remains very 
+low; only blaKPC-13 has been described previously. This study is the first to
+describe the characteristics of blaKPC-2-carrying Klebsiella pneumoniae,
+Escherichia coli, and Enterobacter asburiae in Thailand. The prevalence rate of
+blaKPC-2-carrying isolates was 0.13% among CRE isolates in our study. Based on
+carbapenem susceptibility testing, K. pneumoniae C1985 was resistant to meropenem
+and ertapenem, E. coli C1992 was resistant to meropenem, imipenem, and ertapenem,
+and E. asburiae C2135 was only resistant to imipenem. K. pneumoniae C1985 carried
+blaKPC-2, blaSHV-11, fosA, oqxA, and oqxB, while E. coli C1992 contained blaKPC-2
+and mdf(A) and E. asburiae C2135 harbored blaKPC-2, blaACT-2, and qnrE1. The
+genetic features of blaKPC-2 in the 3 isolates revealed identical rearrangement
+and flanking regions. Analysis of genomic sequences from these 3 isolates
+revealed that the sequence types of K. pneumoniae C1985, E. coli C1992, and E.
+asburiae C2135 were ST4008, ST7297, and ST1249, respectively. The 3 blaKPC-2
+isolates were from individual living cases. Two cases were colonization for K.
+pneumoniae C1985 and E. asburiae C2135 and the third case was hospital-acquired
+infection of E. coli C1992. Although the prevalence of blaKPC-2-carrying CRE is
+relatively low in this study, continued surveillance and close monitoring are
+warranted. In addition, prompt or early detection of CRE and strict
+implementation of infection control are essential to prevent outbreaks or rapid
+spread in hospitals.
+
+DOI: 10.1038/s41598-019-55008-x 
+PMCID: PMC6898716
+PMID: 31811215 
+

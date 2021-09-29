@@ -1,0 +1,64 @@
+
+1. Int J Obes (Lond). 2020 May;44(5):1041-1051. doi: 10.1038/s41366-019-0515-9. Epub
+2020 Jan 7.
+
+Commensal Hafnia alvei strain reduces food intake and fat mass in obese mice-a
+new potential probiotic for appetite and body weight management.
+
+Legrand R(1), Lucas N(1), Dominique M(1)(2)(3), Azhar S(1), Deroissart
+C(1)(2)(3), Le Solliec MA(1)(2)(3), Rondeaux J(1)(2)(3), Nobis S(2)(3), Guérin
+C(2)(3), Léon F(3)(4), do Rego JC(3)(4), Pons N(5), Le Chatelier E(5), Ehrlich
+SD(5), Lambert G(6), Déchelotte P(1)(2)(3)(7), Fetissov SO(8)(9)(10)(11).
+
+Author information: 
+(1)TargEDys SA, University of Rouen, 76183, Rouen, France.
+(2)Inserm UMR1073, Nutrition, Gut and Brain Laboratory, 76183, Rouen, France.
+(3)Institute for Research and Innovation in Biomedicine (IRIB), University of
+Rouen Normandy, 76183, Rouen, France.
+(4)Animal Behavioral Platform SCAC, University of Rouen Normandy, 76183, Rouen,
+France.
+(5)MGP MetaGénoPolis, INRA, Université Paris-Saclay, 78350, Jouy en Josas,
+France.
+(6)TargEDys SA, University of Rouen, 76183, Rouen, France. glambert@targedys.com.
+(7)Rouen University Hospital, CHU Charles-Nicolle, 76183, Rouen, France.
+(8)TargEDys SA, University of Rouen, 76183, Rouen, France.
+Serguei.Fetissov@univ-rouen.fr.
+(9)Inserm UMR1073, Nutrition, Gut and Brain Laboratory, 76183, Rouen, France.
+Serguei.Fetissov@univ-rouen.fr.
+(10)Institute for Research and Innovation in Biomedicine (IRIB), University of
+Rouen Normandy, 76183, Rouen, France. Serguei.Fetissov@univ-rouen.fr.
+(11)Laboratory of Neuronal and Neuroendocrine Differentiation and Communication, 
+Inserm UMR1239, Mont-Saint-Aignan, France. Serguei.Fetissov@univ-rouen.fr.
+
+BACKGROUND/OBJECTIVES: Based on the recent identification of E.coli heat shock
+protein ClpB as a mimetic of the anorexigenic α-melanocyte stimulating hormone
+(α-MSH), the objective of this study was to preclinically validate Hafnia alvei, 
+a ClpB-producing commensal bacterium as a potential probiotic for appetite and
+body weight management in overweight and obesity.
+METHODS: The involvement of enterobacterial ClpB in the putative anti-obesity
+effects was studied using ClpB-deficient E.coli. A food-grade H. alvei HA4597
+strain synthetizing the ClpB protein with an α-MSH-like motif was selected as a
+candidate probiotic to be tested in ob/ob and high-fat diet (HFD)-fed obese and
+overweight mice. The relevance of the enterobacterial ClpB gene to human obesity 
+was studied by in silico analysis of fecal metagenomes of 569 healthy individuals
+from the "MetaHIT" database.
+RESULTS: Chronic per os administration of native but not ClpB-deficient E.coli
+strain reduced body weight gain (p < 0.05) and daily meal frequency (p < 0.001)
+in ob/ob mice. Oral gavage of H.alvei for 18 and 46 days in ob/ob and HFD-fed
+obese mice, respectively, was well tolerated, reduced body weight gain and fat
+mass in both obesity models (p < 0.05) and decreased food intake in hyperphagic
+ob/ob mice (p < 0.001). Elevated fat tissue levels of phosphorylated
+hormone-sensitive lipase were detected in H.alvei -treated ob/ob mice (p < 0.01).
+Enterobacterial ClpB gene richness was lower in obese vs. non-obese humans
+(p < 0.0001) and correlated negatively with BMI in genera of Enterobacter,
+Klebsiella and Hafnia.
+CONCLUSIONS: H.alvei HA4597 strain reduces food intake, body weight and fat mass 
+gain in hyperphagic and obese mice. These data combined with low enterobacterial 
+ClpB gene abundance in the microbiota of obese humans provide the rationale for
+using H.alvei as a probiotic for appetite and body weight management in
+overweight and obesity.
+
+DOI: 10.1038/s41366-019-0515-9 
+PMCID: PMC7188665
+PMID: 31911661 
+

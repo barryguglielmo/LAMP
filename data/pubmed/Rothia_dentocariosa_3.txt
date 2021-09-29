@@ -1,0 +1,54 @@
+
+1. J Periodontol. 2020 Jun 13. doi: 10.1002/JPER.20-0194. [Epub ahead of print]
+
+Subgingival microbiome and clinical periodontal status in an elderly cohort: The 
+WHICAP ancillary study of oral health.
+
+Papapanou PN(1), Park H(2), Cheng B(3), Kokaras A(4), Paster B(4), Burkett S(1), 
+Watson CW(5), Annavajhala MK(2), Uhlemann AC(2), Noble JM(5)(6).
+
+Author information: 
+(1)Division of Periodontics, Section of Oral, Diagnostic and Rehabilitation
+Sciences, College of Dental Medicine, New York, NY.
+(2)Division of Infectious Diseases, Department of Medicine, Columbia University, 
+New York, NY.
+(3)Department of Biostatistics, Mailman School of Public Health, Columbia
+University, New York, NY.
+(4)Forsyth Institute, Cambridge, MA.
+(5)Taub Institute for Research on Alzheimer's Disease and the Aging Brain, GH
+Sergievsky Center, New York, NY.
+(6)Department of Neurology, Vagelos College of Physicians and Surgeons, New York,
+NY.
+
+BACKGROUND: There is a sparsity of data describing the periodontal microbiome in 
+elderly individuals. We analyzed the association of subgingival bacterial
+profiles and clinical periodontal status in a cohort of participants in the
+Washington Heights-Inwood Columbia Aging Project (WHICAP).
+METHODS: Dentate individuals underwent a full-mouth periodontal examination at
+six sites/tooth. Up to four subgingival plaque samples per person, each obtained 
+from the mesio-lingual site of the most posterior tooth in each quadrant, were
+harvested and pooled. Periodontal status was classified according to the Centers 
+for Disease Control/American Academy of Periodontology (CDC/AAP) criteria as well
+as based on the percentage of teeth/person with pockets ≥4 mm deep. Bacterial DNA
+was isolated and was processed and analyzed using Human Oral Microbe
+Identification using Next Generation Sequencing (HOMINGS). Differential abundance
+across the periodontal phenotypes was calculated using the R package DESeq2. α-
+and β-diversity metrics were calculated using DADA2-based clustering.
+RESULTS: The mean age of the 739 participants was 74.5 years, and 32% were male. 
+Several taxa including Sneathia amnii-like sp., Peptoniphilaceae [G-1] bacterium 
+HMT 113, Porphyromonas gingivalis, Fretibacterium fastidiosum, Filifactor alocis,
+and Saccharibacteria (TM7) [G-1] bacterium HMT 346 were more abundant with
+increasing severity of periodontitis. In contrast, species such as Veillonella
+parvula, Veillonella dispar, Rothia dentocariosa, and Lautropia mirabilis were
+more abundant in health. Microbial diversity increased in parallel with the
+severity and extent of periodontitis.
+CONCLUSIONS: The observed subgingival bacterial patterns in these elderly
+individuals corroborated corresponding findings in younger cohorts and were
+consistent with the concept that periodontitis is associated with perturbations
+in the resident microbiome.
+
+© 2020 American Academy of Periodontology.
+
+DOI: 10.1002/JPER.20-0194 
+PMID: 32533776 
+

@@ -1,0 +1,39 @@
+
+1. Pathogens. 2020 Sep 29;9(10). pii: E804. doi: 10.3390/pathogens9100804.
+
+The Host-Specific Intestinal Microbiota Composition Impacts Campylobacter coli
+Infection in a Clinical Mouse Model of Campylobacteriosis.
+
+Heimesaat MM(1), Genger C(1), Klove S(1), Weschka D(1), Mousavi S(1), Bereswill
+S(1).
+
+Author information: 
+(1)Institute of Microbiology, Infectious Diseases and Immunology,
+Charité-University Medicine Berlin, Corporate Member of Freie Universität Berlin,
+Humboldt-Universität zu Berlin and Berlin Institute of Health, 12203 Berlin,
+Germany.
+
+Human Campylobacter-infections are progressively rising globally. However, the
+molecular mechanisms underlying C. coli-host interactions are incompletely
+understood. In this study, we surveyed the impact of the host-specific intestinal
+microbiota composition during peroral C. coli infection applying an established
+murine campylobacteriosis model. Therefore, microbiota-depleted IL-10-/- mice
+were subjected to peroral fecal microbiota transplantation from murine versus
+human donors and infected with C. coli one week later by gavage. Irrespective of 
+the microbiota, C. coli stably colonized the murine gastrointestinal tract until 
+day 21 post-infection. Throughout the survey, C. coli-infected mice with a human 
+intestinal microbiota displayed more frequently fecal blood as their murine
+counterparts. Intestinal inflammatory sequelae of C. coli-infection could
+exclusively be observed in mice with a human intestinal microbiota, as indicated 
+by increased colonic numbers of apoptotic epithelial cells and innate as well as 
+adaptive immune cell subsets, which were accompanied by more pronounced
+pro-inflammatory cytokine secretion in the colon and mesenteric lymph nodes
+versus mock controls. However, in extra-intestinal, including systemic
+compartments, pro-inflammatory responses upon pathogen challenge could be
+assessed in mice with either microbiota. In conclusion, the host-specific
+intestinal microbiota composition has a profound effect on intestinal and
+systemic pro-inflammatory immune responses during C. coli infection.
+
+DOI: 10.3390/pathogens9100804 
+PMID: 33003421 
+

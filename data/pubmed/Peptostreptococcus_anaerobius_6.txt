@@ -1,0 +1,57 @@
+
+1. Nat Microbiol. 2019 Dec;4(12):2319-2330. doi: 10.1038/s41564-019-0541-3. Epub
+2019 Sep 9.
+
+Peptostreptococcus anaerobius promotes colorectal carcinogenesis and modulates
+tumour immunity.
+
+Long X(1)(2)(3), Wong CC(1)(2)(3), Tong L(1)(2)(3), Chu ESH(1)(2)(3), Ho Szeto
+C(1)(2)(3), Go MYY(1)(2)(3), Coker OO(1)(2)(3), Chan AWH(4), Chan FKL(1)(2)(3),
+Sung JJY(1)(2)(3), Yu J(5)(6)(7).
+
+Author information: 
+(1)Institute of Digestive Disease and Department of Medicine and Therapeutics,
+The Chinese University of Hong Kong, Hong Kong SAR, China.
+(2)State Key Laboratory of Digestive Disease, Li Ka Shing Institute of Health
+Sciences, The Chinese University of Hong Kong, Hong Kong SAR, China.
+(3)Chinese University of Hong Kong-Shenzhen Research Institute, Shenzhen, China.
+(4)Department of Anatomical and Cellular Pathology, The Chinese University of
+Hong Kong, Hong Kong SAR, China.
+(5)Institute of Digestive Disease and Department of Medicine and Therapeutics,
+The Chinese University of Hong Kong, Hong Kong SAR, China. junyu@cuhk.edu.hk.
+(6)State Key Laboratory of Digestive Disease, Li Ka Shing Institute of Health
+Sciences, The Chinese University of Hong Kong, Hong Kong SAR, China.
+junyu@cuhk.edu.hk.
+(7)Chinese University of Hong Kong-Shenzhen Research Institute, Shenzhen, China. 
+junyu@cuhk.edu.hk.
+
+Emerging evidence implicates a role of the gut microbiota in colorectal cancer
+(CRC). Peptostreptococcus anaerobius (P. anaerobius) is an anaerobic bacterium
+selectively enriched in the faecal and mucosal microbiota from patients with CRC,
+but its causative role and molecular mechanism in promoting tumorigenesis remain 
+unestablished. We demonstrate that P. anaerobius adheres to the CRC mucosa and
+accelerates CRC development in ApcMin/+ mice. In vitro assays and transmission
+electron microscopy revealed that P. anaerobius selectively adheres to CRC cell
+lines (HT-29 and Caco-2) compared to normal colonic epithelial cells (NCM460). We
+identified a P. anaerobius surface protein, putative cell wall binding repeat 2
+(PCWBR2), which directly interacts with colonic cell lines via α2/β1 integrin, a 
+receptor frequently overexpressed in human CRC tumours and cell lines.
+Interaction between PCWBR2 and integrin α2/β1 induces the activation of the
+PI3K-Akt pathway in CRC cells via phospho-focal adhesion kinase, leading to
+increased cell proliferation and nuclear factor kappa-light-chain-enhancer of
+activated B cells (NF-κB) activation. NF-κB in turn triggers a pro-inflammatory
+response as indicated by increased levels of cytokines, such as interleukin-10
+and interferon-γ in the tumours of P. anaerobius-treated ApcMin/+ mice. Analyses 
+of tumour-infiltrating immune cell populations in P. anaerobius-treated ApcMin/+ 
+mice revealed significant expansion of myeloid-derived suppressor cells,
+tumour-associated macrophages and granulocytic tumour-associated neutrophils,
+which are associated with chronic inflammation and tumour progression. Blockade
+of integrin α2/β1 by RGDS peptide, small interfering RNA or antibodies all impair
+P. anaerobius attachment and abolish P. anaerobius-mediated oncogenic response in
+vitro and in vivo. Collectively, we show that P. anaerobius drives CRC via a
+PCWBR2-integrin α2/β1-PI3K-Akt-NF-κB signalling axis and identify the
+PCWBR2-integrin α2/β1 axis as a potential therapeutic target for CRC.
+
+DOI: 10.1038/s41564-019-0541-3 
+PMID: 31501538  [Indexed for MEDLINE]
+

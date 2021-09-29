@@ -1,0 +1,49 @@
+
+1. Antimicrob Agents Chemother. 2020 Sep 14. pii: AAC.01432-20. doi:
+10.1128/AAC.01432-20. [Epub ahead of print]
+
+In Vitro Activity of WCK 5222 (Cefepime-Zidebactam) against Worldwide Collected
+Gram-Negative Bacilli Not Susceptible to Carbapenems.
+
+Karlowsky JA(1)(2), Hackel MA(3), Bouchillon SK(1), Sahm DF(1).
+
+Author information: 
+(1)IHMA, Schaumburg, IL, 60173, USA.
+(2)Department of Medical Microbiology and Infectious Diseases, Max Rady College
+of Medicine, University of Manitoba, Winnipeg, MB, R3E 0J9, Canada.
+(3)IHMA, Schaumburg, IL, 60173, USA mhackel@ihma.com.
+
+WCK 5222 (cefepime-zidebactam, 2g + 1g, q8h) is in clinical development for the
+treatment of infections caused by carbapenem-resistant and multidrug-resistant
+(MDR) Gram-negative bacilli. We determined in vitro susceptibility of 1,385
+clinical isolates of carbapenem not susceptible Enterobacterales, MDR Pseudomonas
+aeruginosa (also carbapenem not susceptible), Stenotrophomonas maltophilia, and
+Burkholderia spp. collected worldwide (49 countries) during 2014-2016 to
+cefepime-zidebactam (1:1 ratio), ceftazidime-avibactam, imipenem-relebactam,
+ceftolozane-tazobactam, and colistin using CLSI broth microdilution method.
+Cefepime-zidebactam inhibited 98.5% of carbapenem not susceptible
+Enterobacterales (n=1,018) at ≤8 μg/ml (provisional
+cefepime-zidebactam-susceptible MIC breakpoint). Against the subset of
+metallo-β-lactamase (MBL)-positive Enterobacterales (n=214), cefepime-zidebactam 
+inhibited 94.9% of isolates at ≤8 μg/ml. Further, it inhibited 99.6% of MDR P.
+aeruginosa (n=262) isolates at ≤32 μg/ml (proposed
+cefepime-zidebactam-susceptible pharmacokinetic/pharmacodynamic MIC breakpoint), 
+including all MBL-positive isolates (n=94). Moreover, cefepime-zidebactam was
+active against the majority of isolates of Enterobacterales (≥95%) and P.
+aeruginosa (99%) that were not susceptible to ceftazidime-avibactam,
+ceftolozane-tazobactam, imipenem-relebactam and colistin. Most isolates (99%) of 
+S. maltophilia (n=101; MIC50, 8 μg/ml; MIC90, 32 μg/ml) and Burkholderia spp.
+(n=4; MIC range, 16-32 μg/ml) were also inhibited by cefepime-zidebactam at ≤32
+μg/ml. The activity of cefepime-zidebactam against carbapenem-resistant
+Gram-negatives is ascribed to its β-lactam enhancer mechanism of action (i.e.,
+zidebactam binding to PBP2 and its universal stability to both serine
+β-lactamases and MBLs). The results from this study support the continued
+development of cefepime-zidebactam as a potential therapy for infections caused
+by Enterobacterales, P. aeruginosa, and other non-fermentative Gram-negative
+bacilli where resistance to marketed antimicrobial agents is a limiting factor.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.01432-20 
+PMID: 32928739 
+

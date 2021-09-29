@@ -1,0 +1,47 @@
+
+1. J Proteome Res. 2020 Sep 28. doi: 10.1021/acs.jproteome.9b00708. [Epub ahead of
+print]
+
+TonB-Dependent Receptors Affect the Spontaneous Oxytetracycline Resistance
+Evolution in Aeromonas hydrophila.
+
+Li W(1)(2)(3), Zhao Y(2)(3), Yu J(2)(3), Lin L(2)(3), Ramanathan S(2)(3), Wang
+G(2)(3)(4), Lin X(2)(3), Pang H(1)(5).
+
+Author information: 
+(1)Shenzhen Institute of Guangdong Ocean University, Shenzhen 510000, PR China.
+(2)Fujian Provincial Key Laboratory of Agroecological Processing and Safety
+Monitoring, College of Life Sciences, Fujian Agriculture and Forestry University,
+Fuzhou 35002, PR China.
+(3)Key Laboratory of Crop Ecology and Molecular Physiology (Fujian Agriculture
+and Forestry University), Fujian Province University, Fuzhou 35002, PR China.
+(4)State Key Laboratory of Proteomics, Beijing Proteome Research Center, National
+Center for Protein Sciences (Beijing), Beijing Institute of Lifeomics, Beijing
+102206, PR China.
+(5)Fisheries College, Guangdong Ocean University, Guangdong Provincial Key
+Laboratory of Pathogenic Biology and Epidemiology for Aquatic Economic Animals,
+Guangdong Key Laboratory of Control for Diseases of Aquatic Economic Animals,
+Zhanjiang 524025, PR China.
+
+It is well known that most microbial populations develop their intrinsic
+antibiotics resistance at low concentrations in antibiotics environments, but the
+factors influencing spontaneous resistance are still largely unknown. In this
+study, Aeromonas hydrophila strains with different resistance levels to
+oxytetracycline (OXY) were induced by sublethal antibiotic selection pressure,
+and differential expression of proteins was compared among them using iTRAQ-based
+quantitative proteomics. Our following bioinformatic analysis showed that energy 
+metabolism-related proteins were downregulated, while several iron-related
+proteins were upregulated in high OXY-resistant strains. To further investigate
+the role of spontaneous OXY resistance evolution, four TonB-dependent
+receptor-coded genes were deleted, and their OXY susceptibility capabilities and 
+antibiotic evolutionary assays were performed, respectively. Our results showed
+that the deletion of these genes did not affect the susceptibility to OXY, but
+showed different evolution rates in the spontaneous OXY evolution compared with
+wild-type strain, especially for AHA_0971 and AHA_4251. Therefore, this study
+indicates the important role of TonB-dependent receptor proteins during the
+bacterial antibiotics resistance evolution and may provide a new prophylactic
+strategy against the development of antibiotic resistance.
+
+DOI: 10.1021/acs.jproteome.9b00708 
+PMID: 32911932 
+

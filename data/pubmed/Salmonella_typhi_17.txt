@@ -1,0 +1,39 @@
+
+1. Microorganisms. 2020 Sep 1;8(9). pii: E1336. doi: 10.3390/microorganisms8091336.
+
+Emergence of Resistance to Fluoroquinolones and Third-Generation Cephalosporins
+in Salmonella Typhi in Lahore, Pakistan.
+
+Rasheed F(1), Saeed M(2), Alikhan NF(3), Baker D(3), Khurshid M(2), Ainsworth
+EV(3), Turner AK(3), Imran AA(1), Rasool MH(2), Saqalein M(2), Nisar MA(2),
+Fayyaz Ur Rehman M(4), Wain J(3)(5), Yasir M(3), Langridge GC(3), Ikram A(6).
+
+Author information: 
+(1)Allama Iqbal Medical College & Jinnah Hospital (AIMC&JHL), Lahore 54000,
+Pakistan.
+(2)Department of Microbiology, Government College University, Faisalabad 38000,
+Pakistan.
+(3)Quadram Institute Bioscience, Norwich Research Park, Norwich NR4 7UQ, UK.
+(4)Department of Chemistry, University of Sargodha, Sargodha 40100, Pakistan.
+(5)Norwich Medical School, University of East Anglia, Norwich Research Park,
+Norwich NR4 7TJ, UK.
+(6)National Institute of Health, Islamabad 45710, Pakistan.
+
+Extensively drug-resistant (XDR) Salmonella Typhi has been reported in Sindh
+province of Pakistan since 2016. The potential for further spread is of serious
+concern as remaining treatment options are severely limited. We report the
+phenotypic and genotypic characterization of 27 XDR S. Typhi isolated from
+patients attending Jinnah Hospital, Lahore, Pakistan. Isolates were identified by
+biochemical profiling; antimicrobial susceptibility was determined by a modified 
+Kirby-Bauer method. These findings were confirmed using Illumina whole genome
+nucleotide sequence data. All sequences were compared to the outbreak strain from
+Southern Pakistan and typed using the S. Typhi genotyping scheme. All isolates
+were confirmed by a sequence analysis to harbor an IncY plasmid and the CTX-M-15 
+ceftriaxone resistance determinant. All isolates were of the same genotypic
+background as the outbreak strain from Sindh province. We report the first
+emergence of XDR S. Typhi in Punjab province of Pakistan confirmed by whole
+genome sequencing.
+
+DOI: 10.3390/microorganisms8091336 
+PMID: 32883020 
+

@@ -1,0 +1,53 @@
+
+1. J Gastroenterol Hepatol. 2020 Jun;35(6):1032-1041. doi: 10.1111/jgh.14946. Epub
+2020 Jan 29.
+
+Microbiological evidences for gastric cardiac microflora dysbiosis inducing the
+progression of inflammation.
+
+Yan R(1), Guo Y(2), Gong Q(1), Chen M(3), Guo Y(1), Yang P(1), Huang H(1), Huang 
+H(4), Huang W(3), Ma Z(5), Zheng Z(6), Tian D(1), Su M(1).
+
+Author information: 
+(1)Institute of Clinical Pathology & Department of Pathology, Shantou University 
+Medical College, Shantou, China.
+(2)Department of Endoscopy, Cancer Hospital of Shantou University Medical
+College, Shantou, China.
+(3)Department of Pathology, Chaozhou People's Hospital, Chaozhou, China.
+(4)Department of Pathology, the Second Affiliated Hospital of Shantou University 
+Medical College, Shantou, China.
+(5)Department of Pathology, Puning Kangmei Hospital, Jieyang, China.
+(6)Department of Pathology, Puning Overseas Chinese Hospital, Jieyang, China.
+
+BACKGROUND AND AIM: Nowadays, anti-inflammation treatment is a promising approach
+for preventing tumorigenesis, and human microflora is closely related to
+inflammation. This study aimed to investigate the gastric cardiac microbiome and 
+identify inflammation-related microorganisms for gastric cardiac inflammation.
+METHODS: We performed 16S rRNA sequencing on a total of 11 healthy individuals
+and 89 individuals with different degree of gastric cardiac inflammation.
+Immunohistochemistry was used for verifying candidate bacteria. Phylogenetic
+reconstruction of unobserved states (picrust) was used for predicting the
+pathways involved by cardiac microflora.
+RESULTS: The resident phyla in normal were Proteobacteria, Firmicutes,
+Bacteroides, and Actinobacteria, and the dominant genus in normal were Halomonas,
+shewanella, and Comamonas. In the progression of gastric cardiac inflammation,
+the diversity of cardiac microflora did not change (P > 0.05). However, the
+composition structure of cardiac microflora varied between healthy and inflamed
+tissues (P < 0.05). Meanwhile, there were 64 species parallel increased with
+inflammation degree, especially Helicobacter pylori, Lactobacillus spp.
+Additionally, inflammation-related species were detected (P < 0.05), including H.
+pylori, Acinetobacter ursingii, and Streptococcus agalactiae. Higher H. pylori
+colonization was positively related to the progression of cardiac inflammation (γ
+coefficient = 0.678, P < 0.001), and it also influenced the cardiac microbial
+community structure. Cardiac microflora also participated in DNA repair pathways 
+and is affected by the relative abundance of H. pylori (P < 0.0001).
+CONCLUSIONS: Cardiac microflora dysbiosis, especially the increasing of the
+relevant abundance of H. pylori, promotes the progression of cardiac
+inflammation.
+
+© 2019 Journal of Gastroenterology and Hepatology Foundation and John Wiley &
+Sons Australia, Ltd.
+
+DOI: 10.1111/jgh.14946 
+PMID: 31783428 
+

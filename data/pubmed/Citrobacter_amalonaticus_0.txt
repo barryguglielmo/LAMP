@@ -1,0 +1,48 @@
+
+1. Bioresour Technol. 2020 Aug;309:123327. doi: 10.1016/j.biortech.2020.123327. Epub
+2020 Apr 8.
+
+Tunable production of succinic acid at elevated pressures of CO2 in a high
+pressure gas fermentation reactor.
+
+Amulya K(1), Kopperi H(2), Venkata Mohan S(3).
+
+Author information: 
+(1)Bioengineering and Environmental Sciences (BEES) Lab, Department of Energy and
+Environmental Engineering, CSIR-Indian Institute of Chemical Technology
+(CSIR-IICT), Hyderabad 500 007, India; Academy of Scientific and Innovative
+Research (AcSIR), CSIR-Indian Institute of Chemical Technology (CSIR-IICT)
+Campus, Hyderabad 500 007, India.
+(2)Bioengineering and Environmental Sciences (BEES) Lab, Department of Energy and
+Environmental Engineering, CSIR-Indian Institute of Chemical Technology
+(CSIR-IICT), Hyderabad 500 007, India.
+(3)Bioengineering and Environmental Sciences (BEES) Lab, Department of Energy and
+Environmental Engineering, CSIR-Indian Institute of Chemical Technology
+(CSIR-IICT), Hyderabad 500 007, India; Academy of Scientific and Innovative
+Research (AcSIR), CSIR-Indian Institute of Chemical Technology (CSIR-IICT)
+Campus, Hyderabad 500 007, India. Electronic address: svmohan@iict.res.in.
+
+Production of bio-based alternative of succinic acid (SA) has been growing due to
+the awareness on environmental advantages it offers, such as CO2 sequestration.
+Current study focuses on evaluating the impact of different CO2 partial pressures
+(0.6, 0.8, 1, 2 bar) on SA production and yield as well as on other parameters
+like acids profile and CO2 fixation rate in Citrobacter amalonaticus. Increasing 
+partial pressure to 2 bar enhanced SA production and maximum of 14.86 gL-1 was
+achieved with a productivity of 0.36 gL-1h-1 and yield of 52.10%. Varying partial
+pressures depicted significant influence on total acids profile, where at lower
+pressures (0.6 bar) lactic (5.6 gL-1) and acetic acids (4.1 gL-1) became dominant
+products, while concentration of SA was 2.07 gL-1, by the end of cycle. The
+desirable effect of moderately elevated pressures for converting CO2 to platform 
+chemicals can be a potential strategy in overcoming current challenges related to
+CO2 abatement.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biortech.2020.123327 
+PMID: 32330802  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

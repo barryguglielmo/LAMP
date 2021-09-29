@@ -1,0 +1,37 @@
+
+1. J Dairy Sci. 2020 Oct;103(10):8791-8795. doi: 10.3168/jds.2019-18049. Epub 2020
+Aug 26.
+
+Short communication: Modulation of fatty acid metabolism improves oxygen
+tolerance of Bifidobacterium animalis ssp. lactis Probio-M8.
+
+Zhang W(1), Wang Y(1), Li K(1), Kwok LY(1), Liu W(1), Zhang H(2).
+
+Author information: 
+(1)Key Laboratory of Dairy Biotechnology and Engineering, Ministry of Education, 
+Key Laboratory of Dairy Products Processing, Ministry of Agriculture, Inner
+Mongolia Agricultural University, Huhhot 010018, China.
+(2)Key Laboratory of Dairy Biotechnology and Engineering, Ministry of Education, 
+Key Laboratory of Dairy Products Processing, Ministry of Agriculture, Inner
+Mongolia Agricultural University, Huhhot 010018, China. Electronic address:
+hepingdd@vip.sina.com.
+
+Bifidobacterium animalis ssp. lactis Probio-M8 is a potential probiotic strain
+that was isolated from human milk. Previously, we obtained an oxygen-resistant
+variant (Probio-M8o) of Probio-M8 by an adaptive evolution strategy. In the
+present study, a comparative transcriptomic analysis of Probio-M8o and Probio-M8 
+was carried out to reveal the cellular mechanism of the oxygen-resistant
+phenotype. Using RNA-seq, 210 and 217 differentially expressed genes were
+identified in Probio-M8o compared with Probio-M8 after oxygen exposure for 30 and
+60 min, respectively. The oxygen treatment upregulated a set of genes that
+encoded proteins responsible for fatty acid biosynthesis. This observation was in
+good agreement with the composition change in fatty acids at the biochemical
+level. Our study showed that the oxygen-resistant phenotype could be related to
+adaptation of fatty acid metabolism.
+
+Copyright © 2020 American Dairy Science Association. Published by Elsevier Inc.
+All rights reserved.
+
+DOI: 10.3168/jds.2019-18049 
+PMID: 32861486 
+

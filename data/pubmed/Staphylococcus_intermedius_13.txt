@@ -1,0 +1,43 @@
+
+1. J Small Anim Pract. 2020 Jan;61(1):42-45. doi: 10.1111/jsap.13056. Epub 2019 Jul 
+16.
+
+Acceleration of the identification of sepsis-inducing bacteria in cultures of dog
+and cat blood.
+
+Ulrich S(1), Gottschalk C(2), Straubinger RK(1), Schwaiger K(2), Dörfelt R(3).
+
+Author information: 
+(1)Bacteriology and Mycology, Institute for Infectious Diseases and Zoonoses,
+Department of Veterinary Sciences, LMU Munich, 80539, Munich, Germany.
+(2)Chair of Food Safety, Department of Veterinary Sciences, LMU Munich, 85764,
+Oberschleissheim, Germany.
+(3)Clinic for Small Animal Medicine, Department of Clinical Veterinary Medicine, 
+LMU Munich, Munich, 80539, Germany.
+
+OBJECTIVES: To evaluate matrix-assisted laser desorption ionisation time of
+flight mass spectrometry (MALDI-TOF MS) combined with the Sepsityper kit (Bruker 
+Daltoniks GmbH, Bremen) for the direct detection of bacterial species from
+inoculated blood cultures from dogs and cats.
+MATERIALS AND METHODS: Canine and feline blood samples were inoculated with
+typical sepsis-causing bacteria such as Staphylococcus intermedius,
+Staphylococcus aureus, Streptococcus canis, Enterococcus faecalis, Escherichia
+coli and Pseudomonas aeruginosa at two distinct concentrations (each in
+triplicate), resulting in 72 blood culture bottles incubated at 37°C. Samples
+were comparatively analysed with MALDI-TOF MS after preparation with the
+Sepsityper kit and also by standard bacteriology (culturing and biochemical
+characterisation).
+RESULTS: Bacterial species identified from agar plates and by MALDI-TOF MS from
+blood culture bottles were identical for all samples. The MALDI Biotyper software
+(Bruker Daltoniks) correctly identified all bacterial strains from inoculated
+canine and feline blood with analysis indicating very good precision.
+CLINICAL SIGNIFICANCE: MALDI-TOF MS analysis combined with the Sepsityper kit is 
+a reliable tool for a quick detection of veterinary-relevant bacterial species
+directly from blood culture bottles. This approach could reduce the time for
+identification of critical species to only 24 hours.
+
+© 2019 British Small Animal Veterinary Association.
+
+DOI: 10.1111/jsap.13056 
+PMID: 31313312  [Indexed for MEDLINE]
+

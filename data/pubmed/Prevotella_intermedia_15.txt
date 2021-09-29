@@ -1,0 +1,55 @@
+
+1. Diagnostics (Basel). 2020 Aug 5;10(8). pii: E560. doi:
+10.3390/diagnostics10080560.
+
+Immunological and Microbiological Profiling of Cumulative Risk Score for
+Periodontitis.
+
+Liukkonen J(1), Gürsoy UK(1), Könönen E(1)(2), Akhi R(3)(4)(5), Salminen A(6),
+Liljestrand JM(6), Pradhan-Palikhe P(6), Pietiäinen M(6), Sorsa T(6)(7), Persson 
+GR(8)(9), Mäntylä P(6)(10)(11), Buhlin K(6)(7), Paju S(6), Sinisalo J(12), Hörkkö
+S(3)(4)(5), Pussinen PJ(1)(6).
+
+Author information: 
+(1)Institute of Dentistry, University of Turku, 20100 Turku, Finland.
+(2)Oral Health Care, Welfare Division, City of Turku, 20100 Turku, Finland.
+(3)Medical Microbiology and Immunology, Research Unit of Biomedicine, University 
+of Oulu, 90100 Oulu, Finland.
+(4)Medical Research Center, Oulu University Hospital and University of Oulu,
+90100 Oulu, Finland.
+(5)Nordlab, Oulu University Hospital, 90100 Oulu, Finland.
+(6)Oral and Maxillofacial diseases, University of Helsinki and Helsinki
+University Hospital, 00100 Helsinki, Finland.
+(7)Department of Periodontology, Institute of Odontology, Karolinska Institutet, 
+12343 Huddinge, Sweden.
+(8)Departments of Periodontics and Oral Medicine, University of Washington,
+Seattle, WA 98101, USA.
+(9)Department of Periodontology, University of Bern, 3001 Bern, Switzerland.
+(10)Institute of Dentistry, University of Eastern Finland, 70100 Kuopio, Finland.
+(11)Oral and Maxillofacial Diseases, Kuopio University Hospital, 70100 Kuopio,
+Finland.
+(12)HUCH Heart and Lung Center, Helsinki University Central Hospital, 00100
+Helsinki, Finland.
+
+The cumulative risk score (CRS) is a mathematical salivary diagnostic model to
+define an individual's risk of having periodontitis. In order to further validate
+this salivary biomarker, we investigated how periodontal bacteria,
+lipopolysaccharide (LPS), and systemic and local host immune responses relate to 
+CRS. Subgingival plaque, saliva, and serum samples collected from 445 individuals
+were used in the analyses. Plaque levels of 28 microbial species, especially
+those of Aggregatibacter actinomycetemcomitans, Porphyromonas gingivalis,
+Porphyromonas endodontalis, Prevotella intermedia, and Tannerella forsythia, and 
+serum and salivary levels of IgA and IgG against these five species were
+determined. Additionally, LPS activity was measured. High CRS associated strongly
+with all IgA/IgG antibody and LPS levels in saliva, whereas in serum the
+associations were not that obvious. In the final logistic regression model, the
+best predictors of high CRS were saliva IgA burden against the five species (OR
+7.04, 95% CI 2.25-22.0), IgG burden (3.79, 1.78-8.08), LPS (2.19, 1.38-3.47), and
+the sum of 17 subgingival Gram-negative species (6.19, 2.10-18.3). CRS is
+strongly associated with microbial biomarker species of periodontitis and
+salivary humoral immune responses against them.
+
+DOI: 10.3390/diagnostics10080560 
+PMCID: PMC7460115
+PMID: 32764360 
+

@@ -1,0 +1,37 @@
+
+1. J Immunol. 2020 Aug 15;205(4):1050-1058. doi: 10.4049/jimmunol.2000206. Epub 2020
+Jul 17.
+
+CD11c+ T-bet+ B Cells Require IL-21 and IFN-γ from Type 1 T Follicular Helper
+Cells and Intrinsic Bcl-6 Expression but Develop Normally in the Absence of
+T-bet.
+
+Levack RC(1), Newell KL(1), Popescu M(1), Cabrera-Martinez B(1), Winslow GM(2).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Upstate Medical University,
+Syracuse, NY 13210.
+(2)Department of Microbiology and Immunology, Upstate Medical University,
+Syracuse, NY 13210 winslowg@upstate.edu.
+
+CD11c+ T-bet+ B cells generated during ehrlichial infection require CD4+ T cell
+help and IL-21 signaling for their development, but the exact T cell subset
+required had not been known. In this study, we show in a mouse model of Ehrlichia
+muris that type 1 T follicular helper (TFH1) cells provide help to CD11c+ T-bet+ 
+B cells via the dual secretion of IL-21 and IFN-γ in a CD40/CD40L-dependent
+manner. TFH1 cell help was delivered in two phases: IFN-γ signals were provided
+early in infection, whereas CD40/CD40L help was provided late in infection. In
+contrast to T-bet+ T cells, T-bet+ B cells did not develop in the absence of B
+cell-intrinsic Bcl-6 but were generated in the absence of T-bet. T-bet-deficient 
+memory B cells were largely indistinguishable from their wild-type counterparts, 
+although they no longer underwent switching to IgG2c. These data suggest that a
+primary function of T-bet in B cells during ehrlichial infection is to promote
+appropriate class switching, not lineage specification. Thus, CD11c+ memory B
+cells develop normally without T-bet but require Bcl-6 and specialized help from 
+dual cytokine-producing TFH1 cells.
+
+Copyright © 2020 by The American Association of Immunologists, Inc.
+
+DOI: 10.4049/jimmunol.2000206 
+PMID: 32680956 
+

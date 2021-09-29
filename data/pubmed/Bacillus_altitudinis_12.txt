@@ -1,0 +1,42 @@
+
+1. Int J Biol Macromol. 2020 Jun 15;153:1220-1230. doi:
+10.1016/j.ijbiomac.2019.10.252. Epub 2019 Nov 19.
+
+Mining of alkaline proteases from Bacillus altitudinis W3 for desensitization of 
+milk proteins: Their heterologous expression, purification, and characterization.
+
+Yang S(1), Zhai L(1), Huang L(1), Meng D(1), Li J(1), Hao Z(2), Guan Z(1), Cai
+Y(1), Liao X(3).
+
+Author information: 
+(1)The Key Laboratory of Industrial Biotechnology, Ministry of Education, School 
+of Biotechnology, Jiangnan University, 1800 Lihu Road, Wuxi, Jiangsu 214122,
+China.
+(2)Institute of Applied Biotechnology, Taizhou Vocational & Technical College,
+Taizhou, Zhejiang 318000, China.
+(3)The Key Laboratory of Industrial Biotechnology, Ministry of Education, School 
+of Biotechnology, Jiangnan University, 1800 Lihu Road, Wuxi, Jiangsu 214122,
+China. Electronic address: 13771104596@163.com.
+
+In this study, three active alkaline proteases (AprEs) (BaApr1, BaApr2, and
+BaApr9) from Bacillus altitudinis W3 were obtained through bioinformatics
+analysis and verification. Multiple sequence alignment showed low identity of
+64.60% and suggested that the three AprEs belonged to the S8A subfamily of serine
+proteases. They showed maximal activity with pH of 9.5 at 55 °C, 8.5 at 50 °C,
+and 10.5 at 45 °C, respectively. They were stable at alkaline condition and below
+50 °C. In the presence of Ca2+, the optimal temperatures and thermostability of
+them were significantly improved. They were activated by Ca2+ and Mg2+ but
+inhibited by ethylenediaminetetraacetic acid (EDTA) and phenylmethanesulfonyl
+fluoride (PMSF). Surfactants had little effect on them, but most organic solvents
+had some inhibitory effect except for n-hexane. They were effective in
+hydrolyzing natural proteins such as casein and NON-fat powdered milk. BaApr1
+exhibited the highest catalytic efficiency towards casein and showed an excellent
+effect on the desensitization of milk proteins. The present study reveals some
+useful characteristics of the three AprEs, and indicates that AprEs have
+potential application values in the desensitization process of milk proteins.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2019.10.252 
+PMID: 31756468 
+

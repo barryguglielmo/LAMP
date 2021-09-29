@@ -1,0 +1,42 @@
+
+1. Antonie Van Leeuwenhoek. 2020 Jul;113(7):997-1008. doi:
+10.1007/s10482-020-01414-5. Epub 2020 Apr 17.
+
+Draft genome and description of Negativicoccus massiliensis strain
+Marseille-P2082, a new species isolated from the gut microbiota of an obese
+patient.
+
+Togo AH(1)(2), Diop A(3), Tall ML(1)(2), Million M(1)(2), Khelaifia S(1)(2),
+Maraninchi M(4), Raoult D(1)(2), Fournier PE(2)(3), Dubourg G(5)(6).
+
+Author information: 
+(1)IRD198, APHM, MEPHI, IHU-Méditerranée Infection, Aix Marseille Univ, 19-21
+Boulevard Jean Moulin, 13385, Marseille cedex 05, France.
+(2)IHU Méditerranée Infection, Marseille, France.
+(3)IRD, SSA, VITROME, IHU-Méditerranée Infection, Aix Marseille Univ, Marseille, 
+France.
+(4)NORT "Nutrition, Obesity and Risk of Thrombosis", INSERM1062, INRA1260, Aix
+Marseille Université, Marseille, France.
+(5)IRD198, APHM, MEPHI, IHU-Méditerranée Infection, Aix Marseille Univ, 19-21
+Boulevard Jean Moulin, 13385, Marseille cedex 05, France.
+gregory.dubourg@univ-amu.fr.
+(6)IHU Méditerranée Infection, Marseille, France. gregory.dubourg@univ-amu.fr.
+
+Strain Marseille-P2082, an anaerobic, non-motile, asporogenous, Gram-negative,
+coccoid bacterium was isolated from the faeces of a 33 year-old obese French
+woman before bariatric surgery. The isolate exhibits 98.65% 16S rRNA gene
+nucleotide sequence similarity with Negativicoccus succinicivorans strain ADV
+07/08/06-B-1388T, its current closest phylogenetic neighbour with standing in
+nomenclature. However, the dDDH relatedness between the new isolate and N.
+succinicivorans type strain ADV 07/08/06-B-1388T is 52.5 ± 2.7%. Strain
+Marseille-P2082 has a genome of 1,360,589 bp with a 51.1% G+C content. Its major 
+fatty acids were identified as C18:1n9, C18:0 and C16:0. Based on its phenotypic,
+genomic and phylogenetic characteristics, strain Marseille-P2082T [= CSURP2082
+(Collection de Souches de l'Unité des Rickettsies) = DSM 100853] is proposed as
+the type strain of the novel species Negativicoccus massiliensis sp. nov. The 16S
+rRNA gene sequence and whole-genome shotgun sequence have been deposited in
+EMBL-EBI under accession numbers LN876651 and LT700188, respectively.
+
+DOI: 10.1007/s10482-020-01414-5 
+PMID: 32303967 
+

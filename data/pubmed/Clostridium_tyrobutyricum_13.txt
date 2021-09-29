@@ -1,0 +1,53 @@
+
+1. J Microbiol Methods. 2020 Feb;169:105818. doi: 10.1016/j.mimet.2019.105818. Epub 
+2019 Dec 25.
+
+Evaluation of methods for DNA extraction from Clostridium tyrobutyricum spores
+and its detection by qPCR.
+
+Esteban M(1), Marcos P(1), Horna C(2), Galan-Malo P(3), Mata L(3), Pérez MD(1),
+Calvo M(1), Sánchez L(4).
+
+Author information: 
+(1)Departamento de Producción Animal y Ciencia de los Alimentos, Facultad de
+Veterinaria, Instituto Agroalimentario de Aragón (IA2), Universidad de
+Zaragoza-CITA, Zaragoza, Spain.
+(2)Departamento de Producción Animal y Ciencia de los Alimentos, Facultad de
+Veterinaria, Instituto Agroalimentario de Aragón (IA2), Universidad de
+Zaragoza-CITA, Zaragoza, Spain; ZEULAB, Bari 25 dpdo, 50197 Zaragoza, Spain.
+(3)ZEULAB, Bari 25 dpdo, 50197 Zaragoza, Spain.
+(4)Departamento de Producción Animal y Ciencia de los Alimentos, Facultad de
+Veterinaria, Instituto Agroalimentario de Aragón (IA2), Universidad de
+Zaragoza-CITA, Zaragoza, Spain. Electronic address: lousanchez@unizar.es.
+
+Clostridium tyrobutyricum is the major agent that causes the blowing defect in
+cheese due to the germination of its dormant spores during the ripening stage. As
+a result, many of the affected cheeses show cavities and cracks, which cause the 
+product loss in most cases. Nowadays, there is not a fast method capable of
+detecting milk contaminated with C. tyrobutyricum spores. The aim of this study
+has been to develop a fast and reliable method based on real time PCR (qPCR) to
+detect C. tyrobutyricum spores in raw milk. One of the main limitations has been 
+to find a good procedure for the spore disruption to extract the DNA due to its
+high resistance. For this reason, different disruption methods have been tested, 
+including chemical agents, bead beating, enzymatic and microwave treatment.
+Furthermore, an enzymatic treatment with subtilisin was applied for milk
+clarification and recovery of spores. The comparison of the assayed methods has
+been made using sterile milk spiked with C. tyrobutyricum spores, obtained in
+solid or liquid medium. The results showed that microwave treatment followed by a
+standard DNA purification step was found to be the best disruption method. The Ct
+values obtained for spores were higher than those found for vegetative cells by
+qPCR, for the same quantity of DNA. This difference could be due to the action of
+the Small Acid Soluble Proteins (SASP) in the DNA packaging of spores. Moreover, 
+spores obtained in agar plate were found more resistant to disruption than those 
+obtained in liquid medium. Subtilisin and microwave treatments were found to be
+successful for DNA extraction from C. tyrobutyricum spores in milk and subsequent
+identification by qPCR. However, the differences observed between the
+amplification of DNA from spores obtained in different media and from vegetative 
+cells have to be taken into account to optimize a method for C. tyrobutyricum
+detection.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.mimet.2019.105818 
+PMID: 31881287 
+

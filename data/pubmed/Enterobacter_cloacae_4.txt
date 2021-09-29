@@ -1,0 +1,60 @@
+
+1. Ecotoxicol Environ Saf. 2020 Sep 22;205:111365. doi:
+10.1016/j.ecoenv.2020.111365. [Epub ahead of print]
+
+Wastewater treatment plant workers' exposure and methods for risk evaluation of
+their exposure.
+
+Lu R(1), Frederiksen MW(2), Uhrbrand K(2), Li Y(3), Østergaard C(4), Madsen
+AM(5).
+
+Author information: 
+(1)National Research Centre for the Working Environment, Lersø Parkallé 105,
+DK-2100, Copenhagen, Denmark; School of Water and Environment, Chang'an
+University, Xi'an, 710054, China.
+(2)National Research Centre for the Working Environment, Lersø Parkallé 105,
+DK-2100, Copenhagen, Denmark.
+(3)School of Water and Environment, Chang'an University, Xi'an, 710054, China.
+(4)Department of Clinical Microbiology, Lillebaelt Hospital, Denmark.
+(5)National Research Centre for the Working Environment, Lersø Parkallé 105,
+DK-2100, Copenhagen, Denmark. Electronic address: amm@nrcwe.dk.
+
+Work in wastewater treatment plants (WWTPs) can be associated with respiratory
+symptoms and diarrhea. The aim of this study was to obtain knowledge about WWTP
+workers' exposure to airborne bacteria and endotoxin, and the inflammatory
+potential (TIP) of their exposure, and to evaluate the risk posed by the exposure
+by 1) calculating a hazard index and relating the exposure to suggested
+occupational exposure limits (OELs), 2) estimating the potential deposition of
+bacteria in the airways, 3) relating it to the risk group classification of
+bacteria by the European Union, and 4) estimating the TIP of the personal
+exposure. A cohort of 14 workers were followed over one year. Bioaerosols were
+collected using personal and stationary samplers in a grid chamber house and an
+aeration tank area. Airborne bacteria were identified using (MALDI-TOF MS), and
+TIP of exposure was measured using HL-60 cells. A significant effect of season,
+work task, and person was found on the personal exposure. A hazard index based on
+exposure levels indicates that the risk caused by inhalation is low. In relation 
+to suggested OELs, 14% and 34% of the personal exposure were exceeded for
+endotoxin (≥50 EU/m3) and bacteria (≥500 CFU/m3). At least 70% of the airborne
+bacteria in the grid chamber house and the aeration tank area could potentially
+deposit in the lower respiratory tract. From the personal samples, three of 131
+bacterial species, Enterobacter cloacae, Staphylococcus aureus, and Yersinia
+enterocolitica are classified within Risk Group 2. Seven additional bacteria from
+the stationary samples belong to Risk Group 2. The bacterial species composition 
+was affected significantly by season (p = 0.014) and by sampling type/area
+(p = 0.001). The TIP of WWTP workers' exposure was higher than of a reference
+sample, and the highest TIP was measured in autumn. TIP of personal exposure
+correlated with bacterial exposure. Based on the geometric average exposures to
+endotoxin (9.2 EU/m3) and bacteria (299 CFU/m3) and based on the calculated
+hazard index, the risk associated with exposure is low. However, since 43 of 106 
+exposure levels exceed suggested OELs, the TIP of exposure was elevated and
+associated with bacterial exposure, and WWTP workers were exposed to pathogenic
+bacteria, a continued focus on preventive measures is important. The
+identification of bacteria to species level in personal samples was necessary in 
+the risk assessment, and measurement of the microbial composition made the source
+tracking possible.
+
+Copyright © 2020 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ecoenv.2020.111365 
+PMID: 32977286 
+

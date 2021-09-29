@@ -1,0 +1,60 @@
+
+1. Front Bioeng Biotechnol. 2020 Aug 11;8:961. doi: 10.3389/fbioe.2020.00961.
+eCollection 2020.
+
+Formulation of Bio-Based Washing Agent and Its Application for Removal of
+Petroleum Hydrocarbons From Drill Cuttings Before Bioremediation.
+
+Arpornpong N(1), Padungpol R(2), Khondee N(1), Tongcumpou C(3)(4),
+Soonglerdsongpha S(5), Suttiponparnit K(5), Luepromchai E(2)(4).
+
+Author information: 
+(1)Department of Natural Resources and Environment, Faculty of Agriculture,
+Natural Resources and Environment, Naresuan University, Phitsanulok, Thailand.
+(2)Microbial Technology for Marine Pollution Treatment Research Unit, Department 
+of Microbiology, Faculty of Science, Chulalongkorn University, Bangkok, Thailand.
+(3)Environmental Research Institute, Chulalongkorn University, Bangkok, Thailand.
+(4)Research Program on Remediation Technologies for Petroleum Contamination,
+Center of Excellence on Hazardous Substance Management, Chulalongkorn University,
+Bangkok, Thailand.
+(5)Environmental Technology Research Department, Innovation Institute, PTT Public
+Company Limited, Bangkok, Thailand.
+
+Drill cuttings from petroleum exploration and production sites can cause diverse 
+environmental problems. Total petroleum hydrocarbons (TPHs) are a major pollutant
+from the use of polyolefin-based mud. As an alternative to incineration, this
+study investigated the application of surfactant-enhanced washing technology
+prior to bioremediation. The washing step was necessary because the initial TPH
+concentrations were quite high at approximately 15% (w/w). Washing agents were
+formulated by varying the concentration of lipopeptide biosurfactant (in foamate 
+or cell-free broth), Dehydol LS7TH (fatty alcohol ethoxylate 7EO, oleochemical
+surfactant) and butanol (as a lipophilic linker) at different salinities. The
+most efficient formula produced a Winsor Type I microemulsion (oil-in-water
+microemulsion) with polyolefin and contained only 20% (v/v) foamate and 2% (v/v) 
+Dehydol LS7TH in water. Due to the synergistic behavior between the anionic
+lipopeptides and non-ionic Dehydol LS7TH, the formula efficiently removed 92% of 
+the TPHs from the drill cuttings when applied in a jar test. To reduce the cost, 
+the concentrations of each surfactant should be reduced; thus, the formula was
+optimized by the simplex lattice mixture design. In addition, cell-free broth, at
+a pH of 10, containing 3.0 g/L lipopeptides was applied instead of foamate
+because it was easy to prepare. The optimized formula removed 81.2% of the TPHs
+and contained 72.0% cell-free broth and 1.4% Dehydol LS7TH in water. A 20-kg soil
+washing system was later tested where the petroleum removal efficiency decreased 
+to 70.7% due to polyolefin redeposition during separation of the washing
+solution. The remaining TPHs (4.5%) in the washed drilled cuttings were further
+degraded by a mixture of Marinobacter salsuginis RK5, Microbacterium
+saccharophilum RK15 and Gordonia amicalis JC11. To promote TPH biodegradation,
+biochar and fertilizer were applied along with bacterial consortia in a microcosm
+experiment. After 49-day incubation, the TPHs were reduced to 0.9% by both
+physical and biological mechanisms, while the TPHs in the unamended samples
+remained unaffected. With the use of the formulated bio-based washing agent and
+bioremediation approach, the on-site treatment of drill cuttings could be
+conducted with an acceptable cost and low environmental impacts.
+
+Copyright © 2020 Arpornpong, Padungpol, Khondee, Tongcumpou, Soonglerdsongpha,
+Suttiponparnit and Luepromchai.
+
+DOI: 10.3389/fbioe.2020.00961 
+PMCID: PMC7431657
+PMID: 32850770 
+

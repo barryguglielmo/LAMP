@@ -1,0 +1,60 @@
+
+1. mSphere. 2020 Aug 5;5(4). pii: e00689-20. doi: 10.1128/mSphere.00689-20.
+
+Bacteria Modify Candida albicans Hypha Formation, Microcolony Properties, and
+Survival within Macrophages.
+
+Salvatori O(1), Kumar R(1), Metcalfe S(1), Vickerman M(1), Kay JG(1), Edgerton
+M(2).
+
+Author information: 
+(1)Department of Oral Biology, School of Dental Medicine, University at Buffalo, 
+Buffalo, New York, USA.
+(2)Department of Oral Biology, School of Dental Medicine, University at Buffalo, 
+Buffalo, New York, USA edgerto@buffalo.edu.
+
+Phagocytic cells are crucial components of the innate immune system preventing
+Candida albicans mucosal infections. Streptococcus gordonii and Pseudomonas
+aeruginosa often colonize mucosal sites, along with C. albicans, and yet
+interkingdom interactions that might alter the survival and escape of fungi from 
+macrophages are not understood. Murine macrophages were coinfected with S.
+gordonii or P. aeruginosa, along with C. albicans to evaluate changes in fungal
+survival. S. gordonii increased C. albicans survival and filamentation within
+macrophage phagosomes, while P. aeruginosa reduced fungal survival and
+filamentation. Coinfection with S. gordonii resulted in greater escape of C.
+albicans from macrophages and increased size of fungal microcolonies formed on
+macrophage monolayers, while coinfection with P. aeruginosa reduced macrophage
+escape and produced smaller microcolonies. Microcolonies formed in the presence
+of P. aeruginosa cells outside macrophages also had significantly reduced size
+that was not found with P. aeruginosa phenazine deletion mutants. S. gordonii
+cells, as well as S. gordonii heat-fixed culture supernatants, increased C.
+albicans microcolony biomass but also resulted in microcolony detachment. A
+heat-resistant, trypsin-sensitive pheromone processed by S. gordonii Eep was
+needed for these effects. The majority of fungal microcolonies formed on human
+epithelial monolayers with S. gordonii supernatants developed as large floating
+structures with no detectable invasion of epithelium, along with reduced gene
+expression of C. albicans HYR1, EAP1, and HWP2 adhesins. However, a subset of C. 
+albicans microcolonies was smaller and had greater epithelial invasiveness
+compared to microcolonies grown without S. gordonii Thus, bacteria can alter the 
+killing and escape of C. albicans from macrophages and contribute to changes in
+C. albicans pathogenicity.IMPORTANCE Candida albicans is the predominant fungus
+colonizing the oral cavity that can have both synergistic and antagonistic
+interactions with other bacteria. Interkingdom polymicrobial associations modify 
+fungal pathogenicity and are believed to increase microbial resistance to innate 
+immunity. However, it is not known how these interactions alter fungal survival
+during phagocytic killing. We demonstrated that secreted molecules of S. gordonii
+and P. aeruginosa alter C. albicans survival within the phagosome of macrophages 
+and alter fungal pathogenic phenotypes, including filamentation and microcolony
+formation. Moreover, we provide evidence for a dual interaction between S.
+gordonii and C. albicans such that S. gordonii signaling peptides can promote C. 
+albicans commensalism by decreasing microcolony attachment while increasing
+invasion in epithelial cells. Our results identify bacterial diffusible factors
+as an attractive target to modify virulence of C. albicans in polymicrobial
+infections.
+
+Copyright © 2020 Salvatori et al.
+
+DOI: 10.1128/mSphere.00689-20 
+PMCID: PMC7407070
+PMID: 32759336 
+

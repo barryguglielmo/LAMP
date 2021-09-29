@@ -1,0 +1,35 @@
+
+1. Biotechnol Bioeng. 2020 Aug 8. doi: 10.1002/bit.27529. [Epub ahead of print]
+
+Metabolically engineered Caldicellulosiruptor bescii as a platform for producing 
+acetone and hydrogen from lignocellulose.
+
+Straub CT(1), Bing RG(1), Otten JK(1), Keller LM(1), Zeldes BM(1), Adams MWW(2), 
+Kelly RM(1).
+
+Author information: 
+(1)Department of Chemical and Biomolecular Engineering, North Carolina State
+University, Raleigh, North Carolina.
+(2)Department of Biochemistry and Molecular Biology, University of Georgia,
+Athens, Georgia.
+
+The production of volatile industrial chemicals utilizing metabolically
+engineered extreme thermophiles offers the potential for processes with
+simultaneous fermentation and product separation. An excellent target chemical
+for such a process is acetone (Tb  = 56°C), ideally produced from lignocellulosic
+biomass. Caldicellulosiruptor bescii (Topt 78°C), an extremely thermophilic
+fermentative bacterium naturally capable of deconstructing and fermenting
+lignocellulose, was metabolically engineered to produce acetone. When the acetone
+pathway construct was integrated into a parent strain containing the bifunctional
+alcohol dehydrogenase from Clostridium thermocellum, acetone was produced at
+9.1 mM (0.53 g/L), in addition to minimal ethanol 3.3 mM (0.15 g/L), along with
+net acetate consumption. This demonstrates that C. bescii can be engineered with 
+balanced pathways in which renewable carbohydrate sources are converted to useful
+metabolites, primarily acetone and H2 , without net production of its native
+fermentation products, acetate and lactate.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1002/bit.27529 
+PMID: 32770740 
+

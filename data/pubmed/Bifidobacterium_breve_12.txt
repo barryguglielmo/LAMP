@@ -1,0 +1,47 @@
+
+1. Cells. 2020 Aug 1;9(8). pii: E1824. doi: 10.3390/cells9081824.
+
+Probiotic Lactobacillus and Bifidobacterium Strains Counteract Adherent-Invasive 
+Escherichia coli (AIEC) Virulence and Hamper IL-23/Th17 Axis in Ulcerative
+Colitis, but Not in Crohn's Disease.
+
+Leccese G(1), Bibi A(1), Mazza S(2), Facciotti F(3), Caprioli F(2)(4), Landini
+P(1), Paroni M(1).
+
+Author information: 
+(1)Department of Biosciences, Università degli Studi di Milano, 20133 Milan,
+Italy.
+(2)Gastroenterology and Endoscopy Unit, Fondazione IRCCS Ca' Granda, Ospedale
+Maggiore Policlinico, 20122 Milan, Italy.
+(3)Department of Experimental Oncology, IEO European Institute of Oncology IRCCS,
+20139 Milan, Italy.
+(4)Department of Pathophysiology and Transplantation, Università degli Studi di
+Milano, 20135 Milan, Italy.
+
+Hypersecretion of proinflammatory cytokines and dysregulated activation of the
+IL-23/Th17 axis in response to intestinal microbiota dysbiosis are key factors in
+the pathogenesis of inflammatory bowel diseases (IBD). In this work, we studied
+how Lactobacillus and Bifidobacterium strains affect AIEC-LF82 virulence
+mechanisms and the consequent inflammatory response linked to the CCR6-CCL20 and 
+IL-23/Th17 axes in Crohn's disease (CD) and ulcerative colitis (UC) patients. All
+Lactobacillus and Bifidobacterium strains significantly reduced the LF82 adhesion
+and persistence within HT29 intestinal epithelial cells, inhibiting IL-8
+secretion while not affecting the CCR6-CCL20 axis. Moreover, they significantly
+reduced LF82 survival within macrophages and dendritic cells, reducing the
+secretion of polarizing cytokines related to the IL-23/Th17 axis, both in healthy
+donors (HD) and UC patients. In CD patients, however, only B. breve Bbr8 strain
+was able to slightly reduce the LF82 persistence within dendritic cells, thus
+hampering the IL-23/Th17 axis. In addition, probiotic strains were able to
+modulate the AIEC-induced inflammation in HD, reducing TNF-α and increasing IL-10
+secretion by macrophages, but failed to do so in IBD patients. Interestingly, the
+probiotic strains studied in this work were all able to interfere with the
+IL-23/Th17 axis in UC patients, but not in CD patients. The different interaction
+mechanisms of probiotic strains with innate immune cells from UC and CD patients 
+compared to HD suggest that testing on CD-derived immune cells may be pivotal for
+the identification of novel probiotic strains that could be effective also for CD
+patients.
+
+DOI: 10.3390/cells9081824 
+PMCID: PMC7464949
+PMID: 32752244 
+

@@ -1,0 +1,57 @@
+
+1. Bioorg Chem. 2020 Aug 28;104:104244. doi: 10.1016/j.bioorg.2020.104244. [Epub
+ahead of print]
+
+Structure based drug discovery and in vitro activity testing for DNA gyrase
+inhibitors of Salmonella enterica serovar Typhi.
+
+Sharma P(1), Kumar M(1), Dahiya S(2), Sood S(2), Das BK(2), Kaur P(3), Kapil
+A(4).
+
+Author information: 
+(1)Department of Biophysics, All India Institute of Medical Sciences, New Delhi, 
+India.
+(2)Department of Microbiology, All India Institute of Medical Sciences, New
+Delhi, India.
+(3)Department of Biophysics, All India Institute of Medical Sciences, New Delhi, 
+India. Electronic address: punitkaur1@hotmail.com.
+(4)Department of Microbiology, All India Institute of Medical Sciences, New
+Delhi, India. Electronic address: akapilmicro@gmail.com.
+
+The emerged resistance in Typhoidal Salmonella has limited the treatment options 
+for typhoid fever. In this scenario, there is a need to find alternate treatment 
+modalities against this pathogen. Amongst the therapeutic agents currently being 
+used to treat enteric fever, quinolones have enjoyed considerable success since
+past three decades. These drugs act upon DNA gyrase and the acquired resistance
+is due to mutations at Ser83 and Asp87 of gyrase A subunit. In the present study 
+DNA gyrase enzyme was targeted to seek out potential new inhibitors which are not
+affected by these mutations. Molecular modelling and docking studies were
+performed in Schrödinger's molecular modelling software. Homology model of DNA
+gyrase-DNA complex was built using templates 1AB4 and 3LTN. Molecular dynamic
+simulations were performed in SPC solvent for 100 ns. Total 17,900,742 drug like 
+molecules were downloaded from ZINC library of chemical compounds. The Glide XP
+score of the compounds ranged from -5.285 to -13.692. All the ligands bound at
+the four base pair staggered nick in the DNA binding groove of DNA gyrase enzyme 
+with their aromatic rings intercalating between the bases of two successive
+nucleotides stabilized by π - π stacking interactions. The binding pocket of DNA 
+gyrase B comprising conserved residues Lys 447, Gly 448, Lys 449, Ile 450, Leu
+451, Gln 465 and Val 467 interacts with the ligand molecules through van der
+Waals interactions. The MIC (minimum inhibitory concentration), MBC (minimum
+bactericidal concentration) and IC50 of the tested compounds ranged from 500 to
+125 mg/L, 750 to 500 mg/L and 100 to 12.5 mg/L, respectively. The selected hits
+bind to quinolone binding pocket, but their mode of binding and conformation is
+different to fluoroquinolones, and hence, their binding is not affected by
+mutations at Ser83 or Asp87 positions. These lead compounds can be further
+explored as a scaffold to design inhibitors against DNA gyrase to bypass
+quinolone resistance.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bioorg.2020.104244 
+PMID: 32966903 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

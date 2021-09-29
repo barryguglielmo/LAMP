@@ -1,0 +1,39 @@
+
+1. Microbiologyopen. 2020 Mar;9(3):e980. doi: 10.1002/mbo3.980. Epub 2019 Dec 23.
+
+Transglycosylating β-d-galactosidase and α-l-fucosidase from Paenibacillus sp.
+3179 from a hot spring in East Greenland.
+
+Thøgersen MS(1), Christensen SJ(1), Jepsen M(1), Pedersen LH(2), Stougaard P(1).
+
+Author information: 
+(1)University of Copenhagen, Frederiksberg C, Denmark.
+(2)Aalborg University, Aalborg, Denmark.
+
+Thermal springs are excellent locations for discovery of thermostable
+microorganisms and enzymes. In this study, we identify a novel thermotolerant
+bacterial strain related to Paenibacillus dendritiformis, denoted Paenibacillus
+sp. 3179, which was isolated from a thermal spring in East Greenland. A
+functional expression library of the strain was constructed, and the library
+screened for β-d-galactosidase and α-l-fucosidase activities on chromogenic
+substrates. This identified two genes encoding a β-d-galactosidase and an
+α-l-fucosidase, respectively. The enzymes were recombinantly expressed, purified,
+and characterized using oNPG (2-nitrophenyl-β-d-galactopyranoside) and pNP-fucose
+(4-nitrophenyl-α-l-fucopyranoside), respectively. The enzymes were shown to have 
+optimal activity at 50°C and pH 7-8, and they were able to hydrolyze as well as
+transglycosylate natural carbohydrates. The transglycosylation activities were
+investigated using TLC and HPLC, and the β-d-galactosidase was shown to produce
+the galactooligosaccharides (GOS) 6'-O-galactosyllactose and
+3'-O-galactosyllactose using lactose as substrate, whereas the α-l-fucosidase was
+able to transfer the fucose moiety from pNP-fuc to lactose, thereby forming
+2'-O-fucosyllactose. Since enzymes that are able to transglycosylate
+carbohydrates at elevated temperature are desirable in many industrial processes,
+including food and dairy production, we foresee the potential use of enzymes from
+Paenibacillus sp. 3179 in the production of, for example, instant formula.
+
+© 2019 The Authors. MicrobiologyOpen published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/mbo3.980 
+PMCID: PMC7066462
+PMID: 31868312 
+

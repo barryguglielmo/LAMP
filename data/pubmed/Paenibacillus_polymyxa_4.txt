@@ -1,0 +1,38 @@
+
+1. Life Sci Alliance. 2020 Aug 6;3(10). pii: e202000847. doi:
+10.26508/lsa.202000847. Print 2020 Oct.
+
+Peptide-based quorum sensing systems in Paenibacillus polymyxa.
+
+Voichek M(1), Maaß S(2), Kroniger T(2), Becher D(2), Sorek R(3).
+
+Author information: 
+(1)Department of Molecular Genetics, Weizmann Institute of Science, Rehovot,
+Israel.
+(2)Department of Microbial Proteomics, Institute of Microbiology, Center for
+Functional Genomics of Microbes, University of Greifswald, Greifswald, Germany.
+(3)Department of Molecular Genetics, Weizmann Institute of Science, Rehovot,
+Israel rotem.sorek@weizmann.ac.il.
+
+Paenibacillus polymyxa is an agriculturally important plant growth-promoting
+rhizobacterium. Many Paenibacillus species are known to be engaged in complex
+bacteria-bacteria and bacteria-host interactions, which in other species were
+shown to necessitate quorum sensing communication. However, to date, no quorum
+sensing systems have been described in Paenibacillus Here, we show that the type 
+strain P. polymyxa ATCC 842 encodes at least 16 peptide-based communication
+systems. Each of these systems is comprised of a pro-peptide that is secreted to 
+the growth medium and processed to generate a mature short peptide. Each peptide 
+has a cognate intracellular receptor of the RRNPP family, and we show that
+external addition of P. polymyxa communication peptides leads to reprogramming of
+the transcriptional response. We found that these quorum sensing systems are
+conserved across hundreds of species belonging to the Paenibacillaceae family,
+with some species encoding more than 25 different peptide-receptor pairs,
+representing a record number of quorum sensing systems encoded in a single
+genome.
+
+© 2020 Voichek et al.
+
+DOI: 10.26508/lsa.202000847 
+PMCID: PMC7425212
+PMID: 32764104 
+

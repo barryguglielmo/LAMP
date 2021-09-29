@@ -1,0 +1,77 @@
+
+1. Mol Cell. 2020 Jun 4;78(5):850-861.e5. doi: 10.1016/j.molcel.2020.03.033. Epub
+2020 Apr 28.
+
+CRISPR-Cas13 Inhibitors Block RNA Editing in Bacteria and Mammalian Cells.
+
+Lin P(1), Qin S(2), Pu Q(2), Wang Z(3), Wu Q(4), Gao P(2), Schettler J(5), Guo
+K(5), Li R(6), Li G(7), Huang C(8), Wei Y(9), Gao GF(10), Jiang J(11), Wu M(12).
+
+Author information: 
+(1)Department of Biomedical Sciences, School of Medicine and Health Sciences,
+University of North Dakota, Grand Forks, ND 58203, USA; Wound Trauma Medical
+Center, State Key Laboratory of Trauma, Burns and Combined Injury, Daping
+Hospital, Army Medical University, Chongqing 400042, China.
+(2)Department of Biomedical Sciences, School of Medicine and Health Sciences,
+University of North Dakota, Grand Forks, ND 58203, USA; State Key Laboratory of
+Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan 610041,
+China.
+(3)Department of Biomedical Sciences, School of Medicine and Health Sciences,
+University of North Dakota, Grand Forks, ND 58203, USA; West China School of
+Basic Medical Sciences and Forensic Medicine, Sichuan University, Chengdu,
+Sichuan 610041, China.
+(4)Department of Biomedical Sciences, School of Medicine and Health Sciences,
+University of North Dakota, Grand Forks, ND 58203, USA; Department of Pediatrics,
+Ruijin Hospital affiliated to Shanghai Jiao Tong University of Medicine, Shanghai
+200025, China.
+(5)Department of Biomedical Sciences, School of Medicine and Health Sciences,
+University of North Dakota, Grand Forks, ND 58203, USA.
+(6)Key Laboratory of Biotechnology for Medicinal Plants of Jiangsu Province,
+Jiangsu Normal University, Xuzhou, Jiangsu 221116, China.
+(7)Inflammations & Allergic Diseases Research Laboratory, Affiliated Hospital of 
+Southwest Medical University, Luzhou, Sichuan 646004, China.
+(8)West China School of Basic Medical Sciences and Forensic Medicine, Sichuan
+University, Chengdu, Sichuan 610041, China.
+(9)State Key Laboratory of Biotherapy, West China Hospital, Sichuan University,
+Chengdu, Sichuan 610041, China.
+(10)Chinese Academy of Sciences (CAS) Key Laboratory of Pathogenic Microbiology
+and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing
+100101, China; Savaid Medical School, University of Chinese Academy of Sciences, 
+Beijing 101408, China; National Institute for Viral Disease Control and
+Prevention, Chinese Center for Disease Control and Prevention, Beijing 102206,
+China; Research Network of Immunity and Health, Beijing Institutes of Life
+Science, Chinese Academy of Sciences, Beijing 100101, China.
+(11)Wound Trauma Medical Center, State Key Laboratory of Trauma, Burns and
+Combined Injury, Daping Hospital, Army Medical University, Chongqing 400042,
+China. Electronic address: hellojjx@126.com.
+(12)Department of Biomedical Sciences, School of Medicine and Health Sciences,
+University of North Dakota, Grand Forks, ND 58203, USA. Electronic address:
+min.wu@und.edu.
+
+Cas13 has demonstrated unique and broad utility in RNA editing, nucleic acid
+detection, and disease diagnosis; however, a constantly active Cas enzyme may
+induce unwanted effects. Bacteriophage- or prophage-region-encoded anti-CRISPR
+(acr) gene molecules provide the potential to control targeting specificity and
+potency to allow for optimal RNA editing and nucleic acid detection by
+spatiotemporally modulating endonuclease activities. Using integrated approaches 
+to screen acrVI candidates and evaluate their effects on Cas13 function, we
+discovered a series of acrVIA1-7 genes that block the activities of Cas13a. These
+VI-A CRISPR inhibitors substantially attenuate RNA targeting and editing by
+Cas13a in human cells. Strikingly, type VI-A anti-CRISPRs (AcrVIAs) also
+significantly muffle the single-nucleic-acid editing ability of the dCas13a
+RNA-editing system. Mechanistically, AcrVIA1, -4, -5, and -6 bind LwaCas13a,
+while AcrVIA2 and -3 can only bind the LwaCas13-crRNA (CRISPR RNA) complex. These
+identified acr molecules may enable precise RNA editing in Cas13-based
+application and study of phage-bacterium interaction.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.molcel.2020.03.033 
+PMCID: PMC7299153 [Available on 2021-06-04]
+PMID: 32348779  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests A provisional patent
+application pertaining to AcrVIA genes for CRISPR-related technologies and their 
+applications has been filed by the University of North Dakota; Daping Hospital;
+and Army Medical University, Chongqing, China.
+

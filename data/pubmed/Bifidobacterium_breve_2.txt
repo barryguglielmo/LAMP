@@ -1,0 +1,59 @@
+
+1. Gut Pathog. 2020 Sep 10;12:43. doi: 10.1186/s13099-020-00381-6. eCollection 2020.
+
+Mechanisms and microbial influences on CTLA-4 and PD-1-based immunotherapy in the
+treatment of cancer: a narrative review.
+
+Miller PL(1), Carson TL(2).
+
+Author information: 
+(1)University of Alabama at Birmingham School of Medicine, Birmingham, AL USA.
+(2)Department of Medicine, Division of Preventive Medicine, University of Alabama
+Birmingham School of Medicine, 1717 11th Ave S, Birmingham, AL 35205 USA.
+
+Background: The relationship between gastrointestinal (GI) bacteria and the
+response to anti-CTLA-4 and anti-PD-1 immunotherapy in the treatment of cancer
+can potentially be enhanced to allow patients to maximally respond to these
+treatments. Insight into the complex interaction between gut microbiota and the
+human adaptive immune system will help guide future immunotherapeutic cancer
+treatments to allow a more robust clinical response and fewer adverse effects in 
+patients requiring these drugs. This review highlights these interactions as well
+as the potential for the creation of "oncomicrobiotics" that would selectively
+tailor one's GI bacteria to maximally respond to anti-CTLA-4 and anti-PD-1
+treatments will fewer adverse effects.
+Main body: CTLA-4 is an antigen on the surface of T cells which, upon
+stimulation, leads to inhibition of activated T cells to terminate the immune
+response. However, many types of tumor cells can upregulate CTLA-4 in the tumor
+microenvironment, allowing these cells to evade targeting and destruction by the 
+body's immune system by prematurely inhibiting T cells. Increased representation 
+of Bacteroides fragilis, Burkholderia cepacia and the Faecalibacterium genus in
+the GI tract of patients receiving CTLA-4-based immunotherapy led to a stronger
+therapeutic effect while minimizing adverse side effects such as colitis. In
+addition, by introducing bacteria involved in vitamin B and polyamine transport
+to the GI tracts of patients treated with anti-CTLA-4 drugs led to increased
+resistance to colitis while maintaining therapeutic efficacy. PD-1 is another
+molecule upregulated in many tumor microenvironments which acts in a similar
+manner to CTLA-4 to tone down the anti-neoplastic actions of T cells. Antibodies 
+to PD-1 have shown promise to help allow the body's natural immune response to
+appropriately target and destroy tumor cells. The presence of Bifidobacterium
+breve and longum, Akkermansia muciniphila and Faecalibacterium prausnitzii in the
+GI tracts of cancer patients has the potential to create a more robust immune
+response to anti-PD-1 drugs and prolonged survival. The development of
+"oncomicrobiotics" has the potential to help tailor one's gut microbiota to allow
+patients to maximally respond to immunotherapy without sacrificing increases in
+toxicity. These oncomicrobiotics may possibly include antibiotics, probiotics,
+postbiotics and/or prebiotics. However, many challenges lie ahead in the creation
+of oncomicrobiotics.
+Conclusion: The creation of oncomicrobiotics may allow many patients receiving
+anti-CTLA-4 and PD-1 immunotherapy to experience prolonged survival and a better 
+quality of life.
+
+© The Author(s) 2020.
+
+DOI: 10.1186/s13099-020-00381-6 
+PMCID: PMC7488430
+PMID: 32944086 
+
+Conflict of interest statement: Competing interestsThe authors declare they have 
+no competing interests.
+

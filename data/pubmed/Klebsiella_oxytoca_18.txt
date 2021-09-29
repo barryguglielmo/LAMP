@@ -1,0 +1,57 @@
+
+1. Parasit Vectors. 2020 Jul 13;13(1):349. doi: 10.1186/s13071-020-04218-8.
+
+Laboratory colonization by Dirofilaria immitis alters the microbiome of female
+Aedes aegypti mosquitoes.
+
+Adegoke A(1), Neff E(2)(3), Geary A(1), Husser MC(1), Wilson K(1), Norris SM(1), 
+Dharmarajan G(2), Karim S(4).
+
+Author information: 
+(1)Center for Molecular and Cellular Biosciences, School of Biological,
+Environmental, and Earth Sciences, The University of Southern Mississippi,
+Hattiesburg, MS, 39406, USA.
+(2)Savannah River Ecology Laboratory, University of Georgia, P.O. Drawer E,
+Aiken, SC, 29802, USA.
+(3)Warnell School of Forestry and Natural Resources, University of Georgia,
+Athens, GA, 30602, USA.
+(4)Center for Molecular and Cellular Biosciences, School of Biological,
+Environmental, and Earth Sciences, The University of Southern Mississippi,
+Hattiesburg, MS, 39406, USA. Shahid.Karim@usm.edu.
+
+BACKGROUND: The ability of blood-feeding arthropods to successfully acquire and
+transmit pathogens of medical and veterinary importance has been shown to be
+interfered with, or enhanced by, the arthropod's native microbiome. Mosquitoes
+transmit viruses, protozoan and filarial nematodes, the majority of which
+contribute to the 17% of infectious disease cases worldwide. Dirofilaria immitis,
+a mosquito-transmitted filarial nematodes of dogs and cats, is vectored by
+several mosquito species including Aedes aegypti.
+METHODS: In this study, we investigated the impact of D. immitis colonization on 
+the microbiome of laboratory reared female Ae. aegypti. Metagenomic analysis of
+the V3-V4 variable region of the microbial 16S RNA gene was used for
+identification of the microbial differences down to species level.
+RESULTS: We generated a total of 1068 OTUs representing 16 phyla, 181 genera and 
+271 bacterial species. Overall, in order of abundance, Proteobacteria,
+Bacteroidetes, Actinobacteria and Firmicutes were the most represented phylum
+with D. immitis-infected mosquitoes having more of Proteobacteria (71%) than
+uninfected mosquitoes (56.9%). An interesting finding in this study is the
+detection of Klebsiella oxytoca in relatively similar abundance in infected and
+uninfected mosquitoes, suggesting a possible endosymbiotic relationship, and has 
+been previously shown to indirectly compete for nutrients with fungi on domestic 
+housefly eggs and larvae. While D. immitis colonization has no effect on the
+overall species richness, we identified significant differences in the
+composition of selected bacterial genera and phyla between the two groups. We
+also reported distinct compositional and phylogenetic differences in the
+individual bacterial species when commonly identified bacteria were compared.
+CONCLUSIONS: To the best of our knowledge, this is the first study to understand 
+the impact of a filarial infection on the microbiome of its mosquito vector.
+Further studies are required to identify bacteria species that could play an
+important role in the mosquito biology. While the microbiome composition of Ae.
+aegypti mosquito have been previously reported, our study shows that in an effort
+to establish itself, a filarial nematode modifies and alters the overall
+microbial diversity within its mosquito host.
+
+DOI: 10.1186/s13071-020-04218-8 
+PMCID: PMC7359625
+PMID: 32660640 
+

@@ -1,0 +1,51 @@
+
+1. ISME J. 2020 Mar;14(3):771-787. doi: 10.1038/s41396-019-0566-x. Epub 2019 Dec 11.
+
+The enemy from within: a prophage of Roseburia intestinalis systematically turns 
+lytic in the mouse gut, driving bacterial adaptation by CRISPR spacer
+acquisition.
+
+Cornuault JK(1), Moncaut E(1), Loux V(2), Mathieu A(1), Sokol H(1)(3)(4), Petit
+MA(1), De Paepe M(5).
+
+Author information: 
+(1)Université Paris-Saclay, INRAE, AgroParisTech, Micalis Institute, 78350,
+Jouy-en-Josas, France.
+(2)Université Paris-Saclay, INRAE, MaIAGE, 78350, Jouy-en-Josas, France.
+(3)Sorbonne Université, Inserm, Centre de Recherche Saint-Antoine, CRSA, AP-HP,
+Hôpital Saint Antoine, Service de Gastroenterologie, F-75012, Paris, France.
+(4)Department of Gastroenterology, Saint-Antoine Hospital, Assistance Publique - 
+Hôpitaux de Paris, UPMC, Paris, France.
+(5)Université Paris-Saclay, INRAE, AgroParisTech, Micalis Institute, 78350,
+Jouy-en-Josas, France. marianne.depaepe@inra.fr.
+
+Despite an overall temporal stability in time of the human gut microbiota at the 
+phylum level, strong variations in species abundance have been observed. We are
+far from a clear understanding of what promotes or disrupts the stability of
+microbiome communities. Environmental factors, like food or antibiotic use,
+modify the gut microbiota composition, but their overall impacts remain
+relatively low. Phages, the viruses that infect bacteria, might constitute
+important factors explaining temporal variations in species abundance. Gut
+bacteria harbour numerous prophages, or dormant viruses, which can evolve to
+become ultravirulent phage mutants, potentially leading to important bacterial
+death. Whether such phenomenon occurs in the mammal's microbiota has been largely
+unexplored. Here we studied temperate phage-bacteria coevolution in gnotoxenic
+mice colonised with Roseburia intestinalis, a dominant symbiont of the human gut 
+microbiota, and Escherichia coli, a sub-dominant member of the same microbiota.
+We show that R. intestinalis L1-82 harbours two active prophages, Jekyll and
+Shimadzu. We observed the systematic evolution in mice of ultravirulent Shimadzu 
+phage mutants, which led to a collapse of R. intestinalis population. In a second
+step, phage infection drove the fast counter-evolution of host phage resistance
+mainly through phage-derived spacer acquisition in a clustered regularly
+interspaced short palindromic repeats array. Alternatively, phage resistance was 
+conferred by a prophage originating from an ultravirulent phage with a restored
+ability to lysogenize. Our results demonstrate that prophages are a potential
+source of ultravirulent phages that can successfully infect most of the
+susceptible bacteria. This suggests that prophages can play important roles in
+the short-term temporal variations observed in the composition of the gut
+microbiota.
+
+DOI: 10.1038/s41396-019-0566-x 
+PMCID: PMC7031369 [Available on 2021-03-01]
+PMID: 31827247  [Indexed for MEDLINE]
+

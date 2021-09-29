@@ -1,0 +1,41 @@
+
+1. Sci Total Environ. 2020 Aug 20;753:141852. doi: 10.1016/j.scitotenv.2020.141852. 
+[Epub ahead of print]
+
+Bioaerosol emissions from activated sludge basins: Characterization, release, and
+attenuation.
+
+Burdsall AC(1), Xing Y(1), Cooper CW(1), Harper WF Jr(2).
+
+Author information: 
+(1)Air Force Institute of Technology, Environmental Engineering and Science
+Program, Department of Systems Engineering and Management, 2950 Hobson Way,
+Wright-Patterson AFB, OH 45433, USA.
+(2)Air Force Institute of Technology, Environmental Engineering and Science
+Program, Department of Systems Engineering and Management, 2950 Hobson Way,
+Wright-Patterson AFB, OH 45433, USA. Electronic address: willie.harper@afit.edu.
+
+This article presents a critical review of the peer-reviewed literature related
+to bioaerosol generation from activated sludge basins. Characterization
+techniques include a variety of culture- and nonculture-based techniques, each
+with unique features. Bioaerosols contain a variety of clinical pathogens
+including Staphylococcus saprophyticus, Clostridium perfringens, and Salmonella
+enteritidis; exposure to these microorganisms increases human health risks.
+Release mechanisms involve splashing and bubble burst dynamics. Larger bubbles
+emit more aerosol particles than smaller ones. Attenuation strategies include
+covering sources with lids, adjusting the method and intensity of aeration, and
+using free-floating carrier media. Future studies should combine culture and
+non-culture based methods, and expand chemical databases and spectral libraries
+in order to realize the full power of real-time online monitoring.
+
+Published by Elsevier B.V.
+
+DOI: 10.1016/j.scitotenv.2020.141852 
+PMCID: PMC7439818
+PMID: 32891995 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

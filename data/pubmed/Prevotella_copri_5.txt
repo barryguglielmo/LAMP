@@ -1,0 +1,84 @@
+
+1. Microbiome. 2020 Aug 19;8(1):118. doi: 10.1186/s40168-020-00887-w.
+
+Gut microbiota modulation with long-chain corn bran arabinoxylan in adults with
+overweight and obesity is linked to an individualized temporal increase in fecal 
+propionate.
+
+Nguyen NK(1), Deehan EC(1), Zhang Z(2), Jin M(1)(3)(4), Baskota N(1), Perez-Muñoz
+ME(1), Cole J(1), Tuncil YE(5)(6), Seethaler B(7), Wang T(8), Laville M(9),
+Delzenne NM(10), Bischoff SC(7), Hamaker BR(6), Martínez I(1), Knights D(11)(12),
+Bakal JA(8), Prado CM(1), Walter J(13)(14)(15).
+
+Author information: 
+(1)Department of Agricultural, Food & Nutritional Science, University of Alberta,
+Edmonton, AB, T6G 2E1, Canada.
+(2)Department of Medicine, University of Alberta, Edmonton, AB, T6G 2E1, Canada.
+(3)School of Life Science, Northwestern Polytechnical University, Xi'an, 710072, 
+People's Republic of China.
+(4)College of Animal Sciences, Zhejiang University, Hangzhou, 310058, People's
+Republic of China.
+(5)Food Engineering Department, Ordu University, 52200, Ordu, Turkey.
+(6)Whistler Center for Carbohydrate Research and Department of Food Science,
+Purdue University, West Lafayette, IN, 47907, USA.
+(7)Institute of Nutritional Medicine, University of Hohenheim, 70593, Stuttgart, 
+Germany.
+(8)Patient Health Outcomes Research and Clinical Effectiveness Unit, University
+of Alberta, Edmonton, AB, T6G 2E1, Canada.
+(9)Centre de Recherche en Nutrition Humaine Rhône-Alpes and Centre Européen
+Nutrition Santé, 69310, Pierre Bénite, France.
+(10)Metabolism and Nutrition Research Group, Louvain Drug Research Institute,
+Université catholique de Louvain, 1200, Brussels, Belgium.
+(11)Department of Computer Science and Engineering, University of Minnesota,
+Minneapolis, MN, 55455, USA.
+(12)BioTechnology Institute, University of Minnesota, Saint Paul, MN, 55455, USA.
+(13)Department of Agricultural, Food & Nutritional Science, University of
+Alberta, Edmonton, AB, T6G 2E1, Canada. jenswalter@ucc.ie.
+(14)Department of Biological Sciences, University of Alberta, Edmonton, AB, T6G
+2E1, Canada. jenswalter@ucc.ie.
+(15)School of Microbiology, Department of Medicine, and APC Microbiome Institute,
+University College Cork-National University of Ireland, Cork, T12 YT20, Ireland. 
+jenswalter@ucc.ie.
+
+BACKGROUND: Variability in the health effects of dietary fiber might arise from
+inter-individual differences in the gut microbiota's ability to ferment these
+substrates into beneficial metabolites. Our understanding of what drives this
+individuality is vastly incomplete and will require an ecological perspective as 
+microbiomes function as complex inter-connected communities. Here, we performed a
+parallel two-arm, exploratory randomized controlled trial in 31 adults with
+overweight and class-I obesity to characterize the effects of long-chain, complex
+arabinoxylan (n = 15) at high supplementation doses (female: 25 g/day; male: 35
+g/day) on gut microbiota composition and short-chain fatty acid production as
+compared to microcrystalline cellulose (n = 16, non-fermentable control), and
+integrated the findings using an ecological framework.
+RESULTS: Arabinoxylan resulted in a global shift in fecal bacterial community
+composition, reduced α-diversity, and the promotion of specific taxa, including
+operational taxonomic units related to Bifidobacterium longum, Blautia obeum, and
+Prevotella copri. Arabinoxylan further increased fecal propionate concentrations 
+(p = 0.012, Friedman's test), an effect that showed two distinct groupings of
+temporal responses in participants. The two groups showed differences in
+compositional shifts of the microbiota (p ≤ 0.025, PERMANOVA), and multiple
+linear regression (MLR) analyses revealed that the propionate response was
+predictable through shifts and, to a lesser degree, baseline composition of the
+microbiota. Principal components (PCs) derived from community data were better
+predictors in MLR models as compared to single taxa, indicating that arabinoxylan
+fermentation is the result of multi-species interactions within microbiomes.
+CONCLUSION: This study showed that long-chain arabinoxylan modulates both
+microbiota composition and the output of health-relevant SCFAs, providing
+information for a more targeted application of this fiber. Variation in
+propionate production was linked to both compositional shifts and baseline
+composition, with PCs derived from shifts of the global microbial community
+showing the strongest associations. These findings constitute a proof-of-concept 
+for the merit of an ecological framework that considers features of the wider gut
+microbial community for the prediction of metabolic outcomes of dietary fiber
+fermentation. This provides a basis to personalize the use of dietary fiber in
+nutritional application and to stratify human populations by relevant gut
+microbiota features to account for the inconsistent health effects in human
+intervention studies.
+TRIAL REGISTRATION: Clinicaltrials.gov, NCT02322112 , registered on July 3, 2015.
+Video Abstract.
+
+DOI: 10.1186/s40168-020-00887-w 
+PMCID: PMC7439537
+PMID: 32814582 
+

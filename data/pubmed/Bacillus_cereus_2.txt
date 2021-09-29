@@ -1,0 +1,47 @@
+
+1. Int J Microbiol. 2020 Sep 14;2020:3750948. doi: 10.1155/2020/3750948. eCollection
+2020.
+
+Genotypic Profiling of Bacillus cereus Recovered from Some Retail Foods in Ogun
+State, Nigeria, and Their Phylogenetic Relationship.
+
+Adesetan TO(1)(2), Efuntoye MO(1), Babalola OO(2).
+
+Author information: 
+(1)Department of Microbiology, Olabisi Onabanjo University, PMB 2002, Ago-Iwoye, 
+Ogun State, Nigeria.
+(2)Food Security and Safety Niche, Faculty of Natural and Agricultural Sciences, 
+North-West University, Private Bag X2046, Mmabatho 2735, South Africa.
+
+Identifying Bacillus cereus with conventional methods is neither specific nor
+rapid because of the close relatedness of the B. cereus group, hence the need for
+molecular methods. Genotypic profiling of B. cereus isolates from food was
+obtained by Random Amplified Polymorphic DNA-polymerase chain reaction (RAPD-PCR)
+using OPR13 primer. A dendrogram was drawn with the Numerical Taxonomy System of 
+Statistic (NTSYS) software. Thirty of the isolates were subjected to molecular
+identification by 16S rDNA sequencing. The thirty sequences were deposited in
+GenBank for accession number. Phylogenetic relationship of the 16S rDNA sequence 
+obtained was carried out with the Multiple Alignment using Fast Fourier Transform
+(MAFFT) software version 7.0. The evolutionary tree was drawn using the Molecular
+Evolutionary Genetics Analysis (MEGA 6) software. The dendrogram generated for
+the RAPD profile showed that all the strains are closely related, with a
+similarity coefficient of 70%. The isolates were confirmed with 16S rDNA
+sequencing as B. cereus. The thirty sequences deposited in GenBank were given
+accession numbers: KX574760-KX574769, KX610811-KX610820, MT757957-MT757963, and
+MT772282-MT772284. By comparing the phylogenetic relationship, eleven of the
+strains did not cluster with the reference strains from the GenBank but form
+distinct clades, which means they are likely to be of different ancestors.
+Conventional methods rarely differentiate bacteria of the same species into
+clade, neither can it describe their ancestral lineage. Therefore, it is
+important to employ molecular methods in identifying bacteria to give detailed
+information about them.
+
+Copyright © 2020 Titilayo O. Adesetan et al.
+
+DOI: 10.1155/2020/3750948 
+PMCID: PMC7509558
+PMID: 33005193 
+
+Conflict of interest statement: The authors declare that there are no conflicts
+of interest regarding the publication of this paper.
+

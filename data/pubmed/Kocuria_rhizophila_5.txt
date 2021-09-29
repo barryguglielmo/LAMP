@@ -1,0 +1,47 @@
+
+1. Front Microbiol. 2020 Jan 29;11:40. doi: 10.3389/fmicb.2020.00040. eCollection
+2020.
+
+Genome Analysis of Lactobacillus plantarum Isolated From Some Indian Fermented
+Foods for Bacteriocin Production and Probiotic Marker Genes.
+
+Goel A(1), Halami PM(1), Tamang JP(2).
+
+Author information: 
+(1)Department of Microbiology and Fermentation Technology, CSIR-Central Food
+Technological Research Institute, Mysuru, India.
+(2)DBT-AIST International Centre for Translational and Environmental Research and
+Bioinformatics Centre, Department of Microbiology, School of Life Sciences,
+Sikkim University, Gangtok, India.
+
+In this study, Lactobacillus plantarum strain DHCU70 isolated from dahi, a
+fermented milk product and L. plantarum strain DKP1 isolated from kinema, a
+fermented soybean food of India, respectively were evaluated for their
+bacteriocin production and probiotic properties. Both strains of L. plantarum
+(DHCU70 and DKP1) were found to have potent antimicrobial activity against
+Kocuria rhizophila ATCC 9341. Bacteriocin produced by L. plantarum strains DHCU70
+and DKP1 did not exhibit inhibition of cell wall, DNA and fatty acids
+biosynthesis mechanisms as evaluated by whole cell reporter assays. We
+characterized the bacteriocin encoding genes in L. plantarum strains DHCU70 and
+DKP1 by whole genome sequence which consisted of a single and circular chromosome
+with genome size of 3.38 Mb (GC content of 44.3%) and 3.39 Mb, respectively and a
+GC content of 44.3%. L. plantarum DHCU70 has 3252 number of protein encoding
+genes comprising 89 number of RNA genes (69tRNA, 16rRNA, 4nc RNA) whereas L.
+plantarum DKP1 has total of 3277 number of protein encoding genes with 89 number.
+of RNA genes (69tRNA, 16S rRNA, 4nc RNA). Analysis revealed the presence of 20.5 
+kb long and 23 numbers of plantaricin encoding locus (pln locus) for production
+of antimicrobial compound. BAGEL analysis has shown that the pln locus of both
+the strains of L. plantarum showed maximum sequence similarity with plantaricin
+NC8 of L. plantarum NC8, originally isolated from grass silage. Annotated whole
+genome sequence of both strains DHCU70 and DKP1 was analyzed for the presence of 
+probiotic marker genes. The probiotic properties of these strains of were also
+evaluated in vitro. Due to the presence of genes responsible for antimicrobial
+activity and probiotic properties, both strains of L. plantarum may be considered
+as a suitable probiotic candidate in food industry.
+
+Copyright © 2020 Goel, Halami and Tamang.
+
+DOI: 10.3389/fmicb.2020.00040 
+PMCID: PMC7000354
+PMID: 32063893 
+

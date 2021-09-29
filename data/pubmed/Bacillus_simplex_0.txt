@@ -1,0 +1,49 @@
+
+1. Saudi J Biol Sci. 2020 Oct;27(10):2660-2668. doi: 10.1016/j.sjbs.2020.06.002.
+Epub 2020 Jun 8.
+
+Bacterial isolates harboring antibiotics and heavy-metal resistance genes
+co-existing with mobile genetic elements in natural aquatic water bodies.
+
+Sultan I(1), Ali A(1), Gogry FA(1), Rather IA(2)(3), Sabir JSM(2)(3), Haq QMR(1).
+
+Author information: 
+(1)Department of Biosciences, Jamia Millia Islamia, New Delhi 110025, India.
+(2)Department of Biological Sciences, Faculty of Science, King Abdulaziz
+University (KAU), P.O. Box 80141, Jeddah 21589, Saudi Arabia.
+(3)Center of Excellence in Bionanoscience Research, King Abdulaziz University
+(KAU), P.O. Box 80141, Jeddah 21589, Saudi Arabia.
+
+The rise in antibiotic-resistant bacteria and contamination of water bodies is a 
+serious issue that demands immense attention of scientific acumen. Here, we
+examined the pervasiveness of ESBL producing bacteria in Dal Lake and Wular Lake 
+of Kashmir valley, India. Isolates were screened for antibiotic, heavy metal
+resistant elements, and their coexistence with mobile genetic elements. Out of
+two hundred one isolates screened, thirty-eight were found positive for ESBL
+production. Antibiotic profiling of ESBL positive isolates with 16 different
+drugs representing β-lactam or -non-β-lactam, exhibited multidrug resistance
+phenotype among 55% isolates. Molecular characterization revealed the occurrence 
+of drug resistance determinants blaTEM, AmpC, qnrS, and heavy metal resistance
+genes (MRGs) merB, merP, merT, silE, silP, silS, and arsC. Furthermore, mobile
+genetic elements IntI, SulI, ISecp1, TN3, TN21 were also detected. Conjugation
+assay confirmed the transfer of different ARGs, HMRGs, and mobile elements in
+recipient Escherichia coli J53 AZR strain. Plasmid incompatibility studies showed
+blaTEM to be associated with Inc groups B/O, HI1, HI2, I1, N, FIA, and FIB.
+Co-occurrence of blaTEM, HMRGs, and mobile elements from the aquatic milieu of
+Kashmir, India has not been reported so far. From this study, the detection of
+the blaTEM gene in the bacteria Bacillus simplex and Brevibacterium
+frigoritolerans are found for the first time. Considering all the facts it
+becomes crucial to conduct studies in natural aquatic environments that could
+help depict the epidemiological situations in which the resistance mechanism
+might have clinical relevance.
+
+© 2020 The Author(s).
+
+DOI: 10.1016/j.sjbs.2020.06.002 
+PMCID: PMC7499102
+PMID: 32994725 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

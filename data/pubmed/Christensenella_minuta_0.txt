@@ -1,0 +1,39 @@
+
+1. J Genomics. 2020 Feb 21;8:25-29. doi: 10.7150/jgen.43162. eCollection 2020.
+
+Draft Genome Analysis of Christensenella minuta DSM 22607, exhibiting an unusual 
+expansion of transporter homologs of unknown function.
+
+Coil DA(1), Jospin G(1), Eisen JA(1)(2)(3)(4).
+
+Author information: 
+(1)Genome Center, University of California, Davis, CA, United States.
+(2)Department of Evolution and Ecology, University of California, Davis, CA,
+United States.
+(3)Center for Population Biology, University of California, Davis, California,
+United States.
+(4)Department of Medical Microbiology and Immunology, University of California,
+Davis, CA, United States.
+
+Christensenella minuta was first formally described in 2012 as a member of a
+novel species, genus, and proposed family of Christensenellaceae. C. minuta was
+later shown in one study to be part of the most heritable taxonomic group in the 
+human gut microbiome and to be enriched in people with low body mass index (BMI).
+Mouse work demonstrated that injection of cultured C. minuta into germ-free mice 
+prevented the onset of obesity after a fecal transplant to the mice from high BMI
+individuals. Here we describe the genome sequence of C. minuta DSM 22607.
+Examination and analysis of the annotation revealed an unusually high number of
+genes predicted to be involved in carbohydrate metabolism, many of which were
+multiple homologs of RbsA, RbsB and RbsC, which together make up the Ribose ABC
+Transport System. These genes may be also involved in quorum sensing which could 
+potentially relate to the importance of C. minuta in the gut microbiome.
+
+© The author(s).
+
+DOI: 10.7150/jgen.43162 
+PMCID: PMC7064737
+PMID: 32190126 
+
+Conflict of interest statement: Competing Interests: The authors have declared
+that no competing interest exists.
+

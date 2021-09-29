@@ -1,0 +1,32 @@
+
+1. Methods Mol Biol. 2020;2059:299-313. doi: 10.1007/978-1-4939-9798-5_16.
+
+Construction of a Macrophage-Targeting Bio-nanocapsule-Based Nanocarrier.
+
+Li H(1), Somiya M(1), Tatematsu K(1), Kuroda S(2).
+
+Author information: 
+(1)Department of Biomolecular Science and Reaction, The Institute of Scientific
+and Industrial Research, Osaka University, Ibaraki, Osaka, Japan.
+(2)Department of Biomolecular Science and Reaction, The Institute of Scientific
+and Industrial Research, Osaka University, Ibaraki, Osaka, Japan.
+skuroda@sanken.osaka-u.ac.jp.
+
+The construction protocol of bio-nanocapsule (BNC)-based nanocarriers, named
+GL-BNC and GL-virosome, for targeted drug delivery to macrophages is described
+here. First, genes encoding the Streptococcus sp. protein G-derived C2 domain
+(binds to IgG Fc) and Finegoldia magna protein L-derived B1 domain (binds to Igκ 
+light chain) are prepared by PCR amplification. Subsequently, the genes encoding 
+hepatic cell-specific binding domain of hepatitis B virus envelope L protein are 
+replaced by these PCR products. The expression plasmid for this fused gene
+(encoding GL-fused L protein) can be used to transform Saccharomyces cerevisiae
+AH22R- cells. To obtain GL-BNC, the transformed yeast cells are disrupted with
+glass beads, treated with heat, and then subjected to IgG affinity column
+chromatography followed by size exclusion column chromatography. In addition,
+GL-BNCs can be fused with liposomes to form GL-virosome. The targeted delivery of
+GL-BNC and GL-virosome to macrophages can be confirmed by in vitro phagocytosis
+assays using the murine macrophage cell line RAW264.7.
+
+DOI: 10.1007/978-1-4939-9798-5_16 
+PMID: 31435929 
+

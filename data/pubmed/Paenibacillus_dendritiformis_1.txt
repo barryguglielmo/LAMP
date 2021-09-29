@@ -1,0 +1,47 @@
+
+1. Bioelectrochemistry. 2020 Dec;136:107632. doi: 10.1016/j.bioelechem.2020.107632. 
+Epub 2020 Aug 8.
+
+Electroactivity of the Gram-positive bacterium Paenibacillus dendritiformis
+MA-72.
+
+Hubenova Y(1), Hubenova E(2), Mitov M(3).
+
+Author information: 
+(1)Department of Electrocatalysis and Electrocrystallization, Institute of
+Electrochemistry and Energy Systems "Acad. E. Budevski" - Bulgarian Academy of
+Sciences, Sofia, Bulgaria; Department of Biochemistry and Microbiology, Plovdiv
+University "Paisii Hilendarski", Plovdiv, Bulgaria. Electronic address:
+jolinahubenova@yahoo.com.
+(2)Medical Faculty of the Rhein Friedrich Wilhelm University of Bonn, Bonn,
+Germany.
+(3)Innovative Center for Eco Energy Technologies, South-West University "Neofit
+Rilski", Blagoevgrad, Bulgaria.
+
+Whilst most of the microorganisms recognized as exoelectrogens are Gram-negative 
+bacteria, the electrogenicity of Gram-positive bacteria has not been sufficiently
+explored. In this study, the putative electroactivity of the Gram-positive
+Paenibacillus dendritiformis MA-72 strain, isolated from the anodic biofilm of
+long-term operated Sediment Microbial Fuel Cell (SMFC), has been investigated.
+SEM observations show that under polarization conditions P. dendritiformis forms 
+a dense biofilm on carbon felt electrodes. A current density, reaching 5 mA m-2, 
+has been obtained at a prolonged applied potential of -0.195 V (vs. SHE), which
+represents 35% of the value achieved with the SMFC. The voltammetric studies
+confirm that the observed Faradaic current is associated with the electrochemical
+activity of the bacterial biofilm and not with a soluble redox mediator. The
+results suggest that a direct electron transfer takes place through the
+conductive extracellular polymer matrix via pili/nanowires and multiple
+cytochromes. All these findings demonstrate for the first time that the
+Gram-positive Paenibacillus dendritiformis MA-72 is a new exoelectrogenic
+bacterial strain.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bioelechem.2020.107632 
+PMID: 32795939 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

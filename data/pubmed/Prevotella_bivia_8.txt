@@ -1,0 +1,61 @@
+
+1. PLoS Pathog. 2020 Jun 4;16(6):e1008559. doi: 10.1371/journal.ppat.1008559.
+eCollection 2020 Jun.
+
+Exploring potential of vaginal Lactobacillus isolates from South African women
+for enhancing treatment for bacterial vaginosis.
+
+Happel AU(1), Kullin B(1), Gamieldien H(1), Wentzel N(1), Zauchenberger CZ(1),
+Jaspan HB(1)(2), Dabee S(1)(2), Barnabas SL(1)(3), Jaumdally SZ(1), Dietrich
+J(4)(5), Gray G(4)(5), Bekker LG(1)(6), Froissart R(7), Passmore JS(1)(8)(9).
+
+Author information: 
+(1)Department of Pathology, Institute of Infectious Disease and Molecular
+Medicine (IDM), University of Cape Town, Cape Town, South Africa.
+(2)Seattle Children's Hospital, Seattle, United States of America.
+(3)Family Centre for Research with Ubuntu (FAMCRU), Stellenbosch University,
+Tygerberg, South Africa.
+(4)Perinatal HIV Research Unit (PHRU), Faculty of Health Sciences, University of 
+the Witwatersrand, Johannesburg, South Africa.
+(5)Health Systems Research Unit, South African Medical Research Council, Cape
+Town, South Africa.
+(6)Desmond Tutu HIV Foundation, University of Cape Town, Cape Town, South Africa.
+(7)UMR MIVEGEC CNRS-IRD-UM, University Montpellier, Montpellier, France.
+(8)NRF-DST CAPRISA Centre of Excellence in HIV Prevention, Cape Town, South
+Africa.
+(9)National Health Laboratory Service (NHLS), Cape Town, South Africa.
+
+Antibiotics continue to be the standard-of-care for bacterial vaginosis (BV),
+although recurrence rates are high. Vaginal probiotics may improve durability of 
+BV treatment, although few probiotics for vaginal health contain Lactobacillus
+spp. that commonly colonize the lower female genital tract. Characteristics of
+vaginal Lactobacillus strains from South African women were evaluated for their
+probiotic potential in vitro compared to strains from commercial vaginal
+products, including growth at varying pHs, ability to lower pH, produce
+D-/L-lactate and H2O2, influence growth of BV-associated Gardnerella vaginalis
+and Prevotella bivia, adherence to cervical cells and susceptibility to
+antibiotics. Fifty-seven Lactobacillus strains were purified from cervico-vaginal
+fluid, including L. crispatus, L. jensenii, L. gasseri, L. mucosae, and L.
+vaginalis. L crispatus strains grew better at pHs below 4.5 and lowered pH more
+effectively than other strains. Production of D-/L-lactate and H2O2 varied
+between Lactobacillus species and strains. Lactobacillus strains generally
+inhibited P. bivia more uniformly than G. vaginalis isolates. All vaginal
+Lactobacillus isolates were resistant to metronidazole while susceptibility to
+clindamycin varied. Furthermore, vaginal Lactobacillus strains tended to be
+broadly susceptible to penicillin, amoxicillin, rifampicin and rifabutin.
+Whole-genome-sequencing of five of the best-performing vaginal Lactobacillus
+strains confirmed their likely safety, due to antimicrobial resistance elements
+being largely absent, while putative intact prophages were present in the genomes
+of two of the five strains. Overall, vaginal Lactobacillus strains largely
+performed better in these in vitro assays than probiotic strains currently used
+in probiotics for vaginal health. Including the best-performing vaginal
+Lactobacillus isolates in a region-specific probiotic for vaginal health may
+result in improved BV treatment options.
+
+DOI: 10.1371/journal.ppat.1008559 
+PMCID: PMC7271994
+PMID: 32497109  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

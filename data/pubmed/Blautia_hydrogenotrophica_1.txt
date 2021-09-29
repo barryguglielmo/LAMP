@@ -1,0 +1,42 @@
+
+1. Int J Syst Evol Microbiol. 2020 Mar;70(3):2059-2065. doi: 10.1099/ijsem.0.004015.
+
+Blautia faecicola sp. nov., isolated from faeces from a healthy human.
+
+Kim JS(1), Park JE(1), Lee KC(1), Choi SH(1), Oh BS(1), Yu SY(1), Eom MK(1), Kang
+SW(1), Han KI(1), Suh MK(1), Lee DH(2), Yoon H(2), Kim BY(3), Yang SJ(3), Lee
+JH(1), Lee JS(4)(1), Park SH(1).
+
+Author information: 
+(1)Korean Collection for Type Cultures, Korea Research Institute of Bioscience
+and Biotechnology (KRIBB), 181 Ipsin-gil, Jeongeup-si, Jeollabuk-do 56212,
+Republic of Korea.
+(2)Seoul National University Bundang Hospital, 82 Gumi-ro, 173 Beon-gil,
+Bundang-Gu, Seongnam-si, Gyeonggi-do 13620, Republic of Korea.
+(3)ChunLab, Inc., 2477 Nambusunhwan-ro, Seocho-gu, Seoul 06725, Republic of
+Korea.
+(4)University of Science and Technology (UST), 217 Gajeong-ro, Yuseong-gu,
+Daejeon 34113, Republic of Korea.
+
+An obligately anaerobic, Gram-stain-positive, non-motile and coccoid- or
+oval-shaped bacterium, designated strain KGMB01111T, was isolated from faeces
+from a healthy Korean. Comparative analysis of 16S rRNA gene sequences indicated 
+that KGMB01111T was closely related to Ruminococcus gauveauii CCRI-16110T (93.9
+%) and Blautia stercoris GAM6-1T (93.7 %), followed by Clostridium nexile DSM
+1787T (93.5 %), Blautia producta ATCC 27340T (93.4 %), Blautia hydrogenotrophica 
+DSM 10507T (93.1 %) and Blautia coccoides ATCC 29236T (93.1 %) within the family 
+Lachnospiraceae (Clostridium rRNA cluster XIVa). Phylogenetic analysis based on
+the 16S rRNA gene sequences indicated that KGMB01111T formed a separate branch
+with species in the genus Blautia. The major cellular fatty acids (>10.0 %) were 
+C16 : 0 and C18 : 1 cis 9 dimethyl acetal (DMA), and the major polar lipids were 
+aminophospholipids and lipids. KGMB01111T contained meso-diaminopimelic acid in
+cell-wall peptidoglycan. The predominant end product of fermentation produced by 
+KGMB01111T was acetic acid. Based on the whole-genome sequence, the DNA G+C
+content of the isolate was 44.7 mol%. On the basis of the phenotypic,
+chemotaxonomic and phylogenetic characteristics, KGMB01111T represents a novel
+species within the genus Blautia for which the name Blautia faecicola sp. nov. is
+proposed. The type strain is KGMB01111T (=KCTC 15706T=DSM 107827T).
+
+DOI: 10.1099/ijsem.0.004015 
+PMID: 32100703  [Indexed for MEDLINE]
+

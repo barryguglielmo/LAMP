@@ -1,0 +1,55 @@
+
+1. Clin Exp Vaccine Res. 2020 Jan;9(1):15-25. doi: 10.7774/cevr.2020.9.1.15. Epub
+2020 Jan 31.
+
+Reverse vaccinology approach for the identification and characterization of outer
+membrane proteins of Shigella flexneri as potential cellular- and
+antibody-dependent vaccine candidates.
+
+Leow CY(1), Kazi A(1), Hisyam Ismail CMK(1), Chuah C(2), Lim BH(3), Leow CH(4),
+Banga Singh KK(2).
+
+Author information: 
+(1)Institute for Research in Molecular Medicine, Universiti Sains Malaysia,
+Kubang Kerian, Malaysia.
+(2)School of Medical Sciences, Universiti Sains Malaysia, Kubang Kerian,
+Malaysia.
+(3)School of Health Sciences, Universiti Sains Malaysia, Kubang Kerian, Malaysia.
+(4)Institute for Research in Molecular Medicine, Universiti Sains Malaysia,
+Gelugor, Malaysia.
+
+Purpose: In the developing world, bacillary dysentery is one of the most common
+communicable diarrheal infections. There are approximately 169 million cases of
+shigellosis reported worldwide. The disease is transmitted by a group of
+Gram-negative intracellular enterobacteria known as Shigella flexneri, S. sonnei,
+S. dysenteriae, and S. boydii. Conventional treatment regimens for Shigella have 
+been less effective due to the development of resistant strains against
+antibiotics. Therefore, an effective vaccine for the long term control of
+Shigella transmission is urgently needed.
+Materials and Methods: In this study, a reverse vaccinology approach was employed
+to identify most conserved and immunogenic outer membrane proteins (OMPs) of S.
+flexneri 2a.
+Results: Five OMPs including fepA, ompC, nlpD_1, tolC, and nlpD_2 were identified
+as potential vaccine candidates. Protein-protein interactions analysis using
+STRING software (https://string-db.org/) revealed that five of these OMPs may
+potentially interact with other intracellular proteins which are involved in
+beta-lactam resistance pathway. B- and T-cell epitopes of the selected OMPs were 
+predicted using BCPred as well as Propred I and Propred
+(http://crdd.osdd.net/raghava/propred/), respectively. Each of these OMPs
+contains regions which are capable to induce B- and T-cell immune responses.
+Conclusion: Analysis acquired from this study showed that five selected OMPs have
+great potential for vaccine development against S. flexneri infection. The
+predicted immunogenic epitopes can also be used for development of peptide
+vaccines or multi-epitope vaccines against human shigellosis. Reverse vaccinology
+is a promising strategy for the discovery of potential vaccine candidates which
+can be used for future vaccine development against global persistent infections.
+
+© Korean Vaccine Society.
+
+DOI: 10.7774/cevr.2020.9.1.15 
+PMCID: PMC7024733
+PMID: 32095437 
+
+Conflict of interest statement: No potential conflict of interest relevant to
+this article was reported.
+

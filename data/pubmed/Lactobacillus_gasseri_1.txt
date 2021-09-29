@@ -1,0 +1,39 @@
+
+1. Nucleosides Nucleotides Nucleic Acids. 2020 Sep 20:1-10. doi:
+10.1080/15257770.2020.1815768. [Epub ahead of print]
+
+Lactobacillus gasseri PA-3 directly incorporates purine mononucleotides and
+utilizes them for growth.
+
+Yamada N(1)(2), Saito C(1)(2), Kano H(1)(2), Fukuuchi T(2), Yamaoka N(2), Kaneko 
+K(2), Asami Y(1).
+
+Author information: 
+(1)Food Microbiology Research Laboratories, R&D Division, Meiji Co., Ltd, Tokyo, 
+Japan.
+(2)Laboratory of Biomedical and Analytical Sciences, Faculty of Pharma Sciences, 
+Teikyo University, Tokyo, Japan.
+
+Lactococcus lactis has been reported unable to directly incorporate
+mononucleotides but instead requires their external dephosphorylation by
+nucleotidases to the corresponding nucleosides prior to their incorporation.
+Although Lactobacillus gasseri PA-3 (PA-3), a strain of lactic acid bacteria, has
+been found to incorporate purine mononucleotides such as adenosine
+5'-monophosphate (AMP), it remains unclear whether these bacteria directly
+incorporate these mononucleotides or incorporate them after dephosphorylation to 
+the corresponding nucleosides. This study evaluated whether PA-3 incorporated
+radioactively-labeled mononucleotides in the presence or absence of the
+5'-nucleotidase inhibitor α,β-methylene ADP (APCP). PA-3 took up 14C-AMP in the
+presence of APCP, as well as incorporating 32P-AMP. Furthermore, radioactivity
+was detected in the RNA/DNA of bacterial cells cultured in the presence of
+32P-AMP. Taken together, these findings indicated that PA-3 incorporated purine
+mononucleotides directly rather than after their dephosphorylation to purine
+nucleosides and that PA-3 utilizes these purine mononucleotides in the synthesis 
+of RNA and DNA. Although additional studies are required to identify purine
+mononucleotide transporters in PA-3, this study is the first to show that some
+lactic acid bacteria directly incorporate purine mononucleotides and use them for
+growth.
+
+DOI: 10.1080/15257770.2020.1815768 
+PMID: 32954967 
+

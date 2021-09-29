@@ -1,0 +1,50 @@
+
+1. Sci Rep. 2020 Feb 10;10(1):2217. doi: 10.1038/s41598-020-58863-1.
+
+Wild blueberry proanthocyanidins shape distinct gut microbiota profile and
+influence glucose homeostasis and intestinal phenotypes in high-fat high-sucrose 
+fed mice.
+
+Rodríguez-Daza MC(1)(2), Daoust L(1)(2), Boutkrabt L(1), Pilon G(1)(3), Varin
+T(1), Dudonné S(1), Levy É(1), Marette A(1)(3), Roy D(1)(2), Desjardins Y(4)(5).
+
+Author information: 
+(1)Institute of Nutrition and Functional Foods (INAF), Laval University, Québec, 
+QC, Canada.
+(2)Food Science Department, Faculty of Agriculture and Food, Laval University,
+Québec, QC, Canada.
+(3)Department of Medicine, Faculty of Medicine, Cardiology Axis of the Quebec
+Heart and Lung Institute, Québec, QC, Canada.
+(4)Institute of Nutrition and Functional Foods (INAF), Laval University, Québec, 
+QC, Canada. yves.desjardins@fsaa.ulaval.ca.
+(5)Food Science Department, Faculty of Agriculture and Food, Laval University,
+Québec, QC, Canada. yves.desjardins@fsaa.ulaval.ca.
+
+Blueberries are a rich source of polyphenols, widely studied for the prevention
+or attenuation of metabolic diseases. However, the health contribution and
+mechanisms of action of polyphenols depend on their type and structure. Here, we 
+evaluated the effects of a wild blueberry polyphenolic extract (WBE) (Vaccinium
+angustifolium Aiton) on cardiometabolic parameters, gut microbiota composition
+and gut epithelium histology of high-fat high-sucrose (HFHS) diet-induced obese
+mice and determined which constitutive polyphenolic fractions (BPF) was
+responsible for the observed effects. To do so, the whole extract was separated
+in three fractions, F1) Anthocyanins and phenolic acids, F2) oligomeric
+proanthocyanidins (PACs), phenolic acids and flavonols (PACs degree of
+polymerization DP < 4), and F3) PACs polymers (PACs DP > 4) and supplied at their
+respective concentration in the whole extract. After 8 weeks, WBE reduced OGTT
+AUC by 18.3% compared to the HFHS treated rodents and the F3 fraction 
+contributed the most to this effect. The anthocyanin rich F1 fraction did not
+reproduce this response. WBE and the BPF restored the colonic mucus layer.
+Particularly, the polymeric PACs-rich F3 fraction increased the mucin-secreting
+goblet cells number. WBE caused a significant 2-fold higher proportion of
+Adlercreutzia equolifaciens whereas oligomeric PACs-rich F2 fraction increased by
+2.5-fold the proportion of Akkermansia muciniphila. This study reveals the key
+role of WBE PACs in modulating the gut microbiota and restoring colonic
+epithelial mucus layer, providing a suitable ecological niche for
+mucosa-associated symbiotic bacteria, which may be crucial in triggering health
+effects of blueberry polyphenols.
+
+DOI: 10.1038/s41598-020-58863-1 
+PMCID: PMC7010699
+PMID: 32041991 
+

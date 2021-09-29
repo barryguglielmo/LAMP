@@ -1,0 +1,45 @@
+
+1. J Appl Oral Sci. 2020 Jun 24;28:e20190737. doi: 10.1590/1678-7757-2019-0737.
+eCollection 2020.
+
+Dental adhesive microtensile bond strength following a biofilm-based in vitro
+aging model.
+
+Jain A(1), Armstrong SR(1), Banas JA(2), Qian F(2), Maia RR(1), Teixeira EC(1).
+
+Author information: 
+(1)University of Iowa, Department of Operative Dentistry, Iowa City, IA, USA.
+(2)University of Iowa, Iowa Institute for Oral Health Research, Iowa City, IA,
+USA.
+
+OBJECTIVE: Laboratory tests are routinely used to test bonding properties of
+dental adhesives. Various aging methods that simulate the oral environment are
+used to complement these tests for assessment of adhesive bond durability.
+However, most of these methods challenge hydrolytic and mechanical stability of
+the adhesive- enamel/dentin interface, and not the biostability of dental
+adhesives. To compare resin-dentin microtensile bond strength (μTBS) after a
+15-day Streptococcus mutans (SM) or Streptococcus sobrinus (SS) bacterial
+exposure to the 6-month water storage (WS) ISO 11405 type 3 test.
+METHODOLOGY: A total of 31 molars were flattened and their exposed dentin was
+restored with Optibond-FL adhesive system and Z-100 dental composite. Each
+restored molar was sectioned and trimmed into four dumbbell-shaped specimens, and
+randomly distributed based on the following aging conditions: A) 6 months of WS
+(n=31), B) 5.5 months of WS + 15 days of a SM-biofilm challenge (n=31), C) 15
+days of a SM-biofilm challenge (n=31) and D) 15 days of a SS-biofilm challenge
+(n=31). μTBS were determined and the failure modes were classified using light
+microscopy.
+RESULTS: Statistical analyses showed that each type of aging condition affected
+μTBS (p<0.0001). For Group A (49.7±15.5MPa), the mean μTBS was significantly
+greater than in Groups B (19.3±6.3MPa), C (19.9±5.9MPa) and D (23.6±7.9MPa). For 
+Group D, the mean μTBS was also significantly greater than for Groups B and C,
+but no difference was observed between Groups B and C.
+CONCLUSION: A Streptococcus mutans- or Streptococcus sobrinus-based biofilm
+challenge for 15 days resulted in a significantly lower μTBS than did the ISO
+11405 recommended 6 months of water storage. This type of biofilm-based aging
+model seems to be a practical method for testing biostability of resin-dentin
+bonding.
+
+DOI: 10.1590/1678-7757-2019-0737 
+PMCID: PMC7340208
+PMID: 32609185 
+

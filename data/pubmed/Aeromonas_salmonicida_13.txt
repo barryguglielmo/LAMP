@@ -1,0 +1,58 @@
+
+1. Fish Shellfish Immunol. 2020 Sep;104:557-566. doi: 10.1016/j.fsi.2020.06.005.
+Epub 2020 Jun 24.
+
+Aeromonas salmonicida infection kinetics and protective immune response to
+vaccination in sablefish (Anoplopoma fimbria).
+
+Vasquez I(1), Cao T(1), Hossain A(1), Valderrama K(1), Gnanagobal H(1), Dang
+M(1), Leeuwis RHJ(2), Ness M(3), Campbell B(4), Gendron R(5), Kao K(5), Westcott 
+J(6), Gamperl AK(2), Santander J(7).
+
+Author information: 
+(1)Marine Microbial Pathogenesis and Vaccinology Laboratory, Department of Ocean 
+Sciences, Memorial University of Newfoundland, St. John's, NL, Canada.
+(2)Fish Physiology Laboratory, Department of Ocean Sciences, Memorial University 
+of Newfoundland, St. John's, NL, Canada.
+(3)Pharmaq, Oslo, Norway.
+(4)Golden Eagle Sablefish, Salt Spring Island, BC, Canada.
+(5)Division of Biomedical Sciences, Faculty of Medicine, Memorial University of
+Newfoundland, St. John's, NL, Canada.
+(6)Fisheries and Marine Institute, Memorial University of Newfoundland, St.
+John's, NL, Canada.
+(7)Marine Microbial Pathogenesis and Vaccinology Laboratory, Department of Ocean 
+Sciences, Memorial University of Newfoundland, St. John's, NL, Canada. Electronic
+address: jsantander@mun.ca.
+
+Effective vaccine programs against Aeromonas salmonicida have been identified as 
+a high priority area for the sablefish (Anoplopoma fimbria) aquaculture. In this 
+study, we established an A. salmonicida infection model in sablefish to evaluate 
+the efficacy of commercial vaccines and an autogenous vaccine preparation. Groups
+of 40 fish were intraperitoneally (ip) injected with different doses of A.
+salmonicida J410 isolated from infected sablefish to calculate the median lethal 
+dose (LD50). Samples of blood, head kidney, spleen, brain, and liver were also
+collected at different time points to determine the infection kinetics. The LD50 
+was estimated as ~3 × 105 CFU/dose. To evaluate the immune protection provided by
+an autogenous vaccine and two commercial vaccines in a common garden experimental
+design, 140 fish were PIT-tagged, vaccinated and distributed equally into 4 tanks
+(35 fish for each group, including a control group). Blood samples were taken
+every 2 weeks to evaluate IgM titers. At 10 weeks post-immunization, all groups
+were ip challenged with 100 times the calculated LD50 for A. salmonicida J410. A.
+salmonicida was detected after 5 days post-infection (dpi) in all collected
+tissues. At 30 days post-challenge the relative percentage survival (RPS) with
+respect to the control group was calculated for each vaccine. The RPS for the
+bacterin mix was 65.22%, for Forte Micro 4® vaccine was 56.52% and for Alpha Ject
+Micro 4® was 30.43%, and these RPS values were reflected by A. salmonicida tissue
+colonization levels at 10 days post-challenge. Total IgM titers peaked at 6-8
+weeks post-immunization, where the autogenous vaccine group showed the highest
+IgM titers and these values were consistent with the RPS data. Also, we
+determined that the A. salmonicida A-layer binds to immunoglobulins F(ab)' in a
+non-specific fashion, interfering with immune assays and potentially vaccine
+efficacy. Our results indicate that vaccine design influences sablefish immunity 
+and provide a guide for future sablefish vaccine programs.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fsi.2020.06.005 
+PMID: 32592927 
+

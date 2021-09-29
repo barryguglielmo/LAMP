@@ -1,0 +1,38 @@
+
+1. J Am Chem Soc. 2020 Sep 23;142(38):16265-16275. doi: 10.1021/jacs.0c05546. Epub
+2020 Sep 14.
+
+Discovery and Biosynthesis of Streptosactin, a Sactipeptide with an Alternative
+Topology Encoded by Commensal Bacteria in the Human Microbiome.
+
+Bushin LB(1), Covington BC(1), Rued BE(2), Federle MJ(2), Seyedsayamdost
+MR(1)(3).
+
+Author information: 
+(1)Department of Chemistry, Princeton University, Princeton, New Jersey 08544,
+United States.
+(2)Department of Pharmaceutical Sciences, University of Illinois at Chicago,
+Chicago, Illinois 60607, United States.
+(3)Department of Molecular Biology, Princeton University, Princeton, New Jersey
+08544, United States.
+
+Mammalian microbiomes encode thousands of biosynthetic gene clusters (BGCs) and
+represent a new frontier in natural product research. We recently found an
+abundance of quorum sensing-regulated BGCs in mammalian microbiome streptococci
+that code for ribosomally synthesized and post-translationally modified peptides 
+(RiPPs) and contain one or more radical S-adenosylmethionine (RaS) enzymes, a
+versatile superfamily known to catalyze some of the most unusual reactions in
+biology. In the current work, we target a widespread group of streptococcal RiPP 
+BGCs and elucidate both the reaction carried out by its encoded RaS enzyme and
+identify its peptide natural product, which we name streptosactin. Streptosactin 
+is the first sactipeptide identified from Streptococcus spp.; it contains two
+sequential four amino acid sactionine macrocycles, an unusual topology for this
+compound family. Bioactivity assays reveal potent but narrow-spectrum activity
+against the producing strain and its closest relatives that carry the same BGC,
+suggesting streptosactin may be a long-suspected fratricidal agent of
+Streptococcus thermophilus. Our results highlight mammalian streptococci as a
+rich source of unusual enzymatic chemistries and bioactive natural products.
+
+DOI: 10.1021/jacs.0c05546 
+PMID: 32845143 
+

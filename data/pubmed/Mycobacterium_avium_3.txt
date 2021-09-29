@@ -1,0 +1,51 @@
+
+1. J Clin Tuberc Other Mycobact Dis. 2020 Sep 11;21:100189. doi:
+10.1016/j.jctube.2020.100189. eCollection 2020 Dec.
+
+Serological diagnosis of Mycobacterium avium complex lung diseases by enzyme
+immunoassay of IgA antibodies against MAC-specific glycopeptidolipid core
+antigen.
+
+Tam WO(1), Wong CF(1), Wong SSY(2), Kwan CLY(3).
+
+Author information: 
+(1)Tuberculosis and Chest Unit, Grantham Hospital, 125 Wong Chuk Hang Road, Hong 
+Kong.
+(2)Department of Microbiology, The University of Hong Kong, Queen Mary Hospital, 
+102 Pokfulam Road, Hong Kong.
+(3)Department of Surgery, The University of Hong Kong, 21 Sassoon Road, Pokfulam,
+Hong Kong.
+
+Introduction: There is an increasing trend worldwide in the incidence of
+Mycobacterium avium complex pulmonary diseases (MAC-PD) and the diagnosis is
+sometimes complicated. Recently, an enzyme immunoassay (EIA) kit that detects
+serum IgA antibody against MAC-specific glycopeptidolipid (GPL) core antigen had 
+been developed and found to be useful in discriminating MAC-PD from other lung
+diseases. The antibody was subsequently also found to be elevated in patients
+suffering Mycobacterium abscessus pulmonary diseases (MAB-PD). This study is to
+evaluate this EIA kit in the serological diagnosis of MAC-PD in Hong Kong Chinese
+patients.
+Methods: The study was conducted in Grantham Hospital, Hong Kong between July
+2017 and July 2018. Assay of the IgA antibody level using the EIA kit was done on
+blood samples collected from patients suffering from MAC-PD, MAB-PD, pulmonary
+tuberculosis and other lung diseases.
+Results: There were 100 subjects recruited into the study, among which 11 were
+excluded. By using the cut-off value 0.7 U/mL provided by the manufacturer, the
+sensitivity and specificity for diagnosis were 73.7% and 77.6% for MAC-PD; 50%
+and 77.6% for MAB-PD. By receiver operating characteristic curves analysis, new
+cut-off for MAC-PD and MAB-PD were calculated as 1.771 U/mL and 0.172 U/m,
+respectively. The sensitivity and specificity were 68.4% and 86.2% for MAC-PD,
+whereas 66.7% and 72.4% for MAB-PD.
+Conclusions: Our study showed that the enzyme immunoassay of IgA antibodies
+against MAC-specific glycopeptidolipid core antigen could help to distinguishing 
+MAC and M. abscessus pulmonary diseases from pulmonary tuberculosis and other
+lung diseases among Hong Kong Chinese patients. Further larger scale studies in
+our local population for the usefulness of this antibody test in the diagnosis
+and monitoring of MAC and M. abscessus lung diseases might be warranted.
+
+© 2020 The Authors.
+
+DOI: 10.1016/j.jctube.2020.100189 
+PMCID: PMC7516128
+PMID: 32995571 
+

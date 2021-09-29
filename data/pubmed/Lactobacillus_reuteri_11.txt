@@ -1,0 +1,46 @@
+
+1. PLoS One. 2020 Sep 14;15(9):e0238993. doi: 10.1371/journal.pone.0238993.
+eCollection 2020.
+
+Lactobacillus strains vary in their ability to interact with human endometrial
+stromal cells.
+
+Shiroda M(1), Manning SD(1).
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, Michigan State University, 
+East Lansing, MI, United States of America.
+
+The placental membranes that surround the fetus during pregnancy were suggested
+to contain a low abundance microbiota. Specifically, abundance of Lactobacillus, 
+a probiotic and dominant member of the microbiome of the lower reproductive
+tract, has been shown to correlate with healthy, term pregnancies. We therefore
+sought to assess the interactions between four different Lactobacillus strains
+with immortalized decidualized endometrial cells (dT-HESCs), which were used as a
+model to represent the outermost layer of the placental membranes. Notably, we
+demonstrated that all four Lactobacillus strains could associate with dT-HESCs in
+vitro. L. crispatus was significantly more successful (p < 0.00005), with 10.6%
+of bacteria attaching to the host cells compared to an average of 0.8% for the
+remaining three strains. The four strains also varied in their ability to form
+biofilms. Dependent on media type, L. reuteri 6475 formed the strongest biofilms 
+in vitro. To examine the impact on immune responses, levels of total and
+phosphorylated protein p38, a member of the Mitogen Activated Protein Kinase
+(MAPK) pathway, were examined following Lactobacillus association with dT-HESCs. 
+Total levels of p38 were reduced to an average of 44% that of the cells without
+Lactobacillus (p < 0.05). While a trend towards a reduction in phosphorylated p38
+was observed, this difference was not significant (p > 0.05). In addition,
+association with Lactobacillus did not result in increased host cell death.
+Collectively, these data suggest that varying types of Lactobacillus can attach
+to the outermost cells of the placental membranes and that these interactions do 
+not contribute to inflammatory responses or host cell death. To our knowledge
+this is the first in vitro study to support the ability of Lactobacillus to
+interact with placental cells, which is important when considering its use as a
+potential probiotic within the reproductive tract.
+
+DOI: 10.1371/journal.pone.0238993 
+PMCID: PMC7489503
+PMID: 32925983 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

@@ -1,0 +1,59 @@
+
+1. Anal Chim Acta. 2020 Oct 9;1133:39-47. doi: 10.1016/j.aca.2020.07.077. Epub 2020 
+Aug 12.
+
+Engineered glyphosate oxidase coupled to spore-based chemiluminescence system for
+glyphosate detection.
+
+Qin Y(1), Wu G(2), Guo Y(3), Ke D(4), Yin J(1), Wang D(3), Fan X(1), Liu Z(3),
+Ruan L(5), Hu Y(6).
+
+Author information: 
+(1)State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural
+University, Wuhan, 430070, China; College of Life Science and Technology,
+Huazhong Agricultural University, Wuhan, 430070, China.
+(2)State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural
+University, Wuhan, 430070, China; College of Plant Science and Technology,
+Huazhong Agricultural University, Wuhan, 430070, China.
+(3)College of Life Science and Technology, Huazhong Agricultural University,
+Wuhan, 430070, China.
+(4)College of Plant Science and Technology, Huazhong Agricultural University,
+Wuhan, 430070, China.
+(5)State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural
+University, Wuhan, 430070, China; College of Life Science and Technology,
+Huazhong Agricultural University, Wuhan, 430070, China. Electronic address:
+ruanlifang@mail.hzau.edu.cn.
+(6)State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural
+University, Wuhan, 430070, China; College of Life Science and Technology,
+Huazhong Agricultural University, Wuhan, 430070, China. Electronic address:
+yongganghu@mail.hzau.edu.cn.
+
+The extensive and intensive utilization of glyphosate (Glyp) caused public
+concerns on the potential risk of environment and health resulted from the
+chemical residues. Therefore, the development of a high-selective, low-cost and
+easy-operation Glyp detection methods is highly desired. Screening highly
+selective enzymes by directed evolution is important in practical applications.
+Herein, a glyphosate oxidase (GlypO) preferring substrate Glyp to produce H2O2
+was obtained via directed evolution from glycine oxidase obtained from Bacillus
+cereus (BceGO). The catalytic efficiency, specificity constant, and affinity
+enhancement factor of GlypO toward Glyp were increased by 2.85 × 103-fold;
+2.25 × 105-fold; and 9.64 × 104-fold, respectively, compared with those of BceGO.
+The catalytic efficiency toward glycine decreased by 78.60-fold. The spores of
+Bacillus subtilis (B. subtilis) effectively catalyzed luminol-H2O2 reaction to
+create excellent chemiluminescence (CL) signal because CotA-laccase exists on
+their surface. Based on these findings, a new CL biosensor via coupling to
+biological reaction system was presented for Glyp detection. The CL biosensor
+exhibited several advantages, such as eco-friendliness, low cost, high
+selectivity and sensitivity, and good practical application prospects for
+environmental pollution control.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.aca.2020.07.077 
+PMID: 32993872 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

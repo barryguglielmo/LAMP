@@ -1,0 +1,70 @@
+
+1. Int J Antimicrob Agents. 2020 Sep;56(3):106108. doi:
+10.1016/j.ijantimicag.2020.106108. Epub 2020 Jul 25.
+
+Identification of mobile colistin resistance genes (mcr-1.1, mcr-5 and mcr-8.1)
+in Enterobacteriaceae and Alcaligenes faecalis of human and animal origin,
+Nigeria.
+
+Ngbede EO(1), Poudel A(2), Kalalah A(2), Yang Y(3), Adekanmbi F(2), Adikwu AA(4),
+Adamu AM(5), Mamfe LM(1), Daniel ST(6), Useh NM(7), Kwaga JKP(8), Adah MI(9),
+Kelly P(10), Butaye P(11), Wang C(12).
+
+Author information: 
+(1)Department of Veterinary Microbiology, College of Veterinary Medicine, Federal
+University of Agriculture Makurdi, Benue State, Nigeria.
+(2)Department of Pathobiology, Auburn University College of Veterinary Medicine, 
+Auburn, AL 36832, USA.
+(3)Yangzhou University College of Veterinary Medicine, Yangzhou 225009, Jiangsu
+Province, China.
+(4)Department of Veterinary Public Health and Preventive Medicine, College of
+Veterinary Medicine, Federal University of Agriculture Makurdi, Benue State,
+Nigeria.
+(5)Department of Veterinary Public Health and Preventive Medicine, Faculty of
+Veterinary Medicine, University of Abuja, Nigeria.
+(6)Department of Microbiology, College of Sciences, Federal University of
+Agriculture Makurdi, Benue State, Nigeria.
+(7)Department of Veterinary Pathology, College of Veterinary Medicine, Federal
+University of Agriculture Makurdi, Benue State, Nigeria.
+(8)Department of Veterinary Public Health and Preventive Medicine, Faculty of
+Veterinary Medicine, Ahmadu Bello University Zaria, Kaduna State, Nigeria.
+(9)Department of Veterinary Medicine, College of Veterinary Medicine, Federal
+University of Agriculture Makurdi, Benue State, Nigeria.
+(10)Department of Biomedical Sciences, Ross University School of Veterinary
+Medicine, Basseterre, Saint Kitts and Nevis.
+(11)Department of Biomedical Sciences, Ross University School of Veterinary
+Medicine, Basseterre, Saint Kitts and Nevis; Department of Pathology,
+Bacteriology and Poultry Diseases, Faculty of Veterinary Medicine, Ghent
+University, Merelbeke, Belgium.
+(12)Department of Pathobiology, Auburn University College of Veterinary Medicine,
+Auburn, AL 36832, USA. Electronic address: wangche@auburn.edu.
+
+Colistin is a last-resort drug used to treat infections caused by
+multidrug-resistant Gram-negative bacteria that have developed carbapenem
+resistance. Emergence and rapid dissemination of the nine plasmid-mediated mobile
+colistin resistance genes (mcr-1 to mcr-9) has led to fear of pandrug-resistant
+infections worldwide. To date, there is only limited information on colistin
+resistance in African countries where the drug is widely used in agriculture. In 
+this Nigerian study, 583 non-duplicate bacterial strains were isolated from 1119 
+samples from humans, camels, cattle, dogs, pigs and poultry using
+colistin-supplemented MacConkey agar, among which 17.0% (99/583) were
+colistin-resistant. PCR (mcr-1 to mcr-9) and whole-genome sequencing (WGS)
+identified mcr in 21.2% (21/99) of colistin-resistant isolates: mcr-1.1 (n = 13),
+mcr-8.1 (n = 5), mcr-1.1 and mcr-8.1 (n = 2), and mcr-1.1 and mcr-5 (n = 1). Of
+the 21 mcr-positive strains, 9 were isolated from human samples, with 8 being
+Klebsiella pneumoniae, and 6 of these human K. pneumoniae had a high colistin MIC
+(>64 μg/mL). In contrast, 9 of the 12 mcr-positive animal isolates were
+Escherichia coli, of which only 2 had a colistin MIC of >64 μg/mL. This study is 
+the first to report mcr-1 in Alcaligenes faecalis and the emergence of mcr-5 and 
+mcr-8 in Nigeria. WGS determined that mcr-1 was localised on an IncX4 plasmid and
+that 95.2% of mcr-1 harbouring isolates (20/21) transferred colistin resistance
+successfully by conjugation. These findings highlight the global spread of
+colistin resistance and emphasise the urgent need for co-ordinated global action 
+to combat resistant bacteria.
+
+Copyright © 2020 Elsevier B.V. and International Society of Chemotherapy. All
+rights reserved.
+
+DOI: 10.1016/j.ijantimicag.2020.106108 
+PMID: 32721596 
+

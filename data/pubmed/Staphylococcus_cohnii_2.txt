@@ -1,0 +1,45 @@
+
+1. Int Microbiol. 2020 Aug;23(3):367-380. doi: 10.1007/s10123-019-00109-w. Epub 2019
+Dec 11.
+
+Integrated selection and identification of bacteria from polluted sites for
+biodegradation of lipids.
+
+Teixeira PD(1)(2), Silva VS(3), Tenreiro R(4).
+
+Author information: 
+(1)Faculdade de Ciências, Biosystems & Integrative Sciences Institute (BioISI),
+Campus da FCUL, Universidade de Lisboa, Campo Grande, 1749-016, Lisbon, Portugal.
+pteixeira@biotask.pt.
+(2)BioTask, Biotecnologia Lda, Av. Jorge MV Pereira, Bloco 4D, Paúl, 2560-232,
+Torres Vedras, Portugal. pteixeira@biotask.pt.
+(3)BioTask, Biotecnologia Lda, Av. Jorge MV Pereira, Bloco 4D, Paúl, 2560-232,
+Torres Vedras, Portugal.
+(4)Faculdade de Ciências, Biosystems & Integrative Sciences Institute (BioISI),
+Campus da FCUL, Universidade de Lisboa, Campo Grande, 1749-016, Lisbon, Portugal.
+
+Wastewater treatment plants face major social concern towards removal of
+problematic pollutants such as fat oils and grease (FOG). In this context, the
+main objective of the present work was to select natural bacterial isolates from 
+different polluted sites and evaluate them comparatively to isolates from
+commercial products, for improved bioremediation strategies and bioaugmentation. 
+In total, 196 isolates were analysed for genomic diversity by two
+PCR-fingerprinting methods and screened for biodegradation potential with
+pollutants as sole carbon source. The net area under curve (NAUC) was used for
+preliminary evaluation of growth ability in M9 medium supplemented with oleic
+acid and triolein. A principal component analysis of all NAUC data showed that
+natural isolates presented higher overall biodegradation ability and enabled the 
+selection of 11 natural isolates for lipid degradation assays. Selected isolates 
+were identified by 16S rRNA gene sequencing as members of genera with previously 
+described degradative strains, namely, Acinetobacter (1), Aeromonas (2), Bacillus
+(1), Pseudomonas (1) and Staphylococcus (6). Best biodegradation results in
+7-days assay of FOG content removal were 37.9% for oleic acid and 19.1% for
+triolein by an Aeromonas sp. isolate and a Staphylococcus cohnii isolate,
+respectively. A respirometry approach confirmed their higher oxygen uptake rates,
+although longer adaptation phases where required by the Aeromonas sp. isolate.
+Consequently, these isolates showed great potential for future bioaugmentation
+products, to promote FOG degradation, for both in situ and ex situ approaches.
+
+DOI: 10.1007/s10123-019-00109-w 
+PMID: 31828447 
+

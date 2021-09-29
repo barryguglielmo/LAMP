@@ -1,0 +1,52 @@
+
+1. PLoS One. 2020 Mar 24;15(3):e0230667. doi: 10.1371/journal.pone.0230667.
+eCollection 2020.
+
+Dysbiotic oral microbiota and infected salivary glands in Sjögren's syndrome.
+
+Alam J(1), Lee A(1), Lee J(1), Kwon DI(1), Park HK(2), Park JH(3), Jeon S(1),
+Baek K(1), Lee J(4), Park SH(4), Choi Y(1).
+
+Author information: 
+(1)Departments of Immunology and Molecular Microbiology, Seoul National
+University School of Dentistry, Seoul, Korea.
+(2)Departments of Oral Medicine and Oral Diagnosis, School of Dentistry and
+Dental Research Institute, Seoul National University, Seoul, Korea.
+(3)Experimental Immunology Branch, National Cancer Institute, NIH, Bethesda,
+Maryland, United States of America.
+(4)Division of Rheumatology, Internal medicine, Seoul St. Mary's Hospital, The
+Catholic University of Korea, Seoul, Korea.
+
+Key events in the pathogenesis of Sjӧgren syndrome (SS) include the change of
+salivary gland epithelial cells into antigen-presenting cell-like phenotypes and 
+focal lymphocytic sialadenitis (FLS). However, what triggers these features in SS
+is unknown. Dysbiosis of the gut and oral microbiomes is a potential
+environmental factor in SS, but its connection to the etiopathogenesis of SS
+remains unclear. This study aimed to characterize the oral microbiota in SS and
+to investigate its potential role in the pathogenesis of SS. Oral bacterial
+communities were collected by whole mouthwash from control subjects (14 without
+oral dryness and 11 with dryness) and primary SS patients (8 without oral dryness
+and 17 with dryness) and were analyzed by pyrosequencing. The SS oral microbiota 
+was characterized by an increased bacterial load and Shannon diversity. Through
+comparisons of control and SS in combined samples and then separately in non-dry 
+and dry conditions, SS-associated taxa independent of dryness were identified.
+Three SS-associated species and 2 control species were selected and used to
+challenge human submandibular gland tumor (HSG) cells. Among the selected
+SS-associated bacterial species, Prevotella melaninogenica uniquely upregulated
+the expression of MHC molecules, CD80, and IFNλ in HSG cells. Concomitantly, P.
+melaninogenica efficiently invaded HSG cells. Sections of labial salivary gland
+(LSG) biopsies from 8 non-SS subjects and 15 SS patients were subjected to in
+situ hybridization using universal and P. melaninogenica-specific probes. Ductal 
+cells and the areas of infiltration were heavily infected with bacteria in the
+LSGs with FLS. Collectively, dysbiotic oral microbiota may initiate the
+deregulation of SGECs and the IFN signature through bacterial invasion into
+ductal cells. These findings may provide new insights into the etiopathogenesis
+of SS.
+
+DOI: 10.1371/journal.pone.0230667 
+PMCID: PMC7092996
+PMID: 32208441  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

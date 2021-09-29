@@ -1,0 +1,55 @@
+
+1. Microb Pathog. 2020 Sep 30:104555. doi: 10.1016/j.micpath.2020.104555. [Epub
+ahead of print]
+
+Inhibition of quorum sensing-controlled virulence factors with natural substances
+and novel protease, obtained from Halobacillus karajensis.
+
+Ghoreishi FS(1), Roghanian R(2), Emtiazi G(1).
+
+Author information: 
+(1)Department of Cell and Molecular Biology & Microbiology, Faculty of Biological
+Science and Technology, University of Isfahan, Isfahan, Iran.
+(2)Department of Cell and Molecular Biology & Microbiology, Faculty of Biological
+Science and Technology, University of Isfahan, Isfahan, Iran. Electronic address:
+rasoul_roghanian@yahoo.co.uk.
+
+INTRODUCTION: In recent years, a challenge in clinical treatment has developed
+due to bacterial resistance to antibiotics. One of the new mechanisms against
+infections is virulence factor inhibition. Many virulence factors are controlled 
+by quorum sensing pathways such as biofilm formation and pyocyanin production.
+The goal of the present study was to investigate the effect of an obligate
+halophilic bacterial strain on Pseudomonas aeruginosa and Staphylococcus aureus, 
+due to its halo-tolerant substances and enzymes.
+METHODS: The effect of Halobacillus karajensis on bacterial growth and production
+of virulence factors was studied in this work. The obligate halophile cells and
+supernatant fractions were extracted by the methanol/chloroform method and
+characterized by Fourier Transform Infrared (FTIR) spectroscopy, X-ray
+diffraction (XRD), Gas Chromatography-Mass Spectrometry (GC-MS), and zymography. 
+The effects of these fractions were studied on biofilm formation in P. aeruginosa
+and S. aureus as well as on pyocyanin production in P. aeruginosa. The effective 
+protein in the fraction was analyzed by the SDS-PAGE method, and all protein
+fragments were studied for pyocyanin inhibition.
+RESULTS: The crude supernatant extract, MMS fraction, from H. karajensis was
+effective for the biofilm reduction in S. aureus (74%) and P. aeruginosa (27%).
+Two proteases in this fraction, which were recognized by zymography on skim milk,
+were the probable causes for extracellular polymeric substances (EPS) hydrolysis 
+in the biofilm matrix. Also, halide crystals and branched fatty acids,
+12methyl-tetradecanoic acid, in the other fractions decreased the biofilm by 18% 
+in S. aureus. The results showed that a new 25 kD protein, which was obtained
+from MMS fraction, inhibited pyocyanin production by 60% in P. aeruginosa. The
+zymogram and bioinformatics studies showed that this protein was a serine
+alkaline metalloprotease and had an interaction with AHL molecules.
+CONCLUSION: The inhibitory effects of the non-toxic natural substances and
+proteases on biofilm formation and pyocyanin production, specifically the 25 kD
+protease, are novel in this study and make them a good candidate for infected
+wound healing and inhibiting the virulence factors.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.micpath.2020.104555 
+PMID: 33010361 
+
+Conflict of interest statement: Declaration of competing interest There are no
+conflicts of interest in this work.
+

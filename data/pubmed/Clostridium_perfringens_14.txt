@@ -1,0 +1,53 @@
+
+1. mBio. 2020 Sep 15;11(5). pii: e02219-20. doi: 10.1128/mBio.02219-20.
+
+Evidence That VirS Is a Receptor for the Signaling Peptide of the Clostridium
+perfringens Agr-like Quorum Sensing System.
+
+Li J(1), McClane BA(2).
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, University of Pittsburgh
+School of Medicine, Pittsburgh, Pennsylvania, USA.
+(2)Department of Microbiology and Molecular Genetics, University of Pittsburgh
+School of Medicine, Pittsburgh, Pennsylvania, USA bamcc@pitt.edu.
+
+Since both the Agr (accessory gene regulator)-like quorum sensing (QS) system and
+VirS/VirR (VirS/R) two-component regulatory system of Clostridium perfringens
+positively regulate production of several toxins, including C. perfringens beta
+toxin (CPB), it has been hypothesized the VirS membrane sensor protein is an
+Agr-like QS signaling peptide (SP) receptor. To begin evaluating whether VirS is 
+an SP receptor, this study sequenced the virS gene in C. perfringens strains
+CN3685 and CN1795 because it was reported that agrB mutants of both strains
+increase CPB production in response to the pentapeptide 5R, likely the natural
+SP, but only the CN3685 agrB mutant responds to 8R, which is 5R plus a
+3-amino-acid tail. This sequencing identified differences between the predicted
+VirS extracellular loop 2 (ECL2) of CN3685 versus that of CN1795. To explore if
+those ECL2 differences explain strain-related variations in SP sensitivity and
+support VirS as an SP receptor, virS agrB double-null mutants of each strain were
+complemented to swap which VirS protein they produce. CPB Western blotting showed
+that this complementation changed the natural responsiveness of each strain to
+8R. A pulldown experiment using biotin-5R demonstrated that VirS can bind SP. To 
+further support VirS:SP binding and to identify a VirS binding site for SP, a
+14-mer peptide corresponding to VirS ECL2 was synthesized. This ECL2 peptide
+inhibited 5R signaling to agrB mutant and wild-type strains. This inhibition was 
+specific, since a single N to D substitution in the ECL2 peptide abrogated these 
+effects. Collectively, these results support VirS as an important SP receptor and
+may assist development of therapeutics.IMPORTANCE C. perfringens beta toxin (CPB)
+is essential for the virulence of type C strains, a common cause of fatal
+necrotizing enteritis and enterotoxemia in humans and domestic animals.
+Production of CPB, as well as several other C. perfringens toxins, is positively 
+regulated by both the Agr-like QS system and the VirS/R two-component regulatory 
+system. This study presents evidence that the VirS membrane sensor protein is a
+receptor for the AgrD-derived SP and that the second extracellular loop of VirS
+is important for SP binding. Understanding interactions between SP and VirS
+improves knowledge of C. perfringens pathogenicity and may provide insights for
+designing novel strategies to reduce C. perfringens toxin production during
+infections.
+
+Copyright © 2020 Li and McClane.
+
+DOI: 10.1128/mBio.02219-20 
+PMCID: PMC7492741
+PMID: 32934089 
+

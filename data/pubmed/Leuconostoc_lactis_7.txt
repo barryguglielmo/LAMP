@@ -1,0 +1,42 @@
+
+1. Curr Microbiol. 2020 Mar;77(3):434-442. doi: 10.1007/s00284-019-01848-9. Epub
+2020 Jan 1.
+
+Evaluation of the Bacterial Diversity of Inner Mongolian Acidic Gruel Using
+Illumina MiSeq and PCR-DGGE.
+
+Wang Y(1), She M(1), Liu K(1), Zhang Z(2), Shuang Q(3).
+
+Author information: 
+(1)College of Food Science and Technology, Inner Mongolia Agricultural
+University, Hohhot, 010018, Inner Mongolia, China.
+(2)Northwest Hubei Research Institute of Traditional Fermented Food, College of
+Food Science and Technology, Hubei University of Arts and Science, Xiangyang,
+441053, Hubei, China.
+(3)College of Food Science and Technology, Inner Mongolia Agricultural
+University, Hohhot, 010018, Inner Mongolia, China. shuangquan@imau.edu.cn.
+
+As a traditional fermented cereal, Inner Mongolian acidic gruel has a unique
+flavor and rich nutrition, but the microbial diversity of acidic gruel and the
+microbial differences among the products in different regions have not been
+reported. The bacterial diversity and the lactic acid bacteria species of 27
+types of traditional handmade acidic gruel were evaluated using a combination of 
+MiSeq high-throughput sequencing and PCR-DGGE. All 358,205 high-quality 16S rRNA 
+reads were divided into 25,171 OTUs under the similarity of 97%. Firmicutes,
+Proteobacteria, and Bacteroidetes were the dominant bacterial phyla, and the core
+dominant genera were Lactobacillus and Acetobacter with average relative
+abundances of 64.06% and 24.13%, respectively. The primary genera that caused the
+differences in the bacterial community structure between the Bayan Nur and Ordos 
+acidic gruel samples were Pseudomonas, Leuconostoc, and Acinetobacter as revealed
+by redundancy analysis (RDA). PCR-DGGE analyses revealed that the lactic acid
+bacteria in both the Bayan Nur and Ordos samples of acidic gruel were
+Lactobacillus (L.) amylolyticus, L. alimentarius, L. fermentum, L. hamsteri, L.
+helveticus, L. panis, L. plantarum, L. pontis, and Leuconostoc lactis. In
+addition, L. hamsteri was the core strain detected among all the samples. The
+results deepened the understanding of the microbial community composition and the
+diversity of acidic gruel to provide a theoretical basis for the preservation and
+protection of microbial resources in acidic gruel in the Inner Mongolia area.
+
+DOI: 10.1007/s00284-019-01848-9 
+PMID: 31894373 
+

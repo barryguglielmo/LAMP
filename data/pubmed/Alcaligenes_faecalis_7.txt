@@ -1,0 +1,45 @@
+
+1. Int Microbiol. 2020 Jul 23. doi: 10.1007/s10123-020-00137-x. [Epub ahead of
+print]
+
+Penicillin G acylase production by Mucor griseocyanus and the partial genetic
+analysis of its pga gene.
+
+Cano-Cabrera JC(1), Palomo-Ligas L(2), Flores-Gallegos AC(2), Martínez-Hernández 
+JL(1), Rodríguez-Herrera R(3).
+
+Author information: 
+(1)Biotechnology Department, School of Chemistry, Universidad Autónoma de
+Coahuila, Blvd. V. Carranza e Ing. José Cárdenas V. s/n. Col. República Ote, C.P.
+25280, Saltillo, Coahuila, Mexico.
+(2)Food Research Department, School of Chemistry, Universidad Autónoma de
+Coahuila, Blvd. V. Carranza e Ing. José Cárdenas V. s/n. Col. República Ote, C.P.
+25280, Saltillo, Coahuila, Mexico.
+(3)Food Research Department, School of Chemistry, Universidad Autónoma de
+Coahuila, Blvd. V. Carranza e Ing. José Cárdenas V. s/n. Col. República Ote, C.P.
+25280, Saltillo, Coahuila, Mexico. raul.rodriguez@uadec.edu.mx.
+
+Penicillin acylases (penicillin amidohydrolase, EC 3.5.1.11) are a group of
+enzymes with many applications within the pharmaceutical industry, and one of
+them is the production of semi-synthetic beta-lactam antibiotics. This enzyme is 
+mainly produced by bacteria but also by some fungi. In the present study, the
+filamentous fungus Mucor griseocyanus was used to produce penicillin acylase
+enzyme (PGA). Its ability to express PGA enzyme in submerged fermentation process
+was assessed, finding that this fungal strain produces the biocatalyst of
+interest in an extracellular way at a level of 570 IU/L at 72 h of fermentation; 
+in this case, a saline media using lactose as carbon source and penicillin G as
+inducer was employed. In addition, a DNA fragment (859 bp) of the pga from a pure
+Mucor griseocyanus strain was amplified, sequenced, and analyzed in silico. The
+partial sequence of pga identified in the fungi showed high identity percentage
+with penicillin G acylase sequences deposited in NCBI through BLAST, especially
+with the β subunit of PGA from the Alcaligenes faecalis bacterium¸ which is a
+region involved in the catalytic function of this protein. Besides, the
+identification of domains in the penicillin G acylase sequence of Mucor
+griseocyanus showed three conserved regions of this protein. The bioinformatic
+results support the identity of the gen as penicillin G acylase. This is the
+first report that involves sequencing and in silico analysis of Mucor
+griseocyanus strain gene encoding PGA.
+
+DOI: 10.1007/s10123-020-00137-x 
+PMID: 32705496 
+

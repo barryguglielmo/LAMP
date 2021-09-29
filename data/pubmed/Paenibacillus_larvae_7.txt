@@ -1,0 +1,32 @@
+
+1. Open Vet J. 2020 Apr;10(1):53-58. doi: 10.4314/ovj.v10i1.9. Epub 2020 Mar 13.
+
+Rapid identification and genotyping of the honeybee pathogen Paenibacillus larvae
+by combining culturing and multiplex quantitative PCR.
+
+Beims H(1)(2), Janke M(1), von der Ohe W(1), Steinert M(2).
+
+Author information: 
+(1)Lower Saxony State Office for Consumer Protection and Food Safety, Institute
+of Apiculture, Celle 29221, Germany.
+(2)Institut für Mikrobiologie, Technische Universität Braunschweig, Braunschweig 
+38106, Germany.
+
+Background: American Foulbrood (AFB) is a devastating disease of honey bee (Apis 
+mellifera) larvae caused by the spore-forming, Gram-positive bacterium
+Paenibacillus larvae. In most countries, the law requires mandatory reporting of 
+AFB to the veterinary authority.
+Aim and Methods: To speed up detection and genotyping of P. larvae spores, we
+compared different culturing protocols on Columbia sheep blood agar and developed
+a new multiplex quantitative polymerase chain reaction to distinguish between the
+two relevant P. larvae genotypes enterobacterial repetitive intergenic consensus 
+(ERIC) I and ERIC II.
+Results and Conclusion: As confirmed by P. larvae reference strains and field
+isolates, the new identification and genotyping protocol halves the time of
+current workflows, lessens labor-intension, allows a higher throughput of samples
+for monitoring, and permits a faster intervention to prevent the spread of AFB.
+
+DOI: 10.4314/ovj.v10i1.9 
+PMCID: PMC7193882
+PMID: 32426257 
+

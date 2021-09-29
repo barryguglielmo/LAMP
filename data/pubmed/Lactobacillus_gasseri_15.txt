@@ -1,0 +1,47 @@
+
+1. World J Microbiol Biotechnol. 2020 Jul 13;36(8):111. doi:
+10.1007/s11274-020-02887-2.
+
+Metabolically engineered Lactobacillus gasseri JCM 1131 as a novel producer of
+optically pure L- and D-lactate.
+
+Žunar B(1), Trontel A(2), Svetec Miklenić M(1), Prah JL(2), Štafa A(1), Marđetko 
+N(2), Novak M(2), Šantek B(2), Svetec IK(3).
+
+Author information: 
+(1)Laboratory for Biology and Microbial Genetics, Department of Biochemical
+Engineering, Faculty of Food Technology and Biotechnology, University of Zagreb, 
+Pierottijeva 6, 10000, Zagreb, Croatia.
+(2)Laboratory for Biochemical Engineering, Industrial Microbiology and Malting
+and Brewing Technology, Department of Biochemical Engineering, Faculty of Food
+Technology and Biotechnology, University of Zagreb, Pierottijeva 6, 10000,
+Zagreb, Croatia.
+(3)Laboratory for Biology and Microbial Genetics, Department of Biochemical
+Engineering, Faculty of Food Technology and Biotechnology, University of Zagreb, 
+Pierottijeva 6, 10000, Zagreb, Croatia. iksvetec@pbf.hr.
+
+High-quality environmentally-friendly bioplastics can be produced by mixing
+poly-L-lactate with poly-D-lactate. On an industrial scale, this process
+simultaneously consumes large amounts of both optically pure lactate
+stereoisomers. However, because optimal growth conditions of L-lactate producers 
+often differ from those of D-lactate producers, each stereoisomer is produced in 
+a specialised facility, which raises cost and lowers sustainability. To address
+this challenge, we metabolically engineered Lactobacillus gasseri JCM 1131T, a
+bioprocess-friendly and genetically malleable strain of homofermentative lactic
+acid bacterium, to efficiently produce either pure L- or pure D-lactate under the
+same bioprocess conditions. Transformation of L. gasseri with plasmids carrying
+additional genes for L- or D-lactate dehydrogenases failed to affect the ratio of
+produced stereoisomers, but inactivation of the endogenous genes created strains 
+which yielded 0.96 g of either L- or D-lactate per gram of glucose. In this
+study, the plasmid pHBintE, routinely used for gene disruption in Bacillus
+megaterium, was used for the first time to inactivate genes in lactobacilli.
+Strains with inactivated genes for endogenous lactate dehydrogenases efficiently 
+fermented sugars released by enzymatic hydrolysis of alkali pre-treated wheat
+straw, an abundant lignocellulose-containing raw material, producing 0.37-0.42 g 
+of lactate per gram of solid part of alkali-treated wheat straw. Thus, the
+constructed strains are primed to serve as producers of both optically pure
+L-lactate and D-lactate in the next-generation biorefineries.
+
+DOI: 10.1007/s11274-020-02887-2 
+PMID: 32656603 
+

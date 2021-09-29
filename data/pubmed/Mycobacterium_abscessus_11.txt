@@ -1,0 +1,71 @@
+
+1. J Clin Microbiol. 2020 Sep 16. pii: JCM.01813-20. doi: 10.1128/JCM.01813-20.
+[Epub ahead of print]
+
+Antimicrobial susceptibility and phylogenetic relations in a German cohort
+infected with Mycobacterium abscessus.
+
+Wetzstein N(1)(2), Kohl TA(3)(4)(5), Schultze TG(2)(6)(7), Andres S(5),
+Bellinghausen C(8), Hügel C(8), Kempf VAJ(2)(6)(7), Lehn A(9), Hogardt
+M(2)(6)(7)(10), Serve H(11), Vehreschild MJGT(12)(2), Wolf T(12)(2), Niemann
+S(3)(4)(5), Maurer FP(5)(13), Wichelhaus TA(14)(6)(7).
+
+Author information: 
+(1)Department of Internal Medicine, Infectious Diseases, University Hospital
+Frankfurt, Goethe University, Frankfurt am Main, Germany. nils.wetzstein@kgu.de.
+(2)University Center of Infectious Diseases, UCI, University Hospital Frankfurt, 
+Goethe University, Germany.
+(3)German Center for Infection Research, Research Center Borstel, Borstel,
+Germany.
+(4)Molecular and Experimental Mycobacteriology, Research Center Borstel, Borstel,
+Germany.
+(5)National and WHO Supranational Reference Center for Mycobacteria, Research
+Center Borstel, Borstel, Germany.
+(6)Institute of Medical Microbiology and Infection Control, University Hospital
+Frankfurt, Goethe University, Frankfurt am Main, Germany.
+(7)University Center of Competence of Infection Control of the State of Hesse,
+Frankfurt am Main, Germany.
+(8)Department of Respiratory Medicine and Allergology, University Hospital
+Frankfurt, Goethe University, Frankfurt am Main, Germany.
+(9)Institute of Biostatistics and Mathematical Modeling, Goethe University,
+Frankfurt am Main, Germany.
+(10)National Consiliary Laboratory on Cystic Fibrosis Bacteriology, Germany.
+(11)Department of Internal Medicine, Hematology and Oncology, University Hospital
+Frankfurt, Goethe University, Frankfurt am Main, Germany.
+(12)Department of Internal Medicine, Infectious Diseases, University Hospital
+Frankfurt, Goethe University, Frankfurt am Main, Germany.
+(13)Institute of Medical Microbiology, Virology and Hospital Hygiene, University 
+Medical Center Hamburg- Eppendorf, Hamburg, Germany.
+(14)University Center of Infectious Diseases, UCI, University Hospital Frankfurt,
+Goethe University, Germany. ThomasA.Wichelhaus@kgu.de.
+
+Background: M. abscessus (Mab) is a highly antibiotic resistant opportunistic
+pathogen causing clinically challenging infections in patients with preexisting
+lung diseases or under immunosuppression. Hence, reliable antibiotic
+susceptibility data is required for effective treatment. Aims of this study were 
+to investigate (i) the congruence of genotypic and phenotypic antimicrobial
+susceptibility testing, (ii) the relationship between resistance profile and
+clinical course, as well as (iii) the phylogenetic relations of Mab in a German
+patient cohort.Materials/methods: A total of 39 isolates from 29 patients
+infected or colonized with Mab underwent genotypic and phenotypic drug
+susceptibility testing. Clinical data were correlated to susceptibility data.
+Phylogenetic analysis was performed by means of whole genome sequencing (WGS) and
+single nucleotide polymorphism (SNP) analysis.Results: Macrolide resistance was
+mainly mediated by functional Erm (41) methyltransferases (T28 sequevars) in M.
+abscessus subsp. abscessus (n=25) and M. abscessus subsp. bolletii (n=2). It was 
+significantly associated with impaired culture conversion (p=0.02). According to 
+the core SNP phylogeny, we identified three clusters of closely related isolates 
+with SNP distances below 25. Representatives of all circulating global clones
+(Absc. 1, Absc. 2 and Mass. 1) were identified in our cohort. However, we could
+not determine evidence for in-hospital interhuman transmission from clinical
+data.Conclusions: In our patient cohort, we identified three Mab clusters with
+closely related isolates and representatives of the previously described
+international clusters, but no human-to-human in-hospital transmission. Macrolide
+and aminoglycoside susceptibility data are critical for therapeutic
+decision-making in Mab infections.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/JCM.01813-20 
+PMID: 32938741 
+

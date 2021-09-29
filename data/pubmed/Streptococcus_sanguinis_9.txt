@@ -1,0 +1,47 @@
+
+1. J Biol Chem. 2020 Aug 20. pii: jbc.RA120.014177. doi: 10.1074/jbc.RA120.014177.
+[Epub ahead of print]
+
+Tandem sialoglycan-binding modules in a Streptococcus sanguinis serine-rich
+repeat adhesin create target dependent avidity effects.
+
+Stubbs HE(1), Bensing BA(2), Yamakawa I(1), Sharma P(3), Yu H(4), Chen X(4),
+Sullam PM(5), Iverson TM(1).
+
+Author information: 
+(1)Vanderbilt University, United States.
+(2)Medicine, University of California, San Francisco, United States.
+(3)Department of Pharmacology, Vanderbilt University, United States.
+(4)University of California, Davis, United States.
+(5)Infectious Disease, University of California, San Francisco, United States.
+
+Siglec-like domains of streptococcal serine-rich repeat (SRR) adhesins recognize 
+sialylated glycans on human salivary, platelet, and plasma glycoproteins via a
+"YTRY" sequence motif. The SRR adhesin from Streptococcus sanguinis strain SK1
+has tandem sialoglycan-binding domains and has previously been shown to bind
+sialoglycans with high affinity. However, both domains contain substitutions
+within the canonical "YTRY" motif, making it unclear how they interact with host 
+receptors. To identify how the S. sanguinis strain SK1 SRR adhesin affects
+interactions with sialylated glycans and glycoproteins, we determined
+high-resolution crystal structures of the binding domains alone and with purified
+trisaccharides. These structural studies identify that the ligands still bind at 
+the non-canonical binding motif, but with fewer hydrogen-bonding interactions to 
+the protein than is observed in structures of other Siglec-like adhesins.
+Complementary biochemical studies identify that each of the two binding domains
+has a different selectivity profile. Interestingly, the binding of SK1 to
+platelets and plasma glycoproteins identifies that the interaction to some host
+targets is dominated by the contribution of one binding domain, while the binding
+to other host receptors is mediated by both binding domains. These results
+provide insight into outstanding questions concerning the roles of tandem domains
+in targeting host receptors and suggest mechanisms for how pathogens can adapt to
+the availability of a range of related but non-identical host receptors. They
+further suggest that the definition of the "YTRY" motif should be changed to
+ϕTRX, a more rigorous description of this sialic acid-recognition motif given
+recent findings.
+
+Published under license by The American Society for Biochemistry and Molecular
+Biology, Inc.
+
+DOI: 10.1074/jbc.RA120.014177 
+PMID: 32820052 
+

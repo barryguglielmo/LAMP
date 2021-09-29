@@ -1,0 +1,53 @@
+
+1. Front Vet Sci. 2020 Feb 28;7:90. doi: 10.3389/fvets.2020.00090. eCollection 2020.
+
+Investigation of a Reduction in Tylosin on the Prevalence of Liver Abscesses and 
+Antimicrobial Resistance in Enterococci in Feedlot Cattle.
+
+Davedow T(1)(2), Narvaez-Bravo C(1), Zaheer R(2), Sanderson H(2), Rodas-Gonzalez 
+A(1), Klima C(1)(3), Booker CW(3), Hannon SJ(3), Bras AL(3), Gow S(4), McAllister
+T(2).
+
+Author information: 
+(1)Food and Human Nutritional Sciences Department, University of Manitoba,
+Winnipeg, MB, Canada.
+(2)Lethbridge Research and Development Centre, Agriculture and Agri-Food Canada, 
+Lethbridge, AB, Canada.
+(3)Feedlot Health Management Services, Okotoks, AB, Canada.
+(4)Public Health Agency of Canada, Saskatoon, SK, Canada.
+
+Recent concerns over linkages between antimicrobial resistance in human pathogens
+and antimicrobial use in livestock have prompted researchers to investigate
+management strategies that reduce the current reliance on in-feed tylosin to
+control liver abscesses in feedlot cattle. A total of 7,576 crossbred yearlings
+were allocated to the study (~253 animals/pen, 10 replicate pens per treatment)
+and individually randomized to one of three treatments. Tylosin phosphate (11
+ppm) was included in-feed (1) for the first 125 days on feed (DOF) (FIRST-78%),
+(2) for DOF 41 to 161 (LAST-75%), or (3) for the entire feeding period (CON; day 
+0-161). Fecal composites were collected from the pen floor on days 0, 81, and 160
+of the finishing period. Serial dilutions were spread plated for enumeration of
+enterococci on Bile Esculin Azide (BEA) agar and BEA amended with 8 μg/ml
+erythromycin. Results indicated that although the proportion of EryR enterococci 
+increased with DOF (P < 0.01), neither treatment (P = 0.34) or treatment × DOF (P
+= 0.37) affected antimicrobial resistance. Of the 538 isolates, 97% were
+enterococci, with mixed species isolated early in the feeding period and only
+Enterococcus hirae isolated at the end. Isolates were most frequently resistant
+to tylosin (86%), erythromycin (84%), and doxycycline (31%). Macrolide and
+tetracycline resistant isolates harbored erm(B), msrC, and tet(L), tet(M), tet(O)
+genes, respectively. Overall, the proportion of EryR enterococci increased (P <
+0.05) in all three treatments over the feeding period. Compared to the control
+cattle, FIRST-78% cattle had more severe (P < 0.05) liver abscesses, while there 
+was a trend (P < 0.08) for this response in LAST-75% cattle. There was no
+difference (P > 0.05) in total liver abscesses, growth performance, carcass
+traits, morbidity, or mortality among treatments. These results support the
+potential to reduce the duration and therefore quantity of tylosin administered
+to feedlot cattle during the feeding period without impacting animal
+productivity.
+
+Copyright © 2020 Davedow, Narvaez-Bravo, Zaheer, Sanderson, Rodas-Gonzalez,
+Klima, Booker, Hannon, Bras, Gow and McAllister.
+
+DOI: 10.3389/fvets.2020.00090 
+PMCID: PMC7059211
+PMID: 32185186 
+

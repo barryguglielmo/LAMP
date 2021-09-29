@@ -1,0 +1,44 @@
+
+1. Acta Vet Scand. 2019 Oct 31;61(1):51. doi: 10.1186/s13028-019-0486-9.
+
+Investigation of urban birds as source of β-lactamase-producing Gram-negative
+bacteria in Marseille city, France.
+
+Ngaiganam EP(1), Pagnier I(1)(2), Chaalal W(1), Leangapichart T(1), Chabou S(1), 
+Rolain JM(1)(2), Diene SM(3)(4).
+
+Author information: 
+(1)IRD, APHM, MEPHI, IHU-Mediterranee Infection, Aix-Marseille Univ, 19-21 bd
+Jean Moulin, 13005, Marseille, France.
+(2)IHU-Mediterranee Infection, Marseille, France.
+(3)IRD, APHM, MEPHI, IHU-Mediterranee Infection, Aix-Marseille Univ, 19-21 bd
+Jean Moulin, 13005, Marseille, France. seydina.diene@univ-amu.fr.
+(4)IHU-Mediterranee Infection, Marseille, France. seydina.diene@univ-amu.fr.
+
+BACKGROUND: We investigate here the presence of multidrug-resistant bacteria
+isolated from stool samples of yellow-legged gulls and chickens (n = 136) in
+urban parks and beaches of Marseille, France. Bacterial isolation was performed
+on selective media, including MacConkey agar with ceftriaxone and LBJMR medium.
+Antibiotic resistance genes, including extended-spectrum β-lactamases (ESBL)
+(i.e. blaCTX-M, blaTEM and blaSHV), carbapenemases (blaKPC, blaVIM, blaNDM,
+blaOXA-23, blaOXA-24, blaOXA-48 and blaOXA-58) and colistin resistance genes
+(mcr-1 to mcr-5) were screened by real-time PCR and standard PCR and sequenced
+when found.
+RESULTS: Of the 136 stools samples collected, seven ESBL-producing Gram-negative 
+bacteria (BGN) and 12 colistin-resistant Enterobacteriaceae were isolated. Among 
+them, five ESBL-producing Escherichia coli and eight colistin-resistant Hafnia
+alvei strains were identified. Four blaTEM-1 genes were detected in yellow-legged
+gulls and chickens. Three CTX-M-15 genes were detected in yellow-legged gulls and
+pigeons, and one CTX-M-1 in a yellow-legged gull. No mcr-1 to mcr-5 gene were
+detected in colistin-resistant isolates. Genotyping of E. coli strains revealed
+four different sequence types already described in humans and animals and one new
+sequence type.
+CONCLUSIONS: Urban birds, which are believed to have no contact with antibiotics 
+appear as potential source of ESBL genes. Our findings highlight the important
+role of urban birds in the proliferation of multidrug-resistant bacteria and also
+the possible zoonotic transmission of such bacteria from wild birds to humans.
+
+DOI: 10.1186/s13028-019-0486-9 
+PMCID: PMC6822345
+PMID: 31672159  [Indexed for MEDLINE]
+

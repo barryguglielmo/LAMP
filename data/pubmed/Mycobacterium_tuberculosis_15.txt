@@ -1,0 +1,51 @@
+
+1. Arch Biochem Biophys. 2020 Sep 29:108612. doi: 10.1016/j.abb.2020.108612. [Epub
+ahead of print]
+
+Sirtuin inhibits M. tuberculosis -induced apoptosis in macrophage through
+glycogen synthase kinase-3β.
+
+Yang H(1), Chen J(2), Chen Y(3), Jiang Y(2), Ge B(4), Hong L(5).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Tongji University School of
+Medicine, Shanghai, 200092, China; Clinical Translational Research Center,
+Shanghai Pulmonary Hospital, Tongji University School of Medicine, Shanghai,
+200433, China; Shanghai TB Key Laboratory, Shanghai Pulmonary Hospital, Tongji
+University School of Medicine, Shanghai, 200433, China. Electronic address:
+hyang@tongji.edu.c.
+(2)Clinical Translational Research Center, Shanghai Pulmonary Hospital, Tongji
+University School of Medicine, Shanghai, 200433, China; Shanghai TB Key
+Laboratory, Shanghai Pulmonary Hospital, Tongji University School of Medicine,
+Shanghai, 200433, China.
+(3)Department of Pathology, Immunology, and Laboratory Medicine, University of
+Florida, Gainesville, FL, 32610, USA.
+(4)Department of Microbiology and Immunology, Tongji University School of
+Medicine, Shanghai, 200092, China; Clinical Translational Research Center,
+Shanghai Pulmonary Hospital, Tongji University School of Medicine, Shanghai,
+200433, China; Shanghai TB Key Laboratory, Shanghai Pulmonary Hospital, Tongji
+University School of Medicine, Shanghai, 200433, China.
+(5)Shanghai First Maternity and Infant Hospital, Tongji University School of
+Medicine, Shanghai, 201204, China. Electronic address: Hongling789@163.com.
+
+Apoptotic and inflammatory pathways play important roles in Mycobacterium
+tuberculosis-infected macrophages. Sirt1 is a member of the deacetylase family
+that is known to promote apoptosis resistance in mammalian cells and was recently
+reported to regulate mycobacterial immunopathogenesis via inflammatory responses.
+However, the apoptotic role of Sirt1 in the process of M. tuberculosis infection 
+remains unclear. With the help of mouse peritoneal macrophage samples, we have
+shown that resveratrol, a Sirt1 activator, inhibited M. tuberculosis-induced
+apoptosis in peritoneal macrophages. Further, we found that Sirt1 activation
+prompted M. tuberculosis induced GSK3β phosphorylation. Further investigation
+into the possible mechanisms of action showed that Sirt1 directly interacted with
+GSK3β and enhanced GSK3β phosphorylation by promoting its deacetylation. Sirt1
+activation inhibited M. tuberculosis growth. Thus, it seemed that Sirt1 acted as 
+a novel regulator of apoptosis signaling in M. tuberculosis infection via its
+direct effects on GSK3β. Sirt1 may therefore be a new candidate for the
+prevention and treatment of tuberculosis.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.abb.2020.108612 
+PMID: 33007281 
+

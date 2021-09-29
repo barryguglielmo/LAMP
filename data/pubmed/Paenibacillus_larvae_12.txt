@@ -1,0 +1,35 @@
+
+1. Microb Genom. 2020 Feb;6(2). doi: 10.1099/mgen.0.000329.
+
+Paenibacillus larvae bacteriophages: obscure past, promising future.
+
+Tsourkas PK(1).
+
+Author information: 
+(1)School of Life Sciences, University of Nevada Las Vegas, Las Vegas, NV, USA.
+
+Paenibacillus larvae is a Gram-positive, spore-forming bacterium that is the
+causative agent of American foulbrood (AFB), the most devastating bacterial
+disease of the honeybee. P. larvae is antibiotic resistant, complicating
+treatment efforts. Bacteriophages that target P. larvae are rapidly emerging as a
+promising treatment. The first P. larvae phages were isolated in the 1950s, but
+as P. larvae was not antibiotic resistant at the time, interest in them remained 
+scant. Interest in P. larvae phages has grown rapidly since the first P. larvae
+phage genome was sequenced in 2013. Since then, the number of sequenced P. larvae
+phage genomes has reached 48 and is set to grow further. All sequenced P. larvae 
+phages encode a conserved N-acetylmuramoyl-l-alanine amidase that is responsible 
+for cleaving the peptidoglycan cell wall of P. larvae. All P. larvae phages also 
+encode either an integrase, excisionase or Cro/CI, indicating that they are
+temperate. In the last few years, several studies have been published on using P.
+larvae phages and the P. larvae phage amidase as treatments for AFB. Studies were
+conducted on infected larvae in vitro and also on hives in the field. The phages 
+have a prophylactic effect, preventing infection, and also a curative effect,
+helping resolve infection. P. larvae phages have a narrow range, lysing only P.
+larvae, and are unable to lyse even related Paenibacillus species. P. larvae
+phages thus appear to be safe to use and effective as treatment for AFB, and
+interest in them in the coming years will continue to grow.
+
+DOI: 10.1099/mgen.0.000329 
+PMCID: PMC7067210
+PMID: 32111267  [Indexed for MEDLINE]
+

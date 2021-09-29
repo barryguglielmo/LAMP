@@ -1,0 +1,56 @@
+
+1. Oncotarget. 2019 Dec 31;10(68):7198-7219. doi: 10.18632/oncotarget.27319.
+eCollection 2019 Dec 31.
+
+Probiotic Propionibacterium freudenreichii requires SlpB protein to mitigate
+mucositis induced by chemotherapy.
+
+do Carmo FLR(1)(2), Rabah H(2)(3), Cordeiro BF(1), da Silva SH(1), Pessoa RM(4), 
+Fernandes SOA(4), Cardoso VN(4), Gagnaire V(2), Deplanche M(2), Savassi B(1),
+Figueiroa A(1), Oliveira ER(1), Fonseca CC(1), Queiroz MIA(1), Rodrigues NM(1),
+Sandes SHC(1), Nunes ÁC(1), Lemos L(1), Alves JL(1), Faria AMC(1), Ferreira Ê(1),
+Le Loir Y(2), Jan G(2), Azevedo V(1).
+
+Author information: 
+(1)Instituto de Ciências Biológicas, Universidade Federal de Minas Gerais (UFMG),
+Belo Horizonte, Minas Gerais, Brasil.
+(2)STLO, INRA, Agrocampus Ouest, UMR1253, Science & Technologie du Lait & de
+l'Oeuf, Rennes, France.
+(3)Bba, Pôle Agronomique Ouest, Régions Bretagne et Pays de la Loire, Rennes,
+France.
+(4)Department of Clinical and Toxicological Analysis, Federal University of Minas
+Gerais (UFMG), Belo Horizonte, Minas Gerais, Brazil.
+
+Propionibacterium freudenreichii CIRM-BIA 129 (P. freudenreichii wild type, WT)
+is a probiotic bacterium, which exerts immunomodulatory effects. This strain
+possesses extractable surface proteins, including SlpB, which are involved in
+anti-inflammatory effect and in adhesion to epithelial cells. We decided to
+investigate the impact of slpB gene mutation on immunomodulation in vitro and in 
+vivo. In an in vitro assay, P. freudenreichii WT reduced expression of IL-8
+(p<0.0001) and TNF-α (p<0.0001) cytokines in LPS-stimulated HT-29 cells. P.
+freudenreichii ΔslpB, lacking the SlpB protein, failed to do so. Subsequently,
+both strains were investigated in vivo in a 5-FU-induced mucositis mice model.
+Mucositis is a common side effect of cytotoxic chemotherapy with 5-FU,
+characterized by mucosal injury, inflammation, diarrhea, and weight loss. The WT 
+strain prevented weight loss, reduced inflammation and consequently
+histopathological scores. Furthermore, it regulated key markers, including
+Claudin-1 (cld1, p<0.0005) and IL-17a (Il17a, p<0.0001) genes, as well as IL-12
+(p<0.0001) and IL-1β (p<0.0429) cytokines levels. Mutant strain displayed
+opposite regulatory effect on cld1 expression and on IL-12 levels. This work
+emphasizes the importance of SlpB in P. freudenreichii ability to reduce
+mucositis inflammation. It opens perspectives for the development of probiotic
+products to decrease side effects of chemotherapy using GRAS bacteria with
+immunomodulatory surface protein properties.
+
+Copyright: © 2019 do Carmo et al.
+
+DOI: 10.18632/oncotarget.27319 
+PMCID: PMC6944450
+PMID: 31921383 
+
+Conflict of interest statement: CONFLICTS OF INTEREST The authors declare that
+the research was conducted in the absence of any commercial or financial
+relationships that could be construed as a potential conflict of interest. We
+declare no competing interest, no conflict of interest, neither financial, nor
+non-financial.
+

@@ -1,0 +1,40 @@
+
+1. J Environ Manage. 2019 Oct 15;248:109239. doi: 10.1016/j.jenvman.2019.07.010.
+Epub 2019 Jul 12.
+
+Influence of inoculum variation on formation and stability of aerobic granules in
+oily wastewater treatment.
+
+Ghosh S(1), Chakraborty S(2).
+
+Author information: 
+(1)Centre for the Environment, Indian Institute of Technology Guwahati, Assam,
+781039, India.
+(2)Centre for the Environment, Indian Institute of Technology Guwahati, Assam,
+781039, India; Department of Civil Engineering, Indian Institute of Technology
+Guwahati, Assam, 781039, India. Electronic address: saswati@iitg.ac.in.
+
+This study provides extensive information about oily wastewater treatment in
+aerobic granular reactors (AGR) using three different inoculums from sewage,
+refinery and brewery. Initially, sodium acetate was used for granule formation
+while AGR with brewery inoculum had maximum granule size (5.44 ± 0.05 mm) and
+extracellular polymeric substances (EPS: 471.22 ± 2.0 mg/g VSS). But, during
+emulsified diesel exposure, refinery sludge granules achieved maximum granule
+size of 3.49 ± 0.01 mm and EPS of 204.85 ± 2.01 mg/g VSS with maximum
+67.39 ± 0.15% oil removal efficiency. AGRs achieved 99.9 ± 0.05% chemical oxygen 
+demand (COD) and 91.67 ± 0.14% ammonia nitrogen (NH4+-N) removal efficiencies.
+Refinery granules remained stable at maximum 310 ± 10 mg/L diesel concentration
+whereas, the stability thresholds for sewage and brewery granules were 170 ± 15
+and 250 ± 10 mg/L, respectively. Brevibacterium paucivorans strain SG001,
+Micrococcus aloeverae strain SG002 and Staphylococcus hominis strain SG003 were
+identified as the major pollutant degraders isolated from sewage, refinery and
+brewery sludge. Micrococcus aloeverae strain SG002 exhibited maximum pollutant
+removal efficiencies (COD: 99.9 ± 0.01%, NH4+-N: 99.9 ± 0.01%, oil:
+61.34 ± 0.85%) among the three species. Re-addition of sodium acetate restored
+granule structure and stability.
+
+Copyright © 2019. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jenvman.2019.07.010 
+PMID: 31306929  [Indexed for MEDLINE]
+

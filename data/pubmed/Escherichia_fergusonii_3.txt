@@ -1,0 +1,54 @@
+
+1. 3 Biotech. 2020 Aug;10(8):372. doi: 10.1007/s13205-020-02368-1. Epub 2020 Aug 3.
+
+Microbiotal characteristics colonized in intestinal mucosa of mice with diarrhoea
+and repeated stress.
+
+Zhang C(1), Shao H(1), Peng X(2), Liu T(3), Tan Z(1).
+
+Author information: 
+(1)Hunan University of Chinese Medicine, Xueshi Road 300, Yuelu District,
+Changsha, 410208 Hunan Province China.
+(2)The First Hospital of Hunan University of Chinese Medicine, Changsha, 410007
+Hunan Province China.
+(3)College of Chinese Medicine, Jinan University, No. 601 Huangpu Avenue West,
+Tianhe District, Guangzhou, 510632 Guangdong China.
+
+To understand the role of intestinal mucosal microbiota on mental stress-related 
+diarrhoea, we collected the intestinal mucosa of mice treated with Folium senna
+extract gavage combined with restraint and tail pinch stress for 7 days; and
+intestinal mucosal microbiota characteristics were analyzed by 16S rRNA Pacbio
+SMRT gene full-length sequencing. The results showed that the diversity (i.e.,
+alpha diversity including the Chao1, Simpson, ACE, and Shannon indices and beta
+diversity including the NMDS of weighted UniFrac distances) and composition of
+the microbial community in the intestinal mucosa of mice with diarrhoea and
+repeated stress changed significantly (P < 0.05). In the co-occurrence network,
+Staphylococcus sciuri and Escherichia fergusonii was identified as putative
+keystone species. Moreover, the characteristics of the intestinal microbial
+species was analyzed by LEfSe, Metastats, and group difference, and ten altered
+gut microbiota species can be used as characteristic microbes in the mice with
+diarrhoea and repeated stress: the abundances of Stigmatella aurantiaca,
+Candidatus arthromitus sp. SFB-mouse, Erythrobacter gaetbuli, Desulfitobacterium 
+hafniense, Ochrobactrum pituitosum, and Candidatus arthromitus sp. SFB-mouse-NL
+in the model group were significantly lower than those in the control group
+(P < 0.05); whereas Microbacterium dextranolyticum, Klebsiella pneumoniae,
+Escherichia sp. BBDP27, and Streptococcus danieliae were enriched in the control 
+group (P < 0.05). Collectively, mental stress-related diarrhoea increased the
+intestinal microbiota diversity. The species associated with mental
+stress-related diarrhoea including Microbacterium dextranolyticum, Klebsiella
+pneumoniae, Escherichia sp. BBDP27, and Streptococcus danieliae were
+significantly enriched; while the species which are beneficial to mental
+stress-related diarrhoea are Stigmatella aurantiaca, Candidatus arthromitus sp.
+SFB-mouse, Erythrobacter gaetbuli, Desulfitobacterium hafniense, Ochrobactrum
+pituitosum, and Candidatus arthromitus sp. SFB-mouse-NL for its significantly
+depleted.
+
+© King Abdulaziz City for Science and Technology 2020.
+
+DOI: 10.1007/s13205-020-02368-1 
+PMCID: PMC7399726 [Available on 2021-08-01]
+PMID: 32832332 
+
+Conflict of interest statement: Conflict of interestThe authors declare that
+there is no conflict of interests regarding the publication of this paper.
+

@@ -1,0 +1,57 @@
+
+1. Biomedicines. 2020 Aug 27;8(9). pii: E311. doi: 10.3390/biomedicines8090311.
+
+Exploring the Role of Gut Microbiota in Major Depressive Disorder and in
+Treatment Resistance to Antidepressants.
+
+Fontana A(1), Manchia M(2)(3)(4), Panebianco C(5), Paribello P(2)(3), Arzedi
+C(2)(3), Cossu E(2)(3), Garzilli M(2)(3), Montis MA(2)(3), Mura A(2)(3), Pisanu
+C(6), Congiu D(6), Copetti M(1), Pinna F(2)(3), Carpiniello B(2)(3), Squassina
+A(6)(7), Pazienza V(5)(8).
+
+Author information: 
+(1)Fondazione IRCCS Casa Sollievo della Sofferenza Hospital, Unit of
+Biostatistics, 71013 San Giovanni Rotondo, Italy.
+(2)Unit of Psychiatry, Department of Public Health, Clinical and Molecular
+Medicine, University of Cagliari, 09042 Cagliari, Italy.
+(3)Unit of Clinical Psychiatry, University Hospital Agency of Cagliari, 09042
+Cagliari, Italy.
+(4)Department of Pharmacology, Dalhousie University, Halifax, NS B3H 4R2, Canada.
+(5)Fondazione IRCCS Casa Sollievo della Sofferenza Hospital, Division of
+Gastroenterology, 71013 San Giovanni Rotondo, Italy.
+(6)Unit of Neuroscience and Clinical Pharmacology, Department of Biomedical
+Sciences, Section of Neuroscience and Clinical Pharmacology, University of
+Cagliari, 09042 Cagliari, Italy.
+(7)Department of Biomedical Sciences, Division of Neuroscience and Clinical
+Pharmacology, University Campus, S.P. 8, Sestu-Monserrato, Km 0.700, Monserrato, 
+09042 Cagliari, Italy.
+(8)Gastroenterology Unit, Fondazione I.R.C.C.S. "Casa Sollievo della Sofferenza" 
+Hospital, Viale dei Cappuccini 1, 71013 San Giovanni Rotondo, Italy.
+
+Major depressive disorder (MDD) is a common severe psychiatric illness,
+exhibiting sub-optimal response to existing pharmacological treatments. Although 
+its etiopathogenesis is still not completely understood, recent findings suggest 
+that an altered composition of the gut microbiota might play a role. Here we
+aimed to explore potential differences in the composition of the gut microbiota
+between patients with MDD and healthy controls (HC) and to identify possible
+signatures of treatment response by analyzing two groups of MDD patients
+characterized as treatment-resistant (TR) or responders (R) to antidepressants.
+Stool samples were collected from 34 MDD patients (8 TR, 19 R and 7 untreated)
+and 20 HC. Microbiota was characterized using the 16S metagenomic approach. A
+penalized logistic regression analysis algorithm was applied to identify
+bacterial populations that best discriminate the diagnostic groups. Statistically
+significant differences were identified for the families of Paenibacillaceae and 
+Flavobacteriaceaea, for the genus Fenollaria, and the species Flintibacter
+butyricus, Christensenella timonensis, and Eisenbergiella massiliensis among
+others. The phyla Proteobacteria, Tenericutes and the family
+Peptostreptococcaceae were more abundant in TR, whereas the phylum Actinobacteria
+was enriched in R patients. Moreover, a number of bacteria only characterized the
+microbiota of TR patients, and many others were only detected in R. Our results
+confirm that dysbiosis is a hallmark of MDD and suggest that microbiota of TR
+patients significantly differs from responders to antidepressants. This finding
+further supports the relevance of an altered composition of the gut microbiota in
+the etiopathogenesis of MDD, suggesting a role in response to antidepressants.
+
+DOI: 10.3390/biomedicines8090311 
+PMID: 32867257 
+

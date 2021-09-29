@@ -1,0 +1,45 @@
+
+1. Front Vet Sci. 2020 May 19;7:253. doi: 10.3389/fvets.2020.00253. eCollection
+2020.
+
+Assessment of Sample Size Calculations Used in Aquaculture by Simulation
+Techniques.
+
+de Blas I(1), Muniesa A(1), Vallejo A(2), Ruiz-Zarzuela I(1).
+
+Author information: 
+(1)Laboratory of Fish Diseases, Department of Animal Pathology, Instituto
+Agroalimentario de Aragón IA2, Universidad de Zaragoza, Zaragoza, Spain.
+(2)Facultad de Medicina Veterinaria y Zootecnia, Universidad de Córdoba,
+Montería, Colombia.
+
+An adequate sampling methodology is the key to knowing the health status of
+aquatic populations. Usually, the aims of epidemiological surveys in aquaculture 
+are to detect an infection and estimate the disease prevalence, and different
+formulas are used to calculate the sample size. The main objective of this study 
+was to assess if the sample sizes calculated using classical epidemiological
+formulas are valid considering the sampling methodology, the population size, and
+the spatial distribution of diseased animals in the population (non-clustered or 
+clustered). However, the use of sample sizes of 30, 60, and 150 fish is widely
+accepted in aquaculture, due to the requirements of the World Organization for
+Animal Health (OIE) for epidemiological surveillance. We have developed a
+specific software using ASP (Active Server Pages) language and MySQL database in 
+order to generate aquatic populations from 100 to 10 000 brown trouts infected by
+Aeromonas salmonicida with different levels of prevalence: 2, 5, 10, and 50%.
+Then we implemented several Monte Carlo simulations to estimate empirically the
+sample sizes corresponding to the different scenarios. Furthermore, we compared
+these results with the values calculated by classical formulas. We determined
+that simple random sampling was more accurate in detecting an infection, because 
+it is independent of the distribution of infected animals in the population.
+However, if diseased animals are non-clustered it is more efficient to use
+systematic methods, even in the case of small populations. Finally, the formula
+to calculate sample size to estimate disease prevalence is not valid when the
+expected prevalence is far from 50%, and it is necessary to increase the sample
+size to reach the desired precision.
+
+Copyright © 2020 de Blas, Muniesa, Vallejo and Ruiz-Zarzuela.
+
+DOI: 10.3389/fvets.2020.00253 
+PMCID: PMC7248330
+PMID: 32509804 
+

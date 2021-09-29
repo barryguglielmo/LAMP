@@ -1,0 +1,42 @@
+
+1. Int J Syst Evol Microbiol. 2020 Apr;70(4):2588-2595. doi: 10.1099/ijsem.0.004074.
+Epub 2020 Mar 12.
+
+Haemophilus seminalis sp. nov., isolated from human semen.
+
+Zheng ML(1), Li LH(1), Liu B(2), Lin YB(3), Zhang XT(2), Chen C(4)(1), Qu
+PH(1)(4), Zeng J(2).
+
+Author information: 
+(1)The Second Clinic Medical College, Guangzhou University of Chinese Medicine,
+Guangzhou 510006, PR China.
+(2)The Second Hospital, University of South China, Hengyang 421001, PR China.
+(3)Department of Clinical Laboratory, Wuchuan Maternity and Child Health Care
+Hospital, Wuchuan 524500, PR China.
+(4)Department of Clinical Laboratory, Guangdong Provincial Hospital of
+Traditional Chinese Medicine, Guangzhou 510006, PR China.
+
+Two Haemophilus-like isolates with similar biochemical characteristics,
+designated strains SZY H1T and SZY H2, were isolated from human semen specimens. 
+Cells were Gram-negative, non-motile, non-acid-fast, pleomorphic rods or
+coccobacilli. The major fatty acids (>10 %) were C16 : 0, C14 : 0, iso-C16 : 0
+and/or C14 : 0 3-OH and C16 : 1 ω6c and/or C16 : 1 ω7c. The polar lipids were
+determined to be phosphatidylethanolamine, phosphatidylglycerol, an unidentified 
+phospholipid, an unidentified aminophospholipid, two unidentified polar lipids
+and four unidentified aminolipids. The major polyamine was found to be
+cadaverine. The near-full-length (1462 nt) 16S rRNA gene sequences analysis
+showed the two isolates were nearly identical (>99.8 %), and closely matched
+Haemophilus haemolyticus ATCC 33390T with 98.9-99.1 % sequence similarities.
+Phylogenetic analysis based on 16S rRNA gene sequences and concatenation of 30
+protein markers also revealed that the isolates clustered together with H.
+haemolyticus ATCC 33390T, and formed a distinct lineage well separated from the
+other members of the genus Haemophilus. Further, the average nucleotide identity 
+values between the two isolates and their related species were below the
+established cut-off values for species delineation (95 %). Based on these
+findings, the two isolates are considered to represent a new species of the genus
+Haemophilus, for which name Haemophilus seminalis sp. nov. is proposed. The type 
+strain is SZY H1T (=NBRC 113782T=CGMCC 1.17137T).
+
+DOI: 10.1099/ijsem.0.004074 
+PMID: 32163029  [Indexed for MEDLINE]
+

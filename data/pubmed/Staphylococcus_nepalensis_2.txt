@@ -1,0 +1,38 @@
+
+1. Microbiology (Reading). 2020 Aug;166(8):727-734. doi: 10.1099/mic.0.000940. Epub 
+2020 Jun 10.
+
+Staphylococcus nepalensis, a commensal of the oral microbiota of domestic cats,
+is a reservoir of transferrable antimicrobial resistance.
+
+Andrade-Oliveira AL(1), Rossi CC(1), Souza-Silva T(1), Giambiagi-deMarval M(1).
+
+Author information: 
+(1)Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de
+Janeiro, Rio de Janeiro, Brazil.
+
+Staphylococcus nepalensis is a commensal bacterium from the oral microbiota of
+domestic cats, with a still obscure clinical importance. In this work, we
+analysed the ability of feline strains of S. nepalensis to transfer antimicrobial
+resistance genes to Staphylococcus aureus isolated from humans through plasmids. 
+To this end, we first analysed all publicly available genomes from cat
+staphylococci using computational methods to build a pan-resistome. Genes that
+encode resistance to erythromycin, gentamicin, mupirocin and tetracycline, common
+to human and cat staphylococci and previously described to be located in mobile
+genetic elements, were chosen for the next analyses. We studied 15 strains of S. 
+nepalensis, which were shown to be genetically different by GTG5-PCR. As observed
+by disc diffusion, resistance to tetracycline was widespread (80 %), followed by 
+resistance to erythromycin (40 %), gentamicin (27 %) and mupirocin (7 %). The
+strains were positive for several antimicrobial resistance genes and more than
+half of them harboured plasmids. The loss of plasmids and resistance genes in
+some strains were induced by stress with SDS. Through conjugation experiments, we
+observed that these plasmids can be transferred to S. aureus, thus increasing its
+potential to resist drug therapy. Our findings show that S. nepalensis, an
+underestimated inhabitant of the cat microbiota, can be a reservoir of
+antimicrobial resistance genes for S. aureus and, like many other staphylococci, 
+be an overlooked and silent threat to their animal hosts and humans living with
+them.
+
+DOI: 10.1099/mic.0.000940 
+PMID: 32520697 
+

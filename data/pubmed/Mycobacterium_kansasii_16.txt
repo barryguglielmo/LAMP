@@ -1,0 +1,54 @@
+
+1. Sci Total Environ. 2020 Oct 20;740:139796. doi: 10.1016/j.scitotenv.2020.139796. 
+Epub 2020 Jun 13.
+
+Influence of climate variables on the rising incidence of nontuberculous
+mycobacterial (NTM) infections in Queensland, Australia 2001-2016.
+
+Thomson RM(1), Furuya-Kanamori L(2), Coffey C(2), Bell SC(3), Knibbs LD(4), Lau
+CL(2).
+
+Author information: 
+(1)Gallipoli Medical Research Institute, University of Queensland, Brisbane,
+Australia. Electronic address: R.Thomson@uq.edu.au.
+(2)Research School of Population Health, Australian National University,
+Canberra, Australia.
+(3)The Prince Charles Hospital, Faculty of Medicine, University of Queensland and
+Translational Research Institute, Brisbane, Australia.
+(4)School of Public Health, University of Queensland, Brisbane, Australia.
+
+International reports indicate a rising incidence of nontuberculous mycobacterial
+(NTM) disease. Many infectious diseases have seasonal variation in incidence, and
+major weather events and climate change have been implicated. The aim of this
+study was to explore the relationship between climate variables and NTM incident 
+cases in Queensland, Australia.METHODS: NTM data were obtained from the
+Queensland notifiable conditions database for the period 2001-2016. Rainfall and 
+temperature data were obtained from the Australian Bureau of Meteorology. Poisson
+regression models were used to assess notification rates (incidence cases per
+100,000 population) over time and to estimate incidence rate ratios (IRR). Cross 
+correlation coefficients were used to examine the relationship between rainfall
+and temperature data and NTM incidence over time in each Hospital and Health
+Service (HHS).
+RESULTS: 12,219 NTM cases were reported. The most common species was M.
+intracellulare (39.1%), followed by M. avium (9.8%), M abscessus (8.5%), M.
+fortuitum (8.3%), M. chelonae (3.3%), and M. kansasii (2.4%). The estimated
+incidence rate increased from 11.10 (95% CI 8.10-15.22) in 2001 to 25.88 (95%CI
+21.78-30.73) per 100,000 in 2016. The estimated IRR increased for all common
+species, except M. kansasii. Although increased IRRs were observed for most NTM
+species, geospatial heterogeneity was observed. The effect of rainfall and
+temperature on NTM incidence differed between species and geographic regions.
+CONCLUSIONS: The incidence of NTM infections increased between 2001 and 2016.
+Variations in temperature and rainfall may play a role in environmental exposure 
+to some species of NTM. Spatial variation in IRR suggests that there may also be 
+other environmental factors that influence transmission.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2020.139796 
+PMID: 32563864  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

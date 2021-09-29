@@ -1,0 +1,61 @@
+
+1. Orig Life Evol Biosph. 2020 Jul 2. doi: 10.1007/s11084-020-09597-7. [Epub ahead
+of print]
+
+Survival of the Halophilic Archaeon Halovarius luteus after Desiccation,
+Simulated Martian UV Radiation and Vacuum in Comparison to Bacillus atrophaeus.
+
+Feshangsaz N(1), Semsarha F(2), Tackallou SH(3), Nazmi K(4), Monaghan EP(5),
+Riedo A(5), van Loon JJWA(6)(7).
+
+Author information: 
+(1)Amsterdam UMC location VUmc, and Academic Centre for Dentistry Amsterdam
+(ACTA) Department of Oral and Maxillofacial Surgery/Pathology, Amsterdam Movement
+Sciences, Vrije Universiteit Amsterdam, Gustav Mahlerlaan 3004, 1081 LA,
+Amsterdam, The Netherlands. n.feshangsaz@gmail.com.
+(2)Department of Biophysics, Mim Daroo Pharmaceutical Co., Tehran, Iran.
+(3)Department of Biology, Central Tehran Branch, Islamic Azad University, Tehran,
+Iran.
+(4)Academic Centre for Dentistry Amsterdam (ACTA) Department of Oral
+Biochemistry, ACTA-Vrije Universiteit, Amsterdam, The Netherlands.
+(5)Laboratory for Astrophysics, Leiden Observatory, Leiden University, Leiden,
+The Netherlands.
+(6)Amsterdam UMC location VUmc, and Academic Centre for Dentistry Amsterdam
+(ACTA) Department of Oral and Maxillofacial Surgery/Pathology, Amsterdam Movement
+Sciences, Vrije Universiteit Amsterdam, Gustav Mahlerlaan 3004, 1081 LA,
+Amsterdam, The Netherlands.
+(7)European Space Agency (ESA), Technology Center (ESTEC), TEC-MMG lab,
+Noordwijk, The Netherlands.
+
+Extraterrestrial environments influence the biochemistry of organisms through a
+variety of factors, including high levels of radiation and vacuum, temperature
+extremes and a lack of water and nutrients. A wide variety of terrestrial
+microorganisms, including those counted amongst the most ancient inhabitants of
+Earth, can cope with high levels of salinity, extreme temperatures, desiccation
+and high levels of radiation. Key among these are the haloarchaea, considered
+particularly relevant for astrobiological studies due to their ability to thrive 
+in hypersaline environments. In this study, a novel haloarchaea isolated from
+Urmia Salt Lake, Iran, Halovarius luteus strain DA50T, was exposed to varying
+levels of simulated extraterrestrial conditions and compared to that of the
+bacteria Bacillus atrophaeus. Bacillus atrophaeus was selected for comparison due
+to its well-described resistance to extreme conditions and its ability to produce
+strong spore structures. Thin films were produced to investigate viability
+without the protective influence of cell multi-layers. Late exponential phase
+cultures of Hvr. luteus and B. atrophaeus were placed in brine and phosphate
+buffered saline media, respectively. The solutions were allowed to evaporate and 
+cells were encapsulated and exposed to radiation, desiccation and vacuum
+conditions, and their post-exposure viability was studied by the Most Probable
+Number method. The protein profile using High Performance Liquid Chromatography
+and Matrix Assisted Laser Desorption/Ionization bench top reflector
+time-of-flight are explored after vacuum and UV-radiation exposure. Results
+showed that the change in viability of the spore-forming bacteria B. atrophaeus
+was only minor whereas Hvr. luteus demonstrated a range of viability under
+different conditions. At the peak radiation flux of 105 J/m2 under nitrogen flow 
+and after two weeks of desiccation, Hvr. luteus demonstrated the greatest
+decrease in viability. This study further expands our understanding of the
+boundary conditions of astrobiologically relevant organisms in the harsh space
+environment.
+
+DOI: 10.1007/s11084-020-09597-7 
+PMID: 32617792 
+

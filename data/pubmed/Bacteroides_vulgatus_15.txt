@@ -1,0 +1,63 @@
+
+1. Nat Microbiol. 2020 Jun;5(6):838-847. doi: 10.1038/s41564-020-0694-0. Epub 2020
+Apr 13.
+
+Bacterial colonization reprograms the neonatal gut metabolome.
+
+Bittinger K(1), Zhao C(2), Li Y(3), Ford E(2), Friedman ES(4), Ni J(4), Kulkarni 
+CV(4), Cai J(5), Tian Y(5), Liu Q(5), Patterson AD(5), Sarkar D(6), Chan SHJ(6), 
+Maranas C(6), Saha-Shah A(7), Lund P(7), Garcia BA(7), Mattei LM(2), Gerber
+JS(8), Elovitz MA(9), Kelly A(10), DeRusso P(2), Kim D(2), Hofstaedter CE(2),
+Goulian M(11), Li H(3), Bushman FD(12), Zemel BS(13), Wu GD(14).
+
+Author information: 
+(1)Division of Gastroenterology, Hepatology, and Nutrition, Children's Hospital
+of Philadelphia, Philadelphia, PA, USA. bittingerk@email.chop.edu.
+(2)Division of Gastroenterology, Hepatology, and Nutrition, Children's Hospital
+of Philadelphia, Philadelphia, PA, USA.
+(3)Center for Clinical Epidemiology and Biostatistics, Perelman School of
+Medicine, University of Pennsylvania, Philadelphia, PA, USA.
+(4)Division of Gastroenterology, Perelman School of Medicine, University of
+Pennsylvania, Philadelphia, PA, USA.
+(5)Department of Veterinary and Biomedical Sciences, The Pennsylvania State
+University, University Park, PA, USA.
+(6)Department of Chemical Engineering, The Pennsylvania State University,
+University Park, PA, USA.
+(7)Epigenetics Institute, Department of Biochemistry and Biophysics, Perelman
+School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.
+(8)Division of Infectious Diseases, Children's Hospital of Philadelphia,
+Philadelphia, PA, USA.
+(9)Maternal and Child Health Research Center, Department of Obstetrics and
+Gynecology, Perelman School of Medicine, University of Pennsylvania,
+Philadelphia, PA, USA.
+(10)Division of Endocrinology & Diabetes, The Children's Hospital of
+Philadelphia, Philadelphia, PA, USA.
+(11)Department of Biology, University of Pennsylvania, Philadelphia, PA, USA.
+(12)Department of Microbiology, Perelman School of Medicine, University of
+Pennsylvania, Philadelphia, PA, USA.
+(13)Division of Gastroenterology, Hepatology, and Nutrition, Children's Hospital 
+of Philadelphia, Philadelphia, PA, USA. zemel@email.chop.edu.
+(14)Division of Gastroenterology, Perelman School of Medicine, University of
+Pennsylvania, Philadelphia, PA, USA. gdwu@pennmedicine.upenn.edu.
+
+Initial microbial colonization and later succession in the gut of human infants
+are linked to health and disease later in life. The timing of the appearance of
+the first gut microbiome, and the consequences for the early life metabolome, are
+just starting to be defined. Here, we evaluated the gut microbiome, proteome and 
+metabolome in 88 African-American newborns using faecal samples collected in the 
+first few days of life. Gut bacteria became detectable using molecular methods by
+16 h after birth. Detailed analysis of the three most common species, Escherichia
+coli, Enterococcus faecalis and Bacteroides vulgatus, did not suggest a genomic
+signature for neonatal gut colonization. The appearance of bacteria was
+associated with reduced abundance of approximately 50 human proteins, decreased
+levels of free amino acids and an increase in products of bacterial fermentation,
+including acetate and succinate. Using flux balance modelling and in vitro
+experiments, we provide evidence that fermentation of amino acids provides a
+mechanism for the initial growth of E. coli, the most common early colonizer,
+under anaerobic conditions. These results provide a deep characterization of the 
+first microbes in the human gut and show how the biochemical environment is
+altered by their appearance.
+
+DOI: 10.1038/s41564-020-0694-0 
+PMID: 32284564 
+

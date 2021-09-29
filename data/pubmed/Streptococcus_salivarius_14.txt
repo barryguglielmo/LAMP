@@ -1,0 +1,39 @@
+
+1. Arch Microbiol. 2020 Aug 3. doi: 10.1007/s00203-020-02005-8. [Epub ahead of
+print]
+
+Cell-free supernatant of Streptococcus salivarius M18 impairs the pathogenic
+properties of Pseudomonas aeruginosa and Klebsiella pneumonia.
+
+Tunçer S(1)(2), Karaçam S(3)(4).
+
+Author information: 
+(1)Vocational School of Health Services, Department of Medical Services and
+Techniques, Bilecik Şeyh Edebali University, 11230, Bilecik, Turkey.
+sinem.tuncer@bilecik.edu.tr.
+(2)Biotechnology Application and Research Center, Bilecik Şeyh Edebali
+University, 11230, Bilecik, Turkey. sinem.tuncer@bilecik.edu.tr.
+(3)Biotechnology Application and Research Center, Bilecik Şeyh Edebali
+University, 11230, Bilecik, Turkey.
+(4)Department of Biotechnology, Bilecik Şeyh Edebali University, 11230, Bilecik, 
+Turkey.
+
+M18 strain of Streptococcus salivarius is a bacterial replacement probiotic that 
+has been suggested for use in the oral cavity. Here, we have shown that S.
+salivarius M18 cell-free supernatant reduced the growth of the two most common
+human pathogens Pseudomonas aeruginosa and Klebsiella pneumonia and sensitized
+the pathogenic bacteria to antibiotic. Besides, the supernatant inhibited biofilm
+formation of P. aeruginosa drastically. For pinpointing the biomolecular changes 
+that occurred in P. aeruginosa incubated with the probiotic supernatant,
+attenuated total reflectance-Fourier transform infrared (ATR-FTIR) spectroscopy
+was used. Unsupervised learning algorithms, principal component analysis (PCA)
+and hierarchical cluster analysis (HCA), and intensity analyses of individual
+spectral bands exhibited comprehensive alterations in the polysaccharide and
+lipid contents and compositions of P. aeruginosa cultivated with S. salivarius
+M18 cell-free supernatant. These results indicate that S. salivarius M18 has the 
+potential for the prevention or alleviation of different pathogen-induced
+infections along with the infections of oral pathogens.
+
+DOI: 10.1007/s00203-020-02005-8 
+PMID: 32747998 
+

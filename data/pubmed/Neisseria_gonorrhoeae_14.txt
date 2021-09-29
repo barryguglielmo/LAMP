@@ -1,0 +1,44 @@
+
+1. J Leukoc Biol. 2020 Sep 25. doi: 10.1002/JLB.4MA0820-649R. [Epub ahead of print]
+
+Modulation of phagocytosis-induced cell death of human neutrophils by Neisseria
+gonorrhoeae.
+
+Cho C(1), Teghanemt A(1), Apicella MA(2), Nauseef WM(1)(2).
+
+Author information: 
+(1)Inflammation Program and Department of Internal Medicine Roy J. and Lucille A 
+Carver College of Medicine, University of Iowa and Veterans Administration
+Medical Center, Iowa City, Iowa, USA.
+(2)Department of Microbiology and Immunology, Roy J. and Lucille A. Carver
+College of Medicine, University of Iowa, Iowa City, Iowa, USA.
+
+Optimal innate immune response to infection includes eradication of potential
+pathogens, resolution of associated inflammation, and restitution of homeostasis.
+Phagocytosing human polymorphonuclear leukocytes (hPMN) undergo accelerated
+apoptosis, a process referred to as phagocytosis-induced cell death (PICD) and an
+early step in their clearance from inflammatory sites. Among human pathogens that
+modulate hPMN apoptosis, Neisseria gonorrhoeae delays PICD, which may contribute 
+to the exuberant neutrophilic inflammation that characterizes gonorrhea. To
+elucidate the mechanisms underlying delayed PICD, we compared features of hPMN
+cell death that followed phagocytosis of N. gonorrhoeae FA1090 wild-type (GC) or 
+serum-opsonized zymosan (OPZ), a prototypical stimulus of PICD.
+Phosphatidylserine externalization required NADPH oxidase activity after
+ingestion of GC or OPZ, and annexin V staining and DNA fragmentation were less
+after phagocytosis of GC compared to OPZ. Caspase 3/7 and caspase 9 activities
+after phagocytosis of GC were less than that seen after ingestion of OPZ, but
+caspase 8 activity was the same after ingestion of GC or OPZ. When hPMN
+sequentially ingested GC followed by OPZ, both caspase 3/7 and 9 activities were 
+less than that seen after OPZ alone, and the inhibition was dose dependent for
+GC, suggesting that ingestion of GC actively inhibited PICD. Sequential
+phagocytosis did not block caspase 8 activity, mitochondrial depolarization, or
+annexin V/propidium iodide staining compared to responses of hPMN fed OPZ alone, 
+despite inhibition of caspases 3/7 and 9. Taken together, these data suggest that
+active inhibition of the intrinsic pathway of apoptosis contributes to the delay 
+in PICD after hPMN ingestion of N. gonorrhoeae.
+
+©2020 Society for Leukocyte Biology.
+
+DOI: 10.1002/JLB.4MA0820-649R 
+PMID: 32977356 
+

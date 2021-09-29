@@ -1,0 +1,55 @@
+
+1. Microorganisms. 2019 Nov 19;7(11). pii: E580. doi: 10.3390/microorganisms7110580.
+
+Staphylococcus arlettae Genomics: Novel Insights on Candidate Antibiotic
+Resistance and Virulence Genes in an Emerging Opportunistic Pathogen.
+
+Lavecchia A(1), Chiara M(2), De Virgilio C(1), Manzari C(3), Monno R(4), De Carlo
+A(5), Pazzani C(6), Horner D(2)(3), Pesole G(1), Placido A(3).
+
+Author information: 
+(1)Department of Biosciences, Biotechnology and Biopharmaceutics, University of
+Bari "Aldo Moro", 70126 Bari, Italy.
+(2)Department of Biosciences, University of Milan, 20133 Milan, Italy.
+(3)Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies,
+National Research Council, 70126 Bari, Italy.
+(4)Department of Basic Medical Sciences, Neurosciences and Sense Organs,
+University of Bari Aldo Moro, 70124 Bari, Italy.
+(5)U.O.C. Hospital-University Analysis Laboratory-U.O.S.D. Microbiology and
+Virology-OO. RR., 71122 Foggia, Italy.
+(6)Department of Biology, University of Bari Aldo Moro, 70126 Bari, Italy.
+
+Coagulase Negative Staphylococci (CoNS) are becoming increasingly recognized as
+an important cause of human and animal infections. Notwithstanding their clinical
+relevance, annotation of genes potentially involved in pathogenicity and/or
+antibiotic resistance in the CoNS species Staphylococcus arlettae (SAR) is
+currently very limited. In the current work we describe the genome of a novel
+methicillin resistant isolate of SAR, which we named Bari, and present a
+comprehensive analysis of predicted antibiotic resistance profiles and virulence 
+determinants for all the 22 currently available SAR genomes. By comparing
+predicted antibiotic resistance and virulence-associated genes with those
+obtained from a manual selection of 148 bacterial strains belonging to 14
+different species of staphylococci and to two "outgroup" species, Bacillus
+subtilis (BS) and Macrococcus caseoliticus (MC), we derived some interesting
+observations concerning the types and number of antibiotic resistance-related and
+virulence-like genes in SAR. Interestingly, almost 50% of the putative antibiotic
+resistance determinants identified in this work, which include the clinically
+relevant mec, van, and cls genes, were shared among all the SAR strains herein
+considered (Bari included). Moreover, comparison of predicted antibiotic
+resistance profiles suggest that SAR is closely related to well-known pathogenic 
+Staphylococcus species, such as Staphylococcus aureus (SA) and Staphylococcus
+epidermidis (SE). A similar analysis of predicted virulence factors, revealed
+that several genes associated with pathogenesis (including, for example, ica,
+nuc, and ssp), which are commonly found in the genomes of pathogenic
+staphylococci such as Staphylococcus haemolyticus (SH) and Staphylococcus
+saprophyticus (SS), are observed also in the SAR strains for which a genomic
+sequence is available. All in all, we believe that the analyses presented in the 
+current study, by providing a consistent and comprehensive annotation of
+virulence and antibiotic resistance-related genes in SAR, can constitute a
+valuable resource for the study of molecular mechanisms of opportunistic
+pathogenicity in this species.
+
+DOI: 10.3390/microorganisms7110580 
+PMCID: PMC6920755
+PMID: 31752379 
+

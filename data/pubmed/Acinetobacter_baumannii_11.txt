@@ -1,0 +1,43 @@
+
+1. Antibiotics (Basel). 2020 Sep 28;9(10). pii: E647. doi:
+10.3390/antibiotics9100647.
+
+A Comparison of Colistin versus Colistin Plus Meropenem for the Treatment of
+Carbapenem-Resistant Acinetobacter baumannii in Critically Ill Patients: A
+Propensity Score-Matched Analysis.
+
+Katip W(1)(2), Uitrakul S(3), Oberdorfer P(2)(4).
+
+Author information: 
+(1)Department of Pharmaceutical Care, Faculty of Pharmacy, Chiang Mai University,
+Chiang Mai 50200, Thailand.
+(2)Epidemiology Research Group of Infectious Disease (ERGID), Chiang Mai
+University, Chiang Mai 50200, Thailand.
+(3)Department of Pharmaceutical Care, School of Pharmacy, Walailak University,
+Nakhon Si Thammarat 80160, Thailand.
+(4)Division of Infectious Diseases, Department of Pediatrics, Faculty of
+Medicine, Chiang Mai University, Chiang Mai 50200, Thailand.
+
+Carbapenem-resistant Acinetobacter baumannii (CRAB), an important nosocomial
+pathogen, occurs particularly in the intensive care unit (ICU). Thus, the aim of 
+this study was to compare the efficacy and safety of documented treatment with
+colistin monotherapy versus colistin plus meropenem in critically ill patients
+with CRAB infections at Chiang Mai University Hospital (CMUH). We conducted a
+retrospective cohort study of critically ill patients with CRAB infections in an 
+ICU from 2015 to 2017, who received colistin monotherapy versus colistin plus
+meropenem. After propensity score matching, an adjusted odds ratio (aOR) of a
+30-day mortality rate in patients who received colistin plus meropenem was 0.43
+compared to those who received colistin monotherapy (95% CI, 0.23-0.82, p =
+0.01). aORs of clinical response and microbiological response were also higher in
+patients who received colistin plus meropenem (1.81, 95% CI 1.01-3.26, p = 0.048 
+and 2.08, 95% CI 1.11-3.91, p = 0.023, respectively). There was no significant
+difference in nephrotoxicity (aOR, 0.76, 95% CI, 0.43-1.36, p = 0.363) between
+colistin monotherapy and colistin plus meropenem. In conclusion, the addition of 
+meropenem to colistin caused a reduction in 30-day mortality, higher clinical and
+microbiological responses, and did not increase nephrotoxicity compared to
+colistin monotherapy. Furthermore, 30-day mortality was significantly related
+with age, receiving vasopressor, having malignancy, and the APACHE II score.
+
+DOI: 10.3390/antibiotics9100647 
+PMID: 32998187 
+

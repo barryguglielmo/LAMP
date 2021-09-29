@@ -1,0 +1,49 @@
+
+1. Probiotics Antimicrob Proteins. 2020 Sep 25. doi: 10.1007/s12602-020-09709-9.
+[Epub ahead of print]
+
+Analysis of miRNA Expression in the Ileum of Broiler Chickens During Bacillus
+licheniformis H2 Supplementation Against Subclinical Necrotic Enteritis.
+
+Zhao Y(1), Zeng D(1), Wang H(2), Sun N(1), Xin J(1), Yang H(3), Lei L(3),
+Khalique A(1), Rajput DS(1), Pan K(1), Shu G(1), Jing B(1), Ni X(4).
+
+Author information: 
+(1)Animal Microecology Institute, College of Veterinary, Sichuan Agricultural
+University, Chengdu, Sichuan, China.
+(2)Guangdong Provincial Key Laboratory of Gastroenterology, Department of
+Gastroenterology, Institute of Gastroenterology of Guangdong Province, Nanfang
+Hospital, Southern Medical University, Guangzhou, China.
+(3)Chengdu Slan Biotechnology Co., Ltd, Chengdu, China.
+(4)Animal Microecology Institute, College of Veterinary, Sichuan Agricultural
+University, Chengdu, Sichuan, China. xueqinni@foxmail.com.
+
+Subclinical necrotic enteritis (SNE) is one of the serious threats to the poultry
+industry. Probiotics have been proven to exert beneficial effects in controlling 
+SNE. However, their exact mechanisms have not been fully elucidated. Moreover,
+few studies have focused on their impact on microRNAs (miRNAs). Therefore, the
+present study aimed to explore the miRNA expression profiles in the ileum of
+broiler chickens during probiotic supplementation for controlling SNE. A total of
+180 newly hatched male broilers were randomly allocated into three groups,
+including a negative control group, an SNE infection group, and a Bacillus
+licheniformis H2 pretreatment group. Illumina high-throughput sequencing was
+conducted to identify the miRNA expression of the three groups. Results showed
+that 628 miRNAs, including 582 known miRNAs and 46 novel miRNAs, were detected in
+the miRNA libraries. The target genes of 57 significantly differentially
+expressed miRNAs were predicted and annotated. Moreover, they were found to be
+partly enriched in pathways related to immunity and inflammation such as tumor
+necrosis factor receptor binding, immune response-regulating signaling pathway,
+Toll-like receptor 2 signaling pathway, interleukin-15 production, activation of 
+NF-κB-inducing kinase activity, and MAP kinase tyrosine/serine/threonine
+phosphatase activity. Some of the target genes of 57 miRNAs were related to the
+MAPK signaling pathway. Furthermore, the expression of several miRNAs, which may 
+be involved in the MAPK signaling pathway, was significantly affected by SNE
+induction and showed no significant difference in the presence of H2. All these
+findings provide comprehensive miRNA expression profiles of three different
+treatment groups. They further suggest that H2 could exert beneficial effects in 
+controlling SNE through immune and inflammatory response associated with altered 
+miRNA expression, such as the MAPK signaling pathway.
+
+DOI: 10.1007/s12602-020-09709-9 
+PMID: 32975724 
+

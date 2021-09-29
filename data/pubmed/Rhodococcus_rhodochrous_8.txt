@@ -1,0 +1,70 @@
+
+1. BMC Genomics. 2020 Jan 2;21(1):3. doi: 10.1186/s12864-019-6405-7.
+
+The complete genome sequence of the nitrile biocatalyst Rhodocccus rhodochrous
+ATCC BAA-870.
+
+Frederick J(1)(2)(3), Hennessy F(1), Horn U(4), de la Torre Cortés P(5), van den 
+Broek M(5), Strych U(6)(7), Willson R(6)(8), Hefer CA(9)(10), Daran JG(5), Sewell
+T(2), Otten LG(11), Brady D(12)(13).
+
+Author information: 
+(1)Protein Technologies, CSIR Biosciences, Meiring Naude Road, Brummeria,
+Pretoria, South Africa.
+(2)Electron Microscope Unit, University of Cape Town, Rondebosch, 7701, South
+Africa.
+(3)Present Address: LadHyx, UMR CNRS 7646, École Polytechnique, 91128, Palaiseau,
+France.
+(4)Meraka, CSIR, Meiring Naude Road, Brummeria, 0091, South Africa.
+(5)Industrial Microbiology, Department of Biotechnology, Delft University of
+Technology, Van der Maasweg 9, 2629 HZ, Delft, The Netherlands.
+(6)Biology and Biochemistry, University of Houston, 4800 Calhoun Road, Houston,
+TX, 77204, USA.
+(7)Present Address: Department of Pediatrics, Section of Tropical Medicine,
+Baylor College of Medicine, 1102 Bates Avenue, Houston, TX, 77030, USA.
+(8)Chemical and Biomolecular Engineering, University of Houston, 4800 Calhoun
+Road, Houston, TX, 77204, USA.
+(9)Bioinformatics and Computational Biology Unit, Department of Biochemistry,
+Genetics and Microbiology, University of Pretoria, Pretoria, 0002, South Africa.
+(10)Present Address: AgResearch Limited, Lincoln Research Centre, Private Bag
+4749, Christchurch, 8140, New Zealand.
+(11)Biocatalysis, Department of Biotechnology, Delft University of Technology,
+Van der Maasweg 9, 2629 HZ, Delft, The Netherlands. l.g.otten@tudelft.nl.
+(12)Protein Technologies, CSIR Biosciences, Meiring Naude Road, Brummeria,
+Pretoria, South Africa. dean.brady@wits.ac.za.
+(13)Molecular Sciences Institute, School of Chemistry, University of the
+Witwatersrand, PO, Wits, 2050, South Africa. dean.brady@wits.ac.za.
+
+BACKGROUND: Rhodococci are industrially important soil-dwelling Gram-positive
+bacteria that are well known for both nitrile hydrolysis and oxidative metabolism
+of aromatics. Rhodococcus rhodochrous ATCC BAA-870 is capable of metabolising a
+wide range of aliphatic and aromatic nitriles and amides. The genome of the
+organism was sequenced and analysed in order to better understand this whole cell
+biocatalyst.
+RESULTS: The genome of R. rhodochrous ATCC BAA-870 is the first Rhodococcus
+genome fully sequenced using Nanopore sequencing. The circular genome contains
+5.9 megabase pairs (Mbp) and includes a 0.53 Mbp linear plasmid, that together
+encode 7548 predicted protein sequences according to BASys annotation, and 5535
+predicted protein sequences according to RAST annotation. The genome contains
+numerous oxidoreductases, 15 identified antibiotic and secondary metabolite gene 
+clusters, several terpene and nonribosomal peptide synthetase clusters, as well
+as 6 putative clusters of unknown type. The 0.53 Mbp plasmid encodes 677
+predicted genes and contains the nitrile converting gene cluster, including a
+nitrilase, a low molecular weight nitrile hydratase, and an enantioselective
+amidase. Although there are fewer biotechnologically relevant enzymes compared to
+those found in rhodococci with larger genomes, such as the well-known Rhodococcus
+jostii RHA1, the abundance of transporters in combination with the myriad of
+enzymes found in strain BAA-870 might make it more suitable for use in
+industrially relevant processes than other rhodococci.
+CONCLUSIONS: The sequence and comprehensive description of the R. rhodochrous
+ATCC BAA-870 genome will facilitate the additional exploitation of rhodococci for
+biotechnological applications, as well as enable further characterisation of this
+model organism. The genome encodes a wide range of enzymes, many with unknown
+substrate specificities supporting potential applications in biotechnology,
+including nitrilases, nitrile hydratase, monooxygenases, cytochrome P450s,
+reductases, proteases, lipases, and transaminases.
+
+DOI: 10.1186/s12864-019-6405-7 
+PMCID: PMC6941271
+PMID: 31898479  [Indexed for MEDLINE]
+

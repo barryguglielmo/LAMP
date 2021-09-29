@@ -1,0 +1,48 @@
+
+1. FASEB Bioadv. 2020 Jul 16;2(8):506-520. doi: 10.1096/fba.2020-00029. eCollection 
+2020 Aug.
+
+Uterine infusion of bacteria alters the transcriptome of bovine oocytes.
+
+Piersanti RL(1), Block J(1), Ma Z(1), Jeong KC(1), Santos JEP(1), Yu F(2),
+Sheldon IM(3), Bromfield JJ(1).
+
+Author information: 
+(1)Department of Animal Sciences University of Florida Gainesville FL USA.
+(2)Interdisciplinary Center for Biotechnology Research University of Florida
+Gainesville FL USA.
+(3)Institute of Life Science Swansea University Medical School Swansea UK.
+
+Postpartum uterine infection reduces fertility in dairy cattle; however, the
+mechanisms of uterine infection-mediated infertility are unknown. Paradoxically, 
+infection-induced infertility persists after the resolution of disease. Oocytes
+are a finite resource, which are present at various stages of development during 
+uterine infection. It is likely that oocyte development is influenced by uterine 
+infection-induced changes to the follicular microenvironment. To better
+understand the impact of infection on oocyte quality we employed global
+transcriptomics of oocytes collected from heifers after receiving intrauterine
+infusion of pathogenic Escherichia coli and Trueperella pyogenes. We hypothesized
+that the oocyte transcriptome would be altered in response to intrauterine
+infection. A total of 452 differentially expressed genes were identified in
+oocytes collected from heifers 4 days after bacteria infusion compared to vehicle
+infusion, while 539 differentially expressed genes were identified in oocytes
+collected from heifers 60 days after bacteria infusion. Only 42 genes were
+differentially expressed in bacteria-infused heifers at both Day 4 and Day 60.
+Interferon, HMGB1, ILK, IL-6, and TGF-beta signaling pathways were downregulated 
+in oocytes collected at Day 4 from bacteria-infused heifers, while interferon,
+ILK, and IL-6 signaling were upregulated in oocytes collected at Day 60 from
+bacteria-infused heifers. These data suggest that bacterial infusion alters the
+oocyte transcriptome differently at Day 4 and Day 60, suggesting different
+follicle stages are susceptible to damage. Characterizing the long-term impacts
+of uterine infection on the oocyte transcriptome aids in our understanding of how
+infection causes infertility in dairy cattle.
+
+© 2020 The Authors. FASEB BioAdvances published by the Federation of American
+Societies for Experimental Biology.
+
+DOI: 10.1096/fba.2020-00029 
+PMCID: PMC7429353
+PMID: 32821881 
+
+Conflict of interest statement: The authors have nothing to declare.
+

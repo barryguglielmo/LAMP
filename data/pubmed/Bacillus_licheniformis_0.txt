@@ -1,0 +1,52 @@
+
+1. Mol Biol (Mosk). 2020 Sep-Oct;54(5):858-871. doi: 10.31857/S0026898420050043.
+
+[Hyper-Resistance of the Bacillus licheniformis 24 Strain to Oxidative Stress Is 
+Associated with Overexpression of Enzymatic Antioxidant System Genes].
+
+[Article in Russian]
+
+Karpov DS(1)(2), Osipova PG(3), Domashin AI(3), Polyakov NB(4)(5), Solovyev
+AI(4), Zubasheva MV(4), Zhukhovitsky VG(4)(6), Karpov VL(1), Poddubko SV(3),
+Novikova ND(3).
+
+Author information: 
+(1)Center for Precision Genome Editing and Genetic Technologies for Biomedicine, 
+Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, Moscow,
+119991 Russia.
+(2)aleom@yandex.ru.
+(3)State Scientific Center of the Russian Federation, Institute of Bio-Medical
+Problems, Russian Academy of Sciences, Moscow, 123007 Russia.
+(4)Gamaleya National Research Centre for Epidemiology and Microbiology, Ministry 
+of Health of the Russian Federation, Moscow, 123098 Russia.
+(5)Vernadsky Institute of Geochemistry and Analytical Chemistry, Russian Academy 
+of Sciences, Moscow, 119334 Russia.
+(6)Sechenov First Moscow State Medical University, Ministry of Health of the
+Russian Federation, Moscow, 119991 Russia.
+
+At the International Space Station (ISS), artificial living conditions are
+created and maintained to satisfy human needs, these conditions are also
+favorable for the growth of numerous microorganisms, molds and bacteria. Among
+the microorganisms detected on the ISS are those from the automicroflora of crew 
+members, and a significant number of spore-forming bacteria. In most cases, this 
+group of microorganisms gives rise to strains that are able to colonize, grow and
+reproduce on interior materials and equipment of stations, and may be involved in
+biodestructive processes. These bacteria show increased resistance to various
+stress factors, for example, DNA-damaging and oxidizing agents. The molecular
+mechanisms of this resistance to stress are poorly understood. As part of the
+sanitary-microbiological monitoring of the ISS habitat, the Bacillus
+licheniformis 24 strain was isolated. Here, we demonstrated that this strain has 
+increased resistance to hydrogen peroxide and Paraquat when compared to the
+"terrestrial" B. licheniformis B-10956 strain. B. licheniformis 24 overexpressed 
+genes encoding enzymes that neutralize reactive oxygen species, such as KatX
+catalase and the superoxide dismutases SodA and SodF. Apart from this, in
+comparison with B. licheniformis B-10956, of B. licheniformis 24 cells had lower 
+hydrogen sulfide production that was associated with sharply reduced expression
+of the cysIJ operon that encodes sulfite reductase. The results indicate that
+enzymatic antioxidant protective systems make a more significant contribution to 
+the hyper-resistance of Bacillus strains to oxidizing agents than components of
+non-enzymatic systems, such as hydrogen sulfide.
+
+DOI: 10.31857/S0026898420050043 
+PMID: 33009795 
+

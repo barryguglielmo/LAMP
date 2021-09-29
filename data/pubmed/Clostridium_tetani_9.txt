@@ -1,0 +1,48 @@
+
+1. Toxins (Basel). 2020 May 15;12(5). pii: E328. doi: 10.3390/toxins12050328.
+
+Tetanus Toxin Synthesis is Under the Control of A Complex Network of Regulatory
+Genes in Clostridium tetani.
+
+Chapeton-Montes D(1), Plourde L(2), Deneve C(1), Garnier D(2), Barbirato F(2),
+Colombié V(2), Demay S(2), Haustant G(1), Gorgette O(3), Schmitt C(3), Thouvenot 
+C(3), Brüggemann H(4), Popoff MR(1).
+
+Author information: 
+(1)Bactéries anaérobies et Toxines, Institut Pasteur, 75724 Paris, France.
+(2)Sanofi-Pasteur, 69280 Marcy l'Etoile, France.
+(3)Unité Technologie et Service Bioimagerie Ultrastructurale, Institut Pasteur,
+75724 Paris, France.
+(4)Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.
+
+Clostridium tetani produces a potent neurotoxin, the tetanus toxin (TeNT), which 
+is responsible for an often-fatal neurological disease (tetanus) characterized by
+spastic paralysis. Prevention is efficiently acquired by vaccination with the
+TeNT toxoid, which is obtained by C. tetani fermentation and subsequent
+purification and chemical inactivation. C. tetani synthesizes TeNT in a regulated
+manner. Indeed, the TeNT gene (tent) is mainly expressed in the late exponential 
+and early stationary growth phases. The gene tetR (tetanus regulatory gene),
+located immediately upstream of tent, encodes an alternative sigma factor which
+was previously identified as a positive regulator of tent. In addition, the
+genome of C. tetani encodes more than 127 putative regulators, including 30
+two-component systems (TCSs). Here, we investigated the impact of 12 regulators
+on TeNT synthesis which were selected based on their homology with related
+regulatory elements involved in toxin production in other clostridial species.
+Among nine TCSs tested, three of them impact TeNT production, including two
+positive regulators that indirectly stimulate tent and tetR transcription. One
+negative regulator was identified that interacts with both tent and tetR
+promoters. Two other TCSs showed a moderate effect: one binds to the tent
+promoter and weakly increases the extracellular TeNT level, and another one has a
+weak inverse effect. In addition, CodY (control of dciA (decoyinine induced
+operon) Y) but not Spo0A (sporulation stage 0) or the DNA repair protein Mfd
+(mutation frequency decline) positively controls TeNT synthesis by interacting
+with the tent promoter. Moreover, we found that inorganic phosphate and carbonate
+are among the environmental factors that control TeNT production. Our data show
+that TeNT synthesis is under the control of a complex network of regulators that 
+are largely distinct from those involved in the control of toxin production in
+Clostridium botulinum or Clostridium difficile.
+
+DOI: 10.3390/toxins12050328 
+PMCID: PMC7290440
+PMID: 32429286 
+

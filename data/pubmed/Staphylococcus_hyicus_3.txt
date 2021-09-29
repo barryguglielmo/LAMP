@@ -1,0 +1,54 @@
+
+1. BMC Vet Res. 2019 Dec 11;15(1):449. doi: 10.1186/s12917-019-2162-8.
+
+Antibiotic resistance in porcine pathogenic bacteria and relation to antibiotic
+usage.
+
+Holmer I(1), Salomonsen CM(2), Jorsal SE(1), Astrup LB(1), Jensen VF(1), Høg
+BB(1), Pedersen K(3).
+
+Author information: 
+(1)Technical University of Denmark, Kemitorvet Building 202, Anker Engelunds Vej 
+1, DK-2800, Kgs. Lyngby, Denmark.
+(2)SEGES, Agro Food Park 15, DK-8200, Aarhus N, Denmark.
+(3)National Veterinary Institute, Ulls väg 2B, 751 89, Uppsala, Sweden.
+karl.pedersen@sva.se.
+
+BACKGROUND: Optimal treatment and prudent use of antimicrobials for pigs is
+imperative to secure animal health and prevent development of critical
+resistance. An important step in this one-health context is to monitor resistance
+patterns of important animal pathogens. The aim of this study was to investigate 
+the antimicrobial resistance patterns of five major pathogens in Danish pigs
+during a period from 2004 to 2017 and elucidate any developments or associations 
+between resistance and usage of antibiotics.
+RESULTS: The minimum inhibitory concentration (MIC) for Escherichia coli,
+Actinobacillus pleuropneumoniae, Streptococcus suis, Bordetella bronchiseptica,
+and Staphylococcus hyicus was determined to representatives of antibiotic classes
+relevant for treatment or surveillance. Escherichia coli isolates were mostly
+sensitive to fluoroquinolones and colistin, whereas high levels of resistance
+were observed to ampicillin, spectinomycin, streptomycin, sulfonamides and
+tetracycline. While resistance levels to most compounds remained relatively
+stable during the period, resistance to florfenicol increased from 2.1% in 2004
+to 18.1% in 2017, likely in response to a concurrent increase in usage. A
+temporal association between resistance and usage was also observed for neomycin.
+E. coli serovars O138 and O149 were generally more resistant than O139. For A.
+pleuropneumoniae, the resistance pattern was homogenous and predictable
+throughout the study period, displaying high MIC values only to erythromycin
+whereas almost all isolates were susceptible to all other compounds. Most S. suis
+isolates were sensitive to penicillin whereas high resistance levels to
+erythromycin and tetracycline were recorded, and resistance to erythromycin and
+trimethoprim increasing over time. For S. hyicus, sensitivity to the majority of 
+the antimicrobials tested was observed. However, penicillin resistance was
+recorded in 69.4-88.9% of the isolates. All B. bronchiseptica isolates were
+resistant to ampicillin, whereas all but two isolates were sensitive to
+florfenicol. The data obtained have served as background for a recent formulation
+of evidence-based treatment guidelines for pigs.
+CONCLUSIONS: Antibiotic resistance varied for some pathogens over time and in
+response to usage. Resistance to critically important compounds was low. The
+results emphasize the need for continuous surveillance of resistance patterns
+also in pig pathogenic bacteria.
+
+DOI: 10.1186/s12917-019-2162-8 
+PMCID: PMC6907208
+PMID: 31829171  [Indexed for MEDLINE]
+

@@ -1,0 +1,41 @@
+
+1. Pathology. 2020 Oct;52(6):700-707. doi: 10.1016/j.pathol.2020.06.009. Epub 2020
+Aug 20.
+
+Genomic analysis of Lactococcus garvieae isolates.
+
+Lin YS(1), Kweh KH(2), Koh TH(3), Lau QC(2), Abdul Rahman NB(4).
+
+Author information: 
+(1)Yong Loo Lin School of Medicine, National University of Singapore, Singapore; 
+School of Life Science and Chemical Technology, Ngee Ann Polytechnic, Singapore.
+(2)School of Life Science and Chemical Technology, Ngee Ann Polytechnic,
+Singapore.
+(3)Department of Microbiology, Singapore General Hospital, Singapore.
+(4)Department of Microbiology, Singapore General Hospital, Singapore. Electronic 
+address: nurdyana.abdul.rahman@sgh.com.sg.
+
+Lactococcus garvieae is a well-known fish pathogen, and in recent years, a human 
+pathogen of increasing clinical significance. However, not much is known about
+the variances in characteristics of strains isolated locally and overseas. This
+study aims at conducting comparative genomic analysis on local and overseas
+L. garvieae isolates, to further understand the phylogenetic and virulence
+variances between the two groups. The genomic DNA of 11 local L. garvieae
+isolates (fish 6, human 5) were sequenced, annotated and typed using multi-locus 
+sequence typing (MLST). A total of six novel sequence types (STs) were found in
+the local isolates. Genotypic overlapping of the STs was observed between local
+fish and human isolates with overseas fish, food and human clinical isolates.
+Thereby, suggesting a possible transmission between fish or food and humans.
+Virulence genes (putative internalin and putative mucus adhesin) were found to be
+specific to genomic clusters (GC), GC2 and GC3. A higher incidence of resistance 
+genes was also observed in local isolates (n=8, 72.72%) when compared to the
+overseas isolates (n=7, 41.18%). This study represents the first evidence of
+genetic variances amongst local and overseas isolates, and virulence
+characteristics specific to the phylogeny of L. garvieae.
+
+Copyright © 2020 Royal College of Pathologists of Australasia. Published by
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.pathol.2020.06.009 
+PMID: 32829891 
+

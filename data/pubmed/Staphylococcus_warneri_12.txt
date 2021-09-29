@@ -1,0 +1,48 @@
+
+1. Heliyon. 2020 Apr 20;6(4):e03700. doi: 10.1016/j.heliyon.2020.e03700. eCollection
+2020 Apr.
+
+Simultaneous profiling and cultivation of the skin microbiome of healthy young
+adult skin for the development of therapeutic agents.
+
+Khayyira AS(1), Rosdina AE(1), Irianti MI(1), Malik A(1).
+
+Author information: 
+(1)Division of Pharmaceutical Microbiology and Biotechnology, Faculty of
+Pharmacy, Universitas Indonesia, 16424, Depok, Indonesia.
+
+Background: Studies on the impact of the skin microbiota on human health have
+been gaining more attention. Bacteria are associated with various diseases,
+although certain strains of bacteria, which are known as probiotics, are
+considered beneficial. Mixtures of several bacteria (bacterial cocktail) isolated
+from targeted organs have shown promising modulatory activities for use in skin
+therapeutics. The objectives of this study were to determine and identify the
+microbial communities on the skin that can potentially be used as probiotics, as 
+determined by bacterial isolation and cultivation, followed by next-generation
+sequencing (NGS).
+Results: Samples were collected by swabbing on forehead and cheek skin. Genomic
+DNA from bacterial swab samples were directly extracted to be further processed
+into NGS. Cultivation of skin bacteria was carried out in subsequent medium.
+Thus, around twenty bacterial isolates with different characteristics were
+selected and identified by both culture-based method and 16sRNA sequencing. We
+found that Actinobacteria and Firmicutes are the most abundant phylum present on 
+the skin as presented by NGS data, which constitute to 67% and 28.59% of the
+whole bacterial population, consecutively. However, Staphylococcus hominis,
+Staphylococcus warneri, and Micrococcus luteus (AN MK968325.1; AN MK968315.1; and
+MK968318.1 respectively) were able to be obtained in the samples of cultivable,
+and could be potentially developed as probiotics in skin microbiome therapeutic
+as well as for postbiotic formulation.
+Conclusion: Skin microbiome is considered to provide several probiotics for skin 
+therapeutic. However, some opportunistic pathogens were discovered in this study 
+population. Thus, the promising formula of bacterial cocktail for skin microbiome
+therapeutic must be thoroughly elucidated to avoid unwanted species. Our study is
+the first human skin microbiome profile of Indonesia resulted from a Next
+Generation Sequencing as an effort to show a representative of tropical country
+profile.
+
+© 2020 The Authors.
+
+DOI: 10.1016/j.heliyon.2020.e03700 
+PMCID: PMC7176942
+PMID: 32337379 
+

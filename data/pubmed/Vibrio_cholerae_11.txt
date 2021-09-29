@@ -1,0 +1,51 @@
+
+1. Front Microbiol. 2020 Aug 26;11:1838. doi: 10.3389/fmicb.2020.01838. eCollection 
+2020.
+
+Virulence Pattern and Genomic Diversity of Vibrio cholerae O1 and O139 Strains
+Isolated From Clinical and Environmental Sources in India.
+
+Kanampalliwar A(1), Singh DV(1)(2).
+
+Author information: 
+(1)Department of Infectious Disease Biology, Institute of Life Sciences,
+Bhubaneswar, India.
+(2)Department of Biotechnology, School of Earth, Biological and Environmental
+Sciences, Central University of South Bihar, Gaya, India.
+
+Vibrio cholerae is an autochthonous inhabitant of the aquatic environment.
+Several molecular methods have been used for typing V. cholerae strains, but
+there is no proper database for such scheme, including multilocus sequence typing
+(MLST) for V. cholerae O1 and O139 strains. We used 54 V. cholerae O1 and three
+O139 strains isolated from clinical and environmental sources and regions of
+India during the time period of 1975-2015 to determine the presence of virulence 
+genes and production of biofilm. We devised a MLST scheme and developed a
+database for typing V. cholerae strains. Also, we performed pulsed-field gel
+electrophoresis to see the genomic diversity among them and compared it with
+MLST. We used the MEGA 7.0 software for the alignment and comparison of different
+nucleotide sequences. The advanced cluster analysis was performed to define
+complexes. All strains of V. cholerae, except five strains, showed variation in
+phenotypic characteristics but carried virulence-associated genes indicating they
+belonged to the El Tor/hybrid/O139 variants. MLST analysis showed 455 sequences
+types among V. cholerae strains, irrespective of sources and places of isolation.
+With these findings, we set up an MLST database on PubMLST.org using the BIGSdb
+software for V. cholerae O1 and O139 strains, which is available at
+https://pubmlst.org/vcholerae/ under the O1/O139 scheme. The pulsed-field gel
+electrophoresis (PFGE) fingerprint showed six fingerprint patterns namely E, F,
+G, H, I, and J clusters among 33 strains including strain N16961 carrying El Tor 
+ctxB of which cluster J representing O139 strain was entirely different from
+other El Tor strains. Twenty strains carrying Haitian ctxB showed a fingerprint
+pattern classified as cluster A. Of the five strains, four carrying classical
+ctxB comprising two each of El Tor and O139 strains and one El Tor strain
+carrying Haitian ctxB clustered together under cluster B along with V. cholerae
+569B showing pattern D. This study thus indicates that V. cholerae strains are
+undergoing continuous genetic changes leading to the emergence of new strains.
+The MLST scheme was found more appropriate compared to PFGE that can be used to
+determine the genomic diversity and population structure of V. cholerae.
+
+Copyright © 2020 Kanampalliwar and Singh.
+
+DOI: 10.3389/fmicb.2020.01838 
+PMCID: PMC7479179
+PMID: 32982995 
+

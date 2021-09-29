@@ -1,0 +1,38 @@
+
+1. Biotechnol Lett. 2020 Aug;42(8):1535-1545. doi: 10.1007/s10529-020-02881-6. Epub 
+2020 Apr 3.
+
+Purification and biochemical characterization of a novel glucansucrase from
+Leuconostoc citreum B-2.
+
+Zhao B(1), Du R(1), Wang J(1), Xu M(1), Han Y(1), Han X(2), Zhou Z(3).
+
+Author information: 
+(1)School of Chemical Engineering and Technology, Tianjin University, Tianjin,
+300072, People's Republic of China.
+(2)School of Biological Science and Engineering, Hebei University of Science and 
+Technology, Shijiazhuang, 050018, People's Republic of China. hanxue_h@163.com.
+(3)School of Chemical Engineering and Technology, Tianjin University, Tianjin,
+300072, People's Republic of China. zzj@tju.edu.cn.
+
+OBJECTIVE: Although the extracellular polysaccharides have been analyzed in the
+previous period, the biochemical, enzymological characters and stimulation and
+inhibition effect on glucansucrase are not fully understood.
+RESULTS: After three steps purification, salting out, DEAE-Sepharose and Sephadex
+G-75, the final specific activity was 264.84 U/mg protein with 4.31-fold. The
+SDS-PAGE analysis of fraction gave a single band 170.35 kDa in the stained gel.
+The active band was analyzed with LC-MS/MS to identify glucansucrase. The highest
+coverage rate of dextransucrase from Leu. citreum (ACY92456.2) was 55.60%, the
+results were speculated that the glucansucrase secreted from Leu. citreum B-2 may
+be a novel glucansucrase. The purified enzyme was optimally active at 20-30 °C
+and pH 6.0-8.0. Metal ions K+, Na+, Ca2+, Mn2+, Mg2+, and Cr+ had an apparent
+stimulating effect on enzyme activity, especially in divalent ions Ca2+ and Mn2+,
+the residual activities were higher than 200%. In a reverse, Hg+, acetonitrile,
+SDS, salt, and guanidine expressed inhibition effect on enzyme residual activity.
+The KM and Vmax were detected to be 4.82 mM and 0.97 U/mg, respectively.
+CONCLUSION: All these data collectively indicate that B-2 glucansucrase is a
+novel one, which have good properties and may applied to new food areas.
+
+DOI: 10.1007/s10529-020-02881-6 
+PMID: 32246347 
+

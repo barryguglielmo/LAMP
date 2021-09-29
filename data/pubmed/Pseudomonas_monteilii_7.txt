@@ -1,0 +1,46 @@
+
+1. Water Res. 2019 Nov 15;165:114979. doi: 10.1016/j.watres.2019.114979. Epub 2019
+Aug 13.
+
+Selective enrichment of bacterial pathogens by microplastic biofilm.
+
+Wu X(1), Pan J(2), Li M(2), Li Y(1), Bartlam M(3), Wang Y(4).
+
+Author information: 
+(1)Key Laboratory of Pollution Processes and Environmental Criteria (Ministry of 
+Education), Tianjin Key Laboratory of Environmental Remediation and Pollution
+Control, College of Environmental Science and Engineering, Nankai University,
+Tianjin, 300071, China.
+(2)Institute for Advanced Study, Shenzhen University, Shenzhen, 518060, China.
+(3)College of Life Science, Nankai University, 300071, China. Electronic address:
+bartlam@nankai.edu.cn.
+(4)Key Laboratory of Pollution Processes and Environmental Criteria (Ministry of 
+Education), Tianjin Key Laboratory of Environmental Remediation and Pollution
+Control, College of Environmental Science and Engineering, Nankai University,
+Tianjin, 300071, China. Electronic address: wangyy@nankai.edu.cn.
+
+Microplastics have been found to be ubiquitous in freshwater ecosystems,
+providing a novel substrate for biofilm formation. Here, we incubated biofilm on 
+microplastics and two natural substrates (rock and leaf) under a controlled
+environment to investigate the differences of microbial community structure,
+antibiotic resistance gene (ARG) profiles, and ARG microbial hosts between
+biofilms on three types of substrates. Results from high-throughput sequencing of
+16S rRNA gene revealed that microplastic biofilm had a distinctive community
+structure. Network analyses suggested that microplastic biofilm possessed the
+highest node connected community, but with lower average path length, network
+diameter and modularity compared with biofilm on two natural particles.
+Metagenomic analyses further revealed microplastic biofilm with broad-spectrum
+and distinctive resistome. Specifically, according to taxonomic annotation of ARG
+microbial hosts, two opportunisitic human pathogens (Pseudomonas monteilii,
+Pseudomonas mendocina) and one plant pathogen (Pseudomonas syringae) were
+detected only in the microplastic biofilm, but not in biofilms formed on natural 
+substrates. Our findings suggest that microplastic is a novel microbial niche and
+may serve as a vector for ARGs and pathogens to new environment in river water,
+generating freshwater environmental risk and exerting adverse impacts on human
+health.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.watres.2019.114979 
+PMID: 31445309  [Indexed for MEDLINE]
+

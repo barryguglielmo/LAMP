@@ -1,0 +1,36 @@
+
+1. Biotechnol Prog. 2020 May 1:e3011. doi: 10.1002/btpr.3011. [Epub ahead of print]
+
+Biosynthesis of vitamin B12 by Propionibacterium freudenreichii subsp. shermanii 
+ATCC 13673 using liquid acid protein residue of soybean as culture medium.
+
+Assis DA(1), Matte C(1), Aschidamini B(1), Rodrigues E(1), Záchia Ayub MA(1).
+
+Author information: 
+(1)Biotechnology & Biochemical Engineering Laboratory (BiotecLab), Food Science
+and Technology Institute, Federal University of Rio Grande do Sul, Porto Alegre, 
+Brazil.
+
+Vitamin B12 deficiency still persists, mainly caused by low intake of animal food
+products affecting vegetarians, vegans, and populations of underdeveloped
+countries. In this study, we investigate the biosynthesis of vitamin B12 by
+potential probiotic bacterium using an agroindustry residue, the liquid acid
+protein residue of soybean (LAPRS), as a low-cost, animal derivate-free
+alternative culture medium. Cultures of Propionibacterium freudenreichii subsp.
+shermanii ATCC 13673 growing in LAPRS for vitamin B12 biosynthesis were studied
+using the Plackett-Burman experimental approach, followed by a central composite 
+design 22 to optimize the concentration of significant variables. We also
+performed a proteolytic treatment of LAPRS and evaluated the optimized-hydrolyzed
+medium influence on the microbial growth and metabolism in shaker flask and
+bioreactor experiments. In this all-plant source medium, P. freudenreichii subsp.
+shermanii produced high concentrations of cells and high amounts of vitamin B12
+(0.6 mg/g cells) after process optimization. These results suggest the
+possibility of producing vitamin B12 by a potential probiotic bacterium in a very
+cheap, animal derivate-free medium to address the needs of specific population
+groups, at the same time reducing the production costs of this essential vitamin.
+
+© 2020 American Institute of Chemical Engineers.
+
+DOI: 10.1002/btpr.3011 
+PMID: 32356411 
+

@@ -1,0 +1,53 @@
+
+1. Food Microbiol. 2020 Dec;92:103590. doi: 10.1016/j.fm.2020.103590. Epub 2020 Jul 
+8.
+
+Verification of peroxyacetic acid treatment against L. monocytogenes on fresh
+apples using E. faecium NRRL B-2354 as a surrogate in commercial spray-bar
+operations.
+
+Shen X(1), Su Y(1), Hua Z(1), Cong J(2), Dhowlaghar N(1), Sun Q(1), Lin S(1),
+Green T(1), Perrault M(3), Galeni M(3), Hanrahan I(3), Suslow TV(4), Zhu MJ(5).
+
+Author information: 
+(1)School of Food Science, Washington State University, Pullman, WA, 99164, USA.
+(2)School of Food Science, Washington State University, Pullman, WA, 99164, USA; 
+School of Public Administration, Shanghai Open University, Shanghai, 200433, PR
+China.
+(3)Washington Tree Fruit Research Commission, Wenatchee, WA, 98801, USA.
+(4)Department of Plant Sciences, University of California, One Shields Avenue,
+Davis, CA, 95616, USA.
+(5)School of Food Science, Washington State University, Pullman, WA, 99164, USA. 
+Electronic address: meijun.zhu@wsu.edu.
+
+Peroxyacetic acid (PAA) is a commonly used antimicrobial in apple spray bar
+interventions during post-harvest packing. However, limited information is
+available about its efficacy against foodborne pathogens on fresh apples under
+commercial packing conditions. In this study, the practical efficacies of PAA
+against Listeria monocytogenes on fresh apples during spray bar operation at
+ambient and elevated temperature were validated in three commercial packing
+facilities using Enterococcus faecium NRRL B-2354 as a surrogate strain. Apples
+were inoculated with E. faecium at ~6.5 Log10 CFU/apple and subjected to PAA
+spray bar interventions per commercial packing line practice. At each temperature
+and contact time intervention combination, 20-24 inoculated apples were processed
+together with 72-80 non-inoculated apples. Applying 80 ppm PAA at ambient
+temperature (17-21 °C) achieved a similar log reduction (P > 0.05) of E. faecium 
+on Granny Smith apples (GSA) in three apple packing facilities, which caused
+1.12-1.23 and 1.18-1.32 Log10 CFU/apple reductions of E. faecium on GSA for
+30-sec and 60-sec intervention, respectively. Increasing the temperature of the
+PAA solution to 43-45 °C enhanced its bactericidal effect against E. faecium,
+causing 1.45, 1.86 and 2.19 Log10 CFU/apple reductions in three packing
+facilities for a 30-sec contact, and 1.50, 2.24, and 2.29 Log10 CFU/apple
+reductions for a 60-sec contact, respectively. Similar efficacies (P > 0.05) of
+PAA at both ambient and elevated temperature were also observed on Fuji apples.
+Spraying PAA on apples at ambient or elevated temperature reduced the level of E.
+faecium cross-contamination from inoculated apples to non-inoculated apples but
+could not eliminate cross-contamination. Data from this study provides valuable
+technical information and a reference point for the apple industry in controlling
+L. monocytogenes and verifying the effectiveness of their practices.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fm.2020.103590 
+PMID: 32950134 
+

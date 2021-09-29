@@ -1,0 +1,37 @@
+
+1. Glycobiology. 2020 Sep 3. pii: cwaa084. doi: 10.1093/glycob/cwaa084. [Epub ahead 
+of print]
+
+Novel Serine/Threonine-O-glycosylation with N-Acetylneuraminic acid and
+3-Deoxy-D-manno-octulosonic acid by bacterial flagellin glycosyltransferases.
+
+Khairnar A(1), Sunsunwal S(1), Babu P(2), Ramya TNC(1).
+
+Author information: 
+(1)CSIR-Institute of Microbial Technology, Sector 39-A, Chandigarh 160036, India.
+(2)Centre for Cellular and Molecular Platforms, Bengaluru, India.
+
+Some bacterial flagellins are O-glycosylated on surface-exposed Serine/Threonine 
+residues with nonulosonic acids such as pseudaminic acid, legionaminic acid, and 
+their derivatives by flagellin nonulosonic acid glycosyltransferases, also called
+Motility associated factors (Maf). We report here two new glycosidic linkages
+previously unknown in any organism, Serine/Threonine-O-linked N-Acetylneuraminic 
+acid (Ser/Thr-O-Neu5Ac) and Serine/Threonine-O-linked 3-Deoxy-D-manno-octulosonic
+acid (Ser/Thr-O-KDO), both catalysed by Geobacillus kaustophilus Maf and
+Clostridium botulinum Maf. We identified these novel glycosidic linkages in
+recombinant G. kaustophilus and C. botulinum flagellins that were co-expressed
+with their cognate recombinant Maf protein in Escherichia coli strains producing 
+the appropriate nucleotide sugar glycosyl donor. Our finding, that both G.
+kaustophilus Maf (putative flagellin sialyltransferase) and C. botulinum Maf
+(putative flagellin legionaminic acid transferase) catalyzed Neu5Ac and KDO
+transfer on to flagellin, indicates that Maf glycosyltransferases display donor
+substrate promiscuity. Maf glycosyltransferases have the potential to radically
+expand the scope of neoglycopeptide synthesis and posttranslational protein
+engineering.
+
+© The Author(s) 2020. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/glycob/cwaa084 
+PMID: 32886756 
+

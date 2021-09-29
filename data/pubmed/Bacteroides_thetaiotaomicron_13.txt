@@ -1,0 +1,50 @@
+
+1. Cell Host Microbe. 2020 Sep 9;28(3):371-379.e5. doi: 10.1016/j.chom.2020.06.011. 
+Epub 2020 Jul 10.
+
+Bacteroides thetaiotaomicron-Infecting Bacteriophage Isolates Inform
+Sequence-Based Host Range Predictions.
+
+Hryckowian AJ(1), Merrill BD(2), Porter NT(3), Van Treuren W(2), Nelson EJ(4),
+Garlena RA(5), Russell DA(5), Martens EC(3), Sonnenburg JL(6).
+
+Author information: 
+(1)Department of Microbiology & Immunology, Stanford University School of
+Medicine, Stanford, CA 94305, USA. Electronic address:
+hryckowian@medicine.wisc.edu.
+(2)Department of Microbiology & Immunology, Stanford University School of
+Medicine, Stanford, CA 94305, USA.
+(3)Department of Microbiology & Immunology, University of Michigan Medical
+School, Ann Arbor, MI 48109, USA.
+(4)Emerging Pathogens Institute, University of Florida, Gainesville, FL 32611,
+USA.
+(5)Department of Biological Sciences, University of Pittsburgh, Pittsburgh, PA
+15213, USA.
+(6)Department of Microbiology & Immunology, Stanford University School of
+Medicine, Stanford, CA 94305, USA. Electronic address: jsonnenburg@stanford.edu.
+
+Comment in
+    Cell Host Microbe. 2020 Sep 9;28(3):353-355.
+
+Our emerging view of the gut microbiome largely focuses on bacteria, while less
+is known about other microbial components, such as bacteriophages (phages).
+Though phages are abundant in the gut, very few phages have been isolated from
+this ecosystem. Here, we report the genomes of 27 phages from the United States
+and Bangladesh that infect the prevalent human gut bacterium Bacteroides
+thetaiotaomicron. These phages are mostly distinct from previously sequenced
+phages with the exception of two, which are crAss-like phages. We compare these
+isolates to existing human gut metagenomes, revealing similarities to previously 
+inferred phages and additional unexplored phage diversity. Finally, we use host
+tropisms of these phages to identify alleles of phage structural genes associated
+with infectivity. This work provides a detailed view of the gut's "viral dark
+matter" and a framework for future efforts to further integrate isolation- and
+sequencing-focused efforts to understand gut-resident phages.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.chom.2020.06.011 
+PMID: 32652063 
+
+Conflict of interest statement: Declaration of Interests The authors declare no
+competing interests.
+

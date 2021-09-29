@@ -1,0 +1,59 @@
+
+1. Cancer Sci. 2020 Sep 5. doi: 10.1111/cas.14641. [Epub ahead of print]
+
+Icaritin-induced immunomodulatory efficacy in advanced hepatitis B virus-related 
+hepatocellular carcinoma: Immunodynamic biomarkers and overall survival.
+
+Qin SK(1), Li Q(2), Ming Xu J(3), Liang J(4), Cheng Y(5), Fan Y(2), Jiang J(2),
+Ye H(6), Tao H(7), Li L(7), Zheng L(7), Wei Z(8), Li S(9), Meng K(9), Ye B(9),
+Sun Y(2).
+
+Author information: 
+(1)Clinical Oncology Department, Nanjing Jinling Hospital, Nanjing, China.
+(2)National Cancer Center/National Clinical Research Center, Cancer Hospital,
+Chinese Academy of Medical Science and Peking Union Medical College, Beijing,
+China.
+(3)The 5th Medical Centre, Chinese PLA General Hospital, Beijing, China.
+(4)Clinical Oncology Department, The Affiliated Hospital of Qingdao University,
+Qingdao, China.
+(5)Clinical Oncology Department, Jilin Cancer Hospital, Changchun, China.
+(6)Research & Development Department, SinoTech Genomics, Shanghai, China.
+(7)School of Life Science, Sun Yat-Sen University, Guangzhou, China.
+(8)Biostatistical Department, Tigermed Consulting Co., Ltd., Shanghai, China.
+(9)Research & Clinical Development, Shenogen Pharma Group, Beijing, China.
+
+Advanced hepatitis B virus (HBV)-related hepatocellular carcinoma HCC with poor
+prognosis is often associated with chronic inflammation, immune tolerance, and
+marked heterogeneity. The interleukin-6 (IL-6)/JAK/STAT3 signal pathways play
+multiple regulatory roles in modulating inflammation and immunity in cancers.
+Polarization of myeloid-derived suppressor cells (MDSCs) is involved in
+HBV-related immunosuppression and CD8+ T-cell activation through ERK/IL-6/STAT3. 
+Icaritin is a small molecule that has displayed anticancer activities through
+IL-6/JAK/STAT3 pathways in tumor cells and immune cells including CD8+ T cells,
+MDSCs, neutrophils, and macrophages. This study aimed to confirm icaritin
+immunomodulation in advanced HBV-related HCC patients with poor prognosis.
+Immunomodulation of MDSCs was evaluated in BALB/c mice in vivo. Immunomodulation 
+of serum cytokines and a panel of immune checkpoint proteins were assessed in
+HBV-related, histologically confirmed HCC patients. Poor prognostic
+characteristics included HBV infection, bulky tumors, Child-Pugh B
+classification, and metastasis. Clinical end-points included safety, tumor
+response, and overall survival (OS). Icaritin treatment-induced dynamics of serum
+cytokines IL-6, IL-8, IL-10, and tumor necrosis factor-α, and soluble immune
+checkpoint proteins TIM3, LAG3, CD28, CD80, and CTLA-4 were assessed. No grade
+III/IV treatment-related adverse events were observed. Time-to-progression was
+significantly associated with the prognostic factors. Improved survival was
+observed in the advanced HCC patients with dynamic changes of cytokines, immune
+checkpoint proteins, and immune cells. Median OS (329-565 days) was significantly
+correlated with baseline hepatitis B surface antigen positivity, cytokines, tumor
+neoantigens, and Stenotrophomonas maltophilia infection. Composite biomarker
+scores of high-level α-fetoprotein and T helper type I (Th1)/Th2 cytokines
+associated with favorable survival warrant further clinical development of
+icaritin as an alternative immune-modulatory regimen to treat advanced HCC
+patients with poor prognosis.
+
+© 2020 The Authors. Cancer Science published by John Wiley & Sons Australia, Ltd 
+on behalf of Japanese Cancer Association.
+
+DOI: 10.1111/cas.14641 
+PMID: 32889778 
+

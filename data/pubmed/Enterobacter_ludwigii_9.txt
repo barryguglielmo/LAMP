@@ -1,0 +1,40 @@
+
+1. Invert Neurosci. 2019 Oct 22;19(4):13. doi: 10.1007/s10158-019-0233-y.
+
+An infection of Enterobacter ludwigii affects development and causes
+age-dependent neurodegeneration in Drosophila melanogaster.
+
+Priyadarsini S(1), Sahoo M(2), Sahu S(1), Jayabalan R(2), Mishra M(3).
+
+Author information: 
+(1)Neural Developmental Biology Lab, National Institute of Technology, Rourkela, 
+Odisha, 769008, India.
+(2)Food Microbiology and Bioprocess Laboratory, Department of Life Science,
+National Institute of Technology, Rourkela, Odisha, 769008, India.
+(3)Neural Developmental Biology Lab, National Institute of Technology, Rourkela, 
+Odisha, 769008, India. mishramo@nitrkl.ac.in.
+
+The effects of teeth-blackening bacteria Enterobacter ludwigii on the
+physiological system were investigated using the model organism Drosophila
+melanogaster. The bacteria were mixed with the fly food, and its effect was
+checked on the growth, development and behaviour of Drosophila. Microbes generate
+reactive oxygen species (ROS) within the haemolymph of the larvae once it enters 
+into the body. The increased amount of ROS was evidenced by the NBT assay and
+using 2',7'-dichlorofluorescin diacetate dye, which indicates the mitochondrial
+ROS. The increased amount of ROS resulted in a number of abnormal nuclei within
+the gut. Besides that larvae walking became sluggish in comparison with wild type
+although the larvae crawling path did not change much. Flies hatched from the
+infectious larvae have the posterior scutellar bristle absent from the thorax and
+abnormal mechanosensory hairs in the eye, and they undergo time-dependent
+neurodegeneration as evidenced by the geotrophic and phototrophic assays. To
+decipher the mechanism of neurodegeneration, flies were checked for the presence 
+of four important bioamines: tyramine, cadaverine, putrescine and histamine. Out 
+of these four, histamine was found to be absent in infected flies. Histamine is a
+key molecule required for the functioning of the photoreceptor as well as
+mechanoreceptors. The mechanism via which mouth infectious bacteria E. ludwigii
+can affect the development and cause age-dependent neurodegeneration is explained
+in this paper.
+
+DOI: 10.1007/s10158-019-0233-y 
+PMID: 31641932  [Indexed for MEDLINE]
+

@@ -1,0 +1,52 @@
+
+1. Infect Drug Resist. 2020 Jun 10;13:1697-1711. doi: 10.2147/IDR.S253363.
+eCollection 2020.
+
+The Antibacterial Activity and Mechanism of Action of Luteolin Against
+Trueperella pyogenes.
+
+Guo Y(1), Liu Y(2), Zhang Z(1), Chen M(1), Zhang D(1), Tian C(1), Liu M(1), Jiang
+G(2).
+
+Author information: 
+(1)Key Laboratory of Livestock Infectious Diseases in Northeast China, Ministry
+of Education, College of Animal Science and Veterinary Medicine, Shenyang
+Agricultural University, Shenyang, Liaoning, People's Republic of China.
+(2)Dalian Sanyi Animal Medicine Co., Ltd., Dalian, Liaoning, People's Republic of
+China.
+
+Purpose: This research aimed to investigate the antibacterial activity and
+potential mechanism of luteolin against T. pyogenes.
+Materials and Methods: The broth microdilution method was used to determine the
+minimum inhibitory concentrations (MICs) of luteolin against various T. pyogenes 
+strains. The potential mechanism of action of luteolin was elucidated through
+testing and analysing the luteolin-induced alterations of T. pyogenes in several 
+aspects, including cell wall, cell membrane, protein expression, nucleic acid
+content, topoisomerase activity and energy metabolism.
+Results: The MIC values of luteolin against various T. pyogenes isolates and
+ATCC19411 were 78 µg/mL. The increased cell membrane permeability, destruction of
+cell wall integrity and TEM images after exposure to luteolin showed that the
+cell wall and membrane were damaged. The content of total protein and nucleic
+acid in T. pyogenes decreased significantly after treatment with luteolin (1/2
+MIC) for 12, 24, and 36 h. Moreover, a hypochromic effect was observed in the
+absorption spectrum of luteolin when deoxyribonucleic acid (DNA) was added. In
+addition, after treatment with luteolin, a decrease in nicked or relaxed DNA
+content, which was catalysed by T. pyogenes-isolated DNA topoisomerase, was
+observed. In addition, the adenosine triphosphate (ATP) content in cells and the 
+activity of succinate dehydrogenase (SDH) both decreased when T. pyogenes was
+exposed to different concentrations (1/4 MIC, 1/2 MIC, 1 MIC, 2 MIC) of luteolin 
+for 1 h.
+Conclusion: Luteolin showed distinct antibacterial activity against T. pyogenes
+by multiple actions, which mainly include destroying the integrity of the cell
+wall and cell membrane, influencing the expression of proteins, inhibiting
+nucleic acid synthesis, and interfering with energy metabolism.
+
+© 2020 Guo et al.
+
+DOI: 10.2147/IDR.S253363 
+PMCID: PMC7293968
+PMID: 32606820 
+
+Conflict of interest statement: The authors report no conflicts of interest in
+this work.
+

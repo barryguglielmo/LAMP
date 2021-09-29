@@ -1,0 +1,38 @@
+
+1. Angew Chem Int Ed Engl. 2020 May 25. doi: 10.1002/anie.202005332. [Epub ahead of 
+print]
+
+A 2-Tyr-1-carboxylate Mononuclear Iron Center Forms the Active Site of a
+Paracoccus Dimethylformamidase.
+
+Arya CK(1)(2), Yadav S(3), Fine J(4), Casanal A(5), Chopra G(4), Ramanathan G(1),
+Vinothkumar KR(3), Subramanian R(2)(6).
+
+Author information: 
+(1)Department of Chemistry, Indian Institute of Technology, Kanpur, India.
+(2)Institute for Stem Cell Science and Regenerative Medicine, Bangalore, India.
+(3)National Center for Biological Sciences-TIFR, GKVK Post, Bangalore, India.
+(4)Department of Chemistry, Purdue University, West Lafayette, IN, USA.
+(5)MRC Laboratory of Molecular Biology, Cambridge, UK.
+(6)Department of Biological Sciences and Weldon School of Biomedical Engineering,
+Purdue University, West Lafayette, IN, USA.
+
+N,N-dimethyl formamide (DMF) is an extensively used organic solvent but is also a
+potent pollutant. Certain bacterial species from genera such as Paracoccus,
+Pseudomonas, and Alcaligenes have evolved to use DMF as a sole carbon and
+nitrogen source for growth via degradation by a dimethylformamidase (DMFase). We 
+show that DMFase from Paracoccus sp. strain DMF is a halophilic and thermostable 
+enzyme comprising a multimeric complex of the α2 β2 or (α2 β2 )2 type. One of the
+three domains of the large subunit and the small subunit are hitherto undescribed
+protein folds of unknown evolutionary origin. The active site consists of a
+mononuclear iron coordinated by two Tyr side-chain phenolates and one carboxylate
+from Glu. The Fe3+ ion in the active site catalyzes the hydrolytic cleavage of
+the amide bond in DMF. Kinetic characterization reveals that the enzyme shows
+cooperativity between subunits, and mutagenesis and structural data provide clues
+to the catalytic mechanism.
+
+© 2020 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/anie.202005332 
+PMID: 32452120 
+

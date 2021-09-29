@@ -1,0 +1,45 @@
+
+1. Bioelectrochemistry. 2019 Dec;130:107334. doi: 10.1016/j.bioelechem.2019.107334. 
+Epub 2019 Jul 20.
+
+Identification of Clostridium cochlearium as an electroactive microorganism from 
+the mouse gut microbiome.
+
+Schwab L(1), Rago L(1), Koch C(2), Harnisch F(3).
+
+Author information: 
+(1)UFZ - Helmholtz-Centre for Environmental Research GmbH, Department of
+Environmental Microbiology, Permoserstrasse 15, 04318 Leipzig, Germany.
+(2)UFZ - Helmholtz-Centre for Environmental Research GmbH, Department of
+Environmental Microbiology, Permoserstrasse 15, 04318 Leipzig, Germany; Current
+affiliation: Global Innovation Cosmetic Ingredients, Symrise AG, Mühlenfeldstraße
+1, 37603 Holzminden, Germany.
+(3)UFZ - Helmholtz-Centre for Environmental Research GmbH, Department of
+Environmental Microbiology, Permoserstrasse 15, 04318 Leipzig, Germany.
+Electronic address: falk.harnisch@ufz.de.
+
+Microbial electroactivity, the metabolically relevant transfer of electrons
+between microorganisms and solid conductors, was first discovered for now well
+characterized model organisms from hypoxic or anaerobic water or sediment
+samples. Recent findings indicate that the metabolic trait of electroactivity
+might as well be important within the microbiome of the mammalian gut. Based on a
+pre-selection from the mouse intestinal bacterial collection five microorganisms 
+originating from diverse parts of the gut were screened for electroactivity. As
+there is no marker gene for electroactivity, the ability to synthesize
+cytochromes and metabolize redox-mediators was studied in-silico. Clostridium
+cochlearium showed highest electroactivity and Lactobacillus reuteri as well as
+Staphylococcus xylosus show putative electroactivity, as well. The maximum
+current density of C. cochlearium of 0.53 ± 0.02 mA cm-2 after only 5.2 h of
+incubation was clearly linked to growth and glucose consumption. Cyclic
+voltammetric analysis on C. cochlearium revealed a formal potential of the
+extracellular electron transfer (EET) site of +0.22 ± 0.05 V versus Ag/AgCl sat. 
+KCl (and + 0.42 V versus SHE) and indicates that EET is not based on biofilm
+formation, but the involvement of either redox-active molecules or planktonic
+cells. The potential of the gut as habitat for electroactives and their
+physiological role are discussed.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bioelechem.2019.107334 
+PMID: 31352302  [Indexed for MEDLINE]
+

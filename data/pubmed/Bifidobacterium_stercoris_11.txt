@@ -1,0 +1,64 @@
+
+1. Nat Ecol Evol. 2020 Sep;4(9):1256-1267. doi: 10.1038/s41559-020-1236-0. Epub 2020
+Jul 6.
+
+Metagenome-wide association analysis identifies microbial determinants of
+post-antibiotic ecological recovery in the gut.
+
+Chng KR(1), Ghosh TS(1)(2), Tan YH(3), Nandi T(1), Lee IR(3), Ng AHQ(1), Li C(1),
+Ravikrishnan A(1), Lim KM(1), Lye D(3)(4)(5)(6), Barkham T(6), Raman K(7)(8)(9), 
+Chen SL(1), Chai L(3)(10), Young B(11)(12)(13), Gan YH(14), Nagarajan N(15)(16).
+
+Author information: 
+(1)Genome Institute of Singapore, Singapore, Singapore.
+(2)APC Microbiome Ireland, University College Cork, Cork, Ireland.
+(3)Yong Loo Lin School of Medicine, National University of Singapore, Singapore, 
+Singapore.
+(4)National Centre for Infectious Disease, Singapore, Singapore.
+(5)Lee Kong Chian School of Medicine, Nanyang Technological University,
+Singapore, Singapore.
+(6)Tan Tock Seng Hospital, Singapore, Singapore.
+(7)Department of Biotechnology, Bhupat and Jyoti Mehta School of Biological
+Sciences, Indian Institute of Technology (IIT) Madras, Chennai, India.
+(8)Initiative for Biological Systems Engineering, IIT Madras, Chennai, India.
+(9)Robert Bosch Centre for Data Science and Artificial Intelligence (RBC-DSAI),
+IIT Madras, Chennai, India.
+(10)Division of Infectious Diseases, University Medicine Cluster, National
+University Health System, Singapore, Singapore.
+(11)National Centre for Infectious Disease, Singapore, Singapore.
+barnaby_young@ttsh.com.sg.
+(12)Lee Kong Chian School of Medicine, Nanyang Technological University,
+Singapore, Singapore. barnaby_young@ttsh.com.sg.
+(13)Tan Tock Seng Hospital, Singapore, Singapore. barnaby_young@ttsh.com.sg.
+(14)Yong Loo Lin School of Medicine, National University of Singapore, Singapore,
+Singapore. bchganyh@nus.edu.sg.
+(15)Genome Institute of Singapore, Singapore, Singapore.
+nagarajann@gis.a-star.edu.sg.
+(16)Yong Loo Lin School of Medicine, National University of Singapore, Singapore,
+Singapore. nagarajann@gis.a-star.edu.sg.
+
+Loss of diversity in the gut microbiome can persist for extended periods after
+antibiotic treatment, impacting microbiome function, antimicrobial resistance and
+probably host health. Despite widespread antibiotic use, our understanding of the
+species and metabolic functions contributing to gut microbiome recovery is
+limited. Using data from 4 discovery cohorts in 3 continents comprising >500
+microbiome profiles from 117 individuals, we identified 21 bacterial species
+exhibiting robust association with ecological recovery post antibiotic therapy.
+Functional and growth-rate analysis showed that recovery is supported by
+enrichment in specific carbohydrate-degradation and energy-production pathways.
+Association rule mining on 782 microbiome profiles from the MEDUSA database
+enabled reconstruction of the gut microbial 'food web', identifying many
+recovery-associated bacteria as keystone species, with the ability to use host-
+and diet-derived energy sources, and support repopulation of other gut species.
+Experiments in a mouse model recapitulated the ability of recovery-associated
+bacteria (Bacteroides thetaiotaomicron and Bifidobacterium adolescentis) to
+promote recovery with synergistic effects, providing a boost of two orders of
+magnitude to microbial abundance in early time points and faster maturation of
+microbial diversity. The identification of specific species and metabolic
+functions promoting recovery opens up opportunities for rationally determining
+pre- and probiotic formulations offering protection from long-term consequences
+of frequent antibiotic usage.
+
+DOI: 10.1038/s41559-020-1236-0 
+PMID: 32632261 
+

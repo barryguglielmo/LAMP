@@ -1,0 +1,39 @@
+
+1. J Immunol. 2020 Sep 28. pii: ji2000244. doi: 10.4049/jimmunol.2000244. [Epub
+ahead of print]
+
+RIPK3 Promotes Mefv Expression and Pyrin Inflammasome Activation via Modulation
+of mTOR Signaling.
+
+Sharma D(1), Malik A(1), Balakrishnan A(1), Malireddi RKS(1), Kanneganti TD(2).
+
+Author information: 
+(1)Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN
+38105.
+(2)Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN
+38105 thirumala-devi.kanneganti@stjude.org.
+
+Mutations in MEFV, the gene encoding pyrin in humans, are associated with the
+autoinflammatory disorder familial Mediterranean fever. Pyrin is an innate sensor
+that assembles into an inflammasome complex in response to Rho-modifying toxins, 
+including Clostridium difficile toxins A and B. Cell death pathways have been
+shown to intersect with and modulate inflammasome activation, thereby affecting
+host defense. Using bone marrow-derived macrophages and a murine model of
+peritonitis, we show in this study that receptor-interacting protein kinase
+(RIPK) 3 impacts pyrin inflammasome activation independent of its role in
+necroptosis. RIPK3 was instead required for transcriptional upregulation of Mefv 
+through negative control of the mechanistic target of rapamycin (mTOR) pathway
+and independent of alterations in MAPK and NF-κB signaling. RIPK3 did not affect 
+pyrin dephosphorylation associated with inflammasome activation. We further
+demonstrate that inhibition of mTOR was sufficient to promote Mefv expression and
+pyrin inflammasome activation, highlighting the cross-talk between the mTOR
+pathway and regulation of the pyrin inflammasome. Our study reveals a novel
+interaction between molecules involved in cell death and the mTOR pathway to
+regulate the pyrin inflammasome, which can be harnessed for therapeutic
+interventions.
+
+Copyright © 2020 by The American Association of Immunologists, Inc.
+
+DOI: 10.4049/jimmunol.2000244 
+PMID: 32989095 
+

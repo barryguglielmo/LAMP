@@ -1,0 +1,42 @@
+
+1. Mol Med Rep. 2020 Oct;22(4):2695-2704. doi: 10.3892/mmr.2020.11351. Epub 2020 Jul
+23.
+
+Roseburia intestinalis‑derived flagellin ameliorates colitis by targeting
+miR‑223‑3p‑mediated activation of NLRP3 inflammasome and pyroptosis.
+
+Wu X(1), Pan S(1), Luo W(1), Shen Z(1), Meng X(1), Xiao M(1), Tan B(1), Nie K(1),
+Tong T(1), Wang X(1).
+
+Author information: 
+(1)Department of Gastroenterology, The Third Xiangya Hospital of Central South
+University, Changsha, Hunan 410013, P.R. China.
+
+Ulcerative colitis (UC) is a type of inflammatory bowel disease (IBD), which is a
+chronic, relapsing condition associated with the disorder of gut microbial
+communities. A previous study reported that levels of Roseburia intestinalis
+(R.I), a butyrate‑producing bacterium, are significantly decreased in patients
+with IBD and exert an anti‑inflammatory function in dextran sulfate sodium
+(DSS)‑induced colitis. However, the role of R.I flagellin in UC and its
+underlying molecular mechanism are not yet fully understood. Therefore, a
+DSS‑induced colitis model in C57Bl/6 mice and the LPS/ATP‑induced THP‑1
+macrophages were treated with R.I flagellin, which were used to investigate the
+anti‑inflammatory effects of R.I flagellin. The results demonstrated that R.I
+flagellin decreased colitis‑associated disease activity index, colonic shortening
+and the pathological damage of the colon tissues in murine colitis models.
+Furthermore, R.I flagellin decreased the serum levels of proinflammatory
+cytokines and inhibited activation of the nucleotide‑binding oligomerization
+segment‑like receptor family 3 (NLRP3) inflammasome in murine colitis. R.I
+flagellin was also demonstrated to decrease the Gasdermin D to yield the
+N‑terminal fragment membrane pore and inhibit inflammasome‑triggered pyroptosis. 
+In vitro analysis indicated that microRNA (miR)‑223‑3p was involved in the
+regulation of R.I flagellin on NLRP3 inflammasome activation. Taken together, the
+results of the present study demonstrated that R.I flagellin inhibited activation
+of the NLRP3 inflammasome and pyroptosis via miR‑223‑3p/NLRP3 signaling in
+macrophages, suggesting that R.I flagellin may be used as a novel probiotic
+product for the treatment of UC.
+
+DOI: 10.3892/mmr.2020.11351 
+PMCID: PMC7453595
+PMID: 32700754 
+

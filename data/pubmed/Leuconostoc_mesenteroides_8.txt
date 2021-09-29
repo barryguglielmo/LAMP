@@ -1,0 +1,29 @@
+
+1. Int J Mol Sci. 2020 Sep 9;21(18). pii: E6596. doi: 10.3390/ijms21186596.
+
+Functional Identification of the Dextransucrase Gene of Leuconostoc mesenteroides
+DRP105.
+
+Du R(1), Zhou Z(1), Han Y(1).
+
+Author information: 
+(1)School of Chemical Engineering and Technology, Tianjin University, Tianjin
+300072, China.
+
+Leuconostoc mesenteroides DRP105 isolated from Chinese sauerkraut juice is an
+intensive producer of dextran. We report the complete genome sequence of Leu.
+mesenteroides DRP105. This strain contains a dextransucrase gene (dsr) involved
+in the production of dextran, possibly composed of glucose monomers. To explore
+the dextran synthesis mechanism of Leu. mesenteroides DRP105, we constructed a
+dsr-deficient strain derived from Leu. mesenteroides DRP105 using the Cre-loxP
+recombination system. The secondary structure prediction results showed that Leu.
+mesenteroides DRP105 dextransucrase (Dsr) was coded by dsr and contained 17.07%
+α-helices, 29.55% β-sheets, 10.18% β-turns, and 43.20% random coils. We also
+analyzed the dextran yield, monosaccharide change, organic acid, and amino-acid
+content of Leu. mesenteroides DRP105 and Leu. mesenteroides DRP105-Δdsr. The
+result showed that the lack of dsr changed the Leu. mesenteroides DRP105 sugar
+metabolism pathway, which in turn affected the production of metabolites.
+
+DOI: 10.3390/ijms21186596 
+PMID: 32916950 
+

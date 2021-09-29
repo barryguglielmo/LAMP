@@ -1,0 +1,43 @@
+
+1. World J Microbiol Biotechnol. 2020 Jan 21;36(2):23. doi:
+10.1007/s11274-020-2800-0.
+
+Arsenic accumulation by a rhizosphere bacterial strain Ochrobactrum tritici
+reduces rice plant arsenic levels.
+
+Moens M(1), Branco R(1), Morais PV(2)(3).
+
+Author information: 
+(1)CEMMPRE - Centre for Mechanical Engineering, Materials and Processes,
+University of Coimbra, 3030-788, Coimbra, Portugal.
+(2)CEMMPRE - Centre for Mechanical Engineering, Materials and Processes,
+University of Coimbra, 3030-788, Coimbra, Portugal. pvmorais@ci.uc.pt.
+(3)Department of Life Sciences, FCTUC, University of Coimbra, 3004-517, Coimbra, 
+Portugal. pvmorais@ci.uc.pt.
+
+Arsenic naturally occurs in the earth's crust and can be introduced in the
+environment by human activities. Agricultural practices in arsenic-contaminated
+environments pose a threat to human health. The contamination of crops
+contributes to the metalloid's introduction in the food chain. This study aims to
+test the hypotheses that the inoculation of a hyperaccumulator rhizobacterial
+strain, Ochrobactrum tritici As5, to the rhizosphere of rice plants reduces the
+arsenic presence inside the tissue of the rice plants and reduces the inhibitory 
+effect of the metalloid on the plant's growth parameters. Inoculation of the
+hyperaccumulating strain O. tritici As5 showed the lowest concentration of
+arsenic in the plant's tissue (2.6 fold lower than sterile plants), compared to
+the unmodified type O. tritici SCII24 and sterile rice plants. The inoculation of
+the type strain SCII24 also led to a decrease in arsenic concentration in the
+plant tissue compared with sterile plants (1.6 fold lower than sterile plants).
+The difference in arsenic presence in shoots was smaller among treatment groups
+than in the roots, showing a similar trend. The inoculation of the
+hyperaccumulator As5 strain alleviated some of the toxic effects of arsenic on
+shoot growth compared to inoculation of the unmodified type strain. All these
+findings together, contribute to our understanding of the interplay between
+arsenic pollution, plants and their rhizobacteria, especially the role of
+bioaccumulation of metal(oids) by rhizobacteria, and provide important
+information on the prevention of arsenic uptake by crops and the development of
+phytostabilizers.
+
+DOI: 10.1007/s11274-020-2800-0 
+PMID: 31965334  [Indexed for MEDLINE]
+

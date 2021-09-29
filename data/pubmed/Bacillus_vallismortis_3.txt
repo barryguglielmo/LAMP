@@ -1,0 +1,46 @@
+
+1. Chemosphere. 2020 Jul;251:126343. doi: 10.1016/j.chemosphere.2020.126343. Epub
+2020 Mar 2.
+
+Response of Bacillus vallismortis sp. EPS to exogenous sulfur stress/ induction
+and its adsorption performance on Cu(II).
+
+Li Q(1), Song W(2), Sun M(1), Li J(1), Yu Z(1).
+
+Author information: 
+(1)School of Environmental Science and Engineering of Guangdong University of
+Technology, Guangzhou, 510006, China.
+(2)School of Environmental Science and Engineering of Guangdong University of
+Technology, Guangzhou, 510006, China. Electronic address:
+weifengsong@gdut.edu.cn.
+
+The chemical composition of EPS (Extracellular Polymeric Substances) produced by 
+Bacillus vallismortis sp. and its adsorption performance on typical heavy metal
+were studied under Na2S stress/induction at different concentrations. Its
+structure was characterized by three-dimensional fluorescence spectrogram
+(3D-EEM), infrared spectrum (FTIR) and X-ray photoelectron spectroscopy (XPS).
+The results showed that, when the Na2S stress/induction intensity was 20 mg/L,
+the protein concentration was nearly doubled compared with Control-EPS (EPS
+produced by Bacillus vallismortis sp. without exogenous sulfur stress);
+furthermore, the 3D-EEM results also demonstrated that there was an increase in
+the protein content, with the -SH content reaching 154.36 μmol/L, which was 48.2%
+higher than before stress (104.15 μmol/L). Under this condition, S-EPS (EPS
+produced by Bacillus vallismortis sp. stressed by exogenous sulfur) exhibited the
+best adsorption effect on Cu(II), with the theoretical maximum adsorption
+capacity reaching 1428.57 mg/g EPS. FTIR and XPS analyses revealed that the -SH, 
+CO, N-H played a major role in the adsorption of Cu(II); among those, -SH played 
+a key role. Moreover, the adsorption capacity of Cu(II) by S-EPS was correlated
+with the content of sulfhydryl protein; indeed, the exogenous sulfur
+stress/induction can effectively regulate the chemical composition of EPS and
+improve its adsorption performance, which can be crucial in the prevention and
+control of heavy metal pollution.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.chemosphere.2020.126343 
+PMID: 32155492  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest We declare that
+we do not have any commercial or associative interest that represents a conflict 
+of interest in connection with the work submitted.
+

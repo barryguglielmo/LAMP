@@ -1,0 +1,51 @@
+
+1. J Infect Chemother. 2020 Sep 29. pii: S1341-321X(20)30341-X. doi:
+10.1016/j.jiac.2020.09.021. [Epub ahead of print]
+
+Evaluation of phenotypic tests for detection of carbapenemases: New modifications
+with new interpretation.
+
+Gelmez GA(1), Can B(2), Hasdemir U(3), Soyletir G(3).
+
+Author information: 
+(1)Marmara University School of Medicine, Department of Medical Microbiology,
+Istanbul, Turkey. Electronic address: gulsen.altinkanat@marmara.edu.tr.
+(2)Marmara University Pendik Training and Research Hospital, Medical Microbiology
+Laboratory, Istanbul, Turkey.
+(3)Marmara University School of Medicine, Department of Medical Microbiology,
+Istanbul, Turkey.
+
+INTRODUCTION: The emergence and spread of carbapenemase-producing
+Enterobacterales (CPE) is a worldwide public health threat. Rapid and accurate
+detection of CPE is essential to prevent their dissemination within health care
+settings. The aim of this study was to evaluate the performance of CIM, mCIM and 
+mCIM with ammonium bicarbonate (mCIM-A) methods by using different interpretation
+criteria for detection of carbapenemases.
+METHODS: One hundred and fifty-three Klebsiella pneumoniae isolates previously
+characterized by molecular tests, including 133 carbapenemase producers and 20
+non-carbapenemase producers, were collected in this study. CIM and mCIM tests
+were performed as described previously. mCIM-A by adding 50 mM ammonium
+bicarbonate to the bacterial suspension prepared in tryptic soy broth. The
+inhibition zone diameter of around meropenem disc was measured and interpreted as
+positive according to i) Pierce and colleagues (<19 mm), ii) EUCAST meropenem
+susceptibility breakpoint (<22).
+RESULTS: CIM, although seems to be good for carbapenemases other than OXA-48-like
+and NDM, is not satisfactory (42.3% and 83.4%, respectively) for those enzymes
+with any of the interpretation criteria. OXA-48-like and NDM were detected with a
+better performance (88.7% and 92.8, respectively) with mCIM when results were
+interpreted according to <22 mm zone diameter for OXA-48-like and NDM. The best
+results were obtained with mCIM-A using <22 mm criteria without any difference in
+the results of other enzymes and negative strains.
+CONCLUSIONS: mCIM-A method interpreted with <22 mm meropenem zone diameter seems 
+to be preferable compared to CIM and mCIM. mCIM-A is simple and useful tool for
+identification of CPEs in clinical microbiology laboratories.
+
+Copyright © 2020 Japanese Society of Chemotherapy and The Japanese Association
+for Infectious Diseases. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jiac.2020.09.021 
+PMID: 33008736 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no conflict of interest.
+

@@ -1,0 +1,56 @@
+
+1. Arch Toxicol. 2020 Oct;94(10):3487-3502. doi: 10.1007/s00204-020-02841-z. Epub
+2020 Jul 17.
+
+Microbially competent 3D skin: a test system that reveals insight into
+host-microbe interactions and their potential toxicological impact.
+
+Lemoine L(1)(2), Dieckmann R(3), Al Dahouk S(3), Vincze S(3), Luch A(4)(5),
+Tralau T(6).
+
+Author information: 
+(1)Department of Chemical and Product Safety, German Federal Institute for Risk
+Assessment (BfR), Max-Dohrn-Strasse 8-10, 10589, Berlin, Germany.
+Lisa.Lemoine@bfr.bund.de.
+(2)Department of Biology, Chemistry, Pharmacy, Institute of Pharmacy, Freie
+Universität Berlin, Berlin, Germany. Lisa.Lemoine@bfr.bund.de.
+(3)Department of Biological Safety, German Federal Institute for Risk Assessment 
+(BfR), Diedersdorfer Weg 1, 12277, Berlin, Germany.
+(4)Department of Chemical and Product Safety, German Federal Institute for Risk
+Assessment (BfR), Max-Dohrn-Strasse 8-10, 10589, Berlin, Germany.
+(5)Department of Biology, Chemistry, Pharmacy, Institute of Pharmacy, Freie
+Universität Berlin, Berlin, Germany.
+(6)Department of Food Safety, German Federal Institute for Risk Assessment (BfR),
+Max-Dohrn-Strasse 8-10, 10589, Berlin, Germany.
+
+The skin`s microbiome is predominantly commensalic, harbouring a metabolic
+potential far exceeding that of its host. While there is clear evidence that
+bacteria-dependent metabolism of pollutants modulates the toxicity for the host
+there is still a lack of models for investigating causality of
+microbiome-associated pathophysiology or toxicity. We now report on a
+biologically characterised microbial-skin tissue co-culture that allows studying 
+microbe-host interactions for extended periods of time in situ. The system is
+based on a commercially available 3D skin model. In a proof-of-concept, this
+model was colonised with single and mixed cultures of two selected skin
+commensals. Two different methods were used to quantify the bacteria on the
+surface of the skin models. While Micrococcus luteus established a stable
+microbial-skin tissue co-culture, Pseudomonas oleovorans maintained slow
+continuous growth over the 8-day cultivation period. A detailed skin
+transcriptome analysis showed bacterial colonisation leading to up to 3318
+significant changes. Additionally, FACS, ELISA and Western blot analyses were
+carried out to analyse secretion of cytokines and growth factors. Changes found
+in colonised skin varied depending on the bacterial species used and comprised
+immunomodulatory functions, such as secretion of IL-1α/β, Il-6, antimicrobial
+peptides and increased gene transcription of IL-10 and TLR2. The colonisation
+also influenced the secretion of growth factors such as VFGFA and FGF2. Notably, 
+many of these changes have already previously been associated with the presence
+of skin commensals. Concomitantly, the model gained first insights on the
+microbiome's influence on skin xenobiotic metabolism (i.e., CYP1A1, CYP1B1 and
+CYP2D6) and olfactory receptor expression. The system provides urgently needed
+experimental access for assessing the toxicological impact of
+microbiome-associated xenobiotic metabolism in situ.
+
+DOI: 10.1007/s00204-020-02841-z 
+PMCID: PMC7502063
+PMID: 32681188 
+

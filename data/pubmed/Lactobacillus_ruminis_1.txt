@@ -1,0 +1,54 @@
+
+1. Gut Microbes. 2020 Jul 3;11(4):855-867. doi: 10.1080/19490976.2020.1712982. Epub 
+2020 Jan 20.
+
+Restitution of gut microbiota in Ugandan children administered with probiotics
+(Lactobacillus rhamnosus GG and Bifidobacterium animalis subsp. lactis BB-12)
+during treatment for severe acute malnutrition.
+
+Castro-Mejía JL(1), O'Ferrall S(1), Krych Ł(1), O'Mahony E(1), Namusoke H(2),
+Lanyero B(2), Kot W(3), Nabukeera-Barungi N(4), Michaelsen KF(5), Mølgaard C(5), 
+Friis H(5), Grenov B(5), Nielsen DS(1).
+
+Author information: 
+(1)Department of Food Science, University of Copenhagen , Frederiksberg C,
+Denmark.
+(2)Mwanamugimu Nutrition Unit, Department of Paediatrics and Child Health, Mulago
+National Referral Hospital , Kampala, Uganda.
+(3)Department of Plant and Environmental Sciences, University of Copenhagen ,
+Frederiksberg C, Denmark.
+(4)Department of Paediatrics and Child Health, College of Health Sciences,
+Makerere University , Kampala, Uganda.
+(5)Department of Nutrition, Exercise and Sports, University of Copenhagen ,
+Copenhagen, Denmark.
+
+Erratum in
+    Gut Microbes. 2020 Jan 29;:1.
+
+Severe acute malnutrition (SAM) is a major challenge in low-income countries and 
+gut microbiota (GM) dysbiosis may play a role in its etiology. Here, we
+determined the GM evolution during rehabilitation from SAM and the impact of
+probiotics (Lactobacillus rhamnosus GG and Bifidobacterium animalis subsp. lactis
+BB-12) supplementation. The GM (16S rRNA gene amplicon sequencing) of children
+admitted to hospital with SAM showed distinct composition over admission (e.g.
+Klebsiella spp., and Enterobacteriaceae spp.), discharge (e.g. Clostridiaceae
+spp., Veilonella dispar) and follow-up (e.g. Lactobacillus ruminis, Blautia spp.,
+Faecalibacterium prausnitzii), reaching similar β- and α-diversity as healthy
+individuals. Children with diarrhea had reduced distribution of Bacteroidaceae,
+Lachnospiraceae, increased Enterobacteriaceae and Moraxellaceae, and lower
+α-diversity. Children suffering from edematous SAM had diminished proportion of
+Prevotellaceae, Lachnospiraceae, Ruminoccaceae and a higher α-diversity when
+compared to non-edematous SAM. Supplementation of probiotics did not influence
+β-diversity upon discharge or follow-up, but it increased (p < .05) the number of
+observed species [SE: > 4.5]. Children where the probiotic species were detected 
+had lower cumulative incidence (p < .001) of diarrhea during the follow-up period
+compared to children receiving placebo and children receiving probiotics, but
+where the probiotics were not detected. The GM of children with non-edematous and
+edematous SAM differ in composition, which might have implications for future GM 
+targeted treatments. Probiotics treatment reduced the cumulative incidence of
+diarrhea during the outpatient phase, with the strongest effect in children where
+the administered probiotics could be detected in the GM.
+
+DOI: 10.1080/19490976.2020.1712982 
+PMID: 31959047 
+

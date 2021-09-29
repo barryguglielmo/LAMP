@@ -1,0 +1,76 @@
+
+1. J Acad Nutr Diet. 2020 Aug 11. pii: S2212-2672(20)30438-X. doi:
+10.1016/j.jand.2020.04.018. [Epub ahead of print]
+
+Associations between Diet, the Gut Microbiome, and Short-Chain Fatty Acid
+Production among Older Caribbean Latino Adults.
+
+Maldonado-Contreras A, Noel SE, Ward DV, Velez M, Mangano KM.
+
+BACKGROUND: Caribbean Latino adults have disproportionately high prevalence of
+chronic disease; however, underlying mechanisms are unknown. Unique gut
+microbiome profiles and relation to dietary quality may underlie health
+disparities.
+OBJECTIVES: To examine the dietary quality of an underrepresented group of
+Caribbean Latino older adults with high prevalence of chronic disease;
+characterize gut microbiome profiles in this cohort; determine associations
+between dietary quality, gut microbiome composition, and short-chain fatty acid
+(SCFA) production; examine associations of clinical factors (body mass index,
+type 2 diabetes [T2D] status, and laxative use) with gut microbiome composition.
+DESIGN: The study design was cross-sectional.
+PARTICIPANTS/SETTING: Recruitment and interviews occurred at the Senior Center in
+Lawrence, MA, from September 2016-September 2017. A total of 20 adults aged ≥50
+years, self-identified of Caribbean Latino origin, without use of antibiotics in 
+6 months or intestinal surgery were included in the study.
+EXPOSURE AND OUTCOME MEASURES: Diet was assessed by two, 24-hour recalls and
+dietary quality was calculated using the Healthy Eating Index 2015 and the
+Mediterranean Diet Score. The gut microbiome was assessed by 16S rRNA sequencing 
+and fecal SCFA content. Anthropometrics (ie, weight and height) were measured by 
+a trained interviewer, and self-reported laxative use, and other self-report
+health outcomes (ie, T2D status) were assessed by questionnaire.
+STATISTICAL ANALYSES: Faith Phylogenetic Diversity (alpha diversity) and unique
+fraction metric, or UniFrac (beta diversity) and nonphylogenetic metrics,
+including Shannon diversity index (alpha diversity) were calculated. Spearman
+correlations and group comparisons using Kruskal-Wallis test between alpha
+diversity indexes and nutrient intakes were calculated. Patterns in the
+microbiome were estimated using a partitioning around medoids with estimation of 
+number of clusters, with optimum average silhouette width. Log odds were
+calculated to compare predefined nutrients and diet score components between
+microbiome clusters using multivariable logistic regression, controlling for age 
+and sex. Pearson correlation was used to relate SCFA fecal content to individual 
+nutrients and diet indexes. Final models were additionally adjusted for laxative 
+use. Differences in lifestyle factors by gut microbiome cluster were tested by
+Fisher's exact test.
+RESULTS: Generally, there was poor alignment of participant's diets to either the
+Mediterranean Diet score or Healthy Eating Index 2015. Range in the Healthy
+Eating Index 2015 was 36 to 90, where only 5% (n=1) of the sample showed high
+adherence to the Dietary Guidelines for Americans. Mediterranean Diet scores
+suggested low conformance with a Mediterranean eating pattern (score range=2 to
+8, where 45% scored ≤3 [poor adherence]). The gut microbiome separated into two
+clusters by difference in a single bacterial taxon: Prevotella copri (P copri)
+(permutational multivariate analysis of variance [PERMANOVA] R2=0.576, ADONIS
+function P=0.001). Significantly lower P copri abundance was observed in cluster 
+1 compared with cluster 2 (Mann-Whitney P<0.0001). Samples in the P copri
+dominated cluster 2 showed significantly lower alpha diversity compared with P
+copri depleted cluster 1 (Shannon diversity index P=0.01). Individuals in the P
+copri dominated cluster showed a trend toward higher 18:3 α-linolenic fatty acid 
+intakes (P=0.09). Percentage of energy from total fat intake was significantly,
+positively correlated with fecal acetate (r=0.46; P=0.04), butyrate (r=0.50;
+P=0.03) and propionate (r=0.52; P=0.02). Associations between dietary intake and 
+composition of the gut microbiome were attenuated by self-report recent laxative 
+use. Individuals with T2D exhibited a significantly greater abundance of the
+Enterobacteriales (P=0.01) and a trend toward lower fecal content of butyric acid
+compared to subjects without T2D (P=0.08). Significant beta diversity differences
+were observed by weight (Mantel P<0.003) and body mass index (Mantel P<0.07).
+CONCLUSIONS: Two unique microbiome profiles, identified by abundance of P copri, 
+were identified among Caribbean Latino adults. Microbiome profiles and SCFA
+content were associated with diet, T2D, and lifestyle. Further research is needed
+to determine the role of P copri and SCFA production in the risk for chronic
+disease and associated lifestyle predictors.
+
+Copyright © 2020 Academy of Nutrition and Dietetics. Published by Elsevier Inc.
+All rights reserved.
+
+DOI: 10.1016/j.jand.2020.04.018 
+PMID: 32798072 
+

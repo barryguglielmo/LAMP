@@ -1,0 +1,45 @@
+
+1. FEMS Microbiol Ecol. 2020 Jul 1;96(7). pii: fiaa105. doi: 10.1093/femsec/fiaa105.
+
+A prebiotic-enhanced lipid-based nutrient supplement (LNSp) increases
+Bifidobacterium relative abundance and enhances short-chain fatty acid production
+in simulated colonic microbiota from undernourished infants.
+
+Toe LC(1)(2)(3), Kerckhof FM(2), De Bodt J(2), Morel FB(4), Ouedraogo JB(3),
+Kolsteren P(1), Van de Wiele T(2).
+
+Author information: 
+(1)Department of Food Technology, Safety and Health, Ghent University, Coupure
+links 653, 9000 Ghent, Belgium.
+(2)Center for Microbial Ecology and Technology, Ghent University, Coupure links
+653, 9000 Ghent, Belgium.
+(3)Institut de Recherche en Sciences de la Santé, Avenue de la Liberté 399,
+Bobo-Dioulasso, Burkina Faso.
+(4)Nutriset SAS, Hameau du Bois Ricard, CS 80035, 76770 Malaunay, France.
+
+Undernutrition remains a public health problem in the developing world with an
+attributable under-five death proportion of 45%. Lower gut microbiota diversity
+and poor metabolic output are associated with undernutrition and new therapeutic 
+paths may come from steering gut microbiota composition and functionality. Using 
+a dynamic gut model, the Simulator of Human Intestinal Microbial Ecosystem
+(SHIME®), we investigated the effect of a lipid-based nutrient supplement
+enriched with prebiotics (LNSp), compared to LNS alone and control treatment, on 
+the composition and metabolic functionality of fecal microbiota from three
+infants suffering from undernutrition. LNS elicited a significant increase in
+acetate and branched-chain fatty acid production, and a higher relative abundance
+of the genera Prevotella, Megasphaera, Acinetobacter, Acidaminococcus and
+Pseudomonas. In contrast, LNSp treatment resulted in a significant 9-fold
+increase in Bifidobacterium relative abundance and a decrease in that of
+potential pathogens and detrimental bacteria such as Enterobacteriaceae spp. and 
+Bilophila sp. Moreover, the LNSp treatment resulted in a significantly higher
+production of acetate, butyrate and propionate, as compared to control and LNS.
+Our results suggest that provision of prebiotic-enhanced LNS to undernourished
+children could be a possible strategy to steer the microbiota toward a more
+beneficial composition and metabolic activity. Further in vivo investigations are
+needed to assess these effects and their repercussion on nutritional status.
+
+© FEMS 2020.
+
+DOI: 10.1093/femsec/fiaa105 
+PMID: 32568403 
+

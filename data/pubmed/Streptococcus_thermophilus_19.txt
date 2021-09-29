@@ -1,0 +1,67 @@
+
+1. Tuberculosis (Edinb). 2020 Sep;124:101983. doi: 10.1016/j.tube.2020.101983. Epub 
+2020 Aug 12.
+
+Efficient genome editing in pathogenic mycobacteria using Streptococcus
+thermophilus CRISPR1-Cas9.
+
+Meijers AS(1), Troost R(2), Ummels R(3), Maaskant J(4), Speer A(5), Nejentsev
+S(6), Bitter W(7), Kuijl CP(8).
+
+Author information: 
+(1)Department of Medical Microbiology and Infection Control, Cancer Center
+Amsterdam, Amsterdam UMC, Vrije Universiteit Amsterdam, De Boelelaan 1117, 1081
+HV, Amsterdam, Netherlands. Electronic address: a.meijers@amsterdamumc.nl.
+(2)Department of Medical Microbiology and Infection Control, Cancer Center
+Amsterdam, Amsterdam UMC, Vrije Universiteit Amsterdam, De Boelelaan 1117, 1081
+HV, Amsterdam, Netherlands. Electronic address: ran.troost@gmail.com.
+(3)Department of Medical Microbiology and Infection Control, Amsterdam Institute 
+of Infection & Immunity, Amsterdam UMC, Vrije Universiteit Amsterdam, De
+Boelelaan 1117, 1081 HV, Amsterdam, Netherlands. Electronic address:
+r.ummels@amsterdamumc.nl.
+(4)Department of Medical Microbiology and Infection Control, Amsterdam Institute 
+of Infection & Immunity, Amsterdam UMC, Vrije Universiteit Amsterdam, De
+Boelelaan 1117, 1081 HV, Amsterdam, Netherlands. Electronic address:
+j.maaskant@amsterdamumc.nl.
+(5)Department of Medical Microbiology and Infection Control, Amsterdam Institute 
+of Infection & Immunity, Amsterdam UMC, Vrije Universiteit Amsterdam, De
+Boelelaan 1117, 1081 HV, Amsterdam, Netherlands. Electronic address:
+a.speer@amsterdamumc.nl.
+(6)Department of Molecular Cell Biology and Immunology, Amsterdam UMC, De
+Boelelaan 1117, 1081 HV, Amsterdam, Netherlands; Department of Medicine,
+University of Cambridge, Cambridge, CB2 0QQ, United Kingdom. Electronic address: 
+sn262@cam.ac.uk.
+(7)Department of Medical Microbiology and Infection Control, Cancer Center
+Amsterdam, Amsterdam UMC, Vrije Universiteit Amsterdam, De Boelelaan 1117, 1081
+HV, Amsterdam, Netherlands; Department of Medical Microbiology and Infection
+Control, Amsterdam Institute of Infection & Immunity, Amsterdam UMC, Vrije
+Universiteit Amsterdam, De Boelelaan 1117, 1081 HV, Amsterdam, Netherlands;
+Department of Molecular Microbiology, Vrije Universiteit Amsterdam, De Boelelaan 
+1105, 1081 HV, Amsterdam, Netherlands. Electronic address: w.bitter@vu.nl.
+(8)Department of Medical Microbiology and Infection Control, Cancer Center
+Amsterdam, Amsterdam UMC, Vrije Universiteit Amsterdam, De Boelelaan 1117, 1081
+HV, Amsterdam, Netherlands; Department of Medical Microbiology and Infection
+Control, Amsterdam Institute of Infection & Immunity, Amsterdam UMC, Vrije
+Universiteit Amsterdam, De Boelelaan 1117, 1081 HV, Amsterdam, Netherlands.
+Electronic address: c.kuijl@amsterdamumc.nl.
+
+The ability to genetically engineer pathogenic mycobacteria has increased
+significantly over the last decades due to the generation of new molecular tools.
+Recently, the application of the Streptococcus pyogenes and the Streptococcus
+thermophilus CRISPR-Cas9 systems in mycobacteria has enabled gene editing and
+efficient CRISPR interference-mediated transcriptional regulation. Here, we
+converted CRISPR interference into an efficient genome editing tool for
+mycobacteria. We demonstrate that the Streptococcus thermophilus CRISPR1-Cas9
+(Sth1Cas9) is functional in Mycobacterium marinum and Mycobacterium tuberculosis,
+enabling highly efficient and precise DNA breaks and indel formation, without any
+off-target effects. In addition, with dual sgRNAs this system can be used to
+generate two indels simultaneously or to create specific deletions. The ability
+to use the power of the CRISPR-Cas9-mediated gene editing toolbox in M.
+tuberculosis with a single step will accelerate research into this deadly
+pathogen.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.tube.2020.101983 
+PMID: 32829077 
+

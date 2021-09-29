@@ -1,0 +1,51 @@
+
+1. Appl Environ Microbiol. 2020 May 5;86(10). pii: e03012-19. doi:
+10.1128/AEM.03012-19. Print 2020 May 5.
+
+The Role of Fnr Paralogs in Controlling Anaerobic Metabolism in the Diazotroph
+Paenibacillus polymyxa WLY78.
+
+Shi H(1), Li Y(1), Hao T(1), Liu X(1), Zhao X(1), Chen S(2).
+
+Author information: 
+(1)State Key Laboratory for Agrobiotechnology, College of Biological Sciences and
+Key Laboratory of Soil Microbiology of Agriculture Ministry, China Agricultural
+University, Beijing, People's Republic of China.
+(2)State Key Laboratory for Agrobiotechnology, College of Biological Sciences and
+Key Laboratory of Soil Microbiology of Agriculture Ministry, China Agricultural
+University, Beijing, People's Republic of China chensf@cau.edu.cn.
+
+Fnr is a transcriptional regulator that controls the expression of a variety of
+genes in response to oxygen limitation in bacteria. Genome sequencing revealed
+four genes (fnr1, fnr3, fnr5, and fnr7) coding for Fnr proteins in Paenibacillus 
+polymyxa WLY78. Fnr1 and Fnr3 showed more similarity to each other than to Fnr5
+and Fnr7. Also, Fnr1 and Fnr3 exhibited high similarity with Bacillus cereus Fnr 
+and Bacillus subtilis Fnr in sequence and structures. Both the aerobically
+purified His-tagged Fnr1 and His-tagged Fnr3 in Escherichia coli could bind to
+the specific DNA promoter. Deletion analysis showed that the four fnr genes,
+especially fnr1 and fnr3, have significant impacts on growth and nitrogenase
+activity. Single deletion of fnr1 or fnr3 led to a 50% reduction in nitrogenase
+activity, and double deletion of fnr1 and fnr3 resulted to a 90% reduction in
+activity. Genome-wide transcription analysis showed that Fnr1 and Fnr3 indirectly
+activated expression of nif (nitrogen fixation) genes and Fe transport genes
+under anaerobic conditions. Fnr1 and Fnr3 inhibited expression of the genes
+involved in the aerobic respiratory chain and activated expression of genes
+responsible for anaerobic electron acceptor genes.IMPORTANCE The members of the
+nitrogen-fixing Paenibacillus spp. have great potential to be used as a bacterial
+fertilizer in agriculture. However, the functions of the fnr gene(s) in nitrogen 
+fixation and other metabolisms in Paenibacillus spp. are not known. Here, we
+found that in P. polymyxa WLY78, Fnr1 and Fnr3 were responsible for regulation of
+numerous genes in response to changes in oxygen levels, but Fnr5 and Fnr7
+exhibited little effect. Fnr1 and Fnr3 indirectly or directly regulated many
+types of important metabolism, such as nitrogen fixation, Fe uptake, respiration,
+and electron transport. This study not only reveals the function of the fnr genes
+of P. polymyxa WLY78 in nitrogen fixation and other metabolisms but also will
+provide insight into the evolution and regulatory mechanisms of fnr in
+Paenibacillus.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.03012-19 
+PMCID: PMC7205490 [Available on 2020-11-05]
+PMID: 32198173 
+

@@ -1,0 +1,59 @@
+
+1. Hepatology. 2020 Jun 12. doi: 10.1002/hep.31417. [Epub ahead of print]
+
+Microbiomics, metabolomics, predicted metagenomics and hepatic steatosis in a
+population-based study of 1355 adults.
+
+Alferink LJ(1), Radjabzadeh D(2), Erler NS(3), Vojinovic D(4), Medina-Gomez C(2),
+Uitterlinden AG(2)(4), Knegt RJ(1), Amin N(4), Ikram MA(4), Janssen H(5),
+Kiefte-deJong JC(6), Metselaar HJ(1), Duijn CMV(4)(7), Kraaij R(2), Darwish Murad
+S(1).
+
+Author information: 
+(1)Department of Gastroenterology and Hepatology, Erasmus Medical Center,
+Rotterdam, the Netherlands.
+(2)Department of Internal Medicine, Erasmus Medical Center, Rotterdam, The
+Netherlands.
+(3)Department of Biostatistics, Erasmus Medical Center, Rotterdam, The
+Netherlands.
+(4)Department of Epidemiology, Erasmus Medical Center, Rotterdam, The
+Netherlands.
+(5)Toronto Center of Liver Disease, Toronto General Hospital, University Health
+Network, Toronto, Canada.
+(6)Department of Global Public Health, Leiden University College, The Hague, Den 
+Haag, The Netherlands.
+(7)Nuffield Department of Population Health, University of Oxford, Oxford, UK.
+
+BACKGROUND & AIMS: Previous small studies have appraised the gut microbiome (GM) 
+in steatosis, but large-scale studies are lacking. We studied the association of 
+GM diversity and composition, plasma metabolites, predicted functional
+metagenomics and steatosis. Approach & Results This is a cross-sectional analysis
+of the prospective population-based Rotterdam Study. We used 16Sribosomal-RNA
+gene sequencing and determined taxonomy using the Silva-reference database.
+Alpha-and beta-diversity were calculated using Shannon-index and Bray-Curtis
+dissimilarities. Differences were tested across steatosis using PerMANOVA.
+Hepatic steatosis was diagnosed by ultrasonography. We subsequently selected
+genera using regularized regression. The functional metagenome was predicted
+based on the GM using KEGG-pathways. Serum metabolomics were assessed using
+high-throughput proton nuclear magnetic resonance. All analyses were adjusted for
+age, sex, BMI, alcohol, diet, and proton-pump inhibitors. We included 1355
+participants of which 472 had steatosis. Alpha-diversity was lower in steatosis
+(P=1.1∙10-9 ) and beta-diversity varied across steatosis strata (P=0.001). Lasso 
+selected 37 genera of which three remained significantly associated after
+adjustment (Coprococcus3: β=-65; Ruminococcus Gauvreauiigroup: β=62; and
+Ruminococcus Gnavusgroup: β=45, Q-value =0.037). Predicted metagenome analyses
+revealed that pathways of secondary bile-acid synthesis and biotin metabolism
+were present and D-alanine metabolism was absent in steatosis. Metabolic profiles
+showed positive associations for aromatic-and branched chain amino acids and
+glycoprotein acetyls with steatosis and R. Gnavusgroup, whereas these metabolites
+were inversely associated with alpha-diversity and Coprococcus3.
+CONCLUSIONS: We confirmed, for the first time on a large-scale, the lower
+microbial diversity and association of Coprococcus and Ruminococcus Gnavus with
+steatosis. We additionally showed that steatosis and alpha-diversity share
+-opposite- metabolic profiles.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1002/hep.31417 
+PMID: 32530501 
+

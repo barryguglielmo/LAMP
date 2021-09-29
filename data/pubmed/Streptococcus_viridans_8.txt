@@ -1,0 +1,42 @@
+
+1. Biochem J. 2020 Sep 10. pii: BCJ20200332. doi: 10.1042/BCJ20200332. [Epub ahead
+of print]
+
+Structure based virtual screening identifies small molecule effectors for the
+sialoglycan binding protein Hsa.
+
+Agarwal R(1), Bensing BA(2), Mi D(3), Vinson P(4), Baudry J(5), Iverson TM(6),
+Smith JC(1).
+
+Author information: 
+(1)University of Tennessee, Knoxville, Knoxville, Tennessee, United States.
+(2)UCSF VA Medical Center, Medicine, San Francisco, United States.
+(3)Vanderbilt University, Nashville, United States.
+(4)Vanderbilt University, Nashville, Tennessee, United States.
+(5)University of Alabama, Huntsville, Alabama, United States.
+(6)Vanderbilt University, Nashville, TN, United States.
+
+Infective endocarditis (IE) is a cardiovascular disease often caused by bacteria 
+of the viridans group of streptococci, which includes Streptococcus gordonii and 
+Streptococcus sanguinis. Previous research has found that serine-rich repeat
+(SRR) proteins on the S. gordonii bacterial surface play a critical role in
+pathogenesis by facilitating bacterial attachment to sialylated glycans displayed
+on human platelets. Despite their important role in disease progression, there
+are currently no anti-adhesive drugs available on the market. Here, we performed 
+structure-based virtual screening using an ensemble docking approach followed by 
+consensus scoring to identify novel small molecule effectors against the
+sialoglycan binding domain of the SRR adhesin protein Hsa from the S. gordonii
+strain DL1. The screening successfully predicted nine compounds which were able
+to displace the native ligand (sialyl-T antigen) in an in vitro assay and bind
+competitively to Hsa. Furthermore, hierarchical clustering based on the MACCS
+fingerprints showed that eight of these small molecules do not share a common
+scaffold with the native ligand. This study indicates that SRR family of adhesin 
+proteins can be inhibited by diverse small molecules and thus prevent the
+interaction of the protein with the sialoglycans. This opens new avenues for
+discovering potential drugs against infective endocarditis.
+
+Copyright 2020 The Author(s).
+
+DOI: 10.1042/BCJ20200332 
+PMID: 32910185 
+

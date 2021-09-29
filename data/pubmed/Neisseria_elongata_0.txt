@@ -1,0 +1,54 @@
+
+1. Glycobiology. 2020 Aug 8. pii: cwaa073. doi: 10.1093/glycob/cwaa073. [Epub ahead 
+of print]
+
+Allelic polymorphisms in a glycosyltransferase gene shape glycan repertoire in
+the O-linked protein glycosylation system of Neisseria.
+
+Wang N(1)(2), Anonsen JH(1)(3), Hadjineophytou C(1)(2), Reinar WB(4), Børud B(5),
+Vik Å(1)(6), Koomey M(1)(2)(4).
+
+Author information: 
+(1)Department of Biosciences, Section for Section for Genetics and Evolutionary
+Biology, Centre for Integrative Microbial Evolution, University of Oslo, 0371
+Oslo, Norway.
+(2)Department of Biosciences, Centre for Integrative Microbial Evolution,
+University of Oslo, 0371 Oslo, Norway.
+(3)Norwegian Research Centre AS, 4072 Randaberg, Norway.
+(4)Department of Biosciences, Centre for Ecological and Evolutionary Synthesis,
+University of Oslo, Norway.
+(5)Division for Infection Control and Environmental Health, Norwegian Institute
+of Public Health, 0403 Oslo, Norway.
+(6)Research Council of Norway, 0283, Oslo, Norway.
+
+Glycosylation of multiple proteins via O-linkage is well documented in bacterial 
+species of Neisseria of import to human disease. Recent studies of protein
+glycosylation (pgl) gene distribution established that related protein
+glycosylation systems occur throughout the genus including non-pathogenic
+species. However, there are inconsistencies between pgl gene status and observed 
+glycan structures. One of these relates to the widespread distribution of pglG,
+encoding a glycosyltransferase that in Neisseria elongata subsp. glycolytica is
+responsible for the addition of di-N-acetyl glucuronic acid at the third position
+of a tetrasaccharide. Despite pglG residing in strains of N. gonorrhoeae, N.
+meningitidis and N. lactamica, no glycan structures have been correlated with its
+presence in these backgrounds. Moreover, PglG function in N. elongata subsp.
+glycolytica minimally requires UDP-glucuronic acid (GlcNAcA), and yet N.
+gonorrhoeae, N. meningitidis and N. lactamica lack pglJ, the gene whose product
+is essential for UDP-GlcNAcA synthesis. We examined the functionality of pglG
+alleles from species spanning the Neisseria genus by genetic complementation in
+N. elongata subsp. glycolytica. The results indicate that select pglG alleles
+from N. meningitidis and N. lactamica are associated with incorporation of an
+N-acetyl-hexosamine at the third position and reveal the potential for an
+expanded glycan repertoire in those species. Similar experiments using pglG from 
+N. gonorrhoeae failed to find any evidence of function suggesting that those
+alleles are missense pseudogenes. Taken together, the results are emblematic of
+how allelic polymorphisms can shape bacterial glycosyltransferase function and
+demonstrate that such alterations may be constrained to distinct phylogenetic
+lineages.
+
+© The Author(s) 2020. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/glycob/cwaa073 
+PMID: 32776107 
+

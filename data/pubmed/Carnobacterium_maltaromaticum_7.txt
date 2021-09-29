@@ -1,0 +1,50 @@
+
+1. J Microbiol Methods. 2020 Aug;175:105961. doi: 10.1016/j.mimet.2020.105961. Epub 
+2020 May 29.
+
+qPCR quantification of Carnobacterium maltaromaticum, Brochothrix thermosphacta, 
+and Serratia liquefaciens growth kinetics in mixed culture.
+
+Mohsina K(1), Kaur M(2), Bowman JP(3), Powell S(4), Tamplin ML(5).
+
+Author information: 
+(1)Tasmanian Institute of Agriculture, University of Tasmania, Private Bag 54,
+Hobart, Tasmania 7001, Australia. Electronic address: kaniz.mohsina@utas.edu.au.
+(2)Tasmanian Institute of Agriculture, University of Tasmania, Private Bag 54,
+Hobart, Tasmania 7001, Australia. Electronic address: mandeep.kaur@rmit.edu.au.
+(3)Tasmanian Institute of Agriculture, University of Tasmania, Private Bag 54,
+Hobart, Tasmania 7001, Australia. Electronic address: john.bowman@utas.edu.au.
+(4)Tasmanian Institute of Agriculture, University of Tasmania, Private Bag 54,
+Hobart, Tasmania 7001, Australia. Electronic address: Shane.Powell@utas.edu.au.
+(5)Tasmanian Institute of Agriculture, University of Tasmania, Private Bag 54,
+Hobart, Tasmania 7001, Australia. Electronic address: mark.tamplin@utas.edu.au.
+
+Quantifying growth kinetics of specific spoilage microorganisms in mixed culture 
+is required to describe the evolution of food microbiomes. A qPCR method was
+developed to selectively amplify individual meat spoilage bacteria,
+Carnobacterium maltaromaticum, Brochothrix thermosphacta and Serratia
+liquefaciens, within a broth medium designed to simulate the composition of beef.
+An optimized method of DNA extraction was produced for standard curve
+construction. Method specificity was determined by individual single peaks in
+melt curves. Reaction efficiency for standard curves of C. maltaromaticum, B.
+thermosphacta and S. liquefaciens was high (R2 = 0.98-0.99), and linear
+quantification was achieved over a 5 log CFU/ml range. Coefficient of variation
+was calculated considering both threshold cycle (Ct) and bacterial concentration;
+the value did not exceed 14% for inter- or intra-runs for either method.
+Comparison of growth kinetic parameters derived from plate count and qPCR showed 
+no significant variation (P > .05) for growth rate (GR) and maximum population
+density (MPD); lag phase duration (LPD) was not included in this comparison due
+to high innate variability. Log quantification of each isolate was validated in a
+mixed-culture experiment for all three species with qPCR and plate count
+differing less than 0.3 log CFU/ml (average 0.10 log CFU/ml, R2 = 0.98).
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.mimet.2020.105961 
+PMID: 32479869 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

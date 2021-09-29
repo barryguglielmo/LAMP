@@ -1,0 +1,48 @@
+
+1. Sci Total Environ. 2019 Dec 10;695:133838. doi: 10.1016/j.scitotenv.2019.133838. 
+Epub 2019 Aug 8.
+
+Fixation of CO2, electron donor and redox microenvironment regulate succinic acid
+production in Citrobacter amalonaticus.
+
+Amulya K(1), Mohan SV(2).
+
+Author information: 
+(1)Bioengineering and Environmental Sciences (BEES) Lab, Department of Energy and
+Environmental Engineering, CSIR-Indian Institute of Chemical Technology
+(CSIR-IICT), Hyderabad 500 007, India; Academy of Scientific and Innovative
+Research (AcSIR), CSIR-Indian Institute of Chemical Technology (CSIR-IICT)
+Campus, Hyderabad 500 007, India.
+(2)Bioengineering and Environmental Sciences (BEES) Lab, Department of Energy and
+Environmental Engineering, CSIR-Indian Institute of Chemical Technology
+(CSIR-IICT), Hyderabad 500 007, India; Academy of Scientific and Innovative
+Research (AcSIR), CSIR-Indian Institute of Chemical Technology (CSIR-IICT)
+Campus, Hyderabad 500 007, India. Electronic address: svmohan@iict.res.in.
+
+Biological sequestration of CO2 for generating value added products is an
+emerging strategy. Succinic acid (SA) is an important C4 building block chemical,
+and its biological production via CO2 sequestration, holds many practical
+applications. This study presents an in-depth insight on SA production using
+isolated strain belonging to genus Citrobacter, more closely related to
+Citrobacter amalonaticus by considering critical process parameters such as
+different carbon sources at various initial concentrations, buffering agent
+(NaHCO3) concentrations and different pH conditions. The effect of H2 gas as an
+electron donor and availability of CO2 during SA production was also evaluated.
+The results from this work demonstrated that the isolated strain depicted the
+ability to utilize diverse carbon sources and highest SA production was achieved 
+with sucrose as a substrate, indicating that reduced carbon substrates help in
+maximizing the redox potential. Incorporation of CO2 and H2 not only enhanced the
+production of SA but also affected the total acids profile favoring the
+production of SA over lactic, formic and acetic acids. Additional supply of CO2
+and H2 led to maximum SA production of 12.07 gL-1, productivity of 0.36 gL-1 h-1 
+and SA yield of 48.5%. In control operation when no gases were supplied and in
+other test conditions where either of the gases were supplied, lactic acid was
+the major end product followed by acetic acid. The positive effect of CO2 for SA 
+production provides scope for sustainable integration of SA and the
+CO2-generating biofuel industries or industrial side streams.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2019.133838 
+PMID: 31756859  [Indexed for MEDLINE]
+

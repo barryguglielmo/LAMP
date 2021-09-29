@@ -1,0 +1,60 @@
+
+1. Proc Natl Acad Sci U S A. 2020 Sep 21. pii: 202003656. doi:
+10.1073/pnas.2003656117. [Epub ahead of print]
+
+CD8 T cells drive anorexia, dysbiosis, and blooms of a commensal with
+immunosuppressive potential after viral infection.
+
+Labarta-Bajo L(1), Gramalla-Schmitz A(1), Gerner RR(2)(3), Kazane KR(1), Humphrey
+G(2), Schwartz T(2), Sanders K(2), Swafford A(4), Knight R(2)(4)(5)(6),
+Raffatellu M(2)(3)(4)(7), Zúñiga EI(8).
+
+Author information: 
+(1)Division of Biological Sciences, University of California San Diego, La Jolla,
+San Diego, CA 92093.
+(2)Department of Pediatrics, University of California San Diego, La Jolla, CA
+92093.
+(3)Division of Host-Microbe Systems & Therapeutics, University of California San 
+Diego, La Jolla, CA 92093.
+(4)Center for Microbiome Innovation, University of California San Diego, La
+Jolla, CA 92093.
+(5)Department of Bioengineering, University of California San Diego, La Jolla, CA
+92093.
+(6)Department of Computer Science & Engineering, University of California San
+Diego, La Jolla, CA 92093.
+(7)Center for Mucosal Immunology, Allergy, and Vaccines, Chiba
+University-University of California San Diego, La Jolla, CA 92093.
+(8)Division of Biological Sciences, University of California San Diego, La Jolla,
+San Diego, CA 92093; eizuniga@ucsd.edu.
+
+Infections elicit immune adaptations to enable pathogen resistance and/or
+tolerance and are associated with compositional shifts of the intestinal
+microbiome. However, a comprehensive understanding of how infections with
+pathogens that exhibit distinct capability to spread and/or persist
+differentially change the microbiome, the underlying mechanisms, and the relative
+contribution of individual commensal species to immune cell adaptations is still 
+lacking. Here, we discovered that mouse infection with a fast-spreading and
+persistent (but not a slow-spreading acute) isolate of lymphocytic
+choriomeningitis virus induced large-scale microbiome shifts characterized by
+increased Verrucomicrobia and reduced Firmicute/Bacteroidetes ratio. Remarkably, 
+the most profound microbiome changes occurred transiently after infection with
+the fast-spreading persistent isolate, were uncoupled from sustained viral loads,
+and were instead largely caused by CD8 T cell responses and/or CD8 T cell-induced
+anorexia. Among the taxa enriched by infection with the fast-spreading virus,
+Akkermansia muciniphila, broadly regarded as a beneficial commensal, bloomed upon
+starvation and in a CD8 T cell-dependent manner. Strikingly, oral administration 
+of A. muciniphila suppressed selected effector features of CD8 T cells in the
+context of both infections. Our findings define unique microbiome differences
+after chronic versus acute viral infections and identify CD8 T cell responses and
+downstream anorexia as driver mechanisms of microbial dysbiosis after infection
+with a fast-spreading virus. Our data also highlight potential context-dependent 
+effects of probiotics and suggest a model in which changes in host behavior and
+downstream microbiome dysbiosis may constitute a previously unrecognized negative
+feedback loop that contributes to CD8 T cell adaptations after infections with
+fast-spreading and/or persistent pathogens.
+
+DOI: 10.1073/pnas.2003656117 
+PMID: 32958643 
+
+Conflict of interest statement: The authors declare no competing interest.
+

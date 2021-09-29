@@ -1,0 +1,50 @@
+
+1. J Clin Invest. 2020 Aug 3;130(8):4019-4024. doi: 10.1172/JCI133605.
+
+Gut microbiome communication with bone marrow regulates susceptibility to
+amebiasis.
+
+Burgess SL(1), Leslie JL(1), Uddin J(1), Oakland DN(1), Gilchrist C(1), Moreau
+GB(1), Watanabe K(1)(2), Saleh M(1), Simpson M(1), Thompson BA(1), Auble DT(3),
+Turner SD(4), Giallourou N(5), Swann J(5), Pu Z(6)(7), Ma JZ(6)(7), Haque R(8),
+Petri WA Jr(1).
+
+Author information: 
+(1)Division of Infectious Diseases and International Health, Department of
+Medicine, University of Virginia School of Medicine, Charlottesville, Virginia,
+USA.
+(2)AIDS Clinical Center, National Center for Global Health and Medicine,
+Shinjuku, Tokyo, Japan.
+(3)Department of Biochemistry and Molecular Genetics and.
+(4)Department of Public Health Sciences, University of Virginia School of
+Medicine, Charlottesville, Virginia, USA.
+(5)Division of Integrative Systems Medicine and Digestive Diseases, Imperial
+College London, London, United Kingdom.
+(6)Department of Statistics and.
+(7)Department of Public Health Sciences, University of Virginia, Charlottesville,
+Virginia, USA.
+(8)International Centre for Diarrhoeal Diseases Research, Dhaka, Bangladesh.
+
+The microbiome provides resistance to infection. However, the underlying
+mechanisms are poorly understood. We demonstrate that colonization with the
+intestinal bacterium Clostridium scindens protects from Entamoeba histolytica
+colitis via innate immunity. Introduction of C. scindens into the gut microbiota 
+epigenetically altered and expanded bone marrow granulocyte-monocyte progenitors 
+(GMPs) and resulted in increased intestinal neutrophils with subsequent challenge
+with E. histolytica. Introduction of C. scindens alone was sufficient to expand
+GMPs in gnotobiotic mice. Adoptive transfer of bone marrow from C.
+scindens-colonized mice into naive mice protected against amebic colitis and
+increased intestinal neutrophils. Children without E. histolytica diarrhea also
+had a higher abundance of Lachnoclostridia. Lachnoclostridia C. scindens can
+metabolize the bile salt cholate, so we measured deoxycholate and discovered that
+it was increased in the sera of C. scindens-colonized specific pathogen-free and 
+gnotobiotic mice, as well as in children protected from amebiasis. Administration
+of deoxycholate alone increased GMPs and provided protection from amebiasis. We
+elucidated a mechanism by which C. scindens and the microbially metabolized bile 
+salt deoxycholic acid alter hematopoietic precursors and provide innate
+protection from later infection with E. histolytica.
+
+DOI: 10.1172/JCI133605 
+PMCID: PMC7410058
+PMID: 32369444 
+

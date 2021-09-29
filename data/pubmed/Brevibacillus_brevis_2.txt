@@ -1,0 +1,61 @@
+
+1. J Colloid Interface Sci. 2020 Oct 15;578:698-709. doi:
+10.1016/j.jcis.2020.06.058. Epub 2020 Jun 20.
+
+Blade-like structure of graphene oxide sheets decorated with cuprous oxide and
+silicon carbide nanocomposites as bactericidal materials.
+
+Selim MS(1), Mo PJ(2), Hao Z(3), Fatthallah NA(4), Chen X(5).
+
+Author information: 
+(1)Key Laboratory of Clean Chemistry Technology of Guangdong Regular Higher
+Education Institutions, School of Chemical Engineering and Light Industry,
+Guangdong University of Technology, Guangzhou 510006, PR China; Petroleum
+Application Department, Egyptian Petroleum Research Institute, Nasr City 11727,
+Cairo, Egypt.
+(2)Key Laboratory of Clean Chemistry Technology of Guangdong Regular Higher
+Education Institutions, School of Chemical Engineering and Light Industry,
+Guangdong University of Technology, Guangzhou 510006, PR China.
+(3)Key Laboratory of Clean Chemistry Technology of Guangdong Regular Higher
+Education Institutions, School of Chemical Engineering and Light Industry,
+Guangdong University of Technology, Guangzhou 510006, PR China. Electronic
+address: haozf@gdut.edu.cn.
+(4)Processes Development Department, Egyptian Petroleum Research Institute, Nasr 
+City 11727, Cairo, Egypt.
+(5)Key Laboratory of Clean Chemistry Technology of Guangdong Regular Higher
+Education Institutions, School of Chemical Engineering and Light Industry,
+Guangdong University of Technology, Guangzhou 510006, PR China. Electronic
+address: chenxiang@gdut.edu.cn.
+
+In the current work, graphene oxide nanosheets decorated with cuprous oxide
+nanospheres (GO/Cu2O) and with silicon carbide nanowires (GO/SiC) were
+synthesized and controlled for using as blade-like antibacterial agents.
+Preparation of GO sheets with <2 nm thickness was performed through a modified
+Hummers approach. Controlled Cu2O spheres with a mean size of 40 nm were prepared
+through a wet-chemical approach. For comparative studies, a single step chemical 
+deposition method was used to prepare GO/Cu2O and GO/SiC nanocomposites for using
+as antibacterial active materials. The nanomaterials' biological behavior and
+bacterial-resistance were assessed via selected Gram-negative and gram-positive
+bacteria and yeast strains. GO/Cu2O nanocomposite exhibited higher antibacterial 
+activity against different bacterial strains than GO/SiC composite. GO/Cu2O
+exhibited average activity index, minimum inhibitory concentration (MIC) values, 
+and viable cell numbers of 1.523, 10.438 µg/mL, and 82.962% for Bacillus
+subtilis, Brevibacillus brevis and Bacillus thuriginesis), 1.453, 32.00 µg/mL,
+and 68.418% for Pseudomonas aeruginosa and Escherichia coli) and 68.608% for
+Candida albicans, respectively. The antimicrobial efficiency of the blade-like
+GO/Cu2O was elucidated by scanning electron microscopy through the complete
+wrapping of the cell membranes and disrupting their shape morphology. GO
+nanosheets could increase the Cu2O dispersion in the aqueous solution, prevent
+their agglomeration, and stabilize its action in aqueous solution with high
+microbial toxicity.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jcis.2020.06.058 
+PMID: 32570140 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

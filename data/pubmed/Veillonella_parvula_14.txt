@@ -1,0 +1,46 @@
+
+1. Foods. 2020 Feb 24;9(2). pii: E246. doi: 10.3390/foods9020246.
+
+New Evidences of Antibacterial Effects of Cranberry Against Periodontal
+Pathogens.
+
+Sánchez MC(1), Ribeiro-Vidal H(1), Bartolomé B(2), Figuero E(1), Moreno-Arribas
+MV(2), Sanz M(1), Herrera D(1).
+
+Author information: 
+(1)ETEP (Etiology and Therapy of Periodontal Diseases) Research Group, University
+Complutense of Madrid, Plaza Ramón y Cajal s/n, 28040 Madrid, Spain.
+(2)Institute of Food Science Research (CIAL), CSIC-UAM, c/ Nicolás Cabrera 9,
+28049 Madrid, Spain.
+
+The worrying rise in antibiotic resistances emphasizes the need to seek new
+approaches for treating and preventing periodontal diseases. The purpose of this 
+study was to evaluate the antibacterial and anti-biofilm activity of cranberry in
+a validated in vitro biofilm model. After chemical characterization of a selected
+phenolic-rich cranberry extract, its values for minimum inhibitory concentration 
+and minimum bactericidal concentration were calculated for the six bacteria
+forming the biofilm (Streptococcus oralis, Actinomyces naeslundii, Veillonella
+parvula, Fusobacterium nucleatum, Porphyromonas gingivalis, and Aggregatibacter
+actinomycetemcomitans). Antibacterial activity of the cranberry extract in the
+formed biofilm was evaluated by assessing the reduction in bacteria viability,
+using quantitative polymerase chain reaction (qPCR) combined with propidium
+monoazide (PMA), and by confocal laser scanning microscopy (CLSM), and
+anti-biofilm activity by studying the inhibition of the incorporation of
+different bacteria species in biofilms formed in the presence of the cranberry
+extract, using qPCR and CLSM. In planktonic state, bacteria viability was
+significantly reduced by cranberry (p < 0.05). When growing in biofilms, a
+significant effect was observed against initial and early colonizers (S. oralis
+(p ≤ 0.017), A. naeslundii (p = 0.006) and V. parvula (p = 0.010)) after 30 or 60
+s of exposure, while no significant effects were detected against periodontal
+pathogens (F. nucleatum, P. gingivalis or A. actinomycetemcomitans (p > 0.05)).
+Conversely, cranberry significantly (p < 0.001 in all cases) interfered with the 
+incorporation of five of the six bacteria species during the development of 6
+h-biofilms, including P. gingivalis, A. actinomycetemcomitans, and F. nucleatum. 
+It was concluded that cranberry had a moderate antibacterial effect against
+periodontal pathogens in biofilms, but relevant anti-biofilm properties, by
+affecting bacteria adhesion in the first 6 h of development of biofilms.
+
+DOI: 10.3390/foods9020246 
+PMCID: PMC7074180
+PMID: 32102416 
+

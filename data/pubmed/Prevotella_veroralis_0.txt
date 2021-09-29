@@ -1,0 +1,36 @@
+
+1. Int J Syst Evol Microbiol. 2020 Aug;70(8):4576-4582. doi: 10.1099/ijsem.0.004316.
+Epub 2020 Jul 31.
+
+Prevotella vespertina sp. nov., isolated from an abscess of a hospital patient.
+
+Buhl M(1)(2), Marschal M(1).
+
+Author information: 
+(1)Institute of Medical Microbiology and Hygiene, Tübingen University Hospital,
+Tübingen, Germany.
+(2)Present address: Institute of Medical Microbiology, Virology and Hygiene,
+University Medicine Rostock, Rostock, Germany.
+
+A strain of an obligately anaerobic, Gram-stain-negative rod-shaped bacterium is 
+described by phenotypical, biochemical and genotypical characterization. This
+strain A2879T was isolated from an abscess swab of a patient sampled during
+routine care at hospital. Phylogenetic analyses (full-length 16S rRNA gene and
+whole-genome sequence) revealed the strain to belong to the genus Prevotella, but
+to be distant from recognized species, with the closest relationship to
+Prevotella veroralis. Unambiguous identification also proved possible by
+MALDI-TOF MS. The genomic DNA G+C content was 41.5 mol%. Strain A2879T was
+moderately saccharolytic and proteolytic. The most abundant cellular long-chain
+fatty acids were anteiso-C15 : 0 and iso-C15 : 0. In view of these data, strain
+A2879T is considered to represent a novel species within the genus Prevotella,
+for which the name Prevotella vespertina sp. nov. is proposed. The type strain is
+A2879T (=DSM 108027T=CCOS 1233T=CCUG72808T). As this strain has been isolated
+from a clinical sample, it is considered relevant for human medicine and health
+in general, and in particular for the fields of clinical microbiology and
+infectious diseases. This description will enable routine and research
+laboratories alike to easily identify the novel taxon, allowing its role in the
+context of human health and disease or microbiota to be further elucidated.
+
+DOI: 10.1099/ijsem.0.004316 
+PMID: 32735207  [Indexed for MEDLINE]
+

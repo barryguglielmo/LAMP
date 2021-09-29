@@ -1,0 +1,41 @@
+
+1. Iran J Basic Med Sci. 2020 Sep;23(9):1184-1190. doi:
+10.22038/ijbms.2020.41225.9752.
+
+The first report of Enterobacter gergoviae carrying bla NDM-1 in Iran.
+
+Khashei R(1), Edalati Sarvestani F(1), Malekzadegan Y(1), Motamedifar M(1).
+
+Author information: 
+(1)Department of Bacteriology and Virology, School of Medicine, Shiraz University
+of Medical Sciences, Shiraz, Iran.
+
+Objectives: Prompt detection of extended-spectrum β-lactamases (ESBL) and
+carbapenemase-producing enterobacteriaceae is crucial for infection prevention
+and control strategies. The present study aimed to characterize the ESBL and
+carbapenemase genes among Enterobacter isolates from an Iranian inpatient
+population.
+Materials and Methods: A total of 96 Enterobacter isolates obtained from
+inpatients between June 2016 and March 2017, were identified by the conventional 
+microbiological methods and diagnostic kits. Antimicrobial susceptibility pattern
+was performed using the disk diffusion method. The ESBL and carbapenemase genes
+were screened using polymerase chain reaction (PCR).
+Results: All clinical isolates of Enterobacter were classified as E. gergoviae
+(52, 54.2%), E. aerogenes (34, 35.4%), E. cloacae (7, 7.3%), Cronobacter (E).
+sakazakii (3, 3.1%). The highest and lowest antimicrobial resistance rates were
+observed against ampicillin (93.8%) and imipenem (21.9%). High prevalence of
+multi-drug resistance (MDR=96.9%) was substantial. Of the 96 Enterobacter
+isolates, 35 (36.5%) and 28 (29.2%) were phenotypically ESBL-positive and
+non-susceptible carbapenem, respectively. Overall, the frequency of evaluated
+genes was as follows: blaCTX-M =25 (26%), blaTEM =30 (31.3%), blaSHV =12 (12.5%),
+blaIMP =3 (3.1%), blaVIM =0 (0%), blaNDM =8 (8.3%), and blaKPC =0 (0%).
+Conclusion: In this study, we report for the first time the presence of E.
+gergoviae harboring blaNDM from an Iranian population. Regarding the increase of 
+MDR Enterobacter spp. in our region, strict hygiene rules will be needed to
+control the quick spread of ESBL and carbapenemase-producing Enterobacter
+isolates in healthcare facilities of developing countries.
+
+DOI: 10.22038/ijbms.2020.41225.9752 
+PMCID: PMC7491492
+PMID: 32963740 
+

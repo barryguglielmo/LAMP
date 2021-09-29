@@ -1,0 +1,41 @@
+
+1. Int J Environ Res Public Health. 2020 Sep 29;17(19). pii: E7137. doi:
+10.3390/ijerph17197137.
+
+Markers Specific to Bacteroides fragilis Group Bacteria as Indicators of
+Anthropogenic Pollution of Surface Waters.
+
+Niestępski S(1), Harnisz M(1), Korzeniewska E(1), Osińska A(1).
+
+Author information: 
+(1)Department of Engineering of Water Protection and Environmental Microbiology, 
+Faculty of Geoengineering, University of Warmia and Mazury in Olsztyn,
+Prawocheńskiego 1, 10-720 Olsztyn, Poland.
+
+The aim of this study was to evaluate the applicability of markers specific to
+Bacteroides fragilis group (BFG) bacteria as indicators of anthropogenic
+pollution of surface waters. In addition, the impact of wastewater treatment
+plants (WWTPs) on the spread of genes specific to fecal indicator bacteria and
+genes encoding antimicrobial resistance in water bodies was also determined.
+Samples of hospital wastewater (HWW), untreated wastewater (UWW), and treated
+wastewater (TWW) evacuated from a WWTP were collected, and samples of river water
+were taken upstream (URW) and downstream (DRW) from the wastewater discharge
+point to determine, by qPCR, the presence of genes specific to BFG, Escherichia
+coli and Enterococcus faecalis, and the abundance of 11 antibiotic resistance
+genes (ARGs) and two integrase genes. The total number of bacterial cells (TCN)
+in the examined samples was determined by fluorescence in situ hybridization
+(FISH). Genes specific to BFG predominated among the analyzed indicator
+microorganisms in HWW, and their copy numbers were similar to those of genes
+specific to E. coli and E. faecalis in the remaining samples. The abundance of
+genes specific to BFG was highly correlated with the abundance of genes
+characteristic of E. coli and E. faecalis, all analyzed ARGs and intI genes. The 
+results of this study indicate that genes specific to BFG can be used in analyses
+of human fecal pollution, and as indicators of environmental contamination with
+ARGs. A significant increase in the copy numbers of genes specific to BFG, E.
+coli, and seven out of the 11 analyzed ARGs was noted in samples of river water
+collected downstream from the wastewater discharge point, which suggests that
+WWTPs are an important source of these genes in riparian environments.
+
+DOI: 10.3390/ijerph17197137 
+PMID: 33003501 
+

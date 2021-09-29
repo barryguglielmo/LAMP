@@ -1,0 +1,31 @@
+
+1. Animals (Basel). 2020 Sep 22;10(9). pii: E1713. doi: 10.3390/ani10091713.
+
+Anti-Biofilm Effect of Tea Saponin on a Streptococcus agalactiae Strain Isolated 
+from Bovine Mastitis.
+
+Shang F(1), Wang H(1), Xue T(1).
+
+Author information: 
+(1)School of Life Sciences, Anhui Agricultural University, Hefei 230036, Anhui,
+China.
+
+Streptococcus agalactiae (GBS) is a highly contagious pathogen which not only can
+cause neonatal meningitis, pneumonia, and septicemia but is also considered to be
+a major cause of bovine mastitis (BM), leading to large economic losses to the
+dairy industry worldwide. Like many other pathogenic bacteria, GBS also has the
+capacity to form a biofilm structure in the host to cause persistent infection.
+Tea saponin (TS), is one of the main active agents extracted from tea ash powder,
+and it has good antioxidant and antibacterial activities. In this study, we
+confirmed that TS has a slight antibacterial activity against a Streptococcus
+agalactiae strain isolated from dairy cow with mastitis and inhibits its biofilm 
+formation. By performing scanning electron microscopy (SEM) experiments, we
+observed that with addition of TS, the biofilm formed by this GBS strain
+exhibited looser structure and lower density. In addition, the results of
+real-time reverse transcription polymerase chain reaction (RT-PCR) experiments
+showed that TS inhibited biofilm formation by down-regulating the transcription
+of the biofilm-associated genes including srtA, fbsC, neuA, and cpsE.
+
+DOI: 10.3390/ani10091713 
+PMID: 32971787 
+

@@ -1,0 +1,34 @@
+
+1. Biochemistry. 2020 Aug 25;59(33):3038-3043. doi: 10.1021/acs.biochem.0c00591.
+Epub 2020 Aug 10.
+
+A Chemoenzymatic Synthesis of the (RP)-Isomer of the Antiviral Prodrug
+Remdesivir.
+
+Bigley AN(1), Narindoshvili T(1), Raushel FM(1).
+
+Author information: 
+(1)Department of Chemistry, Texas A&M University, College Station, Texas 77843,
+United States.
+
+The COVID-19 pandemic threatens to overwhelm healthcare systems around the world.
+The only current FDA-approved treatment, which directly targets the virus, is the
+ProTide prodrug remdesivir. In its activated form, remdesivir prevents viral
+replication by inhibiting the essential RNA-dependent RNA polymerase. Like other 
+ProTide prodrugs, remdesivir contains a chiral phosphorus center. The initial
+selection of the (SP)-diastereomer for remdesivir was reportedly due to the
+difficulty in producing the pure (RP)-diastereomer of the required precursor.
+However, the two currently known enzymes responsible for the initial activation
+step of remdesivir are each stereoselective and show differential tissue
+distribution. Given the ability of the COVID-19 virus to infect a wide array of
+tissue types, inclusion of the (RP)-diastereomer may be of clinical significance.
+To help overcome the challenge of obtaining the pure (RP)-diastereomer of
+remdesivir, we have developed a novel chemoenzymatic strategy that utilizes a
+stereoselective variant of the phosphotriesterase from Pseudomonas diminuta to
+enable the facile isolation of the pure (RP)-diastereomer of the chiral precursor
+for the chemical synthesis of the (RP)-diastereomer of remdesivir.
+
+DOI: 10.1021/acs.biochem.0c00591 
+PMCID: PMC7418565
+PMID: 32786401  [Indexed for MEDLINE]
+

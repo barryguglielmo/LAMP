@@ -1,0 +1,75 @@
+
+1. Cell. 2020 Sep 22. pii: S0092-8674(20)31150-8. doi: 10.1016/j.cell.2020.09.009.
+[Epub ahead of print]
+
+Translocation of Viable Gut Microbiota to Mesenteric Adipose Drives Formation of 
+Creeping Fat in Humans.
+
+Ha CWY(1), Martin A(1), Sepich-Poore GD(2), Shi B(3), Wang Y(4), Gouin K(5),
+Humphrey G(6), Sanders K(6), Ratnayake Y(7), Chan KSL(7), Hendrick G(1), Caldera 
+JR(8), Arias C(1), Moskowitz JE(1), Ho Sui SJ(9), Yang S(1), Underhill D(10),
+Brady MJ(11), Knott S(5), Kaihara K(12), Steinbaugh MJ(9), Li H(3), McGovern
+DPB(1), Knight R(13), Fleshner P(14), Devkota S(15).
+
+Author information: 
+(1)F. Widjaja Foundation Inflammatory Bowel and Immunobiology Research Institute,
+Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA.
+(2)Department of Bioengineering, University of California San Diego, La Jolla,
+California 92093, USA.
+(3)Department of Molecular and Medical Pharmacology, Crump Institute for
+Molecular Imaging, David Geffen School of Medicine, University of California Los 
+Angeles, Los Angeles, CA 90095, USA.
+(4)Applied Genomics, Computation and Translational Core, Cedars-Sinai Cancer,
+Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA.
+(5)Department of Biomedical Sciences, Cedars-Sinai Medical Center, Los Angeles,
+CA 90048, USA; Applied Genomics, Computation and Translational Core, Cedars-Sinai
+Cancer, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA.
+(6)Department of Pediatrics, University of California San Diego, La Jolla, CA
+92093, USA.
+(7)Trabeya Pte. Ltd., Singapore 018989, Singapore.
+(8)Department of Biomedical Sciences, Cedars-Sinai Medical Center, Los Angeles,
+CA 90048, USA.
+(9)Harvard Chan Bioinformatics Core, Harvard T.H. Chan School of Public Health,
+Boston, MA 02115, USA.
+(10)F. Widjaja Foundation Inflammatory Bowel and Immunobiology Research
+Institute, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA; Department of
+Biomedical Sciences, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA.
+(11)Department of Medicine, Section of Endocrinology and Metabolism, The
+University of Chicago, Chicago, IL 60637, USA.
+(12)Bio-Rad Genomics, Hercules, CA 94547, USA.
+(13)Department of Pediatrics, University of California San Diego, La Jolla, CA
+92093, USA; Department of Computer Science and Engineering, University of
+California San Diego, La Jolla, CA 92093, USA.
+(14)F. Widjaja Foundation Inflammatory Bowel and Immunobiology Research
+Institute, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA; Division of
+Colorectal Surgery, Department of Surgery, Cedars-Sinai Medical Center, Los
+Angeles, CA 90048, USA.
+(15)F. Widjaja Foundation Inflammatory Bowel and Immunobiology Research
+Institute, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA; Department of
+Biomedical Sciences, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA.
+Electronic address: suzanne.devkota@cshs.org.
+
+A mysterious feature of Crohn's disease (CD) is the extra-intestinal
+manifestation of "creeping fat" (CrF), defined as expansion of mesenteric adipose
+tissue around the inflamed and fibrotic intestine. In the current study, we
+explore whether microbial translocation in CD serves as a central cue for CrF
+development. We discovered a subset of mucosal-associated gut bacteria that
+consistently translocated and remained viable in CrF in CD ileal surgical
+resections, and identified Clostridium innocuum as a signature of this consortium
+with strain variation between mucosal and adipose isolates, suggesting preference
+for lipid-rich environments. Single-cell RNA sequencing characterized CrF as both
+pro-fibrotic and pro-adipogenic with a rich milieu of activated immune cells
+responding to microbial stimuli, which we confirm in gnotobiotic mice colonized
+with C. innocuum. Ex vivo validation of expression patterns suggests C. innocuum 
+stimulates tissue remodeling via M2 macrophages, leading to an adipose tissue
+barrier that serves to prevent systemic dissemination of bacteria.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2020.09.009 
+PMCID: PMC7521382
+PMID: 32991841 
+
+Conflict of interest statement: Declaration of Interests S.D. and C.W.Y.H. are
+inventors on US patent application #62/679,624.
+

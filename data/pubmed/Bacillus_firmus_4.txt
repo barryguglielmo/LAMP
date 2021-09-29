@@ -1,0 +1,53 @@
+
+1. J Mol Model. 2020 May 9;26(6):124. doi: 10.1007/s00894-020-04383-8.
+
+Effects of oligolignol sizes and binding modes on a GH11 xylanase inhibition
+revealed by molecular modeling techniques.
+
+Muhammad A(1)(2)(3), Khunrae P(4), Sutthibutpong T(5)(6).
+
+Author information: 
+(1)Theoretical and Computational Physics Group, Department of Physics, King
+Mongkut's University of Technology Thonburi (KMUTT), Bangkok, Thailand.
+(2)Theoretical and Computational Science Center (TaCS), Science Laboratory
+Building, Faculty of Science, King Mongkut's University of Technology Thonburi
+(KMUTT), 126 Pracha Uthit Road, Bang Mod, Thrung Khru, Bangkok, 10140, Thailand.
+(3)Department of Physics, Faculty of Science, Kano University of Science and
+Technology (KUST), Wudil, Nigeria.
+(4)Department of Microbiology, Science Laboratory Building, Faculty of Science,
+King Mongkut's University of Technology Thonburi, Bangkok, Thailand.
+(5)Theoretical and Computational Physics Group, Department of Physics, King
+Mongkut's University of Technology Thonburi (KMUTT), Bangkok, Thailand.
+thana.sut@mail.kmutt.ac.th.
+(6)Theoretical and Computational Science Center (TaCS), Science Laboratory
+Building, Faculty of Science, King Mongkut's University of Technology Thonburi
+(KMUTT), 126 Pracha Uthit Road, Bang Mod, Thrung Khru, Bangkok, 10140, Thailand. 
+thana.sut@mail.kmutt.ac.th.
+
+Lignin and phenolic compounds have been shown as the main recalcitrance for
+biomass decomposition, as they inhibit a number of lignocellulose-degrading
+enzymes. Understanding the inhibition mechanisms and energetic competitions with 
+the native substrate is essential for the development of lignin resistive
+enzymes. In this study, atomistic detail of the size-dependent effects and
+binding modes of monomeric coniferyl alcohol, dimeric oligolignol, and tetrameric
+oligolignol made from coniferyl alcohols on the GH11 xylanase from Bacillus
+firmus strain K-1 was investigated by using molecular docking and atomistic
+molecular dynamics (MD) simulations. From the MD simulation results on the docked
+conformation of oligolignol binding within the "Cleft" and the "N-terminal,"
+changes were observed both for protein conformations and positional binding of
+ligands, as binding with "Thumb" regions was found for all oligolignin models.
+Moreover, the uniquely stable "N-terminal" binding of the coniferyl alcohol
+monomer had no effect on the highly fluctuated Thumb region, showing no sign of
+inhibitory effect, and was in good agreement with recent studies. However, the
+inhibitory effect of oligolignols was size dependent, as the estimated binding
+energy of the tetrameric oligolignol became stronger than that of the xylohexaose
+substrate, and the important binding residues were identified for future protein 
+engineering attempts to enhance the lignin resistivity of GH11. Graphical
+Abstract Size-dependent binding modes of coniferyl alcohol monomers (upper
+panels) and the dimers (lower panels). Uniquely stable "N-terminal" binding of
+the monomer is shown to have no effect on the binding pocket, and hence no sign
+of inhibition, which was in good agreement with some recent studies.
+
+DOI: 10.1007/s00894-020-04383-8 
+PMID: 32388588 
+

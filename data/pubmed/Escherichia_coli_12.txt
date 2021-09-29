@@ -1,0 +1,59 @@
+
+1. J Antimicrob Chemother. 2020 Oct 3. pii: dkaa395. doi: 10.1093/jac/dkaa395. [Epub
+ahead of print]
+
+Predominance of CTX-M-15-producing ST131 strains among ESBL-producing Escherichia
+coli isolated from asylum seekers in the Netherlands.
+
+Louka C(1)(2), Ravensbergen SJ(1)(2), Ott A(3)(4), Zhou X(4), García-Cobos
+S(4)(5), Friedrich AW(4), Pournaras S(6), Rosema S(4), Rossen JW(4)(7), Stienstra
+Y(1)(2), Bathoorn E(4).
+
+Author information: 
+(1)University of Groningen, University Medical Center Groningen, Department of
+Internal Medicine/Infectious Diseases, Groningen, The Netherlands.
+(2)ESCMID Study Group for Infections in Travellers and Migrants, Basel,
+Switzerland.
+(3)Department of Medical Microbiology and Infection Prevention, Certe, Groningen,
+The Netherlands.
+(4)University of Groningen, University Medical Center Groningen, Department of
+Medical Microbiology, Groningen, The Netherlands.
+(5)Reference and Research Laboratory on Antimicrobial Resistance and
+Healthcare-Associated Infections, National Microbiology Centre, Institute of
+Health Carlos III, Majadahonda, Madrid, Spain.
+(6)Department of Medical Microbiology, 'ATTIKON' University Hospital of Athens,
+Athens, Greece.
+(7)IDbyDNA, 675 Arapeen Drive, Suite 301, Salt Lake City, UT 84108, USA.
+
+OBJECTIVES: Numerous studies show increased prevalence of MDR bacteria amongst
+asylum seekers, but data on the molecular profiles of such strains are limited.
+We aimed to evaluate the molecular profiles of ESBL-producing Escherichia coli
+(ESBL-E. coli) strains isolated from asylum seekers and investigate their
+phylogenetic relatedness.
+METHODS: WGS data of ESBL-E. coli isolates from asylum seekers, retrieved from 1 
+January to 31 December 2016, were analysed to assess MLST STs, fim types,
+phylogroups and resistance genes. Fifty-two ESBL-E. coli isolates from the
+Dutch-German border region were used for genome comparison purposes as a control 
+group.
+RESULTS: Among 112 ESBL-E. coli isolates from asylum seekers, originating mostly 
+from Syria (n = 40) and Iraq (n = 15), the majority belonged to ST131 (21.4%) and
+ST10 (17.0%). The predominant gene for β-lactam resistance was blaCTX-M-15
+(67.9%), followed by the often co-detected blaTEM-1B (39.3%). No mcr or
+carbapenemase genes were detected. The majority of the strains belonged to
+phylogroups B2 (38.4%) and A (32.1%), carrying fimH27 (25%) and fimH30 (19.6%). A
+core genome MLST minimum spanning tree did not reveal clusters containing strains
+from the asylum seekers and the control group. Five clusters were formed within
+the asylum seeker group, by strains isolated from people originating from
+different countries.
+CONCLUSIONS: The most frequently isolated clones in this study were isolated on a
+regular basis within the Dutch population before the increase in the asylum
+seeker population. No mcr- or carbapenemase-producing clones were detected among 
+the asylum seeker population. Minor clustering was observed amongst the asylum
+seeker strains.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the
+British Society for Antimicrobial Chemotherapy.
+
+DOI: 10.1093/jac/dkaa395 
+PMID: 33009805 
+

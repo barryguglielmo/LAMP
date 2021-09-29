@@ -1,0 +1,45 @@
+
+1. Curr Microbiol. 2020 Sep 12. doi: 10.1007/s00284-020-02183-0. [Epub ahead of
+print]
+
+Detection of Diverse N-Acyl Homoserine Lactone Signalling Molecules Among
+Bacteria Associated with Rice Rhizosphere.
+
+Viswanath G(1), Sekar J(1), Ramalingam PV(2).
+
+Author information: 
+(1)Microbiology Lab, M.S. Swaminathan Research Foundation, 3rd Cross
+Institutional Area, Taramani, Chennai, 600 113, India.
+(2)Microbiology Lab, M.S. Swaminathan Research Foundation, 3rd Cross
+Institutional Area, Taramani, Chennai, 600 113, India. prabavathyvr@mssrf.res.in.
+
+Bacterial communities communicate, regulate and coordinate their cooperative
+activities and physiological process by releasing, sensing and responding to
+small diffusible signal molecules such as acyl homoserine lactones (AHLs),
+auto-inducing oligo-peptides (AIPs) and autoinducer-2, a process referred to as
+Quorum sensing (QS). The QS mediated communication in rhizosphere associated
+bacterial communities significantly influence traits governing plant-microbe
+interactions. This study aimed to identify AHL-mediated QS signals in bacterial
+communities associated with rice rhizosphere using two AHL biosensors reporter
+strains Chromobacterium violaceum CV026 and Agrobacterium tumefaciens NTL4
+(pZLR4). Approximately 375 bacterial isolates isolated from rice rhizosphere and 
+screened using both the biosensors, detected 49 (13%) AHL positive isolates. The 
+BOX-Polymerase Chain reaction (BOX-PCR) fingerprinting profiles of the 49 AHL
+positive isolates represented 11 distinct cluster groups. Subsequent 16S rRNA
+gene sequence analysis identified 11 different species affiliated to two
+different phyla; predominantly γ-proteobacteria, representing 5 genera and 1
+genus in α-proteobacteria. Thin-layer chromatography (TLC) analysis detected
+diverse AHL profiles among the 11 AHL positive isolates with both substituted and
+unsubstituted acyl side chains of C4, C6 and C8 carbon. Further, AHL production
+in Acinetobacter lactucae, Aeromonas popoffii, Serratia oryzae, and Rhizobium
+wuzhouense is being reported for the first time. Detection of diverse AHLs from
+different groups of rhizobacteria associated with rice indicates that these
+signalling molecules may be involved in the regulation of rhizobacterial
+behaviour and symbiotic plant-microbe interactions. Future research on the role
+of AHLs in trans-kingdom communication particularly plant-microbe interaction
+using synthetic microbial community will enable in evaluating and developing
+potential plant specific bioproducts.
+
+DOI: 10.1007/s00284-020-02183-0 
+PMID: 32918570 
+

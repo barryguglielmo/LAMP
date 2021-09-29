@@ -1,0 +1,54 @@
+
+1. PLoS One. 2020 Sep 17;15(9):e0239312. doi: 10.1371/journal.pone.0239312.
+eCollection 2020.
+
+Antimicrobial activity of organic acids against Campylobacter spp. and
+development of combinations-A synergistic effect?
+
+Peh E(1), Kittler S(1), Reich F(1)(2), Kehrenberg C(3).
+
+Author information: 
+(1)Institute for Food Quality and Food Safety, University of Veterinary Medicine 
+Hannover, Foundation, Hannover, Germany.
+(2)German Federal Institute for Risk Assessment (BfR), Berlin, Germany.
+(3)Institute for Veterinary Food Science, Justus-Liebig-University Giessen,
+Giessen, Germany.
+
+Contaminated poultry meat is considered to be the main source of human infection 
+with Campylobacter spp., a pathogen that asymptomatically colonizes broiler
+chickens during fattening and contaminates carcasses during slaughter. To prevent
+or reduce the colonization of broiler flocks with Campylobacter spp., applying
+different organic acids, especially in combinations, via feed or drinking water
+seems to be a promising approach. However, only very few combinations of organic 
+acids have been tested for their antibacterial efficacy against Campylobacter
+spp. Therefore, the in vitro susceptibility of 30 Campylobacter spp. isolates (20
+C. jejuni and ten C. coli) to ten organic acids and ten combinations was
+determined. The testing of minimum inhibitory concentration (MIC) values was
+performed at pH 6.0 and 7.3 by using the broth microdilution method and included 
+the following organic acids: Caprylic acid, sorbic acid, caproic acid, benzoic
+acid, ascorbic acid, propionic acid, acetic acid, formic acid, fumaric acid and
+tartaric acid and combinations thereof. The lowest MIC values were seen for
+caprylic acid (MIC range at pH 7.3: 0.5-2 mmol/L) and sorbic acid (MIC range at
+pH 7.3: 1-4 mmol/L). One to two dilution steps lower MIC values were determined
+at the lower pH value of 6.0. Furthermore, ten combinations consisting of three
+to five organic acids were developed. In addition to the tested antibacterial
+activity, other criteria were included such as approval as feed additives,
+reported synergistic effects and chemical properties. For nine of ten
+combinations, the MIC90 values of the organic acids decreased 1.25- to 241.5-fold
+compared to the MIC90 values for the individual substances. Furthermore, nine of 
+ten combinations exhibited synergistic activities against two or more of the
+tested C. jejuni and C. coli isolates. A combination of caprylic acid, sorbic
+acid and caproic acid exhibited synergistic activities against the largest number
+of Campylobacter spp. isolates (six C. jejuni and four C. coli) with fractional
+inhibitory concentration (FIC) indices (∑FIC) ranging from 0.33 to 1.42. This
+study shows in vitro synergistic activities of different organic acids in
+combinations against the major Campylobacter species and could therefore be a
+promising basis for reducing Campylobacter spp. in vivo.
+
+DOI: 10.1371/journal.pone.0239312 
+PMCID: PMC7497993
+PMID: 32941534 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

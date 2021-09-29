@@ -1,0 +1,69 @@
+
+1. Sci Total Environ. 2020 Jan 15;700:134453. doi: 10.1016/j.scitotenv.2019.134453. 
+Epub 2019 Oct 4.
+
+Influence of Brevibacterium linens RS16 on foliage photosynthetic and volatile
+emission characteristics upon heat stress in Eucalyptus grandis.
+
+Chatterjee P(1), Kanagendran A(2), Samaddar S(3), Pazouki L(4), Sa TM(5),
+Niinemets Ü(6).
+
+Author information: 
+(1)Department of Environmental and Biological Chemistry, Chungbuk National
+University Cheongju, Chungbuk 28644, Republic of Korea; Department of
+Microbiology and Molecular Genetics, University of California, Davis, California 
+95616, USA.
+(2)Institute of Agricultural and Environmental Sciences, Estonian University of
+Life Sciences, Kreutzwaldi 1, Tartu 51006, Estonia; FARCE Lab, Institute of
+Biology, University of Neuchâtel, Rue Emile-Argand 11, 2000 Neuchâtel,
+Switzerland.
+(3)Department of Environmental and Biological Chemistry, Chungbuk National
+University Cheongju, Chungbuk 28644, Republic of Korea; Department of Land, Air, 
+and Water Resources, University of California, Davis, California 95616, USA.
+(4)Institute of Agricultural and Environmental Sciences, Estonian University of
+Life Sciences, Kreutzwaldi 1, Tartu 51006, Estonia; Department of Biology,
+University of Louisville, Louisville, KY 40292, USA.
+(5)Department of Environmental and Biological Chemistry, Chungbuk National
+University Cheongju, Chungbuk 28644, Republic of Korea. Electronic address:
+tomsa@chungbuk.ac.kr.
+(6)Institute of Agricultural and Environmental Sciences, Estonian University of
+Life Sciences, Kreutzwaldi 1, Tartu 51006, Estonia; Estonian Academy of Sciences,
+Kohtu 6, 10130 Tallinn, Estonia. Electronic address: ylo.niinemets@emu.ee.
+
+Erratum in
+    Sci Total Environ. 2020 May 10;716:135445.
+
+Heat stress induces secondary metabolic changes in plants, channeling
+photosynthetic carbon and energy, away from primary metabolic processes,
+including, growth. Use of ACC (1-aminocyclopropane-1-carboxylate) deaminase
+containing plant growth promoting bacteria (PGPB) in conferring heat resistance
+in plants and the role of PGPB, in altering net carbon assimilation, constitutive
+and stress volatile emissions has not been studied yet. We exposed leaves of
+Eucalyptus grandis inoculated and non-inoculated with PGPB Brevibacterium linens 
+RS16 to two levels of heat stress (37 °C and 41 °C for 5 min) and quantified
+temporal changes in foliage photosynthetic characteristics and volatile emission 
+rates at 0.5 h, day 1 and day 5 after the stress application. Heat stress
+resulted in immediate reductions in dark-adapted photosystem II (PSII) quantum
+yield (Fv/Fm), net assimilation rate (A), stomatal conductance to water vapor
+(gs), and enhancement of stress volatile emissions, including enhanced emissions 
+of green leaf volatiles (GLV), mono- and sesquiterpenes, light weight oxygenated 
+volatile organic compounds (LOC), geranyl-geranyl diphosphate pathway volatiles
+(GGDP), saturated aldehydes, and benzenoids, with partial recovery by day 5.
+Changes in stress-induced volatiles were always less in leaves inoculated with B.
+linens RS16. However, net assimilation rate was enhanced by bacterial inoculation
+only in the 37 °C treatment and overall reduction of isoprene emissions was
+observed in bacterially-treated leaves. Principal component analysis (PCA),
+correlation analysis and partial least squares discriminant analysis (PLS-DA)
+indicated that different stress applications influenced specific volatile organic
+compounds. In addition, changes in the expression analysis of heat shock protein 
+70 gene (DnaK) gene in B. linens RS16 upon exposure to higher temperatures
+further indicated that B. linens RS16 has developed its own heat resistance
+mechanism to survive under higher temperature regimes. Taken together, this study
+demonstrates that foliar application of ACC deaminase containing PGPB can
+ameliorate heat stress effects in realistic biological settings.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2019.134453 
+PMID: 31670196  [Indexed for MEDLINE]
+

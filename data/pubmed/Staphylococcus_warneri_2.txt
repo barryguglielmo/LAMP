@@ -1,0 +1,55 @@
+
+1. J Bacteriol. 2020 Sep 8;202(19). pii: e00294-20. doi: 10.1128/JB.00294-20. Print 
+2020 Sep 8.
+
+Structural Visualization of Septum Formation in Staphylococcus warneri Using
+Atomic Force Microscopy.
+
+Su HN(1), Li K(1)(2), Zhao LS(1), Yuan XX(1), Zhang MY(1), Liu SM(1), Chen XL(1),
+Liu LN(3)(4), Zhang YZ(5)(6)(2).
+
+Author information: 
+(1)State Key Laboratory of Microbial Technology, Marine Biotechnology Research
+Center, Shandong University, Qingdao, China.
+(2)Laboratory for Marine Biology and Biotechnology, Qingdao National Laboratory
+for Marine Science and Technology, Qingdao, China.
+(3)College of Marine Life Sciences and Frontiers Science Center for Deep Ocean
+Multispheres and Earth System, Ocean University of China, Qingdao, China
+Luning.Liu@liverpool.ac.uk zhangyz@sdu.edu.cn.
+(4)Institute of Systems, Molecular and Integrative Biology, University of
+Liverpool, Liverpool, United Kingdom.
+(5)State Key Laboratory of Microbial Technology, Marine Biotechnology Research
+Center, Shandong University, Qingdao, China Luning.Liu@liverpool.ac.uk
+zhangyz@sdu.edu.cn.
+(6)College of Marine Life Sciences and Frontiers Science Center for Deep Ocean
+Multispheres and Earth System, Ocean University of China, Qingdao, China.
+
+Cell division of Staphylococcus adopts a "popping" mechanism that mediates
+extremely rapid separation of the septum. Elucidating the structure of the septum
+is crucial for understanding this exceptional bacterial cell division mechanism. 
+Here, the septum structure of Staphylococcus warneri was extensively
+characterized using high-speed time-lapse confocal microscopy, atomic force
+microscopy, and electron microscopy. The cells of S. warneri divide in a fast
+popping manner on a millisecond timescale. Our results show that the septum is
+composed of two separable layers, providing a structural basis for the ultrafast 
+daughter cell separation. The septum is formed progressively toward the center
+with nonuniform thickness of the septal disk in radial directions. The
+peptidoglycan on the inner surface of double-layered septa is organized into
+concentric rings, which are generated along with septum formation. Moreover, this
+study signifies the importance of new septum formation in initiating new cell
+cycles. This work unravels the structural basis underlying the popping mechanism 
+that drives S. warneri cell division and reveals a generic structure of the
+bacterial cell.IMPORTANCE This work shows that the septum of Staphylococcus
+warneri is composed of two layers and that the peptidoglycan on the inner surface
+of the double-layered septum is organized into concentric rings. Moreover, new
+cell cycles of S. warneri can be initiated before the previous cell cycle is
+complete. This work advances our knowledge about a basic structure of bacterial
+cell and provides information on the double-layered structure of the septum for
+bacteria that divide with the "popping" mechanism.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/JB.00294-20 
+PMCID: PMC7484183 [Available on 2021-03-08]
+PMID: 32900866 
+

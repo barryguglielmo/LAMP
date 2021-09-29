@@ -1,0 +1,38 @@
+
+1. N Biotechnol. 2020 Jan 25;54:71-79. doi: 10.1016/j.nbt.2019.08.005. Epub 2019 Aug
+29.
+
+Peroxide-driven catalysis of the heme domain of A. radioresistens cytochrome P450
+116B5 for sustainable aromatic rings oxidation and drug metabolites production.
+
+Ciaramella A(1), Catucci G(1), Di Nardo G(1), Sadeghi SJ(1), Gilardi G(2).
+
+Author information: 
+(1)Department of Life Sciences and Systems Biology, University of Torino, Via
+Accademia Albertina 13, 10123, Torino, Italy.
+(2)Department of Life Sciences and Systems Biology, University of Torino, Via
+Accademia Albertina 13, 10123, Torino, Italy. Electronic address:
+gianfranco.gilardi@unito.it.
+
+The heme domain of cytochrome P450 116B5 from Acinetobacter radioresistens (P450 
+116B5hd), a self-sufficient class VII P450, was functionally expressed in
+Escherichia coli, purified and characterised in active form. Its unusually high
+reduction potential (-144 ± 42 mV) and stability in the presence of hydrogen
+peroxide make this enzyme a good candidate for driving catalysis with the
+so-called peroxide shunt, avoiding the need for a reductase and the expensive
+cofactor NAD(P)H. The enzyme is able to carry out the peroxide-driven
+hydroxylation of aromatic compounds such as p-nitrophenol (KM = 128.85 ± 29.51 μM
+and kcat = 2.65 ± 0.14 min-1), 10-acetyl-3,7-dihydroxyphenoxazine
+(KM = 6.01 ± 0.32 μM and kcat = 0.33 ± 0.03 min-1), and
+3,5,3',5'tetramethylbenzidine (TMB). Moreover, it catalyses different reactions
+on well-known drugs such as hydroxylation of diclofenac (KM = 49.60 ± 6.30 μM and
+kcat = 0.06 ± 0.01 min-1) and N-desmethylation of tamoxifen (KM = 57.20 ± 7.90 μM
+and kcat = 0.79 ± 0.04 min-1). The data demonstrate that P450 116B5hd is an
+efficient biocatalyst for sustainable applications in bioremediation and human
+drug metabolite production.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.nbt.2019.08.005 
+PMID: 31473254  [Indexed for MEDLINE]
+

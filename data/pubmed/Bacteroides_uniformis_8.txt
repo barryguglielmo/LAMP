@@ -1,0 +1,53 @@
+
+1. Nature. 2020 Jun;582(7813):592-596. doi: 10.1038/s41586-020-2402-x. Epub 2020 Jun
+17.
+
+The proteome landscape of the kingdoms of life.
+
+Müller JB(1), Geyer PE(1)(2), Colaço AR(3), Treit PV(1), Strauss MT(1)(2), Oroshi
+M(1), Doll S(1)(2), Virreira Winter S(1)(2), Bader JM(1), Köhler N(4), Theis
+F(4)(5), Santos A(3)(6), Mann M(7)(8).
+
+Author information: 
+(1)Department of Proteomics and Signal Transduction, Max Planck Institute of
+Biochemistry, Martinsried, Germany.
+(2)OmicEra Diagnostics GmbH, Planegg, Germany.
+(3)NNF Center for Protein Research, Faculty of Health Sciences, University of
+Copenhagen, Copenhagen, Denmark.
+(4)Helmholtz Zentrum München-German Research Center for Environmental Health,
+Institute of Computational Biology, Neuherberg, Munich, Germany.
+(5)Technical University of Munich, Department of Mathematics, Garching, Germany.
+(6)Li-Ka Shing Big Data Institute, University of Oxford, Oxford, UK.
+(7)Department of Proteomics and Signal Transduction, Max Planck Institute of
+Biochemistry, Martinsried, Germany. mmann@biochem.mpg.de.
+(8)NNF Center for Protein Research, Faculty of Health Sciences, University of
+Copenhagen, Copenhagen, Denmark. mmann@biochem.mpg.de.
+
+Proteins carry out the vast majority of functions in all biological domains, but 
+for technological reasons their large-scale investigation has lagged behind the
+study of genomes. Since the first essentially complete eukaryotic proteome was
+reported1, advances in mass-spectrometry-based proteomics2 have enabled
+increasingly comprehensive identification and quantification of the human
+proteome3-6. However, there have been few comparisons across species7,8, in stark
+contrast with genomics initiatives9. Here we use an advanced proteomics
+workflow-in which the peptide separation step is performed by a microstructured
+and extremely reproducible chromatographic system-for the in-depth study of 100
+taxonomically diverse organisms. With two million peptide and 340,000 stringent
+protein identifications obtained in a standardized manner, we double the number
+of proteins with solid experimental evidence known to the scientific community.
+The data also provide a large-scale case study for sequence-based machine
+learning, as we demonstrate by experimentally confirming the predicted properties
+of peptides from Bacteroides uniformis. Our results offer a comparative view of
+the functional organization of organisms across the entire evolutionary range. A 
+remarkably high fraction of the total proteome mass in all kingdoms is dedicated 
+to protein homeostasis and folding, highlighting the biological challenge of
+maintaining protein structure in all branches of life. Likewise, a universally
+high fraction is involved in supplying energy resources, although these pathways 
+range from photosynthesis through iron sulfur metabolism to carbohydrate
+metabolism. Generally, however, proteins and proteomes are remarkably diverse
+between organisms, and they can readily be explored and functionally compared at 
+www.proteomesoflife.org.
+
+DOI: 10.1038/s41586-020-2402-x 
+PMID: 32555458 
+

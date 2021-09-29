@@ -1,0 +1,42 @@
+
+1. J Biosci Bioeng. 2020 May;129(5):552-557. doi: 10.1016/j.jbiosc.2019.11.014. Epub
+2020 Jan 23.
+
+Evaluation of electron-transferring cofactor mediating enzyme systems involved in
+urolithin dehydroxylation in Gordonibacter urolithinfaciens DSM 27213.
+
+Watanabe H(1), Kishino S(1), Kudoh M(2), Yamamoto H(2), Ogawa J(3).
+
+Author information: 
+(1)Division of Applied Life Sciences, Graduate School of Agriculture, Kyoto
+University, Kitashirakawaoiwake-cho, Sakyo-ku, Kyoto 606-8502, Japan.
+(2)Corporate Research Center, Innovation and Business Development Headquarters,
+Arai Plant, Daicel Corporation, 1-1 Shinko-cho, Myoko-shi, Niigata 944-8550,
+Japan.
+(3)Division of Applied Life Sciences, Graduate School of Agriculture, Kyoto
+University, Kitashirakawaoiwake-cho, Sakyo-ku, Kyoto 606-8502, Japan. Electronic 
+address: ogawa@kais.kyoto-u.ac.jp.
+
+The gut bacterium Gordonibacter urolithinfaciens DSM 27213 metabolizes ellagic
+acid into three polyphenol compounds, namely, urolithin M5, urolithin M6, and
+urolithin C, which are collectively called urolithin. The key reactions of this
+metabolic pathway are the dehydroxylation of the phenolic hydroxy group, i.e.,
+conversion of urolithin M5 to urolithin M6, and successive conversion of
+urolithin M6 to urolithin C. By testing the effects of various
+electron-transferring compounds on the dehydroxylation reactions, methylviologen 
+was found to effectively support the dehydroxylation catalyzed by the cell free
+extracts. The urolithin dehydroxylating enzymes were found in the soluble
+fraction of the cell free extracts. The urolithin dehydroxylation was found to be
+coupled with reduction of dicationic methylviologen to a cation radical form
+catalyzed by enzymes with hydrogen as an electron donor, which was also found
+with the soluble fraction. Further investigation of the reaction in the presence 
+of natural cofactors with or without methylviologen and hydrogen revealed the
+involvement of NADPH and FAD in the electron transportation systems of the
+urolithin dehydroxylation.
+
+Copyright © 2019 The Society for Biotechnology, Japan. Published by Elsevier B.V.
+All rights reserved.
+
+DOI: 10.1016/j.jbiosc.2019.11.014 
+PMID: 31983661  [Indexed for MEDLINE]
+

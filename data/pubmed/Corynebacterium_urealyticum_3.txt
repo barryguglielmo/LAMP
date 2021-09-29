@@ -1,0 +1,45 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jun;70(6):3625-3632. doi: 10.1099/ijsem.0.004198.
+Epub 2020 May 27.
+
+Corynebacterium urogenitale sp. nov. isolated from the genital tract of a cow.
+
+Ballas P(1)(2), Rückert C(3), Wagener K(1), Drillich M(1), Kämpfer P(4), Busse
+HJ(2), Ehling-Schulz M(2).
+
+Author information: 
+(1)Clinical Unit for Herd Health Management for Ruminants, University Clinic for 
+Ruminants, Department for Farm Animals and Veterinary Public Health, University
+of Veterinary Medicine Vienna, 1210 Vienna, Austria.
+(2)Institute for Microbiology, Department of Pathobiology, University of
+Veterinary Medicine Vienna, 1210 Vienna, Austria.
+(3)Technology Platform Genomics, Center for Biotechnology (CeBiTec), Bielefeld
+University, Sequenz 1, 33615 Bielefeld, Germany.
+(4)Department of Applied Microbiology, Justus Liebig University, Giessen,
+D-35392, Germany.
+
+A Gram-stain-positive bacterial isolate, designated LMM-1652T, was isolated from 
+an intrauterine cytobrush sample originating from a postpartum Holstein Friesian 
+dairy cow. The strain had a rod to coccoid-shape, was catalase-positive and
+oxidase-negative. 16S rRNA gene sequence similarity analyses revealed that its
+closest relatives were Corynebacterium falsenii (97.05 % similarity),
+Corynebacterium jeikeium (96.83 %) and Corynebacterium urealyticum (96.82 %).
+Subsequent whole genome analysis showed that the genome-to-genome distance of
+strain LMM-1652T to its closest relatives was in the range of 23.2-24.8 %, while 
+the average nucleotide identity values ranged from 73.7 to 74.3%, thus confirming
+that this isolate represents a novel species. Strain LMM-1652T was characterized 
+by a quinone system mainly consisting of MK-9(H2) and MK-10(H2). The polar lipids
+profile of the strain consisted mainly of diphosphatidylglycerol,
+phosphatidylglycerol, phosphatidylinositol and phosphatidylinositol-mannoside, as
+well as one unidentified lipid lacking any functional group. Smaller amounts of
+four unidentified phospholipids, four unidentified glycolipids, β-gentiobiosyl
+diacylglycerol and four unidentified lipids lacking a functional group were also 
+found. The cell wall contained meso-diaminopimelic acid as the diagnostic diamino
+acid of the peptidoglycan. The fatty acid profile was mainly composed of
+C18 : 1 ω9c, C18 : 0 and C16 : 0. We propose a novel species of the genus
+Corynebacterium with the name Corynebacterium urogenitale LMM-1652T (=LMG
+31163T=DSM 108747T).
+
+DOI: 10.1099/ijsem.0.004198 
+PMID: 32459165  [Indexed for MEDLINE]
+

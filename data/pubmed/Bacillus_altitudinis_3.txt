@@ -1,0 +1,42 @@
+
+1. 3 Biotech. 2020 Jul;10(7):323. doi: 10.1007/s13205-020-02321-2. Epub 2020 Jun 29.
+
+Improving the catalytic thermostability of Bacillus altitudinis W3 ω-transaminase
+by proline substitutions.
+
+Xie Z(#)(1), Zhai L(1), Meng D(1), Tian Q(1), Guan Z(1), Cai Y(1), Liao X(1).
+
+Author information: 
+(1)The Key Laboratory of Industrial Biotechnology, Ministry of Education, School 
+of Biotechnology, Jiangnan University, 1800 Lihu Road, Wuxi, 214122 Jiangsu PR
+China.
+(#)Contributed equally
+
+As a green biocatalyst, transaminase with high thermostability can be better
+employed to synthesize many pharmaceutical intermediates in industry. To improve 
+the thermostability of (R)-selective amine transaminase from Bacillus altitudinis
+W3, related mutation sites were determined by multiple amino acid sequence
+alignment between wild-type ω-transaminase and four potential thermophilic
+ω-transaminases, followed by replacement of the related amino acid residues with 
+proline by site-directed mutagenesis. Three stabilized mutants (D192P, T237P, and
+D192P/T237P) showing the highest stability were obtained and used for further
+analysis. Comparison with the wild-type enzyme revealed that the double mutant
+D192P/T237P exhibited the largest shift in thermostability, with a 2.5-fold
+improvement of t 1/2 at 40 °C, and a 6.3 °C increase in T 50 15, and a 5 °C
+higher optimal catalytic temperature. Additionally, this mutant exhibited an
+increase in catalytic efficiency (k cat/K m) relative to the wild-type enzyme.
+Modeling analysis indicated that the improved thermostability of the mutants
+could be associated with newly formed hydrophobic interactions and hydrogen
+bonds. This study shown that proline substitutions guided by sequence alignment
+to improve the thermostability of (R)-selective amine transaminase was effective 
+and this method can also be used to engineering other enzymes.
+
+© King Abdulaziz City for Science and Technology 2020.
+
+DOI: 10.1007/s13205-020-02321-2 
+PMCID: PMC7324462 [Available on 2021-07-01]
+PMID: 32656056 
+
+Conflict of interest statement: Conflict of interestThe authors declare that they
+have no conflict of interest.
+

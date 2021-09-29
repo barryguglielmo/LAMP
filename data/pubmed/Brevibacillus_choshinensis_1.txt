@@ -1,0 +1,50 @@
+
+1. Microb Cell Fact. 2020 Feb 28;19(1):52. doi: 10.1186/s12934-020-01315-2.
+
+Relative contributions of non-essential Sec pathway components and cell
+envelope-associated proteases to high-level enzyme secretion by Bacillus
+subtilis.
+
+Neef J(1), Bongiorni C(2), Schmidt B(2), Goosens VJ(1), van Dijl JM(3).
+
+Author information: 
+(1)Department of Medical Microbiology, University of Groningen, University
+Medical Center Groningen, Hanzeplein 1, P.O. Box 30001, 9700 RB, Groningen, The
+Netherlands.
+(2)DuPont Industrial Biosciences, 925 Page Mill Road, Palo Alto, CA, 94304, USA.
+(3)Department of Medical Microbiology, University of Groningen, University
+Medical Center Groningen, Hanzeplein 1, P.O. Box 30001, 9700 RB, Groningen, The
+Netherlands. j.m.van.dijl01@umcg.nl.
+
+BACKGROUND: Bacillus subtilis is an important industrial workhorse applied in the
+production of many different commercially relevant proteins, especially enzymes. 
+Virtually all of these proteins are secreted via the general secretion (Sec)
+pathway. Studies from different laboratories have demonstrated essential or
+non-essential contributions of various Sec machinery components to protein
+secretion in B. subtilis. However, a systematic comparison of the impact of each 
+individual Sec machinery component under conditions of high-level protein
+secretion was so far missing.
+RESULTS: In the present study, we have compared the contributions of
+non-essential Sec pathway components and cell envelope-associated proteases on
+the secretion efficiency of three proteins expressed at high level. This
+concerned the α-amylases AmyE from B. subtilis and AmyL from Bacillus
+licheniformis, and the serine protease BPN' from Bacillus amyloliquefaciens. We
+compared the secretion capacity of mutant strains in shake flask cultures, and
+the respective secretion kinetics by pulse-chase labeling experiments. The
+results show that secDF, secG or rasP mutations severely affect AmyE, AmyL and
+BPN' secretion, but the actual effect size depends on the investigated protein.
+Additionally, the chaperone DnaK is important for BPN' secretion, while AmyE or
+AmyL secretion are not affected by a dnaK deletion. Further, we assessed the
+induction of secretion stress responses in mutant strains by examining AmyE- and 
+AmyL-dependent induction of the quality control proteases HtrA and HtrB.
+Interestingly, the deletion of certain sip genes revealed a strong differential
+impact of particular signal peptidases on the magnitude of the secretion stress
+response.
+CONCLUSIONS: The results of the present study highlight the importance of SecDF, 
+SecG and RasP for protein secretion and reveal unexpected differences in the
+induction of the secretion stress response in different mutant strains.
+
+DOI: 10.1186/s12934-020-01315-2 
+PMCID: PMC7048088
+PMID: 32111210  [Indexed for MEDLINE]
+

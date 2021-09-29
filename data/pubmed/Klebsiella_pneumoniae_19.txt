@@ -1,0 +1,44 @@
+
+1. Comput Biol Chem. 2020 Sep 21;89:107380. doi: 10.1016/j.compbiolchem.2020.107380.
+[Epub ahead of print]
+
+Identification of novel vaccine candidates against carbapenem resistant
+Klebsiella pneumoniae: A systematic reverse proteomic approach.
+
+Mehmood A(1), Naseer S(2), Ali A(3), Fatimah H(1), Rehman S(4), Kiani A(1).
+
+Author information: 
+(1)Department of Biology and Environmental Science, Faculty of Sciences, Allama
+Iqbal Open University, Islamabad, Pakistan.
+(2)Department of Biology and Environmental Science, Faculty of Sciences, Allama
+Iqbal Open University, Islamabad, Pakistan. Electronic address:
+samar.naseer@aiou.edu.pk.
+(3)Department of Industrial Biotechnology, Atta Ur Rahman School of Applied
+Biosciences (ASAB), National University of Sciences & Technology (NUST),
+Islamabad, Pakistan.
+(4)Department of Botany, Rawalpindi Women University, Rawalpindi, Pakistan.
+
+Klebsiella pneumoniae is declared as antibiotic resistant by WHO, with the
+critical urgency of developing novel antimicrobial therapeutics as drug
+resistance is the second most dangerous threat after terrorism. Besides many
+attempts still, there is no effective vaccine available against K. pneumoniae. By
+utilizing all the available proteomic data we prioritized the novel proteins
+ideal for vaccine development using bioinformatics tools and techniques. Among
+the huge data, eight proteins passed all the barriers and were considered ideal
+candidates for vaccine development. These include: copper silver efflux system
+outer membrane protein (CusC), outer membrane porin protein (OmpN), Fe++
+enterobactin transporter substrate binding protein (fepB), zinc transporter
+substrate binding protein (ZnuA), ribonuclease HI, tellurite resistant
+methyltransferase (the B), and two uncharacterized hypothetical proteins
+(WP_002918223 and WP_002892366). These proteins were also subjected to epitope
+analysis and were found best for developing subunit vaccine against K.
+pneumoniae. The study shows that the potential vaccine targets are sufficiently
+efficient being virulent, of outer membranous origin and can be proposed for the 
+DNA third-generation vaccines development that would help to cope up infections
+caused by multidrug-resistant K. pneumoniae.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiolchem.2020.107380 
+PMID: 32992120 
+

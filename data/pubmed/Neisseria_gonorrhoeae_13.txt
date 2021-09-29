@@ -1,0 +1,70 @@
+
+1. BMC Infect Dis. 2020 Sep 25;20(1):703. doi: 10.1186/s12879-020-05398-5.
+
+Plasmid mediated penicillin and tetracycline resistance among Neisseria
+gonorrhoeae isolates from Kenya.
+
+Kivata MW(1)(2), Mbuchi M(3)(4), Eyase F(5)(6), Bulimo WD(6)(7), Kyanya CK(6),
+Oundo V(6), Mbinda WM(8), Sang W(6)(9), Andagalu B(6), Soge OO(10), McClelland
+RS(11), Distelhorst J(6).
+
+Author information: 
+(1)Institute for Biotechnology Research, Jomo Kenyatta University of Agriculture 
+and Technology (JKUAT), P. O Box 62,000-00200, Thika, Kenya.
+marywandia086@gmail.com.
+(2)Department of Biological and Physical Science, Karatina University (KarU), P. 
+O Box 1957-10101, Karatina, Kenya. marywandia086@gmail.com.
+(3)U.S. Army Medical Research Directorate-Africa, P. O Box 606, Village Market,
+Nairobi, 00621, Kenya. Margaret.mbuchi@usamru-k.org.
+(4)Kenya Medical Research Institute (KEMRI), P. O Box 54840-00200, Nairobi,
+Kenya. Margaret.mbuchi@usamru-k.org.
+(5)Institute for Biotechnology Research, Jomo Kenyatta University of Agriculture 
+and Technology (JKUAT), P. O Box 62,000-00200, Thika, Kenya.
+(6)U.S. Army Medical Research Directorate-Africa, P. O Box 606, Village Market,
+Nairobi, 00621, Kenya.
+(7)School of Medicine, Department of Biochemistry, University of Nairobi, P. O
+Box 30197, GPO, Nairobi, 00100, Kenya.
+(8)Department of Chemistry and Biochemistry, Pwani University, P. O Box
+195-80108, Mombasa, Kenya.
+(9)Kenya Medical Research Institute (KEMRI), P. O Box 54840-00200, Nairobi,
+Kenya.
+(10)Departments of Global Health and Medicine, University of Washington, 325 9th 
+Avenue, Box 359931, Seattle, WA, 98104, USA.
+(11)Departments of Medicine, Epidemiology, and Global Health, University of
+Washington, 325 9th Avenue, Box 359931, Seattle, WA, 98104, USA.
+
+BACKGROUND: Treatment of gonorrhea is complicated by the development of
+antimicrobial resistance in Neisseria gonorrhoeae (GC) to the antibiotics
+recommended for treatment. Knowledge on types of plasmids and the antibiotic
+resistance genes they harbor is useful in monitoring the emergence and spread of 
+bacterial antibiotic resistance. In Kenya, studies on gonococcal antimicrobial
+resistance are few and data on plasmid mediated drug resistance is limited. The
+present study characterizes plasmid mediated resistance in N. gonorrhoeae
+isolates recovered from Kenya between 2013 and 2018.
+METHODS: DNA was extracted from 36 sub-cultured GC isolates exhibiting varying
+drug resistance profiles. Whole genome sequencing was done on Illumina MiSeq
+platform and reads assembled de-novo using CLC Genomics Workbench. Genome
+annotation was performed using Rapid Annotation Subsystem Technology. Comparisons
+in identified antimicrobial resistance determinants were done using Bioedit
+sequence alignment editor.
+RESULTS: Twenty-four (66.7%) isolates had both β-lactamase (TEM) and TetM
+encoding plasmids. 8.3% of the isolates lacked both TEM and TetM plasmids and had
+intermediate to susceptible penicillin and tetracycline MICs. Twenty-six (72%)
+isolates harbored TEM encoding plasmids. 25 of the TEM plasmids were of African
+type while one was an Asian type. Of the 36 isolates, 31 (86.1%) had TetM
+encoding plasmids, 30 of which harbored American TetM, whereas 1 carried a Dutch 
+TetM. All analyzed isolates had non-mosaic penA alleles. All the isolates
+expressing TetM were tetracycline resistant (MIC> 1 mg/L) and had increased
+doxycycline MICs (up to 96 mg/L). All the isolates had S10 ribosomal protein V57M
+amino acid substitution associated with tetracycline resistance. No relation was 
+observed between PenB and MtrR alterations and penicillin and tetracycline MICs.
+CONCLUSION: High-level gonococcal penicillin and tetracycline resistance in the
+sampled Kenyan regions was found to be mediated by plasmid borne blaTEM and tetM 
+genes. While the African TEM plasmid, TEM1 and American TetM are the dominant
+genotypes, Asian TEM plasmid, a new TEM239 and Dutch TetM have emerged in the
+regions.
+
+DOI: 10.1186/s12879-020-05398-5 
+PMCID: PMC7517623
+PMID: 32977759 
+

@@ -1,0 +1,52 @@
+
+1. J Glob Antimicrob Resist. 2020 Sep;22:398-407. doi: 10.1016/j.jgar.2020.04.011.
+Epub 2020 Apr 18.
+
+Antimicrobial susceptibility and distribution of extended-spectrum β-lactamases, 
+AmpC β-lactamases and carbapenemases among Proteus, Providencia and Morganella
+isolated from global hospitalised patients with intra-abdominal and urinary tract
+infections: Results of the Study for Monitoring Antimicrobial Resistance Trends
+(SMART), 2008-2011.
+
+Yang JH(1), Sheng WH(2), Hsueh PR(3); SMART Program.
+
+Author information: 
+(1)Department of Internal Medicine, National Taiwan University Hospital, Hsin-Chu
+Branch, Hsin-Chu City, Taiwan.
+(2)Department of Internal Medicine, National Taiwan University Hospital, National
+Taiwan University College of Medicine, Taipei, Taiwan.
+(3)Department of Internal Medicine, National Taiwan University Hospital, National
+Taiwan University College of Medicine, Taipei, Taiwan; Department of Laboratory
+Medicine, National Taiwan University Hospital, National Taiwan University College
+of Medicine, Taipei, Taiwan. Electronic address: hsporen@ntu.edu.tw.
+
+OBJECTIVES: The increasing trend of β-lactam resistance among Enterobacteriaceae 
+is a worldwide problem. This study investigated isolates of the tribe Proteeae
+(Proteus, Providencia and Morganella) causing intra-abdominal and urinary tract
+infections from the worldwide Study for Monitoring Antimicrobial Resistance
+Trends (SMART) collected from 2008-2011.
+METHODS: Antimicrobial susceptibility testing was performed on isolates with an
+ertapenem minimum inhibitory concentration >0.5mg/L or those phenotypically
+producing extended-spectrum β-lactamases (ESBLs). ESBLs, AmpC β-lactamases and
+carbapenemases were detected by multiplex PCR.
+RESULTS: A total of 142 isolates, including Proteus mirabilis (n=121), Proteus
+vulgaris (n=3), Providencia stuartii (n=5), Providencia rettgeri (n=6) and
+Morganella morganii (n=7), were analysed. Proteus mirabilis was generally
+susceptible to ertapenem (∼90%) compared with imipenem (≤25%). The most common
+ESBLs were CTX-M types (n=64), followed by TEM (n=27) and SHV (n=7). CTX-M-1,
+CTX-M-2 and CTX-M-15 were the dominant CTX-M-type ESBLs in P. mirabilis isolates.
+CMY (n=14), which included CMY-2 (n=6), was the most common AmpC β-lactamase,
+followed by DHA (n=6) and FOX (n=4). NDM (n=7), which included NDM-1 (n=4), was
+the most common carbapenemase, followed by KPC (n=2). Isolates from
+hospital-associated infections had more complicated β-lactamase combinations than
+isolates from community-acquired infections.
+CONCLUSION: The global emergence and spread of β-lactamase-producing Proteeae
+isolates are major issues in tackling antimicrobial resistance. Continuous
+monitoring of antimicrobial resistance trends and developing further resistance
+surveillance are necessary.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jgar.2020.04.011 
+PMID: 32311502 
+

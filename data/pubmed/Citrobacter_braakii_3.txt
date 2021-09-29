@@ -1,0 +1,50 @@
+
+1. Front Microbiol. 2019 Dec 12;10:2824. doi: 10.3389/fmicb.2019.02824. eCollection 
+2019.
+
+Dissemination and Comparison of Genetic Determinants of mcr-Mediated Colistin
+Resistance in Enterobacteriaceae via Retailed Raw Meat Products.
+
+Gelbíčová T(1), Baráková A(1)(2), Florianová M(1), Jamborová I(3), Zelendová
+M(3)(4), Pospíšilová L(1), Koláčková I(1), Karpíšková R(1).
+
+Author information: 
+(1)Department of Bacteriology, Veterinary Research Institute, Brno, Czechia.
+(2)Faculty of Science, Masaryk University, Brno, Czechia.
+(3)Faculty of Veterinary Medicine, University of Veterinary and Pharmaceutical
+Sciences Brno, Brno, Czechia.
+(4)Central European Institute of Technology, University of Veterinary and
+Pharmaceutical Sciences Brno, Brno, Czechia.
+
+The global food chain may significantly promote the dissemination of bacteria
+resistant to antibiotics around the world. This study was aimed at determining
+the prevalence and genetic characteristics of Enterobacteriaceae with
+mcr-mediated colistin (CT) resistance in retail meat of different origins.
+Bacteria of the Enterobacteriaceae family carrying the mcr-1 gene were detected
+in 21% (18/86) of the examined samples, especially in turkey meat and liver
+originating from EU and non-EU countries (19%) and in rabbit meat imported from
+China (2%). The examined samples of the meat and liver of chicken and other
+poultry and of pork and beef were negative for the presence of bacteria carrying 
+the mcr-1 to mcr-5 genes. A huge number of isolates belonging to Escherchia coli 
+(n = 54), Klebsiella pneumoniae (n = 6), and Citrobacter braakii (n = 1) carrying
+the mcr-1 gene were obtained. Despite the high heterogeneity of the tested
+isolates, the mcr-1 gene was localized on only three types of plasmids (IncX4,
+IncHI2, and IncI2). The most frequent type of plasmid was IncX4, which carried
+the mcr-1 gene in 77% of E. coli and K. pneumoniae isolates from turkey meat and 
+liver samples from the Czechia, Germany, Poland, and Brazil. Our findings
+indicate highly probable interspecies transfer of IncX4 and IncI2 plasmids within
+one meat sample. The co-resistance of plasmid-mediated CT resistance encoded by
+the mcr-1 and ESBL genes was detected in 18% of the isolates. Another noteworthy 
+finding was the fosA3 gene coding for fosfomycin resistance in a
+multidrug-resistant isolate of E. coli from rabbit meat imported from China. The 
+observed high level of Enterobacteriaceae with plasmids carrying the mcr-1 gene
+in retail meat reflects the need for Europe-wide monitoring of mcr-mediated CT
+resistance throughout the whole food chain.
+
+Copyright © 2019 Gelbíčová, Baráková, Florianová, Jamborová, Zelendová,
+Pospíšilová, Koláčková and Karpíšková.
+
+DOI: 10.3389/fmicb.2019.02824 
+PMCID: PMC6920100
+PMID: 31921017 
+

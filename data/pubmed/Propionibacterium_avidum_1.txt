@@ -1,0 +1,51 @@
+
+1. Eur J Clin Microbiol Infect Dis. 2020 Jul;39(7):1357-1364. doi:
+10.1007/s10096-020-03852-5. Epub 2020 Mar 3.
+
+Propionibacterium/Cutibacterium species-related positive samples, identification,
+clinical and resistance features: a 10-year survey in a French hospital.
+
+Broly M(1), Ruffier d'Epenoux L(1), Guillouzouic A(1), Le Gargasson G(1), Juvin
+ME(1), Leroy AG(1)(2), Bémer P(1)(2), Corvec S(3)(4)(5)(6).
+
+Author information: 
+(1)Service de Bactériologie-Hygiène hospitalière, CHU de Nantes, Institut de
+Biologie, 9, quai Moncousu 44093, Cedex 1, Nantes, France.
+(2)Nantes study group member of CRIOGO (Centre de Référence des Infections
+Ostéo-articulaires du Grand Ouest), Nantes, France.
+(3)Service de Bactériologie-Hygiène hospitalière, CHU de Nantes, Institut de
+Biologie, 9, quai Moncousu 44093, Cedex 1, Nantes, France.
+stephane.corvec@chu-nantes.fr.
+(4)Nantes study group member of CRIOGO (Centre de Référence des Infections
+Ostéo-articulaires du Grand Ouest), Nantes, France.
+stephane.corvec@chu-nantes.fr.
+(5)CRCINA, INSERM, Université d'Angers, Université de Nantes, Nantes, France.
+stephane.corvec@chu-nantes.fr.
+(6)ESGIAI (ESCMID Study Group for Implant-Associated Infections), Basel,
+Switzerland. stephane.corvec@chu-nantes.fr.
+
+A 10-year retrospective study of Propionibacterium/Cutibacterium-positive samples
+gathered from hospitalized patients was conducted at Nantes University hospital. 
+A total of 2728 Propionibacterium/Cutibacterium-positive samples analyzed between
+2007 and 2016 were included. Due to the implementation of MALDI-TOF
+identification in 2013, most non-Cutibacterium acnes isolates were identified a
+second time using this technology. Over that period, Cutibacterium acnes remained
+the most predominant species accounting for 91.5% (2497/2728) of the isolates,
+followed by Cutibacterium avidum (4.2%, 115/2728) and Cutibacterium granulosum
+(2.4%, 64/2728). Regarding the origin of samples, the orthopaedic department was 
+the main Cutibacterium sample provider representing 51.9% (1415/2728) of all
+samples followed by the dermatology department (11.5%, 315/2728). Samples were
+recovered from various tissue locations: 31.5% (858/2728) from surgery-related
+samples such as shoulder, spine or hip replacement devices and 19.1% (520/2728)
+from skin samples. MALDI-TOF method revealed misidentification before 2013.
+Cutibacterium avidum was falsely identified as C. granulosum (n = 33).
+Consequently, MALDI-TOF technology using up-to-date databases should be preferred
+to biochemical identification in order to avoid biased species identification.
+Regarding antibiotic resistance, 14.7% (20/136) of C. acnes was resistant to
+erythromycin. 4.1% (41/1005) of C. acnes strains, 17.9% (12/67) of C. avidum
+strains and 3.6% (1/28) of C. granulosum strains were found resistant to
+clindamycin.
+
+DOI: 10.1007/s10096-020-03852-5 
+PMID: 32125556 
+

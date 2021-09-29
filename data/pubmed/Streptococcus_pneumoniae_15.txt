@@ -1,0 +1,105 @@
+
+1. Lancet Infect Dis. 2020 Sep 25. pii: S1473-3099(20)30489-8. doi:
+10.1016/S1473-3099(20)30489-8. [Epub ahead of print]
+
+The direct effect of pneumococcal conjugate vaccines on invasive pneumococcal
+disease in children in the Latin American and Caribbean region (SIREVA 2006-17): 
+a multicentre, retrospective observational study.
+
+Agudelo CI(1), Castañeda-Orjuela C(2), Brandileone MCC(3), Echániz-Aviles G(4),
+Almeida SCG(3), Carnalla-Barajas MN(4), Regueira M(5), Fossati S(5), Alarcón
+P(6), Araya P(6), Duarte C(1), Sánchez J(7), Novas M(7), Toraño-Peraza G(8),
+Rodríguez-Ortega M(8), Chamorro-Cortesi G(9), Kawabata A(9), García-Gabarrot
+G(10), Camou T(10), Spadola E(11), Payares D(11), Andrade AL(12), Di Fabio
+JL(13), Castañeda E(14); SIREVA Working Group.
+
+Collaborators: Corso A, Gaguetti P, Veliz O, Pereira CS, Napoli D, Moscoloni MA, 
+Silva E Guerra MLL, Bokermann S, do Prado LS, Días UJ, Hormazabal JC, Rojas B,
+Castro S, Ibáñez D, Fernandez J, Sanabria O, Moreno J, Alarcón Z, Rodriguez MK,
+Bautista A, Solis LP, Apaza DS, Capote MA, Feris JM, Cedano D, Soto-Noguerón A,
+Velázquez-Meza ME, Hernández-Salgado M, León ME, Nagai M, Rojas L, Vega ML,
+Giffoni GP, Félix V.
+
+Author information: 
+(1)Grupo de Microbiología, Instituto Nacional de Salud, Bogotá, Colombia.
+(2)Observatorio Nacional de Salud, Instituto Nacional de Salud, Bogotá, Colombia.
+(3)Bacteriology Center, Adolfo Lutz Institute, São Paulo, Brazil.
+(4)Centro de Investigaciones Sobre Enfermedades Infecciosas, Instituto Nacional
+de Salud Pública, Cuernavaca, Morelos, Mexico.
+(5)Departamento Bacteriología, INEI-ANLIS Dr Carlos G Malbrán, Buenos Aires,
+Argentina.
+(6)Sección Bacteriología, Instituto de Salud Pública de Chile, Santiago, Chile.
+(7)Laboratorio de Microbiología-DEI, Hospital Infantil Dr Robert Reid Cabral,
+Santo Domingo, Dominican Republic.
+(8)Departamento de Bacteriología y Micología, Instituto Pedro Kouri, La Habana,
+Cuba.
+(9)Departamento de Bacteriología y Micología, Laboratorio Central de Salud
+Pública, Asunción, Paraguay.
+(10)Departamento de Laboratorios, Ministerio de Salud, Montevideo, Uruguay.
+(11)Sección de Aislamiento e Identificación Bacteriana, Instituto Nacional de
+Higiene Rafael Rangel, Caracas, Venezuela.
+(12)Instituto de Patología Tropical e Saúde Pública, Universidade Federal de
+Goias, Goiania, Goias, Brazil.
+(13)Rockville, MD, USA.
+(14)Grupo de Microbiología, Instituto Nacional de Salud, Bogotá, Colombia.
+Electronic address: ecastaneda21@gmail.com.
+
+BACKGROUND: Streptococcus pneumoniae isolated from patients with invasive
+pneumococcal disease has been subjected to laboratory-based surveillance in Latin
+American and Caribbean countries since 1993. Invasive pneumococcal diseases
+remain a major cause of death and disability worldwide, particularly in children.
+We therefore aimed to assess the direct effect of pneumococcal conjugate vaccines
+(PCVs) on the distribution of pneumococcal serotypes causing invasive
+pneumococcal disease in children younger than 5 years before and after PCV
+introduction.
+METHODS: We did a multicentre, retrospective observational study in eight
+countries that had introduced PCV (ie, PCV countries) in the Latin American and
+Caribbean region: Argentina, Brazil, Chile, Colombia, Dominican Republic, Mexico,
+Paraguay, and Uruguay. Cuba and Venezuela were also included as non-PCV
+countries. Isolate data for Streptococcus pneumoniae were obtained between 2006
+and 2017 from children younger than 5 years with an invasive pneumococcal disease
+from local laboratories or hospitals. Species' confirmation and capsular
+serotyping were done by the respective national reference laboratories. Databases
+from the Sistema Regional de Vacunas (SIREVA) participating countries were
+managed and cleaned in a unified database using Microsoft Excel 2016 and the
+program R (version 3.6.1). Analysis involved percentage change in vaccine
+serotypes between pre-PCV and post-PCV periods and the annual reporting rate of
+invasive pneumococcal diseases per 100 000 children younger than 5 years, which
+was used as a population reference to calculate percentage vaccine type
+reduction.
+FINDINGS: Between 2006 and 2017, 12 269 isolates of invasive pneumococcal disease
+were collected from children younger than 5 years in the ten Latin American and
+Caribbean countries. The ten serotypes included in ten-valent pneumococcal
+conjugate vaccine (PCV10) decreased significantly (p<0·0001) after any PCV
+introduction, except for the Dominican Republic. The percentage change for the
+ten vaccine serotypes in PCV10 countries was -91·6% in Brazil (530 [72·9%] of 727
+before, 27 [6·1%] of 441 after); -85·0% in Chile (613 [72·6%] of 844 before, 44
+[10·9%] of 404] after); -84·7% in Colombia (231 [63·1%] of 366 before, 34 [9·7%] 
+of 352 after); and -73·8% in Paraguay (127 [77·0%] of 165 before, 22 [20·2%] of
+109 after). In the 13-valent pneumococcal conjugate vaccine (PCV13) countries,
+the percentage change for the 13 vaccine serotypes was -59·6% in Argentina (853
+[85·0%] of 1003 before, 149 [34·3%] of 434 after); -16·5% in the Dominican
+Republic (95 [80·5%] of 118 before, 39 [67·2%] of 58 after); -43·7% in Mexico
+(202 [73·2%] of 276 before, 63 [41·2%] of 153 after); and -45·9% in Uruguay (138 
+[80·7%] of 171 before, 38 [43·7%] of 87 after). Annual reporting rates showed a
+reduction from -82·5% (6·21 before vs 1·09 after per 100 000, 95% CI -61·6 to
+-92·0) to -94·7% (1·15 vs 0·06 per 100 000, -89·7 to -97·3) for PCV10 countries, 
+and -58·8% (2·98 vs 1·23 per 100 000, -21·4 to -78·4) to -82·9% (7·80 vs 1·33 per
+100 000, -76·9 to -87·4) for PCV13 countries. An increase in the amount of
+non-vaccine types was observed in the eight countries after PCV introduction
+together with an increase in their percentage in relation to total invasive
+strains in the post-PCV period.
+INTERPRETATION: SIREVA laboratory surveillance was able to confirm the effect of 
+PCV vaccine on serotypes causing invasive pneumococcal disease in the eight PCV
+countries. Improved monitoring of the effect and trends in vaccine type as well
+as in non-vaccine type isolates is needed, as this information will be relevant
+for future decisions associated with new PCVs.
+FUNDING: None.
+TRANSLATIONS: For the Portuguese and Spanish translations of the abstract see
+Supplementary Materials section.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1473-3099(20)30489-8 
+PMID: 32986996 
+

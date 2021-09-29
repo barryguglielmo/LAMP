@@ -1,0 +1,40 @@
+
+1. Int J Biol Macromol. 2019 Nov 1;140:423-428. doi: 10.1016/j.ijbiomac.2019.08.021.
+Epub 2019 Aug 2.
+
+Poly-lysine supported cross-linked enzyme aggregates of penicillin G acylase and 
+its application in synthesis of β-lactam antibiotics.
+
+Ye J(1), Li A(1), Chu T(2), Pan X(3), He B(4).
+
+Author information: 
+(1)College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech
+University, Nanjing, Jiangsu 211816, China.
+(2)School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing, Jiangsu
+211816, China.
+(3)Department of Cardiology, the Affiliated Hospital of Yangzhou University,
+Yangzhou University, Yangzhou, Jiangsu 225000, China.
+(4)School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing, Jiangsu
+211816, China. Electronic address: bingfanghe@njtech.edu.cn.
+
+Penicillin G acylase (PGA) from Providencia rettgeri PX04 (PrPGA) was utilized to
+synthesize β-lactam antibiotics. Poly-lysine supported cross-linked enzyme
+aggregates (PL-CLEAs) were prepared using PGA. Addition of poly-lysine
+significantly increased retention of PGA activity in CLEAs, with a decrease in
+the synthesis/hydrolysis (S/H) ratio. PL-CLEAs with 0.56 mg/mL poly-lysine
+retained 83% of free PGA activity, and displayed a higher S/H ratio than that of 
+the free enzyme. Both PL-CLEAs and CLEAs exhibited high pH and thermal
+stabilities. PL-CLEAs possessed the best stability profile, and the lowest α
+value [(kcat/Km)Ps/(kcat/Km)AD], and was most effective at amoxicillin synthesis.
+A >94% yield of amoxicillin was achieved using a D-HPGME/6-APA ratio of 1.2:1
+(240 mM, 200 mM), with fed-batch addition of D-HPGME. PL-CLEAs displayed
+excellent operational stability during amoxicillin synthesis. Over 97% of initial
+conversion was retained after twenty rounds of catalysis. PL-CLEAs exhibited
+greater potency than CLEAs in practical catalysis, permitting a higher
+concentration of reactants.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2019.08.021 
+PMID: 31381925  [Indexed for MEDLINE]
+

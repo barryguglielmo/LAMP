@@ -1,0 +1,66 @@
+
+1. Antimicrob Resist Infect Control. 2020 Sep 25;9(1):158. doi:
+10.1186/s13756-020-00815-5.
+
+Antimicrobial resistance in Clostridioides (Clostridium) difficile derived from
+humans: a systematic review and meta-analysis.
+
+Sholeh M(1), Krutova M(2), Forouzesh M(3), Mironov S(4), Sadeghifard N(5),
+Molaeipour L(6), Maleki A(5), Kouhsari E(7)(8)(9).
+
+Author information: 
+(1)Dept. of Microbiology, Faculty of Medicine, Iran University of Medical
+Sciences, Tehran, Iran.
+(2)Dept. of Medical Microbiology, 2nd Faculty of Medicine, Charles University and
+Motol University Hospital, Prague, Czech Republic.
+(3)Assistant professor of Legal medicine Research Center, Legal Medicine
+organization, Tehran, Iran.
+(4)Department of propaedeutics of dental diseases, I.M. Sechenov First Moscow
+State Medical University (Sechenov University), Moscow, Russia.
+(5)Clinical Microbiology Research Center, Ilam University of Medical Sciences,
+Ilam, Iran.
+(6)Dept. of Epidemiology, School of Public Health, Iran University of Medical
+Sciences, Tehran, Iran.
+(7)Clinical Microbiology Research Center, Ilam University of Medical Sciences,
+Ilam, Iran. Ekouhsari1987@gmail.com.
+(8)Laboratory Sciences Research Center, Golestan University of Medical Sciences, 
+Gorgan, Iran. Ekouhsari1987@gmail.com.
+(9)Student Research Committee, Ilam University of Medical Sciences, Ilam, Iran.
+Ekouhsari1987@gmail.com.
+
+BACKGROUND: Clostridioides (Clostridium) difficile is an important pathogen of
+healthcare- associated diarrhea, however, an increase in the occurrence of C.
+difficile infection (CDI) outside hospital settings has been reported. The
+accumulation of antimicrobial resistance in C. difficile can increase the risk of
+CDI development and/or its spread. The limited number of antimicrobials for the
+treatment of CDI is matter of some concern.
+OBJECTIVES: In order to summarize the data on antimicrobial resistance to C.
+difficile derived from humans, a systematic review and meta-analysis were
+performed.
+METHODS: We searched five bibliographic databases: (MEDLINE [PubMed], Scopus,
+Embase, Cochrane Library and Web of Science) for studies that focused on
+antimicrobial susceptibility testing in C. difficile and were published between
+1992 and 2019. The weighted pooled resistance (WPR) for each antimicrobial agent 
+was calculated using a random- effects model.
+RESULTS: A total of 111 studies were included. The WPR for metronidazole and
+vancomycin was 1.0% (95% CI 0-3%) and 1% (95% CI 0-2%) for the breakpoint
+> 2 mg/L and 0% (95% CI 0%) for breakpoint ≥32 μg/ml. Rifampin and tigecycline
+had a WPRs of 37.0% (95% CI 18-58%) and 1% (95% CI 0-3%), respectively. The WPRs 
+for the other antimicrobials were as follows: ciprofloxacin 95% (95% CI 85-100%),
+moxifloxacin 32% (95% CI 25-40%), clindamycin 59% (95% CI 53-65%),
+amoxicillin/clavulanate 0% (0-0%), piperacillin/tazobactam 0% (0-0%) and
+ceftriaxone 47% (95% CI 29-65%). Tetracycline had a WPR 20% (95% CI 14-27%) and
+meropenem showed 0% (95% CI 0-1%); resistance to fidaxomicin was reported in one 
+isolate (0.08%).
+CONCLUSION: Resistance to metronidazole, vancomycin, fidaxomicin, meropenem and
+piperacillin/tazobactam is reported rarely. From the alternative CDI drug
+treatments, tigecycline had a lower resistance rate than rifampin. The high-risk 
+antimicrobials for CDI development showed a high level of resistance, the highest
+was seen in the second generation of fluoroquinolones and clindamycin;
+amoxicillin/clavulanate showed almost no resistance. Tetracycline resistance was 
+present in one fifth of human clinical C. difficile isolates.
+
+DOI: 10.1186/s13756-020-00815-5 
+PMCID: PMC7517813
+PMID: 32977835 
+

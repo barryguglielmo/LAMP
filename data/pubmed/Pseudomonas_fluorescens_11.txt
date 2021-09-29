@@ -1,0 +1,41 @@
+
+1. Biotechnol Lett. 2020 Sep 16. doi: 10.1007/s10529-020-02998-8. [Epub ahead of
+print]
+
+Synthesis of (R)-mandelic acid and (R)-mandelic acid amide by recombinant E. coli
+strains expressing a (R)-specific oxynitrilase and an arylacetonitrilase.
+
+Müller E(1), Sosedov O(1)(2), Gröning JAD(1), Stolz A(3).
+
+Author information: 
+(1)Institut für Mikrobiologie, Universität Stuttgart, Allmandring 31, 70569,
+Stuttgart, Germany.
+(2)Biochem Labor für chemische Analytik GmbH, Daimlerstr. 5B, 76185, Karlsruhe,
+Germany.
+(3)Institut für Mikrobiologie, Universität Stuttgart, Allmandring 31, 70569,
+Stuttgart, Germany. andreas.stolz@imb.uni-stuttgart.de.
+
+OBJECTIVES: Chiral 2-hydroxycarboxylic acids and 2-hydroxycarboxamides are
+valuable synthons for the chemical industry.
+RESULTS: The biocatalytic syntheses of (R)-mandelic acid and (R)-mandelic acid
+amide by recombinant Escherichia coli clones were studied. Strains were
+constructed which simultaneously expressed a (R)-specific oxynitrilase
+(hydroxynitrile lyase) from the plant Arabidopsis thaliana together with the
+arylacetonitrilase from the bacterium Pseudomonas fluorescens EBC191. In
+addition, recombinant strains were constructed which expressed a previously
+described acid tolerant variant of the oxynitrilase and an amide forming variant 
+of the nitrilase. The whole cell catalysts which simultaneously expressed the
+(R)-specific oxynitrilase and the wild-type nitrilase transformed in slightly
+acidic buffer systems benzaldehyde plus cyanide preferentially to (R)-mandelic
+acid with ee-values > 95%. The combination of the (R)-specific oxynitrilase with 
+the amide forming nitrilase variant gave whole cell catalysts which converted at 
+pH-values ≤ pH 5 benzaldehyde plus cyanide with a high degree of
+enantioselectivity (ee > 90%) to (R)-mandelic acid amide. The acid and the amide 
+forming catalysts also converted chlorinated benzaldehydes with cyanide to
+chlorinated mandelic acid or chlorinated mandelic acid amides.
+CONCLUSIONS: Efficient systems for the biocatalytic production of
+(R)-2-hydroxycarboxylic acids and (R)-2-hydroxycarboxamides were generated.
+
+DOI: 10.1007/s10529-020-02998-8 
+PMID: 32936375 
+

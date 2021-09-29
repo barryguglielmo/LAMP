@@ -1,0 +1,52 @@
+
+1. Microbiol Res. 2020 Aug 21;241:126587. doi: 10.1016/j.micres.2020.126587. [Epub
+ahead of print]
+
+3-D printed polyvinyl alcohol matrix for detection of airborne pathogens in
+respiratory bacterial infections.
+
+Al-Taie A(1), Han X(2), Williams CM(3), Abdulwhhab M(3), Abbott AP(4), Goddard
+A(4), Wegrzyn M(3), Garton NJ(3), Barer MR(3), Pan J(5).
+
+Author information: 
+(1)School of Engineering, University of Leicester, Leicester, LE1 7RH, UK;
+Department of Biomedical Engineering, College of Engineering, Al-Nahrain
+University, Baghdad, Iraq. Electronic address: alualt_1982@yahoo.com.
+(2)State Key Laboratory of Advanced Design and Manufacturing for Vehicle Body,
+Hunan University, 410082, China.
+(3)Department of Respiratory Sciences, University of Leicester, Leicester, UK.
+(4)Department of Chemistry, University of Leicester, Leicester, LE1 7RH, UK.
+(5)School of Engineering, University of Leicester, Leicester, LE1 7RH, UK.
+
+Novel sampling matrices were manufactured using 3D printing for the detection of 
+respiratory pathogens in expired air. A specific configuration of the matrices
+was designed using Computer-Aided Design software. Polyvinyl alcohol (PVA) was
+printed using fused deposition modelling to create a multilayer matrix to enhance
+the capture of bacteria. The performance of these matrices was compared with
+gelatine filters that have been used for this work to date. PVA matrices (60 mm
+diameter) were contaminated with bacteria either by direct inoculation, or by
+aerosol exposure using an Omron A3 nebuliser. Rough and smooth morphotypes of
+Mycobacterium abscessus, M. smegmatis and M. bovis BCG, were used in this study
+to contaminate the matrices. PVA matrices and gelatine sampling filters were
+contaminated to compare recovery rates for quantitative analyses. These were
+dissolved in water, bacteria pelleted and DNA extracted followed by a
+Mycobacterium-specific quantitative Polymerase Chain Reaction (qPCR).The results 
+showed that 3D printed PVA matrices are very effective to capture the bacteria.
+3D printed PVA matrix and gelatine filters yielded results of the same order of
+magnitude for mycobacterial analyses, however, PVA matrix offers several
+advantages over the latter material. 3D printed PVA is considered as an economic 
+and time-effective matrix as it is cheaper than gelatine filters. PVA is
+sufficiently robust to be handled and loaded into the surgical masks for
+sampling, compared to the brittle gelatine filters that required supportive
+frames. PVA is a synthetic material and it is suitable for DNA-based analyses,
+whilst gelatine is derived from animal collagen, and carries a high bacterial DNA
+background that interferes with the target DNA analysis. Furthermore, PVA
+dissolves in distilled water without requiring chemicals or enzymes, such as the 
+case for gelatine hydrolysis. To summarise, 3D printed PVA sampling matrix is
+considered a promising tool used for microbiological diagnostic purposes.
+
+Copyright © 2020 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.micres.2020.126587 
+PMID: 32927205 
+

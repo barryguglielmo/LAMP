@@ -1,0 +1,49 @@
+
+1. Colloids Surf B Biointerfaces. 2020 Jun;190:110940. doi:
+10.1016/j.colsurfb.2020.110940. Epub 2020 Mar 4.
+
+Surface-enhanced Raman spectroscopic-based aptasensor for Shigella sonnei using a
+dual-functional metal complex-ligated gold nanoparticles dimer.
+
+Wu S(1), Duan N(2), He C(3), Yu Q(3), Dai S(4), Wang Z(1).
+
+Author information: 
+(1)State Key Laboratory of Food Science and Technology, Jiangnan University, Wuxi
+214122, China; School of Food Science and Technology, Jiangnan University, Wuxi
+214122, China; International Joint Laboratory on Food Safety, Jiangnan
+University, Wuxi 214122, China.
+(2)State Key Laboratory of Food Science and Technology, Jiangnan University, Wuxi
+214122, China; School of Food Science and Technology, Jiangnan University, Wuxi
+214122, China; International Joint Laboratory on Food Safety, Jiangnan
+University, Wuxi 214122, China. Electronic address: duannuo@jiangnan.edu.cn.
+(3)School of Food Science and Technology, Jiangnan University, Wuxi 214122,
+China.
+(4)Taicang Customs of the People's Republic of China, Suzhou 215400, China.
+
+Herein, we constructed an aptamer-based sensor for the sensitive and highly
+specific detection of Shigella sonnei via surface enhanced Raman spectroscopy
+(SERS) analysis. A composite material integrated of the Raman active 4-MBA ligand
+of the Eu-complex and citrate-stabilized Au nanoparticles (cit-Au NPs) was
+synthesized and served as both active substrate and Raman reporter. Aptamers
+targeted to S. Sonnei was then modified onto the surface of this dual-functional 
+material. With the introduction of S. Sonnei, aptamer bound with target with high
+affinity and specificity, leaving the dual-functional material onto the bacteria.
+The SERS intensity response showed a strong positive linear correlation
+(R = 0.9956) with increasing concentrations of S. sonnei (ranging from 10 to 106 
+cfu/mL). High specificity was achieved at Shigella species (S. dysenteriae, S.
+flexneri, S. boydii) and other common bacteria (Salmonella typhimurium,
+Staphylococcus aureus and Escherichia coli). When applied in real samples, the
+approach showed recoveries from 92.6 to 103.8 %. The designed approach holds
+great potential for the construction of various aptasensors for the effective and
+convenient detection of different food hazards.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.colsurfb.2020.110940 
+PMID: 32151909 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

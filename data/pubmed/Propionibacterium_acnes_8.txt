@@ -1,0 +1,43 @@
+
+1. Biomed Chromatogr. 2020 Aug 27:e4977. doi: 10.1002/bmc.4977. [Epub ahead of
+print]
+
+Application of an LC-ESI-QTOF-MS method for evaluating clindamycin concentrations
+in plasma and prostate microdialysate of rats.
+
+Ritter L(1), Possa E(2), Bergoza L(2), Agostini F(1), Silva SM(1), Tasso
+L(1)(2)(3).
+
+Author information: 
+(1)Institute of Biotechnology, University of Caxias do Sul, Caxias do Sul,
+Brazil.
+(2)College of Pharmacy, University of Caxias do Sul, Caxias do Sul, Brazil.
+(3)Health Sciences Postgraduate Program, University of Caxias do Sul, Caxias do
+Sul, Brazil.
+
+Clindamycin is used for infections caused by Gram-positive and Gram-negative
+anaerobic pathogens and Gram-positive aerobes. Propionibacterium acnes is an
+important opportunistic microorganism of the human skin and is related to
+prostatitis. An LC-electrospray ionization-quadrupole time-of-flight-MS method
+was validated for determining clindamycin concentrations in plasma and prostate
+microdialysate. Clindamycin separation was carried out on a C18 column at
+0.5 mL/min. The mobile phase employed gradient elution of formic acid and
+methanol. A mass spectrometer was operated in positive electrospray ionization
+mode to monitor ion 425.1784 and 253.1152 for clindamycin and cimetidine
+(internal standard), respectively. Linearity was obtained at 0.5-10.0 μg/mL
+(plasma) and 0.05-1.0 μg/mL (microdialysate) with coefficients of determination
+≥0.999. The intra- and inter-day precision (coefficient of variation - CV%)
+values were ≤13.83% and 12.51% for plasma, respectively, and ≤10.90% and 9.35%
+for microdialysate, respectively. The accuracy was between 90.82% and 108.25% for
+plasma, and 96.97% and 106.98% for microdialysate. The present method was fully
+validated and applied to investigate clindamycin concentrations in both plasma
+and prostate by microdialysis in Wistar rats (80 mg/kg, intravenous). Because the
+penetration of antibiotics into the prostate may be restricted, this method
+allows us to investigate the prostate concentrations of clindamycin for the first
+time.
+
+© 2020 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/bmc.4977 
+PMID: 32852079 
+

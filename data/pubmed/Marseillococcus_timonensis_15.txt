@@ -1,0 +1,51 @@
+
+1. Acta Microbiol Immunol Hung. 2019 Dec 9:1-8. doi: 10.1556/030.66.2019.022. [Epub 
+ahead of print]
+
+Comparing identification of clinically relevant Prevotella species by VITEK MS
+and MALDI biotyper.
+
+Toprak NU(1), Veloo ACM(2), Urban E(3), Wybo I(4), Jean-Pierre H(5), Morris T(6),
+Justesen US(7), Tripkovic V(8), Jeverica S(9), Soyletir G(1), Nagy E(3); ESCMID
+Study Group for Anaerobic Infections (ESGAI)**.
+
+Author information: 
+(1)Department of Medical Microbiology, School of Medicine, Marmara University,
+Istanbul, Turkey.
+(2)Department of Medical Microbiology, University Medical Center Groningen,
+University of Groningen, Groningen, The Netherlands.
+(3)Institute of Clinical Microbiology, University of Szeged, Szeged, Hungary.
+(4)Department of Microbiology and Infection Control, Universitair Ziekenhuis
+Brussel, Brussels, Belgium.
+(5)Laboratoire de Bactériologie, Hôpital Arnaud de Villeneuve, Centre Hospitalier
+Régional Universitaire de Montpellier, Montpellier, France.
+(6)UK Anaerobe Reference Unit, Public Health Wales Microbiology, Cardiff, UK.
+(7)Department of Clinical Microbiology, Odense University Hospital, Odense,
+Denmark.
+(8)Department of Clinical and Molecular Microbiology, University Hospital Center,
+Zagreb, Croatia.
+(9)Faculty of Medicine, Institute of Microbiology and Immunology, University of
+Ljubljana, Ljubljana, Slovenia.
+
+In this multicenter study, we aimed to evaluate the performance of MALDI Biotyper
+and VITEK MS, for identification of Prevotella species. Three hundred and
+fourteen clinical isolates, collected in eight European countries between January
+2014 and April 2016, were identified at the collecting sites by MALDI Biotyper
+(versions 3.0 and 3.1) and then reidentified by VITEK MS (version 3.0) in the
+central laboratory. 16S rRNA gene sequencing was used as a standard method.
+According to sequence analysis, the 314 Prevotella strains belonged to 19
+species. MALDI Biotyper correctly identified 281 (89.5%) isolates to the species 
+level and 33 (10.5%) only at the genus level. VITEK MS correctly identified 253
+(80.6%) isolates at the species level and 276 (87.9%) isolates at the genus
+level. Thirty-three isolates belonging to P. bergensis, P. conceptionensis, P.
+corporis, P. histicola, and P. nanciensis, unavailable in the VITEK MS 3.0
+database, were resulted in genus level or no identification. Six Prevotella
+strains, belonged to P. veroralis, P. timonensis, and P. conceptionensis not
+represented in the MALDI Biotyper system database, were misidentified at the
+genus level. In conclusion, both VITEK MS and MALDI Biotyper provided reliable
+and rapid identification. However, the permanent extension of the databases is
+needed.
+
+DOI: 10.1556/030.66.2019.022 
+PMID: 31813262 
+

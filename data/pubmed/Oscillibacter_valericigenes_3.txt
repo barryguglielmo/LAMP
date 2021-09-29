@@ -1,0 +1,47 @@
+
+1. Int J Syst Evol Microbiol. 2020 Sep;70(9):4851-4858. doi: 10.1099/ijsem.0.003547.
+
+Dysosmobacter welbionis gen. nov., sp. nov., isolated from human faeces and
+emended description of the genus Oscillibacter.
+
+Le Roy T(1), Van der Smissen P(2), Paquot A(3), Delzenne N(1), Muccioli GG(3),
+Collet JF(4), Cani PD(1).
+
+Author information: 
+(1)UCLouvain, Université catholique de Louvain, WELBIO - Walloon Excellence in
+Life Sciences and Biotechnology, Louvain Drug Research Institute (LDRI),
+Metabolism and Nutrition Research Group, Brussels, Belgium.
+(2)UCLouvain, Université catholique de Louvain, de Duve Institute, Brussels,
+Belgium.
+(3)UCLouvain, Université catholique de Louvain, Louvain Drug Research Institute
+(LDRI), Bioanalysis and Pharmacology of Bioactive Lipids Research Group (BPBL),
+Brussels, Belgium.
+(4)UCLouvain, Université catholique de Louvain, WELBIO - Walloon Excellence in
+Life Sciences and Biotechnology, de Duve Institute, Brussels Center for Redox
+Biology, Brussels, Belgium.
+
+A strictly anaerobic, Gram-stain-negative, non-spore-forming, non-motile,
+non-pigmented bacterium, strain J115T, was isolated from human faeces. Cells of
+strain J115T were straight rods, generally 1.8-3.0 µm, but could be up to 18 µm
+long. Growth occurred below 2 % (w/v) NaCl and 2 % (v/v) bile. Strain J115T
+produced acid from myo-inositol but not from d-glucose, d-ribose or d-xylose.
+Butyric acid was the major end-product from myo-inositol. The genomic DNA
+G+C content was 58.92 mol%. Phylogenetic analysis based on 16S rRNA gene
+sequencing indicated that the closest cultivated neighbours of strain J115T were 
+Oscillibacter ruminantium GH1T (95.4 % similarity) and Oscillibacter
+valericigenes Sjm18-20T (94.1 %). Strain J115T was also related to the
+not-yet-cultured bacterium Oscillospira guilliermondii(92-93 % similarity).
+Coherently with the 16S rRNA gene sequence results, the ANI scores don't have
+units of strain J115T to O. ruminantium GH1T and O. valericigenes Sjm18-20T were 
+73.37 and 73.24, respectively, while in silico estimations of DNA-DNA
+hybridization were both 20.4 %, with confidence intervals of 18.2-22.9 % and
+18.2-22.8 %, respectively. The major fatty acids were iso-C15 : 0 (24.2 %),
+C18 : 0 DMA (18.4 %), anteiso-C15 : 0 (15.2 %) and C16 : 0 DMA (7.6 %). No
+respiratory quinone was detected. Based on phenotypic features and phylogenetic
+position, it is proposed that this isolate represents a novel species in a new
+genus, Dysosmobacter welbionis gen. nov., sp. nov. The type strain of
+Dysosmobacter welbionis is J115T (DSM 106889T=LMG 30601T).
+
+DOI: 10.1099/ijsem.0.003547 
+PMID: 31232680 
+

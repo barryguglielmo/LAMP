@@ -1,0 +1,56 @@
+
+1. J Appl Microbiol. 2020 Jul 8. doi: 10.1111/jam.14773. [Epub ahead of print]
+
+Lactic acid bacteria feeding reversed the malformed eye structures and
+ameliorated gut microbiota profiles of Drosophila melanogaster Alzheimer's
+Disease model.
+
+Liu G(1), Tan FH(2), Lau SA(3), Jaafar MH(3), Chung FY(3), Azzam G(2)(4), Liong
+MT(3)(4), Li Y(1).
+
+Author information: 
+(1)CAS Key Laboratory of Microbial Physiological and Metabolic Engineering, State
+Key Laboratory of Microbial Resources, Institute of Microbiology, Chinese Academy
+of Sciences, Beijing, China.
+(2)School of Biological Sciences, Universiti Sains Malaysia, 11800, Penang,
+Malaysia.
+(3)School of Industrial Technology, Universiti Sains Malaysia, 11800, Penang,
+Malaysia.
+(4)USM-RIKEN International Centre for Ageing Science (URICAS), Universiti Sains
+Malaysia, 11800, Penang, Malaysia.
+
+AIMS: To utilize transgenic GMR-Aβ42 Drosophila melanogaster as a model to
+evaluate potential Alzheimer's disease (AD)-reversal effects via the
+administration of lactic acid bacteria (LAB) strains, and associations of LAB
+with changes in gut microbiota profiles.
+METHODS AND RESULTS: Wild type flies (Oregon-R) was crossed with glass multimer
+reporter-GAL4 (GMR-GAL4) to produce GMR-OreR (Control), while UAS-Aβ42 (#33769)
+crossed with GMR-GAL4 to produce transgenic Drosophila line that expressed Aβ42
+(GMR-Aβ42). Feed containing seven different LAB strains (Lactobacillus paracasei 
+0291, Lactobacillus helveticus 1515, Lactobacillus reuteri CDV, Lactobacillus
+reuteri 8513d, Lactobacillus fermentum 8312, Lactobacillus casei Y, Lactobacillus
+sakei Probio65) were given to GMR-Aβ42 respectively, while feed without LAB
+strains were given to control and transgenic GMR-Aβ42.nf Drosophila lines. The
+morphology of the eyes was viewed with scanning electron microscopy (SEM). The
+changes in gut microbiota profiles associated with LAB were analyzed using 16s
+high throughput sequencing. Malformation of eye structures in transgenic GMR-Aβ42
+Drosophila were reversed upon the administration of LAB strains, with more
+prevalent effects from Lactobacillus sakei Probio65 and Lactobacillus paracasei
+0291. The GMR-Aβ42.nf group showed dominance of Wolbachia in the gut, a genus
+that was almost absent in the normal control group (P<0.05). The administration
+of L. sakei Probio65 and L. paracasei 0291 reduced the abundance of Wolbachia
+accompanied by increased abundance of Stenotrophomonas and Acetobacter (P<0.05), 
+resembling the microbial profile of the control group.
+CONCLUSIONS: L. sakei Probio65 and L. paracasei 0291 have more prominent effects 
+in reversing malformed eye of transgenic GMR-Aβ42 Drosophila, and reducing the
+abundance of Wolbachia accompanied by an increased abundance of Stenotrophomonas 
+and Acetobacter.
+SIGNIFICANCE AND IMPACT OF THE STUDY: Potentials of LAB to prevent and/or
+alleviate the onset and pathogenesis of neurodegenerative diseases such as AD,
+supporting brain health strategies along the gut-brain axis.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1111/jam.14773 
+PMID: 32640111 
+

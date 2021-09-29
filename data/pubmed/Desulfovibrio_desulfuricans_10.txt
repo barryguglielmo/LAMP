@@ -1,0 +1,41 @@
+
+1. Mater Sci Eng C Mater Biol Appl. 2019 Dec;105:110095. doi:
+10.1016/j.msec.2019.110095. Epub 2019 Aug 15.
+
+Accelerated corrosion of pipeline steel in the presence of Desulfovibrio
+desulfuricans biofilm due to carbon source deprivation in CO2 saturated medium.
+
+Eduok U(1), Ohaeri E(2), Szpunar J(2).
+
+Author information: 
+(1)Department of Mechanical Engineering, College of Engineering, University of
+Saskatchewan, 57 Campus Drive, Saskatoon S7N 5A9, Saskatchewan, Canada.
+Electronic address: ubong.eduok@usask.ca.
+(2)Department of Mechanical Engineering, College of Engineering, University of
+Saskatchewan, 57 Campus Drive, Saskatoon S7N 5A9, Saskatchewan, Canada.
+
+The chemistry of bacterial biofilms as well as the nutritional composition of
+culture environments may differ at any time within a growth process, especially
+for SRB consortia within oil wells with limited carbon sources. In the oilfield, 
+the presence of SRB biofilms on surfaces of steel substrates leads to
+microbiologically influenced corrosion and compromised material integrity. In
+this work, the survival of SRB cells and their impact on the pipeline steel
+corrosion within simulated CO2-saturated oilfield-produced water with different
+concentrations of organic carbon source have been investigated. Cell counts
+reduced with the level of carbon source reduction (CSR) after incubation but more
+sessile cells survived at 80% CSR (moderate carbon starvation) compared to 100%
+CSR (extreme carbon starvation). The energy needed for cellular survival as well 
+as biological support toward MIC could have been harnessed by a combination of
+extracellular Feo oxidation and intracellular sulfate reduction even after carbon
+source starvation. Severe anodic steel dissolution was observed at the end of the
+culture period within the simulated CO2-saturated oilfield-produced water, and
+this is attributed to SRB-led MIC and CO2 corrosion. Pipeline steel corroded more
+when cultured within 80% CSR compared to the medium with both lactate and
+citrate. Steel substrate corroded less with 100% CSR due to severely weakened SRB
+biofilms from nutrient deprivation.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.msec.2019.110095 
+PMID: 31546354  [Indexed for MEDLINE]
+

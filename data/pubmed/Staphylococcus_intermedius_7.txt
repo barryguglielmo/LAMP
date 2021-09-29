@@ -1,0 +1,44 @@
+
+1. Microorganisms. 2020 Feb 1;8(2). pii: E204. doi: 10.3390/microorganisms8020204.
+
+Characterization of Staphylococcus intermedius Group Isolates Associated with
+Animals from Antarctica and Emended Description of Staphylococcus delphini.
+
+Vrbovská V(1), Sedláček I(2), Zeman M(1)(2), Švec P(2), Kovařovic V(1), Šedo
+O(3), Laichmanová M(2), Doškař J(1), Pantůček R(1).
+
+Author information: 
+(1)Division of Genetics and Molecular Biology, Department of Experimental
+Biology, Faculty of Science, Masaryk University, Kotlářská 2, 611 37 Brno, Czech 
+Republic.
+(2)Czech Collection of Microorganisms, Department of Experimental Biology,
+Faculty of Science, Masaryk University, Kamenice 5, 625 00 Brno, Czech Republic.
+(3)Central European Institute of Technology, Masaryk University, Kamenice 5, 625 
+00 Brno, Czech Republic.
+
+Members of the genus Staphylococcus are widespread in nature and occupy a variety
+of niches, however, staphylococcal colonization of animals in the Antarctic
+environment has not been adequately studied. Here, we describe the first
+isolation and characterization of two Staphylococcus intermedius group (SIG)
+members, Staphylococcus delphini and Staphylococcus pseudintermedius, in
+Antarctic wildlife. Staphylococcus delphini were found exclusively in Adélie
+penguins. The report of S. pseudintermedius from Weddell seals confirmed its
+occurrence in all families of the suborder Caniformia. Partial RNA polymerase
+beta-subunit (rpoB) gene sequencing, repetitive PCR fingerprinting with the
+(GTG)5 primer, and matrix-assisted laser-desorption/ionization time-of-flight
+mass spectrometry gave consistent identification results and proved to be
+suitable for identifying SIG members. Comparative genomics of S. delphini
+isolates revealed variable genomic elements, including new prophages, a novel
+phage-inducible chromosomal island, and numerous putative virulence factors.
+Surface and extracellular protein distribution were compared between genomes and 
+showed strain-specific profiles. The pathogenic potential of S. delphini was
+enhanced by a novel type of exfoliative toxin, trypsin-like serine protease
+cluster, and enterotoxin C. Detailed analysis of phenotypic characteristics
+performed on six Antarctic isolates of S. delphini and eight reference strains
+from different animal sources enabled us to emend the species description of S.
+delphini.
+
+DOI: 10.3390/microorganisms8020204 
+PMCID: PMC7074773
+PMID: 32024111 
+

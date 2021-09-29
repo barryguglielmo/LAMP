@@ -1,0 +1,39 @@
+
+1. Microbiologyopen. 2020 Sep 26:e1110. doi: 10.1002/mbo3.1110. [Epub ahead of
+print]
+
+Evaluation of two xenobiotic reductases from Pseudomonas putida for their
+suitability for magnetic nanoparticle-directed enzyme prodrug therapy as a novel 
+approach to cancer treatment.
+
+Ball P(1), Halliwell J(1), Anderson S(1), Gwenin V(1), Gwenin C(2).
+
+Author information: 
+(1)Bangor University, Bangor, UK.
+(2)Xi'an Jiaotong-Liverpool University, Suzhou, China.
+
+Directed enzyme prodrug therapy (DEPT) is a cancer chemotherapy strategy in which
+bacterial enzymes are delivered to a cancer site before prodrug administration,
+resulting in prodrug activation at the cancer site and more localized treatment. 
+A major limitation to DEPT is the poor effectiveness of the most studied enzyme
+for the CB1954 prodrug, NfnB from Escherichia coli, at concentrations suitable
+for human use. Much research into finding alternative enzymes to NfnB has
+resulted in the identification of the Xenobiotic reductases, XenA and XenB, which
+have been shown in the literature to reduce environmentally polluting
+nitro-compounds. In this study, they were assessed for their potential use in
+cancer prodrug therapy strategies. Both proteins were cloned into the pET28a+
+expression vector to give the genetically modified proteins XenA-his and
+XenB-his, of which only XenB-his was active when tested with CB1954. XenB-his was
+further modified to include a cysteine-tag to facilitate direct immobilization on
+to a gold surface for future magnetic nanoparticle DEPT (MNDEPT) treatments and
+was named XenB-cys. When tested using high-performance liquid chromatography
+(HPLC), XenB-his and XenB-cys both demonstrated a preference for reducing CB1954 
+at the 4-nitro position. Furthermore, XenB-his and XenB-cys successfully induced 
+cell death in SK-OV-3 cells when combined with CB1954. This led to XenB-cys being
+identified as a promising candidate for use in future MNDEPT treatments.
+
+© 2020 The Authors. MicrobiologyOpen published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/mbo3.1110 
+PMID: 32979040 
+

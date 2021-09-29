@@ -1,0 +1,51 @@
+
+1. J Antimicrob Chemother. 2020 Jul 26. pii: dkaa305. doi: 10.1093/jac/dkaa305.
+[Epub ahead of print]
+
+Microevolution of acquired colistin resistance in Enterobacteriaceae from ICU
+patients receiving selective decontamination of the digestive tract.
+
+Janssen AB(1), van Hout D(2), Bonten MJM(1)(2), Willems RJL(1), van Schaik
+W(1)(3).
+
+Author information: 
+(1)Department of Medical Microbiology, University Medical Center Utrecht, Utrecht
+University, Heidelberglaan 100, 3584CX Utrecht, The Netherlands.
+(2)Julius Center for Health Sciences and Primary Care, University Medical Center 
+Utrecht, Utrecht University, Heidelberglaan 100, 3584CX Utrecht, The Netherlands.
+(3)Institute of Microbiology and Infection, College of Medical and Dental
+Sciences, University of Birmingham, Edgbaston, Birmingham B15 2TT, UK.
+
+BACKGROUND: Colistin is an antibiotic that targets the LPS molecules present in
+the membranes of Gram-negative bacteria. It is used as a last-resort drug to
+treat infections with MDR strains. Colistin is also used in selective
+decontamination of the digestive tract (SDD), a prophylactic therapy used in
+patients hospitalized in ICUs to selectively eradicate opportunistic pathogens in
+the oropharyngeal and gut microbiota.
+OBJECTIVES: To unravel the mechanisms of acquired colistin resistance in
+Gram-negative opportunistic pathogens obtained from SDD-treated patients.
+RESULTS: Routine surveillance of 428 SDD-treated patients resulted in 13 strains 
+with acquired colistin resistance (Escherichia coli, n = 9; Klebsiella aerogenes,
+n = 3; Enterobacter asburiae, n = 1) from 5 patients. Genome sequence analysis
+showed that these isolates represented multiple distinct colistin-resistant
+clones but that colistin-resistant strains within the same patient were clonally 
+related. We identified previously described mechanisms that lead to colistin
+resistance, i.e. a G53 substitution in the response regulator PmrA/BasR and the
+acquisition of the mobile colistin resistance gene mcr-1.1, but we also observed 
+novel variants of basR with an 18 bp deletion and a G19E substitution in the
+sensor histidine kinase BasS. We experimentally confirmed that these variants
+contribute to reduced colistin susceptibility. In a single patient, we observed
+that colistin resistance in a single E. coli clone evolved through two unique
+variants in basRS.
+CONCLUSIONS: We show that prophylactic use of colistin during SDD can select for 
+colistin resistance in species that are not intrinsically colistin resistant.
+This highlights the importance of continued surveillance for strains with
+acquired colistin resistance in patients treated with SDD.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the
+British Society for Antimicrobial Chemotherapy. All rights reserved. For
+permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jac/dkaa305 
+PMID: 32712659 
+

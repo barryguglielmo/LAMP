@@ -1,0 +1,38 @@
+
+1. Int J Syst Evol Microbiol. 2020 Apr;70(4):2696-2702. doi: 10.1099/ijsem.0.004096.
+Epub 2020 Mar 26.
+
+Bacillus salinus sp. nov., isolated from commercial solar salt.
+
+Kang H(1), Kang J(1), Cha I(1), Kim H(1), Joung Y(2), Jang TY(1), Joh K(1).
+
+Author information: 
+(1)Department of Bioscience and Biotechnology, Hankuk University of Foreign
+Studies, Gyeonggi 17035, Republic of Korea.
+(2)Department of Life Science, College of Natural Science, Kyonggi University,
+Gyeonggi 16227, Republic of Korea.
+
+Two strains of Gram-stain-positive, strictly aerobic, motile, spore-forming,
+rod-shaped, moderately halotolerant bacteria, designated as HMF5848T and HME7618,
+were isolated from salt/brine and subjected to a polyphasic taxonomic
+investigation. Growth of both yellow-coloured strains occurred in the presence of
+1-9 % NaCl (w/v; optimum, 2-3 %), at 15-45 °C (optimum, 37 °C) and pH 6-9
+(optimum, pH 7). The major fatty acids were iso-C15 : 0, iso-C16 : 0 and
+anteiso-C15 : 0. The cell-wall peptidoglycan was meso-diaminopimelic acid. The
+only respiratory quinone was menaquinone-7. The major polar lipids were
+diphosphatidylglycerol, phosphatidylglycerol, four unidentified glycolipids,
+three unidentified phospholipids and two unidentified polar lipids. DNA G+C
+content was 37.4 mol%. Phylogenetic trees based on 16S rRNA gene sequences showed
+that strains HMF5848T and HME7618 clustered with Bacillus luteolus YIM 93174T.
+Strains HMF5848T showed the highest 16S rRNA gene sequence similarities to
+Bacillus humi LMG 22167T (96.1 %), Bacillus isabeliae CVS-8T (96.0 %) and
+Bacillus luteolus YIM 93174T (96.0 %). The values of in silico DNA-DNA
+hybridization and average nucleotide identity between strains HMF5848T and B.
+humi DSM 16318T were 25.8 and 69.7 %, respectively. On the basis of phylogenetic,
+physiological and chemotaxonomic properties, strain HMF5848T represents a novel
+species, Bacillus salinus sp. nov. The type strain is HMF5848T (=KCTC 43010T=CECT
+9695T).
+
+DOI: 10.1099/ijsem.0.004096 
+PMID: 32213250  [Indexed for MEDLINE]
+

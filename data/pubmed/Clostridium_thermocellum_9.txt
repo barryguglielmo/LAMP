@@ -1,0 +1,53 @@
+
+1. Appl Microbiol Biotechnol. 2020 Sep;104(17):7533-7550. doi:
+10.1007/s00253-020-10758-x. Epub 2020 Jul 10.
+
+A novel AA10 from Paenibacillus curdlanolyticus and its synergistic action on
+crystalline and complex polysaccharides.
+
+Limsakul P(1), Phitsuwan P(1), Waeonukul R(2), Pason P(2), Tachaapaikoon C(2),
+Poomputsa K(1), Kosugi A(3), Sakka M(4), Sakka K(5), Ratanakhanokchai K(6).
+
+Author information: 
+(1)School of Bioresources and Technology, King Mongkut's University of Technology
+Thonburi, Bangkok, 10150, Thailand.
+(2)Pilot Plant Development and Training Institute, King Mongkut's University of
+Technology Thonburi, Bangkok, 10150, Thailand.
+(3)Biological Resources and Post-harvest Division, Japan International Research
+Center for Agricultural Sciences, Tsukuba, Ibaraki, 305-8686, Japan.
+(4)Graduated School of Bioresources, Mie University, Tsu, Mie, 514-8507, Japan.
+(5)Graduated School of Bioresources, Mie University, Tsu, Mie, 514-8507, Japan.
+sakka@bio.mie-u.ac.jp.
+(6)School of Bioresources and Technology, King Mongkut's University of Technology
+Thonburi, Bangkok, 10150, Thailand. khanok.rat@kmutt.ac.th.
+
+Lytic polysaccharide monooxygenases (LPMOs) play an important role in the
+degradation of complex polysaccharides in lignocellulosic biomass. In the present
+study, we characterized a modular LPMO (PcAA10A), consisting of a family 10
+auxiliary activity of LPMO (AA10) catalytic domain, and non-catalytic domains
+including a family 5 carbohydrate-binding module, two fibronectin type-3 domains,
+and a family 3 carbohydrate-binding module from Paenibacillus curdlanolyticus
+B-6, which was expressed in a recombinant Escherichia coli. Comparison of
+activities between full-length PcAA10A and the catalytic domain polypeptide
+(PcAA10A_CD) indicates that the non-catalytic domains are important for the
+deconstruction of crystalline cellulose and complex polysaccharides contained in 
+untreated lignocellulosic biomass. Interestingly, PcAA10A_CD acted not only on
+cellulose and chitin, but also on xylan, mannan, and xylan and cellulose
+contained in lignocellulosic biomass, which has not been reported for the AA10
+family. Mutation of the key residues, Trp51 located at subsite - 2 and Phe171
+located at subsite +2, in the substrate-binding site of PcAA10A_CD revealed that 
+these residues are substantially involved in broad substrate specificity toward
+cellulose, xylan, and mannan, albeit with a low effect toward chitin.
+Furthermore, PcAA10A had a boosting effect on untreated corn hull degradation by 
+P. curdlanolyticus B-6 endo-xylanase Xyn10D and Clostridium thermocellum
+endo-glucanase Cel9A. These results suggest that PcAA10A is a unique LPMO capable
+of cleaving and enhancing lignocellulosic biomass degradation, making it a good
+candidate for biotechnological applications. KEY POINTS: • PcAA10A is a novel
+modular LPMO family 10 from Paenibacillus curdlanolyticus. • PcAA10A showed broad
+substrate specificity on β-1,4 glycosidic linkage substrates. • Non-catalytic
+domains are important for degrading complex polysaccharides. • PcAA10A is a
+unique LPMO capable of enhancing lignocellulosic biomass degradation.
+
+DOI: 10.1007/s00253-020-10758-x 
+PMID: 32651597 
+

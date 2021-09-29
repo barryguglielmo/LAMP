@@ -1,0 +1,50 @@
+
+1. Eur J Clin Microbiol Infect Dis. 2020 Oct;39(10):1865-1878. doi:
+10.1007/s10096-020-03916-6. Epub 2020 May 14.
+
+Relationships among streptococci from the mitis group, misidentified as
+Streptococcus pneumoniae.
+
+Sadowy E(1), Bojarska A(2), Kuch A(3), Skoczyńska A(3), Jolley KA(4), Maiden
+MCJ(4), van Tonder AJ(5), Hammerschmidt S(6), Hryniewicz W(3).
+
+Author information: 
+(1)Department of Molecular Microbiology, National Medicines Institute, Chełmska
+30/34, 00-725, Warsaw, Poland. e.sadowy@nil.gov.pl.
+(2)Department of Molecular Microbiology, National Medicines Institute, Chełmska
+30/34, 00-725, Warsaw, Poland.
+(3)Department of Epidemiology and Clinical Microbiology, National Medicines
+Institute, Chełmska 30/34, 00-725, Warsaw, Poland.
+(4)Department of Zoology, University of Oxford, Oxford, UK.
+(5)Department of Veterinary Medicine, University of Cambridge, Cambridge, UK.
+(6)Department of Molecular Genetics and Infection Biology, Interfaculty Institute
+for Genetics and Functional Genomics, Center for Functional Genomics of Microbes,
+University of Greifswald, Greifswald, Germany.
+
+The aim of our study was to investigate phenotypic and genotypic features of
+streptococci misidentified (misID) as Streptococcus pneumoniae, obtained over
+20 years from hospital patients in Poland. Sixty-three isolates demonstrating
+microbiological features typical for pneumococci (optochin susceptibility and/or 
+bile solubility) were investigated by phenotypic tests, lytA and 16S rRNA gene
+polymorphism and whole-genome sequencing (WGS). All isolates had a 6-bp deletion 
+in the lytA 3' terminus, characteristic for Mitis streptococc and all but two
+isolates lacked the pneumococcal signature cytosine at nucleotide position 203 in
+the 16S rRNA genes. The counterparts of psaA and ply were present in 100% and
+81.0% of isolates, respectively; the spn9802 and spn9828 loci were characteristic
+for 49.2% and 38.1% of isolates, respectively. Phylogenetic trees and networks,
+based on the multilocus sequence analysis (MLSA) scheme, ribosomal multilocus
+sequence typing (rMLST) scheme and core-genome analysis, clearly separated
+investigated isolates from S. pneumoniae and demonstrated the polyclonal
+character of misID streptococci, associated with the Streptococcus
+pseudopneumoniae and Streptococcus mitis groups. While the S. pseudopneumoniae
+clade was relatively well defined in all three analyses, only the core-genome
+analysis revealed the presence of another cluster comprising a fraction of misID 
+streptococci and a strain proposed elsewhere as a representative of a novel
+species in the Mitis group. Our findings point to complex phylogenetic and
+taxonomic relationships among S. mitis-like bacteria and support the notion that 
+this group may in fact consist of several distinct species.
+
+DOI: 10.1007/s10096-020-03916-6 
+PMCID: PMC7497345
+PMID: 32409955 
+

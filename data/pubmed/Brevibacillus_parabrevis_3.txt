@@ -1,0 +1,42 @@
+
+1. J Appl Microbiol. 2019 Dec;127(6):1665-1676. doi: 10.1111/jam.14430. Epub 2019
+Sep 10.
+
+Modelling the variable incorporation of aromatic amino acids in the tyrocidines
+and analogous cyclodecapeptides.
+
+Vosloo JA(1), Snoep JL(1)(2)(3), Rautenbach M(1).
+
+Author information: 
+(1)Department of Biochemistry, Faculty of Science, Stellenbosch University,
+Stellenbosch, South Africa.
+(2)Molecular Cell Physiology, Vrije Universiteit Amsterdam, HV Amsterdam, The
+Netherlands.
+(3)MIB, University of Manchester, Manchester, UK.
+
+AIMS: A mathematical model of the nonribosomal synthesis of tyrocidines and
+analogues by Brevibacillus parabrevis was constructed using a competitive binding
+mechanism (CBM) for the incorporation of the three variable aromatic amino acid
+(Aaa) residues in their sequence. These antimicrobial peptides have a conserved
+structure (D-Phe1 -Pro2 -Aaa3 -D-Aaa4 -Asn5 -Gln6 -Aaa7 -Val8 -Orn9 -Leu10 ),
+apart from the Aaa in positions 3, 4 and 7 containing either Phe, Trp or Tyr.
+METHODS AND RESULTS: Ultra-performance liquid chromatography linked mass
+spectrometry was used to profile peptides from extracts of cultures grown in
+media with various Phe : Trp ratios. The CBM model describes the production of
+peptides as a function of growth medium Aaa concentration. The model accounts for
+variable Aaa incorporation by simultaneously considering the influence of maximal
+incorporation rate and cooperativity, despite similar KM' s of synthetase
+modules.
+CONCLUSIONS: Our CBM model can be utilized to predict the Aaa composition of
+produced peptides from the concentration of Aaas in the growth medium.
+SIGNIFICANCE AND IMPACT OF THE STUDY: Subtly exploiting the inherent promiscuity 
+of the nontemplate coded peptide synthesis allows for external control of peptide
+identity, without using genetic manipulation. Such versatility is exploitable in 
+the production of targeted peptide complexes and rare peptides where production
+processes are reliant on nonribosomal synthesis.
+
+© 2019 The Society for Applied Microbiology.
+
+DOI: 10.1111/jam.14430 
+PMID: 31461193  [Indexed for MEDLINE]
+

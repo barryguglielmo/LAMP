@@ -1,0 +1,45 @@
+
+1. Appl Microbiol Biotechnol. 2020 Apr;104(7):3145-3156. doi:
+10.1007/s00253-020-10425-1. Epub 2020 Feb 19.
+
+Intracellular osmoprotectant concentrations determine Propionibacterium
+freudenreichii survival during drying.
+
+Gaucher F(1)(2), Rabah H(1)(3), Kponouglo K(1), Bonnassie S(1)(4), Pottier S(5), 
+Dolivet A(1), Marchand P(2), Jeantet R(1), Blanc P(2), Jan G(6).
+
+Author information: 
+(1)UMR STLO, INRAE, Agrocampus Ouest, 35042, Rennes, France.
+(2)Bioprox, 6 rue Barbès, 92532, Levallois-Perret, France.
+(3)Pôle Agronomique Ouest, Régions Bretagne et Pays de la Loire, 35042, Rennes,
+France.
+(4)Université de Rennes I, Rennes, France.
+(5)CNRS, ISCR - UMR 6226, University Rennes, PRISM, BIOSIT - UMS 3480, 35000,
+Rennes, France.
+(6)UMR STLO, INRAE, Agrocampus Ouest, 35042, Rennes, France. gwenael.jan@inra.fr.
+
+Propionibacterium freudenreichii is a beneficial bacterium widely used in food as
+a probiotic and as a cheese-ripening starter. In these different applications, it
+is produced, dried, and stored before being used. Both freeze-drying and
+spray-drying were considered for this purpose. Freeze-drying is a discontinuous
+process that is energy-consuming but that allows high cell survival. Spray-drying
+is a continuous process that is more energy-efficient but that can lead to
+massive bacterial death related to heat, osmotic, and oxidative stresses. We have
+shown that P. freudenreichii cultivated in hyperconcentrated rich media can be
+spray-dried with limited bacterial death. However, the general stress tolerance
+conferred by this hyperosmotic constraint remained a black box. In this study, we
+modulated P. freudenreichii growth conditions and monitored both osmoprotectant
+accumulation and stress tolerance acquisition. Changing the ratio between the
+carbohydrates provided and non-protein nitrogen during growth under osmotic
+constraint modulated osmoprotectant accumulation. This, in turn, was correlated
+with P. freudenreichii tolerance towards different stresses, on the one hand, and
+towards freeze-drying and spray-drying, on the other. Surprisingly, trehalose
+accumulation correlated with spray-drying survival and glycine betaine
+accumulation with freeze-drying. This first report showing the ability to
+modulate the trehalose/GB ratio in osmoprotectants accumulated by a probiotic
+bacterium opens new perspectives for the optimization of probiotics production.
+
+DOI: 10.1007/s00253-020-10425-1 
+PMCID: PMC7062905
+PMID: 32076782 
+

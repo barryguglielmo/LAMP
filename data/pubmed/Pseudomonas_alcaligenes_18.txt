@@ -1,0 +1,44 @@
+
+1. J Hazard Mater. 2019 Nov 5;379:120841. doi: 10.1016/j.jhazmat.2019.120841. Epub
+2019 Jun 27.
+
+Metagenomic assembly provides a deep insight into the antibiotic resistome
+alteration induced by drinking water chlorination and its correlations with
+bacterial host changes.
+
+Jia S(1), Wu J(1), Ye L(1), Zhao F(1), Li T(1), Zhang XX(2).
+
+Author information: 
+(1)State Key Laboratory of Pollution Control and Resource Reuse, Environmental
+Health Research Center, School of the Environment, Nanjing University, Nanjing
+210023, China.
+(2)State Key Laboratory of Pollution Control and Resource Reuse, Environmental
+Health Research Center, School of the Environment, Nanjing University, Nanjing
+210023, China. Electronic address: zhangxx@nju.edu.cn.
+
+Chlorination can contribute to the enrichment of specific antibiotic resistance
+genes (ARGs) in drinking water, but the underlying molecular ecological
+mechanisms remain unknown, which may hinder the assessment and control of the
+resulting health risks. In this study, metagenomic assembly and Resfams
+annotation were used to profile the co-occurrence patterns of ARGs, mobile
+genetic elements (MGEs) and their bacterial hosts, as well as the correlations of
+potential pathogens with the antibiotic resistome, in a full-scale drinking water
+treatment and transportation system. Seven ARG types involved in different
+resistance mechanisms occurred in drinking water and chlorination enhanced the
+total abundance of the ARGs (p <  0.05). The ARGs encoding
+resistance-nodulation-cell division and ATP-binding cassette antibiotic efflux
+pumps predominated in all the samples and were primarily responsible for the ARG 
+accumulation. After chlorination, the ARGs were primarily carried by predominant 
+Sphingomonas, Polaromonas, Hyphomicrobium, Acidovorax, Pseudomonas and
+Fluviicola. Further, enrichment of the bacterial hosts and MGEs greatly
+contributed to alteration of the antibiotic resistome. Pseudomonas alcaligenes,
+carrying multiple ARGs, was identified as a potential pathogen in the chlorinated
+drinking water. These findings provide novel insights into the host-ARG
+relationship and the mechanism underlying the resistome alteration during
+drinking water chlorination.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhazmat.2019.120841 
+PMID: 31279312  [Indexed for MEDLINE]
+

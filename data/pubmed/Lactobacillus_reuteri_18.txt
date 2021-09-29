@@ -1,0 +1,49 @@
+
+1. Nature. 2020 Sep;585(7823):102-106. doi: 10.1038/s41586-020-2634-9. Epub 2020 Aug
+26.
+
+Gut microorganisms act together to exacerbate inflammation in spinal cords.
+
+Miyauchi E(1), Kim SW(1), Suda W(1), Kawasumi M(1), Onawa S(1), Taguchi-Atarashi 
+N(1), Morita H(2), Taylor TD(1), Hattori M(1)(3), Ohno H(4)(5)(6).
+
+Author information: 
+(1)RIKEN Center for Integrative Medical Sciences, Yokohama, Japan.
+(2)Graduate School of Environmental and Life Science, Okayama University,
+Okayama, Japan.
+(3)Graduate School of Advanced Science and Engineering, Waseda University, Tokyo,
+Japan.
+(4)RIKEN Center for Integrative Medical Sciences, Yokohama, Japan.
+hiroshi.ohno@riken.jp.
+(5)Immunobiology Laboratory, Department of Medical Life Science, Graduate School 
+of Medical Life Science, Yokohama City University, Yokohama, Japan.
+hiroshi.ohno@riken.jp.
+(6)Kanagawa Institute of Industrial Science and Technology, Ebina, Japan.
+hiroshi.ohno@riken.jp.
+
+Accumulating evidence indicates that gut microorganisms have a pathogenic role in
+autoimmune diseases, including in multiple sclerosis1. Studies of experimental
+autoimmune encephalomyelitis (an animal model of multiple sclerosis)2,3, as well 
+as human studies4-6, have implicated gut microorganisms in the development or
+severity of multiple sclerosis. However, it remains unclear how gut
+microorganisms act on the inflammation of extra-intestinal tissues such as the
+spinal cord. Here we show that two distinct signals from gut microorganisms
+coordinately activate autoreactive T cells in the small intestine that respond
+specifically to myelin oligodendrocyte glycoprotein (MOG). After induction of
+experimental autoimmune encephalomyelitis in mice, MOG-specific CD4+ T cells are 
+observed in the small intestine. Experiments using germ-free mice that were
+monocolonized with microorganisms from the small intestine demonstrated that a
+newly isolated strain in the family Erysipelotrichaceae acts similarly to an
+adjuvant to enhance the responses of T helper 17 cells. Shotgun sequencing of the
+contents of the small intestine revealed a strain of Lactobacillus reuteri that
+possesses peptides that potentially mimic MOG. Mice that were co-colonized with
+these two strains showed experimental autoimmune encephalomyelitis symptoms that 
+were more severe than those of germ-free or monocolonized mice. These data
+suggest that the synergistic effects that result from the presence of these
+microorganisms should be considered in the pathogenicity of multiple sclerosis,
+and that further study of these microorganisms may lead to preventive strategies 
+for this disease.
+
+DOI: 10.1038/s41586-020-2634-9 
+PMID: 32848245 
+

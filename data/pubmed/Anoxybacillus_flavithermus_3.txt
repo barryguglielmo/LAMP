@@ -1,0 +1,44 @@
+
+1. Int J Biol Macromol. 2020 Jun 1;152:584-592. doi: 10.1016/j.ijbiomac.2020.02.246.
+Epub 2020 Feb 22.
+
+Characterization of a thermostable, allosteric L-asparaginase from Anoxybacillus 
+flavithermus.
+
+Maqsood B(1), Basit A(2), Khurshid M(1), Bashir Q(3).
+
+Author information: 
+(1)Institute of Biochemistry and Biotechnology, Quaid-e-Azam Campus, University
+of the Punjab, Lahore 54590, Pakistan.
+(2)Department of Microbiology and Molecular Genetics, Quaid-e-Azam Campus,
+University of the Punjab, Lahore 54590, Pakistan.
+(3)School of Biological Sciences, Quaid-e-Azam Campus, University of the Punjab, 
+Lahore 54590, Pakistan. Electronic address: qamar.sbs@pu.edu.pk.
+
+L-asparaginase is an important enzyme with diverse applications in food industry 
+and therapeutics. However, the enzyme currently employed in the treatment of
+leukaemias, comes with undesired L-glutaminase activity. A gene encoding 38 kDa
+L-asparaginase form Anoxybacillus flavithermus was cloned and expressed in
+Escherichia coli as a soluble and active enzyme. Heat treatment and Ni-affinity
+column chromatography provided highly purified enzyme possessing a specific
+activity of 165 units mg-1. The enzyme exhibited allosteric behaviour with a Hill
+coefficient of 1.60 and K0.5 of 25 mM with L-asparagine as specific substrate. No
+detectable activity was observed in the presence of D-asparagine, l-glutamine and
+d-glutamine. Purified AfASNase showed optimum activity at 60 °C and pH 7.0. The
+enzyme had ability to withstand up to 6 M urea and showed complete inactivation
+when treated with 1 M guanidine hydrochloride. Protein-Ligand docking and
+molecular dynamic simulations indicated that the regulatory site is formed by
+T262-T263-C265-G269-Thr294 and is located on a domain different from the one
+carrying the well-established active site. AfASNase is reported as first
+thermostable L-asparaginase with allosteric regulation. Hitherto, AfASNase
+presents the first characterization of recombinant L-asparaginase from the genus 
+Anoxybacillus.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2020.02.246 
+PMID: 32097739 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no conflict of interest.
+

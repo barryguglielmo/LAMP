@@ -1,0 +1,51 @@
+
+1. Meat Sci. 2020 Sep 17;172:108315. doi: 10.1016/j.meatsci.2020.108315. [Epub ahead
+of print]
+
+Modeling the behavior of Listeria innocua in Italian salami during the production
+and high-pressure validation of processes for exportation to the U.S.
+
+Bonilauri P(1), Merialdi G(2), Ramini M(2), Bardasi L(2), Taddei R(2), Grisenti
+MS(3), Daminelli P(4), Cosciani-Cunico E(4), Dalzini E(5), Frustoli MA(3),
+Giacometti F(6), Tomasello F(7), Piva S(7), Serraino A(7).
+
+Author information: 
+(1)Experimental Institute for Zooprophylaxis in Lombardy and Emilia Romagna, Via 
+Pitagora 2, 42100 Reggio Emilia, Italy.
+(2)Experimental Institute for Zooprophylaxis in Lombardy and Emilia Romagna, Via 
+Fiorini 5, 40127 Bologna, Italy.
+(3)SSICA Stazione Sperimentale per l'Industria delle Conserve Alimentari V, le
+Tanara 31/a, 43121 Parma, Italy.
+(4)Experimental Institute for Zooprophylaxis in Lombardy and Emilia-Romagna, Via 
+Bianchi 7/9, 25124 Brescia, Italy.
+(5)National Reference Centre for Emerging Risks in Food Safety, Experimental
+Institute for Zooprophylaxis in Lombardy and Emilia-Romagna, Via Celoria 12,
+20133 Milan, Italy.
+(6)Department of Veterinary Medical Sciences, University of Bologna, Via Tolara
+di Sopra 50, 40064 Ozzano Emilia (BO), Italy. Electronic address:
+federica.giacometti3@unibo.it.
+(7)Department of Veterinary Medical Sciences, University of Bologna, Via Tolara
+di Sopra 50, 40064 Ozzano Emilia (BO), Italy.
+
+A model describing Listeria innocua evolution according to process parameters of 
+51 Italian salami processes and HPP in 31 companies was developed. A total of 51 
+challenge tests were performed. During processing a L. innocua reduction of
+0.34-4.32 Log10 CFU/g was observed and HPP further reduced the count of 0.48-3.47
+Log10 CFU/g; an overall reduction of 1.04-5.68 is reached. PH after
+acidification/drying process, aw after seasoning, duration of the seasoning and
+caliber resulted associated (p < 0.05) with L. innocua decrease. HPP efficacy was
+associated (p < 0.05) with aw and pH of the product: higher the pH and aw after
+the acidification/drying and seasoning phases, higher resulted the L. innocua
+reduction after HPP. No significant association was observed between L.innocua
+and salt, nitrate and starter content and other characteristics of process. The
+model meets companies and Authorities needs and represents a useful tool to
+predict L. monocytogenes lethality, giving recommendations to food business
+operators interested in exportation to the U.S.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.meatsci.2020.108315 
+PMID: 32977291 
+
+Conflict of interest statement: Declaration of Competing Interest None.
+

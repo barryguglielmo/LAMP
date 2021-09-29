@@ -1,0 +1,61 @@
+
+1. Cell Rep. 2020 Sep 29;32(13):108188. doi: 10.1016/j.celrep.2020.108188.
+
+Human Placental MSC-Secreted IL-1β Enhances Neutrophil Bactericidal Functions
+during Hypervirulent Klebsiella Infection.
+
+Wang LT(1), Wang HH(2), Chiang HC(1), Huang LY(3), Chiu SK(4), Siu LK(5), Liu
+KJ(6), Yen ML(7), Yen BL(8).
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, National Taiwan University (NTU)
+Hospital and College of Medicine, NTU, Taipei 100, Taiwan.
+(2)Regenerative Medicine Research Group, Institute of Cellular and System
+Medicine, National Health Research Institutes (NHRI), Zhunan 350, Taiwan.
+(3)National Institute of Infectious Diseases and Vaccinology, NHRI, Zhunan 350,
+Taiwan.
+(4)Division of Infectious Diseases and Tropical Medicine, Department of Internal 
+Medicine, Tri-Service General Hospital, National Defense Medical Center, Taipei
+114, Taiwan.
+(5)National Institute of Infectious Diseases and Vaccinology, NHRI, Zhunan 350,
+Taiwan; Division of Infectious Diseases and Tropical Medicine, Department of
+Internal Medicine, Tri-Service General Hospital, National Defense Medical Center,
+Taipei 114, Taiwan; Graduate Institute of Basic Medical Science, China Medical
+University, Taichung 404, Taiwan.
+(6)National Institute of Cancer Research, NHRI, Zhunan 350, Taiwan; Institute of 
+Clinical Pharmacy and Pharmaceutical Sciences, National Cheng Kung University,
+Tainan 701, Taiwan; School of Medical Laboratory Science and Biotechnology,
+Taipei Medical University, Taipei 110, Taiwan.
+(7)Department of Obstetrics and Gynecology, National Taiwan University (NTU)
+Hospital and College of Medicine, NTU, Taipei 100, Taiwan. Electronic address:
+mlyen@ntu.edu.tw.
+(8)Regenerative Medicine Research Group, Institute of Cellular and System
+Medicine, National Health Research Institutes (NHRI), Zhunan 350, Taiwan;
+Department of Obstetrics and Gynecology, Cathay General Hospital Shiji, New
+Taipei 221, Taiwan. Electronic address: blyen@nhri.org.tw.
+
+Hypervirulent Klebsiella pneumoniae (hvKP) causes severe infections even in
+healthy individuals by escaping surveillance and killing from polymorphonuclear
+neutrophils (PMNs), the first-line leukocytes in bacterial infections; moreover, 
+the emergence of multidrug-resistant strains further limits treatment options. We
+therefore assess whether multilineage mesenchymal stem cells (MSCs), best known
+for immunomodulation toward T cells, could be therapeutic for highly virulent
+bacterial infections via modulation of PMNs. We find that both bone marrow MSCs
+and placental MSCs (PMSCs) preserve in vitro PMN survival, but only PMSCs
+significantly enhance multiple PMN bactericidal functions, including
+phagocytosis, through secretion of interleukin-1β (IL-1β). PMSC treatment of
+hvKP-infected mice suppresses T and natural killer (NK) cell responses as
+expected but can preferentially recruit PMNs and enhance antibacterial functions 
+to allow for disease survival; IL-1β knockdown in PMSCs significantly decreases
+hvKP clearance, worsening survival and resulting in 100% lethality. Our data
+strongly implicate the possible use of PMSCs for infections of PMN-resistant hvKP
+strains.
+
+Copyright © 2020 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2020.108188 
+PMID: 32997996 
+
+Conflict of interest statement: Declaration of Interests The authors declare no
+competing interests.
+

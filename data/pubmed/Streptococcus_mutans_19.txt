@@ -1,0 +1,38 @@
+
+1. Biomedicines. 2020 Sep 23;8(10). pii: E375. doi: 10.3390/biomedicines8100375.
+
+Glutathione-Stabilized Silver Nanoparticles: Antibacterial Activity against
+Periodontal Bacteria, and Cytotoxicity and Inflammatory Response in Oral Cells.
+
+Zorraquín-Peña I(1), Cueva C(1), González de Llano D(1), Bartolomé B(1),
+Moreno-Arribas MV(1).
+
+Author information: 
+(1)Institute of Food Science Research (CIAL), CSIC-UAM, C/Nicolás Cabrera, 9,
+Campus de Cantoblanco, 28049 Madrid, Spain.
+
+Silver nanoparticles (AgNPs) have been proposed as new alternatives to limit
+bacterial dental plaque because of their antimicrobial activity. Novel
+glutathione-stabilized silver nanoparticles (GSH-AgNPs) have proven powerful
+antibacterial properties in food manufacturing processes. Therefore, this study
+aimed to evaluate the potentiality of GSH-AgNPs for the prevention/treatment of
+oral infectious diseases. First, the antimicrobial activity of GSH-AgNPs against 
+three oral pathogens (Porphyromonas gingivalis, Fusobacterium nucleatum, and
+Streptococcus mutans) was evaluated. Results demonstrated the efficiency of
+GSH-AgNPs in inhibiting the growth of all bacteria, especially S. mutans (IC50 = 
+23.64 μg/mL, Ag concentration). Second, GSH-AgNPs were assayed for their
+cytotoxicity (i.e., cell viability) toward a human gingival fibroblast cell line 
+(HGF-1), as an oral epithelial model. Results indicated no toxic effects of
+GSH-AgNPs at low concentrations (≤6.16 µg/mL, Ag concentration). Higher
+concentrations resulted in losing cell viability, which followed the Ag
+accumulation in cells. Finally, the inflammatory response in the HGF-1 cells
+after their exposure to GSH-AgNPs was measured as the production of immune
+markers (interleukins 6 and 8 (IL-6 and IL-8) and tumor necrosis factor-alpha
+(TNF-α)). GSH-AgNPs activates the inflammatory response in human gingival
+fibroblasts, increasing the production of cytokines. These findings provide new
+insights for the use of GSH-AgNPs in dental care and encourage further studies
+for their application.
+
+DOI: 10.3390/biomedicines8100375 
+PMID: 32977686 
+

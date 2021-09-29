@@ -1,0 +1,36 @@
+
+1. Foods. 2020 Aug 20;9(9). pii: E1146. doi: 10.3390/foods9091146.
+
+Effect of Pulsed Electric Fields on the Growth and Acidification Kinetics of
+Lactobacillus delbrueckii Subsp. bulgaricus.
+
+Peng K(1), Koubaa M(2), Bals O(1), Vorobiev E(1).
+
+Author information: 
+(1)Sorbonne University, Université de Technologie de Compiègne, ESCOM, EA 4297
+TIMR, Centre de Recherche Royallieu, CS 60319, CEDEX 60203 Compiègne, France.
+(2)ESCOM, UTC, EA 4297 TIMR, 1 Allée du Réseau Jean-Marie Buckmaster, 60200
+Compiègne, France.
+
+The aim of this work was to investigate the effect of pulsed electric fields
+(PEF) on the growth and acidification kinetics of Lactobacillus delbrueckii
+subsp. bulgaricus CFL1 during fermentation. The PEF treatments were applied
+during the fermentation process using a recirculation pump and a PEF treatment
+chamber coupled with a PEF generator. The medium flow rate through the chamber
+was first optimized to obtain the same growth and acidification kinetics than the
+control fermentation without medium recirculation. Different PEF intensities
+(60-428 V cm-1) were then applied to the culture medium to study the impact of
+PEF on the cells' behavior. The growth and acidification kinetics were recorded
+during the fermentation and the specific growth rates µ, pH, and acidification
+rate (dpH/dt) were assessed. The results obtained showed a biphasic growth by
+applying high PEF intensities (beyond 285 V cm-1) with the presence of two
+maximal specific growth rates and a decrease in the acidification activities. It 
+was demonstrated that the cells were stressed during the PEF treatment, but
+presented an accelerated growth after stopping it, leading thereby to similar
+absorbance and pH at the end of the fermentation. These results show the great
+potential of PEF technology to be applied to generate low acidified products by
+performing PEF-assisted fermentations.
+
+DOI: 10.3390/foods9091146 
+PMID: 32825249 
+

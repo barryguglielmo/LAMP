@@ -1,0 +1,51 @@
+
+1. Am J Respir Crit Care Med. 2020 Jul 28. doi: 10.1164/rccm.202004-1418OC. [Epub
+ahead of print]
+
+BACES Score for Predicting Mortality in Nontuberculous Mycobacterial Pulmonary
+Disease.
+
+Kim HJ(1), Kwak N(2)(3), Hong H(4), Kang N(5), Im Y(5), Jhun BW(5), Yim JJ(2)(6).
+
+Author information: 
+(1)Armed Forces Capital Hospital, 90156, Division of Pulmonary and Critical Care 
+Medicine, Department of Internal Medicine, Seongnam, Korea (the Republic of).
+(2)Seoul National University Hospital, 58927, Division of Pulmonary and Critical 
+Care Medicine, Department of Internal Medicine, Seoul, Korea (the Republic of).
+(3)Seoul National University College of Medicine, 37990, Department of Internal
+Medicine, Seoul, Korea (the Republic of).
+(4)Seoul National University College of Medicine, 37990, Division of Medical
+Statistics, Medical Research Collaborating Center, Seoul, Korea (the Republic
+of).
+(5)Samsung Medical Center, 36626, Division of Pulmonary and Critical Care
+Medicine, Department of Medicine, Seoul, Korea (the Republic of).
+(6)Seoul National University College of Medicine, 37990, Department of Internal
+Medicine, Seoul, Korea (the Republic of); yimjj@snu.ac.kr.
+
+Rationale: Because the prognosis of nontuberculous mycobacterial pulmonary
+disease varies, a scoring system predicting mortality is needed. Objectives: We
+aimed to develop a novel scoring system to predict mortality among patients with 
+nontuberculous mycobacterial pulmonary disease. Methods: We included patients age
+≥20 years, newly diagnosed with nontuberculous mycobacterial pulmonary disease,
+with Mycobacterium avium, M. intracellulare, M. abscessus subsp. abscessus, or M.
+abscessus subsp. massiliense. Cox proportional hazards models were used to
+identify predictors of mortality in a derivation cohort, and a scoring system was
+developed. It was validated in an independent prospective cohort. Measurements
+and Main Results: A total 1,181 and 377 patients were included in the derivation 
+and validation cohorts, respectively. In the final model, body mass index <18.5
+kg/m2 (1 point), age ≥65 years (1 point), presence of cavity (1 point), elevated 
+erythrocyte sedimentation rate (1 point), and male sex (1 point) were selected as
+predictors for mortality. We named this novel scoring system BACES (body mass
+index, age, cavity, erythrocyte sedimentation rate, and sex). Harrell's C-index
+for the BACES score was 0.812 (95% confidence interval: 0.786-0.837) in the
+derivation cohort and 0.854 (95% confidence interval: 0.797-0.911) in the
+validation cohort, indicating excellent discrimination performance. The estimated
+5-year risk of mortality was 1.2% with BACES score 0 and 82.9% with BACES score
+5. Conclusions: We developed the BACES score, which could accurately predict
+mortality among patients with nontuberculous mycobacterial pulmonary disease
+caused by M. avium, M. intracellulare, M. abscessus subsp. abscessus, or M.
+abscessus subsp. massiliense.
+
+DOI: 10.1164/rccm.202004-1418OC 
+PMID: 32721164 
+

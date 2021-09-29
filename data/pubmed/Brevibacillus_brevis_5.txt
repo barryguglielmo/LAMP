@@ -1,0 +1,28 @@
+
+1. Biotechniques. 2020 Aug;69(2):88-98. doi: 10.2144/btn-2020-0036. Epub 2020 May
+12.
+
+Optimization of staining with SYTO 9/propidium iodide: interplay, kinetics and
+impact on Brevibacillus brevis.
+
+Deng Y(1), Wang L(1), Chen Y(1), Long Y(1).
+
+Author information: 
+(1)Guangdong Key Laboratory of Environmental Pollution & Health, School of
+Environment, Jinan University, Guangzhou, 510632, China.
+
+Fluorophores SYTO 9 and propidium iodide (PI) are extensively applied in
+medicine, food industry and environmental monitoring to assess the viability of
+bacteria. However, the actual performance of these dyes remains largely unknown. 
+In addition, their effects on the physiology of cells have not been elucidated.
+Here we characterized the effects of these two dyes on Brevibacillus brevis under
+optimized staining. We found that SYTO 9 entered cells continuously while PI
+tended to adhere to the cell wall before entering the cell. In addition, results 
+showed that a high amount of the dyes altered the physicochemical properties of
+membranes, improving their breakthrough. These results provide new perspectives
+and ideas for improving the characterization of bacterial viability using flow
+cytometry.
+
+DOI: 10.2144/btn-2020-0036 
+PMID: 32393121 
+

@@ -1,0 +1,48 @@
+
+1. Appl Biochem Biotechnol. 2020 Jun;191(2):579-604. doi:
+10.1007/s12010-019-03180-1. Epub 2019 Dec 10.
+
+Immobilization of Thermoalkalophilic Lipase from Bacillus atrophaeus FSHM2 on
+Amine-Modified Graphene Oxide Nanostructures: Statistical Optimization and Its
+Application for Pentyl Valerate Synthesis.
+
+Ameri A(1), Shakibaie M(2)(3), Khoobi M(4), Faramarzi MA(5), Ameri A(6),
+Forootanfar H(7)(8).
+
+Author information: 
+(1)Pharmaceutics Research Center, Institute of Neuropharmacology, Kerman
+University of Medical Sciences, Kerman, Iran.
+(2)Pharmaceutics Research Center, Institute of Neuropharmacology, Kerman
+University of Medical Sciences, Kerman, Iran. shakiba@kmu.ac.ir.
+(3)Department of Pharmaceutical Biotechnology, Faculty of Pharmacy, Kerman
+University of Medical Sciences, Kerman, Iran. shakiba@kmu.ac.ir.
+(4)Pharmaceutical Sciences Research Center, Tehran University of Medical
+Sciences, Tehran, Iran.
+(5)Department of Pharmaceutical Biotechnology, Faculty of Pharmacy and
+Biotechnology Research Center, Tehran University of Medical Sciences, Tehran,
+Iran.
+(6)Department of Medicinal Chemistry, Faculty of Pharmacy, Kerman University of
+Medical Sciences, Kerman, Iran.
+(7)Department of Pharmaceutical Biotechnology, Faculty of Pharmacy, Kerman
+University of Medical Sciences, Kerman, Iran. h_forootanfar@kmu.ac.ir.
+(8)Pharmaceutical Sciences and Cosmetic Products Research Center, Kerman
+University of Medical Sciences, Kerman, Iran. h_forootanfar@kmu.ac.ir.
+
+Synthesis of (3-aminopropyl) triethoxysilane (APTES)-functionalized graphene
+oxide (GO) nanosheets, statistical optimization of conditions for immobilization 
+of Bacillus atrophaeus lipase (BaL) on as-synthesized support, and application of
+the immobilized BaL for esterification of valeric acid were carried out in this
+investigation. The optimum specific activity of the immobilized BaL
+(81.60 ± 0.28 U mg-1) was achieved at 3 mg mL-1 of GO-NH2, 50 mM of phosphate
+buffer, pH 7.0, 60 min sonication time, 100 mM glutaraldehyde, 25 U mL-1 of
+enzyme, and 8 h immobilization time at 4 °C. The immobilized BaL retained about
+90% of its initial activity after 10 days of storage. Moreover, about 70% of the 
+initial activity of the immobilized BaL was retained after 10 cycles of
+application. The results of esterification studies exhibited that maximum pentyl 
+valerate synthesis using the free BaL (34.5%) and the immobilized BaL (92.7%)
+occurred in the organic solvent medium (xylene) after 48 h of incubation at
+60 °C.
+
+DOI: 10.1007/s12010-019-03180-1 
+PMID: 31823273 
+

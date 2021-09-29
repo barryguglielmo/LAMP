@@ -1,0 +1,52 @@
+
+1. Antimicrob Agents Chemother. 2020 Sep 21;64(10). pii: e00810-20. doi:
+10.1128/AAC.00810-20. Print 2020 Sep 21.
+
+Comparison of a Novel Regimen of Rifapentine, Tedizolid, and Minocycline with
+Standard Regimens for Treatment of Pulmonary Mycobacterium kansasii.
+
+Chapagain M(1)(2), Gumbo T(1)(2)(3), Heysell SK(4), Srivastava S(5)(6)(7).
+
+Author information: 
+(1)Center for Infectious Diseases Research and Experimental Therapeutics, Baylor 
+Research Institute, Baylor University Medical Center, Dallas, Texas, USA.
+(2)Praedicare Labs, Dallas, Texas, USA.
+(3)Department of Medicine, University of Cape Town, Cape Town, South Africa.
+(4)Division of Infectious Diseases and International Health, University of
+Virginia, Charlottesville, Virginia, USA.
+(5)Center for Infectious Diseases Research and Experimental Therapeutics, Baylor 
+Research Institute, Baylor University Medical Center, Dallas, Texas, USA
+Shashi.kant@uthct.edu.
+(6)Department of Immunology, UT Southwestern Medical Center, Dallas, Texas, USA.
+(7)Department of Pulmonary Immunology, University of Texas Health Science Centre,
+Tyler, Texas, USA.
+
+The combination of isoniazid, rifampin, and ethambutol is recommended by the
+American Thoracic Society (ATS) for treatment of pulmonary Mycobacterium
+kansasii, while the British Thoracic Society (BTS) recommends clarithromycin,
+rifampin and ethambutol. Unfortunately, therapy duration for both regimens lasts 
+for years. In this study, we administered tedizolid, minocycline, clarithromycin,
+and rifapentine as monotherapy as well as novel combinations in the intracellular
+hollow-fiber model system of M. kansasii (HFS-Mkn) in a 28-day study. The ATS and
+BTS regimens were used as comparators. Repetitive sampling was used to validate
+the intended intrapulmonary pharmacokinetics of each drug and to monitor changes 
+in M. kansasii burden. As monotherapy, tedizolid at an observed area under the
+concentration-time curve from 0 to 24 h (AUC0-24)/MIC of 5.85 and minocycline at 
+an AUC0-24/MIC of 5.77 failed to kill the bacteria below day 0 (stasis),
+clarithromycin at an AUC0-24/MIC of 2.4 held the bacterial burden at stasis, but 
+rifapentine at an AUC0-24/MIC of 140 killed 2 log10 CFU/ml below stasis. The BTS 
+regimen kill slope was -0.083 ± 0.035 CFU/ml/day, which was significantly
+superior to the ATS regimen slope of -0.038 ± 0.038 CFU/ml/day. The
+rifapentine-tedizolid-minocycline combination kill slope was -0.119 ± 0.031
+CFU/ml/day, superior to that of the ATS regimen and comparable to that of the BTS
+regimen. In conclusion, the BTS regimen and the novel
+rifapentine-tedizolid-minocycline regimen showed better kill of intracellular
+bacteria in the HFS-Mkn However, the efficacy of the new combination regimen
+remains to be tested in clinical settings.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.00810-20 
+PMCID: PMC7508568 [Available on 2021-03-21]
+PMID: 32690646 
+

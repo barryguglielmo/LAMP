@@ -1,0 +1,46 @@
+
+1. AIMS Microbiol. 2020 Mar 16;6(1):75-91. doi: 10.3934/microbiol.2020005.
+eCollection 2020.
+
+An in silico analysis of acquired antimicrobial resistance genes in Aeromonas
+plasmids.
+
+Nwaiwu O(1), Aduba CC(2).
+
+Author information: 
+(1)School of Biosciences, University of Nottingham, Sutton Bonington Campus,
+United Kingdom.
+(2)Department of Science Laboratory Technology, University of Nigeria, Nsukka,
+Nigeria.
+
+Sequences of 105 Aeromonas species plasmids were probed for acquired
+anti-microbial resistance (AMR) genes using a bioinformatics approach. The
+plasmids showed no positive linear correlation between size and GC content and up
+to 55 acquired AMR genes were found in 39 (37%) plasmids after in silico
+screening for resistance against 15 antibiotic drug classes. Overall, potential
+multiple antibiotic resistance (p-MAR) index ranged from 0.07 to 0.53. Up to 18
+plasmids were predicted to mediate multiple drug resistance (MDR). Plasmids
+pS121-1a (A. salmonicida), pWCX23_1 (A. hydrophila) and pASP-a58 (A. veronii)
+harboured 18, 15 and 14 AMR genes respectively. The five most occurring drug
+classes for which AMR genes were detected were aminoglycosides (27%), followed by
+beta-lactams (17%), sulphonamides (13%), fluoroquinolones (13%), and phenicols
+(10%). The most prevalent genes were a sulphonamide resistant gene Sul1, the gene
+aac (6')-Ib-cr (aminoglycoside 6'-N-acetyl transferase type Ib-cr) resistant to
+aminoglycosides and the blaKPC-2 gene, which encodes carbapenemase-production.
+Plasmid acquisition of AMR genes was mainly inter-genus rather than intra-genus. 
+Eighteen plasmids showed template or host genes acquired from Pseudomonas
+monteilii, Salmonella enterica or Escherichia coli. The most occurring
+antimicrobial resistance determinants (ARDs) were beta-lactamase, followed by
+aminoglycosides acetyl-transferases, and then efflux pumps. Screening of new
+isolates in vitro and in vivo is required to ascertain the level of phenotypic
+expression of colistin and other acquired AMR genes detected.
+
+© 2020 the Author(s), licensee AIMS Press.
+
+DOI: 10.3934/microbiol.2020005 
+PMCID: PMC7099201
+PMID: 32226916 
+
+Conflict of interest statement: Conflict of interest: Authors declare no conflict
+of interest.
+

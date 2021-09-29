@@ -1,0 +1,44 @@
+
+1. J Med Microbiol. 2020 Aug;69(8):1079-1088. doi: 10.1099/jmm.0.001234. Epub 2020
+Jul 27.
+
+The epidemiology and molecular characteristics of linezolid-resistant
+Staphylococcus capitis in Huashan Hospital, Shanghai.
+
+Ding L(1)(2), Li P(1)(2), Yang Y(1)(2), Lin D(1)(2), Xu X(1)(2).
+
+Author information: 
+(1)Key Laboratory of Clinical Pharmacology of Antibiotics, Ministry of Health,
+Shanghai, People's Republic of China.
+(2)Institute of Antibiotics, Huashan Hospital, Fudan University, Shanghai,
+People's Republic of China.
+
+Introduction. Linezolid-resistant (LZR) Staphylococcus capitis has recently
+emerged in our hospital, and its potential resistance mechanisms are still not
+clear.Aim. This study aimed to investigate the epidemiology, clinical and genetic
+characteristics, resistance mechanisms and biofilm formation capacity of LZR S.
+capitis isolated from patients at Huashan Hospital, Shanghai, PR China between
+2012 and 2018.Methodology. Strains were subjected to antimicrobial susceptibility
+testing (AST) with antibiotics using the broth microdilution method according to 
+the Clinical and Laboratory Standards Institute (CLSI) guidelines. The presence
+of cfr, optrA and poxtA, as well as mutations in the 23S ribosomal (r)RNA and
+ribosomal proteins, was investigated using PCR and sequencing techniques. The
+genetic relationship between isolates was analysed using pulsed-field gel
+electrophoresis (PFGE) and whole-genome sequencing (WGS). Biofilm biomasses were 
+detected by using crystal violet staining.Results. Twenty-one LZR S. capitis
+strains displayed MICs of 32-512 μg ml-1. All LZR strains showed G2576T and
+C2104T mutations in the 23S rRNA V region. Besides G2576T and C2104T, no base
+mutations were detected in the V region. The cfr was detected in 12 strains,
+while optrA and poxtA were not amplified in 21 S. capitis strains. PFGE showed
+that the LZR S. capitis strains belonged to a single clone. The phylogenetic tree
+showed that 20 LZR S. capitis strains were highly similar to LNZR-1, isolated
+from Harbin (located in the north of China) in 2013, which showed resistance to
+linezolid.Conclusions. In this research, cfr-negative strains displayed linezolid
+MICs of 32 μg ml-1. In comparison, cfr-positive strains exhibited linezolid MICs 
+of 128-512 μg ml-1, indicating that high levels of linezolid resistance appear to
+be related to the presence of cfr. The outbreak of LZR S. capitis in our hospital
+needs to be monitored closely.
+
+DOI: 10.1099/jmm.0.001234 
+PMID: 32729813  [Indexed for MEDLINE]
+

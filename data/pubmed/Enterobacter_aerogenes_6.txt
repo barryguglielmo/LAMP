@@ -1,0 +1,31 @@
+
+1. J Med Chem. 2020 Sep 24;63(18):10496-10508. doi: 10.1021/acs.jmedchem.0c01335.
+Epub 2020 Sep 4.
+
+New Polyaminoisoprenyl Antibiotics Enhancers against Two Multidrug-Resistant
+Gram-Negative Bacteria from Enterobacter and Salmonella Species.
+
+Lieutaud A(1), Pieri C(1), Bolla JM(1), Brunel JM(1).
+
+Author information: 
+(1)Aix Marseille Univ, INSERM, SSA, MCT, 13385 Marseille, France.
+
+A series consisting of new polyaminoisoprenyl derivatives were prepared in
+moderate to good chemical yields varying from 32 to 64% according to two
+synthetic pathways: (1) using a titanium-reductive amination reaction affording a
+50/50 mixture of cis and trans isomers and (2) a direct nucleophilic substitution
+leading to a stereoselective synthesis of the compounds of interest. These
+compounds were then successfully evaluated for their in vitro antibiotic enhancer
+properties against resistant Gram-negative bacteria of four antibiotics belonging
+to four different families. The mechanism of action against Enterobacter
+aerogenes of one of the most efficient of these chemosensitizing agents was
+precisely evaluated by using fluorescent dyes to measure outer-membrane
+permeability and to determine membrane depolarization. The weak cytotoxicity
+encountered led us to perform an in vivo experiment dealing with the treatment of
+mice infected with Salmonella typhimurium and affording preliminary promising
+results in terms of tolerance and efficiency of the polyaminoisoprenyl derivative
+5r/doxycycline combination.
+
+DOI: 10.1021/acs.jmedchem.0c01335 
+PMID: 32840108 
+

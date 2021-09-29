@@ -1,0 +1,48 @@
+
+1. Biomedicines. 2020 Jun 15;8(6). pii: E160. doi: 10.3390/biomedicines8060160.
+
+New Pyrimidinone-Fused 1,4-Naphthoquinone Derivatives Inhibit the Growth of Drug 
+Resistant Oral Bacteria.
+
+Kim K(1), Kim D(2), Lee H(1), Lee TH(1), Kim KY(2), Kim H(1).
+
+Author information: 
+(1)Department of Applied Chemistry, Global Center for Pharmaceutical Ingredient
+Materials, Kyung Hee University, Gyeonggi-do 1732, Korea.
+(2)Graduate School of Biotechnology, Kyung Hee University, Gyeonggi-do 1732,
+Korea.
+
+BACKGROUND: Dental caries is considered to be a preventable disease, and various 
+antimicrobial agents have been developed for the prevention of dental disease.
+However, many bacteria show resistance to existing agents.
+METHODS/PRINCIPAL FINDINGS: In this study, four known 1,4-naphthoquinones and
+newly synthesized 10 pyrimidinone-fused 1,4-naphthoquinones, i.e. KHQ 701, 702,
+711, 712, 713, 714, 715, 716, 717 and 718, were evaluated for antimicrobial
+activity against Enterococcus faecalis, Enterococcus faecium, Staphylococcus
+aureus, Staphylococcus epidermidis, Streptococcus mutans, Streptococcus sobrinus,
+Porphyromonas gingivalis, Actinomyces viscosus and Fusobacterium nucleatum.
+Pyrimidinone-fused 1,4-naphthoquinones were synthesized in good yields through a 
+series of chemical reactions from a commercially available 1,4-dihydroxynaphthoic
+acid. MIC values of KHQ 711, 712, 713, 714, 715, 716, 717 and 718 were 6.25-50
+μg/mL against E. faecalis (CCARM 5511), 6.25-25 μg/mL against E. faecium
+(KACC11954) and S. aureus (CCARM 3506), 1.56-25 μg/mL against S. epidermidis
+(KACC 13234), 3.125-100 μg/mL against S. mutans (KACC16833), 1.56-100 μg/mL
+against S. sobrinus (KCTC5809) and P. gingivalis (KCTC 5352), 3.125-50 μg/mL
+against A. viscosus (KCTC 9146) and 3.125-12.5 μg/mL against F. nucleatum (KCTC
+2640) with a broth microdilution assay. A disk diffusion assay with KHQ
+derivatives also exhibited strong susceptibility with inhibition zones of 0.96 to
+1.2 cm in size against P. gingivalis. Among the 10 compounds evaluated, KHQ 711, 
+712, 713, 715, 716 and 717 demonstrated strong antimicrobial activities against
+the 9 types of pathogenic oral bacteria. A pyrimidin-4-one moiety comprising a
+phenyl group at the C2 position and a benzyl group at the N3 position appears to 
+be essential for physiological activity.
+CONCLUSION/SIGNIFICANCE: Pyrimidinone-fused 1,4-naphthoquinones synthesized from 
+simple starting compounds and four known 1,4-naphthoquinones were synthesized and
+showed strong antibacterial activity to the 9 common oral bacteria. These results
+suggest that these derivatives should be prospective for the treatment of dental 
+diseases caused by oral bacteria, including drug-resistant strains.
+
+DOI: 10.3390/biomedicines8060160 
+PMCID: PMC7345244
+PMID: 32549271 
+

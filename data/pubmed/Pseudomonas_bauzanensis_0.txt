@@ -1,0 +1,49 @@
+
+1. Bioresour Technol. 2019 Dec 16;305:122626. doi: 10.1016/j.biortech.2019.122626.
+[Epub ahead of print]
+
+Nitrogen removal characteristics of a versatile heterotrophic nitrifying-aerobic 
+denitrifying bacterium, Pseudomonas bauzanensis DN13-1, isolated from deep-sea
+sediment.
+
+Zhang M(1), Li A(1), Yao Q(2), Wu Q(1), Zhu H(3).
+
+Author information: 
+(1)State Key Laboratory of Applied Microbiology Southern China, Guangdong
+Provincial Key Laboratory of Microbial Culture Collection and Application,
+Guangdong Microbial Culture Collection Center (GDMCC), Guangdong Institute of
+Microbiology, Guangdong Academy of Sciences, Guangzhou 510070, PR China.
+(2)College of Horticulture, South China Agricultural University, Guangdong
+Province Key Laboratory of Microbial Signals and Disease Control, Guangzhou
+510642, PR China.
+(3)State Key Laboratory of Applied Microbiology Southern China, Guangdong
+Provincial Key Laboratory of Microbial Culture Collection and Application,
+Guangdong Microbial Culture Collection Center (GDMCC), Guangdong Institute of
+Microbiology, Guangdong Academy of Sciences, Guangzhou 510070, PR China.
+Electronic address: zhuhh@gdim.cn.
+
+A heterotrophic nitrifying-aerobic denitrifying bacterium isolated from deep-sea 
+sediment was identified as Pseudomonas bauzanensis DN13-1. Nitrogen (N) removal
+capability and relative expression of nitrification and denitrification genes of 
+this strain were investigated. The NO2--N, NO3--N and NH4+-N removal efficiencies
+were 98.82%, 65.87% and 98.89%, respectively, and strain DN13-1 could efficiently
+remove mixed N. Meanwhile, other inorganic N was not accumulated during these N
+removal processes. Genomic analysis indicated that genes nirS, norB, nosZ, nasA
+and putative amo were identified. The relative expression of functional genes by 
+real-time PCR (qPCR) further confirmed nitrite, nitrate and ammonium removal
+pathways of strain DN13-1 under aerobic condition. Especially, the ammonium
+removal pathway of this strain was achieved through heterotrophic ammonium
+nitrification coupled with fast nitrite denitrification directly. Taken together,
+strain DN13-1 possesses particularity to efficiently remove N, which guarantees
+its promising application in aquaculture wastewater treatment.
+
+Copyright © 2019. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.biortech.2019.122626 
+PMID: 32143020 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

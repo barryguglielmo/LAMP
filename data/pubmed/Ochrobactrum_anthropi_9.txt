@@ -1,0 +1,43 @@
+
+1. Int J Syst Evol Microbiol. 2020 Feb;70(2):1250-1258. doi: 10.1099/ijsem.0.003907.
+
+Segnochrobactrum spirostomi gen. nov., sp. nov., isolated from the ciliate
+Spirostomum yagiui and description of a novel family, Segnochrobactraceae fam.
+nov. within the order Rhizobiales of the class Alphaproteobacteria.
+
+Akter S(1)(2), Shazib SUA(2), Shin MK(2).
+
+Author information: 
+(1)Department of Botany, Jagannath University, Dhaka 1100, Bangladesh.
+(2)Department of Biological Sciences, University of Ulsan, Ulsan 44610, Republic 
+of Korea.
+
+A bacterial strain, designated Sp-1T, was isolated from the heterotrich ciliate
+Spirostomum yagiui collected from a reservoir located in Ulsan, Republic of
+Korea. Cells of Sp-1T were Gram stain-negative, rod-shaped, non-spore-forming,
+non-motile and contained poly-β-hydroxybutyrate granules. Phylogenetic analyses
+based on 16S rRNA gene sequences indicated that Sp-1T constituted a distinct
+phylogenetic lineage within different families in the order Rhizobiales with a
+pairwise sequence similarity of 95 % to the species of the genus Ochrobactrum:
+Ochrobactrum anthropi ATCC 49188T and Ochrobactrum cytisi ESC1T (family
+Brucellaceae). The major cellular fatty acids were C19 : 0 cyclo ω8c (44.4 %) and
+C16 : 0 (32.1 %). The identified sole isoprenoid quinone was ubiquinone-10
+(Q-10). The major polar lipids produced were phosphatidylcholine,
+phosphatidylglycerol, phosphatidylethanolamine, an unidentified aminolipid, two
+unidentified phospholipids and three unidentified lipids. The genome size was
+about 5.4 Mbp and the DNA G+C content was 68.2 mol%. Sp-1T exhibited the highest 
+average nucleotide identity value of 76.6 % and in silico DNA-DNA hybridization
+value of 22.1 % with Pseudoxanthobacter soli DSM 19599T (family
+Xanthobacteraeae). This strain is distinguishable from closely related members of
+the order Rhizobiales by its differential phenotypic, chemotaxonomic, genomic and
+phylogenetic characteristics. On the basis of evidence from polyphasic taxonomic 
+analysis, we concluded that Sp-1T represents a novel species in a novel genus
+within the order Rhizobiales, for which the name Segnochrobactrum spirostomi gen.
+nov., sp. nov. is proposed. The type strain is Sp-1T (=KCTC 62036T=JCM 32162T).
+We also describe a novel family, Segnochrobactraceae fam. nov., to encompass the 
+proposed novel genus and species.
+
+DOI: 10.1099/ijsem.0.003907 
+PMCID: PMC7397251
+PMID: 31800387  [Indexed for MEDLINE]
+

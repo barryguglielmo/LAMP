@@ -1,0 +1,43 @@
+
+1. J Mol Diagn. 2020 Sep 19. pii: S1525-1578(20)30463-3. doi:
+10.1016/j.jmoldx.2020.09.003. [Epub ahead of print]
+
+Bacterial Whole Genome Sequencing on the Illumina iSeq 100 for Clinical and
+Public Health Laboratories.
+
+Bruzek S(1), Vestal G(2), Lasher A(2), Lima A(2), Silbert S(3).
+
+Author information: 
+(1)Esoteric Testing/R&D Laboratory, Tampa General Hospital, Tampa, Florida.
+Electronic address: Steven.bruzek@teleflex.com.
+(2)Esoteric Testing/R&D Laboratory, Tampa General Hospital, Tampa, Florida.
+(3)Esoteric Testing/R&D Laboratory, Tampa General Hospital, Tampa, Florida.
+Electronic address: ssilbert@tgh.org.
+
+Bacterial whole-genome sequencing (WGS) provides clinical and public health
+laboratories an unprecedented level of information on species identification,
+antimicrobial resistance, and epidemiological typing. However, multiple barriers 
+to widespread adoption still exist. Here, we describe bacterial WGS using the
+Illumina iSeq 100 instrument to overcome some of these barriers. Using an
+in-house, high quality single nucleotide polymorphism (hqSNP) analysis pipeline
+and the BIOMÉRIEUX EPISEQ CS whole-genome Multilocus Sequence Typing (wgMLST)
+program, we validated the sequencing of Acinetobacter baumannii, Burkholderia
+cepacia, Clostridoides difficile, Enterococcus faecalis, Escherichia coli,
+Pseudomonas aeruginosa, Serratia marcescens, and Staphylococcus aureus isolates. 
+The genome coverage range was 17X to 149X with an average of 59X. The limit of
+detection for SNPs was 30X. Overall platform base calling accuracy was >99.999%. 
+Reproducibility and repeatability of base calling inferred from wgMLST was
+species-dependent and ranged from >97% similarity for P. aeruginosa to >99.9%
+similarity for S. aureus. Resistance gene and MLST allele identification was 100%
+concordant with expected results. We also describe a simple, modified library
+preparation that reduces the per-sample cost by half to give overall theoretical 
+sample costs ranging from approximately $50 to $100 for library preparation and
+sequencing. The iSeq 100 provides a cost-effective and easy-to-use platform for
+clinical and public health laboratories to sequence bacterial isolates for a wide
+range of potential applications.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.jmoldx.2020.09.003 
+PMID: 32961318 
+

@@ -1,0 +1,45 @@
+
+1. Front Microbiol. 2020 Jun 30;11:1374. doi: 10.3389/fmicb.2020.01374. eCollection 
+2020.
+
+CexE Is a Coat Protein and Virulence Factor of Diarrheagenic Pathogens.
+
+Rivas ZP(1), Talbot KM(1), Merselis LC(1), McCormack RM(1), Adkins B(1), Munson
+GP(1).
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of Miami Miller School
+of Medicine, Miami, FL, United States.
+
+CexE is a 12 kDa protein that was originally reported to be present in just three
+strains of enterotoxigenic Escherichia coli (ETEC); a frequent cause of diarrheal
+illnesses worldwide. However, an examination of sequenced genomes has revealed
+that CexE is actually present in a majority of ETEC strains. In addition,
+homologs of CexE are present in enteroaggregative E. coli (EAEC), Yersinia
+enterocolitica, Providencia alcalifaciens, and Citrobacter rodentium. Although it
+has been hypothesized that CexE and its homologs are virulence factors, this has 
+yet to be tested. Thus the primary aim of this study was to determine if these
+proteins contribute to pathogenicity. Our secondary aim was determine if they are
+secreted coat proteins. Here we report that all neonatal mice infected with a
+wild-type strain of C. rodentium perished. In contrast a cexE mutant was
+significantly attenuated with 45% neonate survival. In adult mice the wild-type
+strain reached significantly higher loads in the large intestines and were shed
+in greater numbers than cexE mutants. Secretion of the CexE homolog in EAEC is
+dependent upon an atypical Type I secretion system that accepts its client from
+the periplasm rather than the cytoplasm. Insertion mutants of cexC, the putative 
+ATPase of the CexE secretion system, were attenuated in our murine model. In
+vitro we found that CexC is required for the secretion of CexE to the outer
+membranes of both ETEC and C. rodentium. Secretion is not constitutive because
+CexE accumulates in the periplasm when the two pathogens are cultured under
+noninducing conditions. Although secretion conditions differ between ETEC and C. 
+rodentium, secreted CexE remains predominantly associated with the outer
+membranes of both species. In aggregate these findings demonstrate that CexE is a
+secreted coat protein and virulence factor that promotes colonization of host
+intestinal tissues by enteric pathogens.
+
+Copyright © 2020 Rivas, Talbot, Merselis, McCormack, Adkins and Munson.
+
+DOI: 10.3389/fmicb.2020.01374 
+PMCID: PMC7344145
+PMID: 32714302 
+

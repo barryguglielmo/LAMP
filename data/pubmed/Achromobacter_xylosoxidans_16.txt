@@ -1,0 +1,60 @@
+
+1. Ann Transl Med. 2020 May;8(9):604. doi: 10.21037/atm.2020.02.158.
+
+High clinical impact of rapid susceptibility testing on CHROMID ESBL® medium
+directly from swabs.
+
+Romo-Ibáñez Á(1), Calatrava-Hernández E(2), Gutiérrez-Soto B(3), Pérez-Ruiz M(2),
+Navarro-Marí JM(2), Gutiérrez-Fernández J(1)(2).
+
+Author information: 
+(1)Department of Microbiology, School of Medicine, University of
+Granada-Instituto de Investigación Biosanitaria, Granada, Spain.
+(2)Department of Microbiology, Hospital Universitario Virgen de las
+Nieves-Instituto de Investigación Biosanitaria, Granada, Spain.
+(3)Family Medicine Unit, Health Center San Fernando, Badajoz, Spain.
+
+Background: Antibiotic resistance is a serious public health challenge
+exacerbated by the widespread use of β-lactam and glycopeptide antibiotics. The
+identification of resistances is crucial, and CHROMID ESBL medium has been
+developed to detect enterobacteria with extended-spectrum β-lactamases (ESBL).
+The objective of this study was to evaluate the potential of this medium to
+detect other types of resistant bacteria.
+Methods: Vancomycin, cefoxitin, imipenem, and cefepime disks were used to measure
+growth on CHROMID ESBL medium of β-lactam-resistant Gram-negative (83 with ESBL, 
+57 with carbapenemases, 35 with AmpC and 3 Stenotrophomonas maltophilia) and
+Gram-positive [37 vancomycin-susceptible (vancoS) microorganisms and 21
+vancomycin-resistant (vancoR) Enterococcus faecium] clinical isolates
+(retrospective study) and colonization by the aforementioned bacteria
+(prospective study), using 649 rectal swabs, 314 pharyngeal swabs, and 44 swabs
+from other localizations.
+Results: Retrospective study: species grown on the medium exhibited different
+colors. Growth on the medium was observed for: all ESBL enterobacteria, which
+were susceptible to imipenem and cefoxitin; 95% of isolates with carbapenemases, 
+mostly resistant to imipenem; 80% of those with AmpC; 86% of vancoR E. faecium
+isolates; and 42% of vancoS E. faecalis isolates, with large growth inhibition
+halos around the vancomycin disk. Prospective study: vancoR E. faecium, ESBL
+Klebsiella, Pseudomonas with carbapenemases, A. baumannii (mostly from rectal
+swabs), S. maltophilia, Achromobacter xylosoxidans, and Burkholderia cenocepacia 
+(mostly from pharyngeal swabs) were isolated from the 246 positive samples.
+Conclusions: CHROMID ESBL medium permitted the differential growth of
+Gram-negative bacteria, many with ESBL and carbapenemases. ESBL enterobacteria
+were susceptible to imipenem, carbapenemase-producing microorganisms grew around 
+the imipenem disk, and vancoR E. faecium was isolated on the medium. Results of
+the prospective study demonstrate the potential clinical relevance of this
+medium. S. maltophilia was more frequently detected with pharyngeal swabs and
+ESBL Klebsiella, A. baumannii, and Pseudomonas with rectal swabs.
+
+2020 Annals of Translational Medicine. All rights reserved.
+
+DOI: 10.21037/atm.2020.02.158 
+PMCID: PMC7290529
+PMID: 32566630 
+
+Conflict of interest statement: Conflicts of Interest: All authors have completed
+the ICMJE uniform disclosure form (available at
+http://dx.doi.org/10.21037/atm.2020.02.158). The series “Advances in Laboratory
+Tests for Infectious Diseases” was commissioned by the editorial office without
+any funding or sponsorship. The authors have no other conflicts of interest to
+declare.
+

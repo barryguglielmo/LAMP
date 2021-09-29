@@ -1,0 +1,59 @@
+
+1. Res Vet Sci. 2020 Oct;132:33-41. doi: 10.1016/j.rvsc.2020.05.016. Epub 2020 May
+20.
+
+Relative expression of genes associated with adhesion to bovine mammary
+epithelial cells by Streptococcus uberis.
+
+Fessia AS(1), Dieser SA(2), Renna MS(3), Raspanti CG(2), Odierno LM(4).
+
+Author information: 
+(1)Departamento de Microbiología e Inmunología, Facultad de Ciencias Exactas,
+Físico-Quimicas y Naturales, Universidad Nacional de Río Cuarto, Ruta Nacional
+36, Km 601, X5804ZAB Río Cuarto, Córdoba, Argentina; Consejo Nacional de
+Investigaciones Científicas y Técnicas (CONICET), Argentina. Electronic address: 
+afessia@exa.unrc.edu.ar.
+(2)Departamento de Microbiología e Inmunología, Facultad de Ciencias Exactas,
+Físico-Quimicas y Naturales, Universidad Nacional de Río Cuarto, Ruta Nacional
+36, Km 601, X5804ZAB Río Cuarto, Córdoba, Argentina.
+(3)Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET),
+Argentina; Instituto de Ciencias Veterinarias del Litoral, Universidad Nacional
+del Litoral, Argentina.
+(4)Departamento de Microbiología e Inmunología, Facultad de Ciencias Exactas,
+Físico-Quimicas y Naturales, Universidad Nacional de Río Cuarto, Ruta Nacional
+36, Km 601, X5804ZAB Río Cuarto, Córdoba, Argentina. Electronic address:
+lodierno@exa.unrc.edu.ar.
+
+Streptococcus uberis is one of the most prevalent environmental pathogens of
+bovine mastitis. Biofilm growth ability by S. uberis looks to depend first upon
+the adherence of cells to a surface. The S. uberis ability to adhere to mammary
+gland epithelia might provide an advantage to colonize the lactating mammary
+gland. The objectives of this study were (a) to select S.uberis strains according
+to their ability to form biofilm, (b) to determine adherence to and
+internalization into MAC-T cells and (c) to investigate the expression profile
+adherence genes in these S. uberis strains. For the assays, the MAC-T bovine
+mammary epithelial cell line was used. Relative expression of genes acdA, lmb,
+scpA, sua, fbp and lbp was quantified by RT-qPCR. We observed that the RC38
+strain from clinical bovine mastitis showed in the six genes higher values than
+control in both conditions. While the strain with greater ability to adhere, from
+clinical mastitis and biofilm producer (RC29) evidenced higher values in group 1 
+(G1) (bacteria after the initial contact with MAC-T cells) and decrease in group 
+2 (G2) (both adhered and internalized bacteria) than control. Strains with a
+moderate or strong capacity for biofilm production showed significantly lower
+relative expression values in the G2. In all adherence associated genes, strain
+RC19 showed relative expression values incremented in G1, while in G2 decreased
+expression. In conclusion, we did not find a single profile of relative
+expression because the relative expression levels of each gene differed depending
+on the strain and the co-culture stage of S. uberis cells from which RNA was
+obtained.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.rvsc.2020.05.016 
+PMID: 32474263 
+
+Conflict of interest statement: Declaration of Competing Interest None of the
+authors of this paper has any financial or personal relationship with other
+people or organizations that could inappropriately influence or bias the content 
+of the paper.
+

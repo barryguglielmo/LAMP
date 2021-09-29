@@ -1,0 +1,39 @@
+
+1. Animals (Basel). 2020 Jun 1;10(6). pii: E963. doi: 10.3390/ani10060963.
+
+Characterization of Endolysin LyJH307 with Antimicrobial Activity Against
+Streptococcus Bovis.
+
+Kim H(1), Lee HG(1), Kwon I(2), Seo J(1).
+
+Author information: 
+(1)Department of Animal Science, Life and Industry Convergence Research
+Institute, Pusan National University, Miryang 50463, Korea.
+(2)EASY BIO, Inc., Seoul 06253, Korea.
+
+Streptococcus bovis (S. bovis) is one of the critical initiators of acute
+acidosis in ruminants. Therefore, we aimed to develop and characterize the
+endolysin LyJH307, which can lyse ruminal S. bovis. We tested the bactericidal
+activity of recombinant LyJH307 against S. bovis JB1 under a range of pH,
+temperature, NaCl, and metal ion concentrations. In silico analyses showed that
+LyJH307 has a modular design with a distinct, enzymatically active domain of the 
+NLPC/P60 superfamily at the N-terminal and a cell wall binding domain of the
+Zoocin A target recognition domain (Zoocin A_TRD) superfamily at the C-terminal. 
+The lytic activity of LyJH307 against S. bovis JB1 was the highest at pH 5.5, and
+relatively higher under acidic, than under alkaline conditions. LyJH307 activity 
+was also the highest at 39 °C, but was maintained between 25°C and 55°C. LyJH307 
+bactericidal action was retained under 0-500 mM NaCl. While the activity of
+LyJH307 significantly decreased on treatment with ethylenediaminetetraacetic acid
+(EDTA), it was only restored with supplementation of 10 mM Ca2+. Analyses of
+antimicrobial spectra showed that LyJH307 lysed Lancefield groups D (S. bovis
+group and Enterococcus faecalis) and H (S. sanguinis) bacteria. Thus, LyJH307
+might help to prevent acute ruminal acidosis.
+
+DOI: 10.3390/ani10060963 
+PMCID: PMC7341270
+PMID: 32492966 
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders did not play any roles in this study or in the preparation of the
+manuscript.
+

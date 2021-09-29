@@ -1,0 +1,58 @@
+
+1. J Dairy Sci. 2020 Sep 30. pii: S0022-0302(20)30763-3. doi:
+10.3168/jds.2020-18198. [Epub ahead of print]
+
+Sodium butyrate promotes lipopolysaccharide-induced innate immune responses by
+enhancing mitogen-activated protein kinase activation and histone acetylation in 
+bovine mammary epithelial cells.
+
+Dai H(1), Wei G(1), Wang Y(1), Ma N(1), Chang G(1), Shen X(2).
+
+Author information: 
+(1)Ministry of Education Joint International Research Laboratory of Animal Health
+and Food Safety, College of Veterinary Medicine, Nanjing Agricultural University,
+Nanjing, 210095, P. R. China.
+(2)Ministry of Education Joint International Research Laboratory of Animal Health
+and Food Safety, College of Veterinary Medicine, Nanjing Agricultural University,
+Nanjing, 210095, P. R. China. Electronic address: xzshen@njau.edu.cn.
+
+The innate immune response plays a crucial role in recovery from infectious
+diseases by promoting the clearance of pathogens. Sodium butyrate (NaB) is an
+energy source for cellular processes with the potential to regulate the innate
+immune response. The present study aimed to evaluate the effect of NaB on the
+innate immune response in a bovine mammary alveolar cell line (MAC-T) initiated
+by lipopolysaccharides (LPS). Thus, treatments were conducted as follows: treated
+with 1× PBS for 24 h (control), pretreated with 1 mM NaB (optimized by cell
+viability assays and dose-dependent experiment) for 18 h followed by treatment of
+1× PBS for 6 h (NaB), pretreated with 1× PBS for 18 h followed by stimulation
+with LPS (1 µg/mL) for 6 h (LPS), and pretreated with 1 mM NaB for 18 h followed 
+by stimulation with LPS (1 µg/mL) for 6 h (NaB + LPS). Different inhibitors were 
+also used to elucidate the underlying mechanism. Furthermore, cells were treated 
+with NaB and heat-inactivated Escherichia coli to test the effect of NaB on
+transcription of genes related to the innate immune response triggered by the
+major causative pathogen of mastitis. Each treatment had 3 replicates and was
+repeated 3 times. Proinflammatory cytokines, chemokines, and β-defensins are
+crucial secretion factors in innate immunity, and transcription of these factors 
+was increased by NaB during challenge with LPS or heat-inactivated E. coli in
+MAC-T cells. Acetylation of histone H3 protein, which promotes gene expression by
+affecting the structure of chromatin, was also upregulated by NaB in response to 
+LPS stimulation. P38 mitogen-activated protein kinases (MAPK), JNK, and Erk 1 and
+2 are key upstream regulators of the expression of proinflammatory cytokines,
+chemokines, and β-defensins, and their activity was enhanced by NaB during LPS
+stimulation. Furthermore, inhibitors were used to assess the role of MAPK
+signaling in the effects of NaB. The results showed that inhibitors of p38 MAPK, 
+Erk, and JNK attenuated the NaB-induced upregulation of TNF and β-defensin 5
+(DEFB5) transcription, and that the inhibitor of Erk attenuated the NaB-induced
+upregulation of IL1B transcription during LPS challenge. Enhanced transcription
+of CXCL8 by NaB was blocked by the inhibitor of Erk and p38 MAPK during LPS
+stimulation. Overall, NaB boosted the LPS-induced innate immune response by
+promoting the expression of proinflammatory cytokines, chemokines, and
+β-defensins, which was associated with enhanced MAPK signaling activation and
+histone H3 acetylation.
+
+Copyright © 2020 American Dairy Science Association. Published by Elsevier Inc.
+All rights reserved.
+
+DOI: 10.3168/jds.2020-18198 
+PMID: 33010913 
+

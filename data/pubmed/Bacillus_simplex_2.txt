@@ -1,0 +1,43 @@
+
+1. Sci Rep. 2020 Jul 14;10(1):11586. doi: 10.1038/s41598-020-68548-4.
+
+Isolation and identification of induced systemic resistance determinants from
+Bacillus simplex Sneb545 against Heterodera glycines.
+
+Xing Z(1), Wu X(1), Zhao J(1), Zhao X(1), Zhu X(1), Wang Y(2), Fan H(1), Chen
+L(1), Liu X(3), Duan Y(4).
+
+Author information: 
+(1)College of Plant Protection, Shenyang Agricultural University, Shenyang,
+Liaoning, China.
+(2)College of Biology Science and Technology, Shenyang Agricultural University,
+Shenyang, Liaoning, China.
+(3)College of Science, Shenyang Agricultural University, Shenyang, Liaoning,
+China. xwlkitty@syau.edu.cn.
+(4)College of Plant Protection, Shenyang Agricultural University, Shenyang,
+Liaoning, China. duanyx6407@163.com.
+
+Heterodera glycines is one of the most destructive pathogens of soybean. Soybean 
+seeds coated with Bacillus simplex Sneb545 have shown resistance to H. glycines
+as a result of induced systemic resistance (ISR) in the plants. In this study, we
+aimed to identify the resistance-inducing determinants from this B. simplex
+strain. Combining the ISR bioassay, six ISR-active compounds were isolated from a
+culture of B. simplex Sneb545 using organic solvent gradient extraction, silica
+gel column chromatography, Sephadex LH-20 column chromatography, and
+semi-preparative high-performance liquid chromatography (HPLC), and all systems
+were based on activity tracking. The compounds were determined as
+cyclic(Pro-Tyr), cyclic(Val-Pro), cyclic(Leu-Pro), uracil, phenylalanine, and
+tryptophan using 1H NMR and 13C NMR. In plants from seeds coated with Bacillus
+simplex Sneb545, these six ISR-active compounds delayed the development of H.
+glycines in soybean roots. Moreover, cyclic(Pro-Tyr), cyclic(Val-Pro), and
+tryptophan reduced the number of nematodes in soybean roots. The expression
+levels of defense-related genes with cyclic(Val-Pro), tryptophan and uracil
+treatment soybean analysed using Quantitative real-time PCR (qRT-PCR). The
+results indicate cyclic(Val-Pro), tryptophan and uracil induced the expression of
+defense-related genes involved in the SA- and JA-pathways to against H. glycines.
+Our research results provide new agents for the control of H. glycines.
+
+DOI: 10.1038/s41598-020-68548-4 
+PMCID: PMC7360772
+PMID: 32665669 
+

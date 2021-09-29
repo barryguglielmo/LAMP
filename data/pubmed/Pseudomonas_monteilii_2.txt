@@ -1,0 +1,51 @@
+
+1. Enzyme Microb Technol. 2020 Sep;139:109586. doi: 10.1016/j.enzmictec.2020.109586.
+Epub 2020 May 21.
+
+Production of optically pure (-)-borneol by Pseudomonas monteilii TCU-CK1 and
+characterization of borneol dehydrogenase involved.
+
+Khine AA(1), Yang MY(2), Hu A(3), Lin GH(4), Toh YH(4), Chen HP(5).
+
+Author information: 
+(1)Department of Biochemistry, Tzu Chi University, Hualien 97004, Taiwan;
+Institute of Medical Sciences, Tzu Chi University, Hualien 97004, Taiwan;
+Department of Biochemistry, University of Medicine 1 Yangon, Myanmar.
+(2)Institute of Medical Sciences, Tzu Chi University, Hualien 97004, Taiwan;
+Department of Laboratory Medicine and Biotechnology, Tzu Chi University, Hualien 
+97004, Taiwan.
+(3)Department of Laboratory Medicine and Biotechnology, Tzu Chi University,
+Hualien 97004, Taiwan.
+(4)Department of Microbiology and Immunology, School of Medicine, Tzu Chi
+University, Hualien 97004, Taiwan.
+(5)Department of Biochemistry, Tzu Chi University, Hualien 97004, Taiwan;
+Institute of Medical Sciences, Tzu Chi University, Hualien 97004, Taiwan;
+Integration Center of Traditional Chinese and Modern Medicine, Hualien Tzu Chi
+Hospital, Hualien 97002, Taiwan. Electronic address: hpchen@mail.tcu.edu.tw.
+
+(-)-Borneol is a bicyclic plant secondary metabolite. Optically pure (-)-borneol 
+can only be obtained from plants, and demand exceeds supply in China. In
+contrast, chemically synthesized borneol contains four different stereoisomers. A
+strain of Pseudomonas monteilii TCU-CK1, isolated in Hualien, Taiwan, can
+accumulate (-)-borneol in growth culture and selectively degrades the other three
+isomers when chemically synthesized borneol is used as sole carbon source. This
+(-)-borneol production method can be scaled-up for production of large quantities
+in the future. More importantly, laborious plant cultivation and harvest is no
+longer required. The main enzyme that appears in this degradation pathway,
+borneol dehydrogenase (BDH), and the genome sequence of TCU-CK1 are reported. The
+kcat/Km values of TCU-CK1 BDH on (+)- and (-)-borneol are 538.4 ± 38.4 and 17.7 ±
+1.1 (s-1 mM-1), respectively. About ∼30 fold difference in the kcat/Km value
+between (+)-borneol and (-)-borneol was observed, in good agreement with the fact
+that TCU-CK1 prefers to degrade (+)-borneol, rather than (-)-borneol. A BDH
+isozyme was identified in a strain in which the primary BDH gene had been knocked
+out. (-)-Camphor can work as an inhibitor of BDH with a Ki of 1.03 ± 0.11 mM at
+pH 7.0, leading to the accumulation of (-)-borneol in culture. (Patent pending).
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.enzmictec.2020.109586 
+PMID: 32732035 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare no conflict of interest.
+

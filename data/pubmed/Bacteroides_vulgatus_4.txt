@@ -1,0 +1,95 @@
+
+1. Microbiome. 2020 Sep 11;8(1):130. doi: 10.1186/s40168-020-00906-w.
+
+Multi-omics analysis reveals the influence of genetic and environmental risk
+factors on developing gut microbiota in infants at risk of celiac disease.
+
+Leonard MM(1)(2)(3)(4), Karathia H(5), Pujolassos M(6), Troisi J(6)(7)(8),
+Valitutti F(8)(9), Subramanian P(5), Camhi S(2)(4), Kenyon V(2)(4), Colucci
+A(6)(7), Serena G(1)(2)(3)(4), Cucchiara S(10), Montuori M(10), Malamisura B(11),
+Francavilla R(12), Elli L(13), Fanelli B(5), Colwell R(5)(14), Hasan N(5),
+Zomorrodi AR(15)(16)(17)(18), Fasano A(19)(20)(21)(22)(23); CD-GEMM Team.
+
+Collaborators: Piemontese P, Calvi A, Baldassarre M, Norsa L, Trovato CM, Raguseo
+CL, Passaro T, Roggero P, Crocco M, Morelli A, Perrone M, Chieppa M, Scala G,
+Lionetti ME, Catassi C, Serretiello A, Vecchi C, de Villsante GC.
+
+Author information: 
+(1)Division of Pediatric Gastroenterology and Nutrition, MassGeneral Hospital for
+Children, Harvard Medical School, Boston, MA, USA.
+(2)Mucosal Immunology and Biology Research Center, MassGeneral Hospital for
+Children, Boston, USA.
+(3)Harvard Medical School, Boston, MA, USA.
+(4)Celiac Research Program, Harvard Medical School, Boston, MA, USA.
+(5)CosmosID Inc., Rockville, MD, USA.
+(6)Theoreo srl, University of Salerno, Montecorvino Pugliano, Italy.
+(7)Department of Medicine, Surgery and Dentistry, Scuola Medica Salernitana,
+University of Salerno, Salerno, Italy.
+(8)European Biomedical Research Institute of Salerno (EBRIS), Via S. De Renzi,
+50, 84125, Salerno, Italy.
+(9)Pediatric Unit, Maternal and Child Health Department, AOU San Giovanni di Dio 
+e Ruggi d'Aragona, Salerno, Italy.
+(10)Pediatric Gastroenterology, Sapienza University of Rome, Rome, Italy.
+(11)Pediatric Unit, Maternal and Child Health Department, AOU San Giovanni di Dio
+e Ruggi d'Aragona, Pole of Cava de' Tirreni, Salerno, Italy.
+(12)Pediatric Gastroenterology, University of Bari, Bari, Italy.
+(13)Center for Prevention and Diagnosis of Celiac Disease Fondazione IRCCS Ca'
+Granda Ospedale Maggiore Policlinico, Milan, Italy.
+(14)Center for Bioinformatics and Computational Biology, University of Maryland, 
+College Park, MD, USA.
+(15)Division of Pediatric Gastroenterology and Nutrition, MassGeneral Hospital
+for Children, Harvard Medical School, Boston, MA, USA.
+azomorrodi@mgh.harvard.edu.
+(16)Mucosal Immunology and Biology Research Center, MassGeneral Hospital for
+Children, Boston, USA. azomorrodi@mgh.harvard.edu.
+(17)Harvard Medical School, Boston, MA, USA. azomorrodi@mgh.harvard.edu.
+(18)Celiac Research Program, Harvard Medical School, Boston, MA, USA.
+azomorrodi@mgh.harvard.edu.
+(19)Division of Pediatric Gastroenterology and Nutrition, MassGeneral Hospital
+for Children, Harvard Medical School, Boston, MA, USA. afasano@mgh.harvard.edu.
+(20)Mucosal Immunology and Biology Research Center, MassGeneral Hospital for
+Children, Boston, USA. afasano@mgh.harvard.edu.
+(21)Harvard Medical School, Boston, MA, USA. afasano@mgh.harvard.edu.
+(22)Celiac Research Program, Harvard Medical School, Boston, MA, USA.
+afasano@mgh.harvard.edu.
+(23)European Biomedical Research Institute of Salerno (EBRIS), Via S. De Renzi,
+50, 84125, Salerno, Italy. afasano@mgh.harvard.edu.
+
+BACKGROUND: Celiac disease (CD) is an autoimmune digestive disorder that occurs
+in genetically susceptible individuals in response to ingesting gluten, a protein
+found in wheat, rye, and barley. Research shows that genetic predisposition and
+exposure to gluten are necessary but not sufficient to trigger the development of
+CD. This suggests that exposure to other environmental stimuli early in life,
+e.g., cesarean section delivery and exposure to antibiotics or formula feeding,
+may also play a key role in CD pathogenesis through yet unknown mechanisms. Here,
+we use multi-omics analysis to investigate how genetic and early environmental
+risk factors alter the development of the gut microbiota in infants at risk of
+CD.
+RESULTS: Toward this end, we selected 31 infants from a large-scale prospective
+birth cohort study of infants with a first-degree relative with CD. We then
+performed rigorous multivariate association, cross-sectional, and longitudinal
+analyses using metagenomic and metabolomic data collected at birth, 3 months and 
+6 months of age to explore the impact of genetic predisposition and environmental
+risk factors on the gut microbiota composition, function, and metabolome prior to
+the introduction of trigger (gluten). These analyses revealed several microbial
+species, functional pathways, and metabolites that are associated with each
+genetic and environmental risk factor or that are differentially abundant between
+environmentally exposed and non-exposed infants or between time points. Among our
+significant findings, we found that cesarean section delivery is associated with 
+a decreased abundance of Bacteroides vulgatus and Bacteroides dorei and of folate
+biosynthesis pathway and with an increased abundance of hydroxyphenylacetic acid,
+alterations that are implicated in immune system dysfunction and inflammatory
+conditions. Additionally, longitudinal analysis revealed that, in infants not
+exposed to any environmental risk factor, the abundances of Bacteroides uniformis
+and of metabolite 3-3-hydroxyphenylproprionic acid increase over time, while
+those for lipoic acid and methane metabolism pathways decrease, patterns that are
+linked to beneficial immunomodulatory and anti-inflammatory effects.
+CONCLUSIONS: Overall, our study provides unprecedented insights into major
+taxonomic and functional shifts in the developing gut microbiota of infants at
+risk of CD linking genetic and environmental risk factors to detrimental
+immunomodulatory and inflammatory effects. Video Abstract.
+
+DOI: 10.1186/s40168-020-00906-w 
+PMCID: PMC7488762
+PMID: 32917289 
+

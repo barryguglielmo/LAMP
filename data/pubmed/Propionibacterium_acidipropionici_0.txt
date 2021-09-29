@@ -1,0 +1,39 @@
+
+1. Biotechnol Appl Biochem. 2020 Sep 17. doi: 10.1002/bab.2031. [Epub ahead of
+print]
+
+Improving propionic acid production from a hemicellulosic hydrolysate of sorghum 
+bagasse by means of cell immobilization and sequential batch operation.
+
+Castro PGM(1), Maeda RN(2), Rocha VAL(1), Fernandes RP(1), Pereira N Jr(1).
+
+Author information: 
+(1)Center of Biofuels, Oil and Derivatives, School of Chemistry, Federal
+University of Rio de Janeiro, Rio de Janeiro, CEP, Brazil.
+(2)Novozymes Latin America, Barigui, Rua Professor Francisco Ribeiro, Araucaria, 
+Parana, CEP, Brazil.
+
+Propionic acid (PA) is an important organic compound with extensive application
+in different industrial sectors and is currently produced by petrochemical
+processes. The production of PA by large-scale fermentation processes presents a 
+bottleneck, particularly due to low volumetric productivity. In this context, the
+present work aimed to produce PA by a biochemical route from a hemicellulosic
+hydrolysate of sorghum bagasse using the strain Propionibacterium acidipropionici
+CIP 53164. Conditions were optimized to increase volumetric productivity and
+process efficiency. Initially, in simple batch fermentation, a final
+concentration of PA of 17.5 g⋅L-1 was obtained. Next, fed batch operation with
+free cells was adopted to minimize substrate inhibition. Although a higher
+concentration of PA was achieved (38.0 g⋅L-1 ), the response variables (YP/S =
+0.409 g⋅g-1 and QP = 0.198 g⋅L-1 ⋅H-1 ) were close to those of the simple batch
+experiment. Finally, the fermentability of the hemicellulosic hydrolysate was
+investigated in a sequential batch with immobilized cells. The PA concentration
+achieved a maximum of 35.3 g⋅L-1 in the third cycle; moreover, the volumetric
+productivity was almost sixfold higher (1.17 g⋅L-1 ⋅H-1 ) in sequential batch
+than in simple batch fermentation. The results are highly promising, providing
+preliminary data for studies on scaling up the production of this organic acid.
+
+© 2020 International Union of Biochemistry and Molecular Biology, Inc.
+
+DOI: 10.1002/bab.2031 
+PMID: 32942342 
+

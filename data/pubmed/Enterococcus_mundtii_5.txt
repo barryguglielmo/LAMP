@@ -1,0 +1,64 @@
+
+1. Int J Antimicrob Agents. 2020 Jul;56(1):105993. doi:
+10.1016/j.ijantimicag.2020.105993. Epub 2020 Apr 23.
+
+Co-existence of the oxazolidinone resistance genes cfr and optrA on two
+transferable multi-resistance plasmids in one Enterococcus faecalis isolate from 
+swine.
+
+Chen L(1), Han D(1), Tang Z(1), Hao J(1), Xiong W(2), Zeng Z(3).
+
+Author information: 
+(1)Guangdong Provincial Key Laboratory of Veterinary Drugs Development and Safety
+Evaluation, South China Agricultural University, Guangzhou, Guangdong, China;
+National Laboratory of Safety Evaluation (Environmental Assessment) of Veterinary
+Drugs, South China Agricultural University, Guangzhou, Guangdong, China; National
+Risk Assessment Laboratory for Antimicrobial Resistance of Animal Original
+Bacteria, College of Veterinary Medicine, South China Agricultural University,
+Guangzhou, Guangdong, China.
+(2)Guangdong Provincial Key Laboratory of Veterinary Drugs Development and Safety
+Evaluation, South China Agricultural University, Guangzhou, Guangdong, China;
+National Laboratory of Safety Evaluation (Environmental Assessment) of Veterinary
+Drugs, South China Agricultural University, Guangzhou, Guangdong, China; National
+Risk Assessment Laboratory for Antimicrobial Resistance of Animal Original
+Bacteria, College of Veterinary Medicine, South China Agricultural University,
+Guangzhou, Guangdong, China. Electronic address: xiongwg@scau.edu.cn.
+(3)Guangdong Provincial Key Laboratory of Veterinary Drugs Development and Safety
+Evaluation, South China Agricultural University, Guangzhou, Guangdong, China;
+National Laboratory of Safety Evaluation (Environmental Assessment) of Veterinary
+Drugs, South China Agricultural University, Guangzhou, Guangdong, China; National
+Risk Assessment Laboratory for Antimicrobial Resistance of Animal Original
+Bacteria, College of Veterinary Medicine, South China Agricultural University,
+Guangzhou, Guangdong, China. Electronic address: zlzeng@scau.edu.cn.
+
+OBJECTIVES: To identify and characterize oxazolidinone resistance genes cfr and
+optrA in enterococcal isolates.
+METHODS: Two hundred and ninety-three enterococcal isolates were screened for the
+presence of cfr and optrA by polymerase chain reaction. The transferability of
+cfr and optrA was examined by conjugation. S1 nuclease pulsed-field gel
+electrophoresis and Southern blotting were used to identify the location of cfr
+and optrA. One Enterococcus faecalis isolate carrying both cfr and optrA was
+sequenced in full.
+RESULTS: cfr and optrA were detected in 16 (5.5%) and 170 (58.0%) enterococcal
+isolates, respectively. Sixteen enterococcal isolates (E. faecalis n=13,
+Enterococcus avium n=2, Enterococcus mundtii n=1) carried both cfr and optrA. The
+cfr-carrying fragment between res and theta in plasmid p4 showed 98.9% identity
+to the corresponding region of plasmid pEF120805 from vancomycin-resistant
+Enterococcus faecium. The optrA-carrying segment between tnpB and optrA in
+plasmid p1 showed >99.9% identity to the corresponding region of genomic DNA from
+E. faecalis A101. Plasmid p4 and plasmid p1 were simultaneously conjugated to E. 
+faecalis JH2-2.
+CONCLUSIONS: One hundred and seventy optrA-positive enterococci were identified
+in 293 enterococcal isolates from swine and the farm environment. The
+co-existence of cfr and optrA in E. avium and E. mundtii has been identified
+previously. cfr and optrA were identified on two new conjugative plasmids from
+one E. faecalis isolate. The optrA-carrying segment (IS1216E-optrA-IS1216E) was
+reported initially. Among different types of enterococcal plasmids, ISEnfa5 and
+IS1216E elements may play a vital role in the dissemination of cfr and optrA,
+respectively.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ijantimicag.2020.105993 
+PMID: 32335280 
+

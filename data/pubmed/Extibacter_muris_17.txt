@@ -1,0 +1,55 @@
+
+1. Int J Parasitol. 2020 Aug;50(9):719-729. doi: 10.1016/j.ijpara.2020.06.002. Epub 
+2020 Jul 11.
+
+Extracellular vesicles from Heligmosomoides bakeri and Trichuris muris contain
+distinct microRNA families and small RNAs that could underpin different functions
+in the host.
+
+White R(1), Kumar S(1), Chow FW(1), Robertson E(1), Hayes KS(2), Grencis RK(2),
+Duque-Correa MA(3), Buck AH(4).
+
+Author information: 
+(1)Institute of Immunology & Infection Research, School of Biological Sciences,
+University of Edinburgh, Edinburgh EH9 3FL, UK.
+(2)Lydia Becker Institute of Immunology and Inflammation, Wellcome Trust Centre
+for Cell Matrix Research and Faculty of Biology, Medicine and Health, University 
+of Manchester, Manchester, UK.
+(3)Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton CB10 1SA, UK.
+(4)Institute of Immunology & Infection Research, School of Biological Sciences,
+University of Edinburgh, Edinburgh EH9 3FL, UK. Electronic address:
+a.buck@ed.ac.uk.
+
+Extracellular vesicles (EVs) have emerged as a ubiquitous component of helminth
+excretory-secretory products that can deliver parasite molecules to host cells to
+elicit immunomodulatory effects. RNAs are one type of cargo molecule that can
+underpin EV functions, hence there is extensive interest in characterising the
+RNAs that are present in EVs from different helminth species. Here we outline
+methods for identifying all of the small RNAs (sRNA) in helminth EVs and address 
+how different methodologies may influence the sRNAs detected. We show that
+different EV purification methods introduce relatively little variation in the
+sRNAs that are detected, and that different RNA library preparation methods
+yielded larger differences. We compared the EV sRNAs in the gastrointestinal
+nematode Heligmosomoides bakeri with those in EVs from the distantly related
+gastrointestinal nematode Trichuris muris, and found that many of the sRNAs in
+both organisms derive from repetitive elements or intergenic regions. However,
+only in H. bakeri do these RNAs contain a 5' triphosphate, and Guanine (G)
+starting nucleotide, consistent with their biogenesis by RNA-dependent RNA
+polymerases (RdRPs). Distinct microRNA (miRNA) families are carried in EVs from
+each parasite, with H. bakeri EVs specific for miR-71, miR-49, miR-63, miR-259
+and miR-240 gene families, and T. muris EVs specific for miR-1, miR-1822 and
+miR-252, and enriched for miR-59, miR-72 and miR-44 families, with the miR-9,
+miR-10, miR-80 and let-7 families abundant in both. We found a larger proportion 
+of miRNA reads derive from the mouse host in T. muris EVs, compared with H.
+bakeri EVs. Our report underscores potential biases in the sRNAs sequenced based 
+on library preparation methods, suggests specific nematode lineages have evolved 
+distinct sRNA synthesis/export pathways, and highlights specific differences in
+EV miRNAs from H. bakeri and T. muris that may underpin functional adaptation to 
+their host niches.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ijpara.2020.06.002 
+PMCID: PMC7435682
+PMID: 32659276 
+

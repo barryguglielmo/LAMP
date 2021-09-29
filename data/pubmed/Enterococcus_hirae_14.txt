@@ -1,0 +1,57 @@
+
+1. Sci Rep. 2020 Mar 3;10(1):3937. doi: 10.1038/s41598-020-61002-5.
+
+Surveillance of Enterococcus spp. reveals distinct species and antimicrobial
+resistance diversity across a One-Health continuum.
+
+Zaheer R(1), Cook SR(2), Barbieri R(1), Goji N(3), Cameron A(1), Petkau A(4),
+Polo RO(1), Tymensen L(2), Stamm C(5), Song J(5), Hannon S(5), Jones T(6), Church
+D(7)(8), Booker CW(5), Amoako K(3), Van Domselaar G(4), Read RR(7), McAllister
+TA(9).
+
+Author information: 
+(1)Lethbridge Research and Development Centre, Agriculture and Agri-Food Canada, 
+5403 1st Avenue South, Lethbridge, AB, T1J 4P4, Canada.
+(2)Alberta Agriculture and Forestry, 100, 5401 1st Avenue South, Lethbridge, AB, 
+T1J 4V6, Canada.
+(3)Canadian Food Inspection Agency, National Center for Animal Disease,
+Lethbridge Laboratory, Township Rd 9-1, Lethbridge, AB, T1J3Z4, Canada.
+(4)National Microbiology Laboratory, Public Health Agency of Canada, 1015
+Arlington Street, Winnipeg, MB, R3E 3R2, Canada.
+(5)Feedlot Health Management Services, Okotoks, AB, Canada.
+(6)Lacombe Research and Development Centre, Agriculture and Agri-Food Canada,
+6000C and E Trail, Lacombe, AB, T4L 1W1, Canada.
+(7)Cumming School of Medicine, University of Calgary, 3280 Hospital Drive NW,
+Calgary, Alberta, Canada.
+(8)Calgary Laboratory Services (CLS), Alberta Health Services, 3535 Research Rd
+NW, Calgary, AB, T2L 2K8, Canada.
+(9)Lethbridge Research and Development Centre, Agriculture and Agri-Food Canada, 
+5403 1st Avenue South, Lethbridge, AB, T1J 4P4, Canada. tim.mcallister@canada.ca.
+
+Erratum in
+    Sci Rep. 2020 Aug 4;10(1):13401.
+
+For a One-Health investigation of antimicrobial resistance (AMR) in Enterococcus 
+spp., isolates from humans and beef cattle along with abattoirs, manured fields, 
+natural streams, and wastewater from both urban and cattle feedlot sources were
+collected over two years. Species identification of Enterococcus revealed
+distinct associations across the continuum. Of the 8430 isolates collected,
+Enterococcus faecium and Enterococcus faecalis were the main species in urban
+wastewater (90%) and clinical human isolates (99%); Enterococcus hirae
+predominated in cattle (92%) and feedlot catch-basins (60%), whereas natural
+streams harbored environmental Enterococcus spp. Whole-genome sequencing of E.
+faecalis (n = 366 isolates) and E. faecium (n = 342 isolates), revealed source
+clustering of isolates, indicative of distinct adaptation to their respective
+environments. Phenotypic resistance to tetracyclines and macrolides encoded by
+tet(M) and erm(B) respectively, was prevalent among Enterococcus spp. regardless 
+of source. For E. faecium from cattle, resistance to β-lactams and quinolones was
+observed among 3% and 8% of isolates respectively, compared to 76% and 70% of
+human clinical isolates. Clinical vancomycin-resistant E. faecium exhibited high 
+rates of multi-drug resistance, with resistance to all β-lactam, macrolides, and 
+quinolones tested. Differences in the AMR profiles among isolates reflected
+antimicrobial use practices in each sector of the One-Health continuum.
+
+DOI: 10.1038/s41598-020-61002-5 
+PMCID: PMC7054549
+PMID: 32127598 
+

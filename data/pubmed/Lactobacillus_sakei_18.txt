@@ -1,0 +1,40 @@
+
+1. Foods. 2020 Jun 2;9(6). pii: E720. doi: 10.3390/foods9060720.
+
+Metabolism of Lactobacillus sakei Chr82 in the Presence of Different Amounts of
+Fermentable Sugars.
+
+Barbieri F(1), Laghi L(1)(2), Gardini F(1)(2), Montanari C(2), Tabanelli G(2)(3).
+
+Author information: 
+(1)Department of Agricultural and Food Sciences, University of Bologna, 47521
+Cesena, Italy.
+(2)Interdepartmental Center for Industrial Agri-Food Research, University of
+Bologna, 47521 Cesena, Italy.
+(3)Department of Agricultural and Food Sciences, University of Bologna, 40127
+Bologna, Italy.
+
+Lactobacillus sakei is widely used as a starter culture in fermented sausages
+since it is well adapted to meat environments and able to maintain high viability
+thanks to secondary pathways activated when hexoses are depleted (i.e.,
+metabolism of pentoses and amino acids). In this study, a commercial strain of L.
+sakei was inoculated in a defined medium with ribose or glucose as the carbon
+source, at optimal or reduced concentrations, to evaluate its different
+physiological and metabolic responses in relation to different growth conditions.
+The results obtained with different approaches (HPLC, 1H-NMR, flow cytometry)
+evidenced different growth performances, amino acid consumptions and
+physiological states of cells in relation to the carbon source as an active
+response to harsh conditions. As expected, higher concentrations of sugars
+induced higher growth performances and the accumulation of organic acids. The low
+sugars amount induced the presence of dead cells, while injured cells increased
+with ribose. Arginine was the main amino acid depleted, especially in the
+presence of higher ribose, and resulted in the production of ornithine. Moreover,
+the 1H-NMR analysis evidenced a higher consumption of serine at the optimal
+sugars concentration (pyruvate production). This information can be helpful to
+optimize the use of these species in the industrial production of fermented
+sausages.
+
+DOI: 10.3390/foods9060720 
+PMCID: PMC7353496
+PMID: 32498333 
+

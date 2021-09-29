@@ -1,0 +1,62 @@
+
+1. Sci Rep. 2020 Apr 23;10(1):6876. doi: 10.1038/s41598-020-63787-x.
+
+Potential Pathogenic Bacteria in Seminal Microbiota of Patients with Different
+Types of Dysspermatism.
+
+Yang H(1)(2), Zhang J(3)(4), Xue Z(1)(2), Zhao C(4)(5), Lei L(1)(2), Wen Y(1)(2),
+Dong Y(1)(2), Yang J(6)(7)(8)(9), Zhang L(10)(11).
+
+Author information: 
+(1)Maternal and Child Health Care Hospital of Shandong Province, Jinan, 250000,
+China.
+(2)Key Laboratory of Birth Regulation and Control Technology of National Health
+Commission of China, & Key Laboratory for Improving Birth Outcome Technique of
+Shandong Province, Jinan, 250000, China.
+(3)College of Life Science, Qilu Normal University, Jinan, 250200, China.
+(4)Shandong Children's Microbiome Center, Qilu Children's Hospital of Shandong
+University, Jinan, 250022, China.
+(5)Shandong Institute of Industrial Technology for Health Sciences and Precision 
+Medicine, Jinan, 250100, China.
+(6)College of Life Science, Qilu Normal University, Jinan, 250200, China.
+microbiota@foxmail.com.
+(7)Shandong Institutes for Food and Drug Control, Jinan, 250101, China.
+microbiota@foxmail.com.
+(8)Qingdao Human Microbiome Center, Clinical Laboratory and Core Research
+Laboratory, The Affiliated Central Hospital of Qingdao University, Qingdao,
+266042, China. microbiota@foxmail.com.
+(9)Microbiological Laboratory, Lin Yi People's Hospital, Linyi, 276000, China.
+microbiota@foxmail.com.
+(10)Shandong Institute of Industrial Technology for Health Sciences and Precision
+Medicine, Jinan, 250100, China. microbiome@foxmail.com.
+(11)Beijing Advanced Innovation Center for Big Data-Based Precision Medicine,
+School of Medicine and Engineering, Beihang University, & Key Laboratory of Big
+Data-Based Precision Medicine (Beihang University), the Ministry of Industry and 
+Information Technology of the People's Republic of China, Beijing, 100191, China.
+microbiome@foxmail.com.
+
+Human microbiota play an important role in the health of their human hosts.
+Recent studies have demonstrated that microbiota exist in seminal plasma. The
+current study aims to elucidate whether seminal microbiota exist in patients with
+different types of dysspermatism and whether bacterial biomarkers can be
+identified for them. A total of 159 study participants were recruited, including 
+22 patients with oligoasthenospermia, 58 patients with asthenospermia, 8 patients
+with azoospermia, 13 patients with oligospermia, and 58 matched healthy controls.
+Seminal microbiota composition was analyzed using 16S rRNA gene-based sequencing.
+The results showed that the composition of seminal microbiota of patients with
+dysspermatism differed from those of healthy controls. Comparison of the
+microbiota composition in semen samples from patients with different types of
+dysspermatism showed that microbiota in patients with asthenospermia and
+oligoasthenospermia were distinct from healthy controls in beta diversity
+(P < 0.05). Characteristic biomarkers, including Ureaplasma, Bacteroides,
+Anaerococcus, Finegoldia, Lactobacillus and Acinetobacter lwoffii, were
+identified based on LEfSe analysis. Inferred functional analysis based on seminal
+microbiome data further indicated the presence of potential pathogenic biomarkers
+in patients with asthenospermia and oligoasthenospermia. These results provided
+profiles of seminal microbiota exhibited in different types of dysspermatism,
+thus providing new insights into their pathogenesis.
+
+DOI: 10.1038/s41598-020-63787-x 
+PMCID: PMC7181748
+PMID: 32327694 
+

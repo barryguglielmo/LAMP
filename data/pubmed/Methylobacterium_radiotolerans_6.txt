@@ -1,0 +1,37 @@
+
+1. Photochem Photobiol Sci. 2019 Nov 1;18(11):2657-2660. doi: 10.1039/c9pp00328b.
+Epub 2019 Oct 18.
+
+Single mutation in a novel bacterial LOV protein yields a singlet oxygen
+generator.
+
+Consiglieri E(1), Xu Q(2), Bregnhøj M(3), Westberg M(3), Ogilby PR(3), Losi A(1).
+
+Author information: 
+(1)Department of Mathematical, Physical and Computer Sciences, University of
+Parma, Parco Area delle Scienze 7/A, 43124 Parma, Italy. aba.losi@unipr.it.
+(2)Institute for Analytical Chemistry, University of Leipzig, Linnéstrasse 3,
+04103 Leipzig, Germany and State Key Laboratory of Agricultural Microbiology,
+Huazhong Agricultural University, Wuhan 430070, China.
+(3)Department of Chemistry, Aarhus University, Langelandsgade 140, 8000 Aarhus,
+Denmark.
+
+Mr4511 from Methylobacterium radiotolerans is a 164 amino acid protein built of a
+flavin mononucleotide (FMN) binding, blue-light responsive LOV (Light, Oxygen,
+Voltage) core domain plus flanking regions. In contrast to the majority of LOV
+domains, Mr4511 lacks a tryptophan residue that was previously identified as a
+major quencher for the FMN triplet state in photosensitizers for singlet oxygen
+(SO) engineered from these photoreceptors. Here we show that for Mr4511 it is
+sufficient to only mutate the reactive cysteine responsible for the photocycle
+(Cys71) in the native protein to generate an efficient SO photosensitizer: both
+C71S and C71G variants exhibit SO quantum yields of formation, ΦΔ, around 0.2 in 
+air-saturated solutions. Under oxygen saturated conditions, ΦΔ reaches ∼0.5 in
+deuterated buffer. The introduction of Trp112 in the canonical position for LOV
+domains dramatically lowers ΦΔ to values comparable to miniSOG, one of the early 
+FMN binding proteins touted as a SO sensitizer. Besides its SO properties, Mr4511
+is also exceedingly robust against denaturation with urea and is more photostable
+than free FMN.
+
+DOI: 10.1039/c9pp00328b 
+PMID: 31624823  [Indexed for MEDLINE]
+

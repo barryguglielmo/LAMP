@@ -1,0 +1,52 @@
+
+1. Clin Microbiol Infect. 2020 Mar 31. pii: S1198-743X(20)30173-7. doi:
+10.1016/j.cmi.2020.03.028. [Epub ahead of print]
+
+Molecular diagnosis of polymicrobial brain abscesses with 16S-rDNA-based
+next-generation sequencing.
+
+Stebner A(1), Ensser A(2), Geißdörfer W(1), Bozhkov Y(3), Lang R(4).
+
+Author information: 
+(1)Institut für Klinische Mikrobiologie, Immunologie und Hygiene,
+Universitätsklinikum Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg,
+Germany.
+(2)Virologisches Institut, Universitätsklinikum Erlangen,
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany.
+(3)Neurochirurgische Klinik, Universitätsklinikum Erlangen,
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany.
+(4)Institut für Klinische Mikrobiologie, Immunologie und Hygiene,
+Universitätsklinikum Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg,
+Germany. Electronic address: roland.lang@uk-erlangen.de.
+
+OBJECTIVES: Brain abscesses lead to high mortality despite antibiotic and
+surgical treatment. Identification of causative bacteria is important to guide
+antibiotic therapy, but culture-based methods and molecular diagnostics by Sanger
+sequencing of 16S PCR products are hampered by antibiotic treatment and the often
+polymicrobial nature of brain abscesses. We have applied 16S-rRNA-based
+next-generation sequencing (NGS) for metagenomic analysis of intracranial abscess
+(brain and epidural) and meningitis samples.
+METHODS: Seventy-nine samples from 54 patients with intracranial abscesses or
+meningitis were included. DNA was subjected to 16S PCR. Amplicons were analysed
+with the Illumina MiSeq system, sequence reads were blasted versus the NCBI 16S
+bacterial database and analysed using MEGAN software. Results were compared to
+those of gram-staining, culture and Sanger sequencing.
+RESULTS: The NGS workflow was successful for 51 intracranial abscesses (46 brain 
+and five epidural) and nine meningitis samples. Inclusion of (mono)bacterial
+meningitis samples allowed us to establish a cut-off criterion for the exclusion 
+of contaminating sequences. In total 86 bacterial taxa were identified in brain
+abscesses by NGS, with Streptococcus intermedius and Fusobacterium nucleatum as
+most prevalent species; Propionibacterium and Staphylococcus spp. were associated
+with epidural abscesses. NGS identified two or more bacterial taxa in 31/51
+intracranial abscesses, revealing the polymicrobial nature of these infections
+and allowing the discrimination of up to 16 bacterial taxa per sample.
+CONCLUSION: These results extend earlier studies showing that NGS methods expand 
+the spectrum of bacteria detected in brain abscesses and demonstrate that the
+MiSeq platform is suitable for metagenomic diagnostics of this severe infection.
+
+Copyright © 2020 European Society of Clinical Microbiology and Infectious
+Diseases. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cmi.2020.03.028 
+PMID: 32244052 
+

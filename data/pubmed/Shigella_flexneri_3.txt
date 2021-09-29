@@ -1,0 +1,55 @@
+
+1. mSphere. 2020 Sep 23;5(5). pii: e00416-20. doi: 10.1128/mSphere.00416-20.
+
+Establishment of a Controlled Human Infection Model with a Lyophilized Strain of 
+Shigella sonnei 53G.
+
+Frenck RW Jr(1)(2), Dickey M(3)(2), Suvarnapunya AE(4), Chandrasekaran L(4),
+Kaminski RW(4), Clarkson KA(4), McNeal M(3)(2), Lynen A(5), Parker S(2), Hoeper
+A(2), Mani S(6), Fix A(6), Maier N(6), Venkatesan MM(4), Porter CK(5).
+
+Author information: 
+(1)Department of Pediatrics, University of Cincinnati College of Medicine,
+Cincinnati, Ohio, USA robert.frenck@cchmc.org.
+(2)Division of Infectious Diseases, Cincinnati Children's Hospital Medical
+Center, Cincinnati, Ohio, USA.
+(3)Department of Pediatrics, University of Cincinnati College of Medicine,
+Cincinnati, Ohio, USA.
+(4)Walter Reed Army Institute of Research, Silver Spring, Maryland, USA.
+(5)Naval Medical Research Center, Silver Spring, Maryland, USA.
+(6)PATH, Washington, DC, USA.
+
+Controlled human infection models (CHIMs) are useful for vaccine development. To 
+improve on existing models, we developed a CHIM using a lyophilized preparation
+of Shigella sonnei strain 53G produced using current good manufacturing practice 
+(cGMP). Healthy adults were enrolled in an open-label dose-ranging study.
+Following administration of a dose of rehydrated S. sonnei strain 53G, subjects
+were monitored for development of disease. The first cohort received 500 CFU of
+53G, and dosing of subsequent cohorts was based on results from the previous
+cohort. Subjects were administered ciprofloxacin on day 5 and discharged home on 
+day 8. Subjects returned as outpatients for clinical checks and sample
+collection. Attack rates increased as the dose of S. sonnei was increased. Among 
+those receiving the highest dose (1,760 CFU), 70% developed moderate to severe
+diarrhea, 50% had dysentery, and 40% had fever. Antilipopolysaccharide responses 
+were observed across all cohorts. An S. sonnei CHIM using a lyophilized lot of
+strain 53G was established. A dose in the range of 1,500 to 2,000 CFU of 53G was 
+selected as the dose for future challenge studies using this product. This model 
+will enable direct comparison of study results between institutions and ensure
+better consistency over time in the challenge inoculum.IMPORTANCE Controlled
+human infection models (CHIMs) are invaluable tools utilized to understand the
+human response to infection, potentially leading to protective immune mechanisms 
+and allowing efficacy testing of enteric countermeasures, including vaccines,
+antibiotics, and other products. The development of an improved Shigella CHIM for
+both Shigella sonnei and Shigella flexneri is consistent with international
+efforts, supported by international donors and the World Health Organization,
+focused on standardizing Shigella CHIMs and using them to accelerate Shigella
+vaccine development. The use of lyophilized Shigella challenge strains rather
+than plate-grown inoculum preparations is considered an important step forward in
+the standardization process. Furthermore, the results of studies such as this
+justify the development of lyophilized preparations for additional
+epidemiologically important S. flexneri serotypes, including S. flexneri 3a and
+S. flexneri 6.
+
+DOI: 10.1128/mSphere.00416-20 
+PMID: 32968005 
+

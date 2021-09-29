@@ -1,0 +1,51 @@
+
+1. Colloids Surf B Biointerfaces. 2019 Nov 1;183:110284. doi:
+10.1016/j.colsurfb.2019.06.014. Epub 2019 Jul 31.
+
+S-layer protein-AuNP systems for the colorimetric detection of metal and
+metalloid ions in water.
+
+Jung J(1), Lakatos M(2), Bengs S(3), Matys S(4), Raff J(5), Blüher A(6),
+Cuniberti G(7).
+
+Author information: 
+(1)Institute for Materials Science and Max Bergmann Center of Biomaterials, TU
+Dresden, 01062, Dresden, Germany. Electronic address: jonas.jung@tu-dresden.de.
+(2)Photonic Nanosystems, Department of Physics, University Fribourg, 1700,
+Fribourg, Switzerland.
+(3)Department of Nuclear Medicine, Cardiovascular Gender Medicine, University
+Hospital Zurich, Switzerland.
+(4)Helmholtz-Institute Freiberg for Resource Technology, Chemnitzer Str. 40,
+09599, Freiberg, Germany.
+(5)Helmholtz-Zentrum Dresden Rossendorf, Institute of Resource Ecology, Bautzner 
+Landstraße 400, 01328, Dresden, Germany.
+(6)School of Engineering Science, TU Dresden, 01062, Dresden, Germany. Electronic
+address: anja.blueher@tu-dresden.de.
+(7)Institute for Materials Science and Max Bergmann Center of Biomaterials, TU
+Dresden, 01062, Dresden, Germany.
+
+Bacterial surface layer proteins (S-layer) possess unique binding properties for 
+metal ions. By combining the binding capability of S-layer proteins with the
+optical properties of gold nanoparticles (AuNP), namely plasmonic resonance, a
+colorimetric detection system for metal and metalloid ions in water was
+developed. Eight S-layer proteins from different bacteria species were used for
+the functionalization of AuNP. The thus developed biohybrid systems, AuNP
+functionalized with S-layer proteins, were tested with different metal salt
+solutions, e.g. Indium(III)-chloride, Yttrium(III)-chloride or
+Nickel(II)-chloride, to determine their selective and sensitive binding to ionic 
+analytes. All tested S-layer proteins displayed unique binding affinities for the
+different metal ions. For each S-layer and metal ion combination markedly
+different reaction patterns and differences in concentration range and absorption
+spectra were detected by UV/vis spectroscopy. In this way, the selective
+detection of tested metal ions was achieved by differentiated analysis of a
+colorimetric screening assay of these biohybrid systems. A highly selective and
+sensitive detection of yttrium ions down to a concentration of 1.67 × 10-5 mol/l 
+was achieved with S-layer protein SslA functionalized AuNP. The presented
+biohybrid systems can thus be used as a sensitive and fast sensor system for
+metal and metalloid ions in aqueous systems.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.colsurfb.2019.06.014 
+PMID: 31421406  [Indexed for MEDLINE]
+

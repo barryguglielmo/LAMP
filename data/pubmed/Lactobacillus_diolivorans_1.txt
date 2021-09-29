@@ -1,0 +1,51 @@
+
+1. Biotechnol Biofuels. 2019 Nov 6;12:262. doi: 10.1186/s13068-019-1594-5.
+eCollection 2019.
+
+Microbial 2-butanol production with Lactobacillus diolivorans.
+
+Russmayer H(1)(2), Marx H(1)(2), Sauer M(1)(2)(3).
+
+Author information: 
+(1)CD Laboratory for Biotechnology of Glycerol, Muthgasse 18, 1190 Vienna,
+Austria.
+(2)2Department of Biotechnology, Institute of Microbiology and Microbial
+Biotechnology, BOKU-VIBT University of Natural Resources and Life Sciences,
+Vienna, Muthgasse 18, 1190 Vienna, Austria.
+(3)3ACIB GmbH, Muthgasse 11, 1190 Vienna, Austria.
+
+Background: Biobutanol has great potential as biofuel of the future. However,
+only a few organisms have the natural ability to produce butanol. Amongst them,
+Clostridium spp. are the most efficient producers. The high toxicity of
+biobutanol constitutes one of the bottlenecks within the biobutanol production
+process which often suffers from low final butanol concentrations and yields.
+Butanol tolerance is a key driver for process optimisation and, therefore, in the
+search for alternative butanol production hosts. Many Lactobacillus species show 
+a remarkable tolerance to solvents and some Lactobacillus spp. are known to
+naturally produce 2-butanol from meso-2,3-butanediol (meso-2,3-BTD) during
+anaerobic sugar fermentations. Lactobacillus diolivorans showed already to be
+highly efficient in the production of other bulk chemicals using a simple
+two-step metabolic pathway. Exactly, the same pathway enables this cell factory
+for 2-butanol production.
+Results: Due to the inability of L. diolivorans to produce meso-2,3-BTD, a
+two-step cultivation processes with Serratia marcescens has been developed. S.
+marcescens is a very efficient producer of meso-2,3-BTD from glucose. The process
+yielded a butanol concentration of 10 g/L relying on wild-type bacterial strains.
+A further improvement of the maximum butanol titer was achieved using an
+engineered L. diolivorans strain overexpressing the endogenous alcohol
+dehydrogenase pduQ. The two-step cultivation process based on the engineered
+strain led to a maximum 2-butanol titer of 13.4 g/L, which is an increase of 34%.
+Conclusion: In this study, L. diolivorans is for the first time described as a
+good natural producer for 2-butanol from meso-2,3-butanediol. Through the
+application of a two-step cultivation process with S. marcescens, 2-butanol can
+be produced from glucose in a one-vessel, two-step microbial process.
+
+© The Author(s) 2019.
+
+DOI: 10.1186/s13068-019-1594-5 
+PMCID: PMC6833138
+PMID: 31709011 
+
+Conflict of interest statement: Competing interestsThe authors declare that they 
+have no competing interests.
+

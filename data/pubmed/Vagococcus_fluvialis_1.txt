@@ -1,0 +1,49 @@
+
+1. Int J Syst Evol Microbiol. 2020 Apr;70(4):2493-2498. doi: 10.1099/ijsem.0.004061.
+Epub 2020 Mar 20.
+
+Vagococcus xieshaowenii sp. nov., isolated from snow finch (Montifringilla
+taczanowskii) cloacal content.
+
+Ge Y(1), Yang J(2)(3)(1), Lai XH(4), Zhang G(3), Jin D(2)(3)(1), Lu S(2)(3)(1),
+Wang B(5), Huang Y(3), Huang Y(3), Ren Z(3), Zhang X(1), Xu J(1)(2)(3).
+
+Author information: 
+(1)Shanghai Public Health Clinical Center, Fudan University, Shanghai 201508, PR 
+China.
+(2)Research Units of Discovery of Unknown Bacteria and Function, Chinese Academy 
+of Medical Sciences, Beijing 100730, PR China.
+(3)State Key Laboratory of Infectious Disease Prevention and Control,
+Collaborative Innovation Center for Diagnosis and Treatment of Infectious
+Diseases, National Institute for Communicable Disease Control and Prevention,
+Chinese Center for Disease Control and Prevention, Changping, Beijing 102206, PR 
+China.
+(4)Henan Key Laboratory of Biomolecular Recognition and Sensing, College of
+Chemistry and Chemical Engineering, Henan Joint International Research Laboratory
+of Chemo/Biosensing and Early Diagnosis of Major Diseases, Shangqiu Normal
+University, Shangqiu 476000, PR China.
+(5)Guizhou Center for Disease Control and Prevention, Guiyang 550000, PR China.
+
+A Gram-stain-positive, coccus-shaped, non-motile bacterium, designated CF-49T,
+was isolated from the cloacal content of a snow finch, which was incidentally
+captured in a plateau pika burrow on the Qinghai-Tibet Plateau, PR China.
+Analysis of the 16S rRNA gene sequence showed that strain CF-49T was closely
+related to Vagococcus elongatus CCUG 51432T (96.5 % similarity), Vagococcus
+fluvialis NCFB 2497T (96.0 %) and Vagococcus lutrae CCUG 39187T (95.9 %), whereas
+the similarity to another isolate (CF-210) was 99.9 %. Strains CF-49T and CF-210 
+grew optimally at 37 °C and pH 7.0 and in the presence of 0.5 % (w/v) NaCl. Acid 
+was produced from N-acetylglucosamine, cellobiose, d-fructose, d-glucose,
+d-mannose, d-mannitol, maltose, d-ribose and salicin. The cell-wall peptidoglycan
+type was A4α (l-Lys-d-Asp). The major cellular fatty acids (>10 %) were C16 : 0
+(35.6 %), C14 : 0 (17.3 %), C18 : 1 ω9c (16.2 %) and C16 : 1 ω9c (10.6 %). The
+predominant respiratory quinone was menaquinone MK-7 (68.8 %). The G+C content of
+the genomic DNA was 35.9 mol%. Digital DNA-DNA hybridization of strain CF-49T
+with V. fluvialis DSM 5731T, V. elongatus CCUG 51432Tand V. lutrae CCUG 39187T
+resulted in relatedness values of 21.4, 23.3 and 24.6 %, respectively. Based on
+results from polyphasic analyses, our two isolates are proposed to represent a
+novel species in the genus Vagococcus, with the name Vagococcus xieshaowenii. The
+type strain is CF-49T (=CGMCC 1.6436T=GDMCC 1.1588T=JCM 33477T).
+
+DOI: 10.1099/ijsem.0.004061 
+PMID: 32195646  [Indexed for MEDLINE]
+

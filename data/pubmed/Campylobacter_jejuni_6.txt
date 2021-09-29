@@ -1,0 +1,42 @@
+
+1. Eur J Clin Microbiol Infect Dis. 2020 Sep 24. doi: 10.1007/s10096-020-04043-y.
+[Epub ahead of print]
+
+Prediction of antimicrobial resistance in clinical Campylobacter jejuni isolates 
+from whole-genome sequencing data.
+
+Dahl LG(1), Joensen KG(1), Østerlund MT(1), Kiil K(1), Nielsen EM(2).
+
+Author information: 
+(1)Department of Bacteria, Parasites & Fungi, Statens Serum Institut, Copenhagen,
+Denmark.
+(2)Department of Bacteria, Parasites & Fungi, Statens Serum Institut, Copenhagen,
+Denmark. emn@ssi.dk.
+
+Campylobacter jejuni is recognised as the leading cause of bacterial
+gastroenteritis in industrialised countries. Although the majority of
+Campylobacter infections are self-limiting, antimicrobial treatment is necessary 
+in severe cases. Therefore, the development of antimicrobial resistance (AMR) in 
+Campylobacter is a growing public health challenge and surveillance of AMR is
+important for bacterial disease control. The aim of this study was to predict
+antimicrobial resistance in C. jejuni from whole-genome sequencing data. A total 
+of 516 clinical C. jejuni isolates collected between 2014 and 2017 were subjected
+to WGS. Resistance phenotypes were determined by standard broth dilution,
+categorising isolates as either susceptible or resistant based on epidemiological
+cutoffs for six antimicrobials: ciprofloxacin, nalidixic acid, erythromycin,
+gentamicin, streptomycin, and tetracycline. Resistance genotypes were identified 
+using an in-house database containing reference genes with known point mutations 
+and the presence of resistance genes was determined using the ResFinder database 
+and four bioinformatical methods (modified KMA, ABRicate, ARIBA, and ResFinder
+Batch Upload). We identified seven resistance genes including tet(O),
+tet(O/32/O), ant(6)-Ia, aph(2″)-If, blaOXA, aph(3')-III, and cat as well as
+mutations in three genes: gyrA, 23S rRNA, and rpsL. There was a high correlation 
+between phenotypic resistance and the presence of known resistance genes and/or
+point mutations. A correlation above 98% was seen for all antimicrobials except
+streptomycin with a correlation of 92%. In conclusion, we found that WGS can
+predict antimicrobial resistance with a high degree of accuracy and have the
+potential to be a powerful tool for AMR surveillance.
+
+DOI: 10.1007/s10096-020-04043-y 
+PMID: 32974772 
+

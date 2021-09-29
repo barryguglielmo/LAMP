@@ -1,0 +1,32 @@
+
+1. Nat Commun. 2019 Oct 11;10(1):4653. doi: 10.1038/s41467-019-12567-x.
+
+Structure and functional implications of WYL domain-containing bacterial DNA
+damage response regulator PafBC.
+
+Müller AU(1), Leibundgut M(1), Ban N(1), Weber-Ban E(2).
+
+Author information: 
+(1)ETH Zurich, Institute of Molecular Biology and Biophysics, CH-8093, Zurich,
+Switzerland.
+(2)ETH Zurich, Institute of Molecular Biology and Biophysics, CH-8093, Zurich,
+Switzerland. eilika@mol.biol.ethz.ch.
+
+In mycobacteria, transcriptional activator PafBC is responsible for upregulating 
+the majority of genes induced by DNA damage. Understanding the mechanism of PafBC
+activation is impeded by a lack of structural information on this transcription
+factor that contains a widespread, but poorly understood WYL domain frequently
+encountered in bacterial transcription factors. Here, we determine the crystal
+structure of Arthrobacter aurescens PafBC. The protein consists of two modules,
+each harboring an N-terminal helix-turn-helix DNA-binding domain followed by a
+central WYL and a C-terminal extension (WCX) domain. The WYL domains exhibit
+Sm-folds, while the WCX domains adopt ferredoxin-like folds, both characteristic 
+for RNA-binding proteins. Our results suggest a mechanism of regulation in which 
+WYL domain-containing transcription factors may be activated by binding RNA or
+other nucleic acid molecules. Using an in vivo mutational screen in Mycobacterium
+smegmatis, we identify potential co-activator binding sites on PafBC.
+
+DOI: 10.1038/s41467-019-12567-x 
+PMCID: PMC6789036
+PMID: 31604936  [Indexed for MEDLINE]
+

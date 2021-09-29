@@ -1,0 +1,45 @@
+
+1. Bioengineering (Basel). 2020 Sep 22;7(3). pii: E116. doi:
+10.3390/bioengineering7030116.
+
+A Small Study of Bacterial Contamination of Anaerobic Digestion Materials and
+Survival in Different Feed Stocks.
+
+Russell L(1)(2), Whyte P(2), Zintl A(2), Gordon S(2), Markey B(2), de Waal T(2), 
+Cummins E(3), Nolan S(4), O'Flaherty V(4), Abram F(4), Richards K(5), Fenton
+O(5), Bolton D(1).
+
+Author information: 
+(1)Teagasc Food Research Centre, Ashtown, Dublin 15, Ireland.
+(2)School of Veterinary Medicine, University College Dublin, Belfield, Dublin 4, 
+Ireland.
+(3)School of Biosystems and Food Engineering, University College Dublin,
+Belfield, Dublin 4, Ireland.
+(4)School of Natural Sciences, National University of Ireland, Galway, Ireland.
+(5)Teagasc Environmental Research Centres, Johnstown Castle, Wexford, Ireland.
+
+If pathogens are present in feedstock materials and survive in anaerobic
+digestion (AD) formulations at 37 °C, they may also survive the AD process to be 
+disseminated in digestate spread on farmland as a fertilizer. The aim of this
+study was to investigate the prevalence of Salmonella spp., Escherichia coli
+O157, Listeria monocytogenes, Enterococcus faecalis and Clostridium spp. in AD
+feed and output materials and survival/growth in four formulations based on food 
+waste, bovine slurry and/or grease-trap waste using International Organization
+for Standardization (ISO) or equivalent methods. The latter was undertaken in 100
+mL Ramboldi tubes, incubated at 37 °C for 10 d with surviving cells enumerated
+periodically and the T90 values (time to achieve a 1 log reduction) calculated.
+The prevalence rates for Salmonella spp., Escherichia coli O157, Listeria
+monocytogenes, Enterococcus faecalis and Clostridium spp. were 3, 0, 5, 11 and
+10/13 in food waste, 0, 0, 2, 3 and 2/3 in bovine slurry, 1, 0, 8, 7 and 8/8 in
+the mixing tank, 5, 1, 17, 18 and 17 /19 in raw digestate and 0, 0, 0, 2 and 2/2 
+in dried digestate, respectively. Depending on the formulation, T90 values ranged
+from 1.5 to 2.8 d, 1.6 to 2.8 d, 3.1 to 23.5 d, 2.2 to 6.6 d and 2.4 to 9.1 d for
+Salmonella Newport, Escherichia coli O157, Listeria monocytogenes, Enterococcus
+faecalis and Clostridium sporogenes, respectively. It was concluded that AD feed 
+materials may be contaminated with a range of bacterial pathogens and L.
+monocytogenes may survive for extended periods in the test formulations incubated
+at 37 °C.
+
+DOI: 10.3390/bioengineering7030116 
+PMID: 32972002 
+

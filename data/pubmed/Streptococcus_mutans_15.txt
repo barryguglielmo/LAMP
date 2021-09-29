@@ -1,0 +1,52 @@
+
+1. Materials (Basel). 2020 Sep 26;13(19). pii: E4299. doi: 10.3390/ma13194299.
+
+The In Vivo Toxicity and Antimicrobial Properties for Electrolyzed Oxidizing (EO)
+Water-Based Mouthwashes.
+
+Hsieh YL(1), Yao JC(1), Hsieh SC(2), Teng NC(2), Chu YT(1), Yu WX(1), Chen CH(1),
+Chang LY(1), Huang CS(2), Lee TH(1), Kareiva A(3), Yang JC(1)(4)(5)(6).
+
+Author information: 
+(1)Graduate Institute of Nanomedicine and Medical Engineering, College of
+Biomedical Engineering, Taipei Medical University, Taipei 110-52, Taiwan.
+(2)School of Dentistry, Taipei Medical University, Taipei 110-52, Taiwan.
+(3)Institute of Chemistry, Vilnius University, Naugarduko 24, LT-03225 Vilnius,
+Lithuania.
+(4)Research Center of Biomedical Device, Taipei Medical University, Taipei
+110-52, Taiwan.
+(5)International Ph.D. Program in Biomedical Engineering, College of Biomedical
+Engineering, Taipei Medical University, Taipei 110-52, Taiwan.
+(6)Research Center of Digital Oral Science and Technology, Taipei Medical
+University, Taipei 110-52, Taiwan.
+
+The objective of this study was to verify the feasibility of electrolyzed
+oxidizing (EO) water as a mouthwash through the evaluation of its in vivo
+toxicity by embryonic zebrafish and antimicrobial efficacy against Streptococcus 
+mutans (S. mutans).METHODOLOGY: Each 1.5-3.0 g of sodium chloride (NaCl), sodium 
+bromide (NaBr), or calcium chloride (CaCl2) were added into an electrolyzer with 
+300 mL of DD water to produce electrolyzed oxidizing (EO) water. A zebrafish
+embryo assay was used to evaluate acute toxicity of specimens. Antimicrobial
+property was conducted with 100 μL microbial count of 1 × 108 cfu/mL S. mutans to
+blend with each 10 mL specimen of chlorhexidine (CHX) gluconate or hypochlorous
+acid (HOCl) for various time points. The concentration of viable microorganisms
+was assessed according to individually standardized inoculum by a plate-count
+method.
+RESULTS: Among the EO water produced from NaCl, NaBr, and CaCl2, the EO water
+from NaCl showed a relatively low mortality rate of zebrafish embryos and was
+chosen for a detailed investigation. The mortality rates for the groups treated
+with EO water containing 0.0125% and 0.0250% HOCl were not statically different
+from those of a negative control, however the mortality rate was 66.7 ± 26.2% in 
+0.2% CHX gluconate for the same treatment time of 0.5 min. All of the HOCl or
+2.0% CHX gluconate groups showed >99.9% antimicrobial effectiveness against S.
+mutans; while the 0.2% CHX gluconate group showed a bacterial reduction rate of
+87.5% and 97.1% for treatment times of 0.5 min and 1.0 min, respectively.
+CONCLUSIONS: Except for the 0.2% CHX gluconate, all the HOCl specimens and 2.0%
+CHX gluconate revealed similar antimicrobial properties (>99.9%) against S.
+mutans. The EO water comprised of both 0.0125% and 0.0250% HOCl showed >99.9%
+antimicrobial efficacy but with little in vivo toxicity, illuminating the
+possibility as an alternative mouthwash for dental and oral care.
+
+DOI: 10.3390/ma13194299 
+PMID: 32993124 
+

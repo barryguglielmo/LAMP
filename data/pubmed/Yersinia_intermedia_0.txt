@@ -1,0 +1,57 @@
+
+1. Curr Issues Mol Biol. 2020;38:103-122. doi: 10.21775/cimb.038.103. Epub 2020 Jan 
+22.
+
+Impact of Simulated Martian Conditions on (Facultatively) Anaerobic Bacterial
+Strains from Different Mars Analogue Sites.
+
+Beblo-Vranesevic K(1), Bohmeier M(1), Schleumer S(1), Rabbow E(1), Perras AK(2), 
+Moissl-Eichinger C(2), Schwendner P(3), Cockell CS(3), Vannier P(4), Marteinsson 
+VT(4), Monaghan EP(5), Riedo A(5), Ehrenfreund P(5), Garcia-Descalzo L(6), Gómez 
+F, Malki M(7), Amils R(7), Gaboyer F, Hickman-Lewis K(8), Westall F(8), Cabezas
+P(9), Walter N(9), Rettberg P(1).
+
+Author information: 
+(1)Institute of Aerospace Medicine, Radiation Biology Department, German
+Aerospace Center (DLR), Cologne, Germany.
+(2)Department of Internal Medicine, Medical University of Graz, Graz, Austria.
+(3)UK Center for Astrobiology, School of Physics and Astronomy, University of
+Edinburgh, Edinburgh, UK.
+(4)MATIS - Prokaria, Reykjavík, Iceland.
+(5)Leiden Observatory, Universiteit Leiden, Leiden, Netherland.
+(6)Instituto Nacional de Técnica Aeroespacial - Centro de Astrobiología
+(INTA-CAB), Madrid, Spain.
+(7)Centro de Biología Molecular Severo Ochoa, Universidad Autónoma de Madrid
+(UAM), Madrid, Spain.
+(8)Centre de Biophysique Moléculaire, Centre National de la Recherche
+Scientifique (CNRS), Orléans, France.
+(9)European Science Foundation (ESF), Strasbourg, France.
+
+Five bacterial (facultatively) anaerobic strains, namely Buttiauxella sp.
+MASE-IM-9, Clostridium sp. MASE-IM-4, Halanaerobium sp. MASE-BB-1, Trichococcus
+sp. MASE-IM-5, and Yersinia intermedia MASE-LG-1 isolated from different extreme 
+natural environments were subjected to Mars relevant environmental stress factors
+in the laboratory under controlled conditions. These stress factors encompassed
+low water activity, oxidizing compounds, and ionizing radiation. Stress tests
+were performed under permanently anoxic conditions. The survival rate after
+addition of sodium perchlorate (Na-perchlorate) was found to be species-specific.
+The inter-comparison of the five microorganisms revealed that Clostridium sp.
+MASE-IM-4 was the most sensitive strain (D10-value (15 min, NaClO4) = 0.6 M). The
+most tolerant microorganism was Trichococcus sp. MASE-IM-5 with a calculated
+D10-value (15 min, NaClO4) of 1.9 M. Cultivation in the presence of
+Na-perchlorate in Martian relevant concentrations up to 1 wt% led to the
+observation of chains of cells in all strains. Exposure to Na-perchlorate led to 
+a lowering of the survival rate after desiccation. Consecutive exposure to
+desiccating conditions and ionizing radiation led to additive effects. Moreover, 
+in a desiccated state, an enhanced radiation tolerance could be observed for the 
+strains Clostridium sp. MASE-IM-4 and Trichococcus sp. MASE-IM-5. These data show
+that anaerobic microorganisms from Mars analogue environments can resist a
+variety of Martian-simulated stresses either individually or in combination.
+However, responses were species-specific and some Mars-simulated extremes killed 
+certain organisms. Thus, although Martian stresses would be expected to act
+differentially on microorganisms, none of the expected extremes tested here and
+found on Mars prevent the growth of anaerobic microorganisms.
+
+DOI: 10.21775/cimb.038.103 
+PMID: 31967578 
+

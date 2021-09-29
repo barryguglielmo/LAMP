@@ -1,0 +1,61 @@
+
+1. Nat Commun. 2020 Apr 22;11(1):1922. doi: 10.1038/s41467-020-15857-x.
+
+CD8+ regulatory T cells are critical in prevention of autoimmune-mediated
+diabetes.
+
+Shimokawa C(1)(2)(3), Kato T(4)(5), Takeuchi T(4)(6), Ohshima N(7), Furuki T(8), 
+Ohtsu Y(9), Suzue K(10), Imai T(10), Obi S(10), Olia A(11)(10), Izumi T(7),
+Sakurai M(8), Arakawa H(9), Ohno H(12)(13)(14), Hisaeda H(15)(16).
+
+Author information: 
+(1)Department of Parasitology, National Institute of Infectious Disease, Tokyo,
+162-8640, Japan. chikakos@nih.go.jp.
+(2)Department of Parasitology, Graduate School of Medicine, Gunma University,
+Maebashi, 371-8511, Japan. chikakos@nih.go.jp.
+(3)Laboratory for Intestinal Ecosystem, RIKEN Center for Integrative Medical
+Sciences, Yokohama, 230-0045, Japan. chikakos@nih.go.jp.
+(4)Laboratory for Intestinal Ecosystem, RIKEN Center for Integrative Medical
+Sciences, Yokohama, 230-0045, Japan.
+(5)Immunobiolgy Laboratory, Graduate School of Medical Life Science, Yokohama
+City University, Yokohama, 230-0045, Japan.
+(6)Grauduate School of Medicine, Keio University, Tokyo, 160-8582, Japan.
+(7)Department of Biochemistry, Graduate School of Medicine, Gunma University,
+Maebashi, 371-8511, Japan.
+(8)Center for Biological Resources and Informatics, Tokyo Institute of
+Technology, Yokohama, 226-8502, Japan.
+(9)Department of Pediatrics, Graduate School of Medicine, Gunma University,
+Maebashi, 371-8511, Japan.
+(10)Department of Parasitology, Graduate School of Medicine, Gunma University,
+Maebashi, 371-8511, Japan.
+(11)Department of Parasitology, National Institute of Infectious Disease, Tokyo, 
+162-8640, Japan.
+(12)Laboratory for Intestinal Ecosystem, RIKEN Center for Integrative Medical
+Sciences, Yokohama, 230-0045, Japan. hiroshi.ohno@riken.jp.
+(13)Immunobiolgy Laboratory, Graduate School of Medical Life Science, Yokohama
+City University, Yokohama, 230-0045, Japan. hiroshi.ohno@riken.jp.
+(14)Intestinal Microbiota Project, Kanagawa Institute of Industrial Science and
+Technology, Ebina, 243-0435, Japan. hiroshi.ohno@riken.jp.
+(15)Department of Parasitology, National Institute of Infectious Disease, Tokyo, 
+162-8640, Japan. hisa@niid.go.jp.
+(16)Department of Parasitology, Graduate School of Medicine, Gunma University,
+Maebashi, 371-8511, Japan. hisa@niid.go.jp.
+
+Type 1 diabetes (T1D) is an autoimmune disease in which insulin-producing
+pancreatic β-cells are destroyed. Intestinal helminths can cause asymptomatic
+chronic and immunosuppressive infections and suppress disease in rodent models of
+T1D. However, the underlying regulatory mechanisms for this protection are
+unclear. Here, we report that CD8+ regulatory T (Treg) cells prevent the onset of
+streptozotocin -induced diabetes by a rodent intestinal nematode. Trehalose
+derived from nematodes affects the intestinal microbiota and increases the
+abundance of Ruminococcus spp., resulting in the induction of CD8+ Treg cells.
+Furthermore, trehalose has therapeutic effects on both streptozotocin-induced
+diabetes and in the NOD mouse model of T1D. In addition, compared with healthy
+volunteers, patients with T1D have fewer CD8+ Treg cells, and the abundance of
+intestinal Ruminococcus positively correlates with the number of CD8+ Treg cells 
+in humans.
+
+DOI: 10.1038/s41467-020-15857-x 
+PMCID: PMC7176710
+PMID: 32321922  [Indexed for MEDLINE]
+

@@ -1,0 +1,64 @@
+
+1. Clin Transl Immunology. 2020 Sep 28;9(9):e1176. doi: 10.1002/cti2.1176.
+eCollection 2020.
+
+Disease extent and anti-tubercular treatment response correlates with
+Mycobacterium tuberculosis-specific CD4 T-cell phenotype regardless of HIV-1
+status.
+
+Riou C(1)(2), Du Bruyn E(1), Ruzive S(1), Goliath RT(1), Lindestam Arlehamn
+CS(3), Sette A(3)(4), Sher A(5), Barber DL(6), Wilkinson RJ(1)(7)(8)(9).
+
+Author information: 
+(1)Wellcome Centre for Infectious Disease Research in Africa Institute of
+Infectious Disease and Molecular Medicine University of Cape Town Observatory
+South Africa.
+(2)Division of Immunology Department of Pathology University of Cape Town
+Observatory South Africa.
+(3)Division of Vaccine Discovery La Jolla Institute for Immunology La Jolla CA
+USA.
+(4)Department of Medicine University of California San Diego La Jolla CA USA.
+(5)Immunobiology Section Laboratory of Parasitic Diseases National Institute of
+Allergy and Infectious Diseases National Institutes of Health Bethesda MD USA.
+(6)T Lymphocyte Biology Section Laboratory of Parasitic Diseases National
+Institute of Allergy and Infectious Diseases National Institutes of Health
+Bethesda MD USA.
+(7)Department of Infectious Diseases Imperial College London London UK.
+(8)Department of Medicine University of Cape Town Observatory South Africa.
+(9)The Francis Crick Institute London UK.
+
+Objectives: The development of non-sputum-based assays for tuberculosis (TB)
+diagnosis and treatment monitoring is a key priority. Recent data indicate that
+whole blood-based assays to assess the phenotype of Mycobacterium tuberculosis
+(Mtb)-specific CD4 T cells hold promise for this purpose and require further
+investigation in well-characterised TB cohorts. In this study, we investigated
+the relationship between the phenotypic signature of Mtb-specific CD4 responses, 
+TB disease extent and treatment response.
+Methods: Using flow cytometry, we measured the expression of phenotypic and
+functional markers (HLA-DR, CD27, CD153, KLRG1, IL-2, MIP-1β, TNF-α and IFN-γ) on
+Mtb-specific CD4 T-cells in whole blood from 161 participants of varying TB and
+HIV status. TB disease extent was graded as a continuum using the Xpertct value, 
+C-reactive protein, Timika radiographic score and monocyte/lymphocyte ratio.
+Results: The phenotypic profile of Mtb-specific CD4 T cells pre-anti-tubercular
+treatment (ATT) strongly correlated with disease extent, irrespective of HIV
+status. ATT associated with major changes in the phenotype of Mtb-specific CD4 T 
+cells, with decreased expression of HLA-DR and increased CD27 and CD153
+expression. Principal component analysis showed an almost complete separation
+between latent TB infection (LTBI) and active TB (aTB) pre-ATT groups, whereas
+the profile of the aTB post-ATT group overlapped with the LTBI group. However, in
+patients experiencing treatment failure or relapse, no significant changes were
+observed in Mtb-specific CD4 T-cell phenotype pre- and post-ATT.
+Conclusion: Whole blood-based assays of Mtb-specific CD4 T-cell activation and
+maturation markers can be used as non-sputum-based biomarkers of disease extent
+and treatment monitoring in TB, regardless of HIV-1 status.
+
+© 2020 The Authors. Clinical & Translational Immunology published by John Wiley &
+Sons Australia, Ltd on behalf of Australian and New Zealand Society for
+Immunology, Inc.
+
+DOI: 10.1002/cti2.1176 
+PMCID: PMC7520805
+PMID: 33005414 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

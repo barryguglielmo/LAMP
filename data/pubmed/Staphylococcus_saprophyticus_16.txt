@@ -1,0 +1,45 @@
+
+1. Chem Biol Drug Des. 2020 Jun 20. doi: 10.1111/cbdd.13706. [Epub ahead of print]
+
+Multimeric TAT peptides are effective in vitro inhibitors of Staphylococcus
+saprophyticus.
+
+Chiongson JBV(1)(2), Sabido EM(3), Lin KG(4), Alea GV(1), Dalisay DS(5), Wu
+SH(6), Saludes JP(2)(3).
+
+Author information: 
+(1)Department of Chemistry, College of Science, De La Salle University, Manila,
+Philippines.
+(2)Department of Chemistry and Physics, College of Liberal Arts, Sciences and
+Education, University of San Agustin, Iloilo City, Philippines.
+(3)Center for Natural Drug Discovery and Development (CND3), University of San
+Agustin, Iloilo City, Philippines.
+(4)Genomics Research Center, Academia Sinica, Taipei, Taiwan.
+(5)Center for Chemical Biology and Biotechnology (C2B2), University of San
+Agustin, Iloilo City, Philippines.
+(6)Institute of Biological Chemistry, Academia Sinica, Taipei, Taiwan.
+
+TAT (48-60) is a tridecapeptide from the envelope protein of HIV that was
+previously shown to possess cell-penetrating properties and antibacterial
+activity, making it a potential drug delivery agent for anticancer drugs and as
+antibacterial compound. Previous reports indicated that dimerization enhances the
+desired bioactivity of TAT; hence, we sought to synthesize multimeric TAT
+peptides. Herein, we describe the effects of multimerization on the antibacterial
+activity and secondary structure of the peptide. Terminal modifications such as
+N-acetylation and C-amidation were employed in the design. TATp monomer, dimer,
+and tetramer were synthesized using solid-phase peptide synthesis, purified by
+reversed-phase HPLC, and then characterized by mass spectrometry. Multimerization
+of the peptide did not change the secondary structure conformation. The CD
+analysis revealed a polyproline-II conformation for all peptide designs. Thus,
+this study provides a method of increasing the biological activity of the peptide
+by multimerization while retaining the secondary conformation of its monomeric
+unit. Furthermore, the bacteria Staphylococcus saprophyticus was found to be
+susceptible to the dimer and tetramer, with MIC50 of 12.50 μm and <1.56 μm,
+respectively. This suggests a structure-activity relationship whereby the
+antibacterial activity increases with increase in valency.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/cbdd.13706 
+PMID: 32562357 
+

@@ -1,0 +1,39 @@
+
+1. Genes Genet Syst. 2020 Aug 27;95(3):141-150. doi: 10.1266/ggs.19-00053. Epub 2020
+Jul 2.
+
+Comparative genome analysis and mining of secondary metabolites of Paenibacillus 
+polymyxa.
+
+Wang B(1)(2)(3), Cheng H(2)(3), Qian W(1)(2), Zhao W(2)(3), Liang C(2)(3), Liu
+C(1)(2), Cui G(2)(3), Liu H(2)(3), Zhang L(1)(2)(3).
+
+Author information: 
+(1)Hebei University of Technology.
+(2)Institute of Biology, Hebei Academy of Sciences.
+(3)Main Crops Disease of Microbial Control Engineering Technology Research Center
+in Hebei Province.
+
+Paenibacillus polymyxa is a well-known Gram-positive biocontrol bacterium. It has
+been reported that many P. polymyxa strains can inhibit bacteria, fungi and other
+plant pathogens. Paenibacillus polymyxa employs a variety of mechanisms to
+promote plant growth, so it is necessary to understand the biocontrol ability of 
+bacteria at the genome level. In the present study, thanks to the widespread
+availability of Paenibacillus genome data and the development of bioinformatics
+tools, we were able to analyze and mine the genomes of 43 P. polymyxa strains.
+The strain NCTC4744 was determined not to be P. polymyxa according to digital
+DNA-DNA hybridization and average nucleotide identity. By analysis of the
+pan-genome and the core genome, we found that the pan-genome of P. polymyxa was
+open and that there were 3,192 core genes. In a gene cluster analysis of
+secondary metabolites, 797 secondary metabolite gene clusters were found, of
+which 343 are not similar to known clusters and are expected to reveal a large
+number of new secondary metabolites. We also analyzed the plant growth-promoting 
+genes that were mined and found, surpisingly, that these genes are highly
+conserved. The results of the present study not only reveal a large number of
+unknown potential secondary metabolite gene clusters in P. polymyxa, but also
+suggest that plant growth promotion characteristics are evolutionary adaptations 
+of P. polymyxa to plant-related habitats.
+
+DOI: 10.1266/ggs.19-00053 
+PMID: 32611933 
+

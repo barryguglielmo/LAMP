@@ -1,0 +1,81 @@
+
+1. Theriogenology. 2020 Aug 15;157:525-533. doi:
+10.1016/j.theriogenology.2020.08.001. [Epub ahead of print]
+
+A pilot RNA-seq study in 40 pietrain ejaculates to characterize the porcine sperm
+microbiome.
+
+Gòdia M(1), Ramayo-Caldas Y(2), Zingaretti LM(3), Darwich L(4), López S(5),
+Rodríguez-Gil JE(6), Yeste M(7), Sánchez A(8), Clop A(9).
+
+Author information: 
+(1)Centre for Research in Agricultural Genomics (CRAG) CSIC-IRTA-UAB-UB, Campus
+UAB, 08193, Cerdanyola del Vallès, Catalonia, Spain. Electronic address:
+marta.godia@cragenomica.es.
+(2)Animal Breeding and Genetics Program, Institute for Research and Technology in
+Food and Agriculture (IRTA), Torre Marimon, 08140, Caldes de Montbui, Catalonia, 
+Spain; GABI, INRA, AgroParisTech, Université Paris-Saclay, UMR, 1313,
+Jouy-en-Josas, France. Electronic address: yuliaxis.ramayo@irta.cat.
+(3)Centre for Research in Agricultural Genomics (CRAG) CSIC-IRTA-UAB-UB, Campus
+UAB, 08193, Cerdanyola del Vallès, Catalonia, Spain. Electronic address:
+laura.zingaretti@cragenomica.es.
+(4)Departament de Sanitat i d'Anatomia Animals, Universitat Autònoma de
+Barcelona, 08193 Bellaterra, Catalonia, Spain; IRTA, Centre de Recerca en Sanitat
+Animal (CReSA, IRTA-UAB), Campus de la Universitat Autònoma de Barcelona, 08193, 
+Bellaterra, Catalonia, Spain. Electronic address: Laila.darwich@uab.cat.
+(5)Department of condensed matter physics, Faculty of Physics, Universitat de
+Barcelona, Barcelona, Cataloina, 08028, Spain. Electronic address:
+samantha.lopezm94@gmail.com.
+(6)Department of Animal Medicine and Surgery, School of Veterinary Sciences,
+Universitat Autonoma de Barcelona, 08193, Cerdanyola del Vallès, Catalonia,
+Spain. Electronic address: JuanEnrique.Rodriguez@uab.cat.
+(7)Biotechnology of Animal and Human Reproduction (TechnoSperm), Unit of Cell
+Biology, Department of Biology, Institute of Food and Agricultural Technology,
+Faculty of Sciences, University of Girona, E-17003 Girona, Catalonia, Spain.
+Electronic address: marc.yeste@udg.edu.
+(8)Centre for Research in Agricultural Genomics (CRAG) CSIC-IRTA-UAB-UB, Campus
+UAB, 08193, Cerdanyola del Vallès, Catalonia, Spain; Departament de Ciència
+Animal i dels Aliments, School of Veterinary Sciences, Universitat Autonoma de
+Barcelona, 08193, Cerdanyola del Vallès, Catalonia, Spain. Electronic address:
+armand.sanchez@uab.cat.
+(9)Centre for Research in Agricultural Genomics (CRAG) CSIC-IRTA-UAB-UB, Campus
+UAB, 08193, Cerdanyola del Vallès, Catalonia, Spain; Consejo Superior de
+Investigaciones Científicas (CSIC), 08003, Barcelona, Catalonia, Spain.
+Electronic address: alex.clop@cragenomica.es.
+
+The microbiome plays a key role in homeostasis and health and it has been also
+linked to fertility and semen quality in several animal species including swine. 
+Despite the more than likely importance of sperm bacteria on the boar's
+reproductive ability and the dissemination of pathogens and antimicrobial
+resistance genes, the high throughput characterization of the swine sperm
+microbiome remains scarce. We carried RNA-seq on 40 ejaculates each from a
+different Pietrain boar and found that a proportion of the sequencing reads did
+not map to the Sus scrofa genome. The current study aimed at using these reads
+not belonging to pig to carry a pilot study to profile the boar sperm bacterial
+population and its relation with 7 semen quality traits. We found that the boar
+sperm contains a broad population of bacteria. The most abundant phyla were
+Proteobacteria (39.1%), Firmicutes (27.5%), Actinobacteria (14.9%) and
+Bacteroidetes (5.7%). The predominant species contaminated sperm after
+ejaculation from soil, faeces and water sources (Bacillus megaterium,
+Brachybacterium faecium, Bacillus coagulans). Some potential pathogens were also 
+found but at relatively low levels (Escherichia coli, Clostridioides difficile,
+Clostridium perfringens, Clostridium botulinum and Mycobacterium tuberculosis).
+We also identified 3 potential antibiotic resistant genes from E. coli against
+chloramphenicol, Neisseria meningitidis against spectinomycin and Staphylococcus 
+aureus against linezolid. None of these genes were highly abundant. Finally, we
+classified the ejaculates into categories according to their bacterial features
+and semen quality parameters and identified two categories that significantly
+differed for 5 semen quality traits and 13 bacterial features including the
+genera Acinetobacter, Stenotrophomonas and Rhodobacter. Our results show that
+boar semen contains a bacterial community, including potential pathogens and
+putative antibiotic resistance genes, and that these bacteria may affect its
+reproductive performance.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.theriogenology.2020.08.001 
+PMID: 32971422 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no conflict of interest.
+

@@ -1,0 +1,50 @@
+
+1. PLoS One. 2020 Aug 20;15(8):e0231801. doi: 10.1371/journal.pone.0231801.
+eCollection 2020.
+
+Lactobacilli and other gastrointestinal microbiota of Peromyscus leucopus,
+reservoir host for agents of Lyme disease and other zoonoses in North America.
+
+Milovic A(1), Bassam K(1)(2), Shao H(1), Chatzistamou I(3), Tufts DM(4),
+Diuk-Wasser M(4), Barbour AG(1)(5).
+
+Author information: 
+(1)Department of Microbiology & Molecular Genetics, University of California
+Irvine, Irvine, California, United States of America.
+(2)Faculty of Medicine, American University of Beirut, Beirut, Lebanon.
+(3)Department of Pathology, Microbiology and Immunology, School of Medicine,
+University of South Carolina, Columbia, South Carolina, United States of America.
+(4)Department of Ecology, Evolution and Environmental Biology, Columbia
+University, New York, New York, United States of America.
+(5)Department of Medicine, University of California Irvine, Irvine, California,
+United States of America.
+
+The cricetine rodent Peromyscus leucopus is an important reservoir for several
+human zoonoses, including Lyme disease, in North America. Akin to hamsters, the
+white-footed deermouse has been unevenly characterized in comparison to the murid
+Mus musculus. To further understanding of P. leucopus' total genomic content, we 
+investigated gut microbiomes of an outbred colony of P. leucopus, inbred M.
+musculus, and a natural population of P. leucopus. Metagenome and whole genome
+sequencing were combined with microbiology and microscopy approaches. A focus was
+the genus Lactobacillus, four diverse species of which were isolated from
+forestomach and feces of colony P. leucopus. Three of the species-L. animalis, L.
+reuteri, and provisionally-named species "L. peromysci"-were identified in fecal 
+metagenomes of wild P. leucopus but not discernibly in samples from M. musculus. 
+L. johnsonii, the fourth species, was common in M. musculus but absent or sparse 
+in wild P. leucopus. Also identified in both colony and natural populations were 
+a Helicobacter sp. in feces but not stomach, and a Tritrichomonas sp. protozoan
+in cecum or feces. The gut metagenomes of colony P. leucopus were similar to
+those of colony M. musculus at the family or higher level and for major
+subsystems. But there were multiple differences between species and sexes within 
+each species in their gut metagenomes at orthologous gene level. These findings
+provide a foundation for hypothesis-testing of functions of individual microbial 
+species and for interventions, such as bait vaccines based on an autochthonous
+bacterium and targeting P. leucopus for transmission-blocking.
+
+DOI: 10.1371/journal.pone.0231801 
+PMCID: PMC7446861
+PMID: 32817657  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

@@ -1,0 +1,40 @@
+
+1. Mol Microbiol. 2020 Mar;113(3):659-671. doi: 10.1111/mmi.14469.
+
+One or two membranes? Diderm Firmicutes challenge the Gram-positive/Gram-negative
+divide.
+
+Megrian D(1)(2), Taib N(1)(3), Witwinowski J(1), Beloin C(4), Gribaldo S(1).
+
+Author information: 
+(1)Department of Microbiology, Unit Evolutionary Biology of the Microbial Cell,
+Institut Pasteur, Paris, France.
+(2)Ecole Doctorale Complexité du vivant, Sorbonne University, Paris, France.
+(3)Hub Bioinformatics and Biostatistics, Department of Computational Biology,
+Institut Pasteur, USR 3756 CNRS, Paris, France.
+(4)Department of Microbiology, Genetics of Biofilm Unit, Institut Pasteur, Paris,
+France.
+
+How, when and why the transition between cell envelopes with one membrane
+(Gram-positives or monoderms) and two (Gram-negative or diderms) occurred in
+Bacteria is a key unanswered question in evolutionary biology. Different
+hypotheses have been put forward, suggesting that either the monoderm or the
+diderm phenotype is ancestral. The existence of diderm members in the classically
+monoderm Firmicutes challenges the Gram-positive/Gram-negative divide and
+provides a great opportunity to tackle the issue. In this review, we present
+current knowledge on the diversity of bacterial cell envelopes, including these
+atypical Firmicutes. We discuss how phylogenomic analysis supports the hypothesis
+that the diderm cell envelope architecture is an ancestral character in the
+Firmicutes, and that the monoderm phenotype in this phylum arose multiple times
+independently by loss of the outer membrane. Given the overwhelming distribution 
+of diderm phenotypes with respect to monoderm ones, this scenario likely extends 
+to the ancestor of all bacteria. Finally, we discuss the recent development of
+genetic tools for Veillonella parvula, a diderm Firmicute member of the human
+microbiome, which indicates it as an emerging new experimental model to
+investigate fundamental aspects of the diderm/monoderm transition.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/mmi.14469 
+PMID: 31975449 
+

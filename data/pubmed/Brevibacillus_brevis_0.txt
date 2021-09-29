@@ -1,0 +1,50 @@
+
+1. mBio. 2020 Aug 25;11(4). pii: e01917-20. doi: 10.1128/mBio.01917-20.
+
+Cooperation, Competition, and Specialized Metabolism in a Simplified Root Nodule 
+Microbiome.
+
+Hansen BL(1), Pessotti RC(1), Fischer MS(1), Collins A(2), El-Hifnawi L(2), Liu
+MD(3), Traxler MF(4).
+
+Author information: 
+(1)Department of Plant and Microbial Biology, University of California, Berkeley,
+Berkeley, California, USA.
+(2)Department of Molecular and Cellular Biology, University of California,
+Berkeley, Berkeley, California, USA.
+(3)Department of Chemistry, University of California, Berkeley, Berkeley,
+California, USA.
+(4)Department of Plant and Microbial Biology, University of California, Berkeley,
+Berkeley, California, USA mtrax@berkeley.edu.
+
+Microbiomes associated with various plant structures often contain members with
+the potential to make specialized metabolites, e.g., molecules with
+antibacterial, antifungal, or siderophore activities. However, when and where
+microbes associated with plants produce specialized metabolites, and the
+potential role of these molecules in mediating intramicrobiome interactions, is
+not well understood. Root nodules of legume plants are organs devoted to hosting 
+symbiotic bacteria that fix atmospheric nitrogen and have recently been shown to 
+harbor a relatively simple accessory microbiome containing members with the
+ability to produce specialized metabolites in vitro On the basis of these
+observations, we sought to develop a model nodule microbiome system for
+evaluating specialized microbial metabolism in planta Starting with an inoculum
+derived from field-grown Medicago sativa nodules, serial passaging through
+gnotobiotic nodules yielded a simplified accessory community composed of four
+members: Brevibacillus brevis , Paenibacillus sp., Pantoea agglomerans, and
+Pseudomonas sp. Some members of this community exhibited clear cooperation in
+planta, while others were antagonistic and capable of disrupting cooperation
+between other partners. Using matrix-assisted laser desorption ionization-imaging
+mass spectrometry, we found that metabolites associated with individual taxa had 
+unique distributions, indicating that some members of the nodule community were
+spatially segregated. Finally, we identified two families of molecules produced
+by B. brevis in planta as the antibacterial tyrocidines and a novel set of
+gramicidin-type molecules, which we term the britacidins. Collectively, these
+results indicate that in addition to nitrogen fixation, legume root nodules are
+likely also sites of active antimicrobial production.
+
+Copyright © 2020 Hansen et al.
+
+DOI: 10.1128/mBio.01917-20 
+PMCID: PMC7448283
+PMID: 32843548 
+

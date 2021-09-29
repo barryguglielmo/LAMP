@@ -1,0 +1,60 @@
+
+1. Front Microbiol. 2020 Jun 4;11:1213. doi: 10.3389/fmicb.2020.01213. eCollection
+2020.
+
+Amoxicillin Increased Functional Pathway Genes and Beta-Lactam Resistance Genes
+by Pathogens Bloomed in Intestinal Microbiota Using a Simulator of the Human
+Intestinal Microbial Ecosystem.
+
+Liu L(1), Wang Q(1)(2), Lin H(1), Das R(1), Wang S(1), Qi H(1), Yang J(1), Xue
+Y(3), Mao D(4), Luo Y(1).
+
+Author information: 
+(1)College of Environmental Science and Engineering, Ministry of Education Key
+Laboratory of Pollution Processes and Environmental Criteria, Nankai University, 
+Tianjin, China.
+(2)Hebei Key Laboratory of Air Pollution Cause and Impact (preparatory), College 
+of Energy and Environmental Engineering, Hebei University of Engineering, Handan,
+China.
+(3)Key Laboratory of Environmental Protection of Water Environment Biological
+Monitoring of Jiangsu Province, Changzhou Environmental Monitoring Center,
+Changzhou, China.
+(4)School of Medicine, Nankai University, Tianjin, China.
+
+Antibiotics are frequently used to treat bacterial infections; however, they
+affect not only the target pathogen but also commensal gut bacteria. They may
+cause the dysbiosis of human intestinal microbiota and consequent metabolic
+alterations, as well as the spreading of antibiotic resistant bacteria and
+antibiotic resistance genes (ARGs). In vitro experiments by simulator of the
+human intestinal microbial ecosystem (SHIME) can clarify the direct effects of
+antibiotics on different regions of the human intestinal microbiota, allowing
+complex human microbiota to be stably maintained in the absence of host cells.
+However, there are very few articles added the antibiotics into this in vitro
+model to observe the effects of antibiotics on the human intestinal microbiota.
+To date, no studies have focused on the correlations between the bloomed
+pathogens caused by amoxicillin (AMX) exposure and increased functional pathway
+genes as well as ARGs. This study investigated the influence of 600 mg day-1 AMX 
+on human intestinal microbiota using SHIME. The impact of AMX on the composition 
+and function of the human intestinal microbiota was revealed by 16S rRNA gene
+sequencing and high-throughput quantitative PCR. The results suggested that: (i) 
+AMX treatment has tremendous influence on the overall taxonomic composition of
+the gut microbiota by increasing the relative abundance of Klebsiella [linear
+discriminant analysis (LDA) score = 5.26] and Bacteroides uniformis (LDA score = 
+4.75), as well as taxonomic diversity (Simpson, P = 0.067, T-test; Shannon, P =
+0.061, T-test), and decreasing the members of Parabacteroides (LDA score = 4.18),
+Bifidobacterium (LDA score = 4.06), and Phascolarctobacterium (LDA score = 3.95);
+(ii) AMX exposure significantly enhanced the functional pathway genes and
+beta-lactam resistance genes, and the bloomed pathogens were strongly correlated 
+with the metabolic and immune system diseases gene numbers (R = 0.98, P < 0.001) 
+or bl2_len and bl2be_shv2 abundance (R = 0.94, P < 0.001); (iii) the changes
+caused by AMX were "SHIME-compartment" different with more significant alteration
+in ascending colon, and the effects were permanent, which could not be restored
+after 2-week AMX discontinuance. Overall results demonstrated negative
+side-effects of AMX, which should be considered for AMX prescription.
+
+Copyright © 2020 Liu, Wang, Lin, Das, Wang, Qi, Yang, Xue, Mao and Luo.
+
+DOI: 10.3389/fmicb.2020.01213 
+PMCID: PMC7287123
+PMID: 32582117 
+

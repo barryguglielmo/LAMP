@@ -1,0 +1,41 @@
+
+1. Int J Syst Evol Microbiol. 2020 Sep;70(9):5012-5018. doi: 10.1099/ijsem.0.004373.
+
+Pseudomonas viciae sp. nov., isolated from rhizosphere of broad bean.
+
+Zhao H(1), Ma Y(1), Wu X(2), Zhang L(1).
+
+Author information: 
+(1)Department of Plant Pathology and Ministry of Agriculture and Rural Affairs
+Key Laboratory of Pest Monitoring and Green Management, College of Plant
+Protection China Agricultural University, Beijing, PR China.
+(2)College of Agriculture, Guangxi University, Nanning, PR China.
+
+A Gram-stain-negative aerobic bacterium, strain 11K1T, was isolated from a
+rhizosphere soil of broad bean collected from Qujing, Yunnan, PR China and
+characterized by using polyphasic taxonomy. The bacterial cells of strain 11K1T
+were rod-shaped, motile by two polar flagella and positive for oxidase and
+catalase. Results of phylogenetic analysis based on 16S rRNA gene sequences
+revealed that the strain had the highest similarities to Pseudomonas
+thivervalensis DSM 13194T (99.52 %), Pseudomonas lini CFBP 5737T (99.45 %),
+Pseudomonas chlororaphis subsp. chlororaphis NBRC 3904T (99.31 %), Pseudomonas
+kilonensis DSM 13647T (99.25 %) and Pseudomonas brassicacearum JCM11938T
+(99.24 %). Multilocus sequence analysis using the 16S rRNA, gyrB, rpoB and rpoD
+gene sequences demonstrated that strain 11K1T was a member of the Pseudomonas
+corrugata subgroup within the Pseudomonas fluorescens lineage, but was distant
+from all closely related species. The average nucleotide identity and in silico
+DNA-DNA hybridization values were lower than recommended thresholds of 95 and
+70 %, respectively, for species delineation. The major isoprenoid quinone of
+strain 11K1T was ubiquinone (Q-9) and the major cellular fatty acids were
+C16 : 0, summed feature 3 (C16 : 1 ω7c/C16 : 1 ω6c), summed feature 8
+(C18 : 1 ω7c/C18 : 1 ω6c) and C17 : 0 cyclo. The major polar lipids were
+phosphatidylethanolamine, phosphatidylglycerol, diphosphatidylglycerol,
+aminophospholipid and two unidentified lipids. Based on the results of phenotypic
+characterization, phylogenetic analysis and genome comparison, strain 11K1T
+represents a novel species of the genus Pseudomonas, for which the name
+Pseudomonas viciae sp. nov. is proposed. The type strain is 11K1T (=GDMCC
+1.1743T=KACC 21650T).
+
+DOI: 10.1099/ijsem.0.004373 
+PMID: 32776868 
+

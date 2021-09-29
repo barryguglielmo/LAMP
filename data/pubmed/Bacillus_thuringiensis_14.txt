@@ -1,0 +1,44 @@
+
+1. Int J Mol Sci. 2020 Sep 7;21(18). pii: E6528. doi: 10.3390/ijms21186528.
+
+Multiple Known Mechanisms and a Possible Role of an Enhanced Immune System in
+Bt-Resistance in a Field Population of the Bollworm, Helicoverpa zea: Differences
+in Gene Expression with RNAseq.
+
+Lawrie RD(1)(2), Mitchell Iii RD(3), Deguenon JM(2), Ponnusamy L(2), Reisig D(4),
+Pozo-Valdivia AD(4), Kurtz RW(5), Roe RM(1)(2).
+
+Author information: 
+(1)Department of Biology/Environmental and Molecular Toxicology Program, 850 Main
+Campus Dr, North Carolina State University, Raleigh, NC 27695, USA.
+(2)Department of Entomology and Plant Pathology, Campus Box 7647, 3230 Ligon
+Street, North Carolina State University, Raleigh, NC 27695, USA.
+(3)Knipling-Bushland US Livestock Insects Research Laboratory Genomics Center,
+2700 Fredericksburg Road, United States Department of Agriculture-Agricultural
+Research Service, Kerrville, TX 78028, USA.
+(4)Department of Entomology and Plant Pathology, Vernon G. James Research &
+Extension Center, 207 Research Station Road, Plymouth, NC 27962, USA.
+(5)Cotton Incorporated, 6399 Weston Parkway, Cary, NC 27513, USA.
+
+Several different agricultural insect pests have developed field resistance to Bt
+(Bacillus thuringiensis) proteins (ex. Cry1Ac, Cry1F, etc.) expressed in crops,
+including corn and cotton. In the bollworm, Helicoverpa zea, resistance levels
+are increasing; recent reports in 2019 show up to 1000-fold levels of resistance 
+to Cry1Ac, a major insecticidal protein in Bt-crops. A common method to analyze
+global differences in gene expression is RNA-seq. This technique was used to
+measure differences in global gene expression between a Bt-susceptible and
+Bt-resistant strain of the bollworm, where the differences in susceptibility to
+Cry1Ac insecticidal proteins were 100-fold. We found expected gene expression
+differences based on our current understanding of the Bt mode of action,
+including increased expression of proteases (trypsins and serine proteases) and
+reduced expression of Bt-interacting receptors (aminopeptidases and cadherins) in
+resistant bollworms. We also found additional expression differences for
+transcripts that were not previously investigated, i.e., transcripts from three
+immune pathways-Jak/STAT, Toll, and IMD. Immune pathway receptors (ex. PGRPs) and
+the IMD pathway demonstrated the highest differences in expression. Our analysis 
+suggested that multiple mechanisms are involved in the development of
+Bt-resistance, including potentially unrecognized pathways.
+
+DOI: 10.3390/ijms21186528 
+PMID: 32906662 
+

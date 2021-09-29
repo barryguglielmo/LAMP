@@ -1,0 +1,48 @@
+
+1. Comp Immunol Microbiol Infect Dis. 2020 Aug 30;73:101540. doi:
+10.1016/j.cimid.2020.101540. [Epub ahead of print]
+
+Serological epidemiological surveillance for vapN-harboring Rhodococcus equi
+infection in goats.
+
+Suzuki Y(1), Takahashi K(2), Takase F(2), Sawada N(2), Nakao S(3), Toda A(4),
+Sasaki Y(2), Kakuda T(2), Takai S(2).
+
+Author information: 
+(1)Laboratory of Animal Hygiene, Kitasato University School of Veterinary
+Medicine, Higashi 23-35-1, Towada, Aomori, 034-8628, Japan. Electronic address:
+ysuzuki@vmas.kitasato-u.ac.jp.
+(2)Laboratory of Animal Hygiene, Kitasato University School of Veterinary
+Medicine, Higashi 23-35-1, Towada, Aomori, 034-8628, Japan.
+(3)Okinawa Prefectural Institute of Animal Health, 3-1 Kanekadan, Uruma, Okinawa,
+904-2241, Japan.
+(4)Okinawa Yaeyama Livestock Hygiene Service Center, 1-2 Miyara, Ishigaki,
+Okinawa, 907-0243, Japan.
+
+Rhodococcus equi causes suppurative pneumonia in foals aged 1-3 months; moreover,
+it has emerged as a pathogenic cause of zoonotic diseases. After the initial
+report of the ruminant-pathogenic factor VapN encoded by the novel virulence
+plasmid pVAPN, several reports have described ruminant infections caused by
+vapN-harboring R. equi. Herein, we conducted a serological epidemiological
+surveillance in goats at a breeding farm (Farm A) and characterized the
+vapN-harboring R. equi isolates from this farm. First, we established a simple
+screening enzyme-linked immunosorbent assay (ELISA) using recombinant glutathione
+S-transferase-tagged VapN as an immobilized antigen. This method revealed that
+the VapN antibody titers were elevated in 12 of 42 goats. Subsequently, we
+attempted to isolate R. equi from the goat feces and soil of Farm A.
+choE+/vapN+R. equi was isolated from the feces of Goat No. 27 and a soil sample
+near the shed. The pulsed-field gel electrophoresis (PFGE) patterns of five
+vapN-harboring R. equi strains isolated from Farm A in 2013 and 2019 were
+investigated and found to be the same except for the strain (OKI2019F1). However,
+no difference was observed in VapN expression and growth in macrophages among
+these vapN-harboring R. equi isolates. Our results revealed that some goats had
+histories of vapN-harboring R. equi infections, and two genomic types of
+vapN-harboring R. equi were found in isolates from Farm A. Ruminant-specific
+(pVAPN-carrying) R. equi might be an unrecognized pathogen in Japan and further
+studies are required to determine its prevalence and distribution.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cimid.2020.101540 
+PMID: 32911379 
+

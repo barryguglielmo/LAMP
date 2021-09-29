@@ -1,0 +1,33 @@
+
+1. Protein J. 2019 Dec;38(6):683-692. doi: 10.1007/s10930-019-09853-4.
+
+Identification and Characterization of the Two-Component System HK8700-RR8701 of 
+Kocuria rhizophila DC2201.
+
+Chen B(1), Zou T(1), Zou L(1), Ni H(1), Huang Y(1), Long ZE(2).
+
+Author information: 
+(1)College of Life Science, Jiangxi Normal University, Nanchang, 330022, People's
+Republic of China.
+(2)College of Life Science, Jiangxi Normal University, Nanchang, 330022, People's
+Republic of China. longzhonger@jxnu.edu.cn.
+
+Two-component systems (TCSs) are highly conserved in prokaryotes, endowing cells 
+with multiple physiological functions to respond to changes in the ambient
+environment. The signaling pathway of a typical TCS consists of a sensory
+histidine kinase and a response regulator. The TCSs of Kocuria rhizophila, which 
+is usually used as a target strain for various antibiotics and other adverse
+factors, have captured our interest due to their potential roles in bacterial
+adaptation for survival. Herein, the distribution and putative biological
+functions of the TCSs of K. rhizophila DC2201 were analyzed by using
+bioinformatics, and a preliminary TCS regulatory network was constructed. A
+representative and important TCS (i.e., HK8700-RR8701 system), which is
+homologous to the LiaS-LiaR system previously discovered in Bacillus subtilis,
+was identified and characterized through yeast two-hybrid screening and
+phosphorylation assays. Detailed information of TCSs is expected to offer novel
+insights into the adaptation mechanism of K. rhizophila and thus boost its
+application.
+
+DOI: 10.1007/s10930-019-09853-4 
+PMID: 31302850  [Indexed for MEDLINE]
+

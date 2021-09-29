@@ -1,0 +1,49 @@
+
+1. Biochim Biophys Acta Gen Subj. 2020 Dec;1864(12):129721. doi:
+10.1016/j.bbagen.2020.129721. Epub 2020 Aug 29.
+
+Molecular dynamics simulations of two GH74 endo-processive xyloglucanases and the
+mutated variants to understand better the mechanism of the enzyme action.
+
+Gusakov AV(1), Uporov IV(2), Sinitsyna OA(2).
+
+Author information: 
+(1)Department of Chemistry, M. V. Lomonosov Moscow State University, Vorobyovy
+Gory 1/11, Moscow 119991, Russia. Electronic address:
+avgusakov@enzyme.chem.msu.ru.
+(2)Department of Chemistry, M. V. Lomonosov Moscow State University, Vorobyovy
+Gory 1/11, Moscow 119991, Russia.
+
+BACKGROUND: GH74 xyloglucanases are composed of two separate domains connected by
+two unstructured peptides. Previously, a hypothesis was made that the movement of
+domains may affect the enzyme mechanism of catalysis.
+METHODS: The molecular dynamics (MD) simulations of endo-processive
+xyloglucanases from Paenibacillus odorifer (PoGH74cat) and Myceliophthora
+thermophila (MtXeg74A) were carried out.
+RESULTS: MD simulations for both enzymes in complex with XXLG and XGXXLG
+oligosaccharides confirmed the possibility of domain movement. In the case of
+MtXeg74A, changes in the distances between Cα atoms of aromatic residues involved
+in xyloglucan binding in -3 and +3 subsites of the active site cleft and those of
+selected residues on the opposite side of the cleft reached values up to 10-12 Å.
+For PoGH74cat the conformational changes were less pronounced. In MtXeg74A
+variants, the deletion of loop 1, which partially closes the entrance to the
+cleft, and the additional double mutation of two Trp residues in +3 and +5
+subsites caused the enhanced mobility of the XGXXLG and also induced changes in
+topography of the cleft.
+CONCLUSIONS: These findings demonstrate the possibility of existence of GH74
+xyloglucanases in a more open and more closed enzyme conformation. The enzyme in 
+an open conformation may more easily accommodate the branched polysaccharide,
+while its transition to the closed conformation, together with loop 1 function,
+should aid processivity.
+GENERAL SIGNIFICANCE: Our results provide an insight into a mechanism of action
+of GH74 xyloglucanases and may be useful for discussing the catalytic mechanisms 
+of glycoside hydrolases from other families.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbagen.2020.129721 
+PMID: 32866595 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare no conflict of interest.
+

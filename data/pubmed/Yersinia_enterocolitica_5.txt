@@ -1,0 +1,62 @@
+
+1. Proc Natl Acad Sci U S A. 2020 Sep 15;117(37):22984-22991. doi:
+10.1073/pnas.1917504117. Epub 2020 Aug 31.
+
+Early evolutionary loss of the lipid A modifying enzyme PagP resulting in innate 
+immune evasion in Yersinia pestis.
+
+Chandler CE(1), Harberts EM(1), Pelletier MR(1), Thaipisuttikul I(2), Jones
+JW(3), Hajjar AM(4), Sahl JW(5), Goodlett DR(1)(6), Pride AC(7), Rasko DA(8),
+Trent MS(9), Bishop RE(10), Ernst RK(11).
+
+Author information: 
+(1)Department of Microbial Pathogenesis, University of Maryland, Baltimore, MD
+21201.
+(2)Department of Microbiology, Faculty of Medicine Siriraj Hospital, Mahidol
+University, Bangkok, Thailand 10700.
+(3)Department of Pharmaceutical Sciences, University of Maryland, Baltimore, MD
+21201.
+(4)Department of Cellular and Molecular Medicine, Cleveland Clinic, Cleveland, OH
+44195.
+(5)Department of Biological Sciences, Northern Arizona University, Flagstaff, AZ 
+86011.
+(6)International Centre for Cancer Vaccine Science, University of Gdansk, Gdansk,
+Poland 80-822.
+(7)Department of Molecular Biosciences, University of Texas, Austin, TX 78712.
+(8)Institute for Genome Sciences, University of Maryland, Baltimore, MD 21201.
+(9)Department of Infectious Diseases, University of Georgia, Athens, GA 30602.
+(10)Department of Biochemistry and Biomedical Sciences, Michael G. DeGroote
+Institute for Infectious Disease Research, McMaster University, Hamilton, ON,
+Canada L8S4L8.
+(11)Department of Microbial Pathogenesis, University of Maryland, Baltimore, MD
+21201; rkernst@umaryland.edu.
+
+Immune evasion through membrane remodeling is a hallmark of Yersinia pestis
+pathogenesis. Yersinia remodels its membrane during its life cycle as it
+alternates between mammalian hosts (37 °C) and ambient (21 °C to 26 °C)
+temperatures of the arthropod transmission vector or external environment. This
+shift in growth temperature induces changes in number and length of acyl groups
+on the lipid A portion of lipopolysaccharide (LPS) for the enteric pathogens
+Yersinia pseudotuberculosis (Ypt) and Yersinia enterocolitica (Ye), as well as
+the causative agent of plague, Yersinia pestis (Yp). Addition of a C16 fatty acid
+(palmitate) to lipid A by the outer membrane acyltransferase enzyme PagP occurs
+in immunostimulatory Ypt and Ye strains, but not in immune-evasive Yp Analysis of
+Yp pagP gene sequences identified a single-nucleotide polymorphism that results
+in a premature stop in translation, yielding a truncated, nonfunctional enzyme.
+Upon repair of this polymorphism to the sequence present in Ypt and Ye, lipid A
+isolated from a Yp pagP+ strain synthesized two structures with the C16 fatty
+acids located in acyloxyacyl linkage at the 2' and 3' positions of the
+diglucosamine backbone. Structural modifications were confirmed by mass
+spectrometry and gas chromatography. With the genotypic restoration of PagP
+enzymatic activity in Yp, a significant increase in lipid A endotoxicity mediated
+through the MyD88 and TRIF/TRAM arms of the TLR4-signaling pathway was observed. 
+Discovery and repair of an evolutionarily lost lipid A modifying enzyme provides 
+evidence of lipid A as a crucial determinant in Yp infectivity, pathogenesis, and
+host innate immune evasion.
+
+DOI: 10.1073/pnas.1917504117 
+PMCID: PMC7502761 [Available on 2021-02-28]
+PMID: 32868431 
+
+Conflict of interest statement: The authors declare no competing interest.
+

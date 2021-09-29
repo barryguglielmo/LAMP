@@ -1,0 +1,38 @@
+
+1. J Agric Food Chem. 2020 May 20;68(20):5648-5657. doi: 10.1021/acs.jafc.9b08085.
+Epub 2020 May 11.
+
+Biochemical Characterization and Structural Analysis of a
+β-N-Acetylglucosaminidase from Paenibacillus barengoltzii for Efficient
+Production of N-Acetyl-d-glucosamine.
+
+Liu Y(1), Jiang Z(2), Ma J(2), Ma S(3), Yan Q(1), Yang S(2).
+
+Author information: 
+(1)Beijing Advanced Innovation Center for Food Nutrition and Human Health,
+College of Engineering, China Agricultural University, No.17 Qinghua East Road,
+Haidian District, Beijing 100083, China.
+(2)College of Food Science and Nutritional Engineering, China Agricultural
+University, No.17 Qinghua East Road, Haidian District, Beijing 100083, China.
+(3)College of Engineering, China Agricultural University, No.17 Qinghua East
+Road, Haidian District, Beijing 100083, China.
+
+Bioproduction of N-acetyl-d-glucosamine (GlcNAc) from chitin, the second most
+abundant natural renewable polymer on earth, is of great value in which
+chitinolytic enzymes play key roles. In this study, a novel glycoside hydrolase
+family-18 β-N-acetylglucosaminidase (PbNag39) from Paenibacillus barengoltzii
+suitable for GlcNAc production was identified and biochemically characterized. It
+possessed a unique shallow catalytic groove (5.8 Å) as well as a smaller
+C-terminal domain (solvent-accessible surface area, 5.1 × 103 Å2) and exhibited
+strict substrate specificity toward N-acetyl chitooligosaccharides (COS) with
+GlcNAc as the sole product, showing a typical manner of action of
+β-N-acetylglucosaminidases. Thus, an environmentally friendly bioprocess for
+GlcNAc production from ball-milled powdery chitin by an enzyme cocktail reaction 
+was further developed. By using the new route, the powdery chitin conversion rate
+increased from 23.3% (v/v) to 75.3% with a final GlcNAc content of 22.6 mg mL-1. 
+The efficient and environmentally friendly bioprocess may have great application 
+potential in GlcNAc production.
+
+DOI: 10.1021/acs.jafc.9b08085 
+PMID: 32338008 
+

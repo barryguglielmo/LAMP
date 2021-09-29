@@ -1,0 +1,49 @@
+
+1. Elife. 2020 Jun 9;9. pii: e57322. doi: 10.7554/eLife.57322.
+
+An ECF-type transporter scavenges heme to overcome iron-limitation in
+Staphylococcus lugdunensis.
+
+Jochim A(1), Adolf L(1), Belikova D(1), Schilling NA(2), Setyawati I(3), Chin
+D(4), Meyers S(5), Verhamme P(5), Heinrichs DE(4), Slotboom DJ(3), Heilbronner
+S(1)(6)(7).
+
+Author information: 
+(1)Interfaculty Institute of Microbiology and Infection Medicine, Department of
+Infection Biology, University of Tübingen, Tübingen, Germany.
+(2)Institute of Organic Chemistry, University of Tübingen, Tübingen, Germany.
+(3)Groningen Biomolecular Sciences and Biotechnology Institute, University of
+Groningen, Groningen, Netherlands.
+(4)Department of Microbiology and Immunology, University of Western Ontario,
+London, Canada.
+(5)Center for Molecular and Vascular Biology, Leuven, Belgium.
+(6)German Centre for Infection Research (DZIF), Partner Site Tübingen, Tübingen, 
+Germany.
+(7)(DFG) Cluster of Excellence EXC 2124 Controlling Microbes to Fight Infections,
+Tübingen, Germany.
+
+Energy-coupling factor type transporters (ECF) represent trace nutrient
+acquisition systems. Substrate binding components of ECF-transporters are
+membrane proteins with extraordinary affinity, allowing them to scavenge trace
+amounts of ligand. A number of molecules have been described as substrates of
+ECF-transporters, but an involvement in iron-acquisition is unknown. Host-induced
+iron limitation during infection represents an effective mechanism to limit
+bacterial proliferation. We identified the iron-regulated ECF-transporter Lha in 
+the opportunistic bacterial pathogen Staphylococcus lugdunensis and show that the
+transporter is specific for heme. The recombinant substrate-specific subunit LhaS
+accepted heme from diverse host-derived hemoproteins. Using isogenic mutants and 
+recombinant expression of Lha, we demonstrate that its function is independent of
+the canonical heme acquisition system Isd and allows proliferation on human cells
+as sources of nutrient iron. Our findings reveal a unique strategy of nutritional
+heme acquisition and provide the first example of an ECF-transporter involved in 
+overcoming host-induced nutritional limitation.
+
+© 2020, Jochim et al.
+
+DOI: 10.7554/eLife.57322 
+PMCID: PMC7299338
+PMID: 32515736 
+
+Conflict of interest statement: AJ, LA, DB, NS, IS, DC, SM, PV, DH, DS, SH No
+competing interests declared
+

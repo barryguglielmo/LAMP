@@ -1,0 +1,37 @@
+
+1. Analyst. 2020 Jul 7;145(13):4477-4483. doi: 10.1039/d0an00270d. Epub 2020 May 11.
+
+A signal cascade amplification strategy based on RT-PCR triggering of a
+G-quadruplex DNAzyme for a novel electrochemical detection of viable Cronobacter 
+sakazakii.
+
+Yuan Y (1), Wu X , Liu Z , Ning Q , Fu L , Wu S .
+
+Author information: 
+(1)School of Life Sciences, Shanghai University, Shanghai, 200444, P.R. China.
+zhmliu@shu.edu.cn.
+
+Cronobacter sakazakii is an important opportunistic food-borne pathogen, and it
+can cause severe diseases with main symptoms including neonatal meningitis,
+necrotizing enterocolitis, and sepsis. For the achievement of practical and
+convenient detection of viable C. sakazakii, a simple and robust strategy based
+on the cascade signal amplification of RT-PCR triggered G-quadruplex DNAzyme
+catalyzed reaction was firstly used to develop an effective and sensitive DNAzyme
+electrochemical assay. Without viable C. sakazakii in the samples there are no
+RT-PCR and DNAzyme products, which can cause a weak electrochemical response.
+Once viable C. sakazakii exists in the samples, an obvious enhancement of the
+electrochemical response can be achieved after the target signal is amplified by 
+RT-PCR and the resulting DNAzyme, which catalyze the oxidation of
+3,3',5,5'-tetramethylbenzidine (TMB) by H2O2 with the assistance of the cofactor 
+hemin. Our novel assay can be performed in a range of 2.4 × 107 CFU mL-1 to 3.84 
+× 104 CFU mL-1 (R2 = 0.9863), with a detection limit of 5.01 × 102 CFU mL-1.
+Through the assay of 15 real samples, electrochemical detection assay provided
+the same results as conventional detection methods. Therefore, detection of
+viable C. sakazakii based on G-quadruplex DNAzyme electrochemical assay with
+RT-PCR demonstrates the significant advantages of high sensitivity, low cost and 
+simple manipulation over existing approaches and offers an opportunity for
+potential application in pathogen detection.
+
+DOI: 10.1039/d0an00270d 
+PMID: 32391531 
+

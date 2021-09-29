@@ -1,0 +1,54 @@
+
+1. Pharmeur Bio Sci Notes. 2020;2020:53-124.
+
+Collaborative study for the validation of cell line assays for in-process
+toxicity and antigenicity testing of Clostridium septicum vaccine antigens - Part
+1.
+
+Daas A(1), Behr-Gross ME(1), Bruckner L(2), Redhead K(3).
+
+Author information: 
+(1)European Directorate for the Quality of Medicines & HealthCare (EDQM),
+Department of Biological Standardisation, OMCL Network & HealthCare (DBO),
+Council of Europe, Strasbourg, France.
+(2)Bifitstrasse 74, CH-3145 Niederscherli, Switzerland.
+(3)Vaccine & Assay Consultancy Ltd, 29 Evans Avenue, Watford, WD25 0EX, United
+Kingdom.
+
+Large numbers of mice are used in testing during the production of Clostridial
+vaccines. Previous work has indicated that cell line assays could replace mouse
+tests for certain aspects of this testing. Replacement assays have been developed
+for the testing of the toxins and toxoids of several clostridial species but none
+of these assays have been assessed in an international collaborative study. Under
+the common aegis of the European Partnership for Alternative Approaches to Animal
+Testing (EPAA) and of the European Directorate for the Quality of Medicines &
+HealthCare (EDQM), collaborative study BSP130 was initiated to evaluate Vero cell
+based alternative methods to the current mouse tests used to measure the toxicity
+of Clostridium septicum toxin (the minimum lethal dose (MLD) test), the freedom
+from toxicity of C. septicum toxoid (the MLD test) and the antigenicity of C.
+septicum toxoid (the total combining power (TCP) test). The principal aims of
+BSP130 were to determine the repeatability and reproducibility of the in vitro
+assays and to demonstrate concordance of the proposed in vitro and current in
+vivo TCP and MLD tests. 11 laboratories from 7 countries participated in the
+collaborative study and each tested 6 toxins and 6 toxoids. The participants'
+Vero cell lines were up to 1 000 times more sensitive than the mouse strains. The
+MLD assay in mice and on Vero cells generally ranked the toxins in a similar
+order in most of the laboratories. The TCP assay in mice and on Vero cells also
+generally ranked the toxoids in a similar order in most of the laboratories. The 
+results demonstrate that the repeatability and reproducibility of the in vitro
+Vero cell based assays are no worse than that of the in vivo assays and that they
+are easily transferable to other laboratories. The concordance correlations
+between the in vivo and in vitro methods were for the MLD assays ρc=0.961
+(log-transformed values) and ρc=0.921 (non-log-transformed values) and for the
+TCP assays ρc=0.968 (log-transformed values) and ρc=0.980 (non log-transformed
+values). These correlations are excellent showing that the Vero cell assays can
+be used as alternatives to the mouse tests for the assessment of C. septicum
+toxin MLD and toxoid TCP values. This study can be used by vaccine manufacturing 
+companies as a guide for applying the same approach to other clostridial toxins
+and toxoids.
+
+© Council of Europe 2020.
+
+
+PMID: 32589137 
+

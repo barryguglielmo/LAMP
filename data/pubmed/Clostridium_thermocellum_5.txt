@@ -1,0 +1,47 @@
+
+1. Sci Rep. 2020 Sep 3;10(1):14517. doi: 10.1038/s41598-020-71428-6.
+
+Transcriptomic analysis of a Clostridium thermocellum strain engineered to
+utilize xylose: responses to xylose versus cellobiose feeding.
+
+Tafur Rangel AE(1)(2), Croft T(3), González Barrios AF(1), Reyes LH(4), Maness
+PC(5), Chou KJ(6).
+
+Author information: 
+(1)Grupo de Diseño de Productos Y Procesos (GDPP), Department of Chemical and
+Food Engineering, Universidad de los Andes, Bogotá, Colombia.
+(2)Grupo de Investigación CINBIOS, Department of Microbiology, Universidad
+Popular del Cesar, Valledupar-Cesar, Colombia.
+(3)Biosciences Center, National Renewable Energy Laboratory, Golden, CO, USA.
+(4)Grupo de Diseño de Productos Y Procesos (GDPP), Department of Chemical and
+Food Engineering, Universidad de los Andes, Bogotá, Colombia.
+lh.reyes@uniandes.edu.co.
+(5)Biosciences Center, National Renewable Energy Laboratory, Golden, CO, USA.
+PinChing.Maness@nrel.gov.
+(6)Biosciences Center, National Renewable Energy Laboratory, Golden, CO, USA.
+Katherine.chou@nrel.gov.
+
+Clostridium (Ruminiclostridium) thermocellum is recognized for its ability to
+ferment cellulosic biomass directly, but it cannot naturally grow on xylose.
+Recently, C. thermocellum (KJC335) was engineered to utilize xylose through
+expressing a heterologous xylose catabolizing pathway. Here, we compared KJC335's
+transcriptomic responses to xylose versus cellobiose as the primary carbon source
+and assessed how the bacteria adapted to utilize xylose. Our analyses revealed
+417 differentially expressed genes (DEGs) with log2 fold change (FC) >|1| and 106
+highly DEGs (log2 FC >|2|). Among the DEGs, two putative sugar transporters, cbpC
+and cbpD, were up-regulated, suggesting their contribution to xylose transport
+and assimilation. Moreover, the up-regulation of specific transketolase genes
+(tktAB) suggests the importance of this enzyme for xylose metabolism. Results
+also showed remarkable up-regulation of chemotaxis and motility associated genes 
+responding to xylose feeding, as well as widely varying gene expression in those 
+encoding cellulosomal enzymes. For the down-regulated genes, several were
+categorized in gene ontology terms oxidation-reduction processes, ATP binding and
+ATPase activity, and integral components of the membrane. This study informs
+potentially critical, enabling mechanisms to realize the conceptually attractive 
+Next-Generation Consolidated BioProcessing approach where a single species is
+sufficient for the co-fermentation of cellulose and hemicellulose.
+
+DOI: 10.1038/s41598-020-71428-6 
+PMCID: PMC7471329
+PMID: 32884054 
+

@@ -1,0 +1,75 @@
+
+1. Colloids Surf B Biointerfaces. 2020 Jul;191:111019. doi:
+10.1016/j.colsurfb.2020.111019. Epub 2020 Apr 11.
+
+Nano-immobilized flumequine with preserved antibacterial efficacy.
+
+Bortoletti M(1), Molinari S(2), Fasolato L(3), Ugolotti J(4), Tolosi R(5),
+Venerando A(6), Radaelli G(7), Bertotto D(8), De Liguoro M(9), Salviulo G(10),
+Zboril R(11), Vianello F(12), Magro M(13).
+
+Author information: 
+(1)Department of Comparative Biomedicine and Food Science, Agripolis Campus,
+University of Padua, viale dell'Università 16, 35020 Legnaro, Italy. Electronic
+address: martina.bortoletti@phd.unipd.it.
+(2)Department of Geosciences, University of Padua, via Gradenigo 6, 35131 Padova,
+Italy. Electronic address: simone.molinari@phd.unipd.it.
+(3)Department of Comparative Biomedicine and Food Science, Agripolis Campus,
+University of Padua, viale dell'Università 16, 35020 Legnaro, Italy. Electronic
+address: luca.fasolato@unipd.it.
+(4)Regional Centre of Advanced Technologies and Materials, Palacky University,
+Slechtitelu 11, 78371 Olomouc, Czech Republic. Electronic address:
+juri.ugolotti@upol.cz.
+(5)Department of Comparative Biomedicine and Food Science, Agripolis Campus,
+University of Padua, viale dell'Università 16, 35020 Legnaro, Italy. Electronic
+address: roberta.tolosi@phd.unipd.it.
+(6)Department of Comparative Biomedicine and Food Science, Agripolis Campus,
+University of Padua, viale dell'Università 16, 35020 Legnaro, Italy. Electronic
+address: andrea.venerando@unipd.it.
+(7)Department of Comparative Biomedicine and Food Science, Agripolis Campus,
+University of Padua, viale dell'Università 16, 35020 Legnaro, Italy. Electronic
+address: giuseppe.radaelli@unipd.it.
+(8)Department of Comparative Biomedicine and Food Science, Agripolis Campus,
+University of Padua, viale dell'Università 16, 35020 Legnaro, Italy. Electronic
+address: daniela.bertotto@unipd.it.
+(9)Department of Comparative Biomedicine and Food Science, Agripolis Campus,
+University of Padua, viale dell'Università 16, 35020 Legnaro, Italy. Electronic
+address: marco.deliguoro@unipd.it.
+(10)Department of Geosciences, University of Padua, via Gradenigo 6, 35131
+Padova, Italy. Electronic address: gabriella.salviulo@unipd.it.
+(11)Regional Centre of Advanced Technologies and Materials, Palacky University,
+Slechtitelu 11, 78371 Olomouc, Czech Republic. Electronic address:
+radek.zboril@upol.cz.
+(12)Department of Comparative Biomedicine and Food Science, Agripolis Campus,
+University of Padua, viale dell'Università 16, 35020 Legnaro, Italy. Electronic
+address: fabio.vianello@unipd.it.
+(13)Department of Comparative Biomedicine and Food Science, Agripolis Campus,
+University of Padua, viale dell'Università 16, 35020 Legnaro, Italy. Electronic
+address: massimiliano.magro@unipd.it.
+
+Flumequine was nano-immobilized by self-assembly on iron oxide nanoparticles,
+called surface active maghemite nanoparticles (SAMNs). The binding process was
+studied and the resulting core-shell nanocarrier (SAMN@FLU) was structurally
+characterized evidencing a firmly immobilized organic canopy on which the
+fluorine atom of the antibiotic was exposed to the solvent. The antibiotic
+efficacy of the SAMN@FLU nanocarrier was tested on a fish pathogenic bacterium
+(Aeromonas veronii), a flumequine sensitive strain, in comparison to soluble
+flumequine and the minimum inhibitory concentration (MIC) and the minimum
+bactericidal concentration (MBC) were assessed. Noteworthy, the MIC and MBC of
+soluble and nanoparticle bound drug were superimposable. Moreover, the
+interactions between SAMN@FLU nanocarrrier and microorganism were studied by
+transmission electron microscopy evidencing the ability of the complex to disrupt
+the bacterial wall. Finally, a preliminary in vivo test was provided using
+Daphnia magna as animal model. SAMN@FLU was able to protect the crustacean from
+the fatal consequences of a bacterial infection and showed no sign of toxicity.
+Thus, in contrast with the strength of the interaction, nano-immobilized FLU
+displayed a fully preserved antimicrobial activity suggesting the crucial role of
+fluorine in the drug mechanism of action. Besides the importance for potential
+applications in aquaculture, the present study contributes to the nascent field
+of nanoantibiotics.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.colsurfb.2020.111019 
+PMID: 32305623 
+

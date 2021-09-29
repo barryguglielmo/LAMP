@@ -1,0 +1,37 @@
+
+1. FEBS J. 2020 Aug 8. doi: 10.1111/febs.15511. [Epub ahead of print]
+
+An alternative pentose phosphate pathway in human gut bacteria for the
+degradation of C5 sugars in dietary fibers.
+
+Garschagen LS(1), Franke T(1), Deppenmeier U(1).
+
+Author information: 
+(1)Institute of Microbiology and Biotechnology, University of Bonn, Bonn,
+Germany.
+
+The microbial degradation of pentoses in the human gut is a crucial factor for
+the utilization of plant-based dietary fibers. A vast majority of gut microbes
+are able to use these C5-sugars as a carbon and energy source. However, the
+underlying metabolic pathways are not fully understood. Bioinformatic analysis
+showed that a large number of abundant gut bacteria lack genes encoding a
+transaldolase as a key enzyme of the pentose phosphate pathway. Among them was
+the important human gut microbe Prevotella copri, which was able to grow in
+minimal media containing xylose or hemicelluloses as the sole carbon source.
+Therefore, we looked for an alternative pathway for pentose conversion in
+P. copri using bioinformatics, enzyme activity assays, and the detection of
+intermediates of pentose metabolism. It became evident that the organism
+converted C5-sugars via the sedoheptulose-1,7-bisphosphate pathway (SBPP) to
+connect pentose metabolism with glycolysis. To circumvent the transaldolase
+reaction, P. copri uses the combined catalysis of a pyrophosphate-dependent
+phosphofructokinase and a fructose-bisphosphate aldolase. Furthermore, we present
+strong evidence that the SBPP is widely distributed in important gut bacteria,
+including members of the phyla Bacteroides, Firmicutes, Proteobacteria,
+Verrucomicrobia, and Lentisphaerae.
+
+© 2020 The Authors. The FEBS Journal published by John Wiley & Sons Ltd on behalf
+of Federation of European Biochemical Societies.
+
+DOI: 10.1111/febs.15511 
+PMID: 32770699 
+

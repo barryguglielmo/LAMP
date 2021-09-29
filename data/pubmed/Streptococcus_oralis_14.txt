@@ -1,0 +1,58 @@
+
+1. Circulation. 2020 Aug 25;142(8):720-730. doi: 10.1161/CIRCULATIONAHA.120.046723. 
+Epub 2020 Jun 25.
+
+Prevalence of Infective Endocarditis in Streptococcal Bloodstream Infections Is
+Dependent on Streptococcal Species.
+
+Chamat-Hedemand S(1), Dahl A(2), Østergaard L(3), Arpi M(4), Fosbøl E(3), Boel
+J(4), Oestergaard LB(2), Lauridsen TK(2), Gislason G(2), Torp-Pedersen C(5)(6),
+Bruun NE(1)(7)(8).
+
+Author information: 
+(1)Department of Cardiology, Zealand University Hospital, Roskilde, Denmark
+(S.C.-H., N.E.B.).
+(2)Department of Cardiology, Copenhagen University Hospital Herlev-Gentofte,
+Hellerup, Denmark (S.C.-H., A.D., L.B.O., T.K.L., G.G.).
+(3)Department of Cardiology, The Heart Centre, Copenhagen University Hospital
+Rigshospitalet, Denmark (L.Ø., E.F.).
+(4)Department of Clinical Microbiology, Copenhagen University Hospital
+Herlev-Gentofte, Denmark (M.A., J.B.).
+(5)Department of Cardiology and Clinical Research, Nordsjaellands Hospital,
+Hillerød, Denmark (C.T.-P.).
+(6)Department of Cardiology, Aalborg University Hospital, Denmark (C.T.-P.).
+(7)Institute of Clinical Medicine, Copenhagen University, Denmark (N.E.B.).
+(8)Clinical Institute, Aalborg University, Aalborg, Denmark (N.E.B.).
+
+BACKGROUND: Streptococci frequently cause infective endocarditis (IE), yet the
+prevalence of IE in patients with bloodstream infections (BSIs) caused by
+different streptococcal species is unknown. We aimed to investigate the
+prevalence of IE at species level in patients with streptococcal BSIs.
+METHODS: We investigated all patients with streptococcal BSIs, from 2008 to 2017,
+in the Capital Region of Denmark. Data were crosslinked with Danish nationwide
+registries for identification of concomitant hospitalization with IE. In a
+multivariable logistic regression analysis, we investigated the risk of IE
+according to streptococcal species adjusted for age, sex, ≥3 positive blood
+culture bottles, native valve disease, prosthetic valve, previous IE, and cardiac
+device.
+RESULTS: Among 6506 cases with streptococcal BSIs (mean age 68.1 years [SD 16.2],
+52.8% men) the IE prevalence was 7.1% (95% CI, 6.5-7.8). The lowest IE prevalence
+was found with Streptococcus pneumoniae (S pneumoniae) 1.2% (0.8-1.6) and
+Spyogenes 1.9% (0.9-3.3). An intermediary IE prevalence was found with Sanginosus
+4.8% (3.0-7.3), Ssalivarius 5.8% (2.9-10.1), and Sagalactiae 9.1% (6.6-12.1). The
+highest IE prevalence was found with Smitis/oralis 19.4% (15.6-23.5),
+Sgallolyticus (formerly Sbovis) 30.2% (24.3-36.7), Ssanguinis 34.6% (26.6-43.3), 
+Sgordonii 44.2% (34.0-54.8), and Smutans 47.9% (33.3-62.8). In multivariable
+analysis using S pneumoniae as reference, all species except S pyogenes were
+associated with significantly higher IE risk, with the highest risk found with S 
+gallolyticus odds ratio (OR) 31.0 (18.8-51.1), S mitis/oralis OR 31.6
+(19.8-50.5), S sanguinis OR 59.1 (32.6-107), S gordonii OR 80.8 (43.9-149), and S
+mutans OR 81.3 (37.6-176).
+CONCLUSIONS: The prevalence of IE in streptococcal BSIs is species dependent with
+S mutans, S gordonii, S sanguinis, S gallolyticus, and S mitis/oralis having the 
+highest IE prevalence and the highest associated IE risk after adjusting for IE
+risk factors.
+
+DOI: 10.1161/CIRCULATIONAHA.120.046723 
+PMID: 32580572 
+

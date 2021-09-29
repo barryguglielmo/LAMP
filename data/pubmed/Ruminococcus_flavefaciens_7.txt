@@ -1,0 +1,44 @@
+
+1. Animal. 2020 Jul 1:1-9. doi: 10.1017/S1751731120001500. [Epub ahead of print]
+
+Colonic microbiome profiles for improved feed efficiency can be identified
+despite major effects of farm of origin and contemporary group in pigs.
+
+Vigors S(1), O' Doherty JV(1), Sweeney T(2).
+
+Author information: 
+(1)School of Agriculture and Food Science, University College Dublin, Belfield,
+Dublin 4, Ireland.
+(2)School of Veterinary Medicine, University College Dublin, Belfield, Dublin 4, 
+Ireland.
+
+While feed efficiency (FE) is a trait of great economic importance to the pig
+industry, the influence of the intestinal microbiome in determining FE is not
+well understood. The objective of this experiment was to determine the relative
+influence of FE and farm of birth on the pig colonic microbiome. Animals
+divergent in residual feed intake (RFI) were sourced from two geographically
+distinct locations (farms A + B) in Ireland. The 8 most efficient (low RFI
+(LRFI)) and 8 least efficient (high RFI, (HRFI)) pigs from farm A and 12 LRFI and
+12 HRFI pigs from farm B were sacrificed. Colonic digesta was collected for
+microbial analysis using 16S ribosomal RNA gene sequencing and also for volatile 
+fatty acid analysis. The α-diversity differed between the farms in this study,
+with pigs from farm A having greater diversity based on Shannon and InvSimpson
+measures compared to pigs from farm B (P < 0.05), with no difference identified
+in either Chao1 or observed measures of diversity (P > 0.05). In the analysis of 
+β-diversity, pigs clustered based on farm of birth rather than RFI. Variation in 
+the management of piglets, weight of the piglets, season of the year, sanitary
+status and dam dietary influence could potentially be causative factors in this
+large variation between farms. However, despite significant variation in the
+microbial profile between farms, consistent taxonomic differences were identified
+between RFI groups. Within the phylum Bacteroidetes, the LRFI pigs had increased 
+abundance of BS11 (P < 0.05) and a tendency toward increased Bacteroidaceae (P < 
+0.10) relative to the HRFI group. At genus level, the LRFI pigs had increased
+abundance of Colinsella (P < 0.05), a tendency toward increased Bacteroides and
+CF231 (P < 0.10). At species level, Ruminococcus flavefaciens had increased
+abundance in the LRFI compared to the HRFI animals. In conclusion, while farm of 
+birth has a substantial influence on microbial diversity in the pig colon, a
+microbial signature indicative of FE status was apparent.
+
+DOI: 10.1017/S1751731120001500 
+PMID: 32605690 
+

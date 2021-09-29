@@ -1,0 +1,44 @@
+
+1. Biomedicines. 2020 Aug 28;8(9). pii: E315. doi: 10.3390/biomedicines8090315.
+
+Antimicrobial Activities of Different Fractions from Mucus of the Garden Snail
+Cornu aspersum.
+
+Dolashki A(1), Velkova L(1), Daskalova E(2), Zheleva N(2), Topalova Y(2),
+Atanasov V(1), Voelter W(3), Dolashka P(1).
+
+Author information: 
+(1)Institute of Organic Chemistry with Centre of Phytochemistry, Bulgarian
+Academy of Sciences, Acad. G. Bonchev str., bl.9, 1113 Sofia, Bulgaria.
+(2)Sofia University, St. Kliment Ohridski", Faculty of Biology, Department of
+General and Applied Hydrobiology, 8 Dragan Tzankov Blvd., 1164 Sofia, Bulgaria.
+(3)Interfacultary Institute of Biochemistry, University of Tübingen,
+Hoppe-Seyler-Straße 4, D-72076 Tübingen, Germany.
+
+Natural products have long played a major role in medicine and science. The
+garden snail Cornu aspersum is a rich source of biologically active natural
+substances that might be an important source for new drugs to treat human
+disease. Based on our previous studies, nine fractions containing compounds with 
+Mw <3 kDa; <10 kDa; <20 kDa; >20 kDa; >30 kDa>50 kDa and between 3 and 5 kDa; 5
+and 10 kDa; and 10 and 30 kDa were purified from the mucus of C. aspersum and
+analyzed by tandem mass spectrometry (MALDI-TOF/TOF). Seventeen novel peptides
+with potential antibacterial activity were identified by de novo MS/MS sequencing
+using tandem mass spectrometry. The different fractions were tested for
+antibacterial activity against Gram─ (Pseudomonas aureofaciens and Escherichia
+coli) and Gram+ (Brevibacillus laterosporus) bacterial strains as well the
+anaerobic bacterium Clostridium perfringens. These results revealed that the
+peptide fractions exhibit a predominant antibacterial activity against B.
+laterosporus; the fraction with Mw 10-30 kDa against E. coli; another peptide
+fraction <20 kDa against P. aureofaciens; and the protein fraction >20 kDa
+against the bacterial strain C. perfringens. The discovery of new antimicrobial
+peptides (AMPs) from natural sources is of great importance for public health due
+to the AMPs' effective antimicrobial activities and low resistance rates.
+
+DOI: 10.3390/biomedicines8090315 
+PMID: 32872361 
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or
+interpretation of data; in the writing of the manuscript, or in the decision to
+publish the results.
+

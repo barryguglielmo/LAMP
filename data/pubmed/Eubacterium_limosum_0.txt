@@ -1,0 +1,32 @@
+
+1. J Biol Chem. 2020 Aug 21;295(34):11982-11983. doi: 10.1074/jbc.H120.015332.
+
+Taking the "Me" out of meat: A new demethylation pathway dismantles a toxin's
+precursor.
+
+Hallberg ZF(1), Taga ME(2).
+
+Author information: 
+(1)Department of Plant and Microbial Biology, University of California, Berkeley,
+California, USA.
+(2)Department of Plant and Microbial Biology, University of California, Berkeley,
+California, USA taga@berkeley.edu.
+
+Carnitine, a molecule found in red meat, is metabolized to trimethylamine (TMA)
+by the gut microbiota. TMA is then converted in the liver to trimethylamine
+oxide, a causative agent for atherosclerosis. Kountz et al have discovered an
+alternative pathway for carnitine metabolism in the gut bacterium Eubacterium
+limosum Instead of forming TMA, carnitine is demethylated by the newly discovered
+methyltransferase MtcB, sending one-carbon units into production of short-chain
+fatty acids. These results suggest that bacterial metabolic activities could
+promote cardiovascular health by preventing the buildup of toxin precursors.
+
+© 2020 Hallberg and Taga.
+
+DOI: 10.1074/jbc.H120.015332 
+PMCID: PMC7443504
+PMID: 32826335 
+
+Conflict of interest statement: Conflict of interest—The authors declare that
+they have no conflicts of interest with the contents of this article.
+

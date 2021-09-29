@@ -1,0 +1,47 @@
+
+1. PLoS Pathog. 2020 Jan 23;16(1):e1008211. doi: 10.1371/journal.ppat.1008211.
+eCollection 2020 Jan.
+
+Mobilizable antibiotic resistance genes are present in dust microbial
+communities.
+
+Ben Maamar S(1), Glawe AJ(1), Brown TK(1), Hellgeth N(1), Hu J(1), Wang JP(2),
+Huttenhower C(3), Hartmann EM(1).
+
+Author information: 
+(1)Department of Civil and Environmental Engineering, Northwestern University,
+Evanston, Illinois, United States of America.
+(2)Department of Statistics, Northwestern University, Evanston, Illinois, United 
+States of America.
+(3)Department of Biostatistics, Harvard T.H. Chan School of Public Health,
+Boston, Massachusetts, United States of America.
+
+The decades-long global trend of urbanization has led to a population that spends
+increasing amounts of time indoors. Exposure to microbes in buildings, and
+specifically in dust, is thus also increasing, and has been linked to various
+health outcomes and to antibiotic resistance genes (ARGs). These are most
+efficiently screened using DNA sequencing, but this method does not determine
+which microbes are viable, nor does it reveal whether their ARGs can actually
+disseminate to other microbes. We have thus performed the first study to: 1)
+examine the potential for ARG dissemination in indoor dust microbial communities,
+and 2) validate the presence of detected mobile ARGs in viable dust bacteria.
+Specifically, we integrated 166 dust metagenomes from 43 different buildings.
+Sequences were assembled, annotated, and screened for potential integrons,
+transposons, plasmids, and associated ARGs. The same dust samples were further
+investigated using cultivation and isolate genome and plasmid sequencing.
+Potential ARGs were detected in dust isolate genomes, and we confirmed their
+placement on mobile genetic elements using long-read sequencing. We found 183
+ARGs, of which 52 were potentially mobile (associated with a putative plasmid,
+transposon or integron). One dust isolate related to Staphylococcus equorum
+proved to contain a plasmid carrying an ARG that was detected metagenomically and
+confirmed through whole genome and plasmid sequencing. This study thus highlights
+the power of combining cultivation with metagenomics to assess the risk of
+potentially mobile ARGs for public health.
+
+DOI: 10.1371/journal.ppat.1008211 
+PMCID: PMC6977718
+PMID: 31971995  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

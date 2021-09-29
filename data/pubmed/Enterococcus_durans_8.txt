@@ -1,0 +1,58 @@
+
+1. J Proteomics. 2020 May 30;220:103764. doi: 10.1016/j.jprot.2020.103764. Epub 2020
+Apr 1.
+
+Comparative proteomic analysis reveals metabolic variability of probiotic
+Enterococcus durans during aerobic and anaerobic cultivation.
+
+Comerlato CB(1), Zhang X(2), Walker K(2), Brandelli A(3), Figeys D(4).
+
+Author information: 
+(1)Laboratório de Bioquímica e Microbiologia Aplicada, Instituto de Ciência e
+Tecnologia de Alimentos, Universidade Federal do Rio Grande do Sul, 91510-970,
+Porto Alegre, Brazil.
+(2)Ottawa Institute of Systems Biology and Department of Biochemistry,
+Microbiology and Immunology, Faculty of Medicine, University of Ottawa, Ottawa,
+ON K1H 8M5, Canada.
+(3)Laboratório de Bioquímica e Microbiologia Aplicada, Instituto de Ciência e
+Tecnologia de Alimentos, Universidade Federal do Rio Grande do Sul, 91510-970,
+Porto Alegre, Brazil. Electronic address: abrand@ufrgs.br.
+(4)Ottawa Institute of Systems Biology and Department of Biochemistry,
+Microbiology and Immunology, Faculty of Medicine, University of Ottawa, Ottawa,
+ON K1H 8M5, Canada; Canadian Institute for Advanced Research, Toronto, Canada.
+Electronic address: dfigeys@uottawa.ca.
+
+The variation in the bioavailability of oxygen constitutes the environmental
+conditions found by bacteria in their passage through the host gastro-intestinal 
+tract. Given the importance of oxygen in the defense mechanism of bacteria, it is
+important to understand how bacteria respond to this stress at a metabolic level.
+The probiotic strain Enterococcus durans LAB18S was cultivated under aerobic and 
+anaerobic conditions using prebiotic oligosaccharides as carbon source. The whole
+cell proteome and secretome were analyzed through label-free quantitative
+proteomics approach. The results showed that the LAB18S isolate when grown with
+fructo-oligosacchrides (FOS) showed a higher number of differentially expressed
+proteins compared to samples with galacto-oligosaccharides (GOS) or glucose.
+Clinically important enzymes for the treatment of cancer, L-asparaginase and
+arginine deiminase, were overexpressed when the isolate was cultured in FOS. In
+addition, the absence of oxygen induced the strain to produce proteins related to
+cell multiplication, cell wall integrity and resistance, and H2O2 detoxification.
+This study showed that E. durans LAB18S growing on FOS was stimulated to produce 
+clinically important biomolecules, including proteins that have been investigated
+as potential antineoplastic agents. Significance: The probiotic strain E. durans 
+LAB18S produce clinically relevant enzymes for the treatment of cancer when
+cultivated in symbiosis with fructo-oligosacchrides (FOS). In addition, proteins 
+associated with cellular multiplication, cell wall integrity and resistance, and 
+H2O2 detoxification were induced under anaerobic growth. These characteristics
+could be relevant to support maintenance of intestinal health.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jprot.2020.103764 
+PMID: 32247174 
+
+Conflict of interest statement: Conflicts of interest Authors declare no
+conflicts of interest. CRediT author statement. CBC and XZ designed the analysis,
+performed the experiments and wrote the manuscript, KW performed experiments and 
+data analysis, AB and DF conceived the idea, participated in design and
+coordination, and secured funding. All authors reviewed the final manuscript.
+

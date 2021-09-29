@@ -1,0 +1,58 @@
+
+1. Appl Environ Microbiol. 2020 Jun 17;86(13). pii: e00073-20. doi:
+10.1128/AEM.00073-20. Print 2020 Jun 17.
+
+A Tailspike with Exopolysaccharide Depolymerase Activity from a New Providencia
+stuartii Phage Makes Multidrug-Resistant Bacteria Susceptible to Serum-Mediated
+Killing.
+
+Oliveira H(1), Pinto G(2), Mendes B(2)(3), Dias O(2), Hendrix H(4), Akturk E(2), 
+Noben JP(5), Gawor J(6), Łobocka M(7), Lavigne R(4), Azeredo J(1).
+
+Author information: 
+(1)CEB-Centre of Biological Engineering, University of Minho, Braga, Portugal
+hugooliveira@deb.uminho.pt jazeredo@deb.uminho.pt.
+(2)CEB-Centre of Biological Engineering, University of Minho, Braga, Portugal.
+(3)Centro de Biotecnologia Agricola e Agro-Alimentar do Alentejo (CEBAL),
+Instituto Politécnico de Beja (IPBeja), Beja, Portugal.
+(4)Laboratory of Gene Technology, KU Leuven, Leuven, Belgium.
+(5)Biomedical Research Institute and Transnational University Limburg, Hasselt
+University, Diepenbeek, Belgium.
+(6)Laboratory of DNA Sequencing and Oligonucleotide Synthesis, Institute of
+Biochemistry and Biophysics of the Polish Academy of Sciences, Warsaw, Poland.
+(7)Department of Microbial Biochemistry, Institute of Biochemistry and Biophysics
+of the Polish Academy of Sciences, Warsaw, Poland.
+
+Providencia stuartii is emerging as a significant drug-resistant nosocomial
+pathogen, which encourages the search for alternative therapies. Here, we have
+isolated Providencia stuartii phage Stuart, a novel podovirus infecting
+multidrug-resistant hospital isolates of this bacterium. Phage Stuart is a
+proposed member of a new Autographivirinae subfamily genus, with a 41,218-bp
+genome, direct 345-bp repeats at virion DNA ends, and limited sequence similarity
+of proteins to proteins in databases. Twelve out of the 52 predicted Stuart
+proteins are virion components. We found one to be a tailspike with depolymerase 
+activity. The tailspike could form a highly thermostable oligomeric β-structure
+migrating close to the expected trimer in a nondenaturing gel. It appeared to be 
+essential for the infection of three out of four P. stuartii hosts infected by
+phage Stuart. Moreover, it degraded the exopolysaccharide of relevant phage
+Stuart hosts, making the bacteria susceptible to serum killing. Prolonged
+exposure of a sensitive host to the tailspike did not cause the emergence of
+bacteria resistant to the phage or to serum killing, opposite to the prolonged
+exposure to the phage. This indicates that phage tail-associated depolymerases
+are attractive antivirulence agents that could complement the immune system in
+the fight with P. stuartii IMPORTANCE The pace at which multidrug-resistant
+strains emerge has been alarming. P. stuartii is an infrequent but relevant
+drug-resistant nosocomial pathogen causing local to systemic life-threatening
+infections. We propose an alternative approach to fight this bacterium based on
+the properties of phage tailspikes with depolymerase activity that degrade the
+surface bacterial polymers, making the bacteria susceptible to the immune system.
+Unlike antibiotics, phage tailspikes have narrow and specific substrate spectra, 
+and by acting as antivirulent but not bactericidal agents they do not cause the
+selection of resistant bacteria.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.00073-20 
+PMCID: PMC7301845 [Available on 2020-12-17]
+PMID: 32357999 
+

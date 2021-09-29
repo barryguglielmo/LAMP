@@ -1,0 +1,42 @@
+
+1. Sci Rep. 2020 Sep 8;10(1):14771. doi: 10.1038/s41598-020-70724-5.
+
+Human genetic determinants of the gut microbiome and their associations with
+health and disease: a phenome-wide association study.
+
+Groot HE(1), van de Vegte YJ(1), Verweij N(1), Lipsic E(1), Karper JC(1), van der
+Harst P(2)(3).
+
+Author information: 
+(1)Department of Cardiology, University Medical Center Groningen, University of
+Groningen, Hanzeplein 1, 9700 RB, Groningen, The Netherlands.
+(2)Department of Cardiology, University Medical Center Groningen, University of
+Groningen, Hanzeplein 1, 9700 RB, Groningen, The Netherlands.
+p.van.der.harst@umcg.nl.
+(3)Department of Cardiology, Division Heart and Lungs, University Medical Center 
+Utrecht, University of Utrecht, Utrecht, The Netherlands.
+p.van.der.harst@umcg.nl.
+
+Small-scale studies have suggested a link between the human gut microbiome and
+highly prevalent diseases. However, the extent to which the human gut microbiome 
+can be considered a determinant of disease and healthy aging remains unknown. We 
+aimed to determine the spectrum of diseases that are linked to the human gut
+microbiome through the utilization of its genetic determinants as a proxy for its
+composition. 180 single nucleotide polymorphisms (SNPs) known to influence the
+human gut microbiome were used to assess the association with health and disease 
+outcomes in 422,417 UK Biobank participants. Potential causal estimates were
+obtained using a Mendelian randomization (MR) approach. From the total sample
+analysed (mean age was 57 ± 8 years), 194,567 (46%) subjects were male. Median
+exposure was 66-person years (interquartile range 59-72). Eleven SNPs were
+significantly associated with 28 outcomes (Bonferroni corrected P
+value < 4.63·10-6) including food intake, hypertension, atopy, COPD, BMI, and
+lipids. Multiple SNP MR pointed to a possible causal link between Ruminococcus
+flavefaciens and hypertension, and Clostridium and platelet count. Microbiota and
+their metabolites might be of importance in the interplay between overlapping
+pathophysiological processes, although challenges remain in establishing causal
+relationships.
+
+DOI: 10.1038/s41598-020-70724-5 
+PMCID: PMC7479141
+PMID: 32901066 
+

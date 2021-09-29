@@ -1,0 +1,48 @@
+
+1. Mikrochim Acta. 2020 Apr 28;187(5):290. doi: 10.1007/s00604-020-04248-0.
+
+SERS-based immunocapture and detection of pathogenic bacteria using a boronic
+acid-functionalized polydopamine-coated Au@Ag nanoprobe.
+
+Wang Y(1), Li Q(1), Zhang R(1), Tang K(2), Ding C(3), Yu S(4)(5).
+
+Author information: 
+(1)Department of Chemistry, Fudan University, 2205 Songhu Rd., Shanghai, 200438, 
+China.
+(2)Institute of Mass Spectrometry, School of Material Science and Chemical
+Engineering, Ningbo University, 818 Fenghua Rd., Ningbo, 315211, Zhejiang, China.
+(3)Institute of Mass Spectrometry, School of Material Science and Chemical
+Engineering, Ningbo University, 818 Fenghua Rd., Ningbo, 315211, Zhejiang, China.
+dingchuanfan@nbu.edu.cn.
+(4)Department of Chemistry, Fudan University, 2205 Songhu Rd., Shanghai, 200438, 
+China. yushaoning@fudan.edu.cn.
+(5)Institute of Mass Spectrometry, School of Material Science and Chemical
+Engineering, Ningbo University, 818 Fenghua Rd., Ningbo, 315211, Zhejiang, China.
+yushaoning@fudan.edu.cn.
+
+A surface-enhanced Raman scattering (SERS)-based immunocapture nanoprobe is
+described for the detection of pathogenic bacteria. The probe uses boronic
+acid-functionalized polydopamine-coated Au@Ag nanoparticles as an advanced SERS
+nanotag. Modified magnetic IgG@Fe3O4 nanoparticles are used for magnetic
+separation. Au@Ag@PDA nanoparticles, where PDA stands for polydopamine, were
+functionalized with boronic acid to bind to pathogenic bacteria and induce signal
+amplification. The Raman signal is amplified 108 times when the SERS tag binds
+the surface of bacteria. The SERS spectra exhibit fingerprint-like patterns that 
+enable bacterial classification. The results of principal component analysis
+(PCA) and hierarchical cluster analysis (HCA) of the spectral regions were
+compared. The bacterial surface protein and glycan signals (1300-1450 cm-1) were 
+the best regions for bacterial classification. Staphylococcus aureus, Escherichia
+coli, Shigella dysenteriae, Pseudomonas aeruginosa, and Klebsiella pneumonia were
+successfully classified by this method. The lowest detection limit was 10
+colonies/mL (CFU·mL). The assay can be completed within 30 min. Conceivably, this
+method may be extended to the quantitative detection or classification of
+bacteria under various other conditions. Graphical abstract Schematic
+representation of immunocapture and detection of pathogenic bacteria using
+boronic acid-functionalized polydopamine-coated Au@Ag nanoprobe through the
+bacterial surface protein and glycan signals. Green arrow: laser; black arrow:
+SERS; red ball: bacteria; grey ball: IgG@Fe3O4; golden ball: boronic
+acid-functionalized Au@Ag@PDA.
+
+DOI: 10.1007/s00604-020-04248-0 
+PMID: 32342176 
+

@@ -1,0 +1,61 @@
+
+1. Antimicrob Agents Chemother. 2020 Aug 20;64(9). pii: e00843-20. doi:
+10.1128/AAC.00843-20. Print 2020 Aug 20.
+
+CRISPR-Cas9-Mediated Carbapenemase Gene and Plasmid Curing in
+Carbapenem-Resistant Enterobacteriaceae.
+
+Hao M(#)(1), He Y(#)(2)(3), Zhang H(#)(4), Liao XP(2)(3), Liu YH(2)(3)(5), Sun
+J(2)(3), Du H(4), Kreiswirth BN(6), Chen L(7)(8).
+
+Author information: 
+(1)Department of Clinical Laboratory Medicine, The First Affiliated Hospital of
+Shandong First Medical University, Jinan, Shandong, China.
+(2)National Risk Assessment Laboratory for Antimicrobial Resistance of Animal
+Original Bacteria, South China Agricultural University, Guangzhou, China.
+(3)Guangdong Provincial Key Laboratory of Veterinary Pharmaceutics Development
+and Safety Evaluation, South China Agricultural University, Guangzhou, China.
+(4)Department of Clinical Laboratory, Second Affiliated Hospital of Soochow
+University, Suzhou, Jiangsu, China.
+(5)Jiangsu Co-Innovation Centre for Prevention and Control of Important Animal
+Infectious Diseases and Zoonoses, Yangzhou, Jiangsu, China.
+(6)Center for Discovery and Innovation, Hackensack-Meridian Health, Nutley, New
+Jersey, USA.
+(7)Center for Discovery and Innovation, Hackensack-Meridian Health, Nutley, New
+Jersey, USA liang.chen@hmh-cdi.org.
+(8)Hackensack Meridian School of Medicine, Nutley, New Jersey, USA.
+(#)Contributed equally
+
+Combating plasmid-mediated carbapenem resistance is essential to control and
+prevent the dissemination of carbapenem-resistant Enterobacteriaceae (CRE). Here,
+we conducted a proof-of-concept study to demonstrate that CRISPR-Cas9-mediated
+resistance gene and plasmid curing can effectively resensitize CRE to
+carbapenems. A novel CRISPR-Cas9-mediated plasmid-curing system (pCasCure) was
+developed and electrotransferred into various clinical CRE isolates. The results 
+showed that pCasCure can effectively cure bla KPC, bla NDM, and bla OXA-48 in
+various Enterobacteriaceae species of Klebsiella pneumoniae, Escherichia coli,
+Enterobacter hormaechei, Enterobacter xiangfangensis, and Serratia marcescens
+clinical isolates, with a >94% curing efficiency. In addition, we also
+demonstrated that pCasCure can efficiently eliminate several epidemic
+carbapenem-resistant plasmids, including the bla KPC-harboring IncFIIK-pKpQIL and
+IncN pKp58_N plasmids, the bla OXA-48-harboring pOXA-48-like plasmid, and the bla
+NDM-harboring IncX3 plasmid, by targeting their replication and partitioning
+(parA in pKpQIL) genes. However, curing the bla OXA-48 gene failed to eliminate
+its corresponding pOXA-48-like plasmid in clinical K. pneumoniae isolate 49210,
+while further next-generation sequencing revealed that it was due to
+IS1R-mediated recombination outside the CRISPR-Cas9 cleavage site resulting in
+bla OXA-48 truncation and, therefore, escaped plasmid curing. Nevertheless, the
+curing of carbapenemase genes or plasmids, including the truncation of bla OXA-48
+in 49210, successfully restore their susceptibility to carbapenems, with a
+>8-fold reduction of MIC values in all tested isolates. Taken together, our study
+confirmed the concept of using CRISPR-Cas9-mediated carbapenemase gene and
+plasmid curing to resensitize CRE to carbapenems. Further work is needed to
+integrate pCasCure in an optimal delivery system to make it applicable for
+clinical intervention.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.00843-20 
+PMCID: PMC7449206 [Available on 2021-02-20]
+PMID: 32631827 
+

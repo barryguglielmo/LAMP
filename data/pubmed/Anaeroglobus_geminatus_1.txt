@@ -1,0 +1,47 @@
+
+1. Sci Rep. 2019 Nov 20;9(1):17199. doi: 10.1038/s41598-019-53791-1.
+
+Colibacter massiliensis gen. nov. sp. nov., a novel Gram-stain-positive anaerobic
+diplococcal bacterium, isolated from the human left colon.
+
+Anani H(1)(2), Abdallah RA(1)(2), Khoder M(2)(3), Fontanini A(2)(3), Mailhe
+M(2)(3), Ricaboni D(2)(3), Raoult D(2)(3)(4), Fournier PE(5)(6).
+
+Author information: 
+(1)Aix Marseille Univ, Institut de Recherche pour le Développement (IRD), Service
+de Santé des Armées, AP-HM, UMR Vecteurs Infections Tropicales et Méditeranéennes
+(VITROME), Marseille, France.
+(2)Institut Hospitalo-Universitaire Méditerranée-Infection, Marseille, France.
+(3)Aix-Marseille Université, Institut de Recherche pour le Développement (IRD),
+UMR Microbes Evolution Phylogeny and Infections (MEPHI), Marseille, France.
+(4)Special Infectious Agents Unit, King Fahd Medical Research Center, King
+Abdulaziz University, Jeddah, Saudi Arabia.
+(5)Aix Marseille Univ, Institut de Recherche pour le Développement (IRD), Service
+de Santé des Armées, AP-HM, UMR Vecteurs Infections Tropicales et Méditeranéennes
+(VITROME), Marseille, France. pierre-edouard.fournier@univ-amu.fr.
+(6)Institut Hospitalo-Universitaire Méditerranée-Infection, Marseille, France.
+pierre-edouard.fournier@univ-amu.fr.
+
+The gut microbiota is considered to play a key role in human health. As a
+consequence, deciphering its microbial diversity is mandatory. A polyphasic
+taxonogenomic strategy based on the combination of phenotypic and genomic
+analyses was used to characterize a new bacterium, strain Marseille-P2911. This
+strain was isolated from a left colon sample of a 60-year old man who underwent a
+colonoscopy for an etiological investigation of iron-deficiency anemia in
+Marseille, France. On the basis of 16S rRNA sequence comparison, the closest
+phylogenetic neighbor was Anaeroglobus geminatus (94.59% 16S rRNA gene sequence
+similarity) within the family Veillonellaceae. Cells were anaerobic,
+Gram-stain-positive, non-spore-forming, catalase/oxidase negative cocci grouped
+in pairs. The bacterium was able to grow at 37 °C after 2 days of incubation.
+Strain Marseille-P2911 exhibited a genome size of 1,715,864-bp with a 50.2% G + C
+content, and digital DNA-DNA hybridization (dDDH) and OrthoANI values with A.
+geminatus of only 19.1 ± 4.5% and 74.42%, respectively. The latter value being
+lower than the threshold for genus delineation (80.5%), we propose the creation
+of the new genus Colibacter gen. nov., with strain Marseille-P2911T (=DSM
+103304 = CSUR P2911) being the type strain of the new species Colibacter
+massiliensis gen. nov., sp. nov.
+
+DOI: 10.1038/s41598-019-53791-1 
+PMCID: PMC6868274
+PMID: 31748674 
+

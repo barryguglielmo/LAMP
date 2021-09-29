@@ -1,0 +1,37 @@
+
+1. Biomacromolecules. 2020 Oct 1. doi: 10.1021/acs.biomac.0c01162. [Epub ahead of
+print]
+
+In Vitro Synthesis and Self-Assembly of Cellulose II Nanofibrils Catalyzed by the
+Reverse Reaction of Clostridium thermocellum Cellodextrin Phosphorylase.
+
+Pylkkänen R(1)(2), Mohammadi P(2), Arola S(2), de Ruijter JC(2), Sunagawa N(3),
+Igarashi K(2)(3), Penttilä M(1)(2).
+
+Author information: 
+(1)Department of Bioproducts and Biosystems, School of Chemical Engineering,
+Aalto University, P.O. Box 16300, FI-00076 Espoo, Finland.
+(2)VTT Technical Research Centre of Finland Ltd., P.O. Box 1000, FI-02044 VTT,
+Finland.
+(3)Department of Biomaterial Sciences, Graduate School of Agriculture and Life
+Sciences, The University of Tokyo, Bunkyo-ku, 113-8657 Tokyo, Japan.
+
+In nature, various organisms produce cellulose as microfibrils, which are
+processed into their nano- and microfibrillar and/or crystalline components by
+humans in order to obtain desired material properties. Interestingly, the natural
+synthesis machinery can be circumvented by enzymatically synthesizing cellulose
+from precursor molecules in vitro. This approach is appealing for producing
+tailor-made cellulosic particles and materials because it enables optimization of
+the reaction conditions for cellulose synthesis in order to generate particles
+with a desired morphology in their pure form. Here, we present enzymatic
+cellulose synthesis catalyzed by the reverse reaction of Clostridium thermocellum
+cellodextrin phosphorylase in vitro. We were able to produce cellulose II
+nanofibril networks in all conditions tested, using varying concentrations of the
+glycosyl acceptors d-glucose or d-cellobiose (0.5, 5, and 50 mM). We show that
+shorter cellulose chains assemble into flat ribbon-like fibrils with greater
+diameter, while longer chains assemble into cylindrical fibrils with smaller
+diameter.
+
+DOI: 10.1021/acs.biomac.0c01162 
+PMID: 32960595 
+

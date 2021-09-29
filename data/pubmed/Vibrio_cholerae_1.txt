@@ -1,0 +1,46 @@
+
+1. Proc Natl Acad Sci U S A. 2020 Oct 2. pii: 202010011. doi:
+10.1073/pnas.2010011117. [Epub ahead of print]
+
+CO2-leakage-driven diffusiophoresis causes spontaneous accumulation of charged
+materials in channel flow.
+
+Shim S(1), Stone HA(1).
+
+Author information: 
+(1)Department of Mechanical and Aerospace Engineering, Princeton University,
+Princeton, NJ 08540 sshim@princeton.edu hastone@princeton.edu.
+
+We identify a phenomenon where the onset of channel flow creates an unexpected,
+charge-dependent accumulation of colloidal particles, which occurs in a
+common-flow configuration with gas-permeable walls, but in the absence of any
+installed source of gas. An aqueous suspension of either positively charged
+(amine-modified polystyrene; a-PS) or negatively charged (polystyrene; PS)
+particles that flowed into a polydimethylsiloxane (PDMS) channel created
+charge-dependent accumulation 2 to 4 min after the onset of flow. We unravel the 
+phenomenon with systematic experiments under various conditions and model
+calculations considering permeability of the channel walls and [Formula: see
+text]-driven diffusiophoresis. We demonstrate that such spontaneous transport of 
+particles is driven by the gas leakage through permeable walls, which is induced 
+by the pressure difference between the channel and the ambient. Since the liquid 
+pressure is higher, an outward flux of gas forms in the flow. We also observe the
+phenomenon in a bacterial suspension of Vibrio cholerae, where the fluorescent
+protein (mKO; monomeric Kusabira Orange) and bacterial cells show
+charge-dependent separation in a channel flow. Such experimental observations
+show that diffusiophoresis of charged particles in an aqueous suspension can be
+achieved by having gas leakage through permeable walls, without any preimposed
+ion-concentration gradient in the liquid phase. Our findings will help resolve
+unexpected challenges and biases in on-chip experiments involving particles and
+gas-permeable walls and help understand similar configurations that naturally
+exist in physiological systems, such as pulmonary capillaries. We also
+demonstrate potential applications, such as concentrating and collecting proteins
+below the isoelectric point.
+
+DOI: 10.1073/pnas.2010011117 
+PMID: 33008879 
+
+Conflict of interest statement: Competing interest statement: The authors declare
+no financial conflicts. H.A.S. is 50% owner of Phoresis, Inc., which is a startup
+seeking to utilize diffusiophoresis as a technology for removing particles from
+water. There are no competing interests with the ideas discussed in this paper.
+

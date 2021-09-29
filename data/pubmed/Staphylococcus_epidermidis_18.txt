@@ -1,0 +1,60 @@
+
+1. Ann Transl Med. 2020 Aug;8(16):987. doi: 10.21037/atm-20-4901.
+
+Improved osteogenic activity and inhibited bacterial biofilm formation on
+andrographolide-loaded titania nanotubes.
+
+Feng E(1), Shen K(1), Lin F(1), Lin W(1), Zhang T(1), Zhang Y(1), Lin F(2), Yang 
+Y(3), Lin C(4).
+
+Author information: 
+(1)Department of Arthrosis Surgery, Fuzhou Second Hospital Affiliated to Xiamen
+University, Teaching Hospital of Fujian Medical University, Fuzhou, China.
+(2)Department of Orthopaedics, Fuzhou Second Hospital Affiliated to Xiamen
+University, Teaching Hospital of Fujian Medical University, Fuzhou, China.
+(3)Research Institute for Biomimetics and Soft Matter, Fujian Provincial Key
+Laboratory for Soft Functional Materials Research, College of Physical Science
+and Technology, Xiamen University, Xiamen, China.
+(4)State Key Laboratory of Physical Chemistry of Solid Surfaces, and Department
+of Chemistry, College of Chemistry and Chemical Engineering, Xiamen University,
+Xiamen, China.
+
+Background: Delivery of local drugs with a titania nanotube is an attractive
+approach to combat implant-related infection. Our earlier study has confirmed
+that nanotubes loaded with gentamicin could significantly improve the
+antibacterial ability. On this basis, the used andrographolide in this paper has 
+a high antibacterial activity, which cannot only avoid the evolution of
+antibiotic-resistant bacteria but also has simultaneously excellent
+biocompatibility with osteogenic cells.
+Methods: Two mg of andrographolide was loaded into titania nanotubes, which were 
+fabricated into different diameters (50 and 100 nm) and 200 nm length by the
+method of lyophilization and vacuum drying. We chose a standard strain,
+Staphylococcus epidermidis (American Type Culture Collection 35984), and two
+clinical isolates, S. aureus 376 and S. epidermidis 389 to research the bacterial
+adhesion at 6, 12 and 24 hours and biofilm formation at 48, and 72 hours on the
+andrographolide-loaded nanotubes (NT-A) using the diffusion plate method. Smooth 
+titanium (smooth Ti) and nanotubes with no drug loading (NT) were also inclusive 
+and analyzed. Furthermore, the Sprague-Dawley (SD) rats mesenchymal stem cells
+were used to assess the influence of nanotubular topographies on the osteogenic
+differentiation of mesenchymal stem cells.
+Results: Our results showed that NT-A could inhibit bacterial adhesion and
+biofilm formation on implant surfaces. NT-A and NT, especially those with 100 nm 
+diameters, were found to significantly promoted cell attachment, proliferation,
+diffusion, and osteogenic differentiation when compared with smooth Ti, while the
+same diameter in NT-A and NT did not differ.
+Conclusions: Titania nanotube modification and andrographolide loading can
+significantly improve the antibacterial ability and osteogenic activity of
+orthopedic implants. Nanotubes-based local delivery could be a promising strategy
+for combating implant-associated infection.
+
+2020 Annals of Translational Medicine. All rights reserved.
+
+DOI: 10.21037/atm-20-4901 
+PMCID: PMC7475475
+PMID: 32953787 
+
+Conflict of interest statement: Conflicts of Interest: All authors have completed
+the ICMJE uniform disclosure form (available at
+http://dx.doi.org/10.21037/atm-20-4901). The authors have no conflicts of
+interest to declare.
+

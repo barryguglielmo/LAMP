@@ -1,0 +1,44 @@
+
+1. Mol Ecol. 2020 Oct 1. doi: 10.1111/mec.15662. [Epub ahead of print]
+
+Quorum-sensing signaling by chironomid egg masses' microbiota, affect
+Haemagglutinin/Protease (HAP) production by Vibrio cholerae.
+
+Sela R(1), Hammer BK(2)(3), Halpern M(1)(4).
+
+Author information: 
+(1)Department of Evolutionary and Environmental Biology, University of Haifa,
+Haifa, 3498838, Israel.
+(2)School of Biological Science, Georgia Institute of Technology, Atlanta, GA,
+30332, USA.
+(3)Center for Microbial Dynamics and Infection, Georgia Institute of Technology, 
+Atlanta, GA, 30332, USA.
+(4)Department of Biology and Environment, Faculty of Natural Sciences, University
+of Haifa at Oranim, Tivon, 3600600, Israel.
+
+Vibrio cholerae, the causative agent of cholera, is commonly isolated, along with
+other bacterial species, from chironomid insects (Diptera: Chironomide).
+Nevertheless, its prevalence in the chironomid egg masses' microbiota is less
+than 0.5%. V. cholerae secretes haemagglutinin/protease (HAP) that degrades the
+gelatinous matrix of chironomid egg masses and prevents hatching. Quorum sensing 
+(QS) activates HAP production in response to accumulation of bacterial
+autoinducers (AIs). Our aim was to define the impact of chironomid microbiota on 
+HAP production by V. cholerae. To study QS signaling, we used V. cholerae
+bioluminescence reporter strains (QS-proficient O1 El-Tor wild type and
+QS-deficient mutants) and different bacterial species that we isolated from
+chironomid egg masses. These egg mass isolates, as well as a synthetic AI-2,
+caused an enhancement in lux expression by a V. cholerae QS-deficient mutant. The
+addition of the egg mass bacterial isolate supernatant to the QS-deficient mutant
+also enhanced HAP production and egg mass degradation activities. Moreover, the
+V. cholerae wild type strain was able to proliferate using egg masses as their
+sole carbon source while the QS-deficient was not. The results demonstrate that
+members of the chironomid bacterial consortium produce external chemical cues
+that, like AI-2, induce expression of the hapA gene in V. cholerae. Understanding
+the interactions between V. cholerae and the insects' microbiota may help uncover
+the interactions between this pathogen and the human gut microbiota.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1111/mec.15662 
+PMID: 33001525 
+

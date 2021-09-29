@@ -1,0 +1,58 @@
+
+1. mBio. 2020 Jul 14;11(4). pii: e00886-20. doi: 10.1128/mBio.00886-20.
+
+Vitamin Biosynthesis by Human Gut Butyrate-Producing Bacteria and Cross-Feeding
+in Synthetic Microbial Communities.
+
+Soto-Martin EC(1), Warnke I(1), Farquharson FM(1), Christodoulou M(1), Horgan
+G(2), Derrien M(3), Faurie JM(3), Flint HJ(1), Duncan SH(1), Louis P(4).
+
+Author information: 
+(1)The Rowett Institute, University of Aberdeen, Foresterhill, Aberdeen, United
+Kingdom.
+(2)Biomathematics & Statistics Scotland, Aberdeen, United Kingdom.
+(3)Danone Nutricia Research, Palaiseau, Paris, France.
+(4)The Rowett Institute, University of Aberdeen, Foresterhill, Aberdeen, United
+Kingdom p.louis@abdn.ac.uk.
+
+We investigated the requirement of 15 human butyrate-producing gut bacterial
+strains for eight B vitamins and the proteinogenic amino acids by a combination
+of genome sequence analysis and in vitro growth experiments. The Ruminococcaceae 
+species Faecalibacterium prausnitzii and Subdoligranulum variabile were
+auxotrophic for most of the vitamins and the amino acid tryptophan. Within the
+Lachnospiraceae, most species were prototrophic for all amino acids and several
+vitamins, but biotin auxotrophy was widespread. In addition, most of the strains 
+belonging to Eubacterium rectale and Roseburia spp., but few of the other
+Lachnospiraceae strains, were auxotrophic for thiamine and folate. Synthetic
+coculture experiments of five thiamine or folate auxotrophic strains with
+different prototrophic bacteria in the absence and presence of different vitamin 
+concentrations were carried out. This demonstrated that cross-feeding between
+bacteria does take place and revealed differences in cross-feeding efficiency
+between prototrophic strains. Vitamin-independent growth stimulation in coculture
+compared to monococulture was also observed, in particular for F. prausnitzii
+A2-165, suggesting that it benefits from the provision of other growth factors
+from community members. The presence of multiple vitamin auxotrophies in the most
+abundant butyrate-producing Firmicutes species found in the healthy human colon
+indicates that these bacteria depend upon vitamins supplied from the diet or via 
+cross-feeding from other members of the microbial community.IMPORTANCE Microbes
+in the intestinal tract have a strong influence on human health. Their
+fermentation of dietary nondigestible carbohydrates leads to the formation of
+health-promoting short-chain fatty acids, including butyrate, which is the main
+fuel for the colonic wall and has anticarcinogenic and anti-inflammatory
+properties. A good understanding of the growth requirements of butyrate-producing
+bacteria is important for the development of efficient strategies to promote
+these microbes in the gut, especially in cases where their abundance is altered. 
+The demonstration of the inability of several dominant butyrate producers to grow
+in the absence of certain vitamins confirms the results of previous in silico
+analyses. Furthermore, establishing that strains prototrophic for thiamine or
+folate (butyrate producers and non-butyrate producers) were able to stimulate
+growth and affect the composition of auxotrophic synthetic communities suggests
+that the provision of prototrophic bacteria that are efficient cross feeders may 
+stimulate butyrate-producing bacteria under certain in vivo conditions.
+
+Copyright © 2020 Soto-Martin et al.
+
+DOI: 10.1128/mBio.00886-20 
+PMCID: PMC7360928
+PMID: 32665271 
+

@@ -1,0 +1,47 @@
+
+1. J Dairy Sci. 2020 Sep;103(9):7730-7741. doi: 10.3168/jds.2020-18153. Epub 2020
+Jul 16.
+
+Computer-aided search for a cold-active cellobiose 2-epimerase.
+
+Chen Q(1), Xiao Y(1), Zhang W(1), Stressler T(2), Fischer L(2), Jiang B(3), Mu
+W(4).
+
+Author information: 
+(1)State Key Laboratory of Food Science and Technology, Jiangnan University,
+Wuxi, Jiangsu, 214122, China.
+(2)University of Hohenheim, Institute of Food Science and Biotechnology,
+Department of Biotechnology and Enzyme Science, 70599 Stuttgart, Germany.
+(3)State Key Laboratory of Food Science and Technology, Jiangnan University,
+Wuxi, Jiangsu, 214122, China; International Joint Laboratory on Food Safety,
+Jiangnan University, Wuxi 214122, China.
+(4)State Key Laboratory of Food Science and Technology, Jiangnan University,
+Wuxi, Jiangsu, 214122, China; International Joint Laboratory on Food Safety,
+Jiangnan University, Wuxi 214122, China. Electronic address:
+wmmu@jiangnan.edu.cn.
+
+Cellobiose 2-epimerase (CE) is a promising industrial enzyme that can catalyze
+bioconversion of lactose to its high-value derivatives, namely epilactose and
+lactulose. A need exists in the dairy industry to catalyze lactose bioconversions
+at low temperatures to avoid microbial growth. We focused on the discovery of
+cold-active CE in this study. A genome mining method based on computational
+prediction was used to screen the potential genes encoding cold-active enzymes.
+The CE-encoding gene from Roseburia intestinalis, with a predicted high
+structural flexibility, was expressed heterologously in Escherichia coli. The
+catalytic property of the recombinant enzyme was extensively studied. The optimum
+temperature and pH of the enzyme were 45°C and 7.0, respectively. The specific
+activity of this enzyme to catalyze conversion of lactose to epilactose was
+measured to be 77.3 ± 1.6 U/mg. The kinetic parameters, including turnover number
+(kcat), Michaelis constant (Km), and catalytic efficiency (kcat/Km) using lactose
+as a substrate were 117.0 ± 7.7 s-1, 429.9 ± 57.3 mM, and 0.27 mM-1s-1,
+respectively. In situ production of epilactose was carried out at 8°C: 20.9% of
+68.4 g/L lactose was converted into epilactose in 4 h using 0.02 mg/mL (1.5 U/mL,
+measured at 45°C) of recombinant enzyme. The enzyme discovered by this in silico 
+method is suitable for low-temperature applications.
+
+Copyright © 2020 American Dairy Science Association. Published by Elsevier Inc.
+All rights reserved.
+
+DOI: 10.3168/jds.2020-18153 
+PMID: 32684457 
+

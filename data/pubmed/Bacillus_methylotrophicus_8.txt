@@ -1,0 +1,53 @@
+
+1. AMB Express. 2020 Sep 7;10(1):163. doi: 10.1186/s13568-020-01101-8.
+
+Bacillus velezensis 83 a bacterial strain from mango phyllosphere, useful for
+biological control and plant growth promotion.
+
+Balderas-Ruíz KA(1), Bustos P(2), Santamaria RI(2), González V(2),
+Cristiano-Fajardo SA(1), Barrera-Ortíz S(3), Mezo-Villalobos M(4), Aranda-Ocampo 
+S(5), Guevara-García ÁA(3), Galindo E(1), Serrano-Carreón L(6).
+
+Author information: 
+(1)Departamento de Ingeniería Celular y Biocatálisis, Instituto de Biotecnología,
+Universidad Nacional Autónoma de México, Av. Universidad #2001, Col. Chamilpa, C.
+P. 62210, Cuernavaca, Morelos, México.
+(2)Centro de Ciencias Genómicas, Universidad Nacional Autónoma de México, Av.
+Universidad #2001, Col. Chamilpa, C. P. 62210, Cuernavaca, Morelos, México.
+(3)Departamento de Biología Molecular de Plantas, Instituto de Biotecnología,
+Universidad Nacional Autónoma de México, Av. Universidad #2001, Col. Chamilpa, C.
+P. 62210, Cuernavaca, Morelos, México.
+(4)Agro&Biotecnia S de RL de CV, Limones #8, Col. Amate Redondo, C. P. 62334,
+Cuernavaca, Morelos, México.
+(5)Departamento Fitosanidad-Fitopatología, Colegio de Postgraduados, Carretera
+México-Texcoco Km. 36.5 Montecillo, Texcoco, C.P. 56230, Edo. de México, México.
+(6)Departamento de Ingeniería Celular y Biocatálisis, Instituto de Biotecnología,
+Universidad Nacional Autónoma de México, Av. Universidad #2001, Col. Chamilpa, C.
+P. 62210, Cuernavaca, Morelos, México. leobardo@ibt.unam.mx.
+
+Bacillus velezensis 83 was isolated from mango tree phyllosphere of orchards
+located in El Rosario, Sinaloa, México. The assessment of this strain as BCA
+(biological control agent), as well as PGPB (plant growth-promoting bacteria),
+were demonstrated through in vivo and in vitro assays. In vivo assays showed that
+B. velezensis 83 was able to control anthracnose (Kent mangoes) as efficiently as
+chemical treatment with Captan 50 PH™ or Cupravit hidro™. The inoculation of B.
+velezensis 83 to the roots of maize seedlings yielded an increase of 12% in
+height and 45% of root biomass, as compared with uninoculated seedlings. In vitro
+co-culture assays showed that B. velezensis 83 promoted Arabidopsis thaliana
+growth (root and shoot biomass) while, under the same experimental conditions, B.
+velezensis FZB42 (reference strain) had a suppressive effect on plant growth. In 
+order to characterize the isolated strain, the complete genome sequence of B.
+velezensis 83 is reported. Its circular genome consists of 3,997,902 bp coding to
+3949 predicted genes. The assembly and annotation of this genome revealed gene
+clusters related with plant-bacteria interaction and sporulation, as well as ten 
+secondary metabolites biosynthetic gene clusters implicated in the biological
+control of phytopathogens. Despite the high genomic identity (> 98%) between B.
+velezensis 83 and B. velezensis FZB42, they are phenotypically different. Indeed,
+in vitro production of compounds such as surfactin and bacillomycin D (biocontrol
+activity) and γ-PGA (biofilm component) is significantly different between both
+strains.
+
+DOI: 10.1186/s13568-020-01101-8 
+PMCID: PMC7477031
+PMID: 32894363 
+

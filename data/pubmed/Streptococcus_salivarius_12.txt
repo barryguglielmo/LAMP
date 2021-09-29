@@ -1,0 +1,44 @@
+
+1. Sci Rep. 2020 Aug 6;10(1):13201. doi: 10.1038/s41598-020-70024-y.
+
+Randomised, double-blind, placebo-controlled trial of oral probiotic
+Streptococcus salivarius M18 on head and neck cancer patients post-radiotherapy: 
+a pilot study.
+
+Vesty A(1), Gear K(2), Boutell S(3), Taylor MW(4)(5), Douglas RG(1), Biswas K(6).
+
+Author information: 
+(1)Department of Surgery, The University of Auckland, Auckland, New Zealand.
+(2)Department of Otorhinolaryngology, Auckland District Health Board, Auckland,
+New Zealand.
+(3)Oral Health, Auckland University of Technology, Auckland, New Zealand.
+(4)School of Biological Sciences, The University of Auckland, Auckland, New
+Zealand.
+(5)Maurice Wilkins Centre for Molecular Biodiscovery, The University of Auckland,
+Auckland, New Zealand.
+(6)Department of Surgery, The University of Auckland, Auckland, New Zealand.
+k.biswas@auckland.ac.nz.
+
+Xerostomia detrimentally affects the oral health of many head and neck cancer
+patients who undergo radiotherapy. Its sequelae become an ongoing burden for
+patients that often manifest as periodontal disease and dental decay. Bacteria
+play a major role in the pathogenesis of these conditions and here we explore the
+use of an oral probiotic to beneficially modulate the oral bacterial community
+post-radiotherapy. In this pilot study, a four-week intervention with oral
+probiotic lozenges containing Streptococcus salivarius M18 was trialled in seven 
+patients. Post-intervention changes in oral health and in the composition of the 
+plaque and saliva bacterial communities were compared with six patients in a
+placebo group. An improvement in periodontal screening and plaque index scores
+was observed in both groups after the intervention period. The oral probiotic
+lozenges did not significantly impact bacterial community composition or
+diversity, nor did the probiotic lozenges increase the relative sequence
+abundance of ZOTU_1 (the probiotic-associated sequence assigned to S. salivarius)
+detected in the samples. Network analyses suggest negative interactions occurred 
+between ZOTU_1 and species from the periopathogenic genera Campylobacter,
+Fretibacterium, Selenomonas and Treponema but further investigation is required
+to more fully understand the beneficial properties of this oral probiotic.
+
+DOI: 10.1038/s41598-020-70024-y 
+PMCID: PMC7411050
+PMID: 32764634 
+

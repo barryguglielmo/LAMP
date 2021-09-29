@@ -1,0 +1,63 @@
+
+1. Data Brief. 2020 May 21;31:105739. doi: 10.1016/j.dib.2020.105739. eCollection
+2020 Aug.
+
+Data on metal-chelating, -immobilisation and biosorption properties by Gordonia
+rubripertincta CWB2 in dependency on rare earth adaptation.
+
+Schwabe R(1)(2), Senges CHR(3), Bandow JE(3), Heine T(1), Lehmann H(4), Wiche
+O(2), Schlömann M(1), Levicán G(5), Tischler D(1)(6).
+
+Author information: 
+(1)Institute of Biosciences, Environmental Microbiology Group, TU Bergakademie
+Freiberg, Leipziger Straße 29, 09599 Freiberg, Germany.
+(2)Institute of Biosciences, Biology and Ecology Group, TU Bergakademie Freiberg,
+Leipziger Straße 29, 09599 Freiberg, Germany.
+(3)Applied Microbiology, Faculty of Biology and Biotechnology, Ruhr University
+Bochum, Universitätsstraße 150, 44801 Bochum, Germany.
+(4)Institute of Informatic, TU Bergakademie Freiberg, Bernhard-von-Cotta Straße
+2, 09599 Freiberg, Germany.
+(5)Laboratorio de Microbiología Básica y Aplicada, Facultad de Química y
+Biología, Universidad de Santiago, Chile.
+(6)Microbial Biotechnology, Faculty of Biology and Biotechnology,
+Ruhr-Universität Bochum, Universitätsstraße 150, 44780 Bochum, Germany.
+
+Recent studies have shown that the metal adaptation of Actinobacteria offers a
+rich source of metal inducible environmentally relevant bio-compounds and
+molecules. These interact through biosorption towards the unique cell walls or
+via metal chelating activity of metallophors with trace elements, heavy metals
+and even with lanthanides to overcome limitations and toxic concentrations.
+Herein, the purpose is to investigate the adaptation potential of Gordonia
+rubripertincta CWB2 in dependence of the rare earths and to determine if we can
+utilize promising metallophore metal affinities for metal separation from aquatic
+solutions. For details on data interpretation and applicability of siderophores
+we refer to the related article entitled "Cultivation dependent formation of
+siderophores by Gordonia rubripertincta CWB2" [1]. The respective workflow
+comprises a metal adaptation method to demonstrate effects on bacterial growth,
+pH, metallophore production, and metabolic change. All this was evaluated by
+LC-MS/MS and effects on biosorption of rare earths was verified by ICP-MS.
+Furthermore, we were able to carry out batch metal adsorption and desorption
+studies of metallophores entrapped in inorganic polymers of tetramethoxysilane
+(TMOS) to determine metal chelating capacities and selective enrichment effects
+from model solutions. The adaptation potential of strain CWB2 at increased erbium
+and manganese concentrations was verified by increased chelating activity on agar
+plates, in liquid assays and demonstrated by the successful enrichment of erbium 
+by metallophore-functionalized TMOS-polymers from an aquatic model solution.
+Furthermore, the number of detected compounds in dependency of rare earths differ
+in spectral counts and diversity compared to the wild type. Finally, the
+biosorption of rare earths for the selected adaptation was increased
+significantly up to 2-fold compared to the wild-type. Overall a holistic approach
+to metal stress was utilised, integrating a bacterial erbium adaptation, metal
+chelating, biosorption of lanthanides and immobilization as well as enrichment of
+metals using metallophore functionalized inorganic TMOS polymers for separation
+of metals from aquatic model solutions.
+
+© 2020 The Author(s). Published by Elsevier Inc.
+
+DOI: 10.1016/j.dib.2020.105739 
+PMCID: PMC7262544
+PMID: 32490092 
+
+Conflict of interest statement: The authors declare that there are no conflicts
+of interest.
+

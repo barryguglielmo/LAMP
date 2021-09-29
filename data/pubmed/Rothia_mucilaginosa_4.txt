@@ -1,0 +1,44 @@
+
+1. Microb Ecol. 2020 Oct;80(3):729-738. doi: 10.1007/s00248-020-01531-8. Epub 2020
+Jun 11.
+
+Shifts in Composition and Activity of Oral Biofilms After Fluoride Exposure.
+
+López-López A(1)(2), Mira A(3)(4).
+
+Author information: 
+(1)Department of Health & Genomics, Center for Advanced Research in Public
+Health, FISABIO Foundation, Avda. Cataluña 21, 46020, Valencia, Spain.
+(2)CIBER Centre on Epidemiology and Public Health, Madrid, Spain.
+(3)Department of Health & Genomics, Center for Advanced Research in Public
+Health, FISABIO Foundation, Avda. Cataluña 21, 46020, Valencia, Spain.
+mira_ale@gva.es.
+(4)CIBER Centre on Epidemiology and Public Health, Madrid, Spain.
+mira_ale@gva.es.
+
+Oral diseases are biofilm-mediated diseases caused by imbalances in the ecology
+of resident microflora. Among them, dental caries (tooth decay) is considered the
+most common disease worldwide, and toothbrushing, which physically eliminates the
+oral biofilm, is the most widespread prevention strategy. Although it is well
+established that fluoride increases enamel resistance to acidic pH and promotes
+tooth remineralization, its effect on the biofilm bacterial communities'
+composition and metabolism is not fully understood. We have grown in vitro oral
+biofilms and used 16S rRNA Illumina sequencing to study the effect of fluoride on
+DNA- and RNA-based bacterial populations. In addition, a metatranscriptomic
+approach has also been performed, in which total RNA has been sequenced to study 
+gene expression profiles in the presence/absence of 500 ppm sodium fluoride. Our 
+data show a lower pH drop and a clear shift in total and metabolically active
+bacterial composition after fluoride exposure. Streptococcus oralis was the
+species most affected, with a 10-fold reduction in both DNA and RNA samples,
+whereas Rothia mucilaginosa underwent an 8-fold increase in the DNA and S.
+salivarius a 4- and 5-fold increase in the RNA and DNA samples, respectively. The
+metatranscriptomes indicated that fluoride exposure induced a dramatic shutdown
+of sugar metabolism, including significant under-expression of different sugar
+transporters, fucosidases, and a pyruvate oxidase, among others. The reduction in
+saccharolytic organisms and the inhibition of sugar fermentation pathways by
+fluoride may therefore be considered instrumental for the beneficial effect of
+fluoride-containing oral hygiene products.
+
+DOI: 10.1007/s00248-020-01531-8 
+PMID: 32529471 
+

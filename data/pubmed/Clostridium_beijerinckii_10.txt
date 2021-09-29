@@ -1,0 +1,48 @@
+
+1. Metab Eng Commun. 2020 Jun 11;11:e00137. doi: 10.1016/j.mec.2020.e00137.
+eCollection 2020 Dec.
+
+Aerobic acetone-butanol-isopropanol (ABI) fermentation through a co-culture of
+Clostridium beijerinckii G117 and recombinant Bacillus subtilis 1A1.
+
+Cui Y(1), He J(2), Yang KL(1), Zhou K(1).
+
+Author information: 
+(1)Department of Chemical and Biomolecular Engineering, National University of
+Singapore, 4 Engineering Drive 4, Singapore, 117585, Singapore.
+(2)Department of Civil and Environmental Engineering, National University of
+Singapore, 1 Engineering Drive 2, Singapore, 117576, Singapore.
+
+An engineered B. subtilis 1A1 strain (BsADH2) expressing a secondary alcohol
+dehydrogenase (CpSADH) was co-cultured with C. beijerinckii G117 under an aerobic
+condition. During the fermentation on glucose, B. subtilis BsADH2 depleted oxygen
+in culture media completely and created an anaerobic environment for
+C. beijerinckii G117, an obligate anaerobe, to grow. Meanwhile, lactate produced 
+by B. subtilis BsADH2 was re-assimilated by C. beijerinckii G117. In return,
+acetone produced by C. beijerinckii G117 was reduced into isopropanol by
+B. subtilis BsADH2 via expressing the CpSADH, which helped maintain the redox
+balance of the engineered B. subtilis. In the symbiotic system consisting of two 
+strains, 1.7 ​g/L of acetone, 4.8 ​g/L of butanol, and 0.9 ​g/L of isopropanol
+(with an isopropanol/acetone ratio of 0.53) was produced from 60 ​g/L of glucose.
+This symbiotic system also worked when oxygen was supplied to the culture,
+although less isopropanol was produced (0.9 ​g/L of acetone, 4.9 ​g/L of butanol,
+and 0.2 ​g/L of isopropanol). The isopropanol titer was increased substantially
+to 2.5 ​g/L when we increased the inoculum size of B. subtilis BsADH2 and
+optimized other process parameters. With the Bacillus-Clostridium co-culture,
+switching from the original acetone-butanol (AB) fermentation to an aerobic
+acetone-butanol-isopropanol (ABI) fermentation can be easily achieved without
+genetic engineering of Clostridium. This strategy of employing a recombinant
+Bacillus to co-culture with Clostridium should be potentially useful to modify
+traditional acetone-butanol-ethanol fermentation for the production of other
+value-added chemicals.
+
+© 2020 The Authors.
+
+DOI: 10.1016/j.mec.2020.e00137 
+PMCID: PMC7322341
+PMID: 32612931 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

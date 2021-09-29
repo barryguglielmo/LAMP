@@ -1,0 +1,57 @@
+
+1. J Infect Chemother. 2020 Sep;26(9):908-915. doi: 10.1016/j.jiac.2020.04.004. Epub
+2020 Apr 28.
+
+Novel diverse sequences of the Streptococcus canis M-like protein (SCM) gene and 
+their prevalence in diseased companion animals: Association of their alleles with
+sequence types.
+
+Fukushima Y(1), Takahashi T(2), Goto M(1), Yoshida H(1), Tsuyuki Y(3).
+
+Author information: 
+(1)Laboratory of Infectious Diseases, Graduate School of Infection Control
+Sciences & Kitasato Institute for Life Sciences, Kitasato University, 5-9-1
+Shirokane, Minato-ku, Tokyo, 108-8641, Japan.
+(2)Laboratory of Infectious Diseases, Graduate School of Infection Control
+Sciences & Kitasato Institute for Life Sciences, Kitasato University, 5-9-1
+Shirokane, Minato-ku, Tokyo, 108-8641, Japan. Electronic address:
+taka2si@lisci.kitasato-u.ac.jp.
+(3)Laboratory of Infectious Diseases, Graduate School of Infection Control
+Sciences & Kitasato Institute for Life Sciences, Kitasato University, 5-9-1
+Shirokane, Minato-ku, Tokyo, 108-8641, Japan; Division of Clinical Laboratory,
+Sanritsu Zelkova Veterinary Laboratory, 3-5-5 Ogibashi, Koto-ku, Tokyo, 135-0011,
+Japan.
+
+OBJECTIVE: We aimed to determine novel alleles and their prevalence in
+Streptococcus canis M-like protein (SCM) and to elucidate association of their
+alleles with sequence types (STs)/clonal complexes (CCs) and antimicrobial
+resistance (AMR) phenotypes/genotypes.
+METHODS: We amplified and sequenced scm, by using primers reported by Pinho
+recently, for 40 isolates in 2015 and 2017, in which the sequences could not be
+determined with conventional primers. Isolates, for which SCM alleles, STs, and
+AMR phenotypes/genotypes were previously determined, were included as controls. A
+phylogenetic tree of SCM amino acid sequences was constructed. Alleles, based on 
+the tree positions with their prevalence, as well as STs/CCs and AMR
+phenotypes/genotypes were characterized.
+RESULTS: Although one isolate possessed SCM allele type 1, 39 isolates had novel 
+allele types 10-15, based on cluster analysis. The 11 and 12 allele types were
+firstly found in this study. We designated novel allele types as group II and
+non-novel allele types as group I. Prevalence of group II alleles was 29.9% and
+16.2% in 2015 and 2017. Prevalent group II types were allele 10 (10.3%), allele
+11 (2.7%), and allele 15 (3.3%) through both periods. There was a significant
+difference in distribution of STs/CCs between groups I/II SCM populations. We
+found significant differences in distribution of macrolide/lincosamide AMR
+genotype (7.7% vs. 26.8%) and AMR rates of fluoroquinolone (0% vs. 12.5%) between
+the two populations.
+CONCLUSION: Our study presents group II scm sequences and their prevalence among 
+diseased companion animals in Japan, with association of their alleles with STs.
+
+Copyright © 2020 Japanese Society of Chemotherapy and The Japanese Association
+for Infectious Diseases. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jiac.2020.04.004 
+PMID: 32354600 
+
+Conflict of interest statement: Declaration of Competing Interest None to
+declare.
+

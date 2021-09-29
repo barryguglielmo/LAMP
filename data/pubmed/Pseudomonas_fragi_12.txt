@@ -1,0 +1,35 @@
+
+1. Int J Syst Evol Microbiol. 2020 Feb;70(2):935-943. doi: 10.1099/ijsem.0.003851.
+
+Pseudomonas saxonica sp. nov., isolated from raw milk and skimmed milk
+concentrate.
+
+Hofmann K(1), Huptas C(1), Doll EV(1), Scherer S(1), Wenning M(2)(1).
+
+Author information: 
+(1)Chair of Microbial Ecology, ZIEL - Institute for Food & Health, Technische
+Universität München, Weihenstephaner Berg 3, 85354 Freising, Germany.
+(2)Bavarian Health and Food Safety Authority, Veterinärstraße 2, 85764
+Oberschleißheim, Germany.
+
+A polyphasic approach was used to investigate the taxonomic status of two
+bacterial strains, WS 5072T and WS 5092, isolated from skimmed milk concentrate
+and raw cow's milk. The 16S rRNA and rpoD gene sequences affiliated the strains
+to the same, hitherto unknown, Pseudomonas species. Further examinations of the
+draft genomes based on multilocus sequence analysis and average nucleotide
+identity confirmed the presence of a novel Pseudomonas species. It was most
+closely related to Pseudomonas fragi DSM 3456T with 86.3 % ANIm. The DNA G+C
+content of strain WS 5072T was 56.3 mol%. Cells were aerobic, Gram-negative,
+catalase and oxidase positive, rod-shaped and motile. Growth occurred at 4-34 °C,
+pH 5.5-8.0 and with salt concentrations of up to 7 %. The major cellular polar
+lipids were phosphatidylethanolamine, phosphatidylglycerol, and
+diphosphatidylglycerol. The dominating quinone was Q-9 with 94 %, with noticeable
+amounts of Q-8 (5 %) and traces of Q-7 and Q-10. Fatty acid profiles showed a
+composition common for Pseudomonas with the major component C16 : 0. Based on
+these results, the novel species Pseudomonas saxonica sp. nov. is proposed, with 
+the type strain WS 5072T (=DSM 108989T=LMG 31234T) and the additional strain WS
+5092 (=DSM 108990=LMG 31235).
+
+DOI: 10.1099/ijsem.0.003851 
+PMID: 31730030  [Indexed for MEDLINE]
+

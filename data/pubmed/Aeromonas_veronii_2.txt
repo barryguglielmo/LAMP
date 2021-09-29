@@ -1,0 +1,42 @@
+
+1. Access Microbiol. 2020 Feb 17;2(4):acmi000103. doi: 10.1099/acmi.0.000103.
+eCollection 2020.
+
+First hybrid complete genome of Aeromonas veronii reveals chromosome-mediated
+novel structural variant mcr-3.30 from a human clinical sample.
+
+Ragupathi NKD(1), Sethuvel DPM(1), Anandan S(1), Murugan D(1), Asokan K(1),
+Neethi Mohan RG(1), Vasudevan K(1), D TK(2), C GPD(2), Veeraraghavan B(1).
+
+Author information: 
+(1)Department of Clinical Microbiology, Christian Medical College, Vellore -
+632004, India.
+(2)School of Bio Sciences and Technology, Vellore Institute of Technology,
+Vellore - 632014, India.
+
+Recent findings demonstrate the origin of the plasmid-mediated colistin
+resistance gene mcr-3 from aeromonads. The present study aimed to screen for
+plasmid-mediated colistin resistance among 30 clinical multidrug-resistant (MDR) 
+Aeromonas spp. PCR was used to screen for the presence of mcr-1, mcr-2, mcr-3 and
+mcr-4, which revealed mcr-3 in a colistin-susceptible isolate (FC951). All other 
+isolates were negative for mcr. Sequencing of FC951 revealed that the mcr-3
+(mcr-3.30) identified was different from previously reported variants and had
+95.62 and 95.28 % nucleotide similarity with mcr-3.3 and mcr-3.10. Hybrid
+assembly using IonTorrent and MinION reads revealed structural genetic
+information for mcr-3.30 with an insertion of ISAs18 within the gene. Due to
+this, mcr-3.30 was non-expressive, which makes FC951 susceptible to colistin.
+Further, in silico sequence and protein structural analysis confirmed the new
+variant. To the best of our knowledge, this is the first report on a novel mcr-3 
+variant from India. The significant role of mcr-like genes in different Aeromonas
+species remains unknown and requires additional investigation to obtains insights
+into the mechanism of colistin resistance.
+
+© 2020 The Authors.
+
+DOI: 10.1099/acmi.0.000103 
+PMCID: PMC7523623
+PMID: 33005867 
+
+Conflict of interest statement: The authors declare that there are no conflicts
+of interest.
+

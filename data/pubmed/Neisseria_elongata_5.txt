@@ -1,0 +1,52 @@
+
+1. J Bacteriol. 2019 Sep 20;201(20). pii: e00170-19. doi: 10.1128/JB.00170-19. Print
+2019 Oct 15.
+
+Contribution of σ70 and σN Factors to Expression of Class II pilE in Neisseria
+meningitidis.
+
+Lobanovska M(1), Tang CM(1), Exley RM(2).
+
+Author information: 
+(1)Sir William Dunn School of Pathology, University of Oxford, Oxford, United
+Kingdom.
+(2)Sir William Dunn School of Pathology, University of Oxford, Oxford, United
+Kingdom rachel.exley02@path.ox.ac.uk.
+
+Neisseria meningitidis expresses multicomponent organelles called type four pili 
+(Tfp), which are key virulence factors required for attachment to human cells
+during carriage and disease. Pilin (PilE) is the main component of Tfp, and N.
+meningitidis isolates either have a class I pilE locus and express pilins that
+undergo antigenic variation or have a class II pilE locus and express invariant
+pilins. The transcriptional regulation of class I pilE has been studied in both
+N. meningitidis and Neisseria gonorrhoeae, while the control of expression of
+class II pilE has been elucidated in the nonpathogenic species Neisseria elongata
+However, the factors that govern the regulation of the class II pilE gene in N.
+meningitidis are not known. In this work, we have bioinformatically and
+experimentally identified the class II pilE promoter. We confirmed the presence
+of conserved σ70 and σN-dependent promoters upstream of pilE in a collection of
+meningococcal genomes and demonstrated that class II pilE expression initiates
+from the σ70 family-dependent promoter. By deletion or overexpression of sigma
+factors, we showed that σN, σH, and σE do not affect class II pilin expression.
+These findings are consistent with a role of the housekeeping σD in expression of
+this important component of Tfp. Taken together, our data indicate that the
+σ-dependent network responsible for the expression of class II pilE has been
+selected to maintain pilE expression, consistent with the essential roles of Tfp 
+in colonization and pathogenesis.IMPORTANCE The type four pilus (Tfp) of
+Neisseria meningitidis contributes to fundamental processes such as adhesion,
+transformation, and disease pathology. Meningococci express one of two distinct
+classes of Tfp (class I or class II), which can be distinguished antigenically or
+by the major subunit (pilE) locus and its genetic context. The factors that
+govern transcription of the class II pilE gene are not known, even though it is
+present in isolates that cause epidemic disease. Here we show that the
+transcription of class II pilE is maintained throughout growth and under
+different stress conditions and is driven by a σ70-dependent promoter. This is
+distinct from Tfp regulation in nonpathogenic Neisseria spp. and may confer an
+advantage during host-cell interaction and infection.
+
+Copyright © 2019 Lobanovska et al.
+
+DOI: 10.1128/JB.00170-19 
+PMCID: PMC6755734
+PMID: 31331980  [Indexed for MEDLINE]
+

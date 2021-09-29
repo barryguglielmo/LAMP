@@ -1,0 +1,55 @@
+
+1. Access Microbiol. 2019 Oct 29;1(10):e000067. doi: 10.1099/acmi.0.000067.
+eCollection 2019.
+
+High-quality draft genome sequences of Pseudomonas monteilii DSM 14164T,
+Pseudomonas mosselii DSM 17497T, Pseudomonas plecoglossicida DSM 15088T,
+Pseudomonas taiwanensis DSM 21245T and Pseudomonas vranovensis DSM 16006T:
+taxonomic considerations.
+
+Peña A(1), Busquets A(1), Gomila M(1), Mulet M(1), Gomila RM(2), Garcia-Valdes
+E(1)(3), Reddy TBK(4), Huntemann M(4), Varghese N(4), Ivanova N(4), Chen IM(4),
+Göker M(5), Woyke T(4), Klenk HP(6), Kyrpides N(4), Lalucat J(1)(3).
+
+Author information: 
+(1)Department of Biology-Microbiology, Universitat de les Illes Balears, Palma
+de, Mallorca, Spain.
+(2)Serveis Cientifico-Tècnics, Universitat de les Illes Balears, Palma de
+Mallorca, Spain.
+(3)Institut Mediterrani d'Estudis Avançats (IMEDEA, CSIC-UIB), Palma de Mallorca,
+Spain.
+(4)DOE Joint Genome Institute, 2800 Mitchell Drive, Walnut Creek, CA 94598-1698, 
+USA.
+(5)Leibniz Institute DSMZ - German Collection of Microorganisms and Cell
+Cultures, 38124 Braunschweig, Germany.
+(6)School of Natural and Environmental Sciences, Newcastle University, Newcastle 
+upon Tyne, NE1 7RU, UK.
+
+Pseudomonas is the bacterial genus of Gram-negative bacteria with the highest
+number of recognized species. It is divided phylogenetically into three lineages 
+and at least 11 groups of species. The Pseudomonas putida group of species is one
+of the most versatile and best studied. It comprises 15 species with validly
+published names. As a part of the Genomic Encyclopedia of Bacteria and Archaea
+(GEBA) project, we present the genome sequences of the type strains of five
+species included in this group: Pseudomonas monteilii (DSM 14164T), Pseudomonas
+mosselii (DSM 17497T), Pseudomonas plecoglossicida (DSM 15088T), Pseudomonas
+taiwanensis (DSM 21245T) and Pseudomonas vranovensis (DSM 16006T). These strains 
+represent species of environmental and also of clinical interest due to their
+pathogenic properties against humans and animals. Some strains of these species
+promote plant growth or act as plant pathogens. Their genome sizes are among the 
+largest in the group, ranging from 5.3 to 6.3 Mbp. In addition, the genome
+sequences of the type strains in the Pseudomonas taxonomy were analysed via
+genome-wide taxonomic comparisons of ANIb, gANI and GGDC values among 130
+Pseudomonas strains classified within the group. The results demonstrate that at 
+least 36 genomic species can be delineated within the P. putida phylogenetic
+group of species.
+
+© 2019 The Authors.
+
+DOI: 10.1099/acmi.0.000067 
+PMCID: PMC7491935
+PMID: 32974501 
+
+Conflict of interest statement: The authors declare that there are no conflicts
+of interest.
+

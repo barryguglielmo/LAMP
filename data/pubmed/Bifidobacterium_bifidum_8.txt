@@ -1,0 +1,52 @@
+
+1. Int J Mol Sci. 2020 Aug 29;21(17). pii: E6266. doi: 10.3390/ijms21176266.
+
+Immunomodulation and Generation of Tolerogenic Dendritic Cells by Probiotic
+Bacteria in Patients with Inflammatory Bowel Disease.
+
+Ghavami SB(1), Yadegar A(2), Aghdaei HA(1), Sorrentino D(3)(4), Farmani M(1), Mir
+AS(5), Azimirad M(2), Balaii H(6), Shahrokh S(6), Zali MR(6).
+
+Author information: 
+(1)Basic and Molecular Epidemiology of Gastrointestinal Disorders Research
+Center, Research Institute for Gastroenterology and Liver Diseases, Shahid
+Beheshti University of Medical Sciences, Tehran 1985717413, Iran.
+(2)Foodborne and Waterborne Diseases Research Center, Research Institute for
+Gastroenterology and Liver Diseases, Shahid Beheshti University of Medical
+Sciences, Tehran 1985717413, Iran.
+(3)IBD Center, Division of Gastroenterology, Virginia Tech Carilion School of
+Medicine, Roanoke, VA 24016, USA.
+(4)Department of Clinical and Experimental Medical Sciences, University of Udine 
+School of Medicine, 33100 Udine, Italy.
+(5)Department of Internal Medicine, Roanoke Memorial Hospital, Carilion Clinic,
+VA 24014, USA.
+(6)Gastroenterology and Liver Diseases Research Center, Research Institute for
+Gastroenterology and Liver Diseases, Shahid Beheshti University of Medical
+Sciences, Tehran 1985717413, Iran.
+
+In inflammatory bowel diseases (IBD), the therapeutic benefit and mucosal healing
+from specific probiotics may relate to the modulation of dendritic cells (DCs).
+Herein, we assessed the immunomodulatory effects of four probiotic strains
+including Lactobacillus salivarius, Bifidobacterium bifidum, Bacillus coagulans
+and Bacillus subtilis natto on the expression of co-stimulatory molecules,
+cytokine production and gene expression of signal-transducing receptors in DCs
+from IBD patients. Human monocyte-derived DCs from IBD patients and healthy
+controls were exposed to four probiotic strains. The expression of co-stimulatory
+molecules was assessed and supernatants were analyzed for anti-inflammatory
+cytokines. The gene expression of toll-like receptors (TLRs), IL-12p40 and
+integrin αvβ8 were also analyzed. CD80 and CD86 were induced by most probiotic
+strains in ulcerative colitis (UC) patients whereas only B. bifidum induced CD80 
+and CD86 expression in Crohn's disease (CD) patients. IL-10 and TGF-β production 
+was increased in a dose-independent manner while TLR expression was decreased by 
+all probiotic bacteria except B. bifidum in DCs from UC patients. TLR-4 and TLR-9
+expression was significantly downregulated while integrin ß8 was significantly
+increased in the DCs from CD patients. IL-12p40 expression was only significantly
+downregulated in DCs from CD patients. Our findings point to the general
+beneficial effects of probiotics in DC immunomodulation and indicate that
+probiotic bacteria favorably modulate the expression of co-stimulatory molecules,
+proinflammatory cytokines and TLRs in DCs from IBD patients.
+
+DOI: 10.3390/ijms21176266 
+PMCID: PMC7503552
+PMID: 32872480 
+

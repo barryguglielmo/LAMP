@@ -1,0 +1,48 @@
+
+1. Microb Biotechnol. 2020 Sep 23. doi: 10.1111/1751-7915.13661. [Epub ahead of
+print]
+
+Modulation of gut mucosal microbiota as a mechanism of probiotics-based
+adjunctive therapy for ulcerative colitis.
+
+Chen P(1), Xu H(2), Tang H(2), Zhao F(2), Yang C(2), Kwok LY(2), Cong C(1), Wu
+Y(1), Zhang W(2), Zhou X(3), Zhang H(2).
+
+Author information: 
+(1)The Affiliated Hospital of Inner Mongolia Medical University, Hohhot, 010050, 
+China.
+(2)Key Laboratory of Dairy Biotechnology and Engineering, Ministry of Education
+P. R. C., Key Laboratory of Dairy Products Processing, Ministry of Agriculture
+and Rural Affairs P. R. C., Inner Mongolia Agricultural University, Hohhot,
+010018, China.
+(3)China-Japan Friendship Hospital, Beijing, 100029, China.
+
+This was a pilot study aiming to evaluate the effects of probiotics as adjunctive
+treatment for ulcerative colitis (UC). Twenty-five active patients with UC were
+assigned to the probiotic (n = 12) and placebo (n = 13) groups. The probiotic
+group received mesalazine (60 mg kg-1  day-1 ) and oral probiotics (containing
+Lactobacillus casei Zhang, Lactobacillus plantarum P-8 and Bifidobacterium
+animalis subsp. lactis V9) twice daily for 12 weeks, while the placebo group
+received the same amounts of mesalazine and placebo. The clinical outcomes were
+assessed. The gut mucosal microbiota was profiled by PacBio single-molecule,
+real-time (SMRT) sequencing of the full-length 16S rRNA of biopsy samples
+obtained by colonoscopy. A significantly greater magnitude of reduction was
+observed in the UC disease activity index (UCDAI) in the probiotic group compared
+with the placebo group (P = 0.043), accompanying by a higher remission rate
+(91.67% for probiotic-receivers versus 69.23% for placebo-receivers, P = 0.034). 
+The probiotics could protect from diminishing of the microbiota diversity and
+richness. Moreover, the gut mucosal microbiota of the probiotic-receivers had
+significantly more beneficial bacteria like Eubacterium ramulus (P < 0.05),
+Pediococcus pentosaceus (P < 0.05), Bacteroides fragilis (P = 0.02) and Weissella
+cibaria (P = 0.04). Additionally, the relative abundances of the beneficial
+bacteria correlated significantly but negatively with the UCDAI score, suggesting
+that the probiotics might alleviate UC symptoms by modulating the gut mucosal
+microbiota. Our research has provided new insights into the mechanism of symptom 
+alleviation in UC by applying probiotic-based adjunctive treatment.
+
+© 2020 The Authors. Microbial Biotechnology published by Society for Applied
+Microbiology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/1751-7915.13661 
+PMID: 32969200 
+

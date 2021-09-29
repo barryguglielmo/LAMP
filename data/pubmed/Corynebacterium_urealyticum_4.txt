@@ -1,0 +1,41 @@
+
+1. Molecules. 2020 May 21;25(10). pii: E2392. doi: 10.3390/molecules25102392.
+
+Evaluation of Antioxidant and Antibacterial Activities, Cytotoxicity of Acacia
+seyal Del Bark Extracts and Isolated Compounds.
+
+Elmi A(1)(2), Spina R(1), Risler A(1), Philippot S(1), Mérito A(2), Duval RE(1), 
+Abdoul-Latif FM(2), Laurain-Mattar D(1).
+
+Author information: 
+(1)Université de Lorraine, CNRS, L2CM, F-54000 Nancy, France.
+(2)Medicinal Research Institute, Centre d'Etudes et de Recherche de Djibouti,
+IRM-CERD, Route de l'Aéroport, Haramous B.P. 486, Djibouti.
+
+Water extract of Acacia seyal bark is used traditionally by the population in
+Djibouti for its anti-infectious activity. The evaluation of in vitro
+antibacterial, antioxidant activities and cytotoxicity as well as chemical
+characterization of Acacia seyal bark water and methanolic extracts were
+presented. The water extract has a toxicity against the MRC-5 cells at 256 μg/mL 
+while the methanolic extract has a weak toxicity at the same concentration. The
+methanolic extract has a strong antioxidant activity with half maximal inhibitory
+concentration (IC50) of 150 ± 2.2 μg/mL using 1-diphenyl-2-picrylhydrazyl (DPPH) 
+and IC50 of 27 ± 1.3 μg/mL using 2,2'-azino-bis 3-ethylbenzthiazoline-6-sulphonic
+acid (ABTS) radical methods. For ferric reducing/antioxidant power (FRAP) assay, 
+the result is 45.74 ± 5.96 μg Vitamin C Equivalent (VCE)/g of dry weight (DW).
+The precipitation of tannins from methanol crude extract decreases the MIC from
+64 µg/mL to 32 µg/mL against Staphylococcus aureus and Corynebacterium
+urealyticum. However, the antioxidant activity is higher before tannins
+precipitation than after (IC50 = 150 µg/mL for methanolic crude extract and 250
+µg/mL after tannins precipitation determined by DPPH method). By matrix-assisted 
+laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS)
+analysis, the results showed that the condensed tannins consist of two types of
+catechin and gallocatechin-based oligomers. The fractionation led to the
+identification of three pure compounds: two flavanols catechin and epicatechin;
+one triterpene as lupeol; and a mixture of three steroids and one fatty acid:
+campesterol, stigmasterol, clionasterol, and oleamide.
+
+DOI: 10.3390/molecules25102392 
+PMCID: PMC7288156
+PMID: 32455580 
+

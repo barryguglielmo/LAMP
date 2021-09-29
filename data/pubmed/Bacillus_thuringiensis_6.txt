@@ -1,0 +1,46 @@
+
+1. Sci Rep. 2020 Sep 28;10(1):15830. doi: 10.1038/s41598-020-72572-9.
+
+Functional validation of DvABCB1 as a receptor of Cry3 toxins in western corn
+rootworm, Diabrotica virgifera virgifera.
+
+Niu X(1), Kassa A(2), Hasler J(2)(3), Griffin S(4), Perez-Ortega C(5), Procyk
+L(2), Zhang J(2), Kapka-Kitzman DM(2), Nelson ME(6), Lu A(2).
+
+Author information: 
+(1)Corteva Agriscience, 7300 NW 62nd Ave., Johnston, IA, 50131, USA.
+xiping.niu@corteva.com.
+(2)Corteva Agriscience, 7300 NW 62nd Ave., Johnston, IA, 50131, USA.
+(3), Danville, USA.
+(4)Corteva Agriscience, 9330 Zionsville Rd, Indianapolis, IN, 46268, USA.
+(5)Reaction Biology Corp, 1 Great Valley Pkwy Ste 2, Malvern, PA, 19355, USA.
+(6)Corteva Agriscience, 7300 NW 62nd Ave., Johnston, IA, 50131, USA.
+mark.e.nelson@corteva.com.
+
+Western corn rootworm (WCR), Diabrotica virgifera virgifera (Coleoptera:
+Chrysomelidae), is a serious insect pest in the major corn growing areas of North
+America and in parts of Europe. WCR populations with resistance to Bacillus
+thuringiensis (Bt) toxins utilized in commercial transgenic traits have been
+reported, raising concerns over their continued efficacy in WCR management.
+Understanding the modes of action of Bt toxins is important for WCR control and
+resistance management. Although different classes of proteins have been
+identified as Bt receptors for lepidopteran insects, identification of receptors 
+in WCR has been limited with no reports of functional validation. Our results
+demonstrate that heterologous expression of DvABCB1 in Sf9 and HEK293 cells
+conferred sensitivity to the cytotoxic effects of Cry3A toxins. The result was
+further validated using knockdown of DvABCB1 by RNAi which rendered WCR larvae
+insensitive to a Cry3A toxin. However, silencing of DvABCB2 which is highly
+homologous to DvABCB1 at the amino acid level, did not reduce the sensitivity of 
+WCR larvae to a Cry3A toxin. Furthermore, our functional studies corroborate
+different mode-of-actions for other insecticidal proteins including
+Cry34Ab1/35Ab1, Cry6Aa1, and IPD072Aa against WCR. Finally, reduced expression
+and alternatively spliced transcripts of DvABCB1 were identified in a
+mCry3A-resistant strain of WCR. Our results provide the first clear demonstration
+of a functional receptor in the molecular mechanism of Cry3A toxicity in WCR and 
+confirmed its role in the mechanism of resistance in a mCry3A resistant strain of
+WCR.
+
+DOI: 10.1038/s41598-020-72572-9 
+PMCID: PMC7522262
+PMID: 32985523 
+

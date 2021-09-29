@@ -1,0 +1,43 @@
+
+1. Food Microbiol. 2020 Oct;91:103547. doi: 10.1016/j.fm.2020.103547. Epub 2020 May 
+7.
+
+Large microbiota survey reveals how the microbial ecology of cooked ham is shaped
+by different processing steps.
+
+Zagdoun M(1), Coeuret G(1), N'Dione M(1), Champomier-Vergès MC(1), Chaillou S(2).
+
+Author information: 
+(1)Université Paris-Saclay, INRAE, AgroParisTech, Micalis Institute, 78350,
+Jouy-en-Josas, France.
+(2)Université Paris-Saclay, INRAE, AgroParisTech, Micalis Institute, 78350,
+Jouy-en-Josas, France. Electronic address: stephane.chaillou@inrae.fr.
+
+Cooked ham production involves numerous steps shaping the microbial communities
+of the final product, with consequences on spoilage metabolites production. To
+identify the main factors driving the ecology of ham and its spoilage, we
+designed a study encompassing five variables related to ham production: type of
+storage during meat transportation, churning speed, drain-off time, slicing line 
+and O2 packaging permeability. About 200 samples from the same facility were
+obtained and characterized with respect to i) their microbiota based on gyrB
+amplicon sequencing ii) their production of spoilage-related metabolites based on
+E-Nose analysis and enzymatic assays. The slicing was the most critical step,
+shaping two general types of microbiota according to the slicing line: one
+dominated by Carnobacterium divergens and another one dominated by Leuconostoc
+carnosum and Serratia proteamaculans. Regarding metabolites production, L.
+carnosum was associated to d-lactic acid, ethanol and acetic acid production,
+whereas Serratia proteamaculans was associated to acetic acid production. This
+last species prevailed with highly O2-permeable packaging. Within a given slicing
+line, campaign-based variations were observed, with Lactobacillus sakei,
+Leuconostoc mesenteroides and Carnobacterium maltaromaticum prevalent in summer. 
+L. sakei was associated with l-lactic acid production and C. maltaromaticum with 
+formic and acetic acid productions.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fm.2020.103547 
+PMID: 32539984 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare having no conflict of interest.
+

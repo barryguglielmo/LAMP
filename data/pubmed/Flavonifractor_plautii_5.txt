@@ -1,0 +1,61 @@
+
+1. mSystems. 2019 Nov 12;4(6). pii: e00438-19. doi: 10.1128/mSystems.00438-19.
+
+Association of Flavonifractor plautii, a Flavonoid-Degrading Bacterium, with the 
+Gut Microbiome of Colorectal Cancer Patients in India.
+
+Gupta A(#)(1), Dhakan DB(#)(1), Maji A(#)(1), Saxena R(1), P K VP(1), Mahajan
+S(1), Pulikkan J(2), Kurian J(3), Gomez AM(4), Scaria J(5), Amato KR(6), Sharma
+AK(1)(4), Sharma VK(7).
+
+Author information: 
+(1)Metagenomics and Systems Biology Group, Department of Biological Sciences,
+Indian Institute of Science Education and Research Bhopal, Bhopal, India.
+(2)Department of Genomic Science, Central University of Kerala, Kasargod, India.
+(3)Department of Oncology, Amala Institute of Medical Sciences, Thrissur, India.
+(4)Department of Animal Science, Department of Food Science and Nutrition,
+University of Minnesota, Saint Paul, Minnesota, USA.
+(5)Animal Disease Research & Diagnostic Laboratory, South Dakota State
+University, Brookings, South Dakota, USA.
+(6)Department of Anthropology, Northwestern University, Evanston, Illinois, USA.
+(7)Metagenomics and Systems Biology Group, Department of Biological Sciences,
+Indian Institute of Science Education and Research Bhopal, Bhopal, India
+vineetks@iiserb.ac.in.
+(#)Contributed equally
+
+Recently, dysbiosis in the human gut microbiome and shifts in the relative
+abundances of several bacterial species have been recognized as important factors
+in colorectal cancer (CRC). However, these studies have been carried out mainly
+in developed countries where CRC has a high incidence, and it is unclear whether 
+the host-microbiome relationships deduced from these studies can be generalized
+to the global population. To test if the documented associations between the
+microbiome and CRC are conserved in a distinct context, we performed metagenomic 
+and metabolomic association studies on fecal samples from 30 CRC patients and 30 
+healthy controls from two different locations in India, followed by a comparison 
+of CRC data available from other populations. We confirmed the association of
+Bacteroides and other bacterial taxa with CRC that have been previously reported 
+in other studies. However, the association of CRC with Flavonifractor plautii in 
+Indian patients emerged as a novel finding. The plausible role of F. plautii
+appears to be linked with the degradation of beneficial anticarcinogenic
+flavonoids, which was also found to be significantly correlated with the enzymes 
+and modules involved in flavonoid degradation within Indian CRC samples. Thus, we
+hypothesize that the degradation of beneficial flavonoids might be playing a role
+in cancer progression within this Indian cohort. We also identified 20 potential 
+microbial taxonomic markers and 33 potential microbial gene markers that
+discriminate the Indian CRC from healthy microbiomes with high accuracy based on 
+machine learning approaches.IMPORTANCE This study provides novel insights on the 
+CRC-associated microbiome of a unique cohort in India, reveals the potential role
+of a new bacterium in CRC, and identifies cohort-specific biomarkers, which can
+potentially be used in noninvasive diagnosis of CRC. The study gains additional
+significance, as India is among the countries with a very low incidence of CRC,
+and the diet and lifestyle in India have been associated with a distinct gut
+microbiome in healthy Indians compared to other global populations. Thus, in this
+study, we hypothesize a unique relationship between CRC and the gut microbiome in
+an Indian population.
+
+Copyright © 2019 Gupta et al.
+
+DOI: 10.1128/mSystems.00438-19 
+PMCID: PMC7407896
+PMID: 31719139 
+

@@ -1,0 +1,50 @@
+
+1. Gut Microbes. 2020 May 3;11(3):481-496. doi: 10.1080/19490976.2019.1678996. Epub 
+2019 Dec 2.
+
+Bile salt metabolism is not the only factor contributing to Clostridioides
+(Clostridium) difficile disease severity in the murine model of disease.
+
+Jukes CA(1), Ijaz UZ(2), Buckley A(1)(3), Spencer J(1)(4), Irvine J(1), Candlish 
+D(1), Li JV(5), Marchesi JR(5)(6), Douce G(1).
+
+Author information: 
+(1)Institute of Infection, Immunity and Inflammation, College of Veterinary
+Medical and Life Sciences, University of Glasgow , Glasgow, UK.
+(2)School of Engineering, College of Science and Engineering, University of
+Glasgow , Glasgow, UK.
+(3)Leeds Institute of Medical Research, Faculty of Medicine and Health,
+University of Leeds , Leeds, UK.
+(4)School of Health and Life Sciences, Glasgow Caledonian University , Glasgow,
+UK.
+(5)Faculty of Medicine, Department of Surgery & Cancer, Imperial College London ,
+London, UK.
+(6)School of Biosciences, Cardiff University , Cardiff, UK.
+
+Susceptibility of patients to antibiotic-associated C. difficile disease is
+intimately associated with specific changes to gut microbiome composition. In
+particular, loss of microbes that modify bile salt acids (BSA) play a central
+role; primary bile acids stimulate spore germination whilst secondary bile acids 
+limit C. difficile vegetative growth. To determine the relative contribution of
+bile salt (BS) metabolism on C. difficile disease severity, we treated mice with 
+three combinations of antibiotics prior to infection. Mice given clindamycin
+alone became colonized but displayed no tissue pathology while severe disease,
+exemplified by weight loss and inflammatory tissue damage occurred in animals
+given a combination of five antibiotics and clindamycin. Animals given only the
+five antibiotic cocktails showed only transient colonization and no disease. C.
+difficile colonization was associated with a reduction in bacterial diversity, an
+inability to amplify bile salt hydrolase (BSH) sequences from fecal DNA and a
+relative increase in primary bile acids (pBA) in cecal lavages from infected
+mice. Further, the link between BSA modification and the microbiome was confirmed
+by the isolation of strains of Lactobacillus murinus that modified primary bile
+acids in vitro, thus preventing C. difficile germination. Interestingly, BSH
+activity did not correlate with disease severity which appeared linked to
+alternations in mucin, which may indirectly lead to increased exposure of the
+epithelial surface to inflammatory signals. These data confirm the role of
+microbial metabolic activity in protection of the gut and highlights the need for
+greater understanding the function of bacterial communities in disease
+prevention.
+
+DOI: 10.1080/19490976.2019.1678996 
+PMID: 31793403 
+

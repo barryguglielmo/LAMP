@@ -1,0 +1,50 @@
+
+1. J Vet Intern Med. 2020 Oct 2. doi: 10.1111/jvim.15916. [Epub ahead of print]
+
+Risk factors for enterococcal bacteriuria in dogs: A retrospective study.
+
+Wood MW(1), Lepold A(2), Tesfamichael D(3), Lasarev MR(4).
+
+Author information: 
+(1)Department of Medical Sciences, School of Veterinary Medicine, University of
+Wisconsin-Madison, Madison, Wisconsin, USA.
+(2)School of Veterinary Medicine, University of Wisconsin-Madison, Madison,
+Wisconsin, USA.
+(3)College of Letters and Science, University of Wisconsin-Madison, Madison,
+Wisconsin, USA.
+(4)Department of Biostatistics and Medical Informatics, School of Medicine and
+Public Health, University of Wisconsin-Madison, Madison, Wisconsin, USA.
+
+BACKGROUND: In humans, Enterococcus spp. urinary tract infections (UTI) are
+commonly associated with urinary catheter-induced urothelial inflammation but
+this is not the case in dogs.
+HYPOTHESIS/OBJECTIVES: To identify risk factors predisposing dogs to enterococcal
+bacteriuria.
+ANIMALS: Seventy dogs with Enterococcus spp. bacteriuria (case) and 70 dogs with 
+Enterococcus coli bacteriuria (control).
+METHODS: A single center retrospective case-control study with subjects and
+controls identified by a medical records search for Enterococcus spp. (subject)
+or E coli (control) bacteriuria from January 1, 2014 to December 31, 2017. Cases 
+and controls were balanced with respect to average age and weight. Binary
+logistic regression was used to estimate and test whether the odds of having
+Enterococcus spp. bacteriuria (instead of E coli) were associated with the
+presence of any given characteristic.
+RESULTS: A history of recurrent bacteriuria was significantly more common in
+Enterococcus spp. cases than in E coli controls (odds ratio [OR]: 2.07; 95%
+confidence interval [CI]: 1.04-4.16, P = .04). Comorbidities associated with the 
+presence of Enterococcus spp. bacteriuria included lower urinary tract (LUT)
+anatomic abnormalities (OR: 2.94; 95% CI: 1.17-8.10, P = .02), urolithiasis (P = 
+.01), and the presence of LUT neoplasia (P = .04). Small frequencies (n = 12 and 
+n = 6, respectively) compromise our ability to precisely estimate the genuine OR 
+for the latter 2 characteristics.
+CONCLUSIONS AND CLINICAL IMPORTANCE: If the identified risk factors promote
+Enterococcus spp. colonization in dogs via induced LUT inflammation similar to
+people then Enterococcus spp. bacteriuria could be a sentinel for underlying LUT 
+inflammation.
+
+© 2020 The Authors. Journal of Veterinary Internal Medicine published by Wiley
+Periodicals LLC on behalf of American College of Veterinary Internal Medicine.
+
+DOI: 10.1111/jvim.15916 
+PMID: 33009682 
+

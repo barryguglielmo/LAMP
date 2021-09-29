@@ -1,0 +1,49 @@
+
+1. J Antibiot (Tokyo). 2020 Sep 7. doi: 10.1038/s41429-020-00367-1. [Epub ahead of
+print]
+
+Chryseobacterium antibioticum sp. nov. with antimicrobial activity against
+Gram-negative bacteria, isolated from Arctic soil.
+
+Dahal RH(1), Chaudhary DK(2), Kim DU(3), Pandey RP(4), Kim J(5).
+
+Author information: 
+(1)Department of Life Science, College of Natural Sciences, Kyonggi University,
+Suwon, Kyonggi-Do, 16227, Republic of Korea.
+(2)Department of Environmental Engineering, Korea University Sejong Campus,
+Sejong City, 30019, Republic of Korea.
+(3)Department of Biological Science, College of Science and Engineering, Sangji
+University, Wonju, Republic of Korea.
+(4)Department of Biological Engineering, Massachusetts Institute of Technology,
+Cambridge, MA, 02139, USA.
+(5)Department of Life Science, College of Natural Sciences, Kyonggi University,
+Suwon, Kyonggi-Do, 16227, Republic of Korea. jkimtamu@kgu.ac.kr.
+
+A yellow-pigmented, non-motile, Gram-stain-negative, pleomorphic bacterium,
+designated RP-3-3T was obtained from soil sampled at the Arctic region in
+Cambridge Bay, NU, Canada. The strain is strictly aerobic, psychrotolerant, grow 
+optimally at 15-20 °C and produces flexirubin type pigments. The strain is able
+to hydrolyse CM-cellulose, casein, starch and DNA. Strain RP-3-3T showed
+antimicrobial activity against Gram-negative pathogens. A phylogenetic analysis
+based on its 16S rRNA gene sequence revealed that strain RP-3-3T formed a lineage
+within the family Weeksellaceae and clustered as members of the genus
+Chryseobacterium. The closest members were Chryseobacterium shigense DSM 17126T
+(98.7% sequence similarity), Chryseobacterium carnipullorum DSM 25581T (98.7%)
+and Chryseobacterium oncorhychi 701B-08T (98%). The genome is 4,910,468 bp long
+with 73 scaffolds and 4300 protein-coding genes. The anti-SMASH analysis of whole
+genome showed ten putative biosynthetic gene clusters responsible for various
+secondary metabolites. The sole respiratory quinone is MK-6. The major cellular
+fatty acids are iso-C15:0, iso-C17:1 ω9c, iso-C17:0 3-OH, summed feature 3
+(iso-C15 :0 2-OH/C16 :1ω7c) and anteiso-C15:0. The major polar lipid is
+phosphatidylethanolamine. The DNA G + C content of the type strain is 36.9 mol%. 
+In addition, the average nucleotide identity and in silico DNA-DNA hybridization 
+relatedness values between strain RP-3-3T and phylogenetically closest members
+are below the threshold value for species delineation. Based on genomic,
+chemotaxonomic, phenotypic and phylogenetic analyses, strain RP-3-3T represents
+novel species in the genus Chryseobacterium, for which the name Chryseobacterium 
+antibioticum sp. nov. is proposed. The type strain is RP-3-3T (=KACC
+21620T = NBRC 114360T).
+
+DOI: 10.1038/s41429-020-00367-1 
+PMID: 32895493 
+

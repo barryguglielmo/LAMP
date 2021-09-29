@@ -1,0 +1,40 @@
+
+1. Mol Biotechnol. 2020 Sep 22. doi: 10.1007/s12033-020-00274-8. [Epub ahead of
+print]
+
+Construction of Genetically Modified Lactococcus lactis Producing
+Anti-human-CTLA-4 Single-Chain Fragment Variable.
+
+Namai F(1), Murakami A(1), Ueda A(1), Tsukagoshi M(1), Shigemori S(1), Ogita
+T(1), Sato T(1), Shimosato T(2).
+
+Author information: 
+(1)Department of Biomolecular Innovation, Institute for Biomedical Sciences,
+Shinshu University, 8304 Minamiminowa, Kamiina, Nagano, 399-4598, Japan.
+(2)Department of Biomolecular Innovation, Institute for Biomedical Sciences,
+Shinshu University, 8304 Minamiminowa, Kamiina, Nagano, 399-4598, Japan.
+shimot@shinshu-u.ac.jp.
+
+Lactic acid bacteria are human commensal organisms that have immunomodulatory and
+metabolism-promoting effects. In addition, due to the increasing demand for
+biopharmaceuticals, genetically modified lactic acid bacteria (gmLAB) that
+produce recombinant proteins are expected to be used as microbial therapeutics
+and next-generation probiotics. In this study, we constructed a gmLAB strain that
+produces anti-human cytotoxic T lymphocyte-associated antigen 4 (CTLA-4)
+single-chain fragment variable (CTLA4scFv) for possible use in a cancer treatment
+strategy using gmLAB. CTLA-4, an immune checkpoint molecule, suppresses the
+anti-cancer immune response; thus, inhibition of CTLA-4 signaling is important in
+cancer therapy. In this study, we designed a CTLA4scFv composed of a heavy and
+light chain of the variable region from anti-human CTLA-4 antibody connected by a
+flexible peptide linker. CTLA4scFv was expressed using nisin controlled gene
+expression (NICE) system, a lactococcal inducible gene expression system, and the
+DNA sequence encoding CTLA4scFv was inserted downstream of the PnisA promoter of 
+the gene expression vector pNZ8148#2. Furthermore, expression of recombinant
+CTLA4scFv was confirmed by Western blotting, and the immunoreactivity of
+recombinant CTLA4scFv against human CTLA-4 protein was examined using ELISA. We
+speculate that gmLAB producing bioactive CTLA4scFv will become an attractive
+approach for cancer treatment.
+
+DOI: 10.1007/s12033-020-00274-8 
+PMID: 32960405 
+

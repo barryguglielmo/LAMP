@@ -1,0 +1,45 @@
+
+1. Int J Syst Evol Microbiol. 2020 Sep;70(9):5040-5047. doi: 10.1099/ijsem.0.004378.
+
+Bifidobacterium canis sp. nov., a novel member of the Bifidobacterium
+pseudolongum phylogenetic group isolated from faeces of a dog (Canis lupus f.
+familiaris).
+
+Neuzil-Bunesova V(1), Lugli GA(2), Modrackova N(1), Makovska M(1), Mrazek J(3),
+Mekadim C(3)(1), Musilova S(1), Svobodova I(4), Spanek R(5), Ventura M(2), Killer
+J(3)(1).
+
+Author information: 
+(1)Department of Microbiology, Nutrition and Dietetics, Czech University of Life 
+Sciences Prague, Kamýcká 129, Prague 6 - Suchdol, 165 00, Czechia.
+(2)Laboratory of Probiogenomics, Department of Chemistry, Life Sciences, and
+Environmental Sustainability, University of Parma, Parma, Italy.
+(3)Institute of Animal Physiology and Genetics v.v.i., Czech Academy of Sciences,
+Vídeňská 1083, Prague 4 - Krč, 142 20, Czechia.
+(4)Department of Husbandry and Ethology of Animals, Czech University of Life
+Sciences Prague, Kamýcká 129, Prague 6 - Suchdol, 165 00, Czechia.
+(5)Institute for Nanomaterials, Advanced Technologies and Innovations, Technical 
+University of Liberec, Bendlova 1407/7, Liberec 1, 461 17, Czechia.
+
+A fructose-6-phosphate phosphoketolase-positive strain (GSD1FST) was isolated
+from a faecal sample of a 3 weeks old German Shepherd dog. The closest related
+taxa to isolate GSD1FST based on results from the EZBioCloud database were
+Bifidobacterium animalis subsp. animalis ATCC 25527T, Bifidobacterium animalis
+subsp. lactis DSM 10140T and Bifidobacterium anseris LMG 30189T, belonging to the
+Bifidobacterium pseudolongum phylogenetic group. The resulting 16S rRNA gene
+identities (compared length of 1454 nucleotides) towards these taxa were 97.30,
+97.23 and 97.09 %, respectively. The pairwise similarities of strain GSD1FST
+using argS, atpA, fusA, hsp60, pyrG, rpsC, thrS and xfp gene fragments to all
+valid representatives of the B. pseudolongum phylogenetic group were in the
+concatenated range of 83.08-88.34 %. Phylogenomic analysis based on whole-genome 
+methods such as average nucleotide identity revealed that bifidobacterial strain 
+GSD1FST exhibits close phylogenetic relatedness (88.17 %) to Bifidobacetrium
+cuniculi LMG 10738T. Genotypic characteristics and phylogenetic analyses based on
+nine molecular markers, as well as genomic and comparative phenotypic analyses,
+clearly proved that the evaluated strain should be considered as representing a
+novel species within the B. pseudolongum phylogenetic group named as
+Bifidobacterium canis sp. nov. (GSD1FST=DSM 105923T=LMG 30345T=CCM 8806T).
+
+DOI: 10.1099/ijsem.0.004378 
+PMID: 32804603 
+

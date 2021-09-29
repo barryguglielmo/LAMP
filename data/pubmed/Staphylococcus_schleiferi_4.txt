@@ -1,0 +1,62 @@
+
+1. PLoS Pathog. 2020 Jun 4;16(6):e1007806. doi: 10.1371/journal.ppat.1007806.
+eCollection 2020 Jun.
+
+Potent, specific MEPicides for treatment of zoonotic staphylococci.
+
+Edwards RL(1), Heueck I(1), Lee SG(2), Shah IT(1), Miller JJ(1), Jezewski AJ(3), 
+Mikati MO(1), Wang X(4), Brothers RC(4), Heidel KM(4), Osbourn DM(5), Burnham
+CD(1)(3)(6), Alvarez S(7), Fritz SA(1), Dowd CS(4), Jez JM(8), Odom John
+AR(1)(3).
+
+Author information: 
+(1)Department of Pediatrics, Washington University School of Medicine, St. Louis,
+Missouri, United States of America.
+(2)University of North Carolina-Wilmington, Wilmington, North Carolina, United
+States of America.
+(3)Department of Molecular Microbiology, Washington University School of
+Medicine, St. Louis, Missouri, United States of America.
+(4)Department of Chemistry, George Washington University, Washington, DC, United 
+States of America.
+(5)Department of Chemistry, Saint Louis University, St. Louis, Missouri, United
+States of America.
+(6)Department of Pathology and Immunology, Washington University School of
+Medicine, St. Louis, Missouri, United States of America.
+(7)Department of Agronomy and Horticulture, University of Nebraska-Lincoln,
+Lincoln, Nebraska, United States of America.
+(8)Department of Biology, Washington University, St. Louis, Missouri, United
+States of America.
+
+Coagulase-positive staphylococci, which frequently colonize the mucosal surfaces 
+of animals, also cause a spectrum of opportunistic infections including skin and 
+soft tissue infections, urinary tract infections, pneumonia, and bacteremia.
+However, recent advances in bacterial identification have revealed that these
+common veterinary pathogens are in fact zoonoses that cause serious infections in
+human patients. The global spread of multidrug-resistant zoonotic staphylococci, 
+in particular the emergence of methicillin-resistant organisms, is now a serious 
+threat to both animal and human welfare. Accordingly, new therapeutic targets
+that can be exploited to combat staphylococcal infections are urgently needed.
+Enzymes of the methylerythritol phosphate pathway (MEP) of isoprenoid
+biosynthesis represent potential targets for treating zoonotic staphylococci.
+Here we demonstrate that fosmidomycin (FSM) inhibits the first step of the
+isoprenoid biosynthetic pathway catalyzed by deoxyxylulose phosphate
+reductoisomerase (DXR) in staphylococci. In addition, we have both enzymatically 
+and structurally determined the mechanism by which FSM elicits its effect. Using 
+a forward genetic screen, the glycerol-3-phosphate transporter GlpT that
+facilitates FSM uptake was identified in two zoonotic staphylococci,
+Staphylococcus schleiferi and Staphylococcus pseudintermedius. A series of
+lipophilic ester prodrugs (termed MEPicides) structurally related to FSM were
+synthesized, and data indicate that the presence of the prodrug moiety not only
+substantially increased potency of the inhibitors against staphylococci but also 
+bypassed the need for GlpT-mediated cellular transport. Collectively, our data
+indicate that the prodrug MEPicides selectively and robustly inhibit DXR in
+zoonotic staphylococci, and further, that DXR represents a promising, druggable
+target for future development.
+
+DOI: 10.1371/journal.ppat.1007806 
+PMCID: PMC7297381
+PMID: 32497104  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors (AROJ, RLE, CSD) declare their status
+as co-inventors of U.S. provisional patent 62/686,416 filed June 18, 2018.
+

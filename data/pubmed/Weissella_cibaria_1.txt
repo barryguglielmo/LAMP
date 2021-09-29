@@ -1,0 +1,48 @@
+
+1. Mol Med Rep. 2020 Nov;22(5):4143-4150. doi: 10.3892/mmr.2020.11512. Epub 2020 Sep
+15.
+
+Weissella cibaria CMU exerts an anti‑inflammatory effect by inhibiting
+Aggregatibacter actinomycetemcomitans‑induced NF‑κB activation in macrophages.
+
+Kim MJ(1), You YO(2), Kang JY(2), Kim HJ(3), Kang MS(4).
+
+Author information: 
+(1)Department of Convergence Technology for Food Industry and Dental Research
+Institute, School of Dentistry, Wonkwang University, Iksan, Jellabukdo 54538,
+Republic of Korea.
+(2)Department of Oral Biochemistry, School of Dentistry, Wonkwang University,
+Iksan, Jellabukdo 54538, Republic of Korea.
+(3)Department of Oral Anatomy and Dental Research Institute, School of Dentistry,
+Wonkwang University, Iksan, Jellabukdo 54538, Republic of Korea.
+(4)Research and Development Department, Research Institute, OraPharm Inc., Seoul 
+04782, Republic of Korea.
+
+Periodontitis is a chronic inflammatory disease caused by various periodontal
+pathogens. Weissella cibaria CMU (oraCMU) is a probiotic that promotes oral
+health. However, its anti‑inflammatory effects against periodontal pathogens have
+not yet been investigated. The present study evaluated the anti‑inflammatory
+effects of live oraCMU against stimulation with the formalin‑inactivated
+periodontal pathogen Aggregatibacter actinomycetemcomitans in RAW 264.7
+macrophages. Cell viability was analyzed by the MTS assay in a dose‑dependent
+manner (at multiplicities of infection of 0.1, 1, 10, 100 and 1,000). Nitric
+oxide (NO) was monitored using the Griess test. The mRNA expression of
+proinflammatory cytokines such as interleukin (IL)1β and IL6 was assessed by
+reverse transcription‑quantitative PCR. Western blotting was used to examine the 
+effects of oraCMU on the phosphorylation of NF‑κB inhibitor α (IκBα) and IκBα
+kinase (IKK), the nuclear translocation of the NF‑κB subunit p65 and the
+expression of inducible NO synthase (iNOS). Live oraCMU had no cytotoxic effects 
+on RAW 264.7 macrophages. In A. actinomycetemcomitans‑stimulated RAW 264.7
+macrophages, oraCMU reduced NO production by suppressing iNOS expression and
+downregulating the mRNA expression of proinflammatory cytokines in a
+dose‑dependent manner. IKK phosphorylation and IκBα degradation were
+dose‑dependently inhibited by oraCMU and the nuclear translocation of p65 via the
+canonical NF‑κB pathway was simultaneously reduced. The results indicated that
+oraCMU possessed anti‑inflammatory activity associated with the inhibition of
+NF‑κB signal activation in response to periodontal pathogens. This suggests that 
+oraCMU is a beneficial anti‑inflammatory probiotic that can aid in the
+maintenance of oral health.
+
+DOI: 10.3892/mmr.2020.11512 
+PMID: 33000248 
+

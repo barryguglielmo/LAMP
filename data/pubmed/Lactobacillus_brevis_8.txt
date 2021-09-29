@@ -1,0 +1,45 @@
+
+1. Biosci Microbiota Food Health. 2020;39(3):152-159. doi: 10.12938/bmfh.2019-038.
+Epub 2020 Mar 6.
+
+Impact of pH on succession of sourdough lactic acid bacteria communities and
+their fermentation properties.
+
+Oshiro M(1)(2), Tanaka M(1), Zendo T(1), Nakayama J(1).
+
+Author information: 
+(1)Laboratory of Microbial Technology, Division of Systems Bioengineering,
+Department of Bioscience and Biotechnology, Faculty of Agriculture, Graduate
+School, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, Japan.
+(2)Central Laboratory of Yamazaki Baking Company Limited, 3-23-27 Ichikawa,
+Ichikawa City, Chiba 272-8581, Japan.
+
+Sourdough, a traditional fermented dough, is made via natural fermentation by
+lactic acid bacteria (LAB). Its pH changes from near neutral to acid during the
+subculture process. However, the product quality of subcultured sourdough depends
+on the unpredictable succession of LAB communities, the influential factors of
+which are still unclear. To elucidate one end of the LAB community succession
+mechanism, we evaluated the effect of pH by designing four subculture experiments
+using a model medium adjusted to pH 6.7, 5.5, and 4.5, as well as a natural
+sourdough subculture. All experiments began by inoculating a sourdough LAB
+mixture, and both bacterial successions and fermentative properties were
+monitored until ten subculture steps. In media subcultures, lactic acid
+production was higher in higher pH media. Three LAB genera, Weissella,
+Pediococcus, and Lactobacillus, each represented by one operational taxonomic
+unit (OTU), were successively detected in all subcultures. In later steps with
+lower pH media, an OTU closely related to Lactobacillus brevis dominated,
+replacing an OTU closely related to the Weissella cibaria-confusa group that was 
+more dominant than the L. brevis OTU in the near-neutral pH medium. In the
+sourdough subculture, the three genera were also detected, while Lactobacillus
+was dominant in earlier steps due to the emergence of an OTU closely related to
+Lactobacillus sanfranciscensis. These results suggest that a lower pH is
+favorable for the sequence of sourdough bacterial community evolution finalizing 
+with Lactobacillus domination. Further research is needed to elucidate additional
+factors other than pH that influence the pattern of LAB community shift.
+
+©2020 BMFH Press.
+
+DOI: 10.12938/bmfh.2019-038 
+PMCID: PMC7392915
+PMID: 32775134 
+

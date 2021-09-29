@@ -1,0 +1,68 @@
+
+1. Sci Transl Med. 2020 Sep 9;12(560). pii: eaaz8631. doi:
+10.1126/scitranslmed.aaz8631.
+
+Therapeutic responses to Roseomonas mucosa in atopic dermatitis may involve
+lipid-mediated TNF-related epithelial repair.
+
+Myles IA(1)(2), Castillo CR(3)(2), Barbian KD(4), Kanakabandi K(4), Virtaneva
+K(4), Fitzmeyer E(4), Paneru M(4), Otaizo-Carrasquero F(5), Myers TG(5),
+Markowitz TE(6)(7), Moore IN(8), Liu X(9), Ferrer M(9), Sakamachi Y(10),
+Garantziotis S(10), Swamydas M(11), Lionakis MS(11), Anderson ED(2), Earland
+NJ(2), Ganesan S(12), Sun AA(2), Bergerson JRE(2), Silverman RA(13), Petersen
+M(14), Martens CA(4), Datta SK(2).
+
+Author information: 
+(1)Epithelial Therapeutics Unit, National Institute of Allergy and Infectious
+Disease, National Institutes of Health, Bethesda, MD, USA. mylesi@niaid.nih.gov.
+(2)Laboratory of Clinical Immunology and Microbiology, NIAID, NIH, Bethesda, MD, 
+USA.
+(3)Epithelial Therapeutics Unit, National Institute of Allergy and Infectious
+Disease, National Institutes of Health, Bethesda, MD, USA.
+(4)RTS Genomics Unit, Rocky Mountain Laboratories, NIAID, NIH, Hamilton, MT, USA.
+(5)Genomic Technologies Section, NIAID, NIH, Bethesda, MD, USA.
+(6)NIAID Collaborative Bioinformatics Resource (NCBR), NIAID, NIH, Bethesda, MD, 
+USA.
+(7)Advanced Biomedical Computational Science, Frederick National Laboratory for
+Cancer Research, Frederick, MD, USA.
+(8)Infectious Disease Pathogenesis Section, Comparative Medicine Branch, NIAID,
+NIH, Rockville, MD, USA.
+(9)Department of Pre-clinical Innovation, National Center for Advancing
+Translational Sciences, NIH, Rockville, MD, USA.
+(10)National Institute of Environmental Health Sciences, Research Triangle, NC,
+USA.
+(11)Fungal Pathogenesis Section, LCIM, NIAID, NIH, Bethesda, MD, USA.
+(12)Biological Imaging Section, Research Technology Branch, NIAID, NIH, Bethesda,
+MD, USA.
+(13)Department of Pediatrics, Georgetown University Hospital, Washington, DC,
+USA.
+(14)Walter Reed National Military Medical Center, Bethesda, MD, USA.
+
+Dysbiosis of the skin microbiota is increasingly implicated as a contributor to
+the pathogenesis of atopic dermatitis (AD). We previously reported first-in-human
+safety and clinical activity results from topical application of the commensal
+skin bacterium Roseomonas mucosa for the treatment of AD in 10 adults and 5
+children older than 9 years of age. Here, we examined the potential mechanism of 
+action of R. mucosa treatment and its impact on children with AD less than 7
+years of age, the most common age group for children with AD. In 15 children with
+AD, R. mucosa treatment was associated with amelioration of disease severity,
+improvement in epithelial barrier function, reduced Staphylococcus aureus burden 
+on the skin, and a reduction in topical steroid requirements without severe
+adverse events. Our observed response rates to R. mucosa treatment were greater
+than those seen in historical placebo control groups in prior AD studies. Skin
+improvements and colonization by R. mucosa persisted for up to 8 months after
+cessation of treatment. Analyses of cellular scratch assays and the MC903 mouse
+model of AD suggested that production of sphingolipids by R. mucosa, cholinergic 
+signaling, and flagellin expression may have contributed to therapeutic impact
+through induction of a TNFR2-mediated epithelial-to-mesenchymal transition. These
+results suggest that a randomized, placebo-controlled trial of R. mucosa
+treatment in individuals with AD is warranted and implicate commensals in the
+maintenance of the skin epithelial barrier.
+
+Copyright © 2020 The Authors, some rights reserved; exclusive licensee American
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.
+
+DOI: 10.1126/scitranslmed.aaz8631 
+PMID: 32908007 
+

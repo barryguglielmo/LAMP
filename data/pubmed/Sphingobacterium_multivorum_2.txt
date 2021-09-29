@@ -1,0 +1,44 @@
+
+1. Sci Total Environ. 2020 Jun 20;722:137171. doi: 10.1016/j.scitotenv.2020.137171. 
+Epub 2020 Feb 24.
+
+Characterization of hexaconazole-degrading strain Sphingobacterium multivorum and
+analysis of transcriptome for biodegradation mechanism.
+
+An X(1), Tian C(1), Xu J(2), Dong F(1), Liu X(1), Wu X(1), Zheng Y(1).
+
+Author information: 
+(1)State Key Laboratory for Biology of Plant Diseases and Insect Pests, Institute
+of Plant Protection, Chinese Academy of Agricultural Sciences, Beijing, China.
+(2)State Key Laboratory for Biology of Plant Diseases and Insect Pests, Institute
+of Plant Protection, Chinese Academy of Agricultural Sciences, Beijing, China.
+Electronic address: junxu1@ippcaas.cn.
+
+Hexaconazole is a triazole fungicide, which is stable and difficult to degrade in
+the environment. The existence of hexaconazole could pose a certain risk to the
+environment and the health of living organisms. In this study, an efficient
+degradation strain B-3 (Sphingobacterium multivorum) of hexaconazole was isolated
+from sewage, activated sludge, and soil. The degradation efficiency of
+hexaconazole can reach 85.6% in 6 days at a temperature of 32.5 °C, pH of 6.31,
+initial inoculum of 0.4 g L-1 and initial concentration of hexaconazole of
+50 mg L-1. During degradation, three metabolites (M1: 2-(2,
+4-dichlorophenyl)-1-(1H-1, 2, 4-triazol-1-yl) hexane-2, 5-diol; M2: 2-(2,
+4-dichlorophenyl) hexane-1, 2-diol; M3: 1H-1, 2, 4-triazole) were identified.
+Moreover, 45.6% hexaconazole can be degraded in 60 days in natural soil
+containing B-3. The results of the transcriptome sequencing indicated the
+presence of 864 differential genes, in which aldehyde dehydrogenase,
+monooxygenase, RND transporters, and ABC transporters were up-regulated. The
+generation of 2-(2, 4-dichlorophenyl)-1-(1H-1, 2, 4-triazol-1-yl) hexane-2,
+5-diol may be due to the participation of monooxygenase.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2020.137171 
+PMID: 32213434  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest All authors
+have approved this version of the article and no conflict of interest exists in
+the submission of this manuscript. This paper is our original unpublished work
+and neither the entire paper nor any part of its content has been published or
+has been accepted elsewhere.
+

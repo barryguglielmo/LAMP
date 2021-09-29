@@ -1,0 +1,52 @@
+
+1. Psychopharmacology (Berl). 2020 Sep;237(9):2739-2752. doi:
+10.1007/s00213-020-05569-x. Epub 2020 Jun 30.
+
+Abnormalities in gut microbiota and serum metabolites in hemodialysis patients
+with mild cognitive decline: a single-center observational study.
+
+Zhu B(1), Shen J(2), Jiang R(3), Jin L(2), Zhan G(4), Liu J(2), Sha Q(5), Xu
+R(1), Miao L(6), Yang C(7).
+
+Author information: 
+(1)Department of Critical Care Medicine, The Third Affiliated Hospital of Soochow
+University, Changzhou, 213003, China.
+(2)The Blood Purification Center, The Third Affiliated Hospital of Soochow
+University, Changzhou, 213003, China.
+(3)Department of Ultrasound Imaging, Renmin Hospital, Wuhan University, Wuhan,
+430060, China.
+(4)Department of Anesthesiology, Tongji Hospital, Tongji Medical College,
+Huazhong University of Science and Technology, Wuhan, 430030, China.
+(5)Department of Clinical Nutrition, The Third Affiliated Hospital of Soochow
+University, Changzhou, 213003, China.
+(6)Department of Nephrology, The Third Affiliated Hospital of Soochow University,
+Changzhou, 213003, China. lymiao@sina.com.
+(7)Department of Anesthesiology and Perioperative Medicine, The First Affiliated 
+Hospital of Nanjing Medical University, Nanjing, 210029, China.
+yangchuntz@sina.com.
+
+RATIONALE: Although a growing body of evidence indicates that the scores of
+cognitive function in hemodialysis patients are significantly lower than those of
+healthy individuals, underlying mechanisms have not been fully elucidated.
+OBJECTIVES: To investigate the roles of gut microbiota and serum metabolites in
+hemodialysis patients with mild cognitive decline (MCD).
+METHODS: A total of 30 healthy individuals and 77 hemodialysis patients were
+enrolled and were classified into healthy control (HC), normal cognitive function
+(NCF), and MCD groups by evaluation of Montreal Cognitive Assessment. Fecal
+samples were analyzed by 16S rRNA and serum samples were analyzed by gas
+chromatography-mass spectrometry from all subjects.
+RESULTS: The 16S rRNA study demonstrated that the gut microbiota profiles,
+including α- and β-diversity, and a number of 16 gut bacteria were significantly 
+altered in the MCD group compared with those in HC or those with NCF. A
+metabonomics study showed that a total of 29 serum metabolites were altered in
+the MCD group. Receiver operating characteristic curves showed that Genus
+Bilophila and serum putrescine might be sensitive biomarkers to indicate MCD in
+patients with hemodialysis.
+CONCLUSIONS: These findings demonstrate gut microbiota and serum metabolites were
+probably involved in the pathogenesis of hemodialysis-related MCD. Therapeutic
+strategies targeting abnormalities in gut microbiota and serum metabolites may
+facilitate the beneficial effects for hemodialysis patients with MCD.
+
+DOI: 10.1007/s00213-020-05569-x 
+PMID: 32601991 
+

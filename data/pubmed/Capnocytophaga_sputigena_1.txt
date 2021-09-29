@@ -1,0 +1,47 @@
+
+1. J Clin Periodontol. 2020 Feb;47(2):173-181. doi: 10.1111/jcpe.13224. Epub 2019
+Dec 16.
+
+Periodontal pathogens and their role in cardiovascular outcome.
+
+Schulz S(1), Schlitt A(2)(3), Hofmann B(4), Schaller HG(1), Reichert S(1).
+
+Author information: 
+(1)Department of Operative Dentistry and Periodontology, Martin Luther-University
+Halle-Wittenberg, Halle (Saale), Germany.
+(2)Department of Internal Medicine III, Heart Centre of the University Clinics
+Halle (Saale), Martin-Luther-University Halle-Wittenberg, Halle (Saale), Germany.
+(3)Department of Cardiology, Paracelsus Harz-Clinic Bad Suderode, Quedlinburg,
+Germany.
+(4)Department of Cardiothoracic Surgery, Heart Centre of the University Clinics
+Halle (Saale), Martin-Luther-University Halle-Wittenberg, Halle (Saale), Germany.
+
+AIM: Periodontitis has been identified as a moderate but independent risk factor 
+for cardiovascular (CV) disease and progression. The objective of this study
+(ClinicalTrials.gov Identifier: NCT01045070) was to assess subgingival
+colonization with selected periodontal pathogens on the occurrence of further
+adverse CV events in a cohort of CV patients.
+METHODS: The prevalence of severe periodontitis including the detection of 11
+periodontal pathogens (Aggregatibacter actinomycetemcomitans, Porphyromonas
+gingivalis, Prevotella intermedia, Tannerella forsythia, Treponema denticola,
+P. intermdia, Peptostreptococcus micros, Fusobacterium nucleatum, Campylobacter
+rectus, Eubacterium nodatum, Eikenella corrodens, Capnocytophaga sputigena,
+Capnocytophaga gingivalis, Capnocytophaga ochracea; HAIN-Diagnostica® ) was
+analysed in 1,002 CV patients The prognostic impact of periodontal pathogens for 
+combined CV endpoint (stroke/TIA, myocardial infarction, CV death, death from
+stroke) was evaluated after a 3-year follow-up period. Hazard ratios (HRs) were
+adjusted for established CV risk factors applying Cox regression.
+RESULTS: In the Kaplan-Meier analysis (log-rank test: p < .001) and Cox
+regression (HR: 0.545, 95%-CI: 0.387-0.773; p = .001), the decreased occurrence
+of E. corrodens was shown to be an independent predictor for adverse CV events
+after 3 years of follow-up.
+CONCLUSIONS: The detection of E. corrodens was associated with a reduced risk of 
+adverse CV events in patients with CV disease. The pathophysiological background 
+underlying this association should be investigated in further studies.
+
+© 2019 The Authors. Journal of Clinical Periodontology published by John Wiley & 
+Sons Ltd.
+
+DOI: 10.1111/jcpe.13224 
+PMID: 31765020 
+

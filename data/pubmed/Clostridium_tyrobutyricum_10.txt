@@ -1,0 +1,46 @@
+
+1. Bioresour Technol. 2020 May;304:122977. doi: 10.1016/j.biortech.2020.122977. Epub
+2020 Feb 7.
+
+Butyric acid production from spent coffee grounds by engineered Clostridium
+tyrobutyricum overexpressing galactose catabolism genes.
+
+He F(1), Qin S(1), Yang Z(2), Bai X(3), Suo Y(4), Wang J(5).
+
+Author information: 
+(1)School of Agriculture, Yunnan University, Kunming 650500, China.
+(2)Key Laboratory of Chemistry in Ethnic Medicinal Resources, State Ethnic
+Affairs Commission and Ministry of Education, Yunnan Minzu University, Kunming
+650031, China.
+(3)Dehong Tropical Agriculture Research Institute, Dehong 678600, China.
+(4)Key Laboratory of Chemistry in Ethnic Medicinal Resources, State Ethnic
+Affairs Commission and Ministry of Education, Yunnan Minzu University, Kunming
+650031, China. Electronic address: suoyukai1987@163.com.
+(5)School of Biology and Biological Engineering, South China University of
+Technology, Guangzhou 510006, China. Electronic address: jufwang@scut.edu.cn.
+
+Clostridium tyrobutyricum cannot utilize galactose, which is abundant in
+lignocellulose and red algae, as a carbon source for butyric acid production.
+Hence, when using galactose-rich coffee ground hydrolysate as the substrate, the 
+fermentation performance of C. tyrobutyricum is poor. In this work, a recombinant
+strain, C. tyrobutyricum ATCC 25755/ketp, overexpressing galactose catabolism
+genes (galK, galE, galT, and galP) from Clostridium acetobutylicum ATCC 824 was
+constructed for the co-utilization of glucose and galactose. Batch fermentation
+in the bioreactor showed that ATCC 25755/ketp could efficiently utilize galactose
+without glucose-induced carbon catabolite repression and consume nearly 100% of
+the galactose present in the spent coffee ground hydrolysate. Correspondingly,
+the butyric acid concentration and productivity of ATCC 25755/ketp reached
+34.3 g/L and 0.36 g/L·h, respectively, an increase of 78.6% and 56.5% compared
+with the wild-type strain, indicating its potential for butyric acid production
+from hydrolysates of inexpensive and galactose-rich biomass.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biortech.2020.122977 
+PMID: 32062499  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

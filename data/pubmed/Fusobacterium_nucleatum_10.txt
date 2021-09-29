@@ -1,0 +1,51 @@
+
+1. Coord Chem Rev. 2021 Jan 1;426:213544. doi: 10.1016/j.ccr.2020.213544. Epub 2020 
+Sep 18.
+
+Recent advances in process engineering and upcoming applications of metal-organic
+frameworks.
+
+Ryu U(1), Jee S(1), Rao PC(2), Shin J(3)(4), Ko C(4)(5), Yoon M(2), Park KS(6),
+Choi KM(1)(4).
+
+Author information: 
+(1)Department of Chemical and Biological Engineering, Sookmyung Women's
+University, 100 Cheongpa-ro 47 gil, Yongsan-gu, Seoul 04310, Republic of Korea.
+(2)Department of Chemistry & Green-Nano Materials Research Center, Kyungpook
+National University, Daegu 41566, Republic of Korea.
+(3)Department of Mechanical Systems Engineering, Sookmyung Women's University,
+Seoul 04310, Republic of Korea.
+(4)Institute of Advanced Materials & Systems, Sookmyung Women's University, 100
+Cheongpa-ro 47 gil, Yongsan-gu, Seoul 04310, Republic of Korea.
+(5)Department of Applied Physics, College of Engineering, Sookmyung Women's
+University, Seoul 04310, Republic of Korea.
+(6)Corporation R&D, Research Park, LG Chem, LG Science Park, 30,
+Magokjungang-10-Ro, Gangseo-Gu, Seoul, Republic of Korea.
+
+Progress in metal-organic frameworks (MOFs) has advanced from fundamental
+chemistry to engineering processes and applications, resulting in new industrial 
+opportunities. The unique features of MOFs, such as their permanent porosity,
+high surface area, and structural flexibility, continue to draw industrial
+interest outside the traditional MOF field, both to solve existing challenges and
+to create new businesses. In this context, diverse research has been directed
+toward commercializing MOFs, but such studies have been performed according to a 
+variety of individual goals. Therefore, there have been limited opportunities to 
+share the challenges, goals, and findings with most of the MOF field. In this
+review, we examine the issues and demands for MOF commercialization and
+investigate recent advances in MOF process engineering and applications.
+Specifically, we discuss the criteria for MOF commercialization from the views of
+stability, producibility, regulations, and production cost. This review covers
+progress in the mass production and formation of MOFs along with future
+applications that are not currently well known but have high potential for new
+areas of MOF commercialization.
+
+© 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ccr.2020.213544 
+PMCID: PMC7500364
+PMID: 32981945 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

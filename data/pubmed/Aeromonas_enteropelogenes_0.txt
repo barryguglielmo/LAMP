@@ -1,0 +1,44 @@
+
+1. Appl Microbiol Biotechnol. 2020 Sep;104(17):7521-7532. doi:
+10.1007/s00253-020-10786-7. Epub 2020 Jul 17.
+
+A novel lecithin:cholesterol acyltransferase for soybean oil refining provides
+higher yields and extra nutritional value with a cleaner process.
+
+Hails G(1), Cerminati S(1), Paoletti L(1), Cabrera R(2), Peirú S(1), Aguirre
+A(1), Castelli ME(1), Menzella HG(3).
+
+Author information: 
+(1)Departamento de Tecnología, Facultad de Ciencias Bioquímicas y Farmacéuticas, 
+Instituto de Procesos Biotecnológicos y Químicos (IPROBYQ - CONICET), Universidad
+Nacional de Rosario, Suipacha 570, S2002LRL, Rosario, Argentina.
+(2)Unitec Bio., Combate Punta Quebracho s/n, 2202, Puerto General San Martín,
+Argentina.
+(3)Departamento de Tecnología, Facultad de Ciencias Bioquímicas y Farmacéuticas, 
+Instituto de Procesos Biotecnológicos y Químicos (IPROBYQ - CONICET), Universidad
+Nacional de Rosario, Suipacha 570, S2002LRL, Rosario, Argentina.
+hmenzella@fbioyf.unr.edu.ar.
+
+The growing demand for food and biofuels urges the vegetable oil processing
+industry to adopt cleaner technologies to mitigate the environmental pollution
+caused by chemical refining processes. Over the past decade, several enzymatic
+methods have proven to be efficient at reducing the generated waste, but
+improving the benefit-cost ratio is still necessary for the widespread adoption
+of this technology. In this work, we show that lecithin:cholesterol
+acyltransferase from Aeromonas enteropelogenes (LCATAE) provides a higher
+extra-yield of soybean oil than a type A1 phospholipase (PLA) enzyme currently
+commercialized for soybean oil deep degumming. Our model indicates that crude
+soybean oil treated with the new enzyme generates 87% more neutral oil from
+phospholipids than the widely used PLA, with the corresponding reduction in waste
+and byproducts generation. The refined oil retains the phytosterols naturally
+present in crude oil, enriching its nutritional value. The results presented here
+position LCATAE as a promising candidate to provide the green solutions needed by
+the industrial oil processing sector. Key points • Selected LCAT gene candidates 
+were expressed in E. coli. • Aeromonas enteropelogenes LCAT hydrolyzes all the
+phospholipids present in crude soybean oil. • The LCAT enzyme provides a higher
+yield of neutral oil than commercial PLA enzymes and generates less waste. • The 
+degummed oil retains sterols with high nutritional value.
+
+DOI: 10.1007/s00253-020-10786-7 
+PMID: 32676709 
+

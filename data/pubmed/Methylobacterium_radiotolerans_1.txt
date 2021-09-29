@@ -1,0 +1,49 @@
+
+1. Cancers (Basel). 2020 Sep 5;12(9). pii: E2524. doi: 10.3390/cancers12092524.
+
+Influence of Intratumor Microbiome on Clinical Outcome and Immune Processes in
+Prostate Cancer.
+
+Ma J(1)(2), Gnanasekar A(1)(2), Lee A(1)(2), Li WT(1)(2), Haas M(3)(4),
+Wang-Rodriguez J(5)(6), Chang EY(7)(8), Rajasekaran M(9)(10), Ongkeko WM(1)(2).
+
+Author information: 
+(1)Department of Surgery, Division of Otolaryngology-Head and Neck Surgery, UC
+San Diego School of Medicine, San Diego, CA 92093, USA.
+(2)Research Service, VA San Diego Healthcare System, San Diego, CA 92093, USA.
+(3)Moores UCSD Cancer Center, University of California San Diego, La Jolla, CA
+92093, USA.
+(4)Division of Biological Sciences, University of California San Diego, La Jolla,
+CA 92093, USA.
+(5)Department of Pathology, University of California, San Diego, CA 92093, USA.
+(6)Pathology Service, VA San Diego Healthcare System, San Diego, CA 92161, USA.
+(7)Department of Radiology, University of California, San Diego, CA 92093, USA.
+(8)Radiology Service, VA San Diego Healthcare System, San Diego, CA 92161, USA.
+(9)Department of Urology, University of California San Diego, La Jolla, CA 92093,
+USA.
+(10)Urology Service, VA San Diego Healthcare System, San Diego, CA 92161, USA.
+
+Although 1 in 9 American men will receive a diagnosis of prostate cancer (PC),
+most men with this diagnosis will not die from it, as most PCs are indolent.
+However, there is a subset of patients in which the once-indolent PC becomes
+metastatic and eventually, fatal. In this study, we analyzed microbial
+compositions of intratumor bacteria in PC to determine the influence of the
+microbiome on metastatic growth. Using large-scale RNA-sequencing data and
+corresponding clinical data, we correlated the abundance of microbes to immune
+pathways and PC risk factors, identifying specific microbes that either
+significantly deter or contribute to cancer aggressiveness. Interestingly, most
+of the microbes we found appeared to play anti-tumor roles in PC. Since these
+anti-tumor microbes were overrepresented in tumor samples, we believe that
+microbes thrive in the tumor microenvironment, outcompete cancer cells, and
+directly mitigate tumor growth by recruiting immune cells. These include Listeria
+monocytogenes, Methylobacterium radiotolerans JCM 2831, Xanthomonas albilineans
+GPE PC73, and Bradyrhizobium japonicum, which are negatively correlated with
+Gleason score, Tumor-Node-Metastasis (TNM) stage, prostate-specific antigen (PSA)
+level, and Androgen Receptor (AR) expression, respectively. We also identified
+microbes that contribute to tumor growth and are positively correlated with
+genomic alterations, dysregulated immune-associated (IA) genes, and prostate
+cancer stem cells (PCSC) genes.
+
+DOI: 10.3390/cancers12092524 
+PMID: 32899474 
+

@@ -1,0 +1,53 @@
+
+1. Arch Microbiol. 2020 Sep 29. doi: 10.1007/s00203-020-02058-9. [Epub ahead of
+print]
+
+High-throughput sequencing-based analysis of the composition and diversity of
+endophytic bacterial community in seeds of upland rice.
+
+Wang Z(1), Zhu Y(2), Jing R(1), Wu X(1), Li N(3), Liu H(3), Zhang X(4), Wang
+W(5), Liu Y(6).
+
+Author information: 
+(1)School of Chemistry and Biological Engineering, University of Science and
+Technology Beijing, Beijing, 100083, China.
+(2)Shanghai-MOST Key Laboratory of Health and Disease Genomics, Chinese National 
+Human Genome Center At Shanghai, Shanghai, 201203, China.
+(3)State Key Laboratory of Hybrid Rice (Hunan Hybrid Rice Research Center),
+Changsha, 410125, China.
+(4)Key Laboratory of Microbial Resources Collection and Preservation, Ministry of
+Agriculture, Institute of Agricultural Resources and Regional Planning, Chinese
+Academy of Agricultural Sciences, Beijing, 100081, China. zhangxiaoxia@caas.cn.
+(5)State Key Laboratory of Hybrid Rice (Hunan Hybrid Rice Research Center),
+Changsha, 410125, China. wangweiping@hhrrc.ac.cn.
+(6)School of Chemistry and Biological Engineering, University of Science and
+Technology Beijing, Beijing, 100083, China. liuyang@ustb.edu.cn.
+
+Upland rice is an ecotype crop resulting from the long-term domestication and
+evolution of rice in dry land without a water layer. Generally, the stems and
+leaves are thick and luxuriant, while the leaves also typically broad and light. 
+The root system is developed with abundant root hair, and the osmotic pressure of
+the root and cell juice concentration in the leaves is high, while this plant is 
+drought-resistant, heat-resistant, and water absorbent. This study aims to reveal
+the "core flora" of the endophytes in upland rice seeds by examining their
+diversity and community structures. It further intends to reveal the impact of
+the soil environment on the formation of endophyte community structures in upland
+rice seeds by comparing the environmental soil microorganisms in upland rice
+habitats. In this study, high-throughput sequencing technology based on the
+Illumina Hiseq 2500 platform was used to investigate the structure and diversity 
+of endophytic bacterial communities using upland rice varieties collected from
+different locations and soil samples from unified planting sites as materials.
+Here, 42 endophytic OTUs were found to coexist in the 14 samples. At the phylum
+level, the first dominant phyla in all the samples were Proteobacteria
+(93.81-99.99%). At the genus level, Pantoea (8.77-87.77%), Pseudomonas
+(1.15-61.58%), Methylobacterium (0.40-4.64%), Sphingomonas (0.26-3.85%),
+Microbacterium (0.01-4.67%) and Aurantimonas (0.04-4.34%), which represent the
+core microflora in upland rice seeds, served as the dominant genera that
+coexisted in all the upland rice seeds tested. This study significant for the
+isolation, screening, functional evaluation, and re-action of various functional 
+microorganisms in upland rice to improve its agronomic traits. It also provides a
+specific reference for the interaction between microorganisms and plants.
+
+DOI: 10.1007/s00203-020-02058-9 
+PMID: 32995980 
+

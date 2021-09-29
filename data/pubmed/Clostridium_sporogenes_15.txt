@@ -1,0 +1,70 @@
+
+1. Transfus Med Hemother. 2020 Apr;47(2):144-151. doi: 10.1159/000501284. Epub 2019 
+Jul 2.
+
+Validation of Microbiological Testing of Cellular Medicinal Products Containing
+Antibiotics.
+
+Lotfi R(1)(2), Rojewski MT(1)(2), Zeplin PH(3), Funk W(4), Pullig O(5), Nöth
+U(6)(7), Schrezenmeier H(1)(2).
+
+Author information: 
+(1)Institut für Transfusionsmedizin, Universität Ulm, Ulm, Germany.
+(2)Institute for Clinical Transfusion Medicine and Immunogenetics Ulm, German Red
+Cross Blood Services Baden-Württemberg-Hessen, Ulm, Germany.
+(3)Schlosspark Klinik Ludwigsburg, Privatklinik für Plastische und Ästhetische
+Chirurgie, Ludwigsburg, Germany.
+(4)Schönheitsklinik Dr. Funk, München, Germany.
+(5)Department Tissue Engineering and Regenerative Medicine (TERM), University
+Hospital Würzburg, Würzburg, Germany.
+(6)Evangelisches Waldkrankenhaus Spandau, Klinik für Orthopädie und
+Unfallchirurgie, Berlin, Germany.
+(7)Department of Orthopaedic Surgery, König-Ludwig-Haus, Center for
+Musculoskeletal Research, Julius-Maximilians-University, Würzburg, Germany.
+
+Background: The risk of microbial contamination of cellular products can be
+reduced when cultured in the presence of antibiotics. This however, may impact
+the sensitivity of microbiological tests. Given that the addition of antibiotics 
+to cell/tissue products does not guarantee sterility but may just reduce the
+proliferation rate of microorganisms, microbiological testing of medicinal
+products remains obligatory. Thus, an appropriate method to test for microbial
+contamination of antibiotic-containing products has to be validated.
+Objectives: In the context of microbiological testing of a cellular advance
+therapy medicinal product, the method was validated and approved by German
+competent authorities for four different matrices with three matrices containing 
+antibiotics. The paper shall provide help for establishing test methods for other
+investigational medicinal products which contain antibiotics.
+Methods: Matrices were spiked individually with Staphylococcus aureus, Bacillus
+subtilis, Pseudomonas aeruginosa, Streptococcus pyogenes, Escherichia coli,
+Clostridium sporogenes, Propionibacterium acnes, Candida albicans, and
+Aspergillus brasiliensis. Samples were pretreated with penicillinase for 1 h
+before inoculation and incubation in BacT/ALERT iFA Plus and iFN Plus culture
+bottles using 3D BacT/ALERT automates. Microorganisms within positive BacT/ALERT 
+bottles were specified. The procedure was performed in two different laboratories
+to prove robustness of test.
+Results: All nine tested microorganisms were detected within 14 days of
+incubation in accordance with requirements of the European Pharmacopoiea in terms
+of sensitivity, specificity and robustness of the test. Penicillin and
+streptomycin did not have any influence on specifications defined within the
+investigational medicinal product dossier.
+Conclusions: Culturing cellular products in the presence of antibiotics can serve
+as an effective method to reduce contamination risk but only if the chosen
+antibiotics neither have any influence on specifications of the investigational
+medicinal product nor interfere with microbiological tests. Consequently, cells
+and tissues primarily contaminated with microorganisms, like placenta, may be
+considered as a source of cellular therapeutics when cultured for a sufficient
+time with antibiotics and tested with a validated method. The choice of
+microorganisms for the validation of the microbiological test should always
+consider all conceivable scenarios and should not be reduced to minimal criteria 
+defined in European Pharmacopoiea, wrongfully believing to thus save time and
+effort.
+
+Copyright © 2019 by S. Karger AG, Basel.
+
+DOI: 10.1159/000501284 
+PMCID: PMC7184824
+PMID: 32355474 
+
+Conflict of interest statement: The authors have no conflicts of interest to
+declare.
+

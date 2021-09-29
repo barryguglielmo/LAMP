@@ -1,0 +1,43 @@
+
+1. AMB Express. 2020 Jul 25;10(1):131. doi: 10.1186/s13568-020-01069-5.
+
+Microbial composition of sweetness-enhanced yoghurt during fermentation and
+storage.
+
+Luzzi G(1), Brinks E(1), Fritsche J(2), Franz CMAP(3).
+
+Author information: 
+(1)Department of Microbiology and Biotechnology, Max Rubner-Institut,
+Hermann-Weigmann-Str. 1, 24103, Kiel, Germany.
+(2)Department of Safety and Quality of Milk and Fish Products, Max
+Rubner-Institut, Hermann-Weigmann-Str. 1, 24103, Kiel, Germany.
+(3)Department of Microbiology and Biotechnology, Max Rubner-Institut,
+Hermann-Weigmann-Str. 1, 24103, Kiel, Germany. charles.franz@mri.bund.de.
+
+The reformulation of dairy products to contain less added sugar can contribute to
+reducing sugar consumption, thereby reducing the risk of non-communicable
+diseases. The objective of this study was to investigate the microbial ecology of
+reformulated yoghurt, which was produced using bi-enzymatic modification of
+lactose to increase its sweetness by a factor of 2-3. Ultimately, this
+reformulation strategy could reduce the amount of added sugar needed for equal
+sweetness of the end product. The bi-enzymatic modification relied on utilisation
+of a β-galactosidase enzyme to convert the milk sugar lactose to galactose and
+glucose, followed by the enzymatic conversion of the glucose moiety to fructose
+using a glucose isomerase. The microbial ecology of reformulated yoghurt produced
+with two mixed starter culture preparations containing either Streptococcus (S.) 
+thermophilus and Lactobacillus (Lb.) delbrueckii or S. thermophilus, Lb.
+acidophilus and Bifidobacterium sp. strains, was analysed during fermentation and
+cool storage using 16S rRNA based metagenomics. None of the yoghurt samples
+showed a significant difference in microbial composition between
+sweetness-enhanced and regular milk at all sampling time points during
+manufacture and storage of yoghurt. However, a significant difference between the
+microbiota of inoculated milk before and after fermentation was observed. In both
+types of yoghurt, the starter culture genera dominated the microbial ecology at
+the end of fermentation as expected, reducing the possibility of growth of
+potentially pathogenic or spoilage bacteria possibly resulting from a changed
+carbohydrate spectrum.
+
+DOI: 10.1186/s13568-020-01069-5 
+PMCID: PMC7381539
+PMID: 32710182 
+

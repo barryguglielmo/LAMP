@@ -1,0 +1,43 @@
+
+1. Antonie Van Leeuwenhoek. 2020 Mar;113(3):339-347. doi:
+10.1007/s10482-019-01343-y. Epub 2019 Oct 21.
+
+Nocardioides jejuensis sp. nov., isolated from soil.
+
+Jang JH(1)(2), Maeng S(1), Jung HY(2), Kim MK(3), Subramani G(4).
+
+Author information: 
+(1)Department of Bio and Environmental Technology, College of Natural Science,
+Seoul Women's University, Seoul, 01797, Republic of Korea.
+(2)College of Agricultural and Life Sciences, Kyungpook National University,
+Daegu, 41566, Republic of Korea.
+(3)Department of Bio and Environmental Technology, College of Natural Science,
+Seoul Women's University, Seoul, 01797, Republic of Korea. biotech@swu.ac.kr.
+(4)Department of Bio and Environmental Technology, College of Natural Science,
+Seoul Women's University, Seoul, 01797, Republic of Korea. drgaya@swu.ac.kr.
+
+A Gram-stain positive, asporogenous, aerobic, white -coloured bacterium,
+designated 18JY15-6T, was isolated from soil from Jeju Island, Korea. Pairwise
+analysis of the 16S rRNA gene sequence of strain 18JY15-6T indicated high
+similarity to Nocardioides phosphati DSM 104026T (97.4%), Marmoricola terrae KACC
+17308T (96.7%) and Nocardioides jensenii KCTC 0074BPT (96.6%). Phylogenetic
+analysis revealed that strain 18JY15-6T formed a distinct lineage within the
+family Nocardioidaceae and is closely related to members of the genus
+Nocardioides. Genome sequencing of strain 18JY15-6T revealed 3221 total genes,
+including 3162 protein coding genes, 59 RNA and 31 pseudogenes. Growth was
+observed at 18-37 °C (optimal 30 °C) in R2A medium at pH 7.0. The major cellular 
+fatty acids of strain 18JY15-6T were identified as C16:0, C18:1ω9c, C18:0
+10-methyl, tuberculostearic and C17:0. The fatty acid profile of strain 18JY15-6T
+was more dissimilar when compared with M. terrae. The only respiratory quinone
+present was found to be MK-8(H4). The major polar lipids are
+diphosphatidylglycerol, phosphatidylglycerol, phosphatidylethanolamine and
+phosphatidylcholine. The results of phylogenetic, biochemical and chemotaxonomic 
+characterisation allow the differentiation of strain 18JY15-6T from N. phosphati 
+WYH11-7T, M. terrae JOS5-1T and N. jensenii NBRC 14755T which supports the
+conclusion that this strain represents a novel species of the genus Nocardioides,
+for which we propose the name Nocardioides jejuensis sp. nov. The type strain of 
+Nocardioides jejuensis is 18JY15-6T (= KCTC 49105T = JCM 33182T).
+
+DOI: 10.1007/s10482-019-01343-y 
+PMID: 31637662  [Indexed for MEDLINE]
+

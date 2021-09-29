@@ -1,0 +1,33 @@
+
+1. Exp Mol Med. 2020 Sep 28. doi: 10.1038/s12276-020-00507-5. [Epub ahead of print]
+
+Microbial therapeutics for acute colitis based on genetically modified
+Lactococcus lactis hypersecreting IL-1Ra in mice.
+
+Namai F(1), Shigemori S(1), Ogita T(1), Sato T(1), Shimosato T(2).
+
+Author information: 
+(1)Department of Biomolecular Innovation, Institute for Biomedical Sciences,
+Shinshu University, 8304 Minamiminowa, Kamiina, Nagano, 399-4598, Japan.
+(2)Department of Biomolecular Innovation, Institute for Biomedical Sciences,
+Shinshu University, 8304 Minamiminowa, Kamiina, Nagano, 399-4598, Japan.
+shimot@shinshu-u.ac.jp.
+
+The increased incidence of inflammatory bowel disease (IBD) in Western and
+rapidly Westernizing developing countries poses a global pandemic threat. The
+development of affordable drugs for treating IBD worldwide is thus a priority.
+Genetically modified lactic acid bacteria (gmLAB) as microbial therapeutics are
+inexpensive protein producers suitable for use as carriers of protein to the
+intestinal mucosa. Here, we successfully constructed gmLAB hypersecreting
+interleukin 1 receptor antagonist (IL-1Ra). Oral administration of these gmLAB
+suppressed body weight reduction and exacerbation of the disease activity index
+score in mice with acute colitis and decreased the number of CD4+ IL-17A+ cells
+in the mesenteric lymph nodes. These data suggest that the gmLAB deliver IL-1Ra
+to the colon, where it inhibits IL-1 signaling. We thus developed a novel IBD
+therapeutic that blocks IL-1 signaling using a gmLAB protein delivery system.
+This system could be an inexpensive oral microbial therapeutic.
+
+DOI: 10.1038/s12276-020-00507-5 
+PMCID: PMC7520878
+PMID: 32989233 
+

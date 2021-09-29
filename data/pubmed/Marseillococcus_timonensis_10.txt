@@ -1,0 +1,63 @@
+
+1. mSystems. 2020 Apr 28;5(2). pii: e00161-20. doi: 10.1128/mSystems.00161-20.
+
+Commensal Oral Rothia mucilaginosa Produces Enterobactin, a Metal-Chelating
+Siderophore.
+
+Uranga CC(1), Arroyo P Jr(1), Duggan BM(2), Gerwick WH(2)(3), Edlund A(4)(5).
+
+Author information: 
+(1)J. Craig Venter Institute, Genomic Medicine Group, La Jolla, California, USA.
+(2)University of California San Diego, Skaggs School of Pharmacy and
+Pharmaceutical Sciences, La Jolla, California, USA.
+(3)Center for Marine Biotechnology and Biomedicine, Scripps Institution of
+Oceanography, University of California San Diego, La Jolla, California, USA.
+(4)J. Craig Venter Institute, Genomic Medicine Group, La Jolla, California, USA
+aedlund@jcvi.org.
+(5)University of California San Diego, School of Medicine, Department of
+Pediatrics, La Jolla, California, USA.
+
+Next-generation sequencing studies of saliva and dental plaque from subjects in
+both healthy and diseased states have identified bacteria belonging to the Rothia
+genus as ubiquitous members of the oral microbiota. To gain a deeper
+understanding of molecular mechanisms underlying the chemical ecology of this
+unexplored group, we applied a genome mining approach that targets functionally
+important biosynthetic gene clusters (BGCs). All 45 genomes that were mined,
+representing Rothia mucilaginosa, Rothia dentocariosa, and Rothia aeria, harbored
+a catechol-siderophore-like BGC. To explore siderophore production further, we
+grew the previously characterized R. mucilaginosa ATCC 25296 in liquid cultures, 
+amended with glycerol, which led to the identification of the archetype
+siderophore enterobactin by using tandem liquid chromatography-mass spectrometry 
+(LC-MS/MS), high-performance liquid chromatography (HPLC), and nuclear magnetic
+resonance (NMR) spectroscopy. Normally attributed to pathogenic gut bacteria, R. 
+mucilaginosa is the first commensal oral bacterium found to produce enterobactin.
+Cocultivation studies including R. mucilaginosa or purified enterobactin revealed
+that enterobactin reduced growth of certain strains of cariogenic Streptococcus
+mutans and pathogenic strains of Staphylococcus aureus Commensal oral bacteria
+were either unaffected, reduced in growth, or induced to grow adjacent to
+enterobactin-producing R. mucilaginosa or the pure compound. Taken together with 
+Rothia's known capacity to ferment a variety of carbohydrates and amino acids,
+our findings of enterobactin production add an additional level of explanation to
+R. mucilaginosa's prevalence in the oral cavity. Enterobactin is the strongest
+Fe(III) binding siderophore known, and its role in oral health requires further
+investigation.IMPORTANCE The communication language of the human oral microbiota 
+is vastly underexplored. However, a few studies have shown that specialized small
+molecules encoded by BGCs have critical roles such as in colonization resistance 
+against pathogens and quorum sensing. Here, by using a genome mining approach in 
+combination with compound screening of growth cultures, we identified that the
+commensal oral community member R. mucilaginosa harbors a catecholate-siderophore
+BGC, which is responsible for the biosynthesis of enterobactin. The
+iron-scavenging role of enterobactin is known to have positive effects on the
+host's iron pool and negative effects on host immune function; however, its role 
+in oral health remains unexplored. R. mucilaginosa was previously identified as
+an abundant community member in cystic fibrosis, where bacterial iron cycling
+plays a major role in virulence development. With respect to iron's broad
+biological importance, iron-chelating enterobactin may explain R. mucilaginosa's 
+colonization success in both health and disease.
+
+Copyright © 2020 Uranga et al.
+
+DOI: 10.1128/mSystems.00161-20 
+PMCID: PMC7190385
+PMID: 32345739 
+

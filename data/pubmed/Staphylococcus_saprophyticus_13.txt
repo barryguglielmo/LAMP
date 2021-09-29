@@ -1,0 +1,37 @@
+
+1. Int J Phytoremediation. 2020 Jul 9:1-9. doi: 10.1080/15226514.2020.1786795. [Epub
+ahead of print]
+
+Transgenic tobacco plants overexpressing a cold-adaptive nitroreductase gene
+exhibited enhanced 2,4-dinitrotoluene detoxification rate at low temperature.
+
+Kayıhan DS(1), Kayıhan C(2), Özden Çiftçi Y(1).
+
+Author information: 
+(1)Department of Molecular Biology and Genetics, Gebze Technical University,
+Kocaeli, Turkey.
+(2)Department of Molecular Biology and Genetics, Başkent University, Ankara,
+Turkey.
+
+Plants encounter many environmental factors such as low and high temperatures
+during phytoremediation processes. In this study, our aim was to produce the
+transgenic tobacco plants by using a newly characterized bacterial
+nitroreductase, Ntr, which was active at a broad range temperature in order to
+detoxify 2,4-dinitrotoluene (2,4-DNT) at lower temperature. The presence of Ntr
+and its heterologous expression was verified in T1 transgenic plants and their
+growing ability were determined under toxic amount of 2,4-DNT (35 µM). Fresh
+weight and dry weight of transgenic plants were significantly higher than wild
+type (WT) under toxic 2,4-DNT at 22 °C, indicating higher growth capacity of the 
+transgenics. Transgenic plants also showed a higher tolerance than WT when
+exposed to 2,4-DNT at 15 °C. Moreover, transformation rate of 2,4-DNT was
+gradually decreased through decreasing temperatures in WT media, however, it was 
+increased through decreasing temperatures in transgenic plant TR3-25 media and it
+had the highest transformation rate (54%) of 2,4-DNT at 4 °C. Correlatively,
+2,4-DNT treatment at 4 °C led to a significant decrease in H2O2 level in
+transgenic plants. Thus, transgenic plants overexpressing nitroreductase might
+have an important advantage for phytoremediation of toxic nitroaromatic compounds
+in field applications at low temperatures.
+
+DOI: 10.1080/15226514.2020.1786795 
+PMID: 32643388 
+

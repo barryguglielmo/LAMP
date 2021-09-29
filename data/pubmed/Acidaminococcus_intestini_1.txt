@@ -1,0 +1,44 @@
+
+1. PLoS Biol. 2019 Oct 17;17(10):e3000268. doi: 10.1371/journal.pbio.3000268.
+eCollection 2019 Oct.
+
+Mechanically resolved imaging of bacteria using expansion microscopy.
+
+Lim Y(1), Shiver AL(1), Khariton M(1), Lane KM(1), Ng KM(1), Bray SR(1), Qin
+J(2), Huang KC(1)(3)(4), Wang B(1)(5).
+
+Author information: 
+(1)Department of Bioengineering, Stanford University, Stanford, California,
+United States of America.
+(2)Department of Chemical Engineering, Stanford University, Stanford, California,
+United States of America.
+(3)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, California, United States of America.
+(4)Chan Zuckerberg Biohub, San Francisco, California, United States of America.
+(5)Department of Developmental Biology, Stanford University School of Medicine,
+Stanford, California, United States of America.
+
+Imaging dense and diverse microbial communities has broad applications in basic
+microbiology and medicine, but remains a grand challenge due to the fact that
+many species adopt similar morphologies. While prior studies have relied on
+techniques involving spectral labeling, we have developed an expansion microscopy
+method (μExM) in which bacterial cells are physically expanded prior to imaging. 
+We find that expansion patterns depend on the structural and mechanical
+properties of the cell wall, which vary across species and conditions. We use
+this phenomenon as a quantitative and sensitive phenotypic imaging contrast
+orthogonal to spectral separation to resolve bacterial cells of different species
+or in distinct physiological states. Focusing on host-microbe interactions that
+are difficult to quantify through fluorescence alone, we demonstrate the ability 
+of μExM to distinguish species through an in vitro defined community of human gut
+commensals and in vivo imaging of a model gut microbiota, and to sensitively
+detect cell-envelope damage caused by antibiotics or previously unrecognized
+cell-to-cell phenotypic heterogeneity among pathogenic bacteria as they infect
+macrophages.
+
+DOI: 10.1371/journal.pbio.3000268 
+PMCID: PMC6797083
+PMID: 31622337  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

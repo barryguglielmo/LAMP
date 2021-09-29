@@ -1,0 +1,42 @@
+
+1. Pest Manag Sci. 2020 Sep 28. doi: 10.1002/ps.6106. [Epub ahead of print]
+
+ABC transporter mutations in Cry1F-resistant fall armyworm (Spodoptera
+frugiperda) do not result in altered susceptibility to selected small molecule
+pesticides.
+
+Abdelgaffar H(1), Perera OP(2), Jurat-Fuentes JL(1).
+
+Author information: 
+(1)Department of Entomology and Plant Pathology, University of Tennessee,
+Knoxville, TN, 37996, USA.
+(2)Southern Insect Management Research Unit, USDA, Agricultural Research Service,
+Stoneville, MS, 38776.
+
+BACKGROUND: Transgenic crops producing Cry and Vip3 insecticidal proteins from
+the bacterium Bacillus thuringiensis provide effective control of the fall
+armyworm, Spodoptera frugiperda J. E. Smith. However, cases of practical S.
+frugiperda resistance to transgenic corn producing Cry1F, Cry1Ab and Cry1A.105
+proteins have been reported in the Western hemisphere. Importantly, S. frugiperda
+resistance to Cry1F corn in Puerto Rico was previously associated with lower
+susceptibility to synthetic pesticides. When characterized, resistance to
+transgenic corn in S. frugiperda involved alterations in an ABC transporter
+subfamily C2 (SfABCC2) gene. The main goal of this work was to test the role of
+mutations in SfABCC2 that result in resistance to Cry1F in susceptibility to
+synthetic and semi-synthetic small molecule pesticides.
+RESULTS: Marginal but significantly reduced susceptibility to bifenthrin and
+increased susceptibility to spinetoram was detected in a Cry1F-resitant S.
+frugiperda strain from Puerto Rico carrying a frameshift mutation in the SfABCC2 
+gene. Gene editing by CRISPR/Cas9 created a SfABCC2 knockout in a laboratory
+reference S. frugiperda strain. When compared to the parental reference, the
+knockout strain displayed 25-fold resistance to Cry1F but no alteration in
+susceptibility to small molecule pesticides.
+CONCLUSION: These results support that resistance to Cry1F due to mutations in
+the SfABCC2 gene do not affect susceptibility to the tested small molecule
+pesticides. This article is protected by copyright. All rights reserved.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1002/ps.6106 
+PMID: 32985759 
+

@@ -1,0 +1,25 @@
+
+1. Nat Biotechnol. 2020 Aug;38(8):1001. doi: 10.1038/s41587-020-0545-9.
+
+Author Correction: Genetic circuit design automation for the gut resident species
+Bacteroides thetaiotaomicron.
+
+Taketani M(1)(2), Zhang J(1), Zhang S(1), Triassi AJ(1), Huang YJ(1), Griffith
+LG(1), Voigt CA(3).
+
+Author information: 
+(1)Department of Biological Engineering, Massachusetts Institute of Technology,
+Cambridge, MA, USA.
+(2)DeepBiome Therapeutics, Cambridge, MA, USA.
+(3)Department of Biological Engineering, Massachusetts Institute of Technology,
+Cambridge, MA, USA. cavoigt@gmail.com.
+
+Erratum for
+    Nat Biotechnol. 2020 Aug;38(8):962-969.
+
+An amendment to this paper has been published and can be accessed via a link at
+the top of the paper.
+
+DOI: 10.1038/s41587-020-0545-9 
+PMID: 32760018 
+

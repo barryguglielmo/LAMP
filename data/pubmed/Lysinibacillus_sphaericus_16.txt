@@ -1,0 +1,42 @@
+
+1. Nanomaterials (Basel). 2020 Feb 26;10(3). pii: E408. doi: 10.3390/nano10030408.
+
+Effective Gold Biosorption by Electrospun and Electrosprayed Bio-composites with 
+Immobilized Lysinibacillus sphaericus CBAM5.
+
+Páez-Vélez C(1), Castro-Mayorga JL(2), Dussán J(1).
+
+Author information: 
+(1)Microbiological Research Center (CIMIC), Department of Biological Sciences,
+Universidad de Los Andes, Bogotá 111711, Colombia.
+(2)Nanobiotechnology and applied microbiology (NANOBIOT), Department of
+Biological Sciences, Universidad de Los Andes, Bogotá 111711, Colombia.
+
+Electro-hydrodynamic processing, comprising electrospinning and electrospraying
+techniques, is a novel technology used in the production of nano- and
+sub-micro-scale materials with specific properties suitable for environmental
+remediation processes. Polycaprolactone (PCL) micro-fibrous mats and alginate
+microcapsules were produced using electrospinning and electrospraying techniques 
+respectively, and Lysinibacillus sphaericus CBAM5, a bacterium capable of metal
+removal by adsorption and accumulation inside the cell, was immobilized in these 
+matrices. The polymeric structure was able to protect and maintain cell viability
+and the bio-composite materials were used to capture gold from synthetic water
+samples. The micro-fibrous membranes with immobilized bacteria were able to
+remove 93% of the gold after 120 h of inclusion in the aqueous medium. Using a
+filtration system, an efficiency of 64% was obtained for the removal of the
+precious metal after 10 cycles of filtration (2 h of exposure to the gold
+solution). In contrast, the microencapsulated L. sphaericus CBAM5 captured 64% of
+the gold after 4 h of the assay. Thus, both micro-structured matrices were
+suitable for the immobilization and protection of L. sphaericus CBAM5 and they
+showed high efficiencies of gold biosorption. Hence, these bio-composite
+materials could be used to concentrate gold from industrial wastewaters.
+
+DOI: 10.3390/nano10030408 
+PMCID: PMC7152855
+PMID: 32110870 
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or
+interpretation of data; in the writing of the manuscript, or in the decision to
+publish the results.
+

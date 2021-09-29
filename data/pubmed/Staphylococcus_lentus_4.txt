@@ -1,0 +1,39 @@
+
+1. Biofouling. 2019 Oct;35(9):1007-1025. doi: 10.1080/08927014.2019.1687689. Epub
+2019 Nov 12.
+
+Copper oxide nanoparticles as an effective anti-biofilm agent against a copper
+tolerant marine bacterium, Staphylococcus lentus.
+
+Padmavathi AR(1), Sriyutha Murthy P(1)(2), Das A(3)(4), Nishad PA(1), Pandian
+R(3), Rao TS(1)(2).
+
+Author information: 
+(1)Water and Steam Chemistry Division, Bhabha Atomic Research Centre Facilities, 
+Kalpakkam, Tamil Nadu, India.
+(2)Life Sciences Department, Homi Bhabha National Institute, Mumbai, India.
+(3)Surface and Nanoscience Division, Indira Gandhi Centre for Atomic Research,
+Kalpakkam, Tamil Nadu, India.
+(4)Chemical Sciences Department, Homi Bhabha National Institute, Mumbai, India.
+
+Biofilm formation on antifouling coatings is a serious concern in seawater
+cooling systems and the maritime industry. A prolific biofilm forming strain
+(Staphylococcus lentus), possessing high tolerance (>1,000 µg ml-1) to dissolved 
+copper ions (Cu++) was isolated from titanium coupons exposed in the coastal
+waters of Kalpakkam, east coast of India. S. lentus formed increased biofilm
+(p < 0.05) at 100 µg ml-1 of Cu++ ions, when compared with the untreated control.
+To combat biofilm formation of this strain, the efficacy of copper oxide
+nanoparticles synthesized from copper nitrate by varying the concentrations of
+hexamine and cetyl trimethyl ammonium bromide (CTAB), was investigated. Complete 
+(100%) inhibition of biofilm formation was observed with plain CuO NP (0.5 M
+hexamine, uncapped) at 1,000 µg ml-1. Capping with CTAB, influenced the
+morphology and the purity of the synthesized CuO NPs but did not alter their
+surface charge. Capping reduced metal ion release from CuO NPs and their
+antibacterial and anti-biofilm property against S. lentus. Overall, uncapped CuO 
+NPs were effective in controlling biofilm formation of S. lentus. Concurrent
+release of copper ions and contact mediated physical damage by CuO NPs offer a
+promising approach to tackle metal tolerant biofilm bacteria.
+
+DOI: 10.1080/08927014.2019.1687689 
+PMID: 31718302  [Indexed for MEDLINE]
+

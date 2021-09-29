@@ -1,0 +1,52 @@
+
+1. Biomolecules. 2020 Jun 17;10(6). pii: E921. doi: 10.3390/biom10060921.
+
+Adenosine-5'-Phosphosulfate- and Sulfite Reductases Activities of
+Sulfate-Reducing Bacteria from Various Environments.
+
+Kushkevych I(1)(2), Abdulina D(3), Kováč J(1), Dordević D(4), Vítězová M(1),
+Iutynska G(3), Rittmann SKR(5).
+
+Author information: 
+(1)Department of Experimental Biology, Faculty of Science, Masaryk University,
+Kamenice 753/5, 62500 Brno, Czech Republic.
+(2)Department of Molecular Biology and Pharmaceutical Biotechnology, University
+of Veterinary and Pharmaceutical Sciences Brno, 61242 Brno, Czech Republic.
+(3)Department of General and Soil Microbiology, D.K. Zabolotny Institute of
+Microbiology and Virology of the National Academy of Sciences of Ukraine, Acad.
+Zabolotnogo str. 154, 03143 Kyiv, Ukraine.
+(4)Department of Plant Origin Foodstuffs Hygiene and Technology, Faculty of
+Veterinary Hygiene and Ecology, University of Veterinary and Pharmaceutical
+Sciences, 61242 Brno, Czech Republic.
+(5)Archaea Physiology & Biotechnology Group, Department of Functional and
+Evolutionary Ecology, Universität Wien, Althanstraße 14, 1090 Vienna, Austria.
+
+A comparative study of the kinetic characteristics (specific activity, initial
+and maximum rate, and affinity for substrates) of key enzymes of assimilatory
+sulfate reduction (APS reductase and dissimilatory sulfite reductase) in
+cell-free extracts of sulphate-reducing bacteria (SRB) from various biotopes was 
+performed. The material for the study represented different strains of SRB from
+various ecotopes. Microbiological (isolation and cultivation), biochemical (free 
+cell extract preparation) and chemical (enzyme activity determination) methods
+served in defining kinetic characteristics of SRB enzymes. The determined
+affinity data for substrates (i.e., sulfite) were 10&nbsp;times higher for SRB
+strains isolated from environmental (soil) ecotopes than for strains from the
+human intestine. The maximum rate of APS reductase reached 0.282-0.862
+µmol/min×mg-1 of protein that is only 10 to 28% higher than similar initial
+values. The maximum rate of sulfite reductase for corrosive relevant collection
+strains and SRB strains isolated from heating systems were increased by 3 to 10
+times. A completely different picture was found for the intestinal SRB Vmax in
+the strains Desulfovibrio piger Vib-7 (0.67 µmol/min × mg-1 protein) and
+Desulfomicrobium orale Rod-9 (0.45 µmol/min × mg-1 protein). The determinant in
+the cluster distribution of SRB strains is the activity of the terminal enzyme of
+dissimilatory sulfate reduction-sulfite reductase, but not APS reductase. The
+data obtained from the activity of sulfate reduction enzymes indicated the
+adaptive plasticity of SRB strains that is manifested in the change in enzymatic 
+activity.
+
+DOI: 10.3390/biom10060921 
+PMCID: PMC7357011
+PMID: 32560561 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

@@ -1,0 +1,37 @@
+
+1. Molecules. 2020 Jun 4;25(11). pii: E2618. doi: 10.3390/molecules25112618.
+
+Optimization of Protective Agents for The Freeze-Drying of Paenibacillus polymyxa
+Kp10 as a Potential Biofungicide.
+
+Nasran HS(1), Mohd Yusof H(1), Halim M(1)(2), Abdul Rahman N(1)(2).
+
+Author information: 
+(1)Department of Bioprocess Technology, Faculty of Biotechnology and Biomolecular
+Sciences, Universiti Putra Malaysia, Serdang, Selangor 43400, Malaysia.
+(2)Bioprocessing and Biomanufacturing Research Centre, Faculty of Biotechnology
+and Biomolecular Sciences, Universiti Putra Malaysia, Serdang, Selangor 43400,
+Malaysia.
+
+Anthracnose is a fungal disease causing major losses in crop production. Chemical
+fungicides widely used in crop plantations to combat fungal infections can be a
+threat to the environment and humans in the long term. Recently, biofungicides
+have gained much interest as an alternative to chemical fungicides due to their
+environmentally friendly nature. Biofungicide products in powder form can be
+formulated using the freeze-drying technique to provide convenient storage.
+Protective agent formulation is needed in maintaining the optimal viable cells of
+biofungicide products. In this study, 8.10 log colony-forming unit (CFU)/mL was
+the highest cell viability of Paenibacillus polymyxa Kp10 at 22 h during
+incubation. The effects of several selected protective agents on the viability of
+P. polymyxa Kp10 after freeze-drying were studied. Response surface methodology
+(RSM) was used for optimizing formulation for the protective agents. The
+combination of lactose (10% w/v), skim milk (20% w/v), and sucrose (27.5% w/v)
+was found to be suitable for preserving P. polymyxa Kp10 during freeze-drying.
+Further, P. polymyxa Kp10 demonstrated the ability to inhibit fungal pathogens,
+Colletotrichum truncatum and C. gloeosporioides, at 60.18% and 66.52% of
+inhibition of radial growth, respectively.
+
+DOI: 10.3390/molecules25112618 
+PMCID: PMC7321406
+PMID: 32512825 
+

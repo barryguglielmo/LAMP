@@ -1,0 +1,43 @@
+
+1. Anal Methods. 2020 Jun 26;12(24):3164-3172. doi: 10.1039/d0ay00662a.
+
+A disposable gold-cellulose nanofibril platform for SERS mapping.
+
+Tanis SN(1), Ilhan H(2), Guven B(3), Tayyarcan EK(3), Ciftci H(4), Saglam N(1),
+Hakki Boyaci I(3), Tamer U(5).
+
+Author information: 
+(1)Department of Nanotechnology, Faculty of Science, Hacettepe University,
+Beytepe, 06800, Ankara, Turkey.
+(2)Faculty of Art and Science, Ordu University, Altınordu, 52200, Ordu, Turkey.
+(3)Department of Food Engineering, Faculty of Engineering, Hacettepe University, 
+Beytepe, 06800, Ankara, Turkey.
+(4)Department of Chemistry and Chemical Processing Technologies, Kirikkale
+Vocational High School, Kirikkale University, Yahsihan, 71450, Kirikkale, Turkey.
+(5)Department of Analytical Chemistry, Faculty of Pharmacy, Gazi University,
+Etiler, 06330, Ankara, Turkey. utamer@gazi.edu.tr.
+
+In this study, we present a disposable and inexpensive paper-like gold
+nanoparticle-embedded cellulose nanofibril substrate for the rapid enumeration of
+Escherichia coli (E. coli) using surface-enhanced Raman scattering (SERS)
+mapping. A disposable SERS substrate was simply constructed by mixing CNF and
+gold chloride solution at 120 °C in a water bath. The application of the
+resulting substrate was carried out by enrichment and SERS detection of E. coli. 
+To this end, the spherical gold nanoparticle-embedded cellulose nanofibril
+substrate was used as a scavenger for E. coli. After the target bacteria E. coli 
+were separated from the matrix via oriented antibodies, the sandwich assay
+procedure was carried out using 5,5-dithiobis-(2-nitrobenzoic acid) (DTNB)-coated
+Au nanorod particles that acted as SERS mapping probes. The distribution density 
+of DTNB was demonstrated visually using SERS mapping, and the assay was completed
+in one hour. The correlation between the E. coli and SERS mapping signals was
+found to be linear within the range of 15 cfu mL-1 to 1.5 × 105 cfu mL-1. The
+limit of detection for the SERS mapping assay was determined to be 2 cfu mL-1.
+The selectivity of the developed method was examined with Micrococcus luteus (M. 
+luteus), Bacillus subtilis (B. subtilis), and Enterobacter aerogenes (E.
+aerogenes), which did not produce any significant response. Furthermore, the
+developed method was evaluated for detecting E. coli in artificially contaminated
+samples, and the results were compared with those of the plate-counting method.
+
+DOI: 10.1039/d0ay00662a 
+PMID: 32930178 
+

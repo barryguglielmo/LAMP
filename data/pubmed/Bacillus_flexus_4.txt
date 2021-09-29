@@ -1,0 +1,40 @@
+
+1. Water Sci Technol. 2019 Nov;80(9):1623-1632. doi: 10.2166/wst.2020.005.
+
+Biodegradation of alkali lignin by Bacillus flexus RMWW II: analyzing performance
+for abatement of rice mill wastewater.
+
+Kumar A(1), Priyadarshinee R(2), Singha S(1), Sengupta B(3), Roy A(1), Dasgupta
+D(2), Mandal T(1).
+
+Author information: 
+(1)Department of Chemical Engineering, National Institute of Technology Durgapur,
+Mahatma Gandhi Avenue, Durgapur, West Bengal 713209, India E-mail:
+prof.tamalmandal@gmail.com.
+(2)Department of Biotechnology, National Institute of Technology Durgapur,
+Mahatma Gandhi Avenue, Durgapur, West Bengal 713209, India.
+(3)The Howard P. Isermann Department of Chemical and Biological Engineering,
+Rensselaer Polytechnic Institute, 110 8th St., Troy, New York 12180, USA.
+
+A potential bacterium Bacillus flexus RMWW II has been isolated from rice mill
+effluent, and examined for its decolorizing potential for lignin-mimicking dyes. 
+The biodegradation of alkali lignin by the rod-shaped, Gram-positive, oxidase and
+catalase-positive Bacillus flexus RMWW II bacteria is due to its uptake of lignin
+as the sole carbon source. The lignin degradation was 100% at a lignin
+concentration of 50 mg L-1 but the degradation reduced to 20% at 400 mg L-1. The 
+bacterial-mediated biodegradation of alkali lignin was suitably explained by the 
+Edward kinetics model with a maximal specific biodegradation rate (qmax) of 0.056
+h-1 and true specific biodegradation rate (q*) of 0.042 h-1. The non-toxic nature
+of the metabolites of alkali lignin after bacterial degradation was illustrated
+by phytotoxicity studies. This bacterium was utilized to treat complex rice mill 
+wastewater, as lignin is one of the major components of the effluent. A
+considerable reduction of 84% of chemical oxygen demand (COD) was observed in a
+batch reactor in 70 h of operation. The bacterial treatment results for the
+actual rice mill effluent indicate that Bacillus flexus RMWW II could be a
+promising agent for microbial remediation of lignin-laden raw rice mill
+wastewater.
+
+DOI: 10.2166/wst.2020.005 
+PMCID: wst_2020_005
+PMID: 32039894  [Indexed for MEDLINE]
+

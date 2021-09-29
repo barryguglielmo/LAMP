@@ -1,0 +1,38 @@
+
+1. J Environ Sci Health B. 2020;55(5):447-454. doi: 10.1080/03601234.2019.1710985.
+Epub 2020 Jan 15.
+
+In silico genome analysis of an acid mine drainage species, Acidiphilium
+multivorum, for potential commercial acetic acid production and biomining.
+
+Micciche AC(1), Barabote RD(2), Dittoe DK(1), Ricke SC(1).
+
+Author information: 
+(1)Department of Food Science, Center for Food Safety, University of Arkansas,
+Fayetteville, Arkansas, USA.
+(2)Department of Biological Sciences, University of Arkansas, Fayetteville,
+Arkansas, USA.
+
+The genome of Acidiphilium multivorum strain AIU 301, acidophilic, aerobic
+Gram-negative bacteria, was investigated for potential metabolic pathways
+associated with organic acid production and metal uptake. The genome was compared
+to other acidic mine drainage isolates, Acidiphilium cryptum JF-5 and
+Acidithiobacillus ferrooxidans ATCC 23270, as well as Acetobacter pasteurianus
+386B, which ferments cocoa beans. Plasmids between two Acidiphilium spp. were
+compared, and only two of the sixteen plasmids were identified as potentially
+similar. Comparisons of the genome size to the number of protein coding sequences
+indicated that A. multivorum and A. cryptum follow the line of best fit unlike A.
+pasteurianus 386B, which suggests that it was improperly annotated in the
+database. Pathways between these four species were analyzed bioinformatically and
+are discussed here. A. multivorum AIU 301, shares pathways with A. pasteurianus
+386B including aldehyde and alcohol dehydrogenase pathways, which are used in the
+generation of vinegar. Mercury reductase, arsenate reductase and sulfur
+utilization proteins were identified and discussed at length. The absence of
+sulfur utilization proteins from A. multivorum AIU 301 suggests that this species
+uses previously undefined pathways for sulfur acquisition. Bioinformatic
+examination revealed novel pathways that may benefit commercial fields including 
+acetic acid production and biomining.
+
+DOI: 10.1080/03601234.2019.1710985 
+PMID: 31941390  [Indexed for MEDLINE]
+

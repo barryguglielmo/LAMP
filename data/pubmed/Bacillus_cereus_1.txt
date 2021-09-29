@@ -1,0 +1,47 @@
+
+1. Colloids Surf B Biointerfaces. 2020 Sep 19;197:111356. doi:
+10.1016/j.colsurfb.2020.111356. [Epub ahead of print]
+
+Study of biofilm-influenced corrosion on X80 pipeline steel by a nitrate-reducing
+bacterium, Bacillus cereus, in artificial Beijing soil.
+
+Liu B(1), Sun M(1), Lu F(1), Du C(2), Li X(3).
+
+Author information: 
+(1)Institute for Advanced Materials and Technology, University of Science and
+Technology Beijing, Beijing, 100083, China; Key Laboratory for Corrosion and
+Protection of Ministry of Education (MOE), Beijing, 100083, China.
+(2)Institute for Advanced Materials and Technology, University of Science and
+Technology Beijing, Beijing, 100083, China; Key Laboratory for Corrosion and
+Protection of Ministry of Education (MOE), Beijing, 100083, China; Beijing
+Advanced Innovation Center for Materials Genome Engineering, University of
+Science and Technology Beijing, Beijing, 100083, China; National Materials
+Corrosion and Protection Scientific Data Center, Institute of Advanced Materials 
+and Technology, Beijing, 100083, China. Electronic address: dcw@ustb.edu.cn.
+(3)Institute for Advanced Materials and Technology, University of Science and
+Technology Beijing, Beijing, 100083, China; Key Laboratory for Corrosion and
+Protection of Ministry of Education (MOE), Beijing, 100083, China; Beijing
+Advanced Innovation Center for Materials Genome Engineering, University of
+Science and Technology Beijing, Beijing, 100083, China; National Materials
+Corrosion and Protection Scientific Data Center, Institute of Advanced Materials 
+and Technology, Beijing, 100083, China.
+
+The biofilm of Bacillus cereus on the surface of X80 pipeline steel was
+investigated from forming to shedding. Based on the observed biofilm morphology
+and pit analysis, it was found that B. cereus biofilm could stimulate X80
+pipeline steel pitting corrosion, which was attributed to the nitrate reduction
+of bacteria beneath the biofilm. Electrochemical measurements and general
+corrosion rate results showed that B. cereus biofilm can better accelerate X80
+pipeline steel corrosion compared to sterile solutions. Interestingly, the
+results also showed that thick biofilms had a slight tendency to inhibit the
+general corrosion process compared with its formation and exfoliation, which was 
+confirmed by scanning Kelvin probe. The corrosion rate of X80 pipeline steel in
+artificial Beijing soil is closely related to the state of the biofilm, and
+nitrate reducing bacteria accelerates the occurrence of pits. The corresponding
+corrosion mechanisms are proposed.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.colsurfb.2020.111356 
+PMID: 33007505 
+

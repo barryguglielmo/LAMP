@@ -1,0 +1,49 @@
+
+1. Chemosphere. 2020 Nov;258:127148. doi: 10.1016/j.chemosphere.2020.127148. Epub
+2020 May 21.
+
+Removal of gaseous tetrahydrofuran via a three-phase airlift bioreactor loaded
+with immobilized cells of GFP-tagged Pseudomonas oleovorans GDT4.
+
+Chen J(1), Ruan JW(2), Ye JX(2), Cheng ZW(2), Chen DZ(3).
+
+Author information: 
+(1)College of Food and Pharmacy, Zhejiang Ocean University, Zhoushan, 316004,
+China.
+(2)College of Environment, Zhejiang University of Technology, Hangzhou, 310032,
+China.
+(3)College of Petrochemical and Environment, Zhejiang Ocean University, Zhoushan,
+316004, China; College of Environment, Zhejiang University of Technology,
+Hangzhou, 310032, China. Electronic address: cdz@zjut.edu.cn.
+
+Tetrahydrofuran (THF) is a common highly toxic cyclic aliphatic ether that
+frequently exists in waste gases. Removal of gaseous THF is a serious issue with 
+important environmental ramifications. A novel three-phase airlift bioreactor
+(TPAB) loaded with immobilized cells was developed for efficient THF removal from
+gas streams. An effective THF-degrading transformant, Pseudomonas oleovorans
+GDT4, which contains the pTn-Mod-OTc-gfp plasmid and was tagged with a green
+fluorescent protein (GFP), was constructed. Continuous treatment of
+THF-containing waste gases was succeeded by the GFP-labelled cells immobilized
+with calcium alginate and activated carbon fiber in the TPAB for 60 days with
+>90% removal efficiency. The number of fluorescent cells in the beads reached
+1.7 × 1011 cells·g-1 of bead on day 10, accounting for 83.3% of the total number 
+of cells. The amount further increased to 3.0 × 1011 cells·g-1 of bead on day 40.
+However, it decreased to 2.5 × 1011 cells·g-1 of bead with a substantial increase
+in biomass in the liquid because of cell leakage and hydraulic shock. PCR-DGGE
+revealed that P. oleovorans was the dominant microorganism throughout the entire 
+operation. The maximum elimination capacity was affected by empty bed residence
+time (EBRT). The capacity was only 25.9 g m-3·h-1 at EBRT of 80 s, whereas it
+reached 37.8 g m-3·h-1 at EBRT of 140 s. This work provides an alternative method
+for full-scale removal of gaseous THF and presents a useful tool for determining 
+the biomass of a specific degrader in immobilized beads.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.chemosphere.2020.127148 
+PMID: 32535434 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

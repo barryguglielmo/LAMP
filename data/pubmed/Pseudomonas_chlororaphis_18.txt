@@ -1,0 +1,38 @@
+
+1. World J Microbiol Biotechnol. 2020 Mar 10;36(3):49. doi:
+10.1007/s11274-020-02824-3.
+
+Engineering of glycerol utilization in Pseudomonas chlororaphis GP72 for
+enhancing phenazine-1-carboxylic acid production.
+
+Song C(1), Yue SJ(1), Liu WH(1), Zheng YF(1), Zhang CH(1), Feng TT(1), Hu
+HB(2)(3), Wang W(1), Zhang XH(1).
+
+Author information: 
+(1)State Key Laboratory of Microbial Metabolism, School of Life Sciences and
+Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, China.
+(2)State Key Laboratory of Microbial Metabolism, School of Life Sciences and
+Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, China.
+hbhu@sjtu.edu.cn.
+(3)National Experimental Teaching Center for Life Sciences and Biotechnology,
+Shanghai Jiao Tong University, Shanghai, 200240, China. hbhu@sjtu.edu.cn.
+
+Glycerol is a by-product of biodiesel, and it has a great application prospect to
+be transformed to synthesize high value-added compounds. Pseudomonas chlororaphis
+GP72 isolated from the green pepper rhizosphere is a plant growth promoting
+rhizobacteria that can utilize amount of glycerol to synthesize
+phenazine-1-carboxylic acid (PCA). PCA has been commercially registered as
+"Shenqinmycin" in China due to its characteristics of preventing pepper blight
+and rice sheath blight. The aim of this study was to engineer glycerol
+utilization pathway in P. chlororaphis GP72. First, the two genes glpF and glpK
+from the glycerol metabolism pathway were overexpressed in GP72ANO separately.
+Then, the two genes were co-expressed in GP72ANO, improving PCA production from
+729.4 mg/L to 993.4 mg/L at 36 h. Moreover, the shunt pathway was blocked to
+enhance glycerol utilization, resulting in 1493.3 mg/L PCA production.
+Additionally, we confirmed the inhibition of glpR on glycerol metabolism pathway 
+in P. chlororaphis GP72. This study provides a good example for improving the
+utilization of glycerol to synthesize high value-added compounds in Pseudomonas.
+
+DOI: 10.1007/s11274-020-02824-3 
+PMID: 32157439  [Indexed for MEDLINE]
+

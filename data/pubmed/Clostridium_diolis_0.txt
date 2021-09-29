@@ -1,0 +1,49 @@
+
+1. Appl Microbiol Biotechnol. 2020 Oct;104(20):8679-8689. doi:
+10.1007/s00253-020-10882-8. Epub 2020 Sep 11.
+
+Milling byproducts are an economically viable substrate for butanol production
+using clostridial ABE fermentation.
+
+Thieme N(1), Panitz JC(1)(2), Held C(1)(3), Lewandowski B(4)(5), Schwarz
+WH(1)(6), Liebl W(1), Zverlov V(7)(8).
+
+Author information: 
+(1)Technical University of Munich, Emil-Ramann-Str. 4, 85354, Freising, Germany.
+(2)Technical University of Munich, Weihenstephaner Berg 3, 85354, Freising,
+Germany.
+(3)TDK Electronics AG, Rosenheimer Str. 141e, 81671, Munich, Germany.
+(4)Fritzmeier Umwelttechnik GmbH & Co KG, Dorfstraße 7, 85653, Aying, Germany.
+(5)Electrochaea GmbH, Semmelweisstrasse 3, 82152, Planegg, Germany.
+(6)aspratis GmbH, Huebnerstrasse 11, 80637, Munich, Germany.
+(7)Technical University of Munich, Emil-Ramann-Str. 4, 85354, Freising, Germany. 
+vladimir.zverlov@tum.de.
+(8)Institute of Molecular Genetics, RAS, Kurchatov Sq 2, 123128, Moscow, Russia. 
+vladimir.zverlov@tum.de.
+
+Butanol is a platform chemical that is utilized in a wide range of industrial
+products and is considered a suitable replacement or additive to liquid fuels. So
+far, it is mainly produced through petrochemical routes. Alternative production
+routes, for example through biorefinery, are under investigation but are
+currently not at a market competitive level. Possible alternatives, such as
+acetone-butanol-ethanol (ABE) fermentation by solventogenic clostridia are not
+market-ready to this day either, because of their low butanol titer and the high 
+costs of feedstocks. Here, we analyzed wheat middlings and wheat red dog, two
+wheat milling byproducts available in large quantities, as substrates for
+clostridial ABE fermentation. We could identify ten strains that exhibited good
+butanol yields on wheat red dog. Two of the best ABE producing strains,
+Clostridium beijerinckii NCIMB 8052 and Clostridium diolis DSM 15410, were used
+to optimize a laboratory-scale fermentation process. In addition, enzymatic
+pretreatment of both milling byproducts significantly enhanced ABE production
+rates of the strains C. beijerinckii NCIMB 8052 and C. diolis DSM 15410. Finally,
+a profitability analysis was performed for small- to mid-scale ABE fermentation
+plants that utilize enzymatically pretreated wheat red dog as substrate. The
+estimations show that such a plant could be commercially successful.Key points•
+Wheat milling byproducts are suitable substrates for clostridial ABE
+fermentation.• Enzymatic pretreatment of wheat red dog and middlings increases
+ABE yield.• ABE fermentation plants using wheat red dog as substrate are
+economically viable. Graphical abstract.
+
+DOI: 10.1007/s00253-020-10882-8 
+PMID: 32915256 
+

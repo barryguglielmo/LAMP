@@ -1,0 +1,55 @@
+
+1. J Biol Chem. 2020 Oct 2;295(40):13724-13736. doi: 10.1074/jbc.RA120.014454. Epub 
+2020 Jul 15.
+
+Uncovering a novel molecular mechanism for scavenging sialic acids in bacteria.
+
+Bell A(1), Severi E(2), Lee M(3), Monaco S(4), Latousakis D(1), Angulo
+J(4)(5)(6), Thomas GH(2), Naismith JH(3), Juge N(7).
+
+Author information: 
+(1)Gut Microbes and Health Institute Strategic Programme, Quadram Institute
+Bioscience, Norwich, United Kingdom.
+(2)Department of Biology, University of York, York, United Kingdom.
+(3)Division of Structural Biology, University of Oxford, Headington, Oxford,
+United Kingdom.
+(4)School of Pharmacy, University of East Anglia, Norwich Research Park, Norwich,
+United Kingdom.
+(5)Departamento de Química Orgánica, Universidad de Sevilla, Sevilla, Spain.
+(6)Instituto de Investigaciones Químicas (CSIC-US), Sevilla, Spain.
+(7)Gut Microbes and Health Institute Strategic Programme, Quadram Institute
+Bioscience, Norwich, United Kingdom nathalie.juge@quadram.ac.uk.
+
+The human gut symbiont Ruminococcus gnavus scavenges host-derived
+N-acetylneuraminic acid (Neu5Ac) from mucins by converting it to
+2,7-anhydro-Neu5Ac. We previously showed that 2,7-anhydro-Neu5Ac is transported
+into R. gnavus ATCC 29149 before being converted back to Neu5Ac for further
+metabolic processing. However, the molecular mechanism leading to the conversion 
+of 2,7-anhydro-Neu5Ac to Neu5Ac remained elusive. Using 1D and 2D NMR, we
+elucidated the multistep enzymatic mechanism of the oxidoreductase (RgNanOx) that
+leads to the reversible conversion of 2,7-anhydro-Neu5Ac to Neu5Ac through
+formation of a 4-keto-2-deoxy-2,3-dehydro-N-acetylneuraminic acid intermediate
+and NAD+ regeneration. The crystal structure of RgNanOx in complex with the NAD+ 
+cofactor showed a protein dimer with a Rossman fold. Guided by the RgNanOx
+structure, we identified catalytic residues by site-directed mutagenesis.
+Bioinformatics analyses revealed the presence of RgNanOx homologues across
+Gram-negative and Gram-positive bacterial species and co-occurrence with sialic
+acid transporters. We showed by electrospray ionization spray MS that the
+Escherichia coli homologue YjhC displayed activity against 2,7-anhydro-Neu5Ac and
+that E. coli could catabolize 2,7-anhydro-Neu5Ac. Differential scanning
+fluorimetry analyses confirmed the binding of YjhC to the substrates
+2,7-anhydro-Neu5Ac and Neu5Ac, as well as to co-factors NAD and NADH. Finally,
+using E. coli mutants and complementation growth assays, we demonstrated that
+2,7-anhydro-Neu5Ac catabolism in E. coli depended on YjhC and on the predicted
+sialic acid transporter YjhB. These results revealed the molecular mechanisms of 
+2,7-anhydro-Neu5Ac catabolism across bacterial species and a novel sialic acid
+transport and catabolism pathway in E. coli.
+
+© 2020 Bell et al.
+
+DOI: 10.1074/jbc.RA120.014454 
+PMID: 32669363 
+
+Conflict of interest statement: Conflict of interest—The authors declare that
+they have no conflicts of interest with the contents of this article.
+

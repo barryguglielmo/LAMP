@@ -1,0 +1,35 @@
+
+1. J Microbiol Biotechnol. 2020 Apr 28;30(4):533-539. doi: 10.4014/jmb.1908.08054.
+
+Biokinetics of protein degrading Clostridium cadaveris and Clostridium sporogenes
+in batch and continuous mode of operations.
+
+Koo T(1), Jannat MAH(1), Hwang S(1).
+
+Author information: 
+(1)Division of Environmental Science and Engineering, Pohang University of
+Science and Technology (POSTECH), Pohang, Gyeongbuk, Republic of Korea.
+
+A quantitative real-time polymerase chain reaction (QPCR) was applied to estimate
+biokinetic coefficients of Clostridium cadaveris and Clostridium sporogenes,
+which utilize protein as carbon source. Experimental data of changes in peptone
+concentration and 16S rRNA gene copy numbers of C. cadaveris and C. sporogenes
+were fitted to model. The fourth-order Runge-Kutta approximation with non-linear 
+least squared analysis was employed to solve the ordinary differential equations 
+to estimate biokinetic coefficients. The maximum specific growth rate (μmax),
+half saturation concentration (Ks), growth yield (Y), and decay coefficient (Kd) 
+of C. cadaveris and C.sporogenes were 0.73 ± 0.05 and 1.35 ± 0.32 h-1, 6.07 ±
+1.52 and 5.67 ± 1.53 g/L, 2.25 ± 0.75 × 1010 and 7.92 ± 3.71 × 109 copies/g,
+0.002 ± 0.003 and 0.002 ± 0.001 h-1, respectively. The theoretical specific
+growth rate of C. sporogenes always exceeded than that of C. cadaveris at peptone
+concentration higher than 3.62 g/L. When the influent peptone concentration was
+5.0 g/L, the concentration of C.cadaveris gradually decreased to the steady value
+of 2.9 × 1010 copies/mL at 4 hours HRT, which indicates 67.1% of the initial
+population reduction, but the wash out occurred at 1.9 and 3.2 hours HRTs. The
+16S rRNA gene copy numbers of C. sporogenes gradually decreased to steady values 
+ranging from 1.1 × 1010 to 2.9 × 1010 copies/mL. C. sporogenes species was
+predicted to wash out at an HRT of 1.6 h.
+
+DOI: 10.4014/jmb.1908.08054 
+PMID: 31986562 
+

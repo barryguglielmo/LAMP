@@ -1,0 +1,41 @@
+
+1. JSES Int. 2020 Jun 3;4(3):464-469. doi: 10.1016/j.jseint.2020.04.020. eCollection
+2020 Sep.
+
+Risk factors for increased shoulder Cutibacterium acnes burden.
+
+Kaveeshwar S(1), Duvall G(1), Jones DL(1), O'Hara NN(1), Klein A(1), Diedrich
+AM(1), Kolakowski L(1), Lai JK(1), Hasan SA(1), Henn RF 3rd(1), Gilotra MN(1).
+
+Author information: 
+(1)Department of Orthopaedics, School of Medicine, University of Maryland,
+Baltimore, MD, USA.
+
+Background: Cutibacterium acnes is the primary cause of shoulder surgery
+infections, but the predisposition to larger skin counts and potentially higher
+risk for postoperative infection remains unclear. This study aimed to quantify
+risk factors influencing endogenous C. acnes burden and to compare counts among 4
+shoulder sites.
+Methods: C. acnes counts were quantified via a detergent scrub technique for 173 
+participants. Bivariate and multivariable stepwise linear regression statistical 
+analyses were used to investigate the association of sex, age, ethnicity, degree 
+of hirsutism, diabetes, smoking status, body mass index, and location with
+counts. A separate Wilcoxon rank-sum test was performed analyzing counts of
+East/Southeast Asians vs. all other ethnicities.
+Results: Sex, age, degree of hirsutism, diabetes, smoking status, and body mass
+index were included in the multivariable stepwise linear regression analysis. The
+multiple regression analysis isolated individuals <40 years with the highest
+burden (P = .001). Males had a 191% increase in C. acnes counts compared with
+females (P = .001). Increased hirsutism was further indicated to be a risk factor
+for the male sex although not in a dose-dependent manner (P = .027). Wilcoxon
+rank-sum test results found that East/Southeast Asians had the lowest load (P =
+.019), although not significant in the multivariate model.
+Conclusion: Surgical site C. acnes infections occur more frequently in younger
+males, and males <40 years with shoulder-specific hirsutism have the highest
+preoperative burden. East/Southeast Asians have lower raw counts of C. acnes
+compared with other ethnicities that may be related to less hirsutism.
+
+DOI: 10.1016/j.jseint.2020.04.020 
+PMCID: PMC7479048
+PMID: 32939469 
+

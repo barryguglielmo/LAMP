@@ -1,0 +1,44 @@
+
+1. Sci Rep. 2020 Sep 30;10(1):16120. doi: 10.1038/s41598-020-72676-2.
+
+Bacillus licheniformis strain POT1 mediated polyphenol biosynthetic pathways
+genes activation and systemic resistance in potato plants against Alfalfa mosaic 
+virus.
+
+Abdelkhalek A(1), Al-Askar AA(2), Behiry SI(3).
+
+Author information: 
+(1)Plant Protection and Biomolecular Diagnosis Department, ALCRI, City of
+Scientific Research and Technological Applications, New Borg El Arab City,
+Alexandria, Egypt. abdelkhalek2@yahoo.com.
+(2)Faculty of Science, Botany and Microbiology Department, King Saud University, 
+Riyadh, Saudi Arabia.
+(3)Agricultural Botany Department, Faculty of Agriculture (Saba Basha),
+Alexandria University, Alexandria, 21531, Egypt.
+
+Alfalfa mosaic virus (AMV) is a worldwide distributed virus that has a very wide 
+host range and causes significant crop losses of many economically important
+crops, including potato (Solanum tuberosum L.). In this study, the antiviral
+activity of Bacillus licheniformis strain POT1 against AMV on potato plants was
+evaluated. The dual foliar application of culture filtrate (CF), 24 h before and 
+after AMV-inoculation, was the most effective treatment that showed 86.79%
+reduction of the viral accumulation level and improvement of different growth
+parameters. Moreover, HPLC analysis showed that a 20 polyphenolic compound was
+accumulated with a total amount of 7,218.86 and 1606.49 mg/kg in POT1-treated and
+non-treated plants, respectively. Additionally, the transcriptional analysis of
+thirteen genes controlling the phenylpropanoid, chlorogenic acid and flavonoid
+biosynthetic pathways revealed that most of the studied genes were induced after 
+POT1 treatments. The stronger expression level of F3H, the key enzyme in
+flavonoid biosynthesis in plants, (588.133-fold) and AN2, anthocyanin 2
+transcription factor, (97.005-fold) suggested that the accumulation flavonoid,
+especially anthocyanin, might play significant roles in plant defense against
+viral infection. Gas chromatography-mass spectrometry (GC-MS) analysis showed
+that pyrrolo[1,2-a]pyrazine-1,4-dione is the major compound in CF ethyl acetate
+extract, that is suggesting it acts as elicitor molecules for induction of
+systemic acquired resistance in potato plants. To our knowledge, this is the
+first study of biological control of AMV mediated by PGPR in potato plants.
+
+DOI: 10.1038/s41598-020-72676-2 
+PMCID: PMC7527447
+PMID: 32999301 
+

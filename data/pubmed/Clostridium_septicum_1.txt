@@ -1,0 +1,50 @@
+
+1. PLoS Pathog. 2020 Aug 31;16(8):e1008836. doi: 10.1371/journal.ppat.1008836.
+eCollection 2020 Aug.
+
+Anthrax toxin component, Protective Antigen, protects insects from bacterial
+infections.
+
+Alameh S(1), Bartolo G(1), O'Brien S(1), Henderson EA(1), Gonzalez LO(1),
+Hartmann S(1), Klimko CP(2), Shoe JL(2), Cote CK(2), Grill LK(1), Levitin A(1),
+Martchenko Shilman M(1).
+
+Author information: 
+(1)Henry E. Riggs School of Applied Life Sciences, Keck Graduate Institute,
+Claremont, California, United States of America.
+(2)Bacteriology Division, US Army Medical Research Institute of Infectious
+Diseases, Fort Detrick, Frederick, Maryland, United States of America.
+
+Anthrax is a major zoonotic disease of wildlife, and in places like West Africa, 
+it can be caused by Bacillus anthracis in arid nonsylvatic savannahs, and by B.
+cereus biovar anthracis (Bcbva) in sylvatic rainforests. Bcbva-caused anthrax has
+been implicated in as much as 38% of mortality in rainforest ecosystems, where
+insects can enhance the transmission of anthrax-causing bacteria. While anthrax
+is well-characterized in mammals, its transmission by insects points to an
+unidentified anthrax-resistance mechanism in its vectors. In mammals, a secreted 
+anthrax toxin component, 83 kDa Protective Antigen (PA83), binds to cell-surface 
+receptors and is cleaved by furin into an evolutionary-conserved PA20 and a
+pore-forming PA63 subunits. We show that PA20 increases the resistance of
+Drosophila flies and Culex mosquitoes to bacterial challenges, without directly
+affecting the bacterial growth. We further show that the PA83 loop known to be
+cleaved by furin to release PA20 from PA63 is, in part, responsible for the
+PA20-mediated protection. We found that PA20 binds directly to the Toll
+activating peptidoglycan-recognition protein-SA (PGRP-SA) and that the Toll/NF-κB
+pathway is necessary for the PA20-mediated protection of infected flies. This
+effect of PA20 on innate immunity may also exist in mammals: we show that PA20
+binds to human PGRP-SA ortholog. Moreover, the constitutive activity of Imd/NF-κB
+pathway in MAPKK Dsor1 mutant flies is sufficient to confer the protection from
+bacterial infections in a manner that is independent of PA20 treatment. Lastly,
+Clostridium septicum alpha toxin protects flies from anthrax-causing bacteria,
+showing that other pathogens may help insects resist anthrax. The mechanism of
+anthrax resistance in insects has direct implications on insect-mediated anthrax 
+transmission for wildlife management, and with potential for applications, such
+as reducing the sensitivity of pollinating insects to bacterial pathogens.
+
+DOI: 10.1371/journal.ppat.1008836 
+PMCID: PMC7458312
+PMID: 32866212  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

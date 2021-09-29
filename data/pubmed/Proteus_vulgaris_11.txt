@@ -1,0 +1,44 @@
+
+1. Enzyme Microb Technol. 2020 Sep;139:109581. doi: 10.1016/j.enzmictec.2020.109581.
+Epub 2020 May 5.
+
+Antibacterial activity of emulsions containing unsaturated fatty acid ergosterol 
+esters synthesized by lipase-mediated transesterification.
+
+Park SH(1), Kim HK(2).
+
+Author information: 
+(1)Division of Biotechnology, The Catholic University of Korea, Bucheon, 420-743,
+Republic of Korea.
+(2)Division of Biotechnology, The Catholic University of Korea, Bucheon, 420-743,
+Republic of Korea. Electronic address: hkkim@catholic.ac.kr.
+
+Ergosterol, like cholesterol, has many beneficial physiological activities, and
+because it has no adverse clinical problem with cholesterol, it is a substance
+that can be used as a biomaterial in the food and cosmetics industry. However,
+ergosterol has low oil solubility and is easily crystallized, which is
+problematic for its direct use in the industry. This problem can be solved by
+combining fatty acids with ergosterol. In this study, ergosterol derivatives with
+unsaturated fatty acids were synthesized from ergosterol and various plant oils. 
+Specifically, ergosterol oleate (EO), ergosterol linoleate (EL), and ergosterol
+linolenate (ELn) were synthesized using Proteus vulgaris K80 lipase. To
+effectively synthesize these unsaturated fatty acid ergosterol esters (FAEEs),
+25 mM ergosterol and 40 mM plant oil were added into hexane solvent, and
+transesterification reaction was performed at 40 °C. Proteus vulgaris K80 lipase 
+showed higher conversion yield than other commercial lipases, due to its high
+affinity to ergosterol and broad substrate specificity. Rapeseed oil, sunflower
+seed oil, and linseed oil were used to synthesize EO, EL, and ELn, respectively. 
+The FAEEs were purified, and their purity was confirmed by FT-IR and LC-MS. The
+solubility of the FAEEs in a tricaprylin solvent was increased 11-16 times,
+compared to that of ergosterol. We found that EL- and ELn-containing emulsions
+had strong growth inhibitory activity against some dairy and cosmetic spoilage
+bacteria.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.enzmictec.2020.109581 
+PMID: 32732030 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+have no financial conflicts of interest to declare.
+

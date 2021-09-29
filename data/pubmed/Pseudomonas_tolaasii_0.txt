@@ -1,0 +1,42 @@
+
+1. Proc Natl Acad Sci U S A. 2020 Sep 22;117(38):23802-23806. doi:
+10.1073/pnas.2006109117. Epub 2020 Aug 31.
+
+Helper bacteria halt and disarm mushroom pathogens by linearizing structurally
+diverse cyclolipopeptides.
+
+Hermenau R(1), Kugel S(1), Komor AJ(1), Hertweck C(2)(3).
+
+Author information: 
+(1)Department of Biomolecular Chemistry, Leibniz Institute for Natural Product
+Research und Infection Biology (HKI), 07745 Jena, Germany.
+(2)Department of Biomolecular Chemistry, Leibniz Institute for Natural Product
+Research und Infection Biology (HKI), 07745 Jena, Germany;
+christian.hertweck@leibniz-hki.de.
+(3)Faculty of Biological Sciences, Friedrich Schiller University Jena, 07743
+Jena, Germany.
+
+The bacterial pathogen Pseudomonas tolaasii severely damages white button
+mushrooms by secretion of the pore-forming toxin tolaasin, the main virulence
+factor of brown blotch disease. Yet, fungus-associated helper bacteria of the
+genus Mycetocola (Mycetocola tolaasinivorans and Mycetocola lacteus) may protect 
+their host by an unknown detoxification mechanism. By a combination of metabolic 
+profiling, imaging mass spectrometry, structure elucidation, and bioassays, we
+found that the helper bacteria inactivate tolaasin by linearizing the
+lipocyclopeptide. Furthermore, we found that Mycetocola spp. impair the
+dissemination of the pathogen by cleavage of the lactone ring of pseudodesmin.
+The role of pseudodesmin as a major swarming factor was corroborated by
+identification and inactivation of the corresponding biosynthetic gene cluster.
+Activity-guided fractionation of the Mycetocola proteome, matrix-assisted laser
+desorption/ionization (MALDI) analyses, and heterologous enzyme production
+identified the lactonase responsible for toxin cleavage. We revealed an
+antivirulence strategy in the context of a tripartite interaction that has high
+ecological and agricultural relevance.
+
+Copyright © 2020 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.2006109117 
+PMID: 32868430 
+
+Conflict of interest statement: The authors declare no competing interest.
+

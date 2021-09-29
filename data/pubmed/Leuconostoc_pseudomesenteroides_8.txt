@@ -1,0 +1,43 @@
+
+1. Int J Syst Evol Microbiol. 2020 Mar;70(3):1585-1590. doi: 10.1099/ijsem.0.003938.
+
+Leuconostoc litchii sp. nov., a novel lactic acid bacterium isolated from lychee.
+
+Chen YS(1), Wang LT(2), Wu YC(2), Mori K(3), Tamura T(3), Chang CH(4), Chang
+YC(1), Wu HC(1), Yi HH(1), Wang PY(1).
+
+Author information: 
+(1)Department of Biotechnology, Ming Chuan University, No. 5, De-Ming Rd.,
+Guishan Dist., Taoyuan City 333, Taiwan, ROC.
+(2)Bioresource Collection and Research Center (BCRC), Food Industry Research and 
+Development Institute, 331 Shih-Pin Rd., Hsinchu 30062, Taiwan, ROC.
+(3)Biological Resource Center (NBRC), National Institute of Technology and
+Evaluation (NITE), 2-5-8 Kazusakamatari, Kisarazu, Chiba 292-0818, Japan.
+(4)Department of Animal Science, National Chung Hsing University, 250 Kuo Kuang
+Road, Taichung 402, Taiwan, ROC.
+
+A novel lactic acid bacterium, strain MB7T, was isolated from lychee in Taiwan.
+MB7T is Gram-staining-positive, catalase-negative, non-motile, non-haemolytic,
+facultatively anaerobic, coccoid-shaped, heterofermentative and mainly produces
+d-lactic acid from glucose. Comparative analysis of 16S rRNA, pheS and rpoA gene 
+sequences has demonstrated that the novel strain represented a member of the
+genus Leuconostoc. 16S rRNA gene sequencing results indicated that MB7T had the
+same sequence similarity of 99.25 % to four type strains of members of the genus 
+Leuconostoc: Leuconostoc mesenteroides subsp. dextranicum DSM 20484T, Leuconostoc
+mesenteroides subsp. jonggajibkimchii DRC 1506T, Leuconostoc mesenteroides subsp.
+mesenteroides ATCC 8293T and Leuconostoc suionicum DSM 20241T. Additionally, high
+16S rRNA sequence similarities were also observed with Leuconostoc mesenteroides 
+subsp. cremoris ATCC 19254T (99.12 %) and Leuconostoc pseudomesenteroides NRIC
+1777T (98.69 %). When comparing the genomes of these type strains, the average
+nucleotide identity values and digital DNA-DNA hybridization values of MB7T with 
+these type strains were 76.57-80.53 and 22.0-22.6 %, respectively. MB7T also
+showed different phenotypic characteristics to other most closely related species
+of the genus Leuconostoc, such as carbohydrate metabolizing ability,
+halotolerance and growth at various pHs. On the basis of phenotypic and genotypic
+properties, strain MB7T represents a novel species belonging to the genus
+Leuconostoc, for which the name Leuconostoc litchii sp. nov. is proposed. The
+type strain is MB7T (=BCRC 81077T=NBRC 113542T).
+
+DOI: 10.1099/ijsem.0.003938 
+PMID: 32228772  [Indexed for MEDLINE]
+

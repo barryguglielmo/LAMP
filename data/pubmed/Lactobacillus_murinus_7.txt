@@ -1,0 +1,57 @@
+
+1. Biomed Pharmacother. 2020 Jan;121:109550. doi: 10.1016/j.biopha.2019.109550. Epub
+2019 Nov 5.
+
+Gut microbiota combined with metabolomics reveals the metabolic profile of the
+normal aging process and the anti-aging effect of FuFang Zhenshu TiaoZhi(FTZ) in 
+mice.
+
+Luo D(1), Chen K(1), Li J(1), Fang Z(1), Pang H(1), Yin Y(1), Rong X(1), Guo
+J(2).
+
+Author information: 
+(1)Key Unit of Modulating Liver to Treat Hyperlipemia SATCM (State Administration
+of Traditional Chinese Medicine), Guangdong Pharmaceutical University, Guangzhou,
+China; Guangdong Metabolic Disease Research Center of Integrated Chinese and
+Western Medicine, Guangzhou, China.
+(2)Key Unit of Modulating Liver to Treat Hyperlipemia SATCM (State Administration
+of Traditional Chinese Medicine), Guangdong Pharmaceutical University, Guangzhou,
+China; Guangdong Metabolic Disease Research Center of Integrated Chinese and
+Western Medicine, Guangzhou, China. Electronic address: gyguoyz@163.com.
+
+The aging process is accompanied by changes in the gut microbiota and
+metabolites. This study aimed to reveal the relationship between gut microbiota
+and the metabolome at different ages, as well as the anti-aging effect of FTZ,
+which is an effective clinical prescription for the treatment of hyperlipidemia
+and diabetes.METHODS: In the present study, mice were randomly divided into
+different age and FTZ treatment groups. The aging-relevant behavioral phenotype
+the levels of blood glucose, cholesterol, triglycerides, low density lipoprotein 
+cholesterol, free fatty acids, high density lipoprotein-cholesterol and cytokine 
+TNF-α,IL-6, IL-8 in the serum were measured. Changes of serum metabolties were
+analyzed by ultra-performance liquid chromatography-tandem mass spectrometry
+(UPLC-Q-TOF/MS). Gut microbiota were identified using 16S rDNA sequencing.
+RESULTS: Our results indicated that with age, the aging-relevant behavioral
+phenotype appeared, glucose and lipid metabolism disordered, secretion levels of 
+cytokine TNF-α, IL-6 and IL-8 increased.The Firmicutes/Bacteroidetes ratio
+changed with age, first increasing and then decreasing, and the microbial
+diversity and the community richness of the aging mice were improved by FTZ. The 
+abundance of opportunistic bacteria decreased (Lactobacillus murinus,
+Erysipelatoclostridium), while the levels of protective bacteria such as
+Butyricimonas, Clostridium and Akkermansia increased. Metabolic analysis
+identified 24 potential biomarkers and 10 key pathways involving arachidonic acid
+metabolism, phospholipid metabolism, fatty acid metabolism, taurine and
+hypotaurine metabolism. Correlation analysis between the gut microbiota and
+biomarkers suggested that the relative abundance of protective bacteria was
+negatively correlated with the levels of leukotriene E4, 20-HETE and arachidonic 
+acid, which was different from protective bacteria.
+CONCLUSION: Shifts of gut microbiota and metabolomic profiles were observed in
+the mice during the normal aging process, and treatment with FTZ moderately
+corrected the aging, which may be mediated via interference with arachidonic acid
+metabolism, sphingolipid metabolism, glycerophospholipid metabolism, taurine and 
+hypotaurine metabolism and gut microbiota in mice.
+
+Copyright © 2019. Published by Elsevier Masson SAS.
+
+DOI: 10.1016/j.biopha.2019.109550 
+PMID: 31704617  [Indexed for MEDLINE]
+

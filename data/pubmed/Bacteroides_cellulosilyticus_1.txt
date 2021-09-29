@@ -1,0 +1,34 @@
+
+1. Microb Biotechnol. 2020 May 9. doi: 10.1111/1751-7915.13577. [Epub ahead of
+print]
+
+Biochemical analysis of cross-feeding behaviour between two common gut commensals
+when cultivated on plant-derived arabinogalactan.
+
+Munoz J(1), James K(2), Bottacini F(2), Van Sinderen D(2).
+
+Author information: 
+(1)Microbial Enzymology Group, Department of Applied Sciences, Northumbria
+University, Newcastle Upon Tyne, NE1 8ST, UK.
+(2)School of Microbiology & APC Microbiome Ireland, University College Cork,
+Ireland University College Cork, Cork, Ireland.
+
+In this paper, we reveal and characterize cross-feeding behaviour between the
+common gut commensal Bacteroides cellulosilyticus (Baccell) and certain
+bifidobacterial strains, including Bifidobacterium breve UCC2003, when grown on a
+medium containing Larch Wood Arabinogalactan (LW-AG). We furthermore show that
+cross-feeding is dependent on the release of β-1,3-galacto-di/trisaccharides
+(β-1,3-GOS), and identified that the bga gene cluster of B. breve UCC2003 allows 
+β-1,3-GOS metabolism. The product of bgaB is presumed to be responsible for the
+import of β-1,3-GOS, while the bgaA gene product, a glycoside hydrolase family 2 
+member, was shown to hydrolyse both β-1,3-galactobiose and β-1,3-galactotriose
+into galactose monomers. This study advances our understanding of strain-specific
+syntrophic interactions between two glycan degraders in the human gut in the
+presence of AG-type dietary polysaccharides.
+
+© 2020 The Authors. Microbial Biotechnology published by John Wiley & Sons Ltd
+and Society for Applied Microbiology.
+
+DOI: 10.1111/1751-7915.13577 
+PMID: 32385941 
+

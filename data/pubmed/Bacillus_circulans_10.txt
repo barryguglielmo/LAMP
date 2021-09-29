@@ -1,0 +1,44 @@
+
+1. 3 Biotech. 2020 Feb;10(2):44. doi: 10.1007/s13205-019-2005-0. Epub 2020 Jan 11.
+
+Copra meal hydrolysis by the recombinant β-mannanase KMAN-3 and MAN 6.7 expressed
+in Escherichia coli.
+
+Sritrakul N(1)(2), Nitisinprasert S(1)(2), Keawsompong S(1)(2).
+
+Author information: 
+(1)1Department of Biotechnology, Faculty of Agro-Industry, Kasetsart University, 
+Bangkok, 10900 Thailand.
+(2)2Center for Advanced Studies for Agriculture and Food, Kasetsart University
+Institute for Advanced Studies, Kasetsart University, Bangkok, 10900 Thailand.
+
+Hydrolysis products of defatted copra meal (DCM) hydrolysis were investigated
+with either recombinant β-mannanases from Klebsiella oxytoca KUB-CW2-3 (KMAN-3)
+or Bacillus circulans NT 6.7 (MAN 6.7). Morphological changes and functional
+groups of solid residues were also determined by scanning electron microscopy
+(SEM) and Fourier transform infrared (FTIR) spectroscopy. Results revealed that
+the Michaelis-Menten constant (K m) and maximum velocity (V max) values of KMAN-3
+on DCM were 2.4 mg/ml and 5.4 U/mg, respectively, while MAN 6.7 recorded K m and 
+V max at 2.0 mg/ml and 4.3 U/mg, respectively. Both enzymes efficiently randomly 
+hydrolysed DCM and produced a range of different manno-oligosaccharides (MOS).
+The profile of hydrolysis products was different for each enzyme used. Main
+products from hydrolysis of DCM by KMAN-3 and MAN 6.7 were various MOS including 
+mannobiose (M2), mannotriose (M3), mannotetraose (M4), and mannose, whereas
+mannopentaose (M5) was only found from KMAN-3. Amount of M3 produced by KMAN-3
+was about three times higher than from MAN 6.7. Total MOS yield for KMAN-3 was
+1.5-folds higher than for MAN 6.7. SEM analysis showed that enzymatic hydrolysis 
+with KMAN-3 and MAN 6.7 resulted in deconstruction of the DCM structure which
+generated a variety of MOS products. FTIR spectra revealed that the properties of
+both hydrolysed solids were not significantly different compared to the original 
+DCM. Results suggested that KMAN-3 was a promising candidate for production of
+high MOS content from copra meal.
+
+© King Abdulaziz City for Science and Technology 2020.
+
+DOI: 10.1007/s13205-019-2005-0 
+PMCID: PMC6954935 [Available on 2021-02-01]
+PMID: 31988838 
+
+Conflict of interest statement: Conflict of interestThe authors declare no
+conflict of interest.
+

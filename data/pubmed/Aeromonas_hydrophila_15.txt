@@ -1,0 +1,58 @@
+
+1. Fish Shellfish Immunol. 2020 Sep 10. pii: S1050-4648(20)30628-8. doi:
+10.1016/j.fsi.2020.09.012. [Epub ahead of print]
+
+Fish IKKα from Japanese eel (Anguilla japonica) can activate NF-κB, AP1, and type
+I IFN signaling pathways.
+
+Feng J(1), Xu Y(2), Lin P(2), Wang Y(2), Zhang Z(3), Zou P(2), Peng X(2).
+
+Author information: 
+(1)College of Fisheries, Jimei University, Xiamen, 361021, Fujian Province,
+China; Engineer Research Center of Eel Modern Industry Technology, Ministry of
+Education, China. Electronic address: Fengjj@jmu.edu.cn.
+(2)College of Fisheries, Jimei University, Xiamen, 361021, Fujian Province,
+China; Engineer Research Center of Eel Modern Industry Technology, Ministry of
+Education, China.
+(3)College of Animal Science, Fujian Agriculture and Forestry University, Fuzhou,
+350002, China.
+
+Inhibitor of nuclear factor kappa-B kinase subunit alpha (IKKα) plays a pivotal
+role in the activation of nuclear factor kappa-B (NF-κB) pathway in response to
+pathogens infections in mammals, but the information about IKKα in the regulation
+of immune responses is still limited in teleost fishes. In the present study, the
+full-length cDNA of an IKKα homologue, AjIKKα, was cloned by 5' and 3' SMART RACE
+from Japanese eel, and its characteristics of expression in response to various
+PAMPs and A. hydrophila infection were investigated both in vivo and in vitro
+using quantitative real-time polymerase chain reaction (qRT-PCR). In addition,
+the subcellular localization of AjIKKα GFP fusion protein and the induction of
+AjIKKα in the activation of NF-κB, type I IFN and AP1 performed using Dual-Glo
+luciferase assay system were also detected. Sequence comparison analysis revealed
+that AjIKKα has typical conserved domains, including an N-terminal kinase domain,
+an ubiquitin-like domain, a scaffold dimerization domain, and a C-terminal
+NEMO-binding domain. The predicted three-dimensional structure of AjIKKα is
+similar to that of human IKKα. Quantitative real-time polymerase chain reaction
+(qRT-PCR) analysis revealed a broad expression for AjIKKα in a wide range of
+tissues, with the highest expression in the liver, followed by the intestine,
+gills, and spleen, and with a lower expression in the muscle and heart. The
+AjIKKα expressions in the liver and kidney were significantly induced following
+injection with the viral mimic poly I:C and Aeromonas hydrophila infection,
+whereas the bacterial mimic LPS down-regulated the expression of AjIKKα in the
+spleen. In vitro, the AjIKKα transcripts of Japanese eel liver cells were
+significantly enhanced by the treatment of LPS, poly I:C, CpG-DNA, and PGN or the
+stimulation of different concentration of Aeromonas hydrophila (1 × 106 cfu/mL,
+1 × 107 cfu/mL, and 1 × 108 cfu/mL). Luciferase assays demonstrated that AjIKKα
+expression could significantly induce NF-κB, AP-1 and type I IFN promoter
+activation in a dose-dependent manner. Additionally, subcellular localization
+studies showed that AjIKKα was evenly distributed in the cytoplasm in the natural
+state, but AjIKKα was found to aggregate into spots in the cytoplasm after the
+stimulation of LPS and poly I:C. These results collectively indicated that AjIKKα
+plays an important role in innate immunity of host against antibacterial and
+antiviral infection likely via the activation of NF-κB, AP1and type I IFN
+signaling pathway.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.fsi.2020.09.012 
+PMID: 32920202 
+

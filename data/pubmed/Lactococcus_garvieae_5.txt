@@ -1,0 +1,53 @@
+
+1. Mol Immunol. 2020 Oct;126:129-135. doi: 10.1016/j.molimm.2020.07.022. Epub 2020
+Aug 18.
+
+Expression profile of kalliklectin, a soluble-type mannose receptor, during
+embryogenesis and early larval development in fugu (Takifugu rubripes).
+
+Matsui S(1), Yoshikawa S(2), Suzuki S(3), Somamoto T(4), Yamamoto A(5), Nakamura 
+O(1), Tsutsui S(6).
+
+Author information: 
+(1)School of Marine Biosciences, Kitasato University, 1-15-1 Kitasato, Minami-ku,
+Sagamihara, Kanagawa 252-0373, Japan.
+(2)Nagasaki Prefectural Institute of Fisheries, 1551-4, Tairamachi, Nagasaki,
+Nagasaki 851-2213, Japan.
+(3)National Research Institute of Aquaculture, Fisheries Research Agency, 183-2, 
+Irozaki, Minamiizu, Kamo-gun, Shizuoka 415-0156, Japan.
+(4)Department of Bioscience and Biotechnology, Graduate School of Bioresource and
+Bioenvironmental Sciences, Kyushu University, Motooka 744, Fukuoka, Fukuoka
+819-0395, Japan.
+(5)Faculty of Fisheries, Kagoshima University, 4-50-20 Shimoarata, Kagoshima,
+Kagoshima 890-0056, Japan.
+(6)School of Marine Biosciences, Kitasato University, 1-15-1 Kitasato, Minami-ku,
+Sagamihara, Kanagawa 252-0373, Japan. Electronic address:
+tsutsui@kitasato-u.ac.jp.
+
+Kalliklectin is a unique fish-specific lectin, whose sequence is similar to the
+heavy chain of mammalian plasma kallikrein and coagulation factor XI. In this
+study, we aimed to evaluate dynamic expression profiles of the lectin gene,
+during early developmental stages, in fugu, Takifugu rubripes. Reverse
+transcription-polymerase chain reaction (RT-PCR) showed that the kalliklectin
+gene was not expressed until 14 h post-fertilization (hpf), while the mRNA was
+detected after 30 hpf. In real-time quantitative PCR (qPCR), the gene was first
+expressed at 10.5 hpf; then, the expression level increased with a peak at 30 hpf
+and then gradually decreased. On the other hand, western blotting with specific
+antibody detected the lectin protein at all tested stages, including the
+unfertilized egg, which suggests that the lectin detected in the early stages was
+a maternal factor. Immunohistochemistry demonstrated that kalliklectin was
+localized at the basement membranes of the newly hatched larvae, while the lectin
+was widely detected in epidermal cells in larva at 5 dph. A 40-kDa lectin was
+partially purified from unfertilized eggs using mannose-affinity chromatography, 
+and the lectin was determined as kalliklectin by liquid chromatography with
+quadrupole time-of-flight tandem mass spectrometry (LC/Q-TOF-MS) analysis, which 
+indicated that the lectin is functional in the eggs. The egg lectin can bind to
+Gram-positive bacterial pathogens of fish, such as Lactococcus garvieae and
+Streptococcus iniae. We conclude that fugu kalliklectin might be an important
+immunocomponent, transferred from mother to offspring.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.molimm.2020.07.022 
+PMID: 32823237 
+

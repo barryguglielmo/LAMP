@@ -1,0 +1,59 @@
+
+1. mSphere. 2019 Dec 4;4(6). pii: e00494-19. doi: 10.1128/mSphere.00494-19.
+
+Airway Mucus Restricts Neisseria meningitidis Away from Nasopharyngeal Epithelial
+Cells and Protects the Mucosa from Inflammation.
+
+Audry M(1)(2)(3), Robbe-Masselot C(4), Barnier JP(1)(2)(3)(5), Gachet B(1)(2)(3),
+Saubaméa B(6), Schmitt A(2)(7), Schönherr-Hellec S(1)(2)(3), Léonard R(4), Nassif
+X(1)(2)(3)(5), Coureuil M(8)(2)(3).
+
+Author information: 
+(1)INSERM, Unité U1151, Institut-Necker-Enfants-Malades, Paris, France.
+(2)Université de Paris, Faculté de Médecine, Paris, France.
+(3)CNRS, UMR 8253, Paris, France.
+(4)Université de Lille, CNRS, UMR8576-UGSF-Unité de Glycobiologie Structurale et 
+Fonctionnelle, Lille, France.
+(5)Assistance Publique-Hôpitaux de Paris, Hôpital Necker Enfants Malades, Paris, 
+France.
+(6)Cellular and Molecular Imaging facility, INSERM US25, UMS3612 CNRS, Faculté de
+Pharmacie de Paris, Université de Paris, Paris, France.
+(7)Institut Cochin, INSERM U1016, Paris, France.
+(8)INSERM, Unité U1151, Institut-Necker-Enfants-Malades, Paris, France
+mathieu.coureuil@inserm.fr.
+
+Comment in
+    mSphere. 2019 Dec 4;4(6):.
+
+Neisseria meningitidis is an inhabitant of the nasopharynx, from which it is
+transmitted from person to person or disseminates in blood and becomes a harmful 
+pathogen. In this work, we addressed colonization of the nasopharyngeal niche by 
+focusing on the interplay between meningococci and the airway mucus that lines
+the mucosa of the host. Using Calu-3 cells grown in air interface culture (cells 
+grown with the apical domain facing air), we studied meningococcal colonization
+of the mucus and the host response. Our results suggested that N. meningitidis
+behaved like commensal bacteria in mucus, without interacting with human cells or
+actively transmigrating through the cell layer. As a result, type IV pili do not 
+play a role in this model, and meningococci did not trigger a strong innate
+immune response from the Calu-3 cells. Finally, we have shown that this model is 
+suitable for studying interaction of N. meningitidis with other bacteria living
+in the nasopharynx and that Streptococcus mitis, but not Moraxella catarrhalis,
+can promote meningococcal growth in this model.IMPORTANCE N. meningitidis is
+transmitted from person to person by aerosol droplets produced by breathing,
+talking, or coughing or by direct contact with a contaminated fluid. The natural 
+reservoir of N. meningitidis is the human nasopharynx mucosa, located at the back
+of the nose and above the oropharynx. The means by which meningococci cross the
+nasopharyngeal wall is still under debate, due to the lack of a convenient and
+relevant model mimicking the nasopharyngeal niche. Here, we took advantage of
+Calu-3 cells grown in air interface culture to study how meningococci colonize
+the nasopharyngeal niche. We report that the airway mucus is both a niche for
+meningococcal growth and a protective barrier against N. meningitidis infection. 
+As such, N. meningitidis behaves like commensal bacteria and is unlikely to
+induce infection without an external trigger.
+
+Copyright © 2019 Audry et al.
+
+DOI: 10.1128/mSphere.00494-19 
+PMCID: PMC6893211
+PMID: 31801841  [Indexed for MEDLINE]
+

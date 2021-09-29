@@ -1,0 +1,44 @@
+
+1. PLoS One. 2020 Jun 24;15(6):e0234524. doi: 10.1371/journal.pone.0234524.
+eCollection 2020.
+
+Adhesion of streptococci to titanium and zirconia.
+
+Oda Y(1), Miura T(2), Mori G(1), Sasaki H(1), Ito T(1), Yoshinari M(2), Yajima
+Y(1).
+
+Author information: 
+(1)Department of Oral and Maxillofacial Implantology, Tokyo Dental College,
+Tokyo, Japan.
+(2)Oral Health Science Center, Tokyo Dental College, Tokyo, Japan.
+
+The purpose of this study was to evaluate the adherence of streptococci to disks 
+of titanium (commercially pure titanium: CpTi) and zirconia (tetragonal zirconia 
+polycrystals: TZP). CpTi and yttria-stabilized TZP disks with a mirror-polished
+surface were used as specimens. The arithmetic mean surface roughness (Ra and Sa)
+and the surface wettability of the experimental specimens were measured. For
+analyzing the outermost layer of the experimental specimens, X-ray photoelectron 
+spectroscopy (XPS) analysis was performed. Streptococcus sanguinis, S. gordonii, 
+S. oralis, and S. mutans were used as streptococcal bacterial strains. These
+bacterial cultures were grown for 24 h on CpTi and TZP. The number of bacterial
+adhesions was estimated using an ATP-bioluminescent assay, and scanning electron 
+microscope (SEM) observation of the adhered bacterial specimens was performed. No
+significant differences in surface roughness or wettability were found between
+CpTi and TZP. In XPS analyses, outermost layer of CpTi included Ti0 and Ti4+, and
+outermost layer of TZP included Zr4+. In the cell adhesion assay, the adherences 
+of S. sanguinis, S. gordonii, and S. oralis to TZP were significantly lower than 
+those to CpTi (p < 0.05); however, significant difference was not observed for S.
+mutans among the specimens. The adherence to CpTi and TZP of S. mutans was
+significantly lower than that of S. sanguinis, S. gordonii, and S. oralis. These 
+results were confirmed by SEM. S. sanguinis, S. gordonii, and S. oralis adhered
+less to TZP than to CpTi, but the adherence of S. mutans was similar to both
+surfaces. S. mutans was less adherent compare with the other streptococci tested 
+in those specimens.
+
+DOI: 10.1371/journal.pone.0234524 
+PMCID: PMC7314031
+PMID: 32579584  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

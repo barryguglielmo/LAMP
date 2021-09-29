@@ -1,0 +1,66 @@
+
+1. Microbiome. 2020 Jul 16;8(1):108. doi: 10.1186/s40168-020-00847-4.
+
+Bacteria pathogens drive host colonic epithelial cell promoter hypermethylation
+of tumor suppressor genes in colorectal cancer.
+
+Xia X(1), Wu WKK(2)(3), Wong SH(3)(4), Liu D(3)(4), Kwong TNY(3)(4), Nakatsu
+G(3)(4), Yan PS(5), Chuang YM(6), Chan MW(6), Coker OO(3)(4), Chen Z(7), Yeoh
+YK(7), Zhao L(3)(4), Wang X(3)(4), Cheng WY(3)(4), Chan MTV(2)(3), Chan PKS(7),
+Sung JJY(3)(4), Wang MH(8), Yu J(9)(10)(11).
+
+Author information: 
+(1)Division of Biostatistics, Centre for Clinical Research and Biostatistics, JC 
+School of Public Health and Primary Care, The Chinese University of Hong Kong,
+Shatin, N.T., Hong Kong, Special Administrative Region of China.
+(2)Department of Anaesthesia and Intensive Care, The Chinese University of Hong
+Kong, Shatin, N.T., Hong Kong, Special Administrative Region of China.
+(3)Li Ka Shing Institute of Health Sciences, The Chinese University of Hong Kong,
+Shatin, N.T., Hong Kong, Special Administrative Region of China.
+(4)State Key Laboratory of Digestive Diseases, Institute of Digestive Diseases,
+CUHK-Shenzhen Research Institute, The Chinese University of Hong Kong, Shatin,
+N.T., Hong Kong, Special Administrative Region of China.
+(5)Division of Hematology, Department of Internal Medicine, The Ohio State
+University, Columbus, OH, USA.
+(6)Department of Biomedical Sciences, National Chung Cheng University, Chia-Yi,
+Taiwan, Republic of China.
+(7)Department of Microbiology, The Chinese University of Hong Kong, Shatin, N.T.,
+Hong Kong, Special Administrative Region of China.
+(8)Division of Biostatistics, Centre for Clinical Research and Biostatistics, JC 
+School of Public Health and Primary Care, The Chinese University of Hong Kong,
+Shatin, N.T., Hong Kong, Special Administrative Region of China.
+maggiew@cuhk.edu.hk.
+(9)Li Ka Shing Institute of Health Sciences, The Chinese University of Hong Kong,
+Shatin, N.T., Hong Kong, Special Administrative Region of China.
+junyu@cuhk.edu.hk.
+(10)State Key Laboratory of Digestive Diseases, Institute of Digestive Diseases, 
+CUHK-Shenzhen Research Institute, The Chinese University of Hong Kong, Shatin,
+N.T., Hong Kong, Special Administrative Region of China. junyu@cuhk.edu.hk.
+(11)Department of Medicine and Therapeutics, The Chinese University of Hong Kong,
+Shatin, N.T., Hong Kong, Special Administrative Region of China.
+junyu@cuhk.edu.hk.
+
+BACKGROUND: Altered microbiome composition and aberrant promoter hypermethylation
+of tumor suppressor genes (TSGs) are two important hallmarks of colorectal cancer
+(CRC). Here we performed concurrent 16S rRNA gene sequencing and methyl-CpG
+binding domain-based capture sequencing in 33 tissue biopsies (5 normal colonic
+mucosa tissues, 4 pairs of adenoma and adenoma-adjacent tissues, and 10 pairs of 
+CRC and CRC-adjacent tissues) to identify significant associations between TSG
+promoter hypermethylation and CRC-associated bacteria, followed by functional
+validation of the methylation-associated bacteria.
+RESULTS: Fusobacterium nucleatum and Hungatella hathewayi were identified as the 
+top two methylation-regulating bacteria. Targeted analysis on bona fide TSGs
+revealed that H. hathewayi and Streptococcus spp. significantly correlated with
+CDX2 and MLH1 promoter hypermethylation, respectively. Mechanistic validation
+with cell-line and animal models revealed that F. nucleatum and H. hathewayi
+upregulated DNA methyltransferase. H. hathewayi inoculation also promoted colonic
+epithelial cell proliferation in germ-free and conventional mice.
+CONCLUSION: Our integrative analysis revealed previously unknown epigenetic
+regulation of TSGs in host cells through inducing DNA methyltransferase by F.
+nucleatum and H. hathewayi, and established the latter as CRC-promoting bacteria.
+Video abstract.
+
+DOI: 10.1186/s40168-020-00847-4 
+PMCID: PMC7367367
+PMID: 32678024 
+

@@ -1,0 +1,48 @@
+
+1. Food Nutr Res. 2020 Apr 3;64. doi: 10.29219/fnr.v64.3744. eCollection 2020.
+
+A novel exopolysaccharide produced by Lactobacillus coryniformis NA-3 exhibits
+antioxidant and biofilm-inhibiting properties in vitro.
+
+Xu X(1), Peng Q(1), Zhang Y(1), Tian D(1), Zhang P(1), Huang Y(1), Ma L(1), Qiao 
+Y(1), Shi B(1).
+
+Author information: 
+(1)Feed Research Institute, Chinese Academy of Agricultural Sciences, Beijing, PR
+China.
+
+Background: Exopolysaccharides (EPSs) secreted from lactic acid bacteria are
+carbohydrate polymers with reported biological activities. In this study, we
+extracted and characterized the composition as well as antioxidant and
+biofilm-inhibitory properties of EPS from Lactobacillus coryniformis NA-3
+isolated from northeast Chinese sauerkraut (Suan Cai).
+Methods: Lactobacillus coryniformis NA-3 was identified with 16S rDNA
+amplification and Neighbor Joining (NJ) phylogenetic analysis. EPS derived from
+Lactobacillus coryniformis NA-3 (EPS-NA3) was analyzed, including compositions by
+high-performance liquid chromatography (HPLC), functional groups by
+Fourier-transform infrared spectroscopy (FT-IR) and glycosidic bond configuration
+by Hydrogen-1 Nuclear Magnetic Resonance (1H NMR). Antioxidant activity of EPS
+was evaluated with hydroxyl and superoxide radical-scavenging. Anti-biofilm
+activities of EPS-NA3 were checked through inhibition and dispersion.
+Results: The monosaccharide composition of EPS included α-rhamnose, α-mannose,
+α-galactose, and α-glucose in a ratio of 2.6:1.0:5.0:3.3. The free
+radical-scavenging abilities of EPS-NA3 were 37.77% ± 1.56% and 78.87% ± 3.07% on
+hydroxyl and superoxide reactive oxygen species respectively. Moreover, EPS-NA3
+attenuated the formation of Bacillus cereus and Salmonella typhimurium biofilms
+by inhibition ratios of approximately 80% and 40% respectively. Additionally,
+treatment with EPS-NA3 dispersed established biofilms of B. cereus and S.
+typhimurium by approximately 90% and 20% respectively.
+Conclusion: These results suggest that EPS-NA3 may be developed as antioxidant
+and anti-biofilm agents for industrial and clinical applications due to its
+capacity of scavenging free radicals, inhibition of bacterial biofilm formation, 
+and dispersion of established biofilms.
+
+© 2020 Xiaoqing Xu et al.
+
+DOI: 10.29219/fnr.v64.3744 
+PMCID: PMC7217292
+PMID: 32425737 
+
+Conflict of interest statement: The authors declare no potential conflicts of
+interest.
+

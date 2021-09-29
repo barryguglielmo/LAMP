@@ -1,0 +1,42 @@
+
+1. Nat Commun. 2020 Aug 31;11(1):4365. doi: 10.1038/s41467-020-18134-z.
+
+Entropy of a bacterial stress response is a generalizable predictor for fitness
+and antibiotic sensitivity.
+
+Zhu Z(1), Surujon D(1), Ortiz-Marquez JC(1), Huo W(2), Isberg RR(2), Bento J(3), 
+van Opijnen T(4).
+
+Author information: 
+(1)Biology Department, Boston College, Chestnut Hill, MA, 02467, USA.
+(2)Department of Molecular Biology and Microbiology, Tufts University School of
+Medicine, Boston, MA, 02111, USA.
+(3)Computer Science Department, Boston College, Chestnut Hill, MA, 02467, USA.
+(4)Biology Department, Boston College, Chestnut Hill, MA, 02467, USA.
+vanopijn@bc.edu.
+
+Current approaches explore bacterial genes that change transcriptionally upon
+stress exposure as diagnostics to predict antibiotic sensitivity. However,
+transcriptional changes are often specific to a species or antibiotic, limiting
+implementation to known settings only. While a generalizable approach, predicting
+bacterial fitness independent of strain, species or type of stress, would
+eliminate such limitations, it is unclear whether a stress-response can be
+universally captured. By generating a multi-stress and species RNA-Seq and
+experimental evolution dataset, we highlight the strengths and limitations of
+existing gene-panel based methods. Subsequently, we build a generalizable method 
+around the observation that global transcriptional disorder seems to be a common,
+low-fitness, stress response. We quantify this disorder using entropy, which is a
+specific measure of randomness, and find that in low fitness cases increasing
+entropy and transcriptional disorder results from a loss of regulatory
+gene-dependencies. Using entropy as a single feature, we show that fitness and
+quantitative antibiotic sensitivity predictions can be made that generalize well 
+beyond training data. Furthermore, we validate entropy-based predictions in 7
+species under antibiotic and non-antibiotic conditions. By demonstrating the
+feasibility of universal predictions of bacterial fitness, this work establishes 
+the fundamentals for potentially new approaches in infectious disease
+diagnostics.
+
+DOI: 10.1038/s41467-020-18134-z 
+PMCID: PMC7458919
+PMID: 32868761  [Indexed for MEDLINE]
+

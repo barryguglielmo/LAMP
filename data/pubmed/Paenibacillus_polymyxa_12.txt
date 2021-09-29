@@ -1,0 +1,45 @@
+
+1. Research (Wash D C). 2020 May 8;2020:3672120. doi: 10.34133/2020/3672120.
+eCollection 2020.
+
+Bioinspired Adhesive and Antibacterial Microneedles for Versatile Transdermal
+Drug Delivery.
+
+Zhang X(1)(2), Chen G(1), Yu Y(1)(2), Sun L(1)(2), Zhao Y(1)(2).
+
+Author information: 
+(1)Department of Rheumatology and Immunology, The Affiliated Drum Tower Hospital 
+of Nanjing University Medical School, Nanjing 210008, China.
+(2)State Key Laboratory of Bioelectronics, School of Biological Science and
+Medical Engineering, Southeast University, Nanjing 210096, China.
+
+Microneedles have attracted increasing interest among various medical fields due 
+to their painless, noninvasive, and efficient way of drug delivery. However,
+practical applications of these microneedles in different epidermal locations and
+environments are still restricted by their low adhesion and poor antimicrobial
+activity. Here, inspired by the antibacterial strategy of Paenibacillus polymyxa 
+and adhesion mechanisms of mussel byssi and octopus tentacles, we develop
+hierarchical microneedles with multifunctional adhesive and antibacterial
+abilities. With polydopamine hydrogel as the microneedle base and a loop of
+suction-cup-structured concave chambers encircling each microneedle, the
+generated microneedles can fit the skin well; keep strong adhesion in dry, moist,
+and wet environments; and realize self-repair after being split into two parts.
+Besides, as polymyxin is loaded into both the hydrogel tips and the polydopamine 
+base, the microneedles are endowed with excellent ability to resist common
+bacteria during storage and usage. We have demonstrated that these microneedles
+not only showed excellent adhesion when applied to knuckles and ideal
+antibacterial activity but also performed well in drug-sustained release and
+treatment for the osteoarthritis rat model. These results indicate that
+bioinspired multifunctional microneedles will break through the limitation of
+traditional methods and be ideal candidates for versatile transdermal drug
+delivery systems.
+
+Copyright © 2020 Xiaoxuan Zhang et al.
+
+DOI: 10.34133/2020/3672120 
+PMCID: PMC7231261
+PMID: 32490376 
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest regarding the publication of this article.
+

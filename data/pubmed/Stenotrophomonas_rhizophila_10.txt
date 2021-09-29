@@ -1,0 +1,48 @@
+
+1. 3 Biotech. 2020 Jan;10(1):16. doi: 10.1007/s13205-019-2007-y. Epub 2019 Dec 10.
+
+Purification, characterization and cloning of a chitinase from Stenotrophomonas
+rhizophila G22.
+
+Jankiewicz U(1), Baranowski B(1), Swiontek Brzezinska M(2), Frąk M(3).
+
+Author information: 
+(1)1Department of Biochemistry and Microbiology, Institute of Biology, Warsaw
+University of Life Sciences, Nowoursynowska 159, 02787 Warsaw, Poland.
+(2)2Department of Environmental Microbiology and Biotechnology, Nicolaus
+Copernicus University, Lwowska 1, 87100 Toruń, Poland.
+(3)3Department of Remote Sensing and Environmental Assessment, Institute of
+Environmental Engineering, Warsaw University of Life Science, Nowoursynowska 159,
+02787 Warsaw, Poland.
+
+In the presented research the extracellular chitinase of Stenotrophomonas
+rhizophila G22 was biochemically and molecularly characterized. The studied
+enzyme was purified from a 72-h bacterial culture about 14 times, with a recovery
+of 63%. The molecular weight of the purified protein was estimated at 50 kDa by
+SDS-PAGE. The enzyme showed high activity against colloidal chitin. Significantly
+lower activities were observed with native chitin powder and chitosan. Adsorption
+of the enzyme to colloidal chitin and to powdered chitin at the level of 75% and 
+37%, respectively, was observed after 30 min of reaction. Optimum temperature and
+pH were 37 °C and 5.9, respectively. The enzyme demonstrated higher activity
+against nitrophenyl-β d N, N', N″-triacetylchitotriose and approx. 5 times lower 
+activity for 4-nitrophenyl-N, N'-diacetyl-β-d-chitobiose. The enzyme is an
+endochitinase, which is confirmed by the K m and V max values determined in the
+studies. S. rhizophila G22 endochitinase was inhibited in the presence of
+cysteine-specific inhibitors, which indicates the role of cysteine moieties in
+the mechanism of catalysis or in stabilisation of the enzyme molecule. Also Ca2+ 
+and Mn2+ ions may stabilise the protein's spatial structure. SDS and ions: Fe2+, 
+Cu2+, Co2+, Zn2+ inhibited the activity of enzyme. A full-length (2109 bp) gene
+coding chitinase from S. rhizophila G22 was obtained. Four domains typical for
+glycoside hydrolase family 18 (GH 18) chitinases were identified: catalytic
+Gly_18, chitin-binding-ChtBD3, type-III fibronectin-FN3 and polycystic kidney
+disease domain-PKD domain.
+
+© King Abdulaziz City for Science and Technology 2019.
+
+DOI: 10.1007/s13205-019-2007-y 
+PMCID: PMC6904715 [Available on 2021-01-01]
+PMID: 31879580 
+
+Conflict of interest statement: Conflict of interestAll authors declare that they
+have no conflict of interest. No grants were received.
+

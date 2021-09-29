@@ -1,0 +1,45 @@
+
+1. Adv Appl Microbiol. 2020;113:111-161. doi: 10.1016/bs.aambs.2020.07.004. Epub
+2020 Aug 14.
+
+Clostridium thermocellum: A microbial platform for high-value chemical production
+from lignocellulose.
+
+Mazzoli R(1), Olson DG(2).
+
+Author information: 
+(1)Structural and Functional Biochemistry, Laboratory of Proteomics and Metabolic
+Engineering of Prokaryotes, Department of Life Sciences and Systems Biology,
+University of Torino, Torino, Italy. Electronic address:
+roberto.mazzoli@unito.it.
+(2)Thayer School of Engineering, Dartmouth College, Hanover, NH, United States;
+Center for BioEnergy Innovation, Oak Ridge National Laboratory, Oak Ridge, TN,
+United States.
+
+Second generation biorefining, namely fermentation processes based on
+lignocellulosic feedstocks, has attracted tremendous interest (owing to the large
+availability and low cost of this biomass) as a strategy to produce biofuels and 
+commodity chemicals that is an alternative to oil refining. However, the innate
+recalcitrance of lignocellulose has slowed progress toward economically viable
+processes. Consolidated bioprocessing (CBP), i.e., single-step fermentation of
+lignocellulose may dramatically reduce the current costs of 2nd generation
+biorefining. Metabolic engineering has been used as a tool to develop improved
+microbial strains supporting CBP. Clostridium thermocellum is among the most
+efficient cellulose degraders isolated so far and one of the most promising host 
+organisms for application of CBP. The development of efficient and reliable
+genetic tools has allowed significant progress in metabolic engineering of this
+strain aimed at expanding the panel of growth substrates and improving the
+production of a number of commodity chemicals of industrial interest such as
+ethanol, butanol, isobutanol, isobutyl acetate and lactic acid. The present
+review aims to summarize recent developments in metabolic engineering of this
+organism which currently represents a reference model for the development of
+biocatalysts for 2nd generation biorefining.
+
+© 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/bs.aambs.2020.07.004 
+PMID: 32948265 
+
+Conflict of interest statement: Conflict of interest Authors declare no conflict 
+of interest.
+

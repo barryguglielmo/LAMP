@@ -1,0 +1,48 @@
+
+1. Ecotoxicology. 2020 Sep;29(7):892-899. doi: 10.1007/s10646-020-02257-6. Epub 2020
+Jul 29.
+
+In vivo assessment of pathogens toxicity on Daphnia magna using fluorescent dye
+staining.
+
+Le VQA(1), Choi W(2), Kim T(2), Woo SM(3), Kim YH(4), Min J(5)(6).
+
+Author information: 
+(1)School of Chemical Engineering, Jeonbuk National University, 567 Baekje-daero,
+Deokjin-Gu, Jeonju-si, Jeollabuk-do, 54896, South Korea.
+(2)Graduate School of Semiconductor and Chemical Engineering, Jeonbuk National
+University, 567 Baekje-daero, Deokjin-Gu, Jeonju-si, Jeollabuk-do, 54896, South
+Korea.
+(3)Department of Food Science and Biotechnology, Shin Ansan University, 135
+Sinansandaehak-Ro, Danwon-Gu, Ansan, 15435, South Korea.
+(4)School of Biological Sciences, Chungbuk National University, 1 Chungdae-Ro,
+Seowon-Gu, Cheongju, 28644, South Korea. kyh@chungbuk.ac.kr.
+(5)School of Chemical Engineering, Jeonbuk National University, 567 Baekje-daero,
+Deokjin-Gu, Jeonju-si, Jeollabuk-do, 54896, South Korea. jihomin@jbnu.ac.kr.
+(6)Graduate School of Semiconductor and Chemical Engineering, Jeonbuk National
+University, 567 Baekje-daero, Deokjin-Gu, Jeonju-si, Jeollabuk-do, 54896, South
+Korea. jihomin@jbnu.ac.kr.
+
+Daphnia has been widely used as an indicator species in aquatic biomonitoring for
+decades. Traditional toxicity assays based on lethality take a long time to
+assess, and the effect mode of contaminants is not clear. Because of the
+translucency of the Daphnia body and the application of fluorescent probes in
+cell staining, different intoxicated parts can be visualized. In this study, a
+double-staining method using two fluorescent dyes, Calcein AM (cell-permeant dye)
+and Propidium Iodide (cell-impermeant dye), was carried out on Daphnia magna
+exposed to six pathogens: Salmonella spp. (four strains) and Shigella spp. (two
+strains). The results showed that those bacteria caused different infections on
+daphnia depending on the age of this organism and bacterial concentrations. In
+detail, S. dublin and S. sonnei are the most harmful to Daphnia when they cause
+damage at smaller concentrations at the younger stage (3 weeks old).
+Interestingly, older Daphnia can give responses to nearly 10 CFU/ml to less than 
+100 CFU/ml of some bacteria strains. In another experiment, S. sonnei disturbed
+Daphnia after just 10 min of exposure, and Daphnia adapted to S. choleraesuis, S.
+typhi, and S. flexneri at the early stage (3 weeks old) after 1 h of exposure.
+Moreover, the damaged areas of the daphnia body were directly observed via a
+microscope, contributing to the understanding and the prediction of toxicity
+mechanisms.
+
+DOI: 10.1007/s10646-020-02257-6 
+PMID: 32728873  [Indexed for MEDLINE]
+

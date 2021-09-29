@@ -1,0 +1,56 @@
+
+1. Appl Environ Microbiol. 2020 Apr 17;86(9). pii: e00108-20. doi:
+10.1128/AEM.00108-20. Print 2020 Apr 17.
+
+Horizontal Spread of Rhodococcus equi Macrolide Resistance Plasmid pRErm46 across
+Environmental Actinobacteria.
+
+Álvarez-Narváez S(1), Giguère S(2), Berghaus LJ(2), Dailey C(3), Vázquez-Boland
+JA(4).
+
+Author information: 
+(1)Department of Large Animal Medicine, College of Veterinary Medicine,
+University of Georgia, Athens, Georgia, USA sonsiray.alvarez@uga.edu.
+(2)Department of Large Animal Medicine, College of Veterinary Medicine,
+University of Georgia, Athens, Georgia, USA.
+(3)Department of Epidemiology and Statistics, College of Public Health,
+University of Georgia, Athens, Georgia, USA.
+(4)Microbial Pathogenesis Group, Infection Medicine, Edinburgh Medical School
+(Biomedical Sciences), University of Edinburgh, Edinburgh, United Kingdom.
+
+Conjugation is one of the main mechanisms involved in the spread and maintenance 
+of antibiotic resistance in bacterial populations. We recently showed that the
+emerging macrolide resistance in the soilborne equine and zoonotic pathogen
+Rhodococcus equi is conferred by the erm(46) gene carried on the 87-kb
+conjugative plasmid pRErm46. Here, we investigated the conjugal transferability
+of pRErm46 to 14 representative bacteria likely encountered by R. equi in the
+environmental habitat. In vitro mating experiments demonstrated conjugation to
+different members of the genus Rhodococcus as well as to Nocardia and
+Arthrobacter spp. at frequencies ranging from ∼10-2 to 10-6 pRErm46 transfer was 
+also observed in mating experiments in soil and horse manure, albeit at a low
+frequency and after prolonged incubation at 22 to 30°C (environmental
+temperatures), not 37°C. All transconjugants were able to transfer pRErm46 back
+to R. equi Conjugation could not be detected with Mycobacterium or
+Corynebacterium spp. or several members of the more distant phylum Firmicutes
+such as Enterococcus, Streptococcus, or Staphylococcus Thus, the pRErm46 host
+range appears to span several actinobacterial orders with certain host
+restriction within the Corynebacteriales All bacterial species that acquired
+pRErm46 expressed increased macrolide resistance with no significant deleterious 
+impact on fitness, except in the case of Rhodococcus rhodnii Our results indicate
+that actinobacterial members of the environmental microbiota can both acquire and
+transmit the R. equi pRErm46 plasmid and thus potentially contribute to the
+maintenance and spread of erm(46)-mediated macrolide resistance in equine
+farms.IMPORTANCE This study demonstrates the efficient horizontal transfer of the
+Rhodococcus equi conjugative plasmid pRErm46, recently identified as the cause of
+the emerging macrolide resistance among equine isolates of this pathogen, to and 
+from different environmental Actinobacteria, including a variety of rhodococci as
+well as Nocardia and Arthrobacter spp. The reported data support the notion that 
+environmental microbiotas may act as reservoirs for the endemic maintenance of
+antimicrobial resistance in an antibiotic pressurized farm habitat.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.00108-20 
+PMCID: PMC7170479 [Available on 2020-10-17]
+PMID: 32169935 
+

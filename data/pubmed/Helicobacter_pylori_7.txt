@@ -1,0 +1,44 @@
+
+1. Mol Cell. 2020 Sep 23. pii: S1097-2765(20)30617-1. doi:
+10.1016/j.molcel.2020.09.009. [Epub ahead of print]
+
+A Repeat-Associated Small RNA Controls the Major Virulence Factors of
+Helicobacter pylori.
+
+Eisenbart SK(1), Alzheimer M(1), Pernitzsch SR(1), Dietrich S(2), Stahl S(1),
+Sharma CM(3).
+
+Author information: 
+(1)Chair of Molecular Infection Biology II, Institute of Molecular Infection
+Biology (IMIB), University of Würzburg, 97080 Würzburg, Germany.
+(2)Core Unit Systems Medicine, Interdisciplinary Center for Clinical Research
+(IZKF) of the University Hospital Würzburg, 97080 Würzburg, Germany.
+(3)Chair of Molecular Infection Biology II, Institute of Molecular Infection
+Biology (IMIB), University of Würzburg, 97080 Würzburg, Germany. Electronic
+address: cynthia.sharma@uni-wuerzburg.de.
+
+Many bacterial pathogens regulate their virulence genes via phase variation,
+whereby length-variable simple sequence repeats control the transcription or
+coding potential of those genes. Here, we have exploited this relationship
+between DNA structure and physiological function to discover a globally acting
+small RNA (sRNA) regulator of virulence in the gastric pathogen Helicobacter
+pylori. Our study reports the first sRNA whose expression is affected by a
+variable thymine (T) stretch in its promoter. We show the sRNA
+post-transcriptionally represses multiple major pathogenicity factors of
+H. pylori, including CagA and VacA, by base pairing to their mRNAs. We further
+demonstrate transcription of the sRNA is regulated by the nickel-responsive
+transcriptional regulator NikR (thus named NikS for nickel-regulated sRNA),
+thereby linking virulence factor regulation to nickel concentrations. Using
+in-vitro infection experiments, we demonstrate NikS affects host cell
+internalization and epithelial barrier disruption. Together, our results show
+NikS is a phase-variable, post-transcriptional global regulator of virulence
+properties in H. pylori.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.molcel.2020.09.009 
+PMID: 33002424 
+
+Conflict of interest statement: Declaration of Interests The authors declare no
+competing interests.
+

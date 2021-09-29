@@ -1,0 +1,48 @@
+
+1. ISME J. 2020 Jul;14(7):1713-1730. doi: 10.1038/s41396-020-0628-0. Epub 2020 Apr
+6.
+
+Diversity and evolution of surface polysaccharide synthesis loci in
+Enterobacteriales.
+
+Holt KE(1)(2), Lassalle F(3), Wyres KL(1), Wick R(1), Mostowy RJ(4)(5).
+
+Author information: 
+(1)Department of Infectious Diseases, Central Clinical School, Monash University,
+Melbourne, Victoria, Australia.
+(2)London School of Hygiene and Tropical Medicine, London, UK.
+(3)Department of Infectious Disease Epidemiology, School of Public Health,
+Imperial College London, London, UK.
+(4)Department of Infectious Disease Epidemiology, School of Public Health,
+Imperial College London, London, UK. rafal.mostowy@uj.edu.pl.
+(5)Malopolska Centre of Biotechnology, Jagiellonian University, Krakow, Poland.
+rafal.mostowy@uj.edu.pl.
+
+Bacterial capsules and lipopolysaccharides are diverse surface polysaccharides
+(SPs) that serve as the frontline for interactions with the outside world. While 
+SPs can evolve rapidly, their diversity and evolutionary dynamics across
+different taxonomic scales has not been investigated in detail. Here, we focused 
+on the bacterial order Enterobacteriales (including the medically relevant
+Enterobacteriaceae), to carry out comparative genomics of two SP locus synthesis 
+regions, cps and kps, using 27,334 genomes from 45 genera. We identified
+high-quality cps loci in 22 genera and kps in 11 genera, around 4% of which were 
+detected in multiple species. We found SP loci to be highly dynamic genetic
+entities: their evolution was driven by high rates of horizontal gene transfer
+(HGT), both of whole loci and component genes, and relaxed purifying selection,
+yielding large repertoires of SP diversity. In spite of that, we found the
+presence of (near-)identical locus structures in distant taxonomic backgrounds
+that could not be explained by recent exchange, pointing to long-term selective
+preservation of locus structures in some populations. Our results reveal
+differences in evolutionary dynamics driving SP diversity within different
+bacterial species, with lineages of Escherichia coli, Enterobacter hormaechei and
+Klebsiella aerogenes most likely to share SP loci via recent exchange; and
+lineages of Salmonella enterica, Citrobacter sakazakii and Serratia marcescens
+most likely to share SP loci via other mechanisms such as long-term preservation.
+Overall, the evolution of SP loci in Enterobacteriales is driven by a range of
+evolutionary forces and their dynamics and relative importance varies between
+different species.
+
+DOI: 10.1038/s41396-020-0628-0 
+PMCID: PMC7305143
+PMID: 32249276 
+

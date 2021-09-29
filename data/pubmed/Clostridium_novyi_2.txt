@@ -1,0 +1,45 @@
+
+1. Toxins (Basel). 2020 Jan 10;12(1). pii: E42. doi: 10.3390/toxins12010042.
+
+Development of An Innovative and Quick Method for the Isolation of Clostridium
+botulinum Strains Involved in Avian Botulism Outbreaks.
+
+Le Gratiet T(1)(2), Poezevara T(1), Rouxel S(1), Houard E(1), Mazuet C(3),
+Chemaly M(1), Maréchal CL(1).
+
+Author information: 
+(1)Unit of Hygiene and Quality of Poultry and Pork Products, French Agency for
+Food, Environmental and Occupational Health & Safety (ANSES), BP 53, 22440
+Ploufragan, France.
+(2)UFR of Life Sciences and Environment, University of Rennes 1, 35 000 Rennes,
+France.
+(3)National Reference Center for Anaerobic Bacteria and Botulism, Institut
+Pasteur, 25-28 Rue du Docteur Roux, 75724 Paris, France.
+
+Avian botulism is a serious neuroparalytic disease mainly caused by a type C/D
+botulinum neurotoxin produced by Clostridium botulinum group III, one of the
+entwined bacterial species from the Clostridium novyi sensu lato genospecies. Its
+isolation is very challenging due to the absence of selective media and the
+instability of the phage carrying the gene encoding for the neurotoxin. The
+present study describes the development of an original method for isolating C.
+botulinum group III strains. Briefly, this method consists of streaking the
+InstaGene matrix extraction pellet on Egg Yolk Agar plates and then collecting
+the colonies with lipase and lecithinase activities. Using this approach, it was 
+possible to isolate 21 C. novyi sensu lato strains from 22 enrichment broths of
+avian livers, including 14 toxic strains. This method was successfully used to
+re-isolate type C, D, C/D, and D/C strains from liver samples spiked with five
+spores per gram. This method is cheap, user-friendly, and reliable. It can be
+used to quickly isolate toxic strains involved in avian botulism with a 64%
+success rate and C. novyi sensu lato with a 95% rate. This opens up new
+perspectives for C. botulinum genomic research, which will shed light on the
+epidemiology of avian botulism.
+
+DOI: 10.3390/toxins12010042 
+PMCID: PMC7020472
+PMID: 31936866 
+
+Conflict of interest statement: The authors declare no conflicts of interest. The
+funders had no role in the design of the study; in the collection, analyses, or
+interpretation of data; in the writing of the manuscript, or in the decision to
+publish the results.
+

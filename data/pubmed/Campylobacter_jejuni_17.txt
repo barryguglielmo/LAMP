@@ -1,0 +1,54 @@
+
+1. BMC Genomics. 2020 Sep 14;21(1):631. doi: 10.1186/s12864-020-07041-8.
+
+Benchmarking hybrid assembly approaches for genomic analyses of bacterial
+pathogens using Illumina and Oxford Nanopore sequencing.
+
+Chen Z(1), Erickson DL(1), Meng J(2).
+
+Author information: 
+(1)Joint Institute for Food Safety and Applied Nutrition, Center for Food Safety 
+and Security Systems, and Department of Nutrition and Food Science, University of
+Maryland, College Park, MD, 20742, USA.
+(2)Joint Institute for Food Safety and Applied Nutrition, Center for Food Safety 
+and Security Systems, and Department of Nutrition and Food Science, University of
+Maryland, College Park, MD, 20742, USA. jmeng@umd.edu.
+
+BACKGROUND: We benchmarked the hybrid assembly approaches of MaSuRCA, SPAdes, and
+Unicycler for bacterial pathogens using Illumina and Oxford Nanopore sequencing
+by determining genome completeness and accuracy, antimicrobial resistance (AMR), 
+virulence potential, multilocus sequence typing (MLST), phylogeny, and pan
+genome. Ten bacterial species (10 strains) were tested for simulated reads of
+both mediocre- and low-quality, whereas 11 bacterial species (12 strains) were
+tested for real reads.
+RESULTS: Unicycler performed the best for achieving contiguous genomes, closely
+followed by MaSuRCA, while all SPAdes assemblies were incomplete. MaSuRCA was
+less tolerant of low-quality long reads than SPAdes and Unicycler. The hybrid
+assemblies of five antimicrobial-resistant strains with simulated reads provided 
+consistent AMR genotypes with the reference genomes. The MaSuRCA assembly of
+Staphylococcus aureus with real reads contained msr(A) and tet(K), while the
+reference genome and SPAdes and Unicycler assemblies harbored blaZ. The AMR
+genotypes of the reference genomes and hybrid assemblies were consistent for the 
+other five antimicrobial-resistant strains with real reads. The numbers of
+virulence genes in all hybrid assemblies were similar to those of the reference
+genomes, irrespective of simulated or real reads. Only one exception existed that
+the reference genome and hybrid assemblies of Pseudomonas aeruginosa with
+mediocre-quality long reads carried 241 virulence genes, whereas 184 virulence
+genes were identified in the hybrid assemblies of low-quality long reads. The
+MaSuRCA assemblies of Escherichia coli O157:H7 and Salmonella Typhimurium with
+mediocre-quality long reads contained 126 and 118 virulence genes, respectively, 
+while 110 and 107 virulence genes were detected in their MaSuRCA assemblies of
+low-quality long reads, respectively. All approaches performed well in our MLST
+and phylogenetic analyses. The pan genomes of the hybrid assemblies of S.
+Typhimurium with mediocre-quality long reads were similar to that of the
+reference genome, while SPAdes and Unicycler were more tolerant of low-quality
+long reads than MaSuRCA for the pan-genome analysis. All approaches functioned
+well in the pan-genome analysis of Campylobacter jejuni with real reads.
+CONCLUSIONS: Our research demonstrates the hybrid assembly pipeline of Unicycler 
+as a superior approach for genomic analyses of bacterial pathogens using Illumina
+and Oxford Nanopore sequencing.
+
+DOI: 10.1186/s12864-020-07041-8 
+PMCID: PMC7490894
+PMID: 32928108 
+

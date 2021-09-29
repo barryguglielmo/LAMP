@@ -1,0 +1,48 @@
+
+1. J Biomol Struct Dyn. 2020 Aug;38(12):3452-3461. doi:
+10.1080/07391102.2019.1657498. Epub 2019 Sep 9.
+
+Haloadaptation: insights from comparative modeling studies between halotolerant
+and non-halotolerant dehalogenases.
+
+Edbeib MF(1)(2), Aksoy HM(2), Kaya Y(3)(4), Wahab RA(5), Huyop F(3)(6).
+
+Author information: 
+(1)Department of Animal Production, Faculty of Agriculture, Baniwalid University,
+Baniwalid, Libya.
+(2)Department of Plant Protection, Agricultural Faculty, Ondokuz Mayis
+University, Samsun, Turkey.
+(3)Department of Agricultural Biotechnology, Faculty of Agriculture, Ondokuz
+Mayis University, Samsun, Turkey.
+(4)Department of Biology, Faculty of Science, Kyrgyz-Turkish Manas University,
+Bishkek, Kyrgyzstan.
+(5)Department of Chemistry, Faculty of Science, Universiti Teknologi Malaysia,
+Johor Bahru, Malaysia.
+(6)Department of Bioscience, Faculty of Science, Universiti Teknologi Malaysia,
+Johor Bahru, Malaysia.
+
+Halophiles are extremophilic microorganisms that grow optimally at high salt
+concentrations by producing a myriad of equally halotolerant enzymes. Structural 
+haloadaptation of these enzymes adept to thriving under high-salt environments,
+though are not fully understood. Herein, the study attempts an in silico
+investigation to identify and comprehend the evolutionary structural adaptation
+of a halotolerant dehalogenase, DehHX (GenBank accession number: KR297065) of the
+halotolerant Pseudomonas halophila, over its non-halotolerant counterpart, DehMX1
+(GenBank accession number KY129692) produced by Pseudomonas aeruginosa. GC
+content of the halotolerant DehHX DNA sequence was distinctively higher (58.9%)
+than the non-halotolerant dehalogenases (55% average GC). Its acidic residues,
+Asp and Glu were 8.27% and 12.06%, respectively, compared to an average 5.5% Asp 
+and 7% Glu, in the latter; but lower contents of basic and hydrophobic residues
+in the DehHX. The secondary structure of DehHX interestingly revealed a lower
+incidence of α-helix forming regions (29%) and a higher percentage of coils
+(57%), compared to 49% and 29% in the non-halotolerant homologues, respectively. 
+Simulation models showed the DehHX is stable under a highly saline environment
+(25% w/v) by adopting a highly negative-charged surface with a concomitant weakly
+interacting hydrophobic core. The study thus, established that a halotolerant
+dehalogenase undergoes notable evolutionary structural changes related to GC
+content over its non-halotolerant counterpart, in order to adapt and thrive under
+highly saline environments.Communicated by Ramaswamy H. Sarma.
+
+DOI: 10.1080/07391102.2019.1657498 
+PMID: 31422756 
+

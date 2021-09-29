@@ -1,0 +1,43 @@
+
+1. J Glob Antimicrob Resist. 2020 Sep;22:434-440. doi: 10.1016/j.jgar.2020.04.016.
+Epub 2020 Apr 24.
+
+Biofilm formation and transfer of a streptomycin resistance gene in enterococci
+from fermented pork.
+
+Chotinantakul K(1), Chansiw N(1), Okada S(2).
+
+Author information: 
+(1)School of Medicine, Mae Fah Luang University, Chiang Rai, Thailand.
+(2)Division of Hematopoiesis, Joint Research Center for Human Retrovirus
+Infection & Graduate School of Medical Sciences, Kumamoto University, 2-2-1
+Honjo, Chuo-ku, Kumamoto, Japan. Electronic address: okadas@kumamoto-u.ac.jp.
+
+OBJECTIVES: Multidrug-resistant (MDR) enterococci are found extensively in food
+samples. This study characterized the phenotypic virulence factors and the
+ability of horizontal gene transfer of a streptomycin resistance gene among
+enterococci isolated from fermented pork.
+METHODS: Thirty-six MDR enterococci were subjected to screening of gelatinase,
+biofilm formation at various temperatures (4 °C, 25 °C and 37 °C), clumping
+ability and conjugation.
+RESULTS: All gelatinase-positive and clumping-positive strains were Enterococcus 
+faecalis (41.7% and 38.9%, respectively). None of Enterococcus faecium and
+Enterococcus hirae demonstrated both phenotypes. Moderate and strong biofilm
+formations were found mostly at optimal temperatures in all the three species
+tested. However, moderate and weak biofilm formations could be found in 52.8% at 
+4 °C. No association was observed between biofilm formation and asa1, efaA, gelE 
+and esp genes. Surprisingly, our data revealed evidence of the streptomycin
+resistance gene (aadE) being transferred among meat E. faecalis isolates as
+characterized by the pheromone-clumping response.
+CONCLUSIONS: Here we report the co-existence of some virulence factors and MDR
+enterococci from fermented pork. Our data demonstrated for the first time that
+the aadE gene could be transferred via conjugation among enterococci isolated
+from meat, contributing to streptomycin resistance. This study highlights the
+importance of horizontal gene transfer within the food chain reservoir and that
+transfer to humans might be possible, causing harm or untreatable diseases.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jgar.2020.04.016 
+PMID: 32339850 
+

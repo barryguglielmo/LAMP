@@ -1,0 +1,44 @@
+
+1. Biochem Biophys Res Commun. 2019 Oct 15;518(2):294-298. doi:
+10.1016/j.bbrc.2019.08.049. Epub 2019 Aug 13.
+
+Characterization of fructooligosaccharide-degrading enzymes in human commensal
+Bifidobacterium longum and Anaerostipes caccae.
+
+Tanno H(1), Fujii T(2), Ose R(1), Hirano K(2), Tochio T(2), Endo A(3).
+
+Author information: 
+(1)Department of Food, Aroma and Cosmetic Chemistry, Faculty of Bioindustry,
+Tokyo University of Agriculture, 196 Yasaka, Abashiri, 099-2493, Hokkaido, Japan.
+(2)B Food Science Co., Ltd., 24-12 Kitahama, Chita, 478-0046, Aichi, Japan.
+(3)Department of Food, Aroma and Cosmetic Chemistry, Faculty of Bioindustry,
+Tokyo University of Agriculture, 196 Yasaka, Abashiri, 099-2493, Hokkaido, Japan.
+Electronic address: a3endou@nodai.ac.jp.
+
+Kestose and nystose are short chain fructooligosaccharides (scFOSs) with degrees 
+of polymerization of 3 and 4, respectively. A previous study revealed that these 
+scFOSs have different growth stimulation properties against two human commensals,
+i.e. Bifidobacterium longum subsp. longum and butyrogenic Anaerostipes caccae.
+The present study characterized genes involved in FOS metabolism in these
+organisms. A. caccae possesses a single gene cluster consisting of four genes,
+including a gene encoding the putative FOS degradation enzyme sucrose-6-phosphate
+hydrolase (S6PH). B. longum possesses two gene clusters consisting of three genes
+each, including genes encoding β-fructofuranosidase (CscA) and sucrose
+phosphorylase (ScrP). In A. caccae, the genes were highly transcribed in cells
+cultured with sucrose or kestose but poorly in cells cultured with glucose or
+nystose. Heterologously expressed S6PH degraded sucrose and kestose but not
+nystose. In B. longum, transcription of the genes was high in cells cultured with
+sucrose or kestose but was poor or not detected in cells cultured with glucose or
+nystose. Heterologously expressed CscA degraded sucrose, kestose and nystose, but
+ScrP degraded only sucrose. These data suggested that the different growth
+stimulation activities of kestose and nystose are due to different substrate
+specificities of FOS degradation enzymes in the organisms and/or induction
+activity of the genes in the two scFOSs. This is the first study characterizing
+the FOS metabolism at the transcriptional level and substrate-specificity of the 
+degradation enzyme in butyrogenic human gut anaerobes.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2019.08.049 
+PMID: 31420164  [Indexed for MEDLINE]
+

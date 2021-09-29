@@ -1,0 +1,42 @@
+
+1. Int J Biol Macromol. 2020 Aug 1;156:598-607. doi: 10.1016/j.ijbiomac.2020.04.078.
+Epub 2020 Apr 17.
+
+Genomic characterization provides genetic evidence for bacterial cellulose
+synthesis by Acetobacter pasteurianus RSV-4 strain.
+
+Thakur K(1), Kumar V(1), Kumar V(1), Yadav SK(2).
+
+Author information: 
+(1)Center of Innovative and Applied Bioprocessing (CIAB), Sector-81 (Knowledge
+City), Mohali 140306, PB, India.
+(2)Center of Innovative and Applied Bioprocessing (CIAB), Sector-81 (Knowledge
+City), Mohali 140306, PB, India. Electronic address: sudesh@ciab.res.in.
+
+There is ongoing quest to look for alternate sustainable and renewable
+biopolymers which can address the existing environmental issues. Bacterial
+cellulose could be one such option. Several organisms have been reported to
+produce bacterial cellulose. Among this, acetic acid bacteria (AAB) are reported 
+to be one of the major producers of bacterial cellulose. Recently, we have
+identified an Acetobacter pasteurianus RSV-4 and reported to produce high tensile
+strength bacterial cellulose. In order to globally understand its genetic
+structure, a draft genome sequence of Acetobacter pasteurianus RSV-4 was
+performed in the present study. The assembled genome had 101 contigs contributing
+to a total length of 3.8 Mbp. Predicted coding DNA sequences were 3311, of which 
+approximately 70% were assigned the functions. Genome level phylogenetic analysis
+revealed that RSV-4 belongs to A. pasteurianus. Glycolysis was found to be
+incomplete in the genome analysis of RSV-4, while the genes/enzymes involved in
+pentose-phosphate pathway were present. The final draft genome sequence lacked
+bacterial cellulose synthase (bcs) operon. However, the presence of operon was
+evident in raw genomic sequences by Sanger sequencing. Therefore, presence of bcs
+operon in Acetobacter pasteurianus RSV-4 has documented its potential for
+bacterial cellulose production.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2020.04.078 
+PMID: 32305370 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no competing interests.
+

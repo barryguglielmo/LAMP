@@ -1,0 +1,44 @@
+
+1. Microb Biotechnol. 2020 Sep;13(5):1562-1580. doi: 10.1111/1751-7915.13598.
+
+Secondary metabolites from plant-associated Pseudomonas are overproduced in
+biofilm.
+
+Rieusset L(1), Rey M(1), Muller D(1), Vacheron J(2), Gerin F(1), Dubost A(1),
+Comte G(1), Prigent-Combaret C(1).
+
+Author information: 
+(1)CNRS UMR-5557, INRAe UMR-1418, Ecologie Microbienne, VetAgroSup, Université de
+Lyon, Université Claude Bernard Lyon1, 43 Boulevard du 11 novembre 1918,
+Villeurbanne, 69622, France.
+(2)Department of Fundamental Microbiology, University of Lausanne, Lausanne,
+1015, Switzerland.
+
+Plant rhizosphere soil houses complex microbial communities in which
+microorganisms are often involved in intraspecies as well as interspecies and
+inter-kingdom signalling networks. Some members of these networks can improve
+plant health thanks to an important diversity of bioactive secondary metabolites.
+In this competitive environment, the ability to form biofilms may provide major
+advantages to microorganisms. With the aim of highlighting the impact of
+bacterial lifestyle on secondary metabolites production, we performed a
+metabolomic analysis on four fluorescent Pseudomonas strains cultivated in
+planktonic and biofilm colony conditions. The untargeted metabolomic analysis led
+to the detection of hundreds of secondary metabolites in culture extracts.
+Comparison between biofilm and planktonic conditions showed that bacterial
+lifestyle is a key factor influencing Pseudomonas metabolome. More than 50% of
+the detected metabolites were differentially produced according to planktonic or 
+biofilm lifestyles, with the four Pseudomonas strains overproducing several
+secondary metabolites in biofilm conditions. In parallel, metabolomic analysis
+associated with genomic prediction and a molecular networking approach enabled us
+to evaluate the impact of bacterial lifestyle on chemically identified secondary 
+metabolites, more precisely involved in microbial interactions and plant-growth
+promotion. Notably, this work highlights the major effect of biofilm lifestyle on
+acyl-homoserine lactone and phenazine production in P. chlororaphis strains.
+
+© 2020 The Authors. Microbial Biotechnology published by Society for Applied
+Microbiology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/1751-7915.13598 
+PMCID: PMC7415375
+PMID: 33000552 
+

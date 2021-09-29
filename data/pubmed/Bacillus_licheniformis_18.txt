@@ -1,0 +1,46 @@
+
+1. Eng Life Sci. 2019 Nov 28;20(3-4):133-144. doi: 10.1002/elsc.201900121.
+eCollection 2020 Mar.
+
+Online monitoring of the respiratory quotient reveals metabolic phases during
+microaerobic 2,3-butanediol production with Bacillus licheniformis.
+
+Heyman B(1), Tulke H(1), Putri SP(2), Fukusaki E(2), Büchs J(1).
+
+Author information: 
+(1)AVT-Biochemical Engineering RWTH Aachen University Aachen Germany.
+(2)Department of Biotechnology Graduate School of Engineering Osaka University
+Osaka Japan.
+
+Microaerobic cultivation conditions are often beneficial for the biotechnological
+production of reduced metabolites like 2,3-butanediol. However, due to oxygen
+limitation, process monitoring based on oxygen transfer rate, or dissolved oxygen
+measurement provides only limited information. In this study, online monitoring
+of the respiratory quotient is used to investigate the metabolic activity of
+Bacillus licheniformis DSM 8785 during mixed acid-2,3-butanediol production under
+microaerobic conditions. Thereby, the respiratory quotient provides valuable
+information about different metabolic phases. Based on partial reaction
+stoichiometries, the metabolic activity in each phase of the cultivation was
+revealed, explaining the course of the respiratory quotient. This provides
+profound information on the formation or consumption of glucose, 2,3-butanediol, 
+ethanol and lactate, both, in shake flasks and stirred tank reactor cultivations.
+Furthermore, the average respiratory quotient correlates with the oxygen
+availability during the cultivation. Carbon mass balancing revealed that this
+reflects the increased formation of reduced metabolites with increasing oxygen
+limitation. The results clearly demonstrate that the respiratory quotient is a
+valuable online signal to reveal and understand the metabolic activity during
+microaerobic cultivations. The approach of combining respiratory quotient
+monitoring with stoichiometric considerations can be applied to other organisms
+and processes to define suitable cultivation conditions to produce the desired
+product spectrum.
+
+© 2019 The Authors. Engineering in Life Sciences published by WILEY‐VCH Verlag
+GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/elsc.201900121 
+PMCID: PMC7447875
+PMID: 32874177 
+
+Conflict of interest statement: The authors have declared no conflict of
+interest.
+

@@ -1,0 +1,47 @@
+
+1. Nat Commun. 2020 Oct 1;11(1):4918. doi: 10.1038/s41467-020-18647-7.
+
+Genomics of the Argentinian cholera epidemic elucidate the contrasting dynamics
+of epidemic and endemic Vibrio cholerae.
+
+Dorman MJ(1), Domman D(1)(2), Poklepovich T(3), Tolley C(1), Zolezzi G(3), Kane
+L(1)(4), Viñas MR(3), Panagópulo M(3), Moroni M(3), Binsztein N(3), Caffer MI(3),
+Clare S(1), Dougan G(1)(5), Salmond GPC(6), Parkhill J(1)(7), Campos J(8),
+Thomson NR(9)(10).
+
+Author information: 
+(1)Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, CB10 1SA, UK.
+(2)Department of Internal Medicine, Center for Global Health, University of New
+Mexico Health Sciences Center, Albuquerque, NM, USA.
+(3)Instituto Nacional de Enfermedades Infecciosas, INEI-ANLIS "Dr. Carlos G.
+Malbrán", Buenos Aires, Argentina.
+(4)London School of Hygiene and Tropical Medicine, London, WC1E 7HT, UK.
+(5)Department of Medicine, Addenbrooke's Hospital, University of Cambridge,
+Cambridge, CB2 0QW, UK.
+(6)Department of Biochemistry, University of Cambridge, Cambridge, CB2 1QW, UK.
+(7)Department of Veterinary Medicine, University of Cambridge, Cambridge, CB3
+0ES, UK.
+(8)Instituto Nacional de Enfermedades Infecciosas, INEI-ANLIS "Dr. Carlos G.
+Malbrán", Buenos Aires, Argentina. jcampos@anlis.gov.ar.
+(9)Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, CB10 1SA, UK.
+nrt@sanger.ac.uk.
+(10)London School of Hygiene and Tropical Medicine, London, WC1E 7HT, UK.
+nrt@sanger.ac.uk.
+
+In order to control and eradicate epidemic cholera, we need to understand how
+epidemics begin, how they spread, and how they decline and eventually end. This
+requires extensive sampling of epidemic disease over time, alongside the
+background of endemic disease that may exist concurrently with the epidemic. The 
+unique circumstances surrounding the Argentinian cholera epidemic of 1992-1998
+presented an opportunity to do this. Here, we use 490 Argentinian V. cholerae
+genome sequences to characterise the variation within, and between, epidemic and 
+endemic V. cholerae. We show that, during the 1992-1998 cholera epidemic, the
+invariant epidemic clone co-existed alongside highly diverse members of the
+Vibrio cholerae species in Argentina, and we contrast the clonality of epidemic
+V. cholerae with the background diversity of local endemic bacteria. Our findings
+refine and add nuance to our genomic definitions of epidemic and endemic cholera,
+and are of direct relevance to controlling current and future cholera epidemics.
+
+DOI: 10.1038/s41467-020-18647-7 
+PMID: 33004800 
+

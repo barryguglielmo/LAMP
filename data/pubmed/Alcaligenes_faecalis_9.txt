@@ -1,0 +1,56 @@
+
+1. Vaccines (Basel). 2020 Jul 20;8(3). pii: E395. doi: 10.3390/vaccines8030395.
+
+Adjuvant Activity of Synthetic Lipid A of Alcaligenes, a Gut-Associated Lymphoid 
+Tissue-Resident Commensal Bacterium, to Augment Antigen-Specific IgG and Th17
+Responses in Systemic Vaccine.
+
+Wang Y(1)(2), Hosomi K(1), Shimoyama A(3), Yoshii K(1)(4), Yamaura H(3), Nagatake
+T(1), Nishino T(1), Kiyono H(5)(6)(7)(8), Fukase K(3), Kunisawa
+J(1)(2)(4)(5)(9)(10)(11).
+
+Author information: 
+(1)Laboratory of Vaccine Materials, Center for Vaccine and Adjuvant Research, and
+Laboratory of Gut Environmental System, National Institutes of Biomedical
+Innovation, Health and Nutrition (NIBIOHN), Osaka 567-0085, Japan.
+(2)Graduate School of Pharmaceutical Sciences, Osaka University, Suita, Osaka
+565-0871, Japan.
+(3)Department of Chemistry, Graduate School of Science, Osaka University, Osaka
+560-0043, Japan.
+(4)Graduate School of Medicine, Osaka University, Osaka 565-0871, Japan.
+(5)International Research and Development Center for Mucosal Vaccines, The
+Institute of Medical Science, The University of Tokyo, Tokyo 108-8639, Japan.
+(6)IMSUT Distinguished Professor Unit, The Institute of Medical Science, The
+University of Tokyo, Tokyo 108-8639, Japan.
+(7)Graduate School of Medicine, Chiba University, Chiba 260-8670, Japan.
+(8)Department of Medicine, School of Medicine and CU-UCSD Center for Mucosal
+Immunology, Allergy and Vaccine, University of California, Oakland, CA
+92093-0063, USA.
+(9)Graduate School of Dentistry, Osaka University, Osaka 565-0871, Japan.
+(10)Department of Microbiology and Immunology, Graduate School of Medicine, Kobe 
+University, Hyogo 650-0017, Japan.
+(11)Research Organization for Nano & Life Innovation, Waseda University, Tokyo
+162-0041, Japan.
+
+Alcaligenes spp. are identified as commensal bacteria and have been found to
+inhabit Peyer's patches in the gut. We previously reported that
+Alcaligenes-derived lipopolysaccharides (LPS) exerted adjuvant activity in
+systemic vaccination, without excessive inflammation. Lipid A is one of the
+components responsible for the biological effect of LPS and has previously been
+applied as an adjuvant. Here, we examined the adjuvant activity and safety of
+chemically synthesized Alcaligenes lipid A. We found that levels of OVA-specific 
+serum IgG antibodies increased in mice that were subcutaneously immunized with
+ovalbumin (OVA) plus Alcaligenes lipid A relative to those that were immunized
+with OVA alone. In addition, Alcaligenes lipid A promoted antigen-specific T
+helper 17 (Th17) responses in the spleen; upregulated the expression of MHC class
+II, CD40, CD80, and CD86 on bone marrow-derived dendritic cells (BMDCs); enhanced
+the production of Th17-inducing cytokines IL-6 and IL-23 from BMDCs. Stimulation 
+with Alcaligenes lipid A also induced the production of IL-6 and IL-1β in human
+peripheral blood mononuclear cells. Moreover, Alcaligenes lipid A caused minor
+side effects, such as lymphopenia and thrombocytopenia. These findings suggest
+that Alcaligenes lipid A is a safe and effective Th17-type adjuvant by directly
+stimulating dendritic cells in systemic vaccination.
+
+DOI: 10.3390/vaccines8030395 
+PMID: 32698404 
+

@@ -1,0 +1,50 @@
+
+1. New Microbiol. 2020 Jul;43(3):127-132. Epub 2020 Jun 13.
+
+Molecular characterization of Mycobacterium abscessus subspecies isolated from
+patients attending an Italian Cystic Fibrosis Centre.
+
+Teri A(1), Sottotetti S(1), Arghittu M(1), Girelli D(1), Biffi A(1), D'Accico
+M(1), Daccò V(2), Gambazza S(2)(3), Pizzamiglio G(4), Trovato A(5), Tortoli E(5),
+Colombo C(6), Cariani L(1).
+
+Author information: 
+(1)UOS Microbiology and Cystic Fibrosis Microbiology, Fondazione IRCCS Ca' Granda
+Ospedale Maggiore Policlinico, Milan, Italy.
+(2)Cystic Fibrosis Center, Fondazione IRCCS Ca' Granda Ospedale Maggiore
+Policlinico, Milan, Italy.
+(3)Università degli Studi di Milano, Department of Clinical Sciences and
+Community Health, Milano, Italy.
+(4)Respiratory Disease Department, Cystic Fibrosis Center Adult Section,
+Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, Milan, Italy.
+(5)Emerging Bacterial Pathogens Unit, IRCCS San Raffaele Scientific Institute,
+Milan, Italy.
+(6)Cystic Fibrosis Center, Fondazione IRCCS Ca' Granda Ospedale Maggiore
+Policlinico, Università degli Studi di Milano, Milan, Italy.
+
+Mycobacterium abscessus (MABS) infection represents significant management
+challenge in cystic fibrosis (CF) patients. This retrospective study (2005-2016) 
+aims to determine the prevalence of the subspecies of MABS isolated from CF
+patients, to evaluate the persistence over the years of a single subspecies of
+MABS and to correlate mutations responsible for macrolides and amikacin
+resistance with MIC values. We investigated 314 strains (1 isolate/patient/year) 
+isolated from the lower respiratory tract of 51 chronically infected CF patients.
+Sequencing of rpoB gene was performed to identify the MABS subspecies. The
+erm(41) gene was sequenced to differentiate the strains with and without
+inducible macrolide resistance. Regions of 23S and 16S rRNA were sequenced to
+investigate mutations responsible for constitutive resistance to macrolides and
+aminoglycosides, respectively. Antibiotic susceptibility, using commercial
+microdilution plates, was evaluated according to CLSI. M. abscessus subsp.
+abscessus accounted for 64% of the isolates, bolletii subspecies for 16% and
+massiliense subspecies for 20%. All the massiliense strains presented truncated
+erm(41) gene while 12 abscessus strains presented the mutation T28->C in the
+erm(41) gene, which makes it inactive. The 23S rRNA analysis did not show
+constitutive resistance to macrolides in any strain. Mutation of the 16S rRNA
+gene was highlighted in 2 strains out of 314, in agreement with high MIC values. 
+The correct identification at the subspecies level and the molecular analysis of 
+23S rRNA, 16S rRNA and erm gene is useful to guide the treatment strategy in
+patients with M. abscessus lung infection.
+
+
+PMID: 32656572 
+

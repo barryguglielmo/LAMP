@@ -1,0 +1,48 @@
+
+1. Microb Pathog. 2020 Oct;147:104368. doi: 10.1016/j.micpath.2020.104368. Epub 2020
+Jul 4.
+
+Emerging bacterial fish pathogen Lactococcus garvieae RTCLI04, isolated from
+rainbow trout (Oncorhynchus mykiss): Genomic features and comparative genomics.
+
+Shahi N(1), Mallik SK(2).
+
+Author information: 
+(1)ICAR-Directorate of Coldwater Fisheries Research, Bhimtal, 263 136, Nainital, 
+Uttarakhand, India. Electronic address: Neetu.Shahi@icar.gov.in.
+(2)ICAR-Directorate of Coldwater Fisheries Research, Bhimtal, 263 136, Nainital, 
+Uttarakhand, India.
+
+Lactococcus garvieae is one of the emerging zoonotic bacterial pathogen, causes
+fatal hemorrhagic septicemia in cultured fish species, animals and humans,
+worldwide. Here, we report the genomic features of whole-genome sequence (WGS) of
+L. garvieae strain RTCLI04, recovered from lower intestine of farmed rainbow
+trout, Oncorhynchus mykiss in the northwest Himalayan region India. The genome of
+L. garvieae RTCLI04 is a single circular chromosome of 2,054,885 base pairs (bp),
+which encodes 1993 proteins and has G + C content of 39%. The bioinformatics
+analysis of WGS of RTCLI04, confirmed the presence of 51 tRNAs genes (including
+two pseudogenes), six rRNAs genes (four genes for 5S rRNA; one gene for 16S rRNA 
+and one gene for 23S rRNA), five virulent domains, and twenty eight different
+genetic pathways. A Clustered Regularly Interspaced Short Palindromic Repeats
+(CRISPR) finder tool indicates that three different CRISPR and one cas system
+with common spacer was present in the genome of L. garvieae RTCLI04. Pan-genome
+analysis of RTCLI04 and all the other reference L. garvieae strains shows that
+pan-genome of this bacterium consisted of 2239 putative protein-coding genes in
+which 1850 genes are core gene, 389 genes are dispensable gene, and 221 genes are
+unique to RTCLI04. L. garvieae RTCLI04 lacks genomic island of 16.5 Kb capsule
+gene cluster. In addition, 39 virulence-associated genes (VAGs) including
+hly1,-2,-3; PavA, PsaA; eno; LPxTG containing surface proteins 1, 2, 3 and 4;
+pgm, sod and 29 antimicrobial resistant genes (ARGs) including mefE
+(clindamycin), srmB (lincomycin), dfrA26 (trimethoprim), gyrB (nalidixic acid),
+arr-3 (rifampin), otrB (tetracycline), aac(6)-Ic (tobramycin), IrgB (penicillin),
+mecA (oxacillin), vanRB (vancomycin) and mfpA (fluoroquinolone) were also
+predicted in the genome of L. garvieae RTCLI04. Our study provides new insight
+into understanding the virulence mechanism, antimicrobial resistance, and
+development of effective therapeutic measures against L. garvieae during a
+disease outbreak in aquaculture.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.micpath.2020.104368 
+PMID: 32634612 
+

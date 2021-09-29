@@ -1,0 +1,50 @@
+
+1. Microorganisms. 2020 May 6;8(5). pii: E677. doi: 10.3390/microorganisms8050677.
+
+The Bacterial Gut Microbiota of Adult Patients Infected, Colonized or
+Noncolonized by Clostridioides difficile.
+
+Crobach MJT(1), Ducarmon QR(1)(2), Terveer EM(1)(2)(3), Harmanus C(1), Sanders
+IMJG(1), Verduin KM(4), Kuijper EJ(1)(2)(3), Zwittink RD(1)(2).
+
+Author information: 
+(1)Experimental Bacteriology, Department of Medical Microbiology, Center for
+Infectious Diseases, Leiden University Medical Center, 2333ZA Leiden, The
+Netherlands.
+(2)Center for Microbiome Analyses and Therapeutics, Department of Medical
+Microbiology, Center for Infectious Diseases, Leiden University Medical Center,
+2333ZA Leiden, The Netherlands.
+(3)Netherlands Donor Feces Bank, 2333ZA Leiden, The Netherlands.
+(4)Department of Microbiology and Infection Prevention, Amphia Hospital, 4818CK
+Breda, The Netherlands.
+
+: Gut microbiota composition in patients with Clostridioides difficile
+colonization is not well investigated. We aimed to identify bacterial signatures 
+associated with resistance and susceptibility to C. difficile colonization (CDC) 
+and infection (CDI). Therefore, gut microbiota composition from patients with CDC
+(n = 41), with CDI (n = 41), and without CDC (controls, n = 43) was determined
+through 16S rRNA gene amplicon sequencing. Bacterial diversity was decreased in
+CDC and CDI patients (p<0.01). Overall microbiota composition was significantly
+different between control, CDC, and CDI patients (p = 0.001). Relative abundance 
+of Clostridioides (most likely C. difficile) increased stepwise from controls to 
+CDC and CDI patients. In addition, differential abundance analysis revealed that 
+CDI patients' gut microbiota was characterized by significantly higher relative
+abundance of Bacteroides and Veillonella than CDC patients and controls. Control 
+patients had significantly higher Eubacterium hallii and Fusicatenibacter
+abundance than colonized patients. Network analysis indicated that
+Fusicatenibacter was negatively associated with Clostridioides in CDI patients,
+while Veillonella was positively associated with Clostridioides in CDC patients. 
+Bacterial microbiota diversity decreased in both CDC and CDI patients, but
+harbored a distinct microbiota. Eubacterium hallii and Fusicatenibacter may
+indicate resistance against C. difficile colonization and subsequent infection,
+while Veillonella may indicate susceptibility to colonization and infection by C.
+difficile.
+
+DOI: 10.3390/microorganisms8050677 
+PMCID: PMC7284656
+PMID: 32384826 
+
+Conflict of interest statement: E.T. and E.K. are supported by an unrestricted
+grant from Vedanta Biosciences Inc. The sponsor had no role in the design,
+execution, interpretation, or writing of the study.
+

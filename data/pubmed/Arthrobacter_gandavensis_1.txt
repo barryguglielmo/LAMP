@@ -1,0 +1,44 @@
+
+1. AMB Express. 2020 Apr 15;10(1):69. doi: 10.1186/s13568-020-01008-4.
+
+Ameliorating process parameters for zeaxanthin yield in Arthrobacter gandavensis 
+MTCC 25325.
+
+Ram S(1)(2), Tirkey SR(1)(2), Kumar MA(1)(3), Mishra S(4)(5).
+
+Author information: 
+(1)Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201 002,
+India.
+(2)Applied Phycology & Biotechnology Division, CSIR-Central Salt & Marine
+Chemicals Research Institute, Bhavnagar, Gujarat, 364 002, India.
+(3)Analytical and Environmental Science Division & Centralized Instrument
+Facility, CSIR-Central Salt & Marine Chemicals Research Institute, Bhavnagar, 364
+002, India.
+(4)Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201 002,
+India. smishra@csmcri.res.in.
+(5)Applied Phycology & Biotechnology Division, CSIR-Central Salt & Marine
+Chemicals Research Institute, Bhavnagar, Gujarat, 364 002, India.
+smishra@csmcri.res.in.
+
+The present study aims to escalate the production of prophylactic agent
+zeaxanthin using a screened potential bacterial isolate. For this purpose, a
+freshwater bacterium capable of producing zeaxanthin was isolated from Bor Talav,
+Bhavnagar. The 16S rRNA sequence confirmed the isolate as Arthrobacter
+gandavensis. The bacterium was also submitted to Microbial Type Culture
+Collection, CSIR-Institute of Microbial Technology, Chandigarh, India, with the
+accession number MTCC 25325. The chemo-metric tools were employed to optimise the
+influencing factors such as pH, temperature, inoculum size, agitation speed,
+carbon source and harvest time on zeaxanthin yield. Thereafter, six parameters
+were narrowed down to three factors and were optimised using the central
+composite design (CCD) matrix. Maximum zeaxanthin (1.51 mg/g) was derived when A.
+gandavensis MTCC 25325 was grown under pH 6.0, 1.5% (w/v) glucose and 10% (v/v)
+inoculum size. A high regression coefficient (R2= 0.92) of the developed model
+indicated the accurateness of the tested parameters. To the best of our
+knowledge, this is the first report on tailoring the process parameters using
+chemo-metric optimisation for escalating the zeaxanthin production by A.
+gandavensis MTCC 25325.
+
+DOI: 10.1186/s13568-020-01008-4 
+PMCID: PMC7158978
+PMID: 32297021 
+

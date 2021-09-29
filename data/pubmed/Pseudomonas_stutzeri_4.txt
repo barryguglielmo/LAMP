@@ -1,0 +1,58 @@
+
+1. Sci Total Environ. 2020 Aug 31;754:142083. doi: 10.1016/j.scitotenv.2020.142083. 
+[Epub ahead of print]
+
+Mechanism insights into polyhydroxyalkanoate-regulated denitrification from the
+perspective of pericytoplasmic nitrate reductase expression.
+
+Wu B(1), Zhou M(1), Song L(2), Xu Q(1), Dai X(3), Chai X(4).
+
+Author information: 
+(1)State Key Laboratory of Pollution Control and Resource Reuse, College of
+Environmental Science and Engineering, Tongji University, 1239 Siping Road,
+Shanghai 200092, China.
+(2)Environmental Microbiology and Ecology Research Center, Chongqing Institute of
+Green and Intelligent Technology, Chinese Academy of Science (CAS), 266 Fangzheng
+Avenue, Chongqing 400714, China.
+(3)State Key Laboratory of Pollution Control and Resource Reuse, College of
+Environmental Science and Engineering, Tongji University, 1239 Siping Road,
+Shanghai 200092, China; Shanghai Institute of Pollution Control and Ecological
+Security, Shanghai 200092, China. Electronic address: daixiaohu@tongji.edu.cn.
+(4)State Key Laboratory of Pollution Control and Resource Reuse, College of
+Environmental Science and Engineering, Tongji University, 1239 Siping Road,
+Shanghai 200092, China; Shanghai Institute of Pollution Control and Ecological
+Security, Shanghai 200092, China. Electronic address: xlchai@tongji.edu.cn.
+
+For enhanced biological nutrient removal (BNR) process, the polyhydroxyalkanoate 
+(PHA) can be used as an eco-friendly internal as well as external substrate for
+regulating the growth of heterotrophic denitrifiers and promoting the
+denitrification process for deep nitrogen removal from wastewater. However, the
+exact mechanisms by which PHA impacts bacterial metabolism and affects the
+electron transfer of denitrification remain unknown. In this study, the in-depth 
+mechanism investigation for PHA-mediated denitrification based on the jointly
+applied transcriptomic, proteomic and Western Blotting techniques was performed
+on a model denitrifier, Pseudomonas stutzeri. Results showed that PHA
+dramatically fostered the growth of Pseudomonas stutzeri, resulting in improved
+nitrate removal efficiency from 32.8% to 45.8%. Comparison of protein expression 
+profiles indicated that PHA promoted the expression of enzyme NapB and NapA by
+approximately 10.34 and 20.01 times, respectively, which were both in charge of
+reduction from nitrate to nitrite. Based on transcriptional sequencing and Tandem
+Mass Tags, the correlation results also showed that differential proteins and
+genes with the same expression trend were positively correlated (R2 = 0.427,
+p-value<0.033). Western Blotting approach was further developed to confirm the
+up-regulated expression of target protein with the higher proportion of PHA in
+carbon source of the medium, which proved the reliability of proteomics results. 
+All the findings presented here are believed to deepen the understanding of
+microbial mechanism about PHA-enhanced denitrification from the novel perspective
+of associated electron-transfer enzymatic proteins.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.scitotenv.2020.142083 
+PMID: 32920393 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

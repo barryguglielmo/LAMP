@@ -1,0 +1,42 @@
+
+1. Microorganisms. 2020 Jul 28;8(8). pii: E1144. doi: 10.3390/microorganisms8081144.
+
+Contribution of Hydrogen Cyanide to the Antagonistic Activity of Pseudomonas
+Strains Against Phytophthora infestans.
+
+Anand A(1), Chinchilla D(1), Tan C(1), Mène-Saffrané L(1), L'Haridon F(1),
+Weisskopf L(1).
+
+Author information: 
+(1)Department of Biology, University of Fribourg, 1700 Fribourg, Switzerland.
+
+Plants face many biotic and abiotic challenges in nature; one of them is attack
+by disease-causing microbes. Phytophthora infestans, the causal agent of late
+blight is one of the most prominent pathogens of the potato responsible for
+multi-billion-dollar losses every year. We have previously reported that
+potato-associated Pseudomonas strains inhibited P. infestans at various
+developmental stages. A comparative genomics approach identified several factors 
+putatively involved in this anti-oomycete activity, among which was the
+production of hydrogen cyanide (HCN). Here, we report the relative contribution
+of HCN emission to the overall anti-Phytophthora activity of two cyanogenic
+Pseudomonas strains, P. putida R32 and P. chlororaphis R47. To quantify this
+contribution, we generated HCN-negative mutants (Δhcn) and compared their
+activities to those of their respective wild types in different experiments
+assessing P. infestans mycelial growth, zoospore germination, and infection of
+potato leaf disks. Using in vitro experiments allowing only volatile-mediated
+interactions, we observed that HCN accounted for most of the mycelial growth
+inhibition (57% in R47 and 80% in R32). However, when allowing both volatile and 
+diffusible compound-mediated interactions, HCN only accounted for 1% (R47) and
+18% (R32) of mycelial growth inhibition. Likewise, both mutants inhibited
+zoospore germination in a similar way as their respective wild types. More
+importantly, leaf disk experiments showed that both wild-type and Δhcn strains of
+R47 and R32 were able to limit P. infestans infection to a similar extent. Our
+results suggest that while HCN is a major contributor to the in vitro
+volatile-mediated restriction of P. infestans mycelial growth, it does not play a
+major role in the inhibition of other disease-related features such as zoospore
+germination or infection of plant tissues.
+
+DOI: 10.3390/microorganisms8081144 
+PMCID: PMC7464445
+PMID: 32731625 
+

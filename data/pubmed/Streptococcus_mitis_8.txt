@@ -1,0 +1,64 @@
+
+1. PLoS One. 2020 Aug 25;15(8):e0237603. doi: 10.1371/journal.pone.0237603.
+eCollection 2020.
+
+Characterization of baseline polybacterial versus monobacterial infections in
+three randomized controlled bacterial conjunctivitis trials and microbial
+outcomes with besifloxacin ophthalmic suspension 0.6.
+
+DeCory HH(1), Sanfilippo CM(1), Proskin HM(2), Blondeau JM(3).
+
+Author information: 
+(1)Medical Affairs, Bausch + Lomb, Rochester, New York, United States of America.
+(2)Howard M. Proskin & Associates, Rochester, New York, United States of America.
+(3)Clinical Microbiology, Royal University Hospital, Saskatoon, Saskatchewan,
+Canada.
+
+BACKGROUND/PURPOSE: To date, studies examining polymicrobial infections in ocular
+disease have mostly been limited to keratitis or endophthalmitis. We
+characterized polybacterial infections compared to monobacterial infections in
+prior clinical studies evaluating besifloxacin ophthalmic suspension 0.6% for the
+treatment of bacterial conjunctivitis and report on associated microbiological
+outcomes.
+METHODS: In this post-hoc analysis, microbiological data for subjects with
+conjunctivitis due to one or more than one bacterial species in three previous
+studies (two vehicle-, one active-controlled) of besifloxacin were extracted.
+Bacterial species identified at baseline were deemed causative if their colony
+count equaled or exceeded species-specific prespecified threshold criteria. In
+subjects with polybacterial infections, the fold-increase over threshold was used
+to rank order the contribution of individual species. Baseline pathogens and
+their minimum inhibitory concentrations (MICs) for common ophthalmic antibiotics 
+were compared by infection type, as were microbial eradication rates following
+treatment with besifloxacin.
+RESULTS: Of 1041 subjects with culture-confirmed conjunctivitis, 17% had
+polybacterial and 83% had monobacterial conjunctivitis at baseline. In
+polybacterial compared to monobacterial infections, Haemophilus influenzae and
+Streptococcus pneumoniae were identified less frequently as the dominant
+infecting species (P = 0.042 and P<0.001, respectively), whereas Streptococcus
+mitis/S. mitis group was identified more frequently as dominant (P<0.001). Viral 
+coinfection was also identified more frequently in polybacterial infections
+(P<0.001). Staphylococcus aureus was the most common coinfecting species in
+polybacterial infections and the second most common dominant species in such
+infections. With few exceptions, MICs for individual species were comparable
+regardless of infection type. Clinical microbial eradication rates with
+besifloxacin were high regardless of infection type (P≤0.016 vs vehicle at
+follow-up visits).
+CONCLUSIONS: Approximately one in five subjects with bacterial conjunctivitis are
+infected with more than one bacterial species underscoring the need for a
+broad-spectrum antibiotic for such infections. Besifloxacin treatment resulted in
+robust eradication rates of these infections comparable to monobacterial
+infections.
+TRIAL REGISTRATION: NCT000622908, NCT00347932, NCT00348348.
+
+DOI: 10.1371/journal.pone.0237603 
+PMCID: PMC7447040
+PMID: 32841261 
+
+Conflict of interest statement: HD and CS are employees of Bausch Health US, LLC;
+Dr. H Proskin is an independent statistical consultant and reports receipt of
+statistical consultation fees from Bausch Health US, LLC for this work. Dr. J
+Blondeau has no disclosures to report for this current study. This research is
+associated with the marketed product Besivance® (besifloxacin ophthalmic
+suspension, 0.6%; Bausch & Lomb Incorporated; Rochester, NY). This does not alter
+our adherence to PLOS ONE policies on sharing data and materials.
+

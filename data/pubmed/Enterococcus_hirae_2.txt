@@ -1,0 +1,131 @@
+
+1. Science. 2020 Aug 21;369(6506):936-942. doi: 10.1126/science.aax0701.
+
+Cross-reactivity between tumor MHC class I-restricted antigens and an
+enterococcal bacteriophage.
+
+Fluckiger A(1)(2), Daillère R(1)(2)(3), Sassi M(4), Sixt BS(5)(6)(7)(8)(9)(10),
+Liu P(6)(7)(8)(9)(10), Loos F(6)(7)(8)(9)(10), Richard C(11)(12)(13), Rabu
+C(14)(15), Alou MT(1)(2)(16), Goubet AG(1)(2), Lemaitre F(1)(3), Ferrere G(1)(2),
+Derosa L(1)(2)(17), Duong CPM(1)(2), Messaoudene M(18), Gagné A(18), Joubert
+P(18), De Sordi L(19)(20), Debarbieux L(19), Simon S(14)(15), Scarlata CM(21),
+Ayyoub M(21), Palermo B(22), Facciolo F(23), Boidot R(24), Wheeler R(25), Boneca 
+IG(25), Sztupinszki Z(26), Papp K(27), Csabai I(27), Pasolli E(28), Segata N(29),
+Lopez-Otin C(7)(8)(9)(10)(30), Szallasi Z(26)(31)(32)(33), Andre F(34)(35), Iebba
+V(1)(2)(36), Quiniou V(37)(38), Klatzmann D(37)(38), Boukhalil J(16), Khelaifia
+S(16), Raoult D(16), Albiges L(1)(39), Escudier B(1)(39)(40), Eggermont A(1)(41),
+Mami-Chouaib F(42), Nistico P(22)(23), Ghiringhelli F(43), Routy B(18)(44),
+Labarrière N(14)(15), Cattoir V(4)(45)(46), Kroemer
+G(47)(7)(8)(9)(10)(48)(49)(50)(51), Zitvogel L(52)(2)(17)(50).
+
+Author information: 
+(1)Gustave Roussy Cancer Campus (GRCC), Villejuif, France.
+(2)Institut National de la Santé et de la Recherche Médicale, U1015, Institut
+Gustave Roussy, Villejuif, France.
+(3)everImmune, Gustave Roussy Cancer Center, Villejuif, France.
+(4)Université Rennes 1, Laboratoire de Biochimie Pharmaceutique, Inserm U1230 -
+UPRES EA 2311, Rennes, France.
+(5)Laboratory for Molecular Infection Medicine Sweden, Umeå Centre for Microbial 
+Research, Department of Molecular Biology, Umeå University, 90187, Umeå, Sweden.
+(6)Cell Biology and Metabolomics Platforms, Gustave Roussy Cancer Campus,
+Villejuif, France.
+(7)Equipe 11 labellisée Ligue contre le Cancer, Centre de Recherche des
+Cordeliers, Paris, France.
+(8)INSERM U1138, Paris, France.
+(9)Université de Paris, Paris, France.
+(10)Sorbonne Université, Paris, France.
+(11)Research Platform in Biological Oncology, Dijon, France.
+(12)GIMI Genetic and Immunology Medical Institute, Dijon, France.
+(13)University of Burgundy-Franche Comté, Dijon, France.
+(14)CRCINA, INSERM, Université d'Angers, Université de Nantes, Nantes, France.
+(15)LabEx IGO "Immunotherapy, Graft, Oncology," Nantes, France.
+(16)UMR MEPHI, Aix-Marseille Université, IRD, AP-HM, Institut
+Hospitalo-Universitaire Méditerranée-Infection, 19-21 Boulevard Jean Moulin,
+13385, Marseille cedex 05, France.
+(17)Université Paris-Saclay, Villejuif, F-94805, France.
+(18)Institut Universitaire de Cardiologie et de Pneumologie de Québec, Research
+Center and Department of Cytology and Pathology, Québec City, Québec, Canada.
+(19)Bacteriophage, Bacterium, Host Laboratory, Institut Pasteur, F-75015 Paris,
+France.
+(20)Sorbonne Université, Centre de Recherche Saint Antoine, INSERM UMRS_938,
+Paris, France.
+(21)Cancer Research Centre of Toulouse, INSERM UMR 1037, 31037 Toulouse, France; 
+Université Toulouse III Paul Sabatier, 31330 Toulouse, France; Institut
+Universitaire du Cancer de Toulouse-Oncopole, 31100 Toulouse, France.
+(22)Unit of Tumor Immunology and Immunotherapy, Department of Research, Advanced 
+Diagnostics and Technological Innovation, IRCCS Regina Elena National Cancer
+Institute, Rome, Italy.
+(23)Thoracic Surgery Unit, Department of Surgical Oncology, IRCCS Regina Elena
+National Cancer Institute, Rome, Italy.
+(24)Unit of Molecular Biology, Department of Biology and Pathology of Tumors,
+Georges-François Leclerc Anticancer Center, UNICANCER, Dijon, France.
+(25)Institut Pasteur, Unit Biology and Genetics of the Bacterial Cell Wall,
+Paris, France.
+(26)Computational Health Informatics Program (CHIP), Boston Children's Hospital, 
+Boston, MA, USA.
+(27)Department of Physics of Complex Systems, ELTE Eötvös Loránd University,
+Budapest, Hungary.
+(28)Department of Agricultural Sciences, University of Naples Federico II,
+Naples, Italy.
+(29)Department CIBIO, University of Trento, Trento, Italy.
+(30)Departamento de Bioquímica y Biología Molecular, Instituto Universitario de
+Oncología (IUOPA), Universidad de Oviedo, Oviedo, Spain.
+(31)Harvard Medical School, Boston, MA, USA.
+(32)Danish Cancer Society Research Center, Copenhagen, Denmark.
+(33)MTA-SE-NAP, Brain Metastasis Research Group, 2nd Department of Pathology,
+Semmelweis University, Budapest, Hungary.
+(34)Department of Cancer Medicine, Breast Cancer Committee, Gustave Roussy,
+Villejuif, France.
+(35)INSERM Unit 981, Gustave Roussy, Villejuif, France.
+(36)Department of Medical Sciences, University of Trieste, 34137 Trieste, Italy.
+(37)AP-HP, Hôpital Pitié-Salpêtrière, Clinical Investigation Center in Biotherapy
+(CIC-BTi) and Immunology-Inflammation-Infectiology and Dermatology Department
+(3iD), F-75651, Paris, France.
+(38)Sorbonne Université, INSERM, Immunology-Immunopathology-Immunotherapy (i3),
+F-75651, Paris, France.
+(39)Department of Medical Oncology, Gustave Roussy, Villejuif, France.
+(40)INSERM U981, GRCC, Villejuif, France.
+(41)Princess Maxima Center, CS 3584 Utrecht, the Netherlands.
+(42)INSERM UMR 1186, Integrative Tumor Immunology and Immunotherapy, Gustave
+Roussy, Fac. de Médecine - Univ. Paris-Sud, Université Paris-Saclay, 94805,
+Villejuif, France.
+(43)Department of Medical Oncology, Center GF Leclerc, Dijon, France.
+(44)Division d'Hémato-Oncologie, Département de Médicine, Centre Hospitalier de
+l'Université de Montréal (CHUM), Montréal, Québec, Canada.
+(45)CHU de Rennes - Hôpital Ponchaillou, Service de Bactériologie-Hygiène
+Hospitalière, Rennes, France.
+(46)CNR de la Résistance aux Antibiotiques (laboratoire associé 'Entérocoques'), 
+Rennes, France.
+(47)Cell Biology and Metabolomics Platforms, Gustave Roussy Cancer Campus,
+Villejuif, France. laurence.zitvogel@gustaveroussy.fr kroemer@orange.fr.
+(48)Pôle de Biologie, Hôpital Européen Georges Pompidou, Assistance
+Publique-Hôpitaux de Paris, Paris, France.
+(49)Department of Women's and Children's Health, Karolinska University Hospital, 
+1 Stockholm, Sweden.
+(50)Suzhou Institute for Systems Biology, Chinese Academy of Medical Sciences,
+Suzhou, China.
+(51)Institut Universitaire de France, Paris, France.
+(52)Gustave Roussy Cancer Campus (GRCC), Villejuif, France.
+laurence.zitvogel@gustaveroussy.fr kroemer@orange.fr.
+
+Intestinal microbiota have been proposed to induce commensal-specific memory T
+cells that cross-react with tumor-associated antigens. We identified major
+histocompatibility complex (MHC) class I-binding epitopes in the tail length tape
+measure protein (TMP) of a prophage found in the genome of the bacteriophage
+Enterococcus hirae Mice bearing E. hirae harboring this prophage mounted a
+TMP-specific H-2Kb-restricted CD8+ T lymphocyte response upon immunotherapy with 
+cyclophosphamide or anti-PD-1 antibodies. Administration of bacterial strains
+engineered to express the TMP epitope improved immunotherapy in mice. In renal
+and lung cancer patients, the presence of the enterococcal prophage in stools and
+expression of a TMP-cross-reactive antigen by tumors correlated with long-term
+benefit of PD-1 blockade therapy. In melanoma patients, T cell clones recognizing
+naturally processed cancer antigens that are cross-reactive with microbial
+peptides were detected.
+
+Copyright © 2020 The Authors, some rights reserved; exclusive licensee American
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.
+
+DOI: 10.1126/science.aax0701 
+PMID: 32820119  [Indexed for MEDLINE]
+

@@ -1,0 +1,50 @@
+
+1. Environ Microbiol. 2020 Jun;22(6):2273-2291. doi: 10.1111/1462-2920.15000. Epub
+2020 Apr 5.
+
+Predicting postmortem interval based on microbial community sequences and machine
+learning algorithms.
+
+Liu R(1), Gu Y(2), Shen M(3), Li H(4), Zhang K(1), Wang Q(5), Wei X(1), Zhang
+H(1), Wu D(1), Yu K(1), Cai W(1), Wang G(1), Zhang S(4), Sun Q(1), Huang P(6),
+Wang Z(1).
+
+Author information: 
+(1)College of Forensic Medicine, Xi'an Jiaotong University, Xi'an, 710061, China.
+(2)School of Mathematics and Statistics, Xi'an Jiaotong University, Xi'an,
+710061, China.
+(3)Department of Epidemiology and Biostatistics, School of Public Health, Xi'an
+Jiaotong University Health Science Center, Xi'an, Shaanxi, 710061, China.
+(4)Department of Microbiology and immunology, School of Basic Medical Sciences,
+Xi'an Jiaotong University, Xi'an, China.
+(5)Chongqing Medical University, College of Basic Medicine, Department of
+Forensic Medicine, Chongqing, 400016, China.
+(6)Shanghai Key Laboratory of Forensic Medicine, Shanghai Forensic Service
+Platform, Academy of Forensic Science, Ministry of Justice, Shanghai, 200063,
+China.
+
+Microbes play an essential role in the decomposition process but were poorly
+understood in their succession and behaviour. Previous researches have shown that
+microbes show predictable behaviour that starts at death and changes during the
+decomposition process. Research of such behaviour enhances the understanding of
+decomposition and benefits estimating the postmortem interval (PMI) in forensic
+investigations, which is critical but faces multiple challenges. In this study,
+we combined microbial community characterization, microbiome sequencing from
+different organs (i.e. brain, heart and cecum) and machine learning algorithms
+[random forest (RF), support vector machine (SVM) and artificial neural network
+(ANN)] to investigate microbial succession pattern during corpse decomposition
+and estimate PMI in a mouse corpse system. Microbial communities exhibited
+significant differences between the death point and advanced decay stages.
+Enterococcus faecalis, Anaerosalibacter bizertensis, Lactobacillus reuteri, and
+so forth were identified as the most informative species in the decomposition
+process. Furthermore, the ANN model combined with the postmortem microbial data
+set from the cecum, which was the best combination among all candidates, yielded 
+a mean absolute error of 1.5 ± 0.8 h within 24-h decomposition and 14.5 ± 4.4 h
+within 15-day decomposition. This integrated model can serve as a reliable and
+accurate technology in PMI estimation.
+
+© 2020 Society for Applied Microbiology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/1462-2920.15000 
+PMID: 32227435 
+

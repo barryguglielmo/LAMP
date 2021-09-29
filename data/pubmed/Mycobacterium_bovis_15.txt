@@ -1,0 +1,38 @@
+
+1. Sci Rep. 2020 Sep 16;10(1):15214. doi: 10.1038/s41598-020-72297-9.
+
+Temporal and spatial Mycobacterium bovis prevalence patterns as evidenced in the 
+All Wales Badgers Found Dead (AWBFD) survey of infection 2014-2016.
+
+Schroeder P(1), Hopkins B(2), Jones J(3), Galloway T(4), Pike R(5), Rolfe S(5),
+Hewinson G(6).
+
+Author information: 
+(1)Wales Bovine TB Epidemiology Team, APHA Wales, Carmarthen, UK.
+paul.schroeder@apha.gov.uk.
+(2)Wales Veterinary Science Centre, Aberystwyth, UK.
+(3)Veterinary Laboratories Agency, Carmarthen, UK.
+(4)Wales Bovine TB Epidemiology Team, APHA Wales, Carmarthen, UK.
+(5)TB Team, Welsh Government, Cardiff, UK.
+(6)Centre of Excellence for Bovine Tuberculosis, IBERS, Aberystwyth University,
+Aberystwyth, UK.
+
+In order to better understand the spatial spread of bovine tuberculosis (bTB) in 
+Wales, an All Wales Badgers Found Dead (AWBFD) survey was carried out from
+2014-2016. For Wales, as a whole, there was a significant decrease (p < 0.001) in
+prevalence of bTB in badgers since a similar survey was carried out in 2005-2006,
+with a drop from 13.3% to 7.3%. The highest prevalence was observed for the High 
+TB Area East (18.6%), which shares its border with England, and differed
+significantly (p < 0.001) from the High TB Area West (7.4%). The lowest
+proportion of carcases diagnosed with the disease (0.7%) was in the Low TB Area, 
+followed by the two Intermediate TB Areas of Wales (2.7%). The M. bovis isolates 
+from badgers tended to be similar to the genotypes of cattle in the same area,
+except in the Low TB Area. The direction of any cross species transmission and
+the drivers for this cannot be determined from this study. The spatial variations
+described here support the need for regionally adapted surveillance and control
+measures for bovine tuberculosis in Wales.
+
+DOI: 10.1038/s41598-020-72297-9 
+PMCID: PMC7495426
+PMID: 32939017 
+

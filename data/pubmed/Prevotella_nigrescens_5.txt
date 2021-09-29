@@ -1,0 +1,52 @@
+
+1. PLoS One. 2020 Aug 6;15(8):e0237185. doi: 10.1371/journal.pone.0237185.
+eCollection 2020.
+
+Serum IgG titers to periodontal pathogens predict 3-month outcome in ischemic
+stroke patients.
+
+Aoki S(1), Hosomi N(2)(3), Nishi H(4), Nakamori M(5), Nezu T(1), Shiga Y(1),
+Kinoshita N(1), Ueno H(1), Ishikawa K(1)(5), Imamura E(5), Shintani T(6), Ohge
+H(7), Kawaguchi H(4), Kurihara H(6)(8), Maruyama H(1).
+
+Author information: 
+(1)Department of Clinical Neuroscience and Therapeutics, Graduate School of
+Biomedical and Health Sciences, Hiroshima University, Hiroshima, Japan.
+(2)Department of Neurology, Chikamori Hospital, Kochi, Japan.
+(3)Department of Disease Model, Research Institute of Radiation Biology and
+Medicine, Hiroshima University, Hiroshima, Japan.
+(4)Department of General Dentistry, Hiroshima University Hospital, Hiroshima,
+Japan.
+(5)Department of Neurology, Suiseikai Kajikawa Hospital, Hiroshima, Japan.
+(6)Center of Oral Examination, Hiroshima University Hospital, Hiroshima, Japan.
+(7)Department of Infectious Diseases, Hiroshima University Hospital, Hiroshima,
+Japan.
+(8)Department of Periodontal Medicine, Division of Applied Life Sciences,
+Institute of Biomedical and Health Sciences, Hiroshima University, Hiroshima,
+Japan.
+
+Several cohort studies have shown that periodontal disease is associated with an 
+increased risk for stroke. However, it remains unclear whether serum antibody
+titers for a specific periodontal pathogen are associated with outcome after
+ischemic stroke, and which kinds of pathogens are associated with ischemic
+stroke. We examined the relationship between serum IgG titers to periodontal
+pathogens and outcome in ischemic stroke patients. A total of 445 patients with
+acute ischemic stroke (194 female [44.0%], mean age 71.9±12.3 years) were
+registered in this study. Serum IgG titers to 9 periodontal pathogens
+(Porphyromonas gingivalis, Aggregatibacter actinomycetemcomitans, Prevotella
+intermedia, Prevotella nigrescens, Fusobacterium nucleatum, Treponema denticola, 
+Tannerella forsythensis, Campylobacter rectus, Eikenella corrodens) were
+evaluated using the enzyme-linked immunosorbent assay (ELISA) method. An
+unfavorable outcome was defined as a 3 or higher on the modified Rankin Scale.
+The proportion of patients with unfavorable outcome was 25.4% (113 patients).
+Based on multivariate logistic regression analysis, numbers of IgG antibodies
+positive for periodontal pathogens (odds ratio 1.20, 95% CI 1.02-1.41, p = 0.03) 
+were independent predictors of unfavorable outcome in ischemic stroke patients.
+
+DOI: 10.1371/journal.pone.0237185 
+PMCID: PMC7410289
+PMID: 32760103 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

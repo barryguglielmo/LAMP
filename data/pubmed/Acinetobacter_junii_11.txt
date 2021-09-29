@@ -1,0 +1,43 @@
+
+1. Bioresour Technol. 2019 Dec;293:122062. doi: 10.1016/j.biortech.2019.122062. Epub
+2019 Aug 24.
+
+Polyhydroxy butyrate production by Acinetobacter junii BP25, Aeromonas hydrophila
+ATCC 7966, and their co-culture using a feast and famine strategy.
+
+Anburajan P(1), Naresh Kumar A(1), Sabapathy PC(2), Kim GB(1), Cayetano RD(1),
+Yoon JJ(3), Kumar G(4), Kim SH(5).
+
+Author information: 
+(1)School of Civil and Environmental Engineering, Yonsei University, Seoul 03722,
+Republic of Korea.
+(2)School of Food and Biological Engineering, Jiangsu University, Zhenjiang,
+Jiangsu Province, China.
+(3)Intelligent Sustainable Materials R&BD Group, Korea Institute of Industrial
+Technology (KITECH), Cheonan, Chungnam 31056, Republic of Korea.
+(4)Institute of Chemistry, Bioscience and Environmental Engineering, Faculty of
+Science and Technology, University of Stavanger, Box 8600 Forus, 4036 Stavanger, 
+Norway.
+(5)School of Civil and Environmental Engineering, Yonsei University, Seoul 03722,
+Republic of Korea. Electronic address: sanghkim@yonsei.ac.kr.
+
+The study aimed to evaluate biopolymer production using two bacterial strains,
+Acinetobacter junii BP25 and Aeromonas hydrophila ATCC 7966, and their
+co-culture. Batch experiments were evaluated using acetate and butyrate as carbon
+sources in feast and famine strategy. Feast phase was studied using carbon,
+nitrates and phosphate in the ratio of 100:8:1 and famine phase was limited with 
+the phosphate and nitrates. Co-culture resulted in highest specific growth rate
+(0.30 h-1) in the feast phase and the famine phase accounted the maximum
+polyhydroxybutyrate (PHB) accumulation (2.46 g PHB/L), followed by Acinetobacter 
+junii BP25 (0.25 h-1 and 1.82 g PHB/L) and Aeromonas hydrophila ATCC 7966
+(0.17 h-1 and 1.12 g PHB/L). Fourier-transform infrared spectroscopy (FT-IR) and 
+nuclear magnetic resonance spectroscopy (NMR) structural analysis confirmed as
+PHB. PHB production using the co-culture could be integrated with biohydrogen
+process using volatile fatty acids (VFA) as a carbon source in the biorefinery
+framework.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biortech.2019.122062 
+PMID: 31494436  [Indexed for MEDLINE]
+

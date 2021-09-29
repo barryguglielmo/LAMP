@@ -1,0 +1,36 @@
+
+1. BMC Res Notes. 2020 Jun 15;13(1):289. doi: 10.1186/s13104-020-05126-x.
+
+Application of median lethal concentration (LC50) of pathogenic microorganisms
+and their antigens in vaccine development.
+
+Saganuwan SA(1).
+
+Author information: 
+(1)Department of Veterinary Pharmacology and Toxicology, College of Veterinary
+Medicine, Federal University of Agriculture, P.M.B. 2373, Makurdi, Benue,
+Nigeria. pharm_saga2006@yahoo.com.
+
+OBJECTIVE: Lack of ideal mathematical models to qualify and quantify both
+pathogenicity, and virulence is a dreadful setback in development of new
+antimicrobials and vaccines against resistance pathogenic microorganisms. Hence, 
+the modified arithmetical formula of Reed and Muench has been integrated with
+other formulas and used to determine bacterial colony forming unit/viral
+concentration, virulence and immunogenicity.
+RESULTS: Microorganisms' antigens tested are Staphylococcus aureus, Streptococcus
+pneumoniae, Pseudomonas aeruginosa in mice and rat, Edwardsiella ictaluri,
+Aeromonas hydrophila, Aeromonas veronii in fish, New Castle Disease virus in
+chicken, Sheep Pox virus, Foot-and-Mouth Disease virus and Hepatitis A virus in
+vitro, respectively. The LC50s for the pathogens using different routes of
+administrations are 1.93 × 103(sheep poxvirus) and 1.75 × 1010 for Staphylococcus
+aureus (ATCC29213) in rat, respectively. Titer index (TI) equals N log10 LC50 and
+provides protection against lethal dose in graded fashion which translates to
+protection index. N is the number of vaccine dose that could neutralize the LC50.
+Hence, parasite inoculum of 103 to 1011 may be used as basis for determination of
+LC50 and median bacterial concentrations (BC50).Pathogenic dose for immune
+stimulation should be sought at concentration about LC10.
+
+DOI: 10.1186/s13104-020-05126-x 
+PMCID: PMC7294769
+PMID: 32539814 
+

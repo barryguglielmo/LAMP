@@ -1,0 +1,38 @@
+
+1. J Nat Prod. 2019 Dec 27;82(12):3464-3468. doi: 10.1021/acs.jnatprod.9b00859. Epub
+2019 Dec 16.
+
+Reconsidering the Structure of Serlyticin-A.
+
+Tsui KY(1), Tombari RJ(1), Olson DE(1)(2)(3), Tantillo DJ(1).
+
+Author information: 
+(1)Department of Chemistry , University of California-Davis , 1 Shields Avenue , 
+Davis , California 95616 , United States.
+(2)Department of Biochemistry & Molecular Medicine, School of Medicine ,
+University of California, Davis , 2700 Stockton Blvd, Suite 2102 , Sacramento ,
+California 95817 , United States.
+(3)Center for Neuroscience , University of California, Davis , 544 Newton Ct ,
+Davis , California 95616 , United States.
+
+Serlyticin-A is a secondary metabolite first isolated from a culture of Serratia 
+ureilytica grown using squid pen as the sole carbon/nitrogen source. A previous
+study by Kuo et al. demonstrated that it has antioxidative and antiproliferative 
+properties. However, the proposed chemical structure of serlyticin-A is likely
+incorrect based on the thermodynamic instability of its three contiguous
+heteroatom-heteroatom bonds. Here, we use quantum chemical calculations to
+predict 1H and 13C chemical shifts for serlyticin-A and demonstrate a discrepancy
+between the calculated and experimental chemical shifts. We then propose several 
+reasonable alternative structures for serlyticin-A. Considering the known
+antioxidant and antiproliferative activity of hydroxamic acids as well as their
+stability and prevalence in natural products of bacterial origin, we believe that
+serlyticin-A is most likely 3-indolylacetohydroxamic acid (4). We provide our
+rationale for this assignment as well as experimental data for pure
+3-indolylacetohydroxamic acid obtained via de novo synthesis. This study
+highlights the power of computational NMR shift prediction to revise chemical
+structures for natural products like serlyticin-A.
+
+DOI: 10.1021/acs.jnatprod.9b00859 
+PMCID: PMC7187649 [Available on 2020-12-27]
+PMID: 31840986 
+

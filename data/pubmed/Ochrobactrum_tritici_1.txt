@@ -1,0 +1,42 @@
+
+1. J Microbiol Biotechnol. 2020 Jul 28;30(7):996-1004. doi: 10.4014/jmb.1912.12030.
+
+Removal of Chromium (VI) by Escherichia coli Cells Expressing Cytoplasmic or
+Surface-Displayed ChrB: a Comparative Study.
+
+Zhou X(1), Li J(1), Wang W(1), Yang F(1), Fan B(1), Zhang C(1), Ren X(1), Liang
+F(1), Cheng R(2), Jiang F(1), Zhou H(1), Yang J(1), Tan G(1), Lyu J(1), Wang
+W(1).
+
+Author information: 
+(1)Zhejiang Provincial Key Laboratory for Technology and Application of Model
+Organisms, School of Laboratory Medicine and Life Sciences, Wenzhou Medical
+University, Wenzhou 325035, Zhejiang, P.R. China.
+(2)School of Public Health and Management, Wenzhou Medical University, Wenzhou
+325035, Zhejiang, P.R. China.
+
+Various genetically engineered microorganisms have been developed for the removal
+of heavy metal contaminants. Metal biosorption by whole-cell biosorbents can be
+enhanced by overproduction of metal-binding proteins/peptides in the cytoplasm or
+on the cell surface. However, few studies have compared the biosorption capacity 
+of whole cells expressing intracellular or surface-displayed metal-adsorbing
+proteins. In this study, several constructs were prepared for expressing
+intracellular and surface-displayed Ochrobactrum tritici 5bvl1 ChrB in
+Escherichia coli BL21(DE3) cells. E. coli cells expressing surface-displayed ChrB
+removed more Cr(VI) from aqueous solutions than cells with cytoplasmic ChrB under
+the same conditions. However, intracellular ChrB was less susceptible to
+variation in extracellular conditions (pH and ionic strength), and more
+effectively removed Cr(VI) from industrial wastewater than the surface-displayed 
+ChrB at low pH (<3). An adsorptiondesorption experiment demonstrated that
+compared with intracellular accumulation, cell-surface adsorption is reversible, 
+which allows easy desorption of the adsorbed metal ions and regeneration of the
+bioadsorbent. In addition, an intrinsic ChrB protein fluorescence assay suggested
+that pH and salinity may influence the Cr(VI) adsorption capacity of
+ChrB-expressing E. coli cells by modulating the ChrB protein conformation.
+Although the characteristics of ChrB may not be universal for all metal-binding
+proteins, our study provides new insights into different engineering strategies
+for whole-cell biosorbents for removing heavy metals from industrial effluents.
+
+DOI: 10.4014/jmb.1912.12030 
+PMID: 32238765 
+

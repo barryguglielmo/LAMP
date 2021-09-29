@@ -1,0 +1,44 @@
+
+1. Protein Sci. 2020 Sep 4. doi: 10.1002/pro.3941. [Epub ahead of print]
+
+Symmetry breaking and structural polymorphism in a bacterial microcompartment
+shell protein for choline utilization.
+
+Ochoa JM(1), Nguyen VN(2), Nie M(2), Sawaya MR(3), Bobik TA(4), Yeates
+TO(1)(2)(3).
+
+Author information: 
+(1)UCLA-Molecular Biology Institute, University of California, Los Angeles
+(UCLA), California, Los Angeles, USA.
+(2)Department of Chemistry and Biochemistry, University of California, Los
+Angeles (UCLA), California, Los Angeles, USA.
+(3)UCLA-DOE Institute of Genomics and Proteomics, University of California, Los
+Angeles (UCLA), California, Los Angeles, USA.
+(4)Department of Biochemistry, Biophysics and Molecular Biology; Iowa State
+University, Ames, Iowa, USA.
+
+Bacterial microcompartments are protein-based organelles that carry out
+specialized metabolic functions in diverse bacteria. Their outer shells are built
+from several thousand protein subunits. Some of the architectural principles of
+bacterial microcompartments have been articulated, with lateral packing of flat
+hexameric BMC proteins providing the basic foundation for assembly. Nonetheless, 
+a complete understanding has been elusive, partly owing to polymorphic mechanisms
+of assembly exhibited by most microcompartment types. An earlier study of one
+homologous BMC shell protein subfamily, EutS/PduU, revealed a profoundly bent,
+rather than flat, hexameric structure. The possibility of a specialized
+architectural role was hypothesized, but artifactual effects of crystallization
+could not be ruled out. Here we report a series of crystal structures of an
+orthologous protein, CutR, from a glycyl-radical type choline-utilizing
+microcompartment from the bacterium Streptococcus intermedius. Depending on
+crystal form, expression construct, and minor mutations, a range of novel
+quaternary architectures was observed, including two spiral hexagonal assemblies.
+A new graphical approach helps illuminate the variations in BMC hexameric
+structure, with results substantiating the idea that the EutS/PduU/CutR subfamily
+of BMC proteins may endow microcompartment shells with flexible modes of
+assembly.
+
+© 2020 The Protein Society.
+
+DOI: 10.1002/pro.3941 
+PMID: 32885887 
+

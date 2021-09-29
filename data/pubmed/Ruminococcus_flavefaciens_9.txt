@@ -1,0 +1,42 @@
+
+1. Aging (Albany NY). 2020 Jun 2;12(11):10736-10753. doi: 10.18632/aging.103290.
+Epub 2020 Jun 2.
+
+Structural and functional changes of gut microbiota in ovariectomized rats and
+their correlations with altered bone mass.
+
+Ma S(1), Qin J(2), Hao Y(1), Shi Y(3), Fu L(1).
+
+Author information: 
+(1)Shanghai Key Laboratory of Orthopaedic Implants, Department of Orthopaedic
+Surgery, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School
+of Medicine, Shanghai, China.
+(2)Department of Microbiology and Immunology, Institutes of Medical Sciences,
+Shanghai Jiao Tong University School of Medicine, Shanghai, China.
+(3)Department of Orthopaedics, Shuguang Hospital Affiliated to Shanghai
+University of Traditional Chinese Medicine, Shanghai, China.
+
+As a critical factor involved in the maintenance of physiological homeostasis,
+the gut microbiota (GM) reportedly plays a key role in bone development. To date,
+the association between the GM and steroid deficiency-induced osteoporosis
+remains poorly understood. Forty female Sprague Dawley rats were divided into an 
+ovariectomy (OVX) or control group. We performed 16S rRNA and metagenome
+sequencing, to compare diversity, taxonomic differences, and functional genes.
+The GM composition did not change in the control group and the number of
+operational taxonomic units increased significantly following ovariectomy. Alpha 
+diversity, determined by ACE estimator, CHAO estimator, the Shannon index, and
+the Simpson index showed an increasing trend after ovariectomy. Samples in the
+OVX group were well clustered both pre- and post-ovariectomy, as demonstrated by 
+principal coordinate 1 (PC1) and PC2. Functional genes of GM, including those
+involved in synthesis and metabolism of carbohydrates and nucleotides, microbial 
+structure, and heme, as well as hemin uptake and utilization, increased at the
+early stage of osteoporosis. We observed that Ruminococcus flavefaciens exhibited
+the greatest variation in abundance among the GM and this was also associated
+with osteoclastic indicators and the estrobolome. Specific changes in fecal
+microbiota are associated with the pathogenesis of steroid deficiency-induced
+osteoporosis.
+
+DOI: 10.18632/aging.103290 
+PMCID: PMC7346027
+PMID: 32484785 
+

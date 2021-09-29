@@ -1,0 +1,62 @@
+
+1. Front Cell Infect Microbiol. 2020 May 5;10:167. doi: 10.3389/fcimb.2020.00167.
+eCollection 2020.
+
+Significant Short-Term Shifts in the Microbiomes of Smokers With Periodontitis
+After Periodontal Therapy With Amoxicillin & Metronidazole as Revealed by 16S
+rDNA Amplicon Next Generation Sequencing.
+
+Hagenfeld D(1), Matern J(1), Prior K(1), Harks I(1), Eickholz P(2), Lorenz K(3), 
+Kim TS(4), Kocher T(5), Meyle J(6), Kaner D(7)(8), Schlagenhauf U(9), Harmsen
+D(1), Ehmke B(1).
+
+Author information: 
+(1)Department of Periodontology and Operative Dentistry, Münster University
+Hospital, Münster, Germany.
+(2)Department of Periodontology, Johann Wolfgang Goethe-University Frankfurt,
+Frankfurt, Germany.
+(3)Department of Periodontology, TU Dresden, Dresden, Germany.
+(4)Section of Periodontology, Department of Conservative Dentistry, University
+Hospital Heidelberg, Heidelberg, Germany.
+(5)Unit of Periodontology, University Medicine Greifswald, Greifswald, Germany.
+(6)Department of Periodontology, University of Giessen, Giessen, Germany.
+(7)Department of Periodontology, Dental School, Faculty of Health, University of 
+Witten/Herdecke, Witten, Germany.
+(8)Departments of Periodontology and Synoptic Dentistry, Charité University
+Medicine Berlin, Berlin, Germany.
+(9)Department of Periodontology, University Hospital Würzburg, Würzburg, Germany.
+
+The aim of this follow-up study was, to compare the effects of mechanical
+periodontal therapy with or without adjunctive amoxicillin and metronidazole on
+the subgingival microbiome of smokers with periodontitis using 16S rDNA amplicon 
+next generation sequencing. Fifty-four periodontitis patients that smoke received
+either non-surgical periodontal therapy with adjunctive amoxicillin and
+metronidazole (n = 27) or with placebos (n = 27). Subgingival plaque samples were
+taken before and two months after therapy. Bacterial genomic DNA was isolated and
+the V4 hypervariable region of the bacterial 16S rRNA genes was amplified. Up to 
+96 libraries were normalized and pooled for Illumina MiSeq paired-end sequencing 
+with almost fully overlapping 250 base pairs reads. Exact ribosomal sequence
+variants (RSVs) were inferred with DADA2. Microbial diversity and changes on the 
+genus and RSV level were analyzed with non-parametric tests and a negative
+binomial regression model, respectively. Before therapy, the demographic,
+clinical, and microbial parameters were not significantly different between the
+placebo and antibiotic groups. Two months after the therapy, clinical parameters 
+improved and there was a significantly increased dissimilarity of microbiomes
+between the two groups. In the antibiotic group, there was a significant
+reduction of genera classified as Porphyromonas, Tannerella, and Treponema, and
+22 other genera also decreased significantly, while Selenomonas, Capnocytophaga, 
+Actinomycetes, and five other genera significantly increased. In the placebo
+group, however, there was not a significant decrease in periodontal pathogens
+after therapy and only five other genera decreased, while Veillonella and nine
+other genera increased. We conclude that in periodontitis patients who smoke,
+microbial shifts occurred two months after periodontal therapy with either
+antibiotics or placebo, but genera including periodontal pathogens decreased
+significantly only with adjunctive antibiotics.
+
+Copyright © 2020 Hagenfeld, Matern, Prior, Harks, Eickholz, Lorenz, Kim, Kocher, 
+Meyle, Kaner, Schlagenhauf, Harmsen and Ehmke.
+
+DOI: 10.3389/fcimb.2020.00167 
+PMCID: PMC7232543
+PMID: 32477961 
+

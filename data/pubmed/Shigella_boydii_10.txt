@@ -1,0 +1,45 @@
+
+1. Eur J Clin Microbiol Infect Dis. 2020 Sep;39(9):1727-1737. doi:
+10.1007/s10096-020-03908-6. Epub 2020 Apr 29.
+
+Molecular characterization of Shigella species isolated from diarrheal patients
+in Tehran, Iran: phylogenetic typing and its association with virulence gene
+profiles and a novel description of Shigella invasion associated locus.
+
+Arabshahi S(1), Novinrooz A(2), Ranjbar R(1), Imani Fooladi AA(3).
+
+Author information: 
+(1)Applied Microbiology Research Center, Systems Biology and Poisonings
+Institute, Baqiyatallah University of Medical Sciences, Tehran, Iran.
+(2)Department of Pathobiology, School of Veterinary Medicine, Shiraz University, 
+Shiraz, Iran.
+(3)Applied Microbiology Research Center, Systems Biology and Poisonings
+Institute, Baqiyatallah University of Medical Sciences, Tehran, Iran.
+Imanifouladi.a@gmail.com.
+
+The present study aims to employ a multiplex PCR-based method for phylogenetic
+typing of Shigella and determine the frequency of several virulence genes among
+Shigella phylogenetic clades and species. Species identification, phylogenetic
+typing of 44 previously diagnosed Shigella isolates, and frequency of virulence
+genes and loci, virA, virB, virF, ipaBCD, ial, sen, and set1A were investigated
+through performing several PCR assays. Distribution of virulence genes among
+Shigella phylogenetic clades and species was determined by the statistical
+analysis. The identities of 40 isolates out of 44 were confirmed as Shigella, and
+these isolates were classified in four phylogenetic clades, S1 (7.5%), S2
+(52.5%), S3 (20%), and S5 (20%) and 4 species, S. sonnei (52.5%), S. flexneri
+(22.5%), S. dysenteriae (20%), and S. boydii (5%). The prevalence of virA, virB, 
+virF, ipaBCD, ial, sen, and set1A was determined as 67.5%, 72.5%, 72.5%, 65%,
+75%, 40%, and 5%, respectively. The presence of sen, uidA, or set1A was found to 
+be statistically correlated with either of Shigella phylogenetic clades or
+species. A significant statistically association was also determined between
+set1A and Shigella phylogenetic clades. Furthermore, the nucleotide sequence of
+invasion-associated locus (ial) was determined and mapped on Shigella genome
+through in silico analysis. The current study shows the distribution of Shigella 
+isolates and its key virulence genes within the five recently described
+phylogenetic clades for the first time in the Asia. This is also the first
+description of ial nucleotide sequence and its exact location on Shigella genome 
+after its initial identification.
+
+DOI: 10.1007/s10096-020-03908-6 
+PMID: 32350738 
+

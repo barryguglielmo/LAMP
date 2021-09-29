@@ -1,0 +1,50 @@
+
+1. Infect Chemother. 2020 Sep;52(3):345-351. doi: 10.3947/ic.2020.52.3.345.
+
+Optimizing the Dosing Regimens of Tigecycline against Vancomycin-Resistant
+Enterococci in the Treatment of Intra-abdominal and Skin and Soft Tissue
+Infections.
+
+Santimaleeworagun W(1)(2), Hemapanpairoa J(3)(4), Changpradub D(5), Thunyaharn
+S(6).
+
+Author information: 
+(1)Department of Pharmacy, Faculty of Pharmacy, Silpakorn University, Nakorn
+Pathom, Thailand.
+(2)Pharmaceutical Initiative for Resistant Bacteria and Infectious Diseases
+Working Group (PIRBIG), Nakorn Pathom, Thailand. swichai1234@gmail.com.
+(3)Pharmaceutical Initiative for Resistant Bacteria and Infectious Diseases
+Working Group (PIRBIG), Nakorn Pathom, Thailand.
+(4)Department of Pharmacy Practice and Pharmaceutical Care, Faculty of
+Pharmaceutical Sciences, Burapha University, Chonburi, Thailand.
+(5)Division of Infectious Disease, Department of Medicine, Phramongkutklao
+Hospital, Bangkok, Thailand.
+(6)Faculty of Medical Technology, Nakhonratchasima College, Nakhon Ratchasima,
+Thailand.
+
+Tigecycline was previously considered to have activity against
+vancomycin-resistant Enterococcus (VRE) isolates, but the optimal dose was not
+clarified. Thus, this study assessed the in vitro activity of tigecycline against
+clinical VRE isolates to determine its optimal regimens for complicated
+intra-abdominal (cIAIs) and complicated skin/soft tissue infections (cSSTIs). We 
+used Monte Carlo simulation to calculate the probability of target attainment
+(PTA) and the cumulative fraction of response for the ratio of the free area
+under the curve to the minimum inhibitory concentration (MIC) (fAUIC24), which
+were 17.9 and 6.9 for treating cSSTIs and cIAIs, respectively. All clinical
+isolates were Enterococcus faecium. Only a maintenance dose of 200 mg/day
+tigecycline gave the target attainment of fAUIC24 >17.9, and PTA exceeded 90% for
+MIC ≤0.38 μg/mL. Meanwhile, this dose gave the target attainment of fAUIC24 >6.9,
+and PTA exceeded 90% for MIC ≤1 μg/mL. All simulated tigecycline dosing regimens 
+met the fAUIC24 targets more than 90% of the cumulative fraction of response.
+Despite its apparent efficacy, a daily tigecycline dose of 200 mg is recommended 
+for VRE isolates with MICs of ≤0.38 μg/mL and ≤1 μg/mL for treating cSSTIs and
+cIAIs, respectively.
+
+Copyright © 2020 by The Korean Society of Infectious Diseases, Korean Society for
+Antimicrobial Therapy, and The Korean Society for AIDS.
+
+DOI: 10.3947/ic.2020.52.3.345 
+PMID: 32989939 
+
+Conflict of interest statement: No conflicts of interest.
+

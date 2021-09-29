@@ -1,0 +1,48 @@
+
+1. Food Res Int. 2020 Oct;136:109508. doi: 10.1016/j.foodres.2020.109508. Epub 2020 
+Jul 8.
+
+The role of the general stress response regulator RpoS in Cronobacter sakazakii
+biofilm formation.
+
+Fernández-Gómez P(1), López M(2), Prieto M(2), González-Raurich M(2),
+Alvarez-Ordóñez A(3).
+
+Author information: 
+(1)Department of Food Hygiene and Technology, Universidad de León, León, Spain.
+(2)Department of Food Hygiene and Technology, Universidad de León, León, Spain;
+Institute of Food Science and Technology, Universidad de León, León, Spain.
+(3)Department of Food Hygiene and Technology, Universidad de León, León, Spain;
+Institute of Food Science and Technology, Universidad de León, León, Spain.
+Electronic address: aalvo@unileon.es.
+
+The relationship between biofilm formation and RpoS status was assessed in nine
+field isolates of C. sakazakii. Their ability to form biofilms was studied in BHI
+and minimum media with different pH values and supplemented or not with the amino
+acids arginine, lysine and glutamic acid. Biofilm formation, both on polystyrene 
+and stainless steel, was measured by spectrometric determination of the fixed
+crystal violet and the biofilms were visualized by confocal laser scanning
+microscopy and scanning electron microscopy. Despite the existing heterogeneity
+among the different strains, biofilm formation was generally higher in buffered
+minimum media (pH 7.0) supplemented with lysine than in other culture media and
+on stainless steel plates than on polystyrene. The results showed a lower ability
+to form biofilms for a strain with a loss-of-function mutation in the rpoS gene, 
+the general stress response regulator of Gram-negative bacteria, when compared to
+the rest of the strains, which harboured a functional rpoS. The complementation
+of this strain with a functional rpoS gene resulted in an increase in its biofilm
+formation ability up to levels comparable to those observed for strains with a
+functional rpoS. However, the differences were markedly reduced when the
+incubation time was increased from 24 to 48 h, indicating that the loss of RpoS
+caused a delay in the development of mature biofilms, rather than a complete
+inhibition of biofilm production in C. sakazakii.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foodres.2020.109508 
+PMID: 32846586 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

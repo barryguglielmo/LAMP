@@ -1,0 +1,40 @@
+
+1. J Basic Microbiol. 2020 Jan;60(1):22-26. doi: 10.1002/jobm.201900323. Epub 2019
+Nov 6.
+
+czcD gene from Bacillus megaterium and Microbacterium liquefaciens as a potential
+nickel-vanadium soil pollution biomarker.
+
+Fierros-Romero G(1)(2), Gómez-Ramírez M(1), Sharma A(2), Pless RC(1),
+Rojas-Avelizapa NG(1).
+
+Author information: 
+(1)Centro de Investigación en Ciencia Aplicada y Tecnología Avanzada, Instituto
+Politécnico Nacional, Querétaro, Mexico.
+(2)School of Engineering and Sciences, Tecnologico de Monterrey, Campus
+Querétaro, Querétaro, Mexico.
+
+Metals are among the most prevalent pollutants released into the environment. For
+these reasons, the use of biomarkers for environmental monitoring of individuals 
+and populations exposed to metal pollution has gained considerable attention,
+offering fast and sensitive detection of chemical stress in organisms. There are 
+different metal resistance genes in bacteria that can be used as biomarkers,
+including cation diffusion facilitators carrying metal ions; the prototype is the
+cobalt-zinc-cadmium transporter (czcD). The present study reports the expression 
+changes in the czcD gene in Bacillus megaterium and Microbacterium liquefaciens
+under nickel and vanadium exposure by real-time polymerase chain reaction. The
+nickel-vanadium-resistant strains of B. megaterium and M. liquefaciens used in
+this study were isolated from mine tailings in Guanajuato, Mexico. The czcD gene 
+showed high expression under exposure to 200 ppm of Ni and 200 ppm of V during
+the logarithmic growth phase of M. liquefaciens in PHGII liquid media. In
+contrast, no changes were observed in B. megaterium during logarithmic and
+stationary growth, perhaps due to the gene having differential expression during 
+the growth phases. The expression profiles obtained for czcD show the possibility
+of using this gene from M. liquefaciens as a biomarker of nickel and vanadium
+pollution in microorganisms.
+
+© 2019 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/jobm.201900323 
+PMID: 31692013  [Indexed for MEDLINE]
+

@@ -1,0 +1,59 @@
+
+1. Biomed Res Int. 2019 Oct 20;2019:9530963. doi: 10.1155/2019/9530963. eCollection 
+2019.
+
+Halotolerant Rhizobacterial Strains Mitigate the Adverse Effects of NaCl Stress
+in Soybean Seedlings.
+
+Khan MA(1), Asaf S(2), Khan AL(2), Adhikari A(1), Jan R(1), Ali S(1), Imran M(1),
+Kim KM(1), Lee IJ(1)(3).
+
+Author information: 
+(1)School of Applied Biosciences, Kyungpook National University, Daegu 41566,
+Republic of Korea.
+(2)Natural and Medical Sciences Research Center, University of Nizwa, Nizwa 616, 
+Oman.
+(3)Research Institute for Dok-do and Ulleung-do Island, Kyungpook National
+University, Daegu, Republic of Korea.
+
+Background: Salinity is one of the major abiotic constraints that hinder health
+and quality of crops. Conversely, halotolerant plant growth-promoting
+rhizospheric (PGPR) bacteria are considered biologically safe for alleviating
+salinity stress.
+Results: We isolated halotolerant PGPR strains from the rhizospheric soil of
+Artemisia princeps, Chenopodium ficifolium, Echinochloa crus-galli, and Oenothera
+biennis plants; overall, 126 strains were isolated. The plant growth-promoting
+traits of these isolates were studied by inoculating them with the soil used to
+grow soybean plants under normal and salt stress (NaCl; 200 mM) conditions. The
+isolates identified as positive for growth-promoting activities were subjected to
+molecular identification. Out of 126 isolates, five strains-Arthrobacter
+woluwensis (AK1), Microbacterium oxydans (AK2), Arthrobacter aurescens (AK3),
+Bacillus megaterium (AK4), and Bacillus aryabhattai (AK5)-were identified to be
+highly tolerant to salt stress and demonstrated several plant growth-promoting
+traits like increased production of indole-3-acetic acid (IAA), gibberellin (GA),
+and siderophores and increased phosphate solubilization. These strains were
+inoculated in the soil of soybean plants grown under salt stress (NaCl; 200 mM)
+and various physiological and morphological parameters of plants were studied.
+The results showed that the microbial inoculation elevated the antioxidant (SOD
+and GSH) level and K+ uptake and reduced the Na+ ion concentration. Moreover,
+inoculation of these microbes significantly lowered the ABA level and increased
+plant growth attributes and chlorophyll content in soybean plants under 200 mM
+NaCl stress. The salt-tolerant gene GmST1 was highly expressed with the highest
+expression of 42.85% in AK1-treated plants, whereas the lowest expression
+observed was 13.46% in AK5-treated plants. Similarly, expression of the IAA
+regulating gene GmLAX3 was highly depleted in salt-stressed plants by 38.92%,
+which was upregulated from 11.26% to 43.13% upon inoculation with the
+microorganism.
+Conclusion: Our results showed that the salt stress-resistant microorganism used 
+in these experiments could be a potential biofertilizer to mitigate the
+detrimental effects of salt stress in plants via regulation of phytohormones and 
+gene expression.
+
+Copyright © 2019 Muhammad Aaqil Khan et al.
+
+DOI: 10.1155/2019/9530963 
+PMCID: PMC6925695
+PMID: 31886270  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+

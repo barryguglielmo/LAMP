@@ -1,0 +1,85 @@
+
+1. Clin Infect Dis. 2020 Jun 26. pii: ciaa871. doi: 10.1093/cid/ciaa871. [Epub ahead
+of print]
+
+Microbiota-associated risk factors for C. difficile acquisition in hospitalized
+patients: A prospective, multicentric study.
+
+Solbach P(1)(2)(3)(4), Chhatwal P(2)(3), Woltemate S(2)(3), Tacconelli E(5)(6),
+Buhl M(6)(7), Autenrieth IB(6)(7), Vehreschild MJGT(8)(9)(10), Jazmati N(9)(11), 
+Gerhard M(12)(13), Stein-Thoeringer CK(13)(14), Rupp J(15)(16), Ulm K(17), Ott
+A(17), Lasch F(18), Koch A(18), Manns MP(1)(2), Suerbaum S(2)(3)(13)(19),
+Bachmann O(1)(2).
+
+Author information: 
+(1)Department of Gastroenterology, Hepatology and Endocrinology, Hannover Medical
+School, Hannover, Germany.
+(2)German Center for Infection Research (DZIF), partner site
+Hannover-Braunschweig, Germany.
+(3)Institute of Medical Microbiology and Hospital Epidemiology, Hannover Medical 
+School, Hannover, Germany.
+(4)Medical Department I, University Hospital Schleswig-Holstein, Lübeck, Germany.
+(5)Division of Infectious Diseases, Department of Internal Medicine 1, Tübingen
+University Hospital, Tübingen, Germany and Division of Infectious Diseases,
+Department of Diagnostics and Public Health, University of Verona, Italy.
+(6)German Center for Infection Research (DZIF), partner site Tübingen, Germany.
+(7)Institute of Medical Microbiology and Hygiene, Tübingen University Hospital,
+Tübingen, Germany.
+(8)1st Department of Internal Medicine, University Hospital Cologne, Cologne,
+Germany.
+(9)German Center for Infection Research (DZIF), partner site Bonn-Cologne,
+Germany.
+(10)Department of Internal Medicine, Infectious Diseases, University Hospital
+Frankfurt, Goethe University Frankfurt, Frankfurt am Main, Germany.
+(11)Institute for Medical Microbiology, Immunology and Hygiene, University
+Hospital Cologne, Cologne, Germany; currently: Laboratory Dr. Wisplinghoff,
+Cologne, Germany.
+(12)Institute for Medical Microbiology, Immunology and Hygiene, Technische
+Universität München, Munich, Germany.
+(13)German Center for Infection Research (DZIF), partner site Munich, Germany.
+(14)Microbiome and Cancer Research Division, German Center for Cancer Research
+(DKFZ), Heidelberg, Germany.
+(15)Department of Infectious Diseases and Microbiology, University Hospital
+Schleswig-Holstein, Lübeck, Germany.
+(16)German Center for Infection Research (DZIF), partner site
+Hamburg-Lübeck-Borstel-Riems, Germany.
+(17)Institute of Medical Informatics, Statistics and Epidemiology, Technische
+Universität München, Munich, Germany.
+(18)Institute for Biometry, Hannover Medical School, Hannover, Germany.
+(19)Chair of Medical Microbiology and Hospital Epidemiology, Max von Pettenkofer 
+Institute, Faculty of Medicine, LMU Munich, Munich, Germany.
+
+BACKGROUND: Asymptomatic C. difficile colonization is believed to predispose to
+subsequent C. difficile infection (CDI). While emerging insights into the role of
+the commensal microbiota in mediating colonization resistance against C.
+difficile have associated CDI with specific microbial components, corresponding
+prospectively collected data on colonization with C. difficile are largely
+unavailable.
+METHODS: C. difficile status was assessed by GDH EIA and real-time PCR targeting 
+the toxin A (tcdA) and B (tcdB) genes. 16S V3 and V4 gene sequencing results from
+fecal samples of patients tested positive for C. difficile were analyzed by
+assessing alpha and beta diversity, LefSe, and the Piphillin functional inference
+approach to estimate functional capacity.
+RESULTS: 1506 patients were recruited into a prospective observational study
+(DRKS00005335) upon admission into one of five academic hospitals. 936 of them
+provided fecal samples on admission and at discharge and were thus available for 
+longitudinal analysis. Upon hospital admission, 5.5% (83/1506) and 3.7% (56/1506)
+of patients were colonized with toxigenic (TCD) and non-toxigenic C. difficile
+(NTCD), respectively. During hospitalization, 1.7% (16/936) acquired TCD. Risk
+factors for acquisition of TCD included pre-existing lung diseases, lower GI
+endoscopy and antibiotics. Species protecting against hospital-related C.
+difficile acquisition included Gemmiger spp., Odoribacter splanchnicus,
+Ruminococcus bromii and other Ruminococcus spp.. Metagenomic pathway analysis
+identified steroid biosynthesis as the most underrepresented metabolic pathway in
+patients who later acquire C. difficile colonization.
+CONCLUSIONS: Gemmiger spp., Odoribacter splanchnicus, Ruminococcus bromii and
+other Ruminococci were associated with a decreased risk of C. difficile
+acquisition.
+
+© The Author(s) 2020. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/cid/ciaa871 
+PMID: 32589701 
+

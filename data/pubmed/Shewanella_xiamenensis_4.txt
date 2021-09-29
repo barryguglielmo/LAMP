@@ -1,0 +1,38 @@
+
+1. Int J Environ Res Public Health. 2019 Oct 8;16(19). pii: E3768. doi:
+10.3390/ijerph16193768.
+
+Characterization of Chromosome-Mediated BlaOXA-894 in Shewanella xiamenensis
+Isolated from Pig Wastewater.
+
+Zou H(1), Zhou Z(2), Xia H(3), Zhao Q(4), Li X(5).
+
+Author information: 
+(1)Department of environment and health, School of Public Health, Shandong
+University, Jinan 250012, China. zouhuiyun@mail.sdu.edu.cn.
+(2)Department of environment and health, School of Public Health, Shandong
+University, Jinan 250012, China. zhouziyu199622@mail.sdu.edu.cn.
+(3)Department of environment and health, School of Public Health, Shandong
+University, Jinan 250012, China. mosebyxhy@mail.sdu.edu.cn.
+(4)Department of environment and health, School of Public Health, Shandong
+University, Jinan 250012, China. 201835834@mail.sdu.edu.cn.
+(5)Department of environment and health, School of Public Health, Shandong
+University, Jinan 250012, China. lxw@sdu.edu.cn.
+
+A new variant of the blaOXA-546 gene, namely blaOXA-894, was identified on the
+chromosome of Shewanella xiamenensis isolated from pig wastewater in rural China.
+OXA-894 differs from OXA-546 (A46V, I219del) and OXA-48 (T167I, I219del) with two
+amino acid substitutions, respectively. The isolate was resistant to ampicillin, 
+aztreonam, imipenem, meropenem and fosfomycin. Carba NP test confirmed S.
+xiamenensis strain sx20 as a carbapenemase-producer. The blaOXA-894 gene was
+located between the gene encoding a LysR family transcriptional regulator and the
+C15 gene. Its gene environment was similar to other S. xiamenensis with
+chromosome-located blaOXA-48-like genes. The T24H and T94V amino acid
+substitutions of LuxS protein were predicted to be deleterious, which may affect 
+the virulence phenotype. The occurrence and potential health risk of
+carbapenem-resistant S. xiamenensis in a water environment is of concern.
+
+DOI: 10.3390/ijerph16193768 
+PMCID: PMC6801428
+PMID: 31597235  [Indexed for MEDLINE]
+

@@ -1,0 +1,53 @@
+
+1. Microb Cell Fact. 2020 Oct 1;19(1):186. doi: 10.1186/s12934-020-01449-3.
+
+Immunogenicity evaluation of recombinant Lactobacillus casei W56 expressing
+bovine viral diarrhea virus E2 protein in conjunction with cholera toxin B
+subunit as an adjuvant.
+
+Jia S(1), Huang X(1), Li H(1), Zheng D(1), Wang L(1), Qiao X(1), Jiang Y(1), Cui 
+W(1), Tang L(1)(2), Li Y(1)(2), Xu Y(3)(4).
+
+Author information: 
+(1)Heilongjiang Key Laboratory for Animal Disease Control and Pharmaceutical
+Development, College of Veterinary Medicine, Northeast Agricultural University,
+Harbin, P. R. China.
+(2)Northeast Science Inspection Station, Key Laboratory of Animal Pathogen
+Biology of Ministry of Agriculture of China, Harbin, P. R. China.
+(3)Heilongjiang Key Laboratory for Animal Disease Control and Pharmaceutical
+Development, College of Veterinary Medicine, Northeast Agricultural University,
+Harbin, P. R. China. yigangxu_china@sohu.com.
+(4)Northeast Science Inspection Station, Key Laboratory of Animal Pathogen
+Biology of Ministry of Agriculture of China, Harbin, P. R. China.
+yigangxu_china@sohu.com.
+
+BACKGROUND: Bovine viral diarrhea virus (BVDV) is one of the main causes of
+infectious diseases in cattle and causes large financial losses to the cattle
+industry worldwide. In this study, Lactobacillus casei strain W56 (Lc W56) was
+used as antigen deliver carrier to construct a recombinant Lactobacillus vaccine 
+pPG-E2-ctxB/Lc W56 constitutively expressing BVDV E2 protein fused with cholera
+toxin B subunit (ctxB) as an adjuvant, and its immunogenicity against BVDV
+infection in mice model by oral route was explored.
+RESULTS: Our results suggested that pPG-E2-ctxB/Lc W56 can effectively activate
+dendritic cells (DCs) in the Peyer's patches, up-regulate the expression of
+Bcl-6, and promote T-follicular helper (Tfh) cells differentiation, as well as
+enhance B lymphocyte proliferation and promote them differentiate into specific
+IgA-secreting plasma cells, secreting anti-E2 mucosal sIgA antibody with
+BVDV-neutralizing activity. Moreover, significant levels (p < 0.01) of
+BVDV-neutralizing antigen-specific serum antibodies were induced in the
+pPG-E2-ctxB/LC W56 group post-vaccination. The recombinant Lactobacillus vaccine 
+can induce cellular immune responses, and significant levels (p < 0.01) of
+Th1-associated cytokines (IL-2, IL-12, and IFN-γ), Th2-associated cytokines
+(IL-4, IL-10) and Th17-associated cytokine (IL-17) were determined in the serum
+of vaccinated mice. Significantly, the recombinant Lactobacillus vaccine provides
+immune protection against BVDV infection, which can be cleared effectively by the
+vaccine post-challenge in orally vaccinated animals.
+CONCLUSIONS: The genetically engineered Lactobacillus vaccine constructed in this
+study is immunogenic in mice and can induce mucosal, humoral, and cellular immune
+responses, providing effective anti-BVDV immune protection. It thus represents a 
+promising strategy for vaccine development against BVDV.
+
+DOI: 10.1186/s12934-020-01449-3 
+PMCID: PMC7527787
+PMID: 33004035 
+

@@ -1,0 +1,45 @@
+
+1. J Appl Microbiol. 2020 Sep 21. doi: 10.1111/jam.14853. [Epub ahead of print]
+
+Comparative analysis of beneficial effects of vancomycin treatment on Th1- and
+Th2-biased mice and the role of gut microbiota.
+
+Ray P(1), Pandey U(1), Aich P(1).
+
+Author information: 
+(1)School of Biological Sciences, National Institute of Science Education and
+Research (NISER), HBNI, Khurdha, Odisha, India.
+
+AIMS: The aim was to understand the time-dependent antibiotic-induced
+perturbation pattern of gut microbiota and its effect on the innate immune and
+metabolic profile of the host.
+METHODS AND RESULTS: Vancomycin was administered at 50 mg kg-1 of body weight
+twice daily for six consecutive days to perturb the gut microbiota of C57BL/6
+(Th1-biased) and BALB/c (Th2-biased) mice. Following treatment with vancomycin,
+we observed a reduction in the abundance of phyla Firmicutes and Bacteroides and 
+an increase in Proteobacteria in the gut for both strains of mice following
+treatment with vancomycin till day 4. Abundance of Akkermansia muciniphila of
+Verrucomicrobia phylum also increased, from day 5 onwards following vancomycin
+treatment. The time-dependent variation of gut microbiota was associated with
+increased (i) expression of toll-like receptors and inflammatory genes such as
+TNF-α, IL-6, and IL-17, (ii) gut barrier permeability and (iii) blood glucose
+level of the host. The results also showed that (i) transplantation of cecal
+microbiota from vancomycin-treated day 6 mice to day 3 vancomycin-treated mice
+helped in restoring blood glucose level in C57BL/6 mice and (ii) short-chain
+fatty acids like acetate, butyrate and propionate changed with the alteration of 
+gut microbiota to induce differential regulation of host immune response.
+CONCLUSIONS: The current results revealed that an increase in A. muciniphila led 
+to decreased inflammation and increased rate of glucose tolerance in the host.
+The treatment, with vancomycin till day 4, increased expression of inflammatory
+genes. The continuation of vancomycin for two more days reversed the effects. The
+effects were significantly more in C57BL/6 than BALB/c mice.
+SIGNIFICANCE AND IMPACT OF THE STUDY: The current study established that the
+treatment with vancomycin till day 4 increased pathogenic bacteria but day 5
+onwards provided significant health-related benefits to the host by increasing A.
+muciniphila more in C57BL/6 than BALB/c mice.
+
+© 2020 The Society for Applied Microbiology.
+
+DOI: 10.1111/jam.14853 
+PMID: 32955795 
+

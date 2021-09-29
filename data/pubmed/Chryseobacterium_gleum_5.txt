@@ -1,0 +1,36 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jan;70(1):93-99. doi: 10.1099/ijsem.0.003716.
+
+Chryseobacterium candidae sp. nov., isolated from a yeast (Candida tropicalis).
+
+B I(1), G K(1), N S(1), A S(2), Ch S(1), Ch V R(1).
+
+Author information: 
+(1)Department of Plant Sciences, School of Life Sciences, University of
+Hyderabad, P.O. Central University, Hyderabad 500046, India.
+(2)Bacterial Discovery Laboratory, Centre for Environment, Institute of Science
+and Technology, J. N. T. University Hyderabad, Kukatpally, Hyderabad 500085,
+India.
+
+A Gram-stain-negative, rod shaped, non-motile, aerobic bacterium (strain JC507T) 
+was isolated from a yeast (Candida tropicalis JY101). Strain JC507T was oxidase- 
+and catalase-positive. Complete 16S rRNA gene sequence comparison data indicated 
+that strain JC507T was a member of the genus Chryseobacterium and was closely
+related to Chryseobacterium indologenes NBRC 14944T (98.7 %), followed by
+Chryseobacterium arthrosphaerae CC-VM-7T (98.6 %), Chryseobacterium gleum ATCC
+35910T (98.5 %) and less than 98.5 % to other species of the genus
+Chryseobacterium.The genomic DNA G+C content of strain JC507T was 36.0 mol%.
+Strain JC507T had phosphatidylethanolamine, four unidentified amino lipids and
+four unidentified lipids. MK-6 was the only respiratory quinone. The major fatty 
+acids (>10 %) were anteiso-C11 : 0, iso-C15 : 0 and iso-C17 : 03OH. The average
+nucleotide identity and in silico DNA-DNA hybridization values between strain
+JC507T and C. indologenes NBRC 14944T, C. arthrosphaerae CC-VM-7T and C. gleum
+ATCC 35910T were 80.2, 83.0 and 87.0 % and 24, 26.7 and 32.7 %, respectively. The
+results of phenotypic, phylogenetic and chemotaxonomic analyses support the
+inclusion of strain JC507T as a representative of a new species of the genus
+Chryseobacterium, for which the name Chryseobacteriumcandidae sp. nov. is
+proposed. The type strain is JC507T (=KCTC 52928T=MCC 4072T=NBRC 113872T).
+
+DOI: 10.1099/ijsem.0.003716 
+PMID: 31535961  [Indexed for MEDLINE]
+

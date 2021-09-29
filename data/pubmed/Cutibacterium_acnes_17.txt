@@ -1,0 +1,45 @@
+
+1. Arch Bone Jt Surg. 2020 Jul;8(4):506-510. doi: 10.22038/abjs.2020.40642.2095.
+
+Cutibacterium acnes is Isolated from Air Swabs: Time to Doubt the Value of
+Traditional Cultures in Shoulder Surgery?
+
+Namdari S(1), Nicholson T(1), Parvizi J(1).
+
+Author information: 
+(1)Rothman Institute, Thomas Jefferson University, Department of Orthopaedic
+Surgery, Philadelphia, PA, USA.
+
+Background: Given high rates of positive Cutibacterium acnes (C. acnes) cultures 
+in cases of both primary and revision shoulder surgery, the ramifications of
+positive C. acnes cultures remain uncertain. Next generation sequencing (NGS) is 
+a molecular tool that sequences the whole bacterial genome and is capable of
+identifying pathogens and the relative percent abundance in which they appear
+within a sample. The purpose of this study was to report the false positive
+culture rate in negative control specimens and to determine whether NGS has
+potential value in reducing the rate of false positive results.
+Methods: Between April 2017 and May 2017 swabs were taken during primary shoulder
+arthroplasty. After surgical time out, using sterile gloves, a sterile swab was
+opened and exposed to the air for 5 seconds, returned to its contained, and
+sealed. One swab was sent to our institution's microbiology laboratory for
+aerobic and anaerobic culture and held for 13 days. The other sample was sent for
+NGS (MicroGen Dx, Lubbock, TX), where samples were amplified for pyrosequencing
+using a forward and reverse fusion primer and matched against a DNA library for
+species identification.
+Results: For 40 consecutive cases, swabs were sent for culture and NGS. C. acnes 
+was identified by culture in 6/40 (15%) swabs and coagulase negative
+staphylococcus (CNS) was identified in 3/40 (7.5%). Both cases with positive NGS 
+sequencing reported polymicrobial results with one sample (2.5%), including a
+relative abundance of 3% C. acnes. At 90 days after surgery, there were no cases 
+of clinical infection in any of the 40 cases.
+Conclusion: We demonstrate that the two most commonly cultured organisms (C.
+acnes and CNS) during revision shoulder arthroplasty are also the two most
+commonly cultured organisms from negative control specimens. Contamination can
+come from air in the operating room or laboratory contamination.
+
+COPYRIGHT 2020 © BY THE ARCHIVES OF BONE AND JOINT SURGERY.
+
+DOI: 10.22038/abjs.2020.40642.2095 
+PMCID: PMC7443066
+PMID: 32884971 
+

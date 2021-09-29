@@ -1,0 +1,49 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jun;70(6):3755-3762. doi: 10.1099/ijsem.0.003969.
+
+Genome-based reclassification of Lactobacillus casei: emended classification and 
+description of the species Lactobacillus zeae.
+
+Huang CH(1), Chen CC(2)(3)(4), Liou JS(1), Lee AY(1), Blom J(5), Lin YC(6), Huang
+L(1), Watanabe K(1)(7).
+
+Author information: 
+(1)Bioresource Collection and Research Center, Food Industry Research and
+Development Institute, 331 Shih-Pin Rd, Hsinchu 30062, Taiwan, ROC.
+(2)Institute of Medical Science and Technology, National Sun Yat-sen University, 
+Kaohsiung 80424, Taiwan, ROC.
+(3)General Institute of Clinical Medicine, Kaohsiung Medical University,
+Kaohsiung 80708, Taiwan, ROC.
+(4)Rapid Screening Research Center for Toxicology and Biomedicine, National Sun
+Yat-sen University, Kaohsiung 80424, Taiwan, ROC.
+(5)Bioinformatics and Systems Biology, Justus-Liebig-University Giessen, Giessen,
+35392, Germany.
+(6)Livestock Research Institute, Council of Agriculture, Executive Yuan, Tainan, 
+Taiwan, ROC.
+(7)Department of Animal Science and Technology, College of Bioresources and
+Agriculture, National Taiwan University, Taipei 10673, Taiwan, ROC.
+
+Taxonomic relationships between Lactobacillus casei, Lactobacillus paracasei and 
+Lactobacillus zeae have long been debated. Results of previous analyses have
+shown that overall genome relatedness indices (such as average nucleotide
+identity and core nucleotide identity) between the type strains L. casei ATCC
+393T and L. zeae ATCC 15820T were 94.6 and 95.3 %, respectively, which are
+borderline for species definition. However, the digital DNA‒DNA hybridization
+value was 57.3 %, which was clearly lower than the species delineation threshold 
+of 70 %, and hence raised the possibility that L. casei could be reclassified
+into two species. To re-evaluate the taxonomic relationship of these taxa,
+multilocus sequence analysis (MLSA) based on the concatenated five housekeeping
+gene (dnaJ, dnaK, mutL, pheS and yycH) sequences, phylogenomic and core genome
+multilocus sequence typing analyses, gene presence and absence profiles using
+pan-genome analysis, matrix-assisted laser desorption/ionization time-of-flight
+mass spectrometry (MALDI-TOF MS) profiling analysis, cellular fatty acid
+compositions, and phenotype analysis were carried out. The results of phenotypic 
+characterization, MLSA, whole-genome sequence-based analyses and MALDI-TOF MS
+profiling justified an independent species designation for the L. zeae strains,
+and supported an emended the description of the name of Lactobacillus zeae (ex
+Kuznetsov 1956) Dicks et al. 1996, with ATCC 15820T (=DSM 20178T=BCRC 17942T) as 
+the type strain.
+
+DOI: 10.1099/ijsem.0.003969 
+PMID: 32421490  [Indexed for MEDLINE]
+

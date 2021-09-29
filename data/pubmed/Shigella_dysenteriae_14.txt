@@ -1,0 +1,40 @@
+
+1. Toxins (Basel). 2020 May 11;12(5). pii: E316. doi: 10.3390/toxins12050316.
+
+Verotoxin-1-Induced ER Stress Triggers Apoptotic or Survival Pathways in Burkitt 
+Lymphoma Cells.
+
+Debernardi J(1), Pioche-Durieu C(2), Cam EL(3), Wiels J(1), Robert A(4).
+
+Author information: 
+(1)UMR 8126 CNRS, Institut Gustave Roussy, Université Paris-Saclay, 94805
+Villejuif, France.
+(2)UMR 7592 CNRS, Institut Jacques Monod, Université Paris Diderot-Paris 7, CEDEX
+13, 75205 Paris, France.
+(3)UMR8200 CNRS, Institut Gustave Roussy, Université Paris-Saclay, 94805
+Villejuif, France.
+(4)INSERM U1279, Institut Gustave Roussy, Université Paris-Saclay, 94805
+Villejuif, France.
+
+Shiga toxins (Stxs) expressed by the enterohaemorrhagic Escherichia coli and
+enteric Shigella dysenteriae 1 pathogens are protein synthesis inhibitors. Stxs
+have been shown to induce apoptosis via the activation of extrinsic and intrinsic
+pathways in many cell types (epithelial, endothelial, and B cells) but the link
+between the protein synthesis inhibition and caspase activation is still unclear.
+Endoplasmic reticulum (ER) stress induced by the inhibition of protein synthesis 
+may be this missing link. Here, we show that the treatment of Burkitt lymphoma
+(BL) cells with verotoxin-1 (VT-1 or Stx1) consistently induced the ER stress
+response by activation of IRE1 and ATF6-two ER stress sensors-followed by
+increased expression of the transcription factor C/REB homologous protein (CHOP).
+However, our data suggest that, although ER stress is systematically induced by
+VT-1 in BL cells, its role in cell death appears to be cell specific and can be
+the opposite: ER stress may enhance VT-1-induced apoptosis through CHOP or play a
+protective role through ER-phagy, depending on the cell line. Several engineered 
+Stxs are currently under investigation as potential anti-cancer agents. Our
+results suggest that a better understanding of the signaling pathways induced by 
+Stxs is needed before using them in the clinic.
+
+DOI: 10.3390/toxins12050316 
+PMCID: PMC7291219
+PMID: 32403276 
+

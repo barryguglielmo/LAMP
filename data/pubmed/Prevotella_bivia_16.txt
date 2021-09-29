@@ -1,0 +1,51 @@
+
+1. Mater Sci Eng C Mater Biol Appl. 2020 Jan;106:110295. doi:
+10.1016/j.msec.2019.110295. Epub 2019 Oct 10.
+
+Preparation and preliminary evaluation of bio-nanocomposites based on
+hydroxyapatites with antibacterial properties against anaerobic bacteria.
+
+Zawisza K(1), Sobierajska P(1), Nowak N(1), Kedziora A(2), Korzekwa K(2), Pozniak
+B(3), Tikhomirov M(3), Miller J(4), Mrowczynska L(5), Wiglusz RJ(6).
+
+Author information: 
+(1)Institute of Low Temperature and Structure Research, PAS, ul. Okolna 2,
+PL-50-422, Wroclaw, Poland.
+(2)Institute of Genetics and Microbiology, Wroclaw University, Przybyszewskiego
+63, 51-148, Wroclaw, Poland.
+(3)Department of Pharmacology and Toxicology, Faculty of Veterinary Medicine,
+Wrocław University of Environmental and Life Sciences, C. K. Norwida 31, 50-375, 
+Wroclaw, Poland.
+(4)Department of Immunology, Pathophysiology and Veterinary Preventive Medicine, 
+Faculty of Veterinary Medicine, Wrocław University of Environmental and Life
+Sciences, C. K. Norwida 31, 50-375, Wroclaw, Poland.
+(5)Adam Mickiewicz University, Faculty of Biology, Department of Cell Biology,
+Umultowska 89, 61-614, Poznan, Poland.
+(6)Institute of Low Temperature and Structure Research, PAS, ul. Okolna 2,
+PL-50-422, Wroclaw, Poland. Electronic address: r.wiglusz@intibs.pl.
+
+Hexagonal nanocrystalline powders of the non-doped Ca10(PO4)6(OH)2 as well as
+activated with Ag+ and Eu3+ ions were synthesized by using different wet
+chemistry methods. Moreover, the obtained hydroxyapatite was loaded with Ag0, as 
+well as nitroimidazole antimicrobials: metronidazole and tinidazole. The
+structural properties of the products were analyzed by X-ray diffraction (XRD),
+scanning (SEM) and transmission (TEM) electron microscopy as well as infrared
+(IR) and Raman spectroscopy. The photoluminescence properties of the Eu3+ and Ag+
+co-doped Ca10(PO4)6(OH)2 were characterized via the PL emission, excitation
+spectra and the luminescence decay curve. The antimicrobial activity of the
+obtained materials against Prevotella bivia and Parabacteroides distasonis was
+studied. The cytotoxicity assessment was carried out on the human osteosarcoma
+cell line (U2OS) as well as human red blood cells (RBC). The choice of the in
+vitro model was based on the fact that U2OS is a cancer cell line derived from
+bone tissue which is rich in apatites that play a pivotal role in the
+extracellular matrix formation. RBCs are the most abundant blood cells and they
+are used as a cell model in the study of biocompatibility of new prepared
+biocompounds with potential medical applications. The obtained multifunctional
+materials do not exhibit the haemolytic activity, therefore, they could be used
+as a promising antimicrobial agent and for anaerobic bacteria.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.msec.2019.110295 
+PMID: 31753350  [Indexed for MEDLINE]
+

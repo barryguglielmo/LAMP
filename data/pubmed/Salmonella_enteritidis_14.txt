@@ -1,0 +1,39 @@
+
+1. Biotechnol Appl Biochem. 2020 Sep 16. doi: 10.1002/bab.2029. [Epub ahead of
+print]
+
+Development of rapid gold nanoparticles based lateral flow assays for
+simultaneous detection of Shigella and Salmonella genera.
+
+Yahaya ML(1), Zakaria ND(2), Noordin R(2), Abdul Razak K(1)(2).
+
+Author information: 
+(1)School of Materials and Mineral Resources Engineering, Universiti Sains
+Malaysia, Nibong Tebal, Penang, Malaysia.
+(2)Nanobiotechnology Research and Innovation (NanoBri), Institute for Research in
+Molecular Medicine, Universiti Sains Malaysia, Nibong Tebal, Penang, Malaysia.
+
+Salmonella and Shigella genera are common pathogens that contaminate foods and
+beverages. Lateral flow assays (LFA) are commonly used to detect these pathogens.
+However, most of the developed LFAs are for single detection. Simultaneous
+detection of pathogens is required to reduce cost and time. In this work, 40 nm
+gold nanoparticles (AuNPs) were synthesized using the seeding growth method as
+labeling agent. The AuNPs were characterized and conjugated with mouse anti-Gram 
+negative endotoxin antibody. The nitrocellulose membrane HF135 was immobilized
+with anti-mouse IgG antibody as a control line and two separate test lines with
+either anti-Shigella or anti-Salmonella antibody, respectively. Color intensity
+of test lines was observed for positive samples. A milk sample was used as proof 
+of concept to mimic actual contamination. The limit of detection of the LFA was
+3.0 × 106 CFU/mL for multiplex detection of Shigella flexneri and Salmonella
+Typhi and for both single detections. The result was comparable with the
+enzyme-linked immunosorbent assay (ELISA) analysis. The produced LFA could
+differentiate between Shigella flexneri, Shigella boydii, Salmonella Enteritidis,
+and Salmonella Typhi. The developed LFA was able to identify Shigella flexneri
+and Salmonella Typhi with good sensitivity in milk samples, thus, beneficial to
+ensure the safety of food before entering the market.
+
+© 2020 International Union of Biochemistry and Molecular Biology, Inc.
+
+DOI: 10.1002/bab.2029 
+PMID: 32935878 
+

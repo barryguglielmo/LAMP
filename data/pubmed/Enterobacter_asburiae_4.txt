@@ -1,0 +1,33 @@
+
+1. Microbiol Resour Announc. 2020 May 21;9(21). pii: e00385-20. doi:
+10.1128/MRA.00385-20.
+
+Draft Genome Sequence of Enterobacter asburiae UFMG-H9, Isolated from Urine from 
+a Healthy Bovine Heifer (Gyr Breed).
+
+Giannattasio-Ferraz S(1), Maskeri L(2), Oliveira AP(3), Barbosa-Stancioli EF(1), 
+Putonti C(4)(5)(6)(7).
+
+Author information: 
+(1)Departamento de Microbiologia, Instituto de Ciências Biológicas, Universidade 
+Federal Minas Gerais, Belo Horizonte, MG, Brazil.
+(2)Bioinformatics Program, Loyola University Chicago, Chicago, Illinois, USA.
+(3)Empresa de Pesquisa Agropecuária de Minas Gerais, Uberaba, MG, Brazil.
+(4)Bioinformatics Program, Loyola University Chicago, Chicago, Illinois, USA
+cputonti@luc.edu.
+(5)Department of Biology, Loyola University Chicago, Chicago, Illinois, USA.
+(6)Department of Computer Science, Loyola University Chicago, Chicago, Illinois, 
+USA.
+(7)Department of Microbiology and Immunology, Stritch School of Medicine, Loyola 
+University Chicago, Maywood, Illinois, USA.
+
+Enterobacter asburiae is part of the Enterobacter cloacae complex, related to
+nosocomial opportunistic infections in humans. Here, we report the draft genome
+of E. asburiae strain UFMG-H9, an isolate from urine from a healthy Gyr heifer.
+
+Copyright © 2020 Giannattasio-Ferraz et al.
+
+DOI: 10.1128/MRA.00385-20 
+PMCID: PMC7242673
+PMID: 32439671 
+

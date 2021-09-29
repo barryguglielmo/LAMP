@@ -1,0 +1,32 @@
+
+1. Microbiol Resour Announc. 2020 Sep 10;9(37). pii: e00740-20. doi:
+10.1128/MRA.00740-20.
+
+Draft Genome Sequence of Bacillus licheniformis Strain UASWS1606, a Plant
+Biostimulant for Agriculture.
+
+Crovadore J(1), Cochard B(1), Grizard D(2), Chablais R(1), Baillarguet M(2),
+Comby M(3), Lefort F(4).
+
+Author information: 
+(1)Plants and Pathogens Group, Research Institute, Land, Nature, and Environment,
+HEPIA, HES-SO University of Applied Sciences and Arts Western Switzerland, Jussy,
+Geneva, Switzerland.
+(2)Proxis Développement, Levallois-Perret, France.
+(3)LMH Microbiology Expert, Groupe Roullier, Saint-Malo, France.
+(4)Plants and Pathogens Group, Research Institute, Land, Nature, and Environment,
+HEPIA, HES-SO University of Applied Sciences and Arts Western Switzerland, Jussy,
+Geneva, Switzerland francois.lefort@hesge.ch.
+
+Bacillus licheniformis is a well-known industrial bacterium. New strains show
+interesting properties of biostimulants and biological control agents for
+agriculture. Here, we report the draft genome sequence, obtained with an Illumina
+MiniSeq system, of strain UASWS1606 of the bacterium Bacillus licheniformis,
+which is being developed as an agricultural biostimulant.
+
+Copyright © 2020 Crovadore et al.
+
+DOI: 10.1128/MRA.00740-20 
+PMCID: PMC7484072
+PMID: 32912913 
+

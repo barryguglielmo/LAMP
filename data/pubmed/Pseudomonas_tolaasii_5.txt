@@ -1,0 +1,41 @@
+
+1. Vet Ophthalmol. 2020 May;23(3):480-488. doi: 10.1111/vop.12743. Epub 2020 Feb 3.
+
+Characterization of the normal equine conjunctival bacterial community using
+culture-independent methods.
+
+LaFrentz S(1), Abarca E(2), Mohammed HH(1), Cuming R(1), Arias CR(1).
+
+Author information: 
+(1)School of Fisheries, Aquaculture and Aquatic Sciences, Aquatic Microbiology
+Laboratory, Auburn University, Auburn, AL, USA.
+(2)Department of Clinical Sciences, College of Veterinary Medicine, Auburn
+University, Auburn, AL, USA.
+
+BACKGROUND: The equine conjunctival microbiota has often been reported to be
+dominated by Gram-positive species such as Staphylococcus sp., Bacillus sp., and 
+Corynebacterium sp. However, traditional culture-based methods can only recover a
+fraction of the bacterial species present in the sample.
+OBJECTIVES: This pilot study aimed at exploring the diversity of the equine
+conjunctival microbiota using culture-independent methods.
+STUDY DESIGN: Eight horses were included in this study, and only eyes with normal
+ophthalmic examination (n = 15 eyes) were sampled.
+METHODS: Conjunctival biopsies (culture-independent) were collected, and DNA was 
+extracted from the tissues. Bacterial communities in conjunctival biopsies were
+characterized by next-generation sequencing of the 16S rRNA genes. Individual
+reads were ascribed to operational taxonomic units (OTUs) using BLASTn and
+Greengenes databases. Species richness, evenness, and Good's coverage were
+determined for each conjunctiva-associated microbial community.
+RESULTS: Culture-independent samples produced a total of 329 bacterial OTUs. The 
+main OTUs identified in the study belonged to the Gram-negative species Ralstonia
+mannitolilytica (88.0%), Nicoletella semolina (3.3%), and Pseudomonas tolaasii
+(1.5%).
+CONCLUSIONS: Contrary to previously published data based on culture-dependent
+methods, the horse eye microbial community was dominated by Gram-negative
+bacteria of the phylum Proteobacteria.
+
+© 2020 American College of Veterinary Ophthalmologists.
+
+DOI: 10.1111/vop.12743 
+PMID: 32017364 
+

@@ -1,0 +1,57 @@
+
+1. J Infect. 2020 Sep 29. pii: S0163-4453(20)30631-9. doi:
+10.1016/j.jinf.2020.09.032. [Epub ahead of print]
+
+Mycobacterium tuberculosis-specific cytokine biomarkers to differentiate active
+TB and LTBI: A systematic review.
+
+Sudbury EL(1), Clifford V(2), Messina NL(3), Song R(4), Curtis N(5).
+
+Author information: 
+(1)Department of Paediatrics, The University of Melbourne, Parkville, Australia; 
+Infectious Diseases Research Group, Murdoch Children's Research Institute,
+Parkville, Australia. Electronic address: eva.sudbury@student.unimelb.edu.au.
+(2)Department of Paediatrics, The University of Melbourne, Parkville, Australia; 
+Infectious Diseases Research Group, Murdoch Children's Research Institute,
+Parkville, Australia; Infectious Diseases Unit, The Royal Children's Hospital,
+Parkville, Australia. Electronic address: vanessa.clifford@rch.org.au.
+(3)Department of Paediatrics, The University of Melbourne, Parkville, Australia; 
+Infectious Diseases Research Group, Murdoch Children's Research Institute,
+Parkville, Australia. Electronic address: nicole.messina@mcri.edu.au.
+(4)Oxford Vaccine Group, Department of Paediatrics, University of Oxford and the 
+National Institute for Health Research Oxford Biomedical Research Centre, Oxford,
+UK; Division of Infectious Diseases, Boston Children's Hospital, Boston, MA, USA;
+Department of Pediatrics, Harvard Medical School, Boston, MA, USA. Electronic
+address: rinn.song@paediatrics.ox.ac.uk.
+(5)Department of Paediatrics, The University of Melbourne, Parkville, Australia; 
+Infectious Diseases Research Group, Murdoch Children's Research Institute,
+Parkville, Australia; Infectious Diseases Unit, The Royal Children's Hospital,
+Parkville, Australia. Electronic address: nigel.curtis@rch.org.au.
+
+OBJECTIVES: New tests are needed to overcome the limitations of existing
+immunodiagnostic tests for tuberculosis (TB) infection, including their inability
+to differentiate between active TB and latent TB infection (LTBI). This review
+aimed to identify the most promising cytokine biomarkers for use as
+stage-specific markers of TB infection.
+METHODS: A systematic review was done using electronic databases to identify
+studies that have investigated Mycobacterium tuberculosis (MTB)-specific cytokine
+responses as diagnostic tools to differentiate between LTBI and active TB.
+RESULTS: The 56 studies included in this systematic review measured the
+MTB-specific responses of 100 cytokines, the most frequently studied of which
+were IFN-γ, IL-2, TNF-α, IP-10, IL-10 and IL-13. Ten studies assessed
+combinations of cytokines, most commonly IL-2 and IFN-γ. For most cytokines,
+findings were heterogenous between studies. The variation in results likely
+relates to differences in the study design and laboratory methods, as well as
+participant and environmental factors.
+CONCLUSIONS: Although several cytokines show promise as stage-specific markers of
+TB infection, this review highlights the need for further well-designed studies, 
+in both adult and paediatric populations, to establish which cytokine(s) will be 
+of most use in a new generation of immunodiagnostic tests.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jinf.2020.09.032 
+PMID: 33007340 
+
+Conflict of interest statement: Declarations of Competing Interest None.
+

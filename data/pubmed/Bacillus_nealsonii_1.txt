@@ -1,0 +1,57 @@
+
+1. Microb Cell Fact. 2020 Jul 20;19(1):145. doi: 10.1186/s12934-020-01402-4.
+
+Production and characterization of surfactin-like biosurfactant produced by novel
+strain Bacillus nealsonii S2MT and it's potential for oil contaminated soil
+remediation.
+
+Phulpoto IA(1), Yu Z(2), Hu B(1), Wang Y(3), Ndayisenga F(1), Li J(1), Liang
+H(1), Qazi MA(4).
+
+Author information: 
+(1)College of Resources and Environment, University of Chinese Academy of
+Sciences, 19 A Yuquan Road, Beijing, 100049, People's Republic of China.
+(2)College of Resources and Environment, University of Chinese Academy of
+Sciences, 19 A Yuquan Road, Beijing, 100049, People's Republic of China.
+yuzs@ucas.ac.cn.
+(3)Yanshan Earth Critical Zone and Surface Fluxes Research Station, Chinese
+Academy of Sciences, No. 380 Huaibei Town, Huairou District, Beijing, 101408,
+People's Republic of China.
+(4)Institute of Microbiology, Faculty of Natural Science, Shah Abdul Latif
+University, Khairpur Mirκs-66020, Sindh, Pakistan.
+
+BACKGROUND: Biosurfactants, being highly biodegradable, ecofriendly and
+multifunctional compounds have wide applications in various industrial sectors
+including environmental bioremediation. Surfactin, a member of lipopeptide
+family, which is considered as one of the most powerful biosurfactants due to its
+excellent emulsifying activities as well as environmental and therapeutic
+applications. Therefore, the aim of this study was to investigate the newly
+isolated bacterial strain S2MT for production of surfactin-like biosurfactants
+and their potential applications for oil-contaminated soil remediation.
+RESULTS: In this study, the strain S2MT was isolated from lake sediment and was
+identified as Bacillus nealsonii based on transmitted electron microscopy (TEM)
+and 16S rRNA ribo-typing. The strain S2MT produced biosurfactant that reduced the
+surface tension (34.15 ± 0.6 mN/m) and displayed excellent emulsifying potential 
+for kerosene (55 ± 0.3%). Additionally, the maximum biosurfactant product yield
+of 1300 mg/L was achieved when the composition of the culture medium was
+optimized through response surface methodology (RSM). Results showed that 2%
+glycerol and 0.1% NH4NO3 were the best carbon/nitrogen substrates for
+biosurfactant production. The parameters such as temperature (30 °C), pH (8),
+agitation (100 rpm), NH4NO3 (0.1%) and NaCl (0.5%) displayed most significant
+contribution towards surface tension reduction that resulted in enhanced
+biosurfactant yield. Moreover, the extracted biosurfactants were found to be
+highly stable at environmental factors such as salinity, pH and temperature
+variations. The biosurfactants were characterized as cyclic lipopeptides relating
+to surfactin-like isoforms (C13-C15) using thin-layer chromatography (TLC), Ultra
+high performance liquid chromatography and mass spectrometry (UHPLC-MS). The
+crude biosurfactant product displayed up to 43.6 ± 0.08% and 46.7 ± 0.01%
+remediation of heavy engine-oil contaminated soil at 10 and 40 mg/L
+concentrations, respectively.
+CONCLUSION: Present study expands the paradigm of surfactin-like biosurfactants
+produced by novel isolate Bacillus nealsonii S2MT for achieving efficient and
+environmentally acceptable soil remediation as compared to synthetic surfactants.
+
+DOI: 10.1186/s12934-020-01402-4 
+PMCID: PMC7372866
+PMID: 32690027 
+

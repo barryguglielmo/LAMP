@@ -1,0 +1,37 @@
+
+1. Analyst. 2020 Sep 28;145(19):6283-6290. doi: 10.1039/d0an01147a.
+
+Integrated on-site collection and detection of airborne microparticles for
+smartphone-based micro-climate quality control.
+
+Ryu B (1), Chen J , Kurabayashi K , Liang X , Park Y .
+
+Author information: 
+(1)Department of Mechanical Engineering, University of Michigan, Ann Arbor, MI
+48109, USA. bhryu@umich.edu katsuo@umich.edu xiaoganl@umich.edu ygpark@umich.edu.
+
+The rapid emergence of air-mediated diseases in a micro-climate demands on-site
+monitoring of airborne microparticles. The on-site detection of airborne
+microparticles becomes more challenging as the particles are highly localized and
+change dynamically over time. However, most existing monitoring systems rely on
+time-consuming sample collection and centralized off-site analysis. Here, we
+report a smartphone-based integrated microsystem for on-site collection and
+detection that enables real-time detection of indoor airborne microparticles with
+high sensitivity. The collection device, inspired by the Venturi effect, was
+designed to collect airborne microparticles without requiring an additional power
+supply. Our systematic analysis showed that the collection device was able to
+collect microparticles with consistent negative pressure, regardless of the
+particle concentration in the air sample. By incorporating a microfluidic-biochip
+based on inertial force to trap particles and an optoelectronic photodetector
+into a miniaturized device with a smartphone, we demonstrate real-time and
+sensitive detection of the collected airborne microparticles, such as Escherichia
+coli, Bacillus subtilis, Micrococcus luteus, and Staphylococcus with a
+particle-density dynamic range of 103-108 CFU mL-1. Because of its capabilities
+of minimal-power sample collection, high sensitivity, and rapid detection of
+airborne microparticles, this integrated platform can be readily adopted by the
+government and industrial sectors to monitor indoor air contamination and improve
+human healthcare.
+
+DOI: 10.1039/d0an01147a 
+PMID: 32945327 
+

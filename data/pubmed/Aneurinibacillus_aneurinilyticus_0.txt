@@ -1,0 +1,45 @@
+
+1. Saudi J Biol Sci. 2020 Sep;27(9):2333-2343. doi: 10.1016/j.sjbs.2020.04.036. Epub
+2020 Apr 25.
+
+Response surface optimization of cellulase production from Aneurinibacillus
+aneurinilyticus BKT-9: An isolate of urban Himalayan freshwater.
+
+Ahmad T(1), Sharma A(1), Gupta G(1), Mansoor S(2), Jan S(3), Kaur B(1), Paray
+BA(4), Ahmad A(5).
+
+Author information: 
+(1)Department of Biotechnology, Punjabi University Patiala, Punjab 147002, India.
+(2)Division of Biochemistry, SKUAST Jammu, 180009, India.
+(3)Division of Biochemistry, SKUAST Kashmir, 190025, India.
+(4)Department of Zoology, College of Science, King Saud University, Riyadh 11451,
+Saudi Arabia.
+(5)Department of Clinical Pharmacy, College of Pharmacy, King Saud University,
+Riyadh 11451, Saudi Arabia.
+
+Due to their vast industrial potential, cellulases have been regarded as the
+potential biocatalysts by both the academicians and the industrial research
+groups. In the present study, culturable bacterial strains of Himalayan Urban
+freshwater lake were investigated for cellulose degrading activities. Initially, 
+a total of 140 bacterial strains were isolated and only 45 isolates were found to
+possess cellulose degrading property. On the basis of preliminary screening
+involving cellulase activity assay on CMC agar (with clear zone of hydrolysis)
+and biosafety assessment testing, only single isolate named as BKT-9 was selected
+for the cellulase production studies. Strain BKT-9 was characterized at the
+molecular level using rRNA gene sequencing and its sequence homology analysis
+revealed its identity as Aneurinibacillus aneurinilyticus. Further, various
+physico-chemical parameters and culture conditions were optimized using one
+factor approach to enhance cellulase production levels in the strain BKT-9.
+Subsequently, RSM based statistical optimization led to formulation of cellulase 
+production medium, wherein the bacterial strain exhibited ~60 folds increase in
+enzyme activity as compared to un-optimized culture medium. Further studies are
+being suggested to scale up cellulase production in A. aneurinilyticus strain
+BKT-9 so that it can be utilized for biomass saccharification at an industrial
+level.
+
+© 2020 The Author(s).
+
+DOI: 10.1016/j.sjbs.2020.04.036 
+PMCID: PMC7451742
+PMID: 32884415 
+

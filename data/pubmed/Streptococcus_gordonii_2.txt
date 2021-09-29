@@ -1,0 +1,41 @@
+
+1. Materials (Basel). 2020 Sep 21;13(18). pii: E4185. doi: 10.3390/ma13184185.
+
+Electrochemical Behavior of Ti6Al4V Alloy Used in Dental Implants Immersed in
+Streptococcus gordonii and Fusobacterium nucleatum Solutions.
+
+De la Garza-Ramos MA(1), Estupiñan-Lopez FH(2), Gaona-Tiburcio C(2),
+Beltrán-Novelo LG(3), Zambrano-Robledo P(2), Cabral-Miramontes J(2),
+Almeraya-Calderón F(2).
+
+Author information: 
+(1)Universidad Autonoma de Nuevo Leon, Facultad de Odontología, Centro de
+Investigación y Desarrollo de Ciencias de la Salud, Av. Universidad s/n, Ciudad
+Universitaria, San Nicolás de los Garza, N.L. 66455, Mexico.
+(2)Universidad Autonoma de Nuevo Leon, FIME-Centro de Investigación e Innovación 
+en ingeniería Aeronáutica (CIIIA), Av. Universidad s/n, Ciudad Universitaria, San
+Nicolás de los Garza, N.L. 66455, Mexico.
+(3)Universidad Autónoma de Yucatán, Facultad de Odontología, Calle 60 # 491-A x
+57, Centro Histórico, Mérida 97000, Yucatán, Mexico.
+
+The titanium alloy, Ti6Al4V, is used in dentistry for dental implants because of 
+its excellent resistance to corrosion and its high biocompatibility. However,
+periimplantitis is considered the main reason for treatment failure. The Ti6Al4V 
+alloy was used to study the corrosion behavior for dental implant applications,
+using an experimental arrangement of three electrodes with the bacteria
+Streptococcus gordonii and Fusobacterium nucleatum, in addition to Ringer's
+lactate as electrolytes, at 37 °C and a pH of 5.6. Their electrochemical behavior
+was studied by open circuit potential (OCP) and cyclic potentiodynamic
+polarization (CPP) according to ASTM G3-14 and ASTM G61-11, respectively.
+Scanning electron microscopy (SEM) was employed to determine the morphology of
+the alloy studied. An experimental model, in situ, was established with the
+bacteria present in an oral environment to understand the electrochemical
+behavior of the alloy used in dental implants. The greatest corrosion in Ti6Al4V 
+alloy was produced by the medium that contained the bacterium Streptococcus
+gordonii, which is considered a primary colonizer. In addition, the Ti6Al4V alloy
+presented uniform corrosion in the three solutions at the different exposure
+times showing a negative hysteresis in CPP.
+
+DOI: 10.3390/ma13184185 
+PMID: 32967071 
+

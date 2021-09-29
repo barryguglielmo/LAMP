@@ -1,0 +1,49 @@
+
+1. Mucosal Immunol. 2020 Aug 5. doi: 10.1038/s41385-020-0331-5. [Epub ahead of
+print]
+
+Human endometrial MAIT cells are transiently tissue resident and respond to
+Neisseria gonorrhoeae.
+
+Bister J(1), Crona Guterstam Y(2), Strunz B(1), Dumitrescu B(3), Haij Bhattarai
+K(4), Özenci V(4), Brännström M(5), Ivarsson MA(1), Gidlöf S(2)(6), Björkström
+NK(7).
+
+Author information: 
+(1)Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska
+Institutet, Karolinska University Hospital, Stockholm, Sweden.
+(2)Division of Obstetrics and Gynaecology, Department of Clinical Science,
+Intervention and Technology, Karolinska Institutet, Stockholm, Sweden.
+(3)Women's Clinic, Mälarsjukhuset Eskilstuna, Eskilstuna, Sweden.
+(4)Clinical microbiology, Department of Laboratory Medicine, Karolinska
+Institutet, Stockholm, Sweden.
+(5)Department of Obstetrics and Gynecology, Sahlgrenska Academy, University of
+Gothenburg, Göteborg and Stockholm IVF - Eugin, Stockholm, Sweden.
+(6)Department of Obstetrics and Gynecology, Stockholm South General Hospital,
+Stockholm, Sweden.
+(7)Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska
+Institutet, Karolinska University Hospital, Stockholm, Sweden.
+niklas.bjorkstrom@ki.se.
+
+Mucosa-associated invariant T (MAIT) cells are non-classical T cells important in
+the mucosal defense against microbes. Despite an increasing interest in the
+immunobiology of the endometrial mucosa, little is known regarding human MAIT
+cells in this compartment. The potential role of MAIT cells as a tissue-resident 
+local defense against microbes in the endometrium is largely unexplored. Here, we
+performed a high-dimensional flow cytometry characterization of MAIT cells in
+endometrium from pre- and postmenopausal women, and in decidua from
+first-trimester pregnancies. Furthermore, we assessed MAIT cell function by
+stimulation with Neisseria gonorrhoeae (N. gonorrhoeae). Endometrial MAIT (eMAIT)
+cells represented a stable endometrial immune cell population as limited dynamic 
+changes were observed during the menstrual cycle, post menopause, or in response 
+to pregnancy. Furthermore, eMAIT cells exhibited an activated tissue-resident
+phenotype. Despite expressing CD69 and CD103, eMAIT cells were replenished over
+time by circulating MAIT cells, as assessed using human uterus transplantation as
+a model. Finally, functional experiments revealed the capability of MAIT cells to
+respond to the sexually transmitted and tissue-relevant pathogen, N. gonorrhoeae.
+In conclusion, our study provides novel insight into human MAIT cell dynamics and
+anti-microbial properties in the human uterus.
+
+DOI: 10.1038/s41385-020-0331-5 
+PMID: 32759973 
+

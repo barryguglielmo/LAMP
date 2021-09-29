@@ -1,0 +1,60 @@
+
+1. Fish Shellfish Immunol. 2020 Sep;104:497-505. doi: 10.1016/j.fsi.2020.05.068.
+Epub 2020 Jun 10.
+
+Identification and characterization of cystatin B from black rockfish, Sebastes
+schlegelii, indicating its potent immunological importance.
+
+Wickramasinghe PDSU(1), Kwon H(2), Elvitigala DAS(3), Wan Q(2), Lee J(4).
+
+Author information: 
+(1)Department of Marine Life Sciences & Fish Vaccine Research Center, Jeju
+National University, Jeju Self-Governing Province, 63243, Republic of Korea;
+Department of Chemistry, Faculty of Science, University of Colombo, Colombo-03,
+Sri Lanka.
+(2)Department of Marine Life Sciences & Fish Vaccine Research Center, Jeju
+National University, Jeju Self-Governing Province, 63243, Republic of Korea;
+Marine Science Institute, Jeju National University, Jeju Self-Governing Province,
+63333, Republic of Korea.
+(3)Dept. of Basic Science and Social Sciences for Nursing, Faculty of Nursing,
+University of Colombo, Thalapathpitiya, Nugegoda, 10250, Sri Lanka. Electronic
+address: anushka@dss.cmb.ac.lk.
+(4)Department of Marine Life Sciences & Fish Vaccine Research Center, Jeju
+National University, Jeju Self-Governing Province, 63243, Republic of Korea;
+Marine Science Institute, Jeju National University, Jeju Self-Governing Province,
+63333, Republic of Korea. Electronic address: jehee@jejunu.ac.kr.
+
+Cystatins represent a large superfamily of proteins involved in the competitive
+reversible inhibition of C1 class cysteine proteases. Plant-derived papain
+proteases and cysteine cathepsins are the major cysteine proteases that interact 
+with cystatins. The cystatin superfamily can be further classified into three
+groups: stefins, cystatins, and kininogens. Among these, cystatin B is
+categorized under stefins. Cystatin B lacks a signal sequence, disulfide bonds,
+and carbohydrate groups. However, it contains the conserved cystatin family
+signature, including a single cystatin-like domain, cysteine protease inhibitory 
+signature concealing pentapeptide (QXVXG) consensus sequence, and two conserved
+neighboring glycine (8GG9) residues at the N-terminal. In the current study, a
+member of cystatin B was identified from Korean black rockfish (Sebastes
+schlegeli) using a cDNA database and designated as RfCytB. The full-length cDNA
+of RfCytB was 573 bp long, with a coding region of 294 bp. The 5'-untranslated
+region (UTR) comprised 55 bp, and the 263-bp-long 3'-UTR included a
+polyadenylation signal sequence and a poly-A tail. The coding sequence encodes a 
+polypeptide comprising 97 amino acids, with a predicted molecular weight of
+11 kDa and theoretical isoelectric point of 6.3. RfCytB shared homology features 
+with similar molecules from other teleost and vertebrate species, and was
+clustered with Cystatin family 1 in our phylogenetic reconstruction. RfCytB was
+ubiquitously expressed in all tissue types of healthy animals, with the highest
+levels of expression observed in gill and spleen. Temporal expression of RfCytB
+displayed significant up-regulation upon infection with Aeromonas salmonicida.
+Recombinantly expressed RfCytB showed a concentration-dependent inhibitory
+activity towards papain, with a high thermal stability. Transient expression of
+RfCytB in LPS activated murine macrophages, thereby inducing the expression of
+genes related to pro-inflammatory conditions, such as iNOS and TNF α. These
+results provide evidence for its protease inhibitory and immunity relevant roles 
+in hosts.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fsi.2020.05.068 
+PMID: 32534230 
+

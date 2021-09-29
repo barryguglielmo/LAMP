@@ -1,0 +1,51 @@
+
+1. FEBS J. 2020 May;287(10):2105-2117. doi: 10.1111/febs.15117. Epub 2019 Nov 20.
+
+Molecular insight into a new low-affinity xylan binding module from the
+xylanolytic gut symbiont Roseburia intestinalis.
+
+Leth ML(1), Ejby M(1), Madland E(2), Kitaoku Y(2), Slotboom DJ(3), Guskov A(3),
+Aachmann FL(2), Abou Hachem M(1).
+
+Author information: 
+(1)Department of Biotechnology and Biomedicine, Technical University of Denmark, 
+Lyngby, Denmark.
+(2)NOBIPOL, Department of Biotechnology and Food Science, NTNU Norwegian
+University of Science and Technology, Trondheim, Norway.
+(3)Membrane Enzymology, Institute for Biomolecular Sciences & Biotechnology,
+University of Groningen, Groningen, The Netherlands.
+
+Efficient capture of glycans, the prime metabolic resources in the human gut,
+confers a key competitive advantage for gut microbiota members equipped with
+extracellular glycoside hydrolases (GHs) to target these substrates. The
+association of glycans to the bacterial cell surface is typically mediated by
+carbohydrate binding modules (CBMs). Here, we report the structure of RiCBM86
+appended to a GH family 10 xylanase from Roseburia intestinalis. This CBM
+represents a new family of xylan binding CBMs present in xylanases from abundant 
+and prevalent healthy human gut Clostridiales. RiCBM86 adopts a canonical
+β-sandwich fold, but shows structural divergence from known CBMs. The structure
+of RiCBM86 has been determined with a bound xylohexaose, which revealed an open
+and shallow binding site. RiCBM86 recognizes only a single xylosyl ring with
+direct hydrogen bonds. This mode of recognition is unprecedented amongst
+previously reported xylan binding type-B CBMs that display more extensive
+hydrogen-bonding patterns to their ligands or employ Ca2+ to mediate
+ligand-binding. The architecture of RiCBM86 is consistent with an atypically low 
+binding affinity (KD  about 0.5 mm for xylohexaose) compared to most xylan
+binding CBMs. Analyses using NMR spectroscopy corroborated the observations from 
+the complex structure and the preference of RiCBM86 to arabinoxylan over
+glucuronoxylan, consistent with the largely negatively charged surface flanking
+the binding site. Mutational analysis and affinity electrophoresis established
+the importance of key binding residues, which are conserved in the family. This
+study provides novel insight into the structural features that shape low-affinity
+CBMs that mediate extended bacterial glycan capture in the human gut niche.
+DATABASES: Structural data are available in the protein data bank database under 
+the accession number 6SGF. Sequence data are available in the GenBank database
+under the accession number EEV01588.1. The assignment of the
+Roseburia intestinalis xylan binding module into the CBM86 new family is
+available in the CAZy database (http://www.cazy.org/CBM86.html).
+
+© 2019 Federation of European Biochemical Societies.
+
+DOI: 10.1111/febs.15117 
+PMID: 31693302 
+

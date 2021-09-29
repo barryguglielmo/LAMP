@@ -1,0 +1,10 @@
+include *.txt
+recursive-include build *.py
+recursive-include dist *.gz
+recursive-include dist *.whl
+recursive-include src *.pyc
+
+# added by check-manifest
+include LICENSE
+recursive-include src *.fna
+recursive-include src *.py

@@ -1,0 +1,46 @@
+
+1. FEBS J. 2020 Apr 24. doi: 10.1111/febs.15343. [Epub ahead of print]
+
+Modulations of the reduction potentials of flavin-based electron bifurcation
+complexes and semiquinone stabilities are key to control directional electron
+flow.
+
+Sucharitakul J(1)(2), Buttranon S(3), Wongnate T(3), Chowdhury NP(4)(5), Prongjit
+M(1), Buckel W(4)(5), Chaiyen P(3).
+
+Author information: 
+(1)Department of Biochemistry, Chulalongkorn University, Patumwan, Bangkok,
+Thailand.
+(2)Skeletal Disorders Research Unit, Faculty of Dentistry, Chulalongkorn
+University, Patumwan, Bangkok, Thailand.
+(3)School of Biomolecular Science and Engineering, Vidyasirimedhi Institute of
+Science and Technology (VISTEC), Rayong, Thailand.
+(4)Laboratorium für Mikrobiologie, Fachbereich Biologie and Synmikro,
+Philipps-Universität, Marburg, Germany.
+(5)Max-Plank-Institut für terrestrische Mikrobiologie, Marburg, Germany.
+
+The flavin-based electron bifurcation (FBEB) system from Acidaminococcus
+fermentans is composed of the electron transfer flavoprotein (EtfAB) and
+butyryl-CoA dehydrogenase (Bcd). α-FAD binds to domain II of the A-subunit of
+EtfAB, β-FAD to the B-subunit of EtfAB and δ-FAD to Bcd. NADH reduces β-FAD to
+β-FADH- , which bifurcates one electron to the high potential α-FAD•- semiquinone
+followed by the other to the low potential ferredoxin (Fd). As deduced from
+crystal structures, upon interaction of EtfAB with Bcd, the formed α-FADH-
+approaches δ-FAD by rotation of domain II, yielding δ-FAD•- . Repetition of this 
+process leads to a second reduced ferredoxin (Fd- ) and δ-FADH- , which reduces
+crotonyl-CoA to butyryl-CoA. In this study, we measured the redox properties of
+the components EtfAB, EtfaB (Etf without α-FAD), Bcd, and Fd, as well as of the
+complexes EtfaB:Bcd, EtfAB:Bcd, EtfaB:Fd, and EftAB:Fd. In agreement with the
+structural studies, we have shown for the first time that the interaction of
+EtfAB with Bcd drastically decreases the midpoint reduction potential of α-FAD to
+be within the same range of that of β-FAD and to destabilize the semiquinone of
+α-FAD. This finding clearly explains that these interactions facilitate the
+passing of electrons from β-FADH- via α-FAD•- to the final electron acceptor
+δ-FAD•- on Bcd. The interactions modulate the semiquinone stability of δ-FAD in
+an opposite way by having a greater semiquinone stability than in free Bcd.
+
+© 2020 Federation of European Biochemical Societies.
+
+DOI: 10.1111/febs.15343 
+PMID: 32329961 
+

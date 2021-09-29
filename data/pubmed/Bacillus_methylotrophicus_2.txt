@@ -1,0 +1,41 @@
+
+1. Antioxidants (Basel). 2020 Sep 29;9(10). pii: E934. doi: 10.3390/antiox9100934.
+
+Reduction of Oxidative Stress through Activating the Nrf2 mediated HO-1
+Antioxidant Efficacy Signaling Pathway by MS15, an Antimicrobial Peptide from
+Bacillus velezensis.
+
+Khan MM(1), Kim YK(1), Bilkis T(2), Suh JW(3), Lee DY(4), Yoo JC(1).
+
+Author information: 
+(1)Department of Pharmacy, College of Pharmacy, Chosun University, Gwangju
+501-759, Korea.
+(2)Department of Biomedical Sciences, Chosun University, Gwangju 501-759, Korea.
+(3)Center for Nutraceutical and Pharmaceutical Materials, Myongji University,
+Myongji-ro 116, Cheoin-gu, Yongin 17058, Gyeonggi-Do, Korea.
+(4)Department of Herbal Crop Research, National Institute of Horticultural and
+Herbal Science, RDA, Eumseong 27709, Korea.
+
+The efficient culture and purification of antimicrobial peptides (AMPs), along
+with intense antioxidant activity, have drawn the interest to study antioxidant
+activity mechanism. We report the culture conditions optimization, efficient
+biosynthesis, and purification of an antioxidant peptide MS15 from Bacillus
+velezensis obtained from fermented food that would generate heme oxygenase-1
+(HO-1) expression and lead to nuclear factor erythroid 2-related factor-2 (Nrf2) 
+nuclear translocation. We explored the ability of kinetics and potency for the
+bacterial killing to work against various pathogenic bacteria. A bioassay showed 
+the lysis zone of MS15 by tricine SDS-PAGE near at 6 kDa. MALDI-TOF/MS verified
+molecular weight, and the existence of a molecular mass of 6091 Da was reported
+by purity. The MIC of MS15 ranged from 2.5-160 μg/mL for many pathogenic
+bacteria, showing greater potency. In macrophage RAW 264.7 cells, MS15 was
+exposed to assess its inhibitory effect against the generation of reactive oxygen
+species (ROS) in oxidative stress. In the sample treated group, the translation, 
+and transcriptional levels of CAT (catalase), GPx (glutathione peroxidase), and
+SOD (superoxide dismutase) were significantly greater. In short, MS15 has
+significant antioxidant properties, reducing ROS production in RAW 264.7 cells,
+and raising the translation and transcriptional rates of antioxidant enzymes with
+stimulating HO-1 induction facilitated by Nrf2.
+
+DOI: 10.3390/antiox9100934 
+PMID: 33003432 
+

@@ -1,0 +1,45 @@
+
+1. Gut Microbes. 2020 Nov 9;12(1):1736974. doi: 10.1080/19490976.2020.1736974. Epub 
+2020 Mar 21.
+
+Probiotic-directed modulation of gut microbiota is basal microbiome dependent.
+
+Hou Q(1), Zhao F(1), Liu W(1), Lv R(1), Khine WWT(2), Han J(3), Sun Z(1), Lee
+YK(2), Zhang H(1).
+
+Author information: 
+(1)Key Laboratory of Dairy Biotechnology and Engineering, Ministry of Education, 
+Key Laboratory of Dairy Products Processing, Ministry of Agriculture, Inner
+Mongolia Agricultural University , Huhhot, China.
+(2)Department of Microbiology & Immunology, Yong Loo Lin School of Medicine,
+National University of Singapore , Singapore, Singapore.
+(3)Department of Nutrition and Food Hygiene, College of Public Health, Xinjiang
+Medical University , Urumqi, China.
+
+As an effective means to improve quality of life and prevent diseases, the demand
+for probiotics and related products has increased in recent years. However, it is
+still unclear whether a particular probiotic strain will have similar beneficial 
+effects on healthy adults from different regions. In this study, the probiotic
+Lactobacillus casei Zhang (LCZ) was consumed by healthy adults from six different
+Asian regions and the changes in gut microbiota were compared using PacBio single
+molecule, real-time (SMRT) sequencing technology based on samples collected
+before, during and after consumption of LCZ. Our results reveal that the effect
+of LCZ consumption on individuals was closely related to the composition of that 
+individual's basal gut microbiota. A Gut Microbiota Variability Index (GMVI) was 
+proposed to quantitatively compare the effects of LCZ on human gut microecology. 
+Subjects from Xinjiang and Singapore regions had the highest and lowest GMVI,
+respectively. In general, consumption of LCZ increased the relative abundance of 
+certain beneficial bacteria such as Lactobacillus, Roseburia, Coprococcus and
+Eubacterium rectale, while it inhibited growth of certain harmful bacteria such
+as Blautia and Ralstonia pickettii. In addition, consumption of LCZ was
+responsible for the conversion of some participants from Prevotella
+copri/Faecalibacterium prausnitzii (PF) enterotype to Faecalibacterium
+prausnitzii/Bacteroides dorei (FB) enterotype and consistently increased the
+abundance of lactic acid bacteria in the gut. It also increased/enhanced
+phosphate metabolic modules, amino acid transport systems, and isoleucine
+biosynthesis, but conversely decreased lipopolysaccharide biosynthesis. These
+changes could have health benefits for healthy adults.
+
+DOI: 10.1080/19490976.2020.1736974 
+PMID: 32200683 
+

@@ -1,0 +1,48 @@
+
+1. Gigascience. 2020 Apr 1;9(4). pii: giaa038. doi: 10.1093/gigascience/giaa038.
+
+Species-level evaluation of the human respiratory microbiome.
+
+Ibironke O(1), McGuinness LR(2), Lu SE(1), Wang Y(1), Hussain S(3), Weisel CP(3),
+Kerkhof LJ(2).
+
+Author information: 
+(1)Environmental and Occupational Health Sciences Institute, School of Public
+Health, Rutgers-the State University of New Jersey, 170 Frelinghuysen Road,
+Piscataway, NJ, USA 08854, NJ, USA.
+(2)Department of Marine and Coastal Sciences, Rutgers-the State University of New
+Jersey, 71 Dudley Road, New Brunswick, NJ USA 08901.
+(3)Department of Pulmonary Medicine, Rutgers University-Robert Wood Johnsonchool,
+125 Paterson Street, Suite 5200B New Brunswick, NJ 08901.
+
+BACKGROUND: Changes to human respiratory tract microbiome may contribute
+significantly to the progression of respiratory diseases. However, there are few 
+studies examining the relative abundance of microbial communities at the species 
+level along the human respiratory tract.
+FINDINGS: Bronchoalveolar lavage, throat swab, mouth rinse, and nasal swab
+samples were collected from 5 participants. Bacterial ribosomal operons were
+sequenced using the Oxford Nanopore MinION to determine the relative abundance of
+bacterial species in 4 compartments along the respiratory tract. More than 1.8
+million raw operon reads were obtained from the participants with ∼600,000 rRNA
+reads passing quality assurance/quality control (70-95% identify; >1,200 bp
+alignment) by Discontiguous MegaBLAST against the EZ BioCloud 16S rRNA gene
+database. Nearly 3,600 bacterial species were detected overall (>750 bacterial
+species within the 5 dominant phyla: Firmicutes, Proteobacteria, Actinobacteria, 
+Bacteroidetes, and Fusobacteria. The relative abundance of bacterial species
+along the respiratory tract indicated that most microbes (95%) were being
+passively transported from outside into the lung. However, a small percentage
+(<5%) of bacterial species were at higher abundance within the lavage samples.
+The most abundant lung-enriched bacterial species were Veillonella dispar and
+Veillonella atypica while the most abundant mouth-associated bacterial species
+were Streptococcus infantis and Streptococcus mitis.
+CONCLUSIONS: Most bacteria detected in lower respiratory samples do not seem to
+colonize the lung. However, >100 bacterial species were found to be enriched in
+bronchoalveolar lavage samples (compared to mouth/nose) and may play a
+substantial role in lung health.
+
+© The Author(s) 2020. Published by Oxford University Press.
+
+DOI: 10.1093/gigascience/giaa038 
+PMCID: PMC7162353
+PMID: 32298431 
+

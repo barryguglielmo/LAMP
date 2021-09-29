@@ -1,0 +1,58 @@
+
+1. J Food Sci. 2020 Apr;85(4):1203-1212. doi: 10.1111/1750-3841.15072. Epub 2020 Mar
+2.
+
+Effect of in-package atmospheric cold plasma discharge on microbial safety and
+quality of ready-to-eat ham in modified atmospheric packaging during storage.
+
+Yadav B(1), Spinelli AC(1)(2), Misra NN(3)(4), Tsui YY(5), McMullen LM(1),
+Roopesh MS(1).
+
+Author information: 
+(1)Dept. of Agricultural, Food and Nutritional Science, Univ. of Alberta,
+Edmonton, Alberta, Canada.
+(2)Dept. of Food Science, Univ. of Campinas UNICAMP, Campinas, São Paulo, Brazil.
+(3)Dept. of Electrical Engineering, Dalhousie Univ., Halifax, Nova Scotia,
+Canada.
+(4)Ingenium Naturae Pvt. Ltd., Mumbai, India.
+(5)Dept. of Electrical & Computer Engineering, Univ. of Alberta, Edmonton,
+Alberta, Canada.
+
+Listeria monocytogenes is often responsible for postprocessing contamination of
+ready-to-eat (RTE) products including cooked ham. As an emerging technology,
+atmospheric cold plasma (ACP) has the potential to inactivate L. monocytogenes in
+packaged RTE meats. The objectives of this study were to evaluate the effect of
+treatment time, modified atmosphere gas compositions (MAP), ham formulation, and 
+post-treatment storage (1 and 7 days at 4 °C) on the reduction of a five-strain
+cocktail of L. monocytogenes and quality changes in ham subjected to in-package
+ACP treatment. Initial average cells population on ham surfaces were 8 log
+CFU/cm2 . The ACP treatment time and gas composition significantly (P < 0.05)
+influenced the inactivation of L. monocytogenes, irrespective of ham
+formulations. When MAP1 (20% O2 + 40% CO2 + 40% N2 ) was used, there was a
+significantly higher log reduction (>2 log reduction) in L. monocytogenes on ham 
+in comparison to MAP2 (50% CO2 + 50% N2 ) and MAP3 (100% CO2 ), irrespective of
+ham formulation. Addition of preservatives (that is, 0.1% sodium diacetate and
+1.4% sodium lactate) or bacteriocins (that is, 0.05% of a partially purified
+culture ferment from Carnobacterium maltaromaticum UAL 307) did not significantly
+reduce cell counts of L. monocytogenes after ACP treatment. Regardless of type of
+ham, storage of 24 hr after ACP treatment significantly reduced cells counts of
+L. monocytogenes to approximately 4 log CFU/cm2 . Following 7 days of storage
+after ACP treatment, L. monocytogenes counts were below the detection limit (>6
+log reduction) when samples were stored in MAP1. However, there were significant 
+changes in lipid oxidation and color after post-treatment storage. In conclusion,
+the antimicrobial efficacy of ACP is strongly influenced by gas composition
+inside the package and post-treatment storage. PRACTICAL APPLICATION: Surface
+contamination of RTE ham with L. monocytogenes may occur during processing steps 
+such as slicing and packaging. In-package ACP is an emerging nonthermal
+technology, which can be used as a postpackaging decontamination step in
+industrial settings. This study demonstrated the influence of in-package gas
+composition, treatment time, post-treatment storage, and ham formulation on L.
+monocytogenes inactivation efficacy of ACP. Results of present study will be
+helpful to optimize in-package ACP treatment and storage conditions to reduce L. 
+monocytogenes, while maintaining the quality of ham.
+
+© 2020 Institute of Food Technologists®.
+
+DOI: 10.1111/1750-3841.15072 
+PMID: 32118300  [Indexed for MEDLINE]
+

@@ -1,0 +1,49 @@
+
+1. Anaerobe. 2020 Oct;65:102239. doi: 10.1016/j.anaerobe.2020.102239. Epub 2020 Aug 
+3.
+
+Paraclostridium dentum, a novel species with pathogenic features isolated from
+human dental plaque sample.
+
+Urvashi(1), Choksket S(1), Jain A(2), Sharma D(1), Grover V(3), Korpole S(4).
+
+Author information: 
+(1)CSIR-Institute of Microbial Technology, Sector 39A, Chandigarh, India.
+(2)Dr. Harvansh Singh Judge Institute of Dental Sciences and Hospital, Panjab
+University, Chandigarh, India.
+(3)Dr. Harvansh Singh Judge Institute of Dental Sciences and Hospital, Panjab
+University, Chandigarh, India. Electronic address:
+vishakha_grover@rediffmail.com.
+(4)CSIR-Institute of Microbial Technology, Sector 39A, Chandigarh, India.
+Electronic address: suresh@imtech.res.in.
+
+A strictly anaerobic bacterial strain designated as SKVG24 was isolated from
+subgingival dental plaque samples of patients suffering from periodontitis. Cells
+were stained Gram-positive, rod shaped with endospore. The strain showed negative
+reaction to catalase and oxidase enzymes, but positive for gelatinase activity.
+Optimal growth was observed at 37 °C temperature and 7.0 pH. The 16S rRNA gene
+sequence BLAST analysis assigned strain SKVG24 to the genus Paraclostridium as it
+displayed 99.93% identity with P. benzoelyticum JC272T followed by
+P. bifermentans ATCC 638T (99.79%). However, average nucleotide identity (ANI)
+and digital DNA-DNA hybridization (dDDH) of the whole genome sequence showed <97%
+and <70% identity, respectively, with type strains of all closely related
+species. The G + C content of the DNA was 28.7 mol%. Total lipids profile showed 
+presence of glycolipids as major lipids. Pathogenic features like hemolysis,
+gelatin hydrolysis and production of volatile sulfur compounds exhibited by
+strain SKVG24T were analogous to those observed in the established oral
+pathogenic strains. Further, whole genome sequence analysis confirmed the
+presence of genes encoding virulence factors and provided genomic insights on
+adaptation of the strain in oral environment. Based on the phenotypic and genetic
+differences with phylogenetic relatives, strain SKVG24T is proposed to represent 
+a new species of the genus Paraclostridium with potential pathogenic ability, for
+which the name Paraclostridium dentum sp. nov., is suggested. The proposed type
+strain is SKVG24T (MTCC 12836T; = JCM 32760T).
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.anaerobe.2020.102239 
+PMID: 32758667 
+
+Conflict of interest statement: Declaration of competing interest All authors of 
+this manuscript declare no conflict of interests.
+

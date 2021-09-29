@@ -1,0 +1,49 @@
+
+1. Microbiome. 2020 Jun 5;8(1):85. doi: 10.1186/s40168-020-00866-1.
+
+Skin microbiota analysis-inspired development of novel anti-infectives.
+
+Liu Y(1), Liu Y(2), Du Z(3), Zhang L(2), Chen J(3), Shen Z(1), Liu Q(1), Qin
+J(1), Lv H(1), Wang H(1), He L(1), Liu J(1), Huang Q(1), Sun Y(4), Otto M(5), Li 
+M(6).
+
+Author information: 
+(1)Department of Laboratory Medicine, Renji Hospital, School of Medicine,
+Shanghai Jiaotong University, Shanghai, 200127, China.
+(2)Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of
+Education, Wuhan University School of Pharmaceutical Sciences, Wuhan, 430071,
+China.
+(3)School of Pharmacy, Shanghai Jiaotong University, Shanghai, 200240, China.
+(4)Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of
+Education, Wuhan University School of Pharmaceutical Sciences, Wuhan, 430071,
+China. yhsun@whu.edu.cn.
+(5)Pathogen Molecular Genetics Section, Laboratory of Bacteriology, National
+Institute of Allergy and Infectious Diseases, U.S. National Institutes of Health,
+Bethesda, MD, 20814, USA. motto@niaid.nih.gov.
+(6)Department of Laboratory Medicine, Renji Hospital, School of Medicine,
+Shanghai Jiaotong University, Shanghai, 200127, China. ruth_limin@126.com.
+
+BACKGROUND: The alarming spread of antimicrobial resistance requires the
+development of novel anti-infective drugs. Despite the recent research focus on
+the human microbiome and its likely value to understand and exploit
+inter-bacterial inhibitory phenomena as a source for antimicrobial strategies,
+the human microbiota has barely been investigated for the purpose of drug
+development.
+RESULTS: We performed a large screen analyzing over 3000 human skin isolates to
+evaluate bacterial competition within the human skin microbiota as a basis for
+the development of anti-infective therapeutics. We discovered a Staphylococcus
+hominis strain with strong and broad activity against Gram-positive pathogens
+that was mediated by the bacteriocin micrococcin P1 (MP1). In "probiotic"
+approaches, this strain led to reduced Staphylococcus aureus infection and
+accelerated closure of S. aureus-infected wounds. Furthermore, we used a
+nanoparticle strategy to overcome the physico-chemical limitations often
+encountered with natural substances such as MP1 and demonstrate a significant
+reduction of S. aureus infection by MP1-loaded nanoparticles.
+CONCLUSIONS: Our study gives examples of how analysis of bacterial interactions
+in the human microbiota can be explored for the development of novel, effective
+anti-infective strategies. Video Abstract.
+
+DOI: 10.1186/s40168-020-00866-1 
+PMCID: PMC7275423
+PMID: 32503672 
+

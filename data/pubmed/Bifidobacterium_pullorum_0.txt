@@ -1,0 +1,41 @@
+
+1. Int J Syst Evol Microbiol. 2020 Sep 22. doi: 10.1099/ijsem.0.004474. [Epub ahead 
+of print]
+
+Proposal of Bifidobacterium saeculare Biavati et al. 1992 as a later heterotypic 
+synonym of Bifidobacterium gallinarum Watabe et al. 1983 and Bifidobacterium
+gallinarum subsp. saeculare subsp. nov.
+
+Liu DD(1), Wang H(1), Gu CT(1).
+
+Author information: 
+(1)College of Life Sciences, Northeast Agricultural University, Harbin 150030, PR
+China.
+
+In 2018, Nouioui et al. transferred Bifidobacterium gallinarum and
+Bifidobacterium saeculare to Bifidobacterium pullorum as B. pullorum subsp.
+gallinarum and B. pullorum subsp. saeculare on the basis of digital DNA-DNA
+hybridization (dDDH) values. These two new subspecies were validated in the same 
+year. However, we found that the genome (GenBank/ENA/DDBJ accession number
+JGZJ01000000) of B. pullorum used by Nouioui et al. in the dDDH analysis cannot
+represent B. pullorum. So, the taxonomic relationship between B. gallinarum, B.
+saeculare and B. pullorum should be re-examined. B. pullorum DSM 20433T had
+88.7-89.0 % average nucleotide identity (ANI) values and 37.5-38.0 % dDDH values 
+to the type strains of B. gallinarum and B. saeculare, respectively, less than
+the threshold for species demarcation, confirming that B. pullorum represents a
+different species from B. gallinarum and B. saeculare. The ANI values and dDDH
+values between the type strains of B. gallinarum and B. saeculare were
+96.7-96.9 % and 73.0-73.3 %, respectively, greater than the threshold for species
+demarcation, confirming that they represent the same species. Relatively low dDDH
+values (less than the 79-80 % threshold for subspecies demarcation) between the
+type strains of B. gallinarum and B. saeculare indicated that B. saeculare can be
+considered as a subspecies of B. gallinarum. On the basis of the results
+presented here, (i) B. gallinarum and B. saeculare should not be transferred to
+B. pullorum; (ii) we propose B. saeculare Biavati et al. 1992 as a later
+heterotypic synonym of B. gallinarum Watabe et al. 1983 and as a new subspecies
+of B. gallinarum, for which the name B. gallinarum subsp. saeculare subsp. nov.
+is proposed.
+
+DOI: 10.1099/ijsem.0.004474 
+PMID: 32960752 
+

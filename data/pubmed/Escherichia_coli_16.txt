@@ -1,0 +1,63 @@
+
+1. Antimicrob Resist Infect Control. 2020 Oct 2;9(1):161. doi:
+10.1186/s13756-020-00823-5.
+
+The prevalence and mechanism of triclosan resistance in Escherichia coli isolated
+from urine samples in Wenzhou, China.
+
+Zeng W(1), Xu W(2), Xu Y(2), Liao W(2), Zhao Y(1), Zheng X(1), Xu C(2), Zhou
+T(3), Cao J(4).
+
+Author information: 
+(1)Department of Medical Laboratory Science, School of Laboratory Medicine and
+Life Science, Wenzhou Medical University, Wenzhou, Zhejiang Province, China.
+(2)Department of Clinical Laboratory, The First Affiliated Hospital of Wenzhou
+Medical University, Wenzhou, Zhejiang Province, China.
+(3)Department of Clinical Laboratory, The First Affiliated Hospital of Wenzhou
+Medical University, Wenzhou, Zhejiang Province, China. wyztli@163.com.
+(4)Department of Medical Laboratory Science, School of Laboratory Medicine and
+Life Science, Wenzhou Medical University, Wenzhou, Zhejiang Province, China.
+wzcjming@163.com.
+
+BACKGROUND: The widespread application of triclosan contributes to its residual
+deposition in urine, which provides an environment of long-term exposure to
+triclosan for the intestinal Escherichia coli. We determined the triclosan and
+antibiotic resistance characteristics of E. coli strains isolated from urine
+samples and further investigated the resistance mechanism and molecular epidemic 
+characteristics of triclosan-resistant E. coli isolates.
+METHODS: A total of 200 non-repetitive E. coli strains were isolated from urine
+samples and then identified. The minimum inhibitory concentrations (MICs) of
+triclosan and antibiotics, fabI mutation, efflux pump activity, the expression of
+14 efflux pump encoding genes, and epidemiological characteristics were
+determined by the agar dilution method, polymerase chain reaction (PCR), carbonyl
+cyanide 3-chlorophenylhydrazone (CCCP) inhibition test, quantitative real-time
+polymerase chain reaction (RT-qPCR), multilocus sequence typing (MLST), and
+pulse-field gel electrophoresis (PFGE) for all triclosan-resistant isolates.
+Furthermore, we also investigated the effect of triclosan exposure in vitro on
+antibiotic susceptibility and the efflux pump encoding gene expressions of
+triclosan-susceptible strains via serial passage experiments.
+RESULTS: Of the 200 E. coli isolates, 2.5% (n = 5) were found to be resistant to 
+triclosan, and multidrug resistance (MDR) and cross-resistance phenotypes were
+noted for these triclosan-resistant strains. The triclosan-sensitive strains also
+exhibited MDR phenotypes, probably because of the high resistance rate to AMP,
+CIP, LVX, and GEN. Gly79Ala and Ala69Thr amino acid changes were observed in the 
+triclosan-resistant strains, but these changes may not mediate resistance of E.
+coli to triclosan, because mutations of these two amino acids has also been
+detected in triclosan-susceptible strains. Moreover, except for DC8603, all other
+strains enhanced the efflux pumps activity. As compared with ATCC 25922, except
+for fabI, increased expressions were noted for all efflux pump encoding genes
+such as ydcV, ydcU, ydcS, ydcT, cysP, yihV, acrB, acrD, and mdfA among the
+studied strains with varying PFGE patterns and STs types. Unexpectedly, 5
+susceptible E. coli isolates showed rapidly increasing triclosan resistance after
+exposure to triclosan in vitro for only 12 days, while MDR or cross-resistance
+phenotypes and the overexpression of efflux pump genes were recorded among these 
+triclosan-induced resistant isolates.
+CONCLUSIONS: This is the first study to report that short-term triclosan exposure
+in vitro increases triclosan resistance in susceptible E. coli isolates. After
+acquiring resistance, these strains may present MDR or cross-resistance
+phenotypes. Moreover, triclosan resistance mainly involves the overexpression of 
+fabI and efflux pumps in E. coli isolates.
+
+DOI: 10.1186/s13756-020-00823-5 
+PMID: 33008474 
+

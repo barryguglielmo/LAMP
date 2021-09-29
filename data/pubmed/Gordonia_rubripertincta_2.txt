@@ -1,0 +1,54 @@
+
+1. Microbiol Res. 2020 Sep;238:126481. doi: 10.1016/j.micres.2020.126481. Epub 2020 
+May 26.
+
+Cultivation dependent formation of siderophores by Gordonia rubripertincta CWB2.
+
+Schwabe R(1), Senges CHR(2), Bandow JE(2), Heine T(3), Lehmann H(4), Wiche O(5), 
+Schlömann M(3), Levicán G(6), Tischler D(7).
+
+Author information: 
+(1)Institute of Biosciences, Environmental Microbiology Group, TU Bergakademie
+Freiberg, Leipziger Straße 29, 09599 Freiberg, Germany; Institute of Biosciences,
+Biology and Ecology Group, TU Bergakademie Freiberg, Leipziger Straße 29, 09599
+Freiberg, Germany. Electronic address: ringoschwabe007@gmail.com.
+(2)Applied Microbiology, Faculty of Biology and Biotechnology, Ruhr University
+Bochum, Universitätsstraße 150, 44801 Bochum, Germany.
+(3)Institute of Biosciences, Environmental Microbiology Group, TU Bergakademie
+Freiberg, Leipziger Straße 29, 09599 Freiberg, Germany.
+(4)Institute of Informatic, TU Bergakademie Freiberg, Bernhard-von-Cotta Straße
+2, 09599 Freiberg, Germany.
+(5)Institute of Biosciences, Biology and Ecology Group, TU Bergakademie Freiberg,
+Leipziger Straße 29, 09599 Freiberg, Germany.
+(6)Laboratorio de Microbiología Básica y Aplicada, Facultad de Química y
+Biología, Universidad de Santiago, Chile.
+(7)Institute of Biosciences, Environmental Microbiology Group, TU Bergakademie
+Freiberg, Leipziger Straße 29, 09599 Freiberg, Germany; Microbial Biotechnology, 
+Faculty of Biology and Biotechnology, Ruhr-Universität Bochum, Universitätsstraße
+150, 44780 Bochum, Germany. Electronic address: dirk.tischler@rub.de.
+
+Herein we demonstrate cultivation-dependent siderophore production by the
+actinomycete Gordonia rubripertincta CWB2. The strain produces mostly citrate,
+but also desferrioxamine E (DFOE) and new hydroxamate-type siderophores. The
+production of hydroxamate-like siderophores is influenced by cultivation
+conditions, for example available carbon sources or presence of metals, such as
+the rare earth erbium or the heavy metal lead. By cultivation with succinate and 
+extraction with an adsorbing resin (XAD) we purified the G. rubripertincta CWB2
+siderophores (yield up to 178 mg L-1). The respective workflow comprises genome
+mining, cultivation, and overproduction strategies, a rapid screening procedure, 
+as well as traditional structure enrichment and structure elucidation methods.
+This combination of methods allows the discovery of new natural products with
+metal complexation capacity, also for lanthanides of commercial value. G.
+rubripertincta CWB2 carries a desferrioxamine-like biosynthetic gene cluster. Its
+transcription was proven by a transcriptomic approach comparing expression levels
+of the selected gene cluster during cultivation in iron-depleted and repleted
+media. Further investigation of the siderophores of this desferrioxamine
+producing Actinobacterium could lead to new structures.
+
+Copyright © 2020 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.micres.2020.126481 
+PMID: 32497965 
+
+Conflict of interest statement: Declaration of Competing Interest None.
+

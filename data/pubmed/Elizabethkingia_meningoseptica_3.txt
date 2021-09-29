@@ -1,0 +1,72 @@
+
+1. Water Res. 2020 Sep 9;187:116397. doi: 10.1016/j.watres.2020.116397. [Epub ahead 
+of print]
+
+Chloramphenicol biodegradation by enriched bacterial consortia and isolated
+strain Sphingomonas sp. CL5.1: The reconstruction of a novel biodegradation
+pathway.
+
+Zhang J(1), Gan W(2), Zhao R(1), Yu K(3), Lei H(1), Li R(1), Li X(4), Li B(5).
+
+Author information: 
+(1)Guangdong Provincial Engineering Research Center for Urban Water Recycling and
+Environmental Safety, Tsinghua Shenzhen International Graduate School, Tsinghua
+University, Shenzhen 518055, China; Shenzhen Engineering Research Laboratory for 
+Sludge and Food Waste Treatment and Resource Recovery, Tsinghua Shenzhen
+International Graduate School, Tsinghua University, Shenzhen 518055, China;
+School of Environment, Tsinghua University, Beijing 100084, China.
+(2)Guangdong Provincial Engineering Research Center for Urban Water Recycling and
+Environmental Safety, Tsinghua Shenzhen International Graduate School, Tsinghua
+University, Shenzhen 518055, China; Shenzhen Engineering Research Laboratory for 
+Sludge and Food Waste Treatment and Resource Recovery, Tsinghua Shenzhen
+International Graduate School, Tsinghua University, Shenzhen 518055, China.
+(3)School of Environment and Energy, Shenzhen Graduate School, Peking University,
+Shenzhen 518055, China.
+(4)Guangdong Provincial Engineering Research Center for Urban Water Recycling and
+Environmental Safety, Tsinghua Shenzhen International Graduate School, Tsinghua
+University, Shenzhen 518055, China; Shenzhen Engineering Research Laboratory for 
+Sludge and Food Waste Treatment and Resource Recovery, Tsinghua Shenzhen
+International Graduate School, Tsinghua University, Shenzhen 518055, China;
+Shenzhen Environmental Science and New Energy Laboratory, Tsinghua-Berkeley
+Shenzhen Institute, Tsinghua University, Shenzhen 518055, China.
+(5)Guangdong Provincial Engineering Research Center for Urban Water Recycling and
+Environmental Safety, Tsinghua Shenzhen International Graduate School, Tsinghua
+University, Shenzhen 518055, China; Shenzhen Engineering Research Laboratory for 
+Sludge and Food Waste Treatment and Resource Recovery, Tsinghua Shenzhen
+International Graduate School, Tsinghua University, Shenzhen 518055, China.
+Electronic address: bingli@sz.tsinghua.edu.cn.
+
+Figuring out the comprehensive metabolic mechanism of chloramphenicol (CAP) is
+critical to improving CAP removal in the bioremediation process. In this study,
+CAP biodegradation by six consortia and isolated Sphingomonas sp. CL5.1 were
+systematically investigated using the combination of high-performance liquid
+chromatography-quadrupole time-of-flight mass spectrometry, second-generation,
+and third-generation sequencing technologies. The CAP-degrading capability of six
+consortia was enhanced while CAP mineralization rate declined after long-term
+enrichment. The microbial community structures of six consortia were all
+simplified with 69%-82% decline in species richness after continuous passages for
+one year. The core genera of consortia CL and CH included Sphingomonas,
+Cupriavidus, Burkholderia, Chryseobacterium, and Pigmentiphaga, which accounted
+for over 98% of the total population. Sphingomonas was discovered as a new CAP
+degrader that could subsist on CAP as the sole carbon, nitrogen, and energy
+sources. Sphingomonas sp. CL5.1 was able to completely remove 120 mg/L CAP within
+48 hours with a mineralization rate of 50.4%. The presence of acetate or nitrite 
+could inhibit CAP metabolization by strain CL5.1. Four CAP metabolic pathways
+were constructed, including modification of the C3 hydroxyl group of CAP via
+acetylation, oxidization, dehydration and the bond cleavage between C1 and C2. C3
+hydroxyl group dehydration and C1-C2 bond-cleavage were first reported regarding 
+to CAP biotransformation. Strain CL5.1 played a core role in the consortia and
+was responsible for C3 hydroxyl oxidation, C3 dehydration, and C1-C2 bond
+cleavage. Genomic information of strain CL5.1 revealed the further mineralization
+pathways of downstream product p-nitrobenzoic acid via ortho- and meta-cleavage.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.watres.2020.116397 
+PMID: 32947114 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

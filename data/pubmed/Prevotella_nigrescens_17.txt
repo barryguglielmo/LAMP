@@ -1,0 +1,45 @@
+
+1. J Cyst Fibros. 2020 Mar;19(2):211-218. doi: 10.1016/j.jcf.2019.09.005. Epub 2019 
+Oct 10.
+
+Infection with Prevotella nigrescens induces TLR2 signalling and low levels of
+p65 mediated inflammation in Cystic Fibrosis bronchial epithelial cells.
+
+Bertelsen A(1), Elborn JS(2), Schock BC(3).
+
+Author information: 
+(1)Department of Veterinary Medicine, The University of Cambridge, Madingley
+Road, Cambridge, United Kingdom; Wellcome-Wolfson Institute for Experimental
+Medicine, Queens University Belfast, Belfast, United Kingdom.
+(2)Wellcome-Wolfson Institute for Experimental Medicine, Queens University
+Belfast, Belfast, United Kingdom; National Heart and Lung Institute, Imperial
+College London, London, United Kingdom.
+(3)Wellcome-Wolfson Institute for Experimental Medicine, Queens University
+Belfast, Belfast, United Kingdom. Electronic address: b.schock@qub.ac.uk.
+
+Prevotella spp. are frequently identified in Cystic Fibrosis sputum. This study
+examined whether infection with Prevotella nigrescens, a frequently identified
+member of this species, contributes to inflammation in CF bronchial epithelial
+cells through activation of TLR- and NF-κB signalling pathways. CFBE41o- cells
+were infected with either P.nigrescens or Pseudomonas aeruginosa and incubated
+under anaerobic conditions for 4h. P.nigrescens activated TLR2 signalling but not
+TLR4 signalling while P.aeruginosa activated TLR4 signalling with a lesser effect
+on TLR2. P.aeruginosa induced significant IκBα phosphorylation 10min post
+infection with a return to control levels by 30min post infection. A significant 
+induction in nuclear p65 DNA binding was observed at 2h post infection. In
+contrast, infection with P.nigrescens induced phosphorylation of IκBα 120min post
+infection, with significant induction in nuclear p65 DNA binding at 4h post
+infection only. Cytokine gene and protein responses were lower for P.nigrescens
+compared to P.aeruginosa. This study demonstrates the ability of a clinical
+P.nigrescens isolate to provoke a delayed NF-κB(p65) driven response through
+induction in TLR2 signalling and activation of sustained levels of IKKα.
+
+Copyright © 2019 European Cystic Fibrosis Society. Published by Elsevier B.V. All
+rights reserved.
+
+DOI: 10.1016/j.jcf.2019.09.005 
+PMID: 31607634 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+have no conflict of interest, financially or otherwise.
+

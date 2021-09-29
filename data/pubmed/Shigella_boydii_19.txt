@@ -1,0 +1,49 @@
+
+1. J Bacteriol. 2019 Nov 20;201(24). pii: e00493-19. doi: 10.1128/JB.00493-19. Print
+2019 Dec 15.
+
+Colicin U from Shigella boydii Forms Voltage-Dependent Pores.
+
+Dolejšová T(1), Sokol A(1), Bosák J(2), Šmajs D(2), Konopásek I(1), Mikušová
+G(1), Fišer R(3).
+
+Author information: 
+(1)Department of Genetics and Microbiology, Faculty of Science, Charles
+University, Prague, Czech Republic.
+(2)Department of Biology, Faculty of Medicine, Masaryk University, Kamenice,
+Brno, Czech Republic.
+(3)Department of Genetics and Microbiology, Faculty of Science, Charles
+University, Prague, Czech Republic fiserr@natur.cuni.cz.
+
+Colicin U is a protein produced by the bacterium Shigella boydii (serovars 1 and 
+8). It exerts antibacterial activity against strains of the enterobacterial
+genera Shigella and Escherichia Here, we report that colicin U forms
+voltage-dependent pores in planar lipid membranes; its single-pore conductance
+was found to be about 22 pS in 1 M KCl at pH 6 under 80 mV in asolectin bilayers.
+In agreement with the high degree of homology between their C-terminal domains,
+colicin U shares some pore characteristics with the related colicins A and B.
+Colicin U pores are strongly pH dependent, and as we deduced from the activity of
+colicin U in planar membranes at different protein concentrations, they have a
+monomeric pore structure. However, in contrast to related colicins, we observed a
+very low cationic selectivity of colicin U pores (1.5/1 of K+/Cl- at pH 6) along 
+with their atypical voltage gating. Finally, using nonelectrolytes, we determined
+the inner diameter of the pores to be in the range of 0.7 to 1 nm, which is
+similar to colicin Ia, but with a considerably different inner profile.IMPORTANCE
+Currently, a dramatic increase in antibiotic resistance is driving researchers to
+find new antimicrobial agents. The large group of toxins called bacteriocins
+appears to be very promising from this point of view, especially because their
+narrow killing spectrum allows specific targeting against selected bacterial
+strains. Colicins are a subgroup of bacteriocins that act on Gram-negative
+bacteria. To date, some colicins are commercially used for the treatment of
+animals (1) and tested as a component of engineered species-specific
+antimicrobial peptides, which are studied for the potential treatment of humans
+(2). Here, we present a thorough single-molecule study of colicin U which leads
+to a better understanding of its mode of action. It extends the range of
+characterized colicins available for possible future medical applications.
+
+Copyright © 2019 American Society for Microbiology.
+
+DOI: 10.1128/JB.00493-19 
+PMCID: PMC6872204
+PMID: 31548276  [Indexed for MEDLINE]
+

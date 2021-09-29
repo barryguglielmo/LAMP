@@ -1,0 +1,39 @@
+
+1. Innate Immun. 2020 Sep 28:1753425920959410. doi: 10.1177/1753425920959410. [Epub 
+ahead of print]
+
+Beneficial effect of probiotics on Pseudomonas aeruginosa-infected intestinal
+epithelial cells through inflammatory IL-8 and antimicrobial peptide human
+beta-defensin-2 modulation.
+
+Huang FC(1)(2), Lu YT(1), Liao YH(1).
+
+Author information: 
+(1)Department of Paediatrics, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, 
+Taiwan.
+(2)Chang Gung University College of Medicine, Taoyuan, Taiwan.
+
+The human pathogen Pseudomonas aeruginosa can rapidly induce fatal sepsis, even
+in previously healthy infants or children treated with appropriate antibiotics.
+To reduce antibiotic overuse, exploring novel complementary therapies, such as
+probiotics that reportedly protect patients against P. aeruginosa infection,
+would be particularly beneficial. However, the major mechanism underlying the
+clinical effects is not completely understood. We thus aimed to investigate how
+probiotics affect IL-8 and human beta-defensin 2 (hBD-2) in P.
+aeruginosa-infected intestinal epithelial cells (IECs). We infected SW480 IECs
+with wild type PAO1 P. aeruginosa following probiotic treatment with
+Lactobacillus rhamnosus GG or Bifidobacterium longum spp. infantis S12, and
+analysed the mRNA expression and secreted protein of IL-8 and hBD-2, Akt
+signalling and NOD1 receptor protein expression. We observed that probiotics
+enhanced hBD-2 expression but suppressed IL-8 responses when administered before 
+infection. They also enhanced P. aeruginosa-induced membranous NOD1 protein
+expression and Akt activation. The siRNA-mediated Akt or NOD1 knockdown
+counteracted P. aeruginosa-induced IL-8 or hBD-2 expression, indicating
+regulatory effects of these probiotics. In conclusion, these data suggest that
+probiotics exert reciprocal regulation of inflammation and antimicrobial peptides
+in P. aeruginosa-infected IECs and provide supporting evidence for applying
+probiotics to reduce antibiotic overuse.
+
+DOI: 10.1177/1753425920959410 
+PMID: 32988256 
+

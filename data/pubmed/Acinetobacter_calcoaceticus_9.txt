@@ -1,0 +1,41 @@
+
+1. Microb Genom. 2020 Jun;6(6). doi: 10.1099/mgen.0.000381. Epub 2020 Jun 4.
+
+Microevolution in the major outer membrane protein OmpA of Acinetobacter
+baumannii.
+
+Viale AM(1), Evans BA(2).
+
+Author information: 
+(1)Instituto de Biología Molecular y Celular de Rosario (IBR, CONICET) and
+Departamento de Microbiología, Facultad de Ciencias Bioquímicas y Farmacéuticas, 
+Universidad Nacional de Rosario (UNR), 2000 Rosario, Argentina.
+(2)Norwich Medical School, University of East Anglia, Norwich, UK.
+
+Acinetobacter baumannii is nowadays a relevant nosocomial pathogen characterized 
+by multidrug resistance (MDR) and concomitant difficulties to treat infections.
+OmpA is the most abundant A. baumannii outer membrane (OM) protein, and is
+involved in virulence, host-cell recognition, biofilm formation, regulation of OM
+stability, permeability and antibiotic resistance. OmpA members are two-domain
+proteins with an N-terminal eight-stranded β-barrel domain with four external
+loops (ELs) interacting with the environment, and a C-terminal periplasmic domain
+binding non-covalently to the peptidoglycan. Here, we combined data from genome
+sequencing, phylogenetic and multilocus sequence analyses from 975
+strains/isolates of the Acinetobacter calcoaceticus/Acinetobacter baumannii
+complex (ACB), 946 from A. baumannii, to explore ompA microevolutionary
+divergence. Five major ompA variant groups were identified (V1 to V5) in A.
+baumannii, encompassing 52 different alleles coding for 23 different proteins.
+Polymorphisms were concentrated in five regions corresponding to the four ELs and
+the C-terminal end, and provided evidence for intra-genic recombination. ompA
+variants were not randomly distributed across the A. baumannii phylogeny, with
+the most frequent V1(lct)a1 allele found in most clonal complex 2 (CC2) strains
+and the second most frequent V2(lct)a1 allele in the majority of CC1 strains.
+Evidence was found for assortative exchanges of ompA alleles not only between
+separate A. baumannii lineages, but also different ACB species. The overall
+results have implications for A. baumannii evolution, epidemiology, virulence and
+vaccine design.
+
+DOI: 10.1099/mgen.0.000381 
+PMCID: PMC7371106
+PMID: 32496178 
+

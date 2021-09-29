@@ -1,0 +1,44 @@
+
+1. Bioresour Technol. 2019 Dec;293:122009. doi: 10.1016/j.biortech.2019.122009. Epub
+2019 Aug 14.
+
+Immobilization of bacterial feruloyl esterase on mesoporous silica particles and 
+enhancement of synthetic activity by hydrophobic-modified surface.
+
+Chong SL(1), Cardoso V(2), Brás JLA(3), Gomes MZDV(4), Fontes CMGA(2), Olsson
+L(5).
+
+Author information: 
+(1)State Key Laboratory of Subtropical Silviculture, Zhejiang A&F University,
+Lin'an, 311300 Hangzhou, China; Chalmers University of Technology, Department of 
+Biology and Biological Engineering, Division of Industrial Biotechnology,
+Kemivägen 10, SE-412 96 Göteborg, Sweden.
+(2)NZYTech Genes & Enzymes, Campus do Lumiar, 1649-038 Lisbon, Portugal; CIISA - 
+Faculty of Veterinary Medicine, University of Lisbon, 1300-477 Lisboa, Portugal.
+(3)NZYTech Genes & Enzymes, Campus do Lumiar, 1649-038 Lisbon, Portugal.
+(4)Chalmers University of Technology, Department of Chemistry and Chemical
+Engineering, Applied Chemistry, SE 412 96 Gothenburg, Sweden.
+(5)Chalmers University of Technology, Department of Biology and Biological
+Engineering, Division of Industrial Biotechnology, Kemivägen 10, SE-412 96
+Göteborg, Sweden. Electronic address: lisbeth.olsson@chalmers.se.
+
+Here, we demonstrated the immobilization of bacterial feruloyl esterase (FAE)
+from Butyrivibrio sp. XPD2006, Lactobacillus crispatus, Butyrivibrio sp. AE2015, 
+Ruminococcus albus, Cellulosilyticum ruminicola and Clostridium cellulovorans on 
+SBA-15 and their ability to synthesize butyl ferulate (BFA). The BFae2 from
+Butyrivibrio sp. XPD2006 showed the best catalytic efficiency. High BFA yield was
+produced when the immobilization of BFae2 took place with a high protein loading 
+and narrow pore sized SBA-15, suggesting alteration of enzyme behavior due to the
+crowding environment in SBA-15. Grafting of SBA-15 with octyl moieties led to
+shrinking pore size and resulted in 2.5-fold increment of BFA activity compared
+to the free enzyme and 70%mol BFA was achieved. The BFae2 encapsulated in
+hydrophobic-modified SBA-15 endured up to seven reaction cycles while the BFA
+activity remained above 60%. This is the first report showing the superior
+performance of hydrophobic-modified surface to entrap FAE to produce fatty
+phenolic esters.
+
+Copyright © 2019 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.biortech.2019.122009 
+PMID: 31493730  [Indexed for MEDLINE]
+

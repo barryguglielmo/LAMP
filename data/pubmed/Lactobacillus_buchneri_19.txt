@@ -1,0 +1,51 @@
+
+1. BMC Genomics. 2019 Nov 27;20(1):902. doi: 10.1186/s12864-019-6274-0.
+
+Comparative genomics of eight Lactobacillus buchneri strains isolated from food
+spoilage.
+
+Nethery MA(1)(2), Henriksen ED(2), Daughtry KV(2)(3), Johanningsmeier SD(3),
+Barrangou R(4)(5).
+
+Author information: 
+(1)Genomic Sciences Graduate Program, North Carolina State University, Raleigh,
+NC, USA.
+(2)Department of Food, Bioprocessing & Nutrition Sciences, North Carolina State
+University, Raleigh, NC, USA.
+(3)United States Department of Agriculture, Agricultural Research Service,
+Southeast Area, Food Science Research Unit, North Carolina State University, 322 
+Schaub Hall, Box 7624, Raleigh, NC, 27695-7624, USA.
+(4)Genomic Sciences Graduate Program, North Carolina State University, Raleigh,
+NC, USA. rbarran@ncsu.edu.
+(5)Department of Food, Bioprocessing & Nutrition Sciences, North Carolina State
+University, Raleigh, NC, USA. rbarran@ncsu.edu.
+
+BACKGROUND: Lactobacillus buchneri is a lactic acid bacterium frequently
+associated with food bioprocessing and fermentation and has been found to be
+either beneficial or detrimental to industrial food processes depending on the
+application. The ability to metabolize lactic acid into acetic acid and
+1,2-propandiol makes L. buchneri invaluable to the ensiling process, however,
+this metabolic activity leads to spoilage in other applications, and is
+especially damaging to the cucumber fermentation industry. This study aims to
+augment our genomic understanding of L. buchneri in order to make better use of
+the species in a wide range of applicable industrial settings.
+RESULTS: Whole-genome sequencing (WGS) was performed on seven phenotypically
+diverse strains isolated from spoiled, fermented cucumber and the ATCC type
+strain for L. buchneri, ATCC 4005. Here, we present our findings from the
+comparison of eight newly-sequenced and assembled genomes against two publicly
+available closed reference genomes, L. buchneri CD034 and NRRL B-30929. Overall, 
+we see ~ 50% of all coding sequences are conserved across these ten strains. When
+these coding sequences are clustered by functional description, the strains
+appear to be enriched in mobile genetic elements, namely transposons. All
+isolates harbor at least one CRISPR-Cas system, and many contain putative
+prophage regions, some of which are targeted by the host's own DNA-encoded spacer
+sequences.
+CONCLUSIONS: Our findings provide new insights into the genomics of L. buchneri
+through whole genome sequencing and subsequent characterization of genomic
+features, building a platform for future studies and identifying elements for
+potential strain manipulation or engineering.
+
+DOI: 10.1186/s12864-019-6274-0 
+PMCID: PMC6881996
+PMID: 31775607  [Indexed for MEDLINE]
+

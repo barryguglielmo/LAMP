@@ -1,0 +1,56 @@
+
+1. PLoS One. 2020 Sep 3;15(9):e0238631. doi: 10.1371/journal.pone.0238631.
+eCollection 2020.
+
+The EDN2 rs110287192 gene polymorphism is associated with paratuberculosis
+susceptibility in multibreed cattle population.
+
+Çınar MU(1)(2), Akyüz B(3), Arslan K(3), White SN(2)(4)(5), Neibergs HL(5)(6),
+Gümüşsoy KS(7).
+
+Author information: 
+(1)Department of Animal Science, Faculty of Agriculture, Erciyes University,
+Kayseri, Turkey.
+(2)Department of Veterinary Microbiology & Pathology, Washington State
+University, Pullman, WA, United States of America.
+(3)Department of Genetics, Faculty of Veterinary Medicine, Erciyes University,
+Kayseri, Turkey.
+(4)Animal Disease Research Unit, Agricultural Research Service, U.S. Department
+of Agriculture, Pullman, WA, United States of America.
+(5)Center for Reproductive Biology, Washington State University, Pullman, WA,
+United States of America.
+(6)Department of Animal Science, Washington State University, Pullman, WA, United
+States of America.
+(7)Department of Microbiology, Erciyes University, Faculty of Veterinary
+Medicine, Kayseri, Turkey.
+
+Paratuberculosis (pTB), also known as Johne's disease (JD), is a contagious,
+chronic, and granulomatous inflammatory disease of the intestines of ruminants
+which is caused by Mycobacterium avium subsp. paratuberculosis (MAP) infection,
+resulting in billions of dollars in economic losses worldwide. Since, currently, 
+no effective cure is available for MAP infection, it is important to explore the 
+genetic variants that affect the host MAP susceptibility. The aim of this study
+was to analyze a potential association between EDN2 synonymous gene mutations
+(rs110287192, rs109651404 and rs136707411), that modifies susceptibility to pTB. 
+EDN2 rs110287192, rs109651404 and rs136707411 mutations were genotyped in 68
+infected and 753 healthy animals from East Anatolian Red crossbred, Anatolian
+Black crossbred and Holstein breed cattle by using Custom TaqMan SNP Genotyping
+Assays. For pTB status, serum antibody levels S/P ≥ 1.0 were assessed in carriers
+of the different EDN2 genotypes. EDN2 rs110287192 mutation showed a significant
+association with bovine pTB (adj. p < 0.05). For rs110287192 locus, the odd
+ratios for GG and TG genotypes versus TT genotypes were 1.73; (95% CI =
+0.34-8.59) and 0.53 (95% CI = 0.12-2.37) respectively, which indicated that
+proportion of TG heterozygotes were significantly higher in control animals as
+compared to pTB animals. On the other hand, while rs136707411 mutation showed a
+suggestive association with pTB status in the examined cattle population (nominal
+p < 0.05); no association was detected between rs109651404 genotypes and pTB
+status. Selecting animals against rs110287192-GG genotype may decrease the risk
+of pTB in cattle of the Bos taurus taurus subspecies.
+
+DOI: 10.1371/journal.pone.0238631 
+PMCID: PMC7470282
+PMID: 32881967 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

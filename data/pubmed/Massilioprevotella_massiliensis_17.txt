@@ -1,0 +1,40 @@
+
+1. Melanoma Res. 2020 Jun;30(3):235-246. doi: 10.1097/CMR.0000000000000656.
+
+Gut microbial species and metabolic pathways associated with response to
+treatment with immune checkpoint inhibitors in metastatic melanoma.
+
+Wind TT(1), Gacesa R(2)(3), Vich Vila A(2)(3), de Haan JJ(1), Jalving M(1),
+Weersma RK(2), Hospers GAP(1).
+
+Author information: 
+(1)Comprehensive Cancer Centre.
+(2)Department of Gastroenterology and Hepatology.
+(3)Department of Genetics, University Medical Center Groningen, University of
+Groningen, Groningen, the Netherlands.
+
+In patients with metastatic cancer, gut microbiome composition differs between
+responder and non-responders to immune checkpoint inhibitors. However, there is
+little consensus on the microbiome taxa associated with response or lack of
+response. Additionally, recognized confounders of gut microbiome composition have
+generally not been taken into account. In this study, metagenomic shotgun
+sequencing was performed on freshly frozen pre-treatment stool samples from 25
+patients (12 responders and 13 non-responders) with unresectable metastatic
+melanoma treated with immune checkpoint inhibitors. We observed no significant
+differences in alpha-diversity and bacterial prevalence between responders and
+non-responders (P > 0.05). In a zero-inflated multivariate analysis, correcting
+for important confounders such as age, BMI and use of antibiotics, 68 taxa showed
+differential abundance between responders and non-responders (false-discovery
+rate < 0.05). Cox-regression analysis showed longer overall survival for carriers
+of Streptococcus parasanguinis [hazard ratio (HR): 6.9] and longer
+progression-free survival for carriers of Bacteroides massiliensis (HR: 3.79). In
+contrast, carriership of Peptostreptococcaceae (unclassified species) was
+associated with shorter overall survival (HR 0.18) and progression-free survival 
+(HR 0.11). Finally, 17 microbial pathways differentially abundant between
+responder and non-responders were observed. These results underline the
+association between gut microbiome composition and response to immune checkpoint 
+inhibitor therapy in a cohort of patients with cutaneous melanoma.
+
+DOI: 10.1097/CMR.0000000000000656 
+PMID: 31990790 
+

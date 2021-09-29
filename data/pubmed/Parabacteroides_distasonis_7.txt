@@ -1,0 +1,42 @@
+
+1. Sci Rep. 2020 May 6;10(1):7686. doi: 10.1038/s41598-020-64728-4.
+
+Gut Microbiota Dysbiosis Associated with Bile Acid Metabolism in Neonatal
+Cholestasis Disease.
+
+Li M(1), Liu S(2), Wang M(2), Hu H(1), Yin J(3), Liu C(4)(5), Huang Y(6).
+
+Author information: 
+(1)Department of Pediatrics, the First Affiliated Hospital of Kunming Medical
+University and Yunnan Key Laboratory of Laboratory Medicine, 650032, Kunming,
+China.
+(2)Department of Gastroenterology, Children's Hospital of Kunming Medical
+University, 650034, Kunming, China.
+(3)Yunnan Center for Disease Control and Prevention, 650100, Kunming, China.
+(4)Kunming Institute of Zoology, Chinese Academy of Sciences, 650000, Kunming,
+China. liuchuanfa15@mails.ucas.ac.cn.
+(5)University of Chinese Academy of Sciences, 100049, Beijing, China.
+liuchuanfa15@mails.ucas.ac.cn.
+(6)Department of Pediatrics, the First Affiliated Hospital of Kunming Medical
+University and Yunnan Key Laboratory of Laboratory Medicine, 650032, Kunming,
+China. hykkmyncnwd@163.com.
+
+Neonatal cholestasis disease (NCD) is a complex and easily mis-diagnosed
+condition. We analyzed microbiota community structure in feces and measured
+short-chain fatty acids, bile acids (BAs) and liver function of 12 healthy, 13
+NCD, and 13 treated infants after diagnosis. Based on 16S rRNA gene amplicon
+sequencing and gas-chromatographic-mass-spectrometric analysis of secondary BAs, 
+we identified microbial genera and metabolites that associate with abnormal bile 
+secretion. Streptococcus gallolyticus and Parabacteroides distasonis, and
+Lactobacillus gasseri had higher relative abundance in healthy and NCD infants
+respectively. Compared to NCD patients, healthy infants had higher LCA, CDCA and 
+GCDCA fecal concentrations. The three microbial species and three secondary bile 
+acids were selected as potential non-invasive combined biomarkers to diagnose
+NCD. We propose that microbiota-metabolite combined biomarkers could be used for 
+diagnosis of NCD, and this may contribute to improved early clinical diagnosis of
+NCD in the future.
+
+DOI: 10.1038/s41598-020-64728-4 
+PMCID: PMC7203226
+PMID: 32377002 
+

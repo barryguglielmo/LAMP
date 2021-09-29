@@ -1,0 +1,43 @@
+
+1. Sci Rep. 2020 May 21;10(1):8426. doi: 10.1038/s41598-020-65314-4.
+
+Metabolomic effects of the colonization of Medicago truncatula by the facultative
+endophyte Arthrobacter agilis UMCV2 in a foliar inoculation system.
+
+Ramírez-Ordorica A(1), Valencia-Cantero E(1), Flores-Cortez I(1), Carrillo-Rayas 
+MT(2), Elizarraraz-Anaya MIC(2), Montero-Vargas J(2), Winkler R(2),
+Macías-Rodríguez L(3).
+
+Author information: 
+(1)Instituto de Investigaciones Químico Biológicas, Universidad Michoacana de San
+Nicolás de Hidalgo, Edifico B3, Ciudad Universitaria, C. P. 58030, Morelia,
+Michoacán, México.
+(2)Department of Biotechnology and Biochemistry, Cinvestav Unidad Irapuato. Km.
+9.6 Libramiento Norte Carr. Irapuato-León. C. P. 36824, Irapuato, Guanajuato,
+México.
+(3)Instituto de Investigaciones Químico Biológicas, Universidad Michoacana de San
+Nicolás de Hidalgo, Edifico B3, Ciudad Universitaria, C. P. 58030, Morelia,
+Michoacán, México. lmacias@umich.mx.
+
+Biofertilizer production and application for sustainable agriculture is already a
+reality. The methods for biofertilizers delivery in crop fields are diverse.
+Although foliar spray is gaining wide acceptance, little is known about the
+influence that the biochemical features of leaves have on the microbial
+colonization. Arthrobacter agilis UMCV2 is a rhizospheric and endophytic bacteria
+that promotes plant growth and health. In this study, we determined the capacity 
+of the UMCV2 strain to colonize different leaves from Medicago truncatula in a
+foliar inoculation system. By using two powerful analytical methods based on mass
+spectrometry, we determined the chemical profile of the leaves in 15-d old
+plants. The metabolic signatures between the unifoliate leaf (m1) and the
+metameric units developing above (m2 and m3) were different, and interestingly,
+the highest colony forming units (CFU) was found in m1. The occurrence of the
+endophyte strongly affects the sugar composition in m1 and m2 leaves. Our results
+suggest that A. agilis UMCV2 colonize the leaves under a foliar inoculation
+system independently of the phenological age of the leaf and it is capable of
+modulating the carbohydrate metabolism without affecting the rest of the
+metabolome.
+
+DOI: 10.1038/s41598-020-65314-4 
+PMCID: PMC7242375
+PMID: 32439840 
+

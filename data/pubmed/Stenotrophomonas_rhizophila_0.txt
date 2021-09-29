@@ -1,0 +1,40 @@
+
+1. Microorganisms. 2020 Sep 30;8(10). pii: E1506. doi:
+10.3390/microorganisms8101506.
+
+Microbiome Management by Biological and Chemical Treatments in Maize Is Linked to
+Plant Health.
+
+Kusstatscher P(1), Wicaksono WA(1), Thenappan DP(2), Adam E(1), Müller H(1)(3),
+Berg G(1).
+
+Author information: 
+(1)Institute of Environmental Biotechnology, Graz University of Technology, 8010 
+Graz, Austria.
+(2)Division of Microbiology, ICAR-Indian Agricultural Research Institute, New
+Delhi 110012, India.
+(3)Biotenzz GmbH, 8010 Graz, Austria.
+
+The targeted application of plant growth-promoting rhizobacteria (PGPR) provides 
+the key for a future sustainable agriculture with reduced pesticide application. 
+PGPR interaction with the indigenous microbiota is poorly understood, but
+essential to develop reliable applications. Therefore, Stenotrophomonas
+rhizophila SPA-P69 was applied as a seed coating and in combination with a
+fungicide based on the active ingredients fludioxonil, metalaxyl-M, captan and
+ziram. The plant performances and rhizosphere compositions of treated and
+non-treated maize plants of two field trials were analyzed. Plant health was
+significantly increased by treatment; however, overall corn yield was not
+changed. By applying high-throughput amplicon sequencing of the 16S rRNA and the 
+ITS genes, the bacterial and fungal changes in the rhizosphere due to different
+treatments were determined. Despite the fact that treatments had a significant
+impact on the rhizosphere microbiota (9-12%), the field site was identified as
+the main driver (27-37%). The soil microbiota composition from each site was
+significantly different, which explains the site-specific effects. In this study 
+we were able to show the first indications how PGPR treatments increase plant
+health via microbiome shifts in a site-specific manner. This way, first steps
+towards a detailed understanding of PGPRs and developments of consistently
+efficient applications in diverse environments are made.
+
+DOI: 10.3390/microorganisms8101506 
+PMID: 33007821 
+

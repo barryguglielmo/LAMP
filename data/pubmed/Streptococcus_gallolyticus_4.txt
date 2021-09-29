@@ -1,0 +1,67 @@
+
+1. Res Vet Sci. 2020 Oct;132:426-438. doi: 10.1016/j.rvsc.2020.07.027. Epub 2020 Aug
+5.
+
+Discrimination of major and minor streptococci incriminated in bovine mastitis by
+MALDI-TOF MS fingerprinting and 16S rRNA gene sequencing.
+
+Alnakip MEA(1), Rhouma NR(2), Abd-Elfatah EN(3), Quintela-Baluja M(4), Böhme
+K(4), Fernández-No I(4), Bayoumi MA(3), Abdelhafez MM(5), Taboada-Rodríguez A(6),
+Calo-Mata P(4), Barros-Velázquez J(7).
+
+Author information: 
+(1)Department of Analytical Chemistry, Nutrition and Food Science, School of
+Veterinary Sciences/College of Biotechnology, University of Santiago de
+Compostela, Rúa Carballo Calero s/n, Campus Lugo, E-27002 Lugo, Spain; Department
+of Food Control, Faculty of Veterinary Medicine, Zagazig University, 44519,
+Egypt.
+(2)Department of Biology, Faculty of Science, Misurata University, Libya;
+Department of Food science and Technology, Faculty of Agriculture, Misurata
+University, Libya.
+(3)Department of Food Control, Faculty of Veterinary Medicine, Zagazig
+University, 44519, Egypt.
+(4)Department of Analytical Chemistry, Nutrition and Food Science, School of
+Veterinary Sciences/College of Biotechnology, University of Santiago de
+Compostela, Rúa Carballo Calero s/n, Campus Lugo, E-27002 Lugo, Spain.
+(5)Department of Food science and Technology, Faculty of Agriculture, Misurata
+University, Libya.
+(6)Food Biotechnology Group, Department of Nutrition and Food Science, Faculty of
+Veterinary Sciences, Murcia university, Campus Espinardo, 30100 Murcia, Spain.
+(7)Department of Analytical Chemistry, Nutrition and Food Science, School of
+Veterinary Sciences/College of Biotechnology, University of Santiago de
+Compostela, Rúa Carballo Calero s/n, Campus Lugo, E-27002 Lugo, Spain. Electronic
+address: jorge.barros.velazquez@gmail.com.
+
+The current work investigated the discriminatory potential of MALDI-TOF MS
+fingerprinting towards most-relevant major (Streptococcus agalactiae, S.
+dysgalactiae, S. uberis) and minor (S. canis, S. parauberis, S. salivarius, S.
+equinus and S. gallolyticus) streptococci involved in bovine mastitis (BM), in
+comparison to 16S rRNA gene sequencing (GS)-based identification. The MALDI-TOF
+MS-generated spectral fingerprints were recruited for eliciting a detailed
+proteomic map that demonstrated clear variability for inter- and
+intra-species-specific biomarkers. Besides, a phyloproteomic dendrogram was
+evolved and comparatively analyzed against the phylogenetic one obtained from 16S
+rRNA GS in order to assess the differentiation of streptococci of bovine origin
+based on variability of protein fingerprints versus the variation of 16S rRNA
+gene homology. Results showed that the discrimination of BM-implicated
+streptococci can be obtained by both approaches; however MALDI-TOF MS was
+superior, achieving more variability at both intra- and sub-species levels.
+MALDI-TOF MS spectral analytics revealed that Streptococcus spp. exhibited three 
+genus-specific biomarkers (peaks with m/z values at 2112, 4452 and 5955) and all 
+streptococci exhibited spectral variability at both species and subspecies
+levels. Remarkably, MALDI-TOF MS fingerprinting was found to be at least as
+robust as 16S rRNA GS-based identification, allowing much cheaper and faster
+analysis, and additionally exhibiting high reliability for characterization of
+BM-implicated streptococci, thus proving to be a powerful tool that can be used
+independently within dairy diagnostics.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.rvsc.2020.07.027 
+PMID: 32777539 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no conflict of interests. None of the authors of this
+paper has a financial or personal relationship with other people or organizations
+that could inappropriately influence or bias the content of the paper.
+

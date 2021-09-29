@@ -1,0 +1,52 @@
+
+1. Front Microbiol. 2020 May 13;11:920. doi: 10.3389/fmicb.2020.00920. eCollection
+2020.
+
+Hyperosmotic Infusion and Oxidized Surfaces Are Essential for Biofilm Formation
+of Staphylococcus capitis From the Neonatal Intensive Care Unit.
+
+Qu Y(1)(2)(3), Li Y(4)(5), Cameron DR(2), Easton CD(4), Zhu X(1), Zhu M(1),
+Salwiczek M(2)(4), Muir BW(4), Thissen H(4), Daley A(6)(7), Forsythe JS(5), Peleg
+AY(2)(3), Lithgow T(2).
+
+Author information: 
+(1)The Neonatal Intensive Care Unit, The Second Affiliated Hospital and Yuying
+Children's Hospital of Wenzhou Medical University, Wenzhou, China.
+(2)Infection and Immunity Theme, Department of Microbiology, Biomedicine
+Discovery Institute, Monash University, Clayton, VIC, Australia.
+(3)Department of Infectious Diseases, The Alfred Hospital and Central Clinical
+School, Monash University, Melbourne, VIC, Australia.
+(4)The Commonwealth Scientific and Industrial Research Organisation (CSIRO)
+Manufacturing, Clayton, VIC, Australia.
+(5)Department of Materials Science and Engineering, Monash Institute of Medical
+Engineering, Monash University, Clayton, VIC, Australia.
+(6)Department of Microbiology, The Royal Children's Hospital, Parkville, VIC,
+Australia.
+(7)Department of Paediatrics, University of Melbourne, Parkville, VIC, Australia.
+
+Staphylococcus capitis is an opportunistic pathogen often implicated in
+bloodstream infections in the neonatal intensive care unit (NICU). This is
+assisted by its ability to form biofilms on indwelling central venous catheters
+(CVC), which are highly resistant to antibiotics and the immune system. We sought
+to understand the fundamentals of biofilm formation by S. capitis in the NICU,
+using seventeen clinical isolates including the endemic NRCS-A clone and
+assessing nine commercial and two modified polystyrene surfaces. S. capitis
+clinical isolates from the NICU initiated biofilm formation only in response to
+hyperosmotic conditions, followed by a developmental progression driven by
+icaADBC expression to establish mature biofilms, with polysaccharide being their 
+major extracellular polymer substance (EPS) matrix component. Physicochemical
+features of the biomaterial surface, and in particular the level of the element
+oxygen present on the surface, significantly influenced biofilm development of S.
+capitis. A lack of highly oxidized carbon species on the surface prevented the
+immobilization of S. capitis EPS and the formation of mature biofilms. This
+information provides guidance in regard to the preparation of hyperosmolar total 
+parenteral nutrition and the engineering of CVC surfaces that can minimize the
+risk of catheter-related bloodstream infections caused by S. capitis in the NICU.
+
+Copyright © 2020 Qu, Li, Cameron, Easton, Zhu, Zhu, Salwiczek, Muir, Thissen,
+Daley, Forsythe, Peleg and Lithgow.
+
+DOI: 10.3389/fmicb.2020.00920 
+PMCID: PMC7237634
+PMID: 32477314 
+

@@ -1,0 +1,44 @@
+
+1. Ann Transl Med. 2020 Mar;8(5):247. doi: 10.21037/atm.2020.01.123.
+
+A rare case of adrenal gland abscess due to anaerobes detected by metagenomic
+next-generation sequencing.
+
+Jin W(1), Miao Q(1), Wang M(1), Zhang Y(1), Ma Y(1), Huang Y(1), Wu H(2), Lin
+Y(3), Hu B(1)(4), Pan J(1).
+
+Author information: 
+(1)Department of Infectious Diseases, Zhongshan Hospital, Fudan University,
+Shanghai 200032, China.
+(2)Binhai Genomics Institute, Tianjin Translational Genomics Center, BGI-Tianjin,
+BGI-Shenzhen, Tianjin 300308, China.
+(3)BGI Genomics BGI-Shenzhen, Shenzhen 518083, China.
+(4)Department of Infectious Diseases and Department of Infection Control,
+Zhongshan Hospital, Fudan University, Shanghai 200032, China.
+
+A 50-year-old woman presented with right back pain, low fever, leukocytosis, a
+high level of C-reactive protein and a high erythrocyte sedimentation rate.
+Abdominal magnetic resonance imaging (MRI) revealed a hypodense lesion in the
+right suprarenal region, while PET/CT showed mildly increased metabolic activity.
+A CT-guided percutaneous puncture was performed, and foul-smelling thick pus was 
+removed, which indicated an anaerobic infection. A smear of the pus showed both
+gram-positive and gram-negative microorganisms. Traditional culture only detected
+Escherichia coli, Proteus mirabilis, and Actinomyces turicensis. While
+surprisingly, metagenomic next-generation sequencing (mNGS) of both the pus and
+blood showed high reads of multiple pathogens, including anaerobes and the three 
+culture-positive pathogens. Thus, adrenal gland abscess was confirmed, and a
+combination therapy of catheter drainage and effective antimicrobial treatment
+was started. Six days later, the patient had clinically improved and mNGS showed 
+dramatically decreased reads of all pathogens. A follow-up lab examination of
+inflammatory biomarkers was normal, and the adrenal mass was reduced
+radiographically.
+
+2020 Annals of Translational Medicine. All rights reserved.
+
+DOI: 10.21037/atm.2020.01.123 
+PMCID: PMC7154389
+PMID: 32309394 
+
+Conflict of interest statement: Conflicts of Interest: The authors have no
+conflicts of interest to declare.
+

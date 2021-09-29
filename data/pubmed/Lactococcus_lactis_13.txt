@@ -1,0 +1,41 @@
+
+1. Sheng Wu Gong Cheng Xue Bao. 2020 Aug 25;36(8):1629-1639. doi:
+10.13345/j.cjb.190552.
+
+[Construction and verification of Lactococcus lactis NZ9000 genome-scale
+metabolic model].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Sun W(1)(2), Zhang J(1)(2), Du G(2)(3).
+
+Author information: 
+(1)Key Laboratory of Industrial Biotechnology, Ministry of Education, Jiangnan
+University, Wuxi 214122, Jiangsu, China.
+(2)School of Biotechnology, Jiangnan University, Wuxi 214122, Jiangsu, China.
+(3)Synergetic Innovation Center, Jiangnan University, Wuxi 214122, Jiangsu,
+China.
+
+With the advent of the post-genomic era, metabolic engineering of microorganisms 
+plays an increasingly important role in industrial production. The genome-scale
+metabolic model (GSMM) integrates all known metabolic information in the organism
+to provide an optimal platform for global understanding of the metabolic state of
+the organism and rational guidance for metabolic engineering. As a model strain, 
+Lactococcus lactis NZ9000 plays an important role in industrial fermentation, but
+there is still no specific genome-scale metabolic model for it. Based on genomic 
+function annotation and comparative genomics, we constructed the first
+genome-scale metabolic model iWK557 of L. lactis NZ9000, which contains 557
+genes, 668 metabolites, and 840 reactions, and further verified at both
+qualitative and quantitative levels, to provide a good tool for rationally
+guiding metabolic engineering.
+
+Publisher: 随着后基因组时代的到来，工业微生物的代谢工程改造在工业生产上发挥着越来越重要的作用。而基因组规模代谢网络模型 (Genome-scale
+metabolic model，GSMM)
+将生物体体内所有已知代谢信息进行整合，为全局理解生物体的代谢状态、理性指导代谢工程改造提供了最佳的平台。乳酸乳球菌NZ9000 (Lactococcus
+lactis NZ9000)
+作为工业发酵领域的重要菌株之一，由于其遗传背景清晰且几乎不分泌蛋白，是基因工程改造和外源蛋白表达的理想模式菌株。文中基于基因组功能注释和比较基因组学构建了L.
+lactis NZ9000 的首个基因组规模代谢网络模型iWK557，包含557 个基因、668 个代谢物、840
+个反应，并进一步在定性和定量两个层次验证了iWK557的准确性，以期为理性指导L. lactis NZ9000 代谢工程改造提供良好工具。.
+DOI: 10.13345/j.cjb.190552 
+PMID: 32924361 
+

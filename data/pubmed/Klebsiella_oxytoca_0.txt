@@ -1,0 +1,46 @@
+
+1. Appl Microbiol Biotechnol. 2020 Oct 3. doi: 10.1007/s00253-020-10933-0. [Epub
+ahead of print]
+
+Combining metabolic engineering and evolutionary adaptation in Klebsiella oxytoca
+KMS004 to significantly improve optically pure D-(-)-lactic acid yield and
+specific productivity in low nutrient medium.
+
+In S(1), Khunnonkwao P(1), Wong N(1), Phosiran C(1), Jantama SS(2), Jantama K(3).
+
+Author information: 
+(1)Metabolic Engineering Research Unit, School of Biotechnology, Suranaree
+University of Technology, 111 University Avenue, Suranaree, Muang, Nakhon
+Ratchasima, 30000, Thailand.
+(2)Department of Bio-pharmacy, Faculty of Pharmaceutical Sciences, Ubon
+Ratchathani University, Warinchamrap, Ubon Ratchathani, 34190, Thailand.
+(3)Metabolic Engineering Research Unit, School of Biotechnology, Suranaree
+University of Technology, 111 University Avenue, Suranaree, Muang, Nakhon
+Ratchasima, 30000, Thailand. kaemwich@sut.ac.th.
+
+In this study, K. oxytoca KMS004 (ΔadhE Δpta-ackA) was further reengineered by
+the deletion of frdABCD and pflB genes to divert carbon flux through
+D-(-)-lactate production. During fermentation of high glucose concentration, the 
+resulted strain named K. oxytoca KIS004 showed poor in growth and glucose
+consumption due to its insufficient capacity to generate acetyl-CoA for
+biosynthesis. Evolutionary adaptation was thus employed with the strain to
+overcome impaired growth and acetate auxotroph. The evolved K. oxytoca KIS004-91T
+strain exhibited significantly higher glucose-utilizing rate and D-(-)-lactate
+production as a primary route to regenerate NAD+. D-(-)-lactate at concentration 
+of 133 g/L (1.48 M), with yield and productivity of 0.98 g/g and 2.22 g/L/h,
+respectively, was obtained by the strain. To the best of our knowledge, this
+strain provided a relatively high specific productivity of 1.91 g/gCDW/h among
+those of other previous works. Cassava starch was also used to demonstrate a
+potential low-cost renewable substrate for D-(-)-lactate production. Production
+cost of D-(-)-lactate was estimated at $3.72/kg. Therefore, it is possible for
+the KIS004-91T strain to be an alternative biocatalyst offering a more
+economically competitive D-(-)-lactate production on an industrial scale. KEY
+POINTS: • KIS004-91T produced optically pure D-(-)-lactate up to 1.48 M in a low 
+salts medium. • It possessed the highest specific D-(-)-lactate productivity than
+other reported strains. • Cassava starch as a cheap and renewable substrate was
+used for D-(-)-lactate production. • Costs related to media, fermentation,
+purification, and waste disposal were reduced.
+
+DOI: 10.1007/s00253-020-10933-0 
+PMID: 33009939 
+

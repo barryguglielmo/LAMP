@@ -1,0 +1,36 @@
+
+1. Biotechnol Bioeng. 2020 Jul 10. doi: 10.1002/bit.27488. [Epub ahead of print]
+
+Genome-scale modeling for Bacillus coagulans to understand the metabolic
+characteristics.
+
+Chen Y(1), Sun Y(1), Liu Z(1), Dong F(1), Li Y(1), Wang Y(1).
+
+Author information: 
+(1)State Key Laboratory of Bioreactor Engineering, East China University of
+Science and Technology, Shanghai, China.
+
+Lactic acid is widely used in many industries, especially in the production of
+poly-lactic acid. Bacillus coagulans is a promising lactic acid producer in
+industrial fermentation due to its thermophilic property. In this study, we
+developed the first genome-scale metabolic model (GEM) of B. coagulans iBag597,
+together with an enzyme-constrained model ec-iBag597. We measured strain-specific
+biomass composition and integrated the data into a biomass equation. Then, we
+validated iBag597 against experimental data generated in this study, including
+amino acid requirements and carbon source utilization, showing that simulations
+were generally consistent with the experimental results. Subsequently, we carried
+out chemostats to investigate the effects of specific growth rate and culture pH 
+on metabolism of B. coagulans. Meanwhile, we used iBag597 to estimate the
+intracellular metabolic fluxes for those conditions. The results showed that B.
+coagulans was capable of generating ATP via multiple pathways, and switched among
+them in response to various conditions. With ec-iBag597, we estimated the protein
+cost and protein efficiency for each ATP-producing pathway to investigate the
+switches. Our models pave the way for systems biology of B. coagulans, and our
+findings suggest that maintaining a proper growth rate and selecting an optimal
+pH are beneficial for lactate fermentation.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1002/bit.27488 
+PMID: 32648961 
+

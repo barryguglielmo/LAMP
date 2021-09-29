@@ -1,0 +1,41 @@
+
+1. Iran J Pathol. 2020 Fall;15(4):320-325. doi: 10.30699/ijp.2020.127793.2393. Epub 
+2020 Jul 15.
+
+Genetic Diversity of ctxB Gene Among Classical O1 and El Tor Strains of Vibrio
+cholerae using High-Resolution Melting Curve Analysis.
+
+Mahboobi M(1), Mirnejad R(2), Sedighian H(1), Piranfar V(3), Imani Fooladi AA(1).
+
+Author information: 
+(1)Applied Microbiology Research Center, Systems Biology and Poisonings
+Institute, Baqiyatallah University of Medical Sciences, Tehran, Iran.
+(2)Molecular Biology Research Center Systems Biology and Poisonings Institute,
+Baqiyatallah University of Medical Sciences, Tehran, Iran.
+(3)Research and Development Department, Farname Inc, Thornhill, Canada.
+
+Background & Objective: Vibrio cholerae is a natural inhabitant of the
+environment and causes severe diarrhea ailments (cholera) that affects thousands 
+of people each year worldwide. The most important virulence factors of this
+pathogen are cholera toxin (cholera toxin CT) and Type IV pili (toxin
+co-regulated pili TCP), which are encoded within the genome of the filamentous
+bacteriophage CTXφ. In the present study, according to researchers' report on
+genotypic variations of cholera toxin, we evaluated the sequence of ctxB subunit 
+obtained from 100 strains of patients infected with cholera in Iran.
+Methods: The evaluation of genotype variations of cholera toxin was made by
+high-resolution melting curve analysis illustrating a single nucleotide change.
+Then, ctxB gene sequencing was performed. Through this analysis and the
+sequencing process, two standard samples were studied.
+Results: Using serologic tests, all the strains analyzed in this study were
+identified to be in O1 serotype. However, there have been differences in
+sequences of ctxB as some were similar to V . cholerae O1 biovar El Tor str.
+N16961 while others were similar to the genotype of V . cholerae ATCC 14035. We
+did not observe any particular pattern within the process of mutation.
+Conclusion: The analysis of the new samples of ctxB showed that they were
+potentially different. It seems that these complicated species were affected by a
+new genetic exchange of El Tor and classic genotypes.
+
+DOI: 10.30699/ijp.2020.127793.2393 
+PMCID: PMC7477675
+PMID: 32944045 
+

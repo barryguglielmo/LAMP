@@ -1,0 +1,47 @@
+
+1. Biomacromolecules. 2020 Feb 10;21(2):641-652. doi: 10.1021/acs.biomac.9b01370.
+Epub 2020 Jan 23.
+
+High-Affinity N-(2-Hydroxypropyl)methacrylamide Copolymers with Tailored
+N-Acetyllactosamine Presentation Discriminate between Galectins.
+
+Tavares MR(1), Bláhová M(1), Sedláková L(2)(3), Elling L(4), Pelantová H(2),
+Konefał R(1), Etrych T(1), Křen V(2), Bojarová P(2)(3), Chytil P(1).
+
+Author information: 
+(1)Institute of Macromolecular Chemistry , Czech Academy of Sciences ,
+Heyrovského náměstí 2 , CZ-162 06 Prague 6 , Czech Republic.
+(2)Institute of Microbiology , Czech Academy of Sciences , Vídeňská 1083 , CZ-142
+20 Prague 4 , Czech Republic.
+(3)Department of Health Care Disciplines and Population Protection, Faculty of
+Biomedical Engineering , Czech Technical University in Prague , Sítná sq. 3105 , 
+CZ-272 01 Kladno , Czech Republic.
+(4)Institute of Biotechnology and Helmholtz Institute for Biomedical Engineering 
+, RWTH Aachen , Pauwelstr. 20 , D-52079 Aachen , Germany.
+
+N-Acetyllactosamine (LacNAc; Galβ4GlcNAc) is a typical disaccharide ligand of
+galectins. The most abundant members of these human lectins, galectin-1 (Gal-1)
+and galectin-3 (Gal-3), participate in a number of pathologies including
+cancerogenesis and metastatic formation. In this study, we synthesized a series
+of fifteen N-(2-hydroxypropyl)methacrylamide (HPMA)-based glycopolymers with
+varying LacNAc amounts and presentations and evaluated the impact of their
+architecture on the binding affinity to Gal-1 and Gal-3. The controlled radical
+reversible addition-fragmentation chain transfer copolymerization technique
+afforded linear polymer precursors with comparable molecular weight (Mn ≈ 22,000 
+g mol-1) and narrow dispersity (D̵ ≈ 1.1). The precursors were conjugated with
+the functionalized LacNAc disaccharide (4-22 mol % content in glycopolymer)
+prepared by enzymatic synthesis under catalysis by β-galactosidase from Bacillus 
+circulans. The structure-affinity relationship study based on the enzyme-linked
+immunosorbent assay revealed that the type of LacNAc presentation, individual or 
+clustered on bi- or trivalent linkers, brings a clear discrimination (almost
+300-fold) between Gal-1 and Gal-3, reaching avidity to Gal-1 in the nanomolar
+range. Whereas Gal-1 strongly preferred a dense presentation of individually
+distributed LacNAc epitopes, Gal-3 preferred a clustered LacNAc presentation.
+Such a strong galectin preference based just on the structure of a multivalent
+glycopolymer type is exceptional. The prepared nontoxic, nonimmunogenic, and
+biocompatible glycopolymers are prospective for therapeutic applications
+requiring selectivity for one particular galectin.
+
+DOI: 10.1021/acs.biomac.9b01370 
+PMID: 31904940 
+

@@ -1,0 +1,60 @@
+
+1. Anaerobe. 2020 Oct;65:102251. doi: 10.1016/j.anaerobe.2020.102251. Epub 2020 Aug 
+8.
+
+Phenotypic and genotypic antimicrobial resistance profiles of fecal lactobacilli 
+from domesticated pigeons in Poland.
+
+Dec M(1), Stępień-Pyśniak D(2), Nowaczek A(3), Puchalski A(4), Urban-Chmiel R(5).
+
+Author information: 
+(1)Department of Veterinary Prevention and Avian Diseases, Institute of
+Biological Bases of Animal Diseases, Faculty of Veterinary Medicine, University
+of Life Sciences in Lublin, Akademicka 12, 20-033, Lublin, Poland. Electronic
+address: marta.dec@up.lublin.pl.
+(2)Department of Veterinary Prevention and Avian Diseases, Institute of
+Biological Bases of Animal Diseases, Faculty of Veterinary Medicine, University
+of Life Sciences in Lublin, Akademicka 12, 20-033, Lublin, Poland. Electronic
+address: dagmara.stepien@up.lublin.pl.
+(3)Department of Veterinary Prevention and Avian Diseases, Institute of
+Biological Bases of Animal Diseases, Faculty of Veterinary Medicine, University
+of Life Sciences in Lublin, Akademicka 12, 20-033, Lublin, Poland. Electronic
+address: anna.nowaczek@up.lublin.pl.
+(4)Department of Veterinary Prevention and Avian Diseases, Institute of
+Biological Bases of Animal Diseases, Faculty of Veterinary Medicine, University
+of Life Sciences in Lublin, Akademicka 12, 20-033, Lublin, Poland. Electronic
+address: andrzej.puchalski@up.lublin.pl.
+(5)Department of Veterinary Prevention and Avian Diseases, Institute of
+Biological Bases of Animal Diseases, Faculty of Veterinary Medicine, University
+of Life Sciences in Lublin, Akademicka 12, 20-033, Lublin, Poland. Electronic
+address: renata.urban@up.lublin.pl.
+
+Lactobacillus species play an important role in the host and although they are
+non-pathogenic, they could act as reservoirs for antibiotic resistance genes,
+with the potential risk of transfer to other bacteria inhabiting the
+gastrointestinal tract. The aim of this study was to identify Lactobacillus
+species derived from feces of domesticated pigeons and to characterize their
+phenotypic and genotypic antimicrobial resistance (AMR) profiles. A total of 57
+Lactobacillus isolates were classified into six species using the MALDI-TOF
+technique and 16S rDNA restriction analysis. Strains of L. ingluviei (31%),
+L. salivarius (28%) and L. agilis (23%) were the dominant species isolated.
+Determination of antimicrobial susceptibility by the microdilution broth method
+showed widespread resistance to kanamycin (89%), tetracycline (84%), streptomycin
+(63%), and enrofloxacin (37%). Less than 30% of the isolates were resistant to
+erythromycin, lincosamides, gentamycin, chloramphenicol and vancomycin. Over half
+(51%) of the lactobacilli were classified as multidrug resistant. Tet genes were 
+detected in 79% of isolates; the lnuA, cat, ermB, ermC, ant(6)-Ia, ant(4')-Ia,
+and int-Tn genes were found at a lower frequency. Sequence analysis of the
+quinolone resistance-determining region (QRDR)of the gyrA gene showed that
+fluoroquinolone resistance in lactobacilli was the result of a mutation that lead
+to a change in the amino acid sequence (Ser83→Tyr/Leu/Phe). Domesticated pigeons 
+could be a reservoir for AMR Lactobacillus strains and AMR genes.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.anaerobe.2020.102251 
+PMID: 32781109 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no competing interests.
+

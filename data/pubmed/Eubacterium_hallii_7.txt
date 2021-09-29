@@ -1,0 +1,57 @@
+
+1. Dig Dis Sci. 2020 Feb 19. doi: 10.1007/s10620-020-06061-4. [Epub ahead of print]
+
+Identification of Dysfunctional Gut Microbiota Through Rectal Swab in Patients
+with Different Severity of Acute Pancreatitis.
+
+Yu S(1), Xiong Y(2), Xu J(1), Liang X(3), Fu Y(1), Liu D(1), Yu X(1), Wu D(4).
+
+Author information: 
+(1)Department of Emergency Medicine, Peking Union Medical College Hospital,
+Peking Union Medical College, Chinese Academy of Medical Sciences, No. 1
+Shuaifuyuan, Dongcheng District, Beijing, 100730, China.
+(2)Department of Gastroenterology, Peking Union Medical College Hospital, Peking 
+Union Medical College, Chinese Academy of Medical Sciences, No. 1 Shuaifuyuan,
+Dongcheng District, Beijing, 100730, China.
+(3)Department of Emergency Medicine, The Second People's Hospital of Guiyang,
+Guiyang, 550004, China.
+(4)Department of Gastroenterology, Peking Union Medical College Hospital, Peking 
+Union Medical College, Chinese Academy of Medical Sciences, No. 1 Shuaifuyuan,
+Dongcheng District, Beijing, 100730, China. wudong@pumch.cn.
+
+BACKGROUND: Acute pancreatitis (AP) has a wide spectrum of severity and can be
+associated with considerable morbidity and mortality. Whether gut microbiota
+dysbiosis is associated with AP severity remains obscure.
+AIMS: We aim to investigate the differences in the alterations of gut microbiota 
+in different grades of AP severity.
+METHODS: We collected clinical information and rectal swab samples from 80
+individuals. The gut microbiota was tested by 16S rRNA gene sequencing, gut
+microbiota species composition analysis, difference analysis, random forest model
+prediction analysis, and gut microbiota species correlation network analysis.
+RESULTS: There was a different microbiota profile in different severity grades.
+Bacteroides, Escherichis-Shigella, and Enterococcus were dominant species in
+mild, moderately severe, and severe AP, respectively. Finegoldia was the most
+significantly increased and Blautia the most decreased species in mild AP.
+Anaerococcus was the most significantly increased and Eubacterium hallii the most
+decreased species in moderately severe AP. Enterococcus was the most
+significantly increased and Eubacterium hallii the most decreased species in
+severe AP. Finegoldia, Eubacterium_hallii, and Lachnospiraceae were potential
+diagnostic biomarkers for mild AP and Eubacterium_hallii and Anaerococcus for
+moderately severe AP. There was a positive interaction between Firmicutes and
+Bacteroidetes in mild AP.
+CONCLUSIONS: The disturbed gut microbiota is different among grades of AP,
+suggesting their potential role in the progression of disease severity. There was
+a different microbiota profile in different severity grades. Bacteroides,
+Escherichis-Shigella, and Enterococcus were dominant gut microbiota species in
+MAP, MSAP, and SAP, respectively. Finegoldia was the most significantly increased
+and Blautia the most decreased gut microbiota species in MAP. Anaerococcus was
+the most significantly increased and Eubacterium hallii the most decreased
+species in MSAP. Enterococcus was the most significantly increased and
+Eubacterium hallii the most decreased species in SAP. Finegoldia,
+Eubacterium_hallii, and Lachnospiraceae were potential diagnostic biomarkers for 
+MAP and Eubacterium_hallii and Anaerococcus for MSAP. There was a positive
+interaction between Firmicutes and Bacteroidetes in MAP.
+
+DOI: 10.1007/s10620-020-06061-4 
+PMID: 32076933 
+

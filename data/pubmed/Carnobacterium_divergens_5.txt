@@ -1,0 +1,56 @@
+
+1. Microb Pathog. 2020 Oct;147:104212. doi: 10.1016/j.micpath.2020.104212. Epub 2020
+Apr 25.
+
+Correlation between chemical composition and antimicrobial properties of
+essential oils against most common food pathogens and spoilers: In-vitro efficacy
+and predictive modelling.
+
+Bagheri L(1), Khodaei N(2), Salmieri S(1), Karboune S(3), Lacroix M(4).
+
+Author information: 
+(1)INRS Armand-Frappier, Health and Biotechnology Centre, Research Laboratories
+in Sciences Applied to Food, Canadian Irradiation Centre, Institut des
+Nutraceutiques et des Aliments Fonctionnels (INAF), 531, Boulevard des Prairies, 
+Laval, Québec, H7V 1B, Canada.
+(2)Department of Food Science and Agricultural Chemistry, Macdonald Campus,
+McGill University, 21111 Lakeshore, Sainte Anne de Bellevue, Quebec, H9X 3V9,
+Canada.
+(3)Department of Food Science and Agricultural Chemistry, Macdonald Campus,
+McGill University, 21111 Lakeshore, Sainte Anne de Bellevue, Quebec, H9X 3V9,
+Canada. Electronic address: salwa.karboune@mcgill.ca.
+(4)INRS Armand-Frappier, Health and Biotechnology Centre, Research Laboratories
+in Sciences Applied to Food, Canadian Irradiation Centre, Institut des
+Nutraceutiques et des Aliments Fonctionnels (INAF), 531, Boulevard des Prairies, 
+Laval, Québec, H7V 1B, Canada. Electronic address: Monique.Lacroix@iaf.inrs.ca.
+
+Using disk diffusion assay and broth microdilution, we evaluated the
+antimicrobial activity of 38 commercially available essential oils (EOs) against 
+24 food pathogens and spoilers. These including E. coli O157: H7 (3 types),
+Listeria (3 types), Bacillus (2 types), Salmonella enterica (2 types),
+Staphylococcus aureus (3 types), Clostridium tyrobutiricum, Pseudomonas
+aeruginosa, Brochotrix thermosphacta, Campylobacter jejuni, Carnobacterium
+divergens, Aspergillus (2 types), and Penicillium (4 types). Correlation between 
+EOs' chemical composition and antimicrobial properties was studied using R
+software. Moreover, statistical models representing the relationship were
+generated using Design Expert®. The predictive models identified the chemical
+attributes of EOs that drive their antimicrobial properties while providing an
+understanding of their interactions. Thyme (Aldrich, Novotaste), cinnamon
+(Aliksir, BSA), garlic (Novotaste), Mexican garlic blend N & A (Novotaste), and
+oregano (BSA) were the strongest antimicrobial. The most sensitive pathogens were
+P. solitum (MIC of 19.53 ppm) and L. monocytogenes (MIC of 39 ppm). The
+correlation analysis showed that phenols and aldehydes had the strongest positive
+effects on the antimicrobial properties followed by the sulfur containing
+compounds and the esters; while the effects of monoterpenes and ketones were
+negative. Different sensitivity of food pathogens to chemical families was
+observed. For instance, phenols and aldehydes exhibited a linear inhibitory
+effect on L. monocytogenes (LM1045, MIC), while sesquiterpene and ester showed a 
+significant effect on S. aureus (ATCC 6538, MIC). The developed predictive models
+are expected to predict the antimicrobial properties based on the chemical
+families of essential oils.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.micpath.2020.104212 
+PMID: 32344178 
+

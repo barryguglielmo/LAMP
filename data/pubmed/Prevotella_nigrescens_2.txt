@@ -1,0 +1,52 @@
+
+1. Int J Nanomedicine. 2020 Jul 31;15:5473-5489. doi: 10.2147/IJN.S253416.
+eCollection 2020.
+
+Specific Anti-biofilm Activity of Carbon Quantum Dots by Destroying P. gingivalis
+Biofilm Related Genes.
+
+Liang G(1)(2), Shi H(3), Qi Y(1), Li J(3), Jing A(3), Liu Q(2), Feng W(1), Li
+G(3), Gao S(1)(2).
+
+Author information: 
+(1)Medical College, Henan University of Science and Technology, Luoyang 471023,
+People's Republic of China.
+(2)Henan Key Laboratory of Cancer Epigenetics, The First Affiliated Hospital of
+Henan University of Science and Technology, Luoyang 471023, People's Republic of 
+China.
+(3)School of Medical Technology and Engineering, Henan University of Science and 
+Technology, Luoyang 471023, People's Republic of China.
+
+Introduction: Biofilms protect bacteria from antibiotics and this can produce
+drug-resistant strains, especially the main pathogen of periodontitis,
+Porphyromonas gingivalis. Carbon quantum dots with various biomedical properties 
+are considered to have great application potential in antibacterial and
+anti-biofilm treatment.
+Methods: Tinidazole carbon quantum dots (TCDs) and metronidazole carbon quantum
+dots (MCDs) were prepared by a hydrothermal method with the clinical
+antibacterial drugs tinidazole and metronidazole, respectively. Then, TCDs and
+MCDs were characterized by transmission electron microscopy, UV-visible
+spectroscopy, infrared spectroscopy and energy-dispersive spectrometry. The
+antibacterial effects were also investigated under different conditions.
+Results: The TCDs and MCDs had uniform sizes. The results of UV-visible and
+energy-dispersive spectrometry confirmed their important carbon polymerization
+structures and the activity of the nitro group, which had an evident inhibitory
+effect on P. gingivalis, but almost no effect on other bacteria, including
+Escherichia coli, Staphylococcus aureus and Prevotella nigrescens. Importantly,
+the TCDs could penetrate the biofilms to further effectively inhibit the growth
+of P. gingivalis under the biofilms. Furthermore, it was found that the
+antibacterial effect of TCDs lies in its ability to impair toxicity by inhibiting
+the major virulence factors and related genes involved in the biofilm formation
+of P. gingivalis, thus affecting the self-assembly of biofilm-related proteins.
+Conclusion: The findings demonstrate a promising new method for improving the
+efficiency of periodontitis treatment by penetrating the P. gingivalis biofilm
+with preparations of nano-level antibacterial drugs.
+
+© 2020 Liang et al.
+
+DOI: 10.2147/IJN.S253416 
+PMCID: PMC7406331
+PMID: 32801701 
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+

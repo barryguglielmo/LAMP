@@ -1,0 +1,43 @@
+
+1. Microorganisms. 2020 Jul 23;8(8). pii: E1105. doi: 10.3390/microorganisms8081105.
+
+Staphylococcus saccharolyticus: An Overlooked Human Skin Colonizer.
+
+Ahle CM(1)(2), Stødkilde K(3), Afshar M(3), Poehlein A(4), Ogilvie LA(5),
+Söderquist B(6), Hüpeden J(1), Brüggemann H(3).
+
+Author information: 
+(1)Beiersdorf AG, Research & Development, Front End Innovation, 20245 Hamburg,
+Germany.
+(2)Department of Microbiology and Biotechnology, University of Hamburg, 22609
+Hamburg, Germany.
+(3)Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark.
+(4)Department of Genomic and Applied Microbiology, Institute of Microbiology and 
+Genetics, University of Göttingen, 37073 Göttingen, Germany.
+(5)Max Planck Institute for Molecular Genetics, 14195 Berlin, Germany.
+(6)Department of Laboratory Medicine, Clinical Microbiology, Faculty of Medicine 
+and Health, Örebro University, S-701 82 Örebro, Sweden.
+
+Coagulase-negative staphylococcal species constitute an important part of the
+human skin microbiota. In particular, facultative anaerobic species such as
+Staphylococcus epidermidis and Staphylococcus capitis can be found on the skin of
+virtually every human being. Here, we applied a culture-independent amplicon
+sequencing approach to identify staphylococcal species on the skin of healthy
+human individuals. While S. epidermidis and S. capitis were found as primary
+residents of back skin, surprisingly, the third most abundant member was
+Staphylococcus saccharolyticus, a relatively unstudied species. A search of skin 
+metagenomic datasets detected sequences identical to the genome of S.
+saccharolyticus in diverse skin sites, including the back, forehead, and elbow
+pit. Although described as a slow-growing anaerobic species, a re-evaluation of
+its growth behavior showed that S. saccharolyticus can grow under oxic
+conditions, and, in particular, in a CO2-rich atmosphere. We argue here that S.
+saccharolyticus was largely overlooked in previous culture-dependent and
+-independent studies, due to its requirement for fastidious growth conditions and
+the lack of reference genome sequences, respectively. Future studies are needed
+to unravel the microbiology and host-interacting properties of S. saccharolyticus
+and its role as a prevalent skin colonizer.
+
+DOI: 10.3390/microorganisms8081105 
+PMCID: PMC7465461
+PMID: 32718033 
+

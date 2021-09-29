@@ -1,0 +1,50 @@
+
+1. Microb Cell Fact. 2020 Jul 14;19(1):142. doi: 10.1186/s12934-020-01399-w.
+
+Expression, homology modeling and enzymatic characterization of a new β-mannanase
+belonging to glycoside hydrolase family 1 from Enterobacter aerogenes B19.
+
+Liu S(1), Cui T(2), Song Y(1).
+
+Author information: 
+(1)School of Biological Science and Bioengineering, South China University of
+Technology, Guangzhou, 510006, China.
+(2)School of Biological Science and Bioengineering, South China University of
+Technology, Guangzhou, 510006, China. fetbcui@scut.edu.cn.
+
+BACKGROUND: β-mannanase can hydrolyze β-1,4 glycosidic bond of mannan by the
+manner of endoglycosidase to generate mannan-oligosaccharides. Currently,
+β-mannanase has been widely applied in food, medicine, textile, paper and
+petroleum exploitation industries. β-mannanase is widespread in various
+organisms, however, microorganisms are the main source of β-mannanases. Microbial
+β-mannanases display wider pH range, temperature range and better
+thermostability, acid and alkali resistance, and substrate specificity than those
+from animals and plants. Therefore microbial β-mannanases are highly valued by
+researchers. Recombinant bacteria constructed by gene engineering and modified by
+protein engineering have been widely applied to produce β-mannanase, which shows 
+more advantages than traditional microbial fermentation in various aspects.
+RESULTS: A β-mannanase gene (Man1E), which encoded 731 amino acid residues, was
+cloned from Enterobacter aerogenes. Man1E was classified as Glycoside Hydrolase
+family 1. The bSiteFinder prediction showed that there were eight essential
+residues in the catalytic center of Man1E as Trp166, Trp168, Asn229, Glu230,
+Tyr281, Glu309, Trp341 and Lys374. The catalytic module and carbohydrate binding 
+module (CBM) of Man1E were homologously modeled. Superposition analysis and
+molecular docking revealed the residues located in the catalytic module of Man1E 
+and the CBM of Man1E. The recombinant enzyme was successfully expressed,
+purified, and detected about 82.5 kDa by SDS-PAGE. The optimal reaction condition
+was 55 °C and pH 6.5. The enzyme exhibited high stability below 60 °C, and in the
+range of pH 3.5-8.5. The β-mannanase activity was activated by low concentration 
+of Co2+, Mn2+, Zn2+, Ba2+ and Ca2+. Man1E showed the highest affinity for Locust 
+bean gum (LBG). The Km and Vmax values for LBG were 3.09 ± 0.16 mg/mL and
+909.10 ± 3.85 μmol/(mL min), respectively.
+CONCLUSIONS: A new type of β-mannanase with high activity from E. aerogenes is
+heterologously expressed and characterized. The enzyme belongs to an unreported
+β-mannanase family (CH1 family). It displays good pH and temperature features and
+excellent catalysis capacity for LBG and KGM. This study lays the foundation for 
+future application and molecular modification to improve its catalytic efficiency
+and substrate specificity.
+
+DOI: 10.1186/s12934-020-01399-w 
+PMCID: PMC7362650
+PMID: 32665004 
+

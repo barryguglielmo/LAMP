@@ -1,0 +1,44 @@
+
+1. Foods. 2020 May 14;9(5). pii: E633. doi: 10.3390/foods9050633.
+
+Spoilage Potential of Pseudomonas (P. fragi, P. putida) and LAB (Leuconostoc
+mesenteroides, Lactobacillus sakei) Strains and Their Volatilome Profile During
+Storage of Sterile Pork Meat Using GC/MS and Data Analytics.
+
+Papadopoulou OS(1)(2), Iliopoulos V(1), Mallouchos A(3), Panagou EZ(1),
+Chorianopoulos N(2), Tassou CC(2), Nychas GE(1).
+
+Author information: 
+(1)Laboratory of Microbiology and Biotechnology of Foods, School of Food and
+Nutritional Sciences, Department of Food Science and Human Nutrition,
+Agricultural University of Athens, Iera Odos 75, 11855-Athens, Attica, Greece.
+(2)Hellenic Agricultural Organization "DEMETER", Institute of Technology of
+Agricultural Products, Sof. Venizelou 1, 14123 Lycovrissi, Attica, Greece.
+(3)Laboratory of Food Chemistry and Analysis, School of Food and Nutritional
+Sciences, Department of Food Science and Human Nutrition, Agricultural University
+of Athens, Iera Odos 75, 11855-Athens, Attica Greece.
+
+The aim of the present study was to investigate the evolution of the volatile
+compounds of aerobically stored sterile pork meat as a consequence of the
+metabolic activities of inoculated specific spoilage microorganisms. Thus,
+Pseudomonas fragi, Pseudomonas putida, Lactobacillus sakei and Leuconostoc
+mesenteroides were inoculated in monocultures, dual cultures and a cocktail
+culture of all strains on sterile pork meat stored aerobically at 4 and 10 °C.
+Microbiological and sensory analyses, as well as pH measurements, were performed,
+along with headspace solid-phase microextraction gas chromatography/mass
+spectroscopy (headspace SPME-GC/MS) analysis. Data analytics were used to
+correlate the volatile compounds with the spoilage potential of each stain using 
+multivariate data analysis. The results for the sensory discrimination showed
+that the volatiles that dominated in spoiled samples consisted mostly of
+alcohols, ketones and two esters (butyl acetate and ethyl acetate), while at
+fresh samples, dimethyl sulfide, furans, acetoin and ethyl lactate were detected.
+On the other hand, 2-butanone, diacetyl and acetaldehyde were among the volatile 
+compounds that were mainly correlated with the inoculated meat during storage. In
+addition, P. fragi was positively correlated with a higher number of volatiles
+compared to the other strains, strengthening the hypothesis that volatile
+compound production is strain-dependent.
+
+DOI: 10.3390/foods9050633 
+PMCID: PMC7278706
+PMID: 32423080 
+

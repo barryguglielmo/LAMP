@@ -1,0 +1,45 @@
+
+1. ACS Appl Mater Interfaces. 2019 Oct 23;11(42):38519-38530. doi:
+10.1021/acsami.9b14403. Epub 2019 Oct 14.
+
+"Ghost" Silica Nanoparticles of "Host"-Inherited Antibacterial Action.
+
+Halbus AF(1)(2), Horozov TS(1), Paunov VN(1).
+
+Author information: 
+(1)Department of Chemistry and Biochemistry , University of Hull , Hull HU6 7RX ,
+United Kingdom.
+(2)Department of Chemistry, College of Science , University of Babylon , Hilla
+51001 , Iraq.
+
+We fabricated surface-rough mesoporous silica nanoparticles ("ghost" SiO2NPs) by 
+using composite mesoporous copper oxide nanoparticles ("host" CuONPs) as
+templates, which allowed us to mimic their surface morphology. The "host" CuONPs 
+used here as templates, however, had a very high antibacterial effect, with or
+without functionalization. To evaluate the surface roughness effect on the
+"ghost" SiO2NPs antibacterial action, we functionalized them with
+(3-glycidyloxypropyl)trimethoxysilane (GLYMO) to permit additional covalent
+coupling of 4-hydroxyphenylboronic acid (4-HPBA). The diol groups on the
+bacterial membrane can form reversible covalent bonds with boronic acid (BA)
+groups on the "ghost" SiO2NPs surface and bind to the bacteria, resulting in a
+very strong amplification of their antibacterial activity, which does not depend 
+on electrostatic adhesion. The BA-functionalized "ghost" SiO2NPs showed a very
+significant antibacterial effect as compared to smooth SiO2NPs of the same
+surface coating and particle size. We attribute this to the "ghost" SiO2NPs
+mesoporous surface morphology, which mimics to a certain extent those of the
+original mesoporous CuONPs used as templates for their preparation. We envisage
+that the "ghost" SiO2NPs effectively acquire some of the antibacterial properties
+from the "host" CuONPs, with the same functionality, despite being completely
+free of copper. The antibacterial effect of the functionalized "ghost"
+SiO2NPs/GLYMO/4-HPBA on Rhodococcus rhodochrous (R. rhodochrous) and Escherichia 
+coli (E. coli) is much higher than that of the nonfunctionalized "ghost" SiO2NPs 
+or the "ghost" SiO2NPs/GLYMO. The results indicate that the combination of rough 
+surface morphology and strong adhesion of the particle surface to the bacteria
+can make even benign material such as silica act as a strong antimicrobial agent.
+Additionally, our BA-functionalized nanoparticles ("ghost" SiO2NPs/GLYMO/4-HPBA) 
+showed no detectable cytotoxic impact against human keratinocytes at particle
+concentrations, which are effective against bacteria.
+
+DOI: 10.1021/acsami.9b14403 
+PMID: 31609105  [Indexed for MEDLINE]
+

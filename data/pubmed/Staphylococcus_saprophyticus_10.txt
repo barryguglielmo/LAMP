@@ -1,0 +1,45 @@
+
+1. J Appl Microbiol. 2020 Aug 1. doi: 10.1111/jam.14799. [Epub ahead of print]
+
+Novel luminescent affiprobes for molecular detection of Staphylococcus aureus
+using flow cytometry.
+
+Shakeran Z(1), Javadi-Zarnaghi F(1), Emamzadeh R(1)(2).
+
+Author information: 
+(1)Department of Cell and Molecular Biology & Microbiology, Faculty of Biological
+Science and Technology, University of Isfahan, Isfahan, Iran.
+(2)NanoBioPhotonics Lab, Department of Biological Engineering, Utah State
+University, Utah, United States.
+
+AIMS: Diagnosis of Staphylococcus aureus is important in various diseases from
+hospital-acquired infections to foodborne diseases. This work reports two new
+luminescent affiprobes for specific detection of S. aureus.
+METHODS AND RESULTS: To develop advanced luminescent affiprobes, enhanced green
+fluorescent protein (EGFP) was flanked by single and double repeats of ZpA963
+affibody using molecular biology studies. The recombinant proteins including
+fluorescent monomeric affibody (fA1 ) and fluorescent dimeric affibody (fA2 )
+were expressed in the bacterial expression system, purified and used to identify 
+the S. aureus. Fluorescence microscope and flow cytometry results demonstrated
+that the treated samples with fA1 and fA2 had relatively high fluorescent mean
+intensities in comparison to the untreated S. aureus cells. Moreover, it was
+revealed that 'fA2 ' affiprobe had lower dissociation constant value (about
+25-fold) and was more effective for detection of S. aureus than the 'fA1 '
+affiprobe. In addition, the binding of the affiprobes for some other pathogenic
+bacteria i.e. Escherichia coli, Bacillus cereus, Enterococcus faecalis and
+Staphylococcus saprophyticus was examined. Expectedly, no cross-reaction was
+observed for binding the constructed affiprobes to these bacteria, eliminating
+possibilities for false positive results.
+CONCLUSIONS: The results show that 'fA1 ' affiprobe and 'fA2 ' affiprobe are two 
+new efficient luminescent affiprobes for detecting S. aureus.
+SIGNIFICANCE AND IMPACT OF THE STUDY: We developed a new approach for detection
+of Staphylococcus aureus in a simple one-step process and in low concentrations
+of probes. In the best of our knowledge, this is the first study to direct
+detection of bacterial cells by affiprobes and may be used to develop new
+diagnostic kits.
+
+© 2020 The Society for Applied Microbiology.
+
+DOI: 10.1111/jam.14799 
+PMID: 32738017 
+

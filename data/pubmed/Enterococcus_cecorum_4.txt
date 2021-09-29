@@ -1,0 +1,46 @@
+
+1. Asian-Australas J Anim Sci. 2019 Nov;32(11):1715-1724. doi: 10.5713/ajas.19.0180.
+Epub 2019 Jul 1.
+
+Analysis of excreta bacterial community after forced molting in aged laying hens.
+
+Han GP(1), Lee KC(2), Kang HK(3), Oh HN(2), Sul WJ(2), Kil DY(1).
+
+Author information: 
+(1)Department of Animal Science and Technology, Chung-Ang University, Anseong
+17546, Korea.
+(2)Department of Systems Biotechnology, Chung-Ang University, Anseong 17546,
+Korea.
+(3)Poultry Research Institute, National Institute of Animal Science, Rural
+Development Administration, Pyeongchang 25342, Korea.
+
+OBJECTIVE: As laying hens become aged, laying performance and egg quality are
+generally impaired. One of the practical methods to rejuvenate production and egg
+quality of aged laying hens with decreasing productivity is a forced molting.
+However, the changes in intestinal microbiota after forced molting of aged hens
+are not clearly known. The aim of the present study was to analyze the changes in
+excreta bacterial communities after forced molting of aged laying hens.
+METHODS: A total of one hundred 66-wk-old Hy-Line Brown laying hens were induced 
+to molt by a 2-d water removal and an 11-d fasting until egg production
+completely ceased. The excreta samples of 16 hens with similar body weight were
+collected before and immediately after molting. Excreta bacterial communities
+were analyzed by high-throughput sequencing of bacterial 16S rRNA genes.
+RESULTS: Bacteroidetes, Firmicutes, and Proteobacteria were the three major
+bacterial phyla in pre-molting and immediate post-molting hens, accounting for
+more than 98.0%. Lactobacillus genus had relatively high abundance in both group,
+but decreased by molting (62.3% in pre-molting and 24.9% in post-molting hens).
+Moreover, pathogenic bacteria such as Enterococcus cecorum and Escherichia coli
+were more abundant in immediate post-molting hens than in pre-molting hens.
+Forced molting influenced the alpha diversity, with higher Chao1 (p = 0.012),
+phylogenetic diversity whole tree (p = 0.014), observed operational taxonomic
+unit indices (p = 0.006), and Simpson indices (p<0.001), which indicated that
+forced molting increased excreta bacterial richness of aged laying hens.
+CONCLUSION: This study improves the current knowledge of bacterial community
+alterations in the excreta by forced molting in aged laying hens, which can
+provide increasing opportunity to develop novel dietary and management skills for
+improving the gastrointestinal health of aged laying hens after molting.
+
+DOI: 10.5713/ajas.19.0180 
+PMCID: PMC6817773
+PMID: 31480206 
+

@@ -1,0 +1,66 @@
+
+1. Proc Natl Acad Sci U S A. 2020 Sep 29;117(39):24443-24449. doi:
+10.1073/pnas.2005857117. Epub 2020 Sep 8.
+
+Short Vi-polysaccharide abrogates T-independent immune response and
+hyporesponsiveness elicited by long Vi-CRM197 conjugate vaccine.
+
+Micoli F(1), Bjarnarson SP(2)(3), Arcuri M(1), Aradottir Pind AA(2)(3),
+Magnusdottir GJ(2)(3), Necchi F(1), Di Benedetto R(1), Carducci M(1), Schiavo
+F(1), Giannelli C(1), Pisoni I(4), Martin LB(1), Del Giudice G(4), MacLennan
+CA(5), Rappuoli R(6)(7), Jonsdottir I(8)(3), Saul A(1).
+
+Author information: 
+(1)Technology Platform Unit, GSK Vaccines Institute for Global Health (GVGH),
+53100 Siena, Italy.
+(2)Faculty of Medicine, University of Iceland, 101 Reykjavik, Iceland.
+(3)Department of Immunology, Landspitali, The National University Hospital of
+Iceland, 101 Reykjavik, Iceland.
+(4)R&D Centre, GSK Vaccines, 53100 Siena, Italy.
+(5)Jenner Institute, Nuffield Department of Medicine, University of Oxford,
+Oxford OX3 7BN, United Kingdom.
+(6)R&D Centre, GSK Vaccines, 53100 Siena, Italy; rino.r.rappuoli@gsk.com
+ingileif@landspitali.is.
+(7)Faculty of Medicine, Imperial College, London SW7 2BU, United Kingdom.
+(8)Faculty of Medicine, University of Iceland, 101 Reykjavik, Iceland;
+rino.r.rappuoli@gsk.com ingileif@landspitali.is.
+
+Polysaccharide-protein conjugates have been developed to overcome the
+T-independent response, hyporesponsiveness to repeated vaccination, and poor
+immunogenicity in infants of polysaccharides. To address the impact of
+polysaccharide length, typhoid conjugates made with short- and long-chain
+fractions of Vi polysaccharide with average sizes of 9.5, 22.8, 42.7, 82.0, and
+165 kDa were compared. Long-chain-conjugated Vi (165 kDa) induced a response in
+both wild-type and T cell-deficient mice, suggesting that it maintains a
+T-independent response. In marked contrast, short-chain Vi (9.5 to 42.7 kDa)
+conjugates induced a response in wild-type mice but not in T cell-deficient mice,
+suggesting that the response is dependent on T cell help. Mechanistically, this
+was explained in neonatal mice, in which long-chain, but not short-chain, Vi
+conjugate induced late apoptosis of Vi-specific B cells in spleen and early
+depletion of Vi-specific B cells in bone marrow, resulting in hyporesponsiveness 
+and lack of long-term persistence of Vi-specific IgG in serum and IgG+
+antibody-secreting cells in bone marrow. We conclude that while conjugation of
+long-chain Vi generates T-dependent antigens, the conjugates also retain
+T-independent properties, leading to detrimental effects on immune responses. The
+data reported here may explain some inconsistencies observed in clinical trials
+and help guide the design of effective conjugate vaccines.
+
+Copyright © 2020 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.2005857117 
+PMID: 32900928 
+
+Conflict of interest statement: Competing interest statement: This work was
+undertaken at the request of and was sponsored by GlaxoSmithKline Biologicals SA.
+F.M., F.N., R.D.B., F.S., M.C., C.G., I.P., L.B.M., G.D.G., and R.R. are
+employees of the GSK group of companies. M.A. received a PhD studentship from GSK
+and University of Birmingham. C.A.M. was employee of Novartis Vaccines Institute 
+for Global Health (acquired by the GSK group of companies in March 2015) at the
+time of the study. A.S. was an employee of GSK group of companies when the study 
+was performed. F.M., L.B.M., C.A.M., and A.S. are listed as inventors on patents 
+related to this work owned by the GSK group of companies. GVGH (GSK Vaccines
+Institute for Global Health), an Institute with a nonprofit mission, has
+partnered with Biological E Ltd., a vaccine manufacture located in Hyderabad,
+India, for the development of a Typhoid Conjugate Vaccine, which received Indian 
+marketing authorization in March 2020.
+

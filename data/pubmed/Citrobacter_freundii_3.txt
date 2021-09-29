@@ -1,0 +1,62 @@
+
+1. Antimicrob Resist Infect Control. 2020 Sep 23;9(1):155. doi:
+10.1186/s13756-020-00816-4.
+
+Epidemiology and risk factors of rectal colonization of carbapenemase-producing
+Enterobacteriaceae among high-risk patients from ICU and HSCT wards in a
+university hospital.
+
+Yan L(1), Sun J(2), Xu X(2), Huang S(3).
+
+Author information: 
+(1)Department of Laboratory Medicine, the First Affiliated Hospital of Chongqing 
+Medical University, No.1 Friendship Road, Yuzhong District, Chongqing, 400016,
+China. cqyanli2000@126.com.
+(2)Department of Laboratory Medicine, the First Affiliated Hospital of Chongqing 
+Medical University, No.1 Friendship Road, Yuzhong District, Chongqing, 400016,
+China.
+(3)Department of Laboratory Medicine, the First Affiliated Hospital of Chongqing 
+Medical University, No.1 Friendship Road, Yuzhong District, Chongqing, 400016,
+China. sfhuang@hospital.cqmu.edu.cn.
+
+BACKGROUND: Nosocomial carbapenemase-producing Enterobacterieceae (CPE)
+infections constitute a major global health concern and are associated with
+increased morbidity and mortality. Rectal colonization with CPE is a risk factor 
+for bacterial translocation leading to subsequent endogenous CPE infections. This
+prospective observational study was aimed to investigate the prevalence and
+epidemiology of rectal colonization of CPE, the carbapenemase genotypes, and to
+identify the independent risk factors for the acquisition of CPE colonization in 
+high-risk patients from ICU and HSCT wards in a university hospital in China.
+METHODS: In a prospective cohort study, 150 fecal samples from rectal swabs were 
+consecutively obtained for inpatients from the intensive care unit (ICU) and
+hematopoietic stem cell transplantation (HSCT) wards from November 2018 to May
+2019, and screening test for CPE was conducted by using prepared in-house trypsin
+soybean broth (TSB) selective media and MacConkey agar. Antimicrobial
+susceptibility was determined by the broth microdilution method and carbapenemase
+genes were characterized by both the GeneXpert Carba-R and PCR for blaKPC,
+blaNDM, blaIMP, blaVIM and blaOXA. Multi-locus sequence typing (MLST) was
+employed to characterize the genetic relationships among the
+carbapenemase-producing K. Pneumonia (CPKP) isolates. In order to further
+investigate the risk factors and clinical outcomes of CPE colonization, a
+prospective case-control study was also performed.
+RESULTS: Twenty-six suspected CPE strains, including 17 Klebsiella pneumoniae, 6 
+Escherichia coli, 1 Citrobacter freundii, 1 Enterobacter Kobe, and 1 Raoultella
+ornithinolytica, were identified in 25 non-duplicated rectal swab samples from 25
+patients, with a carriage rate of 16.67% (25/150). Through GeneXpert Carba-R and 
+subsequent PCR and sequencing, all the suspected CPE isolates were identified to 
+be positive for the carbapenemase genes, of which 17 were blaKPC-carriers, and
+another 9 were blaNDM-producers. MLST designated all the CPKP isolates to be ST11
+clone. Multivariate analysis indicated that urinary system diseases, operation of
+bronchoscopy, and combined use of antibiotics were independent risk factors for
+acquiring CPE colonization in high-risk patients from the ICU and HSCT wards.
+CONCLUSIONS: This study revealed a high prevalence of rectal CPE colonization in 
+high-risk patients from ICU and HSCT wards, and a predominant colonization of the
+KPC-producing K. pneumoniae clone ST11. Stricter infection control measures are
+urgently needed to limit the dissemination of CPE strains, especially in patients
+who were afflicted by urinary system diseases, have underwent bronchoscopy, and
+were previously exposed to combined antibiotic use.
+
+DOI: 10.1186/s13756-020-00816-4 
+PMCID: PMC7513325
+PMID: 32967718 
+

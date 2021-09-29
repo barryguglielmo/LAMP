@@ -1,0 +1,32 @@
+
+1. Analyst. 2020 Sep 14;145(18):6024-6031. doi: 10.1039/d0an01050b.
+
+Developing a toll-like receptor biosensor for Gram-positive bacterial detection
+and its storage strategies.
+
+McLeod J (1), Park C , Cunningham A , O'Donnell L , Brown RS , Kelly F , She Z .
+
+Author information: 
+(1)Department of Chemistry, Queen's University, Kingston, ON K7L 3N6, Canada.
+zhe.she@queensu.ca.
+
+The biorecognition ability of hybridized toll-like receptors (TLRs) 2 and 6
+proteins on electrode surfaces has been studied. TLR biosensors have been
+designed to be non-specific to particular bacterial strains but rather to provide
+broad spectrum detection of cells and toxins containing relevant
+pathogen-associated molecular patterns (PAMPs). Our electrochemical TLR2/6
+biosensors demonstrated selective detection towards Gram-positive bacterial
+whole-cells and a synthetic diacylated lipopeptide (Pam2CSK4), a PAMP. Responses 
+towards Bacillus licheniformis (B. licheniformis) and Enterococcus hirae (E.
+hirae) were obtained. The biosensor was able to differentiate signals between B. 
+licheniformis and a Gram-negative bacterial cell (control) as low as 100 CFU
+mL-1. One challenge in developing protein-based biosensors is to improve the
+shelf-life of the biosensor chips and preserve the detection activity of the
+protein molecules, therefore we did our first exploration into storage
+conditions. The activity of stored biosensors was found to be strongly dependent 
+on storage medium, and that effective 'shelf-life' was obtained makes an
+important step towards creating robust sensors for real-life applications.
+
+DOI: 10.1039/d0an01050b 
+PMID: 32724992 
+

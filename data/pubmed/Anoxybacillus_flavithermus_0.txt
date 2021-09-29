@@ -1,0 +1,33 @@
+
+1. Elife. 2020 Jul 31;9. pii: e59407. doi: 10.7554/eLife.59407.
+
+Structure and mechanism of the Mrp complex, an ancient cation/proton antiporter.
+
+Steiner J(1), Sazanov L(1).
+
+Author information: 
+(1)Institute of Science and Technology Austria, Klosterneuburg, Austria.
+
+Multiple resistance and pH adaptation (Mrp) antiporters are multi-subunit Na+ (or
+K+)/H+ exchangers representing an ancestor of many essential redox-driven proton 
+pumps, such as respiratory complex I. The mechanism of coupling between ion or
+electron transfer and proton translocation in this large protein family is
+unknown. Here, we present the structure of the Mrp complex from Anoxybacillus
+flavithermus solved by cryo-EM at 3.0 Å resolution. It is a dimer of
+seven-subunit protomers with 50 trans-membrane helices each. Surface charge
+distribution within each monomer is remarkably asymmetric, revealing probable
+proton and sodium translocation pathways. On the basis of the structure we
+propose a mechanism where the coupling between sodium and proton translocation is
+facilitated by a series of electrostatic interactions between a cation and key
+charged residues. This mechanism is likely to be applicable to the entire family 
+of redox proton pumps, where electron transfer to substrates replaces cation
+movements.
+
+© 2020, Steiner and Sazanov.
+
+DOI: 10.7554/eLife.59407 
+PMCID: PMC7419157
+PMID: 32735215 
+
+Conflict of interest statement: JS, LS No competing interests declared
+

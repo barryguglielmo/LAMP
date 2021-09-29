@@ -1,0 +1,70 @@
+
+1. mSystems. 2019 Nov 5;4(6). pii: e00450-19. doi: 10.1128/mSystems.00450-19.
+
+Oral Microbiome Alterations Associated with Early Childhood Caries Highlight the 
+Importance of Carbohydrate Metabolic Activities.
+
+Wang Y(#)(1), Wang S(#)(1), Wu C(#)(2)(3), Chen X(1), Duan Z(1), Xu Q(3), Jiang
+W(1), Xu L(1), Wang T(3), Su L(1), Wang Y(1), Chen Y(1), Zhang J(1), Huang Y(3), 
+Tong S(1), Zhou C(4), Deng S(5), Qin N(6)(3)(4).
+
+Author information: 
+(1)Department of Conservative Dentistry and Periodontics, Affiliated Hospital of 
+Stomatology, Zhejiang University School of Medicine, Hangzhou, China.
+(2)Shanghai Tenth People's Hospital Affiliated to Tongji University, Shanghai,
+China.
+(3)Realbio Genomics Institute, Shanghai, China.
+(4)State Key Laboratory for Diagnosis and Treatment of Infectious Disease, The
+First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou,
+China.
+(5)Department of Conservative Dentistry and Periodontics, Affiliated Hospital of 
+Stomatology, Zhejiang University School of Medicine, Hangzhou, China
+dengshuli@zju.edu.cn qinnan001@126.com.
+(6)Shanghai Tenth People's Hospital Affiliated to Tongji University, Shanghai,
+China dengshuli@zju.edu.cn qinnan001@126.com.
+(#)Contributed equally
+
+Globally, dental caries is the most prevalent chronic oral disease and affects
+roughly half of all children. The aim of this report was to use metagenomic
+analyses to investigate the relationship between the oral microbiome and caries
+in preschool children. A total of 25 preschoolers, aged 3 to 5 years old with
+severe early childhood caries (ECC), and 19 age-matched, caries-free children as 
+controls were recruited. Saliva samples were collected from the participants and 
+were subjected to metagenomic analyses, whereby the oral microbial communities
+were investigated. The metagenomic analyses revealed substantial microbiota
+differences between the two groups, indicating apparent shifts of the oral
+microbiome present in the ECC group. At the species level, the ECC-enriched
+microbes included Prevotella amnii, Shuttleworthia satelles, Olsenella uli, and
+Anaeroglobus geminatus Interestingly, Actinomyces odontolyticus and Actinomyces
+graevenitzii exhibited apparent differences at the strain level but not the
+species level between the ECC and control groups. Functional examination showed
+that the ECC group displayed extensive alterations in metabolic
+genes/pathways/modules, including enriched functions in sugar metabolism.
+Finally, an SVM (support vector machine) classifier comprising seven species was 
+developed and generated a moderately good performance in predicting caries onset 
+(area under the receiver operating characteristic curve [AUC] = 78.33%).
+Together, these findings indicate that caries is associated with considerable
+changes in the oral microbiome, some of which can potentially be exploited as
+therapeutic targets or diagnostic markers. (This study has been registered at
+ClinicalTrials.gov under registration no. NCT02341352.)IMPORTANCE Dental caries
+is a highly prevalent oral disease that can lead to severe dental damage and may 
+greatly compromise the quality of life of the affected individuals. Previous
+studies, including those based on 16S rRNA gene, have revealed that the oral
+microbiota plays a prominent role in development of the disease. But the approach
+of those studies was limited in analyzing several key microbiome traits,
+including species- or strain-level composition and functional profile. Here, we
+performed metagenomic analyses for a cohort of preschool children with or without
+caries. Our results showed that caries was associated with extensive microbiota
+differences at various taxonomic and functional levels. Some caries-associated
+species had not been previously reported, some of which may have significant
+clinical implications. A microbiome gene catalogue from children with caries was 
+constructed for the first time. The results demonstrated that caries is
+associated with alterations of the oral microbiome, including changes in
+microbial composition and metabolic functional profile.
+
+Copyright © 2019 Wang et al.
+
+DOI: 10.1128/mSystems.00450-19 
+PMCID: PMC6832018
+PMID: 31690590 
+

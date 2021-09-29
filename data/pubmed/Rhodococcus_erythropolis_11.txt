@@ -1,0 +1,50 @@
+
+1. Environ Pollut. 2020 Aug;263(Pt B):114061. doi: 10.1016/j.envpol.2020.114061.
+Epub 2020 Jan 23.
+
+Landfill leachate treatment through the combination of genetically engineered
+bacteria Rhodococcus erythropolis expressing Nirs and AMO and membrane filtration
+processes.
+
+Bai F(1), Tian H(2), Ma J(3).
+
+Author information: 
+(1)State Key Laboratory of Urban Water and Environment, Harbin Institute of
+Technology, Harbin, Heilongjiang, 150090, PR China; Lubin Environmental
+Protection Equipment (Shanghai) Co., Ltd, Shanghai, PR China.
+(2)School of Life Science, Harbin Institute of Technology, Harbin, 150001, PR
+China.
+(3)State Key Laboratory of Urban Water and Environment, Harbin Institute of
+Technology, Harbin, Heilongjiang, 150090, PR China. Electronic address:
+tcbfl@163.com.
+
+This study developed a process of genetically engineered bacteria Rhodococcus
+erythropolis expressing Nirs and AMO combined with membrane bioreactor (MBR),
+nanofiltration (NF) and reverse osmosis (RO) membrane (pRho-NA-MNR) for advanced 
+treatment of landfill leachate. Results demonstrated that pRho-NA-MNR presented
+higher removal rate of chemical oxygen demand (COD), biological oxygen demand
+(BOD), ammonia nitrogen (N-NH4), total nitrogen (TN) and total organic carbon
+(TOC) than activated sludge (AS-MNR) system. Administration of pRho-NA increased 
+nitrification by converting N-NH4 to nitrite (N-NO2) and Nitrate (N-NO3), and
+promoting denitrification by converting N-NO2 to nitrogen (N2) in the landfill
+leachate treatment, promoted the pH control, increased sludge activity and
+effluent yield, shortened phase length adaptation under alternating
+aerobic-anoxic conditions. pRho-NA increased the nitration and denitrifying rate 
+in the aerobic and anaerobic stage in the system by increasing Cyt cd1 and Cyt c 
+expression in the activated sludge. Nitrogen removal by nitrification and
+denitrification was positively correlated to the concentration of Nirs and AMO
+expression. Treatment with pRho-NA promoted pollutant removal efficiency of
+membrane bioreactor, nanofiltration and reverse osmosis membrane processes in
+landfill leachate. In conclusion, data suggest that pRho-NA-MNR facilitates the
+formation of granular sludge and enhances comparable removal of nitrogen and
+organic compounds, indicating the practice of this process should be considered
+in landfill leachate treatment system.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.envpol.2020.114061 
+PMID: 32268229  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no conflicts of interest.
+

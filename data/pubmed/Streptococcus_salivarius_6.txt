@@ -1,0 +1,52 @@
+
+1. Iran J Med Sci. 2020 Jul;45(4):277-285. doi: 10.30476/ijms.2019.45392.
+
+Effects of Electrolyzed Water on the Growth of Oral Pathologic Bacteria Species
+and its Cytotoxic Effects on Fibroblast and Epithelial Cells at Different pH
+Values.
+
+Vahabi S(1), Shokri M(2), Lazar M(3).
+
+Author information: 
+(1)Dental Research Center, Research Institute of Dental Sciences, Shahid Beheshti
+University of Medical Sciences, Tehran, Iran.
+(2)Department of Dental Biomaterials, School of Dentistry, Shahid Beheshti
+University of Medical Sciences, Tehran, Iran.
+(3)School of Dentistry, Shahid Beheshti University of Medical Sciences, Tehran,
+Iran.
+
+Background: Microbial plaque-induced oral diseases are among the most common
+diseases worldwide. The present study aimed to compare the antimicrobial effect
+of electrolyzed water (EW), (acidic, mildly basic, and basic) on the growth of
+bacterial species producing dental plaque and to assess their cytotoxicity on
+fibroblasts and epithelial cells.
+Methods: The study was performed at Shahid Beheshti University of Medical
+Sciences in 2019. Several bacterial species (Streptococcus salivarius,
+Staphylococcus aureus, Lactobacillus casei, and Aggregatibacter
+actinomycetemcomitans) were treated with different EW types at three pH values
+(3, 9, and 11) for 30 seconds and subsequently, the colonies were counted. The
+cytotoxic effect of these EW types was evaluated on HeLa and L929 cell lines at
+30 seconds, 1 minute, and 5 minutes. GraphPad Prism 6.0 was used for statistical 
+analysis. The Kruskal-Wallis test followed by Mann-Whitney U and one-way analysis
+of variance followed by Tukey's test were used to analyze bacterial activity and 
+cell cytotoxicity, respectively. P<0.05 was considered statistically significant.
+Results: EW types significantly inhibited bacterial growth at all pH values. The 
+strongest antibacterial activity of EW was against A. actinomycetemcomitans
+(P<0.001) and the least significant antibacterial activity was against S. aureus 
+(P<0.001). The EW types showed increased cytotoxic activity against L929 cells as
+the treatment time increased. The most cytotoxic effect was seen at 5 minutes of 
+treatment in all EW types compared with the negative control group (P<0.0001).
+This negative cytotoxic effect on HeLa cells was shown just after 30 seconds and 
+viable cell counts increased over time, reaching its highest value at 5 minutes
+of treatment with basic EW (P<0.0001).
+Conclusion: The contradictory effects of the EW types on both HeLa and
+fibroblasts, in addition to variable results at different exposure times,
+indicated that the effect of EW could vary depending on cell types and treatment 
+periods.
+
+Copyright: © Iranian Journal of Medical Sciences.
+
+DOI: 10.30476/ijms.2019.45392 
+PMCID: PMC7395957
+PMID: 32801417 
+

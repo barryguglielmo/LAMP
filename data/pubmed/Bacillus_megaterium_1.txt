@@ -1,0 +1,24 @@
+
+1. Microbiol Resour Announc. 2020 Oct 1;9(40). pii: e00524-20. doi:
+10.1128/MRA.00524-20.
+
+Genome Sequence of Bacillus megaterium O1, a Saponin-Degrading Bacterium.
+
+Overney CE(1), Huang JJ(2).
+
+Author information: 
+(1)Franklin W. Olin College of Engineering, Needham, Massachusetts, USA.
+(2)Franklin W. Olin College of Engineering, Needham, Massachusetts, USA
+jean.huang@olin.edu.
+
+Bacillus megaterium strain O1 was isolated from a soapnut (Sapindus saponaria)
+surface and degrades Quillaja saponin as a sole carbon source. We report the
+draft genome sequence of B. megaterium O1, which has an estimated size of 5.1 Mb.
+Study of this isolate will provide insight into mechanisms of saponin
+degradation.
+
+Copyright © 2020 Overney and Huang.
+
+DOI: 10.1128/MRA.00524-20 
+PMID: 33004444 
+

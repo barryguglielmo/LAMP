@@ -1,0 +1,61 @@
+
+1. Am J Clin Nutr. 2020 Apr 1;111(4):884-892. doi: 10.1093/ajcn/nqaa011.
+
+The effect of legume supplementation on the gut microbiota in rural Malawian
+infants aged 6 to 12 months.
+
+Ordiz MI(1), Janssen S(2), Humphrey G(2), Ackermann G(2), Stephenson K(1),
+Agapova S(1), Divala O(3), Kaimila Y(3), Maleta K(3), Zhong C(1), Knight
+R(2)(4)(5)(6), Trehan I(1)(7), Tarr PI(1), Rusconi B(1), Manary MJ(1)(3)(8).
+
+Author information: 
+(1)Department of Pediatrics, Washington University at St. Louis, St. Louis, MO,
+USA.
+(2)Department of Pediatrics, University of California San Diego, La Jolla, CA,
+USA.
+(3)Department of Community Health, College of Medicine, University of Malawi,
+Malawi.
+(4)Department of Computer Science and Engineering, University of California San
+Diego, La Jolla, CA, USA.
+(5)Department of Bioengineering, University of California San Diego, La Jolla,
+CA, USA.
+(6)Center for Microbiome Innovation, University of California San Diego, La
+Jolla, CA, USA.
+(7)Department of Paediatrics and Child Health, University of Malawi, Blantyre,
+Malawi.
+(8)USDA/Agricultural Research Service Children's Nutrition Research Center,
+Houston, TX, USA.
+
+BACKGROUND: Common bean and cowpea contain about 25% protein and 25% fiber, and
+are recommended as complementary foods in sub-Saharan Africa.
+OBJECTIVE: The objective of this study was to determine if a daily legume
+supplement given to Malawian infants aged 6 to 12 mo alters the 16S configuration
+of the fecal microbiota as read out by amplicon sequence variants (ASVs).
+METHODS: This study was conducted within the context of a randomized,
+double-blind, controlled clinical trial to assess whether cowpea or common bean
+supplementation reduced intestinal permeability or increased linear growth. There
+were 2 village clusters in which the study was conducted. Fresh stool collections
+were flash frozen from 236 infants at ≤6 time points. The stools were sequenced
+using Earth Microbiome project protocols and data were processed using Qiime and 
+Qiita, open-source, validated software packages. α-diversity was measured using
+the Faith's test. The 16S configuration was characterized by determining the
+weighted UniFrac distances of the ASVs and comparing them using permutational
+multivariate ANOVA.
+RESULTS: Among the 1249 samples analyzed, the α-diversity of the fecal microbiome
+was unchanged among subjects after initiation of legume supplementation. Neither 
+cowpea nor common bean altered the overall 16S configuration at any age. The 16S 
+configuration differed between children with adequate and poor linear growth aged
+from 6 to 9 mo, but no specific ASVs differed in relative abundance. The 16S
+configuration differed between children with normal and abnormal intestinal
+permeability at 9 mo, but no specific ASVs differed in relative abundance. Among 
+categorical characteristics of the population associated with different 16S
+configurations, village cluster was most pronounced.
+CONCLUSION: Legume supplementation in breastfed, rural African infants did not
+affect the structure of the gut microbial communities until the children were
+aged 9 mo. This trial was registered at clinicaltrials.gov as NCT02472262.
+
+Copyright © The Author(s) 2020.
+
+DOI: 10.1093/ajcn/nqaa011 
+PMID: 32047925  [Indexed for MEDLINE]
+

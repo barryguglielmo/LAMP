@@ -1,0 +1,46 @@
+
+1. Ital J Food Saf. 2019 Dec 5;8(4):8462. doi: 10.4081/ijfs.2019.8462. eCollection
+2019 Dec 5.
+
+Application of shotgun metagenomics to smoked salmon experimentally spiked:
+Comparison between sequencing and microbiological data using different
+bioinformatic approaches.
+
+Cesare A(1), Oliveri C(2), Lucchi A(2), Pasquali F(2), Manfreda G(2).
+
+Author information: 
+(1)Department of Veterinary Medical Sciences.
+(2)Department of Agricultural and Food Sciences, Alma Mater Studiorum University 
+of Bologna, Italy.
+
+The aims of this study were i) to evaluate the possibility to detect and possibly
+quantify microorganisms belonging to different domains experimentally spiked in
+smoked salmon at known concentrations using shotgun metagenomics; ii) to compare 
+the sequencing results using four bioinformatic tools. The salmon was spiked with
+six species of bacteria, including potential foodborne pathogens, as well as
+Cryptosporidium parvum, Saccharomyces cerevisiae and Bovine alphaherpesvirus 1.
+After spiking, the salmon was kept refrigerated before DNA extraction, library
+preparation and sequencing at 7 Gbp in paired ends at 150 bp. The bioinformatic
+tools named MG-RAST, OneCodex, CosmosID and MgMapper were used for the sequence
+analysis and the data provided were compared using STAMP. All bacteria spiked in 
+the salmon were identified using all bioinformatic tools. Such tools were also
+able to assign the higher abundances to the species Propionibacterium
+freudenreichii spiked at the highest concentration in comparison to the other
+bacteria. Nevertheless, different abundances were quantified for bacteria spiked 
+in the salmon at the same cell concentration. Cryptosporidium parvum was detected
+by all bioinformatics tools, while Saccharomyces cerevisiae by MG-RAST only.
+Finally, the DNA virus was detected by CosmosID and OneCodex only. Overall, the
+results of this study showed that shotgun metagenomics can be applied to detect
+microorganisms belonging to different domains in the same food sample.
+Nevertheless, a direct correlation between cell concentration of each spiked
+microorganism and number of corresponding reads cannot be established yet.
+
+©Copyright: the Author(s), 2019.
+
+DOI: 10.4081/ijfs.2019.8462 
+PMCID: PMC6912132
+PMID: 31897401 
+
+Conflict of interest statement: Conflict of interests: the authors declare no
+potential conflict of interests.
+

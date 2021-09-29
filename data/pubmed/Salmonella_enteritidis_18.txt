@@ -1,0 +1,61 @@
+
+1. Infect Genet Evol. 2020 Sep 10:104534. doi: 10.1016/j.meegid.2020.104534. [Epub
+ahead of print]
+
+The role of animals as a source of antimicrobial resistant nontyphoidal
+Salmonella causing invasive and non-invasive human disease in Vietnam.
+
+Parisi A(1), Phuong TLT(2), Mather AE(3), Jombart T(4), Tuyen HT(2), Lan NPH(5), 
+Trang NHT(2), Carrique-Mas J(6), Campbell JI(6), Trung NV(2), Glass K(1), Kirk
+MD(1), Baker S(7).
+
+Author information: 
+(1)Research School of Population Health, Australian National University,
+Australia.
+(2)The Hospital for Tropical Diseases, Wellcome Trust Major Overseas Programme,
+Oxford University Clinical Research Unit, Ho Chi Minh City, Viet Nam.
+(3)Quadram Institute Bioscience, Norwich, United Kingdom.
+(4)The London School of Hygiene and Tropical Medicine, London, United Kingdom.
+(5)The Hospital for Tropical Diseases, Ho Chi Minh City, Viet Nam.
+(6)The Hospital for Tropical Diseases, Wellcome Trust Major Overseas Programme,
+Oxford University Clinical Research Unit, Ho Chi Minh City, Viet Nam; Centre for 
+Tropical Medicine and Global Health, Nuffield Department of Clinical Medicine,
+Oxford University, Oxford, United Kingdom.
+(7)Cambridge Institute of Therapeutic Immunology & Infectious Disease (CITIID),
+Cambridge Biomedical Campus, University of Cambridge, Cambridge, United Kingdom. 
+Electronic address: sgb47@medschl.cam.ac.uk.
+
+BACKGROUND: Nontyphoidal Salmonella (NTS) are associated with both diarrhea and
+bacteremia. Antimicrobial resistance (AMR) is common in NTS in low-middle income 
+countries, but the major source(s) of AMR NTS in humans are not known. Here, we
+aimed to assess the role of animals as a source of AMR in human NTS infections in
+Vietnam. We retrospectively combined and analyzed 672 NTS human and animal
+isolates from four studies in southern Vietnam and compared serovars, sequence
+types (ST), and AMR profiles. We generated a population structure of circulating 
+organisms and aimed to attribute sources of AMR in NTS causing invasive and
+noninvasive disease in humans using Bayesian multinomial mixture models.
+RESULTS: Among 672 NTS isolates, 148 (22%) originated from human blood, 211 (31%)
+from human stool, and 313 (47%) from animal stool. The distribution of serovars, 
+STs, and AMR profiles differed among sources; serovars Enteritidis, Typhimurium, 
+and Weltevreden were the most common in human blood, human stool, and animals,
+respectively. We identified an association between the source of NTS and AMR
+profile; the majority of AMR isolates were isolated from human blood (p < 0.001).
+Modelling by ST-AMR profile found chickens and pigs were likely the major sources
+of AMR NTS in human blood and stool, respectively; but unsampled sources were
+found to be a major contributor.
+CONCLUSIONS: Antimicrobial use in food animals is hypothesized to play role in
+the emergence of AMR in human pathogens. Our cross-sectional population-based
+approach suggests a significant overlap between AMR in NTS in animals and humans,
+but animal NTS does explain the full extent of AMR in human NTS infections in
+Vietnam.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.meegid.2020.104534 
+PMID: 32920195 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

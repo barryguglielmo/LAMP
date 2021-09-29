@@ -1,0 +1,42 @@
+
+1. Arch Microbiol. 2019 Nov;201(9):1285-1293. doi: 10.1007/s00203-019-01692-2. Epub 
+2019 Jun 29.
+
+An endophytic Kocuria palustris strain harboring multiple arsenate reductase
+genes.
+
+Zacaria Vital T(1), Román-Ponce B(1)(2), Rivera Orduña FN(1), Estrada de Los
+Santos P(1), Vásquez-Murrieta MS(1), Deng Y(3), Yuan HL(3), Wang ET(4).
+
+Author information: 
+(1)Departamento de Microbiología, Escuela Nacional de Ciencias Biológicas,
+Instituto Politécnico Nacional, C.P. 11340, Mexico City, Mexico.
+(2)Departamento de Microbiología y Genética, Edificio Departamental, Lab. 214,
+Campus Miguel de Unamuno, Universidad de Salamanca, 37007, Salamanca, Spain.
+(3)State Key Laboratory of Agrobiotechnology, College of Biological Sciences and 
+Rhizobium Research Center, China Agricultural University, Beijing, 100193, China.
+(4)Departamento de Microbiología, Escuela Nacional de Ciencias Biológicas,
+Instituto Politécnico Nacional, C.P. 11340, Mexico City, Mexico.
+entaowang@yahoo.com.mx.
+
+Aiming at revealing the arsenic (As) resistance of the endophytic Kocuria strains
+isolated from roots and stems of Sphaeralcea angustifolia grown at mine tailing, 
+four strains belonging to different clades of Kocuria based upon the phylogeny of
+16S rRNA genes were screened for minimum inhibitory concentration (MIC). Only the
+strain NE1RL3 was defined as an As-resistant bacterium with MICs of
+14.4/0.0125 mM and 300/20.0 mM for As3+ and As5+, respectively, in LB/mineral
+media. This strain was identified as K. palustris based upon analyses of cellular
+chemical compositions (cellular fatty acids, isoprenoides, quinones, and sugars),
+patterns of carbon source, average nucleotide identity of genome and digital
+DNA-DNA relatedness. Six genes coding to enzymes or proteins for arsenate
+reduction and arsenite-bumping were detected in the genome, demonstrating that
+this strain is resistant to As possibly by reducing As5+ to As3+, and then
+bumping As3+ out of the cell. However, this estimation was not confirmed since no
+arsenate reduction was detected in a subsequent assay. This study reported for
+the first time the presence of phylogenetically distinct arsenate reductase
+genes in a Kocuria strain and evidenced the possible horizontal transfer of these
+genes among the endophytic bacteria.
+
+DOI: 10.1007/s00203-019-01692-2 
+PMID: 31256199  [Indexed for MEDLINE]
+

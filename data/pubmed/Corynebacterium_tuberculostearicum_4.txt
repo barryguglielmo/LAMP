@@ -1,0 +1,67 @@
+
+1. mSphere. 2019 Nov 27;4(6). pii: e00532-19. doi: 10.1128/mSphere.00532-19.
+
+Anterior Nares Diversity and Pathobionts Represent Sinus Microbiome in Chronic
+Rhinosinusitis.
+
+De Boeck I(#)(1), Wittouck S(#)(1), Martens K(#)(1)(2), Claes J(3), Jorissen
+M(4), Steelant B(2), van den Broek MFL(1), Seys SF(2), Hellings PW(#)(2)(4),
+Vanderveken OM(#)(5)(3), Lebeer S(#)(6).
+
+Author information: 
+(1)University of Antwerp, Department of Bioscience Engineering, Antwerp, Belgium.
+(2)KU Leuven, Department of Microbiology and Immunology, Research Group Allergy
+and Clinical Immunology, Leuven, Belgium.
+(3)Antwerp University Hospital, ENT, Head and Neck Surgery, Edegem, Belgium.
+(4)Clinical Department of Otorhinolaryngology, Head and Neck Surgery, University 
+Hospitals Leuven, Leuven, Belgium.
+(5)University of Antwerp, Faculty of Medicine and Health Sciences, Translational 
+Neurosciences, Antwerp, Belgium.
+(6)University of Antwerp, Department of Bioscience Engineering, Antwerp, Belgium 
+sarah.lebeer@uantwerpen.be.
+(#)Contributed equally
+
+It is generally believed that the microbiome plays a role in the pathophysiology 
+of chronic rhinosinusitis (CRS), though its exact contribution to disease
+development and severity remains unclear. Here, samples were collected from the
+anterior nares, nasopharynx, and maxillary and ethmoid sinuses of 190 CRS
+patients and from the anterior nares and nasopharynx of 100 controls. Microbial
+communities were analyzed by Illumina sequencing of the V4 region of 16S rRNA.
+The phenotype and patient characteristics were documented, and several serum
+inflammatory markers were measured. Our data indicate a rather strong continuity 
+for the microbiome in the different upper respiratory tract (URT) niches in CRS
+patients, with the microbiome in the anterior nares being most similar to the
+sinus microbiome. Bacterial diversity was reduced in CRS patients without nasal
+polyps compared to that in the controls but not in CRS patients with nasal
+polyps. Statistically significant differences in the presence/absence or relative
+abundance of several taxa were found between the CRS patients and the healthy
+controls. Of these, Dolosigranulum pigrum was clearly more associated with URT
+samples from healthy subjects, while the Corynebacterium tuberculostearicum,
+Haemophilus influenzae/H. aegyptius, and Staphylococcus taxa were found to be
+potential pathobionts in CRS patients. However, CRS versus health as a predictor 
+explained only 1 to 2% of the variance in the microbiome profiles in an adonis
+model. A history of functional endoscopic sinus surgery, age, and sex also showed
+a minor association. This study thus indicates that functional studies on the
+potential beneficial versus pathogenic activity of the different indicator taxa
+found here are needed to further understand the pathology of CRS and its
+different phenotypes. (This study has been registered at ClinicalTrials.gov under
+identifier NCT02933983.)IMPORTANCE There is a clear need to better understand the
+pathology and specific microbiome features in chronic rhinosinusitis patients,
+but little is known about the bacterial topography and continuity between the
+different niches of the upper respiratory tract. Our work showed that the
+anterior nares could be an important reservoir for potential sinus pathobionts.
+This has implications for the diagnosis, prevention, and treatment of CRS. In
+addition, we found a potential pathogenic role for the Corynebacterium
+tuberculostearicum, Haemophilus influenzae/H. aegyptius, and Staphylococcus taxa 
+and a potential beneficial role for Dolosigranulum Finally, a decreased
+microbiome diversity was observed in patients with chronic rhinosinusitis without
+nasal polyps compared to that in healthy controls but not in chronic
+rhinosinusitis patients with nasal polyps. This suggests a potential role for the
+microbiome in disease development or progression of mainly this phenotype.
+
+Copyright © 2019 De Boeck et al.
+
+DOI: 10.1128/mSphere.00532-19 
+PMCID: PMC6881717
+PMID: 31776238  [Indexed for MEDLINE]
+

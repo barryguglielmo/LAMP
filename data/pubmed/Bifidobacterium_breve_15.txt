@@ -1,0 +1,50 @@
+
+1. iScience. 2020 Jul 24;23(7):101336. doi: 10.1016/j.isci.2020.101336. Epub 2020
+Jul 2.
+
+Bifidobacterium breve UCC2003 Induces a Distinct Global Transcriptomic Program in
+Neonatal Murine Intestinal Epithelial Cells.
+
+Kiu R(1), Treveil A(2), Harnisch LC(1), Caim S(1), Leclaire C(1), van Sinderen
+D(3), Korcsmaros T(2), Hall LJ(4).
+
+Author information: 
+(1)Gut Microbes & Health, Quadram Institute Bioscience, Norwich Research Park,
+Norwich NR4 7UQ, UK.
+(2)Gut Microbes & Health, Quadram Institute Bioscience, Norwich Research Park,
+Norwich NR4 7UQ, UK; Earlham Institute, Norwich Research Park, Norwich NR4 7UZ,
+UK.
+(3)APC Microbiome Ireland & School of Microbiology, University College Cork, Cork
+T12YT20, Ireland.
+(4)Gut Microbes & Health, Quadram Institute Bioscience, Norwich Research Park,
+Norwich NR4 7UQ, UK; Norwich Medical School, University of East Anglia, Norwich
+Research Park, Norwich NR4 7TJ, UK; Chair of Intestinal Microbiome, School of
+Life Sciences, Technical University of Munich, 85354 Freising, Germany; ZIEL -
+Institute for Food & Health, Technical University of Munich, 85354 Freising,
+Germany. Electronic address: lindsay.hall@quadram.ac.uk.
+
+The underlying health-driving mechanisms of Bifidobacterium during early life are
+not well understood, particularly how this microbiota member may modulate the
+intestinal barrier via programming of intestinal epithelial cells (IECs). We
+investigated the impact of Bifidobacterium breve UCC2003 on the transcriptome of 
+neonatal murine IECs. Small IECs from two-week-old neonatal mice administered B. 
+breve UCC2003 or PBS (control) were subjected to global RNA sequencing, and
+differentially expressed genes, pathways, and affected cell types were
+determined. We observed extensive regulation of the IEC transcriptome with ∼4,000
+genes significantly up-regulated, including key genes linked with epithelial
+barrier function. Enrichment of cell differentiation pathways was observed, along
+with an overrepresentation of stem cell marker genes, indicating an increase
+in the regenerative potential of the epithelial layer. In conclusion, B. breve
+UCC2003 plays a central role in driving intestinal epithelium homeostatic
+development during early life and suggests future avenues for next-stage clinical
+studies.
+
+Copyright © 2020 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.isci.2020.101336 
+PMCID: PMC7371750
+PMID: 32683312 
+
+Conflict of interest statement: Declaration of Interests The authors declare no
+competing interests.
+

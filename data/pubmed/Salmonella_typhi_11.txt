@@ -1,0 +1,62 @@
+
+1. Int J Hyg Environ Health. 2020 Sep 15;230:113619. doi:
+10.1016/j.ijheh.2020.113619. [Epub ahead of print]
+
+Pathogen flows from on-site sanitation systems in low-income urban neighborhoods,
+Dhaka: A quantitative environmental assessment.
+
+Amin N(1), Liu P(2), Foster T(3), Rahman M(4), Miah MR(4), Ahmed GB(4), Kabir
+M(4), Raj S(2), Moe CL(2), Willetts J(3).
+
+Author information: 
+(1)Infectious Disease Division, International Centre for Diarrhoeal Disease
+Research, Bangladesh (icddr,b), Dhaka, Bangladesh. Electronic address:
+nuhu.amin@icddrb.org.
+(2)Center for Global Safe Water, Sanitation, and Hygiene, Emory University,
+Atlanta, GA, USA.
+(3)Institute for Sustainable Futures, University of Technology Sydney, 235 Jones 
+St, Ultimo, NSW, 2007, Australia.
+(4)Infectious Disease Division, International Centre for Diarrhoeal Disease
+Research, Bangladesh (icddr,b), Dhaka, Bangladesh.
+
+BACKGROUND: Despite wide usage of on-site sanitation, there is limited
+field-based evidence on the removal or release of pathogens from septic tanks and
+other primary treatment systems, such as anaerobic baffled reactors (ABR). In two
+low-income areas in Dhaka, we conducted a cross-sectional study to explore
+pathogen loads discharged from commonly used on-site sanitation-systems and their
+transport in nearby drains and waterways.
+METHODS: We collected samples of drain water, drain sediment, canal water, and
+floodwater from April-October 2019. Sludge, supernatant, and effluent samples
+were also collected from septic tanks and ABRs. We investigated the presence and 
+concentration of selected enteric pathogens (Shigella, Vibrio cholerae (V.
+cholerae), Salmonella Typhi (S. Typhi), Norovirus Genogroup-II (NoV-GII), and
+Giardia) and presence of Cryptosporidium in these samples using quantitative
+polymerase chain reaction (qPCR).The equivalent genome copies (EGC) of individual
+pathogens were estimated in each sample by interpolation of the mean Ct value to 
+the corresponding standard curve and the dilution factor for each sample type.
+Absolute quantification was expressed as log10 EGC per 100 mL for the water
+samples and log10 EGC per gram for the sediment samples.
+RESULTS: Among all samples tested (N = 151), 89% were contaminated with Shigella,
+68% with V. cholerae and NoV-GII, 32% with Giardia, 17% with S. Typhi and 6% with
+Cryptosporidium. A wide range of concentration of pathogens [range: mean log10
+concentration of Giardia = 0.74 EGC/100 mL in drain ultrafiltration samples to
+mean log10 concentration of NoV-GII and Giardia = 7.11 EGC/100 mL in ABR sludge] 
+was found in all environmental samples. The highest pathogen concentrations were 
+detected in open drains [range: mean log10 concentration = 2.50-4.94 EGC/100 mL],
+septic tank effluent [range: mean log10 concentration = 3.32-4.65 EGC/100 mL],
+and ABR effluent [range: mean log10 concentration = 2.72-5.13 EGC/100 mL].
+CONCLUSIONS: High concentrations of pathogens (particularly NoV-GII, V.cholerae
+and Shigella) were frequently detected in environmental samples from two
+low-income urban neighbourhoods of Dhaka city. The numerous environmental
+exposure pathways for children and adults make these findings of public health
+concern. These results should prompt rethinking of how to achieve safe sanitation
+solutions that protect public health in dense low-income areas. In particular,
+improved management and maintenance regimes, further treatment of liquid effluent
+from primary treatment processes, and appropriate application of onsite,
+decentralised and offsite sanitation systems given the local context.
+
+Copyright © 2020. Published by Elsevier GmbH.
+
+DOI: 10.1016/j.ijheh.2020.113619 
+PMID: 32942223 
+

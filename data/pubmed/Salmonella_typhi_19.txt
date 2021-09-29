@@ -1,0 +1,86 @@
+
+1. BMJ Open. 2020 Aug 31;10(8):e036560. doi: 10.1136/bmjopen-2019-036560.
+
+Determining the long-term health burden and risk of sequelae for 14 foodborne
+infections in British Columbia, Canada: protocol for a retrospective
+population-based cohort study.
+
+Majowicz SE(1), Panagiotoglou D(2), Taylor M(3), Gohari MR(4), Kaplan GG(5),
+Chaurasia A(4), Leatherdale ST(4), Cook RJ(6), Patrick DM(3)(7), Ethelberg
+S(8)(9), Galanis E(3)(7).
+
+Author information: 
+(1)School of Public Health and Health Systems, University of Waterloo, Waterloo, 
+Ontario, Canada smajowicz@uwaterloo.ca.
+(2)Department of Epidemiology, Biostatistics and Occupational Health, McGill
+University, Montreal, Quebec, Canada.
+(3)British Columbia Centre for Disease Control, Vancouver, British Columbia,
+Canada.
+(4)School of Public Health and Health Systems, University of Waterloo, Waterloo, 
+Ontario, Canada.
+(5)Departments of Medicine and Community Health Sciences, University of Calgary, 
+Calgary, Alberta, Canada.
+(6)Department of Statistics and Actuarial Science, University of Waterloo,
+Waterloo, Ontario, Canada.
+(7)School of Population and Public Health, The University of British Columbia,
+Vancouver, British Columbia, Canada.
+(8)Department of Infectious Disease Epidemiology and Prevention, Statens Serum
+Institut, Copenhagen, Denmark.
+(9)Global Health Section, Department of Public Health, University of Copenhagen, 
+Copenhagen, Denmark.
+
+INTRODUCTION: Over one in eight Canadians is affected by a foodborne infection
+annually; however, the long-term consequences, including the risks and costs of
+sequelae, are unclear. We aim to estimate the health burden and direct costs of
+14 infections commonly transmitted by food, considering the acute illness and
+subsequent sequelae and mortality, for the population of British Columbia, Canada
+(~4.7 million).
+METHODS AND ANALYSIS: We will conduct a population-based retrospective cohort
+study of the British Columbia provincial population, over a 10-year study period 
+(1 January 2005 to 31 December 2014). Exposure is defined as a provincially
+reported illness caused by Clostridium botulinum, Campylobacter, Cryptosporidium,
+Cyclospora, Giardia, hepatitis A virus, Listeria, non-typhoidal Salmonella spp,
+Salmonella Typhi, Salmonella Paratyphi, Shiga toxin-producing Escherichia coli,
+Shigella, Vibrio parahaemolyticus or Yersinia (excluding pestis). We will link
+individual-level longitudinal data from eight province-wide administrative health
+and reportable disease databases that include physician visits, hospitalisations 
+and day surgeries, deaths, stillbirths, prescription medications (except those to
+treat HIV) and reportable foodborne diseases. Using these linked databases, we
+will investigate the likelihood of various sequelae and death. Hazard models will
+be used to estimate the risk of outcomes and their association with the type of
+foodborne infection. Epidemiological analyses will be conducted to determine the 
+progression of illness and the fraction of sequelae attributable to specific
+foodborne infections. Economic analyses will assess the consequent direct
+healthcare costs.
+ETHICS AND DISSEMINATION: This study has been approved by a University of
+Waterloo Research Ethics Committee (no 30645), the University of British Columbia
+Behavioral Research Ethics Board (no H16-00021) and McGill University's
+Institutional Review Board (no A03-M12-19A). Results will be disseminated via
+presentations to academics, public health practitioners and knowledge users, and 
+publication in peer-reviewed journals. Where such publications are not open
+access, manuscripts will also be available via the University of Waterloo's
+Institutional Repository (https://uwspace.uwaterloo.ca).
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2019-036560 
+PMCID: PMC7462161
+PMID: 32868357 
+
+Conflict of interest statement: Competing interests: SEM and EG report funding
+for this study as per the funding statement. SEM reports other relationships; she
+is an associate editor at Epidemiology and Infection (for which she receives a
+small honorarium); she has served as a paid expert on behalf of the Attorney
+General of Canada in legal proceedings, providing evidence on the public health
+risks and benefits of unpasteurised milk, and she is an expert on the Joint
+FAO/WHO Expert Meetings on Microbiological Risk Assessment (JEMRA) Roster of
+Experts. GGK reports honoraria for speaking or consultancy from Abbvie, Janssen, 
+Pfizer and Takeda. He has received research support from Ferring, Janssen,
+Abbvie, GlaxoSmith Kline, Merck and Shire. He shares ownership of a patent:
+TREATMENT OF INFLAMMATORY DISORDERS, AUTOIMMUNE DISEASE, AND PBC. UTI Limited
+Partnership, assignee. Patent WO2019046959A1. PCT/CA2018/051098. 7 September
+2018. EG’ spouse works for QHR Technologies, a Canadian medical records company; 
+these records were not used in this study. All other authors have nothing to
+disclose.
+

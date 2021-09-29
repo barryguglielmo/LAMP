@@ -1,0 +1,40 @@
+
+1. Mol Ecol. 2020 Oct 1. doi: 10.1111/mec.15657. [Epub ahead of print]
+
+Gut microbiota degrades toxic isothiocyanates in a flea beetle pest.
+
+Shukla SP(1)(2), Beran F(2).
+
+Author information: 
+(1)Department of Entomology, Max Planck Institute for Chemical Ecology,
+Hans-Knoell-Strasse 8, 07745, Jena, Germany.
+(2)Research Group Sequestration and Detoxification in Insects, Max Planck
+Institute for Chemical Ecology, Hans-Knoell-Strasse 8, 07745, Jena, Germany.
+
+Microbial symbionts of herbivorous insects have been suggested to aid in the
+detoxification of plant defense compounds; however, quantitative studies on
+microbial contribution to plant toxin degradation remain scarce. Here, we
+demonstrate microbiome-mediated degradation of plant-derived toxic
+isothiocyanates in the cabbage stem flea beetle Psylliodes chrysocephala, a major
+pest of oilseed rape. Suppression of microbiota in antibiotic-fed beetles
+resulted in up to 11.3-fold higher levels of unmetabolized isothiocyanates
+compared to control beetles but did not affect other known detoxification
+pathways in P. chrysocephala. We characterized the microbiome of
+laboratory-reared and field-collected insects using 16S rRNA amplicon sequencing 
+and isolated bacteria belonging to the three core genera Pantoea, Acinetobacter
+and Pseudomonas. Only Pantoea isolates rapidly degraded isothiocyanates in vitro,
+and restored isothiocyanate degradation in vivo when reintroduced in
+antibiotic-fed beetles. Pantoea was consistently present across beetle life
+stages and in field and lab populations. In addition, Pantoea was also detected
+in undamaged tissues of the host plant Brassica rapa, indicating that P.
+chrysocephala could possibly acquire an isothiocyanate detoxifying bacterium
+through their diet. Our results demonstrate that both insect endogenous
+mechanisms and the microbiota can contribute to the detoxification of plant
+defense compounds and together they can better account for the fate of ingested
+plant metabolites.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1111/mec.15657 
+PMID: 33006166 
+

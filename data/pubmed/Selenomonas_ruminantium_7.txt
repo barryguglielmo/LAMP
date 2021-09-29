@@ -1,0 +1,63 @@
+
+1. Pharmacol Res. 2020 Jul 28;160:105095. doi: 10.1016/j.phrs.2020.105095. [Epub
+ahead of print]
+
+Association of sputum microbiome with clinical outcome of initial antibiotic
+treatment in hospitalized patients with acute exacerbations of COPD.
+
+Liu H(1), Zheng D(1), Lin Y(2), Liu Z(3), Liang Z(4), Su J(2), Chen R(4), Zhou
+H(5), Wang Z(6).
+
+Author information: 
+(1)State Key Laboratory of Organ Failure Research, Microbiome Medicine Center,
+Division of Laboratory Medicine, Zhujiang Hospital, Southern Medical University, 
+Guangzhou, China.
+(2)Chronic Airways Diseases Laboratory, Department of Respiratory and Critical
+Care Medicine, Nanfang Hospital, Southern Medical University, Guangzhou, China.
+(3)State Key Laboratory of Organ Failure Research, Department of Cardiology,
+Nanfang Hospital, Southern Medical University, Guangzhou, China.
+(4)State Key Laboratory of Respiratory Disease, National Clinical Research Center
+for Respiratory Disease, Guangzhou Institute of Respiratory Health, the First
+Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.
+(5)State Key Laboratory of Organ Failure Research, Microbiome Medicine Center,
+Division of Laboratory Medicine, Zhujiang Hospital, Southern Medical University, 
+Guangzhou, China. Electronic address: biodegradation@gmail.com.
+(6)Institute of Ecological Sciences, School of Life Sciences, South China Normal 
+University, Guangzhou, China; South China Normal University-Panyu Central
+Hospital Joint Laboratory of Translational Medical Research, Guangzhou, China.
+Electronic address: wangz@m.scnu.edu.cn.
+
+Identification of risk factors for antibiotic treatment failure is urgently
+needed in acute exacerbations of chronic obstructive pulmonary disease (AECOPD). 
+Here we investigated the relationship between sputum microbiome and clinical
+outcome of choice of initial antibiotics during hospitalization of AECOPD
+patients. Sputum samples of 41 AECOPD patients and 26 healthy controls were
+collected from Guangzhou Medical University, China. Samples were processed for
+16S rRNA gene-based microbiome profiling. Thirty patients recovered with initial 
+antibiotic treatment (antibiotic success or AS), while 11 patients showed poor
+outcome (antibiotic failure or AF). Substantial differences in microbiome were
+observed in AF versus AS patients and healthy controls. There was significantly
+decreased alpha diversity and increased relative abundances of Pseudomonas,
+Achromobacter, Stenotrophomonas and Ralstonia in AF patients. Conversely,
+Prevotella, Peptostreptococcus, Leptotrichia and Selenomonas were depleted. The
+prevalence of Selenomonas was markedly reduced in AF versus AS patients (9.1 %
+versus 60.0 %, P = 0.004). The AF patients with similar microbiome profiles in
+general responded well to the same new antibiotics in the adjusted therapy,
+indicating sputum microbiome may help guide the adjustment of antibiotics. Random
+forest analysis identified five microbiome operational taxonomic units together
+with C-reactive protein, procalcitonin and blood neutrophil count showing best
+predictability for antibiotic treatment outcome (area under curve 0.885).
+Functional inference revealed an enrichment of microbial genes in xenobiotic
+metabolism and antimicrobial resistance in AF patients, whereas genes in DNA
+repair and amino acid metabolism were depleted. Sputum microbiome may determine
+the clinical outcome of initial antibiotic treatment and be considered in the
+risk management of antibiotics in AECOPD.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.phrs.2020.105095 
+PMID: 32730904 
+
+Conflict of interest statement: Declaration of Competing Interest All authors
+declare no conflict of interest.
+

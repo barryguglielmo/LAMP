@@ -1,0 +1,53 @@
+
+1. Sci Total Environ. 2020 Feb 20;704:135325. doi: 10.1016/j.scitotenv.2019.135325. 
+Epub 2019 Nov 24.
+
+Enhanced biodegradation of styrene vapors in the biotrickling filter inoculated
+with biosurfactant-generating bacteria under H2O2 stimulation.
+
+Rezaei M(1), Moussavi G(2), Naddafi K(3), Johnson MS(4).
+
+Author information: 
+(1)Department of Environmental Health Engineering, Faculty of Medical Sciences,
+Tarbiat Modares University, Tehran, Iran.
+(2)Department of Environmental Health Engineering, Faculty of Medical Sciences,
+Tarbiat Modares University, Tehran, Iran. Electronic address:
+moussavi@modares.ac.ir.
+(3)Department of Environmental Health Engineering, School of Public Health,
+Tehran University of Medical Sciences, Tehran, Iran.
+(4)Department of Chemistry, University of Copenhagen, Universitetsparken 5,
+DK-2100 Copenhagen Ø, Denmark.
+
+Biotrickling filters (BTFs) applied to hydrophobic volatile organic compounds
+(VOCs) suffer from limited mass transfer. Phase transfer kinetic and equilibrium 
+effects limit the biodegradation of hydrophobic VOCs especially at high
+concentrations. This study evaluates two strategies for overcoming the problem.
+First, a natural process was used to enhance the aqueous availability of styrene,
+a hydrophobic VOC model, by inoculating the BTF with a mixture of
+biosurfactant-generating bacteria. This method achieved a maximum elimination
+capacity (ECmax) of 139 g m-3h-1 in the BTF at an empty bed residence time (EBRT)
+of 60s. The highest concentrations of the biosurfactants surfactin and
+rhamnolipid were 205 and 86 mg L-1, respectively, in this step. Sequencing 16S
+rRNA confirmed the presence of biosurfactant-producing bacteria capable of
+biodegrading styrene in the BTF including Bacillus sonorensis, Bacillus subtilis,
+Lysinibacillus sphaericus, Lysinibacillus fusiformis, Alcaligenes feacalis,
+Arthrobacter creatinolyticus, and Kocuria rosea. Second, the effect of adding
+H2O2 to the recycle liquid on the BTF performance was determined. The
+biodegradation and mineralization of styrene in the BTF operated at a loading
+rate of 266 g m-3h-1 and H2O2/styrene molar ratio of 0.05 with EBRT as short as
+15 s were 94% and 53%, respectively, with the EC of 250 g m-3h-1. High
+concentrations of antioxidant enzymes (peroxidase and catalase: 56 and 7 U
+gbiomass-1, respectively) were produced and biosurfactant generation was
+increased in this step, contributing to enhanced styrene biodegradation and
+mineralization. The styrene biodegradation and mineralization values in the BTF
+in the last day operated under similar conditions but without H2O2 were 11.4% and
+5.3%, respectively. The bacterial population had no considerable change in the
+BTF after adding H2O2. Accordingly, stimulating the BTF inoculated with
+biosurfactant-generating bacteria with H2O2 is a promising strategy for improving
+the biodegradation of hydrophobic VOCs.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2019.135325 
+PMID: 31839317  [Indexed for MEDLINE]
+

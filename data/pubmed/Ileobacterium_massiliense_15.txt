@@ -1,0 +1,51 @@
+
+1. J Glob Antimicrob Resist. 2020 Jun;21:294-295. doi: 10.1016/j.jgar.2020.04.030.
+Epub 2020 May 6.
+
+Novel mutations in the resistome of a new sequence type (ST262) of clarithromycin
+resistant Mycobacterium abscessus subsp. massiliense.
+
+Dos Santos Carneiro M(1), de Lima-Morales D(2), Crispim MN(2), de Souza Nunes
+L(3), Barth AL(4).
+
+Author information: 
+(1)Programa de Pós-Graduação em Ciências Farmacêuticas, Faculdade de Farmácia,
+Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, RS, Brazil;
+Laboratório de Pesquisa em Resistência Bacteriana (LABRESIS), Centro de Pesquisa 
+Experimental, Hospital de Clínicas de Porto Alegre (HCPA), Porto Alegre, RS,
+Brazil.
+(2)Laboratório de Pesquisa em Resistência Bacteriana (LABRESIS), Centro de
+Pesquisa Experimental, Hospital de Clínicas de Porto Alegre (HCPA), Porto Alegre,
+RS, Brazil.
+(3)Universidade Federal do Pampa (UNIPAMPA), Uruguaiana, RS, Brazil.
+(4)Programa de Pós-Graduação em Ciências Farmacêuticas, Faculdade de Farmácia,
+Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, RS, Brazil;
+Laboratório de Pesquisa em Resistência Bacteriana (LABRESIS), Centro de Pesquisa 
+Experimental, Hospital de Clínicas de Porto Alegre (HCPA), Porto Alegre, RS,
+Brazil. Electronic address: albarth@hcpa.edu.br.
+
+OBJECTIVES: The aim of this study was to evaluate the relationship between
+antimicrobial susceptibility and genotype of a Mycobacterium abscessus subsp.
+massiliense isolate obtained from the respiratory tract of a patient in southern 
+Brazil.
+METHODS: The isolate (named Myco1POA) was submitted to whole-genome sequencing
+using an Illumina MiSeq platform. Data were analysed using Trim Galore!, SPAdes
+Genome Assembler, Geneious and BioEdit software. Multilocus sequence typing
+(MLST) was performed by in silico analysis of seven housekeeping genes according 
+to the Institut Pasteur database. The antimicrobial susceptibility profile was
+determined by broth microdilution according to Clinical and Laboratory Standards 
+Institute (CLSI) guidelines.
+RESULTS: Several mutations in genes related to antimicrobial resistance were
+identified in Myco1POA. MLST indicated that the isolate belonged to a novel
+sequence type (ST), which was designated ST262. Phenotypic susceptibility and
+genotypic findings were concordant, except for clarithromycin [erm(41) and rrl
+genes].
+CONCLUSION: Here we describe the genome sequence of M. abscessus subsp.
+massiliense Myco1POA identified as a novel sequence type (ST262) and indicate
+possible new gene mutations leading to clarithromycin resistance.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jgar.2020.04.030 
+PMID: 32387639 
+

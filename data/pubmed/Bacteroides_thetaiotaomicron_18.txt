@@ -1,0 +1,44 @@
+
+1. Mol Oral Microbiol. 2020 Aug;35(4):181-191. doi: 10.1111/omi.12304. Epub 2020 Jul
+9.
+
+Sequence and characterization of shuttle vectors for molecular cloning in
+Porphyromonas, Bacteroides and related bacteria.
+
+Jones KR(1), Belvin BR(1), Macrina FL(1)(2), Lewis JP(1)(2)(3).
+
+Author information: 
+(1)The Philips Institute for Oral Health Research, Virginia Commonwealth
+University, Richmond, VA, USA.
+(2)Department of Microbiology and Immunology, Virginia Commonwealth University,
+Richmond, VA, USA.
+(3)Department of Biochemistry and Molecular Biology, Virginia Commonwealth
+University, Richmond, VA, USA.
+
+There is a lack of shuttle vectors to be needed for investigations into the
+genetics of Porphyromonas gingivalis and related species. To better understand
+the prevalence of candidates for such tools, we have examined multiple strains of
+black-pigmented anaerobes (clinical and laboratory isolates) for plasmids. As no 
+plasmids were found in P. gingivalis strains, we have used the pYH420 plasmid,
+derived from P. asaccharolytica, as backbone to construct a shuttle vector in
+combination with pUC19 from Escherichia coli. Nucleotide sequence determination
+of the pYH420 plasmid revealed that it contained a gene with similarity to rep
+from plasmid pTS1 (isolated from Treponema denticola) as well as a homolog of
+mobA, a member of a gene family found on mobilizable genetic elements found in
+the genus Bacteroides. We constructed the pG106 and pG108 shuttle vectors using
+parts of the pUC19 and pYH420 vectors. This resulted in a vector with a multiple 
+cloning site (MCS) in the lacZ gene enabling us to perform blue-white colony
+selection. The pG106 and pG108 shuttle vectors are electro-transformable into E. 
+coli, P. gingivalis and B. thetaiotaomicron, where they are stable. We
+demonstrated that these vectors were suitable in these species for applications
+of molecular cloning including complementation and gene expression studies. Using
+the pG108 vector, we complement the hcpR mutant strain of P. gingivalis and
+rescued its NO 2 - -sensitive phenotype. We also performed a gene expression
+study using the P-glow BS2 fluorescent reporter gene and the ahpC promoter in B. 
+thetaiotaomicron.
+
+© 2020 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/omi.12304 
+PMID: 32592236 
+

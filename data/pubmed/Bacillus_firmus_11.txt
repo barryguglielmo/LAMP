@@ -1,0 +1,43 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jan;70(1):406-438. doi: 10.1099/ijsem.0.003775.
+
+A phylogenomic and comparative genomic framework for resolving the polyphyly of
+the genus Bacillus: Proposal for six new genera of Bacillus species, Peribacillus
+gen. nov., Cytobacillus gen. nov., Mesobacillus gen. nov., Neobacillus gen. nov.,
+Metabacillus gen. nov. and Alkalihalobacillus gen. nov.
+
+Patel S(1), Gupta RS(1).
+
+Author information: 
+(1)Department of Biochemistry and Biomedical Sciences, McMaster University,
+Hamilton, Ontario, L8N 3Z5, Canada.
+
+The genus Bacillus, harbouring 293 species/subspecies, constitutes a
+phylogenetically incoherent group. In the absence of reliable means for grouping 
+known Bacillus species into distinct clades, restricting the placement of new
+species into this genus has proven difficult. To clarify the evolutionary
+relationships among Bacillus species, 352 available genome sequences from the
+family Bacillaceae were used to perform comprehensive phylogenomic and
+comparative genomic analyses. Four phylogenetic trees were reconstructed based on
+multiple datasets of proteins including 1172 core Bacillaceae proteins, 87
+proteins conserved within the phylum Firmicutes, GyrA-GyrB-RpoB-RpoC proteins,
+and UvrD-PolA proteins. All trees exhibited nearly identical branching of
+Bacillus species and consistently displayed six novel monophyletic clades
+encompassing 5-23 Bacillus species (denoted as the Simplex, Firmus, Jeotgali,
+Niacini, Fastidiosus and Alcalophilus clades), interspersed with other
+Bacillaceae species. Species from these clades also generally grouped together in
+16S rRNA gene trees. In parallel, our comparative genomic analyses of Bacillus
+species led to the identification of 36 molecular markers comprising conserved
+signature indels in protein sequences that are specifically shared by the species
+from these six observed clades, thus reliably demarcating these clades based on
+multiple molecular synapomorphies. Based on the strong evidence from multiple
+lines of investigations supporting the existence of these six distinct 'Bacillus'
+clades, we propose the transfer of species from these clades into six novel
+Bacillaceae genera viz. Peribacillus gen. nov., Cytobacillus gen. nov.,
+Mesobacillus gen. nov., Neobacillus gen. nov., Metabacillus gen. nov. and
+Alkalihalobacillus gen. nov. These results represent an important step towards
+clarifying the phylogeny/taxonomy of the genus Bacillus.
+
+DOI: 10.1099/ijsem.0.003775 
+PMID: 31617837  [Indexed for MEDLINE]
+

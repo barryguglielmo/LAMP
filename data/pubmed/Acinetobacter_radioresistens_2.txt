@@ -1,0 +1,60 @@
+
+1. J Glob Antimicrob Resist. 2020 Sep 8;23:120-129. doi: 10.1016/j.jgar.2020.08.014.
+[Epub ahead of print]
+
+Antibiotic resistance mechanisms in Acinetobacter spp. strains isolated from
+patients in a paediatric hospital in Mexico.
+
+Bello-López E(1), Rocha-Gracia RDC(1), Castro-Jaimes S(2), Cevallos MÁ(2),
+Vargas-Cruz M(1), Verdugo-Yocupicio R(1), Sáenz Y(3), Torres C(4),
+Gutiérrez-Cázarez Z(5), Arenas-Hernández MMP(1), Lozano-Zarain P(6).
+
+Author information: 
+(1)Benemérita Universidad Autónoma de Puebla, Instituto de Ciencias, Posgrado en 
+Microbiología, Centro de Investigaciones de Ciencias Microbiológicas, Puebla,
+Mexico.
+(2)Programa de Genómica Evolutiva, Centro de Ciencias Genómicas, Universidad
+Nacional Autónoma de México, Cuernavaca, Morelos, Mexico.
+(3)Área de Microbiología Molecular, Centro de Investigación Biomédica de La Rioja
+(CIBIR), Logroño, Spain.
+(4)Área Bioquímica y Biología Molecular, Universidad de La Rioja, Logroño, Spain.
+(5)Hospital para el Niño Poblano, Puebla, Mexico.
+(6)Benemérita Universidad Autónoma de Puebla, Instituto de Ciencias, Posgrado en 
+Microbiología, Centro de Investigaciones de Ciencias Microbiológicas, Puebla,
+Mexico. Electronic address: plozano_zarain@hotmail.com.
+
+OBJECTIVES: The aim of this study was to identify Acinetobacter spp. strains from
+paediatric patients, to determine their genetic relationship, to detect
+antibiotic resistance genes and to evaluate the role of efflux pumps in
+antibiotic resistance.
+METHODS: A total of 54 non-duplicate, non-consecutive Acinetobacter spp. isolates
+were collected from paediatric patients. Their genetic relationship, antibiotic
+resistance profile, efflux pump activity, antibiotic resistance genes and plasmid
+profile were determined.
+RESULTS: The isolates were identified as 24 Acinetobacter haemolyticus, 24
+Acinetobacter calcoaceticus-baumannii (Acb) complex and 1 strain each of
+Acinetobacter junii, Acinetobacter radioresistens, Acinetobacter indicus,
+Acinetobacter lwoffii, Acinetobacter ursingii and Acinetobacter venetianus. The
+24 A. haemolyticus were considered genetically unrelated. One strain was
+resistant to carbapenems, two to cephalosporins, two to ciprofloxacin and sixteen
+to aminoglycosides. The antibiotic resistance genes blaOXA-214 (29%), blaOXA-215 
+(4%), blaOXA-264 (8%), blaOXA-265 (29%), blaNDM-1 (4%), aac(6')-Ig (38%) and the 
+novel variants blaOXA-575 (13%), blaTEM-229 (75%), aac(6')-Iga (4%), aac(6')-Igb 
+(13%) and aac(6')-Igc (42%) were detected. Among 24 Acb complex, 5 were
+multidrug-resistant, carbapenem-resistant strains carrying blaOXA-51 and
+blaOXA-23; they were genetically related and had the same plasmid profile. Other 
+species were susceptible. In some strains of A. haemolyticus and Acb complex, the
+role of RND efflux pumps was evidenced by a decrease in the MICs for cefotaxime, 
+amikacin and ciprofloxacin in the presence of an efflux pump inhibitor.
+CONCLUSIONS: This study identified isolates of A. haemolyticus carrying new
+β-lactamase variants and shows for the first time the contribution of efflux
+pumps to antibiotic resistance in this species.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jgar.2020.08.014 
+PMID: 32916332 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+report no declarations of interest.
+

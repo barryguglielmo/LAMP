@@ -1,0 +1,52 @@
+
+1. Clin Oral Investig. 2020 Oct 2. doi: 10.1007/s00784-020-03605-w. [Epub ahead of
+print]
+
+Biocompatibility, mechanical, and bonding properties of a dental adhesive
+modified with antibacterial monomer and cross-linker.
+
+Moussa H(1), Jones MM(2), Huo N(3), Zhang R(3), Keskar M(3), Visser MB(2),
+Swihart MT(3), Cheng C(3), Sabatini C(4).
+
+Author information: 
+(1)Department of Chemistry, Buffalo State College, 1300 Elmwood Avenue, Buffalo, 
+NY, 14222, USA.
+(2)Department of Oral Biology, School of Dental Medicine, University at Buffalo, 
+3435 Main Street, Buffalo, NY, 14214, USA.
+(3)Department of Chemical and Biological Engineering, School of Engineering,
+University at Buffalo, Furnas Hall, #310, Buffalo, NY, 14260, USA.
+(4)Department of Restorative Dentistry, School of Dental Medicine, University at 
+Buffalo, 215 Squire Hall, 3435 Main Street, Buffalo, NY, 14214, USA.
+cs252@buffalo.edu.
+
+OBJECTIVES: This study investigated the antibacterial, cytotoxicity, and
+mechanical properties of a dental adhesive modified with quaternary ammonium
+monomer ((2-acryloyloxyethyl)dimethyldodecylammonium bromide) and cross-linker
+(bis(2-acryloyloxyethyl)methyldodecylammonium bromide).
+MATERIALS AND METHODS: Monomer (M), cross-linker (C), or a combination of these
+(M + C) were incorporated into adhesive Adper Single Bond Plus (SB) in 5, 10, or 
+25% (as wt%). A colony-forming unit and MTT assays were used to evaluate
+antibacterial properties against Streptococcus mutans and cell viability.
+Resin-dentin beams (0.9 ± 0.1 mm2) were evaluated for micro-tensile bond strength
+(μTBS) after 24 h, 6 months, and 3 years. Hourglass specimens were evaluated for 
+ultimate tensile strength (UTS) after 24 h, 1 week, and 6 months. Micro-hardness 
+measurements after softening in ethanol were taken as an indirect assessment of
+the polymer cross-linking density. Kruskal-Wallis, one-way ANOVA, two-way ANOVA, 
+and Student's t test were used for analysis of the antibacterial, cytotoxicity,
+μTBS, UTS, and hardness data, all with a significance level of p < 0.05.
+RESULTS: 10%M and 25%M demonstrated a significant reduction in S. mutans relative
+to SB (p < 0.001). No differences in cytotoxicity were detected for any of the
+groups. After 6 months, no changes in μTBS were shown for any of the groups.
+After 3 years, all groups evidenced a significant decrease in μTBS (p < 0.05)
+except 5%M, 5%C, and 5%M + 5%C. All groups demonstrated either stable or
+significantly increased UTS after 6 months. Except for the cross-linker groups, a
+significant decrease in micro-hardness was shown for all groups after softening
+in ethanol (p < 0.05).
+CONCLUSIONS: A 5-10% of monomer may render the resin antibacterial without a
+compromise to its mechanical and bonding properties.
+CLINICAL RELEVANCE: Biomodification of a resin adhesive with an antibacterial
+monomer and cross-linker may help improve the life span of adhesive restorations.
+
+DOI: 10.1007/s00784-020-03605-w 
+PMID: 33006665 
+

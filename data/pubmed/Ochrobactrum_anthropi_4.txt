@@ -1,0 +1,51 @@
+
+1. Genomics. 2020 Sep;112(5):3003-3012. doi: 10.1016/j.ygeno.2020.04.030. Epub 2020 
+May 17.
+
+Pan-genomics of Ochrobactrum species from clinical and environmental origins
+reveals distinct populations and possible links.
+
+Gohil K(1), Rajput V(2), Dharne M(3).
+
+Author information: 
+(1)Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India;
+National Collection of Industrial Microorganisms (NCIM), CSIR-National Chemical
+Laboratory, Pune, India.
+(2)National Collection of Industrial Microorganisms (NCIM), CSIR-National
+Chemical Laboratory, Pune, India.
+(3)Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India;
+National Collection of Industrial Microorganisms (NCIM), CSIR-National Chemical
+Laboratory, Pune, India. Electronic address: ms.dharne@ncl.res.in.
+
+Ochrobactrum genus is comprised of soil-dwelling Gram-negative bacteria mainly
+reported for bioremediation of toxic compounds. Since last few years, mainly two 
+species of this genus, O. intermedium and O. anthropi were documented for causing
+infections mostly in the immunocompromised patients. Despite such ubiquitous
+presence, study of adaptation in various niches is still lacking. Thus, to gain
+insights into the niche adaptation strategies, pan-genome analysis was carried
+out by comparing 67 genome sequences belonging to Ochrobactrum species.
+Pan-genome analysis revealed it is an open pan-genome indicative of the
+continuously evolving nature of the genus. The presence/absence of gene clusters 
+also illustrated the unique presence of antibiotic efflux transporter genes and
+type IV secretion system genes in the clinical strains while the genes of solvent
+resistance and exporter pumps in the environmental strains. A phylogenomic
+investigation based on 75 core genes depicted better and robust phylogenetic
+resolution and topology than the 16S rRNA gene. To support the pan-genome
+analysis, individual genomes were also investigated for the mobile genetic
+elements (MGE), antibiotic resistance genes (ARG), metal resistance genes (MRG)
+and virulence factors (VF). The analysis revealed the presence of MGE, ARG, and
+MRG in all the strains which play an important role in the species evolution
+which is in agreement with the pan-genome analysis. The average nucleotide
+identity (ANI) based on the genetic relatedness between the Ochrobactrum species 
+indicated a distinction between individual species. Interestingly, the ANI tool
+was able to classify the Ochrobactrum genomes to the species level which were
+assigned till the genus level on the NCBI database.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ygeno.2020.04.030 
+PMID: 32428556 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no competing interests.
+

@@ -1,0 +1,36 @@
+
+1. J Biomol Struct Dyn. 2020 Mar 28:1-12. doi: 10.1080/07391102.2020.1745283. [Epub 
+ahead of print]
+
+Antimicrobial activity of ginger on cariogenic bacteria: molecular networking and
+molecular docking analyses.
+
+Babaeekhou L(1), Ghane M(1).
+
+Author information: 
+(1)Department of Biology, Islamshahr Branch, Islamic Azad University, Islamshahr,
+Iran.
+
+Streptococcus mutans and Streptococcus sobrinus have been implicated as the
+primary causative agents of dental caries in humans. This study aimed to screen
+the antibacterial activity of the n-hexane, ethyl acetate, methanol, and aqueous 
+extracts of Ginger against mentioned bacteria and investigate chemical
+constituents of the extracts, and their activity against some drug targets in S. 
+mutans. Antimicrobial tests including biofilm inhibition, time-kill kinetics, and
+adherence inhibition alongside cytotoxicity of extracts, were assessed. A
+molecular networking technique was used to find chemical constituents of the
+extracts. Molecular docking analysis on the Schrodinger package was applied to
+identify the binding interactions of the compounds to targeted enzymes. Methanol 
+and ethyl acetate extracts showed the highest antibacterial activity against S.
+mutans and S. sobrinus. Different compounds including polyphenols, alkaloids,
+anthraquinones, flavonoids, terpenoids, glycosides, steroids, and reducing sugars
+dereplicated from Ginger extracts. The binding affinity of ligands with free
+hydroxyl groups was better than other ligands against all tested enzymes. This
+study introduces a wide range of Z. officinal extracts compounds to be used in
+different drug discovery studies. Some Ginger compounds with high affinity to
+investigated enzymes can be considered as candidate compounds for anti-caries
+drug development studies.Communicated by Ramaswamy H. Sarma.
+
+DOI: 10.1080/07391102.2020.1745283 
+PMID: 32189576 
+

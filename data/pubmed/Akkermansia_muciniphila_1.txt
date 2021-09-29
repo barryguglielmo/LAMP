@@ -1,0 +1,50 @@
+
+1. Life Sci. 2020 Sep 25;262:118497. doi: 10.1016/j.lfs.2020.118497. [Epub ahead of 
+print]
+
+The effect of fecal microbiota transplantation on autistic-like behaviors in Fmr1
+KO mice.
+
+Goo N(1), Bae HJ(1), Park K(1), Kim J(1), Jeong Y(1), Cai M(2), Cho K(2), Jung
+SY(1), Kim DH(1), Ryu JH(3).
+
+Author information: 
+(1)Department of Life and Nanopharmaceutical Science, Kyung Hee University, Seoul
+02447, Republic of Korea; Neurobiota Research Center, College of Pharmacy, Kyung 
+Hee University, Seoul 02447, Republic of Korea.
+(2)Department of Life and Nanopharmaceutical Science, Kyung Hee University, Seoul
+02447, Republic of Korea.
+(3)Department of Life and Nanopharmaceutical Science, Kyung Hee University, Seoul
+02447, Republic of Korea; Neurobiota Research Center, College of Pharmacy, Kyung 
+Hee University, Seoul 02447, Republic of Korea. Electronic address:
+jhryu63@khu.ac.kr.
+
+The importance of alterations in bidirectional communication between gut and
+brain has become obvious in neuropsychiatric disorders. Gastrointestinal (GI)
+disturbances are very common in autism spectrum disorders (ASD), and the GI
+microbiota profiles in children with ASD are significantly different from those
+in the general population. Fragile X syndrome (FXS) is an inheritable
+developmental disability in humans, and patients with FXS exhibit autistic
+behaviors such as mental retardation and impaired social communication or
+interaction. We hypothesized that an increase in specific gut microbiota by fecal
+microbiota transplantation (FMT) would mitigate autistic-like behaviors. To test 
+this hypothesis, we measured the effects of FMT from normal mice to Fmr1 KO mice 
+on autistic-like behaviors using several behavioral tests. Because the amounts of
+A. muciniphila in Fmr1 KO mice was very low, we assessed A. muciniphila
+population, tested the expression of MUC2, and analyzed goblet cells in the gut
+after the FMT. We found that FMT ameliorated autistic-like behaviors, especially 
+memory deficits and social withdrawal, and we observed that the levels of A.
+muciniphila were normalized to wild-type levels. In addition, FMT attenuated the 
+increased levels of TNFα and Iba1 in the brains of Fmr1 KO mice. These results
+suggest that FMT could be a useful tool for the treatments of cognitive deficits 
+and social withdrawal symptoms observed in FXS or ASD because it increases the
+population of A. muciniphila and decreases TNFα and Iba1 levels.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.lfs.2020.118497 
+PMID: 32987062 
+
+Conflict of interest statement: Declaration of competing interest The Authors
+declare that there is no conflict of interest.
+

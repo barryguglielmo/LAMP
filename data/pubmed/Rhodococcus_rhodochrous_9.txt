@@ -1,0 +1,41 @@
+
+1. J Hazard Mater. 2020 May 5;389:121906. doi: 10.1016/j.jhazmat.2019.121906. Epub
+2019 Dec 16.
+
+Characterization and genome functional analysis of an efficient nitrile-degrading
+bacterium, Rhodococcus rhodochrous BX2, to lay the foundation for potential
+bioaugmentation for remediation of nitrile-contaminated environments.
+
+An X(1), Cheng Y(2), Miao L(1), Chen X(1), Zang H(1), Li C(3).
+
+Author information: 
+(1)College of Resources and Environment, Northeast Agricultural University,
+Harbin 150030, Heilongjiang, PR China.
+(2)College of Science, China Agricultural University, Beijing 100083, PR China.
+(3)College of Resources and Environment, Northeast Agricultural University,
+Harbin 150030, Heilongjiang, PR China. Electronic address: chunyanli@neau.edu.cn.
+
+Nitriles are a class of extremely toxic chemicals with extensive applications,
+and these compounds pose potential risks to humans and ecosystems. The activated 
+sludge isolate Rhodococcus rhodochrous BX2 efficiently metabolizes aliphatic
+nitriles. However, the molecular underpinnings of the degradation mechanism of
+aliphatic nitriles by BX2 remain unknown, and the metabolic fate of aliphatic
+nitriles also has not been elucidated. Here, strain BX2 was capable of completely
+mineralizing three aliphatic nitriles. Bioinformatic analysis yielded a deeper
+insight into the genetic basis of BX2 for efficient degradation of aliphatic
+nitriles and adaptation to harsh environments. Transcriptional, enzyme activity
+and metabolite analyses confirmed that the intracellular inducible nitrile
+hydratase/amidase pathway is the preferred metabolic pathway. Our findings
+provide an in-depth understanding of the environmental fate of aliphatic nitriles
+and, most importantly, offer a new perspective on the potential applications of
+the genus Rhodococcus in bioremediation and the development of degradation enzyme
+resources.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhazmat.2019.121906 
+PMID: 31874764 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare no conflict of interest.
+

@@ -1,0 +1,61 @@
+
+1. Front Immunol. 2020 Jan 9;10:2976. doi: 10.3389/fimmu.2019.02976. eCollection
+2019.
+
+Microbiota Induced Changes in the Immune Response in Pregnant Mice.
+
+Faas MM(1), Liu Y(1), Borghuis T(1), van Loo-Bouwman CA(2), Harmsen H(3), de Vos 
+P(1).
+
+Author information: 
+(1)Immunoendocrinology, Division of Medical Biology, Department of Pathology and 
+Medical Biology, University Medical Center Groningen, University of Groningen,
+Groningen, Netherlands.
+(2)Yili Innovation Center Europe B.V., Wageningen, Netherlands.
+(3)Department of Medical Microbiology, University of Groningen, University
+Medical Center Groningen, Groningen, Netherlands.
+
+Pregnancy is associated with adaptations of the immune response and with changes 
+in the gutmicrobiota. We hypothesized the gut microbiota are involved in inducing
+(part of) the immunological adaptations during pregnancy. To test this
+hypothesis, we collected feces from pregnant conventional mice before and during 
+pregnancy (days 7, 14, and 18) and microbiota were measured using 16S RNA
+sequencing. At day 18, mice were sacrificed and splenic (various Th cell
+populations) and blood immune cells (monocyte subsets) were measured by flow
+cytometry. The data were compared with splenic and blood immune cell populations 
+from pregnant (day 18) germfree mice and non-pregnant conventional and germfree
+mice. Finally, the abundances of the individual gut bacteria in the microbiota of
+each conventional pregnant mouse were correlated to the parameters of the immune 
+response of the same mouse. The microbiota of conventional mice were
+significantly different at the end of pregnancy (day 18) as compared with
+pre-pregnancy (Permanova, p < 0.05). The Shannon index was decreased and the
+Firmicutes/Bacteroidetes ratio was increased (Friedman followed by Dunn's test, p
+< 0.05), while abundances of various species (such as Allobaculum stercoricanis, 
+Barnesiella intestihominis, and Roseburia faecis) were significantly different at
+day 18 compared with pre-pregnancy. In pregnant conventional mice, the percentage
+of Th1 cells was decreased, while the percentages of Treg cells and Th2 cells
+were or tended to be increased vs. non-pregnant mice. In germfree mice, only the 
+percentage of Th1 cells was decreased in pregnant vs. non-pregnant mice, with no 
+effect of pregnancy on Treg and Th2 cells. The percentages of monocyte subsets
+were affected by pregnancy similarly in conventional and germfree mice. However, 
+the activation status of monocytes (expression of CD80 and MHCII) was affected by
+pregnancy mainly in conventional mice, and not in germfree mice. Correlation
+(Spearman's coefficient) of pregnancy affected microbiota with pregnancy affected
+immune cells, i.e., immune cells that were only affected differently in
+conventional mice and germfree mice, showed 4 clusters of bacteria and 4 clusters
+of immune cells, some of these clusters were correlated with each other. For
+instance, the microbiota in cluster 1 and 2 (in which there were various short
+chain fatty acid producing microbiota) are positively correlated with immune
+cells in cluster B, containing Treg cells and Th2 cells. Microbiota and immune
+cells are affected by pregnancy in mice. The different immunological adaptations 
+to pregnancy between conventional and germfree mice, such as the increase in Treg
+and tendency to an increase in Th2 cells in conventional pregnant mice only, may 
+suggest that the microbiota may play a role in adapting the maternal immune
+response to pregnancy.
+
+Copyright © 2020 Faas, Liu, Borghuis, van Loo-Bouwman, Harmsen and de Vos.
+
+DOI: 10.3389/fimmu.2019.02976 
+PMCID: PMC6962187
+PMID: 31998293 
+

@@ -1,0 +1,52 @@
+
+1. Antimicrob Agents Chemother. 2020 Sep 28. pii: AAC.01495-20. doi:
+10.1128/AAC.01495-20. [Epub ahead of print]
+
+In vitro study to evaluate the bioactivity of freezing a heparin-based
+dalbavancin lock solution.
+
+Rubia M(1), Cordero A(2), Pérez-Granda MJ(3)(4)(5), Cercenado E(3)(6), Pascual
+C(7), Muñoz P(3)(4)(5)(6), Guembe M(3)(4).
+
+Author information: 
+(1)Biology Department, School of Biology, Universidad Complutense de Madrid,
+Spain.
+(2)Biology Department, School of Biology, Universidad Autónoma de Madrid, Spain.
+(3)Department of Clinical Microbiology and Infectious Diseases, Hospital General 
+Universitario Gregorio Marañón, Madrid, Spain.
+(4)Instituto de Investigación Sanitaria Gregorio Marañón, Madrid, Spain.
+(5)CIBER Enfermedades Respiratorias-CIBERES (CB06/06/0058), Madrid, Spain.
+(6)Medicine Department, School of Medicine, Universidad Complutense de Madrid,
+Spain.
+(7)Hematology Department, Hospital General Universitario Gregorio Marañón,
+Madrid, Spain.
+
+Background. The use of dalbavancin as a catheter lock solution must be addressed 
+in depth before implementation in clinical practice. We assessed whether a
+heparin-based dalbavancin lock solution could be frozen in single-dose vials for 
+6 months without affecting its bioactivity against biofilms of
+methicillin-resistant Staphylococcus aureus (MRSA) and methicillin-resistant
+Staphylococcus epidermidis (MRSE).Methods. Over 6 months, we tested the
+bioactivity of a frozen solution of dalbavancin (≈1 mg/ml) + heparin (60 IU) in
+terms of cfu counts and metabolic activity against biofilms of Staphylococcus
+aureus ATCC43300 (MRSA) and Staphylococcus epidermidis ATCC35984 (MRSE). The
+AntiXa assay was also performed to assess whether the anticoagulant activity of
+heparin was reduced under freezing. Every month, we compared the mean value of
+each variable with that obtained at baseline (before freezing, month 0) using
+both statistical criteria (linear mixed models) and clinical criteria (values
+were within 25% of the baseline value).Results. At the end of the experiment
+(month 6), neither a statistically nor a clinically significant reduction in the 
+bioactivity of dalbavancin-heparin solution was observed in terms of cfu counts
+and metabolic activity against biofilm of MRSA. Regarding MRSE, the reduction was
+statistically significant for all variables. However, considering the clinical
+criteria, neither cfu counts nor metabolic activity decreased significantly.
+AntiXa values (mean [SD] IU/ml) for heparin in combination with dalbavancin were 
+within 25% of the heparin-water value.Conclusion. A heparin-based dalbavancin
+lock solution can be frozen for up to 6 months with no effect on its bioactivity 
+against MRSA and MRSE biofilms.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.01495-20 
+PMID: 32988823 
+

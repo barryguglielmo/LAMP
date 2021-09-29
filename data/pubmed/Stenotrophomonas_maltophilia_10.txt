@@ -1,0 +1,39 @@
+
+1. Environ Microbiol Rep. 2020 Sep 9. doi: 10.1111/1758-2229.12884. [Epub ahead of
+print]
+
+Growth of Stenotrophomonas maltophilia and expression of Sme efflux pumps
+encoding genes in the presence of supernatants from amoebal and bacterial
+co-cultures: towards the role of amoebal secondary metabolites.
+
+Denet E(1), Triadou S(1), Michalet S(1), Nazaret S(1), Favre-Bonté S(1).
+
+Author information: 
+(1)Université Lyon 1, Research Group on Environmental Multi-Resistance and
+Bacterial Efflux, UMR CNRS 5557/ UMR INRAe 1418 Ecologie Microbienne, 43
+Boulevard du 11 Novembre 1918, Villeurbanne Cedex, 69622, France.
+
+Resistance-Nodulation-Division (RND) efflux pumps are relevant determinants of
+Stenotrophomonas maltophilia multidrug resistance as they can extrude a broad
+range of antibiotics and compounds involved in virulence and physiological
+functions. S. maltophilia, an environmental bacterium, was shown to be associated
+with amoebae and able to multiply inside them. To explore whether S. maltophilia 
+RND efflux pumps play a role when interacting with amoebae, we evaluated the
+effect of amoebal culture and co-culture supernatants on the growth of S.
+maltophilia and the expression of sme efflux pump genes. Acanthamoeba castellanii
+and Willaertia magna were used as amoebal models and strain S. maltophilia BurE1 
+as bacterial one. Our data showed that both bacterial growth and sme gene
+expression were not modified by amoebal culture supernatants. On the contrary,
+co-culture supernatants negatively impacted the growth of BurE1 and induced the
+expression of three out of eight efflux pump genes, i.e. smeE, smeN and smeZ.
+Finally, we evidenced the production of A. castellanii secondary metabolites,
+putatively belonging to the diterpene family, in the amoebal supernatant and in
+the co-culture supernatant of A. castellanii and BurE1. Whether these compounds
+act directly as substrates of the efflux pumps and/or inducers of the sme genes
+need further investigations.
+
+© 2020 Society for Applied Microbiology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/1758-2229.12884 
+PMID: 32902135 
+

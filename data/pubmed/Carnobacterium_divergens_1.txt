@@ -1,0 +1,40 @@
+
+1. Microorganisms. 2020 Jul 21;8(7). pii: E1093. doi: 10.3390/microorganisms8071093.
+
+New Insight into Antimicrobial Compounds from Food and Marine-Sourced
+Carnobacterium Species through Phenotype and Genome Analyses.
+
+Begrem S(1)(2), Ivaniuk F(2), Gigout-Chevalier F(2), Kolypczuk L(2), Bonnetot
+S(2), Leroi F(2), Grovel O(1), Delbarre-Ladrat C(2), Passerini D(2).
+
+Author information: 
+(1)University of Nantes, 44035 Nantes CEDEX 1, France.
+(2)IFREMER, BRM, EM3B Laboratory, 44300 Nantes CEDEX 3, France.
+
+Carnobacterium maltaromaticum and Carnobacterium divergens, isolated from food
+products, are lactic acid bacteria known to produce active and efficient
+bacteriocins. Other species, particularly those originating from marine sources, 
+are less studied. The aim of the study is to select promising strains with
+antimicrobial potential by combining genomic and phenotypic approaches on large
+datasets comprising 12 Carnobacterium species. The biosynthetic gene cluster
+(BGCs) diversity of 39 publicly available Carnobacterium spp. genomes revealed 67
+BGCs, distributed according to the species and ecological niches. From zero to
+six BGCs were predicted per strain and classified into four classes: terpene,
+NRPS (non-ribosomal peptide synthetase), NRPS-PKS (hybrid non-ribosomal peptide
+synthetase-polyketide synthase), RiPP (ribosomally synthesized and
+post-translationally modified peptide). In parallel, the antimicrobial activity
+of 260 strains from seafood products was evaluated. Among the 60% of active
+strains, three genomes were sequenced and submitted to a dereplication process.
+C. inhibens MIP2551 produced a high amountof H2O2, probably thanks to the
+presence of four oxidase-encoding genes. C. maltaromaticum EBP3019 and SF668
+strains were highly efficient against Listeria monocytogenes. A new extracellular
+16 kDa unmodified bacteriocin in the EBP3019 strain and five different
+bacteriocins in SF668 were highlighted. In this study, the overview of
+antimicrobial BGC and inhibitory activities of Carnobacterium spp. allowed the
+prediction of potential innovative natural products that could be relevant for
+biotechnological applications.
+
+DOI: 10.3390/microorganisms8071093 
+PMCID: PMC7409045
+PMID: 32708353 
+

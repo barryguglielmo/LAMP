@@ -1,0 +1,37 @@
+
+1. Science. 2019 Nov 8;366(6466). pii: eaaw4388. doi: 10.1126/science.aaw4388.
+
+Structures of a dimodular nonribosomal peptide synthetase reveal conformational
+flexibility.
+
+Reimer JM(#)(1), Eivaskhani M(#)(1), Harb I(1), Guarné A(1), Weigt M(2), Schmeing
+TM(3).
+
+Author information: 
+(1)Department of Biochemistry and Center de Recherche en Biologie Structurale,
+McGill University, Montréal, QC H3G 0B1, Canada.
+(2)Sorbonne Université, CNRS, Institut de Biologie Paris-Seine, Laboratory of
+Computational and Quantitative Biology, F-75005 Paris, France.
+(3)Department of Biochemistry and Center de Recherche en Biologie Structurale,
+McGill University, Montréal, QC H3G 0B1, Canada. martin.schmeing@mcgill.ca.
+(#)Contributed equally
+
+Nonribosomal peptide synthetases (NRPSs) are biosynthetic enzymes that synthesize
+natural product therapeutics using a modular synthetic logic, whereby each module
+adds one aminoacyl substrate to the nascent peptide. We have determined five
+x-ray crystal structures of large constructs of the NRPS linear gramicidin
+synthetase, including a structure of a full core dimodule in conformations
+organized for the condensation reaction and intermodular peptidyl substrate
+delivery. The structures reveal differences in the relative positions of adjacent
+modules, which are not strictly coupled to the catalytic cycle and are consistent
+with small-angle x-ray scattering data. The structures and covariation analysis
+of homologs allowed us to create mutants that improve the yield of a peptide from
+a module-swapped dimodular NRPS.
+
+Copyright © 2019 The Authors, some rights reserved; exclusive licensee American
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.
+
+DOI: 10.1126/science.aaw4388 
+PMID: 31699907  [Indexed for MEDLINE]
+

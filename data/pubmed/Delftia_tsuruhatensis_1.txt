@@ -1,0 +1,54 @@
+
+1. Water Res. 2020 Aug 15;181:115900. doi: 10.1016/j.watres.2020.115900. Epub 2020
+May 18.
+
+Evaluating the effect of silver nanoparticles on bacteriophage lytic infection
+cycle-a mechanistic understanding.
+
+Gilcrease E(1), Williams R(1), Goel R(2).
+
+Author information: 
+(1)Department of Civil and Environmental Engineering, University of Utah, UT,
+USA.
+(2)Department of Civil and Environmental Engineering, University of Utah, UT,
+USA. Electronic address: ram.goel@utah.edu.
+
+Bacteriophages and engineered nano-material (AgNPS) interactions is a relatively 
+unexplored area of research. To answer the fundamental question whether
+bacteriophage lytic growth cycle is affected by the presence of AgNPs, laboratory
+experiments were performed with phages of Klebsiella pneumoniae, Delftia
+tsuruhatensis, Salmonella typhimurium, and Shigella flexneri using silver
+nanoparticles (AgNPs) with coating materials. One-step growth curves of
+bacteriophages indicated that the presence of these nanoparticles, and the
+associated ions of silver, produced pronounced effects on the lytic infection of 
+certain bacteriophages. Effects included 96% reductions in post-infection phage
+yield in terms of plaque forming units (PFUs) after phages were incubated with
+silver nanoparticles and 28%-43% reductions from the presence of Ag+ alone.
+However, when Klebsiella pneumonia phage KL and Salmonella typhimurium phage Det7
+were exposed to silver nanoparticles coated with poly-N-vinyl-2 pyrrolidone
+(PVP), an increase in final phage yield by as much as 250% was observed compared 
+with the same phage not incubated with nanoparticles. A proposed mechanism,
+observed by transmission electron microscopy and verified using synthetic biology
+by which the nanoparticle binding phenotype can be produced, is that the binding 
+of metal nanomaterial to phage virions results in potentially inhibitory effects.
+This binding was found to be dependent on the presence of exposed positively
+charged C-terminal amino-acid residues on the phage capsid surface, implied at
+first by amino-acid sequence comparisons between capsid proteins of the different
+phages used in this study. This was then proven experimentally using targeted DNA
+editing methods to fuse positive charged amino-acid residues to the coat protein 
+C-terminus of non-binding phage. This induced the AgNP binding phenotype, as
+observed by TEM, DLS size measurements, and growth curve data that show the
+mutant constructs to be functionally inhibited after exposure to AgNPs. This
+research sets up a first platform for further research in the unexplored area of 
+phage and AgNP interactions and provides useful findings.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.watres.2020.115900 
+PMID: 32504909  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

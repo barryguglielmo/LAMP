@@ -1,0 +1,46 @@
+
+1. J Biol Chem. 2020 Jul 10;295(28):9326-9334. doi: 10.1074/jbc.RA120.012676. Epub
+2020 May 6.
+
+Bacillus halodurans OapB forms a high-affinity complex with the P13 region of the
+noncoding RNA OLE.
+
+Widner DL(1), Harris KA(2)(3), Corey L(3), Breaker RR(4)(2)(3).
+
+Author information: 
+(1)Department of Molecular Biophysics & Biochemistry, Yale University, New Haven,
+Connecticut, USA.
+(2)Howard Hughes Medical Institute, Yale University, New Haven, Connecticut, USA.
+(3)Department of Molecular, Cellular and Developmental Biology, Yale University, 
+New Haven, Connecticut, USA.
+(4)Department of Molecular Biophysics & Biochemistry, Yale University, New Haven,
+Connecticut, USA ronald.breaker@yale.edu.
+
+Noncoding RNAs (ncRNAs) longer than 200 nucleotides are rare in bacteria, likely 
+because bacterial genomes are under strong evolutionary pressures to maintain a
+small genome size. Of the long ncRNAs unique to bacteria, the OLE (ornate, large,
+extremophilic) RNA class is among the largest and most structurally complex. OLE 
+RNAs form a ribonucleoprotein (RNP) complex by partnering with at least two
+proteins, OapA and OapB, that directly bind OLE RNA. The biochemical functions of
+the OLE RNP complex remain unknown, but are required for proper adaptation to
+certain environmental stresses, such as cold temperatures, short chain alcohols, 
+and high magnesium concentrations. In the current study, we used electrophoretic 
+mobility shift assays to examine the binding of OLE RNA fragments by OapB and
+found that OapB recognizes a small subregion of OLE RNA, including stem P13, with
+a dissociation constant (KD ) of ∼700 pm Analyses with mutated RNA constructs,
+and the application of in vitro selection, revealed that strong binding of OLE
+RNA by OapB requires a stem containing a precisely located single-nucleotide
+bulge and a GNRA tetraloop. Although the vast majority of bacteria with the ole
+gene also have the oapB gene, there are many whose genomes contain oapB but lack 
+ole, suggesting that OapB has other RNA partners in some species that might
+exhibit similar structural features.
+
+© 2020 Widner et al.
+
+DOI: 10.1074/jbc.RA120.012676 
+PMCID: PMC7363126 [Available on 2021-07-10]
+PMID: 32376692 
+
+Conflict of interest statement: Conflicts of interest—None of the authors declare
+any related to the data presented in this article.
+

@@ -1,0 +1,52 @@
+
+1. Front Microbiol. 2020 Mar 11;11:402. doi: 10.3389/fmicb.2020.00402. eCollection
+2020.
+
+Adaptive Laboratory Evolution of Eubacterium limosum ATCC 8486 on Carbon
+Monoxide.
+
+Kang S(1)(2), Song Y(1)(2), Jin S(1)(2), Shin J(1)(2), Bae J(1)(2), Kim DR(3),
+Lee JK(4), Kim SC(1)(2)(5), Cho S(1)(2), Cho BK(1)(2)(5).
+
+Author information: 
+(1)Department of Biological Sciences, Korea Advanced Institute of Science and
+Technology, Daejeon, South Korea.
+(2)KAIST Institute for the BioCentury, Korea Advanced Institute of Science and
+Technology, Daejeon, South Korea.
+(3)Department of Mechanical Engineering, Hanyang University, Seoul, South Korea.
+(4)Department of Chemical Engineering, Konkuk University, Seoul, South Korea.
+(5)Intelligent Synthetic Biology Center, Daejeon, South Korea.
+
+Acetogens are naturally capable of metabolizing carbon monoxide (CO), a component
+of synthesis gas (syngas), for autotrophic growth in order to produce biomass and
+metabolites such as acetyl-CoA via the Wood-Ljungdahl pathway. However, the
+autotrophic growth of acetogens is often inhibited by the presence of high CO
+concentrations because of CO toxicity, thus limiting their biosynthetic potential
+for industrial applications. Herein, we implemented adaptive laboratory evolution
+(ALE) for growth improvement of Eubacterium limosum ATCC 8486 under high CO
+conditions. The strain evolved under syngas conditions with 44% CO over 150
+generations, resulting in a significant increased optical density (600 nm) and
+growth rate by 2.14 and 1.44 folds, respectively. In addition, the evolved
+populations were capable of proliferating under CO concentrations as high as 80%.
+These results suggest that cell growth is enhanced as beneficial mutations are
+selected and accumulated, and the metabolism is altered to facilitate the
+enhanced phenotype. To identify the causal mutations related to growth
+improvement under high CO concentrations, we performed whole genome resequencing 
+of each population at 50-generation intervals. Interestingly, we found key
+mutations in CO dehydrogenase/acetyl-CoA synthase (CODH/ACS) complex coding
+genes, acsA and cooC. To characterize the mutational effects on growth under CO, 
+we isolated single clones and confirmed that the growth rate and CO tolerance
+level of the single clone were comparable to those of the evolved populations and
+wild type strain under CO conditions. Furthermore, the evolved strain produced
+1.34 folds target metabolite acetoin when compared to the parental strain while
+introducing the biosynthetic pathway coding genes to the strains. Consequently,
+this study demonstrates that the mutations in the CODH/ACS complex affect
+autotrophic growth enhancement in the presence of CO as well as the CO tolerance 
+of E. limosum ATCC 8486.
+
+Copyright © 2020 Kang, Song, Jin, Shin, Bae, Kim, Lee, Kim, Cho and Cho.
+
+DOI: 10.3389/fmicb.2020.00402 
+PMCID: PMC7079680
+PMID: 32218779 
+

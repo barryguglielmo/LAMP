@@ -1,0 +1,63 @@
+
+1. Appl Environ Microbiol. 2020 Sep 4. pii: AEM.01580-20. doi: 10.1128/AEM.01580-20.
+[Epub ahead of print]
+
+Bacillus thuringiensis Cry1Ab domain III β-22 mutants with enhanced toxicity to
+Spodoptera frugiperda (J. E. Smith).
+
+Gómez I(1), Ocelotl J(1), Sánchez J(1), Aguilar-Medel S(2), Peña-Chora G(3),
+Lina-Garcia L(4), Bravo A(1), Soberón M(5).
+
+Author information: 
+(1)Instituto de Biotecnología, Universidad Nacional Autónoma de Mexico, Morelos, 
+Mexico.
+(2)Centro Universitario UAEMex Tenancingo, Universidad Autónoma del Estado de
+Mexico, Estado de Mexico, México.
+(3)Centro de Investigaciones Biológicas, Universidad Autónoma del Estado de
+Morelos, Cuernavaca, Morelos Mexico.
+(4)Centro de Investigaciones en Biotecnología, Universidad Autónoma del Estado de
+Morelos, Cuernavaca, Morelos Mexico.
+(5)Instituto de Biotecnología, Universidad Nacional Autónoma de Mexico, Morelos, 
+Mexico. mario@ibt.unam.mx.
+
+The fall armyworm, Spodoptera frugiperda, is an invasive maize pest that has
+spread from the Americas into Africa and Asia causing severe crop damages
+worldwide. Most populations of S. frugiperda show low susceptibility to Bacillus 
+thuringiensis (Bt) Cry1Ab or Cry1Ac toxins, which have been proved to be
+effective against several other lepidopteran pests. In addition, S. frugiperda
+has evolved resistance to transgenic maize expressing Cry1Fa toxin. Cry toxins
+specificity and toxicity is determined by their binding to different larvae
+midgut proteins such as aminopeptidase-N (APN), alkaline phosphatase (ALP) and
+cadherin (CAD), among other proteins, by means of exposed domain II loop regions 
+and also by domain III β16-β22 region. Here we analyzed different Cry1Ab mutants 
+in domain III β22 region. The alanine scanning mutagenesis of this region
+revealed that all mutants showed increased toxicity against a non-susceptible
+Cry1Ab S. frugiperda population. Further analysis of the mutant toxin Cry1AbS587A
+revealed that it showed significant increased toxicity, compared to Cry1Ab, to
+other three different S. frugiperda populations from Mexico but retained similar 
+toxicity to Manduca sexta larvae. The Cry1AbS587A bound to BBMV and its higher
+toxicity correlated with a higher binding affinity to APN, ALP and CAD
+recombinant proteins. Furthermore, silencing the expression of APN1 and CAD
+receptors in S. frugiperda larvae by RNAi showed that Cry1AbS587A toxicity relied
+on CAD expression in contrast to Cry1Ab. These data support that the increased
+toxicity of Cry1AbS587A to S. frugiperda is in part due to an improved binding
+interaction with CAD receptor.IMPORTANCE Spodoptera frugiperda is an important
+worldwide pest of maize and rice crops that has evolved resistance to
+Cry1Fa-maize in different countries. Therefore, identification of additional
+toxins with different mode of action is needed to provide alternative tools to
+control this insect pest. Bacillus thuringiensis (Bt) Cry1Ab and Cry1Ac toxins
+are highly active against several important lepidopteran pests but show variable 
+and low toxicity against different S. frugiperda populations. Thus,
+identification of Cry1A mutants that gain toxicity to S. frugiperda and retain
+toxicity to other pests could be of great value to produce transgenic crops that 
+resist a broader spectrum of lepidopteran pests. Here we characterized Cry1Ab
+domain III β22 mutants, and we found that Cry1AbS587A mutant display increased
+toxicity against different S. frugiperda populations. Thus, Cry1AbS587A could be 
+a good toxin candidate to produce transgenic maize with broader efficacy against 
+this important insect pests in the field.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.01580-20 
+PMID: 32887720 
+

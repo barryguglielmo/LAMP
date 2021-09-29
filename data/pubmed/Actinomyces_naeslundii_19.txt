@@ -1,0 +1,49 @@
+
+1. J Dent Res. 2020 Jan;99(1):51-59. doi: 10.1177/0022034519884012. Epub 2019 Oct
+21.
+
+Periodontal Antibodies and All-Cause and Cardiovascular Disease Mortality.
+
+Qi J(1)(2)(3), Zihang Z(1)(3), Zhang J(1), Park YM(4), Shrestha D(5), Jianling
+B(3), Merchant AT(1).
+
+Author information: 
+(1)Department of Epidemiology and Biostatistics, Arnold School of Public Health, 
+University of South Carolina, Columbia, SC, USA.
+(2)Department of Epidemiology, School of Public Health, Nanjing Medical
+University, Nanjing, China.
+(3)Department of Biostatistics, School of Public Health, Nanjing Medical
+University, Nanjing, China.
+(4)Epidemiology Branch, National Institute of Environmental Health Sciences,
+National Institutes of Health, Research Triangle Park, NC, USA.
+(5)Epidemiology Branch, Division of Intramural Population Health Research, Eunice
+Kennedy Shriver National Institute of Child Health and Human Development,
+National Institutes of Health, Bethesda, MD, USA.
+
+Periodontitis is positively linked to cardiovascular disease (CVD), diabetes,
+cancer, and increased mortality. Empirically derived clusters of IgG antibodies
+against 19 selected periodontal microorganisms have been associated with
+hyperglycemia. We further investigated associations between these serum IgG
+antibody clusters and all-cause and CVD mortality in a representative US
+population. Participants free of CVD and cancer and aged ≥40 y at baseline (N =
+6,491) from the Third National Health and Nutrition Examination Survey (1988 to
+1994) were followed up until December 31, 2011. Antibodies were categorized into 
+4 clusters: red-green, orange-red, yellow-orange, and orange-blue. Over a 23-y
+follow-up, 2,702 deaths occurred, including 810 CVD-related deaths. In fully
+adjusted Cox proportional hazard models, the red-green cluster was positively
+associated with all-cause mortality (tertile 3 vs. tertile 1: hazard ratio [HR] =
+1.43, 95% CI = 1.08 to 1.90, P = 0.015). The yellow-orange cluster was inversely 
+associated with all-cause mortality (tertile 3 vs. tertile 1: HR = 0.78, 95% CI =
+0.63 to 0.97, P = 0.028) and CVD mortality (tertile 2 vs. tertile 1: HR = 0.57,
+95% CI = 0.42 to 0.77, P = 0.005). The orange-blue cluster (composed of
+antibodies against Eubacterium nodatum and Actinomyces naeslundii) was inversely 
+associated with all-cause mortality (tertile 3 vs. tertile 1: HR = 0.65, 95% CI =
+0.55 to 0.78, P < 0.0001) and CVD mortality (tertile 3 vs. tertile 1: HR = 0.65, 
+95% CI = 0.47 to 0.88, P = 0.007). These antibodies could predict prognosis or be
+potential intervention targets to prevent systemic effects of periodontal disease
+if further studies establish a causal relationship.
+
+DOI: 10.1177/0022034519884012 
+PMCID: PMC6927218 [Available on 2021-01-01]
+PMID: 31634041 
+

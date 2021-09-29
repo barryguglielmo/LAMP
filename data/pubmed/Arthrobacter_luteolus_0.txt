@@ -1,0 +1,51 @@
+
+1. Int J Syst Evol Microbiol. 2020 Aug 25. doi: 10.1099/ijsem.0.004414. [Epub ahead 
+of print]
+
+Arthrobacter yangruifuii sp. nov. and Arthrobacter zhaoguopingii sp. nov., two
+new members of the genus Arthrobacter.
+
+Ge Y(1), Tao Y(1), Yang J(2)(3)(1), Lai XH(4), Jin D(2)(3)(1), Lu S(2)(3)(1),
+Huang Y(3), Luo X(3), Zhou J(3), Zhang X(1), Xu J(1)(2)(3).
+
+Author information: 
+(1)Shanghai Public Health Clinical Center, Fudan University, Shanghai 201508, PR 
+China.
+(2)Research Units of Discovery of Unknown Bacteria and Function, Chinese Academy 
+of Medical Sciences, Beijing, PR China.
+(3)State Key Laboratory of Infectious Disease Prevention and Control, National
+Institute for Communicable Disease Control and Prevention, Chinese Center for
+Disease Control and Prevention, Changping, Beijing 102206, PR China.
+(4)Henan Key Laboratory of Biomolecular Recognition and Sensing, College of
+Chemistry and Chemical Engineering, Henan Joint International Research Laboratory
+of Chemo/Biosensing and Early Diagnosis of Major Diseases, Shangqiu Normal
+University, Shangqiu 476000, PR China.
+
+Four unknown strains belonging to the genus Arthrobacter were isolated from
+plateau wildlife on the Qinghai-Tibet Plateau of PR China. Phylogenetic analysis 
+based on 16S rRNA gene sequences showed that the four isolates were separated
+into two clusters. Cluster I (strains 785T and 208) had the greatest 16S rRNA
+gene sequence similarity to Arthrobacter citreus (98.6 and 98.7 %, respectively),
+Arthrobacter luteolus (98.0 and 98.1%, respectively), Arthrobacter gandavensis
+(97.9 and 98.0 %, respectively) and Arthrobacter koreensis (97.6 and 97.7 %,
+respectively). Likewise, cluster II (strains J391T and J915) had the highest
+sequence similarity to Arthrobacter ruber (98.6 and 98.3 %, respectively) and
+Arthrobacter agilis (98.1 and 97.9  %, respectively). Average nucleotide identity
+and the digital DNA-DNA hybridization values illustrated that the two type
+strains, 785T and J391T, represented two separate novel species that are distinct
+from all currently recognized species in the genus Arthrobacter. These strains
+had DNA G+C contents of 66.0-66.1 mol% (cluster I) and 68.0 mol% (cluster II).
+The chemotaxonomic properties of strains 785T and J391T were in line with those
+of the genus Arthrobacter: anteiso-C15:0 (79.3 and 40.8 %, respectively) as the
+major cellular fatty acid, MK-8(H2) (65.8 %) or MK-9(H2) (75.6 %) as the
+predominant respiratory quinone, a polar lipid profile comprising
+diphosphatidylglycerol, phosphatidylglycerol, phosphatidylinositol, glycolipids
+and phospholipid, and A3α or A4α as the cell wall peptidoglycan type. On the
+basis of our results, two novel species in the genus Arthrobacter are proposed,
+namely Arthrobacter yangruifuii sp. nov. (type strain, 785T=CGMCC 1.16725T=GDMCC 
+1.1592T=JCM 33491T) and Arthrobacter zhaoguopingii sp. nov. (type strain,
+J391T=CGMCC 1.17382T=GDMCC 1.1667T=JCM 33841T).
+
+DOI: 10.1099/ijsem.0.004414 
+PMID: 32841110 
+

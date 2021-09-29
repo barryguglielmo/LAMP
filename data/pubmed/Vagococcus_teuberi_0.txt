@@ -1,0 +1,38 @@
+
+1. Int J Syst Evol Microbiol. 2020 Mar;70(3):1953-1960. doi: 10.1099/ijsem.0.003999.
+
+Vagococcus silagei sp. nov., isolated from brewer's grain used to make silage in 
+Taiwan.
+
+Wu YC(1), Lin ST(1), Guu JR(1), Tamura T(2), Mori K(2), Wang LT(1), Huang L(1),
+Watanabe K(3)(1).
+
+Author information: 
+(1)Bioresource Collection and Research Center (BCRC), Food Industry Research and 
+Development Institute, 331 Shih-Pin Rd., Hsinchu 30062, Taiwan, ROC.
+(2)Biological Resource Center (NBRC), National Institute of Technology and
+Evaluation (NITE), 2-5-8 Kazusakamatari, Kisarazu, Chiba 292-0818, Japan.
+(3)Department of Animal Science and Technology, College of Bioresources and
+Agriculture, National Taiwan University, No. 50, Ln. 155, Sec. 3, Keelung Rd.,
+Taipei 10673, Taiwan, ROC.
+
+A Gram-stain-positive, coccus- or oval-shaped, non-motile, haemolytic,
+asporogenous, catalase- and oxidase-negative, and facultatively anaerobic strain,
+2B-2T, was isolated from a brewer's grain used to make silage in Taiwan.
+Comparative analyses of 16S rRNA, hsp60 and pheS gene sequences demonstrated that
+strain 2B-2T was a member of the genus Vagococcus. On the basis of 16S rRNA gene 
+sequence similarity, the type strains of Vagococcus teuberi (98.4 % similarity), 
+Vagococcus carniphilus (98.4 %), Vagococcus martis (98.2 %), Vagococcus penaei
+(98.2 %) and Vagococcus fluvialis (98.0 %) were the closest neighbours to this
+novel strain. The similarity levels of concatenated housekeeping gene sequences
+(hsp60 and pheS) between strain 2B-2T and these closely related species ranged
+from 84.5 to 88.0 %. The average nucleotide identity and in silico DNA-DNA
+hybridization values between strain 2B-2T and its closest relatives were lower
+than 72.9 and 21.6 %, respectively. The DNA G+C content was 34.7 mol%. Phenotypic
+and genotypic features demonstrated that strain 2B-2T represents a novel species 
+of the genus Vagococcus, for which the name Vagococcus silagei sp. nov. is
+proposed. The type strain is 2B-2T (=BCRC 81132T=NBRC 113536T).
+
+DOI: 10.1099/ijsem.0.003999 
+PMID: 32003713  [Indexed for MEDLINE]
+

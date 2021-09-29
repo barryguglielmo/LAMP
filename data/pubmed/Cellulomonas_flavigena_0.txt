@@ -1,0 +1,50 @@
+
+1. Int J Syst Evol Microbiol. 2020 Apr;70(4):2204-2210. doi: 10.1099/ijsem.0.003939.
+Epub 2020 Feb 7.
+
+Cellulomonas shaoxiangyii sp. nov., isolated from faeces of Tibetan antelope
+(Pantholops hodgsonii) on the Qinghai-Tibet Plateau.
+
+Tian Z(1), Lu S(2)(3)(4), Jin D(2)(3)(4), Yang J(2)(3)(4), Pu J(4), Lai XH(5),
+Ren ZH(2)(4), Wu XM(6), Li J(1), Wang S(1), Xu J(2)(1)(3)(4).
+
+Author information: 
+(1)Department of Epidemiology, Shanxi Medical University School of Public Health,
+Taiyuan, Shanxi 030001, PR China.
+(2)Research Units of Discovery of Unknown Bacteria and Function, Chinese Academy 
+of Medical Sciences, Beijing, PR China.
+(3)Shanghai Institute for Emerging and Re-emerging Infectious Diseases, Shanghai 
+Public Health Clinical Center, Shanghai 201508, PR China.
+(4)State Key Laboratory of Infectious Disease Prevention and Control, National
+Institute for Communicable Disease Control and Prevention, Chinese Center for
+Disease Control and Prevention, Changping, Beijing 102206, PR China.
+(5)School of Biology and Food Sciences, Shangqiu Normal University, Shangqiu,
+Henan 476000, PR China.
+(6)Shaanxi Institute of Zoology, Xi'an, Shanxi 710032, PR China.
+
+Two Gram-stain-positive, catalase-positive and oxidase-negative, aerobic,
+non-motile, cellobiose-utilizing, short-rod-shaped strains (Z28T and Z29) were
+isolated from faeces of Tibetan antelope (Pantholops hodgsonii) collected on the 
+Qinghai-Tibet Plateau. Strain Z28T shared 98.1, 98.0, 97.8 and 97.4 % 16S rRNA
+gene similarity, 24.1, 22.8, 23.2 and 26.3 % digital DNA-DNA hybridization
+relatedness and 80.8, 80.0, 80.7 and 80.9 % average nucleotide identity values
+with Cellulomonas oligotrophica DSM 24482T, Cellulomonas flavigena DSM 20109T,
+Cellulomonas iranensis DSM 14785T and Cellulomonas terrae JCM 14899T,
+respectively. Results from further phylogenetic analyses based on the 16S rRNA
+gene and 148 core genes indicated that strains Z28T and Z29 were closest to C.
+oligotrophica DSM 24482T and C. flavigena DSM 20109T, but clearly separated from 
+the currently recognized species of the genus Cellulomonas. The genomic DNA G+C
+content of strain Z28T was 75.3 mol%. The major cellular fatty acids were
+anteiso-C15 : 0, anteiso-C15 : 1 A, C16 : 0 and anteiso-C17 : 0. Ribose and
+mannose were detected as the whole-cell sugars. The major respiratory quinone was
+MK-9(H4) and ornithine was the diamino acid of the cell wall. The polar lipids
+present in strain Z28T were phosphatidylethanolamine, five phospholipids, two
+aminophospholipids, aminolipid and three unidentified lipids. Comparison of
+phenotypic and phylogenetic features between the two strains and the related
+organisms revealed that Z28T and Z29 represent a novel species of the genus
+Cellulomonas, for which the name Cellulomonas shaoxiangyii sp. nov. is proposed. 
+The type strain is Z28T (=CGMCC 1.16477T=DSM 106200T).
+
+DOI: 10.1099/ijsem.0.003939 
+PMID: 32038002  [Indexed for MEDLINE]
+

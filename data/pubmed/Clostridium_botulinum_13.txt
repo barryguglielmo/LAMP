@@ -1,0 +1,43 @@
+
+1. J Biol Chem. 2020 Sep 3. pii: jbc.RA120.014895. doi: 10.1074/jbc.RA120.014895.
+[Epub ahead of print]
+
+A ribonucleotide reductase from Clostridium botulinum reveals distinct
+evolutionary pathways to regulation via the overall activity site.
+
+Martínez-Carranza M(1), Jonna VR(2), Lundin D(3), Sahlin M(3), Carlson LA(2),
+Jemal N(2), Högbom M(3), Sjöberg BM(4), Stenmark P(3), Hofer A(2).
+
+Author information: 
+(1)Stockholm University.
+(2)Umeå University, Sweden.
+(3)Stockholm University, Sweden.
+(4)Biochemistry and Biophysics, Stockholm University, Sweden.
+
+Ribonucleotide reductase (RNR) is a central enzyme for DNA building block
+synthesis. Most aerobic organisms, including nearly all eukaryotes, have class I 
+RNRs consisting of R1 and R2 subunits.  The catalytic R1 subunit contains an
+overall activity site that can allosterically turn the enzyme on or off by the
+binding of ATP or dATP, respectively. The mechanism behind the ability to turn
+the enzyme off via the R1 subunit involves the formation of different types of R1
+oligomers in most studied species and R1-R2 octamers in Escherichia coli. To
+better understand the distribution of different oligomerization mechanisms, we
+characterized the enzyme from Clostridium botulinum, which belongs to a subclass 
+of class I RNRs not studied before.  The recombinantly expressed enzyme was
+analyzed by size exclusion chromatography, gas-phase electrophoretic mobility
+macromolecular analysis, electron microscopy, x-ray crystallography, and enzyme
+assays. Interestingly, it shares the ability of the E. coli RNR to form inhibited
+R1-R2 octamers in the presence of dATP but, unlike the E. coli enzyme, cannot be 
+turned off by combinations of ATP and dGTP/dTTP. A phylogenetic analysis of class
+I RNRs suggests that activity regulation is not ancestral, but was gained after
+the first subclasses diverged and that RNR subclasses with inhibition mechanisms 
+involving R1 oligomerization belong to a clade separated from the two subclasses 
+forming R1-R2 octamers. These results give further insight into activity
+regulation in class I RNRs as an evolutionarily dynamic process.
+
+Published under license by The American Society for Biochemistry and Molecular
+Biology, Inc.
+
+DOI: 10.1074/jbc.RA120.014895 
+PMID: 32883811 
+

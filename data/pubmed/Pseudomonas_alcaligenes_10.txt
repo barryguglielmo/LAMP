@@ -1,0 +1,38 @@
+
+1. Molecules. 2020 Feb 8;25(3). pii: E738. doi: 10.3390/molecules25030738.
+
+Current Approaches to and Future Perspectives on Methomyl Degradation in
+Contaminated Soil/Water Environments.
+
+Lin Z(1)(2), Zhang W(1)(2), Pang S(1)(2), Huang Y(1)(2), Mishra S(1)(2), Bhatt
+P(1)(2), Chen S(1)(2).
+
+Author information: 
+(1)State Key Laboratory for Conservation and Utilization of Subtropical
+Agro-bioresources, Guangdong Province Key Laboratory of Microbial Signals and
+Disease Control, Integrative Microbiology Research Centre, South China
+Agricultural University, Guangzhou 510642, China.
+(2)Guangdong Laboratory of Lingnan Modern Agriculture, Guangzhou 510642, China.
+
+Methomyl is a broad-spectrum oxime carbamate commonly used to control arthropods,
+nematodes, flies, and crop pests. However, extensive use of this pesticide in
+agricultural practices has led to environmental toxicity and human health issues.
+Oxidation, incineration, adsorption, and microbial degradation methods have been 
+developed to remove insecticidal residues from soil/water environments. Compared 
+with physicochemical methods, biodegradation is considered to be a cost-effective
+and ecofriendly approach to the removal of pesticide residues. Therefore,
+micro-organisms have become a key component of the degradation and detoxification
+of methomyl through catabolic pathways and genetic determinants. Several species 
+of methomyl-degrading bacteria have been isolated and characterized, including
+Paracoccus, Pseudomonas, Aminobacter, Flavobacterium, Alcaligenes, Bacillus,
+Serratia, Novosphingobium, and Trametes. The degradation pathways of methomyl and
+the fate of several metabolites have been investigated. Further in-depth studies 
+based on molecular biology and genetics are needed to elaborate their role in the
+evolution of novel catabolic pathways and the microbial degradation of methomyl. 
+In this review, we highlight the mechanism of microbial degradation of methomyl
+along with metabolic pathways and genes/enzymes of different genera.
+
+DOI: 10.3390/molecules25030738 
+PMCID: PMC7036768
+PMID: 32046287 
+

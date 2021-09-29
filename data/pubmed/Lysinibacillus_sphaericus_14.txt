@@ -1,0 +1,41 @@
+
+1. Colloids Surf B Biointerfaces. 2020 Jun;190:110950. doi:
+10.1016/j.colsurfb.2020.110950. Epub 2020 Mar 5.
+
+Interaction of curium(III) with surface-layer proteins from Lysinibacillus
+sphaericus JG-A12.
+
+Moll H(1), Lehmann F(2), Raff J(2).
+
+Author information: 
+(1)Helmholtz-Zentrum Dresden-Rossendorf, Institute of Resource Ecology, Bautzner 
+Landstraße 400, 01328 Dresden, Germany. Electronic address: h.moll@hzdr.de.
+(2)Helmholtz-Zentrum Dresden-Rossendorf, Institute of Resource Ecology, Bautzner 
+Landstraße 400, 01328 Dresden, Germany.
+
+Trivalent actinides such as Cm(III) are able to occupy natural Ca(II) binding
+sites in biological systems. For this investigation, we studied the formation of 
+aqueous Cm(III) complexes with S-layer proteins by time-resolved laser-induced
+fluorescence spectroscopy (TRLFS). S-layer proteins serve as protective
+biointerfaces in bacteria and archaea against the surrounding solution.
+Experimental assays were performed at a fixed total concentration of Cm(III)
+(0.88 μM) using an S-layer protein (5 g/L / 39.6 μM) at varying pH levels
+(2.0-9.0), as well as several types of S-layer proteins of L. sphaericus JG-A12. 
+Based on resulting luminescence spectra and lifetime data, specific and
+unspecific binding sites could be distinguished. Notably, specific Cm(III)
+binding to S-layer proteins was confirmed by the appearance of a sharp emission
+band at 602.5 nm, combined with a long lifetime of 310 μs. The high affinity of
+these specific binding sites was also verified using competing EDTA, wherein only
+a high EDTA concentration (40 μM) could efficiently remove Cm(III) from S-layer
+proteins.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.colsurfb.2020.110950 
+PMID: 32172166 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

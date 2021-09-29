@@ -1,0 +1,53 @@
+
+1. Sci Rep. 2020 Sep 23;10(1):15479. doi: 10.1038/s41598-020-72484-8.
+
+Complete genome sequence of fish-pathogenic Aeromonas hydrophila HX-3 and a
+comparative analysis: insights into virulence factors and quorum sensing.
+
+Jin L(1)(2)(3), Chen Y(1)(2), Yang W(3)(4), Qiao Z(3)(4), Zhang X(5)(6).
+
+Author information: 
+(1)Marine Fishery Research Institute of Zhejiang Province, Zhoushan, 316021,
+China.
+(2)Zhoushan Fishery Environments and Aquatic Products Quality Monitoring Center
+of Ministry of Agriculture China, Zhoushan, 316021, China.
+(3)College of Food and Pharmaceutical Sciences, Ningbo University, Ningbo,
+315211, China.
+(4)Key Laboratory of Animal Protein Food Deep Processing Technology of Zhejiang
+Province, Ningbo University, Ningbo, 315211, China.
+(5)Marine Fishery Research Institute of Zhejiang Province, Zhoushan, 316021,
+China. zhangxj_hys@126.com.
+(6)Zhoushan Fishery Environments and Aquatic Products Quality Monitoring Center
+of Ministry of Agriculture China, Zhoushan, 316021, China. zhangxj_hys@126.com.
+
+The gram-negative, aerobic, rod-shaped bacterium Aeromonas hydrophila, the
+causative agent of motile aeromonad septicaemia, has attracted increasing
+attention due to its high pathogenicity. Here, we constructed the complete genome
+sequence of a virulent strain, A. hydrophila HX-3 isolated from Pseudosciaena
+crocea and performed comparative genomics to investigate its virulence factors
+and quorum sensing features in comparison with those of other Aeromonas isolates.
+HX-3 has a circular chromosome of 4,941,513 bp with a 61.0% G + C content
+encoding 4483 genes, including 4318 protein-coding genes, and 31 rRNA, 127 tRNA
+and 7 ncRNA operons. Seventy interspersed repeat and 153 tandem repeat sequences,
+7 transposons, 8 clustered regularly interspaced short palindromic repeats, and
+39 genomic islands were predicted in the A. hydrophila HX-3 genome. Phylogeny and
+pan-genome were also analyzed herein to confirm the evolutionary relationships on
+the basis of comparisons with other fully sequenced Aeromonas genomes. In
+addition, the assembled HX-3 genome was successfully annotated against the
+Cluster of Orthologous Groups of proteins database (76.03%), Gene Ontology
+database (18.13%), and Kyoto Encyclopedia of Genes and Genome pathway database
+(59.68%). Two-component regulatory systems in the HX-3 genome and virulence
+factors profiles through comparative analysis were predicted, providing insights 
+into pathogenicity. A large number of genes related to the AHL-type 1 (ahyI,
+ahyR), LuxS-type 2 (luxS, pfs, metEHK, litR, luxOQU) and QseBC-type 3 (qseB,
+qseC) autoinducer systems were also identified. As a result of the expression of 
+the ahyI gene in Escherichia coli BL21 (DE3), combined UPLC-MS/MS profiling led
+to the identification of several new N-acyl-homoserine lactone compounds
+synthesized by AhyI. This genomic analysis determined the comprehensive QS
+systems of A. hydrophila, which might provide novel information regarding the
+mechanisms of virulence signatures correlated with QS.
+
+DOI: 10.1038/s41598-020-72484-8 
+PMCID: PMC7512022
+PMID: 32968153 
+

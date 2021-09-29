@@ -1,0 +1,48 @@
+
+1. Microorganisms. 2020 Sep 21;8(9). pii: E1445. doi: 10.3390/microorganisms8091445.
+
+Development of a High-Resolution Single-Nucleotide Polymorphism Strain-Typing
+Assay Using Whole Genome-Based Analyses for the Lactobacillus acidophilus
+Probiotic Strain.
+
+Huang CH(1), Chen CC(2)(3), Chiu SH(1), Liou JS(1), Lin YC(4), Lin JS(5), Huang
+L(1), Watanabe K(1)(5)(6).
+
+Author information: 
+(1)Bioresource Collection and Research Center, Food Industry Research and
+Development Institute, 331 Shih-Pin Rd, Hsinchu 30062, Taiwan.
+(2)Institute of Medical Science and Technology, National Sun Yat-sen University, 
+Kaohsiung 80424, Taiwan.
+(3)Rapid Screening Research Center for Toxicology and Biomedicine, National Sun
+Yat-sen University, Kaohsiung 80424, Taiwan.
+(4)Livestock Research Institute, Council of Agriculture, Executive Yuan, Tainan
+71246, Taiwan.
+(5)Culture Collection & Research Institute, Synbio Tech Inc., Kaohsiung 82151,
+Taiwan.
+(6)Department of Animal Science and Technology, College of Bioresources and
+Agriculture, National Taiwan University, No. 50, Ln. 155, Sec. 3, Keelung Rd.,
+Taipei 10673, Taiwan.
+
+Lactobacillus acidophilus is one of the most commonly used industrial products
+worldwide. Since its probiotic efficacy is strain-specific, the identification of
+probiotics at both the species and strain levels is necessary. However, neither
+phenotypic nor conventional genotypic methods have enabled the effective
+differentiation of L. acidophilus strains. In this study, a whole-genome
+sequence-based analysis was carried out to establish high-resolution strain
+typing of 41 L. acidophilus strains (including commercial isolates and reference 
+strains) using the cano-wgMLST_BacCompare analytics platform; consequently, a
+strain-specific discrimination method for the probiotic strain LA1063 was
+developed. Using a core-genome multilocus sequence-typing (cgMLST) scheme based
+on 1390 highly conserved genes, 41 strains could be assigned to 34 sequence
+types. Subsequently, we screened a set of 92 loci with a discriminatory power
+equal to that of the 1390 loci cgMLST scheme. A strain-specific polymerase chain 
+reaction combined with a multiplex minisequencing method was developed based on
+four (phoU, secY, tilS, and uvrA_1) out of 21 loci, which could be discriminated 
+between LA1063 and other L. acidophilus strains using the cgMLST data. We
+confirmed that the strain-specific single-nucleotide polymorphisms method could
+be used to quickly and accurately identify the L. acidophilus probiotic strain
+LA1063 in commercial products.
+
+DOI: 10.3390/microorganisms8091445 
+PMID: 32967209 
+

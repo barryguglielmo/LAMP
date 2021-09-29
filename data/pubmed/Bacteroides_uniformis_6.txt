@@ -1,0 +1,49 @@
+
+1. Nutr Cancer. 2020 Jun 26:1-10. doi: 10.1080/01635581.2020.1784444. [Epub ahead of
+print]
+
+Associations between Dietary Fiber, the Fecal Microbiota and Estrogen Metabolism 
+in Postmenopausal Women with Breast Cancer.
+
+Zengul AG(1), Demark-Wahnefried W(2)(3), Barnes S(4)(5), Morrow CD(6), Bertrand
+B(1), Berryhill TF(5), Frugé AD(7).
+
+Author information: 
+(1)Department of Nutrition Sciences, University of Alabama at Birmingham (UAB),
+Birmingham, AL, USA.
+(2)Department of Nutrition Sciences, UAB, Wallace Tumor Institute (WTI),
+Birmingham, AL, USA.
+(3)UAB Comprehensive Cancer Center, Wallace Tumor Institute (WTI), Birmingham,
+AL, USA.
+(4)Department of Pharmacology and Toxicology, University of Alabama at Birmingham
+(UAB), Birmingham, AL, USA.
+(5)Targeted Metabolomics and Proteomics Laboratory, University of Alabama at
+Birmingham (UAB), Birmingham, AL, USA.
+(6)Department of Cell, Developmental and Integrative Biology, University of
+Alabama at Birmingham (UAB), Birmingham, AL, USA.
+(7)Didactic Program in Dietetics, Auburn University (AU), Auburn, AL, USA.
+
+Breast cancer is a hormonally-driven cancer, and various dietary factors are
+associated with estrogen metabolism, including dietary fiber. Several studies
+report associations between dietary fiber and breast cancer; however, research on
+whether fiber influences circulating estrogens through the gut microbiota is
+rare. The objective of this cross-sectional study among 29 newly-diagnosed (stage
+0-II), post-menopausal breast cancer patients is to examine associations between 
+dietary fiber and the gut microbiota that are linked with β-glucuronidase
+activity, and purportedly increase circulating estrogens. Spearman's and partial 
+correlations controlling for body mass index and age were performed using dietary
+recall data, Illumina MiSeq generated microbiota relative abundance, and
+HPLC-mass spectrometry-derived estradiol and estrone levels.Major findings are:
+(1) total dietary fiber is inversely associated with Clostridium hathewayi (r=
+-0.419; p = 0.024); (2) soluble fiber is inversely associated with Clostridium
+(r=-0.11; p = 0.02); (3) insoluble fiber is positively associated with
+Bacteroides uniformis sp. (r = 0.382; p = 0.041); and (4) serum estradiol and
+estrone levels are not correlated with species/genera or dietary fiber, though
+there is a trend toward an inverse association between soluble fiber and
+estradiol levels (r= -0.30; p = 0.12). More studies are needed to understand the 
+complex interaction between dietary fiber, intestinal microbiota, and hormonal
+levels in older females.
+
+DOI: 10.1080/01635581.2020.1784444 
+PMID: 32590914 
+

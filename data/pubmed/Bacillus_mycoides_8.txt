@@ -1,0 +1,34 @@
+
+1. Braz J Microbiol. 2020 Sep;51(3):1145-1150. doi: 10.1007/s42770-019-00205-z. Epub
+2019 Dec 13.
+
+Genome of Bacillus sp. strain QHF158 provides insights into its parasporal
+inclusions encoded by the S-layer gene.
+
+Jin Y(1), Wang J(1), Liu Q(1), Qiu H(1), Wang Y(1), Zhou J(1), Sun J(1), Li P(1),
+Wang R(1), Zhang W(2).
+
+Author information: 
+(1)Ministry of Education Key Laboratory for Ecology of Tropical Islands, College 
+of Life Sciences, Hainan Normal University, Haikou, 571158, China.
+(2)Ministry of Education Key Laboratory for Ecology of Tropical Islands, College 
+of Life Sciences, Hainan Normal University, Haikou, 571158, China.
+wenfei2007@163.com.
+
+Bacillus sp. strain QHF158, a Gram-positive, spore-forming and parasporal
+crystal-secreting bacterium, was isolated from soil of Limushan National Forest
+Park in China. Here we present the significant feature of parasporal inclusions
+of this organism, together with the draft genome sequence and annotation.
+Phylogenetic analysis suggested that strain QHF158 is possibly a novel species,
+most closely related to Bacillus mycoides. Genome annotation results revealed
+that strain QHF158 did not contain any typical Cry or Cyt toxin coding gene.
+Furthermore, the mass spectrometry analyses demonstrated that the parasporal
+crystalline inclusions were encoded by the orf_05273 gene, with 95% similarity to
+the S-layer protein (SLP) EA1 of B. mycoides, which indicated that the parasporal
+crystal from Bacillus sp. strain QHF158 was mainly formed by SLP, instead of the 
+typical Cry or Cyt toxin proteins.
+
+DOI: 10.1007/s42770-019-00205-z 
+PMCID: PMC7455649 [Available on 2020-12-13]
+PMID: 31836963 
+

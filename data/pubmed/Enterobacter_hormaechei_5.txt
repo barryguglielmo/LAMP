@@ -1,0 +1,45 @@
+
+1. Int J Antimicrob Agents. 2020 Oct;56(4):106117. doi:
+10.1016/j.ijantimicag.2020.106117. Epub 2020 Jul 31.
+
+New insights regarding Acinetobacter genomic island-related elements.
+
+Siebor E(1), Neuwirth C(2).
+
+Author information: 
+(1)Laboratory of Bacteriology, University Hospital of Dijon, Plateau technique de
+Biologie, BP 37013, 21070 Dijon Cedex, France, and UMR 6249, CNRS
+Chrono-environnement, Université de Bourgogne Franche-Comté, 25000 Besançon,
+France.
+(2)Laboratory of Bacteriology, University Hospital of Dijon, Plateau technique de
+Biologie, BP 37013, 21070 Dijon Cedex, France, and UMR 6249, CNRS
+Chrono-environnement, Université de Bourgogne Franche-Comté, 25000 Besançon,
+France. Electronic address: catherine.neuwirth@chu-dijon.fr.
+
+The objective of this study was to mobilise the Acinetobacter genomic island 1-A 
+(AGI1-A) from Enterobacter hormaechei EclCSP2185 (E. cloacae complex) and to
+search for the distribution and structure of AGI1-related elements in the NCBI
+database. AGI1-A was transferred to Escherichia coli. Analysis of the attachment 
+(att) sites could locate the possible recombination crossover in the att
+sequences at position 10-11 (GG) in the last 18 bp of trmE. In silico detection
+of AGI backbones in the WGS database identified AGI variants in Salmonella
+enterica (83 strains), Vibrio cholerae (33), E. hormaechei (12), Acinetobacter
+baumannii (2), most belonging to prevalent clones (ST40, ST69, ST114 and ST25,
+respectively), but also in E. coli (1) and Klebsiella pneumoniae (1). Two groups 
+of backbone were identified: one similar to AGI1, the other with a short segment 
+from a Shewanella element upstream of ORF A022. The MDR regions were inserted by 
+transposition at the res site in four different positions ATAGG (A. baumannii),
+CATAG (S. enterica and V. cholerae), TAGGT (S. enterica and K. pneumoniae) and
+TGCAC (S. enterica) representing four different lineages. In some V. cholerae, E.
+hormaechei and E. coli, deletion events occurred that eliminated part of the
+backbone at the left junction. Analysis of the right junction identified a fifth 
+lineage in V. cholerae and E. hormaechei (CCATA). In conclusion, based on the
+position of the MDR region, AGI-related elements belonged to five groups of
+closely related genomic islands (AGI1-AGI5), with differences in backbones that
+evolved independently over time.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.ijantimicag.2020.106117 
+PMID: 32745526 
+

@@ -1,0 +1,43 @@
+
+1. Microbiologyopen. 2020 Aug;9(8):e1065. doi: 10.1002/mbo3.1065. Epub 2020 Jun 4.
+
+Phylogenetic analysis of Leuconostoc and Lactobacillus species isolated from
+sugarcane processing streams.
+
+Nel S(1)(2), Davis SB(1), Endo A(3), Dicks LMT(2).
+
+Author information: 
+(1)Sugar Milling Research Institute NPC, c/o University of KwaZulu-Natal, Durban,
+South Africa.
+(2)Department of Microbiology, Stellenbosch University, Stellenbosch, South
+Africa.
+(3)Department of Food, Aroma and Cosmetic Chemistry, Tokyo University of
+Agriculture, Hokkaido, Japan.
+
+High levels of gums such as dextran, produced by Leuconostoc and Lactobacillus
+spp., have a severe impact on factory throughput and sugar quality. This study
+aimed to determine the phylogenetic relationships between gum-producing
+Leuconostoc and Lactobacillus bacteria which were isolated from various locations
+in a sugarcane processing factory at times when low- and high-dextran raw sugar, 
+respectively, were produced. Phylogenetic analysis of 16S rRNA gene sequences
+grouped 81 isolates with the type strains of Leuconostoc mesenteroides (subspp.
+mesenteroides, dextranicum, and cremoris), Leuconostoc pseudomesenteroides,
+Leuconostoc lactis, and Leuconostoc citreum, respectively. Forty-three isolates
+clustered with the type strain of Lactobacillus fermentum. The phylogenetic
+relatedness of the isolates was determined by sequencing and analysis of the
+housekeeping genes rpoA and dnaA for Leuconostoc spp. and the pheS and tuf genes 
+for the Lactobacillus spp. The rpoA gene proved discriminatory for the
+phylogenetic resolution of all of the isolated Leuconostoc spp. and the dnaA
+housekeeping gene was shown to be effective for isolates clustering with the type
+strains of Leuc. mesenteroides and Leuc. citreum. None of the loci examined
+permitted differentiation at the subspecies level of Leuc. mesenteroides.
+Single-locus analysis, as well as the concatenation of the pheS and tuf
+housekeeping gene sequences, yielded identical phylogenies for the Lactobacillus 
+isolates corresponding to L. fermentum.
+
+© 2020 The Authors. MicrobiologyOpen published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/mbo3.1065 
+PMCID: PMC7424246
+PMID: 32496663 
+

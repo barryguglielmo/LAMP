@@ -1,0 +1,56 @@
+
+1. J Glob Antimicrob Resist. 2020 Sep 2;23:102-107. doi: 10.1016/j.jgar.2020.08.017.
+[Epub ahead of print]
+
+Rectal screening displays high negative predictive value for bloodstream
+infection with (ESBL-producing) Gram-negative bacteria in neonates with suspected
+sepsis in a low-resource setting neonatal care unit.
+
+Lenglet A(1), Schuurmans J(2), Ariti C(3), Borgundvaag E(2), Charles K(2), Badjo 
+C(2), Clezy K(4), Evens E(2), Senat-Delva R(2), Berthet M(2), Lekkerkerker M(4), 
+McRae M(4), Wertheim H(5), Hopman J(6).
+
+Author information: 
+(1)Médecins Sans Frontières, Amsterdam, The Netherlands; Medical Microbiology
+Department and Radboudumc Center for Infectious Diseases, Radboudumc, Nijmegen,
+The Netherlands. Electronic address: annick.lenglet@amsterdam.msf.org.
+(2)Médecins Sans Frontières, Port-au-Prince, Haiti.
+(3)Centre for Medical Education, Cardiff University School of Medicine, Cardiff, 
+UK.
+(4)Médecins Sans Frontières, Amsterdam, The Netherlands.
+(5)Medical Microbiology Department and Radboudumc Center for Infectious Diseases,
+Radboudumc, Nijmegen, The Netherlands.
+(6)Médecins Sans Frontières, Amsterdam, The Netherlands; Medical Microbiology
+Department and Radboudumc Center for Infectious Diseases, Radboudumc, Nijmegen,
+The Netherlands; Department of Patient Safety and Quality, Radboudumc, Nijmegen, 
+The Netherlands.
+
+OBJECTIVES: We analysed the concordance of rectal swab isolates and blood culture
+for Gram-negative bacteria (GNB) isolates in neonates with a suspicion of
+neonatal sepsis admitted to a neonatal care unit in Haiti.
+METHODS: We matched pairs of blood and rectal samples taken on the date of
+suspected sepsis onset in the same neonate. We calculated the proportion of
+rectal isolates in concordance with the blood isolates by species and genus. We
+calculated the negative predictive value (NPV) for GNB and extended-spectrum
+β-lactamase (ESBL)-producing GNB for all rectal and blood isolate pairs in
+neonates with suspected sepsis.
+RESULTS: We identified 238 blood and rectal samples pairs, with 238 blood isolate
+results and 309 rectal isolate results. The overall concordance in genus and
+species between blood and rectal isolates was 22.3% [95% confidence interval (CI)
+17.4-28.0%] and 20.6% (95% CI 16.0-26.2%), respectively. The highest concordance 
+between blood and rectal isolates was observed for samples with no bacterial
+growth (65%), followed byKlebsiella pneumoniae (18%) and Klebsiella oxytoca
+(12%). The NPV of detecting GNB bacterial isolates in rectal samples compared
+with those in blood samples was 81.6% and the NPV for ESBL-positive GNB was
+92.6%.
+CONCLUSIONS: The NPV of rectal swab GNB isolates was high in all patient groups
+and was even higher for ESBL-positive GNB. Clinicians can use the results from
+rectal swabs when taken simultaneously with blood samples during outbreaks to
+inform the (de-)escalation of antibiotic therapy in those neonates that have an
+ongoing sepsis profile.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jgar.2020.08.017 
+PMID: 32890840 
+

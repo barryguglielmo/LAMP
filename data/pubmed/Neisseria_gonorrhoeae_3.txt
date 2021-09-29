@@ -1,0 +1,63 @@
+
+1. Lancet Microbe. 2020 Aug;1(4):e154-e164. doi: 10.1016/S2666-5247(20)30059-8.
+
+Azithromycin susceptibility of Neisseria gonorrhoeae in the USA in 2017: a
+genomic analysis of surveillance data.
+
+Gernert KM(1), Seby S(1), Schmerer MW(1), Thomas JC 4th(1), Pham CD(1), Cyr
+SS(1), Schlanger K(1), Weinstock H(1), Shafer WM(1), Raphael BH(1), Kersh EN(1); 
+Antimicrobial-Resistant Neisseria gonorrhoeae Working Group *.
+
+Author information: 
+(1)Laboratory Reference and Research Branch (K M Gernert PhD, S Seby MS, M W
+Schmerer PhD, J C Thomas IV PhD, C D Pham PhD, B H Raphael PhD, E N Kersh PhD),
+Surveillance and Data Management Branch (S St Cyr MD, H Weinstock PhD), and
+Epidemiology and Statistics Branch (K Schlanger PhD), Division of STD Prevention,
+National Center for HIV/AIDS, Viral Hepatitis, STD and TB Prevention, Centers for
+Disease Control and Prevention, Atlanta, GA, USA; Oak Ridge Institute for Science
+and Education Research Participation and Fellowship Program, Oak Ridge, TN, USA
+(S Seby, J C Thomas IV); Department of Microbiology and Immunology and Emory
+Antibiotic Resistance Center, Emory University School of Medicine, Atlanta, GA,
+USA (W M Shafer PhD); and Laboratories of Bacterial Pathogenesis, Veterans
+Affairs Medical Center, Decatur, GA, USA (W M Shafer).
+
+Background: The number of cases of gonorrhoea in the USA and worldwide caused by 
+Neisseria gonorrhoeae is increasing (555 608 reported US cases in 2017, and 87
+million cases worldwide in 2016). Many countries report declining in vitro
+susceptibility of azithromycin, which is a concern because azithromycin and
+ceftriaxone are the recommended dual treatment in many countries. We aimed to
+identify strain types associated with decreased susceptibility to azithromycin.
+Methods: We did a genomic analysis of N gonorrhoeae isolates obtained by the US
+Gonococcal Isolate Surveillance Project. Isolates were whole-genome sequenced
+based on decreased susceptibility to azithromycin (minimal inhibitory
+concentration [MIC] ≥2 μg/mL, using agar dilution antibiotic susceptibility
+testing) and geographical representation. Bioinformatic analyses established
+genomic diversity, strain population dynamics, and antimicrobial resistance
+profiles.
+Findings: 410 isolates were sorted into more than 20 unique phylogenetic clades. 
+One predominant persistent clade (consisting of 97 isolates) included the most
+isolates with azithromycin MICs of 2 μg/mL or higher (61 of 97 [63%] vs 59 of 311
+[19%]; p<0·0001) and carried a mosaic mtr (multiple transferable resistance)
+locus (68 of 97 [70%] vs two of 313 [1%]; p<0·0001). Of the remaining 313
+isolates, 57 (18%) had decreased susceptibility to azithromycin (MIC ≥4 μg/mL),
+which was attributed to 23S rRNA variants (56 of 57 [98%]) and formed
+phylogenetically diverse clades, showing various levels of clonal expansion.
+Interpretation: Reduced azithromycin susceptibility was associated with expanding
+and persistent clades harbouring two well described resistance mechanisms, mosaic
+mtr locus and 23S rRNA variants. Understanding the role of recombination,
+particularly within the mtr locus, on the fitness and expansion of strains with
+decreased susceptibility has important implications for the public health
+response to minimise gonorrhoea transmission.
+Funding: US Centers for Disease Control and Prevention (CDC), CDC Combating
+Antibiotic Resistant Bacteria initiative, Oak Ridge Institute for Science
+Education, US Department of Energy/CDC/Emory University, National Institutes of
+Health, and Biomedical Laboratory Research and Development Service of the US
+Department of Veterans Affairs.
+
+DOI: 10.1016/S2666-5247(20)30059-8 
+PMCID: PMC7527259
+PMID: 33005903 
+
+Conflict of interest statement: Declaration of interests We declare no competing 
+interests.
+

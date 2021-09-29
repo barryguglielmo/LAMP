@@ -1,0 +1,36 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jul;70(7):4091-4097. doi: 10.1099/ijsem.0.004106.
+
+Vaginimicrobium propionicum gen. nov., sp. nov., a novel propionic acid bacterium
+derived from human vaginal discharge.
+
+Diop K(1)(2), Cadoret F(3)(1), Nguyen TT(3)(1), Baudoin JP(3)(1), Armstrong
+N(3)(1), Raoult D(4)(3)(1), Bretelle F(5)(3)(1), Fournier PE(1)(2), Fenollar
+F(2)(1).
+
+Author information: 
+(1)IHU-Méditerranée Infection, Marseille, France.
+(2)Aix-Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France.
+(3)Aix-Marseille Univ, IRD, AP-HM, MEPHI, Marseille, France.
+(4)Special Infectious Agents Unit, King Fahd Medical Research Center, King
+Abdulaziz University, Jeddah, Saudi Arabia.
+(5)Department of Gynecology and Obstetrics, Gynépole, Hôpital Nord, AP-HM,
+Marseille, France.
+
+A Gram-stain-positive anaerobic rod-shaped bacterium, designated strain
+Marseille-P3275T, was isolated using culturomics from the vaginal discharge of
+healthy French woman. Marseille-P3275T was non-motile and did not form spores.
+Cells had neither catalase nor oxidase activity. The major fatty acids were
+C16 : 0 (29 %), C18:1ω9 (18 %), and iso-C15 : 0 (17 %). The genomic DNA G+C
+content was 50.64 mol%. The phylogenetic analysis based on 16S rRNA gene sequence
+indicated that Marseille-P3275T was related to members of the family
+Propionibacteriaceae (between 90.32-92.92 % sequence similarity) with formation
+of a clade with the monospecific genus Propionimicrobium (type species
+Propionimicrobium lymphophilum). On the basis of these phylogenetic and
+phenotypic differences, Marseille-P3275T was classified in a novel genus,
+Vaginimicrobium, as Vaginimicrobium propionicum gen. nov., sp. nov. The type
+strain is Marseille-P3275T (=CSUR P3275T=CECT 9677T).
+
+DOI: 10.1099/ijsem.0.004106 
+PMID: 32628103  [Indexed for MEDLINE]
+

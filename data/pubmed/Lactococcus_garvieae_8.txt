@@ -1,0 +1,40 @@
+
+1. Microb Drug Resist. 2020 Jul 20. doi: 10.1089/mdr.2020.0218. [Epub ahead of
+print]
+
+Characterization of lsa(D), a Novel Gene Responsible for Resistance to
+Lincosamides, Streptogramins A, and Pleuromutilins in Fish Pathogenic Lactococcus
+garvieae Serotype II.
+
+Shi YZ(1), Yoshida T(1), Fujiwara A(2), Nishiki I(2).
+
+Author information: 
+(1)Faculty of Agriculture, University of Miyazaki, Miyazaki, Japan.
+(2)Research Center for Bioinformatics and Biosciences, National Research
+Institute of Fisheries Science, Fisheries Research and Education Agency,
+Yokohama, Japan.
+
+Aims: Fish pathogenic Lactococcus garvieae serotype II has been isolated from
+cultured fish species in Japan. This study aimed to investigate the molecular
+mechanisms of lincomycin (LCM)-resistant L. garvieae serotype II and assess the
+molecular basis for lincosamides-streptogramins A-pleuromutilins (LSAP)-resistant
+phenotype. Results: We identified a novel lsa(D)-encoded 497-aa ATP-binding
+cassette F (ABC-F) protein in the LSAP-resistant strains. Amino acid identities
+of 41.25-54.73% were obtained between the deduced amino acids from Lsa(D) and
+other Lsa-type ABC-F proteins. Furthermore, comparative analysis revealed that
+the allele of lsa(D) with single point mutation at 233 aa position (TGG → TAG;
+tryptophan→premature termination codon [PTC]) in LSAP-sensitive strains. The
+minimum inhibitory concentrations of antimicrobials against the lsa(D)
+complementary strain and lsa(D)-disrupted mutant confirmed that lsa(D) conferred 
+the LSAP-resistant phenotype. The reverse transcription-polymerase chain reaction
+could not detect the noncoding region of lsa(D) allelic variant in the
+LSAP-sensitive strains. Additionally, the PTC (TAG) in LCM-sensitive strains was 
+replaced by TGG, CAG, or TAT in the laboratory-induced revertant mutants.
+Conclusions: The novel lsa(D) conferred the LSAP-resistant phenotype in
+clinically LCM-resistant L. garvieae serotype II strains. However, the allele of 
+lsa(D) gene containing the PTC was found in L. garvieae serotype II, resulting in
+the LSAP-susceptible phenotype.
+
+DOI: 10.1089/mdr.2020.0218 
+PMID: 32706619 
+

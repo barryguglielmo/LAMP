@@ -1,0 +1,40 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jun;70(6):3597-3605. doi: 10.1099/ijsem.0.004181.
+Epub 2020 Jun 5.
+
+Pseudomonas yangonensis sp. nov., isolated from wound samples of patients in a
+hospital in Myanmar.
+
+Tohya M(1), Watanabe S(2), Teramoto K(3), Tada T(1), Kuwahara-Arai K(1), Mya
+S(4), Zin KN(5), Kirikae T(1), Tin HH(4).
+
+Author information: 
+(1)Department of Microbiology, Juntendo University School of Medicine, Tokyo,
+Japan.
+(2)Department of Microbiome Research, Juntendo University School of Medicine,
+Tokyo, Japan.
+(3)Koichi Tanaka Mass Spectrometry Research Laboratory, Kyoto, Japan.
+(4)National Health Laboratory, Yangon, Myanmar.
+(5)Clinical Pathology Department, Yangon General Hospital, Yangon, Myanmar.
+
+Strains of a Gram-negative, aerobic, rod-shaped, non-spore-forming bacterium,
+designated MY50T, MY63 and MY101, were isolated from wound samples of three
+hospitalized patients in Yangon, Myanmar. Strains MY50T, MY63 and MY101 grew at
+temperatures of 4-44 °C, in media containing 1.0-7.0 % (w/v) NaCl and at pH
+6.0-9.5. Phylogenetic analysis based on 16S rRNA gene and whole genome sequences 
+showed that these strains belonged to the genus Pseudomonas and were part of the 
+Pseudomonas oleovorans group and located close to Pseudomonas guguanensis and
+Pseudomonas mendocina. Whole-genome comparisons, using average nucleotide
+identity and digital DNA-DNA hybridization analyses, confirmed that strains
+MY50T, MY63 and MY101 were the same strain and they were a distinct species in
+the P. oleovorans group. Results of phenotypic characterization tests
+demonstrated that utilization of p-hydroxy-phenylacetic acid, glycerol,
+l-pyroglutamic acid and quinic acid could distinguish these strains from other
+species of the P. oleovorans group. These genetic and phenotypic characteristics 
+suggest that they should be classified as representing a novel species, under the
+proposed name Pseudomonas yangonensis sp. nov. The type strain is MY50T (=LMG
+31602T,=JCM 33396T), with a DNA G+C content of 62.82 mol%.
+
+DOI: 10.1099/ijsem.0.004181 
+PMID: 32501786  [Indexed for MEDLINE]
+

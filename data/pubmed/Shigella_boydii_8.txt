@@ -1,0 +1,49 @@
+
+1. Folia Microbiol (Praha). 2020 Jun 24. doi: 10.1007/s12223-020-00804-6. [Epub
+ahead of print]
+
+Application of yeast surface display system in expression of recombinant pediocin
+PA-1 in Saccharomyces cerevisiae.
+
+Nguyen TPA(1)(2), Nguyen TTM(1)(2), Nguyen NH(1)(2), Nguyen TN(1)(2), Dang
+TTP(3)(4)(5).
+
+Author information: 
+(1)Department of Molecular and Environmental Biotechnology, Faculty of Biology
+and Biotechnology, University of Science, 227 Nguyen Van Cu St, Dist 5, Ho Chi
+Minh City, Vietnam.
+(2)Vietnam National University, Ho Chi Minh City, Vietnam.
+(3)Department of Molecular and Environmental Biotechnology, Faculty of Biology
+and Biotechnology, University of Science, 227 Nguyen Van Cu St, Dist 5, Ho Chi
+Minh City, Vietnam. thaodp@hcmus.edu.vn.
+(4)Vietnam National University, Ho Chi Minh City, Vietnam. thaodp@hcmus.edu.vn.
+(5)Laboratory of Molecular Biotechnology, University of Science, Vietnam National
+University - Ho Chi Minh City, Ho Chi Minh City, Vietnam. thaodp@hcmus.edu.vn.
+
+Pediocin PA-1 is a bacteriocin that shows strongly anti-microbial activity
+against some Gram-positive pathogens such as Listeria monocytogenes,
+Staphylococcus aureus, and Enterococcus faecalis. With the broad inhibitory
+spectrum as well as high-temperature stability, pediocin has a potential
+application in the food preservation and pharmaceutical industry. Pediocin has
+been studied to express in many heterologous expression systems such as
+Escherichia coli, Saccharomyces cerevisiae, and Pichia pastoris as a free
+peptide. Here we showed in this study a new strategy by using yeast surface
+display system to produce the anchored pediocin PA-1 on the cell surface of
+Saccharomyces cerevisiae, which could be used directly as a pediocin resource. We
+had successfully constructed a recombinant S. cerevisiae W303 strain that could
+express pediocin PA-1 on the cell surface. The pediocin-expressing yeast could
+inhibit the growth of Shigella boydii and Shigella flexneri, which have never
+been reported before for pediocin activity. Besides, the pediocin expression
+level of the recombinant S. cerevisiae strain was also evaluated in three
+different media: synthetic defined (SD), basic medium (BM), and fermentation
+medium (FM). BM medium was shown to give the highest production yield of the
+recombinant yeast (4.75 ± 0.75 g dry cell weight per 1 L of culture) with the
+ratio number of the pediocin-expressing cells of 93.46 ± 2.45%. Taken together,
+the results clearly showed that pediocin can be displayed on yeast cell surface
+as anchored protein. The application of yeast cell surface system enables a new
+door of pediocin application on either food or feed industries. Graphical
+abstract.
+
+DOI: 10.1007/s12223-020-00804-6 
+PMID: 32578013 
+

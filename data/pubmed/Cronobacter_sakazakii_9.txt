@@ -1,0 +1,41 @@
+
+1. Int J Mol Sci. 2020 Jul 22;21(15). pii: E5196. doi: 10.3390/ijms21155196.
+
+Phage S144, A New Polyvalent Phage Infecting Salmonella spp. and Cronobacter
+sakazakii.
+
+Gambino M(1), Nørgaard Sørensen A(1), Ahern S(1), Smyrlis G(1), Gencay YE(1),
+Hendrix H(2), Neve H(3), Noben JP(4), Lavigne R(2), Brøndsted L(1).
+
+Author information: 
+(1)Department of Veterinary and Animal Sciences, University of Copenhagen,1870
+Frederiksberg C, Denmark.
+(2)Laboratory of Gene Technology, KU Leuven, 3001 Leuven, Belgium.
+(3)Department of Microbiology and Biotechnology, Max Rubner-Institut, Federal
+Research Institute of Nutrition and Food, 24103 Kiel, Germany.
+(4)Biomedical Research Institute and Transnational University Limburg, Hasselt
+University, BE3590 Diepenbeek, Belgium.
+
+Phages are generally considered species- or even strain-specific, yet polyvalent 
+phages are able to infect bacteria from different genera. Here, we characterize
+the novel polyvalent phage S144, a member of the Loughboroughvirus genus. By
+screening 211 Enterobacteriaceae strains, we found that phage S144 forms plaques 
+on specific serovars of Salmonella enterica subsp. enterica and on Cronobacter
+sakazakii. Analysis of phage resistant mutants suggests that the O-antigen of
+lipopolysaccharide is the phage receptor in both bacterial genera. The S144
+genome consists of 53,628 bp and encodes 80 open reading frames (ORFs), but no
+tRNA genes. In total, 32 ORFs coding for structural proteins were confirmed by
+ESI-MS/MS analysis, whereas 45 gene products were functionally annotated within
+DNA metabolism, packaging, nucleotide biosynthesis and phage morphogenesis.
+Transmission electron microscopy showed that phage S144 is a myovirus, with a
+prolate head and short tail fibers. The putative S144 tail fiber structure is,
+overall, similar to the tail fiber of phage Mu and the C-terminus shows amino
+acid similarity to tail fibers of otherwise unrelated phages infecting
+Cronobacter. Since all phages in the Loughboroughvirus genus encode tail fibers
+similar to S144, we suggest that phages in this genus infect Cronobacter
+sakazakii and are polyvalent.
+
+DOI: 10.3390/ijms21155196 
+PMCID: PMC7432712
+PMID: 32707941 
+

@@ -1,0 +1,56 @@
+
+1. Front Microbiol. 2020 Mar 31;11:451. doi: 10.3389/fmicb.2020.00451. eCollection
+2020.
+
+Genomics of Serratia marcescens Isolates Causing Outbreaks in the Same Pediatric 
+Unit 47 Years Apart: Position in an Updated Phylogeny of the Species.
+
+Saralegui C(1)(2), Ponce-Alonso M(1)(2), Pérez-Viso B(1), Moles Alegre L(3),
+Escribano E(4), Lázaro-Perona F(5), Lanza VF(6)(7), de Pipaón MS(4), Rodríguez
+JM(8), Baquero F(1)(7), Del Campo R(1)(2).
+
+Author information: 
+(1)Servicio de Microbiología, Hospital Universitario Ramón y Cajal and Instituto 
+Ramón y Cajal de Investigación Sanitaria, Madrid, Spain.
+(2)Red Española de Investigación en Patología Infecciosa, Madrid, Spain.
+(3)Unidad de Esclerosis Múltiple, Instituto de Investigación Sanitaria
+Biodonostia, Donostia-San Sebastián, Spain.
+(4)Servicio de Neonatología, Hospital Universitario La Paz, and Universidad
+Autónoma de Madrid, Madrid, Spain.
+(5)Servicio de Microbiología, Hospital Universitario La Paz, Madrid, Spain.
+(6)Unidad de Bioinformática del IRYCIS, Madrid, Spain.
+(7)Centro de Investigación Biomédica en Red de Epidemiología y Salud Pública,
+Madrid, Spain.
+(8)Departamento de Nutrición y Ciencia de los Alimentos, Universidad Complutense 
+de Madrid, Madrid, Spain.
+
+The first documented nosocomial outbreak caused by Serratia marcescens in Spain
+occurred in 1969 at the neonatal intensive care unit (NICU) of the tertiary La
+Paz Children's Hospital in Madrid, Spain, and based on the available phenotyping 
+techniques at this time, it was considered as a monoclonal outbreak. Only 47
+years later, another S. marcescens outbreak of an equivalent dimension occurred
+at the same NICU. The aim of the present study was to study isolates from these
+historical and contemporary outbreaks by phenotypic analysis and whole-genome
+sequencing techniques and to position these strains along with 444 publicly
+available S. marcescens genomes, separately comparing core genome and accessory
+genome contents. Clades inferred by both approaches showed high correlation,
+indicating that core and accessory genomes seem to evolve in the same manner for 
+S. marcescens. Nine S. marcescens clusters were identified, and isolates were
+grouped in two of them according to sampling year. One exception was isolate
+13F-69, the most genetically distant strain, located in a different cluster.
+Categorical functions in the annotated accessory genes of both collections were
+preserved among all isolates. No significant differences in frequency of
+insertion sequences in historical (0.18-0.20)-excluding the outlier strain-versus
+contemporary isolates (0.11-0.19) were found despite the expected resting effect.
+The most dissimilar isolate, 13F-69, contains a highly preserved plasmid
+previously described in Bordetella bronchiseptica. This strain exhibited a few
+antibiotic resistance genes not resulting in a resistant phenotype, suggesting
+the value of gene down expression in adaptation to long-term starvation.
+
+Copyright © 2020 Saralegui, Ponce-Alonso, Pérez-Viso, Moles Alegre, Escribano,
+Lázaro-Perona, Lanza, de Pipaón, Rodríguez, Baquero and del Campo.
+
+DOI: 10.3389/fmicb.2020.00451 
+PMCID: PMC7136904
+PMID: 32296400 
+

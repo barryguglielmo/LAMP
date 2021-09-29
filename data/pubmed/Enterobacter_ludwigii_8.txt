@@ -1,0 +1,36 @@
+
+1. J Microbiol Biotechnol. 2020 Jan 28;30(1):118-126. doi: 10.4014/jmb.1906.06010.
+
+Effect of Silicate and Phosphate Solubilizing Rhizobacterium Enterobacter
+ludwigii GAK2 on Oryza sativa L. under Cadmium Stress.
+
+Adhikari A(1), Lee KE(1), Khan MA(1), Kang SM(1), Adhikari B(1), Imran M(1), Jan 
+R(1), Kim KM(1), Lee IJ(1).
+
+Author information: 
+(1)School of Applied Biosciences, Kyungpook National University, Daegu 41566,
+Republic of Korea.
+
+Silicon and phosphorus are elements that are beneficial for plant growth. Despite
+the abundant availability of silicate and phosphate in the Earth's crust, crop
+nutritional requirements for silicon and phosphorus are normally met through the 
+application of fertilizer. However, fertilizers are one of the major causes of
+heavy metal pollution. In our study, we aimed to assess silicate and phosphate
+solubilization by the bacteria Enterobacter ludwigii GAK2, in the presence and
+absence of phosphate [Ca3(PO4)2] or silicate (Mg2O8Si3), to counteract cadmium
+stress in rice (Oryza sativa L). Our results showed that the GAK2-treated rice
+plants, grown in soil amended with phosphate [Ca3(PO4)2] or silicate (Mg2O8Si3), 
+had significantly reduced cadmium content, and enhanced plant growth promoting
+characteristics including fresh shoot and root weight, plant height, and
+chlorophyll content. These plants showed significant downregulation of the
+cadmium transporter gene, OsHMA2, and upregulation of the silicon carrier gene,
+OsLsi1. Moreover, jasmonic acid levels were significantly reduced in the
+GAK2-inoculated plants, and this was further supported by the downregulation of
+the jasmonic acid related gene, OsJAZ1. These results indicate that Enterobacter 
+ludwigii GAK2 can be used as a silicon and phosphorus bio-fertilizer, which
+solubilizes insoluble silicate and phosphate, and mitigates heavy metal toxicity 
+in crops.
+
+DOI: 10.4014/jmb.1906.06010 
+PMID: 31650772  [Indexed for MEDLINE]
+

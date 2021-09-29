@@ -1,0 +1,57 @@
+
+1. Appl Environ Microbiol. 2020 Mar 18;86(7). pii: e00004-20. doi:
+10.1128/AEM.00004-20. Print 2020 Mar 18.
+
+Engineering of Cyclodextrin Glycosyltransferase Reveals pH-Regulated Mechanism of
+Enhanced Long-Chain Glycosylated Sophoricoside Specificity.
+
+Han R(1)(2), Ni J(2), Zhou J(2), Dong J(2), Xu G(2), Ni Y(3)(2).
+
+Author information: 
+(1)Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of
+Education, School of Biotechnology, Jiangnan University, Wuxi, China.
+(2)Key Laboratory of Industrial Biotechnology, Ministry of Education, School of
+Biotechnology, Jiangnan University, Wuxi, China.
+(3)Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of
+Education, School of Biotechnology, Jiangnan University, Wuxi, China
+yni@jiangnan.edu.cn.
+
+Sophoricoside glycosylated derivatives, especially long-chain glycosylated
+sophoricosides (LCGS), have greatly improved water solubility compared with
+sophoricoside. Here, cyclodextrin glycosyltransferase from Paenibacillus macerans
+(PmCGTase) was employed for sophoricoside glycosylation. Saturation mutagenesis
+of alanine 156, alanine 166, glycine 173, and leucine 174 was performed due to
+their nonconservative properties among α-, β-, and γ-CGTases with different
+product specificities. Variants L174P, A156V/L174P, and A156V/L174P/A166Y greatly
+improved the product specificity for LCGS. pH significantly affected the extent
+of glycosylation catalyzed by the variants. Further investigations revealed that 
+the pH-regulated mechanism for LCGS synthesis mainly depends on a
+disproportionation route at a lower pH (pH 4) and a cyclization-coupling route at
+a higher pH (pH 8) and equivalent effects of cyclization-coupling and
+disproportionation routes at pH 5. Whereas short-chain glycosylated
+sophoricosides (SCGS) are primarily produced via disproportionation of
+maltodextrin at pH 4 and secondary disproportionation of LCGS at pH 8. At pH 5,
+SCGS synthesis mainly depends on a hydrolysis route by the wild type (WT) and a
+secondary disproportionation route by variant A156V/L174P/A166Y. Kinetics
+analysis showed a decreased Km value of variant A156V/L174P/A166Y. Dynamics
+simulation results demonstrated that the improved LCGS specificity of the variant
+is possibly attributed to the enhanced affinity to long-chain substrates, which
+may be caused by the changes of hydrogen bond interactions at the -5, -6, and -7 
+subsites. Our results reveal a pH-regulated mechanism for product specificity of 
+CGTase and provide guidance for engineering CGTase toward products with different
+sugar chain lengths.IMPORTANCE The low water solubility of sophoricoside
+seriously limits its applications in the food and pharmaceutical industries.
+Long-chain glycosylated sophoricosides show greatly improved water solubility.
+Here, the product specificity of cyclodextrin glycosyltransferase (CGTase) for
+long-chain glycosylated sophoricosides was significantly affected by pH. Our
+results reveal the pH-regulated mechanism of the glycosylated product specificity
+of CGTase. This work adds to our understanding of the synthesis of long-chain
+glycosylated sophoricosides and provides guidance for exploring related product
+specificity of CGTase based on pH regulation.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.00004-20 
+PMCID: PMC7082579
+PMID: 32005733 
+

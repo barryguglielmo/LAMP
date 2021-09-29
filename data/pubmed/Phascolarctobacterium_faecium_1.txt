@@ -1,0 +1,65 @@
+
+1. PLoS One. 2020 Apr 29;15(4):e0230895. doi: 10.1371/journal.pone.0230895.
+eCollection 2020.
+
+Impact of smoking cessation, coffee and bread consumption on the intestinal
+microbial composition among Saudis: A cross-sectional study.
+
+Harakeh S(1), Angelakis E(2)(3), Karamitros T(4), Bachar D(2), Bahijri S(5),
+Ajabnoor G(5), Alfadul SM(6), Farraj SA(1), Al Amri T(7), Al-Hejin A(8), Ahmed
+A(9), Mirza AA(1)(10), Didier R(11), Azhar EI(1)(10).
+
+Author information: 
+(1)Special Infectious Agents Unit, King Fahd Medical Research Center, King
+Abdulaziz University, Jeddah, Saudi Arabia.
+(2)Aix Marseille Université, IRD, APHM, VITROME, IHU-Méditerranée Infection,
+Marseille, France.
+(3)Laboratory of Medical Microbiology, Hellenic Pasteur Institute, Athens,
+Greece.
+(4)Unit of Bioinformatics and Applied Genomics, Hellenic Pasteur Institute,
+Athens, Greece.
+(5)Clinical Biochemistry Department, College of Medicine, Nutrition unit, King
+Fahd Medical Research Center, King Abdulaziz University, Jeddah, Saudi Arabia.
+(6)King Abdulaziz city for Science and Technology, Riyadh, Saudi Arabia.
+(7)Family and Community Medicine department, Faculty of Medicine-Rabigh Branch,
+King Abdulaziz University, Jeddah, Saudi Arabia.
+(8)Biological Sciences Department, Faculty of Science, King Abdulaziz University,
+Jeddah, Saudi Arabia.
+(9)Department of Medical Microbiology, Faculty of Medicine, Umm Al-Qura
+University, Makkah, Saudi Arabia.
+(10)Department of Laboratory Medical Technology, Faculty of Applied Medical
+Sciences, King Abdulaziz University, Jeddah, Saudi Arabia.
+(11)Aix Marseille Université, IRD, APHM, MEPHI, IHU-Méditerranée Infection,
+Marseille, France.
+
+The gut microbiota is often affected by the dietary and lifestyle habits of the
+host, resulting in a better efficacy that favors energy harvesting from the
+consumed food. Our objective was to characterize the composition of gut
+microbiota in adult Saudis and investigate possible association with lifestyle
+and dietary practices. Feces from 104 Saudi volunteers (48% males) were tested
+for microbiota by sequencing the V3-V4 region of bacterial 16S ribosomal RNA
+(rRNA). For all participants, data were collected related to their lifestyle
+habits and dietary practices. The relative abundance (RA) of Fusobacteria was
+significantly higher in normal weight Saudis (P = 0.005, false discovery rate-FDR
+= 0.014). Individuals who consumed more coffee presented marginally significant
+more RA of Fusobacteria (P = 0.02, FDR = 0.20) in their gut microbiota compared
+to those reporting low or no coffee intake, but the RA of Fusobacteria was
+significantly higher in smokers compared to non-smokers (P = 0.009, FDR = 0.027).
+The RA of Fusobacteria was also significantly higher in those reporting daily
+consumption of bread (P = 0.005, FDR = 0.015). At the species level, the gut
+microbiota of people who consumed coffee was dominated by Bacteroides
+thetaiotaomicron followed by Phascolarctobacterium faecium and Eubacterium
+rectale. Similarly, the gut microbiota of smokers was also enriched by B.
+thetaiotaomicron and Lactobacillus amylovorus. Smoking cessation, bread and
+coffee consumption induce changes in the intestinal microbial composition of
+Saudis. This indicates the significance of diet and lifestyle practices in the
+determination of the composition of the gut microbiota, which could possibly lead
+later to changes in metabolic profile and weight.
+
+DOI: 10.1371/journal.pone.0230895 
+PMCID: PMC7190147
+PMID: 32348307  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declared that they have no competing 
+interests.
+

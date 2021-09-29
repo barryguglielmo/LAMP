@@ -1,0 +1,51 @@
+
+1. Front Microbiol. 2020 Mar 3;11:248. doi: 10.3389/fmicb.2020.00248. eCollection
+2020.
+
+Comparative Genome Analysis of the Lignocellulose Degrading Bacteria Citrobacter 
+freundii so4 and Sphingobacterium multivorum w15.
+
+Cortes-Tolalpa L(1), Wang Y(1), Salles JF(1), van Elsas JD(1).
+
+Author information: 
+(1)Cluster of Microbial Ecology, Groningen Institute for Evolutionary Life
+Sciences, University of Groningen, Groningen, Netherlands.
+
+Two bacterial strains, denoted so4 and w15, isolated from wheat straw
+(WS)-degrading microbial consortia, were found to grow synergistically in media
+containing WS as the single carbon and energy source. They were identified as
+Citrobacter freundii so4 and Sphingobacterium multivorum w15 based on 16S rRNA
+gene sequencing and comparison to the respective C. freundii and S. multivorum
+type strains. In order to identify the mechanisms driving the synergistic
+interactions, we analyzed the draft genomes of the two strains and further
+characterized their metabolic potential. The latter analyses revealed that the
+strains had largely complementary substrate utilization patterns, with only 22
+out of 190 compounds shared. The analyses further indicated C. freundii so4 to
+primarily consume amino acids and simple sugars, with laminarin as a key
+exception. In contrast, S. multivorum w15 showed ample capacity to transform
+complex polysaccharides, including intermediates of starch degradation. Sequence 
+analyses revealed C. freundii so4 to have a genome of 4,883,214 bp, with a G + C 
+content of 52.5%, 4,554 protein-encoding genes and 86 RNA genes. S. multivorum
+w15 has a genome of 6,678,278 bp, with a G + C content of 39.7%, 5,999
+protein-encoding genes and 76 RNA genes. Genes for motility apparatuses
+(flagella, chemotaxis) were present in the genome of C. freundii so4, but absent 
+from that of S. multivorum w15. In the genome of S. multivorum w15, 348 genes had
+regions matching CAZy family enzymes and/or carbohydrate-binding modules (CBMs), 
+with 193 glycosyl hydrolase (GH) and 50 CBM domains. Remarkably, 22 domains
+matched enzymes of glycoside hydrolase family GH43, suggesting a strong
+investment in the degradation of arabinoxylan. In contrast, 130 CAZy family genes
+were found in C. freundii so4, with 61 GH and 12 CBM domains identified.
+Collectively, our results, based on both metabolic potential and genome analyses,
+revealed the two strains to harbor complementary catabolic armories, with S.
+multivorum w15 primarily attacking the WS hemicellulose and C. freundii so4 the
+cellobiose derived from cellulose, next to emerging oligo- or monosaccharides.
+Finally, C. freundii so4 may secrete secondary metabolites that S. multivorum w15
+can consume, and detoxify the system by reducing the levels of (toxic)
+by-products.
+
+Copyright © 2020 Cortes-Tolalpa, Wang, Salles and van Elsas.
+
+DOI: 10.3389/fmicb.2020.00248 
+PMCID: PMC7065263
+PMID: 32194522 
+

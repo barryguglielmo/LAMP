@@ -1,0 +1,37 @@
+
+1. J Appl Genet. 2019 Nov;60(3-4):427-430. doi: 10.1007/s13353-019-00512-z. Epub
+2019 Aug 12.
+
+Comparison of aminotransferases of three Bacillus strains Bacillus altitudinis
+W3, Bacillus velezensis SYBC H47, and Bacillus amyloliquefaciens YP6 via genome
+analysis and bioinformatics.
+
+Zhai L(1), Ren R(1), Meng D(1), Tian Q(1), Guan Z(1), Cai Y(2), Liao X(3).
+
+Author information: 
+(1)Key Laboratory of Industrial Biotechnology, Ministry of Education, School of
+Biotechnology, Jiangnan University, 1800 Lihu Road, Wuxi, 214122, Jiangsu, China.
+(2)Key Laboratory of Industrial Biotechnology, Ministry of Education, School of
+Biotechnology, Jiangnan University, 1800 Lihu Road, Wuxi, 214122, Jiangsu, China.
+yjcai@jiangnan.edu.cn.
+(3)Key Laboratory of Industrial Biotechnology, Ministry of Education, School of
+Biotechnology, Jiangnan University, 1800 Lihu Road, Wuxi, 214122, Jiangsu, China.
+13771104596@163.com.
+
+Aminotransferases have attracted considerable attention due to their
+extraordinary potential for the biosynthesis of chiral amines. Research on
+transaminase genes can facilitate their application to various fields. Herein, 89
+putative aminotransferase genes potentially encoding useful biocatalysts were
+identified in three Bacillus strains genomes by genome annotation. Enzymes
+encoded by genes ota3, ota8, otae6, otae21, otaf1, otaf8, and otaf26 belong to
+pyridoxine 5'-phosphate-dependent enzyme class IV. These seven ω-aminotransferase
+genes are highly conserved according to phylogenetic tree and bioinformatics
+analyses, as are the putative lysine catalytic residues in the corresponding
+enzymes (ω-BPTA 1-7). The enzymes may possess similar activity to
+ω-aminotransferases from Arthrobacter sp. KNK 168. The potential application of
+these novel enzymes for the synthesis of medicinal amino compounds will be
+explored in future genetic engineering studies.
+
+DOI: 10.1007/s13353-019-00512-z 
+PMID: 31407219  [Indexed for MEDLINE]
+

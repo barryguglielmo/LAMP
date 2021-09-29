@@ -1,0 +1,68 @@
+
+1. Sci Rep. 2020 Sep 21;10(1):15363. doi: 10.1038/s41598-020-72035-1.
+
+Alteration of salivary microbiome in periodontitis with or without type-2
+diabetes mellitus and metformin treatment.
+
+Sun X(1)(2)(3), Li M(1)(2), Xia L(4), Fang Z(5), Yu S(3), Gao J(3), Feng Q(6)(7),
+Yang P(8)(9).
+
+Author information: 
+(1)Department of Periodontology, School and Hospital of Stomatology, Cheeloo
+College of Medicine, Shandong University & Shandong Key Laboratory of Oral Tissue
+Regeneration & Shandong Engineering Laboratory for Dental Materials and Oral
+Tissue Regeneration, Shandong University, Jinan, Shandong, China.
+(2)Department of Human Microbiome, School and Hospital of Stomatology, Cheeloo
+College of Medicine, Shandong University & Shandong Key Laboratory of Oral Tissue
+Regeneration & Shandong Engineering Laboratory for Dental Materials and Oral
+Tissue Regeneration, Shandong University, Jinan, Shandong, China.
+(3)Department of Periodontology, Stomatologic Hospital & College, Key Laboratory 
+of Oral Diseases Research of Anhui Province, Anhui Medical University, Hefei,
+China.
+(4)Department of Endocrinology and Metabolism, The First Affiliated Hospital of
+Anhui Medical University, Hefei, China.
+(5)Department of Endocrine Disease, The First Affiliated Hospital of Anhui
+University of Chinese Medicine, Hefei, China.
+(6)Department of Periodontology, School and Hospital of Stomatology, Cheeloo
+College of Medicine, Shandong University & Shandong Key Laboratory of Oral Tissue
+Regeneration & Shandong Engineering Laboratory for Dental Materials and Oral
+Tissue Regeneration, Shandong University, Jinan, Shandong, China.
+fengqiang@sdu.edu.cn.
+(7)Department of Human Microbiome, School and Hospital of Stomatology, Cheeloo
+College of Medicine, Shandong University & Shandong Key Laboratory of Oral Tissue
+Regeneration & Shandong Engineering Laboratory for Dental Materials and Oral
+Tissue Regeneration, Shandong University, Jinan, Shandong, China.
+fengqiang@sdu.edu.cn.
+(8)Department of Periodontology, School and Hospital of Stomatology, Cheeloo
+College of Medicine, Shandong University & Shandong Key Laboratory of Oral Tissue
+Regeneration & Shandong Engineering Laboratory for Dental Materials and Oral
+Tissue Regeneration, Shandong University, Jinan, Shandong, China.
+yangps@sdu.edu.cn.
+(9)Department of Periodontology, School of Stomatology, Shandong University,
+Jinan, Shandong, China. yangps@sdu.edu.cn.
+
+We aimed to explore the effects of type-2 diabetes mellitus (T2DM) and
+hypoglycemic therapy on the salivary microbiome in periodontitis patients and
+identify the potential salivary micro-biomarker for the early warning of T2DM.
+Saliva samples were collected from healthy individuals (Health), periodontitis
+patients (P), T2DM patients, periodontitis patients with T2DM (DAP), and DAP
+patients treated with Metformin (Met). Samples were determined by16S rRNA gene
+sequencing. 29 phyla, 322 genera, and 333 species of salivary microbiome were
+annotated. Compared to the Health group, the P and DAP group showed a
+significantly higher diversity of saliva microbiota, while the T2DM and Met group
+had no significant difference in microbial abundance but showed a trend of
+increasing diversity. Other than well-known periodontitis-inducing pathogens, the
+proportion of Prevotella copri, Alloprevotella rava, and Ralstonia pickettii,
+etc. were also significantly increased in periodontitis patients with or without 
+T2DM. After effective glycemic control, the abundance of Prevotella copri,
+Alloprevotella rava, Ralstonia pickettii, etc. decreased in periodontitis
+patients with companion T2DM. The accuracies of the classification models in
+differentiating Health-vs.-P, DAP-vs.-P, and T2DM-vs.-P were 100%, 96.3%, and
+98.1%, respectively. Hypoglycemic therapy could reconstruct the saliva microbiota
+and hence improve the localized conditions of diabetes patients with
+periodontitis.
+
+DOI: 10.1038/s41598-020-72035-1 
+PMCID: PMC7506544
+PMID: 32958790 
+

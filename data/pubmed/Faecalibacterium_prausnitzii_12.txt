@@ -1,0 +1,50 @@
+
+1. Nutrients. 2020 Jul 17;12(7). pii: E2129. doi: 10.3390/nu12072129.
+
+Effect of High versus Low Dairy Consumption on the Gut Microbiome: Results of a
+Randomized, Cross-Over Study.
+
+Swarte JC(1)(2), Eelderink C(1), Douwes RM(1), Said MY(1), Hu S(2)(3), Post A(1),
+Westerhuis R(4), Bakker SJL(1), Harmsen HJM(5).
+
+Author information: 
+(1)Department of Nephrology, University Medical Center Groningen, University of
+Groningen, 9713 GZ Groningen, The Netherlands.
+(2)Department of Gastroenterology and Hepatology, University Medical Center
+Groningen, University of Groningen, 9713 GZ Groningen, The Netherlands.
+(3)Department of Genetics, University Medical Center Groningen, University of
+Groningen, 9713 GZ Groningen, The Netherlands.
+(4)Dialyses Center Groningen, 9713 GZ Groningen, The Netherlands.
+(5)Department of Medical Microbiology, University Medical Center Groningen,
+University of Groningen, 9713 GZ Groningen, The Netherlands.
+
+The influence of dairy on the gut microbiome has not been studied extensively. We
+performed a randomized cross-over study to analyze the effect of high dairy
+intake on the gut microbiome. Subjects were randomly assigned to a high-dairy
+diet (HDD) (5-6 dairy portions per day) and a low-dairy diet (LDD) (≤1 dairy
+portion per day) for 6 weeks with a washout period of 4 weeks in between both
+diets. The gut microbiome was assessed using 16S rRNA gene sequencing.
+Compositionality and functionality of the gut microbiome was assessed using
+Quantitative Insights Into Microbial Ecology (QIIME) and Phylogenetic
+Investigation of Communities by Reconstruction of Unobserved States (PICRUSt).
+Stool consistency was evaluated using the Bristol stool chart. In total, 46
+healthy overweight subjects (BMI range 25-30 kg/m2) completed both intervention
+periods. During the HDD, there was a significantly higher abundance of the genera
+Streptococcus, Leuconostoc, and Lactococcus, and the species Streptococcus
+thermophilus, Erysipelatoclostridium ramosum and Leuconostoc mesenteroides (pFDR 
+< 0.10). Furthermore, during the HDD, there was a significantly lower abundance
+of the genera Faecalibacterium and Bilophila, and the species Faecalibacterium
+prausnitzii, Clostridium aldenense, Acetivibrio ethanolgignens, Bilophila
+wadsworthia and Lactococcus lactis (pFDR < 0.10). There were eight subjects who
+became constipated during the HDD and these subjects all had a lower abundance of
+F. prausnitzii. This is the first cross-over study in which the effect of an HDD 
+compared to an LDD on the gut microbiome has been studied. An HDD led to a
+significantly different composition of the gut microbiome, with a particularly
+lower abundance of F. prausnitzii and a higher abundance of S. thermophilus.
+Constipation was observed in several subjects during the HDD. Predicted metabolic
+pathways were not significantly altered due to an HDD.
+
+DOI: 10.3390/nu12072129 
+PMCID: PMC7400927
+PMID: 32708991 
+

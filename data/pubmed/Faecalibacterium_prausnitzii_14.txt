@@ -1,0 +1,55 @@
+
+1. Iran J Microbiol. 2020 Jun;12(3):231-241.
+
+The effect of immunoregulatory bacteria on the transcriptional activity of Foxp3 
+and RORyt genes in the gut-associated lymphoid tissue with Salmonella-induced
+inflammation in the presence of vancomycin and Bacteroides fragilis.
+
+Bukina Y(1), Thyhonovska M(2), Koval M(3), Marushchak M(4), Krynytska I(4),
+Kamyshnyi A(1).
+
+Author information: 
+(1)Department of Microbiology, Virology and Immunology, Zaporizhzhya State
+Medical University, Zaporizhzhya, Ukraine.
+(2)Department of Normal Physiology, Zaporizhzhya State Medical University,
+Zaporizhzhya, Ukraine.
+(3)Department of General Chemistry, I. Horbachevsky Ternopil National Medical
+University, Ternopil, Ukraine.
+(4)Department of Functional and Laboratory Diagnostics, I. Horbachevsky Ternopil 
+National Medical University, Ternopil, Ukraine.
+
+Background and Objectives: Intestinal microbiota is involved in the development
+and maintenance of immune homeostasis. This study was conducted to investigate
+the levels of key immunoregulatory bacteria in the intestinal wall-associated
+microflora and its effect on the transcriptional activity of the Foxp3 and RORyt 
+genes in the gut-associated lymphoid tissue (GALT) of rats with
+Salmonella-induced inflammation, both untreated and treated with vancomycin and
+Bacteroides fragilis.
+Materials and Methods: To determine the levels of immunoregulatory bacteria in
+GALT of rats Q-PCR was used to identify them by species-specific 16S rDNA genes. 
+Transcriptional activity of Foxp3 and RORyt genes was determined using Q-PCR with
+reverse transcription.
+Results: In animals treated with both vancomycin and Salmonella, the levels of
+segmented filamentous bacteria (SFB) increased while Akkermansia muciniphila and 
+Faecalibacterium prausnitzii decreased. In rats that received pretreatment with
+vancomycin and then were infected with S. Enteritidis and S. Typhimurium, the
+levels of SFB increased, and the number of Bacteroides-Prevotela group, A.
+muciniphila, Clostridium spp. clusters XIV, IV, and F. prausnitzii significantly 
+decreased, decreasing Foxp3 and increasing Rorγt mRNA expression. Administration 
+of B. fragilis to animals treated with S. Enteritidis or S. Typhimurium and
+pre-treated with vancomycin caused a decrease in SFB and Rorγt mRNA levels and
+conversely, increased the numbers of the Bacteroides-Prevotela group, Clostridium
+spp. clusters XIV, IV, A. muciniphila, F. prausnitzii and Foxp3 gene expression
+in GALT.
+Conclusion: Our results suggest that the commensal microorganism B. fragilis may 
+provide a protective role against the development of experimental colitis, which 
+has to be taken into consideration for further clarification of the effective
+therapeutic strategy of inflammatory bowel diseases, irritable bowel syndrome and
+necrotising colitis.
+
+Copyright© 2020 Iranian Neuroscience Society.
+
+
+PMCID: PMC7340605
+PMID: 32685120 
+

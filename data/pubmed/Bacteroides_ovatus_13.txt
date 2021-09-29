@@ -1,0 +1,63 @@
+
+1. Microbiome. 2020 Mar 5;8(1):28. doi: 10.1186/s40168-020-00811-2.
+
+Predictable modulation of cancer treatment outcomes by the gut microbiota.
+
+Heshiki Y(1)(2), Vazquez-Uribe R(3), Li J(4)(5), Ni Y(2), Quainoo S(3), Imamovic 
+L(3), Li J(6)(7), Sørensen M(3), Chow BKC(8), Weiss GJ(9), Xu A(10)(11), Sommer
+MOA(12), Panagiotou G(13)(14)(15).
+
+Author information: 
+(1)Systems Biology & Bioinformatics Unit, Leibniz Institute for Natural Product
+Research and Infection Biology, Hans Knöll Institute, Jena, Germany.
+(2)Systems Biology and Bioinformatics Group, School of Biological Sciences,
+Faculty of Sciences, The University of Hong Kong, Hong Kong, China.
+(3)Novo Nordisk Foundation Center for Biosustainability, Technical University of 
+Denmark, 2800 Kgs., Lyngby, Denmark.
+(4)State Key Laboratory of Pharmaceutical Biotechnology, University of Hong Kong,
+Hong Kong, China.
+(5)Department of Medicine, Li Ka Shing Faculty of Medicine, University of Hong
+Kong, Hong Kong, China.
+(6)Department of Infectious Diseases and Public Health, The Jockey Club College
+of Veterinary Medicine and Life Sciences, City University of Hong Kong, Hong
+Kong, China.
+(7)School of Data Science, City University of Hong Kong, Hong Kong, China.
+(8)School of Biological Sciences, Faculty of Sciences, The University of Hong
+Kong, Hong Kong, China.
+(9)University of Arizona College of Medicine-Phoenix, Phoenix, AZ, USA.
+drglenweiss@outlook.com.
+(10)State Key Laboratory of Pharmaceutical Biotechnology, University of Hong
+Kong, Hong Kong, China. amxu@hku.hk.
+(11)Department of Medicine, Li Ka Shing Faculty of Medicine, University of Hong
+Kong, Hong Kong, China. amxu@hku.hk.
+(12)Novo Nordisk Foundation Center for Biosustainability, Technical University of
+Denmark, 2800 Kgs., Lyngby, Denmark. msom@bio.dtu.dk.
+(13)Systems Biology & Bioinformatics Unit, Leibniz Institute for Natural Product 
+Research and Infection Biology, Hans Knöll Institute, Jena, Germany.
+Gianni.Panagiotou@hki-jena.de.
+(14)Systems Biology and Bioinformatics Group, School of Biological Sciences,
+Faculty of Sciences, The University of Hong Kong, Hong Kong, China.
+Gianni.Panagiotou@hki-jena.de.
+(15)Department of Microbiology, Li Ka Shing Faculty of Medicine, The University
+of Hong Kong, Hong Kong, China. Gianni.Panagiotou@hki-jena.de.
+
+The gut microbiota has the potential to influence the efficacy of cancer therapy.
+Here, we investigated the contribution of the intestinal microbiome on treatment 
+outcomes in a heterogeneous cohort that included multiple cancer types to
+identify microbes with a global impact on immune response. Human gut metagenomic 
+analysis revealed that responder patients had significantly higher microbial
+diversity and different microbiota compositions compared to non-responders. A
+machine-learning model was developed and validated in an independent cohort to
+predict treatment outcomes based on gut microbiota composition and functional
+repertoires of responders and non-responders. Specific species, Bacteroides
+ovatus and Bacteroides xylanisolvens, were positively correlated with treatment
+outcomes. Oral gavage of these responder bacteria significantly increased the
+efficacy of erlotinib and induced the expression of CXCL9 and IFN-γ in a murine
+lung cancer model. These data suggest a predictable impact of specific
+constituents of the microbiota on tumor growth and cancer treatment outcomes with
+implications for both prognosis and therapy.
+
+DOI: 10.1186/s40168-020-00811-2 
+PMCID: PMC7059390
+PMID: 32138779 
+

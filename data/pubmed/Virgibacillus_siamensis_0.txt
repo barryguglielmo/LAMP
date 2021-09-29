@@ -1,0 +1,27 @@
+
+1. Microbiol Resour Announc. 2020 Apr 9;9(15). pii: e01542-19. doi:
+10.1128/MRA.01542-19.
+
+Whole-Genome Sequencing of Lentibacillus sp. Strain JNUCC-1, Isolated from
+Fermented Anchovy Sauce (Myeolchi Aekjeot).
+
+Byun HD(1), Hyun CG(2).
+
+Author information: 
+(1)Department of Chemistry and Cosmetics, Jeju National University, Jeju,
+Republic of Korea.
+(2)Department of Chemistry and Cosmetics, Jeju National University, Jeju,
+Republic of Korea cghyun@jejunu.ac.kr.
+
+Lentibacillus sp. strain JNUCC-1 was isolated from Korean traditionally fermented
+anchovy sauce. The 16S rRNA sequence of JNUCC-1 showed 95.2% and 95.1% similarity
+to Lentibacillus populi WD4L-1T and Virgibacillus siamensis MS3-4T, respectively,
+indicating that it is a novel species. The whole-genome sequence, which contains 
+3,687,469 bp and 3,833 genes in 3 contigs, is reported.
+
+Copyright © 2020 Byun and Hyun.
+
+DOI: 10.1128/MRA.01542-19 
+PMCID: PMC7380530
+PMID: 32273372 
+

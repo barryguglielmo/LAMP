@@ -1,0 +1,55 @@
+
+1. J Appl Microbiol. 2020 Oct 2. doi: 10.1111/jam.14875. [Epub ahead of print]
+
+Macrocyclic polyketides with siderophore mode of action from marine heterotrophic
+Shewanella algae: Prospective anti-infective leads attenuate drug-resistant
+pathogens.
+
+Chakraborty K(1), Kizhakkekalam VK(1)(2), Joy M(1).
+
+Author information: 
+(1)Marine Bioprospecting Section of Marine Biotechnology Division, Central Marine
+Fisheries Research Institute, Ernakulam North, P.B. No. 1603, Cochin, India.
+(2)Faculty of Marine Sciences, Lakeside Campus, Cochin University of Science and 
+Technology, Cochin, Kerala State, India.
+
+AIMS: Biotechnological and chemical characterization of previously undescribed
+homologous siderophore-type macrocyclic polyketides from heterotrophic Shewanella
+algae MTCC 12715 affiliated with Rhodophycean macroalga Hypnea valentiae of
+marine origin, with significant anti-infective potential against drug-resistant
+pathogens.
+METHODS AND RESULTS: The heterotrophic bacterial strain in symbiotic association 
+with intertidal macroalga H. valentiae was isolated to homogeneity in a
+culture-dependent method and screened for bioactivities by spot-over-lawn assay. 
+The bacterial organic extract was purified and characterized by extensive
+chromatographic and spectroscopic methods, respectively, and was assessed for
+antibacterial activities with disc diffusion and microtube dilution methods. The 
+macrocyclic polyketide compounds exhibited wide-spectrum of anti-infective
+potential against clinically significant vancomycin-resistant Enterococcus
+faecalis (VREfs), methicillin-resistant Staphylococcus aureus (MRSA), Pseudomonas
+aeruginosa, and Klebsiella pneumonia with minimum inhibitory concentration of
+about 1-3 µg mL-1 , insomuch as the antibiotics chloramphenicol and ampicillin
+were active at ≥ 6.25 µg mL-1 . The studied compounds unveiled Fe3+ chelating
+activity, which designated that their prospective anti-infective activities
+against the pathogens could be due to their siderophore mechanism of action. In
+support of that, the bacterium exhibited siderophore production on bioassay
+involving the cast upon culture agar plate, and the presence of siderophore
+biosynthetic gene (≈1000 bp) (MF 981936). In silico molecular modeling with
+penicillin-binding protein (PBP2a) coded by mecA genes of MRSA (docking score
+11.68-12.69 kcal mol-1 ) verified their in vitro antibacterial activities.
+Putative biosynthetic pathway of macrocyclic polyketides through stepwise
+decarboxylative condensation initiated by malonate-acyl carrier protein further
+validated their structural and molecular attributes.
+CONCLUSIONS: The studied siderophore-type macrocyclic polyketides from S. algae
+MTCC 12715 with significant anti-infective potential could be considered as
+promising candidates for pharmaceutical and biotechnological applications,
+especially against emerging multidrug-resistant pathogens.
+SIGNIFICANCE AND IMPACT OF THE STUDY: The present study exhibited the
+heterotrophic bacteria in association with intertidal macroalgae as propitious
+biological resources to biosynthesize novel antibacterial agents.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1111/jam.14875 
+PMID: 33006801 
+

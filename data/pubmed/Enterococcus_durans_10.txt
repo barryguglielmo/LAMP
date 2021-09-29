@@ -1,0 +1,45 @@
+
+1. Sci Rep. 2020 Mar 16;10(1):4774. doi: 10.1038/s41598-020-61245-2.
+
+Enterococcus durans with mosquito larvicidal toxicity against Culex
+quinquefasciatus, elucidated using a Proteomic and Metabolomic approach.
+
+Colvin D(1), Dhuri V(1), Verma H(2), Lokhande R(2), Kale A(3).
+
+Author information: 
+(1)School of Chemical Sciences, UM-DAE Centre for Excellence in Basic Sciences,
+University of Mumbai, Kalina, Santacruz -East, Mumbai, 400098, India.
+(2)Jaipur National University, Agra - Jaipur Rd, Near New RTO Office, Jagatpura, 
+Jaipur, Rajasthan, 302017, India.
+(3)School of Chemical Sciences, UM-DAE Centre for Excellence in Basic Sciences,
+University of Mumbai, Kalina, Santacruz -East, Mumbai, 400098, India.
+avinash.kale@cbs.ac.in.
+
+Various bacteria from the Bacillus species have been used as pesticides against
+mosquito larvae for more than a decade. The prolonged use of these bacterial
+species by little alteration within their genome, using various permutations and 
+combinations of mosquito-cidal toxins, has proven unsuccessful in controlling the
+mosquito population. In our current study we report Enterococcus sp. to be
+exhibiting similar kind of mosquito-cidal toxins alike those which are present in
+the mainly used Bacillus strains. Three Enterococcus species were isolated on a
+rich media selective for gram- positive bacteria from the mid-gut of dead
+mosquito larvae which were collected from the wild locations within and around
+the city of Mumbai, India. Their surface morphologies were studied by Scanning
+Electron Microscopy (SEM) and their identity was confirmed using the standard 16S
+rRNA sequencing method. Upon performing several repetitive toxicity assays of
+these three strains on the laboratory cultured third instar stage of Culex
+quinquefasciatus larvae, showed differential toxicities from a minimum of 20%
+(LC50: 59.6 CFU/ml), intermediate 35% (LC50: 48.4 CFU/ml) and a maximum of 60%
+(LC50: 35.7 CFU/ml). To justify the data in all the three similar strains of
+Enterococcus durans, we followed the differential proteomics using LCMS 6540 UHD 
+Accurate Mass QTOF and differential metabolomics approach using both LCMS 6540
+UHD Accurate Mass QTOF and 1H-NMR. The presence and significance of the obtained 
+toxins were studied to elucidate the plausible reason for showing differential
+toxicities. This work helped in identifying Enterococcus durans as a new,
+potential and alternative strain to the Bacillus species in terms of mosquito
+larvicidal toxicity against Culex quinquefasciatus.
+
+DOI: 10.1038/s41598-020-61245-2 
+PMCID: PMC7075886
+PMID: 32179781 
+

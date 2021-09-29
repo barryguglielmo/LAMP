@@ -1,0 +1,51 @@
+
+1. Iran J Basic Med Sci. 2020 Aug;23(8):1053-1058. doi:
+10.22038/ijbms.2020.44007.10318.
+
+Bioinformatics prediction and experimental validation of VH antibody fragment
+interacting with Neisseria meningitidis factor H binding protein.
+
+Rafighdoust H(1), Ahangarzadeh S(2), Yarian F(3)(4), Taheri RA(5), Lari A(6),
+Bandehpour M(3), Salahshoor Dahr M(7).
+
+Author information: 
+(1)Department of Biology, School of Basic Sciences, Science and Research Branch, 
+Islamic Azad University, Tehran, Iran.
+(2)Infectious Diseases and Tropical Medicine Research Center, Isfahan University 
+of Medical Sciences, Isfahan, Iran.
+(3)Cellular & Molecular Biology Research Center Shahid Beheshti University of
+Medical Sciences, Tehran, Iran.
+(4)Department of Biotechnology, School of Advanced Technologies in Medicine
+Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+(5)Nanobiotechnology Research Center, Baqiyatallah University of Medical
+Sciences,Tehran, Iran.
+(6)Systems Biomedicine, Pasteur Institute of Iran, Tehran, Iran.
+(7)Department of Biology, Faclty of Basic Science, Islamic Azad University
+Islamshahr Branch, Islamshahr, Iran.
+
+Objectives: We previously conducted an in silico research on the interactions
+between the ribosome display-selected single chain variable fragment (scFv) and
+factor H binding protein (fHbp) of Neisseria meningitidis. We found that heavy
+chain variable (VH) fragment of this scFv had considerable affinity to fHbp.
+These results led us to evaluate the ability of this small antibody fragment in
+binding and detection of fHbp antigen.
+Materials and Methods: In this study, at first, the three-dimensional structure
+of VH fragment was simulated by Kotai Antibody Builder web server. By using
+ClusPro 2.0 web server, the 3D structure of the soluble form of fHbp (PDB: 2KC0) 
+was docked to the modeled VH fragment to extract the structure of the complex's
+binding. Molecular dynamics (MD) simulation was carried out using GROMACS 4.5.3
+package for 65 ns. Secondly, coding sequence of VH fragment was cloned separately
+and expressed in Escherichia coli. After purification of the VH fragment, its
+binding activity to fHbp protein was analyzed by enzyme-linked immunosorbent
+assay (ELISA) and surface plasmon resonance (SPR) method.
+Results: Important amino acids involved in antigen- antibody interaction were
+identified by analyzing the fHbp-VH complex. The ability of the VH antibody
+fragment to bind and detect fHbp antigen has been confirmed by the results of in 
+silico analysis, ELISA and SPR methods.
+Conclusion: These results showed that this small fragment of antibody could be
+used for designing diagnostic kits.
+
+DOI: 10.22038/ijbms.2020.44007.10318 
+PMCID: PMC7478258
+PMID: 32952952 
+

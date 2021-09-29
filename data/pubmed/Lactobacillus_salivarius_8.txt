@@ -1,0 +1,55 @@
+
+1. Int J Food Microbiol. 2020 Aug 3;334:108804. doi:
+10.1016/j.ijfoodmicro.2020.108804. [Epub ahead of print]
+
+Role of Lactobacillus biofilms in Listeria monocytogenes adhesion to glass
+surfaces.
+
+Jara J(1), Pérez-Ramos A(2), Del Solar G(2), Rodríguez JM(3), Fernández L(1),
+Orgaz B(4).
+
+Author information: 
+(1)Department of Galenic Pharmacy and Food Technology, Veterinary Faculty,
+Complutense University of Madrid, Spain.
+(2)Department of Microorganisms and Plant Biotechnology, Biological Research
+Center, Consejo Superior de Investigaciones Científicas, Madrid, Spain.
+(3)Department of Nutrition and Food Science, Veterinary Faculty, Complutense
+University of Madrid, Spain.
+(4)Department of Galenic Pharmacy and Food Technology, Veterinary Faculty,
+Complutense University of Madrid, Spain. Electronic address: belen@ucm.es.
+
+Listeria monocytogenes can form long-lasting biofilms on food-contact surfaces.
+Lactic acid bacteria (LAB) have shown promise in antagonizing this microorganism 
+in liquid media. However, the ecological relationships differ when cells are
+forming biofilms. In this work, we propose the use of Lactobacillus biofilms as
+surface "conditioners" to modulate the adhesion of L. monocytogenes. For this,
+the biofilm formation ability of Lactobacillus fermentum MP26 and Lactobacillus
+salivarius MP14 (human milk origin), fluorescently labeled by transfer of the
+mCherry-encoding pRCR12 plasmid, was first evaluated. Then, mature biofilms of
+these strains transformed with pRCR12 for expressing the fluorescent protein
+mCherry were used as adhesion substrate for GFP-tagged L. monocytogenes Scott A. 
+The resulting biofilms were studied in terms of cellular population and attached 
+biomass (cells plus matrix). Species distribution inside the biofilm structure
+was revealed by confocal laser scanning microscopy (CLSM). Although none of the
+Lactobacillus spp. strains reduced the adhesion of L. monocytogenes Scott A,
+species interactions seem to interfere with the synthesis of extracellular
+polymeric substances and species distribution inside the biofilms. In
+dual-species biofilms, CLSM images revealed that Lactobacillus cells were
+trapping those of L. monocytogenes Scott A. When surfaces were conditioned with
+Lactobacillus biofilms, the spatial distribution of L. monocytogenes Scott A
+cells was species-specific, suggesting these interactions are governing the
+ultimate biofilm structure. The results here obtained open new possibilities for 
+controlling L. monocytogenes dispersal using these Lactobacillus spp. biofilms as
+a "natural" immobilization way. Whether species interactions could modify the
+virulence of L. monocytogenes still remains unclear.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijfoodmicro.2020.108804 
+PMID: 32818764 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

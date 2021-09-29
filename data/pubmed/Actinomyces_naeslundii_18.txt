@@ -1,0 +1,44 @@
+
+1. Microbiol Immunol. 2020 Feb;64(2):99-112. doi: 10.1111/1348-0421.12759. Epub 2019
+Dec 20.
+
+Measuring the subgingival microbiota in periodontitis patients: Comparison of the
+surface layer and the underlying layers.
+
+Liu G(1), Chen F(2), Cai Y(1), Chen Z(1), Luan Q(1), Yu X(1).
+
+Author information: 
+(1)Department of Periodontology, Peking University School and Hospital of
+Stomatology, Beijing, China.
+(2)Central Laboratory, Peking University School and Hospital of Stomatology,
+Beijing, China.
+
+Periodontitis is a major cause of tooth loss in adults that initially results
+from dental plaque. Subgingival plaque pathogenesis is affected by both community
+composition and plaque structures, although limited data are available concerning
+the latter. To bridge this knowledge gap, subgingival plaques were obtained using
+filter paper (the fourth layer) and curette (the first-third layers) sequentially
+and the phylogenetic differences between the first-third layers and the fourth
+layer were characterized by sequencing the V3-V4 regions of 16S rRNA. A total of 
+11 phyla, 148 genera, and 308 species were obtained by bioinformatic analysis,
+and no significant differences between the operational taxonomic unit numbers
+were observed for these groups. In both groups, the most abundant species were
+Porphyromonas gingivalis and Fusobacterium nucleatum. Actinomyces naeslundii,
+Streptococcus intermedius, and Prevotella intermedia possessed relatively high
+proportions in the first-third layers; while in the fourth layer, both
+traditional pathogens (Treponema denticola and Campylobacter rectus) and novel
+pathobionts (Eubacterium saphenum, Filifactor alocis, Treponema sp. HOT238) were 
+prominent. Network analysis showed that either of them exhibited a scale-free
+property and was constructed by two negatively correlated components (the
+pathogen component and the nonpathogen component), while the synergy in the
+nonpathogen component was lower in the first-third layers than that in the fourth
+layer. After merging these two parts into a whole plaque group, the
+negative/positive correlation ratio increased. With potential connections, the
+first-third layers and the fourth layer showed characteristic key nodes in
+bacterial networks.
+
+© 2019 The Societies and John Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/1348-0421.12759 
+PMID: 31793046  [Indexed for MEDLINE]
+

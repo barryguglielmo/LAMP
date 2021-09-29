@@ -1,0 +1,42 @@
+
+1. Animals (Basel). 2020 Jul 29;10(8). pii: E1299. doi: 10.3390/ani10081299.
+
+Occurrence and Molecular Characteristics of Mcr-1-Positive Escherichia coli from 
+Healthy Meat Ducks in Shandong Province of China.
+
+Liu F(1)(2), Zhang R(1)(2), Yang Y(1)(2), Li H(1)(2), Wang J(1)(2), Lan J(1)(2), 
+Li P(1), Zhu Y(1)(2), Xie Z(1)(2), Jiang S(1)(2).
+
+Author information: 
+(1)College of Veterinary Medicine, Shandong Agricultural University, Taian
+271000, China.
+(2)Shandong Provincial Key Laboratory of Animal Biotechnology and Disease Control
+and Prevention, Taian 271000, China.
+
+Colistin has been used as a growth promotant in livestock feed for many years. In
+China, mcr-1-positive Escherichia coli strains have been isolated from humans,
+chickens, and pigs. To date, there are few reports about the prevalence and
+molecular characteristics of fecal E. coli bearing mcr-1 in the meat ducks. In
+this study, the prevalence of mcr-1 gene was investigated among 120 fecal E. coli
+strains isolated from healthy meat ducks in Shandong province of China between
+October 2017 and February 2018. A total of nine mcr-1-containing E. coli strains 
+were identified and two were identified as extra-intestinal pathogenic E. coli
+(ExPEC) among them. The clonal relationship of the nine E. coli strains was
+determined by multilocus sequencing typing (MLST) and pulsed field gel
+electrophoresis (PFGE), and the results indicated that all mcr-1-carrying
+isolates were clonally unrelated. Two different genetic contexts of mcr-1 were
+identified among these isolates. Colistin-resistant phenotype of all the isolates
+was successfully transferred to the recipient strains by conjugation experiments 
+and seven transconjugants carried a single plasmid. The mcr-1 was located on
+three replicon plasmids: IncI2 (n = 4), IncFII (n = 2) and IncN (n = 1). Complete
+sequence analysis of a representative plasmid pTA9 revealed that it was
+strikingly similar with plasmid pMCR1-IncI2 of E. coli, plasmid pHNSHP45 of E.
+coli, and plasmid pWF-5-19C of Cronobacter sakazakii, implying that pTA9-like
+plasmids may be epidemic plasmids that mediate the spread of mcr-1 among
+Enterobacteriaceae. These results highlight that healthy meat duck is a potential
+reservoir for multidrug resistant mcr-1-containing E. coli strains.
+
+DOI: 10.3390/ani10081299 
+PMCID: PMC7459970
+PMID: 32751361 
+

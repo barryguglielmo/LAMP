@@ -1,0 +1,52 @@
+
+1. Clin Microbiol Infect. 2020 Sep 30. pii: S1198-743X(20)30597-8. doi:
+10.1016/j.cmi.2020.09.043. [Epub ahead of print]
+
+Comparison of clinical outcomes of patients infected with KPC- and NDM-producing 
+Enterobacterales: a retrospective cohort study.
+
+Seo H(1), Kim HJ(2), Kim MJ(1), Chong YP(1), Kim SH(1), Lee SO(1), Choi SH(1),
+Kim YS(1), Woo JH(1), Jung J(3).
+
+Author information: 
+(1)Department of Infectious Diseases, Asan Medical Center, University of Ulsan
+College of Medicine, Seoul, Republic of Korea.
+(2)Department of Clinical Epidemiology and Biostatistics, Asan Medical Center,
+University of Ulsan College of Medicine, Seoul, Republic of Korea.
+(3)Department of Infectious Diseases, Asan Medical Center, University of Ulsan
+College of Medicine, Seoul, Republic of Korea. Electronic address:
+jiwonjung@amc.seoul.kr.
+
+OBJECTIVES: We aimed to compare clinical outcomes of patients with Klebsiella
+pneumoniae carbapenemase (KPC)-producing Enterobacterales and those with
+New-Delhi-Metallo-beta-lactamase (NDM)-producing Enterobacterales.
+METHODS: We performed a retrospective cohort study of all adult patients with
+KPC- or NDM-producing Enterobacterales isolates in a 2700-bed tertiary referral
+hospital in Seoul, South Korea between 2010 and 2019. The primary outcome was
+30-day mortality after first isolation of KPC- or NDM-producing Enterobacterales.
+The secondary outcome was the development of infection within 30 days by the
+colonizing isolates, among colonized patients. We performed Cox regression
+analysis for 30-day mortality and competing risk analysis for development of
+infection.
+RESULTS: A total of 859 patients were identified during the study period; 475
+(55%) had KPC and 384 (45%) had NDM. Thirty-day mortality was significantly
+higher in the KPC group compared with the NDM group (17% [81/475] vs 9% [33/384];
+P<0.001). The KPC group developed infection within 30 days from the initial
+colonization after first isolation more frequently than the NDM group (8%
+[27/353] vs. 3% [10/295]; P=0.02). Multivariable analysis revealed that
+independent risk factors for 30-day mortality were solid cancer (adjusted hazard 
+ratio [aHR], 2.51; 95% confidence interval [CI], 1.66─3.79; P<0.001), solid organ
+transplant (aHR, 0.32; 95% CI, 0.17─0.61, P<0.001), a high APACHE II score (aHR, 
+1.11; 95% CI, 1.08─1.13, P<0.001), KPC-producing Enterobacterales (aHR, 1.69; 95%
+CI, 1.02─2.79, P=0.04), previous carbapenem use within 3 months (aHR 1.86; 95%
+CI, 1.26─2.75, P<0.001) and site of KPC- or NDM-producing Enterobacterales
+infection at the time of the first culture (P<0.001).
+CONCLUSIONS: Our study suggests that KPC-producing Enterobacterales is
+significantly associated with poorer outcomes compared with NDM-producing
+Enterobacterales.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.cmi.2020.09.043 
+PMID: 33010443 
+

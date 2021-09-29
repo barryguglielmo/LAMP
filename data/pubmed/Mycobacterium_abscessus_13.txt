@@ -1,0 +1,46 @@
+
+1. Int J Mol Sci. 2020 Sep 9;21(18). pii: E6590. doi: 10.3390/ijms21186590.
+
+A New Model of Chronic Mycobacterium abscessus Lung Infection in Immunocompetent 
+Mice.
+
+Riva C(1), Tortoli E(1), Cugnata F(2), Sanvito F(3), Esposito A(4)(5), Rossi
+M(1), Colarieti A(4), Canu T(4), Cigana C(6), Bragonzi A(6), Loré NI(1), Miotto
+P(1), Cirillo DM(1).
+
+Author information: 
+(1)Emerging Bacterial Pathogens Unit, Division of Immunology, Transplantation and
+Infectious Diseases, IRCCS San Raffaele Scientific Institute, 20132 Milan, Italy.
+(2)Centre of Statistics for Biomedical Sciences (CUSSB), Vita-Salute San Raffaele
+University, 20132 Milan, Italy.
+(3)Pathology Unit, Department of Experimental Oncology, IRCCS San Raffaele
+Scientific Institute, 20132 Milan, Italy.
+(4)Preclinical Imaging Facility, Experimental Imaging Center, IRCCS San Raffaele 
+Scientific Institute, 20132 Milan, Italy.
+(5)School of Medicine, Vita-Salute San Raffaele University, 20132 Milan, Italy.
+(6)Infections and Cystic Fibrosis Unit, Division of Immunology, Transplantation
+and Infectious Diseases, IRCCS San Raffaele Scientific Institute, 20132 Milan,
+Italy.
+
+Pulmonary infections caused by Mycobacterium abscessus (MA) have increased over
+recent decades, affecting individuals with underlying pathologies such as chronic
+obstructive pulmonary disease, bronchiectasis and, especially, cystic fibrosis.
+The lack of a representative and standardized model of chronic infection in mice 
+has limited steps forward in the field of MA pulmonary infection. To overcome
+this challenge, we refined the method of agar beads to establish MA chronic
+infection in immunocompetent mice. We evaluated bacterial count, lung pathology
+and markers of inflammation and we performed longitudinal studies with magnetic
+resonance imaging (MRI) up to three months after MA infection. In this model, MA 
+was able to establish a persistent lung infection for up to two months and with
+minimal systemic spread. Lung histopathological analysis revealed granulomatous
+inflammation around bronchi characterized by the presence of lymphocytes,
+aggregates of vacuolated histiocytes and a few neutrophils, mimicking the damage 
+observed in humans. Furthermore, MA lung lesions were successfully monitored for 
+the first time by MRI. The availability of this murine model and the introduction
+of the successfully longitudinal monitoring of the murine lung lesions with MRI
+pave the way for further investigations on the impact of MA pathogenesis and the 
+efficacy of novel treatments.
+
+DOI: 10.3390/ijms21186590 
+PMID: 32916885 
+

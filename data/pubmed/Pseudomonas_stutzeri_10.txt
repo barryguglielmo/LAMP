@@ -1,0 +1,42 @@
+
+1. Sci Rep. 2020 Jul 23;10(1):12287. doi: 10.1038/s41598-020-69292-5.
+
+Carbon steel corrosion by bacteria from failed seal rings at an offshore
+facility.
+
+Salgar-Chaparro SJ(1), Darwin A(2), Kaksonen AH(3), Machuca LL(4).
+
+Author information: 
+(1)Curtin Corrosion Centre, WA School of Mines: Minerals, Energy and Chemical
+Engineering, Curtin University, Kent Street, Bentley, WA, 6102, Australia.
+(2)Woodside Energy Ltd., Perth, WA, 6000, Australia.
+(3)Commonwealth Scientific and Industrial Research Organization (CSIRO), Land and
+Water, 147 Underwood Avenue, Floreat, WA, 6014, Australia.
+(4)Curtin Corrosion Centre, WA School of Mines: Minerals, Energy and Chemical
+Engineering, Curtin University, Kent Street, Bentley, WA, 6102, Australia.
+l.machuca2@curtin.edu.au.
+
+Corrosion of carbon steel by microorganisms recovered from corroded seal rings at
+an offshore floating production facility was investigated. Microbial diversity
+profiling revealed that communities in all sampled seal rings were dominated by
+Pseudomonas genus. Nine bacterial species, Pseudomonas aeruginosa CCC-IOB1,
+Pseudomonas balearica CCC-IOB3, Pseudomonas stutzeri CCC-IOB10, Citrobacter
+youngae CCC-IOB9, Petrotoga mobilis CCC-SPP15, Enterobacter roggenkampii
+CCC-SPP14, Enterobacter cloacae CCC-APB1, Cronobacter sakazakii CCC-APB3, and
+Shewanella chilikensis CCC-APB5 were isolated from corrosion products and
+identified based on 16S rRNA gene sequence. Corrosion rates induced by the
+individual isolates were evaluated in artificial seawater using short term
+immersion experiments at 40 °C under anaerobic conditions. P. balearica, E.
+roggenkampii, and S. chilikensis, which have not been associated with
+microbiologically influenced corrosion before, were further investigated at
+longer exposure times to better understand their effects on corrosion of carbon
+steel, using a combination of microbiological and surface analysis techniques.
+The results demonstrated that all bacterial isolates triggered general and
+localised corrosion of carbon steel. Differences observed in the surface
+deterioration pattern by the different bacterial isolates indicated variations in
+the corrosion reactions and mechanisms promoted by each isolate.
+
+DOI: 10.1038/s41598-020-69292-5 
+PMCID: PMC7378185
+PMID: 32703991 
+

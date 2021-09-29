@@ -1,0 +1,41 @@
+
+1. Anim Biotechnol. 2020 Sep 28:1-8. doi: 10.1080/10495398.2020.1823400. [Epub ahead
+of print]
+
+Association of genetic variability in CD209 gene with bovine paratuberculosis
+disease: a case-control study in the Indian cattle population.
+
+Kumar S(1)(2), Kumar S(1), Singh RV(1), Chauhan A(1), Kumar A(1), Bharati J(3),
+Singh SV(4).
+
+Author information: 
+(1)Division of Animal Genetics and Breeding, ICAR Indian Veterinary Research
+Institute, Bareilly, India.
+(2)Animal Genetics and Breeding, ICAR National Research Centre on Pig, Guwahati, 
+India.
+(3)Animal Physiology, ICAR National Research Centre on Pig, Guwahati, India.
+(4)Department of Biotechnology, GLA university, Mathura, India.
+
+This study aimed to explore the association of single nucleotide polymorphisms
+(SNPs) in CD209 gene with the occurrence of bovine paratuberculosis (PTB) disease
+caused by Mycobacterium avium subspecies paratuberculosis (MAP) in Indian cattle.
+A total of 213 animals were preliminarily selected on the basis of physical body 
+condition score, which was then screened by a panel of diagnostic tests viz.
+Johnin, ELISA, fecal microscopy, and fecal culture, for the establishment of a
+case-control resource population. A total of four SNPs viz. rs208222804,
+rs211654540, rs208814257, and rs210748127 in CD209 gene were genotyped by
+PCR-RFLP. All SNPs, except rs210748127, were polymorphic in our population.
+Genotypic-phenotypic associations were assessed by the PROCLOGISTIC procedure of 
+SAS 9.3. The SNP rs208814257 yielded three genotypes viz. CC, CG, and GG, which
+were significantly (p < 0.05) different in case as compared to the control
+population. The odds of CC and CG in comparison to GG genotype were 1.21 and
+0.40, respectively. The CG genotype was significantly higher in control
+population, indicating that this genotype may provide resistance against PTB in
+our resource population. Upon validation in an independent, larger test
+population and following biological characterization, SNP rs208814257 can be
+incorporated in marker panel for selection of animals with greater resistance to 
+MAP infection.
+
+DOI: 10.1080/10495398.2020.1823400 
+PMID: 32985930 
+

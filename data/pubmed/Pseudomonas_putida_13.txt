@@ -1,0 +1,60 @@
+
+1. Metab Eng Commun. 2020 Aug 29;11:e00143. doi: 10.1016/j.mec.2020.e00143.
+eCollection 2020 Dec.
+
+Adaptive laboratory evolution of Pseudomonas putida KT2440 improves p-coumaric
+and ferulic acid catabolism and tolerance.
+
+Mohamed ET(1), Werner AZ(2)(3), Salvachúa D(2), Singer CA(2), Szostkiewicz K(2), 
+Rafael Jiménez-Díaz M(4)(5), Eng T(4)(5), Radi MS(1), Simmons BA(4)(5),
+Mukhopadhyay A(4)(5), Herrgård MJ(1), Singer SW(4)(5), Beckham GT(2)(3), Feist
+AM(1)(4)(6).
+
+Author information: 
+(1)Novo Nordisk Foundation Center for Biosustainability, Technical University of 
+Denmark, Lyngby, Denmark.
+(2)Renewable Resources and Enabling Sciences Center, National Renewable Energy
+Laboratory, Golden, CO, USA.
+(3)Center for Bioenergy Innovation, Oak Ridge, TN, USA.
+(4)Joint BioEnergy Institute, Emeryville, CA, USA.
+(5)Biological Systems and Engineering Division, Lawrence Berkeley National
+Laboratory, Berkeley, CA, USA.
+(6)Department of Bioengineering, University of California, San Diego, CA, USA.
+
+Pseudomonas putida KT2440 is a promising bacterial chassis for the conversion of 
+lignin-derived aromatic compound mixtures to biofuels and bioproducts. Despite
+the inherent robustness of this strain, further improvements to aromatic
+catabolism and toxicity tolerance of P. putida will be required to achieve
+industrial relevance. Here, tolerance adaptive laboratory evolution (TALE) was
+employed with increasing concentrations of the hydroxycinnamic acids p-coumaric
+acid (pCA) and ferulic acid (FA) individually and in combination (pCA ​+ ​FA).
+The TALE experiments led to evolved P. putida strains with increased tolerance to
+the targeted acids as compared to wild type. Specifically, a 37 ​h decrease in
+lag phase in 20 ​g/L pCA and a 2.4-fold increase in growth rate in 30 ​g/L FA was
+observed. Whole genome sequencing of intermediate and endpoint evolved P. putida 
+populations revealed several expected and non-intuitive genetic targets
+underlying these aromatic catabolic and toxicity tolerance enhancements. PP_3350 
+and ttgB were among the most frequently mutated genes, and the beneficial
+contributions of these mutations were verified via gene knockouts. Deletion of
+PP_3350, encoding a hypothetical protein, recapitulated improved toxicity
+tolerance to high concentrations of pCA, but not an improved growth rate in high 
+concentrations of FA. Deletion of ttgB, part of the TtgABC efflux pump, severely 
+inhibited growth in pCA ​+ ​FA TALE-derived strains but did not affect growth in 
+pCA ​+ ​FA in a wild type background, suggesting epistatic interactions. Genes
+involved in flagellar movement and transcriptional regulation were often mutated 
+in the TALE experiments on multiple substrates, reinforcing ideas of a minimal
+and deregulated cell as optimal for domesticated growth. Overall, this work
+demonstrates increased tolerance towards and growth rate at the expense of
+hydroxycinnamic acids and presents new targets for improving P. putida for
+microbial lignin valorization.
+
+© 2020 The Author(s).
+
+DOI: 10.1016/j.mec.2020.e00143 
+PMCID: PMC7490845
+PMID: 32963959 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

@@ -1,0 +1,76 @@
+
+1. Br J Surg. 2020 Sep 30. doi: 10.1002/bjs.12003. [Epub ahead of print]
+
+Influence of Klebsiella pneumoniae and quinolone treatment on prognosis in
+patients with pancreatic cancer.
+
+Weniger M(1)(2), Hank T(1), Qadan M(1), Ciprani D(1), Michelakos T(1), Niess
+H(2), Heiliger C(2), Ilmer M(2), D'Haese JG(2), Ferrone CR(1), Warshaw AL(1),
+Lillemoe KD(1), Werner J(2), Liss A(1), Fernández-Del Castillo C(1).
+
+Author information: 
+(1)Department of Surgery, Massachusetts General Hospital and Harvard Medical
+School, Boston, Massachusetts, USA.
+(2)Department of General, Visceral and Transplantation Surgery,
+Ludwig-Maximilians-University, Munich, Germany.
+
+BACKGROUND: An increasing body of evidence suggests that microbiota may promote
+progression of pancreatic ductal adenocarcinoma (PDAC). It was hypothesized that 
+gammaproteobacteria (such as Klebsiella pneumoniae) influence survival in PDAC,
+and that quinolone treatment may attenuate this effect.
+METHODS: This was a retrospective study of patients from the Massachusetts
+General Hospital (USA) and Ludwig-Maximilians-University (Germany) who underwent 
+preoperative treatment and pancreatoduodenectomy for locally advanced or
+borderline resectable PDAC between January 2007 and December 2017, and for whom a
+bile culture was available. Associations between tumour characteristics, survival
+data, antibiotic use and results of intraoperative bile cultures were
+investigated. Survival was analysed using Kaplan-Meier curves and Cox regression 
+analysis.
+RESULTS: Analysis of a total of 211 patients revealed that an increasing number
+of pathogen species found in intraoperative bile cultures was associated with a
+decrease in progression-free survival (PFS) (-1·9 (95 per cent c.i. -3·3 to -0·5)
+months per species; P = 0·009). Adjuvant treatment with gemcitabine improved PFS 
+in patients who were negative for K. pneumoniae (26·2 versus 15·3 months;
+P = 0·039), but not in those who tested positive (19·5 versus 13·2 months;
+P = 0·137). Quinolone treatment was associated with improved median overall
+survival (OS) independent of K. pneumoniae status (48·8 versus 26·2 months;
+P = 0·006) and among those who tested positive for K. pneumoniae (median not
+reached versus 18·8 months; P = 0·028). Patients with quinolone-resistant K.
+pneumoniae had shorter PFS than those with quinolone-sensitive K. pneumoniae (9·1
+versus 18·8 months; P = 0·001).
+CONCLUSION: K. pneumoniae may promote chemoresistance to adjuvant gemcitabine,
+and quinolone treatment is associated with improved survival.
+
+Publisher: Cada vez hay más evidencia que sugiere que la microbiota puede
+favorecer la progresión del adenocarcinoma ductal del páncreas (pancreatic ductal
+adenocarcinoma, PDAC). Se estableció la hipótesis de que las gammaproteobacterias
+(p.ej. Klebsiella pneumoniae) podían afectar la supervivencia del PDAC y que el
+tratamiento con quinolonas podría atenuar dicho efecto. MÉTODOS: Se llevó a cabo 
+un estudio retrospectivo de pacientes del Massachusetts General Hospital (EE.UU.)
+y de Ludwig-Maximilians-University (Alemania) que fueron tratados
+preoperatoriamente y sometidos a duodenopancreatectomía por PDAC localmente
+avanzado o en los límites de la resecabilidad (01/2007-12/2017) y para los cuales
+se disponía de cultivos biliares. Se correlacionaron las características del
+tumor, datos de supervivencia, uso de antibióticos y resultados de los cultivos
+biliares intraoperatorios. La supervivencia se analizó mediante curvas de
+Kaplan-Mier y regresión de Cox.El análisis de un total de 211 pacientes puso de
+manifiesto que un número creciente de especies patógenas aisladas en los cultivos
+biliares intraoperatorios se asociaba con una disminución de la supervivencia
+libre de progresión (progression-free survival, PFS) (-1,9 meses/especies, i.c.
+del 95% -3,3 a -0,5 meses, P = 0,009). El tratamiento adyuvante con gemcitabina
+aumentó la PFS en los pacientes K. pneumoniae negativos (26,2 versus 15,3 meses, 
+P = 0,039), pero no en los pacientes K. pneumoniae positivos (19,5 versus 13,2
+meses, P = 0,137). El tratamiento con quinolonas se asoció con una mejoría de la 
+mediana de la supervivencia global, independientemente del estado de la K.
+pneumoniae (48,8 versus 26,2 meses, P = 0,006), así como en los pacientes K.
+pneumoniae positivos (mediana no alcanzada versus 18,8 meses, P = 0,028). Los
+pacientes con K. pneumoniae resistente a las quinolonas presentaron una PFS más
+corta que los pacientes con K. pneumoniae sensible a las quinolonas (9,1 versus
+18,8 meses, P = 0,001). CONCLUSIÓN: K. pneumoniae puede favorecer
+quimiorresistencia al tratamiento adyuvante con gemcitabina y el tratamiento con 
+quinolonas se asocia con una mejoría de la supervivencia.
+© 2020 BJS Society Ltd.
+
+DOI: 10.1002/bjs.12003 
+PMID: 32996598 
+

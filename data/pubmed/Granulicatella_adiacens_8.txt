@@ -1,0 +1,57 @@
+
+1. BMC Pulm Med. 2019 Dec 23;19(1):260. doi: 10.1186/s12890-019-1021-5.
+
+Dynamics of microbiota during mechanical ventilation in aspiration pneumonia.
+
+Otsuji K(1)(2), Fukuda K(3), Ogawa M(3), Fujino Y(4), Kamochi M(5), Saito M(3).
+
+Author information: 
+(1)Department of Microbiology, School of Medicine, University of Occupational and
+Environmental Health, Japan, Kitakyushu, Japan. otsujiken@clnc.uoeh-u.ac.jp.
+(2)Department of Intensive Care Medicine, Hospital of the University of
+Occupational and Environmental Health, Japan, Kitakyushu, Japan.
+otsujiken@clnc.uoeh-u.ac.jp.
+(3)Department of Microbiology, School of Medicine, University of Occupational and
+Environmental Health, Japan, Kitakyushu, Japan.
+(4)Department of Environmental Epidemiology, Institute of Industrial Ecological
+Sciences, University of Occupational and Environmental Health, Japan, Kitakyushu,
+Japan.
+(5)Department of Intensive Care Medicine, Hospital of the University of
+Occupational and Environmental Health, Japan, Kitakyushu, Japan.
+
+BACKGROUND: The emergence of multi-drug resistant pathogens is an urgent
+health-related problem, and the appropriate use of antibiotics is imperative. It 
+is often difficult to identify the causative bacteria in patients with aspiration
+pneumonia because tracheal aspirate contains contaminants of oral bacteria. We
+investigated the dynamics of microbiota in mechanically ventilated patients with 
+aspiration pneumonia to develop a treatment strategy.
+METHODS: Twenty-two intubated patients with aspiration pneumonia were recruited. 
+Saliva and tracheal aspirate of the subjects were collected at three time points:
+(A) within 2 h after intubation, (B) just before administration of antibiotics,
+and (C) 48-72 h after administration of antibiotics. The microbiota in each
+specimen was analyzed by using the 16S rRNA gene clone library sequencing method.
+Bacterial floras of the samples were analyzed by principal component analysis.
+RESULTS: Principal component analysis based on the composition of genus revealed 
+that although the changes of microbiota in the saliva from (A) to (B) were not
+clear, the composition of anaerobes in the tracheal aspirate (B) was lower than
+(A). In fact, the reduction of anaerobes, not in the saliva but in the tracheal
+aspirate from (A) to (B), was confirmed by incident rate ratios estimated by a
+multilevel Poisson regression model (p < 0.001). The extent of decrease in
+anaerobes was fully dependent on the time difference between the sampling of
+tracheal aspirate (A) and (B)-in particular, over 3 h of mechanical ventilation. 
+This indicates that the alterations of microbiota (involving the reduction of
+anaerobes in the lower respiratory tract) occurred during mechanical ventilation 
+prior to the administration of antibiotics. After the administration of
+antibiotics, Enterobacter spp., Corynebacterium spp., Pseudomonas aeruginosa,
+Klebsiella pneumoniae, Staphylococcus aureus, and Granulicatera adiacens were
+predominantly detected in the tracheal aspirate (C).
+CONCLUSION: The microbiota of the lower respiratory tract changes dynamically
+during mechanical ventilation and during the administration of antibiotics in
+intubated patients with aspiration pneumonia. Antibiotics should be selected on
+the premise that dynamic changes in microbiota (involved in the reduction of
+anaerobes) may occur during the mechanical ventilation in these patients.
+
+DOI: 10.1186/s12890-019-1021-5 
+PMCID: PMC6929358
+PMID: 31870355  [Indexed for MEDLINE]
+

@@ -1,0 +1,54 @@
+
+1. Fish Shellfish Immunol. 2020 Mar;98:699-709. doi: 10.1016/j.fsi.2019.11.007. Epub
+2019 Nov 11.
+
+Identification and characterization of a novel galectin from the mud crab Scylla 
+paramamosain.
+
+Zhang Z(1), Zhang W(2), Mu C(3), Li R(4), Song W(4), Ye Y(4), Shi C(4), Liu L(4),
+Wang H(4), Wang C(5).
+
+Author information: 
+(1)Key Laboratory of Applied Marine Biotechnology, Ministry of Education, Ningbo 
+University, Ningbo, 315211, China; Collaborative Innovation Center for Zhejiang
+Marine High-efficiency and Healthy Aquaculture, Ningbo, 315211, China.
+(2)Collaborative Innovation Center for Zhejiang Marine High-efficiency and
+Healthy Aquaculture, Ningbo, 315211, China.
+(3)Key Laboratory of Applied Marine Biotechnology, Ministry of Education, Ningbo 
+University, Ningbo, 315211, China. Electronic address: muchangkao@nbu.edu.cn.
+(4)Key Laboratory of Applied Marine Biotechnology, Ministry of Education, Ningbo 
+University, Ningbo, 315211, China.
+(5)Key Laboratory of Applied Marine Biotechnology, Ministry of Education, Ningbo 
+University, Ningbo, 315211, China. Electronic address: wangchunlin@nbu.edu.cn.
+
+Galectins are a family of β-galactoside-binding lectins that play key roles in
+the invertebrate innate immunity system, but no galectin genes have been
+identified in the mud crab (Scylla paramamosain) so far. The present study is the
+first to clone a galectin gene (SpGal) from S. paramamosain, by the rapid
+amplification of cDNA ends technique based on expressed sequence tags. The
+full-length cDNA of SpGal was 3142 bp. Its open reading frame encoded a
+polypeptide of 280 amino acids containing a GLECT/Gal-bind lectin domain and a
+potential N-glycosylation site. The deduced amino acid sequence and multi-domain 
+organization of SpGal were highly similar to those of invertebrate galectins, and
+phylogenetic analysis showed that SpGal was closely related to galectin isolated 
+from Portunus trituberculatus. The mRNA transcripts of SpGal were found to be
+constitutively expressed in a wide range of tissues, with its expression level
+being higher in the hepatopancreas, gill, and hemocytes. The mRNA expression
+level of SpGal increased rapidly after the crabs were stimulated by Vibrio
+alginolyticus, and the maximum expression appeared at 6 h after the challenge.
+The lipopolysaccharide-binding ability of SpGal was dependent on its
+concentration, and it also exhibited agglutination activity with three
+Gram-negative (Aeromonas hydrophila, Chryseobacterium indologenes and Vibrio
+alginolyticus) and three Gram-positive (Bacillus aquimaris, Staphylococcus aureus
+and Micrococcus lysodeik) bacterial strains. In addition, hemagglutination
+activity with rabbit erythrocytes was observed in the absence of d-galactose.
+These results indicate that SpGal in S. paramamosain acts as a pattern
+recognition receptor to recognize a broad spectrum of microbes. The findings
+together indicate that SpGal plays an important role in the innate immune
+mechanisms of S. paramamosain against pathogenic infection.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fsi.2019.11.007 
+PMID: 31726099 
+

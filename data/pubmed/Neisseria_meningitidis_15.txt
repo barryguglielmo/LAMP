@@ -1,0 +1,49 @@
+
+1. J Clin Microbiol. 2020 Sep 16. pii: JCM.01780-20. doi: 10.1128/JCM.01780-20.
+[Epub ahead of print]
+
+Full Molecular Typing of Neisseria meningitidis Directly from Clinical Specimens 
+for Outbreak Investigation.
+
+Itsko M(1), Retchless AC(1), Joseph SJ(2), Turner AN(2), Bazan JA(2)(3), Sadji
+AY(4), Ouédraogo-Traoré R(5), Wang X(6).
+
+Author information: 
+(1)WDS Inc., Contractor to Centers for Disease Control and Prevention Centers for
+Disease Control and Prevention 1600 Clifton Road, Atlanta, GA, 30033, USA.
+(2)IHRC Inc., Contractor to Centers for Disease Control and Prevention Division
+of Infectious Diseases, The Ohio State University College of Medicine, Columbus, 
+OH, USA.
+(3)Sexual Health Clinic, Columbus Public Health, Columbus, OH, USA.
+(4)Ministère de la Santé et de la Protection Sociale du Togo, Lomé, Togo.
+(5)Ministère de la Santé du Burkina Faso, Ouagadougou, Burkina Faso.
+(6)WDS Inc., Contractor to Centers for Disease Control and Prevention Centers for
+Disease Control and Prevention 1600 Clifton Road, Atlanta, GA, 30033, USA
+gqe8@cdc.gov.
+
+Neisseria meningitidis (Nm) is a leading cause of bacterial meningitis and sepsis
+worldwide and an occasional cause of meningococcal urethritis. When isolates are 
+unavailable for surveillance or outbreak investigations, molecular
+characterization of pathogens needs to be performed directly from clinical
+specimens such as cerebrospinal fluid (CSF), blood, or urine. However, genome
+sequencing of specimens is challenging because of low bacterial and high human
+DNA abundances. We developed selective whole genome amplification (SWGA), an
+isothermal multiple displacement amplification-based method, to efficiently
+enrich, sequence and de novo assemble Nm DNA from clinical specimens with low
+bacterial loads. SWGA was validated with 12 CSF specimens from invasive
+meningococcal disease cases and 12 urine specimens from meningococcal urethritis 
+cases. SWGA increased the mean proportion of Nm reads by 2-3 orders of magnitude 
+enabling identification of at least 90% of the 1605 Nm core genome loci for 50%
+of the specimens. The validated method was used to investigate two meningitis
+outbreaks recently reported in Togo and Burkina Faso. Twenty-seven specimens with
+low bacterial load were processed by SWGA before sequencing and 12 of 27 were
+successfully assembled to obtain the full molecular typing and vaccine antigen
+profile of the Nm pathogen, therefore enabling thorough characterization of
+outbreaks. This method is particularly important for enhancing molecular
+surveillance in regions with low culture rate. SWGA produces enough reads for
+phylogenetic and allelic analysis with a low cost. More importantly, the
+procedure can be extended to enrich other important human bacterial pathogens.
+
+DOI: 10.1128/JCM.01780-20 
+PMID: 32938738 
+

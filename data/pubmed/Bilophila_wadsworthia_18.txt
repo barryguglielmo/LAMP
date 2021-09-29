@@ -1,0 +1,76 @@
+
+1. BMC Biol. 2020 Jun 9;18(1):62. doi: 10.1186/s12915-020-00775-7.
+
+Parkinson's disease-associated alterations of the gut microbiome predict
+disease-relevant changes in metabolic functions.
+
+Baldini F(1), Hertel J(2)(3), Sandt E(4), Thinnes CC(2), Neuberger-Castillo L(4),
+Pavelka L(1)(5), Betsou F(4), Krüger R(1)(5)(6), Thiele I(7)(8)(9)(10); NCER-PD
+Consortium.
+
+Collaborators: Aguayo G, Allen D, Ammerlann W, Aurich M, Balling R, Banda P,
+Beaumont K, Becker R, Berg D, Binck S, Bisdorff A, Bobbili D, Brockmann K, Calmes
+J, Castillo L, Diederich N, Dondelinger R, Esteves D, Ferrand JY, Fleming R,
+Gantenbein M, Gasser T, Gawron P, Geffers L, Giarmana V, Glaab E, Gomes CPC,
+Goncharenko N, Graas J, Graziano M, Groues V, Grünewald A, Gu W, Hammot G, Hanff 
+AM, Hansen L, Hansen M, Haraldsdöttir H, Heirendt L, Herbrink S, Herzinger S,
+Heymann M, Hiller K, Hipp G, Hu M, Huiart L, Hundt A, Jacoby N, Jarosław J, Jaroz
+Y, Kolber P, Kutzera J, Landoulsi Z, Larue C, Lentz R, Liepelt I, Liszka R,
+Longhino L, Lorentz V, Mackay C, Maetzler W, Marcus K, Marques G, Martens J,
+Mathay C, Matyjaszczyk P, May P, Meisch F, Menster M, Minelli M, Mittelbronn M,
+Mollenhauer B, Mommaerts K, Moreno C, Mühlschlegel F, Nati R, Nehrbass U, Nickels
+S, Nicolai B, Nicolay JP, Noronha A, Oertel W, Ostaszewski M, Pachchek S, Pauly
+C, Perquin M, Reiter D, Rosety I, Rump K, Satagopam V, Schlesser M, Schmitz S,
+Schmitz S, Schneider R, Schwamborn J, Schweicher A, Simons J, Stute L, Trefois C,
+Trezzi JP, Vaillant M, Vasco D, Vyas M, Wade-Martins R, Wilmes P.
+
+Author information: 
+(1)Luxembourg Centre for Systems Biomedicine (LCSB), University of Luxembourg,
+Campus Belval, Esch-sur-Alzette, Luxembourg.
+(2)School of Medicine, National University of Ireland, Galway, Ireland.
+(3)Department of Psychiatry and Psychotherapy, University Medicine Greifswald,
+Greifswald, Germany.
+(4)Integrated BioBank of Luxembourg, Dudelange, Luxembourg.
+(5)Parkinson Research Clinic, Centre Hospitalier de Luxembourg (CHL), Luxembourg 
+City, Luxembourg.
+(6)Transversal Translational Medicine, Luxembourg Institute of Health (LIH),
+Strassen, Luxembourg.
+(7)Luxembourg Centre for Systems Biomedicine (LCSB), University of Luxembourg,
+Campus Belval, Esch-sur-Alzette, Luxembourg. ines.thiele@nuigalway.ie.
+(8)School of Medicine, National University of Ireland, Galway, Ireland.
+ines.thiele@nuigalway.ie.
+(9)Discipline of Microbiology, School of Natural Sciences, National University of
+Ireland, Galway, Ireland. ines.thiele@nuigalway.ie.
+(10)APC Microbiome, Cork, Ireland. ines.thiele@nuigalway.ie.
+
+BACKGROUND: Parkinson's disease (PD) is a systemic disease clinically defined by 
+the degeneration of dopaminergic neurons in the brain. While alterations in the
+gut microbiome composition have been reported in PD, their functional
+consequences remain unclear. Herein, we addressed this question by an analysis of
+stool samples from the Luxembourg Parkinson's Study (n = 147 typical PD cases,
+n = 162 controls).
+RESULTS: All individuals underwent detailed clinical assessment, including
+neurological examinations and neuropsychological tests followed by self-reporting
+questionnaires. Stool samples from these individuals were first analysed by 16S
+rRNA gene sequencing. Second, we predicted the potential secretion for 129
+microbial metabolites through personalised metabolic modelling using the
+microbiome data and genome-scale metabolic reconstructions of human gut microbes.
+Our key results include the following. Eight genera and seven species changed
+significantly in their relative abundances between PD patients and healthy
+controls. PD-associated microbial patterns statistically depended on sex, age,
+BMI, and constipation. Particularly, the relative abundances of Bilophila and
+Paraprevotella were significantly associated with the Hoehn and Yahr staging
+after controlling for the disease duration. Furthermore, personalised metabolic
+modelling of the gut microbiomes revealed PD-associated metabolic patterns in the
+predicted secretion potential of nine microbial metabolites in PD, including
+increased methionine and cysteinylglycine. The predicted microbial pantothenic
+acid production potential was linked to the presence of specific non-motor
+symptoms.
+CONCLUSION: Our results suggest that PD-associated alterations of the gut
+microbiome can translate into substantial functional differences affecting host
+metabolism and disease phenotype.
+
+DOI: 10.1186/s12915-020-00775-7 
+PMCID: PMC7285525
+PMID: 32517799 
+

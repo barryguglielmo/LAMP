@@ -1,0 +1,55 @@
+
+1. JDR Clin Trans Res. 2020 Jul 20:2380084420940623. doi: 10.1177/2380084420940623. 
+[Epub ahead of print]
+
+Characterizing Microbiota from Sjögren's Syndrome Patients.
+
+Singh M(1), Teles F(2)(3), Uzel NG(4), Papas A(1).
+
+Author information: 
+(1)Division of Oral Medicine, School of Dental Medicine, Tufts University,
+Boston, MA, USA.
+(2)Department of Basic and Translational Sciences, University of Pennsylvania,
+School of Dental Medicine, Philadelphia, PA, USA.
+(3)Center for Innovation & Precision Dentistry, School of Engineering and Applied
+Sciences, University of Pennsylvania, School of Dental Medicine, Philadelphia,
+Pennsylvania, USA.
+(4)Department of Periodontology, School of Dental Medicine, Tufts University,
+Boston, MA, USA.
+
+OBJECTIVE: To compare the oral microbiota of Sjögren's syndrome (SS) with that of
+healthy subjects (HS).
+METHODS: Supragingival and subgingival biofilm samples were collected from the
+mesial-buccal tooth surfaces of SS patients (n = 57) and age- and sex-matched HS 
+(n = 53). Unstimulated saliva and 8 oral tissue samples were taken using a buccal
+brush. Caries and periodontal measures were recorded. All supragingival samples
+and a subgroup of 24 SS and 28 HS subgingival samples, as well as 32 SS and 11 HS
+saliva and oral tissue samples, were analyzed for their content of 41 bacterial
+species using checkerboard DNA-DNA hybridization. Mean levels (×105 ± SEM) and
+percentage of DNA probe counts of each species were determined for each sample
+site and averaged within subjects in the 2 clinical groups. Kruskal-Wallis tests,
+adjusting for multiple comparisons and cluster analysis, were used for soft
+tissue and microbial analysis, and the Mann-Whitney test was used to compare
+caries and periodontal measures.
+RESULTS: Mean (×105 ± SEM) total DNA probe counts in supragingival samples were
+significantly lower (P < 0.001) in the SS (13.3 ± .7) compared to the HS (44.1 ± 
+6.8) group. In supragingival samples, Veillonella parvula, Fusobacterium
+nucleatum ss vincenti, and Propionibacterium acnes were markedly elevated in the 
+SS compared to the HS group in both mean (×105 ± SEM) and mean (± SEM) percentage
+DNA probe counts (P < 0.001). In subgingival samples of SS, V. parvula was
+significantly different compared to HS (P < 0.05). SS was characterized by high
+levels of purple and low levels of orange and red complexes. Cluster analysis of 
+oral tissues and saliva demonstrated that the mean microbial profiles for SS
+patients and the HS group clustered separately. Active root caries (P < 0.003)
+and attachment loss were significantly higher (P < 0.029) in the SS group
+compared to the HS group.
+CONCLUSION: These findings indicate that saliva is a major controlling factor of 
+intraoral biofilm. V. parvula may be a unique microbial biomarker for Sjögren's
+syndrome.
+KNOWLEDGE TRANSFER STATEMENT: The microbiome characterized for Sjögren's syndrome
+in salivary hypofunction is shown to be under stress and reduced. Veillonella
+parvula can be a possible identification of a biomarker for Sjögren's syndrome.
+
+DOI: 10.1177/2380084420940623 
+PMID: 32689841 
+

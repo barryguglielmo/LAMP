@@ -1,0 +1,47 @@
+
+1. Int J Dev Neurosci. 2020 Sep 23. doi: 10.1002/jdn.10067. [Epub ahead of print]
+
+Lead exposure results in defective behavior as well as alteration of gut
+microbiota composition in flies and their offsprings.
+
+Sun Y(1), Tang Y(1), Xu X(1), Hu K(1), Zhang Z(1), Zhang Y(1)(2), Yi Z(1), Zhu
+Q(1), Xu R(1), Zhang Y(3), Liu Z(1), Liu X(1).
+
+Author information: 
+(1)Department of Pathogen-Microbiology Division, Key Laboratory of Pathogen of
+Jiangsu Province, Nanjing Medical University, Center of Global Health, Nanjing
+Medical University, Nanjing, China, Nanjing, China.
+(2)Department of Geriatric Endocrinology, The First Hospital Affiliated to
+Nanjing Medical University, Nanjing, China.
+(3)Department of Endocrinology, Zhongda Hospital, Southeast University, Nanjing, 
+China.
+
+BACKGROUND: Lead (Pb) has become one of the most dangerous metals to human
+health, especially to the nervous system as its persistent accumulation and high 
+toxicity. However, how the gut microbiota influence the Pb-related neurotoxicity 
+remains unclear. The aim of our study was to explore the link among Pb exposure, 
+behavior changes and gut microbiota.
+METHODS: Using Drosophila melanogaster as model, climbing assay, social
+avoidance, social space and short-term memory analysis were preformed to study
+the behavioral changes in flies exposed to Pb and their offspring. 16S rRNA
+sequencing was used to explore the changes in the gut microbiota of the flies
+with/without Pb-exposed.
+RESULTS: The crawling ability, memory and social interactions of Pb-exposed
+parent flies decreased significantly. For the offspring, behaviors were more
+significantly affected in male offspring whose male parent was exposed to Pb. The
+alpha-diversity and the beta diversity of gut microbiota were significantly
+different between the Pb-exposed flies and the controls, as well as between the
+male offspring and the controls. Two genera, Lactobacillus and Bifidobacterium
+were found significantly decreased in the Pb-exposed flies when compared to the
+controls and significantly correlated with the learning and memory. Four genera, 
+Bilophila, Coprococcus, Desulfovibrio and Ruminococcus were found depleted in the
+female offspring of the Pb-exposed flies.
+CONCLUSIONS: Lead exposure resulted in defective behavior and alteration of gut
+microbiota composition in flies and their offspring, alteration in gut microbiota
+might be the link between behavioral changes induced by Pb-exposed.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1002/jdn.10067 
+PMID: 32966649 
+

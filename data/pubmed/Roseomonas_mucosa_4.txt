@@ -1,0 +1,47 @@
+
+1. Am J Clin Dermatol. 2020 Feb;21(1):139-147. doi: 10.1007/s40257-019-00471-5.
+
+Characterization and Analysis of the Skin Microbiota in Rosacea: A Case-Control
+Study.
+
+Rainer BM(1)(2), Thompson KG(1), Antonescu C(3), Florea L(3), Mongodin EF(4), Bui
+J(4), Fischer AH(1), Pasieka HB(1), Garza LA(1), Kang S(1), Chien AL(5).
+
+Author information: 
+(1)Department of Dermatology, Johns Hopkins University, 601 N. Caroline St.,
+Suite 8033, Baltimore, MD, 21287, USA.
+(2)Department of Dermatology, Medical University of Graz, Graz, Austria.
+(3)McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University,
+Baltimore, MD, USA.
+(4)Institute for Genome Sciences, University of Maryland, Baltimore, MD, USA.
+(5)Department of Dermatology, Johns Hopkins University, 601 N. Caroline St.,
+Suite 8033, Baltimore, MD, 21287, USA. achien3@jhmi.edu.
+
+BACKGROUND: The efficacy of antibiotics in rosacea treatment suggests a role for 
+microorganisms in its pathophysiology. Growing concern over the adverse effects
+of antibiotic use presents a need for targeted antimicrobial treatment in
+rosacea.
+OBJECTIVE: We performed a case-control study to investigate the skin microbiota
+in patients with rosacea compared to controls matched by age, sex, and race.
+METHODS: Nineteen participants with rosacea, erythematotelangiectatic,
+papulopustular, or both, were matched to 19 rosacea-free controls. DNA was
+extracted from skin swabs of the nose and bilateral cheeks of participants.
+Sequencing of the V3V4 region of the bacterial 16S ribosomal RNA gene was
+performed using Illumina MiSeq and analyzed using QIIME/MetaStats 2.0 software.
+RESULTS: Compared with controls, skin microbiota in erythematotelangiectatic
+rosacea was depleted in Roseomonas mucosa (p = 0.004). Papulopustular rosacea was
+enriched in Campylobacter ureolyticus (p = 0.001), Corynebacterium kroppenstedtii
+(p = 0.008), and the oral flora Prevotella intermedia (p = 0.001). The highest
+relative abundance of C. kroppenstedtii was observed in patients with both
+erythematotelangiectatic and papulopustular rosacea (19.2%), followed by
+papulopustular (5.06%) and erythematotelangiectatic (1.21%) rosacea. C.
+kroppenstedtii was also associated with more extensive disease, with the highest 
+relative abundance in rosacea affecting both the cheeks and nose (2.82%),
+followed by rosacea sparing the nose (1.93%), and controls (0.19%).
+CONCLUSIONS: The skin microbiota in individuals with rosacea displays changes
+from that of healthy skin, suggesting that further studies examining a potential 
+role for the skin microbiota in the pathophysiology of rosacea may be warranted.
+
+DOI: 10.1007/s40257-019-00471-5 
+PMID: 31502207 
+

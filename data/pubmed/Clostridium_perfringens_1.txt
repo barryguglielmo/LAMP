@@ -1,0 +1,53 @@
+
+1. Surg Infect (Larchmt). 2020 Sep 30. doi: 10.1089/sur.2020.233. [Epub ahead of
+print]
+
+Unmasking Unique Immune Altering Aspects of the Microbiome as a Tool to Correct
+Sepsis-Induced Immune Dysfunction.
+
+Heffernan IM(1), McGeary JE(2)(3), Chung CS(1), Ayala A(1), Heffernan DS(1)(2).
+
+Author information: 
+(1)Division of Surgical Research, Brown University/Rhode Island Hospital,
+Providence, Rhode Island, USA.
+(2)Providence Veterans Affairs Medical Center, Providence, Rhode Island, USA.
+(3)Department of Psychiatry and Human Behavior, Alpert Medical School, Brown
+University, Providence, Rhode Island, USA.
+
+Background: Sepsis-related mortality is driven by immune dysfunction. A
+bidirectional micro-organism-immune cell cross talks exists. Gut Bacteroides
+fragilis-T-cell crosstalk maintains innate immune cell/pathogen homeostasis.
+Commensal gut Clostridia spp. suppress inflammation and induce gut tolerance.
+Probiotics are administered to restore immune microbiome homeostasis. Individual 
+microbial components have an immunomodulatory effect. However, probiotic
+therapies for sepsis-induced immune disruptions are rarely tailored to specific
+immune responses. Thus, we ask the question as to how components of the
+intestinal microbiome, often found in probiotic therapies, affect lymphocyte
+phenotypic profile? Methods: T-lymphocytes were cultured with either
+monomicrobial or polymicrobial combinations. Microbes used were Bacteroides
+fragilis, Clostridium perfringens, or Lactobacillus acidophilus. Cytokines,
+measured by enzyme-linked immunosorbent assay (ELISA)-included interleukin
+(IL)-6, IL-10, IL-22, and IL-33. Flow cytometry was used for T-cell phenotyping
+for program-death receptor-1 (PD-1) and B- and T-lymphocyte attenuator (BTLA).
+T-cell DNA was extracted to assess global epigenetic changes. For translation,
+IL-33 was measured from surgical intensive care unit (ICU) patients with sepsis
+with either monomicrobial or polymicrobial infection. Results: Lactobacillus
+consistently induced IL-22 and IL-33. Bacteroides fragilis induced IL-33 only
+under polymicrobial (pB) conditions. Within surgical ICU patients, IL-33 levels
+were higher in polymicrobial versus monomicrobial patients. PD-1+ expression was 
+lowest with either monomicrobial Bacteroides fragilis or Bacteroides fragilis
+predominant polymicrobial context. Conversely Bacteroides fragilis exposure
+induced a distinct PD-1-high subpopulation. B- and T-lymphocyte
+attenuator-positive expression did not differ after individual microbes. Among
+polymicrobial conditions, Bacteroides fragilis predominant (pB) and Lactobacillus
+acidophilus predominant (pL) increased BTLA+ expression. DNA methylation was most
+increased in response to Clostridium perfringens in monomicrobial and in response
+to Bacteroides fragilis in polymicrobial conditions. Conclusion: Unique
+microbe/lymphocyte interactions occur. Bacteroides fragilis induced a T-cell
+phenotype consistent with potential long-term immune recovery. This work begins
+to discover how varying microbes may induce unique functional and phenotypic
+T-lymphocyte responses.
+
+DOI: 10.1089/sur.2020.233 
+PMID: 32996833 
+

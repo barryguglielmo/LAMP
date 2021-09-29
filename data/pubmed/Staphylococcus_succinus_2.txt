@@ -1,0 +1,50 @@
+
+1. BMC Evol Biol. 2020 Jan 28;20(1):13. doi: 10.1186/s12862-019-1574-1.
+
+Absence of reproduction-immunity trade-off in male Drosophila melanogaster
+evolving under differential sexual selection.
+
+Syed ZA(1), Gupta V(2), Arun MG(3), Dhiman A(4), Nandy B(5), Prasad NG(3).
+
+Author information: 
+(1)Department of Biology, Syracuse University, 110 Life Sciences Complex, 107
+College Place Syracuse, Syracuse, NY, 13244, USA. zesyed@syr.edu.
+(2)Department of entomology, Cornell University, 3130 Comstock Hall, Ithaca, NY, 
+14853, USA.
+(3)Department of Biology, Indian Institute of Science Education and Research
+Mohali, Sector 81, SAS Nagar, Mohali, 140306, India.
+(4)Kalahari Molerat Project, Kuruman river reserve, Northern cape, SA, South
+Africa.
+(5)Department of Biology, Indian Institute of Science Education and Research
+Berhampur, Govt. ITI Building, Engg. School Junction, Berhampur, 760010, India.
+
+BACKGROUND: The theory of trade-off suggests that limited resources should lead
+to trade-off in resource intensive traits such as, immunity related and sexually 
+selected traits in males. Alternatively, sexual exaggerations can also act as an 
+honest indicator of underlying immunocompetence, leading to positive correlations
+between these traits. Evidences in support of either hypothesis in invertebrates 
+are equivocal. Whereas several studies have addressed this question, few have
+used naturally occurring pathogens and realized post infection realized immunity 
+(e.g., survivorship) to assay the fitness correlations between these two sets of 
+traits.
+RESULTS: Adopting an experimental evolution approach, we evolved replicate
+populations of Drosophila melanogaster under high and low sexual selection
+regimes for over a hundred generations and found the following in virgin and
+mated males in three separate assays: a.Post infection survivorship against two
+natural pathogens - Pseudomonas entomophila (Pe) and Staphylococcus succinus
+(Ss): Mated males survived better against Pe, but were no different than virgins 
+against Ss.b.Bacterial clearance ability against a third natural pathogen
+Providencia rettgeri (Pr): Mated males had significantly lower CFUs than virgins.
+However, sexual selection history had no effect on realized immunity of either
+virgin or mated males.
+CONCLUSION: We show that while mating can affect realized immunity in a pathogen 
+specific way, sexual selection did not affect the same. The results highlight
+that complex polygenic traits such as immunity and reproductive traits not
+necessarily evolve following a binary trade-off model. We also stress the
+importance natural pathogens while studying sexual selection-immunity
+correlations.
+
+DOI: 10.1186/s12862-019-1574-1 
+PMCID: PMC6988192
+PMID: 31992187  [Indexed for MEDLINE]
+

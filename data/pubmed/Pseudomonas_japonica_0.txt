@@ -1,0 +1,45 @@
+
+1. Int J Syst Evol Microbiol. 2020 Sep 2. doi: 10.1099/ijsem.0.004412. [Epub ahead
+of print]
+
+Pseudomonas brassicae sp. nov., a pathogen causing head rot of broccoli in Japan.
+
+Sawada H(1), Fujikawa T(2), Horita H(3).
+
+Author information: 
+(1)Genetic Resources Center, National Agriculture and Food Research Organization 
+(NARO), 2-1-2 Kannondai, Tsukuba, Ibaraki 305-8602, Japan.
+(2)Institute of Fruit Tree and Tea Science, NARO, 2-1 Fujimoto, Tsukuba, Ibaraki 
+305-8605, Japan.
+(3)Ornamental Plants and Vegetables Research Center, Hokkaido Research
+Organization, Takikawa, Hokkaido 073-0026, Japan.
+
+Phytopathogenic bacteria, MAFF 212426, MAFF 212427T, MAFF 212428 and MAFF 212429,
+were isolated from head rot lesions of broccoli (Brassica oleracea L. var.
+italica Plenck) in Hokkaido, Japan, and subjected to polyphasic taxonomic
+characterization. The cells were Gram-reaction-negative, aerobic,
+non-spore-forming, motile with one or two polar flagella, rod-shaped and formed
+pale yellow colonies. Results of 16S rRNA gene sequence analysis showed that they
+belong to the genus Pseudomonas with the highest similarity to 'Pseudomonas
+qingdaonensis' JJ3T (99.86 %), Pseudomonas laurentiana GSL-010T (99.22 %),
+Pseudomonas huaxiensis WCHPs060044T (99.01 %), Pseudomonas japonica NBRC 103040T 
+(98.87 %) and Pseudomonas alkylphenolica KL28T (98.73 %). The genomic DNA G+C
+content was 63.4 mol% and the major fatty acids (>5 % of the total fatty acids)
+were summed feature 3 (C16 : 1 ω7c / C16 : 1 ω6c), C16 : 0, summed feature 8
+(C18 : 1 ω7c / C18 : 1 ω6c) and C17 : 0 cyclo. Multilocus sequence analysis using
+the partial rpoD, gyrB and rpoB gene sequences and phylogenomic analyses based on
+the whole genome sequences demonstrated that the strains are members of the
+Pseudomonas putida group, but form a monophyletic, robust clade separated from
+their closest relatives. Average nucleotide identity (ANI) and digital DNA-DNA
+hybridization (dDDH) values corroborated their novel species status, with 88.39 %
+(ANI) and 35.8 % (dDDH) as the highest scores with 'P. qingdaonensis' JJ3T. The
+strains were differentiated from their closest relatives by phenotypic
+characteristics, pathogenicity on broccoli, and whole-cell MALDI-TOF mass
+spectrometry profiles. The phenotypic, chemotaxonomic and genotypic data showed
+that the strains represent a novel Pseudomonas species, for which the name
+Pseudomonas brassicae sp. nov. is proposed. The type strain is MAFF 212427T
+(=ICMP 23635T).
+
+DOI: 10.1099/ijsem.0.004412 
+PMID: 32877324 
+

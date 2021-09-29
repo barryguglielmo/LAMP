@@ -1,0 +1,46 @@
+
+1. Curr Microbiol. 2020 Aug;77(8):1945-1954. doi: 10.1007/s00284-020-02004-4. Epub
+2020 Apr 30.
+
+Proposal for Unification of the Genus Metakosakonia and the Genus Phytobacter to 
+a Single Genus Phytobacter and Reclassification of Metakosakonia massiliensis as 
+Phytobacter massiliensis comb. nov.
+
+Ma Y(1), Yao R(1), Li Y(1), Wu X(1), Li S(1), An Q(2).
+
+Author information: 
+(1)Ministry of Agriculture Key Laboratory of Molecular Biology of Crop Pathogens 
+and Insects, Zhejiang Province Key Laboratory of Biology of Crop Pathogens and
+Insects, Institute of Biotechnology, Zhejiang University, Hangzhou, 310058,
+China.
+(2)Ministry of Agriculture Key Laboratory of Molecular Biology of Crop Pathogens 
+and Insects, Zhejiang Province Key Laboratory of Biology of Crop Pathogens and
+Insects, Institute of Biotechnology, Zhejiang University, Hangzhou, 310058,
+China. an@zju.edu.cn.
+
+The genus Metakosakonia, as the closest phylogenetic neighbor of the genus
+Kosakonia within the family Enterobacteriaceae, when proposed in 2017, consisted 
+of M. massiliensis JC163T and Metakosakonia spp. strains CAV1151 and GT-16. The
+strain CAV1151 was later classified into a novel species Phytobacter ursingii.
+Here, we show that the strain GT-16 shares a digital DNA-DNA hybridization (DDH) 
+similarity of 91.0% with P. diazotrophicus DSM 17806 T and thus also belongs to
+P. diazotrophicus. M. massiliensis and the strains within the genus Phytobacter
+formed a monophyletic cluster on a phylogenomic tree based on the core proteins
+of the family Enterobacteriaceae and on a phylogenetic tree based on the 16S rRNA
+genes. M. massiliensis and the genus Phytobacter share average amino acid
+identities of 86.80‒87.41% above the threshold (86%) for genus delimitation
+within the family Enterobacteriaceae. Moreover, they share conserved signature
+indels in the intracellular growth protein IgaA and the outer membrane assembly
+protein AsmA. Therefore, we propose to unite the genus Metakosakonia and the
+genus Phytobacter to a single genus. Because the genus Phytobacter was validly
+published earlier in 2017 than the genus Metakosakonia in 2017, the genus name
+Phytobacter has priority over Metakosakonia. We propose to unite the two genera
+under the name Phytobacter with the type species P. diazotrophicus and reclassify
+M. massiliensis as P. massiliensis comb. nov. In addition, the analyses of genome
+relatedness and phylogenomic relationship identified one potential novel species 
+within the genus Phytobacter and three potential novel species within the genus
+Kosakonia.
+
+DOI: 10.1007/s00284-020-02004-4 
+PMID: 32350604 
+

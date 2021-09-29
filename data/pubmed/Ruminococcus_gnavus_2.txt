@@ -1,0 +1,85 @@
+
+1. Cell. 2020 Sep 17;182(6):1460-1473.e17. doi: 10.1016/j.cell.2020.08.007. Epub
+2020 Sep 10.
+
+Longitudinal Multi-omics Reveals Subset-Specific Mechanisms Underlying Irritable 
+Bowel Syndrome.
+
+Mars RAT(1), Yang Y(2), Ward T(3), Houtti M(4), Priya S(5), Lekatz HR(1), Tang
+X(6), Sun Z(6), Kalari KR(6), Korem T(7), Bhattarai Y(1), Zheng T(8), Bar N(9),
+Frost G(2), Johnson AJ(3), van Treuren W(10), Han S(10), Ordog T(11), Grover
+M(12), Sonnenburg J(10), D'Amato M(8), Camilleri M(12), Elinav E(13), Segal E(9),
+Blekhman R(4), Farrugia G(12), Swann JR(14), Knights D(15), Kashyap PC(16).
+
+Author information: 
+(1)Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN 55905,
+USA.
+(2)Department of Metabolism, Digestion and Reproduction, Imperial College, London
+SW7 2AZ, UK.
+(3)BioTechnology Institute, College of Biological Sciences, University of
+Minnesota, Minneapolis, MN 55455, USA.
+(4)Department of Computer Science and Engineering, University of Minnesota,
+Minneapolis, MN 55455, USA.
+(5)Department of Genetics, Cell Biology, and Development, University of
+Minnesota, Minneapolis, MN 55455, USA.
+(6)Department of Health Sciences Research, Mayo Clinic, Rochester, MN 55905, USA.
+(7)Department of Systems Biology, Columbia University, New York, NY 10032, USA;
+CIFAR Azrieli Global Scholars program, CIFAR, Toronto, ON M5G 1M1, Canada.
+(8)School of Biological Sciences, Monash University, Clayton, 3800 VIC,
+Australia.
+(9)Department of Computer Science and Applied Mathematics, Weizmann Institute of 
+Science, Rehovot 76100, Israel.
+(10)Department of Microbiology and Immunology, Center for Human Microbiome
+Studies, Stanford University, Stanford, CA 94305, USA.
+(11)Department of Physiology and Biomedical Engineering, Mayo Clinic, Rochester, 
+MN 55905, USA.
+(12)Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN
+55905, USA; Department of Physiology and Biomedical Engineering, Mayo Clinic,
+Rochester, MN 55905, USA.
+(13)Department of Immunology, Weizmann Institute of Science, Rehovot 76100,
+Israel; Division of Cancer-Microbiome Research, DKFZ, 69120 Heidelberg, Germany.
+(14)Department of Metabolism, Digestion and Reproduction, Imperial College,
+London SW7 2AZ, UK; School of Human Development and Health, Faculty of Medicine, 
+University of Southampton, Southampton SO17 1BJ, UK.
+(15)BioTechnology Institute, College of Biological Sciences, University of
+Minnesota, Minneapolis, MN 55455, USA; Department of Computer Science and
+Engineering, University of Minnesota, Minneapolis, MN 55455, USA. Electronic
+address: dknights@umn.edu.
+(16)Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN
+55905, USA; Department of Physiology and Biomedical Engineering, Mayo Clinic,
+Rochester, MN 55905, USA. Electronic address: kashyap.purna@mayo.edu.
+
+The gut microbiome has been implicated in multiple human chronic gastrointestinal
+(GI) disorders. Determining its mechanistic role in disease has been difficult
+due to apparent disconnects between animal and human studies and lack of an
+integrated multi-omics view of disease-specific physiological changes. We
+integrated longitudinal multi-omics data from the gut microbiome, metabolome,
+host epigenome, and transcriptome in the context of irritable bowel syndrome
+(IBS) host physiology. We identified IBS subtype-specific and symptom-related
+variation in microbial composition and function. A subset of identified changes
+in microbial metabolites correspond to host physiological mechanisms that are
+relevant to IBS. By integrating multiple data layers, we identified purine
+metabolism as a novel host-microbial metabolic pathway in IBS with translational 
+potential. Our study highlights the importance of longitudinal sampling and
+integrating complementary multi-omics data to identify functional mechanisms that
+can serve as therapeutic targets in a comprehensive treatment strategy for
+chronic GI diseases. VIDEO ABSTRACT.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2020.08.007 
+PMID: 32916129 
+
+Conflict of interest statement: Declaration of Interests P.C.K. is on the
+Advisory Board of Novome Biotechnologies and is an ad hoc consultant for Pendulum
+Therapeutics, IP group, and Otsuka Pharmaceuticals. P.C.K. holds patent
+US20170042860A1 for use of tryptamine producing bacteria (“Methods and materials 
+for using Ruminococcus gnavus or Clostridium sporogenes to treat gastrointestinal
+disorders”), and P.C.K. and Mayo Clinic have a financial interest related to this
+research. These interests have been reviewed and managed in accordance with Mayo 
+Clinic Conflict-of-Interest policies. D.B.K. serves as CEO of CoreBiome, a
+company involved in the commercialization of microbiome analysis and a wholly
+owned subsidiary of OraSure Technologies. These interests have been reviewed and 
+managed by the University of Minnesota in accordance with its
+Conflict-of-Interest policies.
+

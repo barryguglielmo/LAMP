@@ -1,0 +1,53 @@
+
+1. Antibiotics (Basel). 2020 Jul 11;9(7). pii: E403. doi:
+10.3390/antibiotics9070403.
+
+Phytochemical Composition and In Vitro Biological Activity of Iris spp.
+(Iridaceae): A New Source of Bioactive Constituents for the Inhibition of Oral
+Bacterial Biofilms.
+
+Hoang L(1), Beneš F(2), Fenclová M(2), Kronusová O(1)(3), Švarcová V(1), Řehořová
+K(1), Švecová EB(4), Vosátka M(4), Hajšlová J(2), Kaštánek P(3), Viktorová J(1), 
+Ruml T(1).
+
+Author information: 
+(1)Department of Biochemistry and Microbiology UCT Prague, Faculty of Food and
+Biochemical Technology, Technická 3, 166 28 Prague, Czech Republic.
+(2)Department of Food Analysis and Nutrition UCT Prague, Faculty of Food and
+Biochemical Technology, Technická 3, 166 28 Prague, Czech Republic.
+(3)EcoFuel Laboratories Ltd., Ocelářská 9, 190 00 Praha, Czech Republic.
+(4)Institute of Botany of the Czech Academy of Sciences, Zámek 1, 252 43
+Průhonice, Czech Republic.
+
+The inhibition and eradication of oral biofilms is increasingly focused on the
+use of plant extracts as mouthwashes and toothpastes adjuvants. Here, we report
+on the chemical composition and the antibiofilm activity of 15 methanolic
+extracts of Iris species against both mono-(Pseudomonas aeruginosa,
+Staphylococcus aureus) and multi-species oral biofilms (Streptococcus gordonii,
+Veillonella parvula, Fusobacterium nucleatum subsp. nucleatum, and Actinomyces
+naeslundii). The phytochemical profiles of Iris pallida s.l., Iris versicolor L.,
+Iris lactea Pall., Iris carthaliniae Fomin, and Iris germanica were determined by
+ultra-high performance liquid chromatography-high-resolution tandem mass
+spectroscopy (UHPLC-HRMS/MS) analysis, and a total of 180 compounds were
+identified among Iris species with (iso)flavonoid dominancy. I. pallida, I.
+versicolor, and I. germanica inhibited both the quorum sensing and adhesion
+during biofilm formation in a concentration-dependent manner. However, the
+extracts were less active against maturated biofilms. Of the five tested species,
+Iris pallida s.l. was the most effective at both inhibiting biofilm formation and
+disrupting existing biofilms, and the leaf extract exhibited the strongest
+inhibitory effect compared to the root and rhizome extracts. The cytotoxicity of 
+the extracts was excluded in human fibroblasts. The inhibition of bacterial
+adhesion significantly correlated with myristic acid content, and quorum sensing 
+inhibition correlated with the 7-β-hydroxystigmast-4-en-3-one content. These
+findings could be useful for establishing an effective tool for the control of
+oral biofilms and thus dental diseases.
+
+DOI: 10.3390/antibiotics9070403 
+PMCID: PMC7399867
+PMID: 32664528 
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or
+interpretation of data; in the writing of the manuscript, or in the decision to
+publish the results.
+

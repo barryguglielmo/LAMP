@@ -1,0 +1,64 @@
+
+1. Food Res Int. 2019 Nov;125:108622. doi: 10.1016/j.foodres.2019.108622. Epub 2019 
+Aug 17.
+
+Physiological and proteomic response of Escherichia coli O157:H7 to a
+bioprotective lactic acid bacterium in a meat environment.
+
+Orihuel A(1), Terán L(2), Renaut J(3), Planchon S(3), Valacco MP(4), Masias E(5),
+Minahk C(5), Vignolo G(1), Moreno S(4), De Almeida AM(6), Saavedra L(2), Fadda
+S(7).
+
+Author information: 
+(1)Technology, Centro de Referencia para Lactobacilos, Consejo Nacional de
+Investigaciones Científicas y Técnicas (CERELA-CONICET), San Miguel de Tucumán,
+Tucumán, Argentina.
+(2)Genetics, Centro de Referencia para Lactobacilos, Consejo Nacional de
+Investigaciones Científicas y Técnicas (CERELA-CONICET), San Miguel de Tucumán,
+Tucumán, Argentina.
+(3)LIST - Luxembourg Institute of Science and Technology "Environmental Research 
+and Innovation" (ERIN) Department, Belvaux, Luxembourg.
+(4)Instituto de Química Biológica de la Facultad de Ciencias Exactas y Naturales 
+(IQUIBICEN), CONICET Universidad de Buenos Aires, Buenos Aires C1428EGA,
+Argentina.
+(5)Instituto Superior de Investigaciones Biológicas (INSIBIO), CONICET-UNT,
+Instituto de Química Biológica "Dr. Bernabé Bloj", Facultad de Bioquímica,
+Química y Farmacia, UNT. Chacabuco 461, T4000ILI - San Miguel de Tucumán,
+Argentina.
+(6)LEAF - Linking Landscape, Environment, Agriculture and Food, Instituto
+Superior de Agronomia, University of Lisbon, Lisbon, Portugal.
+(7)Technology, Centro de Referencia para Lactobacilos, Consejo Nacional de
+Investigaciones Científicas y Técnicas (CERELA-CONICET), San Miguel de Tucumán,
+Tucumán, Argentina. Electronic address: sfadda@cerela.org.ar.
+
+The enterohemorrhagic Escherichia (E.) coli (EHEC) is a pathogen of great concern
+for public health and the meat industry all over the world. The high economic
+losses in meat industry and the high costs of the illness highlight the necessity
+of additional efforts to control this pathogen. Previous studies have
+demonstrated the inhibitory activity of Enterococcus mundtii CRL35 towards EHEC, 
+showing a specific proteomic response during the co-culture. In the present work,
+additional studies of the EHEC-Ent. mundtii interaction were carried out: i)
+differential protein expression of E. coli O157:H7 NCTC12900 growing in
+co-culture with Ent. mundtii in a meat environment, ii) the reciprocal influence 
+between these two microorganisms in the adhesion to extracellular matrix (ECM)
+proteins and iii) the possible induction of the phage W933, coding for Shiga
+toxin (Stx1), by Ent. mundtii CRL35. Proteomic analysis showed a significant
+repression of a number of E. coli NCTC12900 proteins in co-culture respect to its
+single culture, these mostly related to the metabolism and transport of amino
+acids and nucleotides. On the other hand, statistically significant
+overexpression of EHEC proteins involved in stress, energy production, amino acid
+metabolism and transcription was observed at 30 h respect to 6 h when EHEC grew
+in co-culture. Data are available via ProteomeXchange with identifier PXD014588. 
+Besides, EHEC showed a decreased adhesion capacity to ECM proteins in the
+presence of the bioprotective strain. Finally, Ent. mundtii CRL35 did not induce 
+the lytic cycle of W933 bacteriophage, thus indicating its potential safe use for
+eliminating this pathogen. Overall, this study expands the knowledge of EHEC-
+Ent. mundtii CRL35 interaction in a meat environment, which will certainly
+contribute to find out effective biological strategies to eliminate this
+pathogen.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foodres.2019.108622 
+PMID: 31554055 
+

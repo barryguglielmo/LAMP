@@ -1,0 +1,61 @@
+
+1. Biotechnol Biofuels. 2020 Mar 31;13:60. doi: 10.1186/s13068-020-01698-9.
+eCollection 2020.
+
+Multimodular fused acetyl-feruloyl esterases from soil and gut Bacteroidetes
+improve xylanase depolymerization of recalcitrant biomass.
+
+Kmezik C(1), Bonzom C(1), Olsson L(1)(2), Mazurkewich S(1)(2), Larsbrink J(1)(2).
+
+Author information: 
+(1)1Division of Industrial Biotechnology, Department of Biology and Biological
+Engineering, Chalmers University of Technology, 412 96 Gothenburg, Sweden.
+(2)2Wallenberg Wood Science Center, Chalmers University of Technology, 412 96
+Gothenburg, Sweden.
+
+Background: Plant biomass is an abundant and renewable carbon source that is
+recalcitrant towards both chemical and biochemical degradation. Xylan is the
+second most abundant polysaccharide in biomass after cellulose, and it possesses 
+a variety of carbohydrate substitutions and non-carbohydrate decorations which
+can impede enzymatic degradation by glycoside hydrolases. Carbohydrate esterases 
+are able to cleave the ester-linked decorations and thereby improve the
+accessibility of the xylan backbone to glycoside hydrolases, thus improving the
+degradation process. Enzymes comprising multiple catalytic glycoside hydrolase
+domains on the same polypeptide have previously been shown to exhibit
+intramolecular synergism during degradation of biomass. Similarly, natively fused
+carbohydrate esterase domains are encoded by certain bacteria, but whether these 
+enzymes can result in similar synergistic boosts in biomass degradation has not
+previously been evaluated.
+Results: Two carbohydrate esterases with similar architectures, each comprising
+two distinct physically linked catalytic domains from families 1 (CE1) and 6
+(CE6), were selected from xylan-targeting polysaccharide utilization loci (PULs) 
+encoded by the Bacteroidetes species Bacteroides ovatus and Flavobacterium
+johnsoniae. The full-length enzymes as well as the individual catalytic domains
+showed activity on a range of synthetic model substrates, corn cob biomass, and
+Japanese beechwood biomass, with predominant acetyl esterase activity for the
+N-terminal CE6 domains and feruloyl esterase activity for the C-terminal CE1
+domains. Moreover, several of the enzyme constructs were able to substantially
+boost the performance of a commercially available xylanase on corn cob biomass
+(close to twofold) and Japanese beechwood biomass (up to 20-fold). Interestingly,
+a significant improvement in xylanase biomass degradation was observed following 
+addition of the full-length multidomain enzyme from B. ovatus versus the addition
+of its two separated single domains, indicating an intramolecular synergy between
+the esterase domains. Despite high sequence similarities between the esterase
+domains from B. ovatus and F. johnsoniae, their addition to the xylanolytic
+reaction led to different degradation patterns.
+Conclusion: We demonstrated that multidomain carbohydrate esterases, targeting
+the non-carbohydrate decorations on different xylan polysaccharides, can
+considerably facilitate glycoside hydrolase-mediated hydrolysis of xylan and
+xylan-rich biomass. Moreover, we demonstrated for the first time a synergistic
+effect between the two fused catalytic domains of a multidomain carbohydrate
+esterase.
+
+© The Author(s) 2020.
+
+DOI: 10.1186/s13068-020-01698-9 
+PMCID: PMC7110780
+PMID: 32266006 
+
+Conflict of interest statement: Competing interestsThe authors declare that they 
+have no competing interests.
+

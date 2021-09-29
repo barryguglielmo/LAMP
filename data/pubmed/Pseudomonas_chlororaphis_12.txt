@@ -1,0 +1,54 @@
+
+1. Microb Cell Fact. 2020 May 19;19(1):105. doi: 10.1186/s12934-020-01364-7.
+
+Identification of new arylamine N-acetyltransferases and enhancing
+2-acetamidophenol production in Pseudomonas chlororaphis HT66.
+
+Guo S(1), Wang Y(1), Wang W(1), Hu H(1)(2), Zhang X(3).
+
+Author information: 
+(1)State Key Laboratory of Microbial Metabolism, School of Life Sciences and
+Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, China.
+(2)National Experimental, Teaching Center for Life Sciences and Biotechnology,
+Shanghai Jiao Tong University, Shanghai, 200240, China.
+(3)State Key Laboratory of Microbial Metabolism, School of Life Sciences and
+Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, China.
+xuehzhang@sjtu.edu.cn.
+
+BACKGROUND: 2-Acetamidophenol (AAP) is an aromatic compound with the potential
+for antifungal, anti-inflammatory, antitumor, anti-platelet, and anti-arthritic
+activities. Due to the biosynthesis of AAP is not yet fully understood, AAP is
+mainly produced by chemical synthesis. Currently, metabolic engineering of
+natural microbial pathway to produce valuable aromatic compound has remarkable
+advantages and exhibits attractive potential. Thus, it is of paramount importance
+to develop a dominant strain to produce AAP by elucidating the AAP biosynthesis
+pathway.
+RESULT: In this study, the active aromatic compound AAP was first purified and
+identified in gene phzB disruption strain HT66ΔphzB, which was derived from
+Pseudomonas chlororaphis HT66. The titer of AAP in the strain HT66ΔphzB was
+236.89 mg/L. Then, the genes involved in AAP biosynthesis were determined.
+Through the deletion of genes phzF, Nat and trpE, AAP was confirmed to have the
+same biosynthesis route as phenazine-1-carboxylic (PCA). Moreover, a new
+arylamine N-acetyltransferases (NATs) was identified and proved to be the key
+enzyme required for generating AAP by in vitro assay. P. chlororaphis P3, a
+chemical mutagenesis mutant strain of HT66, has been demonstrated to have a
+robust ability to produce antimicrobial phenazines. Therefore, genetic
+engineering, precursor addition, and culture optimization strategies were used to
+enhance AAP production in P. chlororaphis P3. The inactivation of phzB in P3
+increased AAP production by 92.4%. Disrupting the phenazine negative regulatory
+genes lon and rsmE and blocking the competitive pathway gene pykA in P3 increased
+AAP production 2.08-fold, which also confirmed that AAP has the same biosynthesis
+route as PCA. Furthermore, adding 2-amidophenol to the KB medium increased AAP
+production by 64.6%, which suggested that 2-amidophenol is the precursor of AAP. 
+Finally, by adding 5 mM 2-amidophenol and 2 mM Fe3+ to the KB medium, the
+production of AAP reached 1209.58 mg/L in the engineered strain
+P3ΔphzBΔlonΔpykAΔrsmE using a shaking-flask culture. This is the highest
+microbial-based AAP production achieved to date.
+CONCLUSION: In conclusion, this study clarified the biosynthesis process of AAP
+in Pseudomonas and provided a promising host for industrial-scale biosynthesis of
+AAP from renewable resources.
+
+DOI: 10.1186/s12934-020-01364-7 
+PMCID: PMC7236291
+PMID: 32430011 
+

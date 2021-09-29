@@ -1,0 +1,120 @@
+
+1. Gastroenterology. 2019 Dec;157(6):1530-1543.e4. doi:
+10.1053/j.gastro.2019.08.021. Epub 2019 Aug 21.
+
+Antigen-Specific Mucosal Immunity Regulates Development of Intestinal
+Bacteria-Mediated Diseases.
+
+Fujimoto K(1), Kawaguchi Y(2), Shimohigoshi M(3), Gotoh Y(4), Nakano Y(1), Usui
+Y(5), Hayashi T(6), Kimura Y(5), Uematsu M(7), Yamamoto T(8), Akeda Y(9), Rhee
+JH(10), Yuki Y(11), Ishii KJ(12), Crowe SE(13), Ernst PB(14), Kiyono H(15),
+Uematsu S(16).
+
+Author information: 
+(1)Department of Immunology and Genomics, Osaka City University Graduate School
+of Medicine, Osaka, Japan; Division of Innate Immune Regulation.
+(2)Department of Immunology and Genomics, Osaka City University Graduate School
+of Medicine, Osaka, Japan; Division of Innate Immune Regulation; Department of
+Pediatric Surgery, Graduate School of Medicine, Chiba University, Chiba, Japan.
+(3)Department of Immunology and Genomics, Osaka City University Graduate School
+of Medicine, Osaka, Japan; Division of Innate Immune Regulation; Department of
+Molecular Immunology, Research Institute for Microbial Diseases, Osaka
+University, Osaka, Japan.
+(4)Division of Molecular Immunology, Medical Mycology Research Center, Chiba
+University, Chiba, Japan; Division of Mucosal Symbiosis, International Research
+and Development Center for Mucosal Vaccines, The Institute of Medical Science,
+The University of Tokyo, Tokyo, Japan.
+(5)Division of Systems Immunology, The Institute of Medical Science, The
+University of Tokyo, Tokyo, Japan.
+(6)Department of Immunology and Genomics, Osaka City University Graduate School
+of Medicine, Osaka, Japan; Department of Hematology, Osaka City University
+Graduate School of Medicine, Osaka, Japan.
+(7)Division of Mucosal Symbiosis, International Research and Development Center
+for Mucosal Vaccines, The Institute of Medical Science, The University of Tokyo, 
+Tokyo, Japan.
+(8)Laboratory of Adjuvant Innovation, National Institutes of Biomedical
+Innovation, Health and Nutrition, Osaka, Japan; Laboratory of Vaccine Science,
+World Premier International Immunology Frontier Research Center, Osaka
+University, Osaka, Japan.
+(9)Division of Infection Control and Prevention, Osaka University Hospital,
+Osaka, Japan; Research Institute for Microbial Diseases, Osaka University, Osaka,
+Japan; Department of Infection Control and Prevention, Graduate School of
+Medicine, Osaka University, Osaka, Japan.
+(10)Department of Microbiology and Clinical Vaccine R&D Center, Chonnam National 
+University Medical School, Gwangju, Republic of Korea.
+(11)Division of Mucosal Immunology, Department of Microbiology and Immunology,
+The Institute of Medical Science, The University of Tokyo, Tokyo, Japan.
+(12)Laboratory of Adjuvant Innovation, National Institutes of Biomedical
+Innovation, Health and Nutrition, Osaka, Japan; Laboratory of Vaccine Science,
+World Premier International Immunology Frontier Research Center, Osaka
+University, Osaka, Japan; International Research and Development Center for
+Mucosal Vaccines, The Institute of Medical Science, The University of Tokyo,
+Tokyo, Japan; International Research and Development Center for Mucosal Vaccines,
+The Institute of Medical Science, The University of Tokyo, Tokyo, Japan.
+(13)Department of Medicine, University of California, San Diego, La Jolla, La
+Jolla, California.
+(14)Division of Gastroenterology, Department of Medicine, Chiba
+University-University of California, San Diego Center for Mucosal Immunology,
+Allergy and Vaccines, University of California, San Diego, La Jolla, California; 
+Division of Comparative Pathology and Medicine, Department of Pathology,
+University of California, San Diego, La Jolla, California; Center for Veterinary 
+Sciences and Comparative Medicine, University of California, San Diego, La Jolla,
+California.
+(15)Division of Gastroenterology, Department of Medicine, Chiba
+University-University of California, San Diego Center for Mucosal Immunology,
+Allergy and Vaccines, University of California, San Diego, La Jolla, California; 
+Division of Comparative Pathology and Medicine, Department of Pathology,
+University of California, San Diego, La Jolla, California; Department of Mucosal 
+Immunology, IMSUT Distinguished Professor Unit, The Institute of Medical Science,
+The University of Tokyo, Tokyo, Japan; International Research and Development
+Center for Mucosal Vaccines, The Institute of Medical Science, The University of 
+Tokyo, Tokyo, Japan.
+(16)Department of Immunology and Genomics, Osaka City University Graduate School 
+of Medicine, Osaka, Japan; Division of Innate Immune Regulation; Collaborative
+Research Institute for Innovative Microbiology, The University of Tokyo, Tokyo,
+Japan. Electronic address: uematsu.satoshi@med.osaka-cu.ac.jp.
+
+BACKGROUND & AIMS: Dysregulation of the microbiome has been associated with
+development of complex diseases, such as obesity and diabetes. However, no method
+has been developed to control disease-associated commensal microbes. We
+investigated whether immunization with microbial antigens, using CpG
+oligodeoxynucleotides and/or curdlan as adjuvants, induces systemic
+antigen-specific IgA and IgG production and affects development of diseases in
+mice.
+METHODS: C57BL/6 mice were given intramuscular injections of antigens (ovalbumin,
+cholera toxin B-subunit, or pneumococcal surface protein A) combined with CpG
+oligodeoxynucleotides and/or curdlan. Blood and fecal samples were collected
+weekly and antigen-specific IgG and IgA titers were measured. Lymph nodes and
+spleens were collected and analyzed by enzyme-linked immunosorbent assay for
+antigen-specific splenic T-helper 1 cells, T-helper 17 cells, and memory B cells.
+Six weeks after primary immunization, mice were given a oral, nasal, or vaginal
+boost of ovalbumin; intestinal lamina propria, bronchial lavage, and vaginal swab
+samples were collected and antibodies and cytokines were measured. Some mice were
+also given oral cholera toxin or intranasal Streptococcus pneumoniae and the
+severity of diarrhea or pneumonia was analyzed. Gnotobiotic mice were gavaged
+with fecal material from obese individuals, which had a high abundance of
+Clostridium ramosum (a commensal microbe associated with obesity and diabetes),
+and were placed on a high-fat diet 2 weeks after immunization with C ramosum.
+Intestinal tissues were collected and analyzed by quantitative real-time
+polymerase chain reaction.
+RESULTS: Serum and fecal samples from mice given injections of antigens in
+combination with CpG oligodeoxynucleotides and curdlan for 3 weeks contained
+antigen-specific IgA and IgG, and splenocytes produced interferon-gamma and
+interleukin 17A. Lamina propria, bronchial, and vaginal samples contained
+antigen-specific IgA after the ovalbumin boost. This immunization regimen
+prevented development of diarrhea after injection of cholera toxin, and inhibited
+lung colonization by S pneumoniae. In gnotobiotic mice colonized with C ramosum
+and placed on a high-fat diet, the mice that had been immunized with C ramosum
+became less obese than the nonimmunized mice.
+CONCLUSIONS: Injection of mice with microbial antigens and adjuvant induces
+antigen-specific mucosal and systemic immune responses. Immunization with S
+pneumoniae antigen prevented lung infection by this bacteria, and immunization
+with C ramosum reduced obesity in mice colonized with this microbe and placed on 
+a high-fat diet. This immunization approach might be used to protect against
+microbe-associated disorders of intestine.
+
+Copyright © 2019 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.gastro.2019.08.021 
+PMID: 31445037  [Indexed for MEDLINE]
+

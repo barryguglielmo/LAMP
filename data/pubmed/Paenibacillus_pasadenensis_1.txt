@@ -1,0 +1,41 @@
+
+1. Int J Biol Macromol. 2020 May 1;150:9-15. doi: 10.1016/j.ijbiomac.2020.02.033.
+Epub 2020 Feb 6.
+
+Improving the thermostability and activity of Paenibacillus pasadenensis
+chitinase through semi-rational design.
+
+Xu P(1), Ni ZF(1), Zong MH(1), Ou XY(1), Yang JG(2), Lou WY(3).
+
+Author information: 
+(1)Laboratory of Applied Biocatalysis, School of Food Science and Engineering,
+South China University of Technology, Guangzhou 510640, Guangdong, China.
+(2)South China Institute of Collabrative Innovation, Xincheng Road, Songshan
+Lake, Dongguan 523808, China.
+(3)Laboratory of Applied Biocatalysis, School of Food Science and Engineering,
+South China University of Technology, Guangzhou 510640, Guangdong, China; South
+China Institute of Collabrative Innovation, Xincheng Road, Songshan Lake,
+Dongguan 523808, China. Electronic address: wylou@scut.edu.cn.
+
+Chitinase is a promising biocatalyst for chitin biotransformation in the field of
+recalcitrant biomass degradation. Excellent catalytic performance is conducive to
+its commercial utilization. In this work, sequence- and structure-based
+semi-rational design was performed to evolve the thermostability and activity of 
+a previously identified chitinase PpChi1 from Paenibacillus pasadenensis CS0611. 
+After combinational mutagenesis, the mutant S244C-I319C/T259P with disulfide bond
+introduction and proline substitution exhibited higher specific activity at
+higher temperature, 26.3-fold in half-life value at 50 °C, and a 7.9 °C rise in
+half-inactivation temperature T1/215min compared to the wild-type enzyme. The
+optimal reaction temperature of the mutant was shifted from 45 °C to 52.5 °C.
+Molecular dynamic simulation and structure analysis confirmed that these
+improvements of the mutant were attributed to its stabilized folding form,
+possibly caused by the decreased entropy of unfolding. This work gives an initial
+insight into the effect of conserved proline residues in thermostable chitinases 
+and proposes a feasible approach for improving chitinase thermostability to
+facilitate its application in chitin hydrolysis to valuable oligosaccharides.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2020.02.033 
+PMID: 32035157 
+

@@ -1,0 +1,78 @@
+
+1. Proc Natl Acad Sci U S A. 2020 Aug 11;117(32):19168-19177. doi:
+10.1073/pnas.2004045117. Epub 2020 Jul 27.
+
+The unusual structure of Ruminococcin C1 antimicrobial peptide confers clinical
+properties.
+
+Roblin C(1)(2), Chiumento S(3), Bornet O(4), Nouailler M(5), Müller CS(6),
+Jeannot K(7)(8), Basset C(3), Kieffer-Jaquinod S(9), Couté Y(9), Torelli S(3), Le
+Pape L(3), Schünemann V(6), Olleik H(1), De La Villeon B(10), Sockeel P(10), Di
+Pasquale E(11), Nicoletti C(1), Vidal N(12), Poljak L(13), Iranzo O(1), Giardina 
+T(1), Fons M(14), Devillard E(2), Polard P(13), Maresca M(1), Perrier J(1), Atta 
+M(3), Guerlesquin F(5), Lafond M(15), Duarte V(16).
+
+Author information: 
+(1)Aix-Marseille Université, CNRS, Centrale Marseille, Institut des Sciences
+Moléculaires de Marseille (iSm2), 13013 Marseille, France.
+(2)ADISSEO France SAS, Centre d'Expertise et de Recherche en Nutrition, 03600
+Commentry, France.
+(3)Université Grenoble Alpes, Commissariat à l'Energie Atomique et aux énergies
+alternatives (CEA), Institut de Recherche Interdisciplinaire de Grenoble (IRIG), 
+Chimie et Biologie des Métaux (CBM), CNRS UMR 5249, 38054 Grenoble, France.
+(4)NMR Platform, Institut de Microbiologie de la Méditerranée, CNRS,
+Aix-Marseille Université, 13009 Marseille, France; bornet@imm.cnrs.fr
+mickael.lafond@univ-amu.fr victor.duarte@cea.fr.
+(5)Laboratoire d'Ingénierie des Systèmes Macromoléculaires, UMR 7255, Institut de
+Microbiologie de la Méditerranée, CNRS, Aix-Marseille Université, 13009
+Marseille, France.
+(6)Fachbereich Physik, Technische Universität Kaiserslautern, 67663
+Kaiserslautern, Germany.
+(7)Centre National de Référence de la Résistance aux Antibiotiques, Laboratoire
+de Bactériologie, Centre Hospitalier Universitaire de Besançon, 25030 Besançon,
+France.
+(8)UMR 6249 Chrono-Environnement, Unité de Formation et de Recherche (UFR) Santé,
+Université de Bourgogne-Franche-Comté, 25030 Besançon, France.
+(9)Université Grenoble Alpes, CEA, INSERM, IRIG, Biologie à Grande Echelle (BGE),
+38054 Grenoble, France.
+(10)Department of Digestive, Endocrine and Metabolic Surgery, Hôpital Laveran,
+Military Health Service, 13013 Marseille, France.
+(11)Institut de NeuroPhysioPathologie, Faculté de Médecine, Aix Marseille
+Université, 13397 Marseille, France.
+(12)Yelen Analytics, Institut de Chimie Radicalaire, Aix-Marseille Université,
+13013 Marseille, France.
+(13)Laboratoire de Microbiologie et de Génétique Moléculaires, Centre de Biologie
+Intégrative, Université de Toulouse, CNRS, Université Paul Sabatier (UPS), 31400 
+Toulouse, France.
+(14)Laboratoire de Bioénergétique et Ingénierie des Protéines, UMR 7281, Institut
+de Microbiologie de la Méditerranée, CNRS, Aix-Marseille Université, 13009
+Marseille, France.
+(15)Aix-Marseille Université, CNRS, Centrale Marseille, Institut des Sciences
+Moléculaires de Marseille (iSm2), 13013 Marseille, France; bornet@imm.cnrs.fr
+mickael.lafond@univ-amu.fr victor.duarte@cea.fr.
+(16)Université Grenoble Alpes, Commissariat à l'Energie Atomique et aux énergies 
+alternatives (CEA), Institut de Recherche Interdisciplinaire de Grenoble (IRIG), 
+Chimie et Biologie des Métaux (CBM), CNRS UMR 5249, 38054 Grenoble, France;
+bornet@imm.cnrs.fr mickael.lafond@univ-amu.fr victor.duarte@cea.fr.
+
+The emergence of superbugs developing resistance to antibiotics and the
+resurgence of microbial infections have led scientists to start an antimicrobial 
+arms race. In this context, we have previously identified an active RiPP, the
+Ruminococcin C1, naturally produced by Ruminococcus gnavus E1, a symbiont of the 
+healthy human intestinal microbiota. This RiPP, subclassified as a sactipeptide, 
+requires the host digestive system to become active against pathogenic Clostridia
+and multidrug-resistant strains. Here we report its unique compact structure on
+the basis of four intramolecular thioether bridges with reversed stereochemistry 
+introduced posttranslationally by a specific radical-SAM sactisynthase. This
+structure confers to the Ruminococcin C1 important clinical properties including 
+stability to digestive conditions and physicochemical treatments, a higher
+affinity for bacteria than simulated intestinal epithelium, a valuable activity
+at therapeutic doses on a range of clinical pathogens, mediated by energy
+resources disruption, and finally safety for human gut tissues.
+
+DOI: 10.1073/pnas.2004045117 
+PMCID: PMC7431081 [Available on 2021-01-27]
+PMID: 32719135 
+
+Conflict of interest statement: The authors declare no competing interest.
+

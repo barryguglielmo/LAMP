@@ -1,0 +1,45 @@
+
+1. Biotechnol Bioeng. 2020 Jun 23. doi: 10.1002/bit.27471. [Epub ahead of print]
+
+On the donor substrate dependence of group-transfer reactions by hydrolytic
+enzymes: Insight from kinetic analysis of sucrose phosphorylase-catalyzed
+transglycosylation.
+
+Klimacek M(1), Sigg A(1), Nidetzky B(1)(2).
+
+Author information: 
+(1)Institute of Biotechnology and Biochemical Engineering, Graz University of
+Technology, NAWI Graz, Graz, Austria.
+(2)Austrian Centre of Industrial Biotechnology (acib), Graz, Austria.
+
+Chemical group-transfer reactions by hydrolytic enzymes have considerable
+importance in biocatalytic synthesis and are exploited broadly in
+commercial-scale chemical production. Mechanistically, these reactions have in
+common the involvement of a covalent enzyme intermediate which is formed upon
+enzyme reaction with the donor substrate and is subsequently intercepted by a
+suitable acceptor. Here, we studied the glycosylation of glycerol from sucrose by
+sucrose phosphorylase (SucP) to clarify a peculiar, yet generally important
+characteristic of this reaction: partitioning between glycosylation of glycerol
+and hydrolysis depends on the type and the concentration of the donor substrate
+used (here: sucrose, α-d-glucose 1-phosphate (G1P)). We develop a kinetic
+framework to analyze the effect and provide evidence that, when G1P is used as
+donor substrate, hydrolysis occurs not only from the β-glucosyl-enzyme
+intermediate (E-Glc), but additionally from a noncovalent complex of E-Glc and
+substrate which unlike E-Glc is unreactive to glycerol. Depending on the relative
+rates of hydrolysis of free and substrate-bound E-Glc, inhibition (Leuconostoc
+mesenteroides SucP) or apparent activation (Bifidobacterium adolescentis SucP) is
+observed at high donor substrate concentration. At a G1P concentration that
+excludes the substrate-bound E-Glc, the transfer/hydrolysis ratio changes to a
+value consistent with reaction exclusively through E-Glc, independent of the
+donor substrate used. Collectively, these results give explanation for a kinetic 
+behavior of SucP not previously accounted for, provide essential basis for design
+and optimization of the synthetic reaction, and establish a theoretical framework
+for the analysis of kinetically analogous group-transfer reactions by hydrolytic 
+enzymes.
+
+© 2020 The Authors. Biotechnology and Bioengineering published by Wiley
+Periodicals LLC.
+
+DOI: 10.1002/bit.27471 
+PMID: 32573774 
+

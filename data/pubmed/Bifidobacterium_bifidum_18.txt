@@ -1,0 +1,43 @@
+
+1. Front Chem. 2020 Jul 7;8:548. doi: 10.3389/fchem.2020.00548. eCollection 2020.
+
+Rapid Detection of Bifidobacterium bifidum in Feces Sample by Highly Sensitive
+Quartz Crystal Microbalance Immunosensor.
+
+Hou K(1), Zhao P(2), Chen Y(3), Li G(4), Lin Y(5), Chen D(6), Zhu D(1), Wu Z(1), 
+Lian D(7), Huang X(7), Li J(7).
+
+Author information: 
+(1)Department of Endocrine and Metabolic Diseases, Longhu Hospital, The First
+Affiliated Hospital of Shantou University Medical College, Shantou, China.
+(2)Department of Laboratory Medicine, Yuebei People's Hospital, Shantou
+University Medical College, Shaoguan, China.
+(3)Department of Emergency Intensive Care Unit (EICU), The First Affiliated
+Hospital of Shantou University Medical College, Shantou, China.
+(4)Department of Endocrine and Metabolic Diseases, The Third People's Hospital of
+Huizhou, Huizhou, China.
+(5)Department of Endocrinology, Jieyang People's Hospital, Jieyang, China.
+(6)Department of Endocrinology, Puning People's Hospital, Puning, China.
+(7)Department of Cardiology, The Second Affiliated Hospital of Shantou University
+Medical College, Shantou, China.
+
+In this work, a quartz crystal microbalance (QCM) sensor has been fabricated
+using immunoassay for sensitive determination of Bifidobacterium bifidum. Au
+nanoparticle has been used for amplifying sandwich assays. The proposed
+immunosensor exhibited a linear detection range between 103 and 105 CFU/mL with a
+limit of detection of 2.1 × 102 CFU/mL. The proposed immunosensor exhibited good 
+selectivity for B. bifidum sensing with low cross reactivity for other foodborne 
+pathogens such as Lactobacillus acidophilus, Listeria monocytogenes, and
+Escherichia coli. In addition, the proposed immunosensor has been successfully
+used for B. bifidum detection in feces samples and food samples. The frequency
+decreases of 12, 17, and 10 Hz were observed from the milk samples consisting of 
+the mixtures of L. acidophilus, L. monocytogenes, and E. coli. The frequency
+decreases of 8, 15, and 7 Hz were observed from the feces samples consisting of
+the mixtures of L. acidophilus, L. monocytogenes, and E. coli.
+
+Copyright © 2020 Hou, Zhao, Chen, Li, Lin, Chen, Zhu, Wu, Lian, Huang and Li.
+
+DOI: 10.3389/fchem.2020.00548 
+PMCID: PMC7358898
+PMID: 32733849 
+

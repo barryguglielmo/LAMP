@@ -1,0 +1,58 @@
+
+1. J Biol Chem. 2020 Jul 31;295(31):10766-10780. doi: 10.1074/jbc.RA120.014029. Epub
+2020 Jun 3.
+
+Cross-utilization of β-galactosides and cellobiose in Geobacillus
+stearothermophilus.
+
+Shulami S(1), Zehavi A(1), Belakhov V(2), Salama R(1), Lansky S(3), Baasov T(2), 
+Shoham G(4), Shoham Y(5).
+
+Author information: 
+(1)Department of Biotechnology and Food Engineering, Technion-Israel Institute of
+Technology, Haifa, Israel.
+(2)Schulich Faculty of Chemistry, Technion-Israel Institute of Technology, Haifa,
+Israel.
+(3)Institute of Chemistry and the Laboratory for Structural Chemistry and
+Biology, Hebrew University of Jerusalem, Jerusalem, Israel.
+(4)Institute of Chemistry and the Laboratory for Structural Chemistry and
+Biology, Hebrew University of Jerusalem, Jerusalem, Israel yshoham@technion.ac.il
+gil2@mail.huji.ac.il.
+(5)Department of Biotechnology and Food Engineering, Technion-Israel Institute of
+Technology, Haifa, Israel yshoham@technion.ac.il gil2@mail.huji.ac.il.
+
+Strains of the Gram-positive, thermophilic bacterium Geobacillus
+stearothermophilus possess elaborate systems for the utilization of
+hemicellulolytic polysaccharides, including xylan, arabinan, and galactan. These 
+systems have been studied extensively in strains T-1 and T-6, representing
+microbial models for the utilization of soil polysaccharides, and many of their
+components have been characterized both biochemically and structurally. Here, we 
+characterized routes by which G. stearothermophilus utilizes mono- and
+disaccharides such as galactose, cellobiose, lactose, and galactosyl-glycerol.
+The G. stearothermophilus genome encodes a phosphoenolpyruvate carbohydrate
+phosphotransferase system (PTS) for cellobiose. We found that the cellobiose-PTS 
+system is induced by cellobiose and characterized the corresponding GH1
+6-phospho-β-glucosidase, Cel1A. The bacterium also possesses two transport
+systems for galactose, a galactose-PTS system and an ABC galactose transporter.
+The ABC galactose transport system is regulated by a three-component sensing
+system. We observed that both systems, the sensor and the transporter, utilize
+galactose-binding proteins that also bind glucose with the same affinity. We
+hypothesize that this allows the cell to control the flux of galactose into the
+cell in the presence of glucose. Unexpectedly, we discovered that G.
+stearothermophilus T-1 can also utilize lactose and galactosyl-glycerol via the
+cellobiose-PTS system together with a bifunctional 6-phospho-β-gal/glucosidase,
+Gan1D. Growth curves of strain T-1 growing in the presence of cellobiose, with
+either lactose or galactosyl-glycerol, revealed initially logarithmic growth on
+cellobiose and then linear growth supported by the additional sugars. We conclude
+that Gan1D allows the cell to utilize residual galactose-containing
+disaccharides, taking advantage of the promiscuity of the cellobiose-PTS system.
+
+© 2020 Shulami et al.
+
+DOI: 10.1074/jbc.RA120.014029 
+PMCID: PMC7397113 [Available on 2021-07-31]
+PMID: 32493770 
+
+Conflict of interest statement: Conflict of interest—The authors declare that
+they have no conflicts of interest with the contents of this article.
+

@@ -1,0 +1,81 @@
+
+1. Environ Int. 2020 Jun;139:105715. doi: 10.1016/j.envint.2020.105715. Epub 2020
+Apr 18.
+
+Contaminated in-house environment contributes to the persistence and transmission
+of NDM-producing bacteria in a Chinese poultry farm.
+
+Zhai R(1), Fu B(1), Shi X(1), Sun C(1), Liu Z(2), Wang S(1), Shen Z(1), Walsh
+TR(3), Cai C(4), Wang Y(5), Wu C(6).
+
+Author information: 
+(1)Beijing Advanced Innovation Center for Food Nutrition and Human Health,
+College of Veterinary Medicine, China Agricultural University, Beijing, China.
+(2)Agricultural Bio-pharmaceutical Laboratory, College of Chemistry and
+Pharmaceutical Sciences, Qingdao Agricultural University, Qingdao, China.
+(3)Beijing Advanced Innovation Center for Food Nutrition and Human Health,
+College of Veterinary Medicine, China Agricultural University, Beijing, China;
+Department of Medical Microbiology and Infectious Disease, Division of Infection 
+and Immunity, Heath Park Hospital, Cardiff, United Kingdom.
+(4)China Australia Joint Laboratory for Animal Health Big Data Analytics, College
+of Animal Science and Technology, Zhejiang Agricultural and Forestry University, 
+Hangzhou, China; Research and Innovation Office, Murdoch University, Murdoch,
+Australia.
+(5)Beijing Advanced Innovation Center for Food Nutrition and Human Health,
+College of Veterinary Medicine, China Agricultural University, Beijing, China.
+Electronic address: wangyang@cau.edu.cn.
+(6)Beijing Advanced Innovation Center for Food Nutrition and Human Health,
+College of Veterinary Medicine, China Agricultural University, Beijing, China.
+Electronic address: wucm@cau.edu.cn.
+
+While carbapenem use is prohibited in the poultry production chain and
+carbapenem-resistant Enterobacteriaceae (CRE) are absent from hatchery farms, New
+Delhi metallo-β-lactamase-producing CRE contamination of commercial broiler
+chicken farms (grow-out farms) can occur via living hosts such as flies. However,
+it is not known whether the inanimate factors from in-house environment play a
+role in the persistence of CRE on commercial farms. Herein, we monitored one
+typical broiler house in Hebei Province, China, from January 2017 to April 2018. 
+We collected 350 cloacal samples from four broiler batches along with 582
+environmental samples (194 in the raising period and 388 in the vacancy period)
+from sites including the surfaces of drooping boards, feeding troughs, nipple
+drinkers, corridor floors, sewage trenches, and air. All samples were screened
+for blaNDM and cultured for NDM-producing isolates. The resistance profiles,
+genotypes, and genetic context of blaNDM in CRE isolates were further
+characterized. Results showed that 1-day-old broilers, which were transferred
+from a hatchery farm and negative for CRE, acquired blaNDM within 24 h of
+transfer (2 days of age), with a detection rate of up to 18.6%. High blaNDM
+detection rates (26.8%-31.4%) were obtained among all environmental samples
+except air after standard cleaning and disinfection during the vacancy period.
+blaNDM carriage rates (52.9%-72.9%) within the flocks remain stable and high
+across the next three broiler batches. Overall, 279 NDM-producing bacteria,
+including 259 Enterobacteriaceae (8 species), 14 Morganellaceae (3 species),
+three Alcaligenes faecalis and three Pseudomonas putida isolates, were recovered 
+from 85 (24.3%) cloacal and 101 (17.4%) environmental samples. Three NDM
+variants, including NDM-5 (n = 181), NDM-1 (n = 92), and NDM-9 (n = 3), and a
+novel NDM-like-metallo-β-lactamase (NLM, n = 3) were identified among the
+samples. The predominant NDM-producing CRE species among the samples were
+Klebsiella pneumoniae (CRKP; 32.6%, n = 91) and Escherichia coli (CREC; 27.2%,
+n = 76). Both clonal and horizontal transmission of blaNDM and an overlap of
+sequence types (STs) were observed in both CREC and CRKP from chicken and
+environmental samples. Notably, ST6751 CREC and ST37 CRKP persisted throughout
+the 16-month surveillance period. IncX3 (n = 197, 7 species), IncA/C2 (n = 41, 5 
+species), and IncFII (n = 8, E. coli) were the three major blaNDM-carrying
+plasmid types among the isolates. Although routine cleaning and disinfection
+procedures and "all-in/all-out" management were performed, once introduced to the
+farm environment, a diverse range of NDM-positive isolates may survive and
+persist, becoming an important reservoir of NDM-positive CRE for broiler
+chickens. Therefore, cleaning and disinfection procedures should be improved on
+poultry farms to avoid cross-contamination of NDM-producing bacteria between
+different batches of chickens, as well as further downstream in the poultry
+production chain.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.envint.2020.105715 
+PMID: 32315891 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

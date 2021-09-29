@@ -1,0 +1,53 @@
+
+1. Infect Drug Resist. 2020 Jun 25;13:1981-1993. doi: 10.2147/IDR.S251626.
+eCollection 2020.
+
+Molecular Epidemiology of Myroides odoratimimus in Nosocomial Catheter-Related
+Infection at a General Hospital in China.
+
+Yang S(1), Liu Q(1), Shen Z(1), Wang H(1), He L(1).
+
+Author information: 
+(1)Department of Laboratory Medicine, Renji Hospital, School of Medicine,
+Shanghai Jiao Tong University, Shanghai, People's Republic of China.
+
+Purpose: Catheter-related infection (CRI) is one of the most frequent causes of
+hospitalizations for immunocompromised patients. A major challenge is the
+increased prevalence of Myroides odoratimimus. The purpose of the present study
+was to evaluate the clinical features and molecular characteristics of M.
+odoratimimus collected from a general hospital in Shanghai, China.
+Patients and Methods: From July 2015 to August 2016, a total of 22 isolates of M.
+odoratimimus were collected from inpatients respectively from the biliary and
+pancreatic surgery (6/22) and the urology department (16/22). Clonal relatedness 
+among the isolates was assessed using pulsed-field gel electrophoresis (PFGE) and
+matrix-assisted laser desorption/ionization time-of-flight mass spectrometry
+(MALDI-TOF MS). Moreover, the antimicrobial susceptibility tests were carried out
+using the Clinical and Laboratory Standards Institute (CLSI) broth microdilution 
+method. The presence of antibiotic resistance genes was screened using the
+polymerase chain reaction (PCR) assay. Additionally, protein structure prediction
+was analyzed using PSIPRED and RaptorX.
+Results: PFGE differentiated these isolates into six possibly related clones from
+two different departments obtained during a distinct period, indicating clonal
+dissemination in the two departments. We compared the dendrograms of M.
+odoratimimus isolates obtained by MALDI-TOF MS with those obtained by PFGE and
+found that the coincidence rate between them was only 68.2%. All the M.
+odoratimimus isolates were highly resistant to most available antibiotics,
+including carbapenems. Furthermore, chromosome-encoded β-lactamases MUS-1 was
+confirmed by PCR in 6 of 22 Myroides odoratimimus isolates. Herein, we also
+reported a novel variant of blaMUS- 1 in the remaining 16 isolates, which encodes
+MUS-3 protein at position 60 (Valine to Alanine), differing from the structure of
+MUS-1.
+Conclusion: The opportunistic and extensively antibiotic-resistant Myroides
+odoratimimus has a small range of epidemics in these two different departments.
+Clinicians should be aware that M. odoratimimus may induce a severe nosocomial
+outbreak of catheter-related infections, particularly in immunocompromised
+patients.
+
+© 2020 Yang et al.
+
+DOI: 10.2147/IDR.S251626 
+PMCID: PMC7323792
+PMID: 32612373 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

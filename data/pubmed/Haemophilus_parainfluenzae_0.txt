@@ -1,0 +1,64 @@
+
+1. J Ren Nutr. 2020 Sep 24. pii: S1051-2276(20)30205-3. doi:
+10.1053/j.jrn.2020.07.008. [Epub ahead of print]
+
+Associations Among Plant-Based Diet Quality, Uremic Toxins, and Gut Microbiota
+Profile in Adults Undergoing Hemodialysis Therapy.
+
+Stanford J(1), Charlton K(2), Stefoska-Needham A(2), Zheng H(3), Bird L(4), Borst
+A(5), Fuller A(5), Lambert K(2).
+
+Author information: 
+(1)Faculty of Science, Medicine and Health, School of Medicine, University of
+Wollongong, Wollongong, New South Wales, Australia; Illawarra Health and Medical 
+Research Institute, Wollongong, New South Wales, Australia. Electronic address:
+js096@uowmail.edu.au.
+(2)Faculty of Science, Medicine and Health, School of Medicine, University of
+Wollongong, Wollongong, New South Wales, Australia; Illawarra Health and Medical 
+Research Institute, Wollongong, New South Wales, Australia.
+(3)Division of Laboratory Medicine, Microbiome Medicine Center, Zhujiang
+Hospital, Southern Medical University, Guangzhou, Guangdong, China.
+(4)Wollongong Hospital, Illawarra Shoalhaven Local Health District, Wollongong,
+New South Wales, Australia.
+(5)Faculty of Science, Medicine and Health, School of Medicine, University of
+Wollongong, Wollongong, New South Wales, Australia.
+
+OBJECTIVE: The objective of the study was to evaluate associations among diet
+quality, serum uremic toxin concentrations, and the gut microbiota profile in
+adults undergoing hemodialysis therapy.
+DESIGN AND METHODS: This is a cross-sectional analysis of baseline data from a
+clinical trial involving adults receiving hemodialysis therapy. Usual dietary
+intake was determined using a diet history method administered by Accredited
+Practising Dietitians. Two approaches were used for diet quality assessment: (1) 
+using three a priori defined plant-based diet indices-an overall plant-based diet
+index (PDI), a healthy PDI, and an unhealthy PDI and (2) classification of food
+group intake. Serum uremic toxins (p-cresyl sulfate and indoxyl sulfate (IS);
+free and total) were determined by ultra-performance liquid chromatography. Gut
+microbiota composition was established through sequencing the 16S rRNA gene in
+stool samples.
+RESULTS: Twenty-two adults (median age 70.5 [interquartile range: 59-76], 64%
+male) were included in the final analysis. Higher adherence to the PDI was
+associated with lower total IS levels (P = .028), independent of dialysis
+adequacy, urinary output, and blood albumin levels. In contrast, higher adherence
+to the unhealthy PDI was associated with increases in both free and total IS.
+Several other direct and inverse associations between diet quality with uremic
+toxins, microbial relative abundances, and diversity metrics were also
+highlighted. Diet-associated taxa showed significantly different trends of
+association with serum uremic toxin concentrations (P < .05). Higher adherence to
+the PDI was negatively associated with relative abundances of Haemophilus and
+Haemophilus parainfluenzae that were related to elevated total IS levels. In
+contrast, increased intake of food items considered unhealthy, such as animal
+fats, sweets and desserts, were associated with bacteria linked to higher IS and 
+p-cresyl sulfate (total and free) concentrations.
+CONCLUSIONS: The quality of diet and food selections may influence uremic toxin
+production by the gut microbiota in adults receiving hemodialysis. Well-designed 
+dietary intervention trials that adopt multi-omic technologies appropriate for
+the functional annotation of the gut microbiome are needed to validate our
+findings and establish causality.
+
+Copyright © 2020 National Kidney Foundation, Inc. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1053/j.jrn.2020.07.008 
+PMID: 32981834 
+

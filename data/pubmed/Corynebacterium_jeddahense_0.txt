@@ -1,0 +1,51 @@
+
+1. PeerJ. 2019 Nov 22;7:e8147. doi: 10.7717/peerj.8147. eCollection 2019.
+
+Accumulation of di-2-ethylhexyl phthalate from polyvinyl chloride flooring into
+settled house dust and the effect on the bacterial community.
+
+Velazquez S(1), Bi C(2)(3), Kline J(1)(4), Nunez S(1), Corsi R(3)(5), Xu Y(3)(6),
+Ishaq SL(1)(7).
+
+Author information: 
+(1)Biology and the Built Environment Center, University of Oregon, Eugene, OR,
+USA.
+(2)Department of Civil Engineering, Virginia Polytechnic Institute and State
+University (Virginia Tech), Blacksburg, VA, USA.
+(3)Department of Civil, Architectural and Environmental Engineering, University
+of Texas at Austin, Austin, TX, USA.
+(4)Energy Studies and Buildings Laboratory, University of Oregon, Eugene, OR,
+USA.
+(5)Fariborz Maseeh College of Engineering and Computer Science, Portland State
+University, Portland, OR, USA.
+(6)Department of Building Science, Tsinghua University (), Beijing, China.
+(7)School of Food and Agriculture, University of Maine, Orono, ME, USA.
+
+Di-2-ethylhexyl phthalate (DEHP) is a plasticizer used in consumer products and
+building materials, including polyvinyl chloride flooring material. DEHP adsorbs 
+from material and leaches into soil, water, or dust and presents an exposure risk
+to building occupants by inhalation, ingestion, or absorption. A number of
+bacterial isolates are demonstrated to degrade DEHP in culture, but bacteria may 
+be susceptible to it as well, thus this study examined the relation of DEHP to
+bacterial communities in dust. Polyvinyl chloride flooring was seeded with
+homogenized house dust and incubated for up to 14 days, and bacterial communities
+in dust were identified at days 1, 7, and 14 using the V3-V4 regions of the
+bacterial 16S rRNA gene. DEHP concentration in dust increased over time, as
+expected, and bacterial richness and Shannon diversity were negatively correlated
+with DEHP concentration. Some sequence variants of Bacillus, Corynebacterium
+jeddahense, Streptococcus, and Peptoniphilus were relatively more abundant at low
+concentrations of DEHP, while some Sphingomonas, Chryseobacterium, and a member
+of the Enterobacteriaceae family were relatively more abundant at higher
+concentrations. The built environment is known to host lower microbial diversity 
+and biomass than natural environments, and DEHP or other chemicals indoors may
+contribute to this paucity.
+
+© 2019 Velazquez et al.
+
+DOI: 10.7717/peerj.8147 
+PMCID: PMC6876486
+PMID: 31772847 
+
+Conflict of interest statement: The authors declare that they have no competing
+interests.
+

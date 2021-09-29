@@ -1,0 +1,43 @@
+
+1. Microorganisms. 2020 Aug 20;8(9). pii: E1257. doi: 10.3390/microorganisms8091257.
+
+Papaya Fruit Pulp and Resulting Lactic Fermented Pulp Exert Antiviral Activity
+against Zika Virus.
+
+Haddad JG(1), Carcauzon V(1), El Kalamouni O(1), Desprès P(1), Garcia C(2),
+Remize F(2), El Kalamouni C(1).
+
+Author information: 
+(1)Unité Mixte Processus Infectieux en Milieu Insulaire Tropical, INSERM U1187,
+CNRS UMR 9192, IRD UMR 249, Université de la Réunion, Plateforme Technologique
+CYROI, 94791 Sainte Clotilde, La Réunion, France.
+(2)UMR QualiSud, Université de La Réunion, CIRAD, Université Montpellier,
+Montpellier SupAgro, Université d'Avignon, ESIROI, 2 rue J. Wetzell, Parc
+Technologique Universitaire, 97490 Sainte Clotilde, France.
+
+There are a several emerging and re-emerging RNA viruses that are prevalent
+around the world for which there are no licensed vaccines or antiviral drugs.
+Zika virus (ZIKV) is an example of an emerging virus that has become a
+significant concern worldwide because of its association with severe congenital
+malformations and neurological disorders in adults. Several polyphenol-rich
+extracts from plants were used as nutraceuticals which exhibit potent in vitro
+antiviral effects. Here, we demonstrated that the papaya pulp extracted from
+Carica papaya fruit inhibits the infection of ZIKV in human cells without loss of
+cell viability. At the non-cytotoxic concentrations, papaya pulp extract has the 
+ability to reduce the virus progeny production in ZIKV-infected human cells by at
+least 4-log, regardless of viral strains tested. Time-of-drug-addition assays
+revealed that papaya pulp extract interfered with the attachment of viral
+particles to the host cells. With a view of preserving the properties of papaya
+pulp over time, lactic fermentation based on the use of bacterial strains
+Weissella cibaria 64, Lactobacillus plantarum 75 and Leuconostoc
+pseudomesenteroides 56 was performed and the resulting fermented papaya pulp
+samples were tested on ZIKV. We found that lactic fermentation of papaya pulp
+causes a moderate loss of antiviral activity against ZIKV in a bacterial
+strain-dependent manner. Whereas IC50 of the papaya pulp extract was 0.3 mg/mL,
+we found that fermentation resulted in IC50 up to 4 mg/mL. We can conclude that
+papaya pulp possesses antiviral activity against ZIKV and the fermentation
+process has a moderate effect on the antiviral effect.
+
+DOI: 10.3390/microorganisms8091257 
+PMID: 32825246 
+

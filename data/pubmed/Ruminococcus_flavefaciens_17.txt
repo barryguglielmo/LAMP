@@ -1,0 +1,38 @@
+
+1. J Biomol Struct Dyn. 2020 Sep;38(15):4371-4384. doi:
+10.1080/07391102.2019.1680438. Epub 2019 Oct 23.
+
+Small-angle X-ray scattering based structure, modeling and molecular dynamics
+analyses of a family 5 glycoside hydrolase first endo-mannanase named as RfGH5_7 
+from Ruminococcus flavefaciens.
+
+Goyal D(1), Kumar K(1), Sharma K(1), Goyal A(1).
+
+Author information: 
+(1)Department of Biosciences and Bioengineering, Indian Institute of Technology
+Guwahati, Guwahati, Assam, India.
+
+Endo-β-1,4-mannanase named as RfGH5_7 from Ruminococcus flavefaciens cloned,
+expressed and purified earlier was structurally characterized in present study.
+The RaptorX modeled structure of RfGH5_7 showed a (β/α)8 Triose-phosphate
+Isomerase (TIM) barrel fold. The Ramachandran plot assessment of RfGH5_7 showed
+that all amino acids fall in allowed region except one, Asn22 in the disallowed
+region. The superposition of RfGH5_7 modeled structure with its nearest
+homologues revealed that Glu154 acts as proton donor while Glu249 acts as
+nucleophile. Secondary structure of RfGH5_7 through Circular Dichroism (CD)
+analysis revealed 33.5% α-helices, 17% β-strands and 49.5% random coils.
+Molecular Dynamic (MD) simulation showed Root Mean Square Deviation (RMSD),
+0.67 nm and radius of gyration (Rg) between 1.9 nm and 1.85 nm. The binding
+interaction of mannotetraose on the surface of RfGH5_7 structure displayed polar 
+interactions with His219, Tyr221, Trp278, Ser279 and Gly282 residues. Small-angle
+X-ray scattering (SAXS) analysis displayed the intact and monodispersed nature of
+the enzyme RfGH5_7. The radius of gyration (Rg) by Guinier analysis for globular 
+shape was found to be 2.29 ± 0.09 nm and for rod-shape it was 0.95 ± 0.02 nm.
+Kratky plot confirmed that RfGH5_7 structure is compact and folded in solution.
+The ab initio derived dummy model of RfGH5_7 displayed single domain structure of
+yellow humped fish like shape. The RfGH5_7 modeled structure was well fitted with
+ab initio derived model from SAXS data. Communicated by Ramaswamy H. Sarma.
+
+DOI: 10.1080/07391102.2019.1680438 
+PMID: 31608797 
+

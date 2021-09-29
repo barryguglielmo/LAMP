@@ -1,0 +1,45 @@
+
+1. Front Cell Infect Microbiol. 2020 Jul 17;10:357. doi: 10.3389/fcimb.2020.00357.
+eCollection 2020.
+
+CFTR Depletion Confers Hypersusceptibility to Mycobacterium fortuitum in a
+Zebrafish Model.
+
+Johansen MD(1), Kremer L(1)(2).
+
+Author information: 
+(1)Institut de Recherche en Infectiologie de Montpellier, Centre National de la
+Recherche Scientifique UMR 9004, Université de Montpellier, Montpellier, France.
+(2)INSERM, Institut de Recherche en Infectiologie de Montpellier, Montpellier,
+France.
+
+The Mycobacterium fortuitum complex comprises several closely related species,
+causing pulmonary and extra-pulmonary infections. However, there is very limited 
+knowledge about the disease pathogenesis involved in M. fortuitum infections,
+particularly due to the lack of suitable animal models. Using the zebrafish
+model, we show that embryos are susceptible to M. fortuitum infection in a
+dose-dependent manner. Furthermore, zebrafish embryos form granulomas from as
+early as 2 days post-infection, recapitulating critical aspects of mycobacterial 
+pathogenesis observed in other pathogenic species. The formation of extracellular
+cords in infected embryos highlights a previously unknown pathogenic feature of
+M. fortuitum. The formation of large corded structures occurs also during in
+vitro growth, suggesting that this is not a host-adapted stress mechanism
+deployed during infection. Moreover, transient macrophage depletion led to rapid 
+embryo death with increased extracellular cords, indicating that macrophages are 
+essential determinants of M. fortuitum infection control. Importantly, morpholino
+depletion of the cystic fibrosis transmembrane conductance regulator (cftr)
+significantly increased embryo death, bacterial burden, bacterial cords and
+abscesses. There was a noticeable decrease in the number of cftr-deficient
+infected embryos with granulomas as compared to infected controls, suggesting
+that loss of CFTR leads to impaired host immune responses and confers
+hypersusceptiblity to M. fortuitum infection. Overall, these findings highlight
+the application of the zebrafish embryo to study M. fortuitum and emphasizes
+previously unexplored aspects of disease pathogenesis of this significant
+mycobacterial species.
+
+Copyright © 2020 Johansen and Kremer.
+
+DOI: 10.3389/fcimb.2020.00357 
+PMCID: PMC7396536
+PMID: 32850470 
+

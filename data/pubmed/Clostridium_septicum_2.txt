@@ -1,0 +1,53 @@
+
+1. Comp Clin Path. 2020 Jul 14:1-9. doi: 10.1007/s00580-020-03136-6. [Epub ahead of 
+print]
+
+In silico analysis of a chimeric fusion protein as a new vaccine candidate
+against Clostridium perfringens type A and Clostridium septicum alpha toxins.
+
+Haghroosta A(1)(2), Goudarzi H(1), Faghihloo E(1), Ghalavand Z(1), Ranjbar MM(3),
+Langroudi RP(2).
+
+Author information: 
+(1)Department of Microbiology, School of Medical, Shahid Beheshti University of
+Medical Sciences, Koodak-yar St, Daneshjoo Blvd, Velenjak, Chamran HWY, Tehran,
+Iran.
+(2)Department of Anaerobic Bacterial Vaccines Production, Razi Vaccine and Serum 
+Research Institute, Agricultural Research, Education and Extension Organization
+(AREEO), Karaj, Iran.
+(3)Department of Poultry Virology Research, Razi Vaccine and Serum Research
+Institute, Agricultural Research, Education and Extension Organization (AREEO),
+Karaj, Iran.
+
+In silico analysis is the most important approach to understand protein structure
+and functions, and the most important problem for designing and producing a
+fusion construct is producing large amounts of functional protein. Clostridium
+perfringens type A and Clostridium septicum produce alpha (plc) and alpha toxins 
+respectively. C. perfringens can cause gas gangrene and gastrointestinal
+diseases. C. septicum can cause traumatic and non-traumatic gas gangrene. The aim
+of current research was in silico analysis of a chimeric fusion protein against
+C. perfringens type A and C. septicum alpha toxins. Firstly, the chimeric fusion 
+gene was designed according to nucleotide sequences of C. perfringens type A
+alpha (KY584046.1) and C. septicum alpha (JN793989.2) toxin genes and then its
+fusion protein is constructed by amino acid sequences of C. perfringens type A
+and C. septicum alpha toxins. Secondly, online software was used to determine
+prediction of secondary and tertiary structures and physicochemical
+characteristics of the fusion protein. Finally, the validation of the fusion
+protein was confirmed by Rampage and proSA program. The designed fusion protein
+has 777 amino acids in length. TASSER server and physicochemical parameters are
+showed: C-score = - 2.68 and molecular weight = 87.9 KD respectively. Rampage and
+proSA software revealed the fusion protein is valid. Deposited accession number
+for the sequence of the fusion gene in the GenBank is MK908396. The designed
+fusion protein is valid and functional. Thus, the fusion gene could be used for
+clone and expression in a proper prokaryotic cell and also as a recombinant
+vaccine candidate.
+
+© The Author(s) 2020.
+
+DOI: 10.1007/s00580-020-03136-6 
+PMCID: PMC7358331
+PMID: 32837501 
+
+Conflict of interest statement: Conflict of interestThe authors declare that
+there is no conflict of interest.
+

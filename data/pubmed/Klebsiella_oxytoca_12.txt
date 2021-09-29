@@ -1,0 +1,40 @@
+
+1. J Chemother. 2020 Aug 6:1-9. doi: 10.1080/1120009X.2020.1800318. [Epub ahead of
+print]
+
+Optimization of tigecycline dosage regimen for different infections in the
+patients with hepatic or renal impairment.
+
+Li MX(1), Li N(2), Zhu LQ(3), Liu W(4).
+
+Author information: 
+(1)Department of Pharmacy, Tianjin Childrens Hospital, Tianjin, China.
+(2)Pharmaceutical College, Tianjin Medical University, Tianjin, China.
+(3)Department of Pharmacy, Tianjin First Central Hospital, Tianjin, China.
+(4)Tianjin Children's Hospital, Tianjin, China.
+
+OBJECTIVE: The objective of this study was to investigate the cumulative fraction
+of response (CFR) of various tigecycline dosing regimens in patients with hepatic
+or renal impairment.
+METHODS: Monte Carlo simulations were performed using pharmacokinetic parameters 
+and microbiological data to evaluate various tigecycline regimens in patients
+with hepatic or renal impairment.
+RESULTS: For HAP and cIAI, the regimen of 25 mg q12h achieved CFR values of >90% 
+in Child-Pugh C patients against Gram-positive bacteria and partial Gram-negative
+bacteria (Escherichia coli and Klebsiella oxytoca). However, dose increases of
+tigecycline was mostly required for Enterobacter cloacae, Klebsiella pneumoniae
+and Acinetobacter baumanni. The conventional tigecycline regimen (50 mg q12h) was
+effective for HAP and cIAI caused by Gram-positive bacteria and Escherichia coli 
+in patients with renal impairment. For HAP caused by Klebsiella pneumoniae and
+Enterobacter cloacae, patients with severe renal failure can use the standard
+dose regimen 50 mg q12h, and other patients need to increase the dose of
+tigecycline. However, when treating cSSSI caused by Acinetobacter baumannii,
+Enterobacter cloacae and Klebsiella pneumoniae, all tigecycline maintenance doses
+have a CFR <90%.
+CONCLUSIONS: It is necessary to optimize tigecycline dosage regimens in patients 
+with hepatic or renal impairment in order to maximise clinical response and
+minimise the probability of exposure-related toxicity.
+
+DOI: 10.1080/1120009X.2020.1800318 
+PMID: 32757849 
+

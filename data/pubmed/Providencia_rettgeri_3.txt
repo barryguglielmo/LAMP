@@ -1,0 +1,38 @@
+
+1. Antimicrob Agents Chemother. 2020 Aug 17. pii: AAC.00382-20. doi:
+10.1128/AAC.00382-20. [Epub ahead of print]
+
+Emergence of carbapenem-resistant Providencia rettgeri and Providencia stuartti
+producing IMP-type metallo-β-lactamase in Japan.
+
+Iwata S(1), Tada T(1), Hishinuma T(1), Mari T(1), Satoshi O(1), Arai-Kuwahara
+K(1), Ogawa M(2), Shimojima M(2), Kirikae T(1).
+
+Author information: 
+(1)Department of Microbiology, Juntendo University School of Medicine, Tokyo,
+Japan.
+(2)BML Inc., Kawagoe, Saitama, Japan.
+
+Four Providencia rettgeri isolates and a Providencia stuartii isolate were
+obtained from urine samples of five patients in 2018 in Japan. All the isolates
+were resistant to imipenem and meropenem. Of them, three were highly resistant to
+both carbapenems with the minimum inhibitory concentrations (MICs) of 512 μg/ml. 
+The three highly carbapenem-resistant isolates harbored bla IMP-70, encoding a
+variant of IMP-1 metallo-β-lactamase with two amino acid substitutions of
+Val67Phe and Phe87Val, and the other two harbored bla IMP-1 and bla IMP-11,
+respectively. Whole genome sequencing revealed that an isolate harbored two
+copies of bla IMP-1 on the chromosome, and that the other four harbored a copy of
+bla IMP-11 or bla IMP-70 in a plasmid. Expression of bla IMP-70 conferred
+carbapenem resistance in Escherichia coli Recombinant IMP-70 and an IMP-1 variant
+with Val67Phe, but not with Phe87Val, had significant higher hydrolytic
+activities against meropenem than recombinant IMP-1, indicating that an amino
+acid substitution of Val67Phe affects increased activities against meropenem in
+IMP-70. These results suggest that Providencia spp. become higher resistant to
+carbapenems by acquisition of two copies of bla IMP-1 or by mutation of bla IMPs 
+with amino acid substitutions such as bla IMP-70.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.00382-20 
+PMID: 32816727 
+

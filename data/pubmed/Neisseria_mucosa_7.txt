@@ -1,0 +1,48 @@
+
+1. Antimicrob Agents Chemother. 2020 Jul 22;64(8). pii: e02232-19. doi:
+10.1128/AAC.02232-19. Print 2020 Jul 22.
+
+Persistence Dynamics of Antimicrobial-Resistant Neisseria in the Pharynx of
+Rhesus Macaques.
+
+Thapa E(1), Knauss HM(1), Colvin BA(1), Fischer BA(1), Weyand NJ(2)(3)(4).
+
+Author information: 
+(1)Department of Biological Sciences, Ohio University, Athens, Ohio, USA.
+(2)Department of Biological Sciences, Ohio University, Athens, Ohio, USA
+weyand@ohio.edu.
+(3)The Infectious and Tropical Disease Institute, Ohio University, Athens, Ohio, 
+USA.
+(4)Molecular and Cellular Biology Program, Ohio University, Athens, Ohio, USA.
+
+Pharyngeal infections by Neisseria gonorrhoeae are often asymptomatic, making
+them difficult to treat. However, in vivo animal modeling of human pharyngeal
+infections by pathogenic Neisseria species is challenging due to numerous host
+tropism barriers. We have relied on rhesus macaques to investigate pharyngeal
+persistence of naturally occurring Neisseria species in response to antibiotics. 
+These species include Neisseria mucosa, Neisseria oralis, and a species unique to
+macaques. Four animals previously treated intramuscularly with the
+fluoroquinolone enrofloxacin for 2 weeks were monitored for persistence of their 
+preexisting Neisseria populations for a period of 10 weeks. Enrofloxacin exposure
+did not eliminate preexisting flora from two of the four animals.
+Characterization of a collection of macaque Neisseria isolates supported the
+hypothesis that pharyngeal persistence was linked to reduced enrofloxacin
+susceptibility conferred by mutations in either gyrA or parC Interestingly, we
+observed a change in neisserial population dynamics for several weeks following
+enrofloxacin exposure. Enrofloxacin appeared to promote competition between
+strains for dominance in the pharyngeal niche. Specifically, following
+enrofloxacin treatment, strains bearing single gyrA mutations and low MICs
+persisted long-term. In contrast, strains with both gyrA and parC mutations and
+high MICs became culturally undetectable, consistent with the hypothesis that
+they were less fit. Our study has provided insight into pharyngeal persistence
+dynamics of Neisseria species bearing fluoroquinolone resistance determinants.
+The rhesus macaque provides a valuable host animal that may be used in the future
+to simulate treatment failures associated with the presence of
+antimicrobial-resistant Neisseria spp. in the human pharynx.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.02232-19 
+PMCID: PMC7526842 [Available on 2021-01-22]
+PMID: 32423958 
+

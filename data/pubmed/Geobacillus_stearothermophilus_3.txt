@@ -1,0 +1,33 @@
+
+1. Microorganisms. 2020 Sep 4;8(9). pii: E1357. doi: 10.3390/microorganisms8091357.
+
+Genomic and Transcriptome Analyses of a Thermophilic Bacterium Geobacillus
+stearothermophilus B5 Isolated from Compost Reveal Its Enzymatic Basis for
+Lignocellulose Degradation.
+
+Wang M(1), Miao J(1), Wang X(1), Li T(1), Zhu H(1), Liu D(1), Shen Q(1).
+
+Author information: 
+(1)Jiangsu Provincial Key Lab of Solid Organic Waste Utilization, Jiangsu
+Collaborative Innovation Center of Solid Organic Wastes, Educational Ministry
+Engineering Center of Resource-saving fertilizers, Nanjing Agricultural
+University, Nanjing 210095, China.
+
+A lignocellulose-degrading strain isolated from thermophilic compost was
+identified as Geobacillus stearothermophilus B5, and found able to secrete
+considerable amounts of enzymes at optimal temperature (60 °C) and pH (7.5). One 
+circular contig of 3.37 Mbp was assembled from raw data, and 3371 protein-coding 
+genes were predicted. Clusters of orthologous groups (COG) analysis revealed
+various genes with functions in polymeric substrate degradation, especially for
+Carbohydrate Active enZymes (CAZymes), such as glycoside hydrolases (GHs) and
+glycosyl transferases (GTs). Furthermore, the transcriptional responses of B5 at 
+different temperatures-with rice straw provided as the sole carbon source-were
+analyzed. The results revealed that B5 could resist high temperature by
+upregulating heat shock proteins (HSPs), enhancing protein synthesis, and
+decreasing carbon catabolism. Briefly, B5 possesses the ability of lignocellulose
+degradation, and might be considered a potential inoculant for improving
+composting efficiency.
+
+DOI: 10.3390/microorganisms8091357 
+PMID: 32899798 
+

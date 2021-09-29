@@ -1,0 +1,48 @@
+
+1. J Anim Sci. 2020 Feb 1;98(2). pii: skaa029. doi: 10.1093/jas/skaa029.
+
+Profiling of the viable bacterial and fungal microbiota in fermented feeds using 
+single-molecule real-time sequencing.
+
+Yu J(1), Hou Q(2), Li W(2), Huang W(2), Mo L(2), Yao C(2), An X(2), Sun Z(2), Wei
+H(1).
+
+Author information: 
+(1)Department of Laboratory Animal Science, College of Basic Medical Sciences,
+Third Military Medical University, Chongqing, China.
+(2)Key Laboratory of Dairy Biotechnology and Engineering, Ministry of Education, 
+Key Laboratory of Dairy Products Processing, Ministry of Agriculture, Inner
+Mongolia Agricultural University, Huhhot, China.
+
+Fermented concentrated feed has been widely recognized as an ideal feed in the
+animal industry. In this study, we used a powerful method, coupling propidium
+monoazide (PMA) pretreatment with single-molecule real-time (SMRT) sequencing
+technology to compare the bacterial and fungal composition of feeds before and
+after fermentation with four added lactic acid bacteria (LAB) inoculants (one
+Lactobacillus casei strain and three L. plantarum strains). Five feed samples
+consisting of corn, soybean meal, and wheat bran were fermented with LAB
+additives for 3 d. Following anaerobic fermentation, the pH rapidly decreased,
+and the mean numbers of LAB increased from 106 to 109 colony-forming units
+(cfu)/g fresh matter. SMRT sequencing results showed that the abundance and
+diversity of bacteria and fungi in the feed were significantly higher before
+fermentation than after fermentation. Fifteen bacterial species and eight fungal 
+genera were significantly altered following fermentation, and L. plantarum was
+the dominant species (relative abundance 88.94%) in the post-fermentation group. 
+PMA treatment revealed that the bacteria Bacillus cereus, B. circulans,
+Alkaliphilus oremlandii, Cronobacter sakazakii, Paenibacillus barcinonensis, and 
+P. amylolyticus (relative abundance >1%) were viable in the raw feed. After
+fermentation, their relative abundances decreased sharply to <0.2%; however,
+viable L. plantarum was still the dominant species post fermentation. We inferred
+that our LAB additives grew rapidly and inhibited harmful microorganisms and
+further improved feed quality. In addition, coupling PMA treatment with the
+Pacific Biosciences SMRT sequencing technology was a powerful tool for providing 
+accurate live microbiota profiling data in this study.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the
+American Society of Animal Science. All rights reserved. For permissions, please 
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/jas/skaa029 
+PMCID: PMC7036599 [Available on 2021-02-04]
+PMID: 32017844  [Indexed for MEDLINE]
+

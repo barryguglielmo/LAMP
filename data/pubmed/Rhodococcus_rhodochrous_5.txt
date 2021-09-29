@@ -1,0 +1,40 @@
+
+1. Environ Sci Process Impacts. 2020 Mar 27;22(3):771-791. doi: 10.1039/c9em00607a.
+
+Co-encapsulation of slow release compounds and Rhodococcus rhodochrous ATCC 21198
+in gellan gum beads to promote the long-term aerobic cometabolic transformation
+of 1,1,1-trichloroethane, cis-1,2-dichloroethene and 1,4-dioxane.
+
+Rasmussen MT(1), Saito AM(1), Hyman MR(2), Semprini L(1).
+
+Author information: 
+(1)School of Chemical, Biological, and Environmental Engineering, Oregon State
+University, Corvallis, Oregon, 97331 USA. lewis.semprini@oregonstate.edu.
+(2)Department of Plant and Microbial Biology, North Carolina State University,
+Raleigh, North Carolina 27695, USA.
+
+Rhodococcus rhodochrous ATCC 21198 (strain ATCC 21198) was successfully
+co-encapsulated in gellan gum beads with orthosilicates as slow release compounds
+(SRCs) to support aerobic cometabolism of a mixture of 1,1,1-trichloroethane
+(1,1,1-TCA), cis-1,2-dichloroethene (cis-DCE), and 1,4-dioxane (1,4-D) at aqueous
+concentrations ranging from 250 to 1000 μg L-1. Oxygen (O2) consumption and
+carbon dioxide (CO2) production showed the co-encapsulated cells utilized the
+alcohols that were released from the co-encapsulated SRCs. Two model SRCs,
+tetrabutylorthosilicate (TBOS) and tetra-s-butylorthosilicate (T2BOS), which
+hydrolyze to produce 1- and 2-butanol, respectively, were encapsulated in gellan 
+gum (GG) at mass loadings as high as 10% (w/w), along with strain ATCC 21198. In 
+the GG encapsulated beads, TBOS hydrolyzed 26 times faster than T2BOS and rates
+were ∼4 times higher in suspension than when encapsulated. In biologically active
+reactors, the co-encapsulated strain ATCC 21198 effectively utilized the SRC
+hydrolysis products (1- and 2-butanol) and cometabolized repeated additions of a 
+mixture of 1,1,1-TCA, cis-DCE, and 1,4-D for over 300 days. The transformation
+followed pseudo-first-order kinetics. Vinyl chloride (VC) and 1,1-dichloroethene 
+(1,1-DCE) were also transformed in the reactors after 250 days. In the long-term 
+treatment, the batch reactors with co-encapsulated T2BOS GG beads achieved
+similar transformation rates, but at much lower O2 consumption rates than those
+with TBOS. The results demonstrate that the co-encapsulation technology can be a 
+passive method for the cometabolic treatment of dilute groundwater plumes.
+
+DOI: 10.1039/c9em00607a 
+PMID: 32083262  [Indexed for MEDLINE]
+

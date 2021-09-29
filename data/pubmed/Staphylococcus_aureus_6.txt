@@ -1,0 +1,60 @@
+
+1. J Allergy Clin Immunol. 2020 Oct 1. pii: S0091-6749(20)31335-X. doi:
+10.1016/j.jaci.2020.09.023. [Epub ahead of print]
+
+Staphylococcus aureus Second Immunoglobulin-Binding Protein drives atopic
+dermatitis via IL-33.
+
+Al Kindi A(1), Williams H(1), Matsuda K(2), Alkahtani AM(3), Saville C(1),
+Bennett H(4), Alshammari Y(1), Tan SY(5), O'Neill C(6), Tanaka A(7), Matsuda
+H(8), Arkwright PD(9), Pennock JL(1).
+
+Author information: 
+(1)Lydia Becker Institute of Immunology and Inflammation, University of
+Manchester, United Kingdom.
+(2)Center for Innovative Drug Discovery, University of Tsukuba, Japan.
+(3)Department of Medicine, Microbiology and Parasitology, King Khalid University,
+Abha, Saudi Arabia.
+(4)Genome Editing Unit, University of Manchester, United Kingdom.
+(5)National University Health System, Singapore.
+(6)Division of Dermatological and Musculoskeletal Sciences, University of
+Manchester, United Kingdom.
+(7)Laboratories of Veterinary Molecular Pathology & Therapeutics.
+(8)Comparative Animal Medicine, Tokyo University of Agriculture & Technology,
+Tokyo, Japan.
+(9)Lydia Becker Institute of Immunology and Inflammation, University of
+Manchester, United Kingdom. Electronic address: peter.arkwright@manchester.ac.uk.
+
+BACKGROUND: S. aureus is the dominant infective trigger of atopic dermatitis
+(AD). How this bacterium drives type 2 allergic pathology in the absence of
+infection in AD patients is unclear.
+OBJECTIVE: To identify the S. aureus-derived virulence factor(s) that initiates
+the cutaneous type 2-promoting immune response responsible for AD.
+METHODS: In vitro human keratinocyte cell culture, ex vivo human skin organ
+explants and the eczema prone Nc/Tnd mouse were used as model systems to assess
+type-2 promoting immune responses to S. aureus. Identification of the bioactive
+factor was accomplished using Fast Protein Liquid Chromatography and mass
+spectrometry. Bioactivity was confirmed by cloning and expression in an E. coli
+vector system, and S. aureus Sbi mutant strains confirming loss of activity.
+RESULTS: S. aureus was unique amongst staphylococcal species in its ability to
+induce the rapid release of constitutive IL-33 from human keratinocytes
+independent of the toll-like receptor pathway. Using the eczema-prone NC/Tnd
+mouse model, we showed that IL-33 was essential in inducing the immune response
+to S. aureus in vivo. By fractionation and candidate testing, we identified the
+Second Immunoglobulin-Binding Protein (Sbi) as the predominant
+staphylococcus-derived virulence factor that directly drives IL-33 release from
+human keratinocytes. Immunohistology of skin demonstrated that corneodesmosin, a 
+component of corneodesmosomes that form key intercellular adhesive structures in 
+the stratum corneum, was disrupted resulting in reduction of skin barrier
+function.
+CONCLUSION: S. aureus-derived Sbi is a unique type 2-promoting virulence factor
+capable of initiating the type-2 promoting cytokine activity underlying AD.
+CLINICAL IMPLICATIONS: The Second Immunoglobulin-Binding Protein (Sbi) produced
+solely by S. aureus species, is an important factor inducing type-2 promoting
+cytokine responses and atopic dermatitis.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.jaci.2020.09.023 
+PMID: 33011245 
+

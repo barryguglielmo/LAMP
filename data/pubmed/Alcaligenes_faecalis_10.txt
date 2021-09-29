@@ -1,0 +1,37 @@
+
+1. Dokl Biochem Biophys. 2020 May;492(1):117-120. doi: 10.1134/S1607672920030035.
+Epub 2020 Jul 6.
+
+Influence of Acrylamide on Energy Status and Survival of Bacteria of Different
+Systematic Groups.
+
+Maksimova YG(1)(2), Mochalova EM(3), Demakov VA(4)(3).
+
+Author information: 
+(1)Institute of Ecology and Genetics of Microorganisms, Perm Federal Research
+Center, Ural Branch, Russian Academy of Sciences, Perm, Russia. maks@iegm.ru.
+(2)Perm State National Research University, Perm, Russia. maks@iegm.ru.
+(3)Perm State National Research University, Perm, Russia.
+(4)Institute of Ecology and Genetics of Microorganisms, Perm Federal Research
+Center, Ural Branch, Russian Academy of Sciences, Perm, Russia.
+
+We studied the effect of acrylamide on the content of intracellular ATP in the
+cells of bacteria of the genera Rhodococcus and Alcaligenes, the luminescence of 
+the genetically engineered strain Escherichia coli K12 TG1 (pXen7), and the
+survival of bacteria of various systematic groups. According to the level of
+decrease in the concentration of intracellular ATP, it was found that the strain 
+with lower amidase activity (R. erythropolis 6-21) and Gram-negative
+proteobacteria A. faecalis 2 were the most sensitive to acrylamide after a 20-min
+exposure, while the strain R. ruber gt 1 was stable, having a high nitrile
+hydratase activity in combination with a low amidase activity. EC50 of acrylamide
+for 2 h was 7.1 g/L for E. coli K12 TG1 (pXen7). Acrylamide at a concentration of
+10-20 mM added to the culture medium led to a slight decrease in the number of
+CFUs of Rhodococcus, A. faecalis 2, and E. coli compared to the control. At an
+acrylamide concentration of 250 mM, from 0.016 to 0.116% of viable bacterial
+cells remained, and a solution of 500 mM and higher inhibited the growth of the
+majority of the studied strains. The results confirm that acrylamide is much less
+toxic to prokaryotes than to eukaryotes.
+
+DOI: 10.1134/S1607672920030035 
+PMID: 32632586 
+

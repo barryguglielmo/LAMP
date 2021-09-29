@@ -1,0 +1,38 @@
+
+1. Pathogens. 2020 Apr 25;9(5). pii: E319. doi: 10.3390/pathogens9050319.
+
+Paenibacillus alvei MP1 as a Producer of the Proteinaceous Compound with Activity
+against Important Human Pathogens, Including Staphylococcus aureus and Listeria
+monocytogenes.
+
+Pajor M(1), Xiong ZR(2), Worobo RW(2), Szweda P(1).
+
+Author information: 
+(1)Department of Pharmaceutical Technology and Biochemistry, Faculty of
+Chemistry, Gdansk University of Technology, G. Narutowicza Street 11/12, 80-233
+Gdansk, Poland.
+(2)Department of Food Science, Cornell University, Stocking Hall, Ithaca, NY
+14853-7201, USA.
+
+An emerging need for new classes of antibiotics is, on the one hand, evident as
+antimicrobial resistance continues to rise. On the other hand, the awareness of
+the pros and cons of chemically synthesized compounds' extensive use leads to a
+search for new metabolites in already known reservoirs. Previous research showed 
+that Paenibacillus strain (P. alvei MP1) recovered from a buckwheat honey sample 
+presented a wide spectrum of antimicrobial activity against both Gram-positive
+and Gram-negative pathogens. Recent investigation has confirmed that P. alvei MP1
+(deposited at DDBJ/ENA/GenBank under the accession WSQB00000000) produces a
+proteinaceous, heat-stable compound(s) with the maximum antimicrobial production 
+obtained after 18 hours of P. alvei MP1 growth in LB medium at 37 °C with
+continuous shaking at 200 RPM. The highest activity was found in the 40% ammonium
+sulfate precipitate, with high activity also remaining in the 50% and 60%
+ammonium sulfate precipitates. Moderate to high antimicrobial activity that is
+insensitive to proteases or heat treatment, was confirmed against pathogenic
+bacteria that included L. monocytogenes FSL - X1-0001 (strain 10403S), S. aureus 
+L1 - 0030 and E. coli O157: H7. Further studies, including de novo sequencing of 
+peptides by mass spectrometry, are in progress.
+
+DOI: 10.3390/pathogens9050319 
+PMCID: PMC7281493
+PMID: 32344843 
+

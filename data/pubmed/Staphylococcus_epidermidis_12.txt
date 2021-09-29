@@ -1,0 +1,42 @@
+
+1. Sci Rep. 2020 Sep 25;10(1):15796. doi: 10.1038/s41598-020-72478-6.
+
+Honey-inspired antimicrobial hydrogels resist bacterial colonization through twin
+synergistic mechanisms.
+
+Zhang T(1)(2), Qu Y(3)(4), Gunatillake PA(1), Cass P(1), Locock KES(5), Blackman 
+LD(6).
+
+Author information: 
+(1)CSIRO Manufacturing, Research Way, Clayton, VIC, 3168, Australia.
+(2)Chimie ParisTech, Rue Pierre et Marie Curie, 75005, Paris, France.
+(3)Infection and Immunity Program, Department of Microbiology, Monash Biomedicine
+Discovery Institute, Monash University, Clayton, VIC, 3800, Australia.
+(4)Department of Infectious Diseases, The Alfred Hospital and Central Clinical
+School, Monash University, Melbourne, VIC, 3004, Australia.
+(5)CSIRO Manufacturing, Research Way, Clayton, VIC, 3168, Australia.
+Katherine.Locock@csiro.au.
+(6)CSIRO Manufacturing, Research Way, Clayton, VIC, 3168, Australia.
+Lewis.Blackman@csiro.au.
+
+Inspired by the interesting natural antimicrobial properties of honey, biohybrid 
+composite materials containing a low-fouling polymer hydrogel network and an
+encapsulated antimicrobial peroxide-producing enzyme have been developed. These
+synergistically combine both passive and active mechanisms for reducing microbial
+bacterial colonization. The mechanical properties of these materials were
+assessed using compressive mechanical analysis, which revealed these hydrogels
+possessed tunable mechanical properties with Young's moduli ranging from 5 to
+500 kPa. The long-term enzymatic activities of these materials were also assessed
+over a 1-month period using colorimetric assays. Finally, the passive low-fouling
+properties and active antimicrobial activity against a leading opportunistic
+pathogen, Staphylococcus epidermidis, were confirmed using bacterial cell
+counting and bacterial adhesion assays. This study resulted in non-adhesive
+substrate-permeable antimicrobial materials, which could reduce the viability of 
+planktonic bacteria by greater than 7 logs. It is envisaged these new biohybrid
+materials will be important for reducing bacterial adherence in a range of
+industrial applications.
+
+DOI: 10.1038/s41598-020-72478-6 
+PMCID: PMC7519120
+PMID: 32978445 
+

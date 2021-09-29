@@ -1,0 +1,65 @@
+
+1. PLoS One. 2020 Aug 17;15(8):e0237249. doi: 10.1371/journal.pone.0237249.
+eCollection 2020.
+
+Phylogenetic evidence for the invasion of a commercialized European
+Phasmarhabditis hermaphrodita lineage into North America and New Zealand.
+
+Howe DK(1), Ha AD(1), Colton A(2), De Ley IT(3), Rae RG(4), Ross J(5)(6)(7),
+Wilson M(8), Nermut J(9), Zhao Z(10), Mc Donnell RJ(2), Denver DR(1).
+
+Author information: 
+(1)Department of Integrative Biology, Oregon State University, Corvallis, Oregon,
+United States of America.
+(2)Department of Crop and Soil Science, Oregon State University, Corvallis,
+Oregon, United States of America.
+(3)Department of Nematology, University of California-Riverside, Riverside,
+California, United States of America.
+(4)School of Biological and Environmental Sciences, Liverpool John Moores
+University, Liverpool, United Kingdom.
+(5)Department of Conservation Ecology and Entomology, Faculty of AgriSciences,
+Stellenbosch University, Matieland, South Africa.
+(6)Institute of Biological and Environmental Sciences, University of Aberdeen,
+Aberdeen, United Kingdom.
+(7)Crop Health and Protection (CHAP), National Agri-Food Innovation Campus, Sand 
+Hutton, York, United Kingdom.
+(8)Independent Researcher/Consultant, Hamilton, New Zealand.
+(9)Biology Centre CAS, Institute of Entomology, Branišovská, České Budějovice,
+Czech Republic.
+(10)Department of Biology, Hong Kong Baptist University, Hong Kong SAR, China.
+
+Biological control (biocontrol) as a component of pest management strategies
+reduces reliance on synthetic chemicals, and seemingly offers a natural approach 
+that minimizes environmental impact. However, introducing a new organism to new
+environments as a classical biocontrol agent can have broad and unanticipated
+biodiversity effects and conservation consequences. Nematodes are currently used 
+in a variety of commercial biocontrol applications, including the use of
+Phasmarhabditis hermaphrodita as an agent targeting pest slug and snail species. 
+This species was originally discovered in Germany, and is generally thought to
+have European origins. P. hermaphrodita is sold under the trade name Nemaslug®,
+and is available only in European markets. However, this nematode species was
+discovered in New Zealand and the western United States, though its specific
+origins remained unclear. In this study, we analyzed 45 nematode strains
+representing eight different Phasmarhabditis species, collected from nine
+countries around the world. A segment of nematode mitochondrial DNA (mtDNA) was
+sequenced and subjected to phylogenetic analyses. Our mtDNA phylogenies were
+overall consistent with previous analyses based on nuclear ribosomal RNA (rRNA)
+loci. The recently discovered P. hermaphrodita strains in New Zealand and the
+United States had mtDNA haplotypes nearly identical to that of Nemaslug®, and
+these were placed together in an intraspecific monophyletic clade with high
+support in maximum likelihood and Bayesian analyses. We also examined bacteria
+that co-cultured with the nematode strains isolated in Oregon, USA, by analyzing 
+16S rRNA sequences. Eight different bacterial genera were found to associate with
+these nematodes, though Moraxella osloensis, the bacteria species used in the
+Nemaslug® formulation, was not detected. This study provided evidence that
+nematodes deriving from the Nemaslug® biocontrol product have invaded countries
+where its use is prohibited by regulatory agencies and not commercially
+available.
+
+DOI: 10.1371/journal.pone.0237249 
+PMCID: PMC7430733
+PMID: 32804938 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist
+

@@ -1,0 +1,42 @@
+
+1. Front Microbiol. 2020 Jun 3;11:1162. doi: 10.3389/fmicb.2020.01162. eCollection
+2020.
+
+Development of a Novel Metagenomic Biomarker for Prediction of Upper
+Gastrointestinal Tract Involvement in Patients With Crohn's Disease.
+
+Kwak MS(1), Cha JM(1), Shin HP(1), Jeon JW(1), Yoon JY(1).
+
+Author information: 
+(1)Department of Internal Medicine, Kyung Hee University Hospital at Gangdong,
+College of Medicine, Kyung Hee University, Seoul, South Korea.
+
+The human gut microbiota is an important component in the pathogenesis of Crohn's
+disease (CD), promoting host-microbe imbalances and disturbing intestinal and
+immune homeostasis. We aimed to assess the potential clinical usefulness of the
+colonic tissue microbiome for obtaining biomarkers for upper gastrointestinal
+(UGI) tract involvement in CD. We analyzed colonic tissue samples from 26 CD
+patients (13 with and 13 without UGI involvement at diagnosis) from the
+Inflammatory Bowel Disease Multi-Omics Database. QIIME1, DiTaxa, linear
+discriminant analysis effect size (LEfSe), and PICRUSt2 methods were used to
+examine microbial dysbiosis. Linear support vector machine (SVM) and random
+forest classifier (RF) algorithms were used to identify the UGI tract
+involvement-associated biomarkers. There were no statistically significant
+differences in community richness, phylogenetic diversity, and phylogenetic
+distance between the two groups of CD patients. DiTaxa analysis predicted
+significant association of the species Ruminococcus torques with UGI involvement,
+which was confirmed by the LEfSe analysis (P = 0.025). For the feature ranking
+method in both linear SVM and RF models, the species R. torques and age at
+diagnosis contributed to the combined models. The L-methionine biosynthesis III
+(P = 0.038) and palmitate biosynthesis II (P = 0.050) were under-represented in
+CD with UGI involvement. These findings suggest that R. torques might serve as a 
+novel potential biomarker for UGI involvement in CD and its correlations, in
+addition to a range of bacterial species. The mechanisms of interaction between
+hosts and R. torques should be further investigated.
+
+Copyright © 2020 Kwak, Cha, Shin, Jeon and Yoon.
+
+DOI: 10.3389/fmicb.2020.01162 
+PMCID: PMC7283919
+PMID: 32582102 
+

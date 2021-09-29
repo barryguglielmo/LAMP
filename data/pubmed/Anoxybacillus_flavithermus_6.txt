@@ -1,0 +1,47 @@
+
+1. Enzyme Microb Technol. 2019 Dec;131:109421. doi: 10.1016/j.enzmictec.2019.109421.
+Epub 2019 Sep 4.
+
+Structural and functional consequences of replacement of His403 with Arg near the
+catalytic site of Anoxybacillus flavithermus cyclomaltodextrinase.
+
+Mirzaee Z(1), Jafarian V(2), Shirdel SA(3), Khalifeh K(4).
+
+Author information: 
+(1)Department of Biology, Faculty of Sciences, University of Zanjan, Zanjan,
+Iran.
+(2)Department of Biology, Faculty of Sciences, University of Zanjan, Zanjan,
+Iran. Electronic address: V.Jafarian@znu.ac.ir.
+(3)Department of Biochemistry, Faculty of Biological Sciences, Tarbiat Modares
+University, Tehran, Iran.
+(4)Department of Biology, Faculty of Sciences, University of Zanjan, Zanjan,
+Iran. Electronic address: khalifeh@znu.ac.ir.
+
+The hydrolytic activity of a thermophilic cyclomaltodextrinase (CMD) from
+Anoxybacillus flavithermus ZNU-NGA and a representative single mutant were
+investigated against soluble substrates including α-, β- and
+γ-cyclomaltodestrines (CDs). Based on the occurrence of arginine (Arg) at
+position 403 in some homologue proteins, His403 in Wild-type (WT) CMD was
+replaced with Arg (H403R variant) with site-directed mutagenesis procedures.
+According to bioinformatics data, Arg403 in mutant protein is located near Glu357
+as one of the catalytic residues in a manner that they are able to create a
+medium-range attractive electrostatistic interaction. Structural studies by Far
+UV-CD showed that this mutation is accompanied by conversion of a small fraction 
+of α-helix to β-form structure. Fluorescence data reveals that, the hydrophobic
+regions at the surface of protein, as the binding sites for ANS
+(8-Anilinonaphthalene-1-sulfonic acid) increase in mutant protein, demonstrating 
+relative inflation of H403R variant compared with WT protein. However, the
+polarity of microenvironment around chromophores did not change upon mutation.
+Activity measurement in different ranges of pH and temperatures showed that the
+optimum values of pH and temperature in mutant enzyme is the same as WT enzyme,
+however; the activity at optimum points increased in H403R variant. It was also
+revealed that the H403R variant had slightly improved catalytic efficiency for
+γ-CD. The same value of activation parameters for both protein variants indicates
+that mutation does not alter the mechanism of catalysis during enzyme-substrate
+formation.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.enzmictec.2019.109421 
+PMID: 31615670  [Indexed for MEDLINE]
+

@@ -1,0 +1,57 @@
+
+1. J Immunol. 2020 Jan 1;204(1):101-111. doi: 10.4049/jimmunol.1800748. Epub 2019
+Nov 27.
+
+Pneumolysin Induces 12-Lipoxygenase-Dependent Neutrophil Migration during
+Streptococcus pneumoniae Infection.
+
+Adams W(1)(2), Bhowmick R(1), Bou Ghanem EN(1), Wade K(3), Shchepetov M(4),
+Weiser JN(5), McCormick BA(6), Tweten RK(3), Leong JM(7).
+
+Author information: 
+(1)Department of Molecular Biology and Microbiology, Tufts University, Boston, MA
+02111.
+(2)Department of Biological Sciences, San Jose State University, San Jose, CA
+95192.
+(3)Department of Microbiology and Immunology, University of Oklahoma Health
+Sciences Center, Oklahoma City, OK 73104.
+(4)Department of Microbiology, University of Pennsylvania, Philadelphia, PA
+19104.
+(5)Department of Microbiology, New York University School of Medicine, New York, 
+NY 10016; and.
+(6)Department of Microbiology and Physiological Systems, University of
+Massachusetts Medical School, Worcester, MA 01655.
+(7)Department of Molecular Biology and Microbiology, Tufts University, Boston, MA
+02111; John.Leong@tufts.edu.
+
+Streptococcus pneumoniae is a major cause of pneumonia, wherein infection of
+respiratory mucosa drives a robust influx of neutrophils. We have previously
+shown that S. pneumoniae infection of the respiratory epithelium induces the
+production of the 12-lipoxygenase (12-LOX)-dependent lipid inflammatory mediator 
+hepoxilin A3, which promotes recruitment of neutrophils into the airways, tissue 
+damage, and lethal septicemia. Pneumolysin (PLY), a member of the
+cholesterol-dependent cytolysin (CDC) family, is a major S. pneumoniae virulence 
+factor that generates ∼25-nm diameter pores in eukaryotic membranes and promotes 
+acute inflammation, tissue damage, and bacteremia. We show that a PLY-deficient
+S. pneumoniae mutant was impaired in triggering human neutrophil transepithelial 
+migration in vitro. Ectopic production of PLY endowed the nonpathogenic Bacillus 
+subtilis with the ability to trigger neutrophil recruitment across human-cultured
+monolayers. Purified PLY, several other CDC family members, and the α-toxin of
+Clostridium septicum, which generates pores with cross-sectional areas nearly 300
+times smaller than CDCs, reproduced this robust neutrophil transmigration. PLY
+non-pore-forming point mutants that are trapped at various stages of pore
+assembly did not recruit neutrophils. PLY triggered neutrophil recruitment in a
+12-LOX-dependent manner in vitro. Instillation of wild-type PLY but not inactive 
+derivatives into the lungs of mice induced robust 12-LOX-dependent neutrophil
+migration into the airways, although residual inflammation induced by PLY in
+12-LOX-deficient mice indicates that 12-LOX-independent pathways also contribute 
+to PLY-triggered pulmonary inflammation. These data indicate that PLY is an
+important factor in promoting hepoxilin A3-dependent neutrophil recruitment
+across pulmonary epithelium in a pore-dependent fashion.
+
+Copyright © 2019 by The American Association of Immunologists, Inc.
+
+DOI: 10.4049/jimmunol.1800748 
+PMCID: PMC7195902 [Available on 2021-01-01]
+PMID: 31776202  [Indexed for MEDLINE]
+

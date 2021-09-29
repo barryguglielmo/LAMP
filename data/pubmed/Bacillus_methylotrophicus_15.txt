@@ -1,0 +1,42 @@
+
+1. Microb Pathog. 2020 Oct;147:104422. doi: 10.1016/j.micpath.2020.104422. Epub 2020
+Aug 7.
+
+An endophytic strain JK of genus bacillus isolated from the seeds of super hybrid
+rice (Oryza sativa L., Shenliangyou 5814) has antagonistic activity against rice 
+blast pathogen.
+
+Jing R(1), Li N(2), Wang W(3), Liu Y(4).
+
+Author information: 
+(1)School of Chemistry and Biological Engineering, University of Science and
+Technology Beijing, Beijing, 100083, China.
+(2)State Key Laboratory of Hybrid Rice, Hunan Hybrid Rice Research Center,
+Changsha, 410125, China.
+(3)State Key Laboratory of Hybrid Rice, Hunan Hybrid Rice Research Center,
+Changsha, 410125, China. Electronic address: wangweiping@hhrrc.ac.cn.
+(4)School of Chemistry and Biological Engineering, University of Science and
+Technology Beijing, Beijing, 100083, China. Electronic address:
+liuyang@ustb.edu.cn.
+
+Rice is an important food crop in the world, and rice blast is one of the major
+fungal diseases that cause large-scale rice yield reduction. This study aimed to 
+investigate the antagonistic activity and its molecular mechanism of bacterial
+strain JK isolated from seeds of super hybrid rice 'Shenliangyou 5814' (Oryza
+sativa L.) against rice blast pathogen Magnaporthe oryzae ACCC 36020. Through
+plate confrontation experiment, strain JK showed obvious and highly effective
+antagonistic activity against M. oryzae. And strain JK was identified as Bacillus
+velezensis by molecular biological identification basing on 16S rRNA gene and
+gyrA gene phylogenetic analysis. The draft genome of strain JK was sequenced by
+Illumina NextSeq500, and 1 CDS for beta-1,4-glucanase (cellulase), 1 CDS for
+endo-beta-1,3-1,4 glucanase (licheninase), 2 CDS for 3-hydroxybutyrate
+dehydrogenase, 4 CDS for surfactin synthase, 28 CDS for polyketide biosynthesis
+were annotated and correlated to antagonistic activity. The present study
+provides a theoretical basis and microbial strain resources for further study on 
+the biological control of rice blast.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.micpath.2020.104422 
+PMID: 32777350 
+

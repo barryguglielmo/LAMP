@@ -1,0 +1,46 @@
+
+1. Adv Sci (Weinh). 2020 Jul 21;7(17):2001374. doi: 10.1002/advs.202001374.
+eCollection 2020 Sep.
+
+A Macromolecule Reversing Antibiotic Resistance Phenotype and Repurposing Drugs
+as Potent Antibiotics.
+
+Ding X(1)(2), Yang C(2), Moreira W(3), Yuan P(1), Periaswamy B(2), de Sessions
+PF(4), Zhao H(1), Tan J(2), Lee A(2), Ong KX(3), Park N(5), Liang ZC(2), Hedrick 
+JL(5), Yang YY(2).
+
+Author information: 
+(1)School of Pharmaceutical Sciences (Shenzhen) Sun Yat-sen University Shenzhen
+518107 China.
+(2)Institute of Bioengineering and Nanotechnology 31 Biopolis Way, The Nanos
+Singapore 138669 Singapore.
+(3)Singapore-MIT Alliance for Research and Technology (SMART) 1 CREATE Way
+Singapore 138602 Singapore.
+(4)Genome Institute of Singapore 60 Biopolis Street, Genome Singapore 138672
+Singapore.
+(5)IBM Almaden Research Center 650 Harry Road San Jose CA 95120 USA.
+
+In order to mitigate antibiotic resistance, a new strategy to increase antibiotic
+potency and reverse drug resistance is needed. Herein, the translocation
+mechanism of an antimicrobial guanidinium-functionalized polycarbonate is
+leveraged in combination with traditional antibiotics to afford a potent
+treatment for drug-resistant bacteria. Particularly, this polymer-antibiotic
+combination approach reverses rifampicin resistance phenotype in Acinetobacter
+baumannii demonstrating a 2.5 × 105-fold reduction in minimum inhibitory
+concentration (MIC) and a 4096-fold reduction in minimum bactericidal
+concentration (MBC). This approach also enables the repurposing of auranofin as
+an antibiotic against multidrug-resistant (MDR) Gram-negative bacteria with a
+512-fold MIC and 128-fold MBC reduction, respectively. Finally, the in vivo
+efficacy of polymer-rifampicin combination is demonstrated in a MDR bacteremia
+mouse model. This combination approach lays foundational ground rules for a new
+class of antibiotic adjuvants capable of reversing drug resistance phenotype and 
+repurposing drugs against MDR Gram-negative bacteria.
+
+© 2020 The Authors. Published by WILEY‐VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/advs.202001374 
+PMCID: PMC7503100
+PMID: 32995131 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

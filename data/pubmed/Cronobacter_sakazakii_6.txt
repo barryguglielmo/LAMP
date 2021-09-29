@@ -1,0 +1,55 @@
+
+1. Int J Food Microbiol. 2020 Aug 6;334:108819. doi:
+10.1016/j.ijfoodmicro.2020.108819. [Epub ahead of print]
+
+Survival strategy of Cronobacter sakazakii against ampicillin pressure: Induction
+of the viable but nonculturable state.
+
+Zhang J(1), Wang L(2), Shi L(3), Chen X(3), Chen C(1), Hong Z(1), Cao Y(1), Zhao 
+L(4).
+
+Author information: 
+(1)Guangdong Provincial Key Laboratory of Nutraceuticals and Functional Foods,
+College of Food Science, South China Agricultural University, Guangzhou 510642,
+China.
+(2)Guangdong Provincial Key Laboratory of Nutraceuticals and Functional Foods,
+College of Food Science, South China Agricultural University, Guangzhou 510642,
+China. Electronic address: wangli_scau@scau.edu.cn.
+(3)Institute of Food Safety and Nutrition, Jinan University, Guangzhou 510632,
+China.
+(4)Guangdong Provincial Key Laboratory of Nutraceuticals and Functional Foods,
+College of Food Science, South China Agricultural University, Guangzhou 510642,
+China. Electronic address: zlc@scau.edu.cn.
+
+In a viable but nonculturable (VBNC) state, bacteria are no longer culturable on 
+standard laboratory media, but still, remain a pathogenic potential and present
+possible health risks. In this study, we investigated ampicillin's ability, which
+is commonly used in dairy cattle disease treatment, to induce Cronobacter
+sakazakii into the VBNC state. After treatment with ampicillin, the counts of
+culturable cells decreased from 108 CFU/mL to an undetected level 7-30 days
+post-treatment. Meanwhile, viable cells were still approximately 104-105
+cells/mL, and could be resuscitated under appropriate conditions. Fluorescence
+microscopy showed that VBNC cell maintained apparent cellular integrity, but that
+the morphology of VBNC cells differed visibly from that of normal cells.
+Moreover, the respiratory chain activity of VBNC cells were confirmed by flow
+cytometry (FCM) analysis, suggesting that cells in a VBNC state were
+physiologically active. Finally, transcriptomics analysis and real-time PCR
+(qPCR) validation were used to explore the underlying mechanisms of VBNC cell
+formation. Over-expression of relA, lon, ppx, and ppk in the toxin-antitoxin (TA)
+trigger system contributed to VBNC cell formation. In the TA trigger system, RelA
+and exopolyphosphatases/guanosine pentaphosphate phosphohydrolases (PPX/GPPA)
+synthesize ppGpp, which activates polyphosphate kinase (PPK), the cellular enzyme
+that accumulates plyphosphate (PolyP). PolyP combines with and stimulates Lon to 
+degrade the antitoxins, thereby activating the toxins that induce a VBNC state.
+The results of our research will facilitate a better understanding of the
+survival strategies that bacteria develop to deal with ampicillin pressure and
+the health risks associated with VBNC Cronobacter sakazakii induced by
+antibiotics.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijfoodmicro.2020.108819 
+PMID: 32818765 
+
+Conflict of interest statement: Declaration of competing interest None.
+

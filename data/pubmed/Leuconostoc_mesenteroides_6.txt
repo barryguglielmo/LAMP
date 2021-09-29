@@ -1,0 +1,44 @@
+
+1. Biotechnol Bioeng. 2020 Sep 14. doi: 10.1002/bit.27565. [Epub ahead of print]
+
+Dynamic co-culture metabolic models reveal the fermentation dynamics, metabolic
+capacities and interplays of cheese starter cultures.
+
+Özcan E(1)(2), Seven M(3), Şirin B(3), Çakır T(4), Nikerel E(3), Teusink B(1),
+Toksoy Öner E(2).
+
+Author information: 
+(1)Systems Biology, Amsterdam Institute of Molecular and Life Sciences (AIMMS),
+VU Amsterdam, Amsterdam, The Netherlands.
+(2)Department of Bioengineering, IBSB, Marmara University, Istanbul, Turkey.
+(3)Genetics and Bioengineering Department, Yeditepe University, Istanbul, Turkey.
+(4)Department of Bioengineering, Gebze Technical University, Gebze, Kocaeli,
+Turkey.
+
+In this study, we have investigated the cheese starter culture as a microbial
+community through a question: can the metabolic behaviour of a co-culture be
+explained by the characterized individual organism that constituted the
+co-culture? To address this question, the dairy-origin lactic acid bacteria
+Lactococcus lactis subsp. cremoris, Lactococcus lactis subsp. lactis,
+Streptococcus thermophilus and Leuconostoc mesenteroides, commonly used in cheese
+starter cultures, were grown in pure and four different co-cultures. We used a
+dynamic metabolic modelling approach based on the integration of the genome-scale
+metabolic networks of the involved organisms to simulate the co-cultures. The
+strain-specific kinetic parameters of dynamic models were estimated using the
+pure culture experiments and they were subsequently applied to co-culture models.
+Biomass, carbon source, lactic acid and most of the amino acid concentration
+profiles simulated by the co-culture models fit closely to the experimental
+results and the co-culture models explained the mechanisms behind the dynamic
+microbial abundance. We then applied the co-culture models to estimate further
+information on the co-cultures that could not be obtained by the experimental
+method used. This includes estimation of the profile of various metabolites in
+the co-culture medium such as flavour compounds produced and the individual
+organism level metabolic exchange flux profiles, which revealed the potential
+metabolic interactions between organisms in the co-cultures.
+
+© 2020 The Authors. Biotechnology and Bioengineering published by Wiley
+Periodicals LLC.
+
+DOI: 10.1002/bit.27565 
+PMID: 32926401 
+

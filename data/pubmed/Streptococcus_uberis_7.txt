@@ -1,0 +1,41 @@
+
+1. Sensors (Basel). 2020 Jun 12;20(12). pii: E3351. doi: 10.3390/s20123351.
+
+Multiple Bacteria Identification in the Point-of-Care: an Old Method Serving a
+New Approach.
+
+Viveiros S(1)(2), Rodrigues M(3), Albuquerque D(1)(2), Martins SAM(2), Cardoso
+S(1)(2), Martins VC(2).
+
+Author information: 
+(1)Instituto Superior Técnico, University of Lisbon, 1049-001 Lisboa, Portugal.
+(2)INESC-MN- Microsystems and Nanotechnologies, 1000-029 Lisboa, Portugal.
+(3)Centre for Ecology, Evolution and Environmental Changes, Faculdade de
+Ciências, Universidade de Lisboa, 1749-016 Lisboa, Portugal.
+
+The accurate diagnosis of bacterial infections is of critical importance for
+effective treatment decisions. Due to the multietiologic nature of most
+infectious diseases, multiplex assays are essential for diagnostics. However,
+multiplexability in nucleic acid amplification-based methods commonly resorts to 
+multiple primers and/or multiple reaction chambers, which increases analysis cost
+and complexity. Herein, a polymerase chain reaction (PCR) offer method based on a
+universal pair of primers and an array of specific oligonucleotide probes was
+developed through the analysis of the bacterial 16S ribosomal RNA gene. The
+detection system consisted of DNA hybridization over an array of magnetoresistive
+sensors in a microfabricated biochip coupled to an electronic reader. Immobilized
+probes interrogated single-stranded biotinylated amplicons and were obtained
+using asymmetric PCR. Moreover, they were magnetically labelled with
+streptavidin-coated superparamagnetic nanoparticles. The benchmarking of the
+system was demonstrated to detect five major bovine mastitis-causing pathogens:
+Escherichia coli, Klebsiella sp., Staphylococcus aureus, Streptococcus uberis,
+and Streptococcus agalactiae. All selected probes proved to specifically detect
+their respective amplicon without significant cross reactivity. A calibration
+curve was performed for S. agalactiae, which demonstrates demonstrating a limit
+of detection below 30 fg/µL. Thus, a sensitive and specific multiplex detection
+assay was established, demonstrating its potential as a bioanalytical device for 
+point-of-care applications.
+
+DOI: 10.3390/s20123351 
+PMCID: PMC7349726
+PMID: 32545686 
+

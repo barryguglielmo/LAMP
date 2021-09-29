@@ -1,0 +1,45 @@
+
+1. Syst Appl Microbiol. 2020 Jan;43(1):126046. doi: 10.1016/j.syapm.2019.126046.
+Epub 2019 Nov 29.
+
+History and current taxonomic status of genus Agrobacterium.
+
+Flores-Félix JD(1), Menéndez E(1), Peix A(2), García-Fraile P(1), Velázquez E(3).
+
+Author information: 
+(1)Departamento de Microbiología y Genética and Instituto Hispanoluso de
+Investigaciones Agrarias (CIALE), Universidad de Salamanca, Salamanca, Spain.
+(2)Instituto de Recursos Naturales y Agrobiología, IRNASA-CSIC, Salamanca, Spain;
+Unidad Asociada Grupo de Interacción Planta-Microorganismo (Universidad de
+Salamanca-IRNASA-CSIC), Salamanca, Spain.
+(3)Departamento de Microbiología y Genética and Instituto Hispanoluso de
+Investigaciones Agrarias (CIALE), Universidad de Salamanca, Salamanca, Spain;
+Unidad Asociada Grupo de Interacción Planta-Microorganismo (Universidad de
+Salamanca-IRNASA-CSIC), Salamanca, Spain. Electronic address: evp@usal.es.
+
+The genus Agrobacterium was created a century ago by Conn who included it in the 
+family Rhizobiaceae together with the genus Rhizobium. Initially, the genus
+Agrobacterium contained the non-pathogenic species Agrobacterium radiobacter and 
+the plant pathogenic species Agrobacterium tumefaciens and Agrobacterium
+rhizogenes. At the end of the past century two new pathogenic species,
+Agrobacterium rubi and Agrobacterium vitis, were added to the genus. Already in
+the present century these species plus Agrobacterium larrymoorei were
+reclassified into genus Rhizobium. This reclassification was controversial and
+for a time both genus names were used when new species were described. Few years 
+ago, after a taxonomic revision based on genomic data, the old species A.
+rhizogenes was maintained in the genus Rhizobium, the old species A. vitis was
+transferred to the genus Allorhizobium and several Rhizobium species were
+transferred to the genus Agrobacterium, which currently contains 14 species
+including the old species A. radiobacter, A. tumefaciens, A. rubi and A.
+larrymoorei. Most of these species are able to produce tumours in different
+plants, nevertheless the genus Agrobacterium also encompasses non-pathogenic
+species, one species able to nodulate legumes and one human pathogenic species.
+Taking into account that the species affiliations to five Agrobacterium
+genomospecies have not been determined yet, an increase in the number of species 
+within this genus is expected in the near future.
+
+Copyright © 2019. Published by Elsevier GmbH.
+
+DOI: 10.1016/j.syapm.2019.126046 
+PMID: 31818496  [Indexed for MEDLINE]
+

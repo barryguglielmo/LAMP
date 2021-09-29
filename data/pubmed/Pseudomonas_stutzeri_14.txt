@@ -1,0 +1,56 @@
+
+1. Int J Nanomedicine. 2020 Jun 23;15:4523-4540. doi: 10.2147/IJN.S247426.
+eCollection 2020.
+
+Selenium Nanoparticles Synthesized Using Pseudomonas stutzeri (MH191156) Show
+Antiproliferative and Anti-angiogenic Activity Against Cervical Cancer Cells.
+
+Rajkumar K(1), Mvs S(1), Koganti S(2), Burgula S(1).
+
+Author information: 
+(1)Department of Microbiology, Osmania University, Tarnaka, Hyderabad 500007,
+India.
+(2)Center for Advanced Research, Sri Venkateswara Institute of Medical Sciences, 
+Tirupati 517507, India.
+
+Purpose: Selenium nanoparticles (SeNP) have several applications in the field of 
+biotechnology, including their use as anti-cancer drugs. The purpose of the
+present study is to analyze the efficacy of green synthesis on the preparation of
+SeNP and its effect on their anti-cancer properties.
+Methods: A bacterial strain isolated from a freshwater source was shown to
+efficiently synthesize SeNP with potential therapeutic properties. The quality
+and stability of the NP were studied by scanning electron microscopy, X-ray
+diffraction, zeta-potential and FTIR analysis. A cost-effective medium
+formulation from biowaste having 6% banana peel extract enriched with 0.25 mM
+tryptophan was used to synthesize the NP. The NP after optimization was used to
+analyze their anti-tumor and anti-angiogenic activity. For this purpose, first,
+the cytotoxicity of the NP against cancer cells was analyzed by MTT assay and
+then chorioallantoic membrane assay was performed to assess anti-angiogenic
+activity. Further, cell migration assay and clonogenic inhibition assay were
+performed to test the anti-tumor properties of SeNP. To assess the cytotoxicity
+of SeNP on healthy RBC, hemolysis assay was performed.
+Results: The strain identified as Pseudomonas stutzeri (MH191156) produced
+phenazine carboxylic acid, which aids the conversion of Se oxyanions to reduced
+NP state, resulting in particles in the size range of 75 nm to 200 nm with
+improved stability and quality of SeNP, as observed by zeta (ξ) potential of the 
+particles which was found to be -46.2 mV. Cytotoxicity of the SeNP was observed
+even at low concentrations such as 5 µg/mL against cervical cancer cell line, ie,
+HeLa cells. Further, neovascularization was inhibited by upto 30 % in CAMs of
+eggs coinoculated with SeNp when compared with untreated controls, indicating
+significant anti-angiogenic activity of SeNP. The NP also inhibited the
+invasiveness of HeLa cells as observed by decreased cell migration and clonogenic
+proliferation. These observations indicate significant anti-tumor and
+anti-angiogenic activity of the SeNP in cervical cancer cells.
+Conclusion: P. stutzeri (MH191156) is an efficient source of Se NP production
+with potential anti-angiogenic and anti-tumor properties, particularly against
+cervical cancer cells.
+
+© 2020 Rajkumar et al.
+
+DOI: 10.2147/IJN.S247426 
+PMCID: PMC7320886
+PMID: 32606692  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest in
+this work.
+

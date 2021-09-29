@@ -1,0 +1,52 @@
+
+1. Int J Mol Sci. 2020 Apr 11;21(8). pii: E2676. doi: 10.3390/ijms21082676.
+
+d-glutamate and Gut Microbiota in Alzheimer's Disease.
+
+Chang CH(1)(2)(3), Lin CH(1)(4)(5)(6), Lane HY(1)(2)(4)(7).
+
+Author information: 
+(1)Institute of Clinical Medical Science, China Medical University, Taichung
+40402, Taiwan.
+(2)Department of Psychiatry & Brain Disease Research Center, China Medical
+University Hospital, Taichung 40402, Taiwan.
+(3)An Nan Hospital, China Medical University, Tainan 709025, Taiwan.
+(4)Graduate Institute of Biomedical Sciences, China Medical University, Taichung 
+40402, Taiwan.
+(5)Kaohsiung Chang Gung Memorial Hospital, Chang Gung University College of
+Medicine, Kaohsiung 83301, Taiwan.
+(6)School of Medicine, Chang Gung University, Taoyuan 33302, Taiwan.
+(7)Department of Psychology, College of Medical and Health Sciences, Asia
+University, Taichung 41354, Taiwan.
+
+BACKGROUND: An increasing number of studies have shown that the
+brain-gut-microbiota axis may significantly contribute to Alzheimer's disease
+(AD) pathogenesis. Moreover, impaired memory and learning involve the dysfunction
+neurotransmission of glutamate, the agonist of the N-methyl-d-aspartate receptor 
+and a major excitatory neurotransmitter in the brain. This systematic review
+aimed to summarize the current cutting-edge research on the gut microbiota and
+glutamate alterations associated with dementia.
+METHODS: PubMed, the Cochrane Collaboration Central Register of Controlled
+Clinical Trials, and Cochrane Systematic Reviews were reviewed for all studies on
+glutamate and gut microbiota in dementia published up until Feb 2020.
+RESULTS: Several pilot studies have reported alterations of gut microbiota and
+metabolites in AD patients and other forms of dementia. Gut microbiota including 
+Bacteroides vulgatus and Campylobacter jejuni affect glutamate metabolism and
+decrease the glutamate metabolite 2-keto-glutaramic acid. Meanwhile, gut bacteria
+with glutamate racemase including Corynebacterium glutamicum, Brevibacterium
+lactofermentum, and Brevibacterium avium can convert l-glutamate to d-glutamate. 
+N-methyl-d-aspartate glutamate receptor (NMDAR)-enhancing agents have been found 
+to potentially improve cognition in AD or Parkinson's disease patients. These
+findings suggest that d-glutamate (d-form glutamate) metabolized by the gut
+bacteria may influence the glutamate NMDAR and cognitive function in dementia
+patients.
+CONCLUSIONS: Gut microbiota and glutamate are potential novel interventions to be
+developed for dementia. Exploring comprehensive cognitive functions in animal and
+human trials with glutamate-related NMDAR enhancers are warranted to examine
+d-glutamate signaling efficacy in gut microbiota in patients with AD and other
+neurodegenerative dementias.
+
+DOI: 10.3390/ijms21082676 
+PMCID: PMC7215955
+PMID: 32290475 
+

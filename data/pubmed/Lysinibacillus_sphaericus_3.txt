@@ -1,0 +1,41 @@
+
+1. 3 Biotech. 2020 Aug;10(8):365. doi: 10.1007/s13205-020-02361-8. Epub 2020 Jul 31.
+
+In vitro analysis of the anticancer activity of Lysinibacillus sphaericus binary 
+toxin in human cancer cell lines.
+
+Chankamngoen W(1), Janvilisri T(2), Promdonkoy B(3), Boonserm P(1).
+
+Author information: 
+(1)Institute of Molecular Biosciences, Mahidol University, Salaya, Phuttamonthon,
+Nakhon Pathom, 73170 Thailand.
+(2)Department of Biochemistry, Faculty of Science, Mahidol University, Bangkok,
+10400 Thailand.
+(3)National Center for Genetic Engineering and Biotechnology, National Science
+and Technology Development Agency, 113 Phahonyothin Road, Khlong Luang, Phathum
+Thani, 12120 Thailand.
+
+Binary or Bin toxin produced by Lysinibacillus sphaericus is composed of BinA
+(42 kDa) and BinB (51 kDa) subunits. These work together to exert maximal
+toxicity against mosquito larvae via pore formation and induction of apoptosis.
+The C-terminal domains in both subunits are homologous to those of aerolysin-type
+β pore-forming toxins, including parasporin-2 (PS2). The latter is one of the
+Bacillus thuringiensis toxins that exhibits specific cytotoxicity against human
+cancer cells. The present study investigates the possible anticancer activity of 
+Bin toxin using PS2 as a control. We demonstrate that treatment with a high
+concentration of trypsin-activated Bin inhibits cell proliferation in human
+cancer cells A549, Caco-2, HepG2, HK-1 and KKU-M055. In the most susceptible
+cells, HK-1, Bin toxin exposure led to morphological alterations, decreased
+migration, decreased adhesion activity and apoptosis induction. Although these
+effects necessitated high concentrations, they suggest that Bin toxin may be
+optimized as a novel potential cancer-therapeutic agent.
+
+© King Abdulaziz City for Science and Technology 2020.
+
+DOI: 10.1007/s13205-020-02361-8 
+PMCID: PMC7394974 [Available on 2021-08-01]
+PMID: 32832326 
+
+Conflict of interest statement: Conflict of interestThe authors declare that they
+have no conflict of interest.
+

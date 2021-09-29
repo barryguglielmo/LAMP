@@ -1,0 +1,61 @@
+
+1. Sci Rep. 2020 Sep 25;10(1):15807. doi: 10.1038/s41598-020-72807-9.
+
+Unculturable and culturable periodontal-related bacteria are associated with
+periodontal inflammation during pregnancy and with preterm low birth weight
+delivery.
+
+Ye C(1), Xia Z(1), Tang J(1), Khemwong T(2), Kapila Y(3), Kuraji R(4), Huang
+P(1), Wu Y(1), Kobayashi H(5)(6).
+
+Author information: 
+(1)State Key Laboratory of Oral Diseases & National Clinical Research Center for 
+Oral Diseases & Dept. of Periodontology West China Hospital of Stomatology,
+Sichuan University, Chengdu, China.
+(2)Department of Periodontology, Graduate School of Medical and Dental Sciences, 
+Tokyo Medical and Dental University (TMDU), 1-5-45 Yushima, Bunkyo-ku, Tokyo,
+113-8549, Japan.
+(3)Division of Periodontology, Department of Orofacial Sciences, School of
+Dentistry, University of California San Francisco, San Francisco, CA, USA.
+(4)Department of Life Science Dentistry and Department of Periodontology, The
+Nippon Dental University School of Life Dentistry at Tokyo, Tokyo, Japan.
+(5)Department of Periodontology, Graduate School of Medical and Dental Sciences, 
+Tokyo Medical and Dental University (TMDU), 1-5-45 Yushima, Bunkyo-ku, Tokyo,
+113-8549, Japan. h-kobayashi.peri@tmd.ac.jp.
+(6)Sumitomo Corporation Dental Clinic, Tokyo, Japan. h-kobayashi.peri@tmd.ac.jp.
+
+Recent studies revealed culturable periodontal keystone pathogens are associated 
+with preterm low birth weight (PLBW). However, the oral microbiome is also
+comprised of hundreds of 'culture-difficult' or 'not-yet-culturable' bacterial
+species. To explore the potential role of unculturable and culturable
+periodontitis-related bacteria in preterm low birth weight (PLBW) delivery, we
+recruited 90 pregnant women in this prospective study. Periodontal parameters,
+including pocket probing depth, bleeding on probing, and clinical attachment
+level were recorded during the second trimester and following interviews on oral 
+hygiene and lifestyle habits. Saliva and serum samples were also collected. After
+delivery, birth results were recorded. Real-time PCR analyses were performed to
+quantify the levels of periodontitis-related unculturable bacteria (Eubacterium
+saphenum, Fretibacterium sp. human oral taxon(HOT) 360, TM7 sp. HOT 356, and
+Rothia dentocariosa), and cultivable bacteria (Aggregatibacter
+actinomycetemcomitans, Porphyromonas gingivalis, Tannerella forsythia, Treponema 
+denticola, Fusobacterium nucleatum and Prevotella intermedia) in saliva samples. 
+In addition, ELISA analyses were used to determine the IgG titres against
+periodontal pathogens in serum samples. Subjects were categorized into a Healthy 
+group (H, n = 20) and periodontitis/gingivitis group (PG, n = 70) according to
+their periodontal status. The brushing duration was significantly lower in the PG
+group compared to the H group. Twenty-two of 90 subjects delivered PLBW infants. 
+There was no significant difference in periodontal parameters and serum IgG
+levels for periodontal pathogens between PLBW and healthy delivery (HD) groups.
+However, ordinal logistic regression analysis revealed that a higher abundance of
+Treponema denticola, Prevotella intermedia, Fretibacterium sp. HOT360 and lower
+levels of Rothia dentocariosa were significantly associated with the presence of 
+periodontal disease during pregnancy. Moreover, the amount of Eubacterium
+saphenum in saliva and serum IgG against Aggregatibacter actinomycetemcomitans
+were negatively correlated with PLBW. Taken together, unculturable
+periodontitis-associated bacteria may play an important role both in the presence
+of periodontal inflammation during pregnancy and subsequent PLBW.
+
+DOI: 10.1038/s41598-020-72807-9 
+PMCID: PMC7519089
+PMID: 32978483 
+

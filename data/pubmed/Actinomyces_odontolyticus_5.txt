@@ -1,0 +1,57 @@
+
+1. J Dent Res. 2020 Jun;99(6):685-694. doi: 10.1177/0022034520905792. Epub 2020 Feb 
+19.
+
+Insights Obtained by Culturing Saccharibacteria With Their Bacterial Hosts.
+
+Bor B(1)(2), Collins AJ(1)(2)(3), Murugkar PP(1)(2)(4), Balasubramanian
+S(1)(2)(5), To TT(6), Hendrickson EL(6), Bedree JK(1)(7), Bidlack FB(1)(2),
+Johnston CD(8), Shi W(1), McLean JS(6), He X(1), Dewhirst FE(1)(2).
+
+Author information: 
+(1)Department of Microbiology, The Forsyth Institute, Cambridge, MA, USA.
+(2)Department of Oral Medicine, Infection, and Immunity, Harvard School of Dental
+Medicine, Boston, MA, USA.
+(3)Covaris, Inc., Woburn, MA, USA.
+(4)Stanford Microbiome Therapeutics Initiative, Stanford University, Palo Alto,
+CA, USA.
+(5)Emulate, Inc., Boston, MA, USA.
+(6)Department of Periodontics, University of Washington, Seattle, WA, USA.
+(7)Section of Oral Biology, Division of Oral Biology and Medicine, School of
+Dentistry, University of California Los Angeles, Los Angeles, CA, USA.
+(8)Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research
+Center, Seattle, WA, USA.
+
+Oral microbiome research has moved from asking "Who's there?" to "What are they
+doing?" Understanding what microbes "do" involves multiple approaches, including 
+obtaining genomic information and examining the interspecies interactions.
+Recently we isolated a human oral Saccharibacteria (TM7) bacterium, HMT-952,
+strain TM7x, which is an ultrasmall parasite of the oral bacterium Actinomyces
+odontolyticus. The host-parasite interactions, such as phage-bacterium or
+Saccharibacteria-host bacterium, are understudied areas with large potential for 
+insight. The Saccharibacteria phylum is a member of Candidate Phyla Radiation, a 
+large lineage previously devoid of cultivated members. However, expanding our
+understanding of Saccharibacteria-host interactions requires examining multiple
+phylogenetically distinct Saccharibacteria-host pairs. Here we report the
+isolation of 3 additional Saccharibacteria species from the human oral cavity in 
+binary coculture with their bacterial hosts. They were obtained by filtering
+ultrasmall Saccharibacteria cells free of other larger bacteria and inoculating
+them into cultures of potential host bacteria. The binary cocultures obtained
+could be stably passaged and studied. Complete closed genomes were obtained and
+allowed full genome analyses. All have small genomes (<1 Mb) characteristic of
+parasitic species and dramatically limited de novo synthetic pathway capabilities
+but include either restriction modification or CRISPR-Cas systems as part of an
+innate defense against foreign DNA. High levels of gene synteny exist among
+Saccharibacteria species. Having isolates growing in coculture with their hosts
+allowed time course studies of growth and parasite-host interactions by phase
+contrast, fluorescence in situ hybridization, and scanning electron microscopy.
+The cells of the 4 oral Saccharibacteria species are ultrasmall and could be seen
+attached to their larger Actinobacteria hosts. Parasite attachment appears to
+lead to host cell death and lysis. The successful cultivation of Saccharibacteria
+species has significantly expanded our understanding of these ultrasmall
+Candidate Phyla Radiation bacteria.
+
+DOI: 10.1177/0022034520905792 
+PMCID: PMC7243422 [Available on 2021-06-01]
+PMID: 32075512 
+

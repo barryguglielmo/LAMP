@@ -1,0 +1,42 @@
+
+1. Benef Microbes. 2020 May 11;11(3):227-233. doi: 10.3920/BM2019.0039. Epub 2020
+Feb 19.
+
+Structural changes in gut microbiome after Ramadan fasting: a pilot study.
+
+Ozkul C(1), Yalinay M(2), Karakan T(3).
+
+Author information: 
+(1)Hacettepe University, Faculty of Pharmacy, Department of Pharmaceutical
+Microbiology, Sihhiye, Ankara 06100, Turkey.
+(2)Gazi University, Medical Faculty, Department of Clinical Microbiology,
+Besevler, Ankara 06560, Turkey.
+(3)Gazi University, Medical Faculty, Department of Internal Medicine, Division of
+Gastroenterology, Besevler, Ankara 06560, Turkey.
+
+It has been largely accepted that dietary changes have an effect on gut microbial
+composition. In this pilot study we hypothesised that Ramadan fasting, which can 
+be considered as a type of time-restricted feeding may lead to changes in gut
+microbial composition and diversity. A total of 9 adult subjects were included in
+the study. Stool samples were collected before (baseline) and at the end of the
+Ramadan fasting (after 29 days). Following the construction of an 16S rRNA
+amplicon library, the V4 region was sequenced using the Illumina Miseq platform. 
+Microbial community analysis was performed using the QIIME program. A total of
+27,521 operational taxonomic units (OTUs) with a 97% similarity were determined
+in all of the samples. Microbial richness was significantly increased after
+Ramadan according to observed OTU results (P=0.016). No significant difference
+was found in terms of Shannon index or phylogenetic diversity metrics of alpha
+diversity. Microbial community structure was significantly different between
+baseline and after Ramadan samples according to unweighted UniFrac analysis
+(P=0.025). LEfSe analysis revealed that Butyricicoccus, Bacteroides,
+Faecalibacterium, Roseburia, Allobaculum, Eubacterium, Dialister and
+Erysipelotrichi were significantly enriched genera after the end of Ramadan
+fasting. According to random forest analysis, the bacterial species most affected
+by the Ramadan fasting was Butyricicoccus pullicaecorum. Despite this is a pilot 
+study with a limited sample size; our results clearly revealed that Ramadan
+fasting, which represents an intermittent fasting regime, leads to compositional 
+changes in the gut microbiota.
+
+DOI: 10.3920/BM2019.0039 
+PMID: 32073296 
+

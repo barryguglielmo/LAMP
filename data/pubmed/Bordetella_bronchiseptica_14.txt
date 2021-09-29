@@ -1,0 +1,40 @@
+
+1. Am J Vet Res. 2020 Jun;81(6):506-513. doi: 10.2460/ajvr.81.6.506.
+
+Investigation of the effects of an ultraviolet germicidal irradiation system on
+concentrations of aerosolized surrogates for common veterinary pathogens.
+
+Pearce-Walker JI, Troup DJ, Ives R, Ikner LA, Rose JB, Kennedy MA, Verhougstraete
+MP.
+
+OBJECTIVE: To determine whether exposure to UV germicidal irradiation (UVGI)
+reduces concentrations of viable aerosolized microorganisms (attenuated strains
+of common veterinary pathogens) in a simulated heating, ventilation, and air
+conditioning (HVAC) system.
+SAMPLE: 42 air samples seeded with bacteriophage MS2 or attenuated strains of
+Bordetella bronchiseptica, feline calicivirus, feline herpesvirus-1, canine
+parvovirus, or canine distemper virus (6/microorganism) or with no microorganisms
+added (6).
+PROCEDURES: A simulated HVAC unit was built that included a nebulizer to
+aerosolize microorganisms suspended in phosphate-buffered water, a fan to produce
+airflow, 2 UVGI bulb systems, and an impinger for air sampling. Ten-minute trials
+(3 with UVGI, 3 without UVGI, and 1 negative control) were conducted for each
+microorganism. Impingers collected microorganisms into phosphate-buffered water
+for subsequent quantification with culture-based assays. Results for samples
+yielding no target microorganisms were recorded as the assay's lower limit of
+detection. Statistical analysis was not performed.
+RESULTS: The UVGI treatment resulted in subjectively lower concentrations of
+viable MS2, B bronchiseptica, and canine distemper virus (arithmetic mean ± SD
+log10 microorganism reduction, 2.57 ± 0.47, ≥ 3.45 ± 0.24, and ≥ 1.50 ± 0.25,
+respectively) collected from air. Feline herpesvirus-1 was detected in only 1
+sample without and no samples with UVGI treatment. Feline calicivirus and canine 
+parvovirus were not detectable in any collected samples.
+CONCLUSIONS AND CLINICAL RELEVANCE: Results for some surrogates of veterinary
+pathogens suggested a potential benefit to supplementing manual disinfection
+practices with UVGI-based air cleaning systems in animal care environments.
+Further research is needed to investigate the utility of UVGI in operating HVAC
+systems.
+
+DOI: 10.2460/ajvr.81.6.506 
+PMID: 32436797  [Indexed for MEDLINE]
+

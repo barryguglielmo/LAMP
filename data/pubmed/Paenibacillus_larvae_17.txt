@@ -1,0 +1,47 @@
+
+1. Biosci Rep. 2020 Jan 31;40(1). pii: BSR20193405. doi: 10.1042/BSR20193405.
+
+Characterization of C3larvinA, a novel RhoA-targeting ADP-ribosyltransferase
+toxin produced by the honey bee pathogen, Paenibacillus larvae.
+
+Turner M(1), Tremblay O(1), Heney KA(1), Lugo MR(1), Ebeling J(2), Genersch
+E(2)(3), Merrill AR(1).
+
+Author information: 
+(1)Department of Molecular and Cellular Biology, University of Guelph, Guelph,
+Ontario N1G 2W1, Canada.
+(2)Institute for Bee Research, Department of Molecular Microbiology and Bee
+Diseases, Hohen Neuendorf 16540, Germany.
+(3)Freie Universität Berlin, Fachbereich Veterinärmedizin, Institut für
+Mikrobiologie und Tierseuchen, Berlin 14163, Germany.
+
+C3larvinA is a putative virulence factor produced by Paenibacillus larvae
+enterobacterial-repetitive-intergenic-consensus (ERIC) III/IV (strain 11-8051).
+Biochemical, functional and structural analyses of C3larvinA revealed that it
+belongs to the C3-like mono-ADP-ribosylating toxin subgroup. Mammalian RhoA was
+the target substrate for its transferase activity suggesting that it may be the
+biological target of C3larvinA. The kinetic parameters of the NAD+ substrate for 
+the transferase (KM = 75 ± 10 µM) and glycohydrolase (GH) (KM = 107 ± 20 µM)
+reactions were typical for a C3-like bacterial toxin, including the Plx2A
+virulence factor from Paenibacillus larvae ERIC I. Upon cytoplasmic expression in
+yeast, C3larvinA caused a growth-defective phenotype indicating that it is an
+active C3-like toxin and is cytotoxic to eukaryotic cells. The catalytic variant 
+of the Q187-X-E189 motif in C3larvinA showed no cytotoxicity toward yeast
+confirming that the cytotoxicity of this factor depends on its enzymatic
+activity. A homology consensus model of C3larvinA with NAD+ substrate was built
+on the structure of Plx2A, provided additional confirmation that C3larvinA is a
+member of the C3-like mono-ADP-ribosylating toxin subgroup. A homology model of
+C3larvinA with NADH and RhoA was built on the structure of the C3cer-NADH-RhoA
+complex which provided further evidence that C3larvinA is a C3-like toxin that
+shares an identical catalytic mechanism with C3cer from Bacillus cereus.
+C3larvinA induced actin cytoskeleton reorganization in murine macrophages,
+whereas in insect cells, vacuolization and bi-nucleated cells were observed.
+These cellular effects are consistent with C3larvinA disrupting RhoA function by 
+covalent modification that is shared among C3-like bacterial toxins.
+
+© 2020 The Author(s).
+
+DOI: 10.1042/BSR20193405 
+PMCID: PMC6954368
+PMID: 31844879 
+

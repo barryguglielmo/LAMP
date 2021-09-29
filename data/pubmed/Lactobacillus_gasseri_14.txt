@@ -1,0 +1,47 @@
+
+1. Gut Microbes. 2020 Nov 9;12(1):1785803. doi: 10.1080/19490976.2020.1785803. Epub 
+2020 Jul 14.
+
+Cancer-protective effect of a synbiotic combination between Lactobacillus gasseri
+505 and a Cudrania tricuspidata leaf extract on colitis-associated colorectal
+cancer.
+
+Oh NS(1), Lee JY(2), Kim YT(3), Kim SH(2), Lee JH(3).
+
+Author information: 
+(1)Department of Food and Biotechnology, Korea University , Sejong, South Korea.
+(2)Department of Biotechnology, College of Life Sciences and Biotechnology, Korea
+University , Seoul, South Korea.
+(3)Department of Food Science and Biotechnology, Graduate School of
+Biotechnology, Kyung Hee University , Yongin, South Korea.
+
+Previously, a synbiotic combination of probiotic Lactobacillus gasseri 505 (LG)
+and a new prebiotic, Cudrania tricuspidata leaf extract (CT) in fermented milk,
+designated FCT, showed an in vitro immunomodulatory effect and antioxidant
+activity. Although synbiotic combination might have cancer-protective effects,
+these activities have not been fully validated in vivo. Ten-week treatment of LG,
+CT, or FCT to azoxymethane (AOM)/dextran sodium sulfate (DSS)-induced
+colitis-associated colorectal cancer (CAC) mouse model reduced both the incidence
+of colonic tumors and damage to the colonic mucosa effectively, suggesting a
+cancer-protective effect. To understand these, biomarkers associated with
+inflammation, colon barrier, apoptosis, and cancer cell proliferation were
+monitored in AOM/DSS group versus LG/CT/FCT groups. A synbiotic combination (FCT)
+down-regulated pro-inflammatory cytokines (TNF-α, IFN-γ, IL-1β, and IL-6) and
+inflammation-associated enzymes (iNOS and COX-2), and up-regulated
+anti-inflammatory cytokines (IL-4 and IL-10). In addition, colon barrier
+experiment revealed that biomarkers of mucus layer (MUC-2 and TFF3) and tight
+junction (occludin and ZO-1) were up-regulated. Subsequent apoptosis experiment
+showed that pro-apoptotic factors (p53, p21, and Bax) were up-regulated and
+anti-apoptotic factors (Bcl-2 and Bcl-xL) were down-regulated. Furthermore,
+comparative metagenome analysis of gut microbiota revealed that Staphylococcus
+decreased but Lactobacillus, Bifidobacterium, and Akkermansia increased,
+supporting their protective effects, accompanied by increased short-chain fatty
+acids (SCFAs). Taken together, the FCT administration showed cancer-protective
+effects by reducing the risk of colitis-associated colon cancer via regulation of
+inflammation, carcinogenesis, and compositional change of gut microbiota.
+Consequently, the synbiotic combination (FCT) could be a novel potential
+health-protective natural agent against CAC.
+
+DOI: 10.1080/19490976.2020.1785803 
+PMID: 32663105 
+

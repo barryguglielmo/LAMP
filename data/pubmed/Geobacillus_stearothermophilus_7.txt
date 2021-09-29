@@ -1,0 +1,44 @@
+
+1. Microb Cell Fact. 2020 Jul 28;19(1):151. doi: 10.1186/s12934-020-01409-x.
+
+Establishment of a functional system for recombinant production of secreted
+proteins at 50 °C in the thermophilic Bacillus methanolicus.
+
+Irla M(1), Drejer EB(1), Brautaset T(1), Hakvåg S(2).
+
+Author information: 
+(1)Department of Biotechnology and Food Sciences, Norwegian University of Science
+and Technology (NTNU), Trondheim, Norway.
+(2)Department of Biotechnology and Food Sciences, Norwegian University of Science
+and Technology (NTNU), Trondheim, Norway. sigrid.hakvag@ntnu.no.
+
+BACKGROUND: The suitability of bacteria as microbial cell factories is dependent 
+on several factors such as price of feedstock, product range, production yield
+and ease of downstream processing. The facultative methylotroph Bacillus
+methanolicus is gaining interest as a thermophilic cell factory for production of
+value-added products from methanol. The aim of this study was to expand the
+capabilities of B. methanolicus as a microbial cell factory by establishing a
+system for secretion of recombinant proteins.
+RESULTS: Native and heterologous signal peptides were tested for secretion of
+α-amylases and proteases, and we have established the use of the thermostable
+superfolder green fluorescent protein (sfGFP) as a valuable reporter protein in
+B. methanolicus. We demonstrated functional production and secretion of
+recombinant proteases, α-amylases and sfGFP in B. methanolicus MGA3 at 50 °C and 
+showed that the choice of signal peptide for optimal secretion efficiency varies 
+between proteins. In addition, we showed that heterologous production and
+secretion of α-amylase from Geobacillus stearothermophilus enables
+B. methanolicus to grow in minimal medium with starch as the sole carbon source. 
+An in silico signal peptide library consisting of 169 predicted peptides from
+B. methanolicus was generated and will be useful for future studies, but was not 
+experimentally investigated any further here.
+CONCLUSION: A functional system for recombinant production of secreted proteins
+at 50 °C has been established in the thermophilic B. methanolicus. In addition,
+an in silico signal peptide library has been generated, that together with the
+tools and knowledge presented in this work will be useful for further development
+of B. methanolicus as a host for recombinant protein production and secretion at 
+50 °C.
+
+DOI: 10.1186/s12934-020-01409-x 
+PMCID: PMC7389648
+PMID: 32723337 
+

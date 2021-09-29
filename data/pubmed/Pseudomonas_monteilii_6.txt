@@ -1,0 +1,50 @@
+
+1. J Biotechnol. 2020 Mar 20;312:35-43. doi: 10.1016/j.jbiotec.2020.03.001. Epub
+2020 Mar 3.
+
+Tuning amino acid dehydrogenases with featured sequences for L-phosphinothricin
+synthesis by reductive amination.
+
+Cheng F(1), Li H(1), Zhang K(1), Li QH(1), Xie D(1), Xue YP(2), Zheng YG(1).
+
+Author information: 
+(1)Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of
+Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou,
+310014, PR China; The National and Local Joint Engineering Research Center for
+Biomanufacturing of Chiral Chemicals, Zhejiang University of Technology,
+Hangzhou, 310014, PR China.
+(2)Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of
+Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou,
+310014, PR China; The National and Local Joint Engineering Research Center for
+Biomanufacturing of Chiral Chemicals, Zhejiang University of Technology,
+Hangzhou, 310014, PR China. Electronic address: xyp@zjut.edu.cn.
+
+Biosynthesizing unnatural chiral amino acids is challenging due to the limited
+reductive amination activity of amino acid dehydrogenase (AADH). Here, for the
+asymmetric synthesis of l-phosphinothricin from
+2-oxo-4-[(hydroxy)(methyl)phosphinoyl]butyric acid (PPO), a glutamate
+dehydrogenase gene (named GluDH3) from Pseudomonas monteilii was selected, cloned
+and expressed in Escherichia coli (E. coli). To boost its activity, a
+"two-step"-based computational approach was developed and applied to select the
+potential beneficial amino acid positions on GluDH3. l-phosphinothricin was
+synthesized by GluDH-catalyzed asymmetric amination using the d-glucose
+dehydrogenase from Exiguobacterium sibiricum (EsGDH) for NADPH regeneration.
+Using lyophilized E. coli cells that co-expressed GluDH3_V375S and EsGDH, up to
+89.04 g L-1 PPO loading was completely converted to l-phosphinothricin within
+30 min at 35 °C with a space-time yield of up to 4.752 kg·L-1·d-1. The beneficial
+substitution V375S with increased polar interactions between K90, T193, and
+substrate PPO exhibited 168.2-fold improved catalytic efficiency (kcat/KM) and
+344.8-fold enhanced specific activity. After the introduction of serine residues 
+into other GluDHs at specific positions, forty engineered GluDHs exhibited the
+catalytic functions of "glufosinate dehydrogenase" towards PPO.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jbiotec.2020.03.001 
+PMID: 32135177 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

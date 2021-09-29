@@ -1,0 +1,51 @@
+
+1. BMC Genomics. 2020 Aug 24;21(1):579. doi: 10.1186/s12864-020-07001-2.
+
+Sequencing of five poultry strains elucidates phylogenetic relationships and
+divergence in virulence genes in Morganella morganii.
+
+Palmieri N(1), Hess C(1), Hess M(1), Alispahic M(2).
+
+Author information: 
+(1)Clinic for Poultry and Fish Medicine, Department for Farm Animals and
+Veterinary Public Health, University of Veterinary Medicine, Veterinärplatz 1,
+1210, Vienna, Austria.
+(2)Clinic for Poultry and Fish Medicine, Department for Farm Animals and
+Veterinary Public Health, University of Veterinary Medicine, Veterinärplatz 1,
+1210, Vienna, Austria. merima.alispahic@vetmeduni.ac.at.
+
+BACKGROUND: M. morganii is a bacterium frequently associated with urinary
+infections in humans. While many human strains are sequenced, only the genomes of
+few poultry strains are available. Here, we performed a detailed characterization
+of five highly resistant Morganella morganii strains isolated in association with
+Escherichia coli from diseased domestic Austrian poultry flocks, namely geese,
+turkeys and chicken layers. Additionally, we sequenced the genomes of these
+strains by NGS and analyzed phylogenetic clustering, resistance and virulence
+genes in the context of host-specificity.
+RESULTS: Two strains were identified to be Extended Spectrum Beta Lactamase
+(ESBL) and one as AmpC beta-lactamases (AMP-C) phenotype, while two were ESBL
+negative. By integrating the genome sequences of these five poultry strains with 
+all the available M. morganii genomes, we constructed a phylogenetic tree that
+clearly separates the Morganella genus into two clusters (M1 and M2), which
+approximately reflect the proposed subspecies classification (morganii and
+sibonii). Additionally, we found no association between phylogenetic structure
+and host, suggesting interspecies transmission. All five poultry strains
+contained genes for resistance to aminocoumarins, beta-lactams, colistin,
+elfamycins, fluoroquinolones, phenicol, rifampin and tetracycline. A comparative 
+genomics analysis of virulence genes showed acquisition of novel virulence genes 
+involved in secretion system and adherence in cluster M2. We showed that some of 
+these genes were acquired by horizontal gene transfer from closely related
+Morganellaceae species and propose that novel virulence genes could be
+responsible for expansion of tissue tropism in M. morganii. Finally, we detected 
+variability in copy number and high sequence divergence in toxin genes and
+provided evidence for positive selection in insecticidal toxins genes, likely
+reflecting host-related adaptations.
+CONCLUSIONS: In summary, this study describes i) the first isolation and
+characterization of M. morganii from goose and turkey, ii) a large-scale genetic 
+analysis of M. morganii and an attempt to generate a global picture of the M.
+morganii intraspecific phylogenetic structure.
+
+DOI: 10.1186/s12864-020-07001-2 
+PMCID: PMC7446228
+PMID: 32831012 
+

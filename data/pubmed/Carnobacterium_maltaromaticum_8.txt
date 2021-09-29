@@ -1,0 +1,41 @@
+
+1. Sci Rep. 2020 Apr 30;10(1):7335. doi: 10.1038/s41598-020-63844-5.
+
+Nested structure of intraspecific competition network in Carnobacterium
+maltaromaticum.
+
+Ramia NE(1)(2), Mangavel C(1), Gaiani C(1), Muller-Gueudin A(3), Taha S(2),
+Revol-Junelles AM(1), Borges F(4).
+
+Author information: 
+(1)Université de Lorraine, LIBio, F-54000, Nancy, France.
+(2)Laboratoire de Biotechnologies Appliquées, EDST, Université Libanaise,
+Tripoli, Lebanon.
+(3)Université de Lorraine, CNRS, Inria, IECL, F-54000, Nancy, France.
+(4)Université de Lorraine, LIBio, F-54000, Nancy, France.
+frederic.borges@univ-lorraine.fr.
+
+While competition targeting food-borne pathogens is being widely documented, few 
+studies have focused on competition among non-pathogenic food bacteria.
+Carnobacterium maltaromaticum is a genetically diverse lactic acid bacterium
+known for comprising several bacteriocinogenic strains with bioprotective
+potentialities against the food-borne pathogen Listeria monocytogenes. The aim of
+our study is to examine the network properties of competition among a collection 
+of 73 strains of C. maltaromaticum and to characterize their individual
+interaction potential. The performed high-throughput competition assays,
+investigating 5 329 pairwise interactions, showed that intraspecific competition 
+was major in C. maltaromaticum with approximately 56% of the sender strains
+antagonizing at least one receiver strain. A high diversity of inhibitory and
+sensitivity spectra was identified along with a majority of narrow inhibitory as 
+well as sensitivity spectra. Through network analysis approach, we determined the
+highly nested architecture of C. maltaromaticum competition network, thus showing
+that competition in this species is determined by both the spectrum width of the 
+inhibitory activity of sender strains and the spectrum width of the sensitivity
+of receiver strains. This study provides knowledge of the competition network in 
+C. maltaromaticum that could be used in rational assembly of compatible microbial
+strains for the design of mixed starter cultures.
+
+DOI: 10.1038/s41598-020-63844-5 
+PMCID: PMC7193615
+PMID: 32355239 
+

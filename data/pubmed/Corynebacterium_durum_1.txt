@@ -1,0 +1,48 @@
+
+1. ISME J. 2020 May;14(5):1154-1169. doi: 10.1038/s41396-020-0598-2. Epub 2020 Feb
+4.
+
+Synergism between Corynebacterium and Streptococcus sanguinis reveals new
+interactions between oral commensals.
+
+Treerat P(1), Redanz U(1), Redanz S(1)(2), Giacaman RA(3), Merritt J(1)(4), Kreth
+J(5)(6).
+
+Author information: 
+(1)Department of Restorative Dentistry, School of Dentistry, Oregon Health &
+Science University (OHSU), Portland, OR, 97239, USA.
+(2)Institute for Medical Microbiology, Virology and Hygiene, University Medicine 
+Rostock, Schillingallee 70, 18057, Rostock, Germany.
+(3)Cariology Unit, Department of Oral Rehabilitation, Faculty of Health Sciences,
+University of Talca, Talca, Chile.
+(4)Department of Molecular Microbiology and Immunology, School of Medicine,
+Oregon Health & Science University (OHSU), Portland, OR, 97239, USA.
+(5)Department of Restorative Dentistry, School of Dentistry, Oregon Health &
+Science University (OHSU), Portland, OR, 97239, USA. kreth@ohsu.edu.
+(6)Department of Molecular Microbiology and Immunology, School of Medicine,
+Oregon Health & Science University (OHSU), Portland, OR, 97239, USA.
+kreth@ohsu.edu.
+
+The oral microbiome engages in a diverse array of highly sophisticated ecological
+interactions that are crucial for maintaining symbiosis with the host.
+Streptococci and corynebacteria are among the most abundant oral commensals and
+their interactions are critical for normal biofilm development. In this study, we
+discovered that Streptococcus sanguinis specifically responds to the presence of 
+Corynebacterium durum by dramatically altering its chain morphology and improving
+its overall fitness. By employing gas chromatography-mass spectrometry (GC-MS)
+analysis, specific fatty acids were identified in C. durum supernatants that are 
+responsible for the observed effect. Membrane vesicles (MVs) containing these
+fatty acids were isolated from C. durum supernatants and were able to replicate
+the chain morphology phenotype in S. sanguinis, suggesting MV as a mediator of
+interspecies interactions. Furthermore, S. sanguinis responds to C. durum lipids 
+by decreasing the expression of key FASII genes involved in fatty acid synthesis.
+Several of these genes are also essential for the chain elongation phenotype,
+which implicates a regulatory connection between lipid metabolism and chain
+elongation. In addition, C. durum was found to affect the growth, cell
+aggregation, and phagocytosis of S. sanguinis, revealing a complex association of
+these species that likely supports oral commensal colonization and survival.
+
+DOI: 10.1038/s41396-020-0598-2 
+PMCID: PMC7174362 [Available on 2021-05-01]
+PMID: 32020052 
+

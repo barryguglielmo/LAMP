@@ -1,0 +1,49 @@
+
+1. Biochem Biophys Res Commun. 2020 Sep 26. pii: S0006-291X(20)31846-5. doi:
+10.1016/j.bbrc.2020.09.093. [Epub ahead of print]
+
+Structural basis for stereospecificity to d-amino acid of glycine oxidase from
+Bacillus cereus ATCC 14579.
+
+Seok J(1), Kim YJ(2), Kim IK(3), Kim KJ(4).
+
+Author information: 
+(1)School of Life Sciences, KNU Creative BioResearch Group, Kyungpook National
+University, Daehak-ro 80, Buk-ku, Daegu, 41566, Republic of Korea; KNU Institute 
+for Microorganisms, Kyungpook National University, Daehak-ro 80, Buk-ku, Daegu,
+41566, Republic of Korea.
+(2)School of Life Sciences, KNU Creative BioResearch Group, Kyungpook National
+University, Daehak-ro 80, Buk-ku, Daegu, 41566, Republic of Korea.
+(3)KNU Institute for Microorganisms, Kyungpook National University, Daehak-ro 80,
+Buk-ku, Daegu, 41566, Republic of Korea.
+(4)School of Life Sciences, KNU Creative BioResearch Group, Kyungpook National
+University, Daehak-ro 80, Buk-ku, Daegu, 41566, Republic of Korea; KNU Institute 
+for Microorganisms, Kyungpook National University, Daehak-ro 80, Buk-ku, Daegu,
+41566, Republic of Korea. Electronic address: kkim@knu.ac.kr.
+
+Glycine oxidase (GO) is an enzyme that catalyzes the oxidation of the primary and
+secondary amines of various chemicals, including glycine, and the enzyme has been
+applied in a variety of fields, such as biosensor and genetically modified
+glyphosate resistance plants. Here, we report that the gene product of BC0747
+from Bacillus cereus (BcGO) shows oxidase activity for glycine and small d-amino 
+acids, such as d-proline and d-alanine. We also determined the crystal structure 
+of BcGO complexed with the FAD cofactor at a 2.36 Å resolution and revealed how
+the cofactor binds to the deep pocket of the enzyme. We performed the molecular
+docking calculation of the glycine substrate to the BcGO structure and identified
+how the carboxyl- and amine-groups of the d-amino acid are stabilized at the
+substrate binding site. Structural analysis of BcGO also provided information on 
+the structural basis for the stereospecificity of the enzyme to d-amino acids. In
+addition, we placed the glyphosate molecule, a plant herbicide, at the substrate 
+binding site, and explained how the mutation of Gly51 to arginine enhances enzyme
+activity.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2020.09.093 
+PMID: 32993959 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

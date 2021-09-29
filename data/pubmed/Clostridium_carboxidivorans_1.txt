@@ -1,0 +1,48 @@
+
+1. Anal Biochem. 2020 Aug 1;609:113836. doi: 10.1016/j.ab.2020.113836. [Epub ahead
+of print]
+
+A microplate screen to estimate metal-binding affinities of metalloproteins.
+
+Diep P(1), Mahadevan R(2), Yakunin AF(3).
+
+Author information: 
+(1)BioZone Centre for Applied Bioscience and Bioengineering, Department of
+Chemical Engineering and Applied Chemistry, University of Toronto, Toronto,
+Ontario, Canada. Electronic address: patrick_diep@outlook.com.
+(2)BioZone Centre for Applied Bioscience and Bioengineering, Department of
+Chemical Engineering and Applied Chemistry, University of Toronto, Toronto,
+Ontario, Canada; Institute of Biomedical Engineering, University of Toronto,
+Toronto, Ontario, Canada.
+(3)BioZone Centre for Applied Bioscience and Bioengineering, Department of
+Chemical Engineering and Applied Chemistry, University of Toronto, Toronto,
+Ontario, Canada; Centre for Environmental Biotechnology, School of Natural
+Sciences, Bangor University, Bangor, United Kingdom.
+
+Solute-binding proteins (SBPs) from ATP-binding cassette (ABC) transporters play 
+crucial roles across all forms of life in transporting compounds against chemical
+gradients. Some SBPs have evolved to scavenge metal substrates from the
+environment with nanomolar and micromolar affinities (KD). There exist well
+established techniques like isothermal titration calorimetry for thoroughly
+studying these metalloprotein interactions with metal ions, but they are
+low-throughput. For protein libraries comprised of many metalloprotein homologues
+and mutants, and for collections of buffer conditions and potential ligands, the 
+throughput of these techniques is paramount. In this study, we describe an
+improved method termed the microITFQ-LTA and validated it using CjNikZ, a
+well-characterized nickel-specific SBP (Ni-BP) from Campylobacter jejuni. We then
+demonstrated how the microITFQ-LTA can be designed to screen through a small
+collection of buffers and ligands to elucidate the binding profile of a putative 
+Ni-BP from Clostridium carboxidivorans that we call CcSBPII. Through this study, 
+we showed CcSBPII can bind to various metal ions with KD ranged over 3 orders of 
+magnitude. In the presence of l-histidine, CcSBPII could bind to Ni2+ over
+2000-fold more tightly, which was 11.6-fold tighter than CjNikZ given the same
+ligand.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ab.2020.113836 
+PMID: 32750358 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare they have no competing financial interests.
+

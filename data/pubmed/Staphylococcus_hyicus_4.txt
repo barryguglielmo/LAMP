@@ -1,0 +1,53 @@
+
+1. BMC Vet Res. 2019 Nov 4;15(1):391. doi: 10.1186/s12917-019-2137-9.
+
+Genetic characterisation of staphylococci of food-producing animals in Senegal.
+PVL detection among MSSA.
+
+Mama OM(1), Dieng M(2), Hanne B(3), Ruiz-Ripa L(1), Diop CGM(2), Torres C(4).
+
+Author information: 
+(1)Departamento Agricultura y Alimentación, Área de Bioquímica y Biología
+Molecular, Universidad de La Rioja, Madre de Dios 51, 26006, Logroño, Spain.
+(2)LAE/ Ecole Supérieure polytechnique de Dakar, UCAD, Dakar, Sénégal.
+(3)Service Vétérinaire, Société de gestion des abattoirs du Sénégal, Dakar,
+Sénégal.
+(4)Departamento Agricultura y Alimentación, Área de Bioquímica y Biología
+Molecular, Universidad de La Rioja, Madre de Dios 51, 26006, Logroño, Spain.
+carmen.torres@unirioja.es.
+
+BACKGROUND: Food-producing animals can be a vehicle for staphylococcal species as
+well as their virulence and antimicrobial resistance genes. This work aimed to
+analyse the diversity of staphylococcal species in food-producing animals in
+Dakar/Senegal, and to determine the antimicrobial resistance phenotype/genotype
+and virulence factors of recovered isolates. Nasal samples of 149 cows and 199
+chickens (348 animals) were collected from one slaughterhouse and a local market 
+respectively, and were inoculated on selective media for staphylococci recovery. 
+For S. aureus isolates, molecular typing (spa-type, MLST) was performed by
+PCR/sequencing, and the presence of 27 virulence genes (exfoliative and toxic
+shock toxins, PVL, haemolysins and enterotoxins) as well as the gene scn were
+analysed by PCR. Susceptibility to twelve antibiotics was studied by
+disc-diffusion method for all staphylococci; the resistance genes involved were
+screened by PCR.
+RESULTS: Staphylococcus spp. was present in 3 and 26.8% of chicken and cow nasal 
+samples, respectively. Seven S. aureus isolates and forty isolates of other
+staphylococcal species were identified. S. aureus isolates were recovered from
+cow (n = 6) and chicken (n = 1) samples, belonging to four genetic lineages:
+t084/ST15 (n = 1); t10579/ST291 (n = 3); t355, t4690/ST152 (n = 2); and t6618/ST6
+(n = 1). All S. aureus were methicillin-susceptible, penicillin-resistant (blaZ),
+and two of them were also tetracycline-resistant [tet(K)]. All the isolates
+carried at least one of the virulence genes tested. The PVL genes were detected
+in three ST15 and ST152 isolates. They all harboured haemolysins encoding genes
+and lacked the scn gene. The other staphylococci recovered were S. sciuri
+(n = 16), S. simulans (n = 11), S. hyicus (n = 5), S. haemolyticus (n = 4), S.
+chromogenes (n = 3), and S. hominis (n = 1); they were all
+methicillin-susceptible and 27.5% tetracycline-resistant [tet(K) and tet(L)].
+CONCLUSIONS: A low prevalence of S. aureus was detected among food-producing
+animals, all susceptible to methicillin. However, the presence of virulence genes
+(lukF/lukS-PV, eta, tst, sea and see) is worrisome to the extent that they could 
+be transferred to derived food and therefore, to humans.
+
+DOI: 10.1186/s12917-019-2137-9 
+PMCID: PMC6829939
+PMID: 31684939  [Indexed for MEDLINE]
+

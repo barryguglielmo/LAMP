@@ -1,0 +1,49 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jan;70(1):23-34. doi: 10.1099/ijsem.0.003698.
+
+Reclassification of the Clostridium clostridioforme and Clostridium sphenoides
+clades as Enterocloster gen. nov. and Lacrimispora gen. nov., including
+reclassification of 15 taxa.
+
+Haas KN(1)(2), Blanchard JL(3)(4).
+
+Author information: 
+(1)Department of Biology, California State University Sacramento, Sacramento,
+California, USA.
+(2)Department of Dermatology, University of California Davis Medical Center,
+Sacramento, California, USA.
+(3)Department of Biology, University of Massachusetts, Amherst, Massachusetts,
+USA.
+(4)Graduate Program in Organismal and Evolutionary Biology, University of
+Massachusetts, Amherst, Massachusetts, USA.
+
+The genus Clostridium belongs to the family Clostridiaceae. However, many species
+with the genus name Clostridium are found in different families and even crossing
+into a different phylum. Motivated by recently completed genome sequences, we
+propose the reclassification of two separate clades that include misclassified
+Clostridium species which phylogenetically lie within the family Lachnospiraceae,
+known for being benign members of gut microbiomes and for their plant-degrading
+capabilities. We use several phylogenetic and phylogenomic perspectives as well
+as phenotypic comparisons to gain insight into the evolutionary history of these 
+taxa. One clade, which includes Clostridium clostridioforme, Clostridium
+aldenense, Clostridium asparagiforme, Clostridium bolteae, Clostridium citroniae 
+and Clostridium lavalense, we propose to reclassify as Enterocloster gen. nov.,
+and reclassify the species as Enterocloster clostridioformis comb. nov.,
+Enterocloster aldensis comb. nov., Enterocloster asparagiformis comb. nov.,
+Enterocloster bolteae comb. nov., Enterocloster citroniae comb. nov. and
+Enterocloster lavalensis comb. nov. The other clade comprises Clostridium
+sphenoides, Clostridium aerotolerans, Clostridium algidixylanolyticum,
+Clostridium amygdalinum, Clostridium celerecrescens, Clostridium indolis,
+Clostridium saccharolyticum, Clostridium xylanolyticum and Desulfotomaculum
+guttoideum, and we propose to reclassify it as Lacrimispora gen. nov., including 
+reclassification of the members as Lacrimispora sphenoides comb. nov.,
+Lacrimispora aerotolerans comb. nov., Lacrimispora algidixylanolytica comb. nov.,
+Lacrimispora amygdalina comb. nov., Lacrimispora celerecrescens comb. nov.,
+Lacrimispora indolis comb. nov., Lacrimispora saccharolytica comb. nov. and
+Lacrimispora xylanolytica comb. nov. We emend the description of D. guttoideum to
+reflect that it is a later heterotypic synonym of Clostridiums phenoides, which
+we have reclassified as Lacrimispora sphenoides.
+
+DOI: 10.1099/ijsem.0.003698 
+PMID: 31782700  [Indexed for MEDLINE]
+

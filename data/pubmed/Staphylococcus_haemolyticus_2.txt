@@ -1,0 +1,48 @@
+
+1. J Clin Med. 2020 Sep 21;9(9). pii: E3036. doi: 10.3390/jcm9093036.
+
+Pilot Study on the Use of a Laser-Structured Double Diamond Electrode (DDE) for
+Biofilm Removal from Dental Implant Surfaces.
+
+Koch M(1), Burkovski A(1), Zulla M(2), Rosiwal S(3), Geißdörfer W(4), Dittmar
+R(5), Grobecker-Karl T(6).
+
+Author information: 
+(1)Microbiology Division, Department of Biology, University of
+Erlangen-Nuremberg, 91058 Erlangen, Germany.
+(2)Division of Ultra-Hard Coatings, Department of Material Sciences, University
+of Erlangen-Nuremberg, 91058 Erlangen, Germany.
+(3)Chair of Materials Science and Engineering for Metals, Department of Material 
+Sciences, University of Erlangen-Nuremberg, 91058 Erlangen, Germany.
+(4)Institute of Clinical Microbiology, Immunology and Hygiene,
+Universitätsklinikum Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg,
+91054 Erlangen, Germany.
+(5)Institut Straumann AG, 4052 Basel, Switzerland.
+(6)Department of Prosthodontics, Saarland University, 66421 Homburg/Saar,
+Germany.
+
+No proper treatment option for peri-implantitis exists yet. Based on previous
+studies showing the in vitro effectiveness of electrochemical disinfection using 
+boron-doped diamond electrodes, novel double diamond electrodes (DDE) were tested
+here. Using a ceramic carrier and a laser structuring process, a clinically
+applicable electrode array was manufactured. Roughened metal discs (n = 24) made 
+from Ti-Zr alloy were exposed to the oral cavities of six volunteers for 24 h in 
+order to generate biofilm. Then, biofilm removal was carried out either using
+plastic curettes and chlorhexidine digluconate or electrochemical disinfection.
+In addition, dental implants were contaminated with ex vivo multispecies biofilm 
+and disinfected using DDE treatment. Bacterial growth and the formation of
+biofilm polymer were determined as outcome measures. Chemo-mechanical treatment
+could not eliminate bacteria from roughened surfaces, while in most cases, a
+massive reduction of bacteria and biofilm polymer was observed following DDE
+treatment. Electrochemical disinfection was charge- and time-dependent and could 
+also not reach complete disinfection in all instances. Implant threads had no
+negative effect on DDE treatment. Bacteria exhibit varying resistance to
+electrochemical disinfection with Bacillus subtilis, Neisseria sp.,
+Rothiamucilaginosa, Staphylococcus haemolyticus, and Streptococcus mitis
+surviving 5 min of DDE application at 6 V. Electrochemical disinfection is
+promising but requires further optimization with respect to charge quantity and
+application time in order to achieve disinfection without harming host tissue.
+
+DOI: 10.3390/jcm9093036 
+PMID: 32967183 
+

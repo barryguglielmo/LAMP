@@ -1,0 +1,53 @@
+
+1. Antimicrob Agents Chemother. 2020 Sep 21;64(10). pii: e01057-20. doi:
+10.1128/AAC.01057-20. Print 2020 Sep 21.
+
+Rapid Increase of CTX-M-Producing Shigella sonnei Isolates in Switzerland Due to 
+Spread of Common Plasmids and International Clones.
+
+Campos-Madueno EI(1), Bernasconi OJ(1), Moser AI(1), Keller PM(1), Luzzaro F(2), 
+Maffioli C(3), Bodmer T(4), Kronenberg A(1)(5), Endimiani A(6).
+
+Author information: 
+(1)Institute for Infectious Diseases, University of Bern, Bern, Switzerland.
+(2)Clinical Microbiology and Virology Unit, A. Manzoni Hospital, Lecco, Italy.
+(3)MCL Medizinische Laboratorien, Niederwangen, Switzerland.
+(4)labormedizinisches zentrum Dr. Risch, Bern-Liebefeld, Switzerland.
+(5)Swiss Centre for Antibiotic Resistance (ANRESIS), Bern, Switzerland.
+(6)Institute for Infectious Diseases, University of Bern, Bern, Switzerland
+andrea.endimiani@ifik.unibe.ch.
+
+The Swiss Centre for Antibiotic Resistance (ANRESIS) has recently noted an
+increase of extended-spectrum cephalosporin-resistant (ESC-R) Shigella sonnei
+isolates nationwide (3.8% in 2016 versus 37.5% in 2019). To understand this
+phenomenon, we analyzed 25 representative isolates (of which 14 were ESC-R)
+collected in Switzerland during 2016 to 2019. Whole-genome sequencing was
+achieved using both the Illumina and the Nanopore platforms. Both ESC-R and
+extended-spectrum cephalosporin-susceptible isolates belonged to sequence type
+152 (ST152). The ESC-R isolates carried bla CTX-M-3 in IncI1-pST57 (n = 5), bla
+CTX-M-15 in IncFII (F2:A-:B-) (n = 5), bla CTX-M-15 in IncI1-pST16, and bla
+CTX-M-27, bla CTX-M-55, or bla CTX-M-134 in other IncFII plasmids (n = 1 each).
+Plasmids having the same bla and Inc group exhibited high degrees of genetic
+identity to each other but also to plasmids previously reported in other
+Enterobacterales Core-genome analysis showed that there were 4 main clusters,
+each of which included strains that differed by <58 single nucleotide variants
+(SNVs) and that consisted of both bla CTX-M-positive and bla CTX-M-negative
+isolates. Moreover, most isolates belonging to the same cluster shared an
+identical core-genome sequence type (cgST). For instance, cluster 1 included 4
+isolates of cgST113036, of which only 3 harbored the IncI1-pST57 bla
+CTX-M-3-positive plasmid. The 25 S. sonnei isolates were also subjected to
+phylogenetic comparison with deposited international strains. As a result,
+matching isolates (isolates that had the same cgST and that differed by <8 SNVs) 
+have been reported in the United Kingdom, the United States, France, and the
+Netherlands. Overall, our results suggest that some common S. sonnei clusters can
+spread between continents and can be imported into other nations after
+international trips. Such clusters include, in part, isolates that do not possess
+bla ESBL-harboring plasmids, indicating their tendency to acquire them from other
+Enterobacterales.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.01057-20 
+PMCID: PMC7508577 [Available on 2021-03-21]
+PMID: 32718957 
+

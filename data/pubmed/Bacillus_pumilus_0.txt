@@ -1,0 +1,36 @@
+
+1. Mol Biol (Mosk). 2020 Sep-Oct;54(5):872-880. doi: 10.31857/S0026898420050067.
+
+[Efficiency of RNA Hydrolysis by Binase from Bacillus pumilus: The Impact of
+Substrate Structure, Metal Ions, and Low Molecular Weight Nucleotide Compounds].
+
+[Article in Russian]
+
+Kuznetsova AA(1), Akhmetgalieva AA(2), Ulyanova VV(2), Ilinskaya ON(2), Fedorova 
+OS(1)(3), Kuznetsov NA(1)(4).
+
+Author information: 
+(1)Institute of Chemical Biology and Fundamental Medicine, Siberian Branch,
+Russian Academy of Sciences, Novosibirsk, 630090 Russia.
+(2)Institute of Fundamental Medicine and Biology, Kazan (Volga Region) Federal
+University, Kazan, 420008 Russia.
+(3)fedorova@niboch.nsc.ru.
+(4)nikita.kuznetsov@niboch.nsc.ru.
+
+Binase is an extracellular guanyl-preferring ribonuclease from Bacillus pumilus. 
+The main biological function of binase is RNA degradation with the formation of
+guanosine-2',3'-cyclic phosphate and its subsequent hydrolysis to 3'-phosphate.
+Extracellular RNases are believed to be key agents that affect the functional
+activity of the body, as they directly interact with epithelial and immune cells.
+The biological effects of the enzyme may consist of both direct RNA degradation, 
+and the accumulation of 2',3'-cGMP in the human body. In this work, we have
+performed a comparative analysis of the cleavage efficiency of model RNA
+substrates, i.e., short hairpin structures that contain guanosine at various
+positions. It has been shown that the hydrolysis efficiency of the model RNA
+substrates depends on the position of guanosine. We have also demonstrated the
+influence of various divalent metal ions and low molecular weight nucleotide
+compounds on the binase-catalyzed endoribonucleolytic reaction.
+
+DOI: 10.31857/S0026898420050067 
+PMID: 33009796 
+

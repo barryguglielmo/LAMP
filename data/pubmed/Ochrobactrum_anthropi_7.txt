@@ -1,0 +1,38 @@
+
+1. Front Microbiol. 2020 Jan 30;10:3083. doi: 10.3389/fmicb.2019.03083. eCollection 
+2019.
+
+Taxonomic Organization of the Family Brucellaceae Based on a Phylogenomic
+Approach.
+
+Leclercq SO(1), Cloeckaert A(1), Zygmunt MS(1).
+
+Author information: 
+(1)INRA, Infectiologie et Santé Publique, Université de Tours, Nouzilly, France.
+
+Deciphering the evolutionary history of pathogenic bacteria and their near
+neighbors may help to understand the genetic or ecological bases which led to
+their pathogenic behavior. The Brucellaceae family comprises zoonotic pathogenic 
+species belonging to the genus Brucella as well as the environmental genus
+Ochrobactrum for which some species are considered as opportunistic pathogens.
+Here, we used a phylogenomic approach including a set of 145 Brucellaceae genomes
+representative of the family diversity and more than 40 genomes of the order
+Rhizobiales to infer the taxonomic relationships between the family's species.
+Our results clarified some unresolved phylogenetic ambiguities, conducting to the
+exclusion of Mycoplana spp. out of the family Brucellaceae and the positioning of
+all Brucella spp. as a single genomic species within the current Ochrobactrum
+species diversity. Additional analyses also revealed that Ochrobactrum spp.
+separate into two clades, one comprising mostly environmental species while the
+other one includes the species considered as pathogens (Brucella spp.) or
+opportunistic pathogens (mainly O. anthropi, O. intermedium, and O.
+pseudintermedium). Finally, we show that O. intermedium is undergoing a beginning
+of genome reduction suggestive of an ongoing ecological niche specialization, and
+that some lineages of O. intermedium and O. anthropi may shift toward an adaption
+to the human host.
+
+Copyright © 2020 Leclercq, Cloeckaert and Zygmunt.
+
+DOI: 10.3389/fmicb.2019.03083 
+PMCID: PMC7002325
+PMID: 32082266 
+

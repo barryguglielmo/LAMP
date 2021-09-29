@@ -1,0 +1,47 @@
+
+1. Microorganisms. 2020 Apr 20;8(4). pii: E595. doi: 10.3390/microorganisms8040595.
+
+Emergence of a Multidrug-Resistant Enterobacter hormaechei Clinical Isolate from 
+Egypt Co-Harboring mcr-9 and blaVIM-4.
+
+Soliman AM(1)(2), Maruyama F(3), Zarad HO(1), Ota A(3), Nariya H(4), Shimamoto
+T(4), Shimamoto T(4).
+
+Author information: 
+(1)Laboratory of Food Microbiology and Hygiene, Graduate School of Biosphere
+Science, Hiroshima University, Higashi-Hiroshima 739-8528, Japan.
+(2)Department of Microbiology and Immunology, Faculty of Pharmacy, Kafrelsheikh
+University, Kafr El-Sheikh 33516, Egypt.
+(3)Microbial Genomics and Ecology, Office of Academic Research and
+Industry-Government Collaboration, Hiroshima University, Higashi-Hiroshima
+739-8530, Japan.
+(4)Laboratory of Food Microbiology and Hygiene, Graduate School of Integrated
+Sciences for Life, Hiroshima University, Higashi-Hiroshima 739-8528, Japan.
+
+Abstract: This study describes the first full genomic sequence of an mcr-9 and
+blaVIM-4-carrying multidrug-resistant Enterobacter hormaechei clinical isolate
+from Egypt. The strain was isolated in April 2015 from the sputum of a patient in
+Cairo, Egypt. The mcr-9 and blaVIM-4 genes were identified by PCR screening and
+DNA sequencing; the isolate was subjected to antimicrobial susceptibility
+testing, conjugation experiments, and whole genomic sequencing. mcr-9 and
+blaVIM-4 were carried by an IncHI2 plasmid, pAMS-38a (281,121 bp in size); the
+plasmid also carried genes conferring resistance against sulfonamides (sul1),
+quinolones (qnrA1), trimethoprim (dfrA1), β-lactams (blaTEM-1B), aminoglycosides 
+(aac (6')-II, aadA23, aadA2b, and ant(2'')-Ia). The strain was susceptible to
+colistin (MIC, <0.25 μg/mL); this could be due to the absence of the qseC/qseB
+regulatory system located downstream of mcr-9 in Enterobacterales, which is
+involved in the induction of colistin-resistance. The genetic context of mcr-9
+and blaVIM-4 was identified as IS1-mcr-9-IS903-pcoS-∆pcoE-rcnA and
+intI1-blaVIM-4-aac (6')-II-dfrA1-∆aadA23-smr-ISPa21-qacE∆1, respectively. This is
+the first report of an mcr-9 and blaVIM-4 /IncHI2-carrying multidrug-resistant E.
+hormaechei clinical isolate from Africa and the Middle East. Plasmids of the
+IncHI2 group and the two insertion sequences (IS1, and IS903) might be the main
+vehicles for dissemination of mcr-9. Further screening for mcr-9 is essential for
+identifying its incidence and to prevent its dissemination.
+
+DOI: 10.3390/microorganisms8040595 
+PMCID: PMC7232449
+PMID: 32325973 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

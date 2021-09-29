@@ -1,0 +1,53 @@
+
+1. Front Microbiol. 2020 Apr 30;11:578. doi: 10.3389/fmicb.2020.00578. eCollection
+2020.
+
+Exploring the Potential of CRISPR-Cas9 Under Challenging Conditions: Facing
+High-Copy Plasmids and Counteracting Beta-Lactam Resistance in Clinical Strains
+of Enterobacteriaceae.
+
+Tagliaferri TL(1)(2), Guimarães NR(1), Pereira MPM(1), Vilela LFF(3), Horz HP(2),
+Dos Santos SG(1), Mendes TAO(4).
+
+Author information: 
+(1)Department of Microbiology, Institute of Biological Sciences, Universidade
+Federal de Minas Gerais, Belo Horizonte, Brazil.
+(2)Institute of Medical Microbiology, RWTH Aachen University Hospital, Aachen,
+Germany.
+(3)Department of Biochemistry and Immunology, Institute of Biological Sciences,
+Universidade Federal de Minas Gerais, Belo Horizonte, Brazil.
+(4)Department of Biochemistry and Molecular Biology, Universidade Federal de
+Viçosa, Viçosa, Brazil.
+
+The antimicrobial resistance (AMR) crisis urgently requires countermeasures for
+reducing the dissemination of plasmid-borne resistance genes. Of particular
+concern are opportunistic pathogens of Enterobacteriaceae. One innovative
+approach is the CRISPR-Cas9 system which has recently been used for plasmid
+curing in defined strains of Escherichia coli. Here we exploited this system
+further under challenging conditions: by targeting the bla TEM- 1 AMR gene
+located on a high-copy plasmid (i.e., 100-300 copies/cell) and by directly
+tackling bla TEM- 1-positive clinical isolates. Upon CRISPR-Cas9 insertion into a
+model strain of E. coli harboring bla TEM- 1 on the plasmid pSB1A2, the plasmid
+number and, accordingly, the bla TEM- 1 gene expression decreased but did not
+become extinct in a subpopulation of CRISPR-Cas9 treated bacteria. Sequence
+alterations in bla TEM- 1 were observed, likely resulting in a dysfunction of the
+gene product. As a consequence, a full reversal to an antibiotic sensitive
+phenotype was achieved, despite plasmid maintenance. In a clinical isolate of E. 
+coli, plasmid clearance and simultaneous re-sensitization to five beta-lactams
+was possible. Reusability of antibiotics could be confirmed by rescuing larvae of
+Galleria mellonella infected with CRISPR-Cas9-treated E. coli, as opposed to
+infection with the unmodified clinical isolate. The drug sensitivity levels could
+also be increased in a clinical isolate of Enterobacter hormaechei and to a
+lesser extent in Klebsiella variicola, both of which harbored additional
+resistance genes affecting beta-lactams. The data show that targeting drug
+resistance genes is encouraging even when facing high-copy plasmids. In clinical 
+isolates, the simultaneous interference with multiple genes mediating overlapping
+drug resistance might be the clue for successful phenotype reversal.
+
+Copyright © 2020 Tagliaferri, Guimarães, Pereira, Vilela, Horz, dos Santos and
+Mendes.
+
+DOI: 10.3389/fmicb.2020.00578 
+PMCID: PMC7203346
+PMID: 32425894 
+

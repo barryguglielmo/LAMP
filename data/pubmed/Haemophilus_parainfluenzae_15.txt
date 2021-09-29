@@ -1,0 +1,49 @@
+
+1. Antimicrob Agents Chemother. 2020 Feb 21;64(3). pii: e01949-19. doi:
+10.1128/AAC.01949-19. Print 2020 Feb 21.
+
+Efficacy of Delafloxacin versus Moxifloxacin against Bacterial Respiratory
+Pathogens in Adults with Community-Acquired Bacterial Pneumonia (CABP):
+Microbiology Results from the Delafloxacin Phase 3 CABP Trial.
+
+McCurdy S(1), Keedy K(2), Lawrence L(2), Nenninger A(2), Sheets A(2), Quintas
+M(2), Cammarata S(2).
+
+Author information: 
+(1)Melinta Therapeutics, Morristown, New Jersey, USA smccurdy@melinta.com.
+(2)Melinta Therapeutics, Morristown, New Jersey, USA.
+
+Delafloxacin is a novel fluoroquinolone with activity against Gram-positive,
+Gram-negative, and atypical pathogens, including fluoroquinolone-nonsusceptible
+methicillin-resistant Staphylococcus aureus (MRSA). The microbiological results
+of a phase 3 clinical trial in adults with community-acquired pneumonia (CAP)
+comparing delafloxacin (300 mg intravenously [i.v.] with the option to switch to 
+450 mg orally every 12 h) to moxifloxacin (400 mg i.v. with the option to switch 
+to 400 mg orally once a day [QD]) were determined. Patients from 4 continents,
+predominately Europe but also South America and Asia, were enrolled. The
+microbiological intent-to-treat (MITT) population included 520 patients, and
+60.5% of these patients had a bacterial pathogen identified. Multiple diagnostic 
+methods were employed, including culture, serology, PCR, and urinary antigen
+tests. Based on baseline MIC90 values, delafloxacin exhibited at least 16-fold
+greater activity than moxifloxacin for Gram-positive and fastidious Gram-negative
+pathogens. Delafloxacin retained activity against resistant phenotypes found in
+Streptococcus pneumoniae (penicillin-, macrolide-, and multiple-drug resistant), 
+Haemophilus species (β-lactamase producing and macrolide nonsusceptible), and S. 
+aureus (MRSA and fluoroquinolone-nonsusceptible methicillin-susceptible S. aureus
+[MSSA]). The microbiological success rates were 92.7% for S. pneumoniae (87.5%
+for penicillin-resistant S. pneumoniae [PRSP]), 92.6% for S. aureus (100% for
+MRSA), 100% for Escherichia coli, 82.4% for Klebsiella pneumoniae, 100% for
+Klebsiella oxytoca, 100% for Moraxella catarrhalis, 91.7% for Haemophilus
+influenzae, 88.6% for Haemophilus parainfluenzae, 96.7% for Mycoplasma
+pneumoniae, 93.1% for Legionella pneumophila, and 100% for Chlamydia pneumoniae
+There was little correlation between MICs and outcomes, with a high proportion of
+favorable outcomes observed across all delafloxacin baseline MIC values.
+Delafloxacin may be considered a treatment option as monotherapy for CAP in
+adults, where broad-spectrum coverage including MRSA activity is desirable.
+
+Copyright © 2020 McCurdy et al.
+
+DOI: 10.1128/AAC.01949-19 
+PMCID: PMC7038307
+PMID: 31844013 
+

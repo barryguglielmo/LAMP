@@ -1,0 +1,35 @@
+
+1. Prep Biochem Biotechnol. 2020;50(3):260-271. doi: 10.1080/10826068.2019.1692221. 
+Epub 2019 Nov 23.
+
+Production, purification and kinetic characterization of glutaminase free
+anti-leukemic L-asparaginase with low endotoxin level from novel soil isolate.
+
+Prakash P(1), Singh HR(1), Jha SK(1).
+
+Author information: 
+(1)Department of Bio-Engineering, Birla Institute of Technology, Mesra, Ranchi.
+
+Anti-leukemic enzyme L-asparaginase despite having significant applicability in
+medicine, holds side effects attributed to glutaminase activity and endotoxin
+content. Glutaminase activity proves to be toxic to non-tumor cells as glutamine 
+is an essential amino acid. Endotoxin illicit the production of vasoactive amines
+and induce septic shock. Hence there is a need for glutaminase free
+L-asparaginase with minimum endotoxin level. The report aims at the development
+of a downstream process for purification of glutaminase free L-asparaginase and
+subsequent endotoxin removal. Producing bacteria were isolated from various soil 
+samples and screened initially for asparaginase and glutaminase activity. The
+glutaminase free L-asparaginase producing bacteria were identified as Bacillus
+altitudinis. Production of L-asparaginase was optimized. The optimum medium
+comprised of comprising Lactose (1.5 g/L), NaCl (1.2 g/L), Yeast extract (5 g/L),
+L-asparagine (20 g/L) with pH 7.0 and incubation time of 18 h. Kinetic parameters
+Km and Vmax were computed to be 9.09x10-2M and 0.09 M/S. L-asparaginase
+Purification was achieved with a specific activity of 800 U/mg of enzyme.
+Molecular weight of the purified L-asparaginase was determined to be around
+35 KDa using SDS-PAGE. The developed process also brought down the endotoxin
+content below the FDA recommended level. The endotoxin content of the purified
+enzyme was determined to be 0.015EU/mL.
+
+DOI: 10.1080/10826068.2019.1692221 
+PMID: 31762381  [Indexed for MEDLINE]
+

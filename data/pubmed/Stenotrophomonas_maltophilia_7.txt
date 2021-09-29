@@ -1,0 +1,49 @@
+
+1. Antimicrob Agents Chemother. 2020 Sep 14. pii: AAC.00297-20. doi:
+10.1128/AAC.00297-20. [Epub ahead of print]
+
+Activity of aztreonam in combination with avibactam, clavulanate, relebactam, and
+vaborbactam against multidrug resistant Stenotrophomonas maltophilia.
+
+Biagi M(1), Lamm D(1), Meyer K(1), Vialichka A(1), Jurkovic M(1), Patel S(1),
+Mendes RE(2), Bulman ZP(1), Wenzler E(3).
+
+Author information: 
+(1)College of Pharmacy, University of Illinois at Chicago, Chicago, IL, USA.
+(2)JMI Laboratories, North Liberty, IA, USA.
+(3)College of Pharmacy, University of Illinois at Chicago, Chicago, IL, USA
+wenzler@uic.edu.
+
+The intrinsic L1 metallo- and L2 serine-β-lactamases in Stenotrophomonas
+maltophilia make it naturally multidrug resistant and difficult to treat. There
+is a need to identify novel treatment strategies for this pathogen, especially
+against isolates resistant to first line agents. Aztreonam in combination with
+avibactam has demonstrated potential, although data on other
+aztreonam-β-lactamase inhibitor (BLI) combinations are lacking. Additionally,
+molecular mechanisms for reduced susceptibility to these combinations have not
+been explored. The objectives of this study were to evaluate and compare the in
+vitro activity and understand the mechanisms of resistance to aztreonam in
+combination with avibactam, clavulanate, relebactam, and vaborbactam against S.
+maltophilia. A panel of 47 clinical S. maltophilia strains non-susceptible to
+levofloxacin and/or trimethoprim-sulfamethoxazole were tested against each
+aztreonam-BLI combination via broth microdilution and 6 isolates were then
+evaluated in time-kill analyses. Three isolates with varying aztreonam-BLI MICs
+were subjected to whole-genome sequencing and quantitative reverse transcriptase 
+polymerase chain reaction. Avibactam restored aztreonam susceptibility in 98% of 
+aztreonam-resistant isolates, compared to 61%, 71%, and 15% with clavulanate,
+relebactam, and vaborbactam, respectively. The addition of avibactam to aztreonam
+resulted in a ≥2 log10 CFU/mL decrease at 24 hours vs. aztreonam alone against
+5/6 isolates compared to 1/6 with clavulanate, 4/6 with relebactam, and 2/6 with 
+vaborbactam. Molecular analyses revealed that decreased susceptibility to
+aztreonam-avibactam was associated with increased expression of genes encoding
+for L1, L2, and the efflux pump smeABC Aztreonam-avibactam is the most promising 
+BLI-combination against multidrug resistant S. maltophilia. Decreased
+susceptibility may be due to the combination of overexpressed β-lactamases and
+efflux pumps. Further studies evaluating this combination against S. maltophilia 
+are warranted.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.00297-20 
+PMID: 32928733 
+

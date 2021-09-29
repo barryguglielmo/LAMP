@@ -1,0 +1,46 @@
+
+1. Helicobacter. 2020 Sep 8:e12753. doi: 10.1111/hel.12753. [Epub ahead of print]
+
+Duodenal microbiome in patients with or without Helicobacter pylori infection.
+
+Suárez-Jaramillo A(1), Baldeón ME(2), Prado B(1), Fornasini M(2), Cohen H(3),
+Flores N(2), Salvador I(2), Cargua O(2), Realpe J(2), Cárdenas PA(1).
+
+Author information: 
+(1)Instituto de Microbiología, COCIBA, Universidad San Francisco de Quito, Quito,
+Ecuador.
+(2)Facultad de Ciencias de la Salud Eugenio Espejo, Centro de Investigación
+Biomédica, Universidad Tecnológica Equinoccial, Quito, Ecuador.
+(3)Facultad de Medicina, Universidad de la República Uruguay, Montevideo,
+Uruguay.
+
+BACKGROUND: Intestinal microbiota are recognized as an organ with important
+physiological functions whose alterations have been associated with common
+diseases including inflammatory intestinal conditions, malnutrition, type-2
+diabetes, and cardiovascular diseases. The composition and function of the
+microbiota in the distal part of the intestine has been mainly described, while
+there is limited information on the small intestine microbiota. The objective of 
+the present study was to describe the duodenal microbiome in individuals with
+dyspepsia in the presence or absence of Helicobacter pylori gastric infection.
+MATERIALS AND METHODS: Thirty-eight biopsies from the proximal duodenum of
+uninfected and 37 from H pylori-infected individuals were analyzed. Microbiota
+composition was assessed by PCR amplification and sequencing of 16S rRNA and ITS 
+genes; sequences were analyzed with QIIME2.
+RESULTS AND CONCLUSIONS: At the phyla level, Proteobacteria, Bacteroidetes,
+Firmicutes, Actinobacteria, and Fusobacteria were predominant in the mucosal
+associated duodenal microbiota (MAM); at the genera level, we observed the
+predominance of Ralstonia, Streptococcus, Pseudomonas, Haemophilus,
+Herbaspirillum, Neisseria, and Veillonella. Microbiota α-diversity was higher in 
+H pylori-infected individuals than in non-infected ones. In terms of β-diversity 
+metrics, there was a statistically significant difference between groups. Also,
+relative abundance of Haemophilus, Neisseria, Prevotella pallens, Prevotella 7,
+and Streptococcus was greater in H pylori-infected patients. In infected
+patients, several types of H pylori were present in duodenal MAM. Finally, the
+majority of duodenal samples had fungi sequences; the most common taxa observed
+were Recurvomyces followed by Ascomycota and Basidiomycota.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/hel.12753 
+PMID: 32896972 
+

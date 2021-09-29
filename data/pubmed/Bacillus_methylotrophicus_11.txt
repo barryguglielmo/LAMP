@@ -1,0 +1,41 @@
+
+1. Sci Rep. 2020 Aug 26;10(1):14202. doi: 10.1038/s41598-020-70857-7.
+
+Novel research on nanocellulose production by a marine Bacillus velezensis strain
+SMR: a comparative study.
+
+Abouelkheir SS(1), Kamara MS(2), Atia SM(2), Amer SA(2), Youssef MI(2), Abdelkawy
+RS(2), Khattab SN(3), Sabry SA(4).
+
+Author information: 
+(1)Marine Microbiology Laboratory, Marine Environment Division, National
+Institute of Oceanography and Fisheries (NIOF), Kayet Bay, El-Anfushy,
+Alexandria, Egypt. samiaabouelkhir@yahoo.com.
+(2)Industrial Microbiology and Applied Chemistry (IMAC) Program, Faculty of
+Science, Alexandria University, Alexandria, Egypt.
+(3)Department of Chemistry, Faculty of Science, Alexandria University,
+Alexandria, 21321, Egypt.
+(4)Botany and Microbiology Department, Faculty of Science, Alexandria University,
+Alexandria, 21321, Egypt.
+
+Bacterial nanocellulose (BNC) is a nanofibrillar polymer that possesses unique
+characteristics such as high chemical purity, mechanical strength, flexibility,
+and absorbency. In addition, different bacterial strains can form nanocellulose
+(NC) in multiple shapes and sizes. This study describes the first report of a
+marine Bacillus strain that is able to synthesize NC. The strain identified as B.
+velezensis SMR based on 16S rDNA sequencing, produced highly structured NC, as
+confirmed by X-ray diffraction (XRD) and Scanning Electron Microscopic Analysis
+(SEM). In Hestrin-Schramm (HS) medium, B. velezensis SMR produced twice the
+quantity of BNC in comparison to the reference strain, G. xylinus ATCC 10245. The
+ability of B. velezensis SMR to produce NC using different industrial waste
+materials as growth media was tested. Growth in Ulva seaweed extract supported a 
+2.5-fold increase of NC production by B. velezensis SMR and a threefold increase 
+in NC production by G. xylinus ATCC 10245. As proof of principle for the
+usability of NC from B. velezensis SMR, we successfully fabricated a BNC-based
+polyvinyl alcohol hydrogel (BNC-PVA) system, a promising material used in
+different fields of application such as medicine, food, and agriculture.
+
+DOI: 10.1038/s41598-020-70857-7 
+PMCID: PMC7450066
+PMID: 32848161 
+

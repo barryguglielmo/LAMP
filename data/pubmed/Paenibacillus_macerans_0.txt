@@ -1,0 +1,40 @@
+
+1. J Microbiol Methods. 2020 Sep 3;177:106048. doi: 10.1016/j.mimet.2020.106048.
+[Epub ahead of print]
+
+Detection of spore forming Paenibacillus macerans in raw milk.
+
+Olajide AM(1), LaPointe G(2).
+
+Author information: 
+(1)CRIFS, Department of Food Science, University of Guelph, Ontario N1G 2W1,
+Canada.
+(2)CRIFS, Department of Food Science, University of Guelph, Ontario N1G 2W1,
+Canada. Electronic address: glapoint@uoguelph.ca.
+
+Paenibacillus macerans can cause spoilage of milk during extended storage.
+However, the natural milk microbiota interferes with the enumeration of
+Paenibacillus species in raw milk. In this study, a qualitative SYBR Green
+real-time PCR assay based on the groEL gene was developed for detecting P.
+macerans (PMassay) in raw milk and compared with one designed for total
+Paenibacillus detection (TPassay). The specificity of the PMassay was confirmed
+against a panel of dairy-related spore forming isolates. In the presence of
+background DNA substituted up to 95%, P. macerans DNA could still be detected by 
+the PMassay although interference occurred as non-target DNA substitution
+increased. The PMassay was sensitive (detection limit of 2 log CFU/ml in milk)
+and specific as non-P. macerans isolates gave a Ct > 30. After enrichment of raw 
+milk for 7 days at 37 °C in Reinforced Clostridial Medium with D-cycloserine
+(RCM-D) under anaerobiosis, Paenibacillus was detected in 10 of the 16 raw milk
+samples tested. Enrichment in RCM-D yielded about 0.5 to 5.8 log CFU/ml total
+Paenibacillus and 0.3 to 4.6 log CFU/ml P. macerans in the samples. The assay
+could be useful in commercial settings, allowing a sensitive detection of P.
+macerans.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.mimet.2020.106048 
+PMID: 32890571 
+
+Conflict of interest statement: Declaration of Competing Interest There are no
+conflicts of interest to be disclosed.
+

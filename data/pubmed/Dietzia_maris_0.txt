@@ -1,0 +1,51 @@
+
+1. Mar Genomics. 2020 May 6:100782. doi: 10.1016/j.margen.2020.100782. [Epub ahead
+of print]
+
+Whole genome sequencing of four bacterial strains from South Shetland Trench
+revealing biosynthetic and environmental adaptation gene clusters.
+
+Abdel-Mageed WM(1), Lehri B(2), Jarmusch SA(3), Miranda K(3), Al-Wahaibi LH(4),
+Stewart HA(5), Jamieson AJ(6), Jaspars M(7), Karlyshev AV(2).
+
+Author information: 
+(1)Department of Pharmacognosy, College of Pharmacy, King Saud University, P.O.
+Box 2457, Riyadh 11451, Saudi Arabia; Department of Pharmacognosy, Faculty of
+Pharmacy, Assiut University, Assiut 71526, Egypt. Electronic address:
+wabdelmageed@ksu.edu.sa.
+(2)School of Life Sciences Pharmacy and Chemistry, Faculty of Science,
+Engineering and Computing, Kingston University, Penrhyn Road, Kingston upon
+Thames KT1 2EE, UK.
+(3)Marine Biodiscovery Centre, Department of Chemistry, University of Aberdeen,
+Old Aberdeen, Scotland AB24 3UE, UK.
+(4)Department of Chemistry, Science College, Princess Nourah Bint Abdulrahman
+University, Riyadh 11671, Saudi Arabia.
+(5)British Geological Survey, Lyell Centre, Research Avenue South, Edinburgh EH14
+4AP, UK.
+(6)School of Natural and Environmental Sciences, Newcastle University, Newcastle 
+Upon Tyne NE1 7RU, UK.
+(7)Marine Biodiscovery Centre, Department of Chemistry, University of Aberdeen,
+Old Aberdeen, Scotland AB24 3UE, UK. Electronic address: m.jaspars@abdn.ac.uk.
+
+Whole genome sequences of four bacterial strains Dietzia maris SST1, Pseudomonas 
+zhaodongensis SST2, Pseudomonas sp. SST3 and Halomonas sulfidaeris SST4,
+recovered from the South Shetland Trench sediment in Antarctica were analyzed
+using Ion Torrent sequencing technology. The respective sizes of their genomes
+(3.88, 4.99, 5.60 and 4.25 Mb) and GC contents (70.0, 60.3, 59.9 and 53.8%) are
+in agreement with these values of other strains of the species. The bacterial
+strains displayed promising antimicrobial activity against a number of pathogenic
+bacterial and fungal species. Whole genomes have been assembled and biosynthetic 
+gene clusters (BGCs) have been identified using the antibiotics and Secondary
+Metabolite Analysis Shell (antiSMASH) web platform. Comparative analysis of the
+genome sequences revealed that the strains host abundant BGCs encoding for
+terpenes, siderophores, arylpolyene, bacteriocins, and lassopeptides.
+Furthermore, the key stress-related genes were identified and their distribution 
+provided an insight into how these isolates adapt to key marine environmental
+conditions. This comprehensive study is a contribution to understanding the
+nature of life on the deep-sea environments.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.margen.2020.100782 
+PMID: 32387528 
+

@@ -1,0 +1,54 @@
+
+1. BMC Microbiol. 2020 Sep 29;20(1):294. doi: 10.1186/s12866-020-01985-3.
+
+Molecular epidemiology and risk factors of Stenotrophomonas maltophilia
+infections in a Chinese teaching hospital.
+
+Duan Z(1), Qin J(2), Liu Y(2), Li C(1), Ying C(3).
+
+Author information: 
+(1)Department of Clinical Laboratory, Obstetrics and Gynecology Hospital of Fudan
+University, 419 Fangxie Road, Shanghai, 200011, China.
+(2)Department of Laboratory Medicine, Renji Hospital, School of Medicine,
+Shanghai Jiao Tong University, Shanghai, 200001, China.
+(3)Department of Clinical Laboratory, Obstetrics and Gynecology Hospital of Fudan
+University, 419 Fangxie Road, Shanghai, 200011, China. ycmzh2012@163.com.
+
+BACKGROUND: Stenotrophomonas maltophilia (S. maltophilia) is an important
+opportunistic pathogen that can be isolated in hospitals. With the abuse of broad
+spectrum antibiotics and invasive surgical devices, the rate of S. maltophilia
+infection is increasing every year. This study was an epidemiological analysis of
+the clinical and molecular characteristics of S. maltophilia infection in a
+Chinese teaching hospital. The goal was to obtain a comprehensive understanding
+of the status of S. maltophilia infection to provide strong epidemiological data 
+for the prevention and treatment of S. maltophilia infection.
+RESULTS: A total of 93 isolates from Renji Hospital affiliated with the Shanghai 
+Jiaotong University School of Medicine were included, in which 62 isolates were
+from male patients. In addition, 81 isolates were isolated from sputum samples. A
+total of 86 patients had underlying diseases. All patients received antibiotics. 
+Multilocus sequence typing (MLST) analysis indicated that 61 different sequence
+types (STs) were found (including 45 novel STs), and MLST did not show
+significantly dominant STs. Pulsed field gel electrophoresis (PFGE) results
+showed that 93 isolates could be divided into 73 clusters, and they also showed
+weak genetic linkages between isolates. The resistant rates to
+trimethoprim/sulfamethoxazole (TMP/SMX) and levofloxacin were 9.7 and 4.3%,
+respectively, and all isolates were susceptible to minocycline. Four virulence
+gene's loci Stmpr1, Stmpr2, Smf-1, and Smlt3773 were positive in 79.6, 91.4,
+94.6, and 52.7% of the isolates, respectively. Three biofilm genes rmlA, spgM,
+and rpfF were positive in 82.8, 92.5, and 64.5% of the isolates, respectively.
+Mean biofilm forming level of OD492 was 0.54 ± 0.49. We did not find any
+significant difference between different genders and different age-groups. We
+retrospectively analyzed data from patients in the intensive care unit (ICU) and 
+the control group. The independent risk factors of those who were infected in the
+ICU included immunosuppression and the increased antibiotic usage.
+CONCLUSIONS: Most of the patients had prior medical usage histories and baseline 
+diseases. The positive rate of virulence genes was high, the drug resistance rate
+of S. maltophilia was low, and the biofilm formation ability was strong. The
+increased use of antibiotics was an independent risk factor for S. maltophilia
+infection, which should receive more attention. No obvious clonal transmissions
+were found in the same departments.
+
+DOI: 10.1186/s12866-020-01985-3 
+PMCID: PMC7526397
+PMID: 32993493 
+

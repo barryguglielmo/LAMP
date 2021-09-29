@@ -1,0 +1,43 @@
+
+1. Front Bioeng Biotechnol. 2020 Feb 21;8:17. doi: 10.3389/fbioe.2020.00017.
+eCollection 2020.
+
+Immobilization of Cofactor Self-Sufficient Recombinant Escherichia coli for
+Enantioselective Biosynthesis of (R)-1-Phenyl-1,2-Ethanediol.
+
+Peng F(1), Su HH(1), Ou XY(1), Ni ZF(1), Zong MH(1), Lou WY(1).
+
+Author information: 
+(1)Laboratory of Applied Biocatalysis, School of Food Science and Engineering,
+South China University of Technology, Guangzhou, China.
+
+(R)-1-phenyl-1,2-ethanediol is an important synthon for the preparation of
+β-adrenergic blocking agents. This study identified a (2R,3R)-butanediol
+dehydrogenase (KgBDH) from Kurthia gibsonii SC0312, which showed high
+enantioselectivity for production of (R)-1-phenyl-1,2-ethanediol by reduction of 
+2-hydroxyacetophenone. KgBDH was expressed in a recombinant engineered strain,
+purified, and characterized. It showed good catalytic activity at pH 6-8 and
+better stability in alkaline (pH 7.5-8) than an acidic environment (pH 6.0-7.0), 
+providing approximately 73 and 88% of residual activity after 96 h at pH 7.5 and 
+8.0, respectively. The maximum catalytic activity was obtained at 45°C;
+nevertheless, poor thermal stability was observed at >30°C. Additionally, the
+examined metal ions did not activate the catalytic activity of KgBDH. A
+recombinant Escherichia coli strain coexpressing KgBDH and glucose dehydrogenase 
+(GHD) was constructed and immobilized via entrapment with a mixture of activated 
+carbon and calcium alginate via entrapment. The immobilized cells had 1.8-fold
+higher catalytic activity than that of cells immobilized by calcium alginate
+alone. The maximum catalytic activity of the immobilized cells was achieved at pH
+7.5, and favorable pH stability was observed at pH 6.0-9.0. Moreover, the
+immobilized cells showed favorable thermal stability at 25-30°C and better
+operational stability than free cells, retaining approximately 55% of the initial
+catalytic activity after four cycles. Finally, 81% yields (195 mM product) and
+>99% enantiomeric excess (ee) of (R)-1-phenyl-1,2-ethanediol were produced within
+12 h through a fed-batch strategy with the immobilized cells (25 mg/ml wet cells)
+at 35°C and 180 rpm, with a productivity of approximately 54 g/L per day.
+
+Copyright © 2020 Peng, Su, Ou, Ni, Zong and Lou.
+
+DOI: 10.3389/fbioe.2020.00017 
+PMCID: PMC7046757
+PMID: 32154222 
+

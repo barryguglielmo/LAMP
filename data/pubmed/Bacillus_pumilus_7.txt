@@ -1,0 +1,40 @@
+
+1. J Microbiol Methods. 2020 Sep 18:106063. doi: 10.1016/j.mimet.2020.106063. [Epub 
+ahead of print]
+
+Use of digital images to count colonies of biodiesel deteriogenic microorganisms.
+
+Correa C(1), Konzen PHA(2), Carvalho ÂR(3), Giovanella P(4), Bento FM(4), Ferrão 
+MF(5).
+
+Author information: 
+(1)Universidade Federal do Rio Grande do Sul, Instituto de Química, Porto Alegre,
+RS CEP 91501-970, Brazil. Electronic address: camilacorrea@outlook.com.br.
+(2)Universidade Federal do Rio Grande do Sul, Instituto de Matemática e
+Estatística, Porto Alegre, RS CEP 91501-970, Brazil.
+(3)Universidade Federal do Rio Grande do Sul, Programa de Pós-Graduação em
+Ciências Farmacêuticas, Porto Alegre, RS CEP 90610-000, Brazil.
+(4)Universidade Federal do Rio Grande do Sul, Laboratório de Biodeterioração de
+Combustíveis e Biocombustíveis, Porto Alegre, RS CEP 90040-060, Brazil.
+(5)Universidade Federal do Rio Grande do Sul, Instituto de Química, Porto Alegre,
+RS CEP 91501-970, Brazil; Instituto Nacional de Ciência e Tecnologia-Bioanalítca 
+(INCT Bioanalítica), Cidade Universitária, Zeferino Vaz s/n, Campinas, SP CEP:
+13083-970, Brazil.
+
+This work presents a novel, robust procedure for the semi-automated counting of
+colony-forming units of isolated Bacillus pumilus (a bacterium) found in
+biodiesel and Meyerozyma guilliermondii (a yeast) found in diesel. The counting
+is performed from digital images of Petri dishes containing the samples by a
+developed Python code, and the images are acquired from a low-cost scanning
+apparatus. The counting algorithm is based on the similar morphological
+characteristics of the bacterium and the yeast colonies. It was compared with
+classical counting methodology, and the results showed calibration and validation
+curves with a coefficient of determination (R2) of 0.99 and 0.98, respectively.
+The developed methodology is a valuable alternative to estimate the microbial
+contamination of biofuels.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.mimet.2020.106063 
+PMID: 32956723 
+

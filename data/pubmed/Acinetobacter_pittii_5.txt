@@ -1,0 +1,63 @@
+
+1. Antimicrob Agents Chemother. 2020 May 21;64(6). pii: e02392-19. doi:
+10.1128/AAC.02392-19. Print 2020 May 21.
+
+Comparison of Cefepime-Cefpirome and Carbapenem Therapy for Acinetobacter
+Bloodstream Infection in a Multicenter Study.
+
+Chang YY(1)(2)(3)(4)(5), Yang YS(6), Wu SL(7), Wang YC(6), Chen TL, Lee
+YT(8)(4)(9); ACTION Study Group.
+
+Author information: 
+(1)Division of Infectious Diseases, Department of Medicine, National Yang-Ming
+University Hospital, Yilan, Taiwan.
+(2)Institute of Clinical Medicine, National Yang-Ming University, Taipei, Taiwan.
+(3)Division of Infectious Diseases, Department of Medicine, Taipei Veterans
+General Hospital, Taipei, Taiwan.
+(4)Faculty of Medicine, School of Medicine, National Yang-Ming University,
+Taipei, Taiwan.
+(5)Division of Infectious Diseases, Department of Internal Medicine, Taipei City 
+Hospital Renai Branch, Taipei, Taiwan.
+(6)Division of Infectious Diseases and Tropical Medicine, Department of Internal 
+Medicine, Tri-Service General Hospital, National Defense Medical Center, Taipei, 
+Taiwan.
+(7)School of Medicine, Griffith University, Gold Coast Campus, Southport,
+Queensland, Australia.
+(8)Division of Infectious Diseases, Department of Medicine, Taipei Veterans
+General Hospital, Taipei, Taiwan s851009@yahoo.com.tw.
+(9)Department of Emergency Medicine, Taipei Veterans General Hospital, Taipei,
+Taiwan.
+
+Carbapenems are currently the preferred agents for the treatment of serious
+Acinetobacter infections. However, whether cefepime-cefpirome can be used to
+treat an Acinetobacter bloodstream infection (BSI) if it is active against the
+causative pathogen(s) is not clear. This study aimed to compare the efficacy of
+cefepime-cefpirome and carbapenem monotherapy in patients with Acinetobacter BSI.
+The population included 360 patients with monomicrobial Acinetobacter BSI
+receiving appropriate antimicrobial therapy admitted to four medical centers in
+Taiwan in 2012 to 2017. The predictors of 30-day mortality were determined by Cox
+regression analysis. The overall 30-day mortality rate in the appropriate
+antibiotic treatment group was 25.0% (90/360 patients). The crude 30-day
+mortality rates for cefepime-cefpirome and carbapenem therapy were 11.5% (7/61
+patients) and 26.3% (21/80 patients), respectively. The patients receiving
+cefepime-cefpirome or carbapenem therapy were infected by Acinetobacter
+nosocomialis (51.8%), Acinetobacter baumannii (18.4%), and Acinetobacter pittii
+(12.1%). After adjusting for age, Sequential Organ Failure Assessment (SOFA)
+score, invasive procedures, and underlying diseases, cefepime-cefpirome therapy
+was not independently associated with a higher or lower 30-day mortality rate
+compared to that with the carbapenem therapy. SOFA score (hazard ratio [HR],
+1.324; 95% confidence interval [CI], 1.137 to 1.543; P < 0.001) and neutropenia
+(HR, 7.060; 95% CI, 1.607 to 31.019; P = 0.010) were independent risk factors for
+30-day mortality of patients receiving cefepime-cefpirome or carbapenem
+monotherapy. The incidence densities of 30-day mortality for cefepime-cefpirome
+versus carbapenem therapy were 0.40% versus 1.04%, respectively. The therapeutic 
+response of cefepime-cefpirome therapy was comparable to that with carbapenems
+among patients with Acinetobacter BSI receiving appropriate antimicrobial
+therapy.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.02392-19 
+PMCID: PMC7269511 [Available on 2020-11-21]
+PMID: 32179523 
+

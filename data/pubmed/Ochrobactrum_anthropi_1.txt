@@ -1,0 +1,37 @@
+
+1. Molecules. 2020 Jul 23;25(15). pii: E3348. doi: 10.3390/molecules25153348.
+
+Evaluating the Effect of Azole Antifungal Agents on the Stress Response and
+Nanomechanical Surface Properties of Ochrobactrum anthropi Aspcl2.2.
+
+Pacholak A(1), Burlaga N(1), Kaczorek E(1).
+
+Author information: 
+(1)Institute of Chemical Technology and Engineering, Poznan University of
+Technology, Berdychowo 4, 60-695 Poznan, Poland.
+
+Azole antifungal molecules are broadly used as active ingredients in various
+products, such as pharmaceuticals and pesticides. This promotes their release
+into the natural environment. The detailed mechanism of their influence on the
+biotic components of natural ecosystems remains unexplored. Our research aimed to
+examine the response of Ochrobactrum anthropi AspCl2.2 to the presence of four
+azole antifungal agents (clotrimazole, fluconazole, climbazole, epoxiconazole).
+The experiments performed include analysis of the cell metabolic activity, cell
+membrane permeability, total glutathione level and activity of glutathione
+S-transferases. These studies allowed for the evaluation of the cells' oxidative 
+stress response to the presence of azole antifungals. Moreover, changes in the
+nanomechanical surface properties, including adhesive and elastic features of the
+cells, were investigated using atomic force microscopy (AFM) and
+spectrophotometric methods. The results indicate that the azoles promote
+bacterial oxidative stress. The strongest differences were noted for the cells
+cultivated with fluconazole. The least toxic effect has been attributed to
+climbazole. AFM observations unraveled molecular details of bacterial cell
+texture, structure and surface nanomechanical properties. Antifungals promote the
+nanoscale modification of the bacterial cell wall. The results presented provided
+a significant insight into the strategies used by environmental bacterial cells
+to survive exposures to toxic azole antifungal agents.
+
+DOI: 10.3390/molecules25153348 
+PMCID: PMC7435821
+PMID: 32717971 
+

@@ -1,0 +1,48 @@
+
+1. Front Cell Infect Microbiol. 2020 Aug 27;10:432. doi: 10.3389/fcimb.2020.00432.
+eCollection 2020.
+
+A TLR2-Activating Fraction From Mycobacterium abscessus Rough Variant
+Demonstrates Vaccine and Diagnostic Potential.
+
+Le Moigne V(1), Roux AL(1), Jobart-Malfait A(1), Blanc L(2), Chaoui K(2),
+Burlet-Schiltz O(2), Gaillard JL(1), Canaan S(3), Nigou J(2), Herrmann JL(1)(4).
+
+Author information: 
+(1)Université Paris-Saclay, UVSQ, Inserm, Infection et inflammation,
+Montigny-le-Bretonneux, France.
+(2)Institut de Pharmacologie et de Biologie Structurale, Université de Toulouse, 
+CNRS, Université Paul Sabatier, Toulouse, France.
+(3)Université Aix-Marseille, CNRS, LISM, IMM FR3479, Marseille, France.
+(4)APHP, GHU Paris-Saclay, Hôpital Raymond Poincaré, Service de Microbiologie,
+Garches, France.
+
+Mycobacterium abscessus is a prevalent pathogenic mycobacterium in cystic
+fibrosis (CF) patients and one of the most highly drug resistant mycobacterial
+species to antimicrobial agents. It possesses the property to transition from a
+smooth (S) to a rough (R) morphotype, thereby influencing the host innate immune 
+response. This transition from the S to the R morphotype takes place in patients 
+with an exacerbation of the disease and a persistence of M. abscessus. We have
+previously shown that the exacerbation of the Toll-like receptor 2
+(TLR2)-mediated inflammatory response, following this S to R transition, is
+essentially due to overproduction of bacilli cell envelope surface compounds,
+which we were able to extract by mechanical treatment and isolation by solvent
+partition in a fraction called interphase. Here, we set up a purification
+procedure guided by bioactivity to isolate a fraction from the R variant of M.
+abscessus cells which exhibits a high TLR2 stimulating activity, referred to as
+TLR2-enriched fraction (TLR2eF). As expected, TLR2eF was found to contain several
+lipoproteins and proteins known to be stimuli for TLR2. Vaccination with TLR2eF
+showed no protection toward an M. abscessus aerosol challenge, but provided mild 
+protection in ΔF508 mice and their FVB littermates when intravenously challenged 
+by M. abscessus. Interestingly however, antibodies against TLR2eF compounds were 
+detected during disease in CF patients. In conclusion, we show the potential for 
+compounds in TLR2eF as vaccine and diagnostic candidates, in order to enhance
+diagnosis, prevent and/or treat M. abscessus-related infections.
+
+Copyright © 2020 Le Moigne, Roux, Jobart-Malfait, Blanc, Chaoui, Burlet-Schiltz, 
+Gaillard, Canaan, Nigou and Herrmann.
+
+DOI: 10.3389/fcimb.2020.00432 
+PMCID: PMC7481331
+PMID: 32984067 
+

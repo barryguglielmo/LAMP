@@ -1,0 +1,49 @@
+
+1. Front Cell Infect Microbiol. 2020 Aug 19;10:402. doi: 10.3389/fcimb.2020.00402.
+eCollection 2020.
+
+Gut Dysbiosis in Chagas Disease. A Possible Link to the Pathogenesis.
+
+de Souza-Basqueira M(1)(2), Ribeiro RM(1)(2), de Oliveira LC(3), Moreira
+CHV(2)(4), Martins RCR(1)(2), Franco DC(5), Amado PPP(6), Mayer MPA(6), Sabino
+EC(1)(2)(7).
+
+Author information: 
+(1)Departamento de Doenças Infecciosas e Parasitárias, Faculdade de Medicina da
+Universidade de São Paulo, São Paulo, Brazil.
+(2)Instituto de Medicina Tropical da Universidade de São Paulo, São Paulo,
+Brazil.
+(3)Laboratório de Investigação Médica (LIM03), Hospital das Clinicas de São
+Paulo, Faculdade de Medicina da Universidade de São Paulo, São Paulo, Brazil.
+(4)Instituto de Infectologia "Emílio Ribas", São Paulo, Brazil.
+(5)Institute of Environmental Sciences, Jagiellonian University, Krakow, Poland.
+(6)Departamento de Microbiologia, Instituto de Ciências Biomédicas, Universidade 
+de São Paulo, São Paulo, Brazil.
+(7)Fundação Faculdade de Medicina, Faculdade de Medicina da Universidade de São
+Paulo, São Paulo, Brazil.
+
+Chagas disease is caused by the flagellate protozoan Trypanosoma cruzi.
+Cardiomyopathy and damage to gastrointestinal tissue are the main disease
+manifestations. There are data suggesting that the immune response to T. cruzi
+depends on the intestinal microbiota. We hypothesized that Chagas disease is
+associated with an altered gut microbiome and that these changes are related to
+the disease phenotype. The stool microbiome from 104 individuals, 73 with Chagas 
+disease (30 with the cardiac, 11 with the digestive, and 32 with the
+indeterminate form), and 31 healthy controls was characterized using 16S rRNA
+amplification and sequencing. The QIIME (Quantitative Insights Into Microbial
+Ecology) platform was used to analyze the data. Alpha and beta diversity indexes 
+did not indicate differences between the groups. However, the relative abundance 
+of Verrucomicrobia, represented primarily by the genus Akkermansia, was
+significantly lower in the Chagas disease groups, especially the cardiac group,
+compared to the controls. Furthermore, differences in the relative abundances of 
+Alistipes, Bilophila, and Dialister were observed between the groups. We conclude
+that T. cruzi infection results in changes in the gut microbiome that may play a 
+role in the myocardial and intestinal inflammation seen in Chagas disease.
+
+Copyright © 2020 de Souza-Basqueira, Ribeiro, de Oliveira, Moreira, Martins,
+Franco, Amado, Mayer and Sabino.
+
+DOI: 10.3389/fcimb.2020.00402 
+PMCID: PMC7466656
+PMID: 32974213 
+

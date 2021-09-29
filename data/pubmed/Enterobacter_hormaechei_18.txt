@@ -1,0 +1,50 @@
+
+1. Infect Drug Resist. 2020 Jan 13;13:145-153. doi: 10.2147/IDR.S231366. eCollection
+2020.
+
+Characterization of blaNDM-1- and blaSHV-12-Positive IncX3 Plasmid in an
+Enterobacter Hormaechei New Sequence Type 1000 from China.
+
+Li P(#)(1)(2), Lin Y(#)(1)(2), Hu X(#)(2), Liu Y(1)(2), Xue M(3), Yang L(1)(2),
+Li J(2), Zha L(2), Wang K(1), Qi K(3), Qiu S(2), Li P(2), Song H(2).
+
+Author information: 
+(1)Academy of Military Medical Sciences, Academy of Military Sciences, Beijing,
+People's Republic of China.
+(2)Center for Disease Control and Prevention of PLA, Beijing, People's Republic
+of China.
+(3)Anhui Province Key Laboratory of Veterinary Pathobiology and Disease Control, 
+Anhui Agricultural University, Anhui, People's Republic of China.
+(#)Contributed equally
+
+Purpose: Carbapenem-resistant Enterobacter cloacae complex has been reported
+worldwide and becomes a new challenge for clinical management. The present study 
+was to characterize the IncX3 plasmid encoding bla NDM-1 and bla SHV-12 gene in
+E. hormaechei sequence.
+Materials and Methods: EcHK001 was recovered from the sputum sample of a patient.
+Species identification and antimicrobial susceptibility testing were performed
+using the VITEK 2 system, while further classification was carried out by hsp60
+typing. The presence of NDM-1 was detected by PCR and sequencing. Conjugation
+experiments and southern blotting were carried out to determine the
+transferability of the NDM-1-carrying plasmid. Whole-genome sequencing and
+analysis were conducted to better understand the molecular characteristics of the
+multi-drug resistant isolate.
+Results: Strain EcHK001 was classified as E. hormaechei of new sequence type
+1000. Multiple drug-resistant genes were detected. The bla NDM-1 and bla SHV-12
+genes were located on a self-transferable IncX3 plasmid. Synonymous mutations
+were identified in the genes encoding TEM-1 and ACT-17. Phylogenetic analysis
+indicated that EcHK001 clustered into a different clade from domestic strains.
+Conclusion: The rapid spread of the recurrent IncX3 plasmid highlights the need
+for continuous surveillance of the NDM-1 dissemination. The presence of mutations
+in existing carbapenem-resistant genes may generate potential new variants and
+raise serious challenges for clinical treatment.
+
+© 2020 Li et al.
+
+DOI: 10.2147/IDR.S231366 
+PMCID: PMC6968821
+PMID: 32021329 
+
+Conflict of interest statement: The authors report no conflicts of interest in
+this work.
+

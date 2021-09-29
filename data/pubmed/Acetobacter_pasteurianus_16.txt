@@ -1,0 +1,36 @@
+
+1. Biosci Biotechnol Biochem. 2020 Apr;84(4):832-841. doi:
+10.1080/09168451.2019.1703638. Epub 2019 Dec 18.
+
+In vitro thermal adaptation of mesophilic Acetobacter pasteurianus NBRC 3283
+generates thermotolerant strains with evolutionary trade-offs.
+
+Matsumoto N(1)(2), Matsutani M(1)(2), Azuma Y(3), Kataoka N(1)(2)(4), Yakushi
+T(1)(2)(4), Matsushita K(1)(2)(4).
+
+Author information: 
+(1)Department of Biological Chemistry, Faculty of Agriculture, Yamaguchi
+University, Yamaguchi, Japan.
+(2)Graduate School of Science and Technology for Innovation, Yamaguchi
+University, Yamaguchi, Japan.
+(3)Biology-oriented Science and Technology, Kinki University, Kinokawa, Japan.
+(4)Research Center for Thermotolerant Microbial Resources, Yamaguchi University, 
+Yamaguchi, Japan.
+
+Thermotolerant strains are critical for low-cost high temperature fermentation.
+In this study, we carried out the thermal adaptation of A. pasteurianus IFO
+3283-32 under acetic acid fermentation conditions using an experimental evolution
+approach from 37ºC to 40ºC. The adapted strain exhibited an increased growth and 
+acetic acid fermentation ability at high temperatures, however, with the
+trade-off response of the opposite phenotype at low temperatures. Genome analysis
+followed by PCR sequencing showed that the most adapted strain had 11 mutations, 
+a single 64-kb large deletion, and a single plasmid loss. Comparative phenotypic 
+analysis showed that at least the large deletion (containing many ribosomal RNAs 
+and tRNAs genes) and a mutation of DNA polymerase (one of the 11 mutations)
+critically contributed to this thermotolerance. The relationship between the
+phenotypic changes and the gene mutations are discussed, comparing with another
+thermally adapted A. pasteurianus strains obtained previously.
+
+DOI: 10.1080/09168451.2019.1703638 
+PMID: 31851582  [Indexed for MEDLINE]
+

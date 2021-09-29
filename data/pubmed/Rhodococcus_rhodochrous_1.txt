@@ -1,0 +1,53 @@
+
+1. Sheng Wu Gong Cheng Xue Bao. 2020 Aug 25;36(8):1578-1589. doi:
+10.13345/j.cjb.190562.
+
+[Activation of low-molecular-mass nitrile hydratase from Rhodococcus rhodochrous 
+J1 by heterologous activators].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Wang T(1), Cheng Z(1), Guo J(1), Xia Y(1), Liu Z(1), Zhou Z(1).
+
+Author information: 
+(1)Key Laboratory of Industrial Biotechnology (MOE), School of Biotechnology,
+Jiangnan University, Wuxi 214122, Jiangsu, China.
+
+As self-subunit swapping chaperones or metallochaperones, the activators assist
+nitrile hydratases to take up metal ions and they are essential for active
+expression of nitrile hydratases. Compared with nitrile hydratases, the
+activators have a low sequence identity. Study of the activation characteristics 
+and the relationships between structures and functions of the activators is of
+great significance for understanding the maturation mechanism of nitrile
+hydratase. We co-expressed low-molecular-mass nitrile hydratase (L-NHase) from
+Rhodococcus rhodochrous J1 with four heterologous activators respectively and
+determined their activation abilities. Then we made sequence analysis and
+structure modelling, and studied the functions of the important domains of the
+activators. Results showed that all four heterologous activators could activate
+L-NHase, however, the specific activities of L-NHases were different after
+activation. L-NHase showed the highest specific activity after being activated by
+activator A, which was 97.79% of that of the original enzyme, but the specific
+activity of L-NHase after being activated by activator G was only 23.94% of that 
+of the original enzyme. Activator E and activator G had conserved domains
+(TIGR03889), and deletion of their partial sequences resulted in a substantial
+loss of activation abilities for both activators. Replacing the N-terminal
+sequence of activator G with the N-terminal sequence of activator E, and adding
+the C-terminal sequence of activator E to the C-terminus of activator G could
+increase the specific activity of L-NHase by 178.40%. The activation by nitrile
+hydratase activators was universal and specific, and the conserved domains of
+activators were critical for activation, while the N-terminal domain and
+C-terminal domain also had important effects on activation.
+
+Publisher:
+腈水合酶激活子具有亚基自身交换伴随子或者金属离子伴随子的功能，能够辅助腈水合酶摄取金属离子，对于腈水合酶的活性表达必不可少。与腈水合酶自身相比，激活子的序列保守性
+低，研究其激活作用的特点，探索其结构与功能之间的关系，对于理解腈水合酶的成熟机制具有重要意义。将红球菌Rhodococcus rhodochrous J1
+低分子量型腈水合酶L-NHase 分别与4 种异源激活子组合共表达，测定异源激活子对L-NHase
+的激活作用，进一步对激活子进行序列分析和结构模拟，并研究关键结构域的功能。结果表明，4 种异源激活子均能激活L-NHase，但激活后L-NHase
+的比酶活存在差异，激活子A 对L-NHase 的激活程度最高，激活后的L-NHase 比酶活为出发酶的97.79%；激活子G 对L-NHase
+的激活程度最低，激活后的L-NHase 比酶活为出发酶的23.94%。激活子E 和激活子G
+具有保守结构域TIGR03889，缺失其中部分序列会使两者的激活作用基本丧失。将激活子G 的N 端序列替换为激活子E 的N 端序列，并将激活子E 的C
+端序列添加至激活子G 的C 端，能够使L-NHase的比酶活提高178.40%。激活子的激活作用具有普遍性和特异性，其保守结构域对激活作用至关重要，同时N
+端结构域和C 端结构域也对激活作用产生重要影响。.
+DOI: 10.13345/j.cjb.190562 
+PMID: 32924356 
+

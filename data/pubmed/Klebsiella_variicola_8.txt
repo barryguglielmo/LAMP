@@ -1,0 +1,35 @@
+
+1. Genomics. 2020 Sep;112(5):3179-3190. doi: 10.1016/j.ygeno.2020.06.004. Epub 2020 
+Jun 3.
+
+Comparative genome analysis and characterization of a MDR Klebsiella variicola.
+
+Srinivasan VB(1), Rajamohan G(2).
+
+Author information: 
+(1)Council of Scientific and Industrial Research-Institute of Microbial
+Technology, Molecular Biology Division, Sector 39-A, Chandigarh 160036, India.
+(2)Council of Scientific and Industrial Research-Institute of Microbial
+Technology, Molecular Biology Division, Sector 39-A, Chandigarh 160036, India.
+Electronic address: rmohan@imtech.res.in.
+
+Klebsiella variicola is an emerging pathogen responsible for causing blood-stream
+infections, urinary and respiratory tract related diseases in humans. In this
+report, we describe the genome sequence data and phenotypic characterization of
+K. variicola strain KV093 isolated from India. Comparative genome sequence
+analysis revealed the presence of genes linked with virulence, iron acquisition
+and transport, type 1 and type 3 pili, secretion systems including the capsular
+gene cluster. The plant-associated genes such as nitrogen fixation, growth and
+defense mechanisms against oxidative stress were also identified. On performing
+antibiotic susceptibility testing, growth inhibition, and stress challenge assays
+it was observed that the drug resistant K. variicola KV093 exhibited cross
+resistance to various antibiotics, antiseptics, including disinfectants. This
+report highlights the arsenal of virulence and antibiotic resistance determinants
+in K. variicola KV093, an effort emphasizing the current pressing need for
+regular surveillance of K. variicola strains especially in India.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ygeno.2020.06.004 
+PMID: 32504650 
+

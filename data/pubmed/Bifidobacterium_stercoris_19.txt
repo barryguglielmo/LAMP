@@ -1,0 +1,35 @@
+
+1. Front Bioeng Biotechnol. 2020 Apr 29;8:377. doi: 10.3389/fbioe.2020.00377.
+eCollection 2020.
+
+Exploring a Highly D-Galactose Specific L-Arabinose Isomerase From
+Bifidobacterium adolescentis for D-Tagatose Production.
+
+Zhang G(1), An Y(2), Parvez A(1), Zabed HM(1), Yun J(1), Qi X(1).
+
+Author information: 
+(1)School of Food and Biological Engineering, Jiangsu University, Zhenjiang,
+China.
+(2)College of Biosciences and Biotechnology, Shenyang Agricultural University,
+Shenyang, China.
+
+D-Galactose-specific L-arabinose isomerase (L-AI) would have much potential for
+the enzymatic conversion of D-Galactose into D-tagatose, while most of the
+reported L-AIs are L-arabinose specific. This study explored a highly
+D-Galactose-specific L-AI from Bifidobacterium adolescentis (BAAI) for the
+production of D-tagatose. In the comparative protein-substrate docking for
+D-Galactose and L-arabinose, BAAI showed higher numbers of hydrogen bonds in
+D-Galactose-BAAI bonding site than those found in L-arabinose-BAAI bonding site. 
+The activity of BAAI was 24.47 U/mg, and it showed good stability at temperatures
+up to 65°C and a pH range 6.0-7.5. The K m, V max, and K cat/K m of BAAI were
+found to be 22.4 mM, 489 U/mg and 9.3 mM-1 min-1, respectively for D-Galactose,
+while the respective values for L-arabinose were 40.2 mM, 275.1 U/mg, and 8.6
+mM-1 min-1. Enzymatic conversion of D-Galactose into D-tagatose by BAAI showed
+56.7% conversion efficiency at 55°C and pH 6.5 after 10 h.
+
+Copyright © 2020 Zhang, An, Parvez, Zabed, Yun and Qi.
+
+DOI: 10.3389/fbioe.2020.00377 
+PMCID: PMC7201074
+PMID: 32411693 
+

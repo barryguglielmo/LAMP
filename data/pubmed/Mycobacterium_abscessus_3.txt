@@ -1,0 +1,32 @@
+
+1. Annu Rev Virol. 2020 Sep 29;7(1):37-61. doi:
+10.1146/annurev-virology-122019-070009.
+
+Actinobacteriophages: Genomics, Dynamics, and Applications.
+
+Hatfull GF(1).
+
+Author information: 
+(1)Department of Biological Sciences, University of Pittsburgh, Pittsburgh,
+Pennsylvania 15260, USA; email: gfh@pitt.edu.
+
+Actinobacteriophages are viruses that infect bacterial hosts in the phylum
+Actinobacteria. More than 17,000 actinobacteriophages have been described and
+over 3,000 complete genome sequences reported, resulting from large-scale,
+high-impact, integrated research-education initiatives such as the Science
+Education Alliance Phage Hunters Advancing Genomics and Evolutionary Sciences
+(SEA-PHAGES) program. Their genomic diversity is enormous; actinobacteriophages
+comprise many architecturally mosaic genomes with distinct DNA sequences. Their
+genome diversity is driven by the highly dynamic interactions between phages and 
+their hosts, and prophages can confer a variety of systems that defend against
+attack by genetically distinct phages; phages can neutralize these defense
+systems by coding for counter-defense proteins. These phages not only provide
+insights into diverse and dynamic phage populations but also have provided
+numerous tools for mycobacterial genetics. A case study using a three-phage
+cocktail to treat a patient with a drug-resistant Mycobacterium abscessus
+suggests that phages may have considerable potential for the therapeutic
+treatment of mycobacterial infections.
+
+DOI: 10.1146/annurev-virology-122019-070009 
+PMID: 32991269 
+

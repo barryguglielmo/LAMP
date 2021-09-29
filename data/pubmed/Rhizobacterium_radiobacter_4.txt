@@ -1,0 +1,57 @@
+
+1. Appl Environ Microbiol. 2020 Aug 18;86(17). pii: e00671-20. doi:
+10.1128/AEM.00671-20. Print 2020 Aug 18.
+
+The Presence of the Hairy-Root-Disease-Inducing (Ri) Plasmid in Wheat Endophytic 
+Rhizobia Explains a Pathogen Reservoir Function of Healthy Resistant Plants.
+
+Kang B(1), Maeshige T(2), Okamoto A(2), Kataoka Y(2), Yamamoto S(2), Rikiishi
+K(3), Tani A(3), Sawada H(4), Suzuki K(5)(2).
+
+Author information: 
+(1)Basic Biology Program, Graduate School of Integrated Sciences for Life,
+Hiroshima University, Hiroshima, Japan.
+(2)Department of Biological Science, Graduate School of Science, Hiroshima
+University, Hiroshima, Japan.
+(3)Institute of Plant Science and Resources, Okayama University, Kurashiki,
+Okayama, Japan.
+(4)Genetic Resources Center, National Agriculture and Food Research Organization,
+Tsukuba, Ibaraki, Japan.
+(5)Basic Biology Program, Graduate School of Integrated Sciences for Life,
+Hiroshima University, Hiroshima, Japan ksuzuki@hiroshima-u.ac.jp.
+
+A large number of strains in the Rhizobium radiobacter species complex (biovar 1 
+Agrobacterium) have been known as causative pathogens for crown gall and hairy
+root diseases. Strains within this complex were also found as endophytes in many 
+plant species with no symptoms. The aim of this study was to reveal the endophyte
+variation of this complex and how these endophytic strains differ from pathogenic
+strains. In this study, we devised a simple but effective screening method by
+exploiting the high resolution power of mass spectrometry. We screened endophyte 
+isolates from young wheat and barley plants, which are resistant to the diseases,
+and identified seven isolates from wheat as members of the R. radiobacter species
+complex. Through further analyses, we assigned five strains to the genomovar
+(genomic group) G1 and two strains to G7 in R. radiobacter Notably, these two
+genomovar groups harbor many known pathogenic strains. In fact, the two G7
+endophyte strains showed pathogenicity on tobacco, as well as the virulence
+prerequisites, including a 200-kbp Ri plasmid. All five G1 strains possessed a
+500-kbp plasmid, which is present in well-known crown gall pathogens. These data 
+strongly suggest that healthy wheat plants are reservoirs for pathogenic strains 
+of R. radiobacter IMPORTANCE Crown gall and hairy root diseases exhibit very wide
+host-plant ranges that cover gymnosperm and dicot plants. The Rhizobium
+radiobacter species complex harbors causative agents of the two diseases.
+Recently, endophyte isolates from many plant species have been assigned to this
+species complex. We isolated seven endophyte strains belonging to the species
+complex from wheat plants and revealed their genomovar affiliations and plasmid
+profile. The significance of this study is the finding of the genomovar
+correlation between the endophytes and the known pathogens, the presence of a
+virulence ability in two of the seven endophyte strains, and the high ratio of
+the pathogenic strains in the endophyte strains. This study therefore provides
+convincing evidence that could unravel the mechanism that maintains pathogenic
+agents of this species and sporadically delivers them to susceptible plants.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.00671-20 
+PMCID: PMC7440801 [Available on 2021-02-18]
+PMID: 32631868 
+

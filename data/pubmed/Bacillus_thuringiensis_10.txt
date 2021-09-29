@@ -1,0 +1,34 @@
+
+1. Toxins (Basel). 2020 Sep 16;12(9). pii: E600. doi: 10.3390/toxins12090600.
+
+Making 3D-Cry Toxin Mutants: Much More Than a Tool of Understanding Toxins
+Mechanism of Action.
+
+Vílchez S(1).
+
+Author information: 
+(1)Institute of Biotechnology, Department of Biochemistry and Molecular Biology
+I, Faculty of Science, University of Granada, 18071 Granada, Spain.
+
+3D-Cry toxins, produced by the entomopathogenic bacterium Bacillus thuringiensis,
+have been extensively mutated in order to elucidate their elegant and complex
+mechanism of action necessary to kill susceptible insects. Together with the
+study of the resistant insects, 3D-Cry toxin mutants represent one of the pillars
+to understanding how these toxins exert their activity on their host. The
+principle is simple, if an amino acid is involved and essential in the mechanism 
+of action, when substituted, the activity of the toxin will be diminished.
+However, some of the constructed 3D-Cry toxin mutants have shown an enhanced
+activity against their target insects compared to the parental toxins, suggesting
+that it is possible to produce novel versions of the natural toxins with an
+improved performance in the laboratory. In this report, all mutants with an
+enhanced activity obtained by accident in mutagenesis studies, together with all 
+the variants obtained by rational design or by directed mutagenesis, were
+compiled. A description of the improved mutants was made considering their
+historical context and the parallel development of the protein engineering
+techniques that have been used to obtain them. This report demonstrates that
+artificial 3D-Cry toxins made in laboratories are a real alternative to natural
+toxins.
+
+DOI: 10.3390/toxins12090600 
+PMID: 32948025 
+

@@ -1,0 +1,48 @@
+
+1. Nat Commun. 2020 Aug 18;11(1):4142. doi: 10.1038/s41467-020-17992-x.
+
+Chemical synthesis of glycans up to a 128-mer relevant to the O-antigen of
+Bacteroides vulgatus.
+
+Zhu Q(1), Shen Z(2), Chiodo F(3), Nicolardi S(4), Molinaro A(5), Silipo A(6), Yu 
+B(7)(8).
+
+Author information: 
+(1)State Key Laboratory of Bioorganic and Natural Products Chemistry, Center for 
+Excellence in Molecular Synthesis, Shanghai Institute of Organic Chemistry,
+University of Chinese Academy of Sciences, Chinese Academy of Sciences, 345
+Lingling Road, Shanghai, 200032, China.
+(2)School of Physical Science and Technology, ShanghaiTech University, 393 Huaxia
+Middle Road, Shanghai, 201210, China.
+(3)Department of Molecular Cell Biology and Immunology, Amsterdam Infection and
+Immunity Institute, De Boelelaan 1108, 1081HZ, Amsterdam, The Netherlands.
+(4)Center for Proteomics and Metabolomics, Leiden University Medical Center,
+Leiden, 2333 ZA, The Netherlands.
+(5)Department of Chemical Sciences, University of Naples Federico II, Via Cintia 
+4, 80126, Napoli, Italy.
+(6)Department of Chemical Sciences, University of Naples Federico II, Via Cintia 
+4, 80126, Napoli, Italy. silipo@unina.it.
+(7)State Key Laboratory of Bioorganic and Natural Products Chemistry, Center for 
+Excellence in Molecular Synthesis, Shanghai Institute of Organic Chemistry,
+University of Chinese Academy of Sciences, Chinese Academy of Sciences, 345
+Lingling Road, Shanghai, 200032, China. byu@sioc.ac.cn.
+(8)School of Chemistry and Materials Science, Hangzhou Institute for Advanced
+Study, University of Chinese Academy of Sciences, 1 Sub-Lane Xiangshan, Hangzhou,
+310024, China. byu@sioc.ac.cn.
+
+Glycans are involved in various life processes and represent critical targets of 
+biomedical developments. Nevertheless, the accessibility to long glycans with
+precise structures remains challenging. Here we report on the synthesis of
+glycans consisting of [→4)-α-Rha-(1 → 3)-β-Man-(1 → ] repeating unit, which are
+relevant to the O-antigen of Bacteroides vulgatus, a common component of gut
+microbiota. The optimal combination of assembly strategy, protecting group
+arrangement, and glycosylation reaction has enabled us to synthesize up to a
+128-mer glycan. The synthetic glycans are accurately characterized by advanced
+NMR and MS approaches, the 3D structures are defined, and their potent binding
+activity with human DC-SIGN, a receptor associated with the gut lymphoid tissue, 
+is disclosed.
+
+DOI: 10.1038/s41467-020-17992-x 
+PMCID: PMC7434892
+PMID: 32811831  [Indexed for MEDLINE]
+

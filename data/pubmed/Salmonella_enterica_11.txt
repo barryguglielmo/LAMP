@@ -1,0 +1,42 @@
+
+1. RNA. 2020 Sep 28. pii: rna.077354.120. doi: 10.1261/rna.077354.120. [Epub ahead
+of print]
+
+Solution structure and RNA-binding of a minimal ProQ-homolog from Legionella
+pneumophila (Lpp1663).
+
+Immer C(1), Hacker C(1), Wohnert J(2).
+
+Author information: 
+(1)Institute of Molecular Biosciences and Center for Biomolecular Magnetic
+Resonance (BMRZ), Goethe-University Frankfurt.
+(2)Institute of Molecular Biosciences and Center for Biomolecular Magnetic
+Resonance (BMRZ), Goethe-University Frankfurt woehnert@bio.uni-frankfurt.de.
+
+Small regulatory RNAs (sRNAs) play an important role for posttranscriptional gene
+regulation in bacteria. sRNAs recognize their target messenger RNAs (mRNAs) by
+base pairing, which is often facilitated by interactions with the bacterial
+RNA-binding proteins Hfq or ProQ. The FinO/ProQ RNA-binding protein domain was
+first discovered in the bacterial repressor of conjugation, FinO. Since then, the
+functional role of FinO/ProQ-like proteins in posttranscriptional gene regulation
+was extensively studied in particular in the enterobacteria E. coli and
+Salmonella enterica and a wide range of sRNA-targets was identified for these
+proteins. In addition, enterobacterial ProQ homologs also recognize and protect
+the 3'-ends of a number of mRNAs from exonucleolytic degradation. However, the
+RNA-binding properties of FinO/ProQ proteins with regard to the recognition of
+different RNA targets are not yet fully understood. Here, we present the solution
+NMR structure of the so far functionally uncharacterized ProQ homolog Lpp1663
+from Legionella pneumophila as a newly confirmed member and a minimal model
+system of the FinO/ProQ protein family. In addition, we characterize the
+RNA-binding preferences of Lpp1663 with high resolution NMR spectroscopy and
+isothermal titration calorimetry (ITC). Our results suggest a binding preference 
+for single-stranded uridine-rich RNAs in the vicinity of stable stem-loop
+structures. According to chemical shift perturbation experiments, the
+single-stranded U-rich RNAs interact mainly with a conserved RNA-binding surface 
+on the concave site of Lpp1663.
+
+Published by Cold Spring Harbor Laboratory Press for the RNA Society.
+
+DOI: 10.1261/rna.077354.120 
+PMID: 32989045 
+

@@ -1,0 +1,37 @@
+
+1. Int J Syst Evol Microbiol. 2020 May;70(5):3049-3054. doi: 10.1099/ijsem.0.004129.
+Epub 2020 Apr 3.
+
+Pseudomonas hydrolytica sp. nov., multiple polymer-degrading bacteria isolated
+from soil in China.
+
+Zhou S(1), Wang Y(1), Xia H(1), Liu D(1), Chen S(1), Li F.
+
+Author information: 
+(1)School of Life Sciences, Northeast Normal University, Changchun, PR China.
+
+A short rod-shaped, Gram-stain-negative strain that can degrade multiple polymers
+was isolated from forest soil in China and designated as DSWY01T. The results of 
+16S rRNA gene sequence analysis showed that this isolate shared high similarities
+with Pseudomonas alcaliphila NBRC 102411T (99.3 %), Pseudomonas mendocina NBRC
+14162T (99.2%) and Pseudomonas oleovorans NBRC 13583T (99.0%). The results of
+phylogenetic analysis based on 16S rRNA gene sequence and multilocus sequence
+analysis (recA, gyrB, nuoD, glnS and rpoD) indicated that strain DSWY01T belongs 
+to the genus Pseudomonas and is a member of the P. oleovorans group in an
+independent branch. The average nucleotide identity and digital DNA-DNA
+hybridization between the genome of strain DSWY01T and the genomes of other
+species (ANIb 77.72-89.65 %; GGDC 15.50-31.10 %) showed that the isolate
+represents a novel species. The DNA G+C content of strain DSWY01T was 63.67 mol%,
+and the major cellular fatty acids (>15 %) were a mixture of
+C18 : 1ω7c/C18 : 1ω6c and C16 : 0. The polar lipids were diphosphatidylglycerol, 
+phosphatidylglycerol, phosphatidylethanolamine, phosphatidylcholine and two
+unidentified lipids, and the major quinone was CQ-10. The morphological,
+physiological and biochemical characteristics of the isolate were then compared
+with those of reference type strains. The isolate differed considerably from its 
+closest relatives and is representative of a novel species of Pseudomonas, for
+which the name Pseudomonas hydrolytica sp. nov. is proposed. The type strain is
+DSWY01T (=DSM 106702T=CCTCC AB 2018053T).
+
+DOI: 10.1099/ijsem.0.004129 
+PMID: 32242797  [Indexed for MEDLINE]
+

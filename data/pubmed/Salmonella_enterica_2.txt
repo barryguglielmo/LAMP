@@ -1,0 +1,49 @@
+
+1. J Antimicrob Chemother. 2020 Oct 3. pii: dkaa390. doi: 10.1093/jac/dkaa390. [Epub
+ahead of print]
+
+Detection of mobile genetic elements associated with antibiotic resistance in
+Salmonella enterica using a newly developed web tool: MobileElementFinder.
+
+Johansson MHK(1), Bortolaia V(1), Tansirichaiya S(2), Aarestrup FM(1), Roberts
+AP(3), Petersen TN(1).
+
+Author information: 
+(1)National Food Institute, Technical University of Denmark, 2800 Kgs. Lyngby,
+Denmark.
+(2)Department of Clinical Dentistry, Faculty of Health Sciences, UiT the Arctic
+University of Norway, Tromsø, Norway.
+(3)Department of Tropical Disease Biology, Liverpool School of Tropical Medicine,
+Liverpool, UK.
+
+OBJECTIVES: Antimicrobial resistance (AMR) in clinically relevant bacteria is a
+growing threat to public health globally. In these bacteria, antimicrobial
+resistance genes are often associated with mobile genetic elements (MGEs), which 
+promote their mobility, enabling them to rapidly spread throughout a bacterial
+community.
+METHODS: The tool MobileElementFinder was developed to enable rapid detection of 
+MGEs and their genetic context in assembled sequence data. MGEs are detected
+based on sequence similarity to a database of 4452 known elements augmented with 
+annotation of resistance genes, virulence factors and detection of plasmids.
+RESULTS: MobileElementFinder was applied to analyse the mobilome of 1725
+sequenced Salmonella enterica isolates of animal origin from Denmark, Germany and
+the USA. We found that the MGEs were seemingly conserved according to multilocus 
+ST and not restricted to either the host or the country of origin. Moreover, we
+identified putative translocatable units for specific aminoglycoside,
+sulphonamide and tetracycline genes. Several putative composite transposons were 
+predicted that could mobilize, among others, AMR, metal resistance and
+phosphodiesterase genes associated with macrophage survivability. This is, to our
+knowledge, the first time the phosphodiesterase-like pdeL has been found to be
+potentially mobilized into S. enterica.
+CONCLUSIONS: MobileElementFinder is a powerful tool to study the epidemiology of 
+MGEs in a large number of genome sequences and to determine the potential for
+genomic plasticity of bacteria. This web service provides a convenient method of 
+detecting MGEs in assembled sequence data. MobileElementFinder can be accessed at
+https://cge.cbs.dtu.dk/services/MobileElementFinder/.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the
+British Society for Antimicrobial Chemotherapy.
+
+DOI: 10.1093/jac/dkaa390 
+PMID: 33009809 
+

@@ -1,0 +1,51 @@
+
+1. Gut Pathog. 2020 Feb 26;12:10. doi: 10.1186/s13099-020-00351-y. eCollection 2020.
+
+Gut microbiome of native Arab Kuwaitis.
+
+Plummer E(1), Bulach D(2)(3), Carter G(2), Albert MJ(4).
+
+Author information: 
+(1)1Department of Molecular Microbiology, Murdoch Children's Research Institute, 
+Melbourne, VIC Australia.
+(2)2Microbiological Diagnostic Unit Public Health Laboratory, The Peter Doherty
+Institute for Infection and Immunity, The University of Melbourne, Melbourne, VIC
+Australia.
+(3)3Melbourne Bioinformatics, The University of Melbourne, Carlton, VIC
+Australia.
+(4)4Department of Microbiology, Faculty of Medicine, Kuwait University, Jabriya, 
+Kuwait.
+
+Background: The human gut microbiome has an important role in health and disease.
+There is extensive geographical variation in the composition of the gut
+microbiome, however, little is known about the gut microbiome composition of
+people from the Arabian Peninsula. In this study, we describe the gut microbiome 
+of Arab Kuwaitis. The gut microbiome of 25 native adult Arab Kuwaitis was
+characterised using 16S rRNA gene sequencing of the V3-V4 regions. Sequencing
+data were analysed using DADA2. Phylogeny analysis was performed using amplicon
+sequence variants (ASVs) assigned to the Bacteroides genus and 16S rRNA sequences
+of Bacteroides type strains to understand the relationships among Bacteroides
+ASVs.
+Results: About 63% of participants were overweight/obese reflecting normal
+Kuwaiti population. Firmicutes and Bacteroidetes were the dominant phyla detected
+in the gut microbiome (representing 48% and 46% of total sequencing reads
+respectively). At the genus level, Bacteroides was the most abundant genus in 22 
+of 25 participants. A total of 223 ASVs were assigned to the Bacteroides genus,
+eleven of which were present in 50% or more of study participants, reflecting a
+high diversity of this genus. Phylogenetic analysis revealed that the Bacteroides
+dorei/vulgatus group was the most abundant phylogenetic group (representing
+11.91% of all sequence reads) and was detected in all 25 individuals.
+Conclusions: Bacteroides was the most abundant genus in the gut microbiome of
+native Arab Kuwaiti adults, with Bacteroides dorei/vulgatus forming the
+predominant phylogenetic group. The microbiome composition would also have been
+influenced by the nutritional status of participants.
+
+© The Author(s) 2020.
+
+DOI: 10.1186/s13099-020-00351-y 
+PMCID: PMC7043038
+PMID: 32127920 
+
+Conflict of interest statement: Competing interestsThe authors declare that they 
+have no competing interests.
+

@@ -1,0 +1,60 @@
+
+1. Can J Infect Dis Med Microbiol. 2020 Sep 9;2020:2093468. doi:
+10.1155/2020/2093468. eCollection 2020.
+
+A Retrospective Study on Amoxicillin Susceptibility in Severe Haemophilus
+influenzae Pneumonia.
+
+Danneels P(1), Postorino MC(1)(2), Strazzulla A(1)(2), Belfeki N(2), Pitch A(3), 
+Pourcine F(4), Jochmans S(4), Dubée V(5)(6)(7), Monchi M(4), Diamantis S(1)(2).
+
+Author information: 
+(1)Infectious Diseases Unit, Groupe Hospitalier Sud Ile de France, Melun, France.
+(2)Internal Medicine Unit, Groupe Hospitalier Sud Ile de France, Melun, France.
+(3)Medical Biology Laboratory, Groupe Hospitalier Sud Ile de France, Melun,
+France.
+(4)Intensive Care Unit, Groupe Hospitalier Sud Ile de France, Melun, France.
+(5)CRCINA, Inserm, Paris, France.
+(6)Equipe ATIP AVENIR, CRCINA, Inserm, Université de Nantes, Université d'Angers,
+Angers, France.
+(7)Service de Maladies Infectieuses et Tropicales, CHU Angers, Angers, France.
+
+Introduction: Treatment of Haemophilus influenzae (Hi) pneumonia is on concern
+because resistance to amoxicillin is largely diffused. This study describes the
+evolution of resistance to amoxicillin and amoxicillin/clavulanic acid (AMC) in
+Hi isolates and characteristics of patients with Hi severe pneumonia.
+Methods: A monocentric retrospective observational study including patients from 
+2008 to 2017 with severe pneumonia hospitalized in ICU. Evolution of amoxicillin 
+and AMC susceptibility was showed. Characteristics of patients with Hi pneumonia 
+were compared to characteristics of patients with Streptococcus pneumoniae (Sp)
+pneumonia, as reference. Risk factors for amoxicillin resistance in Hi were
+investigated.
+Results: Overall, 113 patients with Hi and 132 with Sp pneumonia were included.
+The percentages of AMC resistance among Hi strains decreased over the years (from
+10% in 2008-2009 to 0% in 2016-2017) while resistance to amoxicillin remained
+stable at 20%. Also, percentages of Sp resistant strains for amoxicillin
+decreased over years (from 25% to 3%). Patients with Hi pneumonia experienced
+higher prevalence of bronchitis (18% vs. 8%, p=0.02, chronic obstructive
+pulmonary disease (43% vs. 30% p=0.03), HAP (18% vs. 7%, p=0.01,
+ventilator-associated pneumonia (27% vs. 17%, p=0.04, and longer duration of
+mechanical ventilation (8 days vs. 6 days, p=0.04) than patients with Sp
+pneumonia. Patients with Sp pneumonia had more frequently local complications
+than patients with Hi pneumonia (17% vs. 7%, p=0.03). De-escalation of
+antibiotics was more frequent in patients with Sp than in patients with Hi (67%
+vs. 53%, p=0.03). No risk factors were associated with amoxicillin resistance
+among patients with Hi pneumonia.
+Conclusions: Amoxicillin resistance was stable over time, but no risk factors
+were detected. AMC resistance was extremely low, suggesting that AMC could be
+used for empiric treatment of Hi pneumonia, as well as other molecules, namely,
+cephalosporins. Patients with Hi pneumonia had more pulmonary comorbidities and
+severe diseases than patients with Sp pneumonia.
+
+Copyright © 2020 Pierre Danneels et al.
+
+DOI: 10.1155/2020/2093468 
+PMCID: PMC7501540
+PMID: 32963653 
+
+Conflict of interest statement: The authors declare that they have no conflicts
+of interest.
+

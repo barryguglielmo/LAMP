@@ -1,0 +1,72 @@
+
+1. BMC Genomics. 2019 Oct 23;20(1):768. doi: 10.1186/s12864-019-6123-1.
+
+Comparative genomic analysis of the Hafnia genus reveals an explicit evolutionary
+relationship between the species alvei and paralvei and provides insights into
+pathogenicity.
+
+Yin Z(1)(2)(3), Yuan C(1)(2)(3), Du Y(1)(2)(3), Yang P(1)(2)(3), Qian C(1)(2)(3),
+Wei Y(1)(2)(3), Zhang S(1)(2)(3), Huang D(4)(5)(6), Liu B(7)(8)(9).
+
+Author information: 
+(1)Key Laboratory of Molecular Microbiology and Technology of the Ministry of
+Education, TEDA College, Nankai University, Tianjin, People's Republic of China.
+(2)TEDA institute of Biological Sciences and Biotechnology, Nankai University,
+Tianjin, People's Republic of China.
+(3)Tianjin Key Laboratory of Microbial Functional Genomeics, TEDA college, Nankai
+university, Tianjin, People's Republic of China.
+(4)Key Laboratory of Molecular Microbiology and Technology of the Ministry of
+Education, TEDA College, Nankai University, Tianjin, People's Republic of China. 
+huangdi@nankai.edu.cn.
+(5)TEDA institute of Biological Sciences and Biotechnology, Nankai University,
+Tianjin, People's Republic of China. huangdi@nankai.edu.cn.
+(6)Tianjin Key Laboratory of Microbial Functional Genomeics, TEDA college, Nankai
+university, Tianjin, People's Republic of China. huangdi@nankai.edu.cn.
+(7)Key Laboratory of Molecular Microbiology and Technology of the Ministry of
+Education, TEDA College, Nankai University, Tianjin, People's Republic of China. 
+liubin1981@nankai.edu.cn.
+(8)TEDA institute of Biological Sciences and Biotechnology, Nankai University,
+Tianjin, People's Republic of China. liubin1981@nankai.edu.cn.
+(9)Tianjin Key Laboratory of Microbial Functional Genomeics, TEDA college, Nankai
+university, Tianjin, People's Republic of China. liubin1981@nankai.edu.cn.
+
+BACKGROUND: The Hafnia genus is an opportunistic pathogen that has been
+implicated in both nosocomial and community-acquired infections. Although Hafnia 
+is fairly often isolated from clinical material, its taxonomy has remained an
+unsolved riddle, and the involvement and importance of Hafnia in human disease is
+also uncertain. Here, we used comparative genomic analysis to define the taxonomy
+of Hafnia, identify species-specific genes that may be the result of ecological
+and pathogenic specialization, and reveal virulence-related genetic profiles that
+may contribute to pathogenesis.
+RESULTS: One complete genome sequence and 19 draft genome sequences for Hafnia
+strains were generated and combined with 27 publicly available genomes. We
+provided high-resolution typing methods by constructing phylogeny and population 
+structure based on single-copy core genes in combination with whole genome
+average nucleotide identity to identify two distant Hafnia species (alvei and
+paralvei) and one mislabeled strain. The open pan-genome and the presence of
+numerous mobile genetic elements reveal that Hafnia has undergone massive gene
+rearrangements. Presence of species-specific core genomes associated with
+metabolism and transport suggests the putative niche differentiation between
+alvei and paralvei. We also identified possession of diverse virulence-related
+profiles in both Hafnia species., including the macromolecular secretion system, 
+virulence, and antimicrobial resistance. In the macromolecular system, T1SS,
+Flagellum 1, Tad pilus and T6SS-1 were conserved in Hafnia, whereas T4SS, T5SS,
+and other T6SSs exhibited the evolution of diversity. The virulence factors in
+Hafnia are related to adherence, toxin, iron uptake, stress adaptation, and
+efflux pump. The identified resistance genes are associated with aminoglycoside, 
+beta-lactam, bacitracin, cationic antimicrobial peptide, fluoroquinolone, and
+rifampin. These virulence-related profiles identified at the genomic level
+provide insights into Hafnia pathogenesis and the differentiation between alvei
+and paralvei.
+CONCLUSIONS: Our research using core genome phylogeny and comparative genomics
+analysis of a larger collection of strains provides a comprehensive view of the
+taxonomy and species-specific traits between Hafnia species. Deciphering the
+genome of Hafnia strains possessing a reservoir of macromolecular secretion
+systems, virulence factors, and resistance genes related to pathogenicity may
+provide insights into addressing its numerous infections and devising strategies 
+to combat the pathogen.
+
+DOI: 10.1186/s12864-019-6123-1 
+PMCID: PMC6806506
+PMID: 31646960  [Indexed for MEDLINE]
+

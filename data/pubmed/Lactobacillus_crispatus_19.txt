@@ -1,0 +1,32 @@
+
+1. J Agric Food Chem. 2020 Aug 12;68(32):8637-8647. doi: 10.1021/acs.jafc.0c02313.
+Epub 2020 Jul 29.
+
+Characterization of the Extracellular Fructanase FruA in Lactobacillus crispatus 
+and Its Contribution to Fructan Hydrolysis in Breadmaking.
+
+Li Q(1), Loponen J(2), Gänzle MG(1).
+
+Author information: 
+(1)Department of Agricultural, Food and Nutritional Science, University of
+Alberta, Edmonton, Alberta T6G 2P5, Canada.
+(2)Fazer Group, Vantaa 01230, Finland.
+
+Fermentable oligosaccharides, disaccharides, monosaccharides, and polyols
+(FODMAPs) trigger symptoms of irritable bowel syndrome (IBS). Fructan degradation
+during bread making reduces FODMAPs in bread while maintaining the content of
+dietary fiber. This study explored the presence of the fructanases FruA in
+lactobacilli and characterized its use in bread making. FruA was exclusively
+present in vertebrate-adapted lactobacilli. In Lactobacillus crispatus DSM29598, 
+FruA was located in cell wall fractions and includes a SLAP domain. FruA
+hydrolyzed levan or inulin; expression of fruA was not subject to catabolite
+repression. Fructans in bread were reduced by less than 50% in a straight dough
+process; conventional sourdough fermentation reduced fructans in bread by 65-70%.
+Sourdough fermentation with L. crispatus reduced fructans in bread by more than
+90%. In conclusion, reduction of FODMAP by sourdough fermentation may improve
+tolerance in many IBS patients. Fermentation with FruA-expressing L. crispatus
+DSM29598 produces a low FODMAP bread.
+
+DOI: 10.1021/acs.jafc.0c02313 
+PMID: 32687341 
+

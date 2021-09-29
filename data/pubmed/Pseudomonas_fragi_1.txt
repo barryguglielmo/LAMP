@@ -1,0 +1,57 @@
+
+1. Foods. 2020 Jul 1;9(7). pii: E860. doi: 10.3390/foods9070860.
+
+Assessment of the Antimicrobial, Antioxidant, and Antiproliferative Potential of 
+Sideritis raeseri subps. raeseri Essential Oil.
+
+Mitropoulou G(1), Sidira M(2), Skitsa M(3), Tsochantaridis I(3), Pappa A(3),
+Dimtsoudis C(2), Proestos C(4), Kourkoutas Y(1).
+
+Author information: 
+(1)Laboratory of Applied Microbiology and Biotechnology, Department of Molecular 
+Biology & Genetics, Democritus University of Thrace, GR-68100 Alexandroupolis,
+Greece.
+(2)Research and Development Department, Macedonian-Thrace Brewery S.A., GR-69100 
+Komotini, Greece.
+(3)Cellular and Molecular Physiology Research Group, Department of Molecular
+Biology & Genetics, Democritus University of Thrace, GR-68100 Alexandroupolis,
+Greece.
+(4)Laboratory of Food Chemistry, Department of Chemistry, National and
+Kapodistrian University of Athens, GR-15771 Athens, Greece.
+
+The aim of the present study was to investigate the antimicrobial potential of
+Sideritis raeseri subps. raeseri essential oil (EO) against common food spoilage 
+and pathogenic microorganisms and evaluate its antioxidant and antiproliferative 
+activity. The EO was isolated by steam distillation and analyzed by GC/MS. The
+main constituents identified were geranyl-p-cymene (25.08%), geranyl-γ-terpinene 
+(15.17%), and geranyl-linalool (14.04%). Initially, its activity against
+Staphylococcus aureus, Staphylococcus epidermidis, Escherichia coli, Listeria
+monocytogenes, Salmonella Enteritidis, Salmonella Typhimurium, Pseudomonas fragi,
+Saccharomyces cerevisiae, and Aspergillus niger was screened by the disk
+diffusion method. Subsequently, minimum inhibitory concentration (MIC),
+non-inhibitory concentration (NIC), and minimum lethal concentration (MLC) values
+were determined. Growth inhibition of all microorganisms tested was documented,
+although it was significantly lower compared to gentamycin, ciproxin, and
+voriconazole, which were used as positive controls. In a next step, its direct
+antioxidant properties were examined using 2,2-diphenyl-1-picrylhydrazyl (DPPH)
+and 2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid) (ABTS) assays, and the
+IC50 values were determined. The potential cytoprotective activity of the oil
+against H2O2-induced oxidative stress and DNA damage was studied in human
+immortalized keratinocyte (HaCaT) cells using the comet assay. Finally, the
+antiproliferative activity of the oil was evaluated against a panel of cancer
+cell lines including A375, Caco2, PC3, and DU145 and the non-cancerous HaCaT cell
+line using the sulforhodamine B (SRB) assay, and the EC50 values were determined.
+The oil demonstrated weak radical scavenging activity, noteworthy cytoprotective 
+activity against H2O2-induced oxidative stress and DNA damage in HaCaT cells, and
+antiproliferative activity against all cell lines tested, being more sensitive
+against the in vitro model of skin melanoma.
+
+DOI: 10.3390/foods9070860 
+PMCID: PMC7404406
+PMID: 32630203 
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study, in the collection, analyses, or
+interpretation of data, in the writing of the manuscript, or in the decision to
+publish the results.
+

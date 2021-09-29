@@ -1,0 +1,60 @@
+
+1. Allergy. 2020 Jun 7. doi: 10.1111/all.14438. [Epub ahead of print]
+
+Integration of metagenomics-metabolomics reveals specific signatures and
+functions of airway microbiota in mite-sensitized childhood asthma.
+
+Chiu CY(1)(2), Chou HC(3), Chang LC(4), Fan WL(5), Dinh MCV(6), Kuo YL(7), Chung 
+WH(8), Lai HC(9)(10), Hsieh WP(3), Su SC(8)(10).
+
+Author information: 
+(1)Division of Pediatric Pulmonology, Chang Gung Memorial Hospital at Linkou,
+College of Medicine, Chang Gung University, Taoyuan, Taiwan.
+(2)Clinical Metabolomics Core Laboratory, Chang Gung Memorial Hospital at Linkou,
+Taoyuan, Taiwan.
+(3)Institute of Statistics, National Tsing-Hua University, Hsinchu, Taiwan.
+(4)Department of Mathematical Sciences, Florida Atlantic University, Florida,
+USA.
+(5)Genomic Medicine Core Laboratory, Chang Gung Memorial Hospital, Linkou,
+Taiwan.
+(6)Department of Computer Science, Florida Atlantic University, Florida, USA.
+(7)Biotools, Co. Ltd, New Taipei City, Taiwan.
+(8)Whole-Genome Research Core Laboratory of Human Diseases, Chang Gung Memorial
+Hospital, Keelung, Taiwan.
+(9)Department of Medical Biotechnology and Laboratory Science, Microbiota
+Research Center, College of Medicine, Chang Gung University, Taoyuan, Taiwan.
+(10)Central Research Laboratory, XiaMen Chang Gung Hospital, XiaMen, China.
+
+BACKGROUND: Childhood asthma is a multifactorial inflammatory condition of the
+airways, associated with specific changes in respiratory microbiome and
+circulating metabolome.
+METHODS: To explore the functional capacity of asthmatic microbiome and its
+intricate connection with the host, we performed shotgun sequencing of airway
+microbiome and untargeted metabolomics profiling of serum samples in a cohort of 
+children with mite-sensitized asthma and non-asthmatic controls.
+RESULTS: We observed higher gene counts and sample-to-sample dissimilarities in
+asthmatic microbiomes, indicating a more heterogeneous community structure and
+functionality among the cases than in controls. Moreover, we identified airway
+microbial species linked to changes in circulating metabolites and IgE responses 
+of the host, including a positive correlation between Prevotella sp oral taxon
+306 and dimethylglycine that were both decreased in patients. Several
+control-enriched species (Eubacterium sulci, Prevotella pallens, and Prevotella
+sp oral taxon 306) were inversely correlated with total and allergen-specific IgE
+levels. Genes related to microbial carbohydrate, amino acid, and lipid metabolism
+were differentially enriched, suggesting that changes in microbial metabolism may
+contribute to respiratory health in asthmatics. Pathway modules relevant to
+allergic responses were differentially abundant in asthmatic microbiome, such as 
+enrichments for biofilm formation by Pseudomonas aeruginosa, membrane
+trafficking, histidine metabolism, and glycosaminoglycan degradation, and
+depletions for polycyclic aromatic hydrocarbon degradation. Further, we
+identified metagenomic and metabolomic markers (eg, Eubacterium sulci) to
+discriminate cases from the non-asthmatic controls.
+CONCLUSIONS: Our dual-omics data reveal the connections between respiratory
+microbes and circulating metabolites perturbed in mite-sensitized pediatric
+asthma, which may be of etiological and diagnostic implications.
+
+© 2020 EAACI and John Wiley and Sons A/S. Published by John Wiley and Sons Ltd.
+
+DOI: 10.1111/all.14438 
+PMID: 32506557 
+

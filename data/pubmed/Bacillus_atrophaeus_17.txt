@@ -1,0 +1,35 @@
+
+1. Infect Control Hosp Epidemiol. 2020 Apr;41(4):391-395. doi: 10.1017/ice.2020.2.
+Epub 2020 Feb 26.
+
+Comparative evaluation of the microbicidal activity of low-temperature
+sterilization technologies to steam sterilization.
+
+Rutala WA(1), Gergen MF(2), Sickbert-Bennett EE(1)(3), Weber DJ(1)(3).
+
+Author information: 
+(1)Division of Infectious Diseases, University of North Carolina School of
+Medicine, Chapel Hill, North Carolina.
+(2)Lumagenics, Cary, North Carolina.
+(3)Department of Hospital Epidemiology, University of North Carolina Health Care,
+Chapel Hill, North Carolina.
+
+OBJECTIVE: To compare the microbicidal activity of low-temperature sterilization 
+technologies (vaporized hydrogen peroxide [VHP], ethylene oxide [ETO], and
+hydrogen peroxide gas plasma [HPGP]) to steam sterilization in the presence of
+salt and serum to simulate inadequate precleaning.
+METHODS: Test carriers were inoculated with Pseudomonas aeruginosa, Escherichia
+coli, Staphylococcus aureus, vancomycin-resistant Enterococcus, Mycobacterium
+terrae, Bacillus atrophaeus spores, Geobacillus stearothermophilus spores, or
+Clostridiodes difficile spores in the presence of salt and serum and then
+subjected to 4 sterilization technologies: steam, ETO, VHP and HPGP.
+RESULTS: Steam, ETO, and HPGP sterilization techniques were capable of
+inactivating the test organisms on stainless steel carriers with a failure rate
+of 0% (0 of 220), 1.9% (6 of 310), and 1.9% (5 of 270), respectively. The failure
+rate for VHP was 76.3% (206 of 270).
+CONCLUSION: Steam sterilization is the most effective and had the largest margin 
+of safety, followed by ETO and HPGP, but VHP showed much less efficacy.
+
+DOI: 10.1017/ice.2020.2 
+PMID: 32098638 
+

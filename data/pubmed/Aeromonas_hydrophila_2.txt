@@ -1,0 +1,62 @@
+
+1. BMC Genomics. 2020 Sep 29;21(1):672. doi: 10.1186/s12864-020-07090-z.
+
+Development of a SNP linkage map and genome-wide association study for resistance
+to Aeromonas hydrophila in pacu (Piaractus mesopotamicus).
+
+Mastrochirico-Filho VA(1), Borges CHS(1), Freitas MV(1), Ariede RB(1), Pilarski
+F(1), Utsunomia R(2), Carvalheiro R(3)(4), Gutierrez AP(5), Peñaloza C(5), Yáñez 
+JM(6), Houston RD(5), Hashimoto DT(7).
+
+Author information: 
+(1)São Paulo State University (Unesp), Aquaculture Center of Unesp, Via de Acesso
+Prof. Paulo Donato Castellane, s/n, Jaboticabal, SP, 14884-900, Brazil.
+(2)Universidade Federal Rural do Rio de Janeiro, Seropédica, RJ, 23897-000,
+Brazil.
+(3)São Paulo State University (Unesp), School of Agricultural and Veterinarian
+Sciences, Jaboticabal, SP, Brazil.
+(4)National Council for Scientific and Technological Development (CNPq),
+Brasília, DF, 71605-001, Brazil.
+(5)The Roslin Institute and Royal (Dick) School of Veterinary Studies, The
+University of Edinburgh, Midlothian, EH25 9RG, UK.
+(6)Facultad de Ciencias Veterinarias y Pecuarias, Universidad de Chile, Santiago,
+Chile.
+(7)São Paulo State University (Unesp), Aquaculture Center of Unesp, Via de Acesso
+Prof. Paulo Donato Castellane, s/n, Jaboticabal, SP, 14884-900, Brazil.
+diogo.hashimoto@unesp.br.
+
+BACKGROUND: Pacu (Piaractus mesopotamicus) is one of the most important
+Neotropical aquaculture species from South America. Disease outbreaks caused by
+Aeromonas hydrophila infection have been considered significant contributors to
+the declining levels of pacu production. The current implementation of genomic
+selection for disease resistance has been adopted as a powerful strategy for
+improvement in fish species. This study aimed to investigate the genetic
+architecture of resistance to A. hydrophila in pacu via Genome-Wide Association
+Study (GWAS), the identification of suggestive Quantitative Trait Loci (QTLs) and
+putative genes associated with this trait. The genetic data were obtained from
+381 juvenile individuals belonging to 14 full-sibling families. An experimental
+challenge was performed to gain access to the levels of genetic variation for
+resistance against the bacteria using the following trait definitions: binary
+test survival (TS) and time of death (TD).
+RESULTS: The analyses of genetic parameters estimated moderate heritability (h2) 
+for both resistance traits: 0.20 (± 0.09) for TS and 0.35 (± 0.15) for TD. A
+linkage map for pacu was developed to enable the GWAS, resulting in 27 linkage
+groups (LGs) with 17,453 mapped Single Nucleotide Polymorphisms (SNPs). The
+length of the LGs varied from 79.95 (LG14) to 137.01 (LG1) cM, with a total map
+length of 2755.60 cM. GWAS identified 22 putative QTLs associated to A.
+hydrophila resistance. They were distributed into 17 LGs, and were considered
+suggestive genomic regions explaining > 1% of the additive genetic variance (AGV)
+for the trait. Several candidate genes related to immune response were located
+close to the suggestive QTLs, such as tbk1, trim16, Il12rb2 and lyz2.
+CONCLUSION: This study describes the development of the first medium density
+linkage map for pacu, which will be used as a framework to study relevant traits 
+to the production of this species. In addition, the resistance to A. hydrophila
+was found to be moderately heritable but with a polygenic architecture suggesting
+that genomic selection, instead of marker assisted selection, might be useful for
+efficiently improving resistance to one of the most problematic diseases that
+affects the South American aquaculture.
+
+DOI: 10.1186/s12864-020-07090-z 
+PMCID: PMC7526211
+PMID: 32993504 
+

@@ -1,0 +1,47 @@
+
+1. Phytopathology. 2020 Jul 27. doi: 10.1094/PHYTO-06-20-0243-R. [Epub ahead of
+print]
+
+Complete Genome Sequencing Provides Novel Insight into the Virulence Repertories 
+and Phylogenetic Position of Dry Beans Pathogen Curtobacterium flaccumfaciens pv.
+flaccumfaciens.
+
+Chen G(1), Khojasteh M(2), Taheri-Dehkordi A(3), Taghavi SM(4), Rahimi T(5),
+Osdaghi E(6).
+
+Author information: 
+(1)Shanghai Jiao Tong University, School of Agriculture and Biology, 800
+Dongchuan Road, Shanghai, China, 200240; gyouchen@sjtu.edu.cn.
+(2)Shiraz, Select State, Iran (the Islamic Republic of); moein.kh_1989@yahoo.com.
+(3)Karaj, Iran (the Islamic Republic of); taheri.edu@gmail.com.
+(4)Shiraz, fars, Iran (the Islamic Republic of); mtaghavi@shirazu.ac.ir.
+(5)Tehran, Iran (the Islamic Republic of); rahimitouraj@gmail.com.
+(6)Shiraz University, 37551, Department of Plant Protection,, College of
+Agriculture, Shiraz Universit, fars, Shiraz, Iran (the Islamic Republic of),
+71946-84636; eosdaghi@gmail.com.
+
+Bacterial wilt of dry beans (family Fabaceae) caused by the actinobacterial agent
+Curtobacterium flaccumfaciens pv. flaccumfaciens (Cff) is one of the most
+important diseases threatening edible legume production around the globe. Despite
+the economic losses due to the bacterial wilt disease, the pathogen has not so
+far been investigated for its genomic features, pathogenicity determinants and
+virulence strategies. Here we present the first complete genome sequence of a
+highly virulent bacteriocin-producing Cff strain P990. The bacterium has a
+circular chromosome consisting 3,736 kbp with the G+C% content of 71.0%.
+Furthermore, a 147 kbp circular plasmid (pCff1) with 66.1% G+C% content as well
+as two circular plasmid-like DNAs with the size of 25 kbp and 22 kbp were
+detected within the genomic contents of Cff. Phylogenetic analyses revealed that 
+only a few number of Curtobacterium sp. strains deposited in the public databases
+could be classified within the species C. flaccumfaciens. Comparative genomics of
+Cff using the genome sequences of actinobacterial plant pathogens revealed the
+presence of a set of unique low G+C% content genomic islands in the Cff genome.
+Homologues of pathogenicity-determinant loci capable of producing
+1,4-beta-xylanase (xysA), pectate lyase (pelA1 and pelA2), serine protease (chpC,
+chpG, and pat-1), and sortase (srtA) were detected in Cff genome. The genomic
+data presented here extends our understanding of the Cff genomic features and
+pave the ways of research on functional and interaction genetics to combat the
+risk of bacterial wilt disease in the 21st Century's dry bean industry.
+
+DOI: 10.1094/PHYTO-06-20-0243-R 
+PMID: 32716255 
+

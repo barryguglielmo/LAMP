@@ -1,0 +1,57 @@
+
+1. Sci Total Environ. 2020 Aug 18;751:141720. doi: 10.1016/j.scitotenv.2020.141720. 
+[Epub ahead of print]
+
+Effect of natural microbiome and culturable biosurfactants-producing bacterial
+consortia of freshwater lake on petroleum-hydrocarbon degradation.
+
+Phulpoto IA(1), Hu B(1), Wang Y(2), Ndayisenga F(1), Li J(1), Yu Z(3).
+
+Author information: 
+(1)College of Resources and Environment, University of Chinese Academy of
+Sciences, 19 A Yuquan Road, Beijing 100049, PR China.
+(2)Yanshan Earth Critical Zone and Surface Fluxes Research Station, Chinese
+Academy of Sciences, No. 380 Huaibei Town, Huairou District, Beijing 101408, PR
+China.
+(3)College of Resources and Environment, University of Chinese Academy of
+Sciences, 19 A Yuquan Road, Beijing 100049, PR China. Electronic address:
+yuzs@ucas.ac.cn.
+
+Freshwater lake ecosystem is a reservior of valuable microbial diversity. It
+needs to be explored for addressing key environmental issues like
+petroleum-hydrocarbon contamination. In this work, the microbial communities (pre
+and post enriched with petroleum-hydrocarbons) from different layers of
+freshwater lake, i.e. surface water, sediments and deepwater, were explored
+through metagenomic and culture-dependent approaches. A total of 41 bacterial
+phyla were retrieved from pre-enriched samples, which were significantly reduced 
+in enriched samples where Proteobacteria were dominant (87% to 100%) followed by 
+Bacteroidetes (7.37%) and Verrucomicrobia (3.06%). The most dominant
+hydrocarbon-degrading genera were extensively verified as Pseudomonas (48.65%),
+Acinetobacter (45.38%), Stenotrophomonas (3.16%) and Brevundimonas (2.07%) in
+surface water (S1WCC); Acinetobacter (62.46%), Aeromonas (10.7%),
+Sphingobacterium (5.20%) and Pseudomonas (4.23%) in sediment (S2MCC); and
+Acinetobacter (46.57%), Pseudomonas (13.10%), Comamonas (12.93%), Flavobacterium 
+(12.18%) and Enterobacter (9.62%) in deep water (S4WCC). Additionally, the
+maximum biodegradation of petroleum-hydrocarbons (i.e. used engine oil or UEO)
+was achieved by microbiome of S2MCC (67.60 ± 0.08%) followed by S4WCC
+(59.70 ± 0.12%), whereas only 36.80 ± 0.10% degradation was achieved by S1WCC
+microbiome. On the other hand, UEO degradation by cultivable
+biosurfactant-producing single cultures such as Pseudomonas sp. S2WE, Pseudomonas
+sp. S2WG, Pseudomonas sp. S2MS, Ochrobactrum sp. S1MM and Bacillus nealsonii S2MT
+showed 31.10 ± 0.08% to 40.50 ± 0.11% biodegradation. Comparatively, the
+biodegradation efficiency was found higher (i.e. 42.20 ± 0.12% to 56.10 ± 0.12%) 
+in each consortia comprising of two, three, four, and five bacterial cultures.
+Conclusively, the isolated culturable biosurfactants-producing bacterial
+consortium of freshwater lake demonstrated >80% contribution in the total
+petroleum-hydrocarbons degradation by the natural microbiome of the ecosystem.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2020.141720 
+PMID: 32882554 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

@@ -1,0 +1,51 @@
+
+1. Proc Natl Acad Sci U S A. 2020 Sep 28. pii: 201916349. doi:
+10.1073/pnas.1916349117. [Epub ahead of print]
+
+Characterization of alkylguaiacol-degrading cytochromes P450 for the biocatalytic
+valorization of lignin.
+
+Fetherolf MM(1), Levy-Booth DJ(1), Navas LE(1), Liu J(1), Grigg JC(1), Wilson
+A(1), Katahira R(2), Beckham GT(2), Mohn WW(1), Eltis LD(3).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Life Sciences Institute,
+BioProducts Institute, The University of British Columbia, Vancouver, BC V6T 1Z3,
+Canada.
+(2)National Bioenergy Center, National Renewable Energy Laboratory, Golden, CO
+80401.
+(3)Department of Microbiology and Immunology, Life Sciences Institute,
+BioProducts Institute, The University of British Columbia, Vancouver, BC V6T 1Z3,
+Canada; leltis@mail.ubc.ca.
+
+Cytochrome P450 enzymes have tremendous potential as industrial biocatalysts,
+including in biological lignin valorization. Here, we describe P450s that
+catalyze the O-demethylation of lignin-derived guaiacols with different ring
+substitution patterns. Bacterial strains Rhodococcus rhodochrous EP4 and
+Rhodococcus jostii RHA1 both utilized alkylguaiacols as sole growth substrates.
+Transcriptomics of EP4 grown on 4-propylguaiacol (4PG) revealed the up-regulation
+of agcA, encoding a CYP255A1 family P450, and the aph genes, previously shown to 
+encode a meta-cleavage pathway responsible for 4-alkylphenol catabolism. The
+function of the homologous pathway in RHA1 was confirmed: Deletion mutants of
+agcA and aphC, encoding the meta-cleavage alkylcatechol dioxygenase, grew on
+guaiacol but not 4PG. By contrast, deletion mutants of gcoA and pcaL, encoding a 
+CYP255A2 family P450 and an ortho-cleavage pathway enzyme, respectively, grew on 
+4-propylguaiacol but not guaiacol. CYP255A1 from EP4 catalyzed the
+O-demethylation of 4-alkylguaiacols to 4-alkylcatechols with the following
+apparent specificities (k cat/K M): propyl > ethyl > methyl > guaiacol. This
+order largely reflected AgcA's binding affinities for the different guaiacols and
+was the inverse of GcoAEP4's specificities. The biocatalytic potential of AgcA
+was demonstrated by the ability of EP4 to grow on lignin-derived products
+obtained from the reductive catalytic fractionation of corn stover, depleting
+alkylguaiacols and alkylphenols. By identifying related P450s with complementary 
+specificities for lignin-relevant guaiacols, this study facilitates the design of
+these enzymes for biocatalytic applications. We further demonstrated that the
+metabolic fate of the guaiacol depends on its substitution pattern, a finding
+that has significant implications for engineering biocatalysts to valorize
+lignin.
+
+DOI: 10.1073/pnas.1916349117 
+PMID: 32989155 
+
+Conflict of interest statement: The authors declare no competing interest.
+

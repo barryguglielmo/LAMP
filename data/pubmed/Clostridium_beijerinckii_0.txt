@@ -1,0 +1,40 @@
+
+1. Bioresour Technol. 2020 Sep 17;319:124140. doi: 10.1016/j.biortech.2020.124140.
+[Epub ahead of print]
+
+Sugarcane bagasse hydrolysates as feedstock to produce the
+isopropanol-butanol-ethanol fuel mixture: Effect of lactic acid derived from
+microbial contamination on Clostridium beijerinckii DSM 6423.
+
+Vieira CFDS(1), Codogno MC(1), Maugeri Filho F(2), Maciel Filho R(1), Mariano
+AP(3).
+
+Author information: 
+(1)Laboratory of Optimization, Design, and Advanced Control - Fermentation
+Division (LOPCA-Ferm), School of Chemical Engineering, University of Campinas
+(UNICAMP), Campinas, SP, Brazil.
+(2)Bioprocess and Metabolic Engineering Laboratory (LEMeB), School of Food
+Engineering, University of Campinas (UNICAMP), Campinas, SP, Brazil.
+(3)Laboratory of Optimization, Design, and Advanced Control - Fermentation
+Division (LOPCA-Ferm), School of Chemical Engineering, University of Campinas
+(UNICAMP), Campinas, SP, Brazil. Electronic address: adpm@unicamp.br.
+
+Enzymatic hydrolysis of lignocellulose under industrial conditions is prone to
+contamination by lactic acid bacteria, and in this study, a cellulose hydrolysate
+produced from dilute-acid pretreatedsugarcane bagasse contained 13 g/L lactic
+acid and was used for IBE production by Clostridium beijerinckii DSM 6423. In
+fermentation of the cellulose hydrolysate supplemented with sugarcane molasses
+for nutrients and buffering of the medium (40 g/L total sugar), 92% of the lactic
+acid was consumed, and the butanol yield was as high as 0.28 (7.9 g/L butanol),
+suggesting that lactic acid was preferentially metabolized to butanol. When the
+hydrolysate was mixed with a detoxified bagasse hemicellulose hydrolysate and
+supplemented with molasses (35 g/L total sugar), the culture was able to exhaust 
+glucose and utilized sucrose (by 38%), xylose (31%), and lactic acid (70%).
+Overall, this study shows that C. beijerinckii DSM 6423 can co-ferment first- and
+second-generation sugars while consuming lactic acid.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biortech.2020.124140 
+PMID: 32971332 
+

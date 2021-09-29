@@ -1,0 +1,39 @@
+
+1. Molecules. 2020 Sep 24;25(19). pii: E4392. doi: 10.3390/molecules25194392.
+
+New Insights on the Feature and Function of Tail Tubular Protein B and Tail Fiber
+Protein of the Lytic Bacteriophage φYeO3-12 Specific for Yersinia enterocolitica 
+Serotype O:3.
+
+Pyra A(1), Filik K(2), Szermer-Olearnik B(2), Czarny A(2), Brzozowska E(2).
+
+Author information: 
+(1)Faculty of Chemistry, University of Wroclaw, 14 F. Joliot-Curie St, 50383
+Wroclaw, Poland.
+(2)Hirszfeld Institute of Immunology and Experimental Therapy, Polish Academy of 
+Sciences, 12 R. Weigl St, 53114 Wroclaw, Poland.
+
+For the first time, we are introducing TTPBgp12 and TFPgp17 as new members of the
+tail tubular proteins B (TTPB) and tail fiber proteins (TFP) family,
+respectively. These proteins originate from Yersinia enterocolitica phage
+φYeO3-12. It was originally thought that these were structural proteins. However,
+our results show that they also inhibit bacterial growth and biofilm formation.
+According to the bioinformatic analysis, TTPBgp12 is functionally and
+structurally similar to the TTP of Enterobacteria phage T7 and adopts a
+β-structure. TFPgp17 contains an intramolecular chaperone domain at its
+C-terminal end. The N-terminus of TFPgp17 is similar to other representatives of 
+the TFP family. Interestingly, the predicted 3D structure of TFPgp17 is similar
+to other bacterial S-layer proteins. Based on the thermal unfolding experiment,
+TTPBgp12 seems to be a two-domain protein that aggregates in the presence of
+sugars such as maltose and N-acetylglucosamine (GlcNAc). These sugars cause two
+unfolding events to transition into one global event. TFPgp17 is a one-domain
+protein. Maltose and GlcNAc decrease the aggregation temperature of TFPgp17,
+while the presence of N-acetylgalactosamine (GalNAc) increases the temperature of
+its aggregation. The thermal unfolding analysis of the concentration gradient of 
+TTPBgp12 and TFPgp17 indicates that with decreasing concentrations, both proteins
+increase in stability. However, a decrease in the protein concentration also
+causes an increase in its aggregation, for both TTPBgp12 and TFPgp17.
+
+DOI: 10.3390/molecules25194392 
+PMID: 32987777 
+

@@ -1,0 +1,56 @@
+
+1. Microorganisms. 2020 May 1;8(5). pii: E659. doi: 10.3390/microorganisms8050659.
+
+Virulence Characteristics of mecA-Positive Multidrug-Resistant Clinical
+Coagulase-Negative Staphylococci.
+
+Chon JW(1), Lee UJ(2), Bensen R(3), West S(4), Paredes A(5), Lim J(5), Khan S(1),
+Hart ME(1)(6), Phillips KS(7), Sung K(1).
+
+Author information: 
+(1)Division of Microbiology, National Center for Toxicological Research, US Food 
+and Drug Administration, Jefferson, AR 72079, USA.
+(2)Division of Cardiology, Albert Einstein College of Medicine, Bronx, NY 10461, 
+USA.
+(3)Department of Chemistry and Biochemistry, University of Oklahoma, Norman, OK
+73019, USA.
+(4)Department of Animal Science, University of Arkansas, Fayetteville, AR 72701, 
+USA.
+(5)NCTR-ORA Nanotechnology Core Facility, US Food and Drug Administration,
+Jefferson, AR 72079, USA.
+(6)Department of Microbiology and Immunology, University of Arkansas for Medical 
+Sciences, Little Rock, AR 72205, USA.
+(7)Division of Biology, Chemistry, and Materials Science, Office of Science and
+Engineering Laboratories, Center for Devices and Radiological Health, US Food and
+Drug Administration, Silver Spring, MD 20993, USA.
+
+Coagulase-negative staphylococci (CoNS) are an important group of opportunistic
+pathogenic microorganisms that cause infections in hospital settings and are
+generally resistant to many antimicrobial agents. We report on phenotypic and
+genotypic virulence characteristics of a select group of clinical, mecA-positive 
+(encoding penicillin-binding protein 2a) CoNS isolates. All CoNS were resistant
+to two or more antimicrobials with S. epidermidis strain 214EP, showing
+resistance to fifteen of the sixteen antimicrobial agents tested.
+Aminoglycoside-resistance genes were the ones most commonly detected. The
+presence of megaplasmids containing both horizontal gene transfer and
+antimicrobial resistance genetic determinants indicates that CoNS may disseminate
+antibiotic resistance to other bacteria. Staphylococcus sciuri species produced
+six virulence enzymes, including a DNase, gelatinase, lipase, phosphatase, and
+protease that are suspected to degrade tissues into nutrients for bacterial
+growth and contribute to the pathogenicity of CoNS. The PCR assay for the
+detection of biofilm-associated genes found the eno (encoding laminin-binding
+protein) gene in all isolates. Measurement of their biofilm-forming ability and
+Spearman's rank correlation coefficient analyses revealed that the results of
+crystal violet (CV) and extracellular polymeric substances (EPS) assays were
+significantly correlated (ρ = 0.9153, P = 3.612e-12). The presence of virulence
+factors, biofilm-formation capability, extracellular enzymes, multidrug
+resistance, and gene transfer markers in mecA-positive CoNS clinical strains used
+in this study makes them powerful opportunistic pathogens. The study also
+warrants a careful evaluation of nosocomial infections caused by CoNS and may be 
+useful in studying the mechanism of virulence and factors associated with their
+pathogenicity in vivo and developing effective strategies for mitigation.
+
+DOI: 10.3390/microorganisms8050659 
+PMCID: PMC7284987
+PMID: 32369929 
+

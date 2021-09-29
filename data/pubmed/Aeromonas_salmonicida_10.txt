@@ -1,0 +1,48 @@
+
+1. Fish Shellfish Immunol. 2020 Oct;105:378-392. doi: 10.1016/j.fsi.2020.06.051.
+Epub 2020 Jun 29.
+
+Effective isolation of GALT cells: Insights into the intestine immune response of
+rainbow trout (Oncorhynchus mykiss) to different bacterin vaccine preparations.
+
+Attaya A(1), Secombes CJ(2), Wang T(3).
+
+Author information: 
+(1)Scottish Fish Immunology Research Centre, School of Biological Sciences,
+University of Aberdeen, AB24 2TZ, UK. Electronic address: ahmed_attaya@uml.edu.
+(2)Scottish Fish Immunology Research Centre, School of Biological Sciences,
+University of Aberdeen, AB24 2TZ, UK. Electronic address:
+christopher.secombes@abdn.ac.uk.
+(3)Scottish Fish Immunology Research Centre, School of Biological Sciences,
+University of Aberdeen, AB24 2TZ, UK. Electronic address: t.h.wang@abdn.ac.uk.
+
+The teleost gut is a multifunction complex structure that plays a pivotal
+immunological role in homeostasis and the maintenance of health, in addition to
+digestion of food and/or nutrient absorption. In vitro examination of the
+intestine leucocyte repertoire has the potential to aid our understanding of gut 
+immune competence and allows a rapid screen of host-microorganism interactions in
+different immunological contexts. To explore this possibility, in the present
+study we investigated the response of isolated gut leucocytes to 4 bacterins of
+Aeromonas salmonicida, prepared from different strains, combinations and strains 
+grown in different environments, in comparison to a Yersinia ruckeri bacterin for
+which a commercial/effective oral booster vaccine has been developed. To aid this
+study we also optimized further our method of GALT cell isolation from rainbow
+trout, so as to avoid mechanical clearance of the intestine contents. This
+drastically increased the cell yield from ~12 × 106 to ~210 × 106/fish with no
+change in the percent cell viability over time or presence of transcripts typical
+of the key leucocyte types needed for the study of immune modulation (i.e. T- and
+B-cells, dendritic cells and macrophages). A wide array of immune transcripts
+were modulated by the bacterins, demonstrating the diversity of GALT cell
+responses to bacterial stimulation. Indeed, the GALT leucocyte responses were
+sensitive enough to distinguish the different bacterial species, strains and
+membrane proteins, as seen by distinct kinetics of immune gene expression.
+However, the response of the GALT cells was often relatively slow and of a low
+magnitude compared to those of PBL. These results enhance our knowledge of the
+gut biocapacity and help validate the use of this model for screening of oral
+vaccine candidates.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fsi.2020.06.051 
+PMID: 32615166 
+

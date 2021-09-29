@@ -1,0 +1,53 @@
+
+1. J Biol Chem. 2020 Jan 10;295(2):597-609. doi: 10.1074/jbc.RA119.011363. Epub 2019
+Dec 5.
+
+Rational engineering of 2-deoxyribose-5-phosphate aldolases for the biosynthesis 
+of (R)-1,3-butanediol.
+
+Kim T(1)(2), Stogios PJ(1), Khusnutdinova AN(1), Nemr K(1), Skarina T(1), Flick
+R(1), Joo JC(3), Mahadevan R(1), Savchenko A(1)(4), Yakunin AF(5)(6).
+
+Author information: 
+(1)Department of Chemical Engineering and Applied Chemistry, University of
+Toronto, Toronto, Ontario M5S 3E5, Canada.
+(2)Future Technology Center, LG Chem, Gangseo-gu, Seoul 150-721, Korea.
+(3)Center for Bio-Based Chemistry, Division of Convergence Chemistry, Korea
+Research Institute of Chemical Technology, Yuseong-gu, Daejeon 34114, Korea.
+(4)Department of Microbiology, Immunology, and Infectious Diseases, University of
+Calgary, Calgary, Alberta T2N 1N4, Canada.
+(5)Department of Chemical Engineering and Applied Chemistry, University of
+Toronto, Toronto, Ontario M5S 3E5, Canada a.iakounine@utoronto.ca.
+(6)Centre for Environmental Biotechnology, School of Natural Sciences, Bangor
+University, Bangor LL57 2UW, United Kingdom.
+
+Carbon-carbon bond formation is one of the most important reactions in
+biocatalysis and organic chemistry. In nature, aldolases catalyze the reversible 
+stereoselective aldol addition between two carbonyl compounds, making them
+attractive catalysts for the synthesis of various chemicals. In this work, we
+identified several 2-deoxyribose-5-phosphate aldolases (DERAs) having
+acetaldehyde condensation activity, which can be used for the biosynthesis of
+(R)-1,3-butanediol (1,3BDO) in combination with aldo-keto reductases (AKRs).
+Enzymatic screening of 20 purified DERAs revealed the presence of significant
+acetaldehyde condensation activity in 12 of the enzymes, with the highest
+activities in BH1352 from Bacillus halodurans, TM1559 from Thermotoga maritima,
+and DeoC from Escherichia coli The crystal structures of BH1352 and TM1559 at
+1.40-2.50 Å resolution are the first full-length DERA structures revealing the
+presence of the C-terminal Tyr (Tyr224 in BH1352). The results from
+structure-based site-directed mutagenesis of BH1352 indicated a key role for the 
+catalytic Lys155 and other active-site residues in the 2-deoxyribose-5-phosphate 
+cleavage and acetaldehyde condensation reactions. These experiments also revealed
+a 2.5-fold increase in acetaldehyde transformation to 1,3BDO (in combination with
+AKR) in the BH1352 F160Y and F160Y/M173I variants. The replacement of the WT
+BH1352 by the F160Y or F160Y/M173I variants in E. coli cells expressing the DERA 
++ AKR pathway increased the production of 1,3BDO from glucose five and six times,
+respectively. Thus, our work provides detailed insights into the molecular
+mechanisms of substrate selectivity and activity of DERAs and identifies two DERA
+variants with enhanced activity for in vitro and in vivo 1,3BDO biosynthesis.
+
+© 2020 Kim et al.
+
+DOI: 10.1074/jbc.RA119.011363 
+PMCID: PMC6956516 [Available on 2021-01-10]
+PMID: 31806708  [Indexed for MEDLINE]
+

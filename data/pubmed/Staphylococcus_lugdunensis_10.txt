@@ -1,0 +1,47 @@
+
+1. Sci Rep. 2020 May 26;10(1):8682. doi: 10.1038/s41598-020-65632-7.
+
+Complete genome sequence of a methicillin-resistant Staphylococcus lugdunensis
+strain and characteristics of its staphylococcal cassette chromosome mec.
+
+Shibuya R(1)(2), Uehara Y(1)(3)(4), Baba T(5), Teruya K(6), Satou K(7), Hirano
+T(8), Kirikae T(1), Hiramatsu K(3).
+
+Author information: 
+(1)Department of Microbiology, Juntendo University Graduate School of Medicine,
+Tokyo, Japan.
+(2)Department of Clinical Laboratory, Saiseikai Yokohamashi Tobu Hospital,
+Yokohama, Japan.
+(3)Center of Excellence for Infection Control Science, Graduate School of
+Medicine, Juntendo University, Tokyo, Japan.
+(4)Department of Clinical Laboratory, St. Luke's International hospital, Tokyo,
+Japan.
+(5)Center of Excellence for Infection Control Science, Graduate School of
+Medicine, Juntendo University, Tokyo, Japan. tbaba@juntendo.ac.jp.
+(6)AVSS Co., Ltd., Nagasaki, Japan.
+(7)Department of Genome Medicine, National Center for Child Health and
+Development, Tokyo, Japan.
+(8)SENTAN Pharma, Inc., Fukuoka, Japan.
+
+Symptoms of Staphylococcus lugdunensis infection are often similar to those of
+Staphylococcus aureus infection, including skin and soft-tissue lesions,
+bacteremia and infective endocarditis. Despite the severity of these infections, 
+S. lugdunensis is regarded as a less important pathogen than drug-resistant S.
+aureus. To investigate its ability to cause infectious diseases, a
+methicillin-resistant S. lugdunensis (MRSL) strain JICS135 was isolated from a
+patient with bacteremia and subjected to whole genome sequencing. Similar to most
+strains of methicillin-resistant S. aureus (MRSA), this MRSL strain possessed the
+staphylococcal cassette chromosome mec (SCCmec) located close to the origin of
+replication. However, the SCCmec in this MRSL strain, with three ccr complexes,
+was structurally unique and currently untypable. Moreover, the SCCmec of this
+MRSL strain was found to carry two genes encoding microbial surface components
+recognizing adhesive matrix molecules (MSCRAMM)-like proteins accompanied by
+glycosyl transferases, one of which may have been derived from S. aureus and the 
+other from S. epidermidis, indicating that this MRSL evolved to carry virulence
+factors from other staphylococci. The emergence of this strain, the first MRSL
+strain whose genome has been sequenced completely, may be of public concern.
+
+DOI: 10.1038/s41598-020-65632-7 
+PMCID: PMC7251135
+PMID: 32457307 
+

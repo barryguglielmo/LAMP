@@ -1,0 +1,50 @@
+
+1. Gut Microbes. 2020 Nov 9;12(1):1788898. doi: 10.1080/19490976.2020.1788898. Epub 
+2020 Jul 20.
+
+TH1 cell-inducing Escherichia coli strain identified from the small intestinal
+mucosa of patients with Crohn's disease.
+
+Nagayama M(1)(2)(3), Yano T(1), Atarashi K(2)(3)(4), Tanoue T(2)(3), Sekiya M(1),
+Kobayashi Y(1), Sakamoto H(1), Miura K(1), Sunada K(1), Kawaguchi T(2)(3), Morita
+S(2), Sugita K(2), Narushima S(2)(3), Barnich N(5), Isayama J(2)(4), Kiridooshi
+Y(2)(4), Shiota A(2)(4), Suda W(3)(6), Hattori M(3)(6), Yamamoto H(1), Honda
+K(2)(3)(4).
+
+Author information: 
+(1)Department of Medicine, Division of Gastroenterology, Jichi Medical University
+, Tochigi, Japan.
+(2)Department of Microbiology and Immunology, Keio University School of Medicine 
+, Tokyo, Japan.
+(3)Laboratory for Gut Homeostasis, RIKEN Center for Integrative Medical Sciences 
+, Yokohama, Japan.
+(4)JSR-Keio University Medical and Chemical Innovation Center , Tokyo, Japan.
+(5)UMR 1071 Inserm/Université Clermont Auvergne; USC-INRA 2018, Microbes,
+Intestin, Inflammation et Susceptibilité de l'Hôte (M2iSH), CRNH Auvergne ,
+Clermont-Ferrand, France.
+(6)Cooperative Major in Advanced Health Science, Graduate School of Advanced
+Science and Engineering, Waseda University , Tokyo, Japan.
+
+Dysbiotic microbiota contributes to the pathogenesis of Crohn's disease (CD) by
+regulating the immune system. Although pro-inflammatory microbes are probably
+enriched in the small intestinal (SI) mucosa, most studies have focused on fecal 
+microbiota. This study aimed to examine jejunal and ileal mucosal specimens from 
+patients with CD via double-balloon enteroscopy. Comparative microbiome analysis 
+revealed that the microbiota composition of CD SI mucosa differs from that of
+non-CD controls, with an increased population of several families, including
+Enterobacteriaceae, Ruminococcaceae, and Bacteroidaceae. Upon anaerobic culturing
+of the CD SI mucosa, 80 bacterial strains were isolated, from which 9 strains
+representing 9 distinct species (Escherichia coli, Ruminococcus gnavus,
+Klebsiella pneumoniae, Erysipelatoclostridium ramosum, Bacteroides dorei, B.
+fragilis, B. uniformis, Parabacteroides distasonis, and Streptococcus
+pasteurianus) were selected on the basis of their significant association with
+CD. The colonization of germ-free (GF) mice with the 9 strains enhanced the
+accumulation of TH1 cells and, to a lesser extent, TH17 cells in the intestine,
+among which an E. coli strain displayed high potential to induce TH1 cells and
+intestinal inflammation in a strain-specific manner. The present results indicate
+that the CD SI mucosa harbors unique pro-inflammatory microbiota, including TH1
+cell-inducing E. coli, which could be a potential therapeutic target.
+
+DOI: 10.1080/19490976.2020.1788898 
+PMID: 32691669 
+

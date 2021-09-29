@@ -1,0 +1,69 @@
+
+1. Sex Transm Infect. 2020 Oct 1. pii: sextrans-2020-054631. doi:
+10.1136/sextrans-2020-054631. [Epub ahead of print]
+
+Prevalence, incidence and associated risk factors of STIs during pregnancy in
+South Africa.
+
+Nyemba DC(1)(2), Medina-Marino A(3)(4), Peters RPH(4)(5)(6), Klausner JD(7)(8),
+Ngwepe P(4), Myer L(9)(2), Johnson LF(2), Davey DJ(9)(7).
+
+Author information: 
+(1)Division of Epidemiology & Biostatistics, School of Public Health and Family
+Medicine, University of Cape Town, Cape Town, South Africa
+dorothy.nyemba@uct.ac.za.
+(2)Centre for Infectious Disease Epidemiology and Research, School of Public
+Health and Family Medicine, University of Cape Town, Cape Town, South Africa.
+(3)Desmond Tutu HIV Centre, University of Cape Town, Cape Town, South Africa.
+(4)Research Unit, Foundation for Professional Development, East London, South
+Africa.
+(5)Department of Medical Microbiology, University of Pretoria, Pretoria, South
+Africa.
+(6)Department of Medical Microbiology, CAPHRI School of Public Health and Primary
+Care, Maastricht University Medical Centre, Maastricht, The Netherlands.
+(7)Department of Epidemiology, Fielding School of Public Health, University of
+California Los Angeles, Los Angeles, California, USA.
+(8)David Geffen School of Medicine, University of California Los Angeles, Los
+Angeles, California, USA.
+(9)Division of Epidemiology & Biostatistics, School of Public Health and Family
+Medicine, University of Cape Town, Cape Town, South Africa.
+
+OBJECTIVE: STIs during pregnancy increase adverse pregnancy and birth outcomes
+and may increase HIV risk. STI syndromic management is standard of care in South 
+Africa. Our study evaluated the prevalence and incidence of STIs in pregnant
+women and the associated risk factors.
+METHODS: We combined data from two prospective observational studies of pregnant 
+women enrolled while attending their first antenatal clinic (ANC) visit in
+Tshwane District and Cape Town. Women ≥18 years were tested at first ANC visit
+and at their first postpartum visit for Chlamydia trachomatis, Neisseria
+gonorrhoeae and Trichomonas vaginalis using Xpert assays (Cepheid, USA). We
+evaluated the prevalence and incidence of STI and the associated risk factors
+using multivariable regression models.
+RESULTS: We enrolled 669 pregnant women, 64% (n=427) from Tshwane District and
+36% (n=242) from Cape Town; 80% (n=534) were women living with HIV (WLHIV) and
+20% (n=135) without HIV. At enrolment, 37% (n=250) were diagnosed with at least
+one STI, of which 76% (n=190) were asymptomatic. STI prevalence was 40% (n=213)
+in WLHIV and 27% (n=37) in women without HIV (p=0.01). Baseline STI infection was
+associated with younger age (OR=0.95 per year, 95% CI 0.92 to 0.98), higher
+gestational age (adjusted OR (aOR)=1.03 per week, 95% CI 1.00 to 1.05), single
+relationship status (aOR=1.53, 95% CI 1.09 to 2.15) and HIV status (aOR=1.86,
+95% CI 1.17 to 2.95). Of 419 participants with no STI at baseline, 21 had an
+incident STI during follow-up, with a mean follow-up time of 140 days. The
+incidence rate of STI during pregnancy and early post partum was 15 infections
+per 100 women-years (95% CI 9 to 23). Younger age was associated with STI
+incidence.
+CONCLUSION: Our study shows high prevalence and incidence of STIs in pregnancy,
+especially in WLHIV, demonstrating the need for STI screening in ANC to prevent
+adverse pregnancy and birth outcomes. Most STI cases were asymptomatic and would 
+have gone untreated with syndromic management. Aetiological STI screening is
+urgently needed to reduce the burden of STIs in pregnancy.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/sextrans-2020-054631 
+PMID: 33004610 
+
+Conflict of interest statement: Competing interests: The authors received a
+donation of STI Xpert assays from Cepheid (California, USA).
+

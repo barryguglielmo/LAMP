@@ -1,0 +1,42 @@
+
+1. Int J Syst Evol Microbiol. 2020 Mar;70(3):1528-1540. doi: 10.1099/ijsem.0.003928.
+
+Pseudomonas carnis sp. nov., isolated from meat.
+
+Lick S(1), Kröckel L(1), Wibberg D(2), Winkler A(2), Blom J(3), Bantleon A(4),
+Goesmann A(3), Kalinowski J(2).
+
+Author information: 
+(1)Department of Safety and Quality of Meat, Max Rubner-Institut,
+E.-C.-Baumann-Strasse 20, D-95326 Kulmbach, Germany.
+(2)Center for Biotechnology - CeBiTec, Bielefeld University, Universitätsstraße
+27, D-33615 Bielefeld, Germany.
+(3)Bioinformatics and Systems Biology, Justus-Liebig University Gießen,
+Ludwigstr. 23, D-35390 Gießen, Germany.
+(4)VFG Labor GmbH & Co. KG, Nordfeldstr. 19, D-33775 Versmold, Germany.
+
+During investigations of spoilage-associated meat microbiota, Pseudomonas
+isolates were found in two different laboratories showing highest similarities to
+Pseudomonas lactis DSM 29167T, Pseudomonas paralactis DSM 29164T and Pseudomonas 
+azotoformans DSM 18862T based on 16S rRNA gene sequence comparisons. Phylogenetic
+analysis of the complete rpoB gene sequences of isolates B4-1T and SpeckC
+indicated a separate branch with 99.0 and 99.1 % identity, respectively, to their
+closest relative (P. lactis DSM 29167T). Further phenotypic and chemotaxonomic
+characterizations, as well as average nucleotide identity (ANIb) values obtained 
+from the draft genomes, revealed that these isolates could be considered as
+representing a novel species, with ANIb values of around 94 and 90 % with their
+closest relatives P. lactis and P. paralactis. Other related species showed ANIb 
+values below 90 %, including Pseudomonas libanensis DSM 17149T, Pseudomonas
+synxantha DSM 18928T, Pseudomonas orientalis DSM 17489T, Pseudomonas veronii DSM 
+11331T and P. azotoformans DSM 18862T. Genome-to-genome distance calculations
+between B4-1T and its closest relative, P. lactis DSM 29167T, showed 62.6 %
+relatedness. The G+C contents of B4-1T and SpeckC were 59.8 and 59.9 mol%,
+respectively. The major cellular lipids were phosphatidylethanolamine,
+phosphatidylglycerol and diphosphatidylglycerol; the major quinone was Q9. Based 
+on these data, the new species Pseudomonas carnis sp. nov. is proposed, the type 
+strain is B4-1T (=DSM 107652T=LMG 30892T); a second strain is SpeckC (=DSM
+107651=LMG 30893).
+
+DOI: 10.1099/ijsem.0.003928 
+PMID: 31922466  [Indexed for MEDLINE]
+

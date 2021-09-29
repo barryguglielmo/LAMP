@@ -1,0 +1,38 @@
+
+1. Curr Microbiol. 2020 Oct;77(10):3095-3103. doi: 10.1007/s00284-020-02115-y. Epub 
+2020 Jul 26.
+
+Plasmid-Mediated Biodegradation of Chlorpyrifos and Analysis of Its Metabolic
+By-Products.
+
+John EM(1), Varghese EM(1), Shaike JM(2).
+
+Author information: 
+(1)School of Biosciences, Mahatma Gandhi University, Kottayam, Kerala, 686560,
+India.
+(2)School of Biosciences, Mahatma Gandhi University, Kottayam, Kerala, 686560,
+India. jishams@mgu.ac.in.
+
+Organophosphate pesticide persistence is an emerging menace to the environment
+and despite this fact, its use has been enhanced due to its high efficiency.
+Bioremediation using microorganisms would be the only means by which these
+hazardous compounds could be wiped out without disturbing the environmental
+harmony. The current work studied the molecular mechanism of degradation of
+Chlorpyrifos (CP) by a bacterial consortium C5 comprising of three soil isolates 
+Staphylococcus warneri (CPI 2), Pseudomonas putida (CPI 9) and Stenotrophomonas
+maltophilia (CPI 15), which unveiled that the property is plasmid borne. All the 
+isolates were found to possess a 4 kb plasmid which could be cured only by using 
+sodium azide. The Escherichia coli JM109 cells when transformed individually with
+the plasmid of the isolates showed CP degradation in mineral salts medium (MSM)
+that contained CP as the sole carbon source. The degradative enzyme
+organophosphorus hydrolase (~ 60 KDa) of the isolates was extracted and purified 
+to 31.85, 26 and 37.74 fold, respectively. The possible metabolic by-products of 
+CP degradation by the consortium C5, were also analysed. The LC-Q-Tof MS analysis
+revealed the presence of the major metabolite 3, 5, 6 -trichloropyridine (TCP)
+with the formation of chlorpyrifos oxon as the intermediate. The isolates also
+showed trichloropyridine degradation (> 80%) individually in MSM-TCP medium
+proving its efficiency to remediate both CP and TCP.
+
+DOI: 10.1007/s00284-020-02115-y 
+PMID: 32715316 
+

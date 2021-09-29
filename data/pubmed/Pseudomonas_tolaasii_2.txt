@@ -1,0 +1,51 @@
+
+1. Front Microbiol. 2020 May 25;11:989. doi: 10.3389/fmicb.2020.00989. eCollection
+2020.
+
+Six Multiplex TaqManTM-qPCR Assays for Quantitative Diagnostics of Pseudomonas
+Species Causative of Bacterial Blotch Diseases of Mushrooms.
+
+Taparia T(1)(2), Krijger M(1), Hodgetts J(3), Hendriks M(1), Elphinstone JG(3),
+van der Wolf J(1).
+
+Author information: 
+(1)Biointeractions and Plant Health, Wageningen University and Research,
+Wageningen, Netherlands.
+(2)Department of Microbial Ecology, Netherlands Institute of Ecology, Wageningen,
+Netherlands.
+(3)Department of Plant Protection, Fera Science Limited, York, United Kingdom.
+
+Bacterial blotch is a group of economically important diseases of the common
+button mushroom (Agaricus bisporus). Once the pathogens are introduced to a farm,
+mesophilic growing conditions (that are optimum for mushroom production) result
+in severe and widespread secondary infections. Efficient, timely and quantitative
+detection of the pathogens is hence critical for the design of localized control 
+strategies and prediction of disease risk. This study describes the development
+of real-time TaqManTM assays that allow molecular diagnosis of three currently
+prevalent bacterial blotch pathogens: "Pseudomonas gingeri," Pseudomonas tolaasii
+and (as yet uncharacterized) Pseudomonas strains (belonging to Pseudomonas
+salomonii and Pseudomonas edaphica). For each pathogen, assays targeting specific
+DNA markers on two different loci, were developed for primary detection and
+secondary verification. All six developed assays showed high diagnostic
+specificity and sensitivity when tested against a panel of 63 Pseudomonas strains
+and 40 other plant pathogenic bacteria. The assays demonstrated good analytical
+performance indicated by linearity across calibration curve (>0.95),
+amplification efficiency (>90%) and magnitude of amplification signal (>2.1). The
+limits of detection were optimized for efficient quantification in bacterial
+cultures, symptomatic tissue, infected casing soil and water samples from
+mushroom farms. Each target assay was multiplexed with two additional assays.
+Xanthomonas campestris was detected as an extraction control, to account for loss
+of DNA during sample processing. And the total Pseudomonas population was
+detected, to quantify the proportion of pathogenic to beneficial Pseudomonas in
+the soil. This ratio is speculated to be an indicator for blotch outbreaks. The
+multiplexed assays were successfully validated and applied by routine testing of 
+diseased mushrooms, peat sources, casing soils, and water from commercial
+production units.
+
+Copyright © 2020 Taparia, Krijger, Hodgetts, Hendriks, Elphinstone and van der
+Wolf.
+
+DOI: 10.3389/fmicb.2020.00989 
+PMCID: PMC7261844
+PMID: 32523566 
+

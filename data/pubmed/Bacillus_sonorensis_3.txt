@@ -1,0 +1,36 @@
+
+1. Curr Microbiol. 2020 May;77(5):786-794. doi: 10.1007/s00284-020-01874-y. Epub
+2020 Jan 10.
+
+Optimizing the Reduction of Molybdate by Two Novel Thermophilic Bacilli Isolated 
+from Sinai, Egypt.
+
+Saeed AM(1), Sayed HAE(2), El-Shatoury EH(2).
+
+Author information: 
+(1)Department of Microbiology, Faculty of Science, Ain Shams University, Cairo,
+11566, Egypt. ali.saeed@sci.asu.edu.eg.
+(2)Department of Microbiology, Faculty of Science, Ain Shams University, Cairo,
+11566, Egypt.
+
+The aim of this study was to isolate thermophilic bacteria to be used in in situ 
+bioremediation of molybdate at elevated temperatures. Two molybdate reducing
+bacteria (Pharon2 and Pharon3) were isolated from the hot Spring at Pharaoh's
+Bath, Sinai, Egypt. The isolates were identified by 16S rRNA genes sequencing and
+were submitted to GenBank as Bacillus tequilensis strain Pharon2 (MK078034) and
+Bacillus sonorensis strain Pharon3 (MK078035). The molybdenum blue production was
+optimized using multifactorial statistical approaches, Plackett-Burman and
+central composite designs. According to the results obtained by response
+optimizer, the maximum molybdenum blue production achieved was 1.04 and 1.12
+represented as absorbance at 865 nm, with the optimum salt concentration of 1.1
+and 2.5%; at pH 7.02 and 7.07; incubation temperature of 46.1 and 52.2 °C;
+sucrose and glucose as an electron donor for Bacillus tequilensis strain Pharon2 
+and Bacillus sonorensis strain Pharon3, respectively. In conclusion, the
+thermophilic bacterial isolates belonging to the genus Bacillus could be used in 
+in situ bioremediation under elevated temperatures. To the best of our knowledge,
+this is the first record of molybdenum blue production by thermophilic Bacillus
+tequilensis and Bacillus sonorensis.
+
+DOI: 10.1007/s00284-020-01874-y 
+PMID: 31925514 
+

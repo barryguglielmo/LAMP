@@ -1,0 +1,36 @@
+
+1. Nutrients. 2020 Mar 31;12(4). pii: E966. doi: 10.3390/nu12040966.
+
+Salivary Microbiota Shifts under Sustained Consumption of Oolong Tea in Healthy
+Adults.
+
+Liu Z(1), Guo H(1), Zhang W(1), Ni L(1).
+
+Author information: 
+(1)Institute of Food Science & Technology, Fuzhou University, Fuzhou 350108,
+China.
+
+Tea is the most widely consumed beverages next to water, however little is known 
+about the influence of sustained tea consumption on the oral bacteria of healthy 
+adults. In this study, three oral healthy adults were recruited and instructed to
+consume 1.0 L of oolong tea infusions (total polyphenol content, 2.83 g/L) daily,
+for eight weeks. Salivary microbiota pre-, peri-, and post-treatment were fully
+compared by high-throughput 16S rRNA sequencing and multivariate statistical
+analysis. It was revealed that oolong tea consumption reduced salivary bacterial 
+diversity and the population of some oral disease related bacteria, such as
+Streptococcus sp., Prevotella nanceiensis, Fusobacterium periodonticum,
+Alloprevotella rava, and Prevotella elaninogenica. Moreover, via correlation
+network and Venn diagram analyses, seven bacterial taxa, including Streptococcus 
+sp. (OTU_1), Ruminococcaceae sp. (OTU_33), Haemophilus sp. (OTU_696), Veillonella
+spp. (OTU_133 and OTU_23), Actinomyces odontolyticus (OTU_42), and Gemella
+haemolysans (OTU_6), were significantly altered after oolong tea consumption, and
+presented robust strong connections (|r| > 0.9 and p < 0.05) with other oral
+microbiota. These results suggest sustained oolong tea consumption would modulate
+salivary microbiota and generate potential oral pathogen preventative benefits.
+Additionally, diverse responses to oolong tea consumption among subjects were
+also noticed.
+
+DOI: 10.3390/nu12040966 
+PMCID: PMC7230163
+PMID: 32244337 
+

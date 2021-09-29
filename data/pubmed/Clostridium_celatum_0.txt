@@ -1,0 +1,45 @@
+
+1. BMC Microbiol. 2020 Mar 3;20(1):44. doi: 10.1186/s12866-020-01724-8.
+
+The influence of blood on the human gut microbiome.
+
+Chénard T(1), Malick M(1), Dubé J(1), Massé E(2).
+
+Author information: 
+(1)Department of Biochemistry, Université de Sherbrooke, 3201 Jean-Mignault
+Street, Sherbrooke, Sherbrooke, QC, J1E 4K8, Canada.
+(2)Department of Biochemistry, Université de Sherbrooke, 3201 Jean-Mignault
+Street, Sherbrooke, Sherbrooke, QC, J1E 4K8, Canada. eric.masse@usherbrooke.ca.
+
+BACKGROUND: Colorectal cancer (CRC) is one of the prevailing causes of cancer
+mortality in the world. A common screening test for CRC is based on the human
+hemoglobin immunochemical based fecal occult blood test (iFOBT), which consists
+in the detection of blood in the patient's stool. In addition to iFOBT, recent
+studies support the use of the gut microbiome as a biomarker for CRC prediction. 
+However, these studies did not take into account the effect of blood itself on
+the microbiome composition, independently of CRC. Therefore, we investigated the 
+microbiome of patients undergoing the iFOBT screening in order to determine the
+effect of blood alone. Our cohort consisted of patients who had no blood in their
+stools (n = 265) or did have blood but no underlying precancerous or cancerous
+lesions (n = 235). We also identified bacterial taxa specifically associated with
+the presence of blood in stools.
+RESULTS: We observed significant differences in the intestinal bacterial
+composition that could be solely caused by the presence of blood in stools. More 
+precisely, we identified 12 bacterial species showing significant differences in 
+abundance between both our study groups. These species, Bacteroides uniformis,
+Collinsella aerofaciens, Eggerthella lenta and Clostridium symbiosum demonstrated
+increased abundance in the presence of blood. In contrast, the species Prevotella
+copri, Coprococcus eutactus and catus, Faecalibacterium prausnitzii, Roseburia
+faecis, Blautia obeum, Gemmiger formicilis and Clostridium celatum showed
+decreased abundance in patients with blood in their stools. Notably, we found
+multiple taxa that were reported in previous studies linking microbiome
+composition and diseases.
+CONCLUSIONS: We show that, in the absence of disease, blood in the stools has a
+major influence on the composition of the microbiome. Our data suggest that blood
+itself should be taken into consideration when investigating the microbiome
+signatures of intestinal diseases.
+
+DOI: 10.1186/s12866-020-01724-8 
+PMCID: PMC7055051
+PMID: 32126968 
+

@@ -1,0 +1,46 @@
+
+1. Microb Genom. 2020 May;6(5). doi: 10.1099/mgen.0.000372. Epub 2020 May 4.
+
+Identification of integrative and conjugative elements in pathogenic and
+commensal Neisseriaceae species via genomic distributions of DNA uptake sequence 
+dialects.
+
+Hughes-Games A(1)(2), Roberts AP(3), Davis SA(4), Hill DJ(2).
+
+Author information: 
+(1)Bristol Centre for Functional Nanomaterials, HH Wills Physics Laboratory,
+University of Bristol, Bristol, UK.
+(2)School of Cellular and Molecular Medicine, University of Bristol, Bristol, UK.
+(3)Centre for Drugs and Diagnostics, Department of Tropical Disease Biology,
+Liverpool School of Tropical Medicine, Liverpool, UK.
+(4)School of Chemistry, University of Bristol, Bristol, UK.
+
+Mobile genetic elements (MGEs) are key factors responsible for dissemination of
+virulence determinants and antimicrobial-resistance genes amongst pathogenic
+bacteria. Conjugative MGEs are notable for their high gene loads donated per
+transfer event, broad host ranges and phylogenetic ubiquity amongst prokaryotes, 
+with the subclass of chromosomally inserted integrative and conjugative elements 
+(ICEs) being particularly abundant. The focus on a small number of model systems 
+has biased the study of ICEs towards those conferring readily selectable
+phenotypes to host cells, whereas the identification and characterization of
+integrated cryptic elements remains challenging. Even though antimicrobial
+resistance and horizontally acquired virulence genes are major factors
+aggravating neisserial infection, conjugative MGEs of Neisseria gonorrhoeae and
+Neisseria meningitidis remain poorly characterized. Using a phenotype-independent
+approach based on atypical distributions of DNA uptake sequences (DUSs) in MGEs
+relative to the chromosomal background, we have identified two groups of
+chromosomally integrated conjugative elements in Neisseria: one found almost
+exclusively in pathogenic species possibly deriving from the genus Kingella, the 
+other belonging to a group of Neisseria mucosa-like commensals. The former
+element appears to enable transfer of traditionally gonococcal-specific loci such
+as the virulence-associated toxin-antitoxin system fitAB to N. meningitidis
+chromosomes, whilst the circular form of the latter possesses a unique attachment
+site (attP) sequence seemingly adapted to exploit DUS motifs as chromosomal
+integration sites. In addition to validating the use of DUS distributions in
+Neisseriaceae MGE identification, the >170 identified ICE sequences provide a
+valuable resource for future studies of ICE evolution and host adaptation.
+
+DOI: 10.1099/mgen.0.000372 
+PMCID: PMC7371117
+PMID: 32375974 
+

@@ -1,0 +1,62 @@
+
+1. mSystems. 2020 Aug 4;5(4). pii: e00457-20. doi: 10.1128/mSystems.00457-20.
+
+Formula Diet Alters the Ileal Metagenome and Transcriptome at Weaning and during 
+the Postweaning Period in a Porcine Model.
+
+Elolimy AA(1)(2), Washam C(3), Byrum S(3), Chen C(4), Dawson H(4), Bowlin
+AK(1)(2), Randolph CE(5), Saraf MK(1)(2), Yeruva L(6)(2)(3)(5).
+
+Author information: 
+(1)Arkansas Children's Nutrition Center, Little Rock, Arkansas, USA.
+(2)Department of Pediatrics, University of Arkansas for Medical Sciences, Little 
+Rock, Arkansas, USA.
+(3)Department of Biochemistry and Molecular Biology, University of Arkansas for
+Medical Sciences, Little Rock, Arkansas, USA.
+(4)Diet, Genomics & Immunology Laboratory, USDA-ARS Beltsville Human Nutrition
+Research Center, Beltsville, Maryland, USA.
+(5)Arkansas Children's Research Institute, Little Rock, Arkansas, USA.
+(6)Arkansas Children's Nutrition Center, Little Rock, Arkansas, USA
+vlyeruva@uams.edu.
+
+Exclusive breastfeeding impacts the intestinal microbiome and is associated with 
+a better immune function than is seen with milk formula (MF) feeding in infants
+and yet with mechanisms poorly defined. The porcine model was used to evaluate
+the impact of MF on ileum microbial communities and gene expression relative to
+human milk (HM)-fed piglets. Fifty-two Dutch Landrace male piglets were fed an
+isocaloric diet of either HM (n = 26) or MF (n = 26) from day 2 through day 21 of
+age and weaned to a solid diet until day 51. Eleven piglets from each group were 
+euthanized at day 21, while the remaining piglets (HM, n = 15; MF, n = 15) were
+euthanized at day 51 to collect ileal epithelium (EP) scrapings and ileal (IL)
+tissues. The epithelial mucosa was subjected to shotgun metagenome sequencing,
+and EP and IL tissues were used for transcriptome analysis. On day 21,
+transcriptome data revealed that the levels of pathways involved in inflammation 
+and apoptosis were significantly higher in MF piglets than in HM piglets, whereas
+the levels of tight junctions and pathogen detection systems were lower in MF
+piglets than in HM piglets. The MF impacts on the small intestine were maintained
+over the postweaning period (day 51) as indicated by higher levels of Dialister
+invisus bacteria and higher levels of expression of genes associated with
+inflammation and apoptosis pathways relative to HM group. The current study
+demonstrated that MF might impact local intestinal inflammation, apoptosis, and
+tight junctions and might suppress pathogen recognition in the small intestine
+compared with HM.IMPORTANCE Exclusive human milk (HM) breastfeeding for the first
+6 months of age in infants is recommended to improve health outcomes during early
+life and beyond. When women are unable to provide sufficient HM, milk formula
+(MF) is often recommended as a complementary or alternative source of nutrition. 
+Previous studies in piglets demonstrated that MF alters the gut microbiome and
+induces inflammatory cytokine production. The links between MF feeding, gut
+microbiome, and inflammation status are unclear due to challenges associated with
+the collection of intestinal samples from human infants. The current report
+provides the first insight into MF-microbiome-inflammation connections in the
+small intestine compared with HM feeding using a porcine model. The present
+results showed that, compared with HM, MF might impact immune function through
+the induction of ileal inflammation, apoptosis, and tight junction disruptions
+and likely compromised immune defense against pathogen detection in the small
+intestine relative to piglets that were fed HM.
+
+Copyright © 2020 Elolimy et al.
+
+DOI: 10.1128/mSystems.00457-20 
+PMCID: PMC7406227
+PMID: 32753508 
+

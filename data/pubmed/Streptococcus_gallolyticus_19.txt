@@ -1,0 +1,43 @@
+
+1. J Med Microbiol. 2020 Apr;69(4):605-616. doi: 10.1099/jmm.0.001170.
+
+Purification and characterization of nisin P produced by a strain of
+Streptococcus gallolyticus.
+
+Aldarhami A(1)(2), Felek A(3)(1), Sharma V(1), Upton M(1).
+
+Author information: 
+(1)Faculty of Health: Medicine, Dentistry and Human Sciences. University of
+Plymouth, Plymouth, UK.
+(2)Clinical Laboratory Sciences Department, Turabah University College, Taif
+University, Turabah, Saudi Arabia.
+(3)Present address: National Institute for Biological Standards and Control,
+Potters Bar, UK.
+
+Introduction. Against the backdrop of increasing resistance to conventional
+antibiotics, bacteriocins represent an attractive alternative, given their potent
+activity, novel modes of action and perceived lack of issues with resistance.Aim.
+In this study, the nature of the antibacterial activity of a clinical isolate of 
+Streptococcus gallolyticus was investigated.Methods. Optimization of the
+production of an inhibitor from strain AB39 was performed using different broth
+media and supplements. Purification was carried out using size exclusion, ion
+exchange and HPLC. Gel diffusion agar overlay, MS/MS, de novo peptide sequencing 
+and genome mining were used in a proteogenomics approach to facilitate
+identification of the genetic basis for production of the inhibitor.Results.
+Strain AB39 was identified as representing Streptococcus gallolyticus subsp.
+pasteurianus and the successful production and purification of the AB39 peptide, 
+named nisin P, with a mass of 3133.78 Da, was achieved using BHI broth with 10 % 
+serum. Nisin P showed antibacterial activity towards clinical isolates of
+drug-resistant bacteria, including methicillin-resistant Staphylococcus aureus,
+vancomycin-resistant Enterococcus and penicillin-resistant Streptococcus
+pneumoniae. In addition, the peptide exhibited significant stability towards high
+temperature, wide pH and certain proteolytic enzymes and displayed very low
+toxicity towards sheep red blood cells and Vero cells.Conclusion. To the best of 
+our knowledge, this study represents the first production, purification and
+characterization of nisin P. Further study of nisin P may reveal its potential
+for treating or preventing infections caused by antibiotic-resistant
+Gram-positive bacteria, or those evading vaccination regimens.
+
+DOI: 10.1099/jmm.0.001170 
+PMID: 32125268  [Indexed for MEDLINE]
+

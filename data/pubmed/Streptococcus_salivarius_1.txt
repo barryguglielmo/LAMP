@@ -1,0 +1,34 @@
+
+1. Future Microbiol. 2020 Aug;15:1157-1171. doi: 10.2217/fmb-2020-0036.
+
+Problems with identifying and distinguishing salivary streptococci: a
+multi-instrumental approach.
+
+Złoch M(1), Rodzik A(2), Pauter K(2), Szultka-Młyńska M(2), Rogowska A(1)(2),
+Kupczyk W(3), Pomastowski P(1), Buszewski B(1)(2).
+
+Author information: 
+(1)Centre for Modern Interdisciplinary Technologies, Nicolaus Copernicus
+University in Torun, Wileńska 4, 87-100 Torun, Poland.
+(2)Department of Environmental Chemistry & Bioanalytics, Faculty of Chemistry,
+Nicolaus Copernicus University in Torun, Gagarina 7, 87-100 Torun, Poland.
+(3)Department of General, Gastroenterological & Oncological Surgery, Faculty of
+Medicine, Collegium Medicum, Nicolaus Copernicus University in Torun, Gagarina 7,
+87-100 Torun, Poland.
+
+Aim: The purpose of this study was to create an alternative protocol for the
+DNA-based identification of salivary microbiota focused on the distinguishing of 
+Streptococcus species. Materials & methods: Salivary bacteria were identified
+using 16S rDNA sequencing and proteins and lipids profiling using MALDI-TOF/MS as
+well as FTIR analysis. Results: Most of the isolates belonged to streptococci
+- mostly the salivarious group indistinguishable by the molecular technique. In
+turn, MALDI analysis allowed for their fast and reliable classification. Although
+FTIR spectroscopy demonstrated the correct species classification, the spectra
+interpretation was time consuming and complicated. Conclusion: MALDI-TOF/MS
+demonstrated the biggest effectiveness in the identification and discrimination
+between the salivary streptococci, which could be easily incorporated in the
+workflow of routine microbiological laboratories.
+
+DOI: 10.2217/fmb-2020-0036 
+PMID: 32954849 
+

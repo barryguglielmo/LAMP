@@ -1,0 +1,46 @@
+
+1. Appl Biochem Biotechnol. 2020 Oct;192(2):455-465. doi:
+10.1007/s12010-020-03325-7. Epub 2020 May 11.
+
+Bioconversion of 5-Hydroxymethylfurfural (HMF) to 2,5-Furandicarboxylic Acid
+(FDCA) by a Native Obligate Aerobic Bacterium, Acinetobacter calcoaceticus NL14.
+
+Sheng Y(1)(2)(3), Tan X(4), Zhou X(1)(2)(3), Xu Y(5)(6)(7).
+
+Author information: 
+(1)Key Laboratory of Forestry Genetics & Biotechnology (Nanjing Forestry
+University), Ministry of Education, Nanjing, 210037, People's Republic of China.
+(2)Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest
+Resources, College of Chemical Engineering, Nanjing Forestry University, Nanjing,
+210037, People's Republic of China.
+(3)Jiangsu Province Key Laboratory of Green Biomass-based Fuels and Chemicals,
+Nanjing, 210037, People's Republic of China.
+(4)Department of Chemical and Environmental Engineering, University of
+Cincinnati, Cincinnati, OH, 45221, USA.
+(5)Key Laboratory of Forestry Genetics & Biotechnology (Nanjing Forestry
+University), Ministry of Education, Nanjing, 210037, People's Republic of China. 
+xuyong@njfu.edu.cn.
+(6)Jiangsu Co-Innovation Center of Efficient Processing and Utilization of Forest
+Resources, College of Chemical Engineering, Nanjing Forestry University, Nanjing,
+210037, People's Republic of China. xuyong@njfu.edu.cn.
+(7)Jiangsu Province Key Laboratory of Green Biomass-based Fuels and Chemicals,
+Nanjing, 210037, People's Republic of China. xuyong@njfu.edu.cn.
+
+2,5-Furandicarboxylic acid (FDCA), one of the top biomass-based platform
+chemical, is highly promising for resins and polymers, and it can be prepared
+from the bio-oxidation of hydroxymethyl furfural (HMF), which can be obtained
+mainly from lignocellulosic glucose that has a high production potential from not
+edible biomass.A native strain, Acinetobacter calcoaceticus NL14, that could
+convert HMF into FDCA is used for combining degradation and fermentation by
+consolidated bioprocessing (CBP). In this study, it was observed that the initial
+HMF concentration and pH neutralizer played important roles in the bioconversion 
+of HMF, 5 g/L of HMF could be converted by 100% within 48 h with 0.5 g/L sodium
+carbonate (Na2CO3) with the production of 0.31 g/L FDCA. Extra glucose and
+hydrogen peroxide (H2O2) addition could further promote the production of FDCA to
+0.54 g/L with 100% HMF conversion and a higher conversion rate. This report could
+provide a potential native bacterium for furan chemicals bioconversion and
+bioelimination, especially for FDCA bioproduction.
+
+DOI: 10.1007/s12010-020-03325-7 
+PMID: 32394319 
+

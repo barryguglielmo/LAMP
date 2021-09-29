@@ -1,0 +1,51 @@
+
+1. Pathogens. 2020 Aug 22;9(9). pii: E687. doi: 10.3390/pathogens9090687.
+
+First Genomic Characterization of blaVIM-1 and mcr-9-Coharbouring Enterobacter
+hormaechei Isolated from Food of Animal Origin.
+
+Sadek M(1)(2), Nariya H(3), Shimamoto T(3), Kayama S(4), Yu L(4), Hisatsune J(4),
+Sugai M(4), Nordmann P(1)(5)(6)(7), Poirel L(1)(5)(6), Shimamoto T(3).
+
+Author information: 
+(1)Medical and Molecular Microbiology, Faculty of Science and Medicine,
+University of Fribourg, 1700 Fribourg, Switzerland.
+(2)Food Hygiene and Control, Faculty of Veterinary Medicine, South Valley
+University, Qena 83511, Egypt.
+(3)Laboratory of Food Microbiology and Hygiene, Graduate School of Integrated
+Sciences for Life, Hiroshima University, Higashi-Hiroshima 739-8528, Japan.
+(4)Antimicrobial Resistance Research Center, National Institute of Infectious
+Diseases, Higashimurayama 189-0002, Japan.
+(5)Swiss National Reference Center for Emerging Antibiotic Resistance (NARA),
+University of Fribourg, 1700 Fribourg, Switzerland.
+(6)INSERM European Unit (IAME, France), University of Fribourg, 1700 Fribourg,
+Switzerland.
+(7)Institute for Microbiology, University of Lausanne and University Hospital
+Centre, 1011 Lausanne, Switzerland.
+
+We describe here the complete genome sequence of an Enterobacter hormaechei ST279
+coharbouring blaVIM-1 and mcr-9 recovered from uncooked beef patty in June 2017, 
+Egypt. The tested isolate was resistant to carbapenem but susceptible to colistin
+(minimum inhibitory concentration (MIC), 0.5 μg/mL). The antimicrobial
+susceptibility profile and conjugation experiments were performed. The entire
+genome was sequenced by the Illumina MiniSeq and Oxford Nanopore methods. The
+blaVIM-1 and mcr-9 genes are carried on the same IncHI2/pMLST1 plasmid, pMS37a
+(Size of 270.9 kb). The mcr-9 gene was located within the physical boundaries
+demarcated by two insertion elements IS903 (upstream) and IS1 (downstream) but
+did not possess the downstream regulatory genes (qseC/qseB) which regulate the
+expression of mcr-9. Therefore, the mcr-9 might be silently disseminated among
+carbapenem-resistant Enterobacterales. In addition to blaVIM-1 and mcr-9, plasmid
+pMS37a harbored various antibiotic resistance genes including aac(6')-Il,
+ΔaadA22, aac(6')-Ib-cr, sul1, dfrA1 and tetA. To the best of our knowledge, this 
+is the first report of a blaVIM-1 and mcr-9-coharbouring E. hormaechei isolate of
+food origin worldwide. The identification of a multidrug-resistant VIM-1 and
+mcr-9 positive Enterobacter hormaechei isolate from food is worrisome as retail
+meat and meat products could serve as a vehicle for these MDR bacteria, which
+could be transferred between animals and humans through the food chain. It
+further highlights that Enterobacterales co-producing MCR and carbapenemases
+being found in the food chain indeed correspond to a One-Health issue,
+highlighting the need for serious steps to prevent their further dissemination.
+
+DOI: 10.3390/pathogens9090687 
+PMID: 32842587 
+

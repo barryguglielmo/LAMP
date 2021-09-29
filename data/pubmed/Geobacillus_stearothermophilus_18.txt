@@ -1,0 +1,47 @@
+
+1. Am J Infect Control. 2020 Oct;48(10):1200-1203. doi: 10.1016/j.ajic.2020.01.019. 
+Epub 2020 Mar 12.
+
+Aerosol disinfection of bacterial spores by peracetic acid on antibacterial
+surfaces and other technical materials.
+
+Horn H(1), Niemeyer B(2).
+
+Author information: 
+(1)Process Engineering, Faculty of Mechanical Engineering,
+Helmut-Schmidt-University, University of the Bundeswehr Hamburg, Hamburg,
+Germany. Electronic address: helena.horn@hsu-hh.de.
+(2)Process Engineering, Faculty of Mechanical Engineering,
+Helmut-Schmidt-University, University of the Bundeswehr Hamburg, Hamburg,
+Germany.
+
+BACKGROUND: The effectiveness of aerosol disinfection processes based on
+peracetic acid (PAA) might differ depending on the surface targeted. Especially
+antibacterial, oligodynamic materials have to be regarded as they could cause
+elevated decomposition of PAA.
+AIM: This study aimed on the determination of differences in disinfection
+effectiveness using PAA caused by the treated material.
+METHODS: Aerosol disinfection of Geobacillus stearothermophilus spores was
+performed on the antibacterial, oligodynamic materials copper and brass in
+comparison to stainless steel and aluminium as well as polyvinylchloride, wood,
+and ceramics. Additionally, the influence of the materials on the decomposition
+reaction of PAA was evaluated.
+RESULTS: For aluminium and stainless steel as well as ceramics and
+polyvinylchloride, a disinfection of 106 spores of Geobacillus stearothermophilus
+on 40 cm² was obtained by the employment of 60 mL aerosolized disinfectant/m³ on 
+laboratory scale (0.5 m³). For the application on the oligodynamic materials
+copper and brass an over 30% higher amount of disinfectant was necessary to
+achieve significant disinfection results, than for the other material surfaces.
+In contrast to aluminium and stainless steel, copper and brass caused elevated
+decomposition of PAA what seems to be the reason for the lowered disinfection
+effectiveness.
+CONCLUSIONS: Applying aerosol disinfection processes, in addition to parameters
+such as room size and geometry, the treated materials have to be considered when 
+determining the necessary amount of disinfectant.
+
+Copyright © 2020 Association for Professionals in Infection Control and
+Epidemiology, Inc. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajic.2020.01.019 
+PMID: 32173125 
+

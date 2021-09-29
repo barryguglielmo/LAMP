@@ -1,0 +1,38 @@
+
+1. Cells. 2020 Feb 21;9(2). pii: E494. doi: 10.3390/cells9020494.
+
+TLR2 Signaling Pathway Combats Streptococcus uberis Infection by Inducing
+Mitochondrial Reactive Oxygen Species Production.
+
+Li B(1), Wan Z(1), Wang Z(1), Zuo J(1)(2), Xu Y(1), Han X(2), Phouthapane V(3),
+Miao J(1).
+
+Author information: 
+(1)MOE Joint International Research Laboratory of Animal Health and Food Safty,
+Key Laboratory of Animal Physiology and Biochemistry, College of Veterinary
+Medicine, Nanjing Agricultural University, Nanjing 210095, China.
+(2)Shanghai Veterinary Research Institute, Chinese Academy of Agricultural
+Sciences, Shanghai 200241, China.
+(3)Biotechnology and Ecology Institute, Ministry of Science and Technology
+(MOST), Vientiane 22797, Lao PDR.
+
+Mastitis caused by Streptococcus uberis (S. uberis) is a common and
+difficult-to-cure clinical disease in dairy cows. In this study, the role of
+Toll-like receptors (TLRs) and TLR-mediated signaling pathways in mastitis caused
+by S. uberis was investigated using mouse models and mammary epithelial cells
+(MECs). We used S. uberis to infect mammary glands of wild type, TLR2-/- and
+TLR4-/- mice and quantified the adaptor molecules in TLR signaling pathways,
+proinflammatory cytokines, tissue damage, and bacterial count. When compared with
+TLR4 deficiency, TLR2 deficiency induced more severe pathological changes through
+myeloid differentiation primary response 88 (MyD88)-mediated signaling pathways
+during S. uberis infection. In MECs, TLR2 detected S. uberis infection and
+induced mitochondrial reactive oxygen species (mROS) to assist host in
+controlling the secretion of inflammatory factors and the elimination of
+intracellular S. uberis. Our results demonstrated that TLR2-mediated mROS has a
+significant effect on S. uberis-induced host defense responses in mammary glands 
+as well as in MECs.
+
+DOI: 10.3390/cells9020494 
+PMCID: PMC7072855
+PMID: 32098158 
+

@@ -1,0 +1,41 @@
+
+1. Angew Chem Int Ed Engl. 2020 Jun 13. doi: 10.1002/anie.202003236. [Epub ahead of 
+print]
+
+Dynamics of Ligand Binding to a Rigid Glycosidase.
+
+Ben Bdira F(1), Waudby CA(2), Volkov AN(3)(4), Schröder SP(5), Ab E(6), Codée
+JDC(5), Overkleeft HS(5), Aerts JMFG(7), van Ingen H(1)(8), Ubbink M(1).
+
+Author information: 
+(1)Department of Macromolecular Biochemistry, Leiden Institute of Chemistry,
+Einsteinweg 55, 2333 CC, Leiden, The Netherlands.
+(2)Institute of Structural and Molecular Biology, University College London and
+Birkbeck College, London, WC1E 6BT, UK.
+(3)VIB-VUB Center for Structural Biology, Pleinlaan 2, 1050, Brussels, Belgium.
+(4)Jean Jeener NMR Centre, VUB, Pleinlaan 2, 1050, Brussels, Belgium.
+(5)Department of Bio-organic Synthesis, Leiden Institute of Chemistry,
+Einsteinweg 55, 2333 CC, Leiden, The Netherlands.
+(6)ZoBio BV, BioPartner 2 building, J.H. Oortweg 19, 2333 CH, Leiden, The
+Netherlands.
+(7)Department of Medical Biochemistry, Leiden Institute of Chemistry, Einsteinweg
+55, 2333 CC, Leiden, The Netherlands.
+(8)Present address: NMR Spectroscopy Research Group, Bijvoet Center for
+Biomolecular Research, Utrecht University, Padualaan 8, 3584 CH, Utrecht, The
+Netherlands.
+
+The single-domain GH11 glycosidase from Bacillus circulans (BCX) is involved in
+the degradation of hemicellulose, which is one of the most abundant renewable
+biomaterials in nature. We demonstrate that BCX in solution undergoes minimal
+structural changes during turnover. NMR spectroscopy results show that the rigid 
+protein matrix provides a frame for fast substrate binding in multiple
+conformations, accompanied by slow conversion, which is attributed to an
+enzyme-induced substrate distortion. A model is proposed in which the rigid
+enzyme takes advantage of substrate flexibility to induce a conformation that
+facilitates the acyl formation step of the hydrolysis reaction.
+
+© 2020 The Authors. Published by Wiley-VCH GmbH.
+
+DOI: 10.1002/anie.202003236 
+PMID: 32533782 
+

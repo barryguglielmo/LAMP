@@ -1,0 +1,52 @@
+
+1. Ann Transl Med. 2020 Feb;8(4):100. doi: 10.21037/atm.2019.12.115.
+
+Research of the potential biomarkers in vaginal microbiome for persistent
+high-risk human papillomavirus infection.
+
+Chao X(1), Sun T(1), Wang S(1), Tan X(1), Fan Q(1), Shi H(1), Zhu L(1), Lang
+J(1).
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Peking Union Medical College Hospital
+(PUMCH), Chinese Academy of Medical Sciences (CAMS) & Peking Union Medical
+College, Beijing 100730, China.
+
+Background: Vaginal dysbiosis may paly role in increased risk of human
+papillomavirus (HPV) infection. This study aims to explore potential vaginal
+microbiome biomarkers, to predict persistent high-risk HPV (HR-HPV) infection and
+cervical intraepithelial neoplasia (CIN) 2+, and to find novel treatment targets 
+for HPV infection.
+Methods: A total of 329 women aged 20-69 were enrolled in this study, including
+59 with cervical persistent HPV infection irrespective of cytology status (group 
+A), 139 with incident HPV infection (group B), and 131 without HPV infection
+(group C). Vaginal microbiome composition was determined by sequencing of
+barcoded 16S rDNA gene fragments (V4) on Illumina HiSeq2500.
+Results: In genus level, the relative abundance of Prevotella, Porphyromonas and 
+Enterococcus were significantly the highest in group A, while Bacteroides was the
+lowest in group A. In species level, we found the relative abundance of
+Prevotella bivia, Enterococcus durans and Porphyromonas uenonis were the highest 
+in group A while Lactobacillus iners was significantly under-represented in group
+A than the other two, and Prevotella disiens was over-represented in group C than
+the other two groups.
+Conclusions: A predominance of Prevotella bivia, Enterococcus durans and
+Porphyromonas uenonis with a concomitant paucity of Lactobacillus iners and
+Prevotella disiens may relate to HPV persistent infection. Furthermore, the
+relative abundance of Prevotella bivia being over 0.05554% with Prevotella
+disiens being under 0.02196% may be a good predictor for appearance CIN2+ for
+those diagnosed with the other 12 types of HR-HPV persistent infection but normal
+ThinPrep cytology test (TCT) testing. The exact molecular mechanism of the
+vaginal microbiome in the course of persistent HR-HPV infection and cervical
+neoplasia should be further explored. Future research should include intervention
+of vaginal microbiome composition to reverse the course of HR-HPV infection and
+the natural history of cervical neoplasia.
+
+2020 Annals of Translational Medicine. All rights reserved.
+
+DOI: 10.21037/atm.2019.12.115 
+PMCID: PMC7049000
+PMID: 32175393 
+
+Conflict of interest statement: Conflicts of Interest: The authors have no
+conflicts of interest to declare.
+

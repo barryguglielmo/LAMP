@@ -1,0 +1,34 @@
+
+1. Microorganisms. 2020 Sep 9;8(9). pii: E1379. doi: 10.3390/microorganisms8091379.
+
+The Toothbrush Microbiome: Impact of User Age, Period of Use and Bristle Material
+on the Microbial Communities of Toothbrushes.
+
+Zinn MK(1), Schages L(1), Bockmühl D(1).
+
+Author information: 
+(1)Faculty of Life Sciences, Rhine-Waal University of Applied Sciences, 47533
+Kleve, Germany.
+
+Toothbrushes play a central role in oral hygiene and must be considered one of
+the most common articles of daily use. We analysed the bacterial colonization of 
+used toothbrushes by next generation sequencing (NGS) and by cultivation on
+different media. Furthermore, we determined the occurrence of antibiotic
+resistance genes (ARGs) and the impact of different bristle materials on
+microbial growth and survival. NGS data revealed that Enterobacteriaceae,
+Micrococcaceae, Actinomycetaceae, and Streptococcaceae comprise major parts of
+the toothbrush microbiome. The composition of the microbiome differed depending
+on the period of use or user age. While higher fractions of Actinomycetales,
+Lactobacillales, and Enterobacterales were found after shorter periods,
+Micrococcales dominated on both toothbrushes used for more than four weeks and on
+toothbrushes of older users, while in-vitro tests revealed increasing counts of
+Micrococcus on all bristle materials as well. Compared to other environments, we 
+found a rather low frequency of ARGs. We determined bacterial counts between 1.42
+× 106 and 1.19 × 107 cfu/toothbrush on used toothbrushes and no significant
+effect of different bristles materials on bacterial survival or growth. Our study
+illustrates that toothbrushes harbor various microorganisms and that both period 
+of use and user age might affect the microbial composition.
+
+DOI: 10.3390/microorganisms8091379 
+PMID: 32916797 
+

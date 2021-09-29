@@ -1,0 +1,74 @@
+
+1. J Autoimmun. 2020 Feb;107:102360. doi: 10.1016/j.jaut.2019.102360. Epub 2019 Dec 
+2.
+
+Metagenomic profiling of the pro-inflammatory gut microbiota in ankylosing
+spondylitis.
+
+Zhou C(1), Zhao H(2), Xiao XY(1), Chen BD(1), Guo RJ(2), Wang Q(2), Chen H(3),
+Zhao LD(1), Zhang CC(2), Jiao YH(1), Ju YM(2), Yang HX(3), Fei YY(3), Wang L(3), 
+Shen M(3), Li H(4), Wang XH(5), Lu X(6), Yang B(6), Liu JJ(3), Li J(3), Peng
+LY(3), Zheng WJ(3), Zhang CY(3), Zhou JX(3), Wu QJ(3), Yang YJ(3), Su JM(3), Shi 
+Q(3), Wu D(3), Zhang W(3), Zhang FC(3), Jia HJ(2), Liu DP(7), Jie ZY(8), Zhang
+X(9).
+
+Author information: 
+(1)Department of Rheumatology and Clinical Immunology, Peking Union Medical
+College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical
+College, The Ministry of Education Key Laboratory, Beijing, 100730, China;
+Clinical Immunology Centre, Medical Epigenetics Research Centre, Chinese Academy 
+of Medical Sciences and Peking Union Medical College, Beijing, 100730, China.
+(2)BGI-Shenzhen, Shenzhen, 518083, China.
+(3)Department of Rheumatology and Clinical Immunology, Peking Union Medical
+College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical
+College, The Ministry of Education Key Laboratory, Beijing, 100730, China.
+(4)Department of Immunology and Rheumatology, Huaian No.1 People's Hospital,
+Nanjing Medical University, Huaian, Jiangsu, 223300, China.
+(5)Department of Rheumatology, Anyang District Hospital, Anyang, Henan, 455002,
+China.
+(6)Department of Orthopedics, Peking Union Medical College Hospital, Chinese
+Academy of Medical Sciences and Peking Union Medical College, Beijing, 100730,
+China.
+(7)State Key Laboratory of Medical Molecular Biology, Department of Biochemistry 
+and Molecular Biology, Institute of Basic Medical Sciences, Chinese Academy of
+Medical Sciences & Peking Union Medical College, Beijing, 100005, China.
+(8)BGI-Shenzhen, Shenzhen, 518083, China. Electronic address:
+jiezhuye@genomics.cn.
+(9)Department of Rheumatology and Clinical Immunology, Peking Union Medical
+College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical
+College, The Ministry of Education Key Laboratory, Beijing, 100730, China;
+Clinical Immunology Centre, Medical Epigenetics Research Centre, Chinese Academy 
+of Medical Sciences and Peking Union Medical College, Beijing, 100730, China.
+Electronic address: zxpumch2003@sina.com.
+
+OBJECTIVE: Gut dysbiosis has been reported implicated in ankylosing spondylitis
+(AS), a common chronic inflammatory disease mainly affects sacroiliac joints and 
+spine. Utilizing deep sequencing on the feces of untreated AS patients, our study
+aimed at providing an in-depth understanding of AS gut microbiota.
+METHODS: We analyzed the fecal metagenome of 85 untreated AS patients and 62
+healthy controls by metagenomic shotgun sequencing, and 23 post-treatment feces
+of those AS patients were collected for comparison. Comparative analyses among
+different cohorts including AS, rheumatoid arthritis and Behcet's disease were
+performed to uncover some common signatures related to inflammatory arthritis.
+Molecular mimicry of a microbial peptide was also demonstrated by ELISpot assay.
+RESULTS: We identified AS-enriched species including Bacteroides coprophilus,
+Parabacteroides distasonis, Eubacterium siraeum, Acidaminococcus fermentans and
+Prevotella copri. Pathway analysis revealed increased oxidative phosphorylation, 
+lipopolysaccharide biosynthesis and glycosaminoglycan degradation in AS gut
+microbiota. Microbial signatures of AS gut selected by random forest model showed
+high distinguishing accuracy. Some common signatures related to autoimmunity,
+such as Bacteroides fragilis and type III secretion system (T3SS), were also
+found. Finally, in vitro experiments demonstrated an increased amount of IFN-γ
+producing cells triggered by a bacterial peptide of AS-enriched species,
+mimicking type II collagen.
+CONCLUSIONS: These findings collectively indicate that gut microbiota was
+perturbed in untreated AS patients with diagnostic potential, and some
+AS-enriched species might be triggers of autoimmunity by molecular mimicry.
+Additionally, different inflammatory arthritis shared some common microbial
+signatures.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jaut.2019.102360 
+PMID: 31806420 
+

@@ -1,0 +1,37 @@
+
+1. Metabolites. 2020 Apr 17;10(4). pii: E156. doi: 10.3390/metabo10040156.
+
+Towards Predicting Gut Microbial Metabolism: Integration of Flux Balance Analysis
+and Untargeted Metabolomics.
+
+Kuang E(1), Marney M(2), Cuevas D(3), Edwards RA(2)(3)(4), Forsberg EM(1)(2)(3).
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, San Diego State University, San
+Diego, CA 92182, USA.
+(2)Department of Biomedical Informatics, San Diego State University, San Diego,
+CA 92182, USA.
+(3)Viral Information Institute, San Diego State University, San Diego, CA 92182, 
+USA.
+(4)Department of Biology, San Diego State University, San Diego, CA 92182, USA.
+
+Genomics-based metabolic models of microorganisms currently have no easy way of
+corroborating predicted biomass with the actual metabolites being produced. This 
+study uses untargeted mass spectrometry-based metabolomics data to generate a
+list of accurate metabolite masses produced from the human commensal bacteria
+Citrobacter sedlakii grown in the presence of a simple glucose carbon source. A
+genomics-based flux balance metabolic model of this bacterium was previously
+generated using the bioinformatics tool PyFBA and phenotypic growth curve data.
+The high-resolution mass spectrometry data obtained through timed metabolic
+extractions were integrated with the predicted metabolic model through a program 
+called MS_FBA. This program correlated untargeted metabolomics features from C.
+sedlakii with 218 of the 699 metabolites in the model using an exact mass match, 
+with 51 metabolites further confirmed using predicted isotope ratios. Over 1400
+metabolites were matched with additional metabolites in the ModelSEED database,
+indicating the need to incorporate more specific gene annotations into the
+predictive model through metabolomics-guided gap filling.
+
+DOI: 10.3390/metabo10040156 
+PMCID: PMC7240944
+PMID: 32316423 
+

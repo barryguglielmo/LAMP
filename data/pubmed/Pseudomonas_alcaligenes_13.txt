@@ -1,0 +1,35 @@
+
+1. Indoor Air. 2020 May;30(3):500-511. doi: 10.1111/ina.12642. Epub 2020 Jan 22.
+
+Disinfection by in-duct ultraviolet lamps under different environmental
+conditions in turbulent airflows.
+
+Zhang H(1), Jin X(1), Nunayon SS(1), Lai ACK(1).
+
+Author information: 
+(1)Department of Architecture and Civil Engineering, City University of Hong
+Kong, Kowloon, Hong Kong, China.
+
+In this study, we investigated the effects of environmental factors such as
+airflow velocity, relative humidity (RH), temperature, and duct reflectance on
+the performance of in-duct UVC lamps. Staphylococcus epidermidis, Pseudomonas
+alcaligenes, and Escherichia coli were used as the test bacteria. The UV
+irradiance, disinfection efficacy, and UV susceptibility constant (Z value) of
+the test bacteria were experimentally determined. The results showed that the UV 
+disinfection efficacy decreased as the airflow velocity and RH increased. The
+maximum UV disinfection efficacy was obtained at temperature of 20-21°C compared 
+with the performance at lower temperature (15-16°C) and higher temperature
+(25-26°C). When the RH increased from 50% to 90%, the Z values of airborne
+bacteria reduced by 40%, 60%, and 38% for S epidermidis, P alcaligenes, and E
+coli, respectively. Besides, susceptibility constants had lower values under both
+cooling temperature (15-16°C) and heating temperature (25-26°C) compared with
+that under the temperature of 20-21°C. It was observed that S epidermidis
+generally had the highest resistance to the UV irradiance. The results also
+showed that the UV disinfection efficacy was lower in the duct with a black
+surface than in the clean duct.
+
+© 2020 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/ina.12642 
+PMID: 31903622  [Indexed for MEDLINE]
+

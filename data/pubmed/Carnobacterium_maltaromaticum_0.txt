@@ -1,0 +1,45 @@
+
+1. Eng Life Sci. 2020 Feb 18;20(5-6):148-159. doi: 10.1002/elsc.201900151.
+eCollection 2020 Apr.
+
+Engineering Pseudomonas putida KT2440 for the production of isobutanol.
+
+Nitschel R(1), Ankenbauer A(1), Welsch I(1), Wirth NT(1), Massner C(1), Ahmad
+N(2), McColm S(2), Borges F(3), Fotheringham I(2), Takors R(1), Blombach B(1)(4).
+
+Author information: 
+(1)Institute of Biochemical Engineering University of Stuttgart Stuttgart
+Germany.
+(2)Ingenza Ltd., Roslin Innovation Centre Charnock Bradley Building, Easter Bush 
+Campus Roslin UK.
+(3)Laboratoire d'Ingénierie des Biomolécules (LIBio) Université de Lorraine Nancy
+France.
+(4)Microbial Biotechnology, Campus Straubing for Biotechnology and Sustainability
+Technical University of Munich Straubing Germany.
+
+We engineered P. putida for the production of isobutanol from glucose by
+preventing product and precursor degradation, inactivation of the soluble
+transhydrogenase SthA, overexpression of the native ilvC and ilvD genes, and
+implementation of the feedback-resistant acetolactate synthase AlsS from Bacillus
+subtilis, ketoacid decarboxylase KivD from Lactococcus lactis, and aldehyde
+dehydrogenase YqhD from Escherichia coli. The resulting strain P. putida Iso2
+produced isobutanol with a substrate specific product yield (Y Iso/S) of 22 ±
+2 mg per gram of glucose under aerobic conditions. Furthermore, we identified the
+ketoacid decarboxylase from Carnobacterium maltaromaticum to be a suitable
+alternative for isobutanol production, since replacement of kivD from L. lactis
+in P. putida Iso2 by the variant from C. maltaromaticum yielded an identical
+YIso/S. Although P. putida is regarded as obligate aerobic, we show that under
+oxygen deprivation conditions this bacterium does not grow, remains metabolically
+active, and that engineered producer strains secreted isobutanol also under the
+non-growing conditions.
+
+© 2019 The Authors. Engineering in Life Sciences published by WILEY‐VCH Verlag
+GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/elsc.201900151 
+PMCID: PMC7447888
+PMID: 32874178 
+
+Conflict of interest statement: The authors have declared no conflict of
+interest.
+

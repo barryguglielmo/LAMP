@@ -1,0 +1,45 @@
+
+1. PeerJ. 2020 Jun 16;8:e9376. doi: 10.7717/peerj.9376. eCollection 2020.
+
+Diversity and spoilage potential of microbial communities associated with grape
+sour rot in eastern coastal areas of China.
+
+Gao H(#)(1)(2), Yin X(#)(1), Jiang X(1), Shi H(1), Yang Y(1), Wang C(1), Dai
+X(1)(2), Chen Y(1), Wu X(1).
+
+Author information: 
+(1)Shandong Academy of Grape, Jinan, China.
+(2)Shandong Academy of Agricultural Sciences, Institute of Plant Protection,
+Jinan, China.
+(#)Contributed equally
+
+As a polymicrobial disease, sour rot decreases grape berry yield and wine
+quality. The diversity of microbial communities in sour rot-affected grapes
+depends on the cultivation site, but the microbes responsible for this disease in
+eastern coastal China, has not been reported. To identify the microbes that cause
+sour grape rot in this important grape-producing region, the diversity and
+abundance of bacteria and fungi were assessed by metagenomic analysis and
+cultivation-dependent techniques. A total of 15 bacteria and 10 fungi were
+isolated from sour rot-affected grapes. High-throughput sequencing of
+PCR-amplicons generated from diseased grapes revealed 1343 OTUs of bacteria and
+1038 OTUs of fungi. Proteobacteria and Firmicutes were dominant phyla among the
+19 bacterial phyla identified. Ascomycota was the dominant fungal phylum and the 
+fungi Issatchenkia terricola, Colletotrichum viniferum, Hanseniaspora vineae,
+Saprochaete gigas, and Candida diversa represented the vast majority ofmicrobial 
+species associated with sour rot-affected grapes. An in vitro spoilage assay
+confirmed that four of the isolated bacteria strains (two Cronobacter species,
+Serratia marcescens and Lysinibacillus fusiformis) and five of the isolated fungi
+strains (three Aspergillus species, Alternaria tenuissima, and Fusarium
+proliferatum) spoiled grapes. These microorganisms, which appear responsible for 
+spoiling grapes in eastern China, appear closely related to microbes that cause
+this plant disease around the world.
+
+©2020 Gao et al.
+
+DOI: 10.7717/peerj.9376 
+PMCID: PMC7315622
+PMID: 32607286 
+
+Conflict of interest statement: The authors declare there are no competing
+interests.
+

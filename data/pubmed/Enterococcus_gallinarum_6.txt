@@ -1,0 +1,59 @@
+
+1. BMC Vet Res. 2020 Jan 8;16(1):7. doi: 10.1186/s12917-019-2200-6.
+
+Prevalence, antibiotic susceptibility and virulence factors of Enterococcus
+species in racing pigeons (Columba livia f. domestica).
+
+Dolka B(1), Czopowicz M(2), Chrobak-Chmiel D(3), Ledwoń A(4), Szeleszczuk P(4).
+
+Author information: 
+(1)Department of Pathology and Veterinary Diagnostics, Institute of Veterinary
+Medicine, Warsaw University of Life Sciences - SGGW, Nowoursynowska 159c St,
+02-776, Warsaw, Poland. beata_dolka@sggw.pl.
+(2)Division of Veterinary Epidemiology and Economics, Institute of Veterinary
+Medicine, Warsaw University of Life Sciences-SGGW, Nowoursynowska 159c St,
+02-776, Warsaw, Poland.
+(3)Department of Preclinical Sciences, Institute of Veterinary Medicine, Warsaw
+University of Life Sciences-SGGW, Ciszewskiego 8 St, 02-786, Warsaw, Poland.
+(4)Department of Pathology and Veterinary Diagnostics, Institute of Veterinary
+Medicine, Warsaw University of Life Sciences - SGGW, Nowoursynowska 159c St,
+02-776, Warsaw, Poland.
+
+BACKGROUND: This study was aimed to investigate the intestinal microbiota in
+racing pigeons with regard to Enterococcus species distribution, virulence
+factors and antibiotic susceptibility. Three methods (API, Multiplex sodA-PCR,
+16S rRNA sequencing) were compared for Enterococcus species identification.
+Cloacal samples from 179 apparently healthy pigeons of 13 different flocks were
+tested.
+RESULTS: Multiplex sodA-PCR and 16S rRNA gene sequencing showed almost perfect
+agreement in Enterococcus species identification. Isolates were identified as
+Enterococcus columbae (34.5%), Enterococcus hirae (20.7%), Enterococcus faecalis 
+(11.7%), Enterococcus faecium (11.7%), Enterococcus gallinarum (9%), Enterococcus
+mundtii (4.8%), Enterococcus casseliflavus (3.4%), Enterococcus cecorum (2.1%),
+Enterococcus durans (2.1%). More Enterococcus species were found after the race
+season than before. The study showed differences between Enterococcus species in 
+relation to 68.8% (22/32) biochemical parameters. Six out of seven virulence
+genes were detected: gelE (43.5%), asa1 (42.1%), efaA (30.3%), ace (30.3%), cylA 
+(27.6%), and esp (9%). None of the isolates harboured hyl gene. Overall 15.2% of 
+Enterococcus isolates produced gelatinase, but 66.7% gelE genes were silent.
+Enterococcus faecalis showed the most often efaA, ace and gelatinase activity
+than other enterococcal species. Nearly all isolates (93.1%) were resistant to at
+least one antibiotic. The most frequent resistance was to enrofloxacin (80%),
+doxycycline with teicoplanin (73.1%), erythromycin (49.7%). The study revealed
+significant differences between some enterococcal species in the antibiotic
+susceptibility to different antibiotics. Enterococcus columbae and E. cecorum
+showed significantly more frequent resistance to chloramphenicol than other
+enterococci. The presence of VRE (19.3%), HLGR (2.8%) and no LRE were found.
+Overall 30.3% of isolates were positive for vancomycin resistance genes, where
+vanC1 (E. gallinarum), vanC2-C3 (E. hirae, E. casseliflavus), vanB (E. columbae) 
+predominated.
+CONCLUSIONS: We conclude, that intestinal microbiota in racing pigeons is
+composed by 9 different Enterococcus species. Given that racing pigeons are kept 
+in close contact with humans and backyard animals, combined with their
+long-distance flight abilities, they can serve as potential source of virulent
+and antibiotic resistant Enterococcus spp. in the environment.
+
+DOI: 10.1186/s12917-019-2200-6 
+PMCID: PMC6947970
+PMID: 31910839  [Indexed for MEDLINE]
+

@@ -1,0 +1,58 @@
+
+1. Mol Biol Rep. 2020 Aug;47(8):6165-6177. doi: 10.1007/s11033-020-05690-2. Epub
+2020 Aug 4.
+
+Assessment of the tolerance to Fe, Cu and Zn of a sulfidogenic sludge generated
+from hydrothermal vents sediments as a basis for its application on metals
+precipitation.
+
+Jan-Roblero J(1), Cancino-Díaz JC(2), García-Mena J(3), Nirmalkar K(3),
+Zárate-Segura P(4), Ordaz A(5), Guerrero-Barajas C(6).
+
+Author information: 
+(1)Laboratorio de Biotecnología Ambiental, Departamento de Microbiología, Escuela
+Nacional de Ciencias Biológicas, Instituto Politécnico Nacional, Prolongación de 
+Carpio y Plan de Ayala S/N, Col. Santo Tomás, 11340, Mexico City, Mexico.
+jjanr@ipn.mx.
+(2)Laboratorio de Inmunomicrobiología, Departamento de Microbiología, Escuela
+Nacional de Ciencias Biológicas, Instituto Politécnico Nacional, Prolongación de 
+Carpio y Plan de Ayala S/N, Col. Santo Tomás, 11340, Mexico City, Mexico.
+(3)Departamento de Genética y Biología Molecular, CINVESTAV-IPN, Av. IPN # 2508, 
+Col. Zacatenco, 07360, Mexico City, Mexico.
+(4)Laboratorio de Medicina Traslacional, Escuela Superior de Medicina. Instituto 
+Politécnico Nacional, Plan de San Luis Y Díaz Mirón S/N, Col. Santo Tomas, 11340,
+Mexico City, Mexico.
+(5)Laboratorio de Bioingeniería Ambiental, Unidad de Estudios Superiores de
+Tultitlán, Universidad Mexiquense del Bicentenario, Av. Ex-Hacienda de Portales
+S/N, Villa Esmeralda, Tultitlán de Mariano Escobedo, 54910, Mexico City, Estado
+de México, Mexico.
+(6)Laboratorio de Biotecnología Ambiental, Departamento de Bioprocesos, Unidad
+Profesional Interdisciplinaria de Biotecnología, Instituto Politécnico Nacional, 
+Av. Acueducto S/N Col. Barrio la Laguna Ticomán, 07340, Mexico City, Mexico.
+cguerrerob@ipn.mx.
+
+A paramour factor limiting metal-microorganism interaction is the metal ion
+concentration, and the metal precipitation efficiency driven by microorganisms is
+sensitive to metal ion concentration. The aim of the work was to determine the
+tolerance of the sulfidogenic sludge generated from hydrothermal vent sediments
+at microcosms level to different concentrations of Fe, Cu and Zn and the effect
+on the microbial community. In this study the chemical oxygen demand (COD)
+removal, sulfate-reducing activity (SRA) determination, inhibition effect through
+the determination of IC50, and the characterization of the bacterial community´s 
+diversity were conducted. The IC50 on SRA was 34 and 81 mg/L for Zn and Cu,
+respectively. The highest sulfide concentration (H2S mg/L) and % of sulfate
+reduction obtained were: 511.30 ± 0.75 and 35.34 ± 0.51 for 50 mg/L of Fe,
+482.48 ± 6.40 and 33.35 ± 0.44 for 10 mg/L of Cu, 442.26 ± 17.1 and 30.57 ± 1.18 
+for 10 mg/L of Zn, respectively. The COD removal rates were of 71.81 ± 7.6,
+53.92 ± 1.07 and 57.68 ± 10.2 mg COD/ L d for Fe (50 mg/L), Cu (40 mg/L) and Zn
+(20 mg/L), respectively. Proteobacteria, Firmicutes, Chloroflexi and
+Actinobacteria were common phyla to four microcosms (stabilized sulfidogenic and 
+added with Fe, Cu or Zn). The dsrA genes of Desulfotomaculum acetoxidans,
+Desulfotomaculum gibsoniae and Desulfovibrio desulfuricans were expressed in the 
+microcosms supporting the SRA results. The consortia could be explored for
+ex-situ bioremediation purposes in the presence of the metals tested in this
+work.
+
+DOI: 10.1007/s11033-020-05690-2 
+PMID: 32749633 
+

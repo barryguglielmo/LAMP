@@ -1,0 +1,38 @@
+
+1. Int J Pept Res Ther. 2020 May 18:1-11. doi: 10.1007/s10989-020-10077-9. [Epub
+ahead of print]
+
+In-Silico Proteomic Exploratory Quest: Crafting T-Cell Epitope Vaccine Against
+Whipple's Disease.
+
+Joshi A(1), Kaushik V(1).
+
+Author information: 
+(1)Domain of Bioinformatics, School of Bio-Engineering and Bio-Sciences, Lovely
+Professional University, Punjab, India.
+
+Whipple's disease is one of the rare maladies in terms of spread but very fatal
+one as it is linked with many disorders (like Gastroenteritis, Endocarditis
+etc.). Also, current regimens include less effective drugs which require long
+duration follows up. This exploratory study was conducted to commence the
+investigation for crafting multi target epitope vaccine against its bacterial
+pathogen Tropheryma whipplei. The modern bioinformatics tools like VaxiJen,
+NETMHCII PAN 3.2, ALLERGEN-FP, PATCH-DOCK, TOXIC-PRED, MHCPRED and IEDB were
+deployed, which makes the study more intensive in analyzing proteome of T.
+whipplei as these methods are based on robust result generating statistical
+algorithms ANN, HMM, and ML. This Immuno-Informatics approach leads us in the
+prediction of two epitopes: VLMVSAFPL and IRYLAALHL interacting with 4 and 6 HLA 
+DRB1 alleles of MHC Class II respectively. VLMVSAFPL epitope is a part of
+DNA-directed RNA polymerase subunit beta, and IRYLAALHL epitope is a part of
+membranous protein insertase YidC of this bacterium. Molecular-Docking and
+Molecular-Simulation analysis yields the perfect interaction based on Atomic
+contact energy, binding scores along with RMSD values (0 to 1.5 Ǻ) in selection
+zone. The IEDB (Immune epitope database) population coverage analysis exhibits
+satisfactory relevance with respect to world population.
+
+© Springer Nature B.V. 2020.
+
+DOI: 10.1007/s10989-020-10077-9 
+PMCID: PMC7233679
+PMID: 32427224 
+

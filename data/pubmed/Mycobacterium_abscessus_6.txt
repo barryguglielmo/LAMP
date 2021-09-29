@@ -1,0 +1,56 @@
+
+1. PLoS One. 2020 Sep 25;15(9):e0239146. doi: 10.1371/journal.pone.0239146.
+eCollection 2020.
+
+Evaluation of the GenoType NTM-DR assay performance for the identification and
+molecular detection of antibiotic resistance in Mycobacterium abscessus complex.
+
+Bouzinbi N(1)(2), Marcy O(3), Bertolotti T(1), Chiron R(4), Bemer P(5),
+Pestel-Caron M(6), Peuchant O(7), Guet-Revillet H(8), Fangous MS(9), Héry-Arnaud 
+G(9), Ouedraogo AS(10), Bañuls AL(1)(2)(11), Godreuil S(1)(2)(11).
+
+Author information: 
+(1)Laboratoire de Bactériologie, Centre Hospitalier Universitaire de Montpellier,
+Montpellier, France.
+(2)MIVEGEC, IRD, CNRS, Université de Montpellier, Montpellier, France.
+(3)Bordeaux Population Health Centre U1219, Université de Bordeaux, Bordeaux,
+France.
+(4)Cystic Fibrosis Centre, University Hospital of Montpellier, Montpellier,
+France.
+(5)Bacteriology-Hospital Hygiene Department, University Hospital of Nantes,
+Nantes University, Nantes, France.
+(6)UNIROUEN, GRAM EA2656, Rouen University Hospital, Normandie Université, Rouen,
+France.
+(7)USC EA 3671 Infections Humaines à Mycoplasmes et à Chlamydiae, Univ. Bordeaux,
+Bordeaux, France.
+(8)CHU de Toulouse, Laboratoire de Bactériologie-Hygiène, Institut Fédératif de
+Biologie, Toulouse, France.
+(9)Bacteriology-Hospital Hygiene Department, University Hospital of Brest, Brest 
+University, Brest, France.
+(10)Laboratory Department, Sourô Sanou University Hospital, Bobo-Dioulasso,
+Burkina Faso.
+(11)LMI Drug Resistance in South East Asia "DRISA", IRD Montpellier, Montpellier,
+France.
+
+The first objective of this study was to determine the GenoType NTM-DR assay
+performance for subspecies identification in Mycobacterium abscessus complex
+isolates. The second objective was to evaluate the GenoType NTM-DR assay ability 
+to detect clarithromycin and amikacin resistance in M. abscessus complex isolates
+compared with drug susceptibility testing (DST) and PCR sequencing of the
+erm(41), rrl and rrs genes. The concordance between the GenoType NTM-DR and MLST 
+results concerning subspecies identification was 100%. The wild type and mutated 
+alleles of the rrl and rrs genes were detected by the GenoType NTM-DR assay and
+PCR sequencing with 100% (115/115) agreement. Similarly, 100% concordance between
+GenoType NTM-DR and DST was observed for clarithromycin and amikacin testing.
+Sensitivity for the detection of clarithromycin and amikacin resistance was 100%.
+The GenoType NTM-DR assay provides a robust and complementary tool to the gold
+standard methods (MLST and broth microdilution) for subspecies identification and
+drug resistance detection.
+
+DOI: 10.1371/journal.pone.0239146 
+PMCID: PMC7518582
+PMID: 32976521 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

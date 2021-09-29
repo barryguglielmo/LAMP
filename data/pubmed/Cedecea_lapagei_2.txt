@@ -1,0 +1,39 @@
+
+1. Clin Lab. 2020 Mar 1;66(3). doi: 10.7754/Clin.Lab.2019.190727.
+
+Molecular Analysis of the Antibiotic Resistant NDM-1 Gene in Clinical Isolates of
+Enterobacteriaceae.
+
+Ejaz H, Alzahrani B, Hamad MFS, Abosalif KOA, Junaid K, Abdalla AE, Elamir MYM,
+Aljaber NJ, Hamam SSM, Younas S.
+
+BACKGROUND: The emergence of the New Dehli metallo-beta-lactamase (NDM) gene in
+Enterobacteriaceae is responsible for multidrug resistance responsible for severe
+infections and serious morbidity in patients. Our study aimed to define the
+molecular characteristics and antibiogram of the NDM-1 producing
+Enterobacteriaceae.
+METHODS: We isolated 370 individual enterobacteria from the clinical specimens
+collected from the two tertiary hospitals in Sakaka, Saudi Arabia. Bacterial
+isolation was performed using standard microbiological techniques and the Phoenix
+and Microscan WalkAway Plus automated analyzers. Bacterial strains were
+characterized by phenotypic methods and PCR, and DNA sequencing was used for the 
+molecular characterization of NDM genes.
+RESULTS: The blaNDM gene was detected among the 68 members of the
+Enterobacteriaceae including a single case of rarely reported Cedecea lapagei. Of
+these 68, 43 isolates (63.2%) were blaNDM-1 and 25 (36.8%) were blaNDM variants. 
+A statistically significant relationship between the NDM-1 and Klebsiella
+pneumoniae (p = 0.004) was seen, and the relationship between the NDM variants
+was significantly associated with Citrobacter freundii (p = 0.02) and Escherichia
+coli (p = 0.03). The in vitro minimum inhibitory concentrations (MICs) of
+NDM-producing Enterobacteriaceae revealed a very high rate of antibiotic
+resistance against several groups of antibiotics. These bacterial strains were
+less resistant to two aminoglycosides, gentamicin (39; 57.3%) and amikacin (27;
+39.7%), and showed minimum resistance to tigecycline (25; 36.8%).
+CONCLUSIONS: The emergence of a large number of NDM-1 enterobacteria in our study
+identifies a substantial public concern, both within hospitals and the wider
+community, and leaves us a narrow choice of therapeutic options: the
+aminoglycosides, co-trimoxazole, and tigecycline.
+
+DOI: 10.7754/Clin.Lab.2019.190727 
+PMID: 32162864 
+

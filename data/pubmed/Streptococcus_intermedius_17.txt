@@ -1,0 +1,38 @@
+
+1. BMC Infect Dis. 2020 May 24;20(1):370. doi: 10.1186/s12879-020-05092-6.
+
+Precision diagnosis and therapy of a case of brain abscesses associated with
+asymptomatic pulmonary arteriovenous fistulas.
+
+Gao LY(1), Xu GR(2), Dai TJ(3).
+
+Author information: 
+(1)Department of Emergency Medicine and Chest Pain Center, Qilu Hospital of
+Shandong University, Jinan, 250012, Shandong Province, China.
+(2)Department of Neurology, Qilu Hospital of Shandong University, Jinan, 250012, 
+Shandong Province, China.
+(3)Department of Neurology, Qilu Hospital of Shandong University, Jinan, 250012, 
+Shandong Province, China. tingjundai@sdu.edu.cn.
+
+BACKGROUND: Brain abscesses, a severe infectious disease of the CNS, are usually 
+caused by a variety of different pathogens, which include Streptococcus
+intermedius (S. intermedius). Pulmonary arteriovenous fistulas (PAVFs),
+characterized by abnormal direct communication between pulmonary artery and vein,
+are a rare underlying cause of brain abscesses.
+CASE PRESENTATION: The patient was a previous healthy 55-year-old man who
+presented with 5 days of headache and fever. Cerebral magnetic resonance imaging 
+(MRI) suggested a brain abscess. Thoracic CT scan and angiography demonstrated
+PAVFs. Aiding by metagenomic next-generation sequencing (mNGS) of the
+cerebrospinal fluid (CSF) sample which identified S. intermedius as the causative
+pathogen, the patient was switched to the single therapy of large dose of
+penicillin G and was cured precisely and economically.
+CONCLUSIONS: It is an alternative way to perform mNGS to identify causative
+pathogens in patients with brain abscesses especially when the results of
+traditional bacterial culture were negative. Further thoracic CT or pulmonary
+angiography should also be undertaken to rule out PAVFs as the potential cause of
+brain abscess if the patient without any known premorbid history.
+
+DOI: 10.1186/s12879-020-05092-6 
+PMCID: PMC7247166
+PMID: 32448130  [Indexed for MEDLINE]
+

@@ -1,0 +1,45 @@
+
+1. EFSA J. 2020 Apr 29;18(4):e06091. doi: 10.2903/j.efsa.2020.6091. eCollection 2020
+Apr.
+
+The use of the so-called 'tubs' for transporting and storing fresh fishery
+products.
+
+EFSA Panel on Biological Hazards (BIOHAZ), Koutsoumanis K, Allende A,
+Alvarez-Ordóñez A, Bolton D, Chemaly M, Davies R, De Cesare A, Herman L, Hilbert 
+F, Lindqvist R, Nauta M, Peixe L, Ru G, Simmons M, Skandamis P, Suffredini E,
+Arason S, Bekaert K, García MR, Georgiadis M, Messens W, Mosbach-Schulz O,
+Bover-Cid S.
+
+On-land transport/storage of fresh fishery products (FFP) for up to 3 days in
+'tubs' of three-layered poly-ethylene filled with freshwater and ice was compared
+to the currently authorised practice (fish boxes of high-density poly-ethylene
+filled with ice). The impact on the survival and growth of biological hazards in 
+fish and the histamine production in fish species associated with a high amount
+of histidine was assessed. In different modelling scenarios, the FFP are stored
+on-board in freshwater or seawater/ice (in tubs) and once on-land they are
+'handled' (i.e. sorted or gutted and/or filleted) and transferred to either tubs 
+or boxes. The temperature of the FFP was assumed to be the most influential
+factor affecting relevant hazards. Under reasonably foreseeable 'abusive'
+scenarios and using a conservative modelling approach, the growth of the relevant
+hazards (i.e. Listeria monocytogenes, Aeromonas spp. and non-proteolytic
+Clostridium botulinum), is expected to be < 0.2 log10 units higher in tubs than
+in boxes after 3 days when the initial temperature of the fish is 0°C ('keeping' 
+process). Starting at 7°C ('cooling-keeping' process), the expected difference in
+the growth potential is higher (< 1 log10 for A. hydrophila and < 0.5 log10 for
+the other two hazards) due to the poorer cooling capacity of water and ice (tub) 
+compared with ice (box). The survival of relevant hazards is not or is negligibly
+impacted. Histamine formation due to growth of Morganella psychrotolerans under
+the 'keeping' or 'cooling-keeping' process can be up to 0.4 ppm and 1.5 ppm
+higher, respectively, in tubs as compared to boxes after 3 days, without reaching
+the legal limit of 100 ppm. The water uptake associated with the storage of the
+FFP in tubs (which may be up to 6%) does not make a relevant contribution to the 
+differences in microbial growth potential compared to boxes.
+
+© 2020 European Food Safety Authority. EFSA Journal published by John Wiley and
+Sons Ltd on behalf of European Food Safety Authority.
+
+DOI: 10.2903/j.efsa.2020.6091 
+PMCID: PMC7448070
+PMID: 32874299 
+

@@ -1,0 +1,47 @@
+
+1. Microbiome. 2020 Feb 24;8(1):25. doi: 10.1186/s40168-020-00800-5.
+
+Entomopathogenic nematode-associated microbiota: from monoxenic paradigm to
+pathobiome.
+
+Ogier JC(1), Pagès S(1), Frayssinet M(1), Gaudriault S(2).
+
+Author information: 
+(1)DGIMI, INRAe-Université de Montpellier, 34095, Montpellier, France.
+(2)DGIMI, INRAe-Université de Montpellier, 34095, Montpellier, France.
+sophie.gaudriault@umontpellier.fr.
+
+BACKGROUND: The holistic view of bacterial symbiosis, incorporating both host and
+microbial environment, constitutes a major conceptual shift in studies
+deciphering host-microbe interactions. Interactions between Steinernema
+entomopathogenic nematodes and their bacterial symbionts, Xenorhabdus, have long 
+been considered monoxenic two partner associations responsible for the killing of
+the insects and therefore widely used in insect pest biocontrol. We investigated 
+this "monoxenic paradigm" by profiling the microbiota of infective juveniles
+(IJs), the soil-dwelling form responsible for transmitting
+Steinernema-Xenorhabdus between insect hosts in the parasitic lifecycle.
+RESULTS: Multigenic metabarcoding (16S and rpoB markers) showed that the
+bacterial community associated with laboratory-reared IJs from Steinernema
+carpocapsae, S. feltiae, S. glaseri and S. weiseri species consisted of several
+Proteobacteria. The association with Xenorhabdus was never monoxenic. We showed
+that the laboratory-reared IJs of S. carpocapsae bore a bacterial community
+composed of the core symbiont (Xenorhabdus nematophila) together with a
+frequently associated microbiota (FAM) consisting of about a dozen of
+Proteobacteria (Pseudomonas, Stenotrophomonas, Alcaligenes, Achromobacter,
+Pseudochrobactrum, Ochrobactrum, Brevundimonas, Deftia, etc.). We validated this 
+set of bacteria by metabarcoding analysis on freshly sampled IJs from natural
+conditions. We isolated diverse bacterial taxa, validating the profile of the
+Steinernema FAM. We explored the functions of the FAM members potentially
+involved in the parasitic lifecycle of Steinernema. Two species, Pseudomonas
+protegens and P. chlororaphis, displayed entomopathogenic properties suggestive
+of a role in Steinernema virulence and membership of the Steinernema pathobiome.
+CONCLUSIONS: Our study validates a shift from monoxenic paradigm to pathobiome
+view in the case of the Steinernema ecology. The microbial communities of low
+complexity associated with EPNs will permit future microbiota manipulation
+experiments to decipher overall microbiota functioning in the infectious process 
+triggered by EPN in insects and, more generally, in EPN ecology.
+
+DOI: 10.1186/s40168-020-00800-5 
+PMCID: PMC7041241
+PMID: 32093774 
+

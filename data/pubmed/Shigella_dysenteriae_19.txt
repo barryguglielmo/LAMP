@@ -1,0 +1,41 @@
+
+1. Future Sci OA. 2020 Jan 29;6(4):FSO456. doi: 10.2144/fsoa-2019-0117.
+
+Differential gene expression profile of Shigella dysenteriae causing bacteremia
+in an immunocompromised individual.
+
+Muthuirulandi Sethuvel DP(1), Devanga Ragupathi NK(1), Ninan MM(1), Michael
+JS(1), Anandan S(1), Veeraraghavan B(1).
+
+Author information: 
+(1)Department of Clinical Microbiology, Christian Medical College, Vellore
+632004, India.
+
+Aim: Shigella species has varying levels of virulence gene expression with
+respect to different sites of infection. In this study, the differential gene
+expression of S. dysenteriae in response to its site of infection was analyzed by
+transcriptomics.
+Methods: This study includes four clinical Shigella isolates. Transcriptomics was
+done for the stool and blood samples of a single patient. Isolates were screened 
+for the presence of antimicrobial resistance genes.
+Results: The majority of genes involved in invasion were highly expressed in the 
+strain isolated from the primary site of infection. Additionally, antimicrobial
+resistance (dhfr1A, sulII, bla OXA. bla CTX-M-1 and qnrS) genes were identified.
+Conclusion: This study provides a concise view of the transcriptional expression 
+of clinical strains and provides a basis for future functional studies on
+Shigella spp.
+
+© 2020 Balaji Veeraraghavan.
+
+DOI: 10.2144/fsoa-2019-0117 
+PMCID: PMC7117556
+PMID: 32257369 
+
+Conflict of interest statement: Financial & competing interests disclosure The
+authors have no relevant affiliations or financial involvement with any
+organization or entity with a financial interest in or financial conflict with
+the subject matter or materials discussed in the manuscript. This includes
+employment, consultancies, honoraria, stock ownership or options, expert
+testimony, grants or patents received or pending, or royalties. No writing
+assistance was utilized in the production of this manuscript.
+

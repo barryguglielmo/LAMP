@@ -1,0 +1,44 @@
+
+1. Free Radic Res. 2020 Mar;54(2-3):150-161. doi: 10.1080/10715762.2020.1725499.
+Epub 2020 Feb 12.
+
+The discovery of antioxidants in marine microorganisms and their protective
+effects on the hepatic cells from chemical-induced oxidative stress.
+
+Tripathi VC(1), Horam S(1), Singh A(1), Lata M(1), Reddy TJ(2), Arockiaraj J(3), 
+Pasupuleti M(1).
+
+Author information: 
+(1)Microbiology Division, Council of Scientific and Industrial Research, Central 
+Drug Research Institute, Lucknow, India.
+(2)Council of Scientific and Industrial Research, Indian Institute of Chemical
+Technology, Hyderabad, India.
+(3)SRM Research Institute, SRM Institute of Science and Technology,
+Kattankulathur, India.
+
+The marine environment is emerging as a biodiversity resource for the discovery
+of natural molecules or chemical scaffolds with pharmaceutical activity. Marine
+microbes have a tremendous ability to sense and respond to their surroundings to 
+survive in a stressful environment by producing different molecules. As oxidative
+stress is directly or indirectly involved in various pathological conditions in
+humans, we believe that marine-derived antioxidant molecules will have a great
+prospect as a novel antioxidant molecule. We, in this work, explored the marine
+microbial resources from the Gulf of Mannar, Bay of Bengal, India.
+High-throughput screening of antioxidant molecule producing marine microbes has
+revealed that extract from Kocuria marina CDMP 10, can effectively reduce the
+DPPH free radical. Methanolic crude extract obtained by the freeze-thawing was
+fractionated and purified by using activity guided purification with the help of 
+reverse phase HPLC and analysed through UPLC-MS. Chemical analysis, as well as
+MS-spectra, indicated that marine bacteria K. marina CDMP 10 derived antioxidant 
+fraction contains the short peptides. The antioxidant activity of the three
+highly hydrophobic peptides, (Ser-Ser-Gln, Phe-Glu, Asp-Ile and Leu-Glu) was
+confirmed by in vitro as well as a cell-based assay. These small peptide
+molecules are noncytotoxic and can prevent the human cells from chemical-induced 
+oxidative stress. Ser-Ser-Gln peptide demonstrated a potent free radical
+scavenging activity in Hepatocellular carcinoma cell lines. This study suggests
+that these short peptides from K. marina CDMP 10 may serve as a potential
+pharmaceutical candidate with antioxidant activity.
+
+DOI: 10.1080/10715762.2020.1725499 
+PMID: 32013646 
+

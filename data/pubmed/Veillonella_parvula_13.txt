@@ -1,0 +1,51 @@
+
+1. Front Neurosci. 2020 Feb 18;14:127. doi: 10.3389/fnins.2020.00127. eCollection
+2020.
+
+Case-Control Study of the Effects of Gut Microbiota Composition on
+Neurotransmitter Metabolic Pathways in Children With Attention Deficit
+Hyperactivity Disorder.
+
+Wan L(1), Ge WR(2), Zhang S(1), Sun YL(1), Wang B(1), Yang G(1).
+
+Author information: 
+(1)The First Medical Center of the Chinese PLA General Hospital, Beijing, China.
+(2)Beijing Friendship Hospital, Capital Medical University, Beijing, China.
+
+Background: Attention-deficit/hyperactivity disorder (ADHD) is a neuropsychiatric
+condition that may be related to an imbalance of neural transmitters. The gut
+microbiota is the largest ecosystem in the human body, and the brain-gut axis
+theory proposes that the gut microbiome can affect brain function in multiple
+ways. The purpose of this study was to explore the gut microbiota in children
+with ADHD and assess the possible role of the gut microbiota in disease
+pathogenesis to open new avenues for ADHD treatment.
+Methods: A case-control design was used. We enrolled 17 children aged 6-12 years 
+with ADHD who were treated in the Pediatric Outpatient Department of the First
+Medical Center of the Chinese PLA General Hospital from January to June, 2019.
+Seventeen children aged 6-12 years were selected as the healthy control (HC)
+group. Fecal samples of cases and controls were analyzed by shotgun metagenomics 
+sequencing. Alpha diversity and the differences in the relative abundances of
+bacteria were compared between the two groups. Functional annotations were
+performed for the microbiota genes and metabolic pathways were analyzed using the
+Kyoto Encyclopedia of Genes and Genomes (KEGG).
+Results: There was no significant difference in the alpha diversity of gut
+microbiota between the ADHD and HC groups. Compared with HCs, Faecalibacterium
+and Veillonellaceae were significantly reduced in children with ADHD (P < 0.05), 
+Odoribacter and Enterococcus were significantly increased [linear discriminant
+analysis (LDA) > 2]. At the species level, Faecalibacterium prausnitzii,
+Lachnospiraceae bacterium, and Ruminococcus gnavus were significantly reduced in 
+the ADHD group (P < 0.05), while Bacteroides caccae, Odoribacter splanchnicus,
+Paraprevotella xylaniphila, and Veillonella parvula were increased (P < 0.05).
+Metabolic pathway analysis revealed significant between-group differences in the 
+metabolic pathways of neurotransmitters (e.g., serotonin and dopamine) (P <
+0.05).
+Conclusion: Composition differences of gut microbiota in subjects with ADHD may
+contribute to brain-gut axis alterations and affect neurotransmitter levels,
+which could contribute to ADHD symptoms.
+
+Copyright © 2020 Wan, Ge, Zhang, Sun, Wang and Yang.
+
+DOI: 10.3389/fnins.2020.00127 
+PMCID: PMC7040164
+PMID: 32132899 
+

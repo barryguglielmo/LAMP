@@ -1,0 +1,48 @@
+
+1. PLoS One. 2020 Sep 18;15(9):e0238178. doi: 10.1371/journal.pone.0238178.
+eCollection 2020.
+
+Dissecting the antibacterial activity of oxadiazolone-core derivatives against
+Mycobacterium abscessus.
+
+Madani A(1), Mallick I(1)(2), Guy A(3), Crauste C(3), Durand T(3), Fourquet P(4),
+Audebert S(4), Camoin L(4), Canaan S(1), Cavalier JF(1).
+
+Author information: 
+(1)Aix-Marseille Univ., CNRS, LISM, Institut de Microbiologie de la Méditerranée 
+FR3479, Marseille, France.
+(2)IHU Méditerranée Infection, Aix-Marseille Univ., Marseille, France.
+(3)IBMM, Univ Montpellier, CNRS, ENSCM, Montpellier, France.
+(4)Aix-Marseille Univ, INSERM, CNRS, Institut Paoli-Calmettes, CRCM, Marseille
+Protéomique, Marseille, France.
+
+Mycobacterium abscessus (M. abscessus), a rapidly growing mycobacterium, is an
+emergent opportunistic pathogen responsible for chronic bronchopulmonary
+infections in individuals with respiratory diseases such as cystic fibrosis. Most
+treatments of M. abscessus pulmonary infections are poorly effective due to the
+intrinsic resistance of this bacteria against a broad range of antibiotics
+including anti-tuberculosis agents. Consequently, the number of drugs that are
+efficient against M. abscessus remains limited. In this context, 19 oxadiazolone 
+(OX) derivatives have been investigated for their antibacterial activity against 
+both the rough (R) and smooth (S) variants of M. abscessus. Several OXs impair
+extracellular M. abscessus growth with moderated minimal inhibitory
+concentrations (MIC), or act intracellularly by inhibiting M. abscessus growth
+inside infected macrophages with MIC values similar to those of imipenem. Such
+promising results prompted us to identify the potential target enzymes of the
+sole extra and intracellular inhibitor of M. abscessus growth, i.e., compound
+iBpPPOX, via activity-based protein profiling combined with mass spectrometry.
+This approach led to the identification of 21 potential protein candidates being 
+mostly involved in M. abscessus lipid metabolism and/or in cell wall
+biosynthesis. Among them, the Ag85C protein has been confirmed as a vulnerable
+target of iBpPPOX. This study clearly emphasizes the potential of the OX
+derivatives to inhibit the extracellular and/or intracellular growth of M.
+abscessus by targeting various enzymes potentially involved in many physiological
+processes of this most drug-resistant mycobacterial species.
+
+DOI: 10.1371/journal.pone.0238178 
+PMCID: PMC7500638
+PMID: 32946441 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

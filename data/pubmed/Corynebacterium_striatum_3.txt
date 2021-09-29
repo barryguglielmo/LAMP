@@ -1,0 +1,54 @@
+
+1. Biochimie. 2020 Jul 10. pii: S0300-9084(20)30156-5. doi:
+10.1016/j.biochi.2020.07.002. [Epub ahead of print]
+
+Unveiling the biodiversity of lipid species in Corynebacteria- characterization
+of the uncommon lipid families in C. glutamicum and pathogen C. striatum by mass 
+spectrometry.
+
+Wang HJ(1), Tatituri RVV(2), Goldner NK(3), Dantas G(4), Hsu FF(5).
+
+Author information: 
+(1)Mass Spectrometry Resource, Division of Endocrinology, Diabetes, Metabolism,
+and Lipid Research, Department of Medicine, Washington University School of
+Medicine, St. Louis, MO 63110, USA; Department of Biological Sciences, National
+Sun Yat-Sen University, Kaohsiung, 80424, Taiwan.
+(2)Division of Rheumatology, Immunology, and Allergy, Brigham and Women's
+Hospital, Harvard Medical School, 60 Fenwood Road, Boston, MA, 02115, USA.
+(3)The Edison Family Center for Genome Sciences, Washington University School of 
+Medicine, St Louis, MO 63110, USA.
+(4)The Edison Family Center for Genome Sciences, Washington University School of 
+Medicine, St Louis, MO 63110, USA; Department of Molecular Microbiology,
+Washington University School of Medicine, St Louis, MO 63110, USA; Department of 
+Pathology and Immunology, Washington University School of Medicine, St. Louis,
+MO, 63110, USA; Department of Biomedical Engineering, Washington University in St
+Louis, St Louis, MO 63130, USA.
+(5)Mass Spectrometry Resource, Division of Endocrinology, Diabetes, Metabolism,
+and Lipid Research, Department of Medicine, Washington University School of
+Medicine, St. Louis, MO 63110, USA. Electronic address: fhsu@im.wustl.edu.
+
+Uncommon lipids in biotechnologically important Corynebacterium glutamicum and
+pathogen Corynebacterium striatum in genus Corynebacterium are isolated and
+identified by linear ion-trap multiple stage mass spectrometry (LIT MSn) with
+high resolution mass measurement. We redefined several lipid structures that were
+previously mis-assigned or not defined, including cytidine diphosphate
+diacylglycerol (CDP-DAG), glucuronosyl diacylglycerol (GlcA-DAG),
+(α-d-mannopyranosyl)-(1 → 4)-(α-D-glucuronyl diacyglycerol (Man-GlcA-DAG),
+1-mycolyl-2-acyl-phosphatidylglycerol (MA-PG), acyl trehalose monomycolate
+(acyl-TMM). We also report the structures of mycolic acid, phosphatidylglycerol, 
+phosphatidylinositol, cardiolipin, trehalose dimycolate lipids in which many
+isomeric structures are present. The LIT MSn approaches afford identification of 
+the functional group, the fatty acid substituents and their regiospecificity in
+the molecules, revealing the biodiversities of the lipid species in two
+Corynebacterium strains that have played very different and important roles in
+human nutrition and health.
+
+Copyright © 2020 Elsevier B.V. and Société Française de Biochimie et Biologie
+Moléculaire (SFBBM). All rights reserved.
+
+DOI: 10.1016/j.biochi.2020.07.002 
+PMID: 32659445 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no conflict of interest.
+

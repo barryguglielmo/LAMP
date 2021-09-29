@@ -1,0 +1,47 @@
+
+1. Psychopharmacology (Berl). 2020 Jul;237(7):2089-2101. doi:
+10.1007/s00213-020-05520-0. Epub 2020 Jun 3.
+
+Whole brain radiotherapy induces cognitive dysfunction in mice: key role of gut
+microbiota.
+
+Luo XX(1), Yang C(2), Zhan GF(3), Li S(3), Hua DY(3), Luo AL(3), Yuan XL(4).
+
+Author information: 
+(1)Department of Oncology, Tongji Hospital, Tongji Medical College, Huazhong
+University of Science and Technology, Wuhan, 30030, China.
+(2)Department of Anesthesiology and Perioperative Medicine, The First Affiliated 
+Hospital of Nanjing Medical University, Nanjing, China.
+(3)Department of Anesthesiology, Tongji Hospital, Tongji Medical College,
+Huazhong University of Science and Technology, Wuhan, China.
+(4)Department of Oncology, Tongji Hospital, Tongji Medical College, Huazhong
+University of Science and Technology, Wuhan, 30030, China. xlyuan1020@163.com.
+
+RATIONALE: Approximately 20-40% of patients with cancer will experience brain
+metastasis (BM), which has a great impact on the quality of life and survival
+rates of patients. Whole brain radiotherapy (WBRT) is an effective method for the
+treatment of BM. However, it cannot be ignored that WBRT might induce a series of
+neuropsychiatric side effects, including cognitive dysfunction (CD). Accumulating
+evidence shows that the gut microbiota and the gut-microbiota-brain axis may play
+a vital role in the pathogenesis of CD.
+OBJECTIVE AND METHODS: We adopted WBRT to mimic CD after a hierarchical cluster
+analysis of the Morris water maze test (MWMT) results. In addition, we observed
+the effects of antibiotics and prebiotics on WBRT-induced CD. Variations were
+revealed via the 16S rRNA sequencing analysis at different levels.
+RESULTS: The 16S rRNA sequencing analysis revealed an altered composition of gut 
+microbiota between CD and non-CD phenotypes. Furthermore, we observed a decrease 
+in the levels of Phylum-Bacteroidete, Class-Bacteroidia, and Order-Bacteroidales 
+in the CD group and an increase in the Genus-Allobaculum level after WBRT.
+Pretreatment with antibiotics caused a significant decrease in the level of
+Phylum-TM7 01, whereas an increase in the levels of Class-Gammaproteobacteria,
+Order-Enterobacteriales, and Species-Escherichia coli. After pretreatment with
+probiotics, the levels of Phylum-Cyanobacteria, Class-4C0d-2, and Order-YS2 were 
+decreased, while the levels of Family-Bacteroidaceae, Genus-Bacteroides, and
+Species-Parabacteroides distasonis were increased.
+CONCLUSIONS: WBRT-induced CD might be highly related to abnormal composition of
+gut microbiota. Strategies improving the composition of the gut microbiota may
+provide beneficial effects on CD in individuals exposed to WBRT.
+
+DOI: 10.1007/s00213-020-05520-0 
+PMID: 32494972 
+

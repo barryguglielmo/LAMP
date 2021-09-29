@@ -1,0 +1,51 @@
+
+1. J Clin Med. 2020 Apr 7;9(4). pii: E1044. doi: 10.3390/jcm9041044.
+
+Expansion of Rare and Harmful Lineages is Associated with Established Rheumatoid 
+Arthritis.
+
+Mena-Vázquez N(1)(2), Ruiz-Limón P(1)(3), Moreno-Indias I(1)(3)(4),
+Manrique-Arija S(1)(2), Tinahones FJ(1)(3)(4), Fernández-Nebro A(1)(2)(5).
+
+Author information: 
+(1)The Institute of Biomedical Research in Malaga (IBIMA), 29010 Málaga, Spain.
+(2)UGC Rheumatology, Regional University Hospital of Malaga, University of
+Malaga, 29009 Málaga, Spain.
+(3)Clinical Management Unit of Endocrinology and Nutrition, Hospital
+Universitario Virgen de la Victoria, 29010 Málaga, Spain.
+(4)CIBER Physiopathology of Obesity and Nutrition (CIBEROBN), Carlos III Health
+Institute, 28029 Madrid, Spain.
+(5)Department of Medicine, University of Malaga, 29010 Málaga, Spain.
+
+OBJECTIVES: To characterize the gut microbiota profile in rheumatoid arthritis
+(RA) patients and investigate its association with certain characteristics of RA.
+PATIENTS AND METHODS: A nested case-control cohort of 40 patients with RA and 40 
+sex-age matched controls was studied. Subjects with diabetes, with any other
+inflammatory disease, practicing extreme diets, taking antibiotics, probiotics or
+under any new treatment for at least three months prior to sampling were
+excluded. The microbiota composition was determined by 16S rRNA pyrosequencing
+and bioinformatics analysis by Quantitative Insights Into Microbial Ecology
+(QIIME). Other variables included clinical-laboratory variables and average
+Disease Activity Score 28 points during the follow-up period. Multiple linear
+regression models were constructed to investigate the possible risk factors for
+the microbiota.
+RESULTS: β-diversity data showed that patients tend to differ from healthy
+subjects according to their microbiota (p = 0.07). The analysis showed an
+increase in Collinsella aerofaciens, Sedimentibacter and Enterococcus genera in
+patients compared to controls, as well as a decrease in Dorea formicigenerans.
+Likewise, an increase in the activity of arginine deiminase was observed, which
+was found in approximately 90% of the RA genes of the genus Collinsela. The
+sequence number of Collinsella aerofaciens was independently associated with age 
+(B (95%CI), -0.347 (-21.6, -2.1)), high ACPA (0.323 (27.4-390.0)) and smoking
+(0.300 (8.8-256.4)) in RA patients. In addition, we observed decreases in
+Sarcina, 02d06 and Porphyromonas bacterial lineages.
+CONCLUSION: Patients with RA present dysbiosis, resulting from an abundance of
+certain bacterial lineages and a decrease in others. These alterations could
+influence the maintenance of autoimmunity to this disease.
+
+DOI: 10.3390/jcm9041044 
+PMCID: PMC7230781
+PMID: 32272752 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

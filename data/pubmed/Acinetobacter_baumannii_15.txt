@@ -1,0 +1,58 @@
+
+1. Infect Control Hosp Epidemiol. 2020 Sep 30:1-6. doi: 10.1017/ice.2020.450. [Epub 
+ahead of print]
+
+Epidemiology and clinical outcomes associated with extensively drug-resistant
+(XDR) Acinetobacter in US Veterans' Affairs (VA) medical centers.
+
+Fitzpatrick MA(1)(2), Suda KJ(3)(4), Poggensee L(1), Vivo A(1), Wirth M(1),
+Wilson G(1), Evans M(5), Evans CT(1)(5)(6)(7).
+
+Author information: 
+(1)Department of Veterans' Affairs, Center of Innovation for Complex Chronic
+Healthcare, Edward Hines, Jr VA Hospital, Hines, Illinois.
+(2)Department of Medicine, Division of Infectious Diseases, Loyola University
+Chicago Stritch School of Medicine, Maywood, Illinois.
+(3)Department of Veterans' Affairs, Center for Health Equity Research and
+Promotion, VA Pittsburgh Healthcare System, Pittsburgh, Pennsylvania.
+(4)Department of Medicine, Division of General Internal Medicine, University of
+Pittsburgh School of Medicine, Pittsburgh, Pennsylvania.
+(5)VHA MRSA/MDRO Program Office, the National Infectious Diseases Service,
+Patient Care Services, VA Central Office and the Lexington VA Medical Center,
+Lexington, Kentucky.
+(6)Department of Internal Medicine, University of Kentucky School of Medicine,
+Lexington, Kentucky.
+(7)Center for Health Services and Outcomes Research, Department of Preventive
+Medicine Institute for Public Health and Medicine, Northwestern University
+Feinberg School of Medicine, Chicago, Illinois.
+
+OBJECTIVE: Although infections caused by Acinetobacter baumannii are often
+healthcare-acquired, difficult to treat, and associated with high mortality,
+epidemiologic data for this organism are limited. We describe the epidemiology,
+clinical characteristics, and outcomes for patients with extensively
+drug-resistant Acinetobacter baumannii (XDRAB).
+DESIGN: Retrospective cohort study.
+SETTING: Department of Veterans' Affairs Medical Centers (VAMCs).
+PARTICIPANTS: Patients with XDRAB cultures (defined as nonsusceptible to at least
+1 agent in all but 2 or fewer classes) at VAMCs between 2012 and 2018.
+METHODS: Microbiology and clinical data was extracted from national VA datasets. 
+We used descriptive statistics to summarize patient characteristics and outcomes 
+and bivariate analyses to compare outcomes by culture source.
+RESULTS: Among 11,546 patients with 15,364 A. baumannii cultures, 408 (3.5%)
+patients had 667 (4.3%) XDRAB cultures. Patients with XDRAB were older (mean age,
+68 years; SD, 12.2) with median Charlson index 3 (interquartile range, 1-5).
+Respiratory specimens (n = 244, 36.6%) and urine samples (n = 187, 28%) were the 
+most frequent sources; the greatest proportion of patients were from the South (n
+= 162, 39.7%). Most patients had had antibiotic exposures (n = 362, 88.7%) and
+hospital or long-term care admissions (n = 331, 81%) in the prior 90 days.
+Polymyxins, tigecycline, and minocycline demonstrated the highest susceptibility.
+Also, 30-day mortality (n = 96, 23.5%) and 1-year mortality (n = 199, 48.8%) were
+high, with significantly higher mortality in patients with blood cultures.
+CONCLUSIONS: The proportion of Acinetobacter baumannii in the VA that was XDR was
+low, but treatment options are extremely limited and clinical outcomes were poor.
+Prevention of healthcare-associated XDRAB infection should remain a priority, and
+novel antibiotics for XDRAB treatment are urgently needed.
+
+DOI: 10.1017/ice.2020.450 
+PMID: 32993829 
+

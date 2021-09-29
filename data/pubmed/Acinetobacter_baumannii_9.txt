@@ -1,0 +1,54 @@
+
+1. Microorganisms. 2020 Sep 28;8(10). pii: E1489. doi:
+10.3390/microorganisms8101489.
+
+Elimination of Extracellular Adenosine Triphosphate for the Rapid Prediction of
+Quantitative Plate Counts in 24 h Time-Kill Studies against Carbapenem-Resistant 
+Gram-Negative Bacteria.
+
+Cai Y(1)(2), Ng JJ(2), Leck H(1), Teo JQ(1)(3), Goh JX(1), Lee W(1), Koh
+TH(4)(5), Tan TT(6)(7), Lim TP(1)(5)(7), Kwa AL(1)(2)(7)(8).
+
+Author information: 
+(1)Department of Pharmacy, Singapore General Hospital, Singapore 169608,
+Singapore.
+(2)Department of Pharmacy, National University of Singapore, Singapore 117559,
+Singapore.
+(3)Saw Swee Hock School of Public Health, National University of Singapore and
+National University of Health System, Singapore 117549, Singapore.
+(4)Department of Microbiology, Singapore General Hospital, Singapore 169856,
+Singapore.
+(5)SingHealth Duke-NUS Medicine Pathology Clinical Programme, Singapore 169608,
+Singapore.
+(6)Department of Infectious Diseases, Singapore General Hospital, Singapore
+169856, Singapore.
+(7)SingHealth Duke-NUS Medicine Academic Clinical Programme, Singapore 169856,
+Singapore.
+(8)Emerging Infectious Diseases, Duke-NUS Medical School, Singapore 169857,
+Singapore.
+
+Traditional in vitro time-kill studies (TKSs) require viable plating, which is
+tedious and time-consuming. We used ATP bioluminescence, with the removal of
+extracellular ATP (EC-ATP), as a surrogate for viable plating in TKSs against
+carbapenem-resistant Gram-negative bacteria (CR-GNB). Twenty-four-hour TKSs were 
+conducted using eight clinical CR-GNB (two Escherichia coli, two Klebsiella spp.,
+two Acinetobacter baumannii, two Pseudomonas aeruginosa) with multiple single and
+two-antibiotic combinations. ATP bioluminescence and viable counts were
+determined at each timepoint (0, 2, 4, 8, 24 h), with and without apyrase
+treatment. Correlation between ATP bioluminescence and viable counts was
+determined for apyrase-treated and non-apyrase-treated samples. Receiver operator
+characteristic curves were plotted to determine the optimal luminescence
+threshold to discriminate between inhibitory/non-inhibitory and
+bactericidal/non-bactericidal combinations, compared to viable counts. After
+treatment of bacteria with 2 U/mL apyrase for 15 min at 37 °C, correlation to
+viable counts was significantly higher compared to untreated samples (p < 0.01). 
+Predictive accuracies of ATP bioluminescence were also significantly higher for
+apyrase-treated samples in distinguishing inhibitory (p < 0.01) and bactericidal 
+(p = 0.03) combinations against CR-GNB compared to untreated samples, when all
+species were collectively analyzed. We found that ATP bioluminescence can
+potentially replace viable plating in TKS. Our assay also has applications in in 
+vitro and in vivo infection models.
+
+DOI: 10.3390/microorganisms8101489 
+PMID: 32998347 
+

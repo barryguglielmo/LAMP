@@ -1,0 +1,60 @@
+
+1. mSystems. 2020 Apr 28;5(2). pii: e00145-20. doi: 10.1128/mSystems.00145-20.
+
+Time Series Resolution of the Fish Necrobiome Reveals a Decomposer Succession
+Involving Toxigenic Bacterial Pathogens.
+
+Lobb B(1), Hodgson R(1), Lynch MDJ(1)(2), Mansfield MJ(1), Cheng J(1)(2), Charles
+TC(1)(2), Neufeld JD(1), Craig PM(3), Doxey AC(3).
+
+Author information: 
+(1)Department of Biology, University of Waterloo, Waterloo, Ontario, Canada.
+(2)Metagenom Bio Life Science Inc., Waterloo, Ontario, Canada.
+(3)Department of Biology, University of Waterloo, Waterloo, Ontario, Canada
+paul.craig@uwaterloo.ca acdoxey@uwaterloo.ca.
+
+Despite progress understanding microbial communities involved in terrestrial
+vertebrate decomposition, little is known about the microbial decomposition of
+aquatic vertebrates from a functional and environmental context. Here, we
+analyzed temporal changes in the "necrobiome" of rainbow darters, which are
+common North American fish that are sensitive indicators of water quality. By
+combining 16S rRNA gene and shotgun metagenomic sequence data from four time
+points, we studied the progression of decomposers from both taxonomic and
+functional perspectives. The 16S rRNA gene profiles revealed strong community
+succession, with early decomposition stages associated with Aeromonas and
+Clostridium taxa and later stages dominated by members of the Rikenellaceae
+(i.e., Alistipes/Acetobacteroides genera). These results were reproducible and
+independent of environmental perturbation, given that exposure to wastewater
+treatment plant effluent did not substantially influence the necrobiome
+composition of fish or the associated water sample microbiota. Metagenomic
+analysis revealed significant changes throughout decomposition in degradation
+pathways for amino acids, carbohydrates/glycans, and other compounds, in addition
+to putrefaction pathways for production of putrescine, cadaverine, and indole.
+Binning of contigs confirmed a predominance of Aeromonas genome assemblies,
+including those from novel strains related to the pathogen Aeromonas veronii
+These bins of Aeromonas genes also encoded known hemolysin toxins (e.g.,
+aerolysin) that were particularly abundant early in the process, potentially
+contributing to host cell lysis during decomposition. Overall, our results
+demonstrate that wild-caught fish have a reproducible decomposer succession and
+that the fish necrobiome serves as a potential source of putative pathogens and
+toxigenic bacteria.IMPORTANCE The microbial decomposition of animal tissues is an
+important ecological process that impacts nutrient cycling in natural
+environments. We studied the microbial decomposition of a common North American
+fish (rainbow darters) over four time points, combining 16S rRNA gene and shotgun
+metagenomic sequence data to obtain both taxonomic and functional perspectives.
+Our data revealed a strong community succession that was reproduced across
+different fish and environments. Decomposition time point was the main driver of 
+community composition and functional potential; fish environmental origin
+(upstream or downstream of a wastewater treatment plant) had a secondary effect. 
+We also identified strains related to the putative pathogen Aeromonas veronii as 
+dominant members of the decomposition community. These bacteria peaked early in
+decomposition and coincided with the metagenomic abundance of hemolytic toxin
+genes. Our work reveals a strong decomposer succession in wild-caught fish,
+providing functional and taxonomic insights into the vertebrate necrobiome.
+
+Copyright © 2020 Lobb et al.
+
+DOI: 10.1128/mSystems.00145-20 
+PMCID: PMC7190384
+PMID: 32345738 
+

@@ -1,0 +1,68 @@
+
+1. Ann Rheum Dis. 2020 Sep 21. pii: annrheumdis-2020-217589. doi:
+10.1136/annrheumdis-2020-217589. [Epub ahead of print]
+
+Circulating microbial small RNAs are altered in patients with rheumatoid
+arthritis.
+
+Ormseth MJ(1)(2), Wu Q(3), Zhao S(3), Allen RM(3), Solus J(4), Sheng Q(4), Guo
+Y(5), Ye F(4), Ramirez-Solano M(4), Bridges SL(6), Curtis JR(7), Vickers K(4),
+Stein CM(3).
+
+Author information: 
+(1)Medicine, Vanderbilt University Medical Center, Nashville, Tennessee, USA
+michelle.ormseth@vumc.org.
+(2)Research & Development, VA Tennessee Valley Healthcare System Nashville
+Campus, Nashville, Tennessee, USA.
+(3)Medicine, Vanderbilt University Medical Center, Nashville, Tennessee, USA.
+(4)Research & Development, Vanderbilt University Medical Center, Nashville,
+Tennessee, USA.
+(5)Research & Development, University of New Mexico, Albuquerque, New Mexico,
+USA.
+(6)Research & Development, The University of Alabama at Birmingham Department of 
+Medicine, Birmingham, Alabama, USA.
+(7)Research & Development, University of Alabama at Birmingham Department of
+Medicine, Birmingham, Alabama, USA.
+
+OBJECTIVES: To determine if plasma microbial small RNAs (sRNAs) are altered in
+patients with rheumatoid arthritis (RA) compared with control subjects,
+associated with RA disease-related features, and altered by disease-modifying
+antirheumatic drugs (DMARDs).
+METHODS: sRNA sequencing was performed on plasma from 165 patients with RA and 90
+matched controls and a separate cohort of 70 patients with RA before and after
+starting a DMARD. Genome alignments for RA-associated bacteria, representative
+bacterial and fungal human microbiome genomes and environmental bacteria were
+performed. Microbial genome counts and individual sRNAs were compared across
+groups and correlated with disease features. False discovery rate was set at
+0.05.
+RESULTS: Genome counts of Lactobacillus salivarius, Anaerobaculum
+hydrogeniformans, Staphylococcus epidermidis, Staphylococcus aureus,
+Paenisporosarcina spp, Facklamia hominis, Sphingobacterium spiritivorum,
+Lentibacillus amyloliquefaciens, Geobacillus spp, and Pseudomonas fluorescens
+were significantly decreased in the plasma of RA compared with control subjects. 
+Three microbial transfer RNA-derived sRNAs were increased in RA versus controls
+and inversely associated with disease activity. Higher total microbial sRNA reads
+were associated with lower disease activity in RA. Baseline total microbial sRNAs
+were threefold higher among patients who improved with DMARD versus those who did
+not but did not change significantly after 6 months of treatment.
+CONCLUSION: Plasma microbial sRNA composition is altered in RA versus control
+subjects and associated with some measures of RA disease activity. DMARD
+treatment does not alter microbial sRNA abundance or composition, but increased
+abundance of microbial sRNAs at baseline was associated with disease activity
+improvement at 6 months.
+
+© Author(s) (or their employer(s)) 2020. No commercial re-use. See rights and
+permissions. Published by BMJ.
+
+DOI: 10.1136/annrheumdis-2020-217589 
+PMID: 32958509 
+
+Conflict of interest statement: Competing interests: MJO reports grants from
+Veterans Health Administration/ Office of Research and Development, during the
+conduct of the study. QW reports grants from Alpha Omicron Pi, during the conduct
+of the study. CMS reports grants from NIH, during the conduct of the study.
+TETRAD Investigators: Levesque reports other from Abbvie, outside the submitted
+work. Shadick reports Brigham and Women’s Hospital grant funding from
+Mallinckrodt, Bristol Myers Squibb, Crescendo Biosciences, Sanofi-Regeneron,
+Lilly and AMGEN; consulting for Bristol Myers Squibb.
+

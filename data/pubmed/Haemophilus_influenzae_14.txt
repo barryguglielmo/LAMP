@@ -1,0 +1,54 @@
+
+1. Travel Med Infect Dis. 2020 Sep 18;38:101883. doi: 10.1016/j.tmaid.2020.101883.
+[Epub ahead of print]
+
+Dynamics and genetic diversity of Haemophilus influenzae carriage among French
+pilgrims during the 2018 Hajj: A prospective cohort survey.
+
+Hoang VT(1), Dao TL(1), Ly TDA(2), Belhouchat K(2), Larbi Chaht K(2), Yezli S(3),
+Alotaibi B(3), Raoult D(4), Parola P(2), Pommier de Santi V(5), Fournier PE(2),
+Gautret P(6).
+
+Author information: 
+(1)Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France;
+IHU-Méditerranée Infection, Marseille, France; Thai Binh University of Medicine
+and Pharmacy, Thai Binh, Viet Nam.
+(2)Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France;
+IHU-Méditerranée Infection, Marseille, France.
+(3)The Global Centre for Mass Gatherings Medicine, Ministry of Health, Riyadh,
+Saudi Arabia.
+(4)IHU-Méditerranée Infection, Marseille, France; Aix Marseille Univ, MEPHI,
+Marseille, France.
+(5)Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France;
+IHU-Méditerranée Infection, Marseille, France; French Military Center for
+Epidemiology and Public Health Marseille, France.
+(6)Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France;
+IHU-Méditerranée Infection, Marseille, France. Electronic address:
+philippe.gautret@ap-hm.fr.
+
+BACKGROUND: To investigate the genetic diversity of Haemophilus influenzae
+positive samples among French pilgrims attending the 2018 Hajj pilgrimage.
+METHOD: After screening by qPCR, multilocus sequence typing was performed for all
+H. influenzae-positive samples. The following housekeeping genes were amplified
+and assigned: adk, atpG, frdB, fucK, mdh, pgi and recA.
+RESULTS: 121 pilgrims were included. H. influenzae was positive in 35.5% pre-Hajj
+samples, 12.4% at day five post-arrival, 15.7% at day 12 post-arrival, and 43.0% 
+post-Hajj. Of the 129 positive swabs for H. influenzae, only one sample at D12
+was negative for all seven genes amplified by standard PCR. The adk, atpG, frdB, 
+mdh, pgi, recA and fucK genes were positive in 123, 107, 122, 70, 127, 118 and 69
+samples, respectively. One sequence of atpG and two of recA genes were not
+possible to assign. None of the sequences of fucK gene was successfully obtained.
+Consequently, a complete sequence type characterisation was not possible. Of the 
+128 obtained strains, 111 had distinct patterns of alleles.
+CONCLUSION: H. influenzae genotypes acquired were completely different from those
+present at pre-Hajj. We observed a great biodiversity and a lack of clonality of 
+H. influenzae among French pilgrims during the 2018 Hajj. Further studies aiming 
+at studying the genome of Hajj-acquired H. influenzae isolates are needed to
+define the clinical burden of H. influenzae infection during Hajj and to evaluate
+the potential interest of vaccination in Hajj pilgrims.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.tmaid.2020.101883 
+PMID: 32956850 
+

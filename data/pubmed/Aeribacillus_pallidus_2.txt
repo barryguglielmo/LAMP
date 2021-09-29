@@ -1,0 +1,25 @@
+
+1. Microbiol Resour Announc. 2020 Apr 23;9(17). pii: e00224-20. doi:
+10.1128/MRA.00224-20.
+
+Complete Genome Sequence of Thermophilic Bacterium Aeribacillus pallidus PI8.
+
+Kita K(1), Ishida A(1), Tanaka K(1), Ishikawa S(1), Yoshida KI(2).
+
+Author information: 
+(1)Department of Science, Technology and Innovation, Kobe University, Kobe,
+Hyogo, Japan.
+(2)Department of Science, Technology and Innovation, Kobe University, Kobe,
+Hyogo, Japan kenyoshi@kobe-u.ac.jp.
+
+Here, we report the complete genome sequence of Aeribacillus pallidus PI8, a
+thermophilic bacterium, isolated from soybean stem extract. The sequence was
+determined using Illumina and Nanopore sequencers. Bioinformatic analyses of the 
+genome sequence revealed the presence of possible bacteriocin gene clusters.
+
+Copyright © 2020 Kita et al.
+
+DOI: 10.1128/MRA.00224-20 
+PMCID: PMC7180282
+PMID: 32327509 
+

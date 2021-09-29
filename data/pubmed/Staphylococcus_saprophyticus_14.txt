@@ -1,0 +1,60 @@
+
+1. Mater Sci Eng C Mater Biol Appl. 2020 Oct;115:111068. doi:
+10.1016/j.msec.2020.111068. Epub 2020 May 11.
+
+Biocompatible indocyanine green loaded PLA nanofibers for in situ antimicrobial
+photodynamic therapy.
+
+Preis E(1), Anders T(2), Širc J(3), Hobzova R(4), Cocarta AI(5), Bakowsky U(6),
+Jedelská J(7).
+
+Author information: 
+(1)Department of Pharmaceutics and Biopharmaceutics, University of Marburg,
+Robert-Koch-Str. 4, 35037 Marburg, Germany. Electronic address:
+eduard.preis@pharmazie.uni-marburg.de.
+(2)Department of Pharmaceutics and Biopharmaceutics, University of Marburg,
+Robert-Koch-Str. 4, 35037 Marburg, Germany. Electronic address:
+thomas.anders@pharmazie.uni-marburg.de.
+(3)Institute of Macromolecular Chemistry, Czech Academy of Sciences, Heyrovského 
+nám. 2, 162 06 Prague 6, Czech Republic. Electronic address: sirc@imc.cas.cz.
+(4)Institute of Macromolecular Chemistry, Czech Academy of Sciences, Heyrovského 
+nám. 2, 162 06 Prague 6, Czech Republic. Electronic address: hobzova@imc.cas.cz.
+(5)Institute of Macromolecular Chemistry, Czech Academy of Sciences, Heyrovského 
+nám. 2, 162 06 Prague 6, Czech Republic. Electronic address: cocarta@imc.cas.cz.
+(6)Department of Pharmaceutics and Biopharmaceutics, University of Marburg,
+Robert-Koch-Str. 4, 35037 Marburg, Germany.
+(7)Department of Pharmaceutics and Biopharmaceutics, University of Marburg,
+Robert-Koch-Str. 4, 35037 Marburg, Germany. Electronic address:
+jarmila.jedelska@pharmazie.uni-marburg.de.
+
+Chronic wounds and their associated bacterial infections are major issues in
+modern health care systems. Therefore, antimicrobial resistance (AMR), treatment 
+costs, and number of disability-adjusted life-years have gained more interest.
+Recently, photodynamic therapy emerged as an effective approach against resistant
+and naïve bacterial strains with a low probability of creating AMR. In this
+study, needleless electrospinning was used to produce an indocyanine green (ICG) 
+loaded poly(d,l-lactide) nanofibrous mesh as a photoresponsive wound dressing.
+The non-woven mesh had a homogeneous nanofibrous structure and showed long-term
+hydrolytic stability at different pH values. The antimicrobial activity was
+tested against several bacterial strains, namely Staphylococcus saprophyticus
+subsp. bovis, Escherichia coli DH5 alpha, and Staphylococcus aureus subsp.
+aureus. Upon irradiation with a laser of a specific wavelength (λ = 810 nm), the 
+bacterial viability was significantly reduced by 99.978% (3.66 log10), 99.699%
+(2.52 log10), and 99.977% (3.64 log10), respectively. The nanofibrous mesh showed
+good biocompatibility, which was confirmed by the proliferation of mouse
+fibroblasts (L929) on the surface and into deeper parts of the mesh. Furthermore,
+a favorable proangiogenic effect was observed in ovo using the chorioallantoic
+membrane assay. In general, it can be concluded that ICG loaded nanofibers as an 
+innovative wound dressing represent a promising strategy against chronic wounds
+associated with skin infections.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.msec.2020.111068 
+PMID: 32600692 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

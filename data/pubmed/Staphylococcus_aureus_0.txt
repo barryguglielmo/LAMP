@@ -1,0 +1,57 @@
+
+1. Vet Microbiol. 2020 Sep 21;250:108850. doi: 10.1016/j.vetmic.2020.108850. [Epub
+ahead of print]
+
+Antimicrobial resistance and genomic insights into bovine mastitis-associated
+Staphylococcus aureus in Australia.
+
+O'Dea M(1), Abraham RJ(1), Sahibzada S(1), Lee T(1), Jordan D(2), Laird T(1),
+Pang S(1), Buller N(3), Stegger M(4), Coombs GW(1), Trott DJ(5), Abraham S(6).
+
+Author information: 
+(1)Antimicrobial Resistance and Infectious Diseases Laboratory, College of
+Science, Health, Engineering and Education, Murdoch University, Murdoch, WA,
+Australia.
+(2)Antimicrobial Resistance and Infectious Diseases Laboratory, College of
+Science, Health, Engineering and Education, Murdoch University, Murdoch, WA,
+Australia; NSW Department of Primary Industries, Wollongbar, NSW, Australia.
+(3)Department of Primary Industries and Regional Development, South Perth, WA,
+Australia.
+(4)Antimicrobial Resistance and Infectious Diseases Laboratory, College of
+Science, Health, Engineering and Education, Murdoch University, Murdoch, WA,
+Australia; Department of Bacteria, Parasites and Fungi, Statens Serum Institut,
+Copenhagen, Denmark.
+(5)School of Animal and Veterinary Sciences, The University of Adelaide,
+Roseworthy, SA, Australia.
+(6)Antimicrobial Resistance and Infectious Diseases Laboratory, College of
+Science, Health, Engineering and Education, Murdoch University, Murdoch, WA,
+Australia. Electronic address: s.abraham@murdoch.edu.au.
+
+The aim of this study was to investigate antimicrobial resistance and population 
+structure of bovine mastitis-associated Staphylococcus aureus isolates, and
+compare them to human isolates obtained from Western Australian hospitals and
+overseas strains to determine relatedness to human isolates from a zoonotic or
+reverse zoonotic aspect. Antimicrobial susceptibility testing was performed on
+202 S. aureus isolates of which 166 isolates underwent whole genome sequencing.
+Only resistance to penicillin (12.4%) and erythromycin (0.5%) was identified and 
+of note, no resistance was demonstrated to oxacillin. Genomic characterisation
+identified 14 multilocus sequence types (STs), with most isolates belonging to
+clonal complexes 97, 705, and 1. Four distinct clades based on virulence gene
+composition were identified. The four clades were predominantly ST based,
+consisting of ST352, ST97, ST81/ST1, and ST705. Core genome comparison of the
+bovine and human S. aureus isolates demonstrated defined clustering by ST, with
+the Australian bovine S. aureus isolates clustering together according to their
+ST separately from human isolates. In addition, a bovine specific cluster
+comprising Australian ST151 and ST705 isolates, and ST151 isolates from Irish
+dairy cattle was clearly delineated. Examination of a detailed ST352 phylogeny
+provided evidence for geographical clustering of Australian strains into a
+distinct grouping separate from international strains. This study has identified 
+Australian S. aureus isolates have limited genetic diversity and are genetically 
+distinct from human and international bovine S. aureus isolates. Current first
+line therapies for bovine mastitis in Australian dairy cattle remain appropriate.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.vetmic.2020.108850 
+PMID: 33011663 
+

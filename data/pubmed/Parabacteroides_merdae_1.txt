@@ -1,0 +1,59 @@
+
+1. Fertil Steril. 2020 Jun;113(6):1286-1298.e4. doi:
+10.1016/j.fertnstert.2020.01.027.
+
+Metagenomic analysis identified microbiome alterations and pathological
+association between intestinal microbiota and polycystic ovary syndrome.
+
+Chu W(1), Han Q(1), Xu J(1), Wang J(1), Sun Y(1), Li W(1), Chen ZJ(2), Du Y(3).
+
+Author information: 
+(1)Center for Reproductive Medicine, Ren Ji Hospital, School of Medicine,
+Shanghai Jiao Tong University, Shanghai, People's Republic of China; Shanghai Key
+Laboratory for Assisted Reproduction and Reproductive Genetics, Shanghai,
+People's Republic of China.
+(2)Center for Reproductive Medicine, Ren Ji Hospital, School of Medicine,
+Shanghai Jiao Tong University, Shanghai, People's Republic of China; Shanghai Key
+Laboratory for Assisted Reproduction and Reproductive Genetics, Shanghai,
+People's Republic of China; National Research Center for Assisted Reproductive
+Technology and Reproductive Genetics, Key Laboratory for Reproductive
+Endocrinology of Ministry of Education, Center for Reproductive Medicine,
+Shandong University, Jinan, People's Republic of China.
+(3)Center for Reproductive Medicine, Ren Ji Hospital, School of Medicine,
+Shanghai Jiao Tong University, Shanghai, People's Republic of China; Shanghai Key
+Laboratory for Assisted Reproduction and Reproductive Genetics, Shanghai,
+People's Republic of China. Electronic address: duyz@sjtu.edu.cn.
+
+OBJECTIVE: To identify different microbial species in women with polycystic ovary
+syndrome (PCOS) and reveal a possible relationship between gut dysbiosis and
+pathological changes.
+DESIGN: Cross-sectional study.
+SETTING: Academic institution.
+PATIENT(S): Reproductive-aged women with PCOS (n = 14) and controls (n = 14) from
+the Centre for Reproductive Medicine.
+INTERVENTION(S): Shotgun metagenomic sequencing on fecal samples from patients,
+and clinical parameters (including body mass index, endocrine hormone levels, and
+glycemia level) gathered for correlation analysis.
+MAIN OUTCOME MEASURE(S): Identification of different gut microbial strains and
+relativity between microbiota and clinical parameters.
+RESULT(S): We found several microbial strains were statistically significantly
+more abundant in the PCOS group, including Parabacteroides merdae, Bacteroides
+fragilis, and strains of Escherichia and Shigella, whereas Faecalibacterium
+prausnitzii was enriched in the control group. Metagenomic species (MGS) analysis
+revealed that the microbes of the PCOS group were negatively correlated with
+those of the control group. Of note, we observed a positive correlation between
+MGS relevant to PCOS and endocrine disorders, including body mass index and
+elevated levels of serum testosterone, luteinizing hormone, and antimüllerian
+hormone. Functional alterations, reflected by Kyoto Encyclopedia of Genes and
+Genomes orthologues, could imply potential mechanisms of microbial involvement in
+the developmental progress of PCOS.
+CONCLUSION(S): Our findings suggest an intimate association and potential
+mechanisms linking microbial dysbiosis and the pathophysiologic changes of PCOS. 
+We address the importance of monitoring and modulating microbial composition and 
+functional shifts in future clinical practice.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.fertnstert.2020.01.027 
+PMID: 32482258 
+

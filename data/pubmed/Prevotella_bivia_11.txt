@@ -1,0 +1,61 @@
+
+1. Eur J Clin Microbiol Infect Dis. 2020 Aug;39(8):1481-1485. doi:
+10.1007/s10096-020-03862-3. Epub 2020 Mar 20.
+
+Assessing a diagnosis tool for bacterial vaginosis.
+
+Singh R(1)(2)(3), Ramsuran V(4)(5)(6), Mitchev N(7)(4), Niehaus AJ(7)(4), Han
+KSS(7)(4), Osman F(5), Ngcapu S(5), Karim SA(5)(8), Rompalo A(9), Garrett
+N(5)(10), Mlisana K(7)(4)(5).
+
+Author information: 
+(1)Department of Microbiology, National Health Laboratory Services, KwaZulu-Natal
+Academic Complex, Inkosi Albert Luthuli Central Hospital, Durban, South Africa.
+singhra@ukzn.ac.za.
+(2)School of Laboratory Medicine and Medical Sciences, College of Health
+Sciences, University of KwaZulu-Natal (UKZN), Durban, South Africa.
+singhra@ukzn.ac.za.
+(3)Department of Microbiology, University of KwaZulu-Natal (UKZN), 238 King
+George 5th Ave, Durban, South Africa. singhra@ukzn.ac.za.
+(4)School of Laboratory Medicine and Medical Sciences, College of Health
+Sciences, University of KwaZulu-Natal (UKZN), Durban, South Africa.
+(5)Centre for the AIDS Programme of Research in South Africa (CAPRISA), UKZN,
+Durban, South Africa.
+(6)KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), School of
+Laboratory Medicine and Medical Sciences, College of Health Sciences, UKZN,
+Durban, South Africa.
+(7)Department of Microbiology, National Health Laboratory Services, KwaZulu-Natal
+Academic Complex, Inkosi Albert Luthuli Central Hospital, Durban, South Africa.
+(8)Department of Epidemiology, Mailman School of Public Health, Columbia
+University, New York, NY, USA.
+(9)Johns Hopkins University, Baltimore, USA.
+(10)School of Nursing and Public Health, Discipline of Public Health Medicine,
+University of KwaZulu-Natal, Durban, South Africa.
+
+Diagnosis of bacterial vaginosis (BV) in resource-poor settings relies on
+semiquantitative microscopy algorithm such as the Nugent score (NS). We evaluated
+a quantitative real-time PCR (qPCR) assay to detect and quantify individual
+BV-associated bacterial communities. Vaginal swabs from 247 South African women
+attending an STI clinic were evaluated for BV using NS. We used qPCR to analyze
+DNA from vaginal swabs for eight BV-associated bacteria, Gardnerella vaginalis
+(GV), Prevotella bivia (PB), BV-associated bacteria 2 (BVAB2), Megasphaera-1
+(M-1), Atopobium vaginae (AV), Lactobacillus crispatus (LC), Lactobacillus
+jensenii (LJ), and Lactobacillus iners (LI). Sensitivities and specificities were
+generated for each qPCR assay. Using a ROC analysis, cutoffs were calculated for 
+each bacterial species. A logistic regression model was used to determine the
+strongest predictors of BV status. Nugent scores indicated 35.6% of patients
+harbor BV-associated flora (NS 7-10). AV, GV, GAMB (GV + AV + M-1 + BVAB2), and
+LC + LJ showed the highest AUC, sensitivities, and specificities (listed
+respectively): AV (0.96; 96%; 93%), GV (0.88; 78%; 79%), GAMB (0.9; 87%; 82%),
+and LC + LJ (0.84; 82%; 72%) (all p < 0.05). Increased GAMB copies
+(effect = 0.15, p = 0.01) and decreased LC + LJ copies (effect = - 0.26,
+p < 0.0001) demonstrated the strongest association with higher BV scoring.
+Scoring of BV did not differ across our qPCR assay when compared to the
+commercial BD MAX® and the gold standard Nugent scores. We developed an accurate 
+assay, which has the potential to be used as a BV diagnosis tool that is
+cost-effective and has the potential to be utilized in a resource limited
+setting.
+
+DOI: 10.1007/s10096-020-03862-3 
+PMID: 32193689 
+

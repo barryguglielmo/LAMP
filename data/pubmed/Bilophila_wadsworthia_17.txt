@@ -1,0 +1,61 @@
+
+1. Clin Nutr. 2020 May 16. pii: S0261-5614(20)30224-7. doi:
+10.1016/j.clnu.2020.05.008. [Epub ahead of print]
+
+Impact of short-term overfeeding of saturated or unsaturated fat or sugars on the
+gut microbiota in relation to liver fat in obese and overweight adults.
+
+Jian C(1), Luukkonen P(2), Sädevirta S(2), Yki-Järvinen H(2), Salonen A(3).
+
+Author information: 
+(1)Human Microbiome Research Program, Faculty of Medicine, University of
+Helsinki, Helsinki, Finland.
+(2)Minerva Foundation Institute for Medical Research, Helsinki, Finland;
+Department of Medicine, University of Helsinki and Helsinki University Central
+Hospital, Helsinki, Finland.
+(3)Human Microbiome Research Program, Faculty of Medicine, University of
+Helsinki, Helsinki, Finland. Electronic address: anne.salonen@helsinki.fi.
+
+BACKGROUNDS & AIMS: Intestinal microbiota may be causally involved in the
+pathogenesis of non-alcoholic fatty liver disease (NAFLD). We aimed to study the 
+effect of short-term overfeeding on human gut microbiota in relation to baseline 
+and overfeeding-induced liver steatosis. We also asked whether the baseline
+microbiota composition is associated to the overfeeding-induced increase in liver
+fat.
+METHODS: In a randomized trial, 38 overweight and obese subjects were assigned to
+consume an excess of 1000 kcal/day of diets rich in either saturated fat,
+unsaturated fat, or simple sugars for 3 weeks. Fasting blood samples and 1H-MR
+spectroscopy were used for extensive clinical phenotyping as previously reported 
+(PMID: 29844096). Fecal samples were collected for the analysis of the gut
+microbiota using 16S rRNA amplicon sequencing, imputed metagenomics and qPCR.
+Microbiota results were correlated with dietary intakes and clinical measurements
+before and during overfeeding.
+RESULTS: The overall community structure of the microbiota remained highly stable
+and personalized during overfeeding based on between-sample Bray-Curtis
+dissimilarity, but the relative abundances of individual taxa were altered in a
+diet-specific manner: overfeeding saturated fat increased Proteobacteria, while
+unsaturated fat increased butyrate producers. Sugar overfeeding increased
+Lactococcus and Escherichia coli. Imputed functions of the gut microbiota were
+not affected by overfeeding. Several taxa affected by overfeeding significantly
+correlated with the changes in host metabolic markers. The baseline levels of
+proteobacterial family Desulfovibrionaceae, and especially genus Bilophila, were 
+significantly associated to overfeeding-induced liver fat increase independently 
+of the diet arm. In general, limited overlap was observed between the
+overfeeding-induced microbiota changes and the liver fat-associated microbiota
+features at baseline.
+CONCLUSIONS: Our work indicates that the human gut microbiota is resilient to
+short-term overfeeding on community level, but specific taxa are altered on diet 
+composition-dependent manner. Generalizable microbiota signatures directly
+associated with liver steatosis could not be identified. Instead, the carriage of
+Bilophila was identified as a potential novel risk factor for diet-induced liver 
+steatosis in humans. Clinical trial registry number: NCT02133144 listed on NIH
+website: ClinicalTrials.gov.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.clnu.2020.05.008 
+PMID: 32536582 
+
+Conflict of interest statement: Conflict of interest The authors declare that
+they have no conflict of interest.
+

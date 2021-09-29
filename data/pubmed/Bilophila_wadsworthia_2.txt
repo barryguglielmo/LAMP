@@ -1,0 +1,56 @@
+
+1. Cancer Manag Res. 2020 Sep 7;12:8125-8135. doi: 10.2147/CMAR.S265205. eCollection
+2020.
+
+Changes of Intestinal Microbiota in Ovarian Cancer Patients Treated with Surgery 
+and Chemotherapy.
+
+Tong J(1)(2), Zhang X(1)(2), Fan Y(3), Chen L(1)(2)(3), Ma X(1)(2), Yu H(1)(2),
+Li J(1)(2), Guan X(1)(2), Zhao P(1)(2), Yang J(1)(2).
+
+Author information: 
+(1)Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run
+Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, People's
+Republic of China.
+(2)Key Laboratory of Reproductive Dysfunction Management of Zhejiang Province,
+Hangzhou, People's Republic of China.
+(3)Department of Gynaecology and Obstetrics, First People's Hospital of Wenling, 
+Wenling, People's Republic of China.
+
+Purpose: Ovarian cancer is the leading cause of death in gynecologic
+malignancies. Growing evidences demonstrate that a complicated relationship
+exists between the gut microbiota and cancer treatment. However, there are few
+studies explored the alterations of gut microbiota in ovarian cancer patients
+following anti-cancer treatments. Therefore, we aim to analyze the changes of the
+gut microbiota in ovarian cancer patients treated with radical surgery and
+chemotherapy.
+Patients and Methods: The microbial genes were examined from a total of 75 fecal 
+samples from 18 ovarian cancer patients, including 10 preoperative fecal samples 
+(Group B), 4 postoperative fecal samples (Group M0), as well as 61 fecal samples 
+after first to fifth cycles of chemotherapy, using 16S rRNA sequencing.
+Results: Our results showed that fecal samples collected in postoperative (Group 
+M0) exhibited significant decreases in abundance of Bacteroidetes and Firmicutes,
+while a significant increase in abundance of Proteobacteria compared with
+preoperative (Group B) fecal samples. LEfSe analysis identified that Bilophila
+and Faecalibacterium are the key genera in Group B, while Klebsiella and
+Enterococcus are the key genus in Group M0. Compared with before chemotherapy,
+the abundance of Bacteroidetes and Firmicutes increased, and the abundance of
+Proteobacteria decreased after chemotherapy. In addition, anaerobic bacteria,
+such as Bacteroides, Collinsella and Blautia, exhibited significant increases
+after chemotherapy. Moreover, we observed that certain bacterial genera were
+significantly correlated with clinicopathological characteristics of ovarian
+cancer patients.
+Conclusion: Our study suggested that radical surgery and chemotherapy altered the
+composition of gut microbiota in ovarian cancer patients. Therapeutic strategies 
+targeting the gut microbiota may be beneficial for the clinical treatment of
+ovarian cancer.
+
+© 2020 Tong et al.
+
+DOI: 10.2147/CMAR.S265205 
+PMCID: PMC7494227
+PMID: 32982410 
+
+Conflict of interest statement: The authors report no conflicts of interest in
+this work.
+

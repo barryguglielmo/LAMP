@@ -1,0 +1,48 @@
+
+1. Chem Sci. 2019 Sep 23;10(43):9941-9948. doi: 10.1039/c9sc03717a. eCollection 2019
+Nov 21.
+
+Discovery of novel [FeFe]-hydrogenases for biocatalytic H2-production.
+
+Land H(1), Ceccaldi P(1), Mészáros LS(1), Lorenzi M(1), Redman HJ(1), Senger
+M(2), Stripp ST(2), Berggren G(1).
+
+Author information: 
+(1)Molecular Biomimetics , Department of Chemistry - Ångström Laboratory ,
+Uppsala University , Box 523 , Uppsala , SE-75120 , Sweden . Email:
+Gustav.Berggren@kemi.uu.se.
+(2)Institute of Experimental Physics, Experimental Molecular Biophysics , Freie
+Universität Berlin , Arnimallee 14 , Berlin , DE-14195 , Germany.
+
+A new screening method for [FeFe]-hydrogenases is described, circumventing the
+need for specialized expression conditions as well as protein purification for
+initial characterization. [FeFe]-hydrogenases catalyze the formation and
+oxidation of molecular hydrogen at rates exceeding 103 s-1, making them highly
+promising for biotechnological applications. However, the discovery of novel
+[FeFe]-hydrogenases is slow due to their oxygen sensitivity and dependency on a
+structurally unique cofactor, complicating protein expression and purification.
+Consequently, only a very limited number have been characterized, hampering their
+implementation. With the purpose of increasing the throughput of
+[FeFe]-hydrogenase discovery, we have developed a screening method that allows
+for rapid identification of novel [FeFe]-hydrogenases as well as their
+characterization with regards to activity (activity assays and protein film
+electrochemistry) and spectroscopic properties (electron paramagnetic resonance
+and Fourier transform infrared spectroscopy). The method is based on in vivo
+artificial maturation of [FeFe]-hydrogenases in Escherichia coli and all
+procedures are performed on either whole cells or non-purified cell lysates,
+thereby circumventing extensive protein purification. The screening was applied
+on eight putative [FeFe]-hydrogenases originating from different structural
+sub-classes and resulted in the discovery of two new active [FeFe]-hydrogenases. 
+The [FeFe]-hydrogenase from Solobacterium moorei shows high H2-gas production
+activity, while the enzyme from Thermoanaerobacter mathranii represents a
+hitherto uncharacterized [FeFe]-hydrogenase sub-class. This latter enzyme is a
+putative sensory hydrogenase and our in vivo spectroscopy study reveals distinct 
+differences compared to the well established H2 producing HydA1 hydrogenase from 
+Chlamydomonas reinhardtii.
+
+This journal is © The Royal Society of Chemistry 2019.
+
+DOI: 10.1039/c9sc03717a 
+PMCID: PMC6984386
+PMID: 32055351 
+

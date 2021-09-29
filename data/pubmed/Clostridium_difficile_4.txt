@@ -1,0 +1,51 @@
+
+1. BMJ Open. 2020 Sep 29;10(9):e037534. doi: 10.1136/bmjopen-2020-037534.
+
+Proton pump inhibitors versus histamine-2 receptor antagonists for stress ulcer
+prophylaxis during extracorporeal membrane oxygenation: a propensity
+score-matched analysis.
+
+Kondo Y(1)(2), Ohbe H(2), Matsui H(2), Fushimi K(3), Tanaka H(4), Yasunaga H(2).
+
+Author information: 
+(1)Department of Emergency and Critical Care Medicine, Juntendo University
+Urayasu Hospital, Urayasu, Chiba, Japan kondokondou2000@yahoo.co.jp.
+(2)Department of Clinical Epidemiology and Health Economics, School of Public
+Health, The University of Tokyo, Tokyo, Japan.
+(3)Health Care Policy and Informatics, Tokyo Medical and Dental University,
+Tokyo, Japan.
+(4)Department of Emergency and Critical Care Medicine, Juntendo University
+Urayasu Hospital, Urayasu, Chiba, Japan.
+
+PURPOSE: Patients receiving extracorporeal membrane oxygenation (ECMO) generally 
+receive proton pump inhibitors (PPIs) or histamine-2 receptor antagonists (H2RAs)
+to avoid major gastrointestinal bleeding. Our aim was to compare outcomes between
+patients receiving PPIs and H2RAs for stress ulcer prophylaxis during ECMO.
+MATERIALS AND METHODS: We performed a retrospective cohort study using the
+Japanese Diagnosis Procedure Combination Database, using data recorded from 1
+July 2010 to 31 March 2017. We defined patients who received PPIs within 2 days
+after starting ECMO as the PPIs group and those who received H2RAs within 2 days 
+after starting ECMO as the H2RAs group. We performed propensity score matching to
+compare outcomes. The primary outcomes were gastrointestinal bleeding requiring
+endoscopic haemostasis and in-hospital mortality. The secondary outcomes were red
+blood cell transfusion, hospital-acquired pneumonia and Clostridium difficile
+infection during hospitalisation.
+RESULTS: Of 11 328 eligible patients, 9738 received PPIs and 1590 received H2RAs.
+Propensity score matching created 1556 pairs. No significant differences were
+seen regarding endoscopic haemostasis (1.2% vs 0.8%; p=0.37), in-hospital
+mortality (53.0% vs 53.1%; p=0.94), red blood cell transfusion rates (91.4% vs
+89.7%; p=0.11), hospital-acquired pneumonia (13.0% vs 12.4%; p=0.59) or C.
+difficile infection (0.1% vs 0.2%; p=0.32) between the PPIs and H2RAs groups,
+respectively.
+CONCLUSION: We found no differences in the evaluated outcomes between the PPIs
+and H2RAs groups. Both PPIs and H2RAs are treatment options for stress ulcer
+prophylaxis in patients undergoing ECMO.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2020-037534 
+PMID: 32994240 
+
+Conflict of interest statement: Competing interests: None declared.
+

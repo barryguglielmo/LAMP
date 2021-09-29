@@ -1,0 +1,48 @@
+
+1. Front Microbiol. 2020 Jul 22;11:1688. doi: 10.3389/fmicb.2020.01688. eCollection 
+2020.
+
+Metatranscriptomic Analysis Reveals Active Bacterial Communities in Diabetic Foot
+Infections.
+
+Heravi FS(1), Zakrzewski M(2), Vickery K(1), Malone M(3)(4)(5), Hu H(1).
+
+Author information: 
+(1)Surgical Infection Research Group, Faculty of Medicine and Health Sciences,
+Macquarie University, Sydney, NSW, Australia.
+(2)QIMR Berghofer Medical Research Institute, Brisbane, QLD, Australia.
+(3)Infectious Diseases and Microbiology, School of Medicine, Western Sydney
+University, Sydney, NSW, Australia.
+(4)Liverpool Hospital, South Western Sydney LHD, Sydney, NSW, Australia.
+(5)Liverpool Diabetes Collaborative Research Unit, Ingham Institute for Applied
+Medical Research, Sydney, NSW, Australia.
+
+Despite the extended view of the composition of diabetic foot infections (DFIs), 
+little is known about which transcriptionally active bacterial communities are
+pertinent to infection, and if any differences are associated with increased
+infection severity. We applied a RNA sequencing approach to analyze the
+composition, function, and pathogenicity of the active bacterial communities in
+DFIs. Taxonomic profiling of bacterial transcripts revealed the presence of 14
+bacterial phyla in DFIs. The abundance of the Spiroplasma, Vibrio, and Mycoplasma
+were significantly different in different infection severities (P < 0.05). Mild
+and severe stages of infections were dominated by Staphylococcus aureus and
+Porphyromonas asaccharolytica, respectively. A total of 132 metabolic pathways
+were identified of which ribosome and thiamin being among the most highly
+transcribed pathways. Moreover, a total of 131 antibiotic resistance genes,
+primarily involved in the multidrug efflux pumps/exporters, were identified.
+Furthermore, iron acquisition systems (synthesize and regulation of siderophores)
+and pathways involved in the synthesis and regulation of cell-surface components 
+associated with adhesion, colonization, and movement of bacterial cells were the 
+most common virulence factors. These virulence factors may help bacteria compete 
+for scares resources and survive the host wound proteases. Characterization of
+transcriptionally active bacterial communities can help to provide an
+understanding of the role of key pathogens in the development of DFIs. Such
+information can be clinically useful allowing replacement of DFIs empirical
+therapy with targeted treatment.
+
+Copyright © 2020 Heravi, Zakrzewski, Vickery, Malone and Hu.
+
+DOI: 10.3389/fmicb.2020.01688 
+PMCID: PMC7387423
+PMID: 32793159 
+

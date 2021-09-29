@@ -1,0 +1,52 @@
+
+1. J Hazard Mater. 2020 Jan 15;382:121084. doi: 10.1016/j.jhazmat.2019.121084. Epub 
+2019 Aug 22.
+
+Characterization of a robust cold-adapted and thermostable laccase from
+Pycnoporus sp. SYBC-L10 with a strong ability for the degradation of tetracycline
+and oxytetracycline by laccase-mediated oxidation.
+
+Tian Q(1), Dou X(2), Huang L(2), Wang L(3), Meng D(2), Zhai L(2), Shen Y(4), You 
+C(4), Guan Z(2), Liao X(5).
+
+Author information: 
+(1)The Key Laboratory of Industrial Biotechnology, Ministry of Education, School 
+of Biotechnology, Jiangnan University, 1800 Lihu Road, Wuxi, Jiangsu, 214122, PR 
+China. Electronic address: qiaopengt@126.com.
+(2)The Key Laboratory of Industrial Biotechnology, Ministry of Education, School 
+of Biotechnology, Jiangnan University, 1800 Lihu Road, Wuxi, Jiangsu, 214122, PR 
+China.
+(3)The Key Laboratory of Industrial Biotechnology, Ministry of Education, School 
+of Biotechnology, Jiangnan University, 1800 Lihu Road, Wuxi, Jiangsu, 214122, PR 
+China; School of Life Science and Technology, Inner Mongolia University of
+Science and Technology, Baotou, Inner Mongolia, 014010, PR China.
+(4)School of Biotechnology, Jiangnan University, 1800 Lihu Road, Wuxi, Jiangsu,
+214122, PR China.
+(5)The Key Laboratory of Industrial Biotechnology, Ministry of Education, School 
+of Biotechnology, Jiangnan University, 1800 Lihu Road, Wuxi, Jiangsu, 214122, PR 
+China. Electronic address: liaoxiangru@163.com.
+
+A native laccase (Lac-Q) with robust cold-adapted and thermostable
+characteristics from the white-rot fungus Pycnoporus sp. SYBC-L10 was purified,
+characterized, and used in antibiotic treatments. Degradation experiments
+revealed that Lac-Q at 10.0 U mL-1 coupled with 1.0 mmol L-1 ABTS could degrade
+100% of the tetracycline or oxytetracycline (50 mg L-1) within 5 min with a
+static incubation at 0 °C (pH 6.0). The presence of the Mn2+ ion inhibited the
+removal rate of tetracycline and oxytetracycline by the Lac-Q-ABTS system, and
+the presence of Al3+, Cu2+, and Fe3+ accelerated the removal rate of tetracycline
+and oxytetracycline by the Lac-Q-ABTS system. Furthermore, the growth inhibition 
+of Bacillus altitudinis SYBC hb4 and E. coli by tetracycline antibiotics revealed
+that the antimicrobial activity was significantly reduced after treatment with
+the Lac-Q-ABTS system. Finally, seven transformation products of oxytetracycline 
+(namely TP 445, TP 431, TP 413, TP 399, TP 381, TP 367, and TP 351) were
+identified during the Lac-Q-mediated oxidation process by using UPLC-MS/MS. A
+possible degradation pathway including deamination, demethylation, and
+dehydration was proposed. These results suggest that the Lac-Q-ABTS system shows 
+a great potential for the treatment of antibiotic wastewater containing different
+metal ions at various temperatures.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhazmat.2019.121084 
+PMID: 31473514 
+

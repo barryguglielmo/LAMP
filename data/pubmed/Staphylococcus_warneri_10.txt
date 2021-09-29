@@ -1,0 +1,44 @@
+
+1. PLoS One. 2020 May 22;15(5):e0233363. doi: 10.1371/journal.pone.0233363.
+eCollection 2020.
+
+Whole genome sequence and comparative genome analyses of multi-resistant
+Staphylococcus warneri GD01 isolated from a diseased pig in China.
+
+Liu C(1), Zhao X(1), Xie H(1), Zhang X(1), Li K(1), Ma C(1), Fu Q(1).
+
+Author information: 
+(1)Department of Life Science and Engineering, Foshan University, Guangdong,
+China.
+
+Staphylococcus warneri is a coagulase-negative staphylococcus that is a normal
+inhabitant of the skin. It is also considered to be an opportunistic etiological 
+agent causing significant infections in human and animals. Currently, relatively 
+little attention has been paid to the genome biology of S. warneri pathogenicity 
+and antibiotic resistance, which are emerging issues for this etiological agent
+with considerably clinical significance. In this study, we determined the
+complete genome sequence of S. warneri strain GD01 recovered from the sampled
+muscle abscess tissue of a diseased pig in South China. The genome of S. warneri 
+is composed of a circular chromosome of 2,473,911 base pairs as well as eight
+plasmid sequences. Genome-wide metabolic reconstruction revealed 82 intact
+functional modules driving the catabolism of respiration and fermentation for
+energy production, uptake of distinct sugars as well as two-component regulatory 
+systems. The evidence uncovered herein enables better understanding for metabolic
+potential and physiological traits of this etiological agent. The antibiotic
+susceptibility test demonstrated that S. warneri GD01 was resistant to
+penicillin, amoxicillin, ampicillin, cefalexin, vancomycin, and sulfisoxazole.
+The associations between antibiotic phenotypes and the related genotypes were
+identified to reveal the molecular basis conferring resistance to this pathogen. 
+A number of genes coding for potential virulence factors were firstly depicted in
+the genome of S. warneri GD01, including adhesins, exoenzymes, capsule, and iron 
+acquisition proteins. Our study provides a valuable genomic context of the
+genes/modules devoting to metabolism, antibiotic resistance, and virulence of S. 
+warneri.
+
+DOI: 10.1371/journal.pone.0233363 
+PMCID: PMC7244159
+PMID: 32442199  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

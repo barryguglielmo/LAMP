@@ -1,0 +1,49 @@
+
+1. Microb Drug Resist. 2020 Jul;26(7):794-801. doi: 10.1089/mdr.2019.0250. Epub 2020
+Jan 28.
+
+Low Cassette Variability in Class 2 and Class 1 Integrons of Aeromonas spp.
+Isolated from Environmental Samples.
+
+Otero-Olarra JE(1), Curiel-Quesada E(1), Baltazar-Cruz J(1), Aguilera-Arreola
+MG(2), Pérez-Valdespino A(1).
+
+Author information: 
+(1)Department of Biochemistry, Escuela Nacional de Ciencias Biológicas del
+Instituto Politécnico Nacional, Mexico City, Mexico.
+(2)Department of Microbiology, Escuela Nacional de Ciencias Biológicas del
+Instituto Politécnico Nacional, Mexico City, Mexico.
+
+Integrons are prokaryotic genetic elements known to carry and exchange antibiotic
+resistance gene cassettes through a site-specific recombinase called integrase.
+In this work, 107 Aeromonas isolates from environmental origin, including fish,
+water, and sediments, were investigated for the presence of integrons. Using
+specific primers for Class 1, 2 and 3 integrases, only Class 1 and Class 2
+integrons were detected. Detection of Class 2 integrases and their associated
+variable regions required two rounds of polymerase chain reaction (PCR).
+Sequencing of the intI2 amplicons confirmed them as integrase-derived products.
+Class 1 integrons were detected in 26 out of 107 isolates. PCR amplification of
+the variable regions associated to these integrons revealed an outstanding
+homogeneity, 25 of them having variable regions with an identical
+dfrA12-orfF-aadA2 cassette array and one integron carrying only the dfrA16
+cassette. To assess clone diversity, chromosomal DNA from isolates was subjected 
+to enterobacterial repetitive intergenic consensus-PCR (ERIC-PCR), which
+discarded clonality in all instances. Class 2 integrons were surprisingly more
+prevalent than Class1 integrons, being detected in 60 out of 107 isolates.
+Forty-six of them showed a unique ERIC profile, while the remaining 14 strains
+displayed profiles that could be grouped in five different patterns. Cassette
+arrangements of all Class 2 variable regions were those described as the most
+prevalent (dfrA1-sat2-aadA1). A rather startling result of this work is the
+sensitivity to trimethoprim, streptomycin, and streptothricin of most strains,
+despite the presence of the cognate resistance genes. To know the integron
+distribution in environmental Aeromonas species, a phylogenetic reconstruction
+was done using rpoD/gyrB or rpoD/gyrA gene sequences. Isolates bearing these
+elements corresponded to Aeromonas hydrophila, Aeromonas veronii, Aeromonas
+salmonicida, Aeromonas dhakensis, Aeromonas sanarellii, Aeromonas taiwanensis,
+Aeromonas media, Aeromonas caviae, Aeromonas jandaei, and Aeromonas sp. This work
+revealed an unusual high incidence of Class 2 integrons and a low variability of 
+cassette arrangements in environmental Aeromonas species.
+
+DOI: 10.1089/mdr.2019.0250 
+PMID: 31990611 
+

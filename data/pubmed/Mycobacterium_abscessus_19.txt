@@ -1,0 +1,42 @@
+
+1. Proteins. 2020 Aug 28. doi: 10.1002/prot.25997. [Epub ahead of print]
+
+Structural analysis of the N-acetyltransferase Eis1 from Mycobacterium abscessus 
+reveals the molecular determinants of its incapacity to modify aminoglycosides.
+
+Ung KL(1), Kremer L(1)(2), Blaise M(1).
+
+Author information: 
+(1)Institut de Recherche en Infectiologie de Montpellier (IRIM), Université de
+Montpellier, CNRS UMR, Montpellier, France.
+(2)INSERM, IRIM, Montpellier, France.
+
+Enhanced intracellular survival (Eis) proteins belonging to the superfamily of
+the GCN5-related N-acetyltransferases play important functions in mycobacterial
+pathogenesis. In Mycobacterium tuberculosis, Eis enhances the intracellular
+survival of the bacilli in macrophages by modulating the host immune response and
+is capable to chemically modify and inactivate aminoglycosides. In nontuberculous
+mycobacteria (NTM), Eis shares similar functions. However, Mycobacterium
+abscessus, a multidrug resistant NTM, possesses two functionally distinct Eis
+homologues, Eis1Mab and Eis2Mab . While Eis2Mab participates in virulence and
+aminoglycosides resistance, this is not the case for Eis1Mab, whose exact
+biological function remains to be determined. Herein, we show that overexpression
+of Eis1Mab in M. abscessus fails to induce resistance to aminoglycosides. To
+clarify why Eis1Mab is unable to modify this class of antibiotics, we solved its 
+crystal structure bound to its cofactor, acetyl-CoA. The structure revealed that 
+Eis1Mab has a typical homohexameric Eis-like organization. The structural
+analysis supported by biochemical approaches demonstrated that while Eis1Mab can 
+acetylate small substrates, its active site is too narrow to accommodate
+aminoglycosides. Comparison with other Eis structures showed that an extended
+loop between strands 9 and 10 is blocking the access of large substrates to the
+active site and movement of helices 4 and 5 reduces the volume of the
+substrate-binding pocket to these compounds in Eis1Mab . Overall, this study
+underscores the molecular determinants explaining functional differences between 
+Eis1Mab and Eis2Mab, especially those inherent to their capacity to modify
+aminoglycosides.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1002/prot.25997 
+PMID: 32860271 
+

@@ -1,0 +1,45 @@
+
+1. ACS Omega. 2020 Jun 8;5(24):14814-14821. doi: 10.1021/acsomega.0c01911.
+eCollection 2020 Jun 23.
+
+Cas12a-Activated Universal Field-Deployable Detectors for Bacterial Diagnostics.
+
+Sun Y(1), Liu H(1), Shen Y(1), Huang X(1), Song F(1), Ge X(1), Wang A(1), Zhang
+K(2), Li Y(3), Li C(1), Wan Y(1)(4), Li J(3).
+
+Author information: 
+(1)State Key Laboratory of Marine Resource Utilization in South China Sea, Marine
+College, Key Laboratory of Tropical Biological Resources of Ministry of
+Education, School of Life and Pharmaceutical Sciences, Hainan University, 56
+Renmin Road, Haikou 570228, China.
+(2)School of Pharmaceutical Sciences, Zhengzhou University, Zhengzhou 450001 P.
+R. China.
+(3)Department of Chemistry, Key Laboratory of Bioorganic Phosphorus Chemistry &
+Chemical Biology, Tsinghua University, Beijing 100084, China.
+(4)CAS Key Laboratory of Marine Environmental Corrosion and Bio-fouling,
+Institute of Oceanology, Chinese Academy of Sciences, 7 Nanhai Road, Qingdao
+266071, China.
+
+Field-deployable detectors of disease biomarkers provide a simple and fast
+analysis of clinical specimens. However, most of the existing field-deployable
+diagnostics have poor sensitivity and are not suitable for the detection of
+biomarkers with low abundance. Herein, we report a highly sensitive and rapid
+colorimetric readout paper-based assay for pathogen detection by integrating the 
+unique collateral activity of a Cas12a-activated universal field-deployable
+detector (CUFD). The collateral effect of Cas12a results in a nonspecific
+destruction of a fluorophore biotin-labeled ssDNA reporter for the CUFD. This
+technique can quantify seven different kinds of pathogens in blood samples
+without any purification procedure, with sensitivity as low as 10 aM for the
+Shigella dysenteriae DNA. This CUFD technique has significant potential for the
+detection of pathogenic DNA as well as other types of DNA or RNA targets at the
+point-of-care application.
+
+Copyright © 2020 American Chemical Society.
+
+DOI: 10.1021/acsomega.0c01911 
+PMCID: PMC7315577
+PMID: 32596619 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

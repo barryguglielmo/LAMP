@@ -1,0 +1,46 @@
+
+1. Int J Syst Evol Microbiol. 2020 May;70(5):3167-3178. doi: 10.1099/ijsem.0.004150.
+
+Description of Eikenella halliae sp. nov. and Eikenella longinqua sp. nov.,
+derived from human clinical materials, emendation of Eikenella exigua Stormo et
+al. 2019 and emendation of the genus Eikenella to include species which are
+strict anaerobes.
+
+Bernard KA(1)(2), Burdz T(2), Wiebe D(2), Bernier AM(3).
+
+Author information: 
+(1)Department of Medical Microbiology, University of Manitoba, Winnipeg,
+Manitoba, Canada.
+(2)National Microbiology Laboratory-CSCHAH, Public Health Agency of Canada,
+Winnipeg, Manitoba, Canada.
+(3)Department of Biology, Université de Saint-Boniface, Winnipeg, Manitoba,
+Canada.
+
+The Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella (HACEK)
+group genus Eikenella contained a single species, Eikenella corrodens, for many
+years. In November 2019, Eikenella exigua was described after recovery from a
+brain abscess and blood culture in Norway. Coincidentally, characterization of 22
+Gram-negative bacteria resembling Eikenella from 17 Canadian patients had been
+underway. Seven isolates from five patients were conclusively identifiable as E. 
+corrodens. One (NML 120819) was deemed to represent a species of the genus
+Eikenella most closely related to E. corrodens. Fourteen isolates had 97.6 to
+98.8% similarities to E. corrodens by 16S rRNA gene sequencing, forming three
+distinct groups by genome analyses. The largest contained ten anaerobic isolates 
+from eight patients recovered from blood, brain, bone and other abscesses; upon
+re-evaluation, this group was found to be most consistent with E. exigua. A
+second facultatively anaerobic clade consisted of two ocular isolates from one
+patient and a sinus isolate from a second patient. The third taxon consisted of a
+single strictly anaerobic blood culture isolate. The novel taxa, like E.
+corrodens, were poorly reactive biochemically and difficult to discern from each 
+other phenotypically and chemotaxonomically, including by cellular fatty acids.
+MALDI-TOF (Bruker) and whole-genome sequencing were used to further characterize 
+isolates. Draft genomes for the strains had similar DNA G+C contents (55.38-58.53
+mol%) while sizes varied from 1.82 Mb to 2.54 Mb. We propose here emendations of 
+the genus Eikenella and the species Eikenella exigua, as well as describing
+Eikenella halliae sp. nov. NML 130454T (=LMG 30894T=NCTC 14180T) and Eikenella
+longinqua sp. nov. NML 02-A-017T (=LMG 30896T=NCTC 14179T), on the basis of these
+findings.
+
+DOI: 10.1099/ijsem.0.004150 
+PMID: 32302276  [Indexed for MEDLINE]
+

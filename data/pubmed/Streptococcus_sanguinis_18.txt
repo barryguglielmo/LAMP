@@ -1,0 +1,47 @@
+
+1. Curr Drug Discov Technol. 2020 Jul 12. doi: 10.2174/1570163817666200712171652.
+[Epub ahead of print]
+
+Potential Fatty Acid as Antibacterial Agent against Oral Bacteria of
+Streptococcus mutans and Streptococcus sanguinis from Basil (Ocimum americanum): 
+In vitro and in silico studies.
+
+Herdiyati Y(1), Astrid Y(2), Shadrina AAN(2), Wiani I(2), Satari MH(3), Kurnia
+D(2).
+
+Author information: 
+(1)Department of Pediatric Dentistry, Faculty of Dentistry, Universitas
+Padjadjaran - Bandung. Indonesia.
+(2)Department of Chemistry, Faculty of Mathematics and Natural Science,
+Universitas Padjadjaran, Sumedang. Indonesia.
+(3)Department of Oral Biology, Faculty of Dentistry, Universitas Padjadjaran,
+Bandung. Indonesia.
+
+BACKGROUND: Streptococcus mutans and Streptococcus sanguinis are Gram-positive
+bacteria that cause dental caries. The MurA enzyme is a catalyst in the formation
+of peptidoglycan in the bacterial cell wall making it ideal as an antibacterial
+target. Basil (Ocimum americanum) is an edible plant medicine that diverse, very 
+widely spreading, used as herbal for a long time, and it was reported to have
+pharmacology effect as antibacterial activity. The purpose of this study is to
+identify antibacterial compounds from O. americanum and analyze their inhibition 
+activity to the MurA enzyme.
+METHODS: Fresh leaves from O. americanum extracted with n-hexane and purified by 
+a combination of column chromatography on normal and reverse phase together with 
+guided by in vitro bioactivity assay against S. mutans ATCC 25175 and S.
+sanguinis ATCC 10556, respectively, while in silico molecular docking simulation 
+of lauric acid (1) using PyRx 0.8.
+RESULTS: The structure determination of antibacterial compound by spectroscopic
+methods resulted in an active compound 1 as lauric acid. The in vitro evaluation 
+of antibacterial activity compound 1 showed the MIC and MBC of 78.13 & 156.3 ppm 
+and 1250 & 2500 ppm against S. sanguinis and in S. mutans, respectively. Further 
+analysis in silico evaluation as MurA Enzyme inhibitor, lauric acid (1) has a
+binding affinity of -5.2 Kcal/mol those higher than fosfomycin.
+CONCLUSION: The lauric acid has potency as a new natural antibacterial agent
+through the MurA inhibition in bacterial cell wall biosynthesis.
+
+Copyright© Bentham Science Publishers; For any queries, please email at
+epub@benthamscience.net.
+
+DOI: 10.2174/1570163817666200712171652 
+PMID: 32652913 
+

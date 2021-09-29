@@ -1,0 +1,41 @@
+
+1. J Biol Inorg Chem. 2020 Sep;25(6):903-911. doi: 10.1007/s00775-020-01806-y. Epub 
+2020 Aug 18.
+
+The Fe-type nitrile hydratase from Rhodococcus equi TG328-2 forms an
+alpha-activator protein complex.
+
+Lankathilaka KPW(1), Bennett B(2), Holz RC(3)(4).
+
+Author information: 
+(1)Department of Chemistry, Marquette University, P.O. Box 1881, Milwaukee, WI,
+53201-1881, USA.
+(2)Department of Physics, Marquette University, 540 N. 15th St, Milwaukee, WI,
+53233, USA.
+(3)Department of Chemistry, Marquette University, P.O. Box 1881, Milwaukee, WI,
+53201-1881, USA. rholz@mines.edu.
+(4)Department of Chemistry, Colorado School of Mines, Golden, CO, 80401, USA.
+rholz@mines.edu.
+
+An Fe-type nitrile hydratase α(ɛ) protein complex from Rhodococcus equi TG328-2
+(ReNHase) was discovered and shown by MALDI-TOF to form a 1:1 complex. As
+isolated, the α(ɛ) protein complex exhibited no detectable NHase activity even in
+the presence of iron. The addition of the ReNHase β-subunit and Fe(II) to the
+ReNHase apo-α(ε) complex, provided an enzyme with a kcat value of 0.7 ± 0.1 s-1
+using acrylonitrile as the substrate, indicating that the β-subunit is important 
+for the reconstitution of NHase activity. The addition of the reducing agent TCEP
+enhanced the activity by more than 50% (kcat of 1.7 ± 0.2 s-1). As the (ɛ)
+protein was previously shown to bind and hydrolyze GTP, the addition of GTP to
+the as-purified α(ε) complex provided a kcat value of 1.1 ± 0.2 s-1, in the
+presence of Fe(II) and β-subunit. The addition of TCEP to this combination
+further enhanced the activity (kcat of 2.1 ± 0.3 s-1). Apo α-subunit was
+expressed in purified and added to the (ɛ) protein and β-subunits plus Fe(II) and
+TCEP resulting in a kcat value of 0.7 ± 0.2 s-1 suggesting an α(ɛ) complex can
+form in vitro. The addition of GTP to this sample increased the observed rate of 
+nitrile hydration by ~ 30%, while TCEP free samples exhibited no activity. Taken 
+together, these data provide insight into the role of the (ɛ) protein and the
+newly discovered α(ɛ) complex in NHase metallocenter assembly.
+
+DOI: 10.1007/s00775-020-01806-y 
+PMID: 32812122 
+

@@ -1,0 +1,45 @@
+
+1. Ecotoxicol Environ Saf. 2020 Apr 1;192:110250. doi: 10.1016/j.ecoenv.2020.110250.
+Epub 2020 Feb 3.
+
+Transcriptome profiling reveals the molecular processes for survival of
+Lysinibacillus fusiformis strain 15-4 in petroleum environments.
+
+Li SW(1), Huang YX(2), Liu MY(2).
+
+Author information: 
+(1)School of Environmental and Municipal Engineering, Lanzhou Jiaotong
+University, 730070, PR China. Electronic address: lishweng@mail.lzjtu.cn.
+(2)School of Environmental and Municipal Engineering, Lanzhou Jiaotong
+University, 730070, PR China.
+
+A bacterial strain designated Lysinibacillus fusiformis 15-4 was isolated from
+oil-free soil on the Qinghai-Tibet Plateau, which can grow well utilizing
+petroleum hydrocarbons as a carbon source at a lower temperature. To deeply
+characterize the molecular adaptations and metabolic processes of this strain
+when grown in a petroleum-containing environment, transcriptome analysis was
+performed. A total of 4664 genes and the expression of 3969 genes were observed
+in strain 15-4. When the strain was grown in petroleum-containing medium, 2192
+genes were significantly regulated, of which 1312 (60%) were upregulated and 880 
+(40%) were downregulated. This strain degraded and adapted to petroleum via
+modulation of diverse molecular processes, including improvements in transporter 
+activity, oxidoreductase/dehydrogenase activity, two-component system/signal
+transduction, transcriptional regulation, fatty acid catabolism, amino acid
+metabolism, and environmental stress responses. Many strain-specific genes were
+involved in the oxidation of hydrocarbon compounds, such as several luciferase
+family alkane monooxygenase genes, flavin-utilizing monooxygenase family genes,
+and flavoprotein-like family alkanesulfonate monooxygenase genes. Several cold
+shock protein genes were also induced suggesting adaptation to cold environments 
+and the potential for petroleum degradation at low temperatures. The results
+obtained in this study may broaden our understanding of molecular adaptation of
+bacteria to hydrocarbon-containing environments and may provide valuable data for
+further study of L. fusiformis.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ecoenv.2020.110250 
+PMID: 32028154  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interests The authors
+declare that they have no competing interests.
+

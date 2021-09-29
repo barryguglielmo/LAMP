@@ -1,0 +1,45 @@
+
+1. Antonie Van Leeuwenhoek. 2020 Mar;113(3):389-396. doi:
+10.1007/s10482-019-01348-7. Epub 2019 Oct 18.
+
+Bacillus yapensis sp. nov., a novel piezotolerant bacterium isolated from
+deep-sea sediment of the Yap Trench, Pacific Ocean.
+
+Xu X(1)(2), Yu L(2)(3), Xu G(1)(2), Wang Q(1)(2), Wei S(4), Tang X(5).
+
+Author information: 
+(1)School of Ocean Sciences, China University of Geosciences (Beijing), Beijing, 
+100083, China.
+(2)Key Laboratory of Marine Genetic Resources, Third Institute of Oceanography,
+Ministry of Natural Resources, Xiamen, 361005, China.
+(3)School of Life Science and Technology, Harbin Institute of Technology, Harbin,
+150080, China.
+(4)School of Ocean Sciences, China University of Geosciences (Beijing), Beijing, 
+100083, China. weishiping@cugb.edu.cn.
+(5)Key Laboratory of Marine Genetic Resources, Third Institute of Oceanography,
+Ministry of Natural Resources, Xiamen, 361005, China. tangxixiang@tio.org.cn.
+
+A Gram-positive, rod-shaped, endospore-forming bacterium with multiple flagella, 
+designated XXST-01T, was isolated from deep-sea sediment of Yap Trench with a
+depth of 6300 m. Activity of oxidase and catalase were found to be positive.
+Growth was observed at 10-45 °C (optimum 37 °C), pH 6-9 (optimum 7.0), 0-6% NaCl 
+(optimum 0-0.5%, w/v) and 0.1-50 MPa (optimum 0.1 MPa). Phylogenetic analysis
+based on 16S rRNA gene sequences indicated that strain XXST-01T belonged to the
+genus Bacillus. Strain XXST-01T was closely related to Bacillus kyonggiensis
+NB22T (98.4%), Bacillus siralis 171544T (97.53%), Bacillus massiliosenegalensis
+JC6T (97.30%), Bacillus oceanisediminis H2T (97.27%), Bacillus mesophilum
+IITR-54T (97.12%) and Bacillus depressus BZ1T (97.09%). The ANI and the DNA-DNA
+hybridization estimate values between strain XXST-01T and closely related type
+strains were 70.91-90.15% and 19.80-40.50%, respectively. The principal fatty
+acids were iso-C15:0, anteiso-C15:0, iso-C16:0, and iso-C14:0. The G+C content of
+the chromosomal DNA was 38.2 mol%. The respiratory quinone was determined to be
+MK-7. The polar lipids consisted of diphosphatidylglycerol, phosphatidylglycerol,
+phosphatidylethanolamine, an unidentified phospholipid and four unidentified
+aminophospholipids. The combined genotypic and phenotypic data show that strain
+XXST-01T represents a novel species within the genus Bacillus, for which the name
+Bacillus yapensis sp. nov. is proposed, with the type strain XXST-01T (=MCCC
+1A14143T = JCM 33181T).
+
+DOI: 10.1007/s10482-019-01348-7 
+PMID: 31628627  [Indexed for MEDLINE]
+

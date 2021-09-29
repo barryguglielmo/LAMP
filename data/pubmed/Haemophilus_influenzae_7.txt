@@ -1,0 +1,58 @@
+
+1. Environ Res. 2020 Oct;189:109913. doi: 10.1016/j.envres.2020.109913. Epub 2020
+Jul 12.
+
+Exposure to welding fumes suppresses the activity of T-helper cells.
+
+Knobloch J(1), Casjens S(2), Lehnert M(2), Yanik SD(3), Körber S(3), Lotz A(2),
+Rupp J(4), Raulf M(2), Zschiesche W(2), Weiss T(2), Kronsbein J(3), Koch A(5),
+Brüning T(2), Pesch B(2).
+
+Author information: 
+(1)Medical Clinic III for Pneumology Allergology, Sleep-, and Respiratory
+Medicine, Bergmannsheil University Hospital, Ruhr University Bochum;
+Bürkle-de-la-Camp-Platz 1, 44789 Bochum, Germany. Electronic address:
+juergen.knobloch@bergmannsheil.de.
+(2)Institute for Prevention and Occupational Medicine of the German Social
+Accident Insurance, Institute of the Ruhr University Bochum (IPA);
+Bürkle-de-la-Camp-Platz 1, 44789 Bochum, Germany.
+(3)Medical Clinic III for Pneumology Allergology, Sleep-, and Respiratory
+Medicine, Bergmannsheil University Hospital, Ruhr University Bochum;
+Bürkle-de-la-Camp-Platz 1, 44789 Bochum, Germany.
+(4)Department of Infectious Diseases and Microbiology, University of Lübeck,
+Ratzeburger Allee 160, 23538 Lübeck, Germany.
+(5)Zürcher RehaZentren Davos, Klinikstrasse 6, 7272 Davos-Clavadel, Switzerland; 
+Ludwig-Maximilians-University of Munich (LMU) and DZL (German Center of Lung
+Science), 81377 Munich, Germany.
+
+Welders have an increased susceptibility to airway infections with non-typeable
+Haemophilus influenzae (NTHi), which implicates immune defects and might promote 
+pneumonia and chronic obstructive pulmonary disease (COPD). We hypothesized that 
+welding-fume exposure suppresses Th1-lymphocyte activity. Non-effector CD4+
+T-cells from blood of 45 welders (n = 23 gas metal arc welders, GMAW; n = 16
+tungsten inert gas welders, TIG; n = 6 others) and 25 non-welders were ex vivo
+activated towards Th1 via polyclonal T-cell receptor stimulation and IL-12 (first
+activation step) and then stimulated with NTHi extract or lipopolysaccharide
+(LPS) (second activation step). IFNγ and IL-2 were measured by ELISA. In the
+first activation step, IFNγ was reduced in welders compared to non-welders and in
+the GMAW welders with higher concentrations of respirable particles compared to
+the lower exposed TIG welders. IFNγ was not influenced by tobacco smoking and
+correlated negatively with welding-fume exposure, respirable manganese, and iron.
+In the second activation step, NTHi and LPS induced additional IFNγ, which was
+reduced in current smokers compared to never smokers in welders as well as in
+non-welders. Analyzing both activation steps together, IFNγ production was lowest
+in smoking welders and highest in never smoking non-welders. IL-2 was not
+associated with any of these parameters. Welding-fume exposure might suppress
+Th1-based immune responses due to effects of particulate matter, which mainly
+consists of iron and manganese. For responses to NTHi this is strongest in
+smoking welders because welding fume suppresses T-cell activation towards Th1 and
+cigarette smoke suppresses the subsequent Th1-response to NTHi via LPS. Both
+effects are independent from IL-2-regulated T-cell proliferation. This might
+explain the increased susceptibility to infections and might promote COPD
+development.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.envres.2020.109913 
+PMID: 32980007 
+

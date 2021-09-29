@@ -1,0 +1,47 @@
+
+1. Sci Rep. 2020 Sep 29;10(1):15974. doi: 10.1038/s41598-020-72161-w.
+
+Safety and functional enrichment of gut microbiome in healthy subjects consuming 
+a multi-strain fermented milk product: a randomised controlled trial.
+
+Alvarez AS(1), Tap J(1), Chambaud I(1), Cools-Portier S(1), Quinquis L(1),
+Bourlioux P(2), Marteau P(3), Guillemard E(1), Schrezenmeir J(4), Derrien M(5).
+
+Author information: 
+(1)Danone Nutricia Research, Palaiseau, France.
+(2)Faculty of Pharmacy - Paris-Sud University, Chatenay-Malabry, France.
+(3)APHP, Sorbonne Université - INSERM-ERL 1157 - UMR7203, Hôpital Tenon, Paris,
+France.
+(4)Clinical Research Center Kiel, Kiel Innovation and Technology Center,
+Schauenburgerstr., Kiel, Germany.
+(5)Danone Nutricia Research, Palaiseau, France. muriel.derrien@danone.com.
+
+Many clinical studies have evaluated the effect of probiotics, but only a few
+have assessed their dose effects on gut microbiota and host. We conducted a
+randomized, double-blind, controlled intervention clinical trial to assess the
+safety (primary endpoint) of and gut microbiota response (secondary endpoint) to 
+the daily ingestion for 4 weeks of two doses (1 or 3 bottles/day) of a fermented 
+milk product (Test) in 96 healthy adults. The Test product is a multi-strain
+fermented milk product, combining yogurt strains and probiotic candidate strains 
+Lactobacillus paracasei subsp. paracasei CNCM I-1518 and CNCM I-3689 and
+Lactobacillus rhamnosus CNCM I-3690. We assessed the safety of the Test product
+on the following parameters: adverse events, vital signs, hematological and
+metabolic profile, hepatic, kidney or thyroid function, inflammatory markers,
+bowel habits and digestive symptoms. We explored the longitudinal gut microbiota 
+response to product consumption and dose, by 16S rRNA gene sequencing and
+functional contribution by shotgun metagenomics. Safety results did not show any 
+significant difference between the Test and Control products whatever the
+parameters assessed, at the two doses ingested daily over a 4-week-period.
+Probiotic candidate strains were detected only during consumption period, and at 
+a significantly higher level for the three strains in subjects who consumed 3
+products bottles/day. The global structure of the gut microbiota as assessed by
+alpha and beta-diversity, was not altered by consumption of the product for four 
+weeks. A zero-inflated beta regression model with random effects (ZIBR)
+identified a few bacterial genera with differential responses to test product
+consumption dose compared to control. Shotgun metagenomics analysis revealed a
+functional contribution to the gut microbiome of probiotic candidates.
+
+DOI: 10.1038/s41598-020-72161-w 
+PMCID: PMC7524715
+PMID: 32994487 
+

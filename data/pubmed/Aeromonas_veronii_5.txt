@@ -1,0 +1,53 @@
+
+1. Front Cell Infect Microbiol. 2020 Jul 17;10:348. doi: 10.3389/fcimb.2020.00348.
+eCollection 2020.
+
+Identification of Antimicrobial Resistance Determinants in Aeromonas veronii
+Strain MS-17-88 Recovered From Channel Catfish (Ictalurus punctatus).
+
+Tekedar HC(1), Arick MA 2nd(2), Hsu CY(2), Thrash A(2), Blom J(3), Lawrence
+ML(1), Abdelhamed H(1).
+
+Author information: 
+(1)College of Veterinary Medicine, Mississippi State University, Mississippi
+State, MS, United States.
+(2)Institute for Genomics, Biocomputing and Biotechnology, Mississippi State
+University, Mississippi State, MS, United States.
+(3)Bioinformatics & Systems Biology, Justus-Liebig-University Giessen, Giessen,
+Germany.
+
+Aeromonas veronii is a Gram-negative species ubiquitous in different aquatic
+environments and capable of causing a variety of diseases to a broad host range. 
+Aeromonas species have the capability to carry and acquire antimicrobial
+resistance (AMR) elements, and currently multi-drug resistant (MDR) Aeromonas
+isolates are commonly found across the world. A. veronii strain MS-17-88 is a MDR
+strain isolated from catfish in the southeastern United States. The present study
+was undertaken to uncover the mechanism of resistance in MDR A. veronii strain
+MS-17-88 through the detection of genomic features. To achieve this, genomic DNA 
+was extracted, sequenced, and assembled. The A. veronii strain MS-17-88 genome
+comprised 5,178,226-bp with 58.6% G+C, and it encoded several AMR elements,
+including imiS, ampS, mcr-7.1, mcr-3, catB2, catB7, catB1, floR, vat(F), tet(34),
+tet(35), tet(E), dfrA3, and tetR. The phylogeny and resistance profile of a large
+collection of A. veronii strains, including MS-17-88, were evaluated.
+Phylogenetic analysis showed a close relationship between MS-17-88 and strain Ae5
+isolated from fish in China and ARB3 strain isolated from pond water in Japan,
+indicating a common ancestor of these strains. Analysis of phage elements
+revealed 58 intact, 63 incomplete, and 15 questionable phage elements among the
+53 A. veronii genomes. The average phage element number is 2.56 per genome, and
+strain MS-17-88 is one of two strains having the maximum number of identified
+prophage elements (6 elements each). The profile of resistance against various
+antibiotics across the 53 A. veronii genomes revealed the presence of tet(34),
+mcr-7.1, mcr-3, and dfrA3 in all genomes (100%). By comparison, sul1 and sul2
+were detected in 7.5% and 1.8% of A. veronii genomes. Nearly 77% of strains
+carried tet(E), and 7.5% of strains carried floR. This result suggested a low
+abundance and prevalence of sulfonamide and florfenicol resistance genes compared
+with tetracycline resistance among A. veronii strains. Overall, the present study
+provides insights into the resistance patterns among 53 A. veronii genomes, which
+can inform therapeutic options for fish affected by A. veronii.
+
+Copyright © 2020 Tekedar, Arick, Hsu, Thrash, Blom, Lawrence and Abdelhamed.
+
+DOI: 10.3389/fcimb.2020.00348 
+PMCID: PMC7379393
+PMID: 32766165 
+

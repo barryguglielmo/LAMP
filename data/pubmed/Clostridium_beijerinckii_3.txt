@@ -1,0 +1,32 @@
+
+1. J Agric Food Chem. 2020 Sep 2;68(35):9475-9487. doi: 10.1021/acs.jafc.0c00050.
+Epub 2020 Aug 12.
+
+Metabolic and Process Engineering of Clostridium beijerinckii for Butyl Acetate
+Production in One Step.
+
+Fang D(1), Wen Z(1), Lu M(1), Li A(1), Ma Y(1), Tao Y(1), Jin M(1).
+
+Author information: 
+(1)School of Environmental and Biological Engineering, Nanjing University of
+Science & Technology, Nanjing 210094, China.
+
+n-Butyl acetate is an important food additive commonly produced via concentrated 
+sulfuric acid catalysis or immobilized lipase catalysis of butanol and acetic
+acid. Compared with chemical methods, an enzymatic approach is more
+environmentally friendly; however, it incurs a higher cost due to lipase
+production. In vivo biosynthesis via metabolic engineering offers an alternative 
+to produce n-butyl acetate. This alternative combines substrate production
+(butanol and acetyl-coenzyme A (acetyl-CoA)), alcohol acyltransferase expression,
+and esterification reaction in one reactor. The alcohol acyltransferase gene ATF1
+from Saccharomyces cerevisiae was introduced into Clostridium beijerinckii NCIMB 
+8052, enabling it to directly produce n-butyl acetate from glucose without lipase
+addition. Extractants were compared and adapted to realize glucose fermentation
+with in situ n-butyl acetate extraction. Finally, 5.57 g/L of butyl acetate was
+produced from 38.2 g/L of glucose within 48 h, which is 665-fold higher than that
+reported previously. This demonstrated the potential of such a metabolic approach
+to produce n-butyl acetate from biomass.
+
+DOI: 10.1021/acs.jafc.0c00050 
+PMID: 32806108 
+

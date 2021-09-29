@@ -1,0 +1,48 @@
+
+1. Int J Biol Macromol. 2020 Aug 21. pii: S0141-8130(20)34238-0. doi:
+10.1016/j.ijbiomac.2020.08.147. [Epub ahead of print]
+
+Functional genomics assessment of lytic polysaccharide mono-oxygenase with
+glycoside hydrolases in Paenibacillus dendritiformis CRN18.
+
+Srivastava S(1), Dafale NA(2), Purohit HJ(3).
+
+Author information: 
+(1)Environmental Biotechnology & Genomics Division, CSIR-National Environmental
+Engineering Research Institute (NEERI), Nagpur 440 020, India; AcSIR-Academy for 
+Scientific and Innovative Research, Ghaziabad 201 002, India.
+(2)Environmental Biotechnology & Genomics Division, CSIR-National Environmental
+Engineering Research Institute (NEERI), Nagpur 440 020, India; AcSIR-Academy for 
+Scientific and Innovative Research, Ghaziabad 201 002, India. Electronic address:
+na_dafale@neeri.res.in.
+(3)Environmental Biotechnology & Genomics Division, CSIR-National Environmental
+Engineering Research Institute (NEERI), Nagpur 440 020, India.
+
+Recently discovered Lytic Polysaccharide Mono-Oxygenase (LPMO) enhances the
+enzymatic deconstruction of complex polysaccharide by oxidation. The present
+study demonstrates the agricultural waste hydrolyzing capabilities of
+Paenibacillus dendritiformis CRN18, which exhibits the enzyme activity of
+exo-glucanase, β-glucosidase, β-glucuronidase, endo-1, 4 β-xylanases,
+arabinosidase, and α-galactosidase as 0.1 U/ml, 0.3 U/ml, 0.09 U/ml, 0.1 U/ml,
+0.05 U/ml, and 0.41 U/ml, respectively. The genome analysis of strain reveals the
+presence of four LPMO genes, along with lignocellulolytic genes. The gene
+structure of LPMO and its phylogenetic analysis shows the evolutionary
+relatedness with the Bacillus LPMO gene. Gene position of LPMOs in the genome of 
+strains shows the close association of two LPMOs with chitin active enzyme GH18, 
+and the other two are associated with hemicellulases (GH39, GH23).
+Protein-protein interaction and gene networking of LPMO sheds light on the
+co-occurrence, neighborhood, and interaction of LPMOs with chitinase and xylanase
+enzymes. Structural prediction of LPMOs unravels the information of the LPMO's
+binding site. Although the LPMO has been explored for its oxidative mechanism, a 
+little light has been shed on its gene structure. This study provides insights
+into the LPMO gene structure in P. dendritiformis CRN18 and its potential in
+lignocellulose hydrolysis.
+
+Copyright © 2018. Published by Elsevier B.V.
+
+DOI: 10.1016/j.ijbiomac.2020.08.147 
+PMID: 32835796 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no financial or commercial conflict of interest.
+

@@ -1,0 +1,45 @@
+
+1. Biosens Bioelectron. 2020 Sep 24;169:112651. doi: 10.1016/j.bios.2020.112651.
+[Epub ahead of print]
+
+An IoT-enabled paper sensor platform for real-time analysis of isothermal nucleic
+acid amplification tests.
+
+Liu M(1), Zhao Y(2), Monshat H(3), Tang Z(1), Wu Z(4), Zhang Q(4), Lu M(5).
+
+Author information: 
+(1)Department of Electrical and Computer Engineering, Iowa State University,
+Ames, IA, 50011, USA.
+(2)Department of Chemical and Biological Engineering, Iowa State University,
+Ames, IA, 50011, USA.
+(3)Department of Mechanical Engineering, Iowa State University, Ames, IA, 50011, 
+USA.
+(4)Department of Veterinary Microbiology and Preventive Medicine, Iowa State
+University, Ames, IA, 50011, USA.
+(5)Department of Electrical and Computer Engineering, Iowa State University,
+Ames, IA, 50011, USA; Department of Mechanical Engineering, Iowa State
+University, Ames, IA, 50011, USA. Electronic address: menglu@iastate.edu.
+
+Paper-based sensors can be exploited to develop low-cost, disposable, and rapid
+assays for the detection of a large variety of analytes. We report a paper-based 
+sensor system for a point-of-care (POC) nucleic acid amplification test that can 
+quantitatively detect multiple genes from different pathogens. The POC system
+combines a paper sensor chip and a portable instrument, which is built on an
+Internet of Things (IoT) platform. The paper-based sensor provides the functions 
+of reagent storage, sample transportation, and nucleic acid amplification. The
+IoT instrument uses an Arduino microcontroller to control temperature, collect
+fluorescence images, and store the data in cloud storage via a WiFi network. A
+compact fluorescence reader was designed to measure fluorescence images of the
+amplicons during a loop-mediated isothermal amplification reaction in real-time. 
+The real-time detection capability enables the quantitative analysis of target
+genes. The results show that the paper-based sensor cam distinguish multiple
+genes of the genomic DNA extracted from Escherichia coli and Campylobacter
+jejuni, with the concentration as low as 2 × 103 copies/μL. The affordable
+instrument, in conjunction with the disposable paper sensor chip, would have a
+great potential for POC detections of pathogens.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bios.2020.112651 
+PMID: 33002794 
+

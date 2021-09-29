@@ -1,0 +1,40 @@
+
+1. Int J Mol Sci. 2020 Jun 3;21(11). pii: E4011. doi: 10.3390/ijms21114011.
+
+An off-the-Shelf Approach for the Production of Fc Fusion Proteins by Protein
+Trans-Splicing towards Generating a Lectibody In Vitro.
+
+Jaakkonen A(1)(2), Volkmann G(1), Iwaï H(1).
+
+Author information: 
+(1)Institute of Biotechnology, University of Helsinki, FI-00014 Helsinki,
+Finland.
+(2)Present Address: Microbiology Unit, Finnish Food Authority, FI-00790 Helsinki,
+Finland.
+
+Monoclonal antibodies, engineered antibodies, and antibody fragments have become 
+important biological therapeutic platforms. The IgG format with bivalent binding 
+sites has a modular structure with different biological roles, i.e., effector and
+binding functions, in different domains. We demonstrated the reconstruction of an
+IgG-like domain structure in vitro by protein ligation using protein
+trans-splicing. We produced various binding domains to replace the binding domain
+of IgG from Escherichia coli and the Fc domain of human IgG from Brevibacillus
+choshinensis as split-intein fusions. We showed that in vitro protein ligation
+could produce various Fc-fusions at the N-terminus in vitro from the
+independently produced domains from different organisms. We thus propose an
+off-the-shelf approach for the combinatorial production of Fc fusions in vitro
+with several distinct binding domains, particularly from naturally occurring
+binding domains. Antiviral lectins from algae are known to inhibit virus entry of
+HIV and SARS coronavirus. We demonstrated that a lectin could be fused with the
+Fc-domain in vitro by protein ligation, producing an IgG-like molecule as a
+"lectibody". Such an Fc-fusion could be produced in vitro by this approach, which
+could be an attractive method for developing potential therapeutic agents against
+rapidly emerging infectious diseases like SARS coronavirus without any genetic
+fusion and expression optimization.
+
+DOI: 10.3390/ijms21114011 
+PMCID: PMC7313076
+PMID: 32503354  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

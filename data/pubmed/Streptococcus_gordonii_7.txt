@@ -1,0 +1,53 @@
+
+1. Microorganisms. 2020 Sep 13;8(9). pii: E1410. doi: 10.3390/microorganisms8091410.
+
+Regulating Oral Biofilm from Cariogenic State to Non-Cariogenic State via Novel
+Combination of Bioactive Therapeutic Composite and Gene-Knockout.
+
+Chen H(1)(2)(3), Yang Y(1), Weir MD(3), Dai Q(3)(4), Lei L(1), Homayounfar N(3), 
+Oates TW(3), Yang K(5), Zhang K(3)(5), Hu T(1), Xu HHK(3)(6)(7).
+
+Author information: 
+(1)State Key Laboratory of Oral Diseases, Department of Operative Dentistry and
+Endodontics, West China School of Stomatology, National Clinical Research Centre 
+for Oral Diseases, Sichuan University, Chengdu 610041, China.
+(2)Department of Conservative Dentistry and Endodontics, College of
+Stomatological, Chongqing Medical University, Chongqing Key Laboratory of Oral
+Diseases and Biomedical Sciences, Chongqing Municipal Key Laboratory of Oral
+Biomedical Engineering of Higher Education, Chongqing 401147, China.
+(3)Department of Advanced Oral Sciences and Therapeutics, University of Maryland 
+Dental School, Baltimore, MD 21201, USA.
+(4)Clinical Research Center of Shanxi Province for Dental and Maxillofacial
+Diseases, Key Laboratory of Shaanxi Province for Craniofacial Precision Medicine 
+Research; College of Stomatology, Xi'an Jiaotong University, Xi'an 710004, China.
+(5)Department of Orthodontics, School of Stomatology, Capital Medical University,
+Beijing 100069, China.
+(6)Center for Stem Cell Biology & Regenerative Medicine, University of Maryland
+School of Medicine, Baltimore, MD 21201, USA.
+(7)Marlene and Stewart Greenebaum Cancer Center, University of Maryland School of
+Medicine, Baltimore, MD 21201, USA.
+
+The objectives were to investigate a novel combination of gene-knockout with
+antimicrobial dimethylaminohexadecyl methacrylate (DMAHDM) composite in
+regulating oral biofilm from a cariogenic state toward a non-cariogenic state. A 
+tri-species biofilm model included cariogenic Streptococcus mutans (S. mutans),
+and non-cariogenic Streptococcus sanguinis (S. sanguinis) and Streptococcus
+gordonii (S. gordonii). Biofilm colony-forming-units (CFUs), lactic acid and
+polysaccharide production were measured. TaqMan real-time-polymerase-chain
+reaction was used to determine the percentage of each species in biofilm. The rnc
+gene-knockout for S. mutans with DMAHDM composite reduced biofilm CFU by five
+logs, compared to control (p < 0.05). Using parent S. mutans, an overwhelming S. 
+mutans percentage of 68.99% and 69.00% existed in biofilms on commercial
+composite and 0% DMAHDM composite, respectively. In sharp contrast, with a
+combination of S. mutans rnc knockout and DMAHDM composite, the cariogenic S.
+mutans percentage in biofilm was reduced to only 6.33%. Meanwhile, the
+non-cariogenic S. sanguinis + S. gordonii percentage was increased to 93.67%.
+Therefore, combining rnc-knockout with bioactive and therapeutic dental composite
+achieved the greatest reduction in S. mutans, and the greatest increase in
+non-cariogenic species, thereby yielding the least lactic acid-production. This
+novel method is promising to obtain wide applications to regulate biofilms and
+inhibit dental caries.
+
+DOI: 10.3390/microorganisms8091410 
+PMID: 32933157 
+

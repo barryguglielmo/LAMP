@@ -1,0 +1,39 @@
+
+1. Mol Microbiol. 2020 Feb;113(2):381-398. doi: 10.1111/mmi.14426. Epub 2019 Dec 2.
+
+A heme-binding protein produced by Haemophilus haemolyticus inhibits non-typeable
+Haemophilus influenzae.
+
+Latham RD(1), Torrado M(2), Atto B(3), Walshe JL(2), Wilson R(4), Guss JM(2),
+Mackay JP(2), Tristram S(3), Gell DA(1).
+
+Author information: 
+(1)School of Medicine, University of Tasmania, Hobart, Australia.
+(2)School of Life and Environmental Sciences, University of Sydney, Sydney,
+Australia.
+(3)School of Health Sciences, University of Tasmania, Launceston, Australia.
+(4)Central Science Laboratory, University of Tasmania, Hobart, Australia.
+
+Commensal bacteria serve as an important line of defense against colonisation by 
+opportunisitic pathogens, but the underlying molecular mechanisms remain poorly
+explored. Here, we show that strains of a commensal bacterium, Haemophilus
+haemolyticus, make hemophilin, a heme-binding protein that inhibits growth of the
+opportunistic pathogen, non-typeable Haemophilus influenzae (NTHi) in culture. We
+purified the NTHi-inhibitory protein from H. haemolyticus and identified the
+hemophilin gene using proteomics and a gene knockout. An x-ray crystal structure 
+of recombinant hemophilin shows that the protein does not belong to any of the
+known heme-binding protein folds, suggesting that it evolved independently.
+Biochemical characterisation shows that heme can be captured in the ferrous or
+ferric state, and with a variety of small heme-ligands bound, suggesting that
+hemophilin could function under a range of physiological conditions. Hemophilin
+knockout bacteria show a limited capacity to utilise free heme for growth. Our
+data suggest that hemophilin is a hemophore and that inhibition of NTHi occurs by
+heme starvation, raising the possibility that competition from
+hemophilin-producing H. haemolyticus could antagonise NTHi colonisation in the
+respiratory tract.
+
+© 2019 John Wiley & Sons Ltd.
+
+DOI: 10.1111/mmi.14426 
+PMID: 31742788 
+

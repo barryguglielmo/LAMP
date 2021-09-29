@@ -1,0 +1,51 @@
+
+1. Heliyon. 2020 Aug 21;6(8):e04715. doi: 10.1016/j.heliyon.2020.e04715. eCollection
+2020 Aug.
+
+Discovery and characterisation of circular bacteriocin plantacyclin B21AG from
+Lactiplantibacillus plantarum B21.
+
+Golneshin A(1)(2), Gor MC(1), Williamson N(3), Vezina B(4), Van TTH(1), May
+BK(1), Smith AT(4).
+
+Author information: 
+(1)School of Sciences, RMIT University, Bundoora, Victoria, Australia.
+(2)Edlyn Foods Pty, 3 Ricky Way, Epping, Victoria, Australia.
+(3)Mass Spectrometry and Proteomics Facility, The Bio21 Molecular Science and
+Biotechnology Institute, The University of Melbourne, Melbourne, Victoria,
+Australia.
+(4)Griffith Institute for Drug Discovery, Griffith University, Nathan,
+Queensland, Australia.
+
+Lactiplantibacillus plantarum B21 isolated from Vietnamese sausage (nem chua) has
+previously displayed broad antimicrobial activity against Gram-positive bacteria 
+including foodborne pathogens Listeria monocytogenes and Clostridium perfringens.
+This study successfully identified the antimicrobial agent as plantacyclin B21AG,
+a 5668 Da circular bacteriocin demonstrating high thermostability, resistance to 
+a wide range of pH, proteolytic resistance and temporal stability. We report a
+reverse genetics approach to identify and characterise plantacyclin B21AG from
+first principles. The bacteriocin was purified from culture supernatant by a
+three-step process consisting of concentration, n-butanol extraction and cation
+exchange chromatography. A de novo peptide sequencing using LC-MS/MS techniques
+identified two putative peptide fragments which were mapped to the genome
+sequence of L. plantarum B21. This revealed an ORF corresponding to a putative
+circular bacteriocin with a 33-amino acid leader peptide and a 58-amino acid
+mature peptide encoded on a native plasmid pB21AG01. The bacteriocin is shown to 
+be a small cationic predominantly α-helical protein (69%). The corresponding gene
+cluster, consisted of seven genes associated with post-translational
+circularisation, immunity and secretion. Whilst plantacyclin B21AG is 86%
+identical to the newly published plantaricyclin A it is more highly cationic
+having a net charge of +3 due to an additional basic residue in the putative
+membrane interaction region. This and other substitutions may well go some way to
+explaining functional differences. The robust nature of plantacyclin B21AG, its
+antimicrobial activity and associated machinery for cyclisation make it an
+interesting biotechnological target for development, both as a food-safe
+antimicrobial or potentially a platform technology for recombinant protein
+circularisation.
+
+© 2020 The Author(s).
+
+DOI: 10.1016/j.heliyon.2020.e04715 
+PMCID: PMC7452424
+PMID: 32904251 
+

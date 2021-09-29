@@ -1,0 +1,60 @@
+
+1. Nat Commun. 2020 Jan 24;11(1):466. doi: 10.1038/s41467-019-14139-5.
+
+Integrating multiple genomic technologies to investigate an outbreak of
+carbapenemase-producing Enterobacter hormaechei.
+
+Roberts LW(1)(2)(3), Harris PNA(4)(5), Forde BM(1)(2)(3), Ben Zakour NL(1)(2)(3),
+Catchpoole E(6), Stanton-Cook M(1)(2), Phan MD(1)(2), Sidjabat HE(2)(7), Bergh
+H(6), Heney C(6), Gawthorne JA(1)(2), Lipman J(7)(8), Allworth A(9), Chan
+KG(10)(11), Chong TM(10), Yin WF(10), Schembri MA(1)(2), Paterson DL(2)(7),
+Beatson SA(12)(13)(14).
+
+Author information: 
+(1)School of Chemistry and Molecular Biosciences, The University of Queensland,
+Brisbane, QLD, Australia.
+(2)Australian Infectious Diseases Research Centre, The University of Queensland, 
+Brisbane, QLD, Australia.
+(3)Australian Centre for Ecogenomics, The University of Queensland, Brisbane,
+QLD, Australia.
+(4)UQ Centre for Clinical Research, The University of Queensland, Brisbane, QLD, 
+Australia. p.harris@uq.edu.au.
+(5)Pathology Queensland, Central Microbiology, Brisbane, QLD, Australia.
+p.harris@uq.edu.au.
+(6)Pathology Queensland, Central Microbiology, Brisbane, QLD, Australia.
+(7)UQ Centre for Clinical Research, The University of Queensland, Brisbane, QLD, 
+Australia.
+(8)Burns Trauma and Critical Care Research Centre, The University of Queensland, 
+Brisbane, QLD, Australia.
+(9)Infectious Disease Unit, Royal Brisbane & Women's Hospital, Brisbane, QLD,
+Australia.
+(10)Division of Genetics and Molecular Biology, Institute of Biological Sciences,
+Faculty of Science, University of Malaya, Kuala Lumpur, Malaysia.
+(11)International Genome Centre, Jiangsu University, Zhenjiang, China.
+(12)School of Chemistry and Molecular Biosciences, The University of Queensland, 
+Brisbane, QLD, Australia. s.beatson@uq.edu.au.
+(13)Australian Infectious Diseases Research Centre, The University of Queensland,
+Brisbane, QLD, Australia. s.beatson@uq.edu.au.
+(14)Australian Centre for Ecogenomics, The University of Queensland, Brisbane,
+QLD, Australia. s.beatson@uq.edu.au.
+
+Carbapenem-resistant Enterobacteriaceae (CRE) represent an urgent threat to human
+health. Here we report the application of several complementary whole-genome
+sequencing (WGS) technologies to characterise a hospital outbreak of blaIMP-4
+carbapenemase-producing E. hormaechei. Using Illumina sequencing, we determined
+that all outbreak strains were sequence type 90 (ST90) and near-identical.
+Comparison to publicly available data linked all outbreak isolates to a 2013
+isolate from the same ward, suggesting an environmental source in the hospital.
+Using Pacific Biosciences sequencing, we resolved the complete context of the
+blaIMP-4 gene on a large IncHI2 plasmid carried by all IMP-4-producing strains
+across different hospitals. Shotgun metagenomic sequencing of environmental
+samples also found evidence of ST90 E. hormaechei and the IncHI2 plasmid within
+the hospital plumbing. Finally, Oxford Nanopore sequencing rapidly resolved the
+true relationship of subsequent isolates to the initial outbreak. Overall, our
+strategic application of three WGS technologies provided an in-depth analysis of 
+the outbreak.
+
+DOI: 10.1038/s41467-019-14139-5 
+PMCID: PMC6981164
+PMID: 31980604  [Indexed for MEDLINE]
+

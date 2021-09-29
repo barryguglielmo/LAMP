@@ -1,0 +1,59 @@
+
+1. Front Microbiol. 2020 Jan 24;11:39. doi: 10.3389/fmicb.2020.00039. eCollection
+2020.
+
+Role of the LytSR Two-Component Regulatory System in Staphylococcus lugdunensis
+Biofilm Formation and Pathogenesis.
+
+Dahyot S(1), Oxaran V(2), Niepceron M(3), Dupart E(3), Legris S(3), Destruel
+L(3), Didi J(3), Clamens T(4), Lesouhaitier O(4), Zerdoumi Y(5), Flaman JM(5),
+Pestel-Caron M(1).
+
+Author information: 
+(1)Groupe de Recherche sur l'Adaptation Microbienne (GRAM 2.0), Department of
+Bacteriology, Rouen University Hospital, Normandie University, UNIROUEN, UNICAEN,
+Rouen, France.
+(2)Department of Biological Sciences, Border Biomedical Research Center,
+University of Texas at El Paso, El Paso, TX, United States.
+(3)Groupe de Recherche sur l'Adaptation Microbienne (GRAM 2.0), Normandie
+University, UNIROUEN, UNICAEN, Rouen, France.
+(4)Laboratory of Microbiology Signals and Microenvironment (LMSM), Normandie
+University, UNIROUEN, Evreux, France.
+(5)INSERM U1245, Normandy Centre for Genomic and Personalized Medicine, Rouen
+University Hospital, Normandie University, UNIROUEN, Rouen, France.
+
+Staphylococcus lugdunensis is a coagulase negative Staphylococcus recognized as a
+virulent pathogen. It is responsible for a wide variety of infections, some of
+which are associated with biofilm production, such as implanted medical device
+infections or endocarditis. However, little is known about S. lugdunensis
+regulation of virulence factor expression. Two-component regulatory systems (TCS)
+play a critical role in bacterial adaptation, survival, and virulence. Among
+them, LytSR is widely conserved but has variable roles in different organisms,
+all connected to metabolism or cell death and lysis occurring during biofilm
+development. Therefore, we investigated here the functions of LytSR in S.
+lugdunensis pathogenesis. Deletion of lytSR in S. lugdunensis DSM 4804 strain did
+not alter either susceptibility to Triton X-100 induced autolysis or death
+induced by antibiotics targeting cell wall synthesis. Interestingly, ΔlytSR
+biofilm was characterized by a lower biomass, a lack of tower structures, and a
+higher rate of dead cells compared to the wild-type strain. Virulence toward
+Caenorhabditis elegans using a slow-killing assay was significantly reduced for
+the mutant compared to the wild-type strain. By contrast, the deletion of lytSR
+had no effect on the cytotoxicity of S. lugdunensis toward the human keratinocyte
+cell line HaCaT. Transcriptional analyses conducted at mid- and late-exponential 
+phases showed that lytSR deletion affected the expression of 286 genes. Most of
+them were involved in basic functions such as the metabolism of amino acids,
+carbohydrates, and nucleotides. Furthermore, LytSR appeared to be involved in the
+regulation of genes encoding known or putative virulence and colonization
+factors, including the fibrinogen-binding protein Fbl, the major autolysin AtlL, 
+and the type VII secretion system. Overall, our data suggest that the LytSR TCS
+is implicated in S. lugdunensis pathogenesis, through its involvement in biofilm 
+formation and potentially by the control of genes encoding putative virulence
+factors.
+
+Copyright © 2020 Dahyot, Oxaran, Niepceron, Dupart, Legris, Destruel, Didi,
+Clamens, Lesouhaitier, Zerdoumi, Flaman and Pestel-Caron.
+
+DOI: 10.3389/fmicb.2020.00039 
+PMCID: PMC6993578
+PMID: 32038604 
+

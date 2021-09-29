@@ -1,0 +1,52 @@
+
+1. Int J Microbiol. 2020 Sep 4;2020:6572693. doi: 10.1155/2020/6572693. eCollection 
+2020.
+
+Detection and Profiling of Antibiotic Resistance among Culturable Bacterial
+Isolates in Vended Food and Soil Samples.
+
+Muriuki SW(1), Neondo JO(2), Budambula NLM(1).
+
+Author information: 
+(1)Department of Biological Sciences, University of Embu, P.O. Box 6-60100, Embu,
+Kenya.
+(2)Institute for Biotechnology Research, Jomo Kenyatta University of Agriculture 
+and Technology, P.O. Box 62000-00200, Nairobi, Kenya.
+
+The emergence and persistence of antibiotic resistance remain formidable health
+challenges. This study aimed at detecting and profiling antibiotic resistance of 
+bacterial contaminants in vended food and the environment. Seventy
+antibiotic-resistant bacterial isolates were isolated from fried fish, African
+sausages, roasted meat, smokies, samosa, chips (potato fries), vegetable salads, 
+and soil samples collected from Embu Town and Kangaru Market in Embu County,
+Kenya. The antibiotic susceptibility test, morphological and biochemical
+characterization, antibiosis assay, polymerase chain reaction-based detection of 
+antibiotic resistance genes, and sequencing of the 16S rRNA gene were done.
+Analysis of variance on all measured data was done, and Tukey's honest test was
+used to compare and separate mean diameters of zones inhibition. Resistance of
+bacterial isolates to antibiotics was chloramphenicol (90%), cefotaxime (84.29%),
+nalidixic acid (81.43%), tetracycline (77.14%), amoxicillin (72.86%), gentamycin 
+(48.57%), streptomycin (32.86%), and trimethoprim + sulphamethoxazole (30%).
+Isolate KMP337, Salmonella spp., exhibited highly significant antibiosis against 
+S. aureus recording a mean inhibition diameter and standard error (SE) of
+16.33 ± 0.88 mm, respectively, at P=0.001. The 70 bacterial isolates belonged to 
+Bacillus, Paraclostridium, Lysinibacillus, Virgibacillus, and Serratia genera.
+The study isolated Bacillus wiedmannii (KC75) which is a risk group 2 as well as 
+Serratia marcescens (KMP95) and Bacillus anthracis (KS606) which are risk group 3
+organisms. The presence of antibiotic resistance genes Tet A, Bla TEM, StrB, Dfr 
+A, Amp, and FloR genes was confirmed by a polymerase chain reaction. Samples from
+Kangaru Market recorded a higher (88.57%) proportion of resistant isolates as
+compared to isolates from Embu Town (11.43%). The study confirmed the presence of
+antibiotic-resistant bacteria in vended fast food and the soil in Embu Town and
+Kangaru Market. This study calls for continuous monitoring of bacterial status
+and hygienic handling of vended food.
+
+Copyright © 2020 Susan W. Muriuki et al.
+
+DOI: 10.1155/2020/6572693 
+PMCID: PMC7493785
+PMID: 32963538 
+
+Conflict of interest statement: The authors declare that there are no conflicts
+of interest in the publication of this paper.
+

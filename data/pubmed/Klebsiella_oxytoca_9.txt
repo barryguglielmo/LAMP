@@ -1,0 +1,43 @@
+
+1. Dose Response. 2020 Jul 24;18(3):1559325820941374. doi: 10.1177/1559325820941374.
+eCollection 2020 Jul-Sep.
+
+Bactericidal Activity Study of ZrO2-Ag2O Nanoparticles.
+
+Ayanwale AP(1), Ruíz-Baltazar AJ(2), Espinoza-Cristóbal L(1), Reyes-López SY(1).
+
+Author information: 
+(1)Instituto de Ciencias Biomédicas, Universidad Autónoma de Ciudad Juárez,
+Envolvente del PRONAF y Estocolmo s/n, Ciudad Juárez, Chih, México.
+(2)CONACYT-Centro de Física Aplicada y Tecnología Avanzada, Universidad Nacional 
+Autónoma de México, Boulevard Juriquilla, Juriquilla Querétaro, QRO, México.
+
+In view of the continuous resistance to antibacterial agents by bacteria and the 
+existing problems of silver nanoparticles as an antibacterial agent, this study
+reports on the synthesis of pure zirconium oxide, silver oxide, and ZrO2-Ag2O
+nanoparticles by sol-gel method. The nanoparticles were analyzed and tested for
+their antibacterial activity against gram-positive bacteria of Bacillus subtilis,
+Streptococcus mutans, Staphylococcus aureus, and gram-negative of Escherichia
+coli, Pseudomonas aeruginosa, and Klebsiella oxytoca. X-ray diffraction showed
+the monoclinic ZrO2, cubic Ag2O, and peaks corresponding to ZrO2 and Ag2O in
+their mixed samples. Scanning electron microscopy showed spherically shaped
+nanoparticles while dynamic light scattering analysis showed ZrO2 (76 nm), Ag2O
+(50 nm), and ZrO2-Ag2O samples between 14 and 42 nm. The Fourier Transformed
+Infrared spectroscopy spectra of ZrO2 gave bands at 480 cm-1 to 750 cm-1 (M-O
+stretching) with Ag2O at 580 cm-1, while ZrO2-Ag2O samples showed bands at 760
+cm-1. The screening by agar diffusion assay revealed a pronounced increase in the
+antibacterial activity of ZrO2-Ag2O against all the tested bacteria when compared
+with the pure ZrO2 and Ag2O. The improved antibacterial activity of ZrO2-Ag2O
+largely results from the chemical stability conferred on it by the ZrO2 as
+observed from the zeta potential measurement.
+
+© The Author(s) 2020.
+
+DOI: 10.1177/1559325820941374 
+PMCID: PMC7383718
+PMID: 32782447 
+
+Conflict of interest statement: Declaration of Conflicting Interests: The
+author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.
+

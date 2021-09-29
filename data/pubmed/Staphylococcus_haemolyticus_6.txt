@@ -1,0 +1,37 @@
+
+1. Antimicrob Agents Chemother. 2020 Aug 17. pii: AAC.00666-20. doi:
+10.1128/AAC.00666-20. [Epub ahead of print]
+
+Ribosome-mediated attenuation of vga(A) expression is shaped by the antibiotic
+resistance specificity of Vga(A) protein variants.
+
+Vimberg V(1), Cavanagh JP(2)(3), Novotna M(1), Lenart J(1)(4), Nguyen Thi Ngoc
+B(1), Vesela J(1), Pain M(3), Koberska M(1), Balikova Novotna G(5).
+
+Author information: 
+(1)Institute of Microbiology of the Czech Academy of Sciences, Vestec, Czech
+Republic.
+(2)Department of Pediatrics, University Hospital of North Norway, Tromsø, Norway.
+(3)Department of Clinical Medicine, UiT The Arctic University of Norway, Tromsø, 
+Norway.
+(4)Department of Genetics and Microbiology, Faculty of Science, Charles
+University, Prague, Czech Republic.
+(5)Institute of Microbiology of the Czech Academy of Sciences, Vestec, Czech
+Republic gnovotna@biomed.cas.cz.
+
+Vga(A) protein variants confer different levels of resistance to lincosamides,
+streptogramins A and pleuromutilins (LSAP) by displacing antibiotics from the
+ribosome. Here we show that expression of vga(A) variants from Staphylococcus
+haemolyticus is regulated by cis-regulatory RNA in response to the LSAP
+antibiotics by the mechanism of ribosome-mediated attenuation. The specificity of
+induction depends on the Vga(A)-mediated resistance rather than on the sequence
+of the riboregulator. Fine-tuning between Vga(A) activity and its expression in
+response to the antibiotics may contribute to the selection of more potent Vga(A)
+variants because newly acquired mutation can be immediately phenotypically
+manifested.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.00666-20 
+PMID: 32816732 
+

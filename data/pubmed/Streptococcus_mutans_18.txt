@@ -1,0 +1,51 @@
+
+1. Appl Environ Microbiol. 2020 Sep 25. pii: AEM.01647-20. doi:
+10.1128/AEM.01647-20. [Epub ahead of print]
+
+Expression of an extracellular protein (SMU.63) is regulated by SprV in
+Streptococcus mutans.
+
+Pandey SD(1), Biswas I(2).
+
+Author information: 
+(1)Department of Microbiology, Molecular Genetics and Immunology, University of
+Kansas Medical Center, Kansas City, KS, USA.
+(2)Department of Microbiology, Molecular Genetics and Immunology, University of
+Kansas Medical Center, Kansas City, KS, USA ibiswas@kumc.edu.
+
+In Streptococcus mutans, SprV (SMU.2137) is a pleiotropic regulator that
+differentially regulates genes related to competence, mutacin production, biofilm
+formation, stress tolerance response along with some other pathways. In this
+study, we established a link between SprV and a ∼67KDa protein in culture
+supernatant of UA159 strain that was later confirmed as SMU.63 by MALDI ToF/MS
+analysis. We discovered that SprV downregulates the transcription and translation
+of SMU.63. We found that the seven amino acids from the C-terminal region of SprV
+were also crucial for the expression of SMU.63. Deletion of SMU.63 leads to
+increased sucrose-independent biofilm formation and competence. The sprV deletion
+also increased biofilm formation although this could be partially attributed to
+the down-regulation of SMU. 63. In sprV-SMU.63 double mutant, a synergistic
+effect observed in biofilm formation in contrary to competence development. We
+found that low or excess magnesium ion represses sprV transcription that in turn 
+affected the expression of SMU.63. As expected, a magnesium ion dependent effect 
+of competence and biofilm formation was observed in the UA159 strain. We also
+replicated the results of SMU.63 expression and competence in S. mutans GS-5 that
+encodes both SprV and SMU.63 homologs and found that the GS-5 strain behaves
+similarly to the UA159 strain, indicating that SprV's effect is strain
+independent.IMPORTANCE We previously identified a pleiotropic regulator, SprV, in
+Streptococcus mutans This regulator appears to be highly conserved among
+streptococci. Here we showed that SprV regulates the expression of a secreted
+protein encoded by SMU.63 in S. mutans SMU.63 has been known to impact biofilm
+formation and genetic competence, two important characteristics that help in
+colonization of the organism. SMU.63 is also unique since it is known to form
+amyloid fiber. We found that SprV regulates the expression of SMU.63 both at the 
+transcription and translation level. We also found that the expression of SprV is
+regulated by magnesium ion concentration. Interestingly, both low and high
+magnesium ion concentration affected biofilm formation and genetic competence.
+Since SMU.63 is also highly conserved among streptococci, we hypothesized that
+SprV will have similar effect on its expression.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.01647-20 
+PMID: 32978138 
+

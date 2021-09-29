@@ -1,0 +1,55 @@
+
+1. J Biosci Bioeng. 2020 May;129(5):541-551. doi: 10.1016/j.jbiosc.2019.11.010. Epub
+2019 Dec 9.
+
+Characterisation of the bacterial community structures of sunki, a traditional
+unsalted pickle of fermented turnip leaves.
+
+Tomita S(1), Watanabe J(2), Nakamura T(2), Endo A(3), Okada S(4).
+
+Author information: 
+(1)Food Research Institute, National Agriculture and Food Research Organization
+(NARO), 2-1-12 Kannondai, Tsukuba, Ibaraki 305-8642, Japan. Electronic address:
+satorutomita@affrc.go.jp.
+(2)Food Research Institute, National Agriculture and Food Research Organization
+(NARO), 2-1-12 Kannondai, Tsukuba, Ibaraki 305-8642, Japan.
+(3)Department of Food, Aroma and Cosmetic Chemistry, Tokyo University of
+Agriculture, 196 Yasaka, Abashiri, Hokkaido 099-2493, Japan.
+(4)Kiso Town Resource Institute, 2326-6 Fukushima, Kisomachi, Kiso, Nagano
+397-8588, Japan; Department of Applied Biological Science, Faculty of
+Agriculture, Takasaki University of Health and Welfare, 54 Nakaorui, Takasaki,
+Gunma 370-0033, Japan.
+
+The bacterial community structure in 29 naturally fermented samples of sunki, an 
+unsalted lactic-fermented pickle in Japan, was determined by 16S rRNA
+gene-targeted metagenomic analysis. The data revealed that genus Lactobacillus
+was dominant in all samples and various bacterial species, related to
+Lactobacillus delbrueckii, Lactobacillus plantarum, Lactobacillus buchneri,
+Lactobacillus fermentum, Lactobacillus reuteri, Lactobacillus crispatus,
+Lactobacillus intestinalis, and Lactobacillus gasseri, showed a range of
+dominance depending on the samples. Comparative analysis of the bacterial
+composition by principal coordinate analysis and hierarchical clustering
+classified the varied bacterial composition of the 29 samples into three types of
+bacterial community structure. These types comprised lactobacilli belonging to
+different phylogenetic groups: type A had a certain ratio of
+Lactobacillus fermentum (70.3-22.1%, average 41.2%) in combination with several
+species belonging to Lactobacillus delbrueckii-phylogenetic group, type B
+comprised remarkably high levels of species Lactobacillus delbrueckii (average
+89.5%), and type C had combinations of species belonging to
+Lactobacillus plantarum- and Lactobacillus buchneri-phylogenetic groups.
+Interestingly, these types differed in the compositional profiles of
+water-soluble and volatile compounds, and statistically significant differences
+were observed in the levels of acetic acid, succinic acid, ethanol, ethyl
+acetate, glutamic acid, γ-aminobutyric acid, and isovaleraldehyde. Furthermore,
+metabolomic analysis revealed a correlation of Lactobacillus fermentum dominance 
+with pH value and lactic and acetic acid levels, with high R values of
+0.643, -0.642, and 0.528, respectively. The data reported in this study showed
+the characteristics of the bacterial composition in the unsalted sunki pickle and
+its potential relationship with the compositional profile.
+
+Copyright © 2019 The Society for Biotechnology, Japan. Published by Elsevier B.V.
+All rights reserved.
+
+DOI: 10.1016/j.jbiosc.2019.11.010 
+PMID: 31826833  [Indexed for MEDLINE]
+

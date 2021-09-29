@@ -1,0 +1,60 @@
+
+1. Int J Biol Macromol. 2020 Sep 30. pii: S0141-8130(20)34569-4. doi:
+10.1016/j.ijbiomac.2020.09.210. [Epub ahead of print]
+
+Multiplex genetic engineering improves endogenous expression of mesophilic
+α-amylase gene in a wild strain Bacillus amyloliquefaciens 205.
+
+Zhao X(1), Zheng H(2), Zhen J(3), Shu W(1), Yang S(1), Xu J(3), Song H(4), Ma
+Y(5).
+
+Author information: 
+(1)Industrial Enzymes National Engineering Laboratory, Tianjin Institute of
+Industrial Biotechnology, Chinese Academy of Sciences, Tianjin 300308, China.
+(2)Industrial Enzymes National Engineering Laboratory, Tianjin Institute of
+Industrial Biotechnology, Chinese Academy of Sciences, Tianjin 300308, China;
+Tianjin Key Laboratory for Industrial Biological Systems and Bioprocessing
+Engineering, Tianjin Institute of Industrial Biotechnology, Chinese Academy of
+Sciences, Tianjin 300308, China. Electronic address: zheng_hc@tib.cas.cn.
+(3)Tianjin Key Laboratory for Industrial Biological Systems and Bioprocessing
+Engineering, Tianjin Institute of Industrial Biotechnology, Chinese Academy of
+Sciences, Tianjin 300308, China.
+(4)Industrial Enzymes National Engineering Laboratory, Tianjin Institute of
+Industrial Biotechnology, Chinese Academy of Sciences, Tianjin 300308, China;
+Tianjin Key Laboratory for Industrial Biological Systems and Bioprocessing
+Engineering, Tianjin Institute of Industrial Biotechnology, Chinese Academy of
+Sciences, Tianjin 300308, China. Electronic address: song_h@tib.cas.cn.
+(5)Industrial Enzymes National Engineering Laboratory, Tianjin Institute of
+Industrial Biotechnology, Chinese Academy of Sciences, Tianjin 300308, China.
+Electronic address: ma_yanhe@tib.cas.cn.
+
+A wild strain Bacillus amyloliquefaciens 205 was screened for its high activity
+of α-amylase. A mesophilic α-amylase encoding gene amyE-205 was revealed and
+analyzed by genome sequencing. In order to facilitate plasmid transformation to
+strain 205, an interspecific plasmid transformation method was improved with 5-13
+times higher in transformants than that of electronic transformation. A series of
+CRISPR genome editing tools have been successfully constructed for gene knockout,
+transcript repression and activation in 205 genome. At this basis, sporulation
+related genes spo0A and spoIIAC were knockout and suppressed with CRISPR/Cas9 and
+CRISPR/dCas9 respectively. The double knockout strain 205spo- was eliminated
+sporulation with 22.8% increasing of α-amylase activity. The optimal binding site
+G8 for dCas9-ω has been confirmed in the transcript activation. When amyE-205 was
+over-expressed with high copy plasmid pUC980-2, its whole upstream sequences
+containing G8 were also cloned. Whereafter, dCas9-ω was used to activate amyE-205
+expression both at genome and plasmid. The final engineered strain 205PG8spo-
+achieved 784.3% promotion on α-amylase activity than the starting strain 205. The
+novel genetic tool box containing an efficient interspecific transformation
+method and functional CRISPR systems, superadded the multiplex regulation
+strategies used in strain modification would be also applicative in many Bacillus
+species.
+
+Copyright © 2018. Published by Elsevier B.V.
+
+DOI: 10.1016/j.ijbiomac.2020.09.210 
+PMID: 33010275 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

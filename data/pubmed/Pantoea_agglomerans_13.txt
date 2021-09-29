@@ -1,0 +1,46 @@
+
+1. Sci Rep. 2020 Sep 11;10(1):14985. doi: 10.1038/s41598-020-71672-w.
+
+A carotenoid-deficient mutant of the plant-associated microbe Pantoea sp. YR343
+displays an altered membrane proteome.
+
+Vijaya Kumar S(1), Abraham PE(2), Hurst GB(2), Chourey K(2), Bible AN(1), Hettich
+RL(2), Doktycz MJ(1)(3)(4), Morrell-Falvey JL(5)(6)(7).
+
+Author information: 
+(1)UT-ORNL Graduate School of Genome Science and Technology, University of
+Tennessee, Knoxville, TN, USA.
+(2)Chemical Sciences Division, Oak Ridge National Laboratory, Oak Ridge, TN, USA.
+(3)Biosciences Division, Oak Ridge National Laboratory, Oak Ridge, TN, USA.
+(4)Center for Nanophase Materials Sciences, Oak Ridge National Laboratory, Oak
+Ridge, TN, USA.
+(5)UT-ORNL Graduate School of Genome Science and Technology, University of
+Tennessee, Knoxville, TN, USA. morrelljl1@ornl.gov.
+(6)Department of Biochemistry and Cellular and Molecular Biology, University of
+Tennessee, Knoxville, TN, USA. morrelljl1@ornl.gov.
+(7)Biosciences Division, Oak Ridge National Laboratory, Oak Ridge, TN, USA.
+morrelljl1@ornl.gov.
+
+Membrane organization plays an important role in signaling, transport, and
+defense. In eukaryotes, the stability, organization, and function of membrane
+proteins are influenced by certain lipids and sterols, such as cholesterol.
+Bacteria lack cholesterol, but carotenoids and hopanoids are predicted to play a 
+similar role in modulating membrane properties. We have previously shown that the
+loss of carotenoids in the plant-associated bacteria Pantoea sp. YR343 results in
+changes to membrane biophysical properties and leads to physiological changes,
+including increased sensitivity to reactive oxygen species, reduced
+indole-3-acetic acid secretion, reduced biofilm and pellicle formation, and
+reduced plant colonization. Here, using whole cell and membrane proteomics, we
+show that the deletion of carotenoid production in Pantoea sp. YR343 results in
+altered membrane protein distribution and abundance. Moreover, we observe
+significant differences in the protein composition of detergent-resistant
+membrane fractions from wildtype and mutant cells, consistent with the prediction
+that carotenoids play a role in organizing membrane microdomains. These data
+provide new insights into the function of carotenoids in bacterial membrane
+organization and identify cellular functions that are affected by the loss of
+carotenoids.
+
+DOI: 10.1038/s41598-020-71672-w 
+PMCID: PMC7486946
+PMID: 32917935 
+

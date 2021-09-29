@@ -1,0 +1,36 @@
+
+1. Microorganisms. 2020 Aug 7;8(8). pii: E1200. doi: 10.3390/microorganisms8081200.
+
+Marine Plastics from Norwegian West Coast Carry Potentially Virulent Fish
+Pathogens and Opportunistic Human Pathogens Harboring New Variants of Antibiotic 
+Resistance Genes.
+
+Radisic V(1)(2), Nimje PS(1), Bienfait AM(1), Marathe NP(1).
+
+Author information: 
+(1)Institute of Marine Research, 5005 Bergen, Norway.
+(2)Department of Biological Sciences, University of Bergen, 5006 Bergen, Norway.
+
+To our best knowledge this is the first study characterizing fish pathogens
+isolated from marine plastics from the West coast of Norway for their potential
+for pathogenicity using whole genome sequencing. Marine plastic polymers
+identified as polyethylene, polyethylene/ethylene vinyl acetate copolymer and
+polypropylene, yielded a total of 37 bacterial isolates dominated by Pseudomonas 
+spp. (70%). Six isolates representing either fish pathogens or opportunistic
+human pathogens were selected for whole genome sequencing (WGS). These included
+four isolates belonging to Aeromonas spp., one Acinetobacter beijerinckii isolate
+and one Morganella morganii isolate. Three Aeromonas salmonicida isolates were
+potentially virulent and carried virulence factors involved in attachment, type
+II and type VI secretion systems as well as toxins such as aerA/act, ahh1, ast,
+hlyA, rtxA and toxA. A. salmonicida and Acinetobacter beijerinckii carried new
+variants of antibiotic resistance genes (ARGs) such as β-lactamases and
+chloramphenicol acetyltransferase (catB), whereas Morganella morganii carried
+several clinically relevant ARGs. Our study shows that marine plastics carry not 
+only potentially virulent fish pathogens but also multidrug resistant
+opportunistic human pathogens like M. morganii and may serve as vectors for
+transport of these pathogens in the marine environment.
+
+DOI: 10.3390/microorganisms8081200 
+PMCID: PMC7464100
+PMID: 32784594 
+

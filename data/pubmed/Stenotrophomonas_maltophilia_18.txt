@@ -1,0 +1,48 @@
+
+1. BMC Pulm Med. 2020 Aug 31;20(1):233. doi: 10.1186/s12890-020-01275-8.
+
+Pathogenic characteristics of sputum and bronchoalveolar lavage fluid samples
+from patients with lower respiratory tract infection in a large teaching hospital
+in China: a retrospective study.
+
+Peng Z(1), Zhou J(2), Tian L(3).
+
+Author information: 
+(1)Department of Clinical Laboratory, Tongji Hospital, Tongji Medical College,
+Huazhong University of Science and Technology, Wuhan, Hubei Province, China.
+(2)Department of Blood Transfusion, Tongji Hospital, Tongji Medical College,
+Huazhong University of Science and Technology, Wuhan, Hubei Province, China.
+(3)Department of Clinical Laboratory, Tongji Hospital, Tongji Medical College,
+Huazhong University of Science and Technology, Wuhan, Hubei Province, China.
+iso15189@126.com.
+
+BACKGROUND: Lower respiratory tract infection (LRIs) is very common both in terms
+of community-acquired infection and hospital-acquired infection. Sputum and
+bronchoalveolar lavage fluid (BALF) are the most important specimens obtained
+from patients with LRI. The choice of antibiotic with which to treat LRI usually 
+depends on the antimicrobial sensitivity of bacteria isolated from sputum and
+BALF. However, differences in the antimicrobial sensitivity of pathogens isolated
+from sputum and BALF have not been evaluated.
+METHODS: A retrospective study was conducted to analyze the differences between
+sputum and BALF samples in terms of pathogen isolation and antimicrobial
+sensitivity in hospitalized patients with LRI.
+RESULTS: Between 2013 and 2015, quality evaluation of sputum samples was not
+conducted before performing sputum culture; however, between 2016 and 2018,
+quality evaluation of sputum samples was conducted first, and only
+quality-assured samples were cultured. The numbers of sputum and BALF in
+2013-2015 were 15,549 and 1671, while those in 2016-2018 were 12,055 and 3735,
+respectively. The results of pathogen culture showed that Pseudomonas aeruginosa,
+Acinetobacter baumannii, Klebsiella pneumoniae, Staphylococcus aureus, Hemophilus
+influenzae, Escherichia coli, Stenotrophomonas maltophilia, and Streptococcus
+pneumoniae were in the top ten pathogens isolated from sputum and BALF. An
+antimicrobial susceptibility test showed that the susceptibility of BALF isolates
+to most antibiotics was higher compared with the susceptibility of sputum
+isolates, especially after quality control of sputum samples (2016-2018).
+CONCLUSIONS: Our findings suggest that caution is needed in making therapeutic
+choices for patients with LRI when using antimicrobial sensitivity results from
+sputum isolates as opposed to BALF isolates.
+
+DOI: 10.1186/s12890-020-01275-8 
+PMCID: PMC7460743
+PMID: 32867740 
+

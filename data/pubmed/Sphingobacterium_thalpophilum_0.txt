@@ -1,0 +1,31 @@
+
+1. J Gen Appl Microbiol. 2020 Sep 28. doi: 10.2323/jgam.2020.01.012. [Epub ahead of 
+print]
+
+An alkali-tolerant phospholipase D from Sphingobacterium thalpophilum 2015: Gene 
+cloning, overproduction and characterization.
+
+Li J(1), Chu Y(2), Yang R(1), Lin J(2), Shao L(1), Wang L(3).
+
+Author information: 
+(1)College of Environment and Ecology, Chengdu University of Technology.
+(2)Sichuan Industrial Institute of Antibiotics (SIIA).
+(3)College of Life Science and Technology, Southwest Minzu University.
+
+The phospholipase pl-S.t gene of Sphingobacterium thalpophilum 2015 was cloned
+and the gene sequence was submitted to NCBI with Accession Number KX674735.1. The
+phylogenetic analysis showed that this PL-S.t was clustered to phospholipase D
+(PLD). As far as we know, the PL-S.t with a molecular mass of 22.5 kDa is the
+lowest of the currently purified bacterial PLDs, which belongs to a non-HKD PLD
+enzyme. This PL-S.t was resistant to a wide range of alkali pHs (7.5-9.0) after 1
+h incubation, retaining more than 90% of its maximum activity. The PL-S.t
+activity can be enhanced by Ni2+, Co2+ and Mn2+. This PL-S.t has only one
+cysteine residue and fewer negatively-charged amino acids (AAs). The hydrogen
+bonds network was found around the cystein108, which may be beneficial to the
+stability and activity of PL-S.t in Ni2+ solution. This study has laid the
+foundation for further research on the molecular mechanism of the catalytic
+characteristics of low molecular weight alkalic PLD from S. thalpophilum 2015.
+
+DOI: 10.2323/jgam.2020.01.012 
+PMID: 32981922 
+

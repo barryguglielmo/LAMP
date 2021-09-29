@@ -1,0 +1,53 @@
+
+1. Sci Total Environ. 2020 Jun 25;723:137970. doi: 10.1016/j.scitotenv.2020.137970. 
+Epub 2020 Mar 16.
+
+Identification of a mobilizable, multidrug-resistant genomic island in Myroides
+odoratimimus isolated from Tibetan pasture.
+
+Zhang P(1), Liu M(2), Fu J(3), Zhong C(2), Zong G(3), Cao G(4).
+
+Author information: 
+(1)The State Key Laboratory of Microbial Technology, Shandong University, Qingdao
+266237, China; Department of Epidemiology, the First Affiliated Hospital of
+Shandong First Medical University, Jinan 250062, China; Shandong Medicinal
+Biotechnology Center, Shandong First Medical University & Shandong Academy of
+Medical Sciences, Jinan 250062, China.
+(2)School of Municipal and Environmental Engineering, Shandong Jianzhu
+University, Jinan 250101, China.
+(3)Department of Epidemiology, the First Affiliated Hospital of Shandong First
+Medical University, Jinan 250062, China; Shandong Medicinal Biotechnology Center,
+Shandong First Medical University & Shandong Academy of Medical Sciences, Jinan
+250062, China; Key Laboratory for Biotech-Drugs of National Health Commission,
+Jinan 250062, China.
+(4)Department of Epidemiology, the First Affiliated Hospital of Shandong First
+Medical University, Jinan 250062, China; Shandong Medicinal Biotechnology Center,
+Shandong First Medical University & Shandong Academy of Medical Sciences, Jinan
+250062, China. Electronic address: caozhong0402@163.com.
+
+Strains of the environmental bacterium Myroides odoratimimus can cause human
+infections. However, treating M. odoratimimus infections can be difficult because
+of multidrug resistance in this organism. In this study, we isolated strain M.
+odoratimimus G13 from pastureland in Tibet, China. The minimum inhibitory
+concentration analysis suggested that strain G13 has resistance to multiple
+antibiotics, with an MIC for tetracycline of 168 mg/L. Whole-genome sequencing
+and bioinformatic analysis revealed that the genome of G13 was rich in virulence 
+factor-encoding genes and antibiotic resistance genes (ARGs). The mobilizable
+genomic island MGI1313 was also identified and characterized, and six resistance 
+genes related to four types of antibiotics were annotated in MGI1313. Conjugation
+assays indicated that MGI1313 could be transferred from G13 to Escherichia coli
+25DN by horizontal gene transfer, resulting in multidrug-resistant E. coli
+conjugants. In conclusion, multidrug-resistant M. odoratimimus G13 and the
+mobility of MGI1313 raise the risk of difficult-to-treat bacterial infections and
+should be under close surveillance.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.scitotenv.2020.137970 
+PMID: 32217404  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

@@ -1,0 +1,37 @@
+
+1. PLoS One. 2020 Mar 19;15(3):e0218302. doi: 10.1371/journal.pone.0218302.
+eCollection 2020.
+
+Lactic acid containing polymers produced in engineered Sinorhizobium meliloti and
+Pseudomonas putida.
+
+Tran TT(1), Charles TC(1).
+
+Author information: 
+(1)Department of Biology, University of Waterloo, Waterloo, ON, Canada.
+
+This study demonstrates that novel polymer production can be achieved by
+introducing pTAM, a broad-host-range plasmid expressing codon-optimized genes
+encoding Clostridium propionicum propionate CoA transferase (PctCp, Pct532) and a
+modified Pseudomonas sp. MBEL 6-19 polyhydroxyalkanoate (PHA) synthase 1
+(PhaC1Ps6-19, PhaC1400), into phaC mutant strains of the native polymer producers
+Sinorhizobium meliloti and Pseudomonas putida. Both phenotypic analysis and gas
+chromatography analysis indicated the synthesis and accumulation of biopolymers
+in S. meliloti and P. putida strains. Expression in S. meliloti resulted in the
+production of PLA homopolymer up to 3.2% dried cell weight (DCW). The
+quaterpolymer P (3HB-co-LA-co-3HHx-co-3HO) was produced by expression in P.
+putida. The P. putida phaC mutant strain produced this type of polymer the most
+efficiently with polymer content of 42% DCW when cultured in defined media with
+the addition of sodium octanoate. This is the first report, to our knowledge, of 
+the production of a range of different biopolymers using the same plasmid-based
+system in different backgrounds. In addition, it is the first time that the novel
+polymer (P(3HB-co-LA-co-3HHx-co-3HO)), has been reported being produced in
+bacteria.
+
+DOI: 10.1371/journal.pone.0218302 
+PMCID: PMC7082056
+PMID: 32191710  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

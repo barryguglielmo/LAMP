@@ -1,0 +1,43 @@
+
+1. Sci Rep. 2020 Mar 26;10(1):5523. doi: 10.1038/s41598-020-62497-8.
+
+Dairy Propionibacterium freudenreichii ameliorates acute colitis by stimulating
+MUC2 expression in intestinal goblet cell in a DSS-induced colitis rat model.
+
+Ma S(1), Yeom J(1), Lim YH(2)(3)(4).
+
+Author information: 
+(1)Department of Integrated Biomedical and Life Sciences, Graduate School, Korea 
+University, Seoul, 02841, Republic of Korea.
+(2)Department of Integrated Biomedical and Life Sciences, Graduate School, Korea 
+University, Seoul, 02841, Republic of Korea. yhlim@korea.ac.kr.
+(3)Department of Public Health Science (Brain Korea 21 PLUS program), Graduate
+School, Korea University, Seoul, 02841, Republic of Korea. yhlim@korea.ac.kr.
+(4)Department of Laboratory Medicine, Korea University Guro Hospital, Seoul,
+08308, Republic of Korea. yhlim@korea.ac.kr.
+
+An intact mucus layer is important in managing inflammatory bowel disease (IBD). 
+Dairy Propionibacterium freudenreichii has probiotic potential, produces
+propionic acid and is known to promote health. The aim of this study was to
+evaluate the effects of P. freudenreichii on the improvement of colitis. LS 174T 
+goblet cells and a dextran sodium sulfate (DSS)-induced colitis rat model were
+used to investigate the P. freudenreichii-induced stimulation of mucin production
+in vitro and in vivo, respectively. The mRNA and protein expression levels of
+MUC2, a main component of intestinal mucus, increased in the supernatant of P.
+freudenreichii culture (SPFC)-treated LS 174 cells. The SPFC and live P.
+freudenreichii (LPF) reduced the disease activity index (DAI) in the rats with
+DSS-induced colitis. After treatment with SPFC or LPF, the mRNA levels of typical
+pro-inflammatory cytokines decreased and the inflammatory state was
+histologically improved in the rats with DSS-induced colitis. The SPFC and LPF
+treatments increased the gene and protein expression levels of MUC2 in the rats
+with DSS-induced colitis compared with the expression levels in the negative
+control rats, and immunohistochemistry (IHC) showed an increase of the intestinal
+MUC2 level. In addition, SPFC and LPF augmented the level of propionate in the
+faeces of the rats with DSS-induced colitis. In conclusion, P. freudenreichii
+might improve acute colitis by restoring goblet cell number and stimulating the
+expression of MUC2 in intestinal goblet cells.
+
+DOI: 10.1038/s41598-020-62497-8 
+PMCID: PMC7099060
+PMID: 32218552 
+

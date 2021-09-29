@@ -1,0 +1,46 @@
+
+1. Vet Immunol Immunopathol. 2020 Oct;228:110112. doi: 10.1016/j.vetimm.2020.110112.
+Epub 2020 Aug 21.
+
+Development of a flow cytometry assay for bovine interleukin-2 and its
+preliminary application in bovine tuberculosis detection.
+
+Xia A(1), Xu Z(2), Hu T(1), Li X(2), Zhu Z(1), Chen X(3), Jiao X(4).
+
+Author information: 
+(1)Jiangsu Key Laboratory of Zoonosis/Jiangsu Co-Innovation Center for Prevention
+and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou
+University, Yangzhou 225009, China.
+(2)Key Laboratory of Prevention and Control of Biological Hazard Factors (Animal 
+Origin) for Agrifood Safety and Quality, Ministry of Agriculture and Rural
+Affairs, Yangzhou University, Yangzhou 225009, China.
+(3)Jiangsu Key Laboratory of Zoonosis/Jiangsu Co-Innovation Center for Prevention
+and Control of Important Animal Infectious Diseases and Zoonoses, Yangzhou
+University, Yangzhou 225009, China. Electronic address: chenxiang@yzu.edu.cn.
+(4)Key Laboratory of Prevention and Control of Biological Hazard Factors (Animal 
+Origin) for Agrifood Safety and Quality, Ministry of Agriculture and Rural
+Affairs, Yangzhou University, Yangzhou 225009, China. Electronic address:
+jiao@yzu.edu.cn.
+
+Mycobacterium bovis, the causative agent of bovine tuberculosis (bTB), poses a
+risk of infection for livestock, humans, and wildlife. An interferon (IFN)-γ
+release assay has been used with tuberculin skin tests to detect bTB; however,
+infected animals may still be missed. Previous studies have suggested that bovine
+interleukin-2 (BoIL-2) may act as a potential biological marker for the diagnosis
+of bovine infectious diseases. However, a detailed evaluation of IL-2 as a
+diagnostic target for bTB is lacking. Therefore, we established hybridoma cell
+lines that produced monoclonal antibodies (mAbs) recognizing the native BoIL-2
+and developed a flow cytometry assay, based on the BoIL-2 mAbs, for detecting M. 
+bovis-specific IL-2. Subsequently, the method was utilized for a preliminary
+investigation of bTB in cattle; significantly (P < 0.0001) more CD4+IL-2+ T cells
+were detected in infected cattle than in healthy animals when a specific
+mycobacterial antigen CFP-10-ESAT-6 fusion protein was used. Moreover, our method
+demonstrated high coincidence rates with the BOVIGAM® test and an IFN-γ flow
+cytometry assay for the diagnosis of bTB. These findings show that the present
+method may be useful for detecting bTB.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.vetimm.2020.110112 
+PMID: 32892112 
+

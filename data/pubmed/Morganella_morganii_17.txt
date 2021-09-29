@@ -1,0 +1,61 @@
+
+1. Infect Drug Resist. 2020 Apr 22;13:1163-1169. doi: 10.2147/IDR.S248147.
+eCollection 2020.
+
+Microbiological Characteristics of Carbapenem-Resistant Enterobacteriaceae
+Clinical Isolates Collected from County Hospitals.
+
+Xie S(#)(1)(2), Fu S(#)(3), Li M(4), Guo Z(2), Zhu X(2), Ren J(5), Hu F(1)(6).
+
+Author information: 
+(1)Institute of Antibiotics, Huashan Hospital, Fudan University, Shanghai,
+People's Republic of China.
+(2)Tungwah Hospital of Sun Yat-Sen University, Dongguan, People's Republic of
+China.
+(3)Department of Clinical Laboratory, The Traditional Chinese Medical Hospital of
+Suichang, Zhejiang, People's Republic of China.
+(4)Clinical Microbiology Laboratory, Department of Liuzhou Worker Hospital,
+Guangxi, People's Republic of China.
+(5)Institute of Antibiotics, The Central Hospital of Lishui City, Zhejiang,
+People's Republic of China.
+(6)Key Laboratory of Clinical Pharmacology of Antibiotics, Ministry of Health,
+Shanghai, People's Republic of China.
+(#)Contributed equally
+
+Objective: To investigate the molecular characteristics of carbapenem-resistant
+Enterobacteriaceae (CRE) from county hospitals in China.
+Materials and Methods: Forty-three sequential non-duplicate CRE strains
+(including 33 Klebsiella pneumoniae isolates, 4 Enterobacter cloacae isolates, 3 
+Escherichia coli isolates, 1 Serratia marcescens, 1 Morganella morganii and 1
+Citrobacter freundii) were collected from 4 county hospitals and 2 municipal
+hospitals. Antimicrobial susceptibility testing was conducted by broth
+microdilution method, using 3-aminophenylboronic acid and EDTA and the modified
+carbapenem inactivation method (mCIM) to screen phenotype of carbapenemase.
+β-Lactamases were characterized by polymerase chain reaction (PCR) and DNA
+sequencing. The transferability of bla NDM-5 was investigated by transformation
+experiment. Clonal relatedness was evaluated by pulsed-field gel electrophoresis 
+and multilocus sequence typing .
+Results: The results of antimicrobial susceptibility testing indicated that 43
+CRE strains were resistant to most of the antimicrobial agents, except
+tigecycline and colistin. Overall, 93%, 93%, and 97.7% of these strains were
+resistant to imipenem, meropenem, and ertapenem, respectively. PCR and DNA
+sequencing indicated that 67.4% (29/43) were bla KPC-2 positive isolates, in
+which 3.4% (1/29) was coproduced with bla NDM-1. In addition, 7.0% (3/43), 4.7%
+(2/43), 4.7% (2/43), 2.3% (1/43), 2.3% (1/43) were bla NDM-1, bla NDM-16, bla
+NDM-4, bla NDM-5, bla IMP-4 positive isolates, respectively. The 29 bla
+KPC-2-positive isolates belonged to 12 different PFGE type and designated as ST11
+(n=20) and ST15, ST39, ST116, ST667, ST2245, ST2338. The plasmid bearing bla
+NDM-5 could be transferred into recipient E. coli J53 through transformation.
+Conclusion: Our study indicated the dissemination of CRE between the tertiary
+hospitals and secondary hospitals.
+
+© 2020 Xie et al.
+
+DOI: 10.2147/IDR.S248147 
+PMCID: PMC7183775
+PMID: 32368107 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

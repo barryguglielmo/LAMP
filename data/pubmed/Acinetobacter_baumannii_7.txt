@@ -1,0 +1,42 @@
+
+1. Sci Rep. 2020 Sep 30;10(1):16154. doi: 10.1038/s41598-020-73123-y.
+
+Genomic analysis reveals high virulence and antibiotic resistance amongst phage
+susceptible Acinetobacter baumannii.
+
+Leungtongkam U(1), Thummeepak R(1), Kitti T(2), Tasanapak K(1), Wongwigkarn J(1),
+Styles KM(3), Wellington EMH(3), Millard AD(4), Sagona AP(3), Sitthisak S(5).
+
+Author information: 
+(1)Department of Microbiology and Parasitology, Faculty of Medical Science,
+Naresuan University, Phitsanulok, 65000, Thailand.
+(2)Faculty of Oriental Medicine, Chiang Rai College, Chiang Rai, 57000, Thailand.
+(3)School of Life Sciences, University of Warwick, Coventry, CV4 7AL, UK.
+(4)Department of Genetics and Genome Biology, University of Leicester, Leicester,
+LE1 7RH, UK.
+(5)Department of Microbiology and Parasitology, Faculty of Medical Science,
+Naresuan University, Phitsanulok, 65000, Thailand. sutthirats@nu.ac.th.
+
+In this study, we examined the association between antimicrobial resistance,
+CRISPR/Cas systems and virulence with phage susceptibility in Acinetobacter
+baumannii and investigated draft genomes of phage susceptible multidrug resistant
+A. baumannii strains from Thailand. We investigated 230 A. baumannii strains
+using 17 lytic A. baumannii phages and the phage susceptibility was 46.5%
+(107/230). Phage susceptibility was also associated with resistance to numerous
+antibiotics (p-value < 0.05). We also found association between biofilm formation
+and the presence of ompA gene among phage susceptible A. baumannii strains
+(p-value < 0.05). A. baumannii isolates carrying cas5 or combinations of two or
+three other cas genes, showed a significant increase in phage resistance.
+Whole-genome sequences of seven phage susceptible A. baumannii isolates revealed 
+that six groups of antibiotic resistance genes were carried by all seven phage
+susceptible A. baumannii. All strains carried biofilm associated genes and two
+strains harbored complete prophages, acquired copper tolerance genes, and
+CRISPR-associated (cas) genes. In conclusion, our data exhibits an association
+between virulence determinants and biofilm formation among phage susceptible A.
+baumannii strains. These data help to understand the bacterial co-evolution with 
+phages.
+
+DOI: 10.1038/s41598-020-73123-y 
+PMCID: PMC7528101
+PMID: 32999368 
+

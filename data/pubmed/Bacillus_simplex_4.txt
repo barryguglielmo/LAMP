@@ -1,0 +1,45 @@
+
+1. Curr Microbiol. 2020 Aug;77(8):1916-1923. doi: 10.1007/s00284-020-01964-x. Epub
+2020 Apr 4.
+
+Reclassification of Brevibacterium frigoritolerans DSM 8801T as Bacillus
+frigoritolerans comb. nov. Based on Genome Analysis.
+
+Liu GH(1), Liu B(2), Wang JP(3), Che JM(3), Li PF(3)(4).
+
+Author information: 
+(1)Agricultural Bio-Resources Research Institute, Fujian Academy of Agricultural 
+Sciences, Fuzhou, 350003, Fujian, China. 32168608@qq.com.
+(2)Agricultural Bio-Resources Research Institute, Fujian Academy of Agricultural 
+Sciences, Fuzhou, 350003, Fujian, China. fzliubo@163.com.
+(3)Agricultural Bio-Resources Research Institute, Fujian Academy of Agricultural 
+Sciences, Fuzhou, 350003, Fujian, China.
+(4)College of Life Sciences, Fujian Agriculture and Forestry University, Fuzhou, 
+350002, Fujian, China.
+
+16S rRNA gene sequence analysis showed that the type strain Brevibacterium
+frigoritolerans DSM 8801T had the highest similarity (99.7%) with the reference
+strain Bacillus simplex NBRC 15720T, followed by Bacillus muralis DSM 16288T
+(99.6%), Bacillus butanolivorans DSM 18926T (99.5%), and Bacillus loiseleuriae
+FJAT-27997T (97.9%). This relationship is confirmed by the phylogenetic analysis 
+indicating that Bre. frigoritolerans DSM 8801T fell in the genus Bacillus group
+and formed a clade with the closely related Bacillus species. Average nucleotide 
+identity and in silico DNA-DNA hybridization (isDDH) values between strain DSM
+8801T and the most closed reference strain Bac. simplex NBRC 15720T were both
+much lower than species definition threshold values of 95% and 70%, respectively,
+which indicated strain DSM 8801T should not be affiliated to one of the validly
+named Bacillus species. The percentage of conserved protein (POCP) values between
+the strain DSM 8801T and the type strains of the above species were 80.7%, 69.2%,
+72.2%, 53.6%, and 50.0%, respectively, higher than the genus definition threshold
+value of 50%. The main isoprenoid quinone of strain DSM 8801T was MK-7, the main 
+polar lipids were diphosphatidylglycerol (DPG), phosphatidylglycerol (PG), and
+phosphatidyl ethanolamine (PE), and the major fatty acids were anteiso-C15:0 and 
+iso-C15:0. On the basis of the phenotypic, chemotaxonomic, phylogenetic and
+genomic characteristics, Bre. frigoritolerans DSM 8801T should belong to the
+genus Bacillus, and be proposed to reclassify as Bacillus frigoritolerans comb.
+nov., with the type strain DSM 8801T (=ATCC 25097T  = CCUG 43489T  = CIP
+67.20T  = JCM 11681T).
+
+DOI: 10.1007/s00284-020-01964-x 
+PMID: 32248281 
+

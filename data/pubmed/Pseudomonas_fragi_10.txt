@@ -1,0 +1,45 @@
+
+1. Microorganisms. 2019 Dec 5;7(12). pii: E655. doi: 10.3390/microorganisms7120655.
+
+Quantitative and Compositional Study of Monospecies Biofilms of Spoilage
+Microorganisms in the Meat Industry and Their Interaction in the Development of
+Multispecies Biofilms.
+
+Ripolles-Avila C(1), García-Hernández N(1), Cervantes-Huamán BH(1), Mazaheri
+T(1), Rodríguez-Jerez JJ(1).
+
+Author information: 
+(1)Area of Human Nutrition and Food Science, Department of Food and Animal
+Science, Universitat Autònoma de Barcelona, 08193 Barcelona, Spain.
+
+Food spoilage is a serious problem in the food industry, since it leads to
+significant economic losses. One of its main causes is the cross-contamination of
+food products from industrial surfaces. Three spoilage bacterial species which
+are highly present in meat and the gastrointestinal tract of chickens were
+selected: Pseudomonas fragi, Leuconostoc gasicomitatum, and Lactobacillus
+reuteri. The dual aim was to determine their ability to form monospecies biofilms
+and to examine how they interact when they coexist together. To do so, mature
+monospecies biofilms were produced statically for seven days at a temperature of 
+30 °C. L. gasicomitatum was also used to investigate the behavior of P. fragi and
+L. reuteri in the formation of multispecies biofilms. The structure and
+composition of the monospecies biofilms were evaluated by direct epifluorescence 
+microscopy, and the multispecies biofilms were evaluated by plate counting. Both 
+L. gasicomitatum and L. reuteri were able to form biofilms, with counts of
+approximately 7 Log CFU/cm2 and a defined structure. However, P. fragi obtained
+counts to the order of 4 Log CFU/cm2, which is significantly different from the
+previous species (P < 0.05), and it had no network of cell conglomerates. The
+content of the L. gasicomitatum and L. reuteri biofilm matrices were 70-80%
+protein, unlike P. fragi, which presented a higher polysaccharide content (P <
+0.05). In the multispecies biofilms, the presence of P. fragi did not affect the 
+growth of L. gasicomitatum, which remained at between 5.76 to 6.1 Log CFU/cm2.
+However, L. reuteri was able to displace L. gasicomitatum growth after 24 h of
+coexisting in a mixed biofilm, presenting differences in counts of approximately 
+2 Log CFU/cm2. The study of the biofilms constructed by food industry resident
+microbiota can help to understand the ecological relations that exist between
+species, characterize them, and propose strategies to eliminate them. The name of
+genes and species should be written in italic.
+
+DOI: 10.3390/microorganisms7120655 
+PMCID: PMC6956169
+PMID: 31817368 
+

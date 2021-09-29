@@ -1,0 +1,32 @@
+
+1. Int J Mol Sci. 2020 Sep 1;21(17). pii: E6338. doi: 10.3390/ijms21176338.
+
+Isolation and Characterization of the Novel Bacteriophage AXL3 against
+Stenotrophomonas maltophilia.
+
+McCutcheon JG(1), Lin A(1), Dennis JJ(1).
+
+Author information: 
+(1)Department of Biological Sciences, University of Alberta, Edmonton, AB T6G
+2E9, Canada.
+
+The rapid increase in the number of worldwide human infections caused by the
+extremely antibiotic resistant bacterial pathogen Stenotrophomonas maltophilia is
+cause for concern. An alternative treatment solution in the post-antibiotic era
+is phage therapy, the use of bacteriophages to selectively kill bacterial
+pathogens. In this study, the novel bacteriophage AXL3 (vB_SmaS-AXL_3) was
+isolated from soil and characterized. Host range analysis using a panel of 29
+clinical S. maltophilia isolates shows successful infection of five isolates and 
+electron microscopy indicates that AXL3 is a member of the Siphoviridae family.
+Complete genome sequencing and analysis reveals a 47.5 kb genome predicted to
+encode 65 proteins. Functionality testing suggests AXL3 is a virulent phage and
+results show that AXL3 uses the type IV pilus, a virulence factor on the cell
+surface, as its receptor across its host range. This research identifies a novel 
+virulent phage and characterization suggests that AXL3 is a promising phage
+therapy candidate, with future research examining modification through genetic
+engineering to broaden its host range.
+
+DOI: 10.3390/ijms21176338 
+PMCID: PMC7504290
+PMID: 32882851 
+

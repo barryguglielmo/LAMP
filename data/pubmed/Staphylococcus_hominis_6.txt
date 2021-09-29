@@ -1,0 +1,41 @@
+
+1. Nutrients. 2020 Aug 21;12(9). pii: E2539. doi: 10.3390/nu12092539.
+
+Effect of Maternal Diet and Milk Lipid Composition on the Infant Gut and Maternal
+Milk Microbiomes.
+
+Babakobi MD(1), Reshef L(1), Gihaz S(2), Belgorodsky B(3), Fishman A(2),
+Bujanover Y(4), Gophna U(1).
+
+Author information: 
+(1)The Shmunis School of Biomedicine and Cancer Research, Faculty of Life
+Sciences, Tel Aviv University, Tel Aviv 6900001, Israel.
+(2)Department of Biotechnology and Food Engineering, Technion- Israel Institute
+of Technology, Haifa 3200003, Israel.
+(3)School of Chemistry, Tel Aviv University, Tel Aviv 69000, Israel.
+(4)Safra Children's Hospital, Sheba Medical Center, Ramat Gan 52621, Israel.
+
+Inter-subject variability in human milk microbiome is well known; however, its
+origins and possible relationship to the mother's diet are still debated. We
+investigated associations between maternal nutrition, milk fatty acids
+composition and microbiomes in mother-infant dyads. Breast milk and infant fecal 
+samples were collected across three time points (one week, one month and three
+months postpartum) from 22 mother-infant pairs. Food frequency questionnaires for
+the months of pregnancy and three months postpartum were collected. Milk fatty
+acids were analyzed by GC-MS and the microbiome in breast milk and infant feces
+was determined by 16S rRNA sequencing. Statistical interactions were computed
+using Spearman's method and corrected for multiple comparisons. We found
+significant negative correlation between Streptococcus relative abundance in
+maternal milk and intake of unsaturated fatty acids and folic acid at one month
+postpartum. At three months postpartum, vitamin B-12 consumption was
+significantly associated with a single operational taxonomic unit belonging to
+Streptococcus. Comparison between milk microbiome and lipid composition showed,
+one-month postpartum, significant negative correlation between Streptococcus
+relative abundance and the abundance of oleic acid. Additional correlations were 
+detected between Staphylococcus hominis and two medium-chain saturated fatty
+acids. Our results reinforce the hypothesis that maternal nutrition may affect
+milk microbiome.
+
+DOI: 10.3390/nu12092539 
+PMID: 32825705 
+

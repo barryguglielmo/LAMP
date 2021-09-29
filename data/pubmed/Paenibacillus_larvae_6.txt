@@ -1,0 +1,48 @@
+
+1. Insects. 2020 Jun 15;11(6). pii: E373. doi: 10.3390/insects11060373.
+
+Susceptibility of Red Mason Bee Larvae to Bacterial Threats Due to Microbiome
+Exchange with Imported Pollen Provisions.
+
+Voulgari-Kokota A(1)(2)(3), Steffan-Dewenter I(4), Keller A(1)(2).
+
+Author information: 
+(1)Department of Bioinformatics, Biocenter, University of Würzburg, Am Hubland,
+97074 Würzburg, Germany.
+(2)Center for Computational and Theoretical Biology, Biocenter, University of
+Würzburg, Hubland Nord, 97074 Würzburg, Germany.
+(3)Current Address: Faculty of Science and Engineering, Groningen Institute for
+Evolutionary Life Sciences, Nijenborgh 7, 9747 AG Groningen, The Netherlands.
+(4)Department of Animal Ecology and Tropical Biology, Biocenter, University of
+Würzburg, Am Hubland, 97074 Würzburg, Germany.
+
+Solitary bees are subject to a variety of pressures that cause severe population 
+declines. Currently, habitat loss, temperature shifts, agrochemical exposure, and
+new parasites are identified as major threats. However, knowledge about
+detrimental bacteria is scarce, although they may disturb natural microbiomes,
+disturb nest environments, or harm the larvae directly. To address this gap, we
+investigated 12 Osmia bicornis nests with deceased larvae and 31 nests with
+healthy larvae from the same localities in a 16S ribosomal RNA (rRNA) gene
+metabarcoding study. We sampled larvae, pollen provisions, and nest material and 
+then contrasted bacterial community composition and diversity in healthy and
+deceased nests. Microbiomes of pollen provisions and larvae showed similarities
+for healthy larvae, whilst this was not the case for deceased individuals. We
+identified three bacterial taxa assigned to Paenibacillus sp. (closely related to
+P. pabuli/amylolyticus/xylanexedens), Sporosarcina sp., and Bacillus sp. as
+indicative for bacterial communities of deceased larvae, as well as Lactobacillus
+for corresponding pollen provisions. Furthermore, we performed a provisioning
+experiment, where we fed larvae with untreated and sterilized pollens, as well as
+sterilized pollens inoculated with a Bacillus sp. isolate from a deceased larva. 
+Untreated larval microbiomes were consistent with that of the pollen provided.
+Sterilized pollen alone did not lead to acute mortality, while no microbiome was 
+recoverable from the larvae. In the inoculation treatment, we observed that
+larval microbiomes were dominated by the seeded bacterium, which resulted in
+enhanced mortality. These results support that larval microbiomes are strongly
+determined by the pollen provisions. Further, they underline the need for further
+investigation of the impact of detrimental bacterial acquired via pollens and
+potential buffering by a diverse pollen provision microbiome in solitary bees.
+
+DOI: 10.3390/insects11060373 
+PMCID: PMC7348846
+PMID: 32549328 
+

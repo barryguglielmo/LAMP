@@ -1,0 +1,34 @@
+
+1. Microb Cell Fact. 2020 Sep 15;19(1):181. doi: 10.1186/s12934-020-01440-y.
+
+Multiple strategies to improve the yield of chitinase a from Bacillus
+licheniformis in Pichia pastoris to obtain plant growth enhancer and GlcNAc.
+
+Song W(1), Zhang N(1), Yang M(1), Zhou Y(1), He N(2), Zhang G(3).
+
+Author information: 
+(1)State Key Laboratory of Biocatalysis and Enzyme Engineering, School of Life
+Sciences, Hubei University, Wuhan, 430062, China.
+(2)State Key Laboratory of Biocatalysis and Enzyme Engineering, School of Life
+Sciences, Hubei University, Wuhan, 430062, China. henisha@hubu.edu.cn.
+(3)State Key Laboratory of Biocatalysis and Enzyme Engineering, School of Life
+Sciences, Hubei University, Wuhan, 430062, China. zhangguimin@hubu.edu.cn.
+
+Chitinase and chitin-oligosaccaride can be used in multiple field, so it is
+important to develop a high-yield chitinase producing strain. Here, a recombinant
+Pichia pastoris with 4 copies of ChiA gene from Bacillus licheniformis and
+co-expression of molecular chaperon HAC1 was constructed. The amount of
+recombinant ChiA in the supernatant of high-cell-density fermentation reaches a
+maximum of 12.7 mg/mL, which is 24-fold higher than that reported in the previous
+study. The recombinant ChiA can hydrolyze 30% collodidal chitin with 74%
+conversion ratio, and GlcNAc is the most abundant hydrolysis product, followed by
+N, N'-diacetylchitobiose. Combined with BsNagZ, the hydrolysate of ChiA can be
+further transformed into GlcNAc with 88% conversion ratio. Additionally, the
+hydrolysate of ChiA can obviously accelerate the germination growth of rice and
+wheat, increasing the seedling height and root length by at least 1.6 folds
+within 10 days.
+
+DOI: 10.1186/s12934-020-01440-y 
+PMCID: PMC7493387
+PMID: 32933546 
+

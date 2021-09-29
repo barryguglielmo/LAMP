@@ -1,0 +1,58 @@
+
+1. Clin Infect Dis. 2020 May 23;70(11):2405-2412. doi: 10.1093/cid/ciz655.
+
+Metagenomic Analysis of Microdissected Valvular Tissue for Etiological Diagnosis 
+of Blood Culture-Negative Endocarditis.
+
+Million M(1)(2), Gaudin M(1)(2), Melenotte C(1)(2), Chasson L(3), Edouard
+S(1)(2), Verdonk C(4), Prudent E(1)(2), Amphoux B(1)(2), Meresse S(3), Dorent
+R(4), Lepidi H(1)(2)(5), La Scola B(1)(2), Gorvel JP(3), Desnues C(1)(2)(6),
+Raoult D(1)(2).
+
+Author information: 
+(1)Institut Hospitalo-Universitaire (IHU) -Méditerranée Infection, Marseille.
+(2)Aix Marseille Univ, Institut de recherche pour le développement (IRD),
+Assistance Publique Hôpitaux de Marseille, Unité Microbes Evolution Phylogenie et
+Infections (MEPHI).
+(3)Aix Marseille Univ, Centre National de la Recherche Scientifique (CNRS),
+Institut National de la Santé et de la Recherche Médicale (INSERM), Centre
+d'Immunologie de Marseille-Luminy (CIML).
+(4)Department of Cardiology, Hôpital Bichat, Assistance Publique - Hôpitaux de
+Paris (APHP), Paris.
+(5)Service d'anatomie et cytologie pathologique et de neuropathologie, Centre
+Hospitalo-Universitaire (CHU) Timone, Assistance Publique Hôpitaux de Marseille,,
+France.
+(6)Aix Marseille Univ, Université de Toulon, Centre National de la Recherche
+Scientifique (CNRS), Institut de Recherche pour le Développement (IRD),
+Mediterranean Institute of Oceanography, France.
+
+BACKGROUND: Etiological diagnosis is a key to therapeutic adaptation and improved
+prognosis, particularly for infections such as endocarditis. In blood
+culture-negative endocarditis (BCNE), 22% of cases remain undiagnosed despite an 
+updated comprehensive syndromic approach. This prompted us to develop a new
+diagnostic approach.
+METHODS: Eleven valves from 10 BCNE patients were analyzed using a method that
+combines human RNA bait-depletion with phi29 DNA polymerase-based multiple
+displacement amplification and shotgun DNA sequencing. An additional case in
+which a microbe was serendipitously visualized by immunofluorescence was analyzed
+using the same method, but after laser capture microdissection.
+RESULTS: Background DNA prevented any diagnosis in cases analyzed without
+microdissection because the majority of sequences were contaminants. Moraxella
+sequences were dramatically enriched in the stained microdissected region of the 
+additional case. A consensus genome sequence of 2.4 Mbp covering more than 94% of
+the Moraxella osloensis KSH reference genome was reconstructed with 234X average 
+coverage. Several antibiotic-resistance genes were observed. Etiological
+diagnosis was confirmed using Western blot and specific polymerase chain reaction
+with sequencing on a different valve sample.
+CONCLUSIONS: Microdissection could be a key to the metagenomic diagnosis of
+infectious diseases when a microbe is visualized but remains unidentified despite
+an updated optimal approach. Moraxella osloensis should be tested in blood
+culture-negative endocarditis.
+
+© The Author(s) 2019. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/cid/ciz655 
+PMID: 31309973 
+

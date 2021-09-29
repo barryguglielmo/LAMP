@@ -1,0 +1,38 @@
+
+1. Microbiol Resour Announc. 2020 Feb 13;9(7). pii: e01363-19. doi:
+10.1128/MRA.01363-19.
+
+Draft Genome Sequence of Pseudomonas aeruginosa Strain LMG 1272, an Atypical
+White Line Reaction Producer.
+
+Salari F(1), Zare-Mirakabad F(1), Alavi MH(2)(3), Girard L(4), Ghafari M(2), De
+Mot R(5), Rokni-Zadeh H(6).
+
+Author information: 
+(1)Department of Mathematics and Computer Science, Amirkabir University of
+Technology, Tehran, Iran.
+(2)Department of Medical Biotechnology, School of Medicine, Zanjan University of 
+Medical Sciences, Zanjan, Iran.
+(3)Social Security Organization, Zanjan, Iran.
+(4)Department of Microbial and Molecular Systems, Faculty of Bioscience
+Engineering, University of Leuven, Heverlee-Leuven, Belgium.
+(5)Department of Microbial and Molecular Systems, Faculty of Bioscience
+Engineering, University of Leuven, Heverlee-Leuven, Belgium
+rene.demot@kuleuven.be hassan.roknizadeh@zums.ac.ir.
+(6)Department of Medical Biotechnology, School of Medicine, Zanjan University of 
+Medical Sciences, Zanjan, Iran rene.demot@kuleuven.be
+hassan.roknizadeh@zums.ac.ir.
+
+The draft genome sequence of Pseudomonas aeruginosa LMG 1272, isolated from
+mushroom, is reported here. This strain triggers formation of a precipitate
+("white line") when cocultured with Pseudomonas tolaasii However, LMG 1272 lacks 
+the capacity to produce a cyclic lipopeptide that is typically associated with
+white line formation, suggesting the involvement of a different diffusible
+factor.
+
+Copyright © 2020 Salari et al.
+
+DOI: 10.1128/MRA.01363-19 
+PMCID: PMC7019063
+PMID: 32054708 
+

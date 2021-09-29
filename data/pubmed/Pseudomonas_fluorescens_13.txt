@@ -1,0 +1,38 @@
+
+1. Toxins (Basel). 2020 Sep 9;12(9). pii: E579. doi: 10.3390/toxins12090579.
+
+The Influence of Calcium toward Order/Disorder Conformation of Repeat-in-Toxin
+(RTX) Structure of Family I.3 Lipase from Pseudomonas fluorescens AMS8.
+
+Ali NSM(1)(2), Salleh AB(1), Leow TC(1)(3), Rahman RNZRA(1)(4), Ali MSM(1)(2).
+
+Author information: 
+(1)Enzyme and Microbial Technology Research Center, Faculty of Biotechnology and 
+Biomolecular Sciences, Universiti Putra Malaysia, Serdang 43400, Malaysia.
+(2)Department of Biochemistry, Faculty of Biotechnology and Biomolecular
+Sciences, Universiti Putra Malaysia, Serdang 43400, Malaysia.
+(3)Department of Cell and Molecular Biology, Faculty of Biotechnology and
+Biomolecular Sciences, Universiti Putra Malaysia, Serdang 43400, Malaysia.
+(4)Department of Microbiology, Faculty of Biotechnology and Biomolecular
+Sciences, Universiti Putra Malaysia, Serdang 43400, Malaysia.
+
+Calcium-binding plays a decisive role in the folding and stabilization of many
+RTX proteins, especially for the RTX domain. Although many studies have been
+conducted to prove the contribution of Ca2+ ion toward the folding and
+stabilization of RTX proteins, its functional dynamics and conformational
+structural changes remain elusive. Here, molecular docking and molecular dynamics
+(MD) simulations were performed to analyze the contribution of Ca2+ ion toward
+the folding and stabilization of the RTX lipase (AMS8 lipase) structure. AMS8
+lipase contains six Ca2+ ions (Ca1-Ca6). Three Ca2+ ions (Ca3, Ca4, and Ca5) were
+bound to the RTX parallel β-roll motif repeat structure (RTX domain). The metal
+ion (Ca2+) docking analysis gives a high binding energy, especially for Ca4 and
+Ca5 which are tightly bound to the RTX domain. The function of each Ca2+ ion is
+further analyzed using the MD simulation. The removal of Ca3, Ca4, and Ca5 caused
+the AMS8 lipase structure to become unstable and unfolded. The results suggested 
+that Ca3, Ca4, and Ca5 stabilized the RTX domain. In conclusion, Ca3, Ca4, and
+Ca5 play a crucial role in the folding and stabilization of the RTX domain, which
+sustain the integrity of the overall AMS8 lipase structure.
+
+DOI: 10.3390/toxins12090579 
+PMID: 32916891 
+

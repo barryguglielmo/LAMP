@@ -1,0 +1,58 @@
+
+1. Molecules. 2020 Aug 26;25(17). pii: E3878. doi: 10.3390/molecules25173878.
+
+Biosurfactant Production and Growth Kinetics Studies of the Waste Canola
+Oil-Degrading Bacterium Rhodococcus erythropolis AQ5-07 from Antarctica.
+
+Ibrahim S(1), Abdul Khalil K(2), Zahri KNM(1), Gomez-Fuentes C(3), Convey P(4),
+Zulkharnain A(5), Sabri S(6), Alias SA(7)(8), González-Rocha G(9), Ahmad
+SA(1)(7).
+
+Author information: 
+(1)Department of Biochemistry, Faculty of Biotechnology and Biomolecular
+Sciences, Universiti Putra Malaysia, Serdang, Selangor 43400, Malaysia.
+(2)School of Biology, Faculty of Applied Sciences, Universiti Teknologi MARA,
+Shah Alam, Selangor 40450, Malaysia.
+(3)Department of Chemical Engineering, Universidad de Magallanes, Avda. Bulnes
+01855, Punta Arenas, Región de Magallanes y Antártica Chilena, Chile.
+(4)British Antarctic Survey, NERC, High Cross, Madingley Road, Cambridge CB3 0ET,
+UK.
+(5)Department of Bioscience and Engineering, College of system Engineering and
+Science, Shibaura Institute of Technology, 307 Fukasaku, Minuma-ku, Saitama
+337-8570, Japan.
+(6)Department of Microbiology, Faculty of Biotechnology and Biomolecular
+Sciences, Universiti Putra Malaysia, Serdang, Selangor 43400, Malaysia.
+(7)National Antarctic Research Centre, B303 Level 3, Block B, IPS Building,
+Universiti Malaya, Kuala Lumpur 50603, Malaysia.
+(8)Institute of Ocean and Earth Sciences, Universiti Malaya, B303 Level 3, Block 
+B, Lembah Pantai, Kuala Lumpur 50603, Malaysia.
+(9)Laboratorio de Investigacion en Agentes Antibacterianos, Facultad de Ciencias 
+Biologicas, Universidad de Concepcion, Concepcion 4070386, Chile.
+
+With the progressive increase in human activities in the Antarctic region, the
+possibility of domestic oil spillage also increases. Developing means for the
+removal of oils, such as canola oil, from the environment and waste "grey" water 
+using biological approaches is therefore desirable, since the thermal process of 
+oil degradation is expensive and ineffective. Thus, in this study an indigenous
+cold-adapted Antarctic soil bacterium, Rhodococcus erythropolis strain AQ5-07,
+was screened for biosurfactant production ability using the multiple approaches
+of blood haemolysis, surface tension, emulsification index, oil spreading, drop
+collapse and "MATH" assay for cellular hydrophobicity. The growth kinetics of the
+bacterium containing different canola oil concentration was studied. The strain
+showed β-haemolysis on blood agar with a high emulsification index and low
+surface tension value of 91.5% and 25.14 mN/m, respectively. Of the models
+tested, the Haldane model provided the best description of the growth kinetics,
+although several models were similar in performance. Parameters obtained from the
+modelling were the maximum specific growth rate (qmax), concentration of
+substrate at the half maximum specific growth rate, Ks% (v/v) and the inhibition 
+constant Ki% (v/v), with values of 0.142 h-1, 7.743% (v/v) and 0.399% (v/v),
+respectively. These biological coefficients are useful in predicting growth
+conditions for batch studies, and also relevant to "in field" bioremediation
+strategies where the concentration of oil might need to be diluted to non-toxic
+levels prior to remediation. Biosurfactants can also have application in enhanced
+oil recovery (EOR) under different environmental conditions.
+
+DOI: 10.3390/molecules25173878 
+PMCID: PMC7503493
+PMID: 32858796 
+

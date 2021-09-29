@@ -1,0 +1,61 @@
+
+1. Front Bioeng Biotechnol. 2020 Aug 20;8:976. doi: 10.3389/fbioe.2020.00976.
+eCollection 2020.
+
+Integration of Genetic and Process Engineering for Optimized Rhamnolipid
+Production Using Pseudomonas putida.
+
+Tiso T(1)(2), Ihling N(2)(3), Kubicki S(2)(4), Biselli A(2)(5), Schonhoff
+A(2)(6), Bator I(1)(2), Thies S(2)(4), Karmainski T(1)(2), Kruth S(1)(2),
+Willenbrink AL(2)(5), Loeschcke A(2)(4), Zapp P(2)(6), Jupke A(2)(5), Jaeger
+KE(2)(4)(7), Büchs J(2)(3), Blank LM(1)(2).
+
+Author information: 
+(1)iAMB - Institute of Applied Microbiology, ABBt - Aachen Biology and
+Biotechnology, RWTH Aachen University, Aachen, Germany.
+(2)Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, Jülich,
+Germany.
+(3)Chair of Biochemical Engineering (AVT.BioVT), RWTH Aachen University, Aachen, 
+Germany.
+(4)Institute of Molecular Enzyme Technology, Heinrich-Heine-Universität
+Düsseldorf, Düsseldorf, Germany.
+(5)Fluid Process Engineering (AVT.FVT), RWTH Aachen University, Aachen, Germany.
+(6)Institute of Energy and Climate Research - Systems Analysis and Technology
+Evaluation (IEK-STE), Forschungszentrum Jülich GmbH, Jülich, Germany.
+(7)Institute of Bio- and Geosciences IBG 1: Biotechnology, Forschungszentrum
+Jülich GmbH, Jülich, Germany.
+
+Rhamnolipids are biosurfactants produced by microorganisms with the potential to 
+replace synthetic compounds with petrochemical origin. To promote industrial use 
+of rhamnolipids, recombinant rhamnolipid production from sugars needs to be
+intensified. Since this remains challenging, the aim of the presented research is
+to utilize a multidisciplinary approach to take a step toward developing a
+sustainable rhamnolipid production process. Here, we developed expression
+cassettes for stable integration of the rhamnolipid biosynthesis genes into the
+genome outperformed plasmid-based expression systems. Furthermore, the genetic
+stability of the production strain was improved by using an inducible promoter.
+To enhance rhamnolipid synthesis, energy- and/or carbon-consuming traits were
+removed: mutants negative for the synthesis of the flagellar machinery or the
+storage polymer PHA showed increased production by 50%. Variation of time of
+induction resulted in an 18% increase in titers. A scale-up from shake flasks was
+carried out using a 1-L bioreactor. By recycling of the foam, biomass loss could 
+be minimized and a rhamnolipid titer of up to 1.5 g/L was achieved without using 
+mechanical foam destroyers or antifoaming agents. Subsequent liquid-liquid
+extraction was optimized by using a suitable minimal medium during fermentation
+to reduce undesired interphase formation. A technical-scale production process
+was designed and evaluated by a life-cycle assessment (LCA). Different process
+chains and their specific environmental impact were examined. It was found that
+next to biomass supply, the fermentation had the biggest environmental impact.
+The present work underlines the need for multidisciplinary approaches to address 
+the challenges associated with achieving sustainable production of microbial
+secondary metabolites. The results are discussed in the context of the challenges
+of microbial biosurfactant production using hydrophilic substrates on an
+industrial scale.
+
+Copyright © 2020 Tiso, Ihling, Kubicki, Biselli, Schonhoff, Bator, Thies,
+Karmainski, Kruth, Willenbrink, Loeschcke, Zapp, Jupke, Jaeger, Büchs and Blank.
+
+DOI: 10.3389/fbioe.2020.00976 
+PMCID: PMC7468518
+PMID: 32974309 
+

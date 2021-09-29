@@ -1,0 +1,53 @@
+
+1. Front Microbiol. 2019 Nov 7;10:2461. doi: 10.3389/fmicb.2019.02461. eCollection
+2019.
+
+Prevalence of Shigella boydii in Bangladesh: Isolation and Characterization of a 
+Rare Phage MK-13 That Can Robustly Identify Shigellosis Caused by Shigella boydii
+Type 1.
+
+Akter M(1), Brown N(2), Clokie M(2), Yeasmin M(1), Tareq TM(1), Baddam R(1), Azad
+MAK(1)(3), Ghosh AN(4), Ahmed N(1), Talukder KA(1)(5).
+
+Author information: 
+(1)International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b),
+Dhaka, Bangladesh.
+(2)Department of Genetics and Genome Biology, University of Leicester, Leicester,
+United Kingdom.
+(3)Department of Biochemistry and Molecular Biology, Shahjalal University of
+Science and Technology, Sylhet, Bangladesh.
+(4)Division of Electron Microscopy, ICMR-National Institute of Cholera and
+Enteric Diseases, Kolkata, India.
+(5)Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science 
+and Technology University, Tangail, Bangladesh.
+
+Shigellosis, caused by Shigella boydii type 1, is understudied and underreported.
+For 3 years, GEMS study identified 5.4% of all Shigella as S. boydii. We showed
+the prevalent serotypes of S. boydii in Bangladesh and phage-based diagnosis of
+S. boydii type 1, a rapid and low-cost approach. Previously typed 793 clinical S.
+boydii strains were used for serotype distribution. Twenty-eight environmental
+water samples were collected for isolation of Shigella phages. Forty-eight
+serotypes of Shigella and other enteric bacteria were used for testing the
+susceptibility to phage MK-13. Electron microscopy, restriction enzyme analysis, 
+whole genome sequencing (WGS), and annotation were performed for extensive
+characterization. S. boydii type 1 is the second most prevalent serotype among 20
+serotypes of S. boydii in Bangladesh. We isolated a novel phage, MK-13, which
+specifically lyses S. boydii type 1, but doesn't lyse other 47 serotypes of
+Shigella or other enteric bacteria tested. The phage belongs to the Myoviridae
+family and distinct from other phages indicated by electron microscopy and
+restriction enzyme analysis, respectively. MK-13 genome consists of 158 kbp of
+circularly permuted double-stranded DNA with G + C content of 49.45%, and encodes
+211 open reading frames including four tRNA-coding regions. The genome has 98%
+identity with previously reported phage, ΦSboM-AG3, reported to have a broader
+host range infecting most of the S. boydii and other species of Shigella tested. 
+To our knowledge, MK-13 is the first phage reported to be used as a diagnostic
+marker to detect S. boydii type 1, especially in remote settings with limited
+laboratory infrastructure.
+
+Copyright © 2019 Akter, Brown, Clokie, Yeasmin, Tareq, Baddam, Azad, Ghosh, Ahmed
+and Talukder.
+
+DOI: 10.3389/fmicb.2019.02461 
+PMCID: PMC6853846
+PMID: 31787934 
+

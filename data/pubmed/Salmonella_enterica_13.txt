@@ -1,0 +1,49 @@
+
+1. Microorganisms. 2020 Sep 24;8(10). pii: E1465. doi:
+10.3390/microorganisms8101465.
+
+Association of Virulence and Antibiotic Resistance in Salmonella-Statistical and 
+Computational Insights into a Selected Set of Clinical Isolates.
+
+Higgins D(1), Mukherjee N(1)(2), Pal C(3), Sulaiman IM(4), Jiang Y(1), Hanna
+S(5), Dunn JR(5), Karmaus W(1), Banerjee P(1)(6).
+
+Author information: 
+(1)Division of Epidemiology, Biostatistics, and Environmental Health, School of
+Public Health, University of Memphis, Memphis, TN 38152, USA.
+(2)Department of Infectious Diseases, Center of Excellence for Influenza Research
+and Surveillance (CEIRS), St. Jude Children's Research Hospital, Memphis, TN
+38105, USA.
+(3)Plant Health and Environment Laboratory, Ministry for Primary Industries, PO
+Box 2095, Auckland 1104, New Zealand.
+(4)Southeast Food and Feed Laboratory, US Food and Drug Administration, Atlanta, 
+GA 30309, USA.
+(5)Communicable and Environmental Diseases and Emergency Preparedness, Tennessee 
+Department of Health, Nashville, TN 37243, USA.
+(6)Department of Food Science and Human Nutrition, University of Illinois at
+Urbana-Champaign, Urbana, IL 61801, USA.
+
+The acquisition of antibiotic resistance (AR) by foodborne pathogens, such as
+Salmonella enterica, has emerged as a serious public health concern. The
+relationship between the two key survival mechanisms (i.e., antibiotic resistance
+and virulence) of bacterial pathogens is complex. However, it is unclear if the
+presence of certain virulence determinants (i.e., virulence genes) and AR have
+any association in Salmonella. In this study, we report the prevalence of
+selected virulence genes and their association with AR in a set of phenotypically
+tested antibiotic-resistant (n = 117) and antibiotic-susceptible (n = 94)
+clinical isolates of Salmonella collected from Tennessee, USA. Profiling of
+virulence genes (i.e., virulotyping) in Salmonella isolates (n = 211) was
+conducted by targeting 13 known virulence genes and a gene for class 1 integron. 
+The association of the presence/absence of virulence genes in an isolate with
+their AR phenotypes was determined by the machine learning algorithm Random
+Forest. The analysis revealed that Salmonella virulotypes with gene clusters
+consisting of avrA, gipA, sodC1, and sopE1 were strongly associated with any
+resistant phenotypes. To conclude, the results of this exploratory study shed
+light on the association of specific virulence genes with drug-resistant
+phenotypes of Salmonella. The presence of certain virulence genes clusters in
+resistant isolates may become useful for the risk assessment and management of
+salmonellosis caused by drug-resistant Salmonella in humans.
+
+DOI: 10.3390/microorganisms8101465 
+PMID: 32987719 
+

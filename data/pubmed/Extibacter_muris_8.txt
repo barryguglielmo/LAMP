@@ -1,0 +1,45 @@
+
+1. FEMS Microbiol Ecol. 2020 Oct 1;96(10). pii: fiaa167. doi:
+10.1093/femsec/fiaa167.
+
+Strong effects of lab-to-field environmental transitions on the bacterial
+intestinal microbiota of Mus musculus are modulated by Trichuris murisinfection.
+
+Bär J(1)(2), Leung JM(2)(3), Hansen C(2), Loke P(4), Hall AR(1), Conour L(5),
+Graham AL(2).
+
+Author information: 
+(1)Department of Environmental Systems Science, ETH Zurich, 8092 Zurich,
+Switzerland.
+(2)Department of Ecology and Evolutionary Biology, Princeton University,
+Princeton, NJ, 08544, USA.
+(3)Department of Environmental Health Sciences, Columbia University, New York,
+NY, 10032, USA.
+(4)Department of Microbiology, New York University Grossman School of Medicine,
+New York, NY, 10016, USA.
+(5)Princeton Neuroscience Institute, Princeton University, Princeton, NJ, 08544, 
+USA.
+
+Studies of controlled lab animals and natural populations represent two
+insightful extremes of microbiota research. We bridged these two approaches by
+transferring lab-bred female C57BL/6 mice from a conventional mouse facility to
+an acclimation room and then to an outdoor enclosure, to investigate how the gut 
+microbiota changes with environment. Mice residing under constant conditions
+served as controls. Using 16S rRNA sequencing of fecal samples, we found that the
+shift in temperature and humidity, as well as exposure to a natural environment, 
+increased microbiota diversity and altered community composition. Community
+composition in mice exposed to high temperatures and humidity diverged as much
+from the microbiota of mice housed outdoors as from the microbiota of control
+mice. Additionally, infection with the nematode Trichuris muris modulated how the
+microbiota responded to environmental transitions: The dynamics of several
+families were buffered by the nematodes, while invasion rates of two taxa
+acquired outdoors were magnified. These findings suggest that gut bacterial
+communities respond dynamically and simultaneously to changes within the host's
+body (e.g. the presence of nematodes) and to changes in the wider environment of 
+the host.
+
+© FEMS 2020.
+
+DOI: 10.1093/femsec/fiaa167 
+PMID: 32816007 
+

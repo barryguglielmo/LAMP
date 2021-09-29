@@ -1,0 +1,42 @@
+
+1. Sci Rep. 2019 Oct 28;9(1):15427. doi: 10.1038/s41598-019-51901-7.
+
+Metabolism of the predominant human milk oligosaccharide fucosyllactose by an
+infant gut commensal.
+
+James K(1)(2), Bottacini F(1), Contreras JIS(3), Vigoureux M(1), Egan M(1)(2),
+Motherway MO(1), Holmes E(3)(4), van Sinderen D(5)(6).
+
+Author information: 
+(1)APC Microbiome Ireland, University College Cork, Western Road, Cork, Ireland.
+(2)School of Microbiology, University College Cork, Western Road, Cork, Ireland.
+(3)Department of Surgery and Cancer, Imperial College London, South Kensington,
+London, SW7 2AZ, United Kingdom.
+(4)Institute of Health Futures, Murdosh University, South Street, Perth, WA,
+6150, Australia.
+(5)APC Microbiome Ireland, University College Cork, Western Road, Cork, Ireland. 
+d.vansinderen@ucc.ie.
+(6)School of Microbiology, University College Cork, Western Road, Cork, Ireland. 
+d.vansinderen@ucc.ie.
+
+A number of bifidobacterial species are found at a particularly high prevalence
+and abundance in faecal samples of healthy breastfed infants, a phenomenon that
+is believed to be, at least partially, due to the ability of bifidobacteria to
+metabolize Human Milk Oligosaccharides (HMOs). In the current study, we isolated 
+a novel strain of Bifidobacterium kashiwanohense, named APCKJ1, from the faeces
+of a four-week old breastfed infant, based on the ability of the strain to
+utilise the HMO component fucosyllactose. We then determined the full genome
+sequence of this strain, and employed the generated data to analyze
+fucosyllactose metabolism in B. kashiwanohense APCKJ1. Transcriptomic and growth 
+analyses, combined with metabolite analysis, in vitro hydrolysis assays and
+heterologous expression, allowed us to elucidate the pathway for fucosyllactose
+metabolism in B. kashiwanohense APCKJ1. Homologs of the key genes for this
+metabolic pathway were identified in particular in infant-derived members of the 
+Bifdobacterium genus, revealing the apparent niche-specific nature of this
+pathway, and allowing a broad perspective on bifidobacterial fucosyllactose and
+L-fucose metabolism.
+
+DOI: 10.1038/s41598-019-51901-7 
+PMCID: PMC6817895
+PMID: 31659215 
+

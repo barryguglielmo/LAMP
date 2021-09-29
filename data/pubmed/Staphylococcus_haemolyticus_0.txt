@@ -1,0 +1,37 @@
+
+1. Int J Mol Sci. 2020 Sep 27;21(19). pii: E7141. doi: 10.3390/ijms21197141.
+
+The Hirudo Medicinalis Microbiome Is a Source of New Antimicrobial Peptides.
+
+Grafskaia E(1), Pavlova E(1)(2), Babenko VV(1), Latsis I(1), Malakhova M(1),
+Lavrenova V(1)(3), Bashkirov P(1), Belousov D(4), Klinov D(1), Lazarev V(1)(2).
+
+Author information: 
+(1)Federal Research and Clinical Center of Physical Chemical Medicine of Federal 
+Medical Biological Agency, Moscow 119435, Russia.
+(2)Moscow Institute of Physics and Technology, 141700 Dolgoprudny, Moscow 141701,
+Russia.
+(3)Department of biochemistry, Faculty of Biology, Lomonosov Moscow State
+University, Moscow 119991, Russia.
+(4)Sechenov First Moscow State Medical University Sechenov University, Moscow
+119991, Russia.
+
+Antimicrobial peptides (AMPs) are considered a promising new class of
+anti-infectious agents. This study reports new antimicrobial peptides derived
+from the Hirudo medicinalis microbiome identified by a computational analysis
+method applied to the H. medicinalis metagenome. The identified AMPs possess a
+strong antimicrobial activity against Gram-positive and Gram-negative bacteria
+(MIC range: 5.3 to 22.4 μM), including Staphylococcus haemolyticus, an
+opportunistic coagulase-negative pathogen. The secondary structure analysis of
+peptides via CD spectroscopy showed that all the AMPs except pept_352 have mostly
+disordered structures that do not change under different conditions. For peptide 
+pept_352, the α-helical content increases in the membrane environment. The
+examination of the mechanism of action of peptides suggests that peptide pept_352
+exhibits a direct membranolytic activity. Furthermore, the cytotoxicity assay
+demonstrated that the nontoxic peptide pept_1545 is a promising candidate for
+drug development. Overall, the analysis method implemented in the study may serve
+as an effective tool for the identification of new AMPs.
+
+DOI: 10.3390/ijms21197141 
+PMID: 32992666 
+

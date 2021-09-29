@@ -1,0 +1,40 @@
+
+1. Cancers (Basel). 2020 Sep 23;12(10). pii: E2728. doi: 10.3390/cancers12102728.
+
+Fusobacterium nucleatum Accelerates the Progression of Colitis-Associated
+Colorectal Cancer by Promoting EMT.
+
+Yu MR(1)(2), Kim HJ(2), Park HR(1)(2).
+
+Author information: 
+(1)Department of Oral Pathology, BK21 PLUS Project, School of Dentistry, Pusan
+National University, Yangsan 50612, Korea.
+(2)Periodontal Disease Signaling Network Research Center (MRC), School of
+Dentistry, Pusan National University, Yangsan 50612, Korea.
+
+Recently, it has been reported that Fusobacterium nucleatum, a major pathogen
+involved in chronic periodontitis, may play an important role in colorectal
+cancer (CRC) progression. In addition, inflammatory bowel diseases such as
+ulcerative colitis and Crohn's disease represent major predisposing conditions
+for the development of CRC, and this subtype of cancer is called
+colitis-associated cancer (CAC). Although the importance of F. nucleatum in CRC
+has attracted attention, its exact role and related mechanism in CAC progression 
+remain unclear. In this study, we investigated the effects of F. nucleatum in
+experimental colitis induced with dextran sodium sulfate (DSS), which is a
+well-known colitis-inducing chemical, on the aggressiveness of CAC and its
+related mechanism in both in vitro and in vivo models. F. nucleatum
+synergistically increased the aggressiveness and epithelial-mesenchymal
+transition (EMT) characteristics of CRC cells that were treated with DSS compared
+to those in non-treated CRC cells. The role of F. nucleatum in CAC progression
+was further confirmed in mouse models, as F. nucleatum was found to significantly
+increase the malignancy of azoxymethane (AOM)/DSS-induced colon cancer. This
+promoting effect of F. nucleatum was based on activation of the EGFR signaling
+pathways, including protein kinase B (AKT) and extracellular signal-regulated
+kinase (ERK), and epidermal growth factor receptor (EGFR) inhibition
+significantly reduced the F. nucleatum-induced EMT alteration. In conclusion, F. 
+nucleatum accelerates the progression of CAC by promoting EMT through the EGFR
+signaling pathway.
+
+DOI: 10.3390/cancers12102728 
+PMID: 32977534 
+

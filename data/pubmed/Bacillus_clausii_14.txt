@@ -1,0 +1,49 @@
+
+1. Antonie Van Leeuwenhoek. 2019 Dec;112(12):1725-1730. doi:
+10.1007/s10482-019-01299-z. Epub 2019 Jul 16.
+
+Genome-based reclassification of Bacillus plakortidis Borchert et al. 2007 and
+Bacillus lehensis Ghosh et al. 2007 as a later heterotypic synonym of Bacillus
+oshimensis Yumoto et al. 2005; Bacillus rhizosphaerae Madhaiyan et al. 2011 as a 
+later heterotypic synonym of Bacillus clausii Nielsen et al. 1995.
+
+Liu GH(1), Narsing Rao MP(2), Dong ZY(2), Wang JP(1), Che JM(1), Chen QQ(1),
+Sengonca C(3), Liu B(4), Li WJ(5)(6).
+
+Author information: 
+(1)Agricultural Bio-resources Research Institute, Fujian Academy of Agricultural 
+Sciences, Fuzhou, 350003, Fujian, People's Republic of China.
+(2)State Key Laboratory of Biocontrol and Guangdong Provincial Key Laboratory of 
+Plant Resources, School of Life Sciences, Sun Yat-Sen University, Guangzhou,
+510275, People's Republic of China.
+(3)Institute of Crop Sciences and Resource Conservation (INRES), University of
+Bonn, Meckenheimer Allee 166A, 53115, Bonn, Germany.
+(4)Agricultural Bio-resources Research Institute, Fujian Academy of Agricultural 
+Sciences, Fuzhou, 350003, Fujian, People's Republic of China. fzliubo@163.com.
+(5)State Key Laboratory of Biocontrol and Guangdong Provincial Key Laboratory of 
+Plant Resources, School of Life Sciences, Sun Yat-Sen University, Guangzhou,
+510275, People's Republic of China. liwenjun3@mail.sysu.edu.cn.
+(6)Key Laboratory of Biogeography and Bioresource in Arid Land, Xinjiang
+Institute of Ecology and Geography, Chinese Academy of Sciences, Ürümqi, 830011, 
+People's Republic of China. liwenjun3@mail.sysu.edu.cn.
+
+In the present study, phylogenetic and genome-based comparison was carried out to
+clarify the taxonomic positions of alkaliphilic Bacillus species, Bacillus
+plakortidis, Bacillus lehensis, Bacillus oshimensis, Bacillus rhizosphaerae and
+Bacillus clausii. Phylogenetic trees based on 16S rRNA gene sequences and
+concatenated protein marker genes were constructed. Average nucleotide identity
+(ANI) values were calculated to compare genetic relatedness. In phylogenetic
+trees, B. plakortidis DSM 19153T, B. lehensis DSM 19099T, and B. oshimensis DSM
+18940T; B. rhizosphaerae DSM 21911T and B. clausii DSM 8716T clade together. The 
+average nucleotide identity (ANI) values between B. oshimensis DSM 18940T, B.
+plakortidis DSM 19153T and B. lehensis DSM 19099T ranged from 98.7-98.8%, while
+the ANI values between B. rhizosphaerae DSM 21911T and B. clausii DSM 8716T were 
+95.2-95.5%. The ANI values were higher than the recognized threshold value for
+bacterial species delineation. Based on phylogenetic and genome comparison we
+propose reclassification of B. plakortidis and B. lehensis as a later heterotypic
+synonym of B. oshimensis; B. rhizosphaerae as a later heterotypic synonym of B.
+clausii.
+
+DOI: 10.1007/s10482-019-01299-z 
+PMID: 31312953  [Indexed for MEDLINE]
+

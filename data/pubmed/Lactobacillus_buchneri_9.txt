@@ -1,0 +1,51 @@
+
+1. Int J Syst Evol Microbiol. 2020 May;70(5):3111-3116. doi: 10.1099/ijsem.0.004138.
+Epub 2020 Apr 6.
+
+Lactobacillus buchneri subsp. silagei subsp. nov., isolated from rice grain
+silage.
+
+Tanizawa Y(1), Kobayashi H(2), Nomura M(3), Sakamoto M(4)(5), Arita M(6)(1),
+Nakamura Y(1), Ohkuma M(5), Tohno M(2).
+
+Author information: 
+(1)Department of Informatics, National Institute of Genetics, Mishima, Shizuoka
+411-8540, Japan.
+(2)Central Region Agricultural Research Center, National Agriculture and Food
+Research Organization, Nasushiobara, Tochigi 329-2793, Japan.
+(3)Institute of Livestock and Grassland Science, National Agriculture and Food
+Research Organization, Tsukuba, Ibaraki 305-0901, Japan.
+(4)PRIME, Japan Agency for Medical Research and Development (AMED), Tsukuba,
+Ibaraki 305-0074, Japan.
+(5)Microbe Division/Japan Collection of Microorganisms, RIKEN BioResource
+Research Center, Tsukuba, Ibaraki 305-0074, Japan.
+(6)RIKEN Center for Sustainable Resource Science, Yokohama, Kanagawa 230-0045,
+Japan.
+
+Two Gram-stain-positive, rod-shaped, non-motile, non-spore-forming,
+catalase-negative bacteria, designated strains SG162T and NK01, were isolated
+from Japanese rice grain silage and total mixed ration silage, respectively. They
+were initially identified as Lactobacillus buchneri based on the 16S rRNA gene
+sequence similarities. However, the two strains were separated into a distinct
+clade from L. buchneri DSM 20057T (=JCM 1115T) through whole-genome
+sequence-based characterization, forming an infraspecific subgroup together with 
+strains CD034 and S42, whose genomic sequences were available in the public
+sequence database. Strains within the subgroup shared 99.4-99.7 % average
+nucleotide identity (ANI) and 97.5-99.0 % digital DNA-DNA hybridization (dDDH)
+with each other, albeit 96.9-97.0 % ANI and 76.0-76.6 % dDDH against DSM 20057T. 
+Strains SG162T and NK01 could utilize more substrates as sole carbon sources than
+DSM 20057T, potentially owing to the abundance of genes involved in carbon
+metabolism, especially the Entner-Doudoroff pathway. The inability of
+γ-aminobutyric acid (GABA) production was evidenced by the lack of glutamate
+decarboxylase and glutamate/GABA antiporter genes in the new subgroup strains.
+Strain SG162T grew at 10-45 °C (optimum, 30 °C), pH 3.5-8.0, and 0-8 % (w/v)
+NaCl. Its genomic DNA G+C content was 44.1 mol%. The predominant fatty acids were
+C16 : 0, C19 : 0 cyclo ω8c, and summed feature 8. On the basis of the polyphasic 
+characterization findings, strains SG162T and NK01 represent a novel subspecies
+of L. buchneri, for which the name Lactobacillus buchneri subsp. silagei subsp.
+nov. is proposed. The type strain is SG162T (=JCM 32599T=DSM 107969T), and
+strains CD034 and S42 are also transferred to L. buchneri subsp. silagei.
+
+DOI: 10.1099/ijsem.0.004138 
+PMID: 32250236  [Indexed for MEDLINE]
+

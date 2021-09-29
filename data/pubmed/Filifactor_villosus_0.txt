@@ -1,0 +1,48 @@
+
+1. Alzheimers Dement (Amst). 2020 Feb 14;12(1):e12000. doi: 10.1002/dad2.12000.
+eCollection 2020.
+
+Classifying dementia progression using microbial profiling of saliva.
+
+Bathini P(1), Foucras S(2), Dupanloup I(3), Imeri H(3), Perna A(1), Berruex
+JL(2), Doucey MA(4), Annoni JM(1)(2), Auber Alberi L(1)(5).
+
+Author information: 
+(1)Department of Medicine, Unit of Pathology University of Fribourg Fribourg
+Switzerland.
+(2)Neurology Clinic Cantonal Hospital of Fribourg Fribourg Switzerland.
+(3)Swiss Institute for Bioinformatics Lausanne Switzerland.
+(4)Faculty of Medicine University of Lausanne Lausanne Switzerland.
+(5)Swiss Integrative Center for Human Health Fribourg Switzerland.
+
+Introduction: There is increasing evidence linking periodontal infections to
+Alzheimer's disease (AD). Saliva sampling can reveal information about the host
+and pathogen interactions that can inform about physiological and pathological
+brain states.
+Methods: A cross-sectional cohort of age-matched participants (78) was segmented 
+according to their chemosensory (University of Pennsylvania Smell Identification 
+Test; UPSIT) and cognitive scores (Mini-Mental State Exam; MMSE and clinical
+dementia rating; CDR). Mid-morning saliva was sampled from each participant and
+processed for microbiome composition and cytokine analysis. Linear discriminant
+analysis (LDA) was used to unravel specific changes in microbial and
+immunological signatures and logistic regression analysis (LRA) was employed to
+identify taxa that varied in abundance among patient groups.
+Results: Using olfaction we distinguish in the cognitively normal population a
+segment with high chemosensory scores (CNh, 27) and another segment with
+chemosensory scores (CNr, 16) as low as mild cognitive impairment (MCI, 21) but
+higher than the AD group (17). We could identify stage-specific microbial
+signatures changes but no clearly distinct cytokine profiles. Periodontal
+pathogen species as Filifactor villosus decline with the increasing severity of
+AD, whereas opportunistic oral bacteria such as Leptotrichia wadei show a
+significant enrichment in MCI.
+Conclusions: The salivary microbiome indicates stage-dependent changes in oral
+bacteria favoring opportunistic species at the expense of periodontal bacteria,
+whereas the inflammatory profiles remain mainly unchanged in the sampled
+population.
+
+© 2020 the Alzheimer's Association.
+
+DOI: 10.1002/dad2.12000 
+PMCID: PMC7406179
+PMID: 32775594 
+

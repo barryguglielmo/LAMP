@@ -1,0 +1,41 @@
+
+1. Front Microbiol. 2019 Nov 5;10:2468. doi: 10.3389/fmicb.2019.02468. eCollection
+2019.
+
+First Report of Coexistence of Three Different MDR Plasmids, and That of
+Occurrence of IMP-Encoding Plasmid in Leclercia adecarboxylata.
+
+Yin Z(1), Hu L(1), Cheng Q(2), Jiang X(1), Xu Y(2), Yang W(1), Yang H(1), Zhao
+Y(1), Gao B(1), Wang J(1), Dai E(2), Zhou D(1).
+
+Author information: 
+(1)State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of
+Microbiology and Epidemiology, Beijing, China.
+(2)Department of Laboratory Medicine, The Fifth Hospital of Shijiazhuang, Hebei
+Medical University, Shijiazhuang, China.
+
+Three different MDR plasmids p16005813A, p16005813B, and p16005813C, which
+carried a total of 18 non-redundant resistance genes or gene loci, were
+identified in a single clinical isolate of Leclercia adecarboxylata. The
+p16005813A backbone showed very low levels of identity to all DNA sequences
+available in public databases and carried a repA gene that could not assigned
+into any of known incompatibility groups. The IncFII-family p16005813B and
+pECAZ161_KPC had essentially identical backbones. p16005813C belonged to an IncR 
+single-replicon plasmid. p16005813A, p16005813B, and p16005813C harbored three
+different novel MDR regions as their sole accessory modules. The MDR region of
+p16005813B manifested as Tn6505, which was generated from insertion of bla
+IMP-8-carrying In655 instead of In4 into the Tn1696 backbone. Other key
+antibiotic resistance elements included Tn2, IS26-mph(A)-mrx-mphR(A)-IS6100 unit,
+chrA region, In27, and aacC2-tmrB region in the MDR region of p16005813A, and
+ΔTn9 carrying catA1, In609, and IS26-tetA(C)-tetR(C)-IS26 unit in the MDR region 
+of p16005813C. This was the first report of coexistence of three different MDR
+plasmids, and that of occurrence of IMP-encoding plasmid and bla IMP-8 gene in L.
+adecarboxylata.
+
+Copyright © 2019 Yin, Hu, Cheng, Jiang, Xu, Yang, Yang, Zhao, Gao, Wang, Dai and 
+Zhou.
+
+DOI: 10.3389/fmicb.2019.02468 
+PMCID: PMC6848029
+PMID: 31749779 
+

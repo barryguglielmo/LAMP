@@ -1,0 +1,36 @@
+
+1. Genome Biol Evol. 2019 Nov 1;11(11):3252-3255. doi: 10.1093/gbe/evz241.
+
+Complete Genome of the Chitin-Degrading Bacterium, Paenibacillus xylanilyticus
+W4.
+
+Liao W(1), Liu P(1), Liao W(2), Miao L(1).
+
+Author information: 
+(1)School of Biology and Pharmaceutical Engineering, Wuhan Polytechnic
+University, P.R. China.
+(2)School of Life Sciences, Tsinghua University, Beijing, P.R. China.
+
+Chitinases possess an extraordinary ability to directly hydrolyze highly
+insoluble chitin polymers to low-molecular-weight chito-oligomers, which possess 
+particular biological functions, such as elicitor action and antitumor activity. 
+A novel strain, Paenibacillus xylanilyticus W4, which was isolated from soil,
+showed strong chitin degradation activity. Here, we first reported the complete
+genome information of P. xylanilyticus. Paenibacillus xylanilyticus W4 contains a
+5,532,141 bp single circular chromosome with 47.33% GC content. The genome
+contains 5,996 genes, including 39 rRNA- and 109 tRNA-coding genes. Phylogenetic 
+analysis and Genome-to-Genome Distance revealed its taxonomic characterization
+into a separate family. Six glycoside hydrolase 18 (GH18) and 2 GH23 enzymes
+involved in chitin degradation. Although many of the chitinases were conserved in
+Paenibacillus, several GH18 chitinases share high similarity with Bacillus
+circulans. The genome information provided here could benefit for understanding
+the chitin-degrading properties of P. xylanilyticus as well as its potential
+application in biotechnological and pharmaceutical fields.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the
+Society for Molecular Biology and Evolution.
+
+DOI: 10.1093/gbe/evz241 
+PMCID: PMC6865854
+PMID: 31670768  [Indexed for MEDLINE]
+

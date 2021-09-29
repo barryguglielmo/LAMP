@@ -1,0 +1,37 @@
+
+1. Acta Trop. 2019 Nov;199:105118. doi: 10.1016/j.actatropica.2019.105118. Epub 2019
+Jul 29.
+
+Comparison of screening tests without a gold standard-A pragmatic approach with
+virtual reference testing.
+
+Hahn A(1), Schwarz NG(2), Frickmann H(3).
+
+Author information: 
+(1)Institute for Medical Microbiology, Virology and Hygiene, University Medicine 
+Rostock, Schillingallee 70, 18057 Rostock, Germany.
+(2)Infectious Disease Epidemiology, Bernhard Nocht Institute for Tropical
+Medicine Hamburg, Bernhard-Nocht-Str. 74, 20359 Hamburg, Germany.
+(3)Institute for Medical Microbiology, Virology and Hygiene, University Medicine 
+Rostock, Schillingallee 70, 18057 Rostock, Germany; Department of Microbiology
+and Hygiene, Bundeswehr Hospital Hamburg, Bernhard-Nocht-Str. 74, 20359 Hamburg, 
+Germany. Electronic address: Frickmann@bnitm.de.
+
+Well-defined diagnostic gold standards are rarely available for the diagnosis of 
+rare diseases such as some tropical infections. Algorithms for reliable test
+evaluation without gold standard are therefore desirable. On the basis of
+previous work of Gart and Buck (1966); Rogan and Gladen (1978), and Hui and
+Walter (1980), a modeling approach for the comparison of diagnostic tests without
+a gold standard - and thus without reliably characterized reference sample
+material - is established especially for situations not fulfilling the
+requirement of conditional independence of the diagnostic tests evaluated. In the
+approach introduced, each test is conducted within two populations with different
+values of prevalence and the test results are used to define two virtual
+reference tests. The model is useful for the comparison of tests for rare
+tropical diseases where no gold standard can be provided.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.actatropica.2019.105118 
+PMID: 31369728  [Indexed for MEDLINE]
+

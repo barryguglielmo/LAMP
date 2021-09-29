@@ -1,0 +1,37 @@
+
+1. Microorganisms. 2020 Sep 18;8(9). pii: E1432. doi: 10.3390/microorganisms8091432.
+
+Oral Pathogen Porphyromonas gingivalis Can Escape Phagocytosis of Mammalian
+Macrophages.
+
+Werheim ER(1)(2), Senior KG(1)(3), Shaffer CA(1), Cuadra GA(1).
+
+Author information: 
+(1)Department of Biology, Muhlenberg College, 2400 W. Chew Street, Allentown, PA 
+18104, USA.
+(2)Lewis Katz School of Medicine, Temple University, 3500 North Broad Street,
+Philadelphia, PA 19140, USA.
+(3)Graduate Program in Biomedical Sciences, College of Medicine, University of
+Florida, P.O. Box 100215, Gainesville, FL 32610, USA.
+
+Macrophages are phagocytic cells that play a key role in host immune response and
+clearance of microbial pathogens. Porphyromonas gingivalis is an oral pathogen
+associated with the development of periodontitis. Escape from macrophage
+phagocytosis was tested by infecting THP-1-derived human macrophages and RAW
+264.7 mouse macrophages with strains of P. gingivalis W83 and 33277 as well as
+Streptococcus gordonii DL1 and Escherichia coli OP50 at MOI = 100. CFU counts for
+all intracellular bacteria were determined. Then, infected macrophages were
+cultured in media without antibiotics to allow for escape and escaping bacteria
+were quantified by CFU counting. P. gingivalis W83 displayed over 60% of the
+bacterial escape from the total amount of intracellular CFUs, significantly
+higher compared to all other bacteria strains. In addition, bacterial escape and 
+re-entry were also tested and P. gingivalis W83, once again, showed the highest
+numbers of CFUs able to exit and re-enter macrophages. Lastly, the function of
+the PG0717 gene of P. gingivalis W83 was tested on escape but found not related
+to this activity. Altogether, our results suggest that P. gingivalis W83 is able 
+to significantly avoid macrophage phagocytosis. We propose this ability is likely
+linked to the chronic nature of periodontitis.
+
+DOI: 10.3390/microorganisms8091432 
+PMID: 32961960 
+

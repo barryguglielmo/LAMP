@@ -1,0 +1,48 @@
+
+1. Cell Rep. 2020 Sep 15;32(11):108142. doi: 10.1016/j.celrep.2020.108142.
+
+Infection with Bacteroides Phage BV01 Alters the Host Transcriptome and Bile Acid
+Metabolism in a Common Human Gut Microbe.
+
+Campbell DE(1), Ly LK(2), Ridlon JM(3), Hsiao A(4), Whitaker RJ(5), Degnan PH(6).
+
+Author information: 
+(1)Department of Microbiology, University of Illinois, Urbana, IL 61801, USA.
+(2)Division of Nutritional Sciences, University of Illinois, Urbana, IL 61801,
+USA; Department of Animal Sciences, University of Illinois, Urbana, IL 61801,
+USA.
+(3)Division of Nutritional Sciences, University of Illinois, Urbana, IL 61801,
+USA; Department of Animal Sciences, University of Illinois, Urbana, IL 61801,
+USA; Carl R. Woese Institute for Genomic Biology, University of Illinois, Urbana,
+IL 61801, USA.
+(4)Department of Microbiology and Plant Pathology, University of California,
+Riverside, Riverside, CA 92521, USA.
+(5)Department of Microbiology, University of Illinois, Urbana, IL 61801, USA;
+Carl R. Woese Institute for Genomic Biology, University of Illinois, Urbana, IL
+61801, USA.
+(6)Department of Microbiology and Plant Pathology, University of California,
+Riverside, Riverside, CA 92521, USA. Electronic address: patrick.degnan@ucr.edu.
+
+Gut-associated phages are hypothesized to alter the abundance and activity of
+their bacterial hosts, contributing to human health and disease. Although
+temperate phages constitute a significant fraction of the gut virome, the effects
+of lysogenic infection are underexplored. We report that the temperate phage,
+Bacteroides phage BV01, broadly alters its host's transcriptome, the prominent
+human gut symbiont Bacteroides vulgatus. This alteration occurs through
+phage-induced repression of a tryptophan-rich sensory protein (TspO) and
+represses bile acid deconjugation. Because microbially modified bile acids are
+important signals for the mammalian host, this is a mechanism by which a phage
+may influence mammalian phenotypes. Furthermore, BV01 and its relatives in the
+proposed phage family Salyersviridae are ubiquitous in human gut metagenomes,
+infecting a broad range of Bacteroides hosts. These results demonstrate the
+complexity of phage-bacteria-mammal relationships and emphasize a need to better 
+understand the role of temperate phages in the gut microbiome.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2020.108142 
+PMID: 32937127 
+
+Conflict of interest statement: Declaration of Interests The authors declare no
+competing interests.
+

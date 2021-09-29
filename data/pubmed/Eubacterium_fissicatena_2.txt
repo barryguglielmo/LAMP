@@ -1,0 +1,48 @@
+
+1. Sci Rep. 2020 Feb 14;10(1):2639. doi: 10.1038/s41598-020-59235-5.
+
+Gut microbial taxa as potential predictive biomarkers for acute coronary syndrome
+and post-STEMI cardiovascular events.
+
+Gao J(1), Yan KT(2), Wang JX(3), Dou J(3), Wang J(4), Ren M(1), Ma J(1), Zhang
+X(1), Liu Y(5).
+
+Author information: 
+(1)Cardiovascular Institute, Tianjin Chest Hospital, No.261 Tai er zhuang Road,
+Jinnan District, Tianjin, 300222, P. R. China.
+(2)TEDA International Cardiovascular Hospital, No.61,Third Street, Economic and
+Technological District, Tianjin, 300457, P. R. China.
+(3)Department of Cardiology, Tianjin Chest Hospital, No.261 Tai er zhuang Road,
+Jinnan District, Tianjin, 300222, P. R. China.
+(4)Tianjin Medical University, No.22 Qi xiang tai Road, Heping District, Tianjin,
+300070, P.R. China.
+(5)Department of Cardiology, Tianjin Chest Hospital, No.261 Tai er zhuang Road,
+Jinnan District, Tianjin, 300222, P. R. China. liuyin2088@163.com.
+
+Plasma trimethylamine N-oxide (TMAO) is associated with coronary atherosclerotic 
+plaque and cardiovascular disease risk, but associations between gut microbes in 
+acute coronary syndrome (ACS) and post-ST-segment elevation myocardial infarction
+(post-STEMI) events are unknown. We investigated associations between gut
+microbial taxa and systemic TMAO levels and the possible TMAO contribution to
+incident post-STEMI cardiovascular events.PATIENTS AND METHODS: A total of 60
+patients, including 30 with unstable angina pectoris (UAP), 30 post-STEMI and 30 
+healthy controls, were enrolled from June to November 2017. Metagenomic
+sequencing was performed and TMAO and IL-6 were detected.
+RESULTS: Minimal discriminators of gut microbial taxa (top 40) distinguished ACS 
+patients from controls. Serum TMAO levels were positively associated with
+increased abundance of Aerococcaceae, Ruminococcaceae_UCG.005,
+Ruminococcaceae_UCC.014 and X. Eubacterium_fissicatena, and decreased abundance
+of Lachnospiraceae_FCS020 (P < 0.05). Elevated serum TMAO levels correlated
+independently with ACS (P < 0.05). Risk stratification for incident major adverse
+cardiovascular events (MACE) improved at one year in patients with serum TMAO
+levels ≦2.19 µM. Serum interleukin-6 levels were not significantly increased in
+patients with ACS and post-STEMI MACE.
+CONCLUSIONS: ACS and incident post-STEMI MACE may be associated with the gut
+bacteria choline metabolite TMAO. The specific gut microbial taxa identified in
+association with serum TMAO levels may be potential predictive biomarkers for
+accurate diagnosis of ACS onset.
+
+DOI: 10.1038/s41598-020-59235-5 
+PMCID: PMC7021689
+PMID: 32060329 
+

@@ -1,0 +1,40 @@
+
+1. Anal Bioanal Chem. 2020 Oct 3. doi: 10.1007/s00216-020-02956-3. [Epub ahead of
+print]
+
+Macroporous epoxy-based monoliths for rapid quantification of Pseudomonas
+aeruginosa by adsorption elution method optimized for qPCR.
+
+Göpfert L(1), Klüpfel J(1), Heinritz C(1), Elsner M(1), Seidel M(2).
+
+Author information: 
+(1)Institute of Hydrochemistry, Chair of Analytical Chemistry and Water
+Chemistry, Technical University of Munich, Marchioninistr. 17, 81377, Munich,
+Germany.
+(2)Institute of Hydrochemistry, Chair of Analytical Chemistry and Water
+Chemistry, Technical University of Munich, Marchioninistr. 17, 81377, Munich,
+Germany. michael.seidel@tum.de.
+
+Pseudomonas aeruginosa contaminations in tap water systems have caused severe
+health problems in both hospital and household settings. To ensure fast and
+reliable detection, culture-independent methods are recommendable. However, the
+typically low cell number in water samples requires sample enrichment prior to
+analysis. Therefore, we developed and optimized an adsorption elution method
+using monolithic adsorption filtration and subsequent centrifugal ultrafiltration
+that can be combined with culture-independent detection methods. The principle of
+adsorption of Pseudomonas aeruginosa by hydrophobic and ionic interactions was
+studied in modified epoxy-based monoliths. Optimized conditions (5-L initial
+sample volume at pH 3 filtered for 30 min through hydrolyzed monoliths (MAF-OH)
+and eluted with beef extract glycine buffer at pH 9.5) achieved a recovery of
+67.1 ± 1.2% and a concentration factor of 103. For the first time, we therefore
+present a culture-independent approach for rapid enrichment and subsequent
+molecular biological quantification of P. aeruginosa by qPCR from tap water
+samples by monolithic adsorption filtration. The total enrichment and
+quantification process takes 4 h. This work further stresses the versatility of
+the monolithic adsorption filtration and its possibilities as a concentration
+tool for culture-independent analytics of pathogenic bacteria in the
+environment.Graphical abstract.
+
+DOI: 10.1007/s00216-020-02956-3 
+PMID: 33011838 
+

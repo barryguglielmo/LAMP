@@ -1,0 +1,58 @@
+
+1. Metab Eng Commun. 2020 May 31;11:e00134. doi: 10.1016/j.mec.2020.e00134.
+eCollection 2020 Dec.
+
+Metabolically engineered recombinant Saccharomyces cerevisiae for the production 
+of 2-Deoxy-scyllo-inosose (2-DOI).
+
+Al-Fahad AJ(1), Al-Fageeh MB(1), Kharbatia NM(2), Sioud S(2), Mahadevan R(3).
+
+Author information: 
+(1)National Center of Biotechnology, King Abdulaziz City for Science and
+Technology (KACST), Riyadh, 11442, Saudi Arabia.
+(2)Analytical Chemistry Core Laboratory, King Abdullah University of Science and 
+Technology (KAUST), Thuwal, 23955-6900, Saudi Arabia.
+(3)Department of Chemical Engineering and Applied Chemistry, University of
+Toronto, 200 College Street, Toronto, ON, M5S 3E5, Canada.
+
+Saccharomyces cerevisiae is a versatile industrial host for chemical production
+and has been engineered to produce efficiently many valuable compounds.
+2-Deoxy-scyllo-inosose (2-DOI) is an important precursor for the biosynthesis of 
+2-deoxystreptamine-containing aminoglycosides antibiotics and benzenoid
+metabolites. Bacterial and cyanobacterial strains have been metabolically
+engineered to generate 2-DOI; nevertheless, the production of 2-DOI using a yeast
+host has not been reported. Here, we have metabolically engineered a series of
+CEN.PK yeast strains to produce 2-DOI using a synthetically yeast codon-optimized
+btrC gene from Bacillus circulans. The expression of the 2-Deoxy-scyllo-inosose
+synthase (2-DOIS) gene was successfully achieved via an expression vector and
+through chromosomal integration at a high-expression locus. In addition, the
+production of 2-DOI was further investigated for the CEN.PK knockout strains of
+phosphoglucose isomerase (Δpgi1), D-glucose-6-phosphate dehydrogenase (Δzwf1) and
+a double mutant (Δpgi1, Δzwf1) in a medium consisting of 2% fructose and 0.05%
+glucose as a carbon source. We have found that all the recombinant strains are
+capable of producing 2-DOI and reducing it into scyllo-quercitol and
+(-)-vibo-quercitol. Comparatively, the high production of 2-DOI and its analogs
+was observed for the recombinant CEN.PK-btrC carrying the multicopy
+btrC-expression vector. GC/MS analysis of culture filtrates of this strain showed
+11 times higher response in EIC for the m/z 479 (methyloxime-tetra-TMS derivative
+of 2-DOI) than the YP-btrC recombinant that has only a single copy of btrC
+expression cassette integrated into the genomic DNA of the CEN.PK strain. The
+knockout strains namely Δpgi1-btrC and Δpgi1Δzwf1-btrC, that are transformed with
+the btrC-expression plasmids, have inactive Pgi1 and produced only traces of the 
+compounds. In contrast, Δzwf1-btrC recombinant which has intact pgi1 yielded
+relatively higher amount of the carbocyclic compounds. Additionally, 1H-NMR
+analysis of samples showed slow consumption of fructose and no accumulation of
+2-DOI and the quercitols in the culture broth of the recombinant CEN.PK-btrC
+suggesting that S. cerevisiae is capable of assimilating 2-DOI.
+
+© 2020 Published by Elsevier B.V. on behalf of International Metabolic
+Engineering Society.
+
+DOI: 10.1016/j.mec.2020.e00134 
+PMCID: PMC7348060
+PMID: 32670790 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

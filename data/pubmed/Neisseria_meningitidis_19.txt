@@ -1,0 +1,47 @@
+
+1. J Mol Biol. 2020 Sep 5. pii: S0022-2836(20)30529-5. doi:
+10.1016/j.jmb.2020.08.024. [Epub ahead of print]
+
+Random Switching of the ModA11 Type III DNA Methyltransferase of Neisseria
+meningitidis Regulates Entner-Doudoroff Aldolase Expression by a Methylation
+Change in the eda Promoter Region.
+
+Jen FE(1), Scott AL(1), Tan A(1), Seib KL(1), Jennings MP(2).
+
+Author information: 
+(1)Institute for Glycomics, Griffith University, Gold Coast, Queensland,
+Australia.
+(2)Institute for Glycomics, Griffith University, Gold Coast, Queensland,
+Australia. Electronic address: m.jennings@griffith.edu.au.
+
+Phase-variable DNA methyltransferases (Mods) mediate epigenetic regulation of
+gene expression. These phase-variable regulons, called phasevarions, have been
+shown to regulate virulence and immunoevasion in multiple bacterial pathogens.
+How genome methylation switching mediates gene regulation is unresolved.
+Neisseria meningitidis remains a major cause of sepsis and meningitis worldwide. 
+Previously, we reported that phase variation (rapid on/off switching) of the
+meningococcal ModA11 methyltransferase regulates 285 genes. Here we show a
+bioinformatic analysis that reveals only 26 of the regulated genes have a
+methylation site located upstream of the gene with potential for direct effect of
+methylation on transcription. To investigate how methylation changes are "read"
+to alter gene expression, we used a lacZ gene fusion approach. We showed a
+182-nucleotide region upstream of the eda gene (Entner-Doudoroff aldolase) is
+sufficient to impart methylation-dependent regulation of eda. Site-directed
+mutagenesis of the 5'-ACGTm6AGG-3' ModA11 site upstream of the eda gene showed
+that methylation of this site modulates eda expression. We show that eda is
+regulated by the PhoB homolog MisR, and that a MisR binding motif overlaps with
+the ModA11 methylation site. In a MisR mutant, regulation of eda is uncoupled
+from regulation by ModA11 phasevarion switching. The on/off switching of ModA11
+leads to the presence or absence of a N6-methyladenine modification at thousands 
+of sites in the genome. Most of these modifications have no impact on gene
+regulation. Moreover, the majority of the 285 gene regulon that is controlled by 
+ModA11 phasevarion switching (259/285) are not directly controlled by methylation
+changes in the promoter region of the regulated genes. Our data are consistent
+with direct control via methylation of a subset of the regulon, like Eda, whose
+regulation will trigger secondary effects in expression of many genes.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jmb.2020.08.024 
+PMID: 32896529 
+

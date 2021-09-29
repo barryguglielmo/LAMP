@@ -1,0 +1,72 @@
+
+1. Int J Food Microbiol. 2020 Sep 16;329:108686. doi:
+10.1016/j.ijfoodmicro.2020.108686. Epub 2020 May 26.
+
+Effect of Lactococcus lactis expressing phage endolysin on the late blowing
+defect of cheese caused by Clostridium tyrobutyricum.
+
+Garde S(1), Calzada J(1), Sánchez C(1), Gaya P(1), Narbad A(2), Meijers R(3),
+Mayer MJ(4), Ávila M(5).
+
+Author information: 
+(1)Departamento de Tecnología de Alimentos, Instituto Nacional de Investigación y
+Tecnología Agraria y Alimentaria (INIA), Carretera de La Coruña km 7, 28040
+Madrid, Spain.
+(2)Gut Microbes and Health Institute Strategic Programme, Quadram Institute
+Bioscience, Colney, Norwich NR4 7UQ, UK.
+(3)Institute for Protein Innovation, 4 Blackfan Circle Rm921, Boston, MA 02115,
+United States.
+(4)Gut Microbes and Health Institute Strategic Programme, Quadram Institute
+Bioscience, Colney, Norwich NR4 7UQ, UK. Electronic address:
+melinda.mayer@quadram.ac.uk.
+(5)Departamento de Tecnología de Alimentos, Instituto Nacional de Investigación y
+Tecnología Agraria y Alimentaria (INIA), Carretera de La Coruña km 7, 28040
+Madrid, Spain. Electronic address: arribas@inia.es.
+
+Erratum in
+    Int J Food Microbiol. 2020 Oct 16;331:108794.
+
+Clostridium tyrobutyricum has been identified as a major species associated with 
+the late blowing defect (LBD) of semi-hard and hard cheeses, due to undesirable
+butyric acid fermentation. To find new strategies to control this spoilage
+bacterium, we investigated the delivery of a bacteriophage endolysin by a cheese 
+starter culture. The nisin producer Lactococcus lactis subsp. lactis INIA 415 was
+engineered to produce the CTP1L endolysin, encoded by the virulent bacteriophage 
+ΦCTP1 of C. tyrobutyricum and with a demonstrated lytic activity in vitro, to the
+cheese matrix. The presence of the nisRK two-component regulatory system in the
+host strain allowed constitutive expression of the endolysin under the control of
+the nisA promoter (PnisA), while the use of a signal peptide (SLPmod) led to
+successful secretion of the active endolysin to the surrounding media. Engineered
+lysins with a second cell wall binding domain were also tested and shown to have 
+improved lytic activity. Transformation of L. lactis subsp. lactis INIA 415 with 
+endolysin delivery plasmids had a detrimental effect on its ability to produce
+nisin in milk, but did not affect its acidifying capacity. Transformed L. lactis 
+subsp. lactis INIA 415 were evaluated as starters in cheeses contaminated with
+spores of C. tyrobutyricum. Evolution of microbiological parameters, pH and dry
+matter of cheeses were studied, and Clostridium metabolism and LBD in cheeses
+were monitored by sensory and instrumental analyses during ripening. Cheese made 
+with the parental strain L. lactis subsp. lactis INIA 415 delayed LBD by one
+month, attributable to the activity of the nisin, but it was not sufficient to
+arrest the growth of C. tyrobutyricum during ripening completely. The use of the 
+endolysin-producing strains in cheese manufacture as single cultures also delayed
+the appearance of LBD by one month, attributable to the activity of the endolysin
+produced in situ during ripening, because nisin activity in these cheeses was
+very low at day 1 and undetectable from 15 days onwards. Endolysin was more
+effective than nisin in inhibiting Clostridium growth, since cheeses made with
+the CTP1L or the chimeric derivative producers only as starters showed lower LBD 
+symptoms, higher lactic acid levels and lower concentrations of propionic and
+butyric acids (associated with off-flavours) than cheese made with the parental
+strain. Investigation of different promoters to maximise endolysin production may
+help to implement CTP1L as a tool to control C. tyrobutyricum by L. lactis cheese
+starter and reduce LBD even further.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijfoodmicro.2020.108686 
+PMID: 32516659  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

@@ -1,0 +1,55 @@
+
+1. World J Gastroenterol. 2020 Feb 14;26(6):614-626. doi: 10.3748/wjg.v26.i6.614.
+
+Characterizing the composition of intestinal microflora by 16S rRNA gene
+sequencing.
+
+Wang WJ(1), Zhou YL(1), He J(1), Feng ZQ(1), Zhang L(1), Lai XB(1), Zhou JX(1),
+Wang H(2).
+
+Author information: 
+(1)Department of Gastroenterology, Guangzhou Digestive Disease Center, Guangzhou 
+First People's Hospital, South China University of Technology, Guangzhou 510030, 
+Guangdong Province, China.
+(2)Department of Gastroenterology, Guangzhou Digestive Disease Center, Guangzhou 
+First People's Hospital, South China University of Technology, Guangzhou 510030, 
+Guangdong Province, China. wong.hong@163.com.
+
+BACKGROUND: This study determined the composition and diversity of intestinal
+microflora in patients with colorectal adenoma (CRA), which may provide
+precedence for investigating the role of intestinal microflora in the
+pathogenesis of colorectal tumors, the composition of intestinal microflora
+closely related to CRA, and further validating the possibility of intestinal
+flora as a biomarker of CRA.
+AIM: To study the relationship between intestinal microflora and CRA.
+METHODS: This is a prospective control case study from October 2014 to June 2015 
+involving healthy volunteers and patients with advanced CRA. High-throughput
+sequencing and bioinformatics analysis were used to investigate the composition
+and diversity of intestinal microflora in 36 healthy subjects and 49 patients
+with advanced CRA. Endpoints measured were operational taxonomic units of
+intestinal flora, as well as their abundance and diversity (α and β types).
+RESULTS: In this study, the age, gender, body mass index, as well as location
+between controls and patients had no significant differences. The
+mucosa-associated gut microbiota diversity and bacterial distribution in healthy 
+controls and colorectal adenomas were similar. The operational taxonomic unit,
+abundance, and α and β diversity were all reduced in patients with CRA compared
+to controls. At the phylum level, the composition of intestinal microflora was
+comparable between patients and controls, but the abundance of Proteobacteria was
+increased, and Firmicutes and Bacteroides were significantly decreased (P <
+0.05). The increase in Halomonadaceae and Shewanella algae, and reduction in
+Coprococcus and Bacteroides ovatus, could serve as biomarkers of CRA.
+High-throughput sequencing confirms the special characteristics and diversity of 
+intestinal microflora in healthy controls and patients with CRA.
+CONCLUSION: The diversity of intestinal microflora was decreased in patients with
+CRA. An increase in Halomonadaceae and Shewanella algae are markers of CRA.
+
+©The Author(s) 2020. Published by Baishideng Publishing Group Inc. All rights
+reserved.
+
+DOI: 10.3748/wjg.v26.i6.614 
+PMCID: PMC7029349
+PMID: 32103871 
+
+Conflict of interest statement: Conflict-of-interest statement: The authors have 
+no conflict of interest to declare.
+

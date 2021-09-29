@@ -1,0 +1,55 @@
+
+1. PLoS Negl Trop Dis. 2019 Dec 2;13(12):e0007883. doi:
+10.1371/journal.pntd.0007883. eCollection 2019 Dec.
+
+CRISPR/Cas9-mediated gene deletion of the ompA gene in symbiotic Cedecea neteri
+impairs biofilm formation and reduces gut colonization of Aedes aegypti
+mosquitoes.
+
+Hegde S(1), Nilyanimit P(2), Kozlova E(3), Anderson ER(1), Narra HP(3), Sahni
+SK(3), Heinz E(4), Hughes GL(1).
+
+Author information: 
+(1)Departments of Vector Biology and Tropical Disease Biology, Liverpool School
+of Tropical Medicine, Liverpool, United Kingdom.
+(2)Center of Excellence in Clinical Virology, Chulalongkorn University, Bangkok, 
+Thailand.
+(3)Department of Pathology, University of Texas Medical Branch, Galveston, Texas,
+United States of America.
+(4)Department of Vector Biology and Department of Clinical Sciences, Liverpool
+School of Tropical Medicine, Liverpool, United Kingdom.
+
+BACKGROUND: Symbiotic bacteria are pervasive in mosquitoes and their presence can
+influence many host phenotypes that affect vectoral capacity. While it is evident
+that environmental and host genetic factors contribute in shaping the microbiome 
+of mosquitoes, we have a poor understanding regarding how bacterial genetics
+affects colonization of the mosquito gut. The CRISPR/Cas9 gene editing system is 
+a powerful tool to alter bacterial genomes facilitating investigations into
+host-microbe interactions but has yet to be applied to insect symbionts.
+METHODOLOGY/PRINCIPAL FINDINGS: To investigate the role of bacterial genetic
+factors in mosquito biology and in colonization of mosquitoes we used CRISPR/Cas9
+gene editing system to mutate the outer membrane protein A (ompA) gene of a
+Cedecea neteri symbiont isolated from Aedes mosquitoes. The ompA mutant had an
+impaired ability to form biofilms and poorly infected Ae. aegypti when reared in 
+a mono-association under gnotobiotic conditions. In adult mosquitoes, the mutant 
+had a significantly reduced infection prevalence compared to the wild type or
+complement strains, while no differences in prevalence were seen in larvae,
+suggesting genetic factors are particularly important for adult gut colonization.
+We also used the CRISPR/Cas9 system to integrate genes (antibiotic resistance and
+fluorescent markers) into the symbionts genome and demonstrated that these genes 
+were functional in vitro and in vivo.
+CONCLUSIONS/SIGNIFICANCE: Our results shed insights into the role of ompA gene in
+host-microbe interactions in Ae. aegypti and confirm that CRISPR/Cas9 gene
+editing can be employed for genetic manipulation of non-model gut microbes. The
+ability to use this technology for site-specific integration of genes into the
+symbiont will facilitate the development of paratransgenic control strategies to 
+interfere with arboviral pathogens such Chikungunya, dengue, Zika and Yellow
+fever viruses transmitted by Aedes mosquitoes.
+
+DOI: 10.1371/journal.pntd.0007883 
+PMCID: PMC6907859
+PMID: 31790395  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

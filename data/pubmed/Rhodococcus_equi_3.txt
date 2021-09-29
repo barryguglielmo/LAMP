@@ -1,0 +1,62 @@
+
+1. Domest Anim Endocrinol. 2020 Jul 29;74:106531. doi:
+10.1016/j.domaniend.2020.106531. [Epub ahead of print]
+
+Effects of pituitary pars intermedia dysfunction and Prascend (pergolide tablets)
+treatment on endocrine and immune function in horses.
+
+Miller AB(1), Loynachan AT(2), Bush HM(3), Hart KA(4), Barker VD(5),
+Campana-Emard AG(5), Grubbs ST(6), Adams AA(5).
+
+Author information: 
+(1)M.H. Gluck Equine Research Center, Department of Veterinary Science,
+University of Kentucky, Lexington, KY, USA. Electronic address:
+ashton.miller@uky.edu.
+(2)Veterinary Diagnostic Laboratory, Department of Veterinary Science, University
+of Kentucky, Lexington, KY, USA.
+(3)Department of Biostatistics, University of Kentucky, Lexington, KY, USA.
+(4)Department of Large Animal Medicine, College of Veterinary Medicine,
+University of Georgia, Athens, GA, USA.
+(5)M.H. Gluck Equine Research Center, Department of Veterinary Science,
+University of Kentucky, Lexington, KY, USA.
+(6)Boehringer Ingelheim Animal Health USA, Inc, Duluth, GA, USA.
+
+It remains unclear how pituitary pars intermedia dysfunction (PPID) and pergolide
+treatment (Prascend [pergolide tablets]) affect endocrine and immune function in 
+horses. To evaluate these effects, blood was collected regularly from 28
+university-owned horses (10 Non-PPID, 9 PPID control [PC], and 9 PPID treatment
+[PT]) over approximately 15 mo. Pergolide treatment was initiated after Day 0
+collections. Analyses included ACTH, insulin, total cortisol, free cortisol,
+complete blood counts, plasma myeloperoxidase, and cytokine/receptor gene
+expression in basal whole blood and in vitro stimulations (PMA/ionomycin,
+heat-inactivated Rhodococcus equi, and heat-inactivated Escherichia coli) of
+whole blood and peripheral blood mononuclear cells (PBMCs). The results were
+analyzed using a linear mixed model (SAS 9.4) with significance set at P < 0.05. 
+Significant group (P = 0.0014) and group-by-time (P = 0.0004) effects were
+observed in resting ACTH such that PT horses differed from Non-PPID horses only
+at Day 0. PT horses had significantly lower changes in ACTH responses to
+thyrotropin-releasing hormone stimulation tests than PC horses at non-fall time
+points only, mid-late February 2018 (P = 0.016) and early April 2018 (P =
+0.0172). When PT and PC horses did not differ, they were combined before
+comparison to Non-PPID horses. No significant group or group-by-time effects were
+seen in resting insulin, total cortisol, or free cortisol; however, significant
+time effects were observed in these measures. PPID horses had lower absolute
+lymphocyte (P = 0.028) and red blood cell (P = 0.0203) counts than Non-PPID
+horses. In unstimulated whole blood, PPID horses had increased IL-8 expression
+compared with Non-PPID horses (P = 0.0102). In addition, PPID horses had
+decreased interferon γ production from PBMCs after stimulation with R. equi (P = 
+0.0063) and E. coli (P = 0.0057) and showed increased transforming growth factor 
+β expression after E. coli stimulation (P = 0.0399). The main limitations of this
+study were a limited sample size and an inability to truly randomize the PPID
+horses into treatment groups. Resting ACTH is likely the best choice for
+determining successful responses to pergolide. Neither PPID nor pergolide appears
+to influence insulin, total cortisol, and free cortisol. As measured, systemic
+immune function was altered in PPID horses, and it is likely that these horses
+are indeed at increased risk of opportunistic infection. Despite reducing ACTH,
+pergolide treatment did not appear to influence immune function.
+
+Copyright © 2020 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.domaniend.2020.106531 
+PMID: 32942194 
+

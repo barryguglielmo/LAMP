@@ -1,0 +1,53 @@
+
+1. Materials (Basel). 2020 Sep 30;13(19). pii: E4366. doi: 10.3390/ma13194366.
+
+Zn- or Cu-containing CaP-Based Coatings Formed by Micro-Arc Oxidation on Titanium
+and Ti-40Nb Alloy: Part II-Wettability and Biological Performance.
+
+Komarova EG(1), Sharkeev YP(1)(2), Sedelnikova MB(1), Prymak O(3), Epple M(3),
+Litvinova LS(4), Shupletsova VV(4), Malashchenko VV(4), Yurova KA(4), Dzyuman
+AN(5), Kulagina IV(6), Mushtovatova LS(7), Bochkareva OP(7), Karpova MR(7),
+Khlusov IA(4)(5)(8).
+
+Author information: 
+(1)Laboratory of Physics of Nanostructured Biocomposites, Institute of Strength
+Physics and Materials Science SB RAS, Tomsk 634055, Russia.
+(2)Research School of High-Energy Physics, National Research Tomsk Polytechnic
+University, Tomsk 634050, Russia.
+(3)Inorganic Chemistry and Center for Nanointegration Duisburg-Essen (CeNIDE),
+University of Duisburg-Essen, 45141 Essen, Germany.
+(4)Center for Immunology and Cell Biotechnology, Immanuel Kant Baltic Federal
+University, Kaliningrad 236029, Russia.
+(5)Department of Morphology and General Pathology, Siberian State Medical
+University, Tomsk 634050, Russia.
+(6)Department of Biochemistry and Molecular Biology, Siberian State Medical
+University, Tomsk 634050, Russia.
+(7)Department of Microbiology and Virology, Siberian State Medical University,
+Tomsk 634050, Russia.
+(8)Research School of Chemistry and Applied Biomedical Sciences, National
+Research Tomsk Polytechnic University, Tomsk 634050, Russia.
+
+This work describes the wettability and biological performance of Zn- and
+Cu-containing CaP-based coatings prepared by micro-arc oxidation on pure titanium
+(Ti) and novel Ti-40Nb alloy. Good hydrophilic properties of all the coatings
+were demonstrated by the low contact angles with liquids, not exceeding 45°. An
+increase in the applied voltage led to an increase of the coating roughness and
+porosity, thereby reducing the contact angles to 6° with water and to 17° with
+glycerol. The free surface energy of 75 ± 3 mJ/m2 for all the coatings were
+determined. Polar component was calculated as the main component of surface
+energy, caused by the presence of strong polar PO43- and OH- bonds. In vitro
+studies showed that low Cu and Zn amounts (~0.4 at.%) in the coatings promoted
+high motility of human adipose-derived multipotent mesenchymal stromal cells
+(hAMMSC) on the implant/cell interface and subsequent cell ability to
+differentiate into osteoblasts. In vivo study demonstrated 100% ectopic bone
+formation only on the surface of the CaP coating on Ti. The Zn- and Cu-containing
+CaP coatings on both substrates and the CaP coating on the Ti-40Nb alloy slightly
+decreased the incidence of ectopic osteogenesis down to 67%. The MAO coatings
+showed antibacterial efficacy against Staphylococcus aureus and can be arranged
+as follows: Zn-CaP/Ti > Cu-CaP/TiNb, Zn-CaP/TiNb > Cu-CaP/Ti.
+
+DOI: 10.3390/ma13194366 
+PMID: 33008055 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

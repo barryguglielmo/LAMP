@@ -1,0 +1,55 @@
+
+1. Front Microbiol. 2020 Aug 13;11:1881. doi: 10.3389/fmicb.2020.01881. eCollection 
+2020.
+
+Porphyromonas gingivalis-Induced NLRP3 Inflammasome Activation and Its Downstream
+Interleukin-1β Release Depend on Caspase-4.
+
+Ding PH(1)(2), Yang MX(2)(3), Wang NN(4), Jin LJ(5), Dong Y(2)(6), Cai X(1)(2),
+Chen LL(2)(3).
+
+Author information: 
+(1)Department of Periodontology, Stomatology Hospital of Zhejiang University
+School of Medicine, Hangzhou, China.
+(2)Key Laboratory of Oral Biomedical Research of Zhejiang Province, Zhejiang
+University School of Stomatology, Hangzhou, China.
+(3)Department of Periodontology, Second Affiliated Hospital, School of Medicine, 
+Zhejiang University, Hangzhou, China.
+(4)Department of Periodontology, Fuyang People's Hospital, Fuyang, China.
+(5)Division of Periodontology and Implant Dentistry, Faculty of Dentistry, The
+University of Hong Kong, Hong Kong, China.
+(6)Department of Prosthodontics, The Second Affiliated Hospital of Zhejiang
+University School of Medicine, Hangzhou, China.
+
+Background: Oral commensals contribute to microbe-host symbiosis in periodontal
+homeostasis, and Porphyromonas gingivalis (P. gingivalis) as the keystone
+pathogen critically accounts for the shift of symbiosis to dysbiosis and
+periodontal destruction. Nucleotide-binding oligomerization domain (NOD)-like
+receptor (NLR) family pyrin domain containing 3 (NLRP3) inflammasome-mediated
+interleukin-1β (IL-1β) is significantly involved in periodontal diseases, and
+notably P. gingivalis enables to modulate the induction and expression of NLRP3. 
+Whereas, the exact mechanism by which NLRP3 inflammasome is regulated in response
+to commensal and pathogenic bacteria remains unclear. Methods: To examine the
+expression of IL-1β and NLRPs inflammasome in tissues with severe chronic
+periodontitis, and further investigate how Caspase-4-dependent non-canonical
+NLRP3 inflammasome pathways functioned during the interactions of Streptococcus
+mitis (S. mitis) and P. gingivalis with human THP-1 cells. Results: IL-1β and
+NLRP3, NLRP6, NLRP12, and absent in melanoma 2 (AIM2) inflammasomes are highly
+expressed in gingival tissues with severe chronic periodontitis. In human THP-1
+cells, P. gingivalis activates the synthesis and secretion of IL-1β to higher
+levels than S. mitis. Importantly, NLRP3-, Caspase-1-, and Caspase-4-siRNA
+knockdown THP-1 cells treated with P. gingivalis exhibited a lower expression
+level of IL-1β as compared to the control cells. In addition, silencing of either
+CASP4 or CASP1 can lead to a concurrent or reciprocal decrease in the expression 
+of the other. Of note, the IL-1β induction is not affected in the S.
+mitis-treated THP-1 cells with the silence of NLRP3, Caspase-1, and Caspase-4
+genes. Conclusion: NLRP3/Caspase-4 and NLRP3/Caspase-1 dependent IL-1β production
+may crucially contribute to the dysregulated immuno-inflammatory response in
+periodontal pathogenesis.
+
+Copyright © 2020 Ding, Yang, Wang, Jin, Dong, Cai and Chen.
+
+DOI: 10.3389/fmicb.2020.01881 
+PMCID: PMC7438778
+PMID: 32903638 
+

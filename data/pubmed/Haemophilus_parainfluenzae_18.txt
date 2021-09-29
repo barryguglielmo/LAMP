@@ -1,0 +1,69 @@
+
+1. Clin Microbiol Infect. 2020 Jul;26(7):944.e1-944.e7. doi:
+10.1016/j.cmi.2019.11.022. Epub 2019 Dec 4.
+
+Assessment of trimethoprim-sulfamethoxazole susceptibility testing methods for
+fastidious Haemophilus spp.
+
+Sierra Y(1), Tubau F(2), González-Díaz A(2), Carrera-Salinas A(1), Moleres J(3), 
+Bajanca-Lavado P(4), Garmendia J(5), Domínguez MÁ(6), Ardanuy C(7), Martí S(8).
+
+Author information: 
+(1)Microbiology Department, Hospital Universitari de Bellvitge, IDIBELL-UB,
+Barcelona, Spain.
+(2)Microbiology Department, Hospital Universitari de Bellvitge, IDIBELL-UB,
+Barcelona, Spain; Research Network for Respiratory Diseases (CIBERES), ISCIII,
+Madrid, Spain.
+(3)Instituto de Agrobiotecnología, CSIC-Gobierno, Navarra, Spain.
+(4)Haemophilus Influenzae Reference Laboratory, Department of Infectious
+Diseases, National Institute of Health, Lisbon, Portugal.
+(5)Research Network for Respiratory Diseases (CIBERES), ISCIII, Madrid, Spain;
+Instituto de Agrobiotecnología, CSIC-Gobierno, Navarra, Spain.
+(6)Microbiology Department, Hospital Universitari de Bellvitge, IDIBELL-UB,
+Barcelona, Spain; Spanish Network for Research in Infectious Diseases (REIPI),
+ISCIII, Madrid, Spain; Department of Pathology and Experimental Therapeutics,
+Faculty of Medicine, University of Barcelona, Barcelona, Spain.
+(7)Microbiology Department, Hospital Universitari de Bellvitge, IDIBELL-UB,
+Barcelona, Spain; Research Network for Respiratory Diseases (CIBERES), ISCIII,
+Madrid, Spain; Department of Pathology and Experimental Therapeutics, Faculty of 
+Medicine, University of Barcelona, Barcelona, Spain. Electronic address:
+c.ardanuy@bellvitgehospital.cat.
+(8)Microbiology Department, Hospital Universitari de Bellvitge, IDIBELL-UB,
+Barcelona, Spain; Research Network for Respiratory Diseases (CIBERES), ISCIII,
+Madrid, Spain. Electronic address: smartinm@bellvitgehospital.cat.
+
+OBJECTIVES: To compare the determinants of trimethoprim-sulfamethoxazole
+resistance with established susceptibility values for fastidious Haemophilus
+spp., to provide recommendations for optimal trimethoprim-sulfamethoxazole
+measurement.
+METHODS: We collected 50 strains each of Haemophilus influenzae and Haemophilus
+parainfluenzae at Bellvitge University Hospital. Trimethoprim-sulfamethoxazole
+susceptibility was tested by microdilution, E-test and disc diffusion using both 
+Mueller-Hinton fastidious (MH-F) medium and Haemophilus test medium (HTM)
+following EUCAST and CLSI criteria, respectively. Mutations in folA, folP and
+additional determinants of resistance were identified in whole-genome-sequenced
+isolates.
+RESULTS: Strains presented generally higher rates of
+trimethoprim-sulfamethoxazole resistance when grown on HTM than on MH-F,
+independent of the methodology used (average MIC 2.6-fold higher in H. influenzae
+and 1.2-fold higher in H. parainfluenzae). The main resistance-related
+determinants were as follows: I95L and F154S/V in folA; 3- and 15-bp insertions
+and substitutions in folP; acquisition of sul genes; and FolA overproduction
+potentially linked to mutations in -35 and -10 promoter motifs. Of note, 2 of 19 
+H. influenzae strains (10.5%) and 9 of 33 H. parainfluenzae strains (27.3%) with 
+mutations and assigned as resistant by microdilution were inaccurately considered
+susceptible by disc diffusion. This misinterpretation was resolved by raising the
+clinical resistance breakpoint of the EUCAST guidelines to ≤30 mm.
+CONCLUSIONS: Given the routine use of disc diffusion, a significant number of
+strains could potentially be miscategorized as susceptible to
+trimethoprim-sulfamethoxazole despite having resistance-related mutations. A
+simple modification to the current clinical resistance breakpoint given by the
+EUCAST guideline for MH-F ensures correct interpretation and correlation with the
+reference standard method of microdilution.
+
+Copyright © 2019 European Society of Clinical Microbiology and Infectious
+Diseases. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cmi.2019.11.022 
+PMID: 31811916 
+

@@ -1,0 +1,36 @@
+
+1. Int J Syst Evol Microbiol. 2020 Apr;70(4):2463-2466. doi: 10.1099/ijsem.0.004059.
+Epub 2020 Feb 18.
+
+Reclassification of Clostridium diolis Biebl and Spröer 2003 as a later
+heterotypic synonym of Clostridium beijerinckii Donker 1926 (Approved Lists 1980)
+emend. Keis et al. 2001.
+
+Kobayashi H(1), Tanizawa Y(2), Sakamoto M(3)(4), Nakamura Y(2), Ohkuma M(4),
+Tohno M(1).
+
+Author information: 
+(1)Central Region Agricultural Research Center, National Agriculture and Food
+Research Organization, Nasushiobara, Tochigi 329-2793, Japan.
+(2)Department of Informatics, National Institute of Genetics, Mishima, Shizuoka
+411-8540, Japan.
+(3)PRIME, Japan Agency for Medical Research and Development (AMED), Tsukuba,
+Ibaraki 305-0074, Japan.
+(4)Microbe Division/Japan Collection of Microorganisms, RIKEN BioResource
+Research Center, Tsukuba, Ibaraki 305-0074, Japan.
+
+Clostridium diolis shares high similarity based on 16S rRNA gene sequences and
+fatty acid composition with Clostridium beijerinckii. In this study, the
+taxonomic status of C. diolis was clarified using genomic and phenotypic
+approaches. High similarity was detected among C. diolis DSM 15410T, C.
+beijerinckii DSM 791T and NCTC 13035T, showing average nucleotide identity on
+blast and in silico DNA-DNA hybridization values over 97 and 85 %, respectively. 
+Results of investigations for substrate utilization and enzyme activity displayed
+no striking differences between C. diolis DSM 15410T and C. beijerinckii JCM
+1390T. Based on the results, we propose the reclassification of Clostridium
+diolis as a later heterotypic synonym of Clostridium beijerinckii. The type
+strain is ATCC 25752T (=CIP 104308T=DSM 791T=JCM 1390T=LMG 5716T=NCTC 13035T).
+
+DOI: 10.1099/ijsem.0.004059 
+PMID: 32068529  [Indexed for MEDLINE]
+

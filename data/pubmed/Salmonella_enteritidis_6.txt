@@ -1,0 +1,40 @@
+
+1. J Food Sci. 2020 Sep 23. doi: 10.1111/1750-3841.15459. [Epub ahead of print]
+
+Propidium monoazide for viable Salmonella enterica detection by PCR and LAMP
+assays in comparison to RNA-based RT-PCR, RT-LAMP, and culture-based assays.
+
+Techathuvanan C(1), D'Souza DH(1).
+
+Author information: 
+(1)Department of Food Science, University of Tennessee, 2605 River Drive,
+Knoxville, TN, 37996-4591, U.S.A.
+
+Rapid and sensitive detection of live/infectious foodborne pathogens is urgently 
+needed in order to prevent outbreaks and food recalls. This study aimed to (1)
+evaluate the incorporation of propidium monoazide (PMA) into PCR or LAMP assays
+to selectively detect viable Salmonella Enteritidis following sublethal heat or
+UV treatment, and autoclave sterilization; and (2) compare the detection of
+PMA-PCR and PMA-LAMP to DNA-based PCR and LAMP (without PMA), RNA-based RT-PCR
+and RT-LAMP, and culture-based methods. Nucleic acids (DNA or RNA) from 1-mL S.
+Enteritidis samples were used for PCR, RT-PCR, LAMP, and RT-LAMP assays. Serially
+diluted samples were plated on Xylose Lysine Tergitol-4 agar for cultural
+enumeration. Comparable detection of overnight cultured S. Enteritidis was
+obtained by PMA-PCR, PCR, and RT-PCR, though 1 to 2 log less sensitive than
+cultural assays. PMA-LAMP and RT-LAMP showed similar detection of overnight
+cultures, being 1 to 2 log less sensitive than the LAMP assay, and ∼4 log less
+than culture-based detection. Autoclaved S. Enteritidis did not test positive by 
+RNA-based methods or PMA-PCR, but PMA-LAMP showed detection of 1 log CFU/mL.
+PMA-PCR and RT-PCR showed comparable detection of sublethal heat-treated cells to
+cultural assays, while PMA-LAMP showed 1 to 2 log less detection. Our results
+suggest that PMA-PCR and PMA-LAMP assays are not suitable for selective viable
+cell detection after UV treatment. While PMA-LAMP assay needs optimization,
+PMA-PCR shows promise for live/viable S. Enteritidis detection. PMA-PCR shows
+potential for routine testing in the food industry with results within 1-day,
+albeit depending on the inactivation method employed.
+
+© 2020 Institute of Food Technologists®.
+
+DOI: 10.1111/1750-3841.15459 
+PMID: 32964461 
+

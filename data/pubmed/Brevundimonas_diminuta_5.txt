@@ -1,0 +1,51 @@
+
+1. Toxicol Lett. 2020 Mar 15;321:138-145. doi: 10.1016/j.toxlet.2019.12.030. Epub
+2019 Dec 28.
+
+A catalytic bioscavenger with improved stability and reduced susceptibility to
+oxidation for treatment of acute poisoning with neurotoxic organophosphorus
+compounds.
+
+Job L(1), Köhler A(2), Escher B(3), Worek F(4), Skerra A(5).
+
+Author information: 
+(1)Lehrstuhl für Biologische Chemie, Technische Universität München,
+Emil-Erlenmeyer-Forum 5, 85354 Freising, Germany. Electronic address:
+laura.job@tum.de.
+(2)Lehrstuhl für Biologische Chemie, Technische Universität München,
+Emil-Erlenmeyer-Forum 5, 85354 Freising, Germany; Bundeswehr Institut für
+Pharmakologie und Toxikologie, Neuherbergstr. 11, 80937 München, Germany.
+Electronic address: Anja1Koehler@bundeswehr.org.
+(3)Lehrstuhl für Biologische Chemie, Technische Universität München,
+Emil-Erlenmeyer-Forum 5, 85354 Freising, Germany. Electronic address:
+b.escher@tum.de.
+(4)Bundeswehr Institut für Pharmakologie und Toxikologie, Neuherbergstr. 11,
+80937 München, Germany. Electronic address: franzworek@bundeswehr.org.
+(5)Lehrstuhl für Biologische Chemie, Technische Universität München,
+Emil-Erlenmeyer-Forum 5, 85354 Freising, Germany. Electronic address:
+skerra@tum.de.
+
+Organophosphorus (OP)1 nerve agents pose a severe toxicological threat, both
+after dissemination in military conflicts and by terrorists. Hydrolytic enzymes, 
+which may be administered into the blood stream of victims by injection and can
+decompose the circulating nerve agent into non-toxic metabolites in vivo, could
+offer a treatment. Indeed, for the phosphotriesterase found in the bacterium
+Brevundimonas diminuta (BdPTE),2 engineered versions with improved catalytic
+efficiencies have been described; yet, their biochemical stabilities are
+insufficient for therapeutic use. Here, we describe the application of rational
+protein design to develop novel mutants of BdPTE that are less susceptible to
+oxidative damage. In particular, the replacement of two unpaired cysteine
+residues by more inert amino acids led to higher stability while maintaining high
+catalytic activity towards a broad spectrum of substrates, including OP
+pesticides and V-type nerve agents. The mutant BdPTE enzymes were produced in
+Escherichia coli, purified to homogeneity, and their biochemical and
+enzymological properties were assessed. Several candidates both revealed enhanced
+thermal stability and were less susceptible to oxidative stress, as demonstrated 
+by mass spectrometry. These mutants of BdPTE may show promise for the treatment
+of acute intoxications by nerve agents as well as OP pesticides.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.toxlet.2019.12.030 
+PMID: 31891759  [Indexed for MEDLINE]
+

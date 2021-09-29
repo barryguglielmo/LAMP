@@ -1,0 +1,45 @@
+
+1. Sci Rep. 2020 Jun 2;10(1):8997. doi: 10.1038/s41598-020-65891-4.
+
+Comparative assessment of faecal microbial composition and metabonome of swine,
+farmers and human control.
+
+Tan SC(1), Chong CW(2)(3), Yap IKS(4), Thong KL(5), Teh CSJ(6).
+
+Author information: 
+(1)Institute of Biological Science, Faculty of Science, University of Malaya,
+50603, Kuala Lumpur, Malaysia.
+(2)School of Pharmacy, Monash University Malaysia, Jalan Lagoon Selatan, 47500,
+Bandar Sunway, Malaysia.
+(3)Centre for Translational Research, Institute for Research, Development and
+Innovation (IRDI), International Medical University, 57000, Kuala Lumpur,
+Malaysia.
+(4)Sarawak Research and Development Council, 11th Floor LCDA Tower, The Isthmus, 
+Off Jalan Bako, 93050, Kuching, Sarawak, Malaysia.
+(5)NANOCAT Research Centre, University of Malaya, 50603, Kuala Lumpur, Malaysia.
+(6)Department of Medical Microbiology, Faculty of Medicine, University of Malaya,
+50603, Kuala Lumpur, Malaysia. cindysjteh@um.edu.my.
+
+The gastrointestinal tract of humans and swine consist of a wide range of
+bacteria which interact with hosts metabolism. Due to the differences in
+co-evolution and co-adaptation, a large fraction of the gut microbiome is
+host-specific. In this study, we evaluated the effect of close human-animal
+interaction to the faecal metagenome and metabonome of swine, farmer and human
+control. Three distinct clusters were observed based on T-RFLP-derived faecal
+microbial composition. However, 16S-inferred faecal microbiota and metabolic
+profiles showed that only human control was significantly different from the
+swine (P < 0.05). The metabonome of farmers and human controls were highly
+similar. Notably, higher trimethylamine N-oxide (TMAO) and butyrate were detected
+in human control and swine, respectively. The relative abundance of TMAO was
+positively correlated with Prevotella copri. Overall, we compared and established
+the relationship between the metabolites and microbiota composition of swine,
+farmers and human control. Based on the data obtained, we deduced that long term 
+occupational exposure to swine and farm environment had affected the gut
+bacterial composition of farmers. Nonetheless, the effect was less prominent in
+the metabolite profiles, suggesting the gut bacteria expressed high functional
+plasticity and are therefore resilience to the level of community shift detected.
+
+DOI: 10.1038/s41598-020-65891-4 
+PMCID: PMC7265441
+PMID: 32488118 
+

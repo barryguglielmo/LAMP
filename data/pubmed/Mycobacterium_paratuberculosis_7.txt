@@ -1,0 +1,47 @@
+
+1. J Clin Microbiol. 2020 Sep 16. pii: JCM.01761-20. doi: 10.1128/JCM.01761-20.
+[Epub ahead of print]
+
+A Novel Real-time PCR-based Screening Test with Pooled Faecal Samples for Bovine 
+Johne's Disease.
+
+Kawaji S(1), Nagata R(2), Minegishi Y(3), Saruyama Y(4), Mita A(5), Kishizuka
+S(5), Saito M(5), Mori Y(2).
+
+Author information: 
+(1)Division of Bacterial and Parasitic Disease, National Institute of Animal
+Health, National Agriculture and Food Research Organization, Tsukuba, Japan
+skawaji@affrc.go.jp.
+(2)Division of Bacterial and Parasitic Disease, National Institute of Animal
+Health, National Agriculture and Food Research Organization, Tsukuba, Japan.
+(3)Nippon Gene Co., Ltd., Tokyo, Japan.
+(4)Tochigi Prefectural Central Livestock Hygiene Service Center, Utsunomiya,
+Japan.
+(5)National Livestock Breeding Center, Nishigo, Japan.
+
+Johne's disease (JD) is an economically important infectious disease in livestock
+farming caused by Mycobacterium avium subsp. paratuberculosis (MAP). As an
+alternative to serological tests, which are mainly used for the screening of
+whole herds, we developed a novel ResoLight-based real-time PCR (RL-PCR) assay
+with pooled faecal samples for the detection of faecal shedders in cattle herds. 
+The RL-PCR assay included an internal amplification control (IC) which was
+amplified using the same primer pair as the target molecule MAP IS900 and
+differentiated based on melting temperatures. Individual faecal suspensions were 
+pooled and concentrated by centrifugation to avoid loss of sensitivity by
+dilution effect. Combined with a DNA extraction kit (Johne-PureSpin, FASMAC), no 
+inhibition of PCR amplification was observed with up to 15 faecal samples in a
+pool. The detection limit of RL-PCR at a pool size of 10 was 10 MAP organisms per
+gram of faeces, which was comparable to individual testing. A total of 2,654
+animals in 12 infected herds were screened by individual antibody-ELISA and the
+RL-PCR assay using pooled faeces. Fifty animals were diagnosed with JD through
+the screening by RL-PCR, compared to only 5 by ELISA (which were also positive in
+RL-PCR). In 7 JD free herds, the results of 4 out of 327 pools (1.2%) were
+invalid due to the lack of IC amplification, and then animals were confirmed
+negative individually. Our results suggest that implementation of herd screening 
+by pooled RL-PCR would advance the monitoring and control of JD in cattle herds.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/JCM.01761-20 
+PMID: 32938740 
+

@@ -1,0 +1,41 @@
+
+1. Dev Comp Immunol. 2020 Aug 7;114:103800. doi: 10.1016/j.dci.2020.103800. [Epub
+ahead of print]
+
+The coordinated outcome of STIM1-Orai1 and superoxide signalling is crucial for
+headkidney macrophage apoptosis and clearance of Mycobacterium fortuitum.
+
+Dahiya P(1), Datta D(1), Hussain MA(1), Verma G(2), Shelly A(1), Mehta P(1),
+Mazumder S(3).
+
+Author information: 
+(1)Immunobiology Laboratory, Department of Zoology, University of Delhi, Delhi,
+110 007, India.
+(2)Lund University of Diabetes Centre, Lund University, Sweden, 21428, Malmo,
+Sweden.
+(3)Immunobiology Laboratory, Department of Zoology, University of Delhi, Delhi,
+110 007, India; Faculty of Life Sciences and Biotechnology, South Asian
+University, New Delhi, 110 021, India. Electronic address: shibnath1@yahoo.co.in.
+
+The mechanisms underlying M. fortuitum-induced pathogenesis remains elusive.
+Using headkidney macrophages (HKM) from Clarias gariepinus, we report that
+TLR-2-mediated internalization of M. fortuitum is imperative to the induction of 
+pathogenic effects. Inhibiting TLR-2 signalling alleviated HKM apoptosis, thereby
+favouring bacterial survival. Additionally, TLR-2-mediated cytosolic calcium
+(Ca2+)c elevation was instrumental for eliciting ER-stress in infected HKM.
+ER-stress triggered the activation of membrane-proximal calcium entry channels
+comprising stromal interaction molecule 1 (STIM1) and calcium-release activated
+calcium channel 1 (Orai1). RNAi studies suggested STIM1-Orai1 signalling initiate
+calpain-mediated cleavage of nitric oxide synthase interacting protein, prompting
+the release of pro-apoptotic nitric oxide. Inhibiting STIM1-Orai1 signalling
+attenuated superoxide production (O2•-) and vice versa. We conclude,
+TLR-2-induced ER-stress triggers STIM1/Orai1 expression and that the reciprocal
+association between STIM1-Orai1 signalling and oxidative stress is critical for
+sustaining (Ca2+)c level, thereby prolonging ER-stress and maintenance of
+pro-oxidant rich environment to induce HKM apoptosis and bacterial clearance.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.dci.2020.103800 
+PMID: 32771347 
+

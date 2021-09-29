@@ -1,0 +1,43 @@
+
+1. Cell Microbiol. 2020 Aug 22:e13252. doi: 10.1111/cmi.13252. [Epub ahead of print]
+
+Bacteroides fragilis fucosidases facilitate growth and invasion of Campylobacter 
+jejuni in the presence of mucins.
+
+Luijkx YMCA(1)(2), Bleumink NMC(2), Jiang J(3)(4), Overkleeft HS(3), Wösten
+MMSM(2), Strijbis K(2), Wennekes T(1).
+
+Author information: 
+(1)Department Chemical Biology and Drug Discovery, Utrecht Institute for
+Pharmaceutical Sciences and Bijvoet Center for Biomolecular Research, Utrecht
+University, Utrecht, The Netherlands.
+(2)Department Biomolecular Health Sciences, Utrecht University, Utrecht, The
+Netherlands.
+(3)Leiden institute of Chemistry, Leiden University, Leiden, The Netherlands.
+(4)Health Science Center, School of Pharmacy, Shenzhen University, Shenzhen,
+China.
+
+The enteropathogenic bacterium, Campylobacter jejuni, was considered to be
+non-saccharolytic, but recently it emerged that l-fucose plays a central role in 
+C. jejuni virulence. Half of C. jejuni clinical isolates possess an operon for
+l-fucose utilisation. In the intestinal tract, l-fucose is abundantly available
+in mucin O-linked glycan structures, but C. jejuni lacks a fucosidase enzyme
+essential to release the l-fucose. We set out to determine how C. jejuni can gain
+access to these intestinal l-fucosides. Growth of the fuc + C. jejuni strains,
+129,108 and NCTC 11168, increased in the presence of l-fucose while fucose
+permease knockout strains did not benefit from additional l-fucose. With
+fucosidase assays and an activity-based probe, we confirmed that Bacteriodes
+fragilis, an abundant member of the intestinal microbiota, secretes active
+fucosidases. In the presence of mucins, C. jejuni was dependent on B. fragilis
+fucosidase activity for increased growth. Campylobacter jejuni invaded Caco-2
+intestinal cells that express complex O-linked glycan structures that contain
+l-fucose. In infection experiments, C. jejuni was more invasive in the presence
+of B. fragilis and this increase is due to fucosidase activity. We conclude that 
+C. jejuni fuc + strains are dependent on exogenous fucosidases for increased
+growth and invasion.
+
+© 2020 The Authors. Cellular Microbiology published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/cmi.13252 
+PMID: 32827216 
+

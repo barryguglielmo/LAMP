@@ -1,0 +1,49 @@
+
+1. Naunyn Schmiedebergs Arch Pharmacol. 2020 Aug 11. doi:
+10.1007/s00210-020-01958-3. [Epub ahead of print]
+
+Effect of nifedipine, a calcium channel blocker, on the generation of nitric
+oxide and interleukin-1β by murine macrophages activated by lipopolysaccharide
+from Prevotella intermedia.
+
+Choe SH(1), Choi EY(1), Hyeon JY(1), Keum BR(1), Choi IS(1), Kim SJ(2)(3)(4).
+
+Author information: 
+(1)Department of Biological Science, College of Medical and Life Sciences, Silla 
+University, 140 Baegyang-daero, 700beon-gil, Sasang-gu, Busan, 617-736, Korea.
+(2)Department of Periodontology, School of Dentistry, Pusan National University, 
+49 Busandaehak-ro, Mulgeum-eup, Yangsan, Gyeongsangnam-do, 626-870, Korea.
+sungjokim@pusan.ac.kr.
+(3)Dental Research Institute, Pusan National University Dental Hospital, Yangsan,
+Gyeongsangnam-do, Korea. sungjokim@pusan.ac.kr.
+(4)Dental and Life Science Institute, Pusan National University, Yangsan,
+Gyeongsangnam-do, Korea. sungjokim@pusan.ac.kr.
+
+Nifedipine, a calcium channel blocker, has been reported to possess
+anti-inflammatory and immunosuppressive effects. The current study was undertaken
+to explore the influence of nifedipine on the generation of proinflammatory
+mediators by murine macrophages activated by lipopolysaccharide (LPS) prepared
+from Prevotella intermedia, a putative periodontal pathogen, and associated
+mechanisms of action as well. LPS was purified by employing phenol-water
+extraction protocol. Culture supernatants were analyzed for nitric oxide (NO) and
+interleukin (IL)-1β. Real-time PCR and immunoblotting were conducted to quantify 
+mRNA and protein expression, respectively. NF-κB-dependent secreted embryonic
+alkaline phosphatase (SEAP) levels were estimated by reporter assay. Nifedipine
+markedly suppressed the generation of iNOS-derived NO and IL-1β together with
+their mRNA expressions in murine macrophages activated by P. intermedia LPS.
+LPS-stimulated cells exposed to nifedipine notably increased the mRNA levels of
+Arg-1, Ym-1, FIZZ1, and TGF-β, which are typical markers for M2 macrophage
+polarization. Nifedipine induced HO-1 at both gene and protein levels in cells
+challenged with P. intermedia LPS, and the nifedipine-mediated inhibition of NO
+generation was significantly abrogated by adding SnPP, an HO-1 inhibitor.
+Nifedipine inhibited LPS-evoked generation of NO and IL-1β in a
+PPAR-γ-independent manner. In addition, NF-κB activation as well as
+phosphorylation of STAT1/3 induced by P. intermedia LPS was suppressed by
+nifedipine. Nifedipine is an inhibitor of P. intermedia LPS-evoked production of 
+NO and IL-1β in murine macrophages and encourages macrophage polarization toward 
+the M2 phenotype. Nifedipine possibly has potential to be used for host
+modulation of periodontal disease and is worth being further researched.
+
+DOI: 10.1007/s00210-020-01958-3 
+PMID: 32780228 
+

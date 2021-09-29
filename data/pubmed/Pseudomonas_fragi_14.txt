@@ -1,0 +1,40 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jan;70(1):292-301. doi: 10.1099/ijsem.0.003751.
+
+Pseudomonas bubulae sp. nov., isolated from beef.
+
+Lick S(1), Kröckel L(1), Wibberg D(2), Winkler A(2), Blom J(3), Goesmann A(3),
+Kalinowski J(2).
+
+Author information: 
+(1)Department of Safety and Quality of Meat, Max Rubner-Institut,
+E.-C.-Baumann-Strasse 20, D-95326 Kulmbach, Germany.
+(2)Center for Biotechnology - CeBiTec, Bielefeld University, Universitätsstraße
+27, D-33615 Bielefeld, Germany.
+(3)Bioinformatics and Systems Biology, Justus Liebig University Gießen,
+Ludwigstraße 23, D-35390 Gießen, Germany.
+
+Two Pseudomonas isolates derived independently from raw refrigerated processing
+meat of bovine origin intended for the manufacture of Bologna-type cooked sausage
+could be distinguished from other known species in subsequent phylogenetic
+analyses. Comparison of the complete rpoB gene sequences in combination with
+nearly complete 16S rRNA gene sequences revealed a separate branch within the
+Pseudomonas fragi group. In further analyses, comprising phenotypic and
+chemotaxonomic characterization as well as average nucleotide identity (ANI)
+values obtained from the draft genome assemblies, the two isolates could be
+distinguished from all so far published closely related species. The closest
+relative was P. fragi DSM 3456T with ANI values of about 90.2 %. Other close
+Pseudomonas neighbours were P. psychrophila DSM 17535T (86.5 %), P.
+deceptionensis DSM 26521T (86.4 %), P. versuta DSM 101070T (83.8 %), P.
+taetrolens DSM 21104T (83.2 %), P. weihenstephanensis DSM 29166T (82.3 %), P.
+helleri DSM 29165T (82.7 %) and P. lundensis DSM 6252T (81.9 %). The G+C contents
+of isolates TH39T and TH26 were both 58.2 mol%. The major cellular lipids of
+strain TH39T were phosphatidylethanolamine, phosphatidylglycerol and
+diphosphatidylglycerol; the major quinone was Q9 with small amounts of Q8. Based 
+on these data, the isolates TH39T and TH26 (=DSM 107389=LMG 30831) represent a
+novel species within the genus Pseudomonas , for which the name Pseudomonas
+bubulae sp. nov. is proposed. The type strain is TH39T (=DSM 107390T=LMG 30830T).
+
+DOI: 10.1099/ijsem.0.003751 
+PMID: 31622235  [Indexed for MEDLINE]
+

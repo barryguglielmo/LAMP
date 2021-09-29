@@ -1,0 +1,49 @@
+
+1. Diagnostics (Basel). 2019 Dec 26;10(1). pii: E12. doi:
+10.3390/diagnostics10010012.
+
+Setup of Quantitative PCR for Oral Neisseria spp. Evaluation in Celiac Disease
+Diagnosis.
+
+Esposito MV(1)(2), Nardelli C(1)(2)(3), Granata I(4), Pagliuca C(1), D'Argenio
+V(2)(3)(5), Russo I(6), Guarracino MR(4), Salvatore P(1)(2)(3), Del Vecchio
+Blanco G(7), Ciacci C(6), Sacchetti L(2)(3).
+
+Author information: 
+(1)Department of Molecular Medicine and Medical Biotechnologies, University of
+Naples Federico II, 80131 Naples, Italy.
+(2)Ceinge Biotecnologie Avanzate S. C. a R. L., 80131 Naples, Italy.
+(3)Task Force on Microbiome Studies, University of Naples Federico II, 80100
+Naples, Italy.
+(4)LabGTP (Laboratory of Genomics, Transcriptomics and Proteomics), Institute for
+High Performance Computing and Networking (ICAR), National Research Council
+(CNR), 80131 Naples, Italy.
+(5)San Raffaele Open University, 00166 Rome, Italy.
+(6)Department of Medicine and Surgery, University of Salerno, 84084 Salerno,
+Italy.
+(7)Department of System Medicine, University of Rome Tor Vergata, 00133 Rome,
+Italy.
+
+Coeliac disease (CD) is a multifactorial autoimmune disorder and gut dysbiosis
+contributes to its pathogenesis. We previously profiled by 16S rRNA sequencing
+duodenal and oropharyngeal microbiomes in active CD (a-CD), gluten-free diet
+(GFD) patients, and controls (CO) and found significantly higher levels of
+Neisseria spp., with pro-inflammatory activities, in a-CD patients than in the
+other two groups. In this study, we developed a fast and simple qPCR-based method
+to evaluate the abundance of the oral Neisseria spp. and the diagnostic
+performances of the test in CD diagnosis. The Neisseria spp. abundances detected 
+by quantitative PCR (qPCR) were: CO = 0.14, GFD = 0.15, a-CD = 2.08, showing a
+similar trend to those previously measured by next generation sequencing (NGS).
+In particular, Neisseria spp. values obtained by both methods were significantly 
+higher (p < 0.001) in a-CD than in the other two groups GFD and CO-the latter
+almost overlapping. We calculated by ROC curve analysis the threshold of 1.12
+ng/μL of Neisseria spp. to discriminate between CO+GFD and a-CD patients with
+100% and 96.7% of diagnostic sensitivity and specificity, respectively. In
+conclusion, our data, if confirmed in other cohorts, suggest the q-PCR evaluation
+of oral Neisseria spp. could be a fast and simple method to assess CD-associated 
+dysbiosis for diagnostic purposes.
+
+DOI: 10.3390/diagnostics10010012 
+PMCID: PMC7168164
+PMID: 31888008 
+

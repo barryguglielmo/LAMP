@@ -1,0 +1,40 @@
+
+1. Biosci Rep. 2019 Oct 30;39(10). pii: BSR20191914. doi: 10.1042/BSR20191914.
+
+Homology-directed repair in mouse cells increased by CasRx-mediated knockdown or 
+co-expressing Kaposi's sarcoma-associated herpesvirus ORF52.
+
+Pan H(1), Yu W(2), Zhang M(1)(3).
+
+Author information: 
+(1)State Key Laboratory for Conservation and Utilization of Subtropical
+Agro-bioresources, College of Life Science and Technology, Guangxi University,
+100 Daxue Road, Nanning 530004, Guangxi, China.
+(2)Department of Assisted Reproduction, Shanghai Ninth People's Hospital,
+Shanghai Jiao Tong University School of Medicine, Shanghai 200011, China.
+(3)College of Animal Science and Technology, Guangxi University, 100 Daxue Road, 
+Nanning 530004, Guangxi, China.
+
+Precise genome editing with directed base insertion or targeted point mutations
+can be achieved by CRISPR/Cas9-mediated homology-directed repair (HDR) and is of 
+great significance in clinical disease therapy. However, HDR efficiency, compared
+with non-homologous end-joining (NHEJ), is inherently low. To enhance HDR,
+enabling the insertion of precise genetic modifications, we compared two
+strategies during surrogate reporter assays in mouse N2A cells: the suppression
+of DNA ligase IV, a key molecule in NHEJ, using the CasRx (Ruminococcus
+flavefaciens Cas13d) system, and co-expression of Kaposi's sarcoma-associated
+herpesvirus (KSHV) ORF52 proteins. We found that suppression of DNA ligase IV
+promotes HDR efficiency by 1.4-fold. When co-expressed with the Cas9 system,
+ORF52 improved HDR efficiency by up to 2.1-fold. In addition, we used ORF52
+co-expression to modify the ACTB and Tubb3 genes of mouse N2A and E14 cells,
+which further increased HDR efficiency by approximately two- to four-fold. In
+conclusion, our data suggest that ORF52 co-expression is effective for enhancing 
+CRISPR/Cas9-mediated HDR, which may be useful for future studies involving
+precise genome editing.
+
+© 2019 The Author(s).
+
+DOI: 10.1042/BSR20191914 
+PMCID: PMC6822532
+PMID: 31519773  [Indexed for MEDLINE]
+

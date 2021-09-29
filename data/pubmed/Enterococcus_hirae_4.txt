@@ -1,0 +1,51 @@
+
+1. Carbohydr Polym. 2020 Oct 1;245:116592. doi: 10.1016/j.carbpol.2020.116592. Epub 
+2020 Jun 11.
+
+Supramolecular polyelectrolyte complexes based on cyclodextrin-grafted chitosan
+and carrageenan for controlled drug release.
+
+Evangelista TFS(1), Andrade GRS(2), Nascimento KNS(1), Dos Santos SB(3), de
+Fátima Costa Santos M(4), Da Ros Montes D'Oca C(5), Dos S Estevam C(3), Gimenez
+IF(6), Almeida LE(7).
+
+Author information: 
+(1)Postgraduate Program in Materials Science and Engineering, Federal University 
+of Sergipe, São Cristóvão, SE, Brazil.
+(2)Postgraduate Program in Energy, Federal University of Espírito Santo, São
+Mateus, ES, Brazil. Electronic address: george.andrade@ufes.br.
+(3)Department of Physiology, Federal University of Sergipe, São Cristóvão, SE,
+Brazil.
+(4)Posgraduate Program of Chemistry, NMR Laboratory, Departament of Chemistry,
+Federal University of Paraná, Curitiba, PR, Brazil.
+(5)NMR Laboratory, Departament of Chemistry, Federal University of Paraná,
+Curitiba, PR, Brazil.
+(6)Department of Chemistry, Federal University of Sergipe, São Cristóvão, SE,
+Brazil.
+(7)Postgraduate Program in Materials Science and Engineering, Federal University 
+of Sergipe, São Cristóvão, SE, Brazil. Electronic address: edu@ufs.br.
+
+In the present study, supramolecular polyelectrolyte complexes (SPEC) based on a 
+cyclodextrin-grafted chitosan derivative and carrageenan were prepared and
+evaluated for controlled drug release. Samples were characterized by FTIR, SEM,
+and ζ-potential measurements, which confirmed the formation of the polymeric
+complex. The phenolphthalein test confirmed the presence and availability of
+inclusion sites from the attached βCD. Silver sulfadiazine was used as the model 
+drug and the association with the SPEC was studied by FTIR and computational
+molecular modeling, using a semi-empirical method. DRS and TEM analyses have
+shown that Ag+ ions from the drug were reduced to form metallic silver
+nanostructures. In vitro tests have shown a clear bacterial activity toward
+Gram-positive bacteria Staphylococcus aureus and Enterococcus durans/hirae and
+Gram-negative bacteria Klebsiella pneumoniae and Escherichia coli. Finally, this 
+work shows that βCD-chitosan/carrageenan supramolecular polyelectrolyte complexes
+hold an expressive potential to be applied as a polymer-based system for
+controlled drug release.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.carbpol.2020.116592 
+PMID: 32718656 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare no competing financial interest.
+

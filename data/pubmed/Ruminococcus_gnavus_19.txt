@@ -1,0 +1,51 @@
+
+1. Sci Rep. 2020 Jan 17;10(1):572. doi: 10.1038/s41598-019-57348-0.
+
+The mitochondrial negative regulator MCJ modulates the interplay between
+microbiota and the host during ulcerative colitis.
+
+Pascual-Itoiz MA(1), Peña-Cearra A(1)(2), Martín-Ruiz I(1), Lavín JL(1), Simó
+C(3), Rodríguez H(1), Atondo E(1), Flores JM(4), Carreras-González A(1),
+Tomás-Cortázar J(1), Barriales D(1), Palacios A(1), García-Cañas V(3), Pellón
+A(1), Fullaondo A(2), Aransay AM(1)(5), Prados-Rosales R(1), Martín R(6), Anguita
+J(1)(7), Abecia L(8).
+
+Author information: 
+(1)CIC bioGUNE. Bizkaia Science and Technology Park. bld 801 A, 48160, Derio,
+Bizkaia, Spain.
+(2)Faculty of Science and Technology, University of the Basque Country (UPV/EHU),
+Leioa, Bizkaia, Spain.
+(3)Molecular Nutrition and Metabolism, Institute of Food Science Research (CIAL, 
+CSIC), Madrid, Spain.
+(4)Department of Animal Medicine and Surgery, Veterinary Faculty, Universidad
+Complutense de Madrid, Madrid, Spain.
+(5)CIBERehd, ISCIII, Madrid, Spain.
+(6)Commensal and Probiotics-Host Interactions Laboratory, UMR1319 Micalis, INRA, 
+Jouy-en-Josas, France.
+(7)Ikerbasque, Basque Foundation for Science, Bilbao, Bizkaia, Spain.
+(8)CIC bioGUNE. Bizkaia Science and Technology Park. bld 801 A, 48160, Derio,
+Bizkaia, Spain. labecia@cicbiogune.es.
+
+Recent evidences indicate that mitochondrial genes and function are decreased in 
+active ulcerative colitis (UC) patients, in particular, the activity of Complex I
+of the electron transport chain is heavily compromised. MCJ is a mitochondrial
+inner membrane protein identified as a natural inhibitor of respiratory chain
+Complex I. The induction of experimental colitis in MCJ-deficient mice leads to
+the upregulation of Timp3 expression resulting in the inhibition of TACE activity
+that likely inhibits Tnf and Tnfr1 shedding from the cell membrane in the colon. 
+MCJ-deficient mice also show higher expression of Myd88 and Tlr9, proinflammatory
+genes and disease severity. Interestingly, the absence of MCJ resulted in
+distinct microbiota metabolism and composition, including a member of the gut
+community in UC patients, Ruminococcus gnavus. These changes provoked an effect
+on IgA levels. Gene expression analyses in UC patients showed decreased levels of
+MCJ and higher expression of TIMP3, suggesting a relevant role of mitochondrial
+genes and function among active UC. The MCJ deficiency disturbs the regulatory
+relationship between the host mitochondria and microbiota affecting disease
+severity. Our results indicate that mitochondria function may be an important
+factor in the pathogenesis. All together support the importance of MCJ regulation
+during UC.
+
+DOI: 10.1038/s41598-019-57348-0 
+PMCID: PMC6969106
+PMID: 31953445 
+

@@ -1,0 +1,44 @@
+
+1. Arch Microbiol. 2020 Aug 17. doi: 10.1007/s00203-020-02016-5. [Epub ahead of
+print]
+
+In silico analyses of the genomes of three new bacteriocin-producing bacteria
+isolated from animal's faeces.
+
+Eveno M(1)(2), Belguesmia Y(1), Bazinet L(2), Gancel F(1), Fliss I(2), Drider
+D(3).
+
+Author information: 
+(1)UMR Transfrontalière BioEcoAgro INRAE 1158, Univ. Lille, INRAE, Univ. Liège,
+UPJV, YNCREA, Univ. Artois, Univ. Littoral Côte d'Opale, ICV - Institut Charles
+Viollette, 59000, Lille, France.
+(2)Department of Food Sciences, Institute of Nutrition and Functional Foods
+(INAF), Dairy Research Center (STELA), Pavillon Paul-Comtois, Université Laval,
+2425, rue de l'Agriculture, Québec, G1V 0A6, Canada.
+(3)UMR Transfrontalière BioEcoAgro INRAE 1158, Univ. Lille, INRAE, Univ. Liège,
+UPJV, YNCREA, Univ. Artois, Univ. Littoral Côte d'Opale, ICV - Institut Charles
+Viollette, 59000, Lille, France. djamel.drider@univ-lille.fr.
+
+Here, we have analysed and explored the genome sequences of three newly isolated 
+bacteria that were recently characterised for their probiotic activities and
+ability to produce bacteriocins. These strains, isolated from faeces of animals
+living in captivity at the zoological garden of Lille (France), are Escherichia
+coli ICVB443, Enterococcus faecalis ICVB501 and Pediococcus pentosaceus ICVB491. 
+Their genomes have been analysed and compared to those of their pathogenic or
+probiotic counterparts. The genome analyses of E. coli ICVB443 and Ent. faecalis 
+ICVB501 displayed similarities to those of probiotics E. coli 1917 Nissle, and
+Ent. faecalis Symbioflor 1, respectively. Furthermore, E. coli ICVB443 shares at 
+least 89 genes with the enteroaggregative E. coli 55989 (EAEC), and Ent. faecalis
+ICVB501 shares at least 315 genes with the pathogenic Ent. faecalis V583 strain. 
+Unlike Ped. pentosaceus ICVB491, which is devoid of virulence genes, E. coli
+ICVB443 and Ent. faecalis ICVB501 both carry genes encoding virulence factors on 
+their genomes. Of note, the bioinformatics analysis of these two genomes located 
+the bsh gene, which codes for bile salt hydrolase (BSH). The presence of BSH is
+of major importance, as it can help to increase the viability of these two
+strains in the gastrointestinal tract (GIT). The genome analysis of Ped.
+pentosaceus ICVB491 confirmed its GRAS status (Generally Recognised As Safe), as 
+no genomic virulence factor determinant was found.
+
+DOI: 10.1007/s00203-020-02016-5 
+PMID: 32803347 
+

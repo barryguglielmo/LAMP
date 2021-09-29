@@ -1,0 +1,48 @@
+
+1. Bioelectrochemistry. 2019 Dec;130:107329. doi: 10.1016/j.bioelechem.2019.107329. 
+Epub 2019 Jul 11.
+
+Chitin biomass powered microbial fuel cell for electricity production using
+halophilic Bacillus circulans BBL03 isolated from sea salt harvesting area.
+
+Gurav R(1), Bhatia SK(2), Choi TR(1), Jung HR(1), Yang SY(1), Song HS(1), Park
+YL(1), Han YH(1), Park JY(1), Kim YG(3), Choi KY(4), Yang YH(5).
+
+Author information: 
+(1)Department of Biological Engineering, College of Engineering, Konkuk
+University, Seoul, Republic of Korea.
+(2)Department of Biological Engineering, College of Engineering, Konkuk
+University, Seoul, Republic of Korea; Institute for Ubiquitous Information
+Technology and Applications (CBRU), Konkuk University, Seoul, Republic of Korea.
+(3)Department of Chemical Engineering, Soongsil University, Seoul, Republic of
+Korea.
+(4)Department of Environmental Engineering, College of Engineering, Ajou
+University, Suwon, Gyeonggi-do, Republic of Korea.
+(5)Department of Biological Engineering, College of Engineering, Konkuk
+University, Seoul, Republic of Korea; Institute for Ubiquitous Information
+Technology and Applications (CBRU), Konkuk University, Seoul, Republic of Korea. 
+Electronic address: seokor@konkuk.ac.kr.
+
+Incessant depletion of non-renewable energy sources has gained attention to
+search for new biological systems to transform organic biomass into electricity
+using microbial fuel cell (MFC). The main approach of the existing study was to
+develop a single step process to produce electrical energy from underutilized
+chitin biomass. Halophilic bacterium Bacillus circulans BBL03 isolated from
+anodic biofilm showed higher electricity production (26.508 μAcm2) in a natural
+seawater medium fed with 1.0% chitin. Maximum chitinase activity
+(94.24 ± 4.2 U mL-1) and N-acetylglucosamine (GlcNAc) production
+(136.30 ± 2.8 mg g-1 chitin) were achieved at 48 h. Prominent metabolites
+detected in chitin hydrolysis were lactate, formate, acetate, propionate, and
+butyrate. Furthermore, cyclic voltammetry (CV) studies revealed the possibility
+of direct electron transfer by anodic biofilm to anode without any external redox
+mediators. Polarization and coulombic efficiency (CE) analysis showed maximum
+power density (PD) 1.742 mWcm2 and 47% CE using 1% chitin as a substrate.
+Alteration in crystallinity and functional group on chitin were analysed using
+FTIR and XRD. Therefore, natural seawater-chitin powered MFCs could be a cheap
+asset for longer electricity production.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bioelechem.2019.107329 
+PMID: 31325898  [Indexed for MEDLINE]
+

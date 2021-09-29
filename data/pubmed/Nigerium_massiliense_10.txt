@@ -1,0 +1,50 @@
+
+1. Int J Infect Dis. 2020 Aug;97:270-277. doi: 10.1016/j.ijid.2020.06.007. Epub 2020
+Jun 9.
+
+In vitro efficacy of combinations of eight antimicrobial agents against
+Mycobacteroides abscessus complex.
+
+Shirata M(1), Yoshimoto Y(2), Marumo S(3), Tamai K(4), Fukui M(5).
+
+Author information: 
+(1)Respiratory Disease Center, Tazuke Kofukai Medical Research Institute, Kitano 
+Hospital, 2-4-20 Ohgimachi, Kita-ku, Osaka 530-8480, Japan. Electronic address:
+mshirata@kuhp.kyoto-u.ac.jp.
+(2)Miroku Medical Laboratory Inc. 659-2 Innai, Saku-shi, Nagano 384-2201, Japan. 
+Electronic address: mml-idenshi@miroku-lab.co.jp.
+(3)Respiratory Disease Center, Tazuke Kofukai Medical Research Institute, Kitano 
+Hospital, 2-4-20 Ohgimachi, Kita-ku, Osaka 530-8480, Japan. Electronic address:
+s-marumo@kitano-hp.or.jp.
+(4)Miroku Medical Laboratory Inc. 659-2 Innai, Saku-shi, Nagano 384-2201, Japan. 
+Electronic address: tamai@miroku-lab.co.jp.
+(5)Respiratory Disease Center, Tazuke Kofukai Medical Research Institute, Kitano 
+Hospital, 2-4-20 Ohgimachi, Kita-ku, Osaka 530-8480, Japan. Electronic address:
+mfukui@kitano-hp.or.jp.
+
+OBJECTIVES: A standard treatment regimen against Mycobacteroides abscessus
+complex (MABC) infections has not yet been established, making MABC difficult to 
+treat successfully. In this study, we sought to develop an active ingredient for 
+the clinical treatment of MABC infections.
+METHODS: We screened 102 MABC strains isolated from clinical specimens using DNA 
+sequence analysis with the housekeeping genes hsp65 and rpoB. Drug susceptibility
+testing was performed against two subspecies-Mycobacteroides abscessus subsp.
+abscessus (M. abscessus) and Mycobacteroides abscessus subsp. massiliense (M.
+massiliense)-using eight antimicrobial agents (clarithromycin, amikacin,
+doxycycline, imipenem, linezolid, moxifloxacin, faropenem, and rifampicin). The
+combined efficacy of the antimicrobial agents was investigated using a
+checkerboard method.
+RESULTS: We identified 51 isolates as M. abscessus, 46 as M. massiliense, and
+five as others. Most of the M. abscessus isolates (83.0 %) exhibited inducible
+resistance to clarithromycin via the expression of the erm(41) gene. Combinations
+of imipenem with linezolid, moxifloxacin, and rifampicin exhibited additive
+effects against 81.0 %, 40.7 %, and 26.9 % of M. abscessus, respectively, and
+against 54.5 %, 69.2 %, and 30.8 % of M. massiliense, respectively.
+CONCLUSIONS: These results demonstrated the potential efficacy of a regimen
+containing imipenem against M. abscessus and M. massiliense infections.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ijid.2020.06.007 
+PMID: 32526389 
+

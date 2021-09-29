@@ -1,0 +1,41 @@
+
+1. BMC Biotechnol. 2020 Jul 25;20(1):39. doi: 10.1186/s12896-020-00632-z.
+
+Characterization and genomic analysis of a diesel-degrading bacterium,
+Acinetobacter calcoaceticus CA16, isolated from Canadian soil.
+
+Ho MT(1)(2), Li MSM(1), McDowell T(3), MacDonald J(1), Yuan ZC(4)(5).
+
+Author information: 
+(1)Department of Microbiology and Immunology, The University of Western Ontario, 
+1151 Richmond Street, London, Ontario, N6A 5B7, Canada.
+(2)Institute of Biomaterials and Biomedical Engineering, University of Toronto,
+Toronto, Ontario, Canada.
+(3)London Research and Development Centre, Agriculture and Agri-Food Canada, 1391
+Sandford Street, London, Ontario, N5V 4T3, Canada.
+(4)Department of Microbiology and Immunology, The University of Western Ontario, 
+1151 Richmond Street, London, Ontario, N6A 5B7, Canada. zyuan27@uwo.ca.
+(5)London Research and Development Centre, Agriculture and Agri-Food Canada, 1391
+Sandford Street, London, Ontario, N5V 4T3, Canada. zyuan27@uwo.ca.
+
+BACKGROUND: With the high demand for diesel across the world, environmental
+decontamination from its improper usage, storage and accidental spills becomes
+necessary. One highly environmentally friendly and cost-effective decontamination
+method is to utilize diesel-degrading microbes as a means for bioremediation.
+Here, we present a newly isolated and identified strain of Acinetobacter
+calcoaceticus ('CA16') as a candidate for the bioremediation of
+diesel-contaminated areas.
+RESULTS: Acinetobacter calcoaceticus CA16 was able to survive and grow in minimal
+medium with diesel as the only source of carbon. We determined through
+metabolomics that A. calcoaceticus CA16 appears to be efficient at diesel
+degradation. Specifically, CA16 is able to degrade 82 to 92% of aliphatic alkane 
+hydrocarbons (CnHn + 2; where n = 12-18) in 28 days. Several diesel-degrading
+genes (such as alkM and xcpR) that are present in other microbes were also found 
+to be activated in CA16.
+CONCLUSIONS: The results presented here suggest that Acinetobacter strain CA16
+has good potential in the bioremediation of diesel-polluted environments.
+
+DOI: 10.1186/s12896-020-00632-z 
+PMCID: PMC7477861
+PMID: 32711499 
+

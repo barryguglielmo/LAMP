@@ -1,0 +1,30 @@
+
+1. Microbiol Resour Announc. 2020 Jun 4;9(23). pii: e00411-20. doi:
+10.1128/MRA.00411-20.
+
+Draft Genome Sequence of Streptococcus anginosus UMB0839, Isolated from the
+Female Urinary Tract.
+
+Scott T(1)(2), Miller-Ensminger T(1), Voukadinova A(1), Wolfe AJ(3), Putonti
+C(4)(2)(3)(5).
+
+Author information: 
+(1)Bioinformatics Program, Loyola University Chicago, Chicago, Illinois, USA.
+(2)Department of Biology, Loyola University Chicago, Chicago, Illinois, USA.
+(3)Department of Microbiology and Immunology, Stritch School of Medicine, Loyola 
+University Chicago, Maywood, Illinois, USA.
+(4)Bioinformatics Program, Loyola University Chicago, Chicago, Illinois, USA
+cputonti@luc.edu.
+(5)Department of Computer Science, Loyola University Chicago, Chicago, Illinois, 
+USA.
+
+Here, we present the draft genome sequence of Streptococcus anginosus UMB0839,
+isolated from the female urinary tract. The total size of the genome is 2,104,786
+bp assembled into 42 contigs with a GC content of 38.8% and 284× genome coverage.
+
+Copyright © 2020 Scott et al.
+
+DOI: 10.1128/MRA.00411-20 
+PMCID: PMC7272556
+PMID: 32499347 
+

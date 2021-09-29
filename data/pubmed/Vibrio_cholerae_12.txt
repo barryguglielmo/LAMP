@@ -1,0 +1,36 @@
+
+1. Front Microbiol. 2020 Aug 21;11:1949. doi: 10.3389/fmicb.2020.01949. eCollection 
+2020.
+
+Arginine 37 of Glycine Linker Dictates Regulatory Function of HapR.
+
+Ekka M(1), Mondal A(2), Singh R(1), Sen H(1), Datta S(2), Raychaudhuri S(1).
+
+Author information: 
+(1)Council of Scientific and Industrial Research (CSIR), Institute of Microbial
+Technology, Chandigarh, India.
+(2)Council of Scientific and Industrial Research (CSIR), Indian Institute of
+Chemical Biology, Kolkata, India.
+
+HapR is designated as a high cell density quorum sensing master regulatory
+protein of Vibrio cholerae. It is a member of the TetR family protein and
+functions both as an activator and a repressor by directly communicating with
+cognate promoters, thus controlling the expression of a plethora of genes in a
+density-dependent manner. Molecular insights reveal the domain architecture and
+further unveil the significance of a cross talk between the DNA binding domain
+and the dimerization domain for the functionality of the wild-type protein. The
+DNA binding domain is made up of three α-helices, where a helix-turn-helix motif 
+spans between the helices α2 and α3. The essentiality of the glycine-rich linker 
+linking helices α1 and α2 came into prominence while unraveling the molecular
+basis of a natural non-functional variant of HapR. Subsequently, the importance
+of linker length was demonstrated. The present study, involving a series of
+biochemical analyses coupled with molecular dynamics simulation, has illustrated 
+the indispensability of a critical arginine within the linker at position 37
+contributing to HapR-DNA binding activity.
+
+Copyright © 2020 Ekka, Mondal, Singh, Sen, Datta and Raychaudhuri.
+
+DOI: 10.3389/fmicb.2020.01949 
+PMCID: PMC7472637
+PMID: 32973706 
+

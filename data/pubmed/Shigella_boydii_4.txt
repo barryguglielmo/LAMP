@@ -1,0 +1,41 @@
+
+1. J Pathog. 2020 Jul 27;2020:3062821. doi: 10.1155/2020/3062821. eCollection 2020.
+
+Invasion of Epithelial Cells Is Correlated with Secretion of Biosurfactant via
+the Type 3 Secretion System (T3SS) of Shigella flexneri.
+
+Kinouani Kinavouidi DJ(1)(2), Kayath CA(1)(2), Nguimbi E(1)(2).
+
+Author information: 
+(1)Laboratoire de Biologie Cellulaire et Moléculaire (BCM), Faculté des Sciences 
+et Techniques, Université Marien N'gouabi, BP. 69, Brazzaville, Congo.
+(2)Institut National de Recherche en Sciences Exactes et Naturelles (IRSEN),
+Avenue de l'Auberge Gascogne, B.P 2400, Brazzaville, Congo.
+
+Biosurfactants are amphipathic molecules produced by many microorganisms, usually
+bacteria, fungi, and yeasts. They possess the property of reducing the tension of
+the membrane interfaces. No studies have been conducted on Shigella species
+showing the role of biosurfactant-like molecules (BLM) in pathogenicity. The aim 
+of this study is to assess the ability of Shigella environmental and clinical
+strains to produce BLM and investigate the involvement of biosurfactants in
+pathogenicity. Our study has shown that BLM are secreted in the extracellular
+medium with EI24 ranging from 80% to 100%. The secretion is depending on the type
+III secretion system (T3SS). Moreover, our results have shown that S. flexneri,
+S. boydii, and S. sonnei are able to interact with hydrophobic areas with 17.64%,
+21.42%, and 22.22% hydrophobicity, respectively. BLM secretion is totally
+prevented due to inhibition of T3SS by 100 mM benzoic and 1.5 mg/ml salicylic
+acids. P. aeruginosa harboring T3SS is able to produce 100% of BLM in the
+presence or in the absence of both T3SS inhibitors. The secreted BLM are
+extractable with an organic solvent such as chloroform, and this could entirely
+be considered a lipopeptide or polypeptide compound. Secretion of BLM allows some
+Shigella strains to induce multicellular phenomena like "swarming."
+
+Copyright © 2020 Duchel Jeanedvi Kinouani Kinavouidi et al.
+
+DOI: 10.1155/2020/3062821 
+PMCID: PMC7411461
+PMID: 32802515 
+
+Conflict of interest statement: The authors declare that there are no conflicts
+of interest.
+

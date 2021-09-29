@@ -1,0 +1,51 @@
+
+1. J Agric Food Chem. 2020 Jun 17;68(24):6664-6671. doi: 10.1021/acs.jafc.0c01465.
+Epub 2020 Jun 8.
+
+Development of Slowly Digestible Starch Derived α-Glucans with
+4,6-α-Glucanotransferase and Branching Sucrase Enzymes.
+
+Te Poele EM(1)(2), Corwin SG(3), Hamaker BR(3), Lamothe LM(4), Vafiadi C(4),
+Dijkhuizen L(1)(2).
+
+Author information: 
+(1)Microbial Physiology, Groningen Biomolecular Sciences and Biotechnology
+Institute (GBB), University of Groningen, Nijenborgh 7, 9747AG Groningen, The
+Netherlands.
+(2)CarbExplore Research BV, Zernikepark 12, 9747AN Groningen, The Netherlands.
+(3)Whistler Center for Carbohydrate Research, Department of Food Science, Purdue 
+University, West Lafayette, Indiana 47907, United States.
+(4)Nestlé Research, Vers-Chez-Les-Blanc, 1000 Lausanne, Switzerland.
+
+Previously, we have identified and characterized 4,6-α-glucanotransferase enzymes
+of the glycosyl hydrolase (GH) family 70 (GH70) that cleave (α1→4)-linkages in
+amylose and introduce (α1→6)-linkages in linear chains. The
+4,6-α-glucanotransferase of Lactobacillus reuteri 121, for instance, converts
+amylose into an isomalto/malto-polysaccharide (IMMP) with 90% (α1→6)-linkages.
+Over the years, also, branching sucrase enzymes belonging to GH70 have been
+characterized. These enzymes use sucrose as a donor substrate to glucosylate
+dextran as an acceptor substrate, introducing single -(1→2,6)-α-d-Glcp-(1→6)-
+(Leuconostoc citreum enzyme) or -(1→3,6)-α-d-Glcp-(1→6)-branches (Leuconostoc
+citreum, Leuconostoc fallax, Lactobacillus kunkeei enzymes). In this work, we
+observed that the catalytic domain 2 of the L. kunkeei branching sucrase used not
+only dextran but also IMMP as the acceptor substrate, introducing
+-(1→3,6)-α-d-Glcp-(1→6)-branches. The products obtained have been structurally
+characterized in detail, revealing the addition of single (α1→3)-linked glucose
+units to IMMP (resulting in a comb-like structure). The in vitro digestibility of
+the various α-glucans was estimated with the glucose generation rate (GGR) assay 
+that uses rat intestinal acetone powder to simulate the digestive enzymes in the 
+upper intestine. Raw wheat starch is known to be a slowly digestible carbohydrate
+in mammals and was used as a benchmark control. Compared to raw wheat starch,
+IMMP and dextran showed reduced digestibility, with partially digestible and
+indigestible portions. Interestingly, the digestibility of the branching sucrase 
+modified IMMP and dextran products considerably decreased with increasing
+percentages of (α1→3)-linkages present. The treatment of amylose with
+4,6-α-glucanotransferase and branching sucrase/sucrose thus allowed for the
+synthesis of amylose/starch derived α-glucans with markedly reduced
+digestibility. These starch derived α-glucans may find applications in the food
+industry.
+
+DOI: 10.1021/acs.jafc.0c01465 
+PMCID: PMC7304062
+PMID: 32437608 
+

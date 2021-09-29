@@ -1,0 +1,43 @@
+
+1. J Basic Microbiol. 2020 Jun 29. doi: 10.1002/jobm.202000231. [Epub ahead of
+print]
+
+Bacteria associated with marine macroorganisms as potential source of
+quorum-sensing antagonists.
+
+Singh AA(1)(2), Singh AK(3), Nerurkar A(1).
+
+Author information: 
+(1)Department of Microbiology, Faculty of Science, The Maharaja Sayajirao
+University of Baroda, Vadodara, Gujarat, India.
+(2)Department of Microbiology, School of Sciences, P. P. Savani University,
+Surat, Gujarat, India.
+(3)Department of Microbiology, Government Science College, Vankal, Surat,
+Gujarat, India.
+
+Samples were collected from different undisturbed areas along the coast of
+Gujarat like Okha, Diu, Veraval, and Somnath. A total of 68 marine isolates were 
+obtained out of which 53 were associated with various marine macroorganisms like 
+sponges, gastropods, and algae, whereas 15 were free living. Quorum-quenching
+ability of all the isolates was tested against Chromobacterium violaceum MK by
+co-culture technique as a way to simultaneously detect signal-degrading as well
+as nondegrading quorum-sensing inhibitors. Nineteen macroorganism-associated
+bacteria and eight free-living bacteria were found to possess quorum-sensing
+inhibitory activity against C. violaceum MK without affecting its growth. Isolate
+OA22 from grape alga and OA10 from purple sponge (Haliclona sp.) were found to
+possess the highest C6-HSL degradation activity and extracellular
+non-N-acyl-homoserine lactone degrading QSI activity, respectively. OA22 was also
+found to degrade 3-oxo-C12 homoserine lactone. Acid recovery of both the C6- and 
+C12-HSL after degradation by OA22 indicated the presence of lactonase enzyme in
+the isolate. Cell-free supernatant of OA10 was extracted with ethyl acetate to
+obtain the quorum-quenching compound. Pigment inhibition in C. violaceum MK
+treated with OA10 extract was demonstrated in various ways and was indicative of 
+QSI activity of the extract without degradation of the quorum-sensing signaling
+molecule. The isolates OA22 and OA10 were identified as Desemzia incerta and
+Bacillus sp., respectively, by 16S ribosomal DNA sequence analysis.
+
+© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/jobm.202000231 
+PMID: 32598075 
+

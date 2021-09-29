@@ -1,0 +1,37 @@
+
+1. PLoS One. 2019 Nov 4;14(11):e0224731. doi: 10.1371/journal.pone.0224731.
+eCollection 2019.
+
+Molecular validation of clinical Pantoea isolates identified by MALDI-TOF.
+
+Soutar CD(1), Stavrinides J(1).
+
+Author information: 
+(1)Department of Biology, University of Regina, Regina, Saskatchewan, Canada.
+
+The Enterobacterial genus Pantoea contains both free-living and host-associating 
+species, with considerable debate as to whether documented reports of human
+infections by members of this species group are accurate. MALDI-TOF-based
+identification methods are commonly used in clinical laboratories as a rapid
+means of identification, but its reliability for identification of Pantoea
+species is unclear. In this study, we carried out cpn60-based molecular typing of
+54 clinical isolates that had been identified as Pantoea using MALDI-TOF and
+other clinical typing methods. We found that 24% had been misidentified, and were
+actually strains of Citrobacter, Enterobacter, Kosakonia, Klebsiella,
+Pseudocitrobacter, members of the newly described Erwinia gerundensis, and even
+several unclassified members of the Enterobacteriaceae. The 40 clinical strains
+that were confirmed to be Pantoea were identified as Pantoea agglomerans, Pantoea
+allii, Pantoea dispersa, Pantoea eucalypti, and Pantoea septica as well as the
+proposed species group, Pantoea latae. Some species groups considered largely
+environmental or plant-associated, such as P. allii and P. eucalypti were also
+among clinical specimens. Our results indicate that MALDI-TOF-based
+identification methods may misidentify strains of the Enterobacteriaceae as
+Pantoea.
+
+DOI: 10.1371/journal.pone.0224731 
+PMCID: PMC6827907
+PMID: 31682625  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

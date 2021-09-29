@@ -1,0 +1,56 @@
+
+1. PLoS One. 2019 Oct 22;14(10):e0222763. doi: 10.1371/journal.pone.0222763.
+eCollection 2019.
+
+Enriched taxa were found among the gut microbiota of centenarians in East China.
+
+Wang N(1), Li R(1), Lin H(2), Fu C(1), Wang X(2), Zhang Y(3), Su M(4), Huang
+P(4), Qian J(4), Jiang F(1), Wang H(1), Jiang L(1), Yu X(1), Liu J(1), Chen Y(5),
+Jiang Q(1).
+
+Author information: 
+(1)Key Laboratory of Public Health Safety of Ministry of Education, School of
+Public Health, Fudan University, Shanghai, China.
+(2)Taizhou Center for Disease Control and Prevention, Taizhou City, Jiangsu
+Province, China.
+(3)Deqing Center for Disease Control and Prevention, Deqing City, Zhejiang
+Province, China.
+(4)Yuhuan Center for Disease Control and Prevention, Wenling City, Zhejiang
+Province, China.
+(5)School of Epidemiology and Public Health, Faculty of Medicine, University of
+Ottawa, Ottawa, Ontario, Canada.
+
+BACKGROUND: Gut microbiota is closely related to age. Studies from Europe and the
+U.S. identified featured microbiota in different age groups for the elderly.
+Asian studies mainly focused on people living in longevity areas. Featured
+microbiota for the elderly people of different age groups, especially in the
+centenarian in the general population, has not been well investigated in China.
+METHOD: We conducted a comparative study by including 198 subjects of three age
+groups (65-70, 90-99, and 100+ years) in East China. Information regarding age,
+sex, height, weight, waist circumference, hip circumference, food preference,
+smoking status and alcohol consumption were collected by using a structured
+questionnaire. Fecal samples for each participant were collected as well. 16S
+rRNA gene sequencing were employed to analyze the gut microbiota composition.
+Logistic regression with LASSO feature selection was used to identify featured
+taxa in different age groups and to assess their potential interactions with
+other factors such as lifestyle.
+RESULT: The gut microbiota of the 90-99 year and 100+ year age groups showed more
+diversity, robustness, and richness compared with the 65-70 year age group. PCoA 
+analysis showed a clear separation between the 65-70 and 100+ year age groups. At
+the species level, Bacteroides fragilis, Parabacteroides merdae, Ruminococcus
+gnavus, Coprococcus and Clostridium perfringens increased, but Bacteroides
+vulgatus, Ruminococcus sp.5139BFAA and Clostridium sp.AT5 decreased in the 90-99 
+year age group. The age differences in gut microbiota were similar across the
+strata of smoking, alcohol consumption status and food preference.
+CONCLUSION: Our study demonstrated age differences in many aspects of gut
+microbiota, such as overall diversity, microbiota structure, and relative
+abundance of key taxa. Moreover, the gut microbiota of centenarian was
+significantly different from those of younger age groups of the elderly.
+
+DOI: 10.1371/journal.pone.0222763 
+PMCID: PMC6804974
+PMID: 31639130  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

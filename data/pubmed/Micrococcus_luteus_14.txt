@@ -1,0 +1,36 @@
+
+1. Nat Commun. 2020 Aug 4;11(1):3894. doi: 10.1038/s41467-020-17736-x.
+
+The Human LL-37(17-29) antimicrobial peptide reveals a functional supramolecular 
+structure.
+
+Engelberg Y(1), Landau M(2)(3).
+
+Author information: 
+(1)Department of Biology, Technion-Israel Institute of Technology, 3200003,
+Haifa, Israel.
+(2)Department of Biology, Technion-Israel Institute of Technology, 3200003,
+Haifa, Israel. mlandau@technion.ac.il.
+(3)Centre for Structural Systems Biology (CSSB), and European Molecular Biology
+Laboratory (EMBL), 22607, Hamburg, Germany. mlandau@technion.ac.il.
+
+Here, we demonstrate the self-assembly of the antimicrobial human LL-37 active
+core (residues 17-29) into a protein fibril of densely packed helices. The
+surface of the fibril encompasses alternating hydrophobic and positively charged 
+zigzagged belts, which likely underlie interactions with and subsequent
+disruption of negatively charged lipid bilayers, such as bacterial membranes.
+LL-3717-29 correspondingly forms wide, ribbon-like, thermostable fibrils in
+solution, which co-localize with bacterial cells. Structure-guided mutagenesis
+analyses supports the role of self-assembly in antibacterial activity. LL-3717-29
+resembles, in sequence and in the ability to form amphipathic helical fibrils,
+the bacterial cytotoxic PSMα3 peptide that assembles into cross-α amyloid
+fibrils. This argues helical, self-assembling, basic building blocks across
+kingdoms of life and points to potential structural mimicry mechanisms. The
+findings expose a protein fibril which performs a biological activity, and offer 
+a scaffold for functional and durable biomaterials for a wide range of medical
+and technological applications.
+
+DOI: 10.1038/s41467-020-17736-x 
+PMCID: PMC7403366
+PMID: 32753597  [Indexed for MEDLINE]
+

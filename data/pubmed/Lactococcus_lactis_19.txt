@@ -1,0 +1,46 @@
+
+1. Biotechnol Bioeng. 2020 Sep 9. doi: 10.1002/bit.27560. [Epub ahead of print]
+
+Optimization of 1,2,4-butanetriol production from xylose in Saccharomyces
+cerevisiae by metabolic engineering of NADH/NADPH balance.
+
+Yukawa T(1), Bamba T(1), Guirimand G(1)(2)(3), Matsuda M(1)(4), Hasunuma T(1)(4),
+Kondo A(1)(4)(5).
+
+Author information: 
+(1)Graduate School of Science, Technology and Innovation, Kobe University, 1-1
+Rokkodai, Nada, Kobe, 657-8501, Japan.
+(2)Biomolécules et Biotechnologies Végétales, BBV, EA2106, Université de Tours,
+Tours, France.
+(3)LE STUDIUM RESEARCH FELLOW, Loire Valley Institute for Advanced Studies,
+Orléans & Tours, France.
+(4)Engineering Biology Research Center, Kobe University, 1-1 Rokkodai, Nada,
+Kobe, 657-8501, Japan.
+(5)Biomass Engineering Program, RIKEN, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama, 
+Kanagawa, 230-0045, Japan.
+
+1,2,4-Butanetriol (BT) is used as a precursor for the synthesis of various
+pharmaceuticals and the energetic plasticizer 1,2,4-butanetriol trinitrate. In
+Saccharomyces cerevisiae, BT is biosynthesized from xylose via heterologous four 
+enzymatic reactions catalyzed by xylose dehydrogenase, xylonate dehydratase,
+2-ketoacid decarboxylase, and alcohol dehydrogenase. We here aimed to improve the
+BT yield in S. cerevisiae by genetic engineering. First, the amount of the key
+intermediate 2-keto-3-deoxy-xylonate as described previously was successfully
+reduced in 41 % by multiple integration of Lactococcus lactis 2-ketoacid
+decarboxylase gene kdcA into the yeast genome. Since the heterologous BT
+synthetic pathway is independent of yeast native metabolism, this manipulation
+has led to NADH/NADPH imbalance and deficiency during BT production.
+Overexpression of the NADH kinase POS5Δ17 lacking the mitochondrial targeting
+sequence to relieve NADH/NADPH imbalance resulted in the BT titer of 2.2 g/L (31 
+% molar yield). Feeding low concentrations of glucose and xylose to support the
+supply of NADH resulted in BT titer of 6.6 g/L with (57 % molar yield).
+Collectively, improving the NADH/NADPH ratio and supply from glucose are
+essential for the construction of a xylose pathway, such as the BT synthetic
+pathway, independent of native yeast metabolism. This article is protected by
+copyright. All rights reserved.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1002/bit.27560 
+PMID: 32902873 
+

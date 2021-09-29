@@ -1,0 +1,49 @@
+
+1. J Fish Dis. 2020 Oct;43(10):1229-1236. doi: 10.1111/jfd.13230. Epub 2020 Aug 10.
+
+Cytotoxicity of Streptococcus agalactiae secretory protein on tilapia cultured
+cells.
+
+Palang I(1)(2), Hirono I(3), Senapin S(1)(4), Sirimanapong W(5),
+Withyachumnarnkul B(6)(7), Vanichviriyakit R(1)(2).
+
+Author information: 
+(1)Center of Excellence for Shrimp Molecular Biology and Biotechnology (Centex
+Shrimp), Faculty of Science, Mahidol University, Bangkok, Thailand.
+(2)Department of Anatomy, Faculty of Science, Mahidol University, Bangkok,
+Thailand.
+(3)Laboratory of Genome Science, Graduate School of Marine Science and
+Technology, Tokyo University of Marine Science and Technology, Tokyo, Japan.
+(4)National Center for Genetic Engineering and Biotechnology, National Science
+and Technology Development Agency, Pathumthani, Thailand.
+(5)Veterinary Aquatic Animal Research Health Care Unit, Department of Clinical
+Sciences and Public Health, Faculty of Veterinary Science, Mahidol University,
+Bangkok, Thailand.
+(6)Faculty of Science and Industrial Technology, Prince of Songkla University,
+Surat Thani, Thailand.
+(7)AquaAcademy Farm, Surat Thani, Thailand.
+
+Streptococcus agalactiae secrete virulence factors believed to be able of killing
+host tissues, especially under elevated water temperature. A direct effect of S. 
+agalactiae secretory products on tilapia cells was tested on the tilapia kidney
+(TK-1) cell culture. The bacteria were cultured under four different temperature 
+levels: 22, 29, 32 and 37°C; the cell-free portion was processed through
+SDS-PAGE; and distinct bands were identified by LC-MS/MS. At least, three
+virulence factors were identified, Bsp, PcsB and CAMP factor, with increasing
+levels as the cultured temperature rose. Expressions of bsp, pcsB and cfb were
+also up-regulated with the rising of the temperature in S. agalactiae culture.
+The supernatant from the bacteria cultured under specified temperatures was added
+into TK-1 cell-cultured wells. Morphological damage and mortality of the cultured
+cells, as determined by MTT method, were increased progressively from the
+supernatant treatment according to the rise of temperature in S. agalactiae
+culture. This study suggests that the production of the three virulence factors
+of S. agalactiae reported herein is temperature-dependent, and it is likely that 
+CAMP factor directly kills the TK-1 cells since the other two types of protein
+are involved in S. agalactiae cell division and the bacterial adherence to host
+tissues.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/jfd.13230 
+PMID: 32974952 
+

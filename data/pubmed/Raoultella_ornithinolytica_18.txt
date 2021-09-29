@@ -1,0 +1,54 @@
+
+1. 3 Biotech. 2020 Feb;10(2):42. doi: 10.1007/s13205-019-2027-7. Epub 2020 Jan 10.
+
+Microbial diversity changes and enrichment of potential petroleum hydrocarbon
+degraders in crude oil-, diesel-, and gasoline-contaminated soil.
+
+Bidja Abena MT(1)(2), Chen G(1), Chen Z(1), Zheng X(1), Li S(1), Li T(1), Zhong
+W(1).
+
+Author information: 
+(1)1College of Biotechnology and Bioengineering, Zhejiang University of
+Technology, Hangzhou, 310032 China.
+(2)2International College, Zhejiang University of Technology, Hangzhou, 310032
+China.
+
+This study investigated the impacts of crude oil, diesel, and gasoline on the
+diversity of indigenous microbial communities as well as culturable
+microorganisms in the studied soil. Oil contamination led to shifts in
+the diversity of the soil's microbial communities, regardless of the contaminant 
+applied. Unpolluted soils were more diverse and evenly distributed than
+contaminated samples. The domain Bacteria accounted for 65.15% of the whole
+microbial community. The bacterial phylum Proteobacteria dominated in all
+samples, followed by Actinobacteria and Acidobacteria. Pseudomonas with 28.15% of
+reads dominated in Proteobacteria, while Rhodococcus (3.07%) dominated in
+Actinobacteria, and Blastocatella (2.53%) dominated in Acidobacteria. The
+dominant fungal phyla across all samples were Ascomycota dominated by Penicillium
+(50.48% of sequences), and Zygomycota dominated by Mortierella (16.87%).
+Sequences similar to the archaeal phyla, Euryarchaeota and Thaumarchaeota, were
+also detected. The number of culturable microorganisms increased following the
+contamination and was higher in contaminated samples than in clean samples. Oil
+contamination also resulted in the enrichment of oil-degrading strains. Two
+bacteria, Serratia marcescens strain PL and Raoultella ornithinolytica PS, which 
+were isolated from crude oil-contaminated soil, exhibited strong crude oil
+degradation ability. Strain PL was the most efficient strain and degraded 75.10% 
+of crude oil, while strain PL degraded 65.48%, after 20 days of incubation.
+However, the mixed culture of the two strains was more effective than single
+strain and could achieve up to 96.83% of crude oil degradation, with a complete
+abatement of straight-chain hydrocarbons (from C12 to C25), and more than 91%
+removal of highly branched hydrocarbons, phytane and pristane, which are known to
+be more recalcitrant to biodegradation. Strains PS and PL are two newly isolated 
+crude oil degraders that are not among the most prominent crude oil-degrading
+strains referenced in the literature. Therefore, their high degradation capacity 
+makes them perfect candidates for the bioremediation of petroleum hydrocarbon
+contaminated environments.
+
+© King Abdulaziz City for Science and Technology 2020.
+
+DOI: 10.1007/s13205-019-2027-7 
+PMCID: PMC6954164 [Available on 2021-02-01]
+PMID: 31988836 
+
+Conflict of interest statement: Conflict of interestOn behalf of all authors, the
+corresponding author states that there is no conflict of interest.
+

@@ -1,0 +1,33 @@
+
+1. Materials (Basel). 2019 Nov 26;12(23). pii: E3912. doi: 10.3390/ma12233912.
+
+Use of Genetically Modified Bacteria to Repair Cracks in Concrete.
+
+Zhang Z(1)(2), Weng Y(2)(3), Ding Y(2), Qian S(2).
+
+Author information: 
+(1)Key Laboratory of New Technology for Construction of Cities in Mountain Area, 
+Chongqing University, Ministry of Education, Chongqing 400045, China.
+(2)School of Civil and Environmental Engineering, Nanyang Technological
+University, Singapore 637551, Singapore.
+(3)Singapore Centre for 3D Printing, School of Mechanical and Aerospace
+Engineering, Singapore 639798, Singapore.
+
+In this paper, we studied the crack-repair by spraying bacteria-based liquid
+around the cracks in concrete. To enhance the repair efficiency and speed up the 
+repair process, the transposon mutagenesis method was employed to modify the
+genes of Bacillus halodurans and create a mutant bacterial strain with higher
+efficiency of calcium carbonate productivity by catalyzing the combination of
+carbonate and calcium ion. The efficiency of crack-repairing in concrete by
+spraying two kinds of bacterial liquid was evaluated via image analysis, X-ray
+computed tomography (X-CT) scanning technology and the sorptivity test. The
+results show that the crack-repair efficiency was enhanced very evidently by
+spraying genetically modified bacterial-liquid as no microbiologically induced
+calcite precipitation (MICP) was found within the cracks for concrete samples
+sprayed using wild type bacterial-liquid. In addition, the crack-repair process
+was also shortened significantly in the case of genetically modified bacteria.
+
+DOI: 10.3390/ma12233912 
+PMCID: PMC6926745
+PMID: 31779264 
+

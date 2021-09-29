@@ -1,0 +1,39 @@
+
+1. Int J Syst Evol Microbiol. 2020 Aug;70(8):4838-4842. doi: 10.1099/ijsem.0.004328.
+Epub 2020 Jul 17.
+
+Genome-based reclassification of Paenibacillus panacisoli DSM 21345T as
+Paenibacillus massiliensis subsp. panacisoli subsp. nov. and description of
+Paenibacillus massiliensis subsp. massiliensis subsp. nov.
+
+Tonial F(1), Guella F(2), Passaglia LMP(2), Sant'Anna FH(2).
+
+Author information: 
+(1)Departamento de Patologia, Instituto de Ciências Biológicas, Universidade de
+Passo Fundo, Passo Fundo, Brazil.
+(2)Departamento de Genética, Instituto de Biociências, Universidade Federal do
+Rio Grande do Sul, Porto Alegre, Brazil.
+
+Bacteria of the genus Paenibacillus are relevant to humans, animals and plants.
+The species Paenibacillus massiliensis and Paenibacillus panacisoli are
+Gram-stain-positive and endospore-forming bacilli isolated from a blood culture
+of a leukemia patient and from soil of a ginseng field, respectively. Comparative
+analyses of their 16S rRNA genes revealed that the two Paenibacillus species
+could be synonyms (99.3% sequence identity). In the present study we performed
+different genomic analyses in order to evaluate the phylogenetic relationship of 
+these micro-organisms. Paenibacillus massiliensis DSM 16942T and P. panacisoli
+DSM 21345T presented a difference in their G+C content lower than 1 mol%, overall
+genome relatedness index values higher than the species circumscription
+thresholds (average nucleotide identity, 95.57 %; genome-wide ANI, =96.51 %; and 
+orthologous ANI, 96.25 %), and a monophyletic grouping pattern in the phylogenies
+of the 16S rRNA gene and the proteome core. Considering that these strains
+present differential biochemical capabilities and that their computed digital
+DNA-DNA hybridization value is lower than the cut-off for bacterial subspecies
+circumscription, we suggest that each of them form different subspecies of P.
+massiliensis, Paenibacillus massiliensis subsp. panacisoli subsp. nov. (type
+strain DSM 21345T) and Paenibacillus massiliensis subsp. massiliensis subsp. nov.
+(type strain DSM 16942T).
+
+DOI: 10.1099/ijsem.0.004328 
+PMID: 32692645  [Indexed for MEDLINE]
+

@@ -1,0 +1,36 @@
+
+1. Int J Syst Evol Microbiol. 2020 Aug;70(8):4774-4781. doi: 10.1099/ijsem.0.004344.
+
+Fundicoccus ignavus gen. nov., sp. nov., a novel genus of the family
+Aerococcaceae isolated from bulk tank milk.
+
+Siebert A(1), Huptas C(1), Wenning M(2)(1), Scherer S(1), Doll EV(1).
+
+Author information: 
+(1)Chair of Microbial Ecology, ZIEL - Institute for Food & Health, Technische
+Universität München, Weihenstephaner Berg 3, 85354 Freising, Germany.
+(2)Bavarian Health and Food Safety Authority, Veterinärstraße 2, 85764
+Oberschleißheim, Germany.
+
+Three strains of a Gram-stain-positive, catalase-negative, facultative anaerobic,
+and coccoid species were isolated from German bulk tank milk. Phylogenetic
+analyses based on the 16S rRNA gene sequences indicated that the three strains
+(WS4937T, WS4759 and WS5303) constitute an independent phylogenetic lineage
+within the family Aerococcaceae with Facklamia hominis CCUG 36813T (93.7-94.1 %) 
+and Eremococcus coleocola M1831/95/2T (93.5 %) as most closely related type
+species. The unclassified strains demonstrated variable growth with 6.5 % (w/v)
+NaCl and tolerated pH 6.5-9.5. Growth was observed from 12 to 39 °C. Their
+cell-wall peptidoglycan belongs to the A1α type (l-Lys-direct) consisting of
+alanine, glutamic acid and lysine. The predominant fatty acids were C16 : 1 ω9c, 
+C16 : 0 and C18 : 1 ω9c and in the polar lipids profile three glycolipids, a
+phospholipid, phosphatidylglycerol, phosphoglycolipid and diphosphatidylglycerol 
+were found. The G+C content of strain WS4937T was 37.4 mol% with a genome size of
+~3.0 Mb. Based on phylogenetic, phylogenomic and biochemical characterizations,
+the isolates can be demarcated from all other genera of the family Aerococcaceae 
+and, therefore, the novel genus Fundicoccus gen. nov. is proposed. The type
+species of the novel genus is Fundicoccus ignavus gen. nov., sp. nov. WS4937T
+(=DSM 109652T=LMG 31441T).
+
+DOI: 10.1099/ijsem.0.004344 
+PMID: 32744986  [Indexed for MEDLINE]
+

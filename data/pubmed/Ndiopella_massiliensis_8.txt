@@ -1,0 +1,49 @@
+
+1. Intest Res. 2020 Jul;18(3):325-336. doi: 10.5217/ir.2019.00093. Epub 2020 Jun 23.
+
+Melatonin in the colon modulates intestinal microbiota in response to stress and 
+sleep deprivation.
+
+Park YS(1), Kim SH(1), Park JW(1), Kho Y(2), Seok PR(3), Shin JH(4), Choi YJ(3), 
+Jun JH(3), Jung HC(1), Kim EK(5).
+
+Author information: 
+(1)Division of Gastroenterology, Department of Internal Medicine, Nowon Eulji
+Medical Center, Eulji University School of Medicine, Seoul, Korea.
+(2)Department of Health, Environment and Safety, Graduate School of Health
+Science, Eulji University, Seongnam, Korea.
+(3)Departemnt of Biomedical Laboratory Science, Graduate School of Health
+Science, Eulji University, Seongnam, Korea.
+(4)Department of Biomedical Laboratory Science, Eulji University, Seongnam,
+Korea.
+(5)Department of Pathology, Eulji University School of Medicine, Seoul, Korea.
+
+BACKGROUND/AIMS: Stress is closely related to the deterioration of digestive
+disease. Melatonin has potent anti-inflammatory properties. The objective of this
+study was to determine the effect of water stress (WS) and sleep deprivation (SD)
+on intestinal microbiota and roles of melatonin in stressful condition.
+METHODS: We used C57BL/6 mice and specially designed water bath for stress and SD
+for 10 days. We measured melatonin concentrations in serum, feces, and colon
+tissues by high-performance liquid chromatography. Genomic DNA was extracted from
+feces and amplified using primers targeting V3 to V4 regions of bacterial 16S
+ribosomal RNA genes.
+RESULTS: Compared to the control, melatonin concentration was lower in the WS and
+SD. Fecal concentration was 0.132 pg/mL in control, 0.062 pg/mL in WS, and 0.068 
+pg/mL in SD. In colon tissue, it was 0.45 pg/mL in control, 0.007 pg/mL in WS,
+and 0.03 pg/mL in SD. After melatonin treatment, melatonin concentrations in
+feces and colon tissue were recovered to the level of control. Metagenomic
+analysis of microbiota showed abundance in colitogenic microbiota in WS and SD.
+Melatonin injection attenuated this harmful effect. WS and SD showed decreased
+Lactobacillales and increased Erysipelotrichales and Enterobacteriales. Melatonin
+treatment increased Akkermansia muciniphila and Lactobacillus and decreased
+Bacteroides massiliensis and Erysipelotrichaceae.
+CONCLUSIONS: This study showed that stress and SD could affect intestinal
+dysbiosis and increase colitogenic microbiota, which could contribute to the
+aggravating digestive disease. Melatonin concentrations in feces and colon tissue
+decreased under WS and SD. Melatonin treatment brought recovery of melatonin
+concentration in colon tissue and modulating dysbiosis of intestinal microbiota.
+
+DOI: 10.5217/ir.2019.00093 
+PMCID: PMC7385569
+PMID: 32564539 
+

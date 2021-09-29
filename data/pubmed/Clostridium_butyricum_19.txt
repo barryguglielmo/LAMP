@@ -1,0 +1,46 @@
+
+1. Infect Control Hosp Epidemiol. 2020 Aug;41(8):900-907. doi: 10.1017/ice.2019.289.
+Epub 2020 Jun 16.
+
+Epidemiological and genetic characterization of Clostridium butyricum cultured
+from neonatal cases of necrotizing enterocolitis in China.
+
+Dong Y(1), Li Y(2), Zhang D(2), Nguyen S(3), Maheshwari N(3), Hu Y(1), Cao Y(3), 
+Li F(1), Fanning S(1)(3).
+
+Author information: 
+(1)NHC Key Laboratory of Food Safety Risk Assessment, China National Center for
+Food Safety Risk Assessment, Beijing, PR China.
+(2)Children's Hospital Affiliated with Capital Institute of Pediatrics, Beijing, 
+PR China.
+(3)School of Public Health, Physiotherapy & Sports Science, University College of
+Dublin, Dublin, Ireland.
+
+OBJECTIVE: Laboratory-based characterization and traceback of Clostridium
+butyricum isolates linked to outbreak cases of neonatal necrotizing enterocolitis
+(NEC) in a hospital in China.
+METHODS: In total, 37 samples were collected during the NEC outbreak. Classical
+bacteriological methods were applied to isolate and identify Clostridium spp.
+Meanwhile, 24 samples collected after an outbreak were similarly tested. All
+Clostridium isolates were identified to species level as either C. butyricum or
+C. sporogenes. These isolates were subsequently subtyped using pulsed-field gel
+electrophoresis (PFGE). Genomic DNA was purified from 2 representative C.
+butyricum isolates and sequenced to completion.
+RESULTS: Of 37 samples collected during the NEC outbreak, 17 (45.95%) were
+positive for Clostridium spp. One species, C. butyricum, was cultured from 10
+samples. Another species cultured from 2 other samples was identified as C.
+sporogenes. Both of these species were cocultured from 5 samples. Pulsotyping
+showed that the 15 C. butyricum and the 7 C. sporogenes isolates produced
+indistinguishable DNA profiles. No NEC cases were reported after disinfection
+following the outbreak, and all samples collected after the outbreak were
+negative for Clostridium spp. Whole-genome sequencing (WGS) indicated that
+sialidase, hemolysin, and enterotoxin virulence factors were located on the
+chromosomes of 2 C. butyricum isolates.
+CONCLUSIONS: The outbreak of NEC was epidemiologically linked to C. butyricum
+contamination within the hospital. This is the first report of an NEC outbreak
+associated with C. butyricum infection in China.
+
+DOI: 10.1017/ice.2019.289 
+PMCID: PMC7511950
+PMID: 32539870 
+

@@ -1,0 +1,73 @@
+
+1. Microb Pathog. 2020 Mar;140:103962. doi: 10.1016/j.micpath.2020.103962. Epub 2020
+Jan 2.
+
+Orally administered pathobionts and commensals have comparable and innocuous
+systemic effects on germ-free mice.
+
+Yamazaki K(1), Sato K(1), Tsuzuno T(1), Sulijaya B(2), Mashima I(3), Kawamura
+Y(4), Yamazaki K(5).
+
+Author information: 
+(1)Research Unit for Oral-Systemic Connection, Division of Oral Science for
+Health Promotion, Niigata University Graduate School of Medical and Dental
+Sciences, Niigata, Japan; Division of Periodontology, Niigata University Graduate
+School of Medical and Dental Sciences, Niigata, Japan.
+(2)Research Unit for Oral-Systemic Connection, Division of Oral Science for
+Health Promotion, Niigata University Graduate School of Medical and Dental
+Sciences, Niigata, Japan; Division of Periodontology, Niigata University Graduate
+School of Medical and Dental Sciences, Niigata, Japan; Department of
+Periodontology, Faculty of Dentistry, Universitas Indonesia, Jakarta, Indonesia.
+(3)Department of Oral Medical Science, School of Dentistry, Ohu University,
+Koriyama, Japan; Department of Microbiology, School of Pharmacy, Aichi-Gakuin
+University, Nagoya, Japan.
+(4)Department of Microbiology, School of Pharmacy, Aichi-Gakuin University,
+Nagoya, Japan.
+(5)Research Unit for Oral-Systemic Connection, Division of Oral Science for
+Health Promotion, Niigata University Graduate School of Medical and Dental
+Sciences, Niigata, Japan. Electronic address: kaz@dent.niigata-u.ac.jp.
+
+BACKGROUND AND OBJECTIVES: Recent evidence suggests that oral bacteria can affect
+extra-oral diseases by modulating aspects of the gut environment such as the
+microbiome, metabolome, and immune profiles. However, differences in the effects 
+of different types of oral bacteria, particularly periodontopathic and
+health-associated bacteria, remain elusive.
+MATERIALS AND METHODS: Five-week-old germ-free mice were orally administered with
+either periodontopathic bacteria as oral pathobionts (Porphyromonas gingivalis,
+Filifactor alocis, and Fusobacterium nucleatum) or bacteria associated with
+periodontal health (Actinomyces naeslundii, Streptococcus mitis, and Veillonella 
+rogosae) twice a week for five weeks. The presence of all bacterial species in
+the feces and the livers of the mice was analyzed via polymerase chain reaction
+(PCR), using specific primers for 16S rRNA genes. Alveolar bone resorption was
+evaluated histologically. The expression profiles of various genes in the liver
+and small intestine were analyzed using real-time PCR. Sera were analyzed to
+determine the levels of antibodies and endotoxin. The proportions of T helper 17 
+(Th17) and regulatory T (Treg) cells in mesenteric lymph nodes and Peyer's
+patches were analyzed using flow cytometry.
+RESULTS: Neither of the types of bacteria administered in this experiment induced
+alveolar bone resorption. All bacteria elicited some degree of systemic antibody 
+response in the mice, although the response to S. mitis was not obvious. The
+response to P. gingivalis and V. rogosae was strongest. Generally, the
+health-associated bacteria but not the periodontitis-associated bacteria were
+detected in fecal samples. Interestingly, only Fusobacterium nucleatum DNA was
+detected in the liver, despite that live Fusobacterium nucleatum were not
+detected in the liver. The levels of interleukin-17 in the intestine and genes
+related to lipid accumulation in the liver were significantly higher in the mice 
+that received periodontitis-associated bacteria. In addition, expression of the
+gene associated with endoplasmic reticulum stress was higher and that of the gene
+controlling circadian rhythm was lower in the periodontitis group. There was no
+difference in serum endotoxin, T-cell phenotypes in the lymphatic tissues, or
+genes related to the gut barrier.
+CONCLUSION: Oral administration of periodontitis-associated bacteria can induce
+pathological changes in the liver and intestine that are implicated in the
+process of periodontitis. These findings further support the importance of the
+oral-gut connection.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.micpath.2020.103962 
+PMID: 31904448 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no conflicts of interest.
+

@@ -1,0 +1,66 @@
+
+1. BMC Med. 2020 Sep 21;18(1):299. doi: 10.1186/s12916-020-01745-0.
+
+Non-malarial febrile illness: a systematic review of published aetiological
+studies and case reports from Southern Asia and South-eastern Asia, 1980-2015.
+
+Shrestha P(1)(2), Dahal P(3)(4), Ogbonnaa-Njoku C(3)(4), Das D(3)(4), Stepniewska
+K(3)(4), Thomas NV(3)(4), Hopkins H(5), Crump JA(6), Bell D(7), Newton
+PN(3)(4)(5)(8), Ashley EA(4)(8), Guérin PJ(9)(10).
+
+Author information: 
+(1)Infectious Diseases Data Observatory (IDDO), University of Oxford, NDMRB, Old 
+Road Campus, Oxford, OX3 7FZ, UK. poojan.shrestha@iddo.org.
+(2)Centre for Tropical Medicine and Global Health, Nuffield Department of
+Clinical Medicine, University of Oxford, Oxford, UK. poojan.shrestha@iddo.org.
+(3)Infectious Diseases Data Observatory (IDDO), University of Oxford, NDMRB, Old 
+Road Campus, Oxford, OX3 7FZ, UK.
+(4)Centre for Tropical Medicine and Global Health, Nuffield Department of
+Clinical Medicine, University of Oxford, Oxford, UK.
+(5)London School of Hygiene and Tropical Medicine, London, WC1E 7HT, UK.
+(6)Centre for International Health, University of Otago, Dunedin, New Zealand.
+(7), Issaquah, USA.
+(8)Lao-Oxford-Mahosot Hospital-Wellcome Trust Research Unit, Vientiane, Laos.
+(9)Infectious Diseases Data Observatory (IDDO), University of Oxford, NDMRB, Old 
+Road Campus, Oxford, OX3 7FZ, UK. philippe.guerin@iddo.org.
+(10)Centre for Tropical Medicine and Global Health, Nuffield Department of
+Clinical Medicine, University of Oxford, Oxford, UK. philippe.guerin@iddo.org.
+
+BACKGROUND: In the absence of definitive diagnosis, healthcare providers are
+likely to prescribe empirical antibacterials to those who test negative for
+malaria. This problem is of critical importance in Southern Asia (SA) and
+South-eastern Asia (SEA) where high levels of antimicrobial consumption and high 
+prevalence of antimicrobial resistance have been reported. To improve management 
+and guide further diagnostic test development, better understanding is needed of 
+the true causative agents of fever and their geographical variability.
+METHODS: We conducted a systematic review of published literature (1980-2015) to 
+characterise the spectrum of pathogens causing non-malarial febrile illness in SA
+and SEA. We searched six databases in English and French languages: MEDLINE,
+EMBASE, Global Health (CABI) database, WHO Global Health Library, PASCAL, and
+Bulletin de la Société Française de Parasitologie (BDSP). Selection criteria
+included reporting on an infection or infections with a confirmed diagnosis,
+defined as pathogens detected in or cultured from samples from normally sterile
+sites, or serological evidence of current or past infection.
+RESULTS: A total of 29,558 records from 19 countries in SA and SEA were screened,
+of which 2410 (8.1%) met the selection criteria. Bacterial aetiologies were
+reported in 1235 (51.2%) articles, viral in 846 (35.1%), parasitic in 132 (5.5%),
+and fungal in 54 (2.2%), and 143 (6.0%) articles reported more than one pathogen 
+group. In descending order of frequency, Salmonella Typhi, Escherichia coli,
+Staphylococcus aureus, Klebsiella pneumoniae, and coagulase negative
+Staphylococcus were the commonly reported bacteria, while dengue virus,
+chikungunya virus, Japanese encephalitis virus, hepatitis B virus, and hepatitis 
+C virus were common viral pathogens reported. Reports of rarely reported or
+emerging pathogens included a case report of Borrelia burgdorferi (Lyme disease) 
+in India in 2010 and reports of Nipah virus in Singapore and India.
+CONCLUSIONS: This review summarises the reported non-malaria pathogens that may
+cause febrile illness in SA and SEA. The findings emphasise the need of
+standardising the reporting of aetiological studies to develop effective,
+evidence-based fever management and improved surveillance. Research and
+development of diagnostic tools would benefit from up-to-date epidemiological
+reporting of the regional diversities of non-malaria fever aetiologies.
+TRIAL REGISTRATION: PROSPERO registration, CRD42016049281.
+
+DOI: 10.1186/s12916-020-01745-0 
+PMCID: PMC7504862
+PMID: 32951591 
+

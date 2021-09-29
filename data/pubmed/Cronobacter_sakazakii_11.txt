@@ -1,0 +1,32 @@
+
+1. Front Microbiol. 2020 Jun 17;11:903. doi: 10.3389/fmicb.2020.00903. eCollection
+2020.
+
+The Characterization of Two-Component System PmrA/PmrB in Cronobacter sakazakii.
+
+Hua J(1), Jia X(2), Zhang L(1), Li Y(3).
+
+Author information: 
+(1)National Engineering Laboratory for Cereal Fermentation Technology, Jiangnan
+University, Wuxi, China.
+(2)State Key Laboratory of Food Science and Technology, Jiangnan University,
+Wuxi, China.
+(3)Key Laboratory of Structural Biology of Zhejiang Province, School of Life
+Sciences, Westlake University, Hangzhou, China.
+
+Cronobacter sakazakii is an opportunistic Gram-negative pathogen that could cause
+meningitis and necrotizing enterocolitis. Several Gram-negative bacteria use the 
+PmrA/PmrB system to sense and adapt to environmental change by resistance to
+cationic antimicrobial peptides of host immune systems. The PmrA/PmrB
+two-component system regulates several genes to modify LPS structure in the
+bacterial outer membrane. The role of PmrA/PmrB of C. sakazakii has been studied 
+within the current study. The results suggest that PmrA/PmrB plays a crucial role
+in modifying LPS structure, cationic antimicrobial peptide susceptibility, cell
+membrane permeability and hydrophobicity, and invading macrophage.
+
+Copyright © 2020 Hua, Jia, Zhang and Li.
+
+DOI: 10.3389/fmicb.2020.00903 
+PMCID: PMC7326031
+PMID: 32655500 
+

@@ -1,0 +1,41 @@
+
+1. Sci Rep. 2020 Jul 9;10(1):11324. doi: 10.1038/s41598-020-68262-1.
+
+Antimicrobial activity of Epsilon-Poly-L-lysine against phytopathogenic bacteria.
+
+Rodrigues B(1), Morais TP(1)(2), Zaini PA(3), Campos CS(1), Almeida-Souza HO(1), 
+Dandekar AM(3), Nascimento R(1), Goulart LR(4).
+
+Author information: 
+(1)Laboratory of Nanobiotechnology, Institute of Biotechnology, Federal
+University of Uberlândia, Uberlândia, Brazil.
+(2)Federal Institute of Education, Science and Technology of South of Minas
+Gerais, Machado, Brazil.
+(3)Department of Plant Sciences, University of California, Davis, Davis, CA, USA.
+(4)Laboratory of Nanobiotechnology, Institute of Biotechnology, Federal
+University of Uberlândia, Uberlândia, Brazil. lrgoulart@ufu.br.
+
+Antimicrobial peptides (AMPs) are components of immune defense in many organisms,
+including plants. They combat pathogens due to their antiviral, antifungal and
+antibacterial properties, and are considered potential therapeutic agents. An
+example of AMP is Epsilon-Poly-L-lysine (EPL), a polypeptide formed by ~ 25
+lysine residues with known antimicrobial activity against several human microbial
+pathogens. EPL presents some advantages such as good water solubility, thermal
+stability, biodegradability, and low toxicity, being a candidate for the control 
+of phytopathogens. Our aim was to evaluate the antimicrobial activity of EPL
+against four phytobacterial species spanning different classes within the
+Gram-negative phylum Proteobacteria: Agrobacterium tumefaciens (syn. Rhizobium
+radiobacter), Ralstonia solanacearum, Xanthomonas citri subsp. citri (X. citri), 
+and Xanthomonas euvesicatoria. The minimum inhibitory concentration (MIC) of the 
+peptide ranged from 80 μg/ml for X. citri to 600 μg/ml for R. solanacearum and X.
+euvesicatoria. Two hours of MIC exposure led to pathogen death due to cell lysis 
+and was enough for pathogen clearance. The protective and curative effects of EPL
+were demonstrated on tomato plants inoculated with X. euvesicatoria. Plants
+showed less disease severity when sprayed with EPL solution, making it a
+promising natural product for the control of plant diseases caused by diverse
+Proteobacteria.
+
+DOI: 10.1038/s41598-020-68262-1 
+PMCID: PMC7347836
+PMID: 32647256 
+

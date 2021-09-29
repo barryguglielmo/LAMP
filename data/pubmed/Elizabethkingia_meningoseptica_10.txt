@@ -1,0 +1,46 @@
+
+1. Microb Ecol. 2020 Aug 24. doi: 10.1007/s00248-020-01567-w. [Epub ahead of print]
+
+A Neurotoxic Insecticide Promotes Fungal Infection in Aedes aegypti Larvae by
+Altering the Bacterial Community.
+
+Noskov YA(1)(2), Kabilov MR(3), Polenogova OV(4), Yurchenko YA(4), Belevich
+OE(4), Yaroslavtseva ON(4), Alikina TY(3), Byvaltsev AM(5), Rotskaya UN(4),
+Morozova VV(3), Glupov VV(4), Kryukov VY(4).
+
+Author information: 
+(1)Institute of Systematics and Ecology of Animals, Siberian Branch, Russian
+Academy of Sciences, Novosibirsk, Russia, 630091. yunoskov@gmail.com.
+(2)National Research Tomsk State University, Tomsk, Russia, 634050.
+yunoskov@gmail.com.
+(3)Institute of Chemical Biology and Fundamental Medicine, Siberian Branch,
+Russian Academy of Sciences, Novosibirsk, Russia, 630090.
+(4)Institute of Systematics and Ecology of Animals, Siberian Branch, Russian
+Academy of Sciences, Novosibirsk, Russia, 630091.
+(5)Novosibirsk State University, Novosibirsk, Russia, 630090.
+
+Symbiotic bacteria have a significant impact on the formation of defensive
+mechanisms against fungal pathogens and insecticides. The microbiome of the
+mosquito Aedes aegypti has been well studied; however, there are no data on the
+influence of insecticides and pathogenic fungi on its structure. The fungus
+Metarhizium robertsii and a neurotoxic insecticide (avermectin complex) interact 
+synergistically, and the colonization of larvae with hyphal bodies is observed
+after fungal and combined (conidia + avermectins) treatments. The changes in the 
+bacterial communities (16S rRNA) of Ae. aegypti larvae under the influence of
+fungal infection, avermectin toxicosis, and their combination were studied. In
+addition, we studied the interactions between the fungus and the predominant
+cultivable bacteria in vitro and in vivo after the coinfection of the larvae.
+Avermectins increased the total bacterial load and diversity. The fungus
+decreased the diversity and insignificantly increased the bacterial load.
+Importantly, avermectins reduced the relative abundance of Microbacterium
+(Actinobacteria), which exhibited a strong antagonistic effect towards the fungus
+in in vitro and in vivo assays. The avermectin treatment led to an increased
+abundance of Chryseobacterium (Flavobacteria), which exerted a neutral effect on 
+mycosis development. In addition, avermectin treatment led to an elevation of
+some subdominant bacteria (Pseudomonas) that interacted synergistically with the 
+fungus. We suggest that avermectins change the bacterial community to favor the
+development of fungal infection.
+
+DOI: 10.1007/s00248-020-01567-w 
+PMID: 32839879 
+

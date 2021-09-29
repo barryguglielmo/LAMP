@@ -1,0 +1,46 @@
+
+1. Chembiochem. 2020 May 16. doi: 10.1002/cbic.202000247. [Epub ahead of print]
+
+Reversal of Regioselectivity in Zinc-Dependent Medium-Chain Alcohol Dehydrogenase
+from Rhodococcus erythropolis toward Octanone Derivatives.
+
+Dhoke GV(1), Ensari Y(1)(2), Hacibaloglu DY(1), Gärtner A(1), Ruff AJ(1), Bocola 
+M(1), Davari MD(1).
+
+Author information: 
+(1)Lehrstuhl für Biotechnologie, RWTH Aachen University, Worringerweg 3, 52074,
+Aachen, Germany.
+(2)Kafkas University, Faculty of Engineering and Architecture, Department of
+Bioengineering, full address?, Kars, Turkey.
+
+The zinc-dependent medium-chain alcohol dehydrogenase from Rhodococcus
+erythropolis (ReADH) is one of the most versatile biocatalysts for the
+stereoselective reduction of ketones to chiral alcohols. Despite its known broad 
+substrate scope, ReADH only accepts carbonyl substrates with either a methyl or
+an ethyl group adjacent to the carbonyl moiety; this limits its use in the
+synthesis of the chiral alcohols that serve as a building blocks for
+pharmaceuticals. Protein engineering to expand the substrate scope of ReADH
+toward bulky substitutions next to carbonyl group (ethyl 2-oxo-4-phenylbutyrate) 
+opens up new routes in the synthesis of ethyl-2-hydroxy-4-phenylbutanoate, an
+important intermediate for anti-hypertension drugs like enalaprilat and
+lisinopril. We have performed computer-aided engineering of ReADH toward ethyl
+2-oxo-4-phenylbutyrate and octanone derivatives. W296, which is located in the
+small binding pocket of ReADH, sterically restricts the access of ethyl
+2-oxo-4-phenylbutyrate, octan-3-one or octan-4-one toward the catalytic zinc ion 
+and thereby limits ReADH activity. Computational analysis was used to identify
+position W296 and site-saturation mutagenesis (SSM) yielded an improved variant
+W296A with a 3.6-fold improved activity toward ethyl 2-oxo-4-phenylbutyrate when 
+compared to WT ReADH (ReADH W296A: 17.10 U/mg and ReADH WT: 4.7 U/mg). In
+addition, the regioselectivity of ReADH W296A is shifted toward octanone
+substrates. ReADH W296A has a more than 16-fold increased activity toward
+octan-4-one (ReADH W296A: 0.97 U/mg and ReADH WT: 0.06 U/mg) and a more than
+30-fold decreased activity toward octan-2-one (ReADH W296A: 0.23 U/mg and ReADH
+WT: 7.69 U/mg). Computational and experimental results revealed the role of
+position W296 in controlling the substrate scope and regiopreference of ReADH for
+a variety of carbonyl substrates.
+
+© 2020 The Authors. Published by Wiley-VCH Verlag GmbH & Co. KGaA.
+
+DOI: 10.1002/cbic.202000247 
+PMID: 32415803 
+

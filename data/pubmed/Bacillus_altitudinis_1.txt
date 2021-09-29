@@ -1,0 +1,67 @@
+
+1. Carbohydr Res. 2020 Sep;495:108089. doi: 10.1016/j.carres.2020.108089. Epub 2020 
+Jul 14.
+
+Biochemical and molecular characterization of an acido-thermostable
+endo-chitinase from Bacillus altitudinis KA15 for industrial degradation of
+chitinous waste.
+
+Asmani KL(1), Bouacem K(2), Ouelhadj A(3), Yahiaoui M(4), Bechami S(5), Mechri
+S(6), Jabeur F(6), Taleb-Ait Menguellet K(5), Jaouadi B(7).
+
+Author information: 
+(1)Department of Biochemistry and Microbiology, Faculty of Biological and
+Agricultural Sciences (FBAS), University of Mouloud Mammeri of Tizi-Ouzou
+(UMMTO), P.O. Box 17, Tizi-Ouzou, 15000, Algeria. Electronic address:
+katia.asmani@yahoo.com.
+(2)Department of Biochemistry and Microbiology, Faculty of Biological and
+Agricultural Sciences (FBAS), University of Mouloud Mammeri of Tizi-Ouzou
+(UMMTO), P.O. Box 17, Tizi-Ouzou, 15000, Algeria; Laboratory of Cellular and
+Molecular Biology (LCMB), Microbiology Team, Faculty of Biological Sciences
+(FBS), University of Sciences and Technology of Houari Boumediene (USTHB), P.O.
+Box 32, El Alia, Bab Ezzouar, Algiers, 16111, Algeria.
+(3)Department of Biochemistry and Microbiology, Faculty of Biological and
+Agricultural Sciences (FBAS), University of Mouloud Mammeri of Tizi-Ouzou
+(UMMTO), P.O. Box 17, Tizi-Ouzou, 15000, Algeria; Laboratory of Food Quality and 
+Food Safety (LFQFS), Faculty of Biological and Agricultural Sciences (FBAS),
+University of Mouloud Mammeri of Tizi-Ouzou (UMMTO), P.O. Box 17, Tizi-Ouzou,
+15000, Algeria.
+(4)Department of Natural and Life Sciences, Faculty of Sciences (FS), University 
+of M'Sila, P.O. Box 166, M'Sila, 28000, Algeria.
+(5)Department of Biochemistry and Microbiology, Faculty of Biological and
+Agricultural Sciences (FBAS), University of Mouloud Mammeri of Tizi-Ouzou
+(UMMTO), P.O. Box 17, Tizi-Ouzou, 15000, Algeria.
+(6)Laboratory of Microbial Biotechnology and Engineering Enzymes (LMBEE), Centre 
+of Biotechnology of Sfax (CBS), University of Sfax, Road of Sidi Mansour Km 6,
+P.O. Box 1177, Sfax, 3018, Tunisia.
+(7)Laboratory of Microbial Biotechnology and Engineering Enzymes (LMBEE), Centre 
+of Biotechnology of Sfax (CBS), University of Sfax, Road of Sidi Mansour Km 6,
+P.O. Box 1177, Sfax, 3018, Tunisia. Electronic address:
+bassem.jaouadi@cbs.rnrt.tn.
+
+This paper reports the isolation and identification of an acido-thermostable
+chitinase (ChiA-Ba43) which was purified, from the culture liquid of Bacillus
+altitudinis strain KA15, and characterized. Purification of ChiA-Ba43 produced a 
+69.6-fold increase in the specific activity (120,000 U/mg) of the chitinase, with
+a yield of 51% using colloidal chitin as substrate. ChiA-Ba43 was found to be a
+monomeric protein with a molecular mass of 43,190.05 Da as determined by
+MALDI-TOF/MS. N-terminal sequence of the first 27 amino-acids (aa) of ChiA-Ba43
+displayed homology to chitinases from other Bacillus species. Interestingly,
+ChiA-Ba43 exhibited optimum pH and temperature of 4-5.5 and 85 °C, respectively. 
+Thin-layer chromatography (TLC) showed that the final hydrolyzed products of the 
+enzyme from chitin-oligosaccharides and colloidal chitin are a mixture of
+(GlcNAc)2, (GlcNAc)3, (GlcNAc)4, and (GlcNAc)5, which indicates that ChiA-Ba43
+possesses an endo-acting function. More interestingly, compared to ChiA-Mt45,
+ChiA-Hh59, Chitodextrinase®, N-acetyl-β-glucosaminidase®, and ChiA-65, ChiA-Ba43 
+demonstrated a high level of catalytic efficiency and outstanding tolerance
+towards various organic solvents. The chiA-Ba43 gene (1332 bp) encoding ChiA-Ba43
+(409 aa) was cloned, sequenced, and expressed in Escherichia coli strain HB101.
+The biochemical properties of the recombinant chitinase (rChiA-Ba43) were
+equivalent to those of the natively expressed enzyme. These properties make
+ChiA-Ba43 an ideal candidate for industrial bioconversion of chitinous waste.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.carres.2020.108089 
+PMID: 32807357 
+

@@ -1,0 +1,61 @@
+
+1. PLoS One. 2020 Sep 3;15(9):e0236336. doi: 10.1371/journal.pone.0236336.
+eCollection 2020.
+
+Detection of latent forms of Mycobacterium avium subsp. paratuberculosis
+infection using host biomarker-based ELISAs greatly improves paratuberculosis
+diagnostic sensitivity.
+
+Blanco Vázquez C(1), Alonso-Hearn M(2), Juste RA(2)(3), Canive M(2), Iglesias
+T(4), Iglesias N(1), Amado J(5), Vicente F(3), Balseiro A(1)(6), Casais R(1).
+
+Author information: 
+(1)Servicio Regional de Investigación y Desarrollo Agroalimentario (SERIDA), Deva
+Gijón, Asturias, Spain.
+(2)Animal Health Department, NEIKER-Instituto Vasco de Investigación y Desarrollo
+Agrario, Derio, Bizkaia, Spain.
+(3)Servicio Regional de Investigación y Desarrollo Agroalimentario (SERIDA),
+Villaviciosa, Asturias, Spain.
+(4)Unidad de Consultoría Estadística, Servicios científico-técnicos, Universidad 
+de Oviedo, Campus de Gijón, Asturias, Spain.
+(5)Departament of Microbiology and Parasitology, Laboratorio de Sanidad Animal
+del Principado de Asturias (LSAPA), Gijón, Asturias, Spain.
+(6)Department of Animal Health, Facultad de Veterinaria, Instituto Ganadería de
+Montaña (CSIC-ULE), University of León, León, Spain.
+
+Bovine paratuberculosis (PTB) is a chronic granulomatous enteritis, caused by
+Mycobacterium avium subsp. paratuberculosis (MAP), responsible for important
+economic losses in the dairy industry. Current diagnostic methods have low
+sensitivities for detection of latent forms of MAP infection, defined by focal
+granulomatous lesions and scarce humoral response or MAP presence. In contrast,
+patent infections correspond to multifocal and diffuse types of enteritis where
+there is increased antibody production, and substantial mycobacterial load. Our
+previous RNA-Seq analysis allowed the selection of five candidate biomarkers
+overexpressed in peripheral blood of MAP infected Holstein cows with focal
+(ABCA13 and MMP8) and diffuse (FAM84A, SPARC and DES) lesions vs. control animals
+with no detectable PTB-associated lesions in intestine and regional lymph nodes. 
+The aim of the current study was to assess the PTB diagnostic potential of
+commercial ELISAs designed for the specific detection of these biomarkers. The
+ability of these ELISAs to identify animals with latent and/or patent forms of
+MAP infection was investigated using serum from naturally infected cattle (n =
+88) and non-infected control animals (n = 67). ROC analysis revealed that the
+ABCA13-based ELISA showed the highest diagnostic accuracy for the detection of
+infected animals with focal lesions (AUC 0.837, sensitivity 79.25% and
+specificity 88.06%) and with any type of histological lesion (AUC 0.793,
+sensitivity 69.41% and specificity 86.57%) improving on the diagnostic
+performance of the popular IDEXX ELISA and other conventional diagnostic methods.
+SPARC and MMP8 showed the highest diagnostic accuracy for the detection of
+animals with multifocal (AUC 0.852) and diffuse lesions (AUC 0.831),
+respectively. In conclusion, our results suggest that quantification of ABCA13,
+SPARC and MMP8 by ELISA has the potential for implementation as a diagnostic tool
+to reliably identify MAP infection, greatly improving early detection of MAP
+latent infections when antibody responses and fecal shedding are undetectable
+using conventional diagnostic methods.
+
+DOI: 10.1371/journal.pone.0236336 
+PMCID: PMC7470414
+PMID: 32881863 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

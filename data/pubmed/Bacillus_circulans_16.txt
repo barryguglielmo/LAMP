@@ -1,0 +1,41 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jan;70(1):481-486. doi: 10.1099/ijsem.0.003776.
+
+Bacillus taxi sp. nov., a novel endophytic bacterium isolated from root of Taxus 
+chinensis (Pilger) Rehd.
+
+Tuo L(1), Liu F(2), Yan XR(1), Liu Y(1).
+
+Author information: 
+(1)Guizhou Provincial College-based Key Lab for Tumor Prevention and Treatment
+with Distinctive Medicines, Zunyi Medical University, Zunyi 563006, PR China.
+(2)College of Pharmacy, HuNan Vocational College of Science and Technology,
+Changsha 410200, PR China.
+
+A Gram-staining-positive, aerobic, rod-shaped, endospore-forming bacterium,
+designated strain M5HDSG1-1T, was originally isolated from a surface-sterilized
+root of Taxus chinensis (Pilger) Rehd. in Guizhou, PR China. This bacterium was
+tested by a polyphasic approach to determine its taxonomic position. A 16S rRNA
+gene-based phylogenetic analysis revealed that M5HDSG1-1T had the greatest
+similarity to the type strain of Bacillus nealsonii DSM 15077T (99.1 %). The
+average nucleotide identity values between M5HDSG1-1T and Bacillus nealsonii DSM 
+15077T and Bacillus circulans NBRC 13626T were 73.3 and 72.8 %, respectively. The
+digital DNA-DNA hybridization values between M5HDSG1-1T and Bacillus nealsonii
+DSM 15077T and Bacillus circulans NBRC 13626T were 20.1 and 20.6 %, respectively,
+which were below the recommended thresholds. M5HDSG1-1T grew at a pH range of
+6.0-12.0 (optimum, 7.0-8.0), at temperatures between 10 and 45 °C (optimum,
+30 °C) and at 0-2 % (w/v) NaCl (optimum, 1 %). Neither substrate nor aerial
+mycelia was formed, and no diffusible pigments were observed on the media tested.
+The predominant isoprenoid quinone was menaquinone-7 (MK-7). The major fatty
+acids were anteiso-C15 : 0, and iso-C15 : 0. The polar lipids comprised
+diphosphatidylglycerol, phosphatidylglycerol, phosphatidylethanolamine, an
+unidentified aminophospholipid and an unidentified phospholipid. The DNA G+C
+content was 37.5 mol%. According to the phylogeneic, phenotypic and
+chemotaxonomic data, M5HDSG1-1T was clearly distinguishable from other species
+with validly published names in the genus Bacillus and should therefore be
+classified as representing a novel species, and we suggest the name Bacillus taxi
+sp. nov. The type strain is M5HDSG1-1T (=JCM 33117T=CGMCC 1.13668T).
+
+DOI: 10.1099/ijsem.0.003776 
+PMID: 31613744  [Indexed for MEDLINE]
+

@@ -1,0 +1,52 @@
+
+1. Infect Immun. 2020 Sep 18;88(10). pii: e00147-20. doi: 10.1128/IAI.00147-20.
+Print 2020 Sep 18.
+
+Niche- and Gender-Dependent Immune Reactions in Relation to the Microbiota
+Profile in Pediatric Patients with Otitis Media with Effusion.
+
+Enoksson F(#)(1), Ruiz Rodriguez A(#)(2), Peno C(2), Balcazar Lopez C(2),
+Tjernström F(3), Bogaert D(2), Hakansson AP(4), Bergenfelz C(5).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Helsingborg Hospital, Helsingborg, Sweden.
+(2)Centre for Inflammation Research, Queen's Medical Institute, University of
+Edinburgh, Edinburgh, United Kingdom.
+(3)Department of Otorhinolaryngology, Skåne University Hospital, Lund, Sweden.
+(4)Department of Translational Medicine, Experimental Infection Medicine, Lund
+University, Malmö, Sweden.
+(5)Department of Translational Medicine, Experimental Infection Medicine, Lund
+University, Malmö, Sweden caroline.bergenfelz@med.lu.se.
+(#)Contributed equally
+
+Otitis media with effusion (OME) is a common inflammatory disease that primarily 
+affects children. OME is defined as a chronic low-grade inflammation of the
+middle ear (ME), without any signs of infection and with effusion persisting in
+the ME for more than 3 months. The precise pathogenesis is, however, not fully
+understood. Here, we comprehensively characterized and compared the host immune
+responses (inflammatory cells and mediators) and the overall microbial community 
+composition (microbiota) present in matched middle ear effusion (MEE) samples,
+external ear canal (EEC) lavages, and nasopharynx (NPH) samples from children
+with OME. Female patients had significantly increased percentages of T
+lymphocytes and higher levels of a wide array of inflammatory mediators in their 
+MEE compared to that of male patients, which were unrelated to microbiota
+composition. The relative abundances of identified microorganisms were strongly
+associated with their niche of origin. Furthermore, specific inflammatory
+mediators were highly correlated with certain bacterial species. Interestingly,
+some organisms displayed a niche-driven inflammation pattern in which presence of
+Haemophilus spp. and Corynebacterium propinquum in MEE was accompanied by
+proinflammatory mediators, whereas their presence in NPH was accompanied by
+anti-inflammatory mediators. For Turicella and Alloiococcus, we found exactly the
+opposite results, i.e., an anti-inflammatory profile when present in MEE, whereas
+their presence in the the NPH was accompanied by a proinflammatory profile.
+Together, our results indicate that immune responses in children with OME are
+highly niche- and microbiota-driven, but gender-based differences were also
+observed, providing novel insight into potential pathogenic mechanisms behind
+OME.
+
+Copyright © 2020 Enoksson et al.
+
+DOI: 10.1128/IAI.00147-20 
+PMCID: PMC7504947
+PMID: 32661126 
+

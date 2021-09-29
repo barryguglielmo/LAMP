@@ -1,0 +1,57 @@
+
+1. Appl Environ Microbiol. 2020 Mar 2;86(6). pii: e02061-19. doi:
+10.1128/AEM.02061-19. Print 2020 Mar 2.
+
+Suboptimal Bacillus licheniformis and Bacillus weihenstephanensis Spore
+Incubation Conditions Increase Heterogeneity of Spore Outgrowth Time.
+
+Trunet C(1)(2), Mtimet N(3), Mathot AG(3), Postollec F(2), Leguerinel I(3),
+Couvert O(3), Broussolle V(4), Carlin F(4), Coroller L(3).
+
+Author information: 
+(1)Univ Brest, Laboratoire Universitaire de Biodiversité et Ecologie Microbienne,
+UMT ACTIA 19.03 ALTER'iX, Quimper, France clement.trunet@univ-brest.fr.
+(2)ADRIA Food Expertise, UMT ACTIA 19.03 ALTER'iX, Quimper, France.
+(3)Univ Brest, Laboratoire Universitaire de Biodiversité et Ecologie Microbienne,
+UMT ACTIA 19.03 ALTER'iX, Quimper, France.
+(4)INRAE, Avignon Université, UMR SQPOV, Avignon, France.
+
+Changes with time of a population of Bacillus weihenstephanensis KBAB4 and
+Bacillus licheniformis AD978 dormant spores into germinated spores and vegetative
+cells were followed by flow cytometry, at pH ranges of 4.7 to 7.4 and
+temperatures of 10°C to 37°C for B. weihenstephanensis and 18°C to 59°C for B.
+licheniformis Incubation conditions lower than optimal temperatures or pH led to 
+lower proportions of dormant spores able to germinate and extended time of
+germination, a lower proportion of germinated spores able to outgrow, an
+extension of their times of outgrowth, and an increase of the heterogeneity of
+spore outgrowth time. A model based on the strain growth limits was proposed to
+quantify the impact of incubation temperature and pH on the passage through each 
+physiological stage. The heat treatment temperature or time acted independently
+on spore recovery. Indeed, a treatment at 85°C for 12 min or at 95°C for 2 min
+did not have the same impact on spore germination and outgrowth kinetics of B.
+weihenstephanensis despite the fact that they both led to a 10-fold reduction of 
+the population. Moreover, acidic sporulation pH increased the time of outgrowth
+1.2-fold and lowered the proportion of spores able to germinate and outgrow
+1.4-fold. Interestingly, we showed by proteomic analysis that some proteins
+involved in germination and outgrowth were detected at a lower abundance in
+spores produced at pH 5.5 than in those produced at pH 7.0, maybe at the origin
+of germination and outgrowth behavior of spores produced at suboptimal
+pH.IMPORTANCE Sporulation and incubation conditions have an impact on the numbers
+of spores able to recover after exposure to sublethal heat treatment. Using flow 
+cytometry, we were able to follow at a single-cell level the changes in the
+physiological states of heat-stressed spores of Bacillus spp. and to discriminate
+between dormant spores, germinated spores, and outgrowing vegetative cells. We
+developed original mathematical models that describe (i) the changes with time of
+the proportion of cells in their different states during germination and
+outgrowth and (ii) the influence of temperature and pH on the kinetics of spore
+recovery using the growth limits of the tested strains as model parameters. We
+think that these models better predict spore recovery after a sublethal heat
+treatment, a common situation in food processing and a concern for food
+preservation and safety.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.02061-19 
+PMCID: PMC7054099
+PMID: 31900309 
+

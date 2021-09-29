@@ -1,0 +1,69 @@
+
+1. PeerJ. 2020 Jul 10;8:e9514. doi: 10.7717/peerj.9514. eCollection 2020.
+
+Methylobacterium, a major component of the culturable bacterial endophyte
+community of wild Brassica seed.
+
+Roodi D(1)(2)(3), Millner JP(1), McGill C(1), Johnson RD(3), Jauregui R(4), Card 
+SD(3).
+
+Author information: 
+(1)School of Agriculture & Environment, Massey University, Palmerston North,
+Manawatu, New Zealand.
+(2)Agricultural Research, Education and Extension Organization (AREEO), Seed and 
+Plant Improvement Institute, Karaj, Alborz, Iran.
+(3)Forage Science, AgResearch Limited, Grasslands Research Centre, Palmerston
+North, Manawatu, New Zealand.
+(4)Knowledge & Analytics, AgResearch Limited, Grasslands Research Centre,
+Palmerston North, Manawatu, New Zealand.
+
+Background: Plants are commonly colonized by a wide diversity of microbial
+species and the relationships created can range from mutualistic through to
+parasitic. Microorganisms that typically form symptomless associations with
+internal plant tissues are termed endophytes. Endophytes associate with most
+plant species found in natural and managed ecosystems. They are extremely
+important plant partners that provide improved stress tolerance to the host
+compared with plants that lack this symbiosis. Plant domestication has reduced
+endophyte diversity and therefore the wild relatives of many crop species remain 
+untapped reservoirs of beneficial microbes. Brassica species display immense
+diversity and consequently provide the greatest assortment of products used by
+humans from a single plant genus important for agriculture, horticulture,
+bioremediation, medicine, soil conditioners, composting crops, and in the
+production of edible and industrial oils. Many endophytes are horizontally
+transmitted, but some can colonize the plant's reproductive tissues, and this
+gives these symbionts an efficient mechanism of propagation via plant seed
+(termed vertical transmission).
+Methods: This study surveyed 83 wild and landrace Brassica accessions composed of
+14 different species with a worldwide distribution for seed-originating bacterial
+endophytes. Seed was stringently disinfected, sown within sterile tissue culture 
+pots within a sterile environment and incubated. After approximately 1-month,
+direct isolation techniques were used to recover bacterial endophytes from roots 
+and shoots of symptomless plants. Bacteria were identified based on the PCR
+amplification of partial 16S rDNA gene sequences and annotated using the BLASTn
+program against the NCBI rRNA database. A diversity index was used as a
+quantitative measure to reflect how many different bacterial species there were
+in the seed-originating microbial community of the Brassica accessions sampled.
+Results: Bacterial endophytes were recovered from the majority of the Brassica
+accessions screened. 16S rDNA gene sequencing identified 19 different bacterial
+species belonging to three phyla, namely Actinobacteria, Firmicutes and
+Proteobacteria with the most frequently isolated species being Methylobacterium
+fujisawaense, Stenotrophomonas rhizophila and Pseudomonas lactis.
+Methylobacterium was the dominant genus composing 56% of the culturable isolated 
+bacterial community and was common in 77% of accessions possessing culturable
+bacterial endophytes. Two selected isolates of Methylobacterium significantly
+promoted plant growth when inoculated into a cultivar of oilseed rape and
+inhibited the growth of the pathogen Leptosphaeria maculans in dual culture. This
+is the first report that investigates the seed-originating endophytic
+microorganisms of wild Brassica species and highlights the Brassica microbiome as
+a resource for plant growth promoting bacteria and biological control agents.
+
+© 2020 Roodi et al.
+
+DOI: 10.7717/peerj.9514 
+PMCID: PMC7357558
+PMID: 32728495 
+
+Conflict of interest statement: Davood Roodi is employed by Seed and Plant
+Improvement Institute. Stuart D. Card, Richard D. Johnson and Ruy Jauregui are
+employed by AgResearch Limited.
+

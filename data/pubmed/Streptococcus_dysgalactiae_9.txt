@@ -1,0 +1,41 @@
+
+1. ACS Sens. 2020 Jul 24;5(7):1969-1976. doi: 10.1021/acssensors.0c00348. Epub 2020 
+Jul 2.
+
+Porous Silicon Fabry-Pérot Interferometer for N-Acetyl-β-d-Glucosaminidase
+Biomarker Monitoring.
+
+Kumar DN(1), Pinker N(2), Shtenberg G(1).
+
+Author information: 
+(1)Institute of Agricultural Engineering, ARO, The Volcani Center, Bet Dagan
+50250, Israel.
+(2)Department of Biotechnology, Faculty of Agriculture, Food and Environment, The
+Hebrew University of Jerusalem, Rehovot 76100, Israel.
+
+Bovine mastitis (BM) is a prominent inflammatory disease affecting the dairy
+industry worldwide, originated by pathogenic agent invasion onto the mammary
+gland. Early detection of new BM cases is of high importance for infection
+control within the herd. Conventional analytical techniques lack the ability to
+detect BM-predicting biomarkers, used as analytical indicators for health status 
+evaluation, in real time or outside the laboratory boundaries. Herein, we
+describe a biosensing platform for label-free detection and identification of BM 
+onset through targeting N-acetyl-β-d-glucosaminidase (NAGase) for potential
+evidence-based therapy. The lysosomal activity in dissimilar milk qualities was
+monitored by a gelatin-functionalized porous Si Fabry-Pérot interferometer, while
+estimating the biochemical reaction precipitating products within the
+nanostructure. The optical response was proportional to the inherent NAGase
+concentration found in real milk samples, influenced by two dominant BM causative
+pathogens (i.e., Escherichia coli and Streptococcus dysgalactiae) at various
+somatic cell counts. Quantitative analysis of NAGase levels within the entire
+inflammatory spectrum (healthy, subclinical, and clinical BM) was obtained within
+the range of 1.0-4.2 μM/min (enzymatic activity per volume unit), while
+presenting a detection limit of 0.51 μM/min. The optical performances correspond 
+with standardized biochemical activity assay in dissimilar milk qualities.
+Overall, the presented sensing concept exhibits the potential of BM-predicting
+biomarker detection using a simple and portable experimental setup for convenient
+early biodiagnostics and health status evaluation.
+
+DOI: 10.1021/acssensors.0c00348 
+PMID: 32573203 
+

@@ -1,0 +1,50 @@
+
+1. Front Oncol. 2020 Jul 7;10:902. doi: 10.3389/fonc.2020.00902. eCollection 2020.
+
+Gut Microbiota Profiling in Patients With HER2-Negative Metastatic Breast Cancer 
+Receiving Metronomic Chemotherapy of Capecitabine Compared to Those Under
+Conventional Dosage.
+
+Guan X(1), Ma F(1)(2), Sun X(1), Li C(2), Li L(1), Liang F(3), Li S(3), Yi Z(1), 
+Liu B(1), Xu B(1)(2).
+
+Author information: 
+(1)Department of Medical Oncology, National Cancer Center/National Clinical
+Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences
+and Peking Union Medical College, Beijing, China.
+(2)State Key Laboratory of Molecular Oncology, Chinese Academy of Medical
+Sciences, Beijing, China.
+(3)Department of Human Microbiome, Promegene Institute, Shenzhen, China.
+
+Purpose: Low-dose metronomic chemotherapy can achieve disease control with
+reduced toxicity compared to conventional chemotherapy in maximum tolerated dose.
+Characterizing the gut microbiota of cancer patients under different dosage
+regimens may describe a new role of gut microbiota associated with drug efficacy.
+Therefore, we evaluated the composition and the function of gut microbiome
+associated with metronomic capecitabine compared to conventional dosage. Methods:
+The fecal samples of HER2-negative metastatic breast cancer patients treated with
+capecitabine as maintenance chemotherapy were collected and analyzed by 16S
+ribosome RNA gene sequencing. Results: A total of 15 patients treated with
+metronomic capecitabine were compared to 16 patients under a conventional dose.
+The unweighted-unifrac index of the metronomic group was statistically
+significantly lower than that of the routine group (P = 0.025). Besides that, the
+Bray-Curtis distance-based redundancy analysis illustrated that the microbial
+genera between the two groups can be separated partly. Nine Kyoto Encyclopedia of
+Genes and Genomes (KEGG) modules were enriched in the metronomic group, while no 
+KEGG modules were significantly enriched in the routine group. Moreover,
+univariate and multivariate analyses suggested that the median progression-free
+survival (PFS) was significantly shorter in patients with the gut microbial
+composition of Slackia (9.2 vs. 32.7 months, P = 0.004), while the patients with 
+Blautia obeum had a significantly prolonged PFS than those without (32.7 vs. 12.9
+months, P = 0.013). Conclusions: The proof-of-principle study suggested that the 
+gut microbiota of patients receiving metronomic chemotherapy was different in
+terms of diversity, composition, and function from those under conventional
+chemotherapy, and the presence of specific bacterial species may act as microbial
+markers associated with drug resistance monitoring and prognostic evaluation.
+
+Copyright © 2020 Guan, Ma, Sun, Li, Li, Liang, Li, Yi, Liu and Xu.
+
+DOI: 10.3389/fonc.2020.00902 
+PMCID: PMC7358584
+PMID: 32733788 
+

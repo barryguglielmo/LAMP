@@ -1,0 +1,59 @@
+
+1. J Dairy Sci. 2020 Oct;103(10):9213-9223. doi: 10.3168/jds.2019-18026. Epub 2020
+Aug 20.
+
+Test positivity for Maedi-Visna virus and Mycobacterium avium ssp.
+paratuberculosis in Sarda ewes: Effects on milk composition and coagulation
+traits and heritability estimates for susceptibility.
+
+Pazzola M(1), Puggioni G(2), Ponti MN(2), Scivoli R(2), Dettori ML(3), Cecchinato
+A(4), Vacca GM(3).
+
+Author information: 
+(1)Department of Veterinary Medicine, University of Sassari, via Vienna 2, 07100 
+Sassari, Italy. Electronic address: pazzola@uniss.it.
+(2)Istituto Zooprofilattico Sperimentale della Sardegna "G. Pegreffi," Via Vienna
+2, 07100 Sassari, Italy.
+(3)Department of Veterinary Medicine, University of Sassari, via Vienna 2, 07100 
+Sassari, Italy.
+(4)Department of Agronomy, Food, Natural resources, Animals and Environment
+(DAFNAE), University of Padova, viale dell'Università 16, 35020 Legnaro (PD),
+Italy.
+
+Maedi-Visna virus (MVV) and Mycobacterium avium ssp. paratuberculosis (MAP) are
+two pathogens that cause chronic, production-limiting diseases in dairy sheep.
+Although they are present worldwide, there are no detailed reports on their
+actual effects on milk traits in the literature. This study was designed to
+investigate the effects of test positivity to MVV and MAP on ovine milk yield,
+composition and coagulation properties, and curd-firming over time (CFt)
+variables in clinically healthy animals at the field level. The additive genetic 
+variation and heritabilities of MVV and MAP positivity were also estimated. Milk 
+samples were collected from 1,079 Sarda sheep kept on 23 farms, and pedigree
+information was obtained from the flock book. Milk yield was also recorded on the
+sampling date. Positivity for MVV and MAP was determined from milk samples using 
+indirect ELISA test kits. Milk composition traits were measured by spectroscopy, 
+milk coagulation properties were measured with a Formagraph (Foss Italia, Padua, 
+Italy), and CFt traits were calculated using the data from the Formagraph
+diagram. The effects of MVV and MAP positivity on milk traits were determined
+through a set of mixed linear models, which took into account various sources of 
+variation, such as days in milk, parity, and flock effects, and included the
+effects (positive or negative) of the 2 pathogens. A Bayesian threshold sire
+model with sire relationship was used to estimate genetic variation and
+heritability. The overall animal prevalence of MVV-positive ewes was 43.6%; on
+only 1 farm of the 23 tested were all sampled ewes negative. An overall animal
+prevalence of 10.6% was recorded for MAP, with 4 farms at 0%. Positivity for MVV 
+significantly affected the logarithmic score of the bacterial count, curd
+firmness after 30 min and 45 min, and the curd-firming instant rate constant. We 
+found significant effects of MAP infection on milk composition, pH, and rennet
+coagulation time. The mean of the posterior distributions of heritability
+estimates on the liability scale was 0.15 for MAP and 0.07 for MVV. Our results
+demonstrate that only a few traits are negatively affected by MVV and MAP
+positivity, and that there is exploitable genetic variation in MVV and MAP
+susceptibility in dairy sheep.
+
+Copyright © 2020 American Dairy Science Association. Published by Elsevier Inc.
+All rights reserved.
+
+DOI: 10.3168/jds.2019-18026 
+PMID: 32828507 
+

@@ -1,0 +1,40 @@
+
+1. Biotechnol Lett. 2020 Sep 29. doi: 10.1007/s10529-020-03011-y. [Epub ahead of
+print]
+
+Intensifying niacin-based biosynthesis of NAD+ to enhance 3-hydroxypropionic acid
+production in Klebsiella pneumoniae.
+
+Wu S(1), Zhao P(1), Li Q(2), Tian P(3).
+
+Author information: 
+(1)College of Life Science and Technology, Beijing University of Chemical
+Technology, Beijing, 100029, China.
+(2)School of Food Science and Engineering, South China University of Technology, 
+Guangzhou, 510641, China.
+(3)College of Life Science and Technology, Beijing University of Chemical
+Technology, Beijing, 100029, China. tianpf@mail.buct.edu.cn.
+
+OBJECTIVE: Glycerol-based biosynthesis of 3-hydroxypropionic acid (3-HP) in
+Klebsiella pneumoniae involves two reactions: glycerol conversion to
+3-hydroxypropionaldehyde (3-HPA) by glycerol dehydratase, and 3-HPA conversion to
+3-HP by aldehyde dehydrogenase (ALDH). The ALDH catalysis consumes a lot of
+cofactor nicotinamide adenine dinucleotide (NAD+), which constrains 3-HP
+production.
+RESULTS: Here we report that intensifying niacin-based biosynthesis of NAD+ can
+substantially enhance 3-HP production. We constructed tac promoter-driven NAD+
+synthesis pathway in K. pneumoniae. The strain only overexpressing nicotinate
+phosphoribosyltransferase (PncB) showed 14.24% increase in the production of NAD+
+relative to the stain harboring an empty vector. When PncB was coexpressed with
+PuuC (one of native ALDHs), the recombinant strain exhibited increased ALDH
+activity but slightly reduced 3-HP production due to plasmid burden. When 30 mg
+niacin l-1 (a substrate for biosynthesis of NAD+) was added into shake flask, the
+strain produced 0.55 g 3-HP l-1, which was 2.75 times that of the control. In a
+5-L bioreactor, replenishment of niacin led to 36.43% increase of 3-HP
+production.
+CONCLUSIONS: These results indicated that intensifying niacin-based biosynthesis 
+of NAD+ boosts 3-HP production.
+
+DOI: 10.1007/s10529-020-03011-y 
+PMID: 32996029 
+

@@ -1,0 +1,45 @@
+
+1. Appl Microbiol Biotechnol. 2020 Oct;104(20):8789-8799. doi:
+10.1007/s00253-020-10893-5. Epub 2020 Sep 11.
+
+Channel-pore cation selectivity is a major determinant of Bacillus thuringiensis 
+Cry46Ab mosquitocidal activity.
+
+Hayakawa T(1), Miyazaki M(2), Harada S(2), Asakura M(2), Ide T(2).
+
+Author information: 
+(1)Graduate School of Interdisciplinary Science and Engineering in Health
+Systems, Okayama University, 3-1-1 Tsushima-naka, Kita-ku, Okayama, 700-8530,
+Japan. hayaka-t@cc.okayama-u.ac.jp.
+(2)Graduate School of Interdisciplinary Science and Engineering in Health
+Systems, Okayama University, 3-1-1 Tsushima-naka, Kita-ku, Okayama, 700-8530,
+Japan.
+
+Cry46Ab from Bacillus thuringiensis TK-E6 is a new mosquitocidal toxin with an
+aerolysin-type architecture, and it is expected to be used as a novel
+bioinsecticide. Cry46Ab acts as a functional pore-forming toxin, and
+characteristics of the resulting channel pores, including ion selectivity, have
+been analyzed. However, the relationship between channel-pore ion selectivity and
+insecticidal activity remains to be elucidated. To clarify the effects of charged
+amino acid residues on the ion permeability of channel-pores and the resulting
+insecticidal activity, in the present study, we constructed Cry46Ab mutants in
+which a charged amino acid residue within a putative transmembrane β-hairpin
+region was replaced with an oppositely charged residue. Bioassays using Culex
+pipiens mosquito larvae revealed that the mosquitocidal activity was altered by
+the mutation. A K155E Cry46Ab mutant exhibited toxicity apparently higher than
+that of wild-type Cry46Ab, but the E159K and E163K mutants exhibited decreased
+toxicity. Ions selectivity measurements demonstrated that the channel pores
+formed by both wild-type and mutant Cry46Abs were cation selective, and their
+cation preference was also similar. However, the degree of cation selectivity was
+apparently higher in channel pores formed by the K155E mutant, and reduced
+selectivity was observed with the E159K and E163K mutants. Our data suggest that 
+channel-pore cation selectivity is a major determinant of Cry46Ab mosquitocidal
+activity and that cation selectivity can be controlled via mutagenesis targeting 
+the transmembrane β-hairpin region. KEY POINTS: • Cry46Ab mutants were
+constructed by targeting the putative transmembrane β-hairpin region. • Charged
+residues within the β-hairpin control the flux of ions through channel pores. •
+Channel-pore cation selectivity is correlated with insecticidal activity.
+
+DOI: 10.1007/s00253-020-10893-5 
+PMID: 32915257 
+

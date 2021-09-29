@@ -1,0 +1,61 @@
+
+1. Microorganisms. 2019 Oct 22;7(10). pii: E477. doi: 10.3390/microorganisms7100477.
+
+Taking Advantage of Bacterial Adaptation in Order to Optimize Industrial
+Production of Dry Propionibacterium freudenreichii.
+
+Gaucher F(1)(2), Gagnaire V(3), Rabah H(4)(5), Maillard MB(6), Bonnassie S(7)(8),
+Pottier S(9), Marchand P(10), Jan G(11), Blanc P(12), Jeantet R(13).
+
+Author information: 
+(1)UMR STLO, Agrocampus Ouest, INRA, F-35042 Rennes, France.
+floriane.gaucher@inra.fr.
+(2)Bioprox, 6 rue Barbès, 92532 Levallois-Perret, France.
+floriane.gaucher@inra.fr.
+(3)UMR STLO, Agrocampus Ouest, INRA, F-35042 Rennes, France.
+valerie.gagnaire@inra.fr.
+(4)UMR STLO, Agrocampus Ouest, INRA, F-35042 Rennes, France.
+houyemrabah1990@gmail.com.
+(5)Bba, Pôle Agronomique Ouest, Régions Bretagne et Pays de la Loire, F-35042
+Rennes, France. houyemrabah1990@gmail.com.
+(6)UMR STLO, Agrocampus Ouest, INRA, F-35042 Rennes, France.
+marie-bernadette.maillard@inra.fr.
+(7)UMR STLO, Agrocampus Ouest, INRA, F-35042 Rennes, France.
+sylvie.bonnassie@univ-rennes1.fr.
+(8)Université de Rennes I, University Rennes, 35000 Rennes, France.
+sylvie.bonnassie@univ-rennes1.fr.
+(9)University Rennes, CNRS, ISCR-UMR 6226, PRISM, BIOSIT-UMS 3480, F-35000
+Rennes, France. sandrine.pottier@univ-rennes1.fr.
+(10)Bioprox, 6 rue Barbès, 92532 Levallois-Perret, France.
+p.marchand@bioprox.com.
+(11)UMR STLO, Agrocampus Ouest, INRA, F-35042 Rennes, France.
+gwenael.jan@inra.fr.
+(12)Bioprox, 6 rue Barbès, 92532 Levallois-Perret, France. p.blanc@bioprox.com.
+(13)UMR STLO, Agrocampus Ouest, INRA, F-35042 Rennes, France.
+romain.jeantet@agrocampus-ouest.fr.
+
+Propionibacterium freudenreichii is a beneficial bacterium, used both as a
+probiotic and as a cheese starter. Large-scale production of P. freudenreichii is
+required to meet growing consumers' demand. Production, drying and storage must
+be optimized, in order to guarantee high P. freudenreichii viability within
+powders. Compared to freeze-drying, spray drying constitutes the most productive 
+and efficient, yet the most stressful process, imposing severe oxidative and
+thermal constraints. The aim of our study was to provide the tools in order to
+optimize the industrial production of dry P. freudenreichii. Bacterial adaptation
+is a well-known protective mechanism and may be used to improve bacterial
+tolerance towards technological stresses. However, the choice of bacterial
+adaptation type must consider industrial constraints. In this study, we combined 
+(i) modulation of the growth medium composition, (ii) heat-adaptation, and (iii) 
+osmoadaptation, in order to increase P. freudenreichii tolerance towards
+technological stresses, including thermal and oxidative constraints, using an
+experimental design. We further investigated optimal growth and adaptation
+conditions, by monitoring intracellular compatible solutes accumulation. Glucose 
+addition, coupled to heat-adaptation, triggered accumulation of trehalose and of 
+glycine betaine, which further provided high tolerance towards spray drying and
+storage. This work opens new perspectives for high quality and fast production of
+live propionibacteria at the industrial scale.
+
+DOI: 10.3390/microorganisms7100477 
+PMCID: PMC6843336
+PMID: 31652621 
+

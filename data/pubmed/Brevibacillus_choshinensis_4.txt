@@ -1,0 +1,47 @@
+
+1. Protein J. 2020 Feb;39(1):46-53. doi: 10.1007/s10930-019-09874-z.
+
+Expression, Folding, and Activation of Halophilic Alkaline Phosphatase in
+Non-Halophilic Brevibacillus choshinensis.
+
+Laksmi FA(1), Imamura H(2), Tsurumaru H(1)(2), Nakamura Y(1), Hanagata H(3), Arai
+S(4), Tokunaga M(1)(2), Ishibashi M(5)(6).
+
+Author information: 
+(1)The United Graduate School of Agricultural Sciences, Kagoshima University,
+1-21-24 Korimoto, Kagoshima, 890-0065, Japan.
+(2)Faculty of Agriculture, Kagoshima University, 1-21-24 Korimoto, Kagoshima,
+890-0065, Japan.
+(3)R & D Department, Higeta Shoyu Co., Ltd, 2-8 Chuo-cho, Choshi, Chiba,
+288-8680, Japan.
+(4)Institute for Quantum Life Science, National Institutes for Quantum and
+Radiological Science and Technology, 2-4 Shirakata, Tokai, Ibaraki, 319-1106,
+Japan.
+(5)The United Graduate School of Agricultural Sciences, Kagoshima University,
+1-21-24 Korimoto, Kagoshima, 890-0065, Japan. k6038120@kadai.jp.
+(6)Faculty of Agriculture, Kagoshima University, 1-21-24 Korimoto, Kagoshima,
+890-0065, Japan. k6038120@kadai.jp.
+
+Halophilic enzymes contain a large number of acidic amino acids and marginal
+large hydrophobic amino acids, which make them highly soluble even under strongly
+hydrophobic conditions. This characteristic of halophilic enzymes provides
+potential for their industrial application. However, halophilic enzymes easily
+degrade when used for industrial applications compared with enzymes from other
+extremophiles because of their instability in low-salt environments. We aimed to 
+clarify the stabilization mechanism of halophilic enzymes. We previously
+attempted to express halophilic alkaline phosphatase from Halomonas (HaALP) in
+non-halophilic E. coli. However, the expressed HaALP showed little activity.
+Therefore, we overexpressed HaALP in Gram-positive non-halophilic Brevibacillus
+choshinensis in this study, which was successfully expressed and purified in its 
+active form. HaALP was denatured in 6 M urea, refolded using various salts and
+the non-ionic osmolyte trimethylamine N-oxide (TMAO), and assessed by native
+polyacrylamide gel electrophoresis. HaALP refolded in 3 M NaCl or 3 M TMAO
+containing Na+ ions. Hydrophobic interactions due to a high salt concentration or
+TMAO enhanced the formation of the folding intermediate (the monomer precursor), 
+and only Na+ ions activated the dimer form. This insight into the stabilization
+mechanism of HaALP may lead to the development of industrial applications of
+halophilic enzymes under low-salt conditions.
+
+DOI: 10.1007/s10930-019-09874-z 
+PMID: 31734848  [Indexed for MEDLINE]
+

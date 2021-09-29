@@ -1,0 +1,35 @@
+
+1. Microb Biotechnol. 2020 May;13(3):629-636. doi: 10.1111/1751-7915.13523. Epub
+2019 Dec 21.
+
+Bioengineered Escherichia coli Nissle 1917 for tumour-targeting therapy.
+
+Yu X(1), Lin C(2)(3), Yu J(3), Qi Q(2), Wang Q(2).
+
+Author information: 
+(1)School of Public Health and Management, Weifang Medical University, Weifang,
+261053, Shandong, China.
+(2)State Key Laboratory of Microbial Technology, National Glycoengineering
+Research Center, Shandong University, Qingdao, 266237, Shandong, China.
+(3)Affiliated Hospital of Shandong University of Traditional Chinese Medicine,
+Jinan, 250014, Shandong, China.
+
+Bacterial vectors, as microscopic living 'robotic factories', can be reprogrammed
+into microscopic living 'robotic factories', using a top-down bioengineering
+approach to produce and deliver anticancer agents. Most of the current research
+has focused on bacterial species such as Salmonella typhimurium or Clostridium
+novyi. However, Escherichia coli Nissle 1917 (EcN) is another promising candidate
+with probiotic properties. EcN offers increased applicability for cancer
+treatment with the development of new molecular biology and complete genome
+sequencing techniques. In this review, we discuss the genetics and physical
+properties of EcN. We also summarize and analyse recent studies regarding tumour 
+therapy mediated by EcN. Many challenges remain in the development of more
+promising strategies for combatting cancer with EcN.
+
+© 2019 The Authors. Microbial Biotechnology published by John Wiley & Sons Ltd
+and Society for Applied Microbiology.
+
+DOI: 10.1111/1751-7915.13523 
+PMCID: PMC7111071
+PMID: 31863567 
+

@@ -1,0 +1,48 @@
+
+1. Probiotics Antimicrob Proteins. 2020 May 9. doi: 10.1007/s12602-020-09657-4.
+[Epub ahead of print]
+
+Biodiversity and Phylogenetic Relationships of Novel Bacteriocinogenic Strains
+Isolated from Animal's Droppings at the Zoological Garden of Lille, France.
+
+Eveno M(1)(2), Salouhi A(1), Belguesmia Y(1), Bazinet L(2), Gancel F(1), Fliss
+I(2), Drider D(3)(4).
+
+Author information: 
+(1)UMR Transfrontalière BioEcoAgro N° 1158, Univ. Lille, INRAE, Univ. Liège,
+UPJV, YNCREA, Univ. Artois, Univ. Littoral Côte d'Opale, ICV - Institut Charles
+Viollette, F-59000, Lille, France.
+(2)Pavillon Paul-Comtois, Université Laval, 2425 Rue de l'Agriculture, Local
+1413, Québec, Canada.
+(3)Pavillon Paul-Comtois, Université Laval, 2425 Rue de l'Agriculture, Local
+1413, Québec, Canada. djamel.drider@univ-lille.fr.
+(4)Université de Lille, Cité Scientifique/Avenue Paul Langevin, Polytech-Lille,
+Bureau C315, 59655, Villeneuve d'Ascq, France. djamel.drider@univ-lille.fr.
+
+This study aimed at exploring droppings of animals living in captivity in the
+zoological garden (Zoo) of Lille (France), as novel sources of bacteriocinogenic 
+strains. A collection of 295 bacterial isolates was constituted from droppings of
+capybara, alpaca, muntjac, zebra, tapir, rhinoceros, binturong, armadillo, saki
+monkey and cockatoo. Of 295 isolates, 51 exhibited antagonism against a panel of 
+pathogenic target bacteria like Escherichia coli MC4100, Clostridium perfringens 
+DSM 756 and Salmonella enterica subsp. enterica Newport ATCC6962. Remarkably,
+within this collection, only 2 Gram-negative bacilli exhibited activity against
+E. coli MC4100 strain used as target organism. Then, the 16S rDNA sequencing
+revealed these thereafter cited species, Pediococcus pentosaceus, Weissella
+cibaria, E. coli, Lactobacillus reuteri, Enterococcus hirae and Enterococcus
+faecalis. Characterization of this antagonism has revealed 11 strains able
+producing extracellular protease-sensitive inhibitory compounds. These strains
+included E. coli ICVB442 and ICVB443, Ent. faecalis ICVB472, ICVB474, ICVB477
+ICVB479, ICVB481, ICVB497 and ICVB501 and Ped. pentosaceus ICVB491 and ICVB492.
+The genomes of the 5 most promising bacteriocinogenic strains were sequenced and 
+analysed with Bagel4 software. Afterwards, this bioinformatics analysis permitted
+to locate genes encoding bacteriocins like colicin Y (E. coli), enterocin 1071A, 
+enterocin 107 B (Ent. faecalis) and penocin A (Ped. pentosaceus), associating the
+above-mentioned antibacterial activity of proteinaceous nature to possible
+production of bacteriocins. All these results enabled us to select different
+bacteriocinogenic strains for a further characterization in terms of beneficial
+traits.
+
+DOI: 10.1007/s12602-020-09657-4 
+PMID: 32388703 
+

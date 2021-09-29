@@ -1,0 +1,36 @@
+
+1. Data Brief. 2020 May 22;31:105740. doi: 10.1016/j.dib.2020.105740. eCollection
+2020 Aug.
+
+Complete genome sequence data of Lactobacillus sakei MBEL1397 isolated from
+kimchi.
+
+Kwun SY(1), Yoon JA(1), Park EH(1), Kim MD(1)(2).
+
+Author information: 
+(1)Division of Food Biotechnology and Biosystems Engineering, Kangwon National
+University, Chuncheon 24341, Republic of Korea.
+(2)Institute of Fermentation and Brewing, Kangwon National University, Chuncheon 
+24341, Republic of Korea.
+
+Lactobacillus sakei MBEL1397(=KCTC14037BP) was isolated from kimchi, a
+traditional Korean fermented food, in Gangwon province, Republic of Korea.
+MBEL1397 is an acid-tolerant strain with antimicrobial activity and α-glucosidase
+inhibitory activity, which might be preliminary indications of its probiotic
+properties. Complete genome sequencing of L. sakei MBEL1397 was performed using
+the PacBio RSII platform. MBEL1397 has a 1,994,569 bp circular chromosome with
+41.04% G+C content. The genome includes 1,946 protein-coding genes, 66 transfer
+RNA genes, and 21 ribosomal RNA genes. The BioProject has been deposited at
+DDBJ/EMBL/GenBank. The GenBank accession numbers are PRJNA598112 for the
+BioProject, SAMN13698554 for the BioSample, and CP048116 for the chromosome.
+
+© 2020 Published by Elsevier Inc.
+
+DOI: 10.1016/j.dib.2020.105740 
+PMCID: PMC7260432
+PMID: 32490093 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships which have, or could be
+perceived to have, influenced the work reported in this article.
+

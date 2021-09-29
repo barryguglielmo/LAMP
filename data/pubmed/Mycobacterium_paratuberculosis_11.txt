@@ -1,0 +1,38 @@
+
+1. Brief Bioinform. 2020 Sep 8. pii: bbaa195. doi: 10.1093/bib/bbaa195. [Epub ahead 
+of print]
+
+Discerning novel drug targets for treating Mycobacterium avium ss.
+paratuberculosis-associated autoimmune disorders: an in silico approach.
+
+Garg A, Singhal N, Kumar M.
+
+Mycobacterium avium subspecies paratuberculosis (MAP) exhibits 'molecular
+mimicry' with the human host resulting in several autoimmune diseases such as
+multiple sclerosis, type 1 diabetes mellitus (T1DM), Hashimoto's thyroiditis,
+Crohn's disease (CD), etc. The conventional therapy for autoimmune diseases
+includes immunosuppressants or immunomodulators that treat the symptoms rather
+than the etiology and/or causative mechanism(s). Eliminating MAP-the
+etiopathological agent might be a better strategy to treat MAP-associated
+autoimmune diseases. In this case study, we conducted a systematic in silico
+analysis to identify the metabolic chokepoints of MAP's mimicry proteins and
+their interacting partners. The probable inhibitors of chokepoint proteins were
+identified using DrugBank. DrugBank molecules were stringently screened and
+molecular interactions were analyzed by molecular docking and 'off-target'
+binding. Thus, we identified 18 metabolic chokepoints of MAP mimicry proteins and
+13 DrugBank molecules that could inhibit three chokepoint proteins viz. katG,
+rpoB and narH. On the basis of molecular interaction between drug and target
+proteins finally eight DrugBank molecules, viz. DB00609, DB00951, DB00615,
+DB01220, DB08638, DB08226, DB08266 and DB07349 were selected and are proposed for
+treatment of three MAP-associated autoimmune diseases namely, T1DM, CD and
+multiple sclerosis. Because these molecules are either approved by the Food and
+Drug Administration or these are experimental drugs that can be easily
+incorporated in clinical studies or tested in vitro. The proposed strategy may be
+used to repurpose drugs to treat autoimmune diseases induced by other pathogens.
+
+© The Author(s) 2020. Published by Oxford University Press. All rights reserved. 
+For Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/bib/bbaa195 
+PMID: 32895696 
+

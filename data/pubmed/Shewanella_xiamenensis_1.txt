@@ -1,0 +1,49 @@
+
+1. Ci Ji Yi Xue Za Zhi. 2019 Jun 13;32(2):162-166. doi: 10.4103/tcmj.tcmj_69_19.
+eCollection 2020 Apr-Jun.
+
+Genomic investigation of emerging zoonotic pathogen Shewanella xiamenensis.
+
+Wang JH(1)(2), Tseng SY(3), Tung KC(3).
+
+Author information: 
+(1)Division of Infectious Disease, Department of Internal Medicine, Taichung Tzu 
+Chi Hospital, Buddhist Tzu Chi Medical Foundation, Taichung, Taiwan.
+(2)Department of Internal Medicine, School of Medicine, Tzu Chi University,
+Hualien, Taiwan.
+(3)Department of Veterinary Medicine, National Chung Hsing University, Taichung, 
+Taiwan.
+
+Objective: Shewanella xiamenensis is an emerging zoonotic pathogen commonly found
+in aquatic ecosystem. Clustered regularly interspaced short palindromic repeats
+(CRISPR) and (CRISPR)-associated gene systems act as adaptive immune system of
+prokaryotes. Recently, growing evidence suggested their role in bacterial
+virulence and resistance. Despite its medical importance, little is known about
+the genomic characteristics of S. xiamenensis.
+Materials and Methods: Strain ZYW6 was isolated from Epinephelus awoara. We
+sequenced the 16S rRNA gene and blast against the GenBank bacterial database.
+Antibiotic susceptibility tests and interpretation were performed by automatic
+VITEK 2 system. We extracted the genomic DNA with QIAGEN Genomic-tip 100/G kit
+and QIAGEN Genomic DNA Buffer Set. Whole-genome shotgun sequencing was performed 
+using the Illumina MiSeq sequencer. To identify the CRISPR-Cas System in the
+genome of S. xiamenensis ZYW6, the Integrated Microbial Genomes and Microbiomes
+and CRISPRFinder were used.
+Results: We characterized the genome of a S. xiamenensis strain. The genome is
+4,765,190 bp in length and encodes 4262 open-reading frames. Type I CRISPR-Cas
+system and serine biosynthesis genes were identified.
+Conclusion: Our results demonstrate the genetic structure of CRISPR-Cas system,
+l-serine synthesis, and oxacillinase in S. xiamenensis. The report of antibiotics
+resistance genes in the study might indicate a possible reservoir of
+antimicrobial drug resistance determinants in food animal, resulting in potential
+infection source. The findings provide insights into the structure and
+composition of CRISPR-Cas system in S. xiamenensis and foundation for future
+biological validation.
+
+Copyright: © 2019 Tzu Chi Medical Journal.
+
+DOI: 10.4103/tcmj.tcmj_69_19 
+PMCID: PMC7137373
+PMID: 32269948 
+
+Conflict of interest statement: There are no conflicts of interest.
+

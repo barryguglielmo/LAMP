@@ -1,0 +1,41 @@
+
+1. Physiol Rep. 2020 Sep;8(18):e14492. doi: 10.14814/phy2.14492.
+
+Role of Claudins in Renal Branching Morphogenesis.
+
+El Andalousi J(1), Khairallah H(2), Zhuang Y(2), Ryan AK(2)(3), Gupta IR(2)(3).
+
+Author information: 
+(1)Research Institute of McGill University Health Centre, Montreal Children's
+Hospital, Montréal, Québec, Canada.
+(2)Department of Human Genetics, McGill University, Montréal, Québec, Canada.
+(3)Department of Pediatrics, Montreal Children's Hospital, McGill University,
+Montréal, Québec, Canada.
+
+Claudins are a family of tight junction proteins that are expressed during mouse 
+kidney development. They regulate paracellular transport of solutes along the
+nephron and contribute to the final composition of the urinary filtrate. To
+understand their roles during development, we used a protein reagent, a truncated
+version of the Clostridium perfringens enterotoxin (C-CPE), to specifically
+remove a subset of claudin family members from mouse embryonic kidney explants at
+embryonic day 12. We observed that treatment with C-CPE decreased the number and 
+the complexity of ureteric bud tips that formed: there were more single and less 
+bifid ureteric bud tips when compared to control-treated explants. In addition,
+C-CPE-treated explants exhibited ureteric bud tips with larger lumens when
+compared to control explants (p < .05). Immunofluorescent analysis revealed
+decreased expression and localization of Claudin-3, -4, -6, and -8 to tight
+junctions of ureteric bud tips following treatment with C-CPE. Interestingly,
+Claudin-7 showed higher expression in the basolateral membrane of the ureteric
+bud lineage and poor localization to the tight junctions of the ureteric bud
+lineage both in controls and in C-CPE-treated explants. Taken together, it
+appears that claudin proteins may play a role in ureteric bud branching
+morphogenesis through changes in lumen formation that may affect the efficiency
+by which ureteric buds emerge and branch.
+
+© 2020 The Authors. Physiological Reports published by Wiley Periodicals LLC on
+behalf of The Physiological Society and the American Physiological Society.
+
+DOI: 10.14814/phy2.14492 
+PMCID: PMC7518295
+PMID: 32975899 
+

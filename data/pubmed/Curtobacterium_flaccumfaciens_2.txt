@@ -1,0 +1,28 @@
+
+1. Phytopathology. 2020 Jul 2. doi: 10.1094/PHYTO-04-20-0131-A. [Epub ahead of
+print]
+
+Complete genome sequence resource of a strain of Curtobacterium flaccumfaciens
+pv. flaccumfaciens, the causal agent of bacterial wilt of common bean, from
+Turkey.
+
+O'Leary M(1), Gilbertson R(2).
+
+Author information: 
+(1)USDA-ARS San Joaquin Valley Agricultural Sciences Center, 57733, 9611 S.
+Riverbend Ave, Parlier, California, United States, 93648-9757;
+michael.oleary@usda.gov.
+(2)University of California, Davis, Department of Plant Pathology, 1 Shields Ave,
+Davis, California, United States, 95616; rlgilbertson@ucdavis.edu.
+
+Curtobacterium flaccumfaciens pv. flaccumfaciens (Cff) is the causal agent of
+bacterial wilt of common bean (Phaseolus vulgaris), a disease that can reduce
+yields of this economically important crop worldwide. Current genomics resources 
+for this important bacterial pathogen are limited. Therefore, long-read
+sequencing was used to determine the complete genome sequence of a pathogenic Cff
+strain isolated from common bean leaves showing irregular necrotic lesions with
+yellow borders collected in a commercial field in Turkey in 2015.
+
+DOI: 10.1094/PHYTO-04-20-0131-A 
+PMID: 32613911 
+

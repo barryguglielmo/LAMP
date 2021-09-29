@@ -1,0 +1,37 @@
+
+1. Int J Syst Evol Microbiol. 2020 Sep 30. doi: 10.1099/ijsem.0.004485. [Epub ahead 
+of print]
+
+Pseudomonas xionganensis sp. nov., isolated from Baiyangdian Lake in Xiong'an New
+Area.
+
+Zhao Y(1)(2), Yang Y(3), He F(1)(2), Wang C(1), Feng J(1), Zhang X(2).
+
+Author information: 
+(1)State Key Laboratory of Microbial Resources, Institute of Microbiology,
+Chinese Academy of Sciences, Beijing, PR China.
+(2)College of Life Science, Institute of Life Science and Green Development,
+Hebei University; Key Laboratory of Microbial Diversity Research and Application 
+of Hebei Province; Engineering Laboratory of Microbial Breeding and Preservation,
+Baoding, PR China.
+(3)School of Life Sciences, Zhengzhou University, Zhengzhou, PR China.
+
+An aerobic, Gram-stain-negative, rod-shaped bacterium, designated as strain
+R-22-3 w-18T, was isolated from Baiyangdian Lake in Xiong'an New Area, PR China. 
+Growth was observed at 15-37 °C (optimum, 30 °C) and pH 7.0-10.0 (optimum, pH
+8.0). 16S rRNA gene sequence analysis placed the strain in a separate branch in
+the Pseudomonas putida group, with Pseudomonas anguilliseptica DSM12111T as its
+closest phylogenetic relative (98.2 %). Whole-genome comparisons, using average
+nucleotide identity (ANI), average amino acid identity (AAI) and digital DNA-DNA 
+hybridization (dDDH) analyses, confirmed low genome relatedness to the closely
+related Pseudomonas species [below the recommended thresholds of 95 % (ANI), 95 %
+(AAI) and 70 % (DDH) for species delineation]. Phenotypic characterization tests 
+could also distinguish this strain from other related species of the genus
+Pseudomonas. Therefore, based on genetic and phenotypic evidence, it is clear
+that strain R-22-3 w-18T represents a novel species of the genus Pseudomonas, for
+which the name Pseudomonas xionganensis sp. nov. is proposed. The type strain is 
+R-22-3 w-18T (=CGMCC 1.17250T=KCTC 72658T).
+
+DOI: 10.1099/ijsem.0.004485 
+PMID: 32996879 
+

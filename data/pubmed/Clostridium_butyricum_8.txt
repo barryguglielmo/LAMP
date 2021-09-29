@@ -1,0 +1,55 @@
+
+1. Int Immunopharmacol. 2020 Aug 6;88:106862. doi: 10.1016/j.intimp.2020.106862.
+[Epub ahead of print]
+
+Clostridium butyricum modulates gut microbiota and reduces colitis associated
+colon cancer in mice.
+
+Liu M(1), Xie W(2), Wan X(1), Deng T(3).
+
+Author information: 
+(1)Department of Gastroenterology, Renmin Hospital of Wuhan University, Wuhan,
+Hubei Province 430060, China; Key Laboratory of Hubei Province for Digestive
+System Disease, Wuhan, Hubei Province 430060, China; Central Laboratory of Renmin
+Hospital, Wuhan, Hubei Province 430060, China.
+(2)Department of Critical Care Medicine, Renmin Hospital of Wuhan University,
+Wuhan, Hubei 430060, China; Central Laboratory of Renmin Hospital, Wuhan, Hubei
+Province 430060, China.
+(3)Department of Gastroenterology, Renmin Hospital of Wuhan University, Wuhan,
+Hubei Province 430060, China; Key Laboratory of Hubei Province for Digestive
+System Disease, Wuhan, Hubei Province 430060, China; Central Laboratory of Renmin
+Hospital, Wuhan, Hubei Province 430060, China. Electronic address:
+dt641120@163.com.
+
+We investigate the effects of Clostridium butyricum(CB) on gut microbiota and
+colitis associated colon cancer(CAC) in mice.6-8 weeks old C57BL/6 mice were
+randomly divided into control, azoxymethane (AOM) + dextran sodium sulphate (DSS)
+and AOM + DSS + CB groups. Mice in the latter two groups received an
+intraperitoneal injection of AOM (12.5 mg/kg), followed by three cycles of DSS
+diluted in water (2.5% w/v). Mice in treatment group received CB (2 × 108 CFU in 
+200 ul normal saline) by gavage administration three times one week. Microbiota
+composition was assessed by 16S rRNA high-throughput sequencing. Colon samples
+were collected to examine severity of colitis and tumorigenesis. Cytokines
+including TNF-a, IL-6 and Cyclo-oxygenase-2 (COX-2) were detected by RT-qPCR.
+Expression of Bcl-2, Bax and the state of components of NF-κB signaling pathway
+were detected by western blot. The results revealed that CB regulated structure
+of intestinal flora and changed the microbial composition; decreased Firmicutes/ 
+Bacteroidetes ratio in phylum level and increased the relative abundance of
+probiotics; decreased colitis, decreased incidence and size of colorectal
+cancer(CRC) and increased apoptosis of tumor cells; decreased cytokines including
+TNF-a and IL-6; decreased level of COX-2; decreased phosphorylation of NF-κB;
+decreased level of Bcl-2 and increased expression of Bax. In conclusion, CB could
+regulate structure and composition of gut microbiota and reduces colitis
+associated colon cancer in mice, the mechanism may be inhibiting NF-κB pathway
+and promoting apoptosis.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.intimp.2020.106862 
+PMID: 32771947 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

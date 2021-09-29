@@ -1,0 +1,48 @@
+
+1. Environ Pollut. 2020 Sep;264:114637. doi: 10.1016/j.envpol.2020.114637. Epub 2020
+Apr 27.
+
+Biochemical and genetic basis of cadmium biosorption by Enterobacter ludwigii
+LY6, isolated from industrial contaminated soil.
+
+Wang Q(1), Li Q(2), Lin Y(1), Hou Y(1), Deng Z(1), Liu W(3), Wang H(1), Xia Z(4).
+
+Author information: 
+(1)Biotechnology and Nuclear Technology Research Institute, Sichuan Academy of
+Agricultural Sciences, Chengdu, 610061, Sichuan, China.
+(2)Key Laboratory of Coarse Cereal Processing, Ministry of Agriculture and Rural 
+Affairs, College of Pharmacy and Biological Engineering, Chengdu University,
+Chengdu, 610106, Sichuan, China.
+(3)Sichuan Lanyue Science and Technology Co., Ltd., Chengdu, 610207, Sichuan,
+China.
+(4)Biotechnology and Nuclear Technology Research Institute, Sichuan Academy of
+Agricultural Sciences, Chengdu, 610061, Sichuan, China. Electronic address:
+405598697@qq.com.
+
+In this study, a cadmium-tolerant bacterium, Enterobacter ludwigii LY6, was
+isolated from cadmium-contaminated soil in Shifang, Sichuan province, China. The 
+cadmium chloride removal rate of the strain LY6 with a treatment of 100 mg/L
+cadmium chloride reached 56.0%. Scanning electron microscopy showed that
+exopolysaccharides (EPS) might be the main means of cadmium adsorption by the
+strain. X-ray powder diffraction (XRD) and energy-dispersive X-ray spectroscopy
+(EDS) analyses indicated that cadmium sulfide nanoparticles formed on the surface
+of bacteria cultured in a medium containing 100 mg/L cadmium chloride. In
+addition, the expression of several genes increased with the increase of the
+cadmium concentration in the medium, including the multiple antibiotic resistance
+proteins marA and marR, and the cold shock protein CspA. GO functions, such as
+the redox activity, respiratory chain and transport functions, and KEGG pathways 
+involved in "bacterial chemotaxis" and "terpenoid backbone biosynthesis" were
+found to be closely related to bacterial cadmium tolerance and biosorption. This 
+is the first report that E. ludwigii can reduce sulfate to form cadmium sulfide
+nanoparticles under high concentration cadmium exposure. The genes related to
+cadmium tolerance identified in this study lay a foundation for the genetic
+breeding of cadmium-tolerant strains.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.envpol.2020.114637 
+PMID: 32380392  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no conflict of interest.
+

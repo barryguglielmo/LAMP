@@ -1,0 +1,70 @@
+
+1. Int J Syst Evol Microbiol. 2020 Apr;70(4):2782-2858. doi: 10.1099/ijsem.0.004107.
+Epub 2020 Apr 15.
+
+A taxonomic note on the genus Lactobacillus: Description of 23 novel genera,
+emended description of the genus Lactobacillus Beijerinck 1901, and union of
+Lactobacillaceae and Leuconostocaceae.
+
+Zheng J(1), Wittouck S(2), Salvetti E(3), Franz CMAP(4), Harris HMB(5),
+Mattarelli P(6), O'Toole PW(5), Pot B(7), Vandamme P(8), Walter J(9)(10),
+Watanabe K(11)(12), Wuyts S(2), Felis GE(3), Gänzle MG(13)(10), Lebeer S(2).
+
+Author information: 
+(1)Huazhong Agricultural University, State Key Laboratory of Agricultural
+Microbiology, Hubei Key Laboratory of Agricultural Bioinformatics, Wuhan, Hubei, 
+PR China.
+(2)Research Group Environmental Ecology and Applied Microbiology, Department of
+Bioscience Engineering, University of Antwerp, Antwerp, Belgium.
+(3)Dept. of Biotechnology, University of Verona, Verona, Italy.
+(4)Max Rubner-Institut, Department of Microbiology and Biotechnology, Kiel,
+Germany.
+(5)School of Microbiology & APC Microbiome Ireland, University College Cork, Co. 
+Cork, Ireland.
+(6)University of Bologna, Dept. of Agricultural and Food Sciences, Bologna,
+Italy.
+(7)Research Group of Industrial Microbiology and Food Biotechnology (IMDO), Vrije
+Universiteit Brussel, Brussels, Belgium.
+(8)Laboratory of Microbiology, Department of Biochemistry and Microbiology, Ghent
+University, Ghent, Belgium.
+(9)Department of Biological Sciences, University of Alberta, Edmonton, Canada.
+(10)Department of Agricultural, Food & Nutritional Science, University of
+Alberta, Edmonton, Canada.
+(11)Food Industry Research and Development Institute, Bioresource Collection and 
+Research Center, Hsinchu, Taiwan, ROC.
+(12)National Taiwan University, Dept. of Animal Science and Technology, Taipei,
+Taiwan, ROC.
+(13)Hubei University of Technology, College of Bioengineering and Food Science,
+Wuhan, Hubei, PR China.
+
+The genus Lactobacillus comprises 261 species (at March 2020) that are extremely 
+diverse at phenotypic, ecological and genotypic levels. This study evaluated the 
+taxonomy of Lactobacillaceae and Leuconostocaceae on the basis of whole genome
+sequences. Parameters that were evaluated included core genome phylogeny,
+(conserved) pairwise average amino acid identity, clade-specific signature genes,
+physiological criteria and the ecology of the organisms. Based on this polyphasic
+approach, we propose reclassification of the genus Lactobacillus into 25 genera
+including the emended genus Lactobacillus, which includes host-adapted organisms 
+that have been referred to as the Lactobacillus delbrueckii group,
+Paralactobacillus and 23 novel genera for which the names Holzapfelia,
+Amylolactobacillus, Bombilactobacillus, Companilactobacillus,
+Lapidilactobacillus, Agrilactobacillus, Schleiferilactobacillus,
+Loigolactobacilus, Lacticaseibacillus, Latilactobacillus, Dellaglioa,
+Liquorilactobacillus, Ligilactobacillus, Lactiplantibacillus,
+Furfurilactobacillus, Paucilactobacillus, Limosilactobacillus,
+Fructilactobacillus, Acetilactobacillus, Apilactobacillus, Levilactobacillus,
+Secundilactobacillus and Lentilactobacillus are proposed. We also propose to
+emend the description of the family Lactobacillaceae to include all genera that
+were previously included in families Lactobacillaceae and Leuconostocaceae. The
+generic term 'lactobacilli' will remain useful to designate all organisms that
+were classified as Lactobacillaceae until 2020. This reclassification reflects
+the phylogenetic position of the micro-organisms, and groups lactobacilli into
+robust clades with shared ecological and metabolic properties, as exemplified for
+the emended genus Lactobacillus encompassing species adapted to vertebrates (such
+as Lactobacillus delbrueckii, Lactobacillus iners, Lactobacillus crispatus,
+Lactobacillus jensensii, Lactobacillus johnsonii and Lactobacillus acidophilus)
+or invertebrates (such as Lactobacillus apis and Lactobacillus bombicola).
+
+DOI: 10.1099/ijsem.0.004107 
+PMID: 32293557  [Indexed for MEDLINE]
+

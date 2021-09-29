@@ -1,0 +1,38 @@
+
+1. Environ Microbiol Rep. 2019 Dec;11(6):835-839. doi: 10.1111/1758-2229.12803. Epub
+2019 Nov 14.
+
+Interspecies interactions reduce selection for a biofilm-optimized variant in a
+four-species biofilm model.
+
+Røder HL(1), Liu W(2), Sørensen SJ(1), Madsen JS(1), Burmølle M(1).
+
+Author information: 
+(1)Section of Microbiology, Department of Biology, University of Copenhagen,
+Copenhagen, Denmark.
+(2)School of Food and Pharmaceutical Engineering, Nanjing Normal University,
+Nanjing, China.
+
+Multispecies biofilms are structured and spatially defined communities, where
+interspecies interactions impact assembly and functionality. Here, we compared
+the spatial organization and growth of bacterial cells in differently composed
+biofilm communities over time to determine links between interspecies
+interactions and selection for biofilm phenotypes of individual species. An
+established model community consisting of Stenotrophomonas rhizophila,
+Xanthomonas retroflexus, Microbacterium oxydans and Paenibacillus amylolyticus
+was used. It was found that interspecies interactions led to varying levels of
+selection for a new colony phenotype of X. retroflexus, depending on the
+presence/absence of other species. When M. oxydans was absent, X. retroflexus was
+not able to establish in the top layers of the biofilm, which led to selection
+for a hyper-matrix forming phenotype of X. retroflexus that successfully
+established in the biofilm top layers. No such phenotypic X. retroflexus variants
+were identified in the presence of M. oxydans. These findings indicate that
+interspecies interactions may lead to favourable localization of individual
+species in a multispecies biofilm and thereby reduce selection for competitive
+phenotypes.
+
+© 2019 Society for Applied Microbiology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/1758-2229.12803 
+PMID: 31680421  [Indexed for MEDLINE]
+

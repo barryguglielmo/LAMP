@@ -1,0 +1,42 @@
+
+1. Metabolites. 2020 Jul 17;10(7). pii: E293. doi: 10.3390/metabo10070293.
+
+An NMR Metabolomics Approach to Investigate Factors Affecting the Yoghurt
+Fermentation Process and Quality.
+
+Trimigno A(1), Bøge Lyndgaard C(2), Atladóttir GA(2), Aru V(1), Balling Engelsen 
+S(1), Harder Clemmensen LK(2).
+
+Author information: 
+(1)Chemometrics and Analytical Technology Section, Department of Food Science,
+University of Copenhagen, Rolighedsvej 26, 1958 Frederiksberg C, Denmark.
+(2)DTU COMPUTE, Department of Applied Mathematics and Computer Science, Technical
+University of Denmark, Richard Petersens Plads, 2800 Kgs. Lyngby, Denmark.
+
+A great number of factors can influence milk fermentation for yoghurt production 
+such as fermentation conditions, starter cultures and milk characteristics. It is
+important for dairy companies to know the best combinations of these parameters
+for a controlled fermentation and for the desired qualities of yoghurt. This
+study investigates the use of a 1H-NMR metabolomics approach to monitor the
+changes in milk during fermentation from time 0 to 24 h, taking samples every
+hour in the first 8 h and then at the end-point at 24 h. Three different starter 
+cultures (L. delbrueckii ssp. bulgaricus, S. thermophilus and their combination) 
+were used and two different heat treatments (99 or 105 °C) were applied to milk. 
+The results clearly show the breakdown of proteins and lactose as well as the
+concomitant increase in acetate, lactate and citrate during fermentation. Formate
+is found at different initial concentrations depending on the heat treatment of
+the milk and its different time trajectory depends on the starter cultures:
+Lactobacillus cannot produce formate, but needs it for growth, whilst
+Streptococcus is able to produce formate from pyruvate, therefore promoting the
+symbiotic relationship between the two strains. On the other hand, Lactobacillus 
+can hydrolyze milk proteins into amino acids, enriching the quality of the final 
+product. In this way, better insight into the protocooperation of lactic acid
+bacteria strains and information on the impact of a greater heat treatment in the
+initial matrix were obtained. The global chemical view on the fermentations
+provided using NMR is key information for yoghurt producers and companies
+producing starter cultures.
+
+DOI: 10.3390/metabo10070293 
+PMCID: PMC7408429
+PMID: 32709034 
+

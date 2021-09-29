@@ -1,0 +1,37 @@
+
+1. Int J Mol Sci. 2019 Dec 11;20(24). pii: E6244. doi: 10.3390/ijms20246244.
+
+Cloning and Partial Characterization of an Endo-α-(1→6)-d-Mannanase Gene from
+Bacillus circulans.
+
+Angala SK(1), Li W(1), Palčeková Z(1), Zou L(2), Lowary TL(2), McNeil MR(1),
+Jackson M(1).
+
+Author information: 
+(1)Mycobacteria Research Laboratories, Department of Microbiology, Immunology and
+Pathology, Colorado State University, Fort Collins, CO 80523-1682, USA.
+(2)Department of Chemistry, The University of Alberta, Edmonton, AB T6G 2G2,
+Canada.
+
+Mycobacteria produce two major lipoglycans, lipomannan (LM) and lipoarabinomannan
+(LAM), whose broad array of biological activities are tightly related to the fine
+details of their structure. However, the heterogeneity of these molecules in
+terms of internal and terminal covalent modifications and complex internal
+branching patterns represent significant obstacles to their structural
+characterization. Previously, an endo-α-(1→6)-D-mannanase from Bacillus circulans
+proved useful in cleaving the mannan backbone of LM and LAM, allowing the
+reducing end of these molecules to be identified as Manp-(1→6) [Manp-(1→2)]-Ino. 
+Although first reported 45 years ago, no easily accessible form of this enzyme
+was available to the research community, a fact that may in part be explained by 
+a lack of knowledge of its complete gene sequence. Here, we report on the
+successful cloning of the complete endo-α-(1→6)-D-mannanase gene from Bacillus
+circulans TN-31, herein referred to as emn. We further report on the successful
+production and purification of the glycosyl hydrolase domain of this enzyme and
+its use to gain further insight into its substrate specificity using synthetic
+mannoside acceptors as well as LM and phosphatidyl-myo-inositol mannoside
+precursors purified from mycobacteria.
+
+DOI: 10.3390/ijms20246244 
+PMCID: PMC6940960
+PMID: 31835712  [Indexed for MEDLINE]
+

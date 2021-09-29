@@ -1,0 +1,60 @@
+
+1. Parasit Vectors. 2020 Sep 14;13(1):469. doi: 10.1186/s13071-020-04344-3.
+
+Hopping species and borders: detection of Bartonella spp. in avian nest fleas and
+arctic foxes from Nunavut, Canada.
+
+Buhler KJ(1), Maggi RG(2), Gailius J(3), Galloway TD(4), Chilton NB(5),
+Alisauskas RT(5)(6), Samelius G(7), Bouchard É(3), Jenkins EJ(3).
+
+Author information: 
+(1)Department of Veterinary Microbiology, Western College of Veterinary Medicine,
+University of Saskatchewan, 52 Campus Drive, Saskatoon, SK, S7N 5B4, Canada.
+kab048@usask.ca.
+(2)Intracellular Pathogens Research Laboratory, College of Veterinary Medicine,
+North Carolina State University, 1060 William Moore Drive, Raleigh, NC, 27606,
+USA.
+(3)Department of Veterinary Microbiology, Western College of Veterinary Medicine,
+University of Saskatchewan, 52 Campus Drive, Saskatoon, SK, S7N 5B4, Canada.
+(4)Department of Entomology, Faculty of Agricultural and Food Sciences,
+University of Manitoba, 12 Dafoe Road, Winnipeg, MB, R3T 2N2, Canada.
+(5)Department of Biology, University of Saskatchewan, Science Place, Saskatoon,
+SK, S7N 5E2, Canada.
+(6)Prairie and Northern Wildlife Research Centre, Wildlife Research Division,
+Environment and Climate Change Canada, 115 Perimeter Road, Saskatoon, SK, S7N
+0X4, Canada.
+(7)Snow Leopard Trust, 4649 Sunnyside Ave North, Suite 325, Seattle, WA, 98103,
+USA.
+
+BACKGROUND: In a warmer and more globally connected Arctic, vector-borne
+pathogens of zoonotic importance may be increasing in prevalence in native
+wildlife. Recently, Bartonella henselae, the causative agent of cat scratch
+fever, was detected in blood collected from arctic foxes (Vulpes lagopus) that
+were captured and released in the large goose colony at Karrak Lake, Nunavut,
+Canada. This bacterium is generally associated with cats and cat fleas, which are
+absent from Arctic ecosystems. Arctic foxes in this region feed extensively on
+migratory geese, their eggs, and their goslings. Thus, we hypothesized that a
+nest flea, Ceratophyllus vagabundus vagabundus (Boheman, 1865), may serve as a
+vector for transmission of Bartonella spp.
+METHODS: We determined the prevalence of Bartonella spp. in (i) nest fleas
+collected from 5 arctic fox dens and (ii) 37 surrounding goose nests, (iii) fleas
+collected from 20 geese harvested during arrival at the nesting grounds and (iv) 
+blood clots from 57 adult live-captured arctic foxes. A subsample of fleas were
+identified morphologically as C. v. vagabundus. Remaining fleas were pooled for
+each nest, den, or host. DNA was extracted from flea pools and blood clots and
+analyzed with conventional and real-time polymerase chain reactions targeting the
+16S-23S rRNA intergenic transcribed spacer region.
+RESULTS: Bartonella henselae was identified in 43% of pooled flea samples from
+nests and 40% of pooled flea samples from fox dens. Bartonella vinsonii
+berkhoffii was identified in 30% of pooled flea samples collected from 20 geese. 
+Both B. vinsonii berkhoffii (n = 2) and B. rochalimae (n = 1) were identified in 
+the blood of foxes.
+CONCLUSIONS: We confirm that B. henselae, B. vinsonii berkhoffii and B.
+rochalimae circulate in the Karrak Lake ecosystem and that nest fleas contain B. 
+vinsonii and B. henselae DNA, suggesting that this flea may serve as a potential 
+vector for transmission among Arctic wildlife.
+
+DOI: 10.1186/s13071-020-04344-3 
+PMCID: PMC7490881
+PMID: 32928287 
+

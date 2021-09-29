@@ -1,0 +1,58 @@
+
+1. BMC Genomics. 2019 Nov 14;20(1):862. doi: 10.1186/s12864-019-6251-7.
+
+Changes of intestinal bacterial microbiota in coronary heart disease complicated 
+with nonalcoholic fatty liver disease.
+
+Zhang Y(1)(2), Xu J(1)(2)(3), Wang X(1)(2), Ren X(1)(2), Liu Y(4)(5).
+
+Author information: 
+(1)Department of Gastroenterology, Peking University People's Hospital, No.11
+Xizhimen South Street, Xicheng District, Beijing, People's Republic of China.
+(2)Clinical Center of Immune-Mediated Digestive Diseases, Peking University
+People's Hospital, No.11 Xizhimen South Street, Xicheng, Beijing, People's
+Republic of China.
+(3)Institute of Clinical Molecular Biology & Central Laboratory, Peking
+University People's Hospital, No.11 Xizhimen South Street, Xicheng District,
+Beijing, People's Republic of China.
+(4)Department of Gastroenterology, Peking University People's Hospital, No.11
+Xizhimen South Street, Xicheng District, Beijing, People's Republic of China.
+liuyulan@pkuph.edu.cn.
+(5)Clinical Center of Immune-Mediated Digestive Diseases, Peking University
+People's Hospital, No.11 Xizhimen South Street, Xicheng, Beijing, People's
+Republic of China. liuyulan@pkuph.edu.cn.
+
+BACKGROUND: Previous study reported that patients who suffered coronary heart
+disease (CHD) complicated with non-alcoholic fatty liver disease (NAFLD) had
+worse cardiac function and clinical outcomes than patients with CHD only.
+Notably, the mechanism is still unclear. This study aimed to investigate the
+changes and roles of intestinal bacterial microbiota in CHD-NAFLD patients.
+METHODS AND RESULTS: People were recruited and divided into three groups,
+including CHD patients (without NAFLD), CHD-NAFLD patients and healthy controls
+(HCs). Each group contained 24 people. Fecal samples and clinical information
+were carefully collected. The Illumina sequencing of 16S rRNA was applied to
+profile the overall structure of the fecal bacterial microbiota and the
+characteristics of the bacterial microbiota based on the Operational Taxonomic
+Units. In clinical information, the CHD-NAFLD patients showed an increase in BMI,
+uric acid and triglyceride. There was a significant reduction in the abundance of
+Parabacteroides and Collinsella in overall CHD patients (including CHD-NAFLD and 
+CHD patients). The intestinal bacterial microbiota in CHD-NAFLD patients showed
+an increase in the abundance of Copococcus and Veillonella, and a reduction in
+the abundance of Parabacteroides, Bacteroides fragilis, Ruminococcus gnavus,
+Bacteroides dorei, and Bifidobacterium longum subsp infantis. Among them, the
+abundance of Ruminococcus gnavus and Bacteroides dorei was significantly lower
+than that in CHD patients. Additionally, BMI positively correlated with the
+abundance of Copococcus and negatively correlated with the abundance of
+Bifidobacterium longum subsp infantis. The abundance of Veillonella positively
+correlated with AST. The abundance of Bacteroides dorei negatively correlated
+with ALT and AST. It indicates that the abundance of intestinal microbiota was
+related to the changes in clinical indexes.
+CONCLUSIONS: Changes of intestinal bacterial microbiota in CHD-NAFLD patients may
+be important factors affecting the degree of metabolic disorder, which may be one
+of the important reasons for the worse clinical outcome and disease progression
+in CHD-NAFLD patients than in CHD patients.
+
+DOI: 10.1186/s12864-019-6251-7 
+PMCID: PMC6857132
+PMID: 31726978  [Indexed for MEDLINE]
+

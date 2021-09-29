@@ -1,0 +1,42 @@
+
+1. Antimicrob Resist Infect Control. 2020 Sep 22;9(1):154. doi:
+10.1186/s13756-020-00820-8.
+
+A nosocomial cluster of vancomycin resistant enterococci among COVID-19 patients 
+in an intensive care unit.
+
+Kampmeier S(1), Tönnies H(2), Correa-Martinez CL(2), Mellmann A(2), Schwierzeck
+V(2).
+
+Author information: 
+(1)Institute of Hygiene, University Hospital Münster, Robert-Koch-Straße 41,
+48149, Münster, Germany. Stefanie.Kampmeier@ukmuenster.de.
+(2)Institute of Hygiene, University Hospital Münster, Robert-Koch-Straße 41,
+48149, Münster, Germany.
+
+BACKGROUND: Currently, hospitals have been forced to divert substantial resources
+to cope with the ongoing coronavirus disease 2019 (COVID-19) pandemic. It is
+unclear if this situation will affect long-standing infection prevention
+practices and impact on healthcare associated infections. Here, we report a
+nosocomial cluster of vancomycin-resistant enterococci (VRE) that occurred on a
+COVID-19 dedicated intensive care unit (ICU) despite intensified contact
+precautions during the current pandemic. Whole genome sequence-based typing (WGS)
+was used to investigate genetic relatedness of VRE isolates collected from
+COVID-19 and non-COVID-19 patients during the outbreak and to compare them to
+environmental VRE samples.
+METHODS: Five VRE isolated from patients (three clinical and two screening
+samples) as well as 11 VRE and six vancomycin susceptible Enterococcus faecium
+(E. faecium) samples from environmental sites underwent WGS during the outbreak
+investigation. Isolate relatedness was determined using core genome multilocus
+sequence typing (cgMLST).
+RESULTS: WGS revealed two genotypic distinct VRE clusters with genetically
+closely related patient and environmental isolates. The cluster was terminated by
+enhanced infection control bundle strategies.
+CONCLUSIONS: Our results illustrate the importance of continued adherence to
+infection prevention and control measures during the COVID-19 pandemic to prevent
+VRE transmission and healthcare associated infections.
+
+DOI: 10.1186/s13756-020-00820-8 
+PMCID: PMC7506805
+PMID: 32962759 
+

@@ -1,0 +1,46 @@
+
+1. Sheng Wu Gong Cheng Xue Bao. 2020 Aug 25;36(8):1546-1555. doi:
+10.13345/j.cjb.190498.
+
+[Characterization of a sucrose phosphorylase from Leuconostoc mesenterides for
+the synthesis of α-arbutin].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Li X(1)(2), Xia Y(1)(2), Shen W(1)(2), Yang H(1)(2), Cao Y(1)(2), Chen X(1)(2).
+
+Author information: 
+(1)School of Biotechnology, Jiangnan University, Wuxi 214122, Jiangsu, China.
+(2)Key Laboratory of Industrial Biotechnology, Ministry of Education, Wuxi
+214122, Jiangsu, China.
+
+Sucrose phosphorylase (SPase) gene from Leuconostoc mesenteroides ATCC 12291 was 
+synthesised after codon optimization, and inserted into pET-28a plasmid to
+generate pET-28a-spase. The recombinant strain Escherichia coli BL21
+(DE3)/pET-28a-spase was induced for Spase expression. The recombinant protein
+Spase was purified and characterized. The specific enzyme activity of SPase was
+213.98 U/mg, the purification ratio was 1.47-fold, and the enzyme activity
+recovery rate was 87.80%. The optimal temperature and the optimal pH of the SPase
+were identified to be 45 °C and 6.5 respectively, and Km, Vmax and kcat of the
+SPase for sucrose was 128.8 mmol/L, 2.167 μmol/(mL·min), and 39 237.86 min-1. The
+recombinant SPase was used for α-arbutin production from hydroquinone and the
+reaction process was evaluated. The optimal conditions for synthesis of α-arbutin
+by SPase were 40 g/L hydroquinone, 5:1 molar ratio of sucrose and hydroquinone,
+and 250 U/mL recombinant SPase at pH 7.0 and 30 °C for 24 h in the dark, and then
+500 U/mL glucoamylase was added at 40°C for 2.5 h. Under the optimized process,
+the yield of α-arbutin reached 98 g/L, and the hydroquinone conversion rate was
+close to 99%. In summary, the recombinant SPase was cloned and characterized, and
+its application for α-arbutin production was feasible.
+
+Publisher: 将来源于肠膜明串珠菌Leuconostoc mesenteroides ATCC 12291 的蔗糖磷酸化酶 (Sucrose
+phosphorylase, SPase) 基因进行密码子优化后将其插入到pET-28a
+中构建表达载体pET-28a-spase，诱导大肠杆菌Escherichia coli BL21(DE3)/pET-28a-spase 表达制得SPase
+粗酶液，将重组SPase 纯化后进行酶学表征。结果表明，重组SPase 的比酶活为213.98 U/mg，纯化倍数为1.47
+倍，酶活回收率达87.80%。该酶最适温度为45 ℃，最适pH 为6.5，该酶对蔗糖的Km 为128.8 mmol/L，Vmax 为2.167
+μmol/(mL·min)，kcat 为39 237.86 min-1，利用重组SPase 催化氢醌合成α-熊果苷，最优条件为：氢醌添加量为40
+g/L，蔗糖/氢醌的摩尔比为5:1，重组SPase 250 U/mL。在25 mmol/L的吗啉乙磺酸 (MES) 缓冲液 (pH 7.0) 中，反应温度30
+℃，避光反应24 h 后终止反应，再用500 U/mL 的糖化酶40 ℃处理2.5 h。α-熊果苷产量达98
+g/L，氢醌的转化率接近99%。综上所述，文中克隆并研究了重组SPase，并建立了其在α-熊果苷生产中的应用。.
+DOI: 10.13345/j.cjb.190498 
+PMID: 32924353 
+

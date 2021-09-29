@@ -1,0 +1,53 @@
+
+1. Prev Vet Med. 2020 Sep;182:105090. doi: 10.1016/j.prevetmed.2020.105090. Epub
+2020 Jul 12.
+
+A simulation study to investigate the added value in using differential somatic
+cell count as an additional indicator for udder health management in dairy herds.
+
+Gussmann M(1), Kirkeby C(2), Schwarz D(3), Farre M(4), Halasa T(2).
+
+Author information: 
+(1)Section of Animal Welfare and Disease Control, Department of Veterinary and
+Animal Sciences, Faculty of Health and Medical Sciences, Copenhagen University,
+Frederiksberg, Denmark. Electronic address: makg@sund.ku.dk.
+(2)Section of Animal Welfare and Disease Control, Department of Veterinary and
+Animal Sciences, Faculty of Health and Medical Sciences, Copenhagen University,
+Frederiksberg, Denmark.
+(3)FOSS Analytical A/S, Hillerød, Denmark.
+(4)SEGES Livestock Innovation, Aarhus, Denmark.
+
+Mastitis is one of the most costly diseases in dairy herds worldwide. Somatic
+cell count (SCC) is widely used as an indicator for subclinical intramammary
+infections (IMI) that may eventually cause mastitis in dairy herds. Differential 
+somatic cell count (DSCC) has recently been introduced as an additional indicator
+for IMI. The objective of this study was to investigate the value of using DSCC
+as an additional indicator to select cows for testing and subsequent intervention
+for subclinical mastitis during the lactation. We parameterized an existing
+bio-economic simulation model for dairy herds to include DSCC. Then, we simulated
+three Danish dairy cattle herd situations with different pathogen distributions
+where the main pathogens were 1) Staphylococcus aureus, 2) Streptococcus
+agalactiae, and 3) Streptococcus uberis. In these herds, we simulated two
+different selection strategies for testing (bacterial culture) for subclinical
+IMI and various intervention strategies for test positive cases. The first
+selection strategy considered only SCC; cows were selected for testing if they
+had a low SCC measurement followed by two high SCC measurements. In the second
+selection strategy, cows additionally had to have a high DSCC measurement.
+Results showed that both selection strategies led to a similar net income and to 
+a similar number of clinical and subclinical cases for all investigated
+intervention strategies. However, when using DSCC in the selection of animals,
+the number of treatment days and the number of cows culled in relation to IMI was
+reduced: The median annual number of treatment days was reduced by 25-38 days in 
+herd 1, by 25-42 days in herd 2, and by 30-48 days in herd 3, depending on the
+intervention strategy. The median annual number of cows culled in relation to IMI
+was reduced by up to 8 cows (10 cows in herd 3) for one of the intervention
+strategies. Subject to limitations associated with model assumptions, these
+results suggest that considering DSCC when selecting cows for testing can reduce 
+IMI related culling and the use of antibiotics without changing in-herd
+prevalence nor resulting in economic loss.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.prevetmed.2020.105090 
+PMID: 32717473 
+

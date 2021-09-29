@@ -1,0 +1,64 @@
+
+1. Microb Cell Fact. 2020 Mar 6;19(1):61. doi: 10.1186/s12934-020-01319-y.
+
+Metatranscriptomic analysis to define the Secrebiome, and 16S rRNA profiling of
+the gut microbiome in obesity and metabolic syndrome of Mexican children.
+
+Gallardo-Becerra L(1), Cornejo-Granados F(1), García-López R(1), Valdez-Lara
+A(1), Bikel S(1), Canizales-Quinteros S(2), López-Contreras BE(2), Mendoza-Vargas
+A(3), Nielsen H(4), Ochoa-Leyva A(5).
+
+Author information: 
+(1)Departamento de Microbiología Molecular, Instituto de Biotecnología,
+Universidad Nacional Autónoma de México, Avenida Universidad 2001, C.P. 62210,
+Cuernavaca, Morelos, Mexico.
+(2)Unidad de Genómica de Poblaciones Aplicada a la Salud, Facultad de Química,
+UNAM/Instituto Nacional de Medicina Genómica (INMEGEN), México City, Mexico.
+(3)Instituto Nacional de Medicina Genómica, Secretaría de Salud, México City,
+Mexico.
+(4)Section for Bioinformatics, Department of Health Technology, Technical
+University of Denmark, Kgs. Lyngby, Denmark.
+(5)Departamento de Microbiología Molecular, Instituto de Biotecnología,
+Universidad Nacional Autónoma de México, Avenida Universidad 2001, C.P. 62210,
+Cuernavaca, Morelos, Mexico. aochoa@ibt.unam.mx.
+
+BACKGROUND: In the last decade, increasing evidence has shown that changes in
+human gut microbiota are associated with diseases, such as obesity. The
+excreted/secreted proteins (secretome) of the gut microbiota affect the microbial
+composition, altering its colonization and persistence. Furthermore, it
+influences microbiota-host interactions by triggering inflammatory reactions and 
+modulating the host's immune response. The metatranscriptome is essential to
+elucidate which genes are expressed under diseases. In this regard, little is
+known about the expressed secretome in the microbiome. Here, we use a
+metatranscriptomic approach to delineate the secretome of the gut microbiome of
+Mexican children with normal weight (NW) obesity (O) and obesity with metabolic
+syndrome (OMS). Additionally, we performed the 16S rRNA profiling of the
+gut microbiota.
+RESULTS: Out of the 115,712 metatranscriptome genes that codified for proteins,
+30,024 (26%) were predicted to be secreted, constituting the Secrebiome of the
+gut microbiome. The 16S profiling confirmed an increased abundance in Firmicutes 
+and decreased in Bacteroidetes in the obesity groups, and a significantly higher 
+richness and diversity than the normal weight group. We found novel biomarkers
+for obesity with metabolic syndrome such as increased Coriobacteraceae,
+Collinsela, and Collinsella aerofaciens; Erysipelotrichaceae, Catenibacterium and
+Catenibacterium sp., and decreased Parabacteroides distasonis, which correlated
+with clinical and anthropometric parameters associated to obesity and metabolic
+syndrome. Related to the Secrebiome, 16 genes, homologous to F. prausniitzi, were
+overexpressed for the obese and 15 genes homologous to Bacteroides, were
+overexpressed in the obesity with metabolic syndrome. Furthermore, a significant 
+enrichment of CAZy enzymes was found in the Secrebiome. Additionally, significant
+differences in the antigenic density of the Secrebiome were found between normal 
+weight and obesity groups.
+CONCLUSIONS: These findings show, for the first time, the role of the Secrebiome 
+in the functional human-microbiota interaction. Our results highlight the
+importance of metatranscriptomics to provide novel information about the gut
+microbiome's functions that could help us understand the impact of the Secrebiome
+on the homeostasis of its human host. Furthermore, the metatranscriptome and 16S 
+profiling confirmed the importance of treating obesity and obesity with metabolic
+syndrome as separate conditions to better understand the interplay between
+microbiome and disease.
+
+DOI: 10.1186/s12934-020-01319-y 
+PMCID: PMC7060530
+PMID: 32143621  [Indexed for MEDLINE]
+

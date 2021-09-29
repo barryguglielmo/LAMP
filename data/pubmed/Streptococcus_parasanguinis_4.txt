@@ -1,0 +1,45 @@
+
+1. Front Microbiol. 2019 Dec 20;10:2910. doi: 10.3389/fmicb.2019.02910. eCollection 
+2019.
+
+Quantification of Human Oral and Fecal Streptococcus parasanguinis by Use of
+Quantitative Real-Time PCR Targeting the groEL Gene.
+
+Chen Q(1)(2), Wu G(2), Chen H(2), Li H(2), Li S(2), Zhang C(2), Pang X(2), Wang
+L(2), Zhao L(1)(2), Shen J(1).
+
+Author information: 
+(1)Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Center
+for Systems Biomedicine, Shanghai Jiao Tong University, Shanghai, China.
+(2)State Key Laboratory of Microbial Metabolism, School of Life Sciences and
+Biotechnology, Shanghai Jiao Tong University, Shanghai, China.
+
+Two pairs of species-specific PCR primers targeting the housekeeping groEL gene, 
+Spa146f-Spa525r and Spa93f-Spa525r, were designed to quantify human oral and
+fecal Streptococcus parasanguinis. Blast analysis against reference sequences of 
+NCBI nucleotide collection database and the Chaperonin Sequence Database showed
+the forward primers Spa146f and Spa93f 100% matched only with S. parasanguinis,
+and the in silico Simulated PCR algorithm showed both primer pairs hit only S.
+parasanguinis groEL gene in Chaperonin Sequence Database. The two primer pairs
+were respectively used to perform PCR with saliva DNA of each of 6 human
+subjects, and the amplicons of individual PCR reactions were cloned. The
+phylogenetic analysis showed cloned sequences were all affiliated to S.
+parasanguinis, which further validates the specificity of two primer pairs, and
+that individual subjects harbored multiple genotypes of S. parasanguinis in
+saliva. By spiking S. parasanguinis into human fecal samples, we found the
+quantification limit of quantitative real-time PCR (qPCR) assays for both primer 
+pairs was 5-6 log10 groEL copies/g feces. Human fecal S. parasanguinis amounts
+quantified with qPCR using each of the two primer pairs correlated well with
+those determined with metagenomic sequencing. qPCR with either primer pair showed
+periodontitis patients had significantly lower level of saliva S. parasanguinis
+than healthy people. In both feces and saliva, the S. parasanguinis abundances
+quantified with two primer pairs exhibited strong and significant correlation.
+Our results show that the two S. parasanguinis-specific primer pairs can be used 
+to quantify and profile human saliva and fecal S. parasanguinis.
+
+Copyright © 2019 Chen, Wu, Chen, Li, Li, Zhang, Pang, Wang, Zhao and Shen.
+
+DOI: 10.3389/fmicb.2019.02910 
+PMCID: PMC6933288
+PMID: 31921079 
+

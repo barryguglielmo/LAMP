@@ -1,0 +1,50 @@
+
+1. Front Med (Lausanne). 2020 Aug 11;7:417. doi: 10.3389/fmed.2020.00417.
+eCollection 2020.
+
+H. pylori Eradication Treatment Causes Alterations in the Gut Microbiota and
+Blood Lipid Levels.
+
+Martín-Núñez GM(1)(2), Cornejo-Pareja I(1)(2), Roca-Rodríguez MDM(3),
+Clemente-Postigo M(2)(4), Cardona F(1)(2), Fernández-García JC(1)(2),
+Moreno-Indias I(1)(2), Tinahones FJ(1)(2).
+
+Author information: 
+(1)Unidad de Endocrinología y Nutrición, Hospital Universitario Virgen de la
+Victoria, Málaga, Spain.
+(2)Centro de Investigación Biomédica en Red de Fisiopatología de la Obesidad y la
+Nutrición (CIBEROBN), Instituto de Salud Carlos III, Madrid, Spain.
+(3)Departamento de Endocrinología y Nutrición, Hospital Universitario Puerta del 
+Mar, Cádiz, Spain.
+(4)Departamento de Biología Celular, Fisiología e Inmunología, Instituto
+Maimónides de Investigación Biomédica de Córdoba (IMIBIC), Universidad de
+Córdoba, Hospital Universitario Reina Sofía, Córdoba, Spain.
+
+Background: The gut microbiome plays an important role in the lipid metabolism.
+Antibiotic treatment causes changes in the intestinal microbiota. Our objective
+was to explore the relationship between changes in the intestinal microbiota and 
+the level of plasma high density lipoprotein cholesterol (HDL) and low density
+lipoprotein cholesterol (LDL). Methods: Prospective case-control study with
+Helicobacter pylori-positive patients undergoing eradication therapy with
+omeprazole, clarithromycin, and amoxicillin. Stool and blood samples were
+obtained from 20 controls (H. pylori negative) and 40 patients before and 2
+months after antibiotic treatment. Gut microbiota was determined through 16S rRNA
+amplicon sequencing (Illumina MiSeq). Results: Eradication treatment for H.
+pylori increased the HDL levels, and caused changes in gut microbiota profiles.
+An unfavorable lipid profiles (high LDL and low HDL levels) was associated with a
+low microbial richness and an increase of the Bacteroidetes phylum. Prevotella
+copri, Lachonobacterium, and Delsufovibrio were positively associated with HDL
+while Rikenellaceae was negatively associated with HDL after completing
+antibiotic treatment. Conclusions: Helicobacter pylori eradication treatment
+could improve lipid metabolism in relation with an increase in the HDL. Changes
+in the abundance of specific bacteria, such as P. copri, Lachonobacterium,
+Delsufovibrio, and Rikenellaceae could be associated with change in the plasma
+HDL levels.
+
+Copyright © 2020 Martín-Núñez, Cornejo-Pareja, Roca-Rodríguez, Clemente-Postigo, 
+Cardona, Fernández-García, Moreno-Indias and Tinahones.
+
+DOI: 10.3389/fmed.2020.00417 
+PMCID: PMC7431686
+PMID: 32850910 
+

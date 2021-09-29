@@ -1,0 +1,53 @@
+
+1. Odontology. 2020 Apr;108(2):280-291. doi: 10.1007/s10266-019-00452-4. Epub 2019
+Sep 9.
+
+Japanese subgingival microbiota in health vs disease and their roles in predicted
+functions associated with periodontitis.
+
+Ikeda E(1), Shiba T(1), Ikeda Y(1), Suda W(2)(3), Nakasato A(1), Takeuchi Y(4),
+Azuma M(5), Hattori M(2)(6), Izumi Y(1)(7).
+
+Author information: 
+(1)Department of Periodontology, Graduate School of Medical and Dental Sciences, 
+Tokyo Medical and Dental University, 1-5-45 Yushima, Bunkyo, Tokyo, 113-8549,
+Japan.
+(2)RIKEN Center for Integrative Medical Sciences, 1-7-22 Suehiro-cho, Tsurumi,
+Yokohama, Kanagawa, 230-0045, Japan.
+(3)Department of Microbiology and Immunology, Keio University School of Medicine,
+35 Shinanomachi, Shinjuku, Tokyo, 160-0016, Japan.
+(4)Department of Periodontology, Graduate School of Medical and Dental Sciences, 
+Tokyo Medical and Dental University, 1-5-45 Yushima, Bunkyo, Tokyo, 113-8549,
+Japan. takeuchi.peri@tmd.ac.jp.
+(5)Department of Molecular Immunology, Graduate School of Medical and Dental
+Sciences, Tokyo Medical and Dental University, 1-5-45 Yushima, Bunkyo, Tokyo,
+113-8549, Japan.
+(6)Faculty of Science and Engineering, Graduate School of Advanced Science and
+Engineering, Waseda University, 3-4-1 Okubo, Shinjuku, Tokyo, 169-8555, Japan.
+(7)Oral Care Perio Center, Southern TOHOKU General Hospital, Southern TOHOKU
+Research Institute for Neuroscience, 7-115 Yatsuyamada, Koriyama, Fukushima,
+963-8052, Japan.
+
+The present study aimed to identify and compare the microbial signatures between 
+periodontally healthy and periodontitis subjects using 454 sequences of 16S rRNA 
+genes. Subgingival plaque samples were collected from ten periodontally healthy
+subjects and ten matched chronic periodontitis patients. Bacterial DNA was
+extracted and next-generation sequencing of 16S rRNA genes was performed. The
+microbial composition differed between healthy subjects and periodontitis
+patients at all phylogenetic levels. Particularly, 16 species, including
+Lautropia mirabilis and Neisseria subflava predominated in healthy subjects,
+whereas nine species, including Porphyromonas gingivalis and Filifactor alocis
+predominated in periodontitis. UniFrac, a principal coordinate and network
+analysis, confirmed distinct community profiles in healthy subjects and
+periodontitis patients. Using predicted function profiling, pathways involved in 
+phenylpropanoid, GPI-anchor biosynthesis, and metabolism of alanine, arginine,
+aspartate, butanoate, cyanoamino acid, fatty acid, glutamate, methane, proline,
+and vitamin B6 were significantly over-represented in periodontitis patients.
+These results highlight the oral microbiota alterations in microbial composition 
+in periodontitis and suggest the genes and metabolic pathways associated with
+health and periodontitis. Our findings help to further elucidate microbial
+composition and interactions in health and periodontitis.
+
+DOI: 10.1007/s10266-019-00452-4 
+PMID: 31502122  [Indexed for MEDLINE]
+

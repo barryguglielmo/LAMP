@@ -1,0 +1,46 @@
+
+1. J Clin Periodontol. 2020 Sep 15. doi: 10.1111/jcpe.13367. [Epub ahead of print]
+
+The combined use of salivary biomarkers and clinical parameters to predict the
+outcome of scaling and root planing: a cohort study.
+
+Liu Y(1), Duan D(1), Ma R(1), Ding Y(1), Xu Y(1), Zhou X(2)(3), Zhao L(1), Xu
+X(2)(3).
+
+Author information: 
+(1)State Key Laboratory of Oral Diseases & National Clinical Research Center for 
+Oral Diseases &, Department of Periodontology, West China Hospital of
+Stomatology, Sichuan University, Chengdu, China.
+(2)State Key Laboratory of Oral Diseases & National Clinical Research Center for 
+Oral Diseases &, Department of Cariology and Endodontics, West China Hospital of 
+Stomatology, Sichuan University, Chengdu, China.
+(3)Clinical Research Center for Oral Diseases, Sichuan Province, China.
+
+AIM: To explore the application of the combined use of baseline salivary
+biomarkers and clinical parameters in predicting the outcome of scaling and root 
+planing (SRP).
+MATERIALS AND METHODS: Forty patients with advanced periodontitis were included. 
+Baseline saliva samples were analyzed for interleukin-1β, matrix
+metalloproteinase-8, and the loads of Porphyromonas gingivalis, Prevotella
+intermedia, Aggregatibacter actinomycetemcomitans, and Tannerella forsythia.
+After SRP, pocket closure and further attachment loss at 6 months post-treatment 
+were chosen as outcome variables. Models to predict the outcomes were established
+by generalized estimating equations.
+RESULTS: The combined use of baseline clinical attachment level, site location
+and interleukin-1β (AUC=0.764) better predicted pocket closure than probing depth
+(AUC=0.672), clinical attachment level (AUC=0.679), site location (AUC=0.654), or
+interleukin-1β (AUC=0.579) alone. The combination of site location, tooth loss,
+percentage of deep pockets, detection of A. actinomycetemcomitans, and T.
+forsythia load (AUC=0.842) better predicted further clinical attachment loss than
+site location (AUC=0.715), tooth loss (AUC=0.530), percentage of deep pockets
+(AUC=0.659), or T. forsythia load (AUC=0.647) alone.
+CONCLUSION: The combination of baseline salivary biomarkers and clinical
+parameters better predicted SRP outcomes than each alone. The current study
+indicates the possible usefulness of salivary biomarkers in addition to tooth
+related parameters in predicting SRP outcomes.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1111/jcpe.13367 
+PMID: 32935363 
+

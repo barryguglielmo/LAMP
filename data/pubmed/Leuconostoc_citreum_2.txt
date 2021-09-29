@@ -1,0 +1,40 @@
+
+1. Int J Mol Sci. 2020 Aug 5;21(16). pii: E5614. doi: 10.3390/ijms21165614.
+
+Development of CRISPR Interference (CRISPRi) Platform for Metabolic Engineering
+of Leuconostoc citreum and Its Application for Engineering Riboflavin
+Biosynthesis.
+
+Son J(1), Jang SH(1), Cha JW(1), Jeong KJ(1)(2).
+
+Author information: 
+(1)Department of Chemical and Biomolecular Engineering, BK21 Plus program, KAIST,
+291 Daehak-ro, Yuseong-gu, Daejeon 34141, Korea.
+(2)Institute for The BioCentury, KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 34141,
+Korea.
+
+Leuconostoccitreum, a hetero-fermentative type of lactic acid bacteria, is a
+crucial probiotic candidate because of its ability to promote human health.
+However, inefficient gene manipulation tools limit its utilization in
+bioindustries. We report, for the first time, the development of a CRISPR
+(Clustered Regularly Interspaced Short Palindromic Repeats) interference
+(CRISPRi) system for engineering L. citreum. For reliable expression, the
+expression system of synthetic single guide RNA (sgRNA) and the deactivated Cas9 
+of Streptococcus pyogenes (SpdCas9) were constructed in a bicistronic design
+(BCD) platform using a high-copy-number plasmid. The expression of SpdCas9 and
+sgRNA was optimized by examining the combination of two synthetic promoters and
+Shine-Dalgarno sequences; the strong expression of sgRNA and the weak expression 
+of SpdCas9 exhibited the most significant downregulation (20-fold decrease) of
+the target gene (sfGFP), without cell growth retardation caused by SpdCas9
+overexpression. The feasibility of the optimized CRISPRi system was demonstrated 
+by modulating the biosynthesis of riboflavin. Using the CRISPRi system, the
+expression of ribF and folE genes was downregulated (3.3-fold and 5.6-fold
+decreases, respectively), thereby improving riboflavin production. In addition,
+the co-expression of the rib operon was introduced and the production of
+riboflavin was further increased up to 1.7 mg/L, which was 1.53 times higher than
+that of the wild-type strain.
+
+DOI: 10.3390/ijms21165614 
+PMCID: PMC7460652
+PMID: 32764465 
+

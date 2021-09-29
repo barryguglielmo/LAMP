@@ -1,0 +1,46 @@
+
+1. Eng Life Sci. 2020 Feb 20;20(5-6):168-180. doi: 10.1002/elsc.201900143.
+eCollection 2020 Apr.
+
+Brewers' spent grain liquor as a feedstock for lactate production with
+Lactobacillus delbrueckii subsp. lactis.
+
+Akermann A(1), Weiermüller J(1), Christmann J(1), Guirande L(1), Glaser G(1),
+Knaus A(2), Ulber R(1).
+
+Author information: 
+(1)TU Kaiserslautern, Department of Mechanical and Process Engineering Chair of
+Bioprocess Engineering Kaiserslautern Germany.
+(2)TU Kaiserslautern, Department of Civil Engineering Resource Efficient
+Wastewater Technology Kaiserslautern Germany.
+
+Brewers' spent grain (BSG) is a low-cost by-product of the brewing process. BSG
+liquor names the liquid components of BSG, mainly glucose, maltose, and
+long-chain α-1,4-glycosidic bond glucose oligomers. These substances should be
+separated in existing BSG biorefineries, as they might lead to an increased
+formation of microbe-inhibiting compounds in well-established
+hydrothermal/enzymatic saccharification processes. In most cases, this liquid
+fraction is discarded. The present study presents for the first time an optimized
+process with BSG liquor for the purpose of producing bulk chemicals (e.g.,
+lactate) in relevant concentrations. The process comprises the application of
+yeast extract, produced from own brewing processes, as the sole supplemented
+complex constituent in a simultaneous fermentation and saccharification process. 
+Kinetic parameters for the final optimized process conditions with the organism
+Lactobacillus delbrueckii subsp. lactis were: maximum specific growth rate
+µmax  =  0.47 h-1, maximum lactate concentration cLac, max  =  79.06 g L-1,
+process yield YPS  =  0.89 gLac gSugar -1, lactate production rate
+qP  =  4.18 gLac gCDW -1 h-1, and productivity P 15 h  =  4.93 gLac L-1 h-1. BSG 
+liquor, linked with yeast extract from Brewers' yeast, can be a promising
+substrate for further bioprocess engineering tasks and contribute to a holistic
+and sustainable usage of Brewers' spent grain.
+
+© 2020 The Authors. Engineering in Life Sciences published by WILEY‐VCH Verlag
+GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/elsc.201900143 
+PMCID: PMC7447884
+PMID: 32874180 
+
+Conflict of interest statement: The authors have declared no conflict of
+interest.
+

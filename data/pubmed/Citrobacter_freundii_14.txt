@@ -1,0 +1,33 @@
+
+1. ACS Synth Biol. 2020 Sep 18;9(9):2460-2471. doi: 10.1021/acssynbio.0c00234. Epub 
+2020 Sep 2.
+
+Development of a Biosensor for Crotonobetaine-CoA Ligase Screening Based on the
+Elucidation of Escherichia coli Carnitine Metabolism.
+
+Kugler P(1), Fröhlich D(1), Wendisch VF(1).
+
+Author information: 
+(1)Genetics of Prokaryotes, Faculty of Biology & CeBiTec, Bielefeld University,
+33615 Bielefeld, Germany.
+
+l-Carnitine is essential in the intermediary metabolism of eukaryotes and is
+involved in the β-oxidation of medium- and long-chain fatty acids; thus, it has
+applications for medicinal purposes and as a dietary supplement. In addition,
+l-carnitine plays roles in bacterial physiology and metabolism, which have been
+exploited by the industry to develop biotechnological carnitine production
+processes. Here, on the basis of studies of l-carnitine metabolism in Escherichia
+coli and its activation by the transcriptional activator CaiF, a biosensor was
+developed. It expresses a fluorescent reporter gene that responds in a
+dose-dependent manner to crotonobetainyl-CoA, which is an intermediate of
+l-carnitine metabolism in E. coli and is proposed to be a coactivator of CaiF.
+Moreover, a dual-input biosensor for l-carnitine and crotonobetaine was
+developed. As an application of the biosensor, potential homologues of the
+betaine:CoA ligase CaiC from Citrobacter freundii, Proteus mirabilis, and
+Arcobacter marinus were screened and shown to be functionally active CaiC
+variants. These variants and the developed biosensor may be valuable for
+improving l-carnitine production processes.
+
+DOI: 10.1021/acssynbio.0c00234 
+PMID: 32794733 
+

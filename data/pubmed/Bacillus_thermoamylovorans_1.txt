@@ -1,0 +1,35 @@
+
+1. Appl Biochem Biotechnol. 2020 Jul 8. doi: 10.1007/s12010-020-03379-7. [Epub ahead
+of print]
+
+Utility of Silane-Modified Magnesium-Based Magnetic Nanoparticles for Efficient
+Immobilization of Bacillus thermoamylovorans Lipase.
+
+Rana S(1), Sharma A(2), Kumar A(3), Kanwar SS(2), Singh M(3).
+
+Author information: 
+(1)Department of Physics, Himachal Pradesh University, Shimla, 171005, India.
+shikharana2807@gmail.com.
+(2)Department of Biotechnology, Himachal Pradesh University, Shimla, 171005,
+India.
+(3)Department of Physics, Himachal Pradesh University, Shimla, 171005, India.
+
+Enzymes and protein's immobilization on magnetic nano supports is emerging as a
+promising candidate in the food, medical field, and areas of environmental
+studies. This work presents a study on purified Bacillus thermoamylovorans lipase
+(BTL) by utilizing tetraethoxysilane (TEOS)-modified magnesium nano ferrite
+(MgNF) of 20 nm size. Its structural and morphological studies were investigated 
+by powder X-ray diffractometry, high-resolution transmission electron microscopy,
+etc. Binding of BTL with MgNF was supported by using Fourier transform infrared
+spectroscopy. Magnetic behavior was examined by the vibrational sample
+magnetometer and Mössbauer spectrometer graphs. The enzymatic activity of BTL
+before and after immobilization was studied at different temperatures and
+reaction time. As per the Lineweaver-Burk plot, immobilized lipase has more
+biological affinity for fatty acids in comparison to the free lipase, and Kmax
+values of immobilized and free BTL were computed as 6.6 and 7.5 mM respectively, 
+with excellent reusability(> 50%) even till 13 consecutive assay runs. Graphical 
+Abstract.
+
+DOI: 10.1007/s12010-020-03379-7 
+PMID: 32638325 
+

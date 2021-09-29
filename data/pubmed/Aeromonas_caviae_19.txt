@@ -1,0 +1,45 @@
+
+1. Microorganisms. 2020 Jan 17;8(1). pii: E129. doi: 10.3390/microorganisms8010129.
+
+An Update on the Genus Aeromonas: Taxonomy, Epidemiology, and Pathogenicity.
+
+Fernández-Bravo A(1), Figueras MJ(1).
+
+Author information: 
+(1)Unit of Microbiology, Department of Basic Health Sciences, Faculty of Medicine
+and Health Sciences, IISPV, University Rovira i Virgili, 43201 Reus, Spain.
+
+The genus Aeromonas belongs to the Aeromonadaceae family and comprises a group of
+Gram-negative bacteria widely distributed in aquatic environments, with some
+species able to cause disease in humans, fish, and other aquatic animals.
+However, bacteria of this genus are isolated from many other habitats,
+environments, and food products. The taxonomy of this genus is complex when
+phenotypic identification methods are used because such methods might not
+correctly identify all the species. On the other hand, molecular methods have
+proven very reliable, such as using the sequences of concatenated housekeeping
+genes like gyrB and rpoD or comparing the genomes with the type strains using a
+genomic index, such as the average nucleotide identity (ANI) or in silico DNA-DNA
+hybridization (isDDH). So far, 36 species have been described in the genus
+Aeromonas of which at least 19 are considered emerging pathogens to humans,
+causing a broad spectrum of infections. Having said that, when classifying 1852
+strains that have been reported in various recent clinical cases, 95.4% were
+identified as only four species: Aeromonas caviae (37.26%), Aeromonas dhakensis
+(23.49%), Aeromonas veronii (21.54%), and Aeromonas hydrophila (13.07%). Since
+aeromonads were first associated with human disease, gastroenteritis, bacteremia,
+and wound infections have dominated. The literature shows that the pathogenic
+potential of Aeromonas is considered multifactorial and the presence of several
+virulence factors allows these bacteria to adhere, invade, and destroy the host
+cells, overcoming the immune host response. Based on current information about
+the ecology, epidemiology, and pathogenicity of the genus Aeromonas, we should
+assume that the infections these bacteria produce will remain a great health
+problem in the future. The ubiquitous distribution of these bacteria and the
+increasing elderly population, to whom these bacteria are an opportunistic
+pathogen, will facilitate this problem. In addition, using data from outbreak
+studies, it has been recognized that in cases of diarrhea, the infective dose of 
+Aeromonas is relatively low. These poorly known bacteria should therefore be
+considered similarly as enteropathogens like Salmonella and Campylobacter.
+
+DOI: 10.3390/microorganisms8010129 
+PMCID: PMC7022790
+PMID: 31963469 
+

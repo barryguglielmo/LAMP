@@ -1,0 +1,40 @@
+
+1. 3 Biotech. 2020 May;10(5):207. doi: 10.1007/s13205-020-02199-0. Epub 2020 Apr 22.
+
+Registration of BOD using Paracoccus yeei bacteria isolated from activated
+sludge.
+
+Arlyapov VA(1), Yudina NY(1), Asulyan LD(1), Kamanina OA(1), Alferov SV(1),
+Shumsky AN(2), Machulin AV(3), Alferov VA(1), Reshetilov AN(1)(3).
+
+Author information: 
+(1)1Tula State University, Tula, Russia 300012.
+(2)2N. E. Emanuel Institute of Bioorganic Physics, Russian Academy of Sciences,
+Moscow, Russia 119334.
+(3)3G. K. Skryabin Institute of Biochemistry and Physiology of Microorganisms,
+Russian Academy of Sciences, Pushchino, Moscow Region Russia 142290.
+
+This work investigated the properties of Paracoccus yeei VKM B-3302 bacteria
+isolated from activated sludge and immobilized in an N-vinylpyrrolidone-modified 
+poly(vinyl alcohol) matrix. The developed hydrogel formed a network structure to 
+enable the entrapment of microbial cells with their viability and biocatalytic
+properties preserved, which ensured the technological possibility of replicating 
+expendable biosensor receptor elements. A new ratio of the components for the
+synthesis selected in this work enabled producing a copolymer of an earlier
+undescribed chemical structure, which can be efficiently used for immobilization 
+of highly sensitive P. yeei bacteria. A biological oxygen demand (BOD) biosensor 
+with these bacteria and matrix was shown to possess a long-time stability
+exceeding that described earlier, to have a broad substrate specificity and to
+exceed approximately tenfold the nearest analogues by its sensitivity and the
+lower boundary value of 0.05 mg/dm3. The biosensor enabled assays of water
+samples initially attributed to pure samples (the BOD range, 0.05-5.0 mg/dm3).
+BOD assays of water samples from various sources showed the use of the receptor
+element of this composition to enable the data that closely correlated with the
+standard method (R 2 = 0.9990).
+
+© King Abdulaziz City for Science and Technology 2020.
+
+DOI: 10.1007/s13205-020-02199-0 
+PMCID: PMC7174495 [Available on 2021-05-01]
+PMID: 32346498 
+

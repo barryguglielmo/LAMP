@@ -1,0 +1,43 @@
+
+1. Front Microbiol. 2020 Jun 23;11:1219. doi: 10.3389/fmicb.2020.01219. eCollection 
+2020.
+
+Comparative Genomics Uncovers the Genetic Diversity and Characters of Veillonella
+atypica and Provides Insights Into Its Potential Applications.
+
+Han M(1), Liu G(1), Chen Y(2), Wang D(2), Zhang Y(2).
+
+Author information: 
+(1)School of Life Sciences, Anhui Medical University, Hefei, China.
+(2)School of Life Sciences, Hefei Normal University, Hefei, China.
+
+Veillonella atypica is a bacterium that is present in the gut and the oral cavity
+of mammals and plays diverse roles in different niches. A recent study
+demonstrated that Veillonella is highly associated with marathon running and
+approved that V. atypica gavage improves treadmill run time in mice, revealing
+that V. atypica has a high biotechnological potential in improving athlete
+performance. However, a comprehensive analysis of the genetic diversity, function
+traits, and genome editing method of V. atypica remains elusive. In the present
+study, we conducted a systemically comparative analysis of the genetic datasets
+of nine V. atypica strains. The pan-genome of V. atypica consisted of 2,065
+homologous clusters and exhibited an open pan-genome structure. A phylogenetic
+analysis of V. atypica with two different categories revealed that V. atypica OK5
+was the most distant from the other eight V. atypica strains. A total of 43
+orthologous genes were identified as CAZyme genes and grouped into 23 CAZyme
+families. The CAZyme components derived from accessory clusters contributed to
+the differences in the ability of the nine V. atypica strains to utilize
+carbohydrates. An integrated analysis of the metabolic pathways of V. atypica
+suggested that V. atypica strains harbored vancomycin resistance and were
+involved in several biosynthesis pathways of secondary metabolites. The V.
+atypica strains harbored four main Cas proteins, namely, CAS-Type IIIA, CAS-Type 
+IIA, CAS-Type IIC, and CAS-Type IIID. This pilot study provides an in-depth
+understanding of and a fundamental knowledge about the biology of V. atypica that
+allow the possibility to increase the biotechnological potential of this
+bacterium.
+
+Copyright © 2020 Han, Liu, Chen, Wang and Zhang.
+
+DOI: 10.3389/fmicb.2020.01219 
+PMCID: PMC7324755
+PMID: 32655519 
+

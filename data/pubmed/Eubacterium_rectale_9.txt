@@ -1,0 +1,31 @@
+
+1. CRISPR J. 2020 Apr;3(2):97-108. doi: 10.1089/crispr.2019.0068.
+
+ErCas12a CRISPR-MAD7 for Model Generation in Human Cells, Mice, and Rats.
+
+Liu Z(1), Schiel JA(2), Maksimova E(2), Strezoska Ž(2), Zhao G(1), Anderson
+EM(2), Wu Y(1), Warren J(1), Bartels A(1), van Brabant Smith A(2), Lowe CE(3),
+Forbes KP(1).
+
+Author information: 
+(1)ENVIGO Research Model Services (Formerly Horizon Discovery Group), St. Louis, 
+Missouri, USA.
+(2)Horizon Discovery Group Company, Lafayette, Colorado, USA.
+(3)Waterbeach, Cambridge, United Kingdom.
+
+MAD7 is an engineered class 2 type V-A CRISPR-Cas (Cas12a/Cpf1) system isolated
+from Eubacterium rectale. Analogous to Cas9, it is an RNA-guided nuclease with
+demonstrated gene editing activity in Escherichia coli and yeast cells. Here, we 
+report that MAD7 is capable of generating indels and fluorescent gene tagging of 
+endogenous genes in human HCT116 and U2OS cancer cell lines, respectively. In
+addition, MAD7 is highly proficient in generating indels, small DNA insertions
+(23 bases), and larger integrations ranging from 1 to 14 kb in size in mouse and 
+rat embryos, resulting in live-born transgenic animals. Due to the different
+protospacer adjacent motif requirement, small-guide RNA, and highly efficient
+targeted gene disruption and insertions, MAD7 can expand the CRISPR toolbox for
+genome enginnering across different systems and model organisms.
+
+DOI: 10.1089/crispr.2019.0068 
+PMCID: PMC7194332
+PMID: 32315227 
+

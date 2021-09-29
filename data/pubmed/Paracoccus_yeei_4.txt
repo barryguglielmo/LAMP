@@ -1,0 +1,42 @@
+
+1. Enzyme Microb Technol. 2020 Jan;132:109435. doi: 10.1016/j.enzmictec.2019.109435.
+Epub 2019 Sep 19.
+
+A mediator microbial biosensor for assaying general toxicity.
+
+Kharkova AS(1), Arlyapov VA(1), Turovskaya AD(2), Shvets VI(3), Reshetilov AN(4).
+
+Author information: 
+(1)FSBEIHE Tula State University, 92 Lenin Pr., Tula, 300012, Russia.
+(2)FSBEIHE Tula State University, 92 Lenin Pr., Tula, 300012, Russia; FBI State
+Regional Centre of Standardization, Metrology and Testing in the Tula Region, 91 
+Boldin Str., Tula, 300028, Russia.
+(3)FSBEIHE Moscow Technological University, 86 Vernadsky Pr., Moscow, 119571,
+Russia.
+(4)FSBEIHE Tula State University, 92 Lenin Pr., Tula, 300012, Russia; FSBIS G.K. 
+Skryabin Institute of Biochemistry and Physiology of Microorganisms, Russian
+Academy of Sciences, 5 Pr. Nauki, Pushchino, Moscow Region, 142290, Russia.
+Electronic address: anatol@ibpm.pushchino.ru.
+
+A mediator biosensor based on Paracoccus yeei bacteria for assaying the toxicity 
+of perfumery and cosmetics samples was developed. An approach to selecting an
+electron-transport mediator based on the heterogeneous electron transfer
+constants for investigated mediators (ks) and the mediator-biomaterial
+interaction constants (kinteract) was proposed. Screening of nine compounds as
+potential mediators showed a ferrocene mediator immobilized in graphite paste to 
+have the highest efficiency of electron transfer to the graphite-paste electrode 
+(the heterogeneous transfer constant, 0.4 ± 0.1 cm/s) and a high constant of
+interaction with P. yeei (0.023 ± 0.001 dm3/(g·s)). A biosensor for toxicity
+assessment based on the ferrocene mediator and P. yeei bacteria was formed. The
+biosensor was tested on samples of four heavy metals (Cu2+, Zn2+, Pb2+, Cd2+) and
+two phenols (phenol and p-nitrophenol). Proceeding from the EC50 index, it was
+found that the use of the ferrocene mediator made the biosensor more sensitive to
+investigated toxicants than most analogues described. Toxicity determination of
+four perfumery and cosmetics samples by the developed biosensor showed prospects 
+of using this system for real-time toxicity monitoring of samples.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.enzmictec.2019.109435 
+PMID: 31731957  [Indexed for MEDLINE]
+

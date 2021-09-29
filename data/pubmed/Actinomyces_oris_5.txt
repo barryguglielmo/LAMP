@@ -1,0 +1,36 @@
+
+1. J Clin Med. 2020 Apr 1;9(4). pii: E983. doi: 10.3390/jcm9040983.
+
+Combined DNase and Proteinase Treatment Interferes with Composition and
+Structural Integrity of Multispecies Oral Biofilms.
+
+Karygianni L(1), Attin T(1), Thurnheer T(1).
+
+Author information: 
+(1)Clinic of Conservative and Preventive Dentistry, Center of Dental Medicine,
+University of Zurich, 8032 Zurich, Switzerland.
+
+Modification of oral biofilms adhering to dental hard tissues could lead to new
+treatment approaches in cariology and periodontology. In this study the impact of
+DNase I and/or proteinase K on the formation of a simulated supragingival biofilm
+was investigated in vitro. Six-species biofilms were grown anaerobically in the
+presence of DNase I and proteinase K. After 64 h biofilms were either harvested
+and quantified by culture analysis or proceeded to staining followed by confocal 
+laser scanning microscopy. Microbial cells were stained using DNA-dyes or
+fluorescent in situ hybridization. Exopolysaccharides, eDNA and exoproteins were 
+stained with Calcofluor, anti-DNA-antibody, and SyproTM Ruby, respectively.
+Overall, results showed that neither DNase I nor proteinase K had an impact on
+total colony-forming units (CFUs) compared to the control without enzymes.
+However, DNase I significantly suppressed the growth of Actinomyces oris,
+Fusobacterium nucleatum, Streptococcus mutans, Streptococcus oralis and Candida
+albicans. Proteinase K treatment induced significant increase in S. mutans and S.
+oralis CFUs (p < 0.001), whereas C. albicans and V. dispar showed lower CFUs
+compared to the control. Interestingly, confocal images visualized the biofilm
+degradation caused by DNase I and proteinase K. Thus, enzymatic treatment should 
+be combined with conventional antimicrobial agents aiming at both bactericidal
+effectiveness and biofilm dispersal.
+
+DOI: 10.3390/jcm9040983 
+PMCID: PMC7231231
+PMID: 32244784 
+

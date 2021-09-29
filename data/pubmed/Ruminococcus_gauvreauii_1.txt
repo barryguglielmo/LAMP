@@ -1,0 +1,43 @@
+
+1. Vet Med Sci. 2020 Jul 26. doi: 10.1002/vms3.309. [Epub ahead of print]
+
+Effect of exposure to gaseous hydrogen sulphide on cecal microbial diversity of
+weaning pigs.
+
+Cui J(1), Wu F(1), Yang X(1), Liu T(1), Xia X(1), Chang X(1), Wang H(1), Sun
+L(1), Wei Y(1), Jia Z(1), Liu S(1), Han S(1), Chen B(1).
+
+Author information: 
+(1)Department of Animal Science and Technology, Hebei Agricultural University,
+Bao ding, China.
+
+The purpose of this study was to examine the effects of different concentrations 
+of gaseous hydrogen sulphide on cecal microbial diversity in weaning pigs. A
+total of 24 weaning pigs (Landrace × Yorkshire × Duroc; average body
+weight = 8.55 ± 0.68 kg；weaning at 28 days) were selected and randomly divided
+into four groups (six replicates in each group). The piglets were exposed to
+hydrogen sulphide exposure 0, 5, 10 and 15 mg/m3 ) during the experiment period, 
+which lasted 28 days in four controlled environmental chambers. The cecal chyme
+was taken and the microbial community structure was analysed by high-throughput
+sequencing. The results showed that exposure to hydrogen sulphide reduced the
+average daily gain (ADG), average daily feed intake (ADFI) and increased the
+diarrhoea rate of piglets. Hydrogen sulphide could increase the number of
+operational taxon units (OTUs) and the abundance and diversity of intestinal
+microbiota. The abundance of Firmicutes and Proteobacteria increased and the
+abundance of Bacteroides decreased in the treatment groups. Five biomarkers, such
+as Eubacterium_1 coprostanoligenes, Clostridiales, Phascolarctobacterium,
+Acidaminococcaceae and Ruminococcaceae_UCG_002 were selected by Lefse analysis.
+The most positively correlated bacteria were Terrisporobacter and
+Oscillospiraceae (r = 0.70) and the highly negative correlation was found between
+Ruminococcaceae_NK4A214_group and [Ruminococcus]_gauvreauii_group (r = 0.64).
+Thus, hydrogen sulphide destroyed the microbial balance and increased the
+abundance of harmful bacteria. Our results reveal that hydrogen sulphide can
+damage the growth performance of weaning pigs and intestine microbial balance.
+The concentrations of hydrogen sulphide should be controlled below 5 mg/m3 .
+
+© 2020 The Authors. Veterinary Medicine and Science Published by John Wiley &
+Sons Ltd.
+
+DOI: 10.1002/vms3.309 
+PMID: 32713126 
+

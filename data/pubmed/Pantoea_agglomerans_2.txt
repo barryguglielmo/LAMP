@@ -1,0 +1,53 @@
+
+1. Microb Ecol. 2020 Oct 1. doi: 10.1007/s00248-020-01588-5. [Epub ahead of print]
+
+Mussismilia braziliensis White Plague Disease Is Characterized by an Affected
+Coral Immune System and Dysbiosis.
+
+Silva-Lima AW(1), Froes AM(1), Garcia GD(1)(2), Tonon LAC(1)(2), Swings J(1)(2), 
+Cosenza CAN(2), Medina M(3), Penn K(4), Thompson JR(4), Thompson CC(1)(2),
+Thompson FL(5)(6).
+
+Author information: 
+(1)Laboratório de Microbiologia, Instituto de Biologia, Universidade Federal do
+Rio de Janeiro (UFRJ), Av. Carlos Chagas Fo. S/N-CCS-IB-Lab de
+Microbiologia-BLOCO A (Anexo) A3-sl 102, Cidade Universitária, Rio de Janeiro,
+RJ, 21941-599, Brazil.
+(2)Sage/Coppe, Centro de Gestão Tecnológica-CT2, Rua Moniz de Aragão, no.
+360-Bloco 2, Ilha do Fundão-Cidade Universitária, Rio de Janeiro, 21941-972,
+Brazil.
+(3)Pennsylvania State University, 324 Mueller Lab, University Park, PA, 16802,
+USA.
+(4)Department of Civil and Environmental Engineering, Massachusetts Institute of 
+Technology, Cambridge, MA, USA.
+(5)Laboratório de Microbiologia, Instituto de Biologia, Universidade Federal do
+Rio de Janeiro (UFRJ), Av. Carlos Chagas Fo. S/N-CCS-IB-Lab de
+Microbiologia-BLOCO A (Anexo) A3-sl 102, Cidade Universitária, Rio de Janeiro,
+RJ, 21941-599, Brazil. fabianothompson1@gmail.com.
+(6)Sage/Coppe, Centro de Gestão Tecnológica-CT2, Rua Moniz de Aragão, no.
+360-Bloco 2, Ilha do Fundão-Cidade Universitária, Rio de Janeiro, 21941-972,
+Brazil. fabianothompson1@gmail.com.
+
+Infectious diseases are one of the major drivers of coral reef decline worldwide.
+White plague-like disease (WPL) is a widespread disease with a complex etiology
+that infects several coral species, including the Brazilian endemic species
+Mussismilia braziliensis. Gene expression profiles of healthy and WPL-affected M.
+braziliensis were analyzed in winter and summer seasons. The de novo assembly of 
+the M. braziliensis transcriptome from healthy and white plague samples produced 
+a reference transcriptome containing 119,088 transcripts. WPL-diseased samples
+were characterized by repression of immune system and cellular defense processes.
+Autophagy and cellular adhesion transcripts were also repressed in WPL samples,
+suggesting exhaustion of the coral host defenses. Seasonal variation leads to
+plasticity in transcription with upregulation of intracellular signal
+transduction, apoptosis regulation, and oocyte development in the summer.
+Analysis of the active bacterial rRNA indicated that Pantoea bacteria were more
+abundant in WPL corals, while Tistlia, Fulvivirga, and Gammaproteobacteria
+Ga0077536 were more abundant in healthy samples. Cyanobacteria proliferation was 
+also observed in WPL, mostly in the winter. These results indicate a scenario of 
+dysbiosis in WPL-affected M. braziliensis, with the loss of potentially symbiotic
+bacteria and proliferation of opportunistic microbes after the start of the
+infection process.
+
+DOI: 10.1007/s00248-020-01588-5 
+PMID: 33000311 
+

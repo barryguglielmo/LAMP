@@ -1,0 +1,72 @@
+
+1. PeerJ. 2020 Feb 27;8:e8647. doi: 10.7717/peerj.8647. eCollection 2020.
+
+Antimicrobial resistance and genetic relationships of enterococci from siblings
+and non-siblings Heliconius erato phyllis caterpillars.
+
+Huff R(1), Inhoque Pereira R(2), Pissetti C(3), Mellender de Araújo A(4), Alves
+d'Azevedo P(2), Frazzon J(5), GuedesFrazzon AP(1).
+
+Author information: 
+(1)Institute of Basic Health Sciences, Department of Microbiology, Immunology and
+Parasitology, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande
+do Sul, Brazil.
+(2)Basic Health Sciences, Department of Microbiology, Health Sciences Federal
+University, Porto Alegre, Rio Grande do Sul, Brazil.
+(3)Department of Veterinary Preventive Medicine, Federal University of Rio Grande
+do Sul, Porto Alegre, Rio Grande do Sul, Brazil.
+(4)Institute of Biosciences, Genetic Department, Federal University of Rio Grande
+do Sul, Porto Alegre, Rio Grande do Sul, Brazil.
+(5)Food Science Institute, Federal University of Rio Grande do Sul, Porto Alegre,
+Rio Grande do Sul, Brazil.
+
+Background: Studies evaluating bacteria in insects can provide information about 
+host-microorganism-environment interactions. The gut microbial community has a
+profound effect on different physiological functions of insects. Enterococcus
+spp. are part of the gut community in humans and other animals, as well as in
+insects. The presence and antimicrobial resistance profile of enterococci are
+well studied in different animals; however, data for Heliconius erato phyllis
+(Lepidoptera: Nymphalidae) do not yet exist. Therefore, the aims of this study
+were to evaluate the distribution of enterococcal species, their antimicrobial
+resistance profile and virulence genes, and the genetic relationships between
+enterococci isolated from fecal samples from sibling and non-sibling H. erato
+phyllis caterpillars collected from different sites in South Brazil.
+Methods: Three H. erato phyllis females were captured (two from a forest fragment
+and one from an urban area), and kept individually in open-air insectaries. Eggs 
+were collected and caterpillars (siblings and non-siblings) were fed daily with
+Passiflora suberosa leaves. Fecal samples (n = 12) were collected from
+fifth-instar caterpillars, inoculated in selective medium, and 15 bacterial
+colonies were randomly selected from each sample. Enterococci were identified by 
+PCR and MALDI-TOF, analyzed by disk diffusion antimicrobial susceptibility tests,
+and screened for resistance and virulence genes by PCR. The genetic relationships
+between the strains were determined using pulsed-field gel electrophoresis
+(PFGE).
+Results: A total of 178 enterococci strains were identified: E. casseliflavus
+(74.15%; n = 132), E. mundtii (21.34%; n = 38), E. faecalis (1.12%; n = 2) and
+Enterococcus sp. (3.37%; n = 6). High rates of resistance to rifampicin (56%) and
+erythromycin (31%) were observed; 120 (67.41%) of the isolates showed resistance 
+to at least one antibiotic and six (3.37%) were multidrug-resistant.None of the
+erythromycin-resistant strains was positive for the erm(B) and msrC genes. The
+virulence genes esp, ace, and gelE were observed in 35%, 7%, and 1% of the
+strains, respectively. PFGE separated the enterococci into 22 patterns, four
+being composed of strains from sibling caterpillars.
+Conclusion: Enterococcus casseliflavus was the dominant species in fecal samples 
+of fifth-instar caterpillars. Resistant enterococci strains may be related to
+environmental pollution or the resistome. The PFGE analysis showed genetic
+relationships between some strains, suggesting that the enterococci isolated from
+fecal samples of the sibling caterpillars might have come from common sources,
+e.g., via diet (herbivory) and/or vertical transmission (through the egg
+surface). Further studies will be conducted to better understand the role of
+Enterococcus in the microbial community of the gastrointestinal tract of these
+insects, and the mechanisms involved in acquisition and maintenance of
+enterococci.
+
+©2020 Huff et al.
+
+DOI: 10.7717/peerj.8647 
+PMCID: PMC7049460
+PMID: 32149028 
+
+Conflict of interest statement: The authors declare there are no competing
+interests.
+

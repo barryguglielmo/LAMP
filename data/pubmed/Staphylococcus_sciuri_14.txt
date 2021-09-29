@@ -1,0 +1,42 @@
+
+1. Microorganisms. 2020 Jan 24;8(2). pii: E167. doi: 10.3390/microorganisms8020167.
+
+Exploring the Ambiguous Status of Coagulase-Negative Staphylococci in the
+Biosafety of Fermented Meats: The Case of Antibacterial Activity Versus Biogenic 
+Amine Formation.
+
+Van der Veken D(1), Benhachemi R(2), Charmpi C(1), Ockerman L(1), Poortmans M(2),
+Van Reckem E(1), Michiels C(2), Leroy F(1).
+
+Author information: 
+(1)Research Group of Industrial Microbiology and Food Biotechnology (IMDO),
+Faculty of Sciences and Bio-engineering Sciences, Vrije Universiteit Brussel,
+1050 Brussels, Belgium.
+(2)Laboratory of Food Microbiology and Leuven Food Science and Nutrition Research
+Centre (LFoRCe), KU Leuven, B-3001 Leuven, Belgium.
+
+A total of 332 staphylococcal strains, mainly isolated from meat, were screened
+for antibacterial activity. Eighteen strains exhibited antibacterial activity
+towards species within the same genus. These antibacterial strains were further
+screened against Clostridium botulinum, to assess their potential as
+anticlostridial starter cultures for the development of fermented meat products
+without added nitrate or nitrite. Only Staphylococcus sciuri IMDO-S72 had the
+ability to inhibit all clostridial strains tested, whilst displaying additional
+activity against Bacillus cereus, Listeria monocytogenes and Staphylococcus
+aureus. Apart from their potential as bioprotective cultures, the staphylococcal 
+collection was also screened for biogenic amine production, as these compounds
+may compromise food quality. To this end, ultra-high-performance liquid
+chromatography coupled to tandem mass spectrometry (UPLC-MS/MS) was applied. A
+low incidence of biogenic amine production was found, with tyramine and
+β-phenylethylamine being the most prevalent ones. Concentrations remained
+relatively low (< 52 mg/L) after a prolonged incubation period, posing no or
+little threat towards food safety. Taken together, S. sciuri IMDO-S72 could serve
+as an interesting candidate for the bioprotection of fermented meats as it showed
+promising antibacterial activity as well as absence of biogenic amine production.
+
+DOI: 10.3390/microorganisms8020167 
+PMCID: PMC7074764
+PMID: 31991613 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

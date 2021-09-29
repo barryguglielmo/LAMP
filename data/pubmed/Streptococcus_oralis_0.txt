@@ -1,0 +1,50 @@
+
+1. Dent Mater. 2020 Sep 30. pii: S0109-5641(20)30251-7. doi:
+10.1016/j.dental.2020.09.011. [Epub ahead of print]
+
+Antimicrobial effect of nanostructured membranes for guided tissue regeneration: 
+an in vitro study.
+
+Bueno J(1), Sánchez MC(1), Toledano-Osorio M(2), Figuero E(1), Toledano M(2),
+Medina-Castillo AL(3), Osorio R(4), Herrera D(1), Sanz M(1).
+
+Author information: 
+(1)ETEP (Etiology and Therapy of Periodontal Diseases) Research Group, University
+Complutense, Madrid, Spain.
+(2)Biomaterials in Dentistry Research Group, University of Granada, Spain.
+(3)NanoMyP. Spin-Off Enterprise from University of Granada, Edificio BIC-Granada,
+Av. Innovación 1. 18016 Armilla, Granada, Spain.
+(4)Biomaterials in Dentistry Research Group, University of Granada, Spain.
+Electronic address: rosorio@ugr.es.
+
+OBJECTIVE: The purpose of this in vitro study was to evaluate the antibacterial
+effect of a novel non-resorbable, bioactive polymeric nanostructured membrane
+(NMs), when doped with zinc, calcium and doxycycline.
+METHODS: A validated in vitro subgingival biofilm model with six bacterial
+species (Streptococcus oralis, Actinomyces naeslundii, Veillonela parvula,
+Fusobacterium nucleatum, Porphyromonas gingivalis and Aggregatibacter
+actinomycetemcomitans) was used. The experimental NMs, with and without being
+doped with doxycycline, calcium and zinc, were placed on hydroxyapatite (HA)
+discs. As positive control membranes, commercially available dense
+polytetrafluoroethylene (d-PTFE) membranes were used and, as negative controls,
+the HA discs without any membrane. The experimental, positive and negative
+control discs were exposed to a mixed bacterial suspension, at 37 °C under
+anaerobic conditions, during 12, 24, 48 and 72 h. The resulting biofilms were
+analyzed through scanning electron microscopy (SEM), to study their structure,
+and by quantitative polymerase chain reaction (qPCR), to assess the bacterial
+load, expressed as colony forming units (CFU) per mL. Differences between
+experimental and control groups were evaluated with the general linear model and 
+the Bonferroni adjustment.
+RESULTS: As shown by SEM, all membrane groups, except the NMs with doxycycline,
+resulted in structured biofilms from 12-72 hours. Similarly, only the membranes
+loaded with doxycycline demonstrated a significant reduction in bacterial load
+during biofilm development, when compared with the control groups (p < 0.001).
+SIGNIFICANCE: Doxycycline-doped nanostructured membranes have an impact on
+biofilm growth dynamics by significant reducing the bacterial load.
+
+Copyright © 2020 The Academy of Dental Materials. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1016/j.dental.2020.09.011 
+PMID: 33010943 
+

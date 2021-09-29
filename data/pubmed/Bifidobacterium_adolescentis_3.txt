@@ -1,0 +1,67 @@
+
+1. mSystems. 2020 Sep 8;5(5). pii: e00645-20. doi: 10.1128/mSystems.00645-20.
+
+Pivotal Roles for pH, Lactate, and Lactate-Utilizing Bacteria in the Stability of
+a Human Colonic Microbial Ecosystem.
+
+Wang SP(#)(1), Rubio LA(#)(2), Duncan SH(3), Donachie GE(3), Holtrop G(4), Lo
+G(3), Farquharson FM(3), Wagner J(5), Parkhill J(6), Louis P(3), Walker AW(7),
+Flint HJ(3).
+
+Author information: 
+(1)College of Animal Science, Southwest University, Chongqing, People's Republic 
+of China.
+(2)Physiology and Biochemistry of Animal Nutrition (EEZ, CSIC), Granada, Spain.
+(3)Gut Health Group, Rowett Institute, University of Aberdeen, Foresterhill,
+Aberdeen, Scotland, UK.
+(4)Biomathematics and Statistics Scotland (BioSS), Aberdeen, Scotland, UK.
+(5)Pathogen Genomics Group, Wellcome Sanger Institute, Hinxton, Cambridgeshire,
+UK.
+(6)Department of Veterinary Medicine, University of Cambridge, Cambridge, UK.
+(7)Gut Health Group, Rowett Institute, University of Aberdeen, Foresterhill,
+Aberdeen, Scotland, UK alan.walker@abdn.ac.uk.
+(#)Contributed equally
+
+Lactate can be produced by many gut bacteria, but in adults its accumulation in
+the colon is often an indicator of microbiota perturbation. Using continuous
+culture anaerobic fermentor systems, we found that lactate concentrations
+remained low in communities of human colonic bacteria maintained at pH 6.5, even 
+when dl-lactate was infused at 10 or 20 mM. In contrast, lower pH (5.5) led to
+periodic lactate accumulation following lactate infusion in three fecal microbial
+communities examined. Lactate accumulation was concomitant with greatly reduced
+butyrate and propionate production and major shifts in microbiota composition,
+with Bacteroidetes and anaerobic Firmicutes being replaced by Actinobacteria,
+lactobacilli, and Proteobacteria Pure-culture experiments confirmed that
+Bacteroides and Firmicutes isolates were susceptible to growth inhibition by
+relevant concentrations of lactate and acetate, whereas the lactate-producer
+Bifidobacterium adolescentis was resistant. To investigate system behavior
+further, we used a mathematical model (microPop) based on 10 microbial functional
+groups. By incorporating differential growth inhibition, our model reproduced the
+chaotic behavior of the system, including the potential for lactate infusion both
+to promote and to rescue the perturbed system. The modeling revealed that system 
+behavior is critically dependent on the proportion of the community able to
+convert lactate into butyrate or propionate. Communities with low numbers of
+lactate-utilizing bacteria are inherently less stable and more prone to
+lactate-induced perturbations. These findings can help us to understand the
+consequences of interindividual microbiota variation for dietary responses and
+microbiota changes associated with disease states.IMPORTANCE Lactate is formed by
+many species of colonic bacteria, and can accumulate to high levels in the colons
+of inflammatory bowel disease subjects. Conversely, in healthy colons lactate is 
+metabolized by lactate-utilizing species to the short-chain fatty acids butyrate 
+and propionate, which are beneficial for the host. Here, we investigated the
+impact of continuous lactate infusions (up to 20 mM) at two pH values (6.5 and
+5.5) on human colonic microbiota responsiveness and metabolic outputs. At pH 5.5 
+in particular, lactate tended to accumulate in tandem with decreases in butyrate 
+and propionate and with corresponding changes in microbial composition. Moreover,
+microbial communities with low numbers of lactate-utilizing bacteria were
+inherently less stable and therefore more prone to lactate-induced perturbations.
+These investigations provide clear evidence of the important role these lactate
+utilizers may play in health maintenance. These should therefore be considered as
+potential new therapeutic probiotics to combat microbiota perturbations.
+
+Copyright © 2020 Wang et al.
+
+DOI: 10.1128/mSystems.00645-20 
+PMCID: PMC7483512
+PMID: 32900872 
+

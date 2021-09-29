@@ -1,0 +1,44 @@
+
+1. Arch Microbiol. 2019 Dec;201(10):1369-1383. doi: 10.1007/s00203-019-01705-0. Epub
+2019 Jul 22.
+
+Toluene degradation via a unique metabolic route in indigenous bacterial species.
+
+Muccee F(1), Ejaz S(2), Riaz N(3).
+
+Author information: 
+(1)Department of Biochemistry and Biotechnology, The Islamia University of
+Bahawalpur, Bahawalpur, Pakistan.
+(2)Department of Biochemistry and Biotechnology, The Islamia University of
+Bahawalpur, Bahawalpur, Pakistan. saminaejazsyed@yahoo.com.
+(3)Department of Chemistry, The Islamia University of Bahawalpur, Bahawalpur,
+Pakistan.
+
+Tanneries are the primary source of toluene pollution in the environment and
+toluene due to its hazardous effects has been categorized as persistent organic
+pollutant. Present study was initiated to trace out metabolic fingerprints of
+three toluene-degrading bacteria isolated from tannery effluents of Southern
+Punjab. Using selective enrichment and serial dilution methods followed by
+biochemical, molecular and antibiotic resistance analysis, isolated bacteria were
+subjected to metabolomics analysis. GC-MS/LC-MS analysis of bacterial metabolites
+helped to identify toluene transformation products and underlying pathways. Three
+toluene-metabolizing bacteria identified as Bacillus paralicheniformis strain
+KJ-16 (IUBT4 and IUBT24) and Brevibacillus agri strain NBRC 15538 (IUBT19) were
+found tolerant to toluene and capable of degrading toluene. Toluene-degrading
+potential of these isolates was detected to be IUBT4 (10.35 ± 0.084 mg/h), IUBT19
+(14.07 ± 3.14 mg/h) and IUBT24 (11.1 ± 0.282 mg/h). Results of GC-MS analysis
+revealed that biotransformation of toluene is accomplished not only through known
+metabolic routes such as toluene 3-monooxygenase (T3MO), toluene 2-monooxygenase 
+(T2MO), toluene 4-monooxygenase (T4MO), toluene methyl monooxygenase (TOL),
+toluene dioxygenase (Tod), meta- and ortho-ring fission pathways. But
+additionally, confirmed existence of a unique metabolic pathway that involved
+conversion of toluene into intermediates such as cyclohexene, cyclohexane,
+cyclohexanone and cyclohexanol. LC-MS analysis indicated the presence of fatty
+acid amides, stigmine, emmotin A and 2, 2-dinitropropanol in supernatants of
+bacterial cultures. As the isolated bacteria transformed toluene into relatively 
+less toxic molecules and thus can be preferably exploited for the eco-friendly
+remediation of toluene.
+
+DOI: 10.1007/s00203-019-01705-0 
+PMID: 31332474  [Indexed for MEDLINE]
+

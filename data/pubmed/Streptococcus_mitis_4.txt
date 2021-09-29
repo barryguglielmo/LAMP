@@ -1,0 +1,37 @@
+
+1. RSC chem biol. 2020 Jun 1;1(2):60-67. doi: 10.1039/D0CB00012D. Epub 2020 May 29.
+
+Biological Evaluation of Native Streptococcal Competence Stimulating Peptides
+Reveal Potential Crosstalk Between Streptococcus mitis and Streptococcus
+pneumoniae and a New Scaffold for the Development of S. pneumoniae Quorum Sensing
+Modulators.
+
+Milly TA(1), Tal-Gan Y(1).
+
+Author information: 
+(1)Department of Chemistry, University of Nevada, Reno, 1664 N. Virginia Street, 
+Reno, Nevada 89557, United States.
+
+Streptococcus pneumoniae, an opportunistic human pathogen, acquires genes from
+its neighboring species of the mitis group of streptococci that confer antibiotic
+resistances and allow it to produce diverse virulence factors. Most species of
+the mitis group are naturally competent, and they utilize the competence
+stimulating peptide (CSP) and the CSP-dependent competence regulon, a conserved
+quorum sensing (QS) circuit, to regulate their competence behavior. The
+dependence of the mitis group on this communication pathway makes QS a potential 
+target to control their behavior. In this work, we sought to evaluate the impact 
+of native pheromones of the adjacent species of S. pneumoniae to modulate the
+activity of the S. pneumoniae competence regulon. Our results revealed the
+potential role of S. mitis as a modulator of QS in S. pneumoniae. Most
+importantly, our analysis also revealed that by using the native pheromone of S. 
+mitis as a template, highly potent pan-group agonists and antagonists of the
+pneumococcal competence regulon could be developed. The newly developed QS
+modulators may have therapeutic utility in treating pneumococcus infections.
+
+DOI: 10.1039/D0CB00012D 
+PMCID: PMC7470514 [Available on 2021-06-01]
+PMID: 32905481 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

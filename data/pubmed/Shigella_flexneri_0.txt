@@ -1,0 +1,57 @@
+
+1. J Bacteriol. 2020 Sep 28. pii: JB.00363-20. doi: 10.1128/JB.00363-20. [Epub ahead
+of print]
+
+Influence of Shigella flexneri 2a O antigen acetylation on its bacteriophage Sf6 
+receptor activity, and bacterial interaction with human cells.
+
+Teh MY(1), Furevi A(2), Widmalm G(2), Morona R(3).
+
+Author information: 
+(1)School of Biological Sciences, Department of Molecular & Biomedical Science,
+Research Centre for Infectious Diseases, University of Adelaide, Adelaide, 5005, 
+Australia.
+(2)Department of Organic Chemistry, Arrhenius Laboratory, Stockholm University,
+S-106 91 Stockholm, Sweden.
+(3)School of Biological Sciences, Department of Molecular & Biomedical Science,
+Research Centre for Infectious Diseases, University of Adelaide, Adelaide, 5005, 
+Australia renato.morona@adelaide.edu.au.
+
+Shigella flexneri is a major causative agent of bacillary dysentery in developing
+countries where serotype 2a2 is the prevalent strain. To date, approximately 30
+serotypes have been identified for S. flexneri and the major contribution to the 
+emergence of new serotypes is chemical modifications of the lipopolysaccharide
+(LPS) component O antigen (Oag). Glucosylation, O-acetylation and
+phosphoethanolamine (PEtN) modifications increase the Oag diversity providing
+benefits to S. flexneri LPS Oag acts as a primary receptor for bacteriophage Sf6,
+which only infects a limited range of S. flexneri serotypes (Y, X). It uses its
+tailspike protein (Sf6TSP) to establish initial interaction with LPS Oags that it
+then hydrolyses. Currently, there is a lack of comprehensive study on the parent 
+and serotype variant strains from the same genetic background and the
+understanding of the importance of LPS Oag O-acetylations. Therefore, a set of
+isogenic strains [based on S. flexneri 2457T (2a2)] with deletions of different
+Oag modification genes (oacB, oacD and gtrII) that resemble different naturally
+occurring serotype Y and 2a strains was created. The impact of these Oag
+modifications on S. flexneri sensitivity to Sf6 and the pathogenesis-related
+properties were then compared. We found that Sf6TSP can hydrolyse serotype 2a LPS
+Oag, identified that 3/4-O-acetylation is essential for resistance of serotype 2a
+strains to Sf6, and showed that serotype 2a strains have better invasion ability.
+Lastly, we revealed two new serotype conversions for S. flexneri thereby
+contributing to understanding the evolution of this important human
+pathogen.Importance The emergence of antibiotic resistance strains and lack of
+efficient vaccines have made Shigella a priority organism for the World Health
+Organisation (1). Therefore, bacteriophage therapy has received increasing
+attention as an alternative therapeutic approach. LPS Oag is the most variable
+part of LPS due to chemical modifications and is the target of bacteriophage Sf6 
+(S. flexneri-specific). We dissected the evolution of S. flexneri serotype Y to
+2a2, which revealed a new role for a gene acquired during serotype conversion and
+furthermore identified new specific forms of LPS receptor for Sf6. Collectively, 
+these results unfold the importance of the acquisition of those Oag modification 
+genes and further our understanding of the relationship between Sf6 and S.
+flexneri.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/JB.00363-20 
+PMID: 32989087 
+

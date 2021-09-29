@@ -1,0 +1,46 @@
+
+1. Bioprocess Biosyst Eng. 2019 Nov;42(11):1819-1828. doi:
+10.1007/s00449-019-02178-7. Epub 2019 Aug 21.
+
+Bioleaching of silicon in electrolytic manganese residue using single and mixed
+silicate bacteria.
+
+Lv Y(1), Li J(2)(3), Ye H(1)(4), Du D(1)(4), Gan C(1), Wuri L(1), Sun P(1), Wen
+J(1).
+
+Author information: 
+(1)College of Chemical Engineering, South-Central University for Nationalities,
+Wuhan, 430074, People's Republic of China.
+(2)College of Chemical Engineering, South-Central University for Nationalities,
+Wuhan, 430074, People's Republic of China. jiajiali1982@aliyun.com.
+(3)Hubei Province Engineering Research Center for Control and Treatment of Heavy 
+Metal Pollution, Wuhan, 430074, People's Republic of China.
+jiajiali1982@aliyun.com.
+(4)Hubei Province Engineering Research Center for Control and Treatment of Heavy 
+Metal Pollution, Wuhan, 430074, People's Republic of China.
+
+Electrolytic manganese residue (EMR) is a type of industrial solid waste with a
+high silicon content. The silicon in EMR can be used as an essential nutrient for
+plant growth, but most of the silicon is found in silicate minerals with very low
+water solubility, that is, it is inactive silicon and cannot be absorbed and used
+by plants directly. Thus, developing a highly effective and environmentally
+friendly process for the activation of silicon in EMR is important both for
+reusing solid waste and environmental sustainability. The aim of this study was
+to investigate the desilication of EMR using cultures of Paenibacillus
+mucilaginosus (PM) and Bacillus circulans (BC). The results showed that the two
+types of silicate bacteria and a mixed strain of them were all able to extract
+silicon from EMR with a high efficiency, but the desilication performance of the 
+mixed PM and BC was the best. Fourier transform infrared spectroscopy indicated
+that silicate bacteria can induce a suitable micro-environment near the EMR
+particles and release Si into the solution through their metabolism. X-ray
+diffraction analysis confirmed that layered crystal minerals, such as muscovite
+and diopside, were more likely to be destroyed by the bacterial action than
+quartz, which has a frame structure. Scanning electron microscopy-energy
+dispersive spectrometry proved that the silicate structures were destroyed and
+that Si in the residue was decreased, indicating the dissolution of silicon under
+the action of these microorganisms. This study suggests that bioleaching may be a
+promising method for the activation of silicon in EMR.
+
+DOI: 10.1007/s00449-019-02178-7 
+PMID: 31435737  [Indexed for MEDLINE]
+

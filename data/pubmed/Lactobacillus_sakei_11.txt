@@ -1,0 +1,55 @@
+
+1. Appl Environ Microbiol. 2020 Sep 1;86(18). pii: e02847-19. doi:
+10.1128/AEM.02847-19. Print 2020 Sep 1.
+
+Heme Uptake in Lactobacillus sakei Evidenced by a New Energy Coupling Factor
+(ECF)-Like Transport System.
+
+Verplaetse E(1), André-Leroux G(2), Duhutrel P(1), Coeuret G(1), Chaillou S(1),
+Nielsen-Leroux C(1), Champomier-Vergès MC(3).
+
+Author information: 
+(1)Université Paris-Saclay, INRAE, AgroParisTech, Micalis Institute,
+Jouy-en-Josas, France.
+(2)Université Paris-Saclay, INRAE, MaIAGE, Jouy-en-Josas, France.
+(3)Université Paris-Saclay, INRAE, AgroParisTech, Micalis Institute,
+Jouy-en-Josas, France marie-christine.champomier-verges@inrae.fr.
+
+Lactobacillus sakei is a nonpathogenic lactic acid bacterium and a natural
+inhabitant of meat ecosystems. Although red meat is a heme-rich environment, L.
+sakei does not need iron or heme for growth, although it possesses a
+heme-dependent catalase. Iron incorporation into L. sakei from myoglobin and
+hemoglobin was previously shown by microscopy and the L. sakei genome reveals the
+complete equipment for iron and heme transport. Here, we report the
+characterization of a five-gene cluster (from lsa1836 to lsa1840 [lsa1836-1840]) 
+encoding a putative metal iron ABC transporter. Interestingly, this cluster,
+together with a heme-dependent catalase gene, is also conserved in other species 
+from the meat ecosystem. Our bioinformatic analyses revealed that the locus might
+correspond to a complete machinery of an energy coupling factor (ECF) transport
+system. We quantified in vitro the intracellular heme in the wild type (WT) and
+in our Δlsa1836-1840 deletion mutant using an intracellular heme sensor and
+inductively coupled plasma mass spectrometry for quantifying incorporated 57Fe
+heme. We showed that in the WT L. sakei, heme accumulation occurs rapidly and
+massively in the presence of hemin, while the deletion mutant was impaired in
+heme uptake; this ability was restored by in trans complementation. Our results
+establish the main role of the L. sakei Lsa1836-1840 ECF-like system in heme
+uptake. Therefore, this research outcome sheds new light on other possible
+functions of ECF-like systems.IMPORTANCE Lactobacillus sakei is a nonpathogenic
+bacterial species exhibiting high fitness in heme-rich environments such as meat 
+products, although it does not need iron or heme for growth. Heme capture and
+utilization capacities are often associated with pathogenic species and are
+considered virulence-associated factors in the infected hosts. For these reasons,
+iron acquisition systems have been deeply studied in such species, while for
+nonpathogenic bacteria the information is scarce. Genomic data revealed that
+several putative iron transporters are present in the genome of the lactic acid
+bacterium L. sakei In this study, we demonstrate that one of them is an ECF-like 
+ABC transporter with a functional role in heme transport. Such evidence has not
+yet been brought for an ECF; therefore, our study reveals a new class of heme
+transport system.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.02847-19 
+PMCID: PMC7480364 [Available on 2021-03-01]
+PMID: 32680867 
+

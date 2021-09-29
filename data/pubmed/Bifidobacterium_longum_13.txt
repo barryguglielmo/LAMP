@@ -1,0 +1,55 @@
+
+1. Sci China Life Sci. 2020 Aug 25. doi: 10.1007/s11427-020-1788-2. [Epub ahead of
+print]
+
+Gut microbiome alterations and its link to corticosteroid resistance in immune
+thrombocytopenia.
+
+Wang Y(1)(2)(3), Liu F(1)(2)(3), Zhang G(1)(2)(3), Su Y(1)(2)(3), Sun X(1)(2)(3),
+Chen Q(1)(2)(3), Wang C(1)(2)(3), Fu H(1)(2)(3), He Y(1)(2)(3), Zhu X(1)(2)(3),
+Liu X(1)(2)(3), Lv M(1)(2)(3), Zhao X(1)(2)(3), Zhao X(1)(2)(3), Li Y(4)(5), Wang
+Q(4)(5)(6), Huang X(1)(2)(3), Zhang X(7)(8)(9).
+
+Author information: 
+(1)Peking University People's Hospital, Peking University Institute of
+Hematology, Beijing Key Laboratory of Hematopoietic Stem Cell Transplantation,
+Beijing, 100044, China.
+(2)Collaborative Innovation Centre of Hematology, Peking University, Beijing,
+100044, China.
+(3)National Clinical Research Center for Hematologic Disease, Beijing, 100044,
+China.
+(4)CAS Key Laboratory of Genomic and Precision Medicine, Collaborative Innovation
+Center of Genetics and Development, Beijing Institute of Genomics, Chinese
+Academy of Sciences, Beijing, 100101, China.
+(5)National Center for Bioinformation, Beijing, 100101, China.
+(6)University of Chinese Academy of Sciences, Beijing, 100049, China.
+(7)Peking University People's Hospital, Peking University Institute of
+Hematology, Beijing Key Laboratory of Hematopoietic Stem Cell Transplantation,
+Beijing, 100044, China. zhangxh100@sina.com.
+(8)Collaborative Innovation Centre of Hematology, Peking University, Beijing,
+100044, China. zhangxh100@sina.com.
+(9)National Clinical Research Center for Hematologic Disease, Beijing, 100044,
+China. zhangxh100@sina.com.
+
+Quantitative metagenomic studies have linked the gut microbiota to autoimmune
+disorders. Here, we performed deep shotgun metagenomic sequencing of fecal
+samples from 99 immune thrombocytopenia (ITP) patients and 52 healthy controls.
+Dysbiosis in the gut microbiome of ITP was detected phylogenetically and
+functionally, and classifier based on species markers distinguished individuals
+with ITP from healthy controls. In particular, the abundance of Ruminococcus
+gnavus, Bifidobacterium longum and Akkermansia muciniphila was markedly increased
+in treatment-naïve ITP patients, and the alterations of microbial species were
+correlated with clinical indices. Functionally, the secondary bile acid
+biosynthesis and flagellar assembly were depleted in the gut microbiota of ITP,
+which may contribute to the onset of ITP by affecting the immune system.
+Furthermore, we found that corticosteroid treatment affected the gut microbiome
+of ITP. Compared with corticosteroid-sensitive ITP patients, we identified that
+the corticosteroid-resistant ITP patients displayed a distinct gut microbiome,
+which was different from that of the treatment-naïve ITP patients. Together, we
+provided support for the critical role of gut microbiota in the development of
+ITP and established a foundation for further research characterizing gut
+microbiota in relation to corticosteroid resistance of ITP.
+
+DOI: 10.1007/s11427-020-1788-2 
+PMID: 32857289 
+

@@ -1,0 +1,35 @@
+
+1. Appl Biochem Biotechnol. 2020 Sep;192(1):120-131. doi:
+10.1007/s12010-020-03310-0. Epub 2020 Apr 8.
+
+Isolation and Characterization of a Novel myovirus Infecting Shigella dysenteriae
+from the Aeration Tank Water.
+
+Lu H(1), Liu H(1), Lu M(1), Wang J(1), Liu X(2), Liu R(3).
+
+Author information: 
+(1)College of Resources and Environment, University of Chinese Academy of
+Sciences, Beijing, 101408, China.
+(2)College of Resources and Environment, University of Chinese Academy of
+Sciences, Beijing, 101408, China. xcliu@ucas.ac.cn.
+(3)College of Resources and Environment, University of Chinese Academy of
+Sciences, Beijing, 101408, China. lry1981@ucas.ac.cn.
+
+The genome sequence, morphology, and genetic features of a novel phage, named
+SSE1, is reported here. Phage SSE1 that infects Shigella dysenteriae (China
+General Microbiological Culture Collection Center number: 1.1869) was isolated
+from the aeration tank water of a sewage treatment plant. SSE1 showed
+morphological features associated with those of phages in Myoviridae. The whole
+genome sequence of phage SSE1 is composed of 169,744 bp with the GC content of
+37.51%. The double-stranded DNA of SSE1 contains 270 open reading frameworks
+(ORFs). Phylogenetically, phage SSE1 showed a stronger homology (whole genome and
+terminase large subunit protein sequence) to Escherichia phages than other
+Shigella phages in the NCBI database, but SSE1 did not infect Escherichia stains.
+This indicates that phage SSE1 should be a novel phage infecting Shigella
+dysenteriae. Besides, the result of this study provided a new idea for phage
+therapy. SSE1 may become a candidate for potential therapy against Shigella
+dysenteriae infection in clinical applications.
+
+DOI: 10.1007/s12010-020-03310-0 
+PMID: 32270380 
+

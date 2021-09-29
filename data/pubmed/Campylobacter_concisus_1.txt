@@ -1,0 +1,72 @@
+
+1. Front Public Health. 2020 Apr 15;8:99. doi: 10.3389/fpubh.2020.00099. eCollection
+2020.
+
+Co-occurrence of Campylobacter Species in Children From Eastern Ethiopia, and
+Their Association With Environmental Enteric Dysfunction, Diarrhea, and Host
+Microbiome.
+
+Terefe Y(1)(2)(3), Deblais L(1)(3), Ghanem M(1)(3), Helmy YA(1), Mummed B(2),
+Chen D(4), Singh N(5), Ahyong V(6), Kalantar K(7), Yimer G(1)(3), Yousuf Hassen
+J(8), Mohammed A(2), McKune SL(4), Manary MJ(9), Ordiz MI(9), Gebreyes W(1)(3),
+Havelaar AH(5), Rajashekara G(1)(3).
+
+Author information: 
+(1)The Ohio State University, Columbus, OH, United States.
+(2)Veterinary Medicine, Haramaya University, Dire Dawa, Ethiopia.
+(3)Global One Health Initiative, The Ohio State University, Addis Ababa,
+Ethiopia.
+(4)Department of Environmental and Global Health, University of Florida,
+Gainesville, FL, United States.
+(5)Emerging Pathogens Institute, University of Florida, Gainesville, FL, United
+States.
+(6)Chan Zuckerberg Biohub, San Francisco, CA, United States.
+(7)Chan Zuckerberg Initiative, Redwood City, CA, United States.
+(8)Department of Rural Development and Agricultural Extension, Haramaya
+University, Dire Dawa, Ethiopia.
+(9)Department of Pediatrics, Washington University, St. Louis, MI, United States.
+
+High Campylobacter prevalence during early childhood has been associated with
+stunting and environmental enteric dysfunction (EED), especially in low resource 
+settings. This study assessed the prevalence, diversity, abundance, and
+co-occurrence of Campylobacter spp. in stools from children in a rural area of
+eastern Ethiopia and their association with microbiome, diarrhea, and EED in
+children. Stool samples (n = 100) were collected from randomly selected children 
+(age range: 360-498 days) in five kebeles in Haramaya District, Ethiopia.
+Diarrhea, compromised gut permeability, and gut inflammation were observed in 48,
+45, and 57% of children, respectively. Campylobacter prevalence and species
+diversity were assessed using PCR and meta-total RNA sequencing (MeTRS). The
+prevalence of Campylobacter spp. in the children's stools was 50% (41-60%) by PCR
+and 88% (80-93.6%) by MeTRS (P < 0.01). Further, seven Campylobacter species
+(Campylobacter jejuni, Campylobacter upsaliensis, Campylobacter hyointestinalis, 
+Campylobacter coli, Campylobacter sp. RM6137, uncultured Campylobacter sp., and
+Campylobacter sp. RM12175) were detected by MeTRS in at least 40% of children
+stools in high abundance (>1.76-log read per million per positive stool sample). 
+Four clusters of Campylobacter species (5-12 species per cluster) co-occurred in 
+the stool samples, suggesting that Campylobacter colonization of children may
+have occurred through multiple reservoirs or from a reservoir in which several
+Campylobacter species may co-inhabit. No associations between Campylobacter spp.,
+EED, and diarrhea were detected in this cross-sectional study; however,
+characteristic microbiome profiles were identified based on the prevalence of
+Campylobacter spp., EED severity, and diarrhea. Forty-seven bacterial species
+were correlated with Campylobacter, and 13 of them also correlated with gut
+permeability, gut inflammation and/or EED severity. Forty-nine species not
+correlated with Campylobacter were correlated with gut permeability, gut
+inflammation, EED severity and/or diarrhea. This study demonstrated that (1) in
+addition to C. jejuni and C. coli, multiple non-thermophilic Campylobacter spp.
+(i.e., Campylobacter hyointestinalis, Campylobacter fetus, and Campylobacter
+concisus) were frequently detected in the children's stools and (2) the
+Campylobacter, gut permeability, gut inflammation, EED severity, and diarrhea
+were associated with characteristic microbiome composition. Additional spatial
+and longitudinal studies are needed to identify environmental reservoirs and
+sources of infection of children with disparate Campylobacter species and to
+better define their associations with EED in low-income countries.
+
+Copyright © 2020 Terefe, Deblais, Ghanem, Helmy, Mummed, Chen, Singh, Ahyong,
+Kalantar, Yimer, Yousuf Hassen, Mohammed, McKune, Manary, Ordiz, Gebreyes,
+Havelaar and Rajashekara.
+
+DOI: 10.3389/fpubh.2020.00099 
+PMCID: PMC7174729
+PMID: 32351922 
+

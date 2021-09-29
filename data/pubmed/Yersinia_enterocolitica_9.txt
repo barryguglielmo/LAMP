@@ -1,0 +1,49 @@
+
+1. J Clin Microbiol. 2020 Sep 22;58(10). pii: e01033-20. doi: 10.1128/JCM.01033-20. 
+Print 2020 Sep 22.
+
+Performance Evaluation of the Novodiag Bacterial GE+ Multiplex PCR Assay.
+
+Roy C(1), Robert D(2), Bénéjat L(3)(4), Buissonnière A(3)(4), Ducournau A(3)(4), 
+Mégraud F(3)(4), Bessède E(3)(4), Boraud D(2), Lehours P(5)(4).
+
+Author information: 
+(1)University Hospital Pellegrin, Bordeaux, France.
+(2)EXALAB, Labexa Group, Le Haillan, France.
+(3)French National Reference Center for Campylobacters & Helicobacters, Hôpital
+Pellegrin, Bordeaux, France.
+(4)INSERM, University of Bordeaux, UMR1053 Bordeaux Research In Translational
+Oncology (BaRITOn), Bordeaux, France.
+(5)French National Reference Center for Campylobacters & Helicobacters, Hôpital
+Pellegrin, Bordeaux, France philippe.lehours@u-bordeaux.fr.
+
+The bacteriological diagnosis of intestinal bacterial infections has historically
+been based on culture on agar plates. However, culture may lack sensitivity, and 
+some enteropathogens, such as pathovars of Escherichia coli, may escape routine
+diagnosis. Our goal was to evaluate the analytical performance of the Novodiag
+Bacterial GE+ kit for the detection of enteropathogenic bacteria in acute
+community diarrhea. We included 251 stools in this study (198 retrospective and
+53 prospective). The analytical performance was calculated using a composite
+reference standard (CRS) in the absence of a perfect gold standard (lack of
+sensitivity of culture). The CRS was defined as positive if culture was positive 
+or, in case of a negative culture, if the BD Max extended enteric bacterial panel
+and/or other real-time PCR (RT-PCR) tests were positive. Of the 251 samples, 200 
+were positive, and 51 were negative. Overall sensitivities of the Novodiag
+Bacterial GE+ kit for Campylobacter sp., Salmonella sp., Shigella
+sp./enteroinvasive E. coli (EIEC), Yersinia enterocolitica, enterohemorrhagic E. 
+coli (EHEC), and enterotoxigenic E. coli (ETEC) ranged from 98.98 to 100%,
+specificities ranged from 98.08 to 100%, positive predictive values (PPVs) ranged
+from 88.24 to 100%, and negative predictive values (NVPs) ranged from 99.36 to
+100%. The analytical performance of the Novodiag Bacterial GE+ kit is excellent. 
+It can be used as a routine tool in the rapid diagnosis of bacterial
+gastroenteritis. Despite the eNAT tube dilution of the primary sample, the
+detection of Salmonella sp. and EHEC was perfect. The kit has the advantage of
+only detecting pathogenic Y. enterocolitica Its performance for Campylobacter is 
+very satisfactory.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/JCM.01033-20 
+PMCID: PMC7512166 [Available on 2021-03-22]
+PMID: 32719031 
+

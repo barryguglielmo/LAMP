@@ -1,0 +1,40 @@
+
+1. Bioresour Technol. 2020 Oct;314:123736. doi: 10.1016/j.biortech.2020.123736. Epub
+2020 Jun 26.
+
+Acceleration of biofilm formation in start-up of sequencing batch biofilm reactor
+using carriers immobilized with Pseudomonas stutzeri strain XL-2.
+
+Zhang P(1), Ding XS(1), Zhao B(2), An Q(1), Guo JS(1).
+
+Author information: 
+(1)Key Laboratory of the Three Gorges Reservoir Region's Eco-Environment,
+Ministry of Education, Chongqing University, Chongqing 400045, PR China.
+(2)Key Laboratory of the Three Gorges Reservoir Region's Eco-Environment,
+Ministry of Education, Chongqing University, Chongqing 400045, PR China.
+Electronic address: binzhao11@cqu.edu.cn.
+
+P. stutzeri strain XL-2 initially immobilized on polypropylene carriers
+accelerated the biofilm formation in start-up of sequencing batch biofilm reactor
+(SBBR) (denoted R1). The biofilm formation in R1 was approximately completed in
+36 days, which was shorter than that of 48 days in an identical SBBR (denoted R2)
+without strain XL-2. Meanwhile, R1 presented a rapid stabilization of NH4+-N and 
+TN removal to 81.7% and 72.4% respectively. Surface plasmon resonance
+demonstrated that strain XL-2 enhanced the initial adhesion of carrier surface
+due to the production of extracellular polymeric substances (EPS), which made it 
+easier for other EPS-producing strains, such as Thauera and Flavobacterium, to
+adhere to the carriers. PICRUSt revealed that biofilm in R1 presented relatively 
+higher activity of EPS biosynthesis enzymes (glycosyltransferase and asparagine
+synthase). Thus, high EPS content was obtained due to the application of carriers
+immobilized with strain XL-2 and finally promoted the biofilm formation.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biortech.2020.123736 
+PMID: 32619807  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

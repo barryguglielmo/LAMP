@@ -1,0 +1,51 @@
+
+1. Water Res. 2020 Aug 16;186:116306. doi: 10.1016/j.watres.2020.116306. [Epub ahead
+of print]
+
+Facilitated bio-mineralization of N,N-dimethylformamide in anoxic denitrification
+system: Long-term performance and biological mechanism.
+
+Wang J(1), Liu X(1), Jiang X(1), Zhang L(1), Hou C(1), Su G(1), Wang L(1), Mu
+Y(2), Shen J(3).
+
+Author information: 
+(1)Jiangsu Key Laboratory of Chemical Pollution Control and Resources Reuse,
+School of Environmental and Biological Engineering, Nanjing University of Science
+and Technology, Nanjing 210094, China.
+(2)CAS Key Laboratory of Urban Pollutant Conversion, Department of Applied
+Chemistry, University of Science and Technology of China, Hefei 230026, China.
+(3)Jiangsu Key Laboratory of Chemical Pollution Control and Resources Reuse,
+School of Environmental and Biological Engineering, Nanjing University of Science
+and Technology, Nanjing 210094, China. Electronic address:
+shenjinyou@mail.njust.edu.cn.
+
+Due to highly recalcitrant and toxicological nature of N,N-dimethylformamide
+(DMF), efficient removal of DMF is challenging for biological wastewater
+treatment. In this study, an anoxic denitrification system was developed and
+continuously operated for 220 days in order to verify the enhanced DMF
+biodegradation mechanism. As high as 41.05 mM DMF could be thoroughly removed in 
+the anoxic denitrification reactor at hydraulic residence time (HRT) of 24 h,
+while the total organic carbon (TOC) and nitrate removal efficiencies were as
+high as 95.7 ± 2.5% and 98.4 ± 1.1%, respectively. Microbial community analyses
+indicated that the species related to DMF hydrolysis (Paracoccus, Brevundimonas
+and Chryseobacterium) and denitrification (Paracoccus, Arenimonas,
+Hyphomicrobium, Aquamicrobium and Bosea) were effectively enriched in the anoxic 
+denitrification system. Transcriptional analysis coupled with enzymatic activity 
+assay indicated that both hydrolysis and mineralization of DMF were largely
+enhanced in the anoxic denitrification system. Moreover, the occurrence of
+microbial denitrification distinctly facilitated carbon source utilization to
+produce electron and energy, which was rather beneficial for better reactor
+performance. This study demonstrated that the anoxic denitrification system would
+be a potential alternative for efficient treatment of wastewater polluted by
+recalcitrant pollutants such as DMF.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.watres.2020.116306 
+PMID: 32861183 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

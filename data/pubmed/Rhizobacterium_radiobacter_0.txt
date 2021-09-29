@@ -1,0 +1,65 @@
+
+1. Int J Biol Macromol. 2020 Sep 12. pii: S0141-8130(20)34393-2. doi:
+10.1016/j.ijbiomac.2020.09.038. [Epub ahead of print]
+
+Gene expression abundance dictated exopolysaccharide modification in Rhizobium
+radiobacter SZ4S7S14 as the cell's response to salt stress.
+
+Rasulov BA(1), Dai J(2), Pattaeva MA(3), Yong-Hong L(4), Yili A(5), Aisa HA(5),
+Qiu D(2), Li WJ(6).
+
+Author information: 
+(1)Key Laboratory of Biogeography and Bioresource in Arid Land, Xinjiang
+Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011,
+Xinjiang, PR China; Laboratory of Biotechnology and Nanotechnology, Institute of 
+Genetics and Plant Experimental Biology, Uzbekistan Academy of Sciences, 111226, 
+Kybray District, Tashkent Province, Uzbekistan. Electronic address:
+bakhtiyor_1980@mail.ru.
+(2)Institute of Hydrobiology, Chinese Academy of Sciences, 7 South Donghu Road,
+430072, Wuhan, Hubei Province, PR China.
+(3)Laboratory of Biotechnology and Nanotechnology, Institute of Genetics and
+Plant Experimental Biology, Uzbekistan Academy of Sciences, 111226, Kybray
+District, Tashkent Province, Uzbekistan.
+(4)Key Laboratory of Biogeography and Bioresource in Arid Land, Xinjiang
+Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011,
+Xinjiang, PR China.
+(5)Key Laboratory of Plants Resources and Chemistry of Arid Zone, Xinjiang
+Technical Institute of Physics and Chemistry, Chinese Academy of Sciences, Urumqi
+830011, PR China.
+(6)Key Laboratory of Biogeography and Bioresource in Arid Land, Xinjiang
+Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011,
+Xinjiang, PR China; State Key Laboratory of Biocontrol and Guangdong Provincial
+Key Laboratory of Plant Resources, School of Life Sciences, Sun Yat-Sen
+University, Xinggang West Road, Guangzhou 510275, PR China.
+
+A molecular and metabolic behaviour of EPS-producing and salt-tolerant bacterium 
+Rhizobium radiobacter SZ4S7S14 along with its practical application in
+salt-stress was investigated. The research target was identification and
+expression profiles of a large EPS biosynthesis gene cluster, possible structural
+modification of EPS under salt-stress effect and analysis of the gene(s) relative
+expression and structural modification correlation. As expected, transposons
+insertions were identified within or near the coding regions of exoK and exoM,
+previously known large gene cluster that is required for EPS I synthesis.
+Different expression levels of exoK and exoM in different salt-stress models
+resulted in structural modification of EPS, which was seen basically in monomers 
+molar ratio. As a result of downregulation of the genes the strain produced EPS
+samples with monomers ratio: (1)
+Glu:Man:Gal:Xyl:Ara:Rha:Rib = 31.21:3.02:2.77:1:0.91:0.64:0.41 (in 0.25% NaCl);
+(2) Glu:Man:Gal:Xyl:Ara:Rha:Rib = 7.65:1:0.69:0.22:0.2:0.16:0.1 (in 0.5% NaCl);
+(3) Glu:Man:Gal:Ara:Xyl:Rha:Rib = 9.39:1.89:1:0.58:0.52:0.46:0.26 (in 1% NaCl);
+and (4) Glu:Man:Ara:Xyl:Rib:Gal = 7.9:2:2:1.58:1.1:1 (in 2.0% NaCl), whereas in
+control (without NaCl):
+Glc:Man:Gal:Xyl:Ara:Rha:Rib = 11.66:1:0.90:0.37:0.37:0.15:0.14. It was found
+that, salt-stress not only leads to downregulation of a large EPS biosynthesis
+gene cluster, including exoK and exoM genes, but also impacting on their relative
+expression degree, re-groups of the monomers within the EPS matrix and dictates
+molar ratio of the monosaccharides in the final metabolite.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.ijbiomac.2020.09.038 
+PMID: 32931833 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no competing interest.
+

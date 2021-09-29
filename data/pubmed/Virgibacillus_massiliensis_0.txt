@@ -1,0 +1,57 @@
+
+1. Biomed Res Int. 2019 Nov 30;2019:6470897. doi: 10.1155/2019/6470897. eCollection 
+2019.
+
+Identification of a New Serine Alkaline Peptidase from the Moderately Halophilic 
+Virgibacillus natechei sp. nov., Strain FarDT and its Application as Bioadditive 
+for Peptide Synthesis and Laundry Detergent Formulations.
+
+Mechri S(1), Bouacem K(1)(2), Amziane M(2), Dab A(1), Nateche F(2), Jaouadi
+B(1)(3).
+
+Author information: 
+(1)Laboratory of Microbial Biotechnology and Engineering Enzymes (LMBEE), Centre 
+of Biotechnology of Sfax (CBS), University of Sfax, Road of Sidi Mansour Km 6,
+P.O. Box 1177, Sfax 3018, Tunisia.
+(2)Laboratory of Cellular and Molecular Biology (LCMB), Microbiology Team,
+Faculty of Biological Sciences, University of Sciences and Technology of Houari
+Boumediene (USTHB), P.O. Box 32, El Alia, Bab Ezzouar, 16111 Algiers, Algeria.
+(3)Biotech ECOZYM Start-up, Business Incubator, Centre of Biotechnology of Sfax
+(CBS), University of Sfax, Road of Sidi Mansour Km 6, P.O. Box 1177, Sfax 3018,
+Tunisia.
+
+A new peptidase designated as SAPV produced from a moderately halophilic
+Virgibacillus natechei sp. nov., strain FarDT was investigated by purification to
+homogeneity followed by biochemical and molecular characterization purposes.
+Through optimization, it was determined that the optimum peptidase activity was
+16,000 U/mL. It was achieved after 36 h incubation at 35°C in the optimized
+enzyme liquid medium (ELM) at pH 7.4 that contains only white shrimp shell
+by-product (60 g/L) as sole energy and carbon sources. The SAPV enzyme is a
+monomer protein with a molecular mass of 31 kDa as estimated by sodium dodecyl
+sulfate polyacrylamide gel electrophoresis (SDS-PAGE) and high-performance liquid
+chromatography (HPLC) gel filtration chromatography. The sequence of its
+NH2-terminal amino-acid residues showed homology with those of Bacillus
+peptidases S8/S53 superfamily. The SAPV showed optimal activity at pH 9 and 60°C.
+Irreversible inhibition of enzyme activity by diiodopropyl fluorophosphates (DFP)
+and phenylmethanesulfonyl fluoride (PMSF) confirmed its belonging to the serine
+peptidases. Considering its interesting biochemical characterization, the sapV
+gene was cloned, sequenced, and heterologously overexpressed in the extracellular
+fraction of E. coli BL21(DE3)pLysS. The biochemical properties of the recombinant
+peptidase (rSAPV) were similar to those of the native one. The highest sequence
+identity value (97.66%) of SAPV was obtained with peptidase S8 from Virgibacillus
+massiliensis DSM 28587, with 9 amino-acid residues of difference. Interestingly, 
+rSAPV showed an outstanding and high resistance to several organic solvents than 
+SPVP from Aeribacillus pallidus VP3 and Thermolysin type X. Furthermore, rSAPV
+exhibited an excellent detergent stability and compatibility than Alcalase 2.4 L 
+FG and Bioprotease N100L. Considering all these remarkable properties, rSAPV has 
+attracted the interest of industrialists.
+
+Copyright © 2019 Sondes Mechri et al.
+
+DOI: 10.1155/2019/6470897 
+PMCID: PMC6914889
+PMID: 31886235  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts
+of interest.
+

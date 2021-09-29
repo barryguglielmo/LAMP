@@ -1,0 +1,51 @@
+
+1. Microb Ecol. 2020 Jan;79(1):30-37. doi: 10.1007/s00248-019-01375-x. Epub 2019 May
+5.
+
+First Report of KPC-2 and KPC-3-Producing Enterobacteriaceae in Wild Birds in
+Africa.
+
+Ben Yahia H(1), Chairat S(1), Gharsa H(1)(2), Alonso CA(3), Ben Sallem R(1),
+Porres-Osante N(3), Hamdi N(2)(4), Torres C(5), Ben Slama K(6)(7).
+
+Author information: 
+(1)Laboratoire des Microorganismes et Biomolécules Actives, Faculté des Sciences 
+de Tunis, Université de Tunis El Manar, 2092, Tunis, Tunisia.
+(2)Institut Supérieur des Sciences Biologiques Appliquées de Tunis, Université de
+Tunis El Manar, 1006, Tunis, Tunisia.
+(3)Area de Bioquímica y Biología Molecular, Universidad de La Rioja, Madre de
+Dios 51, 26006, Logroño, Spain.
+(4)U/R de Bio-Écologie et Systématique Évolutive; Faculté des Sciences de Tunis, 
+Campus El Manar, 2092, Tunis, Tunisia.
+(5)Area de Bioquímica y Biología Molecular, Universidad de La Rioja, Madre de
+Dios 51, 26006, Logroño, Spain. carmen.torres@unirioja.es.
+(6)Laboratoire des Microorganismes et Biomolécules Actives, Faculté des Sciences 
+de Tunis, Université de Tunis El Manar, 2092, Tunis, Tunisia.
+karim.benslama@fst.rnu.tn.
+(7)Institut Supérieur des Sciences Biologiques Appliquées de Tunis, Université de
+Tunis El Manar, 1006, Tunis, Tunisia. karim.benslama@fst.rnu.tn.
+
+The increased incidence of antibiotic-resistant Enterobacteriaceae is a public
+health problem worldwide. The aim of this study was to analyze the potential role
+of wild birds, given their capacity of migrating over long distances, in the
+spreading of carbapenemase, extended-spectrum β-lactamase (ESBL), and
+acquired-AmpC beta-lactamase-producing Enterobacteriaceae in the environment.
+Fecal and pellet samples were recovered from 150 wild birds in seven Tunisian
+regions and were inoculated in MacConkey-agar plates for Enterobacteriaceae
+recovery (one isolate/animal). Ninety-nine isolates were obtained and acquired
+resistance mechanisms were characterized in the five detected imipenem-resistant 
+and/or cefotaxime-resistant isolates, by PCR and sequencing. The following ESBL, 
+carbapenemase, and acquired-AmpC beta-lactamase genes were detected: blaCTX-M-15 
+(two Escherichia fergusonii and one Klebsiella oxytoca isolates), blaKPC-2 (one
+K. oxytoca), blaKPC-3 (one E. fergusonii), blaACT-36, and blaACC-2 (two K.
+oxytoca, four E. fergusonii, and two E. coli). The IncFIIs, IncF, IncFIB, IncK,
+IncP, and IncX replicons were detected among these beta-lactamase
+Enterobacteriaceae producers. The blaKPC-2, tetA, sul3, qnrB, and cmlA
+determinants were co-transferred by conjugation from K. oxytoca strain to E. coli
+J153, in association with IncK and IncF replicons. Our results support the
+implication of wild birds as a biological vector for carbapenemase, ESBL, and
+acquired-AmpC-producing Enterobacteriaceae.
+
+DOI: 10.1007/s00248-019-01375-x 
+PMID: 31055618  [Indexed for MEDLINE]
+

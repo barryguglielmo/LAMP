@@ -1,0 +1,56 @@
+
+1. Antimicrob Agents Chemother. 2020 Sep 21;64(10). pii: e00962-20. doi:
+10.1128/AAC.00962-20. Print 2020 Sep 21.
+
+ramR Deletion in an Enterobacter hormaechei Isolate as a Consequence of
+Therapeutic Failure of Key Antibiotics in a Long-Term Hospitalized Patient.
+
+Gravey F(1), Cattoir V(2)(3), Ethuin F(4), Fabre L(5), Beyrouthy R(6), Bonnet
+R(6), Le Hello S(#)(1)(7), Guérin F(#)(8)(9).
+
+Author information: 
+(1)Groupe de Recherche sur l'Adaptation Microbienne (GRAM 2.0), Normandie
+Université, UNICAEN, UNIROUEN, Caen, France.
+(2)Department of Clinical Microbiology, Rennes University Hospital, Rennes,
+France.
+(3)Inserm U1230, University of Rennes 1, Rennes, France.
+(4)Caen University Hospital, Surgical Intensive Care Unit, Caen, France.
+(5)Institut Pasteur, Bacterial Pathogen Enteric Unit, Paris, France.
+(6)Department of Clinical Microbiology, Clermont-Ferrand University Hospital,
+Clermont-Ferrand, France.
+(7)Department of Hospital Hygiene, Caen University Hospital, Caen, France.
+(8)Groupe de Recherche sur l'Adaptation Microbienne (GRAM 2.0), Normandie
+Université, UNICAEN, UNIROUEN, Caen, France francois.guerin@chu-rennes.fr.
+(9)Department of Clinical Microbiology, Caen University Hospital, Caen, France.
+(#)Contributed equally
+
+Genome changes are central to the adaptation of bacteria, especially under
+antibiotic pressure. The aim of this study was to report phenotypic and genomic
+adaptations undergone by an Enterobacter hormaechei clinical strain that became
+highly resistant to key antimicrobials during a 4-month period in a patient
+hospitalized in an intensive care unit (ICU). All six clinical E. hormaechei
+strains isolated in one ICU-hospitalized patient have been studied. MICs
+regarding 17 antimicrobial molecules have been measured. Single nucleotide
+polymorphisms (SNPs) were determined on the sequenced genomes. The expression of 
+genes involved in antibiotic resistance among Enterobacter cloacae complex
+strains were determined by reverse transcription-quantitative PCR (qRT-PCR). All 
+the strains belonged to sequence type 66 and were distant by a maximum of nine
+SNPs. After 3 months of hospitalization, three strains presented a significant
+increase in MICs for ceftazidime, cefepime, temocillin, ertapenem, tigecycline,
+ciprofloxacin, and chloramphenicol. Those resistant strains did not acquire
+additional antibiotic resistance genes but harbored a 16-bp deletion in the ramR 
+gene. This deletion led to upregulated expression of RamA, AcrA, AcrB, and TolC
+and downregulated expression of OmpF. The ΔramR mutant harbored the same
+phenotype as the resistant clinical strains regarding tigecycline,
+chloramphenicol, and ciprofloxacin. The increased expression of RamA due to
+partial deletion in the ramR gene led to a cross-resistance phenotype by an
+increase of antibiotic efflux through the AcrAB-TolC pump and a decrease of
+antibiotic permeability by porin OmpF. ramR appears to be an important adaptative
+trait for E. hormaechei strains.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AAC.00962-20 
+PMCID: PMC7508606 [Available on 2021-03-21]
+PMID: 32778545 
+

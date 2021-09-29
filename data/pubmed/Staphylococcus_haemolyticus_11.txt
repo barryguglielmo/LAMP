@@ -1,0 +1,49 @@
+
+1. J Antimicrob Chemother. 2020 Jul 29. pii: dkaa306. doi: 10.1093/jac/dkaa306.
+[Epub ahead of print]
+
+Activity of ceftaroline versus ceftobiprole against staphylococci and pneumococci
+in the UK and Ireland: analysis of BSAC surveillance data.
+
+Horner C(1), Mushtaq S(2), Livermore DM(3); BSAC Resistance Surveillance Standing
+Committee.
+
+Author information: 
+(1)British Society for Antimicrobial Chemotherapy, Birmingham, UK.
+(2)Antimicrobial Resistance and Healthcare Associated Infections Reference Unit, 
+Public Health England, London, UK.
+(3)Norwich Medical School, University of East Anglia, Norwich, UK.
+
+BACKGROUND: Ceftaroline and ceftobiprole inhibit most MRSA and MDR pneumococci.
+Few direct comparisons of their activity have been published, but in several
+years (2008, 2013, 2017 and 2018) both were tested in parallel in the BSAC
+Resistance Surveillance Programme, giving paired results. These are reviewed.
+METHODS: Isolates included were bloodstream Staphylococcus aureus [n = 1884
+(MRSA, n = 234)], bloodstream CoNS (n = 813; 574 methicillin resistant), and
+bloodstream (n = 852) and respiratory (n = 670) Streptococcus pneumoniae. MICs
+were determined by BSAC agar dilution and reviewed against EUCAST breakpoints; S.
+aureus breakpoints were assumed for CoNS.
+RESULTS: Ceftaroline MICs were mostly 2-fold lower than those of ceftobiprole,
+but, for all groups, MICs of both agents were strongly inter-related.
+Methicillin-susceptible staphylococci were universally susceptible to both
+agents; all MRSA were susceptible to ceftobiprole, whereas 10/234 had
+intermediate/high-dose susceptibility to ceftaroline. Among methicillin-resistant
+CoNS, 88% were susceptible to both agents, but reduced ceftaroline susceptibility
+and ceftobiprole resistance were frequent (65%) among methicillin-resistant
+Staphylococcus haemolyticus. One S. pneumoniae was resistant to both ceftaroline 
+(MIC 0.5 mg/L) and ceftobiprole (MIC 1 mg/L) and seven others were only resistant
+to ceftobiprole (MIC 1 mg/L); seven of these eight pneumococci belonged to
+serotype 19A or 19F. No time trend in susceptibility was seen for either
+cephalosporin.
+CONCLUSIONS: Ceftaroline and ceftobiprole have similarly good activity against
+staphylococci and pneumococci. Therapeutic choices between these agents should be
+predicated on other differentiating factors, including licensed indications,
+clinical experience and need for Gram-negative coverage.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the
+British Society for Antimicrobial Chemotherapy. All rights reserved. For
+permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jac/dkaa306 
+PMID: 32728710 
+

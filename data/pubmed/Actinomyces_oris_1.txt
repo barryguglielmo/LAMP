@@ -1,0 +1,47 @@
+
+1. Pharmaceutics. 2020 Sep 1;12(9). pii: E835. doi: 10.3390/pharmaceutics12090835.
+
+Assessment of CafA Targeted BAR-Encapsulated Nanoparticles against Oral Biofilms.
+
+Desai H(1)(2), Mahmoud MY(3)(4)(5), Tan J(1), Minooei F(4)(6), Demuth DR(1)(2),
+Steinbach-Rankins JM(2)(3)(4)(7).
+
+Author information: 
+(1)Department of Oral Immunology and Infectious Diseases, University of
+Louisville School of Dentistry, Louisville, KY 40202, USA.
+(2)Department of Microbiology and Immunology, University of Louisville School of 
+Medicine, Louisville, KY 40202, USA.
+(3)Department of Pharmacology and Toxicology, University of Louisville School of 
+Medicine, Louisville, KY 40202, USA.
+(4)Center for Predictive Medicine, University of Louisville, Louisville, KY
+40202, USA.
+(5)Department of Toxicology, Forensic Medicine and Veterinary Regulations,
+Faculty of Veterinary Medicine, Cairo University, Giza 12211, Egypt.
+(6)Department of Chemical Engineering, University of Louisville Speed School of
+Engineering, Louisville, KY 40202, USA.
+(7)Department of Bioengineering, University of Louisville Speed School of
+Engineering, Louisville, KY 40202, USA.
+
+Porphyromonas gingivalis adherence to Streptococcus gordonii is a crucial initial
+event that facilitates the colonization of P. gingivalis, a key pathogen in
+periodontal disease. As such, blocking these early interactions may present a
+potential avenue to limit P. gingivalis colonization. Nanoparticles encapsulating
+a synthetic peptide BAR (BAR-encapsulated NPs) inhibit P. gingivalis/S. gordonii 
+biofilm formation 1.8-fold more potently relative to free BAR. However,
+BAR-encapsulated NPs, like many orally delivered formulations, may benefit from a
+strategy that improves their retention in an open flow environment. Here, we
+sought to enhance the efficacy of BAR-encapsulated NPs by modifying their
+surfaces with coaggregation factor A (CafA), a fimbrial protein expressed by the 
+early colonizer, Actinomyces oris. We demonstrate that the targeting moiety,
+CafA, enhances NP binding and exhibits specificity of adherence to S. gordonii,
+relative to other oral bacterial species. Furthermore, CafA-modified NPs release 
+inhibitory concentrations of BAR for 12 h, a time frame relevant to oral dosage
+form delivery. Lastly, CafA-modified NPs potently inhibit P. gingivalis/S.
+gordonii biofilm formation for up to 12 h and are non-toxic at
+therapeutically-relevant concentrations. These results suggest that CafA-modified
+NPs represent a novel and efficacious delivery vehicle for localized, targeted
+delivery of BAR to P. gingivalis preferred niches.
+
+DOI: 10.3390/pharmaceutics12090835 
+PMID: 32882864 
+

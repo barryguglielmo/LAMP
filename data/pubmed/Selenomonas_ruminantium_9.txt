@@ -1,0 +1,86 @@
+
+1. Zhonghua Kou Qiang Yi Xue Za Zhi. 2020 Jul 9;55(7):466-474. doi:
+10.3760/cma.j.cn112144-20200413-00207.
+
+[Comparison of subgingival microbial profile of aggressive periodontitis, chronic
+periodontitis and periodontally healthy individuals].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Chen B(1), Li LL(1), Zhang Q(1), Liu J(1), Cheng Q(1), Yan FH(1).
+
+Author information: 
+(1)Department of Periodontology, Nanjing Stomatological Hospital, Medical School 
+of Nanjing University, Nanjing 210008, China.
+
+Objective: To compare the subgingival microbiota of subjects from patients with
+aggressive periodontitis (AgP), chronic periodontitis (CP) and periodontally
+healthy (PH) individuals, respectively. Methods: Volunteers were recruited from
+the Nangjing Stomatological Hospital, Medical School of Nanjing University during
+December 2013 to December 2014. Ten individuals were included in each of three
+groups. Preliminary estimation of sampling sites was chosen based on the X-ray
+and intraoral examination. Then the subgingival plaque samples were collected,
+the periodontal clinical indices were recorded, genes were extracted and
+amplified by PCR, and subsequently a DNA library was constructed for 16S rDNA
+sequencing. The library that can be successfully constructed and sequenced
+includes: 18 samples from 8 AgP group patients, 31 samples from 10 CP group
+patients and 10 samples from 8 PH group volunteers. Finally, we analyzed and
+compared the α-diversity, β-diversity and microbial compositions of samples in
+each group. Pearson correlation analysis was adopted to evaluate the correlation 
+between the relative abundance of microorganisms and the probing depth (PD).
+Results: The α-diversity of subgingival flora in AgP group was significantly
+lower than that in PH group and CP group, respectively (P<0.05). On the phylum
+level, the abundance of Bacteroides [(36.8±7.4)%] and Spirochetes [(16.0±5.4)%]
+in AgP group and the abundance of Bacteroides [(37.2±6.3)%] and Spirochetes
+[(11.8±3.6)%] in CP group were significantly higher than those in PH group
+[(27.5±11.2)%, (5.2±4.4)%, respectively, P<0.05]. While the relative abundance of
+Actinomycetes and Proteobacteria [(4.2±3.3)%, (12.9±5.1)%, respectively] in AgP
+group and that of CP group [(6.1±2.6)%, (12.1±4.0)%, respectively] were
+significantly higher than PH group [(19.3±13.1)%, (23.0±10.1)%, respectively,
+P<0.01). The abundance of Spirochetes and Tenericutes in AgP group [(16.0±5.4)%, 
+(1.7±1.2)%, respectively] were significantly higher than that in CP group
+[(11.8±3.6)%, (0.7±0.6)%, respectively, P<0.05]. At the genus level,
+Corynebacterium, Actinomycete, Saccharibacteria_norank, Selenomonas and
+Oribacterium in the subgingival flora of AgP group were significantly lower than 
+that of CP group, while the relative abundance of Actinomycetes,
+Lentimicrobiaceae_norank, Defluvitaleaceae_UCG_011, Family_XI_unclassified were
+significantly higher than that of CP group (P<0.05). Principal coordinate
+analysis showed that samples of each group clustered separately from each other. 
+Linear discriminant analysis revealed that the bacteria enriched in AgP group
+included Spirochetes, while in CP group included Bacteroidaceae. The result of
+correlation analysis showed that the abundance of the following genera in AgP
+group were positively correlated with PD: Treponema_2, Defluitaleaceaeae_UCG_011,
+Mycoplasma, Catonella, Fretibacterium (r=0.525-0.750, P<0.05). While the relative
+abundance of Comamonadaceae_unclassified, Streptococcus, Capnocytophaga,
+Neisseria, Prevotella, Peptococcus, Ralstonia, Bergenia and Actinomycetes were
+negatively associated with PD (r=-0.617--0.490, P<0.05). In the CP group, the
+abundance of Dialister, Family_XI_unclassified, Catonella, Peptococcus, Pelospora
+and Rikenella_RC9_gut group were positively correlated with PD (r=0.430-0.533,
+P<0.05). Conclusions: There is a clear difference between the subgingival flora
+of periodontal patients and that of PH individuals. Besides, subgingival flora of
+AgP and CP are also different, suggesting that these could be two different
+diseases.
+
+Publisher: 目的： 比较侵袭性牙周炎（aggressive periodontitis，AgP）、慢性牙周炎（chronic
+periodontitis，CP）与牙周健康者（periodontally
+healthy，PH）龈下菌群的差异，为牙周病的病因学研究及基于菌群调控的牙周病新疗法提供参考。 方法：
+按纳入标准收集2013年12月至2014年12月在南京大学医学院附属口腔医院·南京市口腔医院牙周病科门诊就诊的AgP（AgP组）、CP（CP组）患者和PH受试者（
+PH组）各10例，根据X线片和口内情况初步预估取样位点后，收集各组龈下菌斑并记录各项牙周临床指数，提取龈下菌斑样本中的DNA，PCR扩增、构建DNA文库并对16S
+rDNA测序。最终可成功构建文库并测序者包含：8例AgP患者的18个样本，10例CP患者的31个样本和8名PH志愿者的10个样本。对各组样本的α多样性和β多样性以
+及菌群构成进行分析和比较，并采用Pearson相关性分析评价细菌与探诊深度的相关性。 结果：
+菌群分析显示，AgP组龈下菌群的α多样性显著低于其他两组（P<0.05）。在门水平，AgP和CP组拟杆菌门丰度[分别为（36.8±7.4）%、（37.2±6.3）
+%]、螺旋体门丰度[分别为（16.0±5.4）%、（11.8±3.6）%]均显著高于PH组[分别为（27.5±11.2）%、（5.2±4.4）%]（P<0.05）
+，而放线菌门和变形菌门丰度[AgP组分别为（4.2±3.3）%、（12.9±5.1）%；CP组分别为（6.1±2.6）%、（12.1±4.0）%]均显著低于PH组
+[分别为（19.3±13.1）%、（23.0±10.1）%]（P<0.01）；AgP组龈下菌群中螺旋体门和柔壁菌门的丰度[分别为（16.0±5.4）%、（1.7±
+1.2）%]均显著高于CP组[分别为（11.8±3.6）%、（0.7±0.6）%]（P<0.05）。在属水平，AgP组龈下菌群中棒状杆菌属、放线菌属、Saccha
+ribacteria_norank、月形单胞菌属、Oribacterium的丰度显著低于CP组，而产线菌属、Lentimicrobiaceae_norank、De
+fluviitaleaceae_UCG_011、Family_XI_unclassified的丰度显著高于CP组(P<0.05）。主坐标分析显示，各组样本存在聚类
+现象。线性判别分析显示，AgP组富集菌包括螺旋体科等，CP组富集菌包括拟杆菌科等。相关性分析显示，AgP组中密螺旋体属、Defluviitaleaceae_UCG
+_011、支原体属、卡氏菌属、Fretibacterium的丰度与探诊深度呈显著正相关（r=0.525~0.750，P<0.05），丛毛单胞菌科-未分类的属、链球
+菌属、二氧化碳噬纤维菌属、奈瑟菌属、普雷沃菌属、消化球菌属、劳尔菌属、Bergeyella和放线菌属的丰度与探诊深度呈显著负相关（r=-0.617~-0.490，
+P<0.05）；CP组小类杆菌属、Family_XI_unclassified、卡氏菌属、消化链球菌属、Pelospora和理研菌科_RC9_肠组的丰度与探诊深度
+呈显著正相关（r=0.430~0.533，P<0.05）。 结论：
+牙周炎症和健康时其龈下菌群存在明显不同；AgP和CP的龈下菌群也存在明显差异，提示这可能是两种不同的疾病。.
+DOI: 10.3760/cma.j.cn112144-20200413-00207 
+PMID: 32634885  [Indexed for MEDLINE]
+

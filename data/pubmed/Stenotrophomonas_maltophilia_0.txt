@@ -1,0 +1,55 @@
+
+1. J Glob Antimicrob Resist. 2020 Oct 1. pii: S2213-7165(20)30239-3. doi:
+10.1016/j.jgar.2020.09.008. [Epub ahead of print]
+
+Characteristic antimicrobial resistance of clinical isolated strain
+Stenotrophomonas maltophilia CYZ via complete genome sequence.
+
+Ma J(1), Feng J(2), Shan Y(3), Zhao Y(4), Qiao H(4), Xie L(4), Lin X(5), Wang
+C(6), Chuai X(7).
+
+Author information: 
+(1)Department of Cardiology, The Fourth Hospital, Hebei Medical University,
+Shijiazhuang 050017, PR China.
+(2)Clinical Laboratory, The Fourth Hospital, Hebei Medical University,
+Shijiazhuang 050017, PR China.
+(3)The Fourth School of clinical Medicine, Hebei Medical University, Shijiazhuang
+050017, PR China.
+(4)Department of Pathogenic Biology, Hebei Medical University, Shijiazhuang
+050017, PR China.
+(5)School of Pharmacy, Hebei Medical University, Shijiazhuang 050017, PR China.
+(6)Department of Pathogenic Biology, Hebei Medical University, Shijiazhuang
+050017, PR China. Electronic address: greencity2008@126.com.
+(7)Department of Pathogenic Biology, Hebei Medical University, Shijiazhuang
+050017, PR China. Electronic address: chuaixiahb@126.com.
+
+OBJECTIVE: Stenotrophomonas maltophilia is an important multidrug-resistant
+pathogen that is associated with various of serious nosocomial infections. In our
+study, we investigated the traits of antimicrobial resistance of a clinical
+isolated strain of S. maltophilia, which was termed as CYZ from the sputum of an 
+immunocompromised patient.
+METHODS: The whole genome sequence of S. maltophilia CYZ was investigated via the
+Pacbio RS II system. The functions of all the predicted genes were annotated by
+the COG, GO and KEGG databases. Several types of antibiotics were selected to
+test the antimicrobial susceptibility, and the phylogenetic tree was constructed 
+that based on the 16S rRNA gene sequences.
+RESULTS: S. maltophilia CYZ has a length of 4,517,685 bp and contains 4,077
+predicted genes, with an average G + C content of 66.65%. Functional genomic
+analysis via the annotations of the COG and GO databases revealed that the
+bacteria exhibited specific manners to resist the antibiotics. The annotated
+genes that were involved in flagella, pili or fimbriae, biofilm formation,
+polysaccharide, and cyclic-di-GMP may contribute to promote the ability of
+antimicrobial resistance. This bacterium showed sensitivity to levofloxacin,
+trimethoprim-sulfamethoxazole, and minocycline via antibiotics sensitivity tests.
+Phylogenetic relationship indicated that S. maltophilia CYZ exhibited closely
+relation to the strains of S. maltophilia, which were isolated from the
+nosocomial environment.
+CONCLUSIONS: The current results give us a better understanding of the genetic
+characteristics of the antimicrobial resistance of S. maltophilia CYZ, and
+provide well genetic basis for further studying on the phenotype.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jgar.2020.09.008 
+PMID: 33011310 
+

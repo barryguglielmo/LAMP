@@ -1,0 +1,61 @@
+
+1. iScience. 2020 May 22;23(5):101090. doi: 10.1016/j.isci.2020.101090. Epub 2020
+Apr 22.
+
+Cooperativity in Proteasome Core Particle Maturation.
+
+Suppahia A(1), Itagi P(2), Burris A(1), Kim FMG(3), Vontz A(3), Kante A(4), Kim
+S(5), Im W(6), Deeds EJ(7), Roelofs J(8).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, University of Kansas Medical
+Center, 3901 Rainbow Boulevard, Kansas City, KS 66160, USA; Molecular, Cellular, 
+and Developmental Biology Program, Division of Biology, Kansas State University, 
+338 Ackert Hall, Manhattan, KS 66506, USA.
+(2)Center for Computational Biology, University of Kansas, 2030 Becker Drive,
+Lawrence, KS 66047, USA; Institute for Quantitative and Computational
+Biosciences, University of California Los Angeles, Los Angeles, CA 99024, USA.
+(3)Molecular, Cellular, and Developmental Biology Program, Division of Biology,
+Kansas State University, 338 Ackert Hall, Manhattan, KS 66506, USA.
+(4)Institute for Quantitative and Computational Biosciences, University of
+California Los Angeles, Los Angeles, CA 99024, USA; Department of Molecular
+Biosciences, University of Kansas, Lawrence, KS 66047, USA.
+(5)Department of Biological Sciences, Lehigh University, Bethlehem, PA 18105,
+USA.
+(6)Department of Biological Sciences, Lehigh University, Bethlehem, PA 18105,
+USA; Department of Bioengineering, Lehigh University, Bethlehem, PA 18105, USA;
+Department of Chemistry, Lehigh University, Bethlehem, PA 18105, USA.
+(7)Center for Computational Biology, University of Kansas, 2030 Becker Drive,
+Lawrence, KS 66047, USA; Institute for Quantitative and Computational
+Biosciences, University of California Los Angeles, Los Angeles, CA 99024, USA;
+Department of Integrative Biology and Physiology, University of California Los
+Angeles, Los Angeles, CA 99024, USA. Electronic address: deeds@ucla.edu.
+(8)Department of Biochemistry and Molecular Biology, University of Kansas Medical
+Center, 3901 Rainbow Boulevard, Kansas City, KS 66160, USA; Molecular, Cellular, 
+and Developmental Biology Program, Division of Biology, Kansas State University, 
+338 Ackert Hall, Manhattan, KS 66506, USA. Electronic address: jroelofs@kumc.edu.
+
+Proteasomes are multi-subunit protease complexes found in all domains of life.
+The maturation of the core particle (CP), which harbors the active sites,
+involves dimerization of two half CPs (HPs) and an autocatalytic cleavage that
+removes β propeptides. How these steps are regulated remains poorly understood.
+Here, we used the Rhodococcus erythropolis CP to dissect this process in vitro.
+Our data show that propeptides regulate the dimerization of HPs through flexible 
+loops we identified. Furthermore, N-terminal truncations of the propeptides
+accelerated HP dimerization and decelerated CP auto-activation. We identified
+cooperativity in autocatalysis and found that the propeptide can be partially
+cleaved by adjacent active sites, potentially aiding an otherwise strictly
+autocatalytic mechanism. We propose that cross-processing during bacterial CP
+maturation is the underlying mechanism leading to the observed cooperativity of
+activation. Our work suggests that the bacterial β propeptide plays an unexpected
+and complex role in regulating dimerization and autocatalytic activation.
+
+Copyright © 2020 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.isci.2020.101090 
+PMCID: PMC7210456
+PMID: 32380419 
+
+Conflict of interest statement: Declaration of Interests The authors declare no
+competing interests.
+

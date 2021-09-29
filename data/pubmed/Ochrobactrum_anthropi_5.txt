@@ -1,0 +1,48 @@
+
+1. Microorganisms. 2020 Apr 26;8(5). pii: E625. doi: 10.3390/microorganisms8050625.
+
+Kinetics and New Mechanism of Azoxystrobin Biodegradation by an Ochrobactrum
+anthropi Strain SH14.
+
+Feng Y(1)(2), Zhang W(1)(2), Pang S(1)(2), Lin Z(1)(2), Zhang Y(1)(2), Huang
+Y(1)(2), Bhatt P(1)(2), Chen S(1)(2).
+
+Author information: 
+(1)State Key Laboratory for Conservation and Utilization of Subtropical
+Agro-bioresources, Guangdong Province Key Laboratory of Microbial Signals and
+Disease Control, Integrative Microbiology Research Centre, South China
+Agricultural University, Guangzhou 510642, China.
+(2)Guangdong Laboratory for Lingnan Modern Agriculture, Guangzhou 510642, China.
+
+Azoxystrobin is one of the most popular strobilurin fungicides, widely used in
+agricultural fields for decades.Extensive use of azoxystrobin poses a major
+threat to ecosystems. However, little is known about the kinetics and mechanism
+of azoxystrobin biodegradation. The present study reports a newly isolated
+bacterial strain, Ochrobactrum anthropi SH14, utilizing azoxystrobin as a sole
+carbon source, was isolated from contaminated soils. Strain SH14 degraded 86.3%
+of azoxystrobin (50 μg·mL-1) in a mineral salt medium within five days. Maximum
+specific degradation rate (qmax), half-saturation constant (Ks), and inhibition
+constant (Ki) were noted as 0.6122 d-1, 6.8291 μg·mL-1, and 188.4680 μg·mL-1,
+respectively.Conditions for strain SH14 based azoxystrobin degradation were
+optimized by response surface methodology. Optimum degradation was determined to 
+be 30.2 °C, pH 7.9, and 1.1 × 107 CFU·mL-1 of inoculum. Strain SH14 degraded
+azoxystrobin via a novel metabolic pathway with the formation of
+N-(4,6-dimethoxypyrimidin-2-yl)-acetamide,2-amino-4-(4-chlorophenyl)-3-cyano-5,6-
+dimethyl-pyridine, and 3-quinolinecarboxylic acid,6,8-difluoro-4-hydroxy-ethyl
+ester as the main intermediate products, which were further transformed without
+any persistent accumulative product. This is the first report of azoxystrobin
+degradation pathway in a microorganism. Strain SH14 also degraded other
+strobilurin fungicides, including kresoxim-methyl (89.4%), pyraclostrobin
+(88.5%), trifloxystrobin (78.7%), picoxystrobin (76.6%), and fluoxastrobin
+(57.2%) by following first-order kinetic model. Bioaugmentation of
+azoxystrobin-contaminated soils with strain SH14 remarkably enhanced the
+degradation of azoxystrobin, and its half-life was substantially reduced by 95.7 
+and 65.6 days in sterile and non-sterile soils, respectively, in comparison with 
+the controls without strain SH14. The study presents O. anthropi SH14 for
+enhanced biodegradation of azoxystrobin and elaborates on the metabolic pathways 
+to eliminate its residual toxicity from the environment.
+
+DOI: 10.3390/microorganisms8050625 
+PMCID: PMC7284741
+PMID: 32357564 
+

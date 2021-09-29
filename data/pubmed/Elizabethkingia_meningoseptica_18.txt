@@ -1,0 +1,46 @@
+
+1. Front Microbiol. 2020 Jul 9;11:1557. doi: 10.3389/fmicb.2020.01557. eCollection
+2020.
+
+Complementary Use of Cultivation and High-Throughput Amplicon Sequencing Reveals 
+High Biodiversity Within Raw Milk Microbiota.
+
+Breitenwieser F(1), Doll EV(2), Clavel T(3)(4), Scherer S(2)(4), Wenning M(2)(5).
+
+Author information: 
+(1)Milchprüfring Baden-Württemberg e.V., Kirchheim unter Teck, Germany.
+(2)Chair for Microbial Ecology, Weihenstephan School of Life Sciences, Technische
+Universität München, Freising, Germany.
+(3)Functional Microbiome Research Group, Institute of Medical Microbiology, RWTH 
+University Hospital, Aachen, Germany.
+(4)ZIEL - Institute for Food and Health, Technische Universität München,
+Freising, Germany.
+(5)Bavarian Health and Food Safety Authority, Oberschleißheim, Germany.
+
+Raw milk microbiota are complex communities with a significant impact on the
+hygienic, sensory and technological quality of milk products. However, there is a
+lack of knowledge on factors determining their composition. In the present study,
+four bulk tank milk samples of two farms at two different time points were
+analyzed in detail for their microbiota using cultivation and 16S rRNA amplicon
+sequencing. Diversity in samples from the first time point was assessed via
+cultivation of 500 aerobic mesophilic bacterial isolates in each sample. A high
+biodiversity of 70 and 110 species per sample was determined, of which 25-28%
+corresponded to yet unknown taxa. The isolates were dominated by Gram-positive
+members of the genera Staphylococcus, Corynebacterium, Streptococcus, or
+Janibacter, whilst Chryseobacterium and Acinetobacter were most abundant among
+the Gram-negative taxa. At the second time point, samples of the same farms were 
+analyzed via both cultivation (1,500 individual colonies each) and
+high-throughput 16S rRNA gene amplicon sequencing. The latter revealed a
+threefold higher biodiversity at the genus level, as anaerobic or fastidious
+species were also detected. However, cultivation identified genera not captured
+by sequencing, indicating that both approaches are complementary. Using amplicon 
+sequencing, the relative abundance of a few genera was distorted, which seems to 
+be an artifact of sample preparation. Therefore, attention needs to be paid to
+the library preparation procedure with special emphasis on cell lysis and PCR.
+
+Copyright © 2020 Breitenwieser, Doll, Clavel, Scherer and Wenning.
+
+DOI: 10.3389/fmicb.2020.01557 
+PMCID: PMC7365021
+PMID: 32742267 
+

@@ -1,0 +1,65 @@
+
+1. J Int AIDS Soc. 2020 Oct;23 Suppl 6:e25599. doi: 10.1002/jia2.25599.
+
+Association of age with healthcare needs and engagement among Nigerian men who
+have sex with men and transgender women: cross-sectional and longitudinal
+analyses from an observational cohort.
+
+Ramadhani HO(1), Crowell TA(2)(3), Nowak RG(1), Ndembi N(4), Kayode BO(4),
+Kokogho A(3)(5), Ononaku U(4), Shoyemi E(6), Ekeh C(6), Adebajo S(7), Baral
+SD(8), Charurat ME(1).
+
+Author information: 
+(1)Institute of Human Virology, University of Maryland School of Medicine,
+Baltimore, MD, USA.
+(2)Henry M. Jackson Foundation for the Advancement of Military Medicine Inc,
+Bethesda, MD, USA.
+(3)U.S. Military HIV Research Program, Walter Reed Army Institute of Research,
+Silver Spring, MD, USA.
+(4)Institute of Human Virology Nigeria, Abuja, Nigeria.
+(5)HJF Medical Research International, Abuja, Federal Capital Territory, Nigeria.
+(6)Population Council, Abuja, Federal Capital Territory, Nigeria.
+(7)Maryland Global Initiatives Corporation- A University of Maryland Baltimore
+Affiliate, Abuja, Nigeria.
+(8)Johns Hopkins School of Public Health, Baltimore, MD, USA.
+
+INTRODUCTION: Young men who have sex with men (MSM) and transgender women (TGW)
+face stigmas that hinder access to healthcare. The aim of the study was to
+understand age-related determinants of healthcare needs and engagement among MSM 
+and TGW.
+METHODS: The TRUST/RV368 cohort provides integrated prevention and treatment
+services for HIV and other sexually transmitted infections (STIs) tailored to the
+needs of sexual and gender minorities. MSM and TGW aged ≥16 years in Abuja and
+≥18 years Lagos, Nigeria, completed standardized behavioural questionnaires and
+were tested for HIV, Neisseria gonorrhoeae (NG) and Chlamydia trachomatis (CT)
+every three months for up to 18 months. Logistic regression was used to estimate 
+adjusted odds ratios (aORs) for associations of age and other factors with
+outcomes of interest upon enrolment, including HIV care continuum steps - HIV
+testing, ART initiation and viral suppression <1000 copies/mL. Cox proportional
+hazards models were used to calculate adjusted hazard ratios (aHRs) for
+associations with incident infections.
+RESULTS: Between March 2013 and February 2019, 2123 participants were enrolled
+with median age 23 (interquartile range 21 to 27) years. Of 1745 tested, 865
+(49.6%) were living with HIV. HIV incidence was 11.6/100 person-years [PY],
+including 23.1/100PY (95% CI 15.5 to 33.1) among participants aged 16 to 19 years
+and 23.8/100 PY (95% CI 13.6 to 39.1) among TGW. Compared to participants aged
+≥25 years, those aged 16 to 19 years had decreased odds of prior HIV testing (aOR
+0.40 [95% CI 0.11 to 0.92]), disclosing same-sex sexual practices to healthcare
+workers (aOR 0.53 [95% CI 0.36 to 0.77]) and receiving HIV prevention information
+(aOR 0.60 [95% CI 0.41 to 0.87]). They had increased odds of avoiding healthcare 
+(aOR 1.94 [95% CI 1.3 to 2.83]) and engaging in transactional sex (aOR 2.76 [95% 
+CI 1.92 to 3.71]). Age 16 to 19 years was independently associated with increased
+incidence of HIV (aHR 4.09 [95% CI 2.33 to 7.49]), NG (aHR 3.91 [95% CI 1.90 to
+8.11]) and CT (aHR 2.74 [95% CI 1.48 to 5.81]).
+CONCLUSIONS: Young MSM and TGW demonstrated decreased healthcare engagement and
+higher incidence of HIV and other STIs as compared to older participants in this 
+Nigerian cohort. Interventions to address unique obstacles to healthcare
+engagement by adolescents and young adults are needed to curb the spread of HIV
+and other STIs among MSM and TGW in Nigeria.
+
+© 2020 The Authors. Journal of the International AIDS Society published by John
+Wiley & Sons Ltd on behalf of the International AIDS Society.
+
+DOI: 10.1002/jia2.25599 
+PMID: 33000907 
+

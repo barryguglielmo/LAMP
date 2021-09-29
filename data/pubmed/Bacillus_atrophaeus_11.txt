@@ -1,0 +1,46 @@
+
+1. Environ Monit Assess. 2020 Jun 24;192(7):455. doi: 10.1007/s10661-020-08434-8.
+
+Comparison of surface sampling methods for an extended duration outdoor
+biological contamination study.
+
+Mikelonis AM(1), Abdel-Hady A(2), Aslett D(2), Ratliff K(1), Touati A(2), Archer 
+J(1), Serre S(3), Mickelsen L(3), Taft S(1), Calfee MW(4).
+
+Author information: 
+(1)Office of Research and Development, Center for Environmental Solutions and
+Emergency Response, US EPA, Cincinnati, OH, USA.
+(2)Jacobs Technology Inc, Research Triangle Park, Durham, NC, USA.
+(3)Office of Land and Emergency Management, CBRN Consequence Management Advisory 
+Division, US EPA, Research Triangle Park, Durham, NC, USA.
+(4)Office of Research and Development, Center for Environmental Solutions and
+Emergency Response, US EPA, Cincinnati, OH, USA. calfee.worth@epa.gov.
+
+Bacillus anthracis, the causative agent for anthrax, is a dangerous pathogen to
+humans and has a history as a bioterrorism agent. While sampling methods have
+been developed and evaluated for characterizing and clearing contaminated indoor 
+sites, the performance of these sampling methods is unknown for use in outdoor
+environments. This paper presents surface sampling data for Bacillus atrophaeus
+spores, a surrogate for B. anthracis, from a 210-day outdoor study that evaluated
+the detection and recovery of spores using five different sampling methods as
+follows: sponge sticks, 37-mm vacuum filter cassettes, residential wet vacuums,
+robotic floor cleaners, and grab samples of soil, leaves, and grass. The spores
+were applied by spraying a liquid suspension onto the surfaces. Both asphalt and 
+concrete surfaces were sampled by all the surface sampling methods, excluding
+grab sampling. Stainless steel coupons placed outdoors were additionally sampled 
+using sponge sticks. Sampling methods differed in their ability to collect
+detectable spores over the duration of the study. The 37-mm vacuums and sponge
+sticks consistently detected spores on asphalt through day 37 and robots through 
+day 99. The wet vacuums detected spores on asphalt for days 1 and 4, but not
+again until day 210. On concrete, all samplers detected spores until day 210
+except for sponge stick samplers that detected spores only up until the day 99
+time point. For all sampling methods, spore recoveries were higher from concrete 
+than from asphalt surfaces. There was no statistically significant difference in 
+recoveries of sponge sticks and 37-mm vacuums from either asphalt or concrete
+surfaces. Processing of grab samples was challenging due to non-target background
+microorganisms resulting in high detection limits for the samples.
+
+DOI: 10.1007/s10661-020-08434-8 
+PMCID: PMC7489310 [Available on 2021-06-24]
+PMID: 32583176  [Indexed for MEDLINE]
+

@@ -1,0 +1,63 @@
+
+1. Zhonghua Yan Ke Za Zhi. 2020 Jul 11;56(7):519-523. doi:
+10.3760/cma.j.cn112142-20190711-00371.
+
+[Identification of pathogens in the vitreous of patients with infectious uveitis 
+by metagenomic sequencing].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Zhang MX(1), Peng XY(2), Hu F(2), Wei ZY(2), Lu XX(1), Liang QF(2).
+
+Author information: 
+(1)Clinical Laboratory of Beijing Tongren Hospital, Capital Medical University,
+Beijing 100730, China.
+(2)Beijing Tongren Eye Center, Beijing Tongren Hospital, Capital Medical
+University, Beijing Institute of Ophthalmology, Beijing Key Laboratory of
+Ophthalmology & Visual Sciences, Beijing 100730, China.
+
+Objective: To investigate the role of metagenomic sequencing in the diagnosis of 
+infectious uveitis. Methods: Cross-sectional study. A total of 19 vitreous
+specimens of patients with suspected infectious uveitis from March 2016 to July
+2018 in Beijing Tongren Hospital were collected, including 8 males and 11
+females, 19 to 68 years old. There were 10 cases in the right eye, 8 cases in the
+left eye and 1 case in both eyes. Acute retinal necrosis was clinically diagnosed
+in 8 patients (9 eyes), and the diagnosis was unknown in 11 patients (11 eyes).
+About 1 ml of the vitreous fluid was reserved for each specimen, 800 μl for
+metagenomic sequencing and 200 μl for real-time fluorescence quantitative PCR
+verification. The TIANamp Micro DNA Kit was used to extract the sample DNA for
+metagenomic sequencing, and the ultrasonic fragment was broken to 200-300 bp. The
+BGISEQ-500 platform was used for sequencing. The data with low quality and length
+less than 35 bp were cleared from the sequencing data to obtain high-quality
+data. Through biological authentication software, the reference human genome
+sequence and low complexity were removed from high-quality data. The data
+obtained were compared with a special microorganism database regarding the
+percentage of microbial sequences, the number of unique sequences, coverage and
+sequencing depth, so as to determine positive sequencing parameters, which were
+classified into bacteria, viruses, fungi and parasites. Real-time fluorescence
+quantitative PCR was performed to validate the accuracy. Results: A variety of
+microorganisms were detected by metagenomic sequencing in 19 specimens, including
+3 cases of varicella zoster virus, 2 cases of Candida albicans, 1 case of
+Propionibacterium acnes and 1 case of Haemophilus parainfluenzae. The percentage 
+of microbial sequences was 77.93% （1 794/2 302）, 99.98% （12 843/12 845） and
+98.88%（5 733/5 798）, and the number of unique sequences was 1 794, 12 843 and 57 
+33 in varicella zoster virus cases, respectively. The verification of varicella
+zoster virus by PCR was consistent with that by metagenomic sequencing.
+Conclusion: Metagenomic sequencing can be used as an alternative method for
+laboratory diagnosis of infectious uveitis. (Chin J Ophthalmol, 2020, 56:
+519-523).
+
+Publisher: 目的： 探讨宏基因组测序（MGS）技术在感染性葡萄膜炎诊断中的作用。 方法：
+横断面研究。对2016年3月至2018年7月首都医科大学附属北京同仁医院临床疑诊为感染性葡萄膜炎的19例患者的19份玻璃体标本进行MGS检测。患者中男性8例，女性
+11例，年龄19~68岁；右眼10例，左眼8例，双眼1例；临床诊断急性视网膜坏死8例（9只眼），诊断不明11例（11只眼）。每份标本留取玻璃体约1 ml，800 
+μl标本用于MGS，200 μl标本用于实时荧光定量PCR的验证实验。MGS使用TIANamp Micro DNA
+Kit试剂盒提取样本DNA，BGISEQ-500平台测序。将测序数据中低质量和长度小于35
+bp的数据、人类参考基因组序列及低复杂度序列去除后，获得的数据与专用微生物数据库比对分析，通过统计对比序列数占比、唯一序列数、覆盖率、测序深度等参数确定测序阳性结
+果，使用实时荧光定量PCR方法对上述结果准确性进行验证。 结果：
+19份标本MGS检出多种微生物，7份测序结果为阳性。其中3份为水痘-带状疱疹病毒、2份为白念珠菌、1份为痤疮丙酸杆菌、1份为副流感嗜血杆菌。3份水痘-带状疱疹病毒
+标本检出的序列数占比分别为77.93%（1 794/2 302）、99.98%（12 843/12 845）、98.88%（5 733/5
+798），唯一序列数分别为1 794、12 843、5 733条；实时荧光定量PCR验证结果显示此3份标本水痘-带状疱疹病毒载量均较高，与MGS结果一致。 结论：
+MGS可作为感染性葡萄膜炎实验室诊断方法的一种选择。（中华眼科杂志，2020，56：519-523）.
+DOI: 10.3760/cma.j.cn112142-20190711-00371 
+PMID: 32842334  [Indexed for MEDLINE]
+

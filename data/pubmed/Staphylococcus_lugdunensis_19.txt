@@ -1,0 +1,65 @@
+
+1. J Clin Microbiol. 2020 Mar 25;58(4). pii: e01730-19. doi: 10.1128/JCM.01730-19.
+Print 2020 Mar 25.
+
+Clinical Performance of the Novel GenMark Dx ePlex Blood Culture ID Gram-Positive
+Panel.
+
+Carroll KC(1), Reid JL(2), Thornberg A(2), Whitfield NN(2), Trainor D(2), Lewis
+S(3), Wakefield T(3), Davis TE(4), Church KG(5), Samuel L(6), Mills R(7), Jim
+P(7), Young S(7), Nolte FS(5).
+
+Author information: 
+(1)Division of Medical Microbiology, Department of Pathology, Johns Hopkins
+Medical Institutions, Baltimore, Maryland, USA kcarrol7@jhmi.edu.
+(2)GenMark Diagnostics Inc., Carlsbad, California, USA.
+(3)Division of Medical Microbiology, Department of Pathology, Johns Hopkins
+Medical Institutions, Baltimore, Maryland, USA.
+(4)Indiana University School of Medicine, Indianapolis, Indiana, USA.
+(5)Medical University of South Carolina, Charleston, South Carolina, USA.
+(6)Henry Ford Health System, Detroit, Michigan, USA.
+(7)Tricore Reference Laboratories, Albuquerque, New Mexico, USA.
+
+Rapid identification from positive blood cultures is standard of care (SOC) in
+many clinical microbiology laboratories. The GenMark Dx ePlex Blood Culture
+Identification Gram-Positive (BCID-GP) Panel is a multiplex nucleic acid
+amplification assay based on competitive DNA hybridization and electrochemical
+detection using eSensor technology. This multicenter study compared the
+investigational-use-only (IUO) BCID-GP Panel to other methods of identification
+of 20 Gram-positive bacteria, four antimicrobial resistance genes, and both Pan
+Candida and Pan Gram-Negative targets that are unique to the BCID-GP Panel. Ten
+microbiology laboratories throughout the United States collected residual,
+deidentified positive blood culture samples for analysis. Five laboratories
+tested both clinical and contrived samples with the BCID-GP Panel. Comparator
+identification methods included each laboratory's SOC, which included
+matrix-assisted laser desorption ionization-time of flight mass spectrometry
+(MALDI-TOF MS) and automated identification systems as well as targeted
+PCR/analytically validated real-time PCR (qPCR) with bidirectional sequencing. A 
+total of 2,342 evaluable samples (1,777 clinical and 565 contrived) were tested
+with the BCID-GP Panel. The overall sample accuracy for on-panel organisms was
+89% before resolution of discordant results. For pathogenic Gram-positive targets
+(Bacillus cereus group, Enterococcus spp., Enterococcus faecalis, Enterococcus
+faecium, Staphylococcus spp., Staphylococcus aureus, Staphylococcus epidermidis, 
+Staphylococcus lugdunensis, Listeria spp., Listeria monocytogenes, Streptococcus 
+spp., Streptococcus agalactiae, Streptococcus anginosus group, Streptococcus
+pneumoniae, and Streptococcus pyogenes), positive percent agreement (PPA) and
+negative percent agreement (NPA) ranged from 93.1% to 100% and 98.8% to 100%,
+respectively. For contamination rule-out targets (Bacillus subtilis group,
+Corynebacterium, Cutibacterium acnes, Lactobacillus, and Micrococcus), PPA and
+NPA ranged from 84.5% to 100% and 99.9% to 100%, respectively. Positive percent
+agreement and NPA for the Pan Candida and Pan Gram-Negative targets were 92.4%
+and 95.7% for the former and 99.9% and 99.6% for the latter. The PPAs for
+resistance markers were as follows: mecA, 97.2%; mecC, 100%; vanA, 96.8%; and
+vanB, 100%. Negative percent agreement ranged from 96.6% to 100%. In conclusion, 
+the ePlex BCID-GP Panel compares favorably to SOC and targeted molecular methods 
+for the identification of 20 Gram-positive pathogens and four antimicrobial
+resistance genes in positive blood culture bottles. This panel detects a broad
+range of pathogens and mixed infections with yeast and Gram-negative organisms
+from the same positive blood culture bottle.
+
+Copyright © 2020 Carroll et al.
+
+DOI: 10.1128/JCM.01730-19 
+PMCID: PMC7098771
+PMID: 31996444 
+

@@ -1,0 +1,64 @@
+
+1. Antimicrob Resist Infect Control. 2020 Jul 6;9(1):101. doi:
+10.1186/s13756-020-00769-8.
+
+The first nationwide multicenter study of Acinetobacter baumannii recovered in
+Serbia: emergence of OXA-72, OXA-23 and NDM-1-producing isolates.
+
+Lukovic B(1), Gajic I(2), Dimkic I(3), Kekic D(4), Zornic S(5), Pozder T(6),
+Radisavljevic S(7), Opavski N(4), Kojic M(8), Ranin L(4).
+
+Author information: 
+(1)Institute of Microbiology and Immunology, Medical Faculty, University of
+Belgrade, Doktora Subotica starijeg 1, Belgrade, 11000, Serbia.
+bojanall@yahoo.com.
+(2)Institute of Microbiology and Immunology, Medical Faculty, University of
+Belgrade, Doktora Subotica starijeg 1, Belgrade, 11000, Serbia.
+ina.gajic@yahoo.com.
+(3)Faculty of Biology, University of Belgrade, Belgrade, Serbia.
+(4)Institute of Microbiology and Immunology, Medical Faculty, University of
+Belgrade, Doktora Subotica starijeg 1, Belgrade, 11000, Serbia.
+(5)Department of Microbiology, Clinical Center Kragujevac, Kragujevac, Serbia.
+(6)Department of Microbiology, General Hospital Subotica, Subotica, Serbia.
+(7)Department of Microbiology, General Hospital Pancevo, Pancevo, Serbia.
+(8)Laboratory for Molecular Microbiology, Institute of Molecular Genetics and
+Genetic Engineering, University of Belgrade, Belgrade, Serbia.
+
+BACKGROUND: The worldwide emergence and clonal spread of carbapenem-resistant
+Acinetobacter baumannii (CRAB) is of great concern. The aim of this nationwide
+study was to investigate the prevalence of CRAB isolates in Serbia and to
+characterize underlying resistance mechanisms and their genetic relatedness.
+METHODS: Non-redundant clinical samples obtained from hospitalized patients
+throughout Serbia were included in the prospective, observational, multicenter
+study conducted from January to June 2018. Samples were initially screened for
+the presence of Acinetobacter baumannii-calcoaceticus (Acb) complex using
+conventional bacteriological techniques. Acb complexes recovered from clinical
+samples obtained from inpatients with confirmed bacterial infections were further
+evaluated for the presence of A. baumannii. Identification to the species level
+was done by the detection of the blaOXA-51 gene and rpoB gene sequence analysis. 
+Susceptibility testing was done by disk diffusion and broth microdilution method.
+CRAB isolates were tested for the presence of acquired carbapenemases
+(blaOXA-24-like, blaOXA-23-like,blaOXA-58-like, blaOXA-143-like, blaIMP, blaVIM, 
+blaGIM, blaSPM, blaSIM, blaNDM) by PCR. Clonal relatedness was assessed by
+pulsed-field gel electrophoresis (PFGE) and multilocus sequence typing (MLST).
+RESULTS: Acb complex was isolated in 280 out of 2401 clinical samples (11.6%).
+Overall, A. baumannii was identified in 237 out of 280 Acb complex (84.6%). CRAB 
+prevalence was found to be 93.7% (237/222). The MIC50/MIC90 for imipenem and
+meropenem were 8/> 32 μg/mL and 16/> 32 μg/mL, respectively. Although
+susceptibility was high for colistin (95.7%; n = 227) and tigecycline (75.1%;
+n = 178), ten isolates (4.3%) were classified as pandrug-resistant. The following
+carbapenemases-encoding genes were found: 98 (44.2%) blaOXA-24-like, 76 (34.5%)
+blaOXA-23-like, and 7 (3.2%) blaNDM-1. PFGE analysis revealed six different
+clusters. MLST analysis identified three STs: ST2 (n = 13), ST492 (n = 14), and
+ST636 (n = 10). Obtained results evaluated that circulating CRAB clones in Serbia
+were as follows: blaOXA66/blaOXA23/ST2 (32.4%), blaOXA66/blaOXA23/blaOXA72/ST2
+(2.7%), blaOXA66/blaOXA72/ST492 (37.8%), and blaOXA66/blaOXA72/ST636 (27.1%).
+CONCLUSION: This study revealed extremely high proportions of carbapenem
+resistance among A. baumannii clinical isolates due to the emergence of
+blaOXA-72, blaOXA-23, and blaNDM-1 genes among CRAB isolates in Serbia and their 
+clonal propagation.
+
+DOI: 10.1186/s13756-020-00769-8 
+PMCID: PMC7338125
+PMID: 32631451 
+

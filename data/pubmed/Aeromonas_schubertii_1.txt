@@ -1,0 +1,46 @@
+
+1. Fish Shellfish Immunol. 2020 Sep;104:470-477. doi: 10.1016/j.fsi.2020.05.059.
+Epub 2020 Jun 22.
+
+Two types of TNF-α and their receptors in snakehead (Channa argus): Functions in 
+antibacterial innate immunity.
+
+Cui ZW(1), Kong LL(2), Zhao F(3), Tan AP(1), Deng YT(1), Jiang L(1).
+
+Author information: 
+(1)Key Laboratory of Fishery Drug Development of Ministry of Agriculture and
+Rural Affairs, Key Laboratory of Aquatic Animal Immune Technology of Guangdong
+Province, Pearl River Fisheries Research Institute, Chinese Academy of Fishery
+Sciences, Guangzhou, China.
+(2)Key Laboratory of Fishery Drug Development of Ministry of Agriculture and
+Rural Affairs, Key Laboratory of Aquatic Animal Immune Technology of Guangdong
+Province, Pearl River Fisheries Research Institute, Chinese Academy of Fishery
+Sciences, Guangzhou, China; College of Fisheries and Life Science, Shanghai Ocean
+University, Shanghai, China.
+(3)Key Laboratory of Fishery Drug Development of Ministry of Agriculture and
+Rural Affairs, Key Laboratory of Aquatic Animal Immune Technology of Guangdong
+Province, Pearl River Fisheries Research Institute, Chinese Academy of Fishery
+Sciences, Guangzhou, China. Electronic address: zhaofei@prfri.ac.cn.
+
+Tumor necrosis factor-α (TNF-α) is a pluripotent mediator of pro-inflammatory and
+antimicrobial defense mechanisms and a regulator of lymphoid organ development.
+Although two types of TNF-α have been identified in several teleost species,
+their functions in pathogen infection remain largely unexplored, especially in
+pathogen clearance. Herein, we cloned and characterized two types of TNF-α,
+termed shTNF-α1 and shTNF-α2, and their receptors, shTNFR1 and shTNFR2, from
+snakehead (Channa argus). These genes were constitutively expressed in all tested
+tissues, and were induced by Aeromonas schubertii and Nocardia seriolae in head
+kidney and spleen in vivo, and by lipoteichoic acid (LTA), lipopolysaccharides
+(LPS), and Polyinosinic-polycytidylic acid [Poly (I:C)] in head kidney leukocytes
+(HKLs) in vitro. Moreover, recombinant shTNF-α1 and shTNF-α2 upregulated the
+expression of endogenous shTNF-α1, shTNF-α2, shTNFR1, and shTNFR2, and enhanced
+intracellular bactericidal activity, with shTNF-α1 having a greater effect than
+shTNF-α2. These findings suggest important roles of fish TNFα1, TNFα2, and their 
+receptors in bacterial infection and pathogen clearance, and provide a new
+insight into their function in antibacterial innate immunity.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fsi.2020.05.059 
+PMID: 32585357 
+

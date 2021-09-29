@@ -1,0 +1,37 @@
+
+1. Nutrients. 2020 Jul 28;12(8). pii: E2251. doi: 10.3390/nu12082251.
+
+Barrier Protection and Recovery Effects of Gut Commensal Bacteria on
+Differentiated Intestinal Epithelial Cells In Vitro.
+
+Mohebali N(1), Ekat K(1), Kreikemeyer B(1), Breitrück A(1).
+
+Author information: 
+(1)Molecular Bacteriology, Institute of Medical Microbiology, Virology and
+Hygiene, University Medicine Rostock, 18057 Rostock, Germany.
+
+Alterations in the gut microbiota composition play a crucial role in the
+pathogenesis of inflammatory bowel disease (IBD) as specific commensal bacterial 
+species are underrepresented in the microbiota of IBD patients. In this study, we
+examined the therapeutic potential of three commensal bacterial species,
+Faecalibacterium prausnitzii (F. prausnitzii), Roseburia intestinalis (R.
+intestinalis) and Bacteroides faecis (B. faecis) in an in vitro model of
+intestinal inflammation, by using differentiated Caco-2 and HT29-MTX cells,
+stimulated with a pro-inflammatory cocktail consisting of interleukin-1β (IL-1β),
+tumor necrosis factor-α (TNFα), interferon-γ (IFNγ), and lipopolysaccharide
+(LPS). Results obtained in this work demonstrated that all three bacterial
+species are able to recover the impairment of the epithelial barrier function
+induced by the inflammatory stimulus, as determined by an amelioration of the
+transepithelial electrical resistance (TEER) and the paracellular permeability of
+the cell monolayer. Moreover, inflammatory stimulus increased claudin-2
+expression and decreased occludin expression were improved in the cells treated
+with commensal bacteria. Furthermore, the commensals were able to counteract the 
+increased release of interleukin-8 (IL-8) and monocyte chemoattractant protein-1 
+(MCP-1) induced by the inflammatory stimulus. These findings indicated that F.
+prausnitzii, R. intestinalis and B. faecis improve the epithelial barrier
+integrity and limit inflammatory responses.
+
+DOI: 10.3390/nu12082251 
+PMCID: PMC7468801
+PMID: 32731411 
+

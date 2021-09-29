@@ -1,0 +1,49 @@
+
+1. Access Microbiol. 2020 Feb 10;2(3):acmi000095. doi: 10.1099/acmi.0.000095.
+eCollection 2020.
+
+Principal component analysis exploring the association between antibiotic
+resistance and heavy metal tolerance of plasmid-bearing sewage wastewater
+bacteria of clinical relevance.
+
+Mandal M(1), Das SN(2), Mandal S(2).
+
+Author information: 
+(1)Department of Physiology, MGM Medical College and LSK Hospital,
+Kishanganj-855107, India.
+(2)Department of Zoology, University of Gour Banga, Malda-732103, India.
+
+This paper unravels the occurrence of plasmid-mediated antibiotic resistance in
+association with tolerance to heavy metals among clinically relevant bacteria
+isolated from sewage wastewater. The bacteria isolated were identified following 
+conventional phenotypic and/or molecular methods, and were subjected to
+multiple-antibiotic resistance (MAR) profiling. The isolates were tested against 
+the heavy metals Hg2+, Cd2+, Cr2+ and Cu2+. SDS-PAGE and agarose gel
+electrophoretic analyses were performed, respectively, for the characterization
+of heavy metal stress protein and R-plasmid among the isolated bacteria.
+Principal component analysis was applied in determining bacterial resistance to
+antibiotics and heavy metals. Both lactose-fermenting ( Escherichia coli ) and
+non-fermenting ( Acinetobacter baumannii and Pseudomonas putida ) Gram-negative
+bacterial strains were procured, and showed MAR phenotypes with respect to three 
+or more antibiotics, along with resistance to the heavy metals Hg2+, Cd2+, Cr2+
+and Cu2+. The Gram-positive bacteria, Enterococcus faecalis , isolated had
+'ampicillin-kanamycin-nalidixic acid' resistance. The bacterial isolates had MAR 
+indices of 0.3-0.9, indicating their ( E. faecalis , E. coli , A. baumannii and
+P. putida ) origin from niches with high antibiotic pollution and human faecal
+contamination. The Gram-negative bacteria isolated contained a single plasmid
+(≈54 kb) conferring multiple antibiotic resistance, which was linked to heavy
+metal tolerance; the SDS-PAGE analysis demonstrated the expression of heavy metal
+stress proteins (≈59 and ≈10 kDa) in wastewater bacteria with a Cd2+ stressor.
+The study results grant an insight into the co-occurrence of antibiotic
+resistance and heavy metal tolerance among clinically relevant bacteria in sewage
+wastewater, prompting an intense health impact over antibiotic usage.
+
+© 2020 The Authors.
+
+DOI: 10.1099/acmi.0.000095 
+PMCID: PMC7470316
+PMID: 32974572 
+
+Conflict of interest statement: The authors declare that there are no conflicts
+of interest.
+

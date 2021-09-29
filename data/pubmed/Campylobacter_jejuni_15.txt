@@ -1,0 +1,40 @@
+
+1. Vaccines (Basel). 2020 Sep 11;8(3). pii: E520. doi: 10.3390/vaccines8030520.
+
+Evaluation of Glycosylated FlpA and SodB as Subunit Vaccines Against
+Campylobacter jejuni Colonisation in Chickens.
+
+Vohra P(1)(2), Chintoan-Uta C(1), Terra VS(3), Bremner A(1), Cuccui J(3), Wren
+BW(3), Vervelde L(1), Stevens MP(1).
+
+Author information: 
+(1)The Roslin Institute and Royal (Dick) School of Veterinary Studies, University
+of Edinburgh, Edinburgh EH25 9RG, UK.
+(2)Institute for Immunology and Infection Research, School of Biological
+Sciences, Charlotte Auerbach Road, University of Edinburgh, Edinburgh EH9 3FL,
+UK.
+(3)Faculty of Infectious and Tropical Diseases, London School of Hygiene and
+Tropical Medicine, London WC1E 7HT, UK.
+
+Campylobacter jejuni is the leading bacterial cause of human gastroenteritis
+worldwide and the handling or consumption of contaminated poultry meat is the key
+source of infection. C. jejuni proteins FlpA and SodB and glycoconjugates
+containing the C. jejuni N-glycan have been separately reported to be partially
+protective vaccines in chickens. In this study, two novel glycoproteins generated
+by protein glycan coupling technology-G-FlpA and G-SodB (with two and three
+N-glycosylation sites, respectively)-were evaluated for efficacy against
+intestinal colonisation of chickens by C. jejuni strain M1 relative to their
+unglycosylated variants. Two independent trials of the same design were performed
+with either a high challenge dose of 107 colony-forming units (CFU) or a minimum 
+challenge dose of 102 CFU of C. jejuni M1. While antigen-specific serum IgY was
+detected in both trials, no reduction in caecal colonisation by C. jejuni M1 was 
+observed and glycosylation of vaccine antigens had no effect on the outcome. Our 
+data highlight inconsistencies in the outcome of C. jejuni vaccination trials
+that may reflect antigen-, challenge strain-, vaccine administration-, adjuvant- 
+and chicken line-specific differences from previously published studies.
+Refinement of glycoconjugate vaccines by increasing glycosylation levels or using
+highly immunogenic protein carriers could improve their efficacy.
+
+DOI: 10.3390/vaccines8030520 
+PMID: 32932979 
+

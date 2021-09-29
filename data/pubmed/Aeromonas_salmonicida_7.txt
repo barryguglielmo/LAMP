@@ -1,0 +1,46 @@
+
+1. Lett Appl Microbiol. 2020 Jul 29. doi: 10.1111/lam.13363. [Epub ahead of print]
+
+The determination of antimicrobial susceptibility by MIC and epidemiological
+cut-off values and the detection of resistance genes in Aeromonas species
+isolated from cultured fish.
+
+Duman M(1), Saticioglu IB(2), Altun S(1).
+
+Author information: 
+(1)Department of Aquatic Animal Diseases, Faculty of Veterinary Medicine, Bursa
+Uludag University, Bursa, Turkey.
+(2)Department of Aquatic Animal Diseases, Faculty of Veterinary Medicine, Erciyes
+University, Kayseri, Turkey.
+
+The present study was aimed at determining antimicrobial susceptibility by a CLSI
+standard microdilution testing protocol and detecting the resistance genes of
+motile Aeromonas species isolated from cultured fish. The importance of the
+minimum inhibitory concentrations was assessed based on statistically determined 
+epidemiological cut-off values calculated by normalized resistance analysis.
+Unfortunately, CLSI epidemiological cut-off values are available only for
+Aeromonas salmonicida, and there is no further detailed data on Aeromonas
+isolated from aquatic animals. The antimicrobial susceptibilities of
+pre-identified motile Aeromonas species to florfenicol, tetracycline and
+sulfamethoxazole were determined by calculating epidemiological cut-off values
+with fully automated and freely available Excel spreadsheets, applying the
+normalized resistance interpretation (NRI) method. Furthermore, the presence of
+the antimicrobial resistance genes floR, tetA, tetB, tetC, tetD, tetE, tetH,
+sulI, sulII and sulIII was detected by PCR analysis and confirmed by sequence
+analysis. The presence of up to six different genes (multiple antimicrobial
+resistance) was determined in the Aeromonas isolates. SIGNIFICANCE AND IMPACT OF 
+THE STUDY: Significance and Impact of the Study: In this study, we investigated
+phenotypic and genotypic antimicrobial resistance characteristics by a novel
+method based on epidemiological cut-off values. This is the second comprehensive 
+study on the antimicrobial susceptibility characteristics of Aeromonas species
+using NRI and epidemiological cut-off values. The present research is related to 
+our previous researches focussed on the identification of motile Aeromonads,
+their prevalence in relation to different fish lengths, seasons and regions, and 
+covered the investigation of Lactococcus garvieae, Yersinia ruckeri,
+Flavobacterium spp., Enterobacter spp. and Citrobacter spp.
+
+© 2020 The Society for Applied Microbiology.
+
+DOI: 10.1111/lam.13363 
+PMID: 32726860 
+

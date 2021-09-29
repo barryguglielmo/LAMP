@@ -1,0 +1,70 @@
+
+1. Int J Obes (Lond). 2020 Jan;44(1):23-32. doi: 10.1038/s41366-018-0273-0. Epub
+2019 Feb 14.
+
+Does birth mode modify associations of maternal pre-pregnancy BMI and gestational
+weight gain with the infant gut microbiome?
+
+Singh SB(1)(2), Madan J(3)(4), Coker M(3), Hoen A(3)(5)(6), Baker ER(7), Karagas 
+MR(3)(5)(8), Mueller NT(9)(10).
+
+Author information: 
+(1)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health,
+Baltimore, MD, USA.
+(2)Welch Center for Prevention, Epidemiology, and Clinical Research, Johns
+Hopkins University, Baltimore, MD, USA.
+(3)Department of Epidemiology, Dartmouth Geisel School of Medicine, Hanover, NH, 
+USA.
+(4)Division of Neonatology, Department of Pediatrics, Children's Hospital at
+Dartmouth, Hanover, NH, USA.
+(5)Children's Environmental Health and Disease Prevention Research Center at
+Dartmouth, Hanover, NH, USA.
+(6)Department of Biomedical Data Science, Geisel School of Medicine, Hanover, NH,
+USA.
+(7)Obstetrics and Gynecology, Dartmouth Geisel School of Medicine, Hanover, NH,
+USA.
+(8)Center for Molecular Epidemiology, Dartmouth Geisel School of Medicine,
+Hanover, NH, USA.
+(9)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health,
+Baltimore, MD, USA. noeltmueller@jhu.edu.
+(10)Welch Center for Prevention, Epidemiology, and Clinical Research, Johns
+Hopkins University, Baltimore, MD, USA. noeltmueller@jhu.edu.
+
+BACKGROUND: Mother-to-newborn transmission of obesity-associated microbiota may
+be modified by birth mode (vaginal vs. Cesarean delivery). Prospective data to
+test this hypothesis are still sparse.
+OBJECTIVE: To examine prospective associations of maternal pre-pregnancy BMI and 
+gestational weight gain with the infant gut microbiome by birth-mode strata.
+SUBJECTS/METHODS: In 335 mother-infant pairs in the New Hampshire Birth Cohort,
+we ascertained data from questionnaires and medical records, and generated
+microbiome data from 6-week-old infants' stool using Illumina 16s rRNA gene
+sequencing (V4-V5 region). Analyses were stratified by birth mode and conducted
+before and after adjusting for potential confounders, which included maternal
+age, education, parity, and Mediterranean diet score.
+RESULTS: Among 335 mothers, 56% had normal pre-pregnancy BMI ( < 25, referent),
+27% were overweight (BMI 25-30), and 18% obese (BMI > 30). Among the 312 mothers 
+with weight gain data, 10% had inadequate weight gain, 30% adequate (referent),
+and 60% excess. Birth mode modified associations of pre-pregnancy BMI with
+several genera, including the most abundant genus, Bacteroides (P for
+interaction = 0.05). In the vaginal-delivery group, maternal overweight or
+obesity was associated with higher infant gut microbiome diversity and higher
+relative abundance of 15 operational taxonomic units (OTUs), including
+overrepresentation of Bacteroides fragilis, Escherichia coli, Veillonella dispar,
+and OTUs in the genera Staphylococcus and Enterococcus. In the Cesarean-delivered
+group, there were no significant associations of pre-pregnancy BMI with infant
+microbiome (alpha) diversity or OTUs. Gestational weight gain was not associated 
+with differential relative abundance of infant gut microbial OTUs or with
+measures of microbial diversity in infants delivered vaginally or by Cesarean
+section.
+CONCLUSIONS: Among vaginally-delivered infants, maternal overweight and obesity
+was associated with altered infant gut microbiome composition and higher
+diversity. These associations were not observed in Cesarean-delivered infants,
+whose microbiome development differs from vaginally-delivered infants. Our study 
+provides additional evidence of birth-mode dependent associations of maternal
+body weight status with the infant gut microbiota. The role of these associations
+in mediating the intergenerational cycle of obesity warrants further examination.
+
+DOI: 10.1038/s41366-018-0273-0 
+PMCID: PMC6694002
+PMID: 30765892 
+

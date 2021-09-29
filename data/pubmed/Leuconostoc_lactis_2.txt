@@ -1,0 +1,40 @@
+
+1. Microb Cell Fact. 2020 Jun 17;19(1):132. doi: 10.1186/s12934-020-01389-y.
+
+Identification and characterization of a moonlighting protein-enolase for surface
+display in Streptococcus thermophilus.
+
+Mu Y(1), Xin Y(1), Guo T(1), Kong J(2).
+
+Author information: 
+(1)State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai
+Dadao, Qingdao, 266237, People's Republic of China.
+(2)State Key Laboratory of Microbial Technology, Shandong University, 72 Binhai
+Dadao, Qingdao, 266237, People's Republic of China. kongjian@sdu.edu.cn.
+
+BACKGROUND: Streptococcus thermophilus is an important food starter and receiving
+more attention to serve as cell factories for production of high-valued
+metabolites. However, the low yields of intracellular or extracellular expression
+of biotechnological and biomedical proteins limit its practical applications.
+RESULTS: Here, an enolase EnoM was identified from S. thermophilus CGMCC7.179
+with about 94% identities to the surface-located enolases from other
+Streptococcus spp. strains. The EnoM was used as an anchor to achieve surface
+display in S. thermophilus using GFP as a reporter. After respectively mixing the
+GFP-EnoM fusion protein or GFP with S. thermophilus cells in vitro, the relative 
+fluorescence units (RFU) of the S. thermophilus cells with GFP-EnoM was 80-folds 
+higher than that with purified GFP. The sharp decrease in the RFU of sodium
+dodecyl sulfate (SDS) pretreated cells compared to those of non-pretreated cells 
+demonstrated that the membrane proteins were the binding ligand of EnoM.
+Furthermore, an engineered β-galactosidase (β-Gal) was also successfully
+displayed on the cell surface of S. thermophilus CGMCC7.179 and the relative
+activity of the immobilized β-Gal remained up to 64% after reused 8 times.
+Finally, we also demonstrated that EnoM could be used as an anchor for surface
+display in L. casei, L. bulgaricus, L. lactis and Leuconostoc lactis.
+CONCLUSION: To our knowledge, EnoM from S. thermophilus was firstly identified as
+an anchor and successfully achieved surface display in LAB. The EnoM-based
+surface display system provided a novel strategy for the enzyme immobilization.
+
+DOI: 10.1186/s12934-020-01389-y 
+PMCID: PMC7301973
+PMID: 32552809 
+

@@ -1,0 +1,64 @@
+
+1. Int J Radiat Oncol Biol Phys. 2020 Jul 15;107(4):736-746. doi:
+10.1016/j.ijrobp.2020.04.015. Epub 2020 Apr 18.
+
+Gut Microbiome Composition Is Associated with a Pathologic Response After
+Preoperative Chemoradiation in Patients with Rectal Cancer.
+
+Jang BS(1), Chang JH(2), Chie EK(3), Kim K(4), Park JW(5), Kim MJ(5), Song EJ(6),
+Nam YD(6), Kang SW(7), Jeong SY(5), Kim HJ(8).
+
+Author information: 
+(1)Department of Radiation Oncology, Seoul National University Bundang Hospital, 
+Seongnam, Korea.
+(2)Department of Radiation Oncology, Seoul National University Hospital, Seoul,
+Korea.
+(3)Department of Radiation Oncology, Seoul National University Hospital, Seoul,
+Korea; Department of Radiation Oncology, Seoul National University College of
+Medicine, Seoul, Korea.
+(4)Department of Radiation Oncology, Ewha Womans University College of Medicine, 
+Seoul, Korea.
+(5)Department of Surgery, Seoul National University Hospital, Seoul, Korea;
+Cancer Research Institute, Seoul National University College of Medicine, Seoul, 
+Korea.
+(6)Department of Food Biotechnology, Korea University of Science and Technology, 
+Daejeon, Korea; Research Group of Healthcare, Korea Food Research Institute,
+Wanju, Korea.
+(7)Department of Nursing, Seoul National University College of Nursing, Seoul,
+Korea.
+(8)Department of Radiation Oncology, Seoul National University Hospital, Seoul,
+Korea; Department of Radiation Oncology, Seoul National University College of
+Medicine, Seoul, Korea; Cancer Research Institute, Seoul National University
+College of Medicine, Seoul, Korea. Electronic address: khjae@snu.ac.kr.
+
+PURPOSE: There are ongoing investigations to find promising biomarkers for
+predicting a complete response (CR) after concurrent chemoradiation (CCRT) in
+rectal cancer. We aimed to find the predictive value in the gut microbiome in
+terms of response after preoperative CCRT.
+METHODS AND MATERIALS: We collected a total of 45 fecal samples from patients
+with rectal cancer before CCRT. Tumor response after CCRT was assessed according 
+to the American Joint Committee on Cancer tumor regression grading system.
+Analysis of linear discriminant analysis effect size and MetaCyc pathway
+abundance predictions were performed to compare composition and metabolic
+function of microbiome between patients with and without CR. We also established 
+a Bayesian network model to identify microbial networks and species to be related
+with CCRT response.
+RESULTS: Seven patients (15.6%) demonstrated pathologically CR, and 38 patients
+(84.4%) showed non-CR after preoperative CCRT. Between CR and non-CR patients,
+there was a significant difference in terms of β-diversity (P = .028), but no
+difference in α-diversity was found. Bacteroidales (Bacteroidaceae,
+Rikenellaceae, Bacteroides) were relatively more abundant in patients with non-CR
+than those with CR. Pathways related to anabolic function predominated in CR
+patients. According to Bayesian network analysis, Duodenibacillus massiliensis
+was linked with the improved CR rate.
+CONCLUSIONS: From the fecal microbiome using samples obtained before preoperative
+CCRT, differences in microbial community composition and functions were observed 
+between patients with and without CR in rectal cancer. However, the finding that 
+a specific taxon may be linked with the improved therapeutic response should be
+verified in a prospective setting.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ijrobp.2020.04.015 
+PMID: 32315676 
+

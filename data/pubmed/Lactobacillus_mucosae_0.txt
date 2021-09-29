@@ -1,0 +1,44 @@
+
+1. Life (Basel). 2020 Sep 15;10(9). pii: E203. doi: 10.3390/life10090203.
+
+A Single Faecal Microbiota Transplantation Altered the Microbiota of Weaned Pigs.
+
+Nowland TL(1), Torok VA(1)(2), Low WY(3), Plush KJ(4), Barton MD(5), Kirkwood
+RN(1).
+
+Author information: 
+(1)School of Animal and Veterinary Sciences, The University of Adelaide,
+Roseworthy 5371, Australia.
+(2)Food Sciences, South Australian Research and Development Institute, Waite
+Campus, Urrbrae 5064, Australia.
+(3)The Davies Research Centre, School of Animal and Veterinary Sciences, The
+University of Adelaide, Roseworthy 5371, Australia.
+(4)SunPork Group, Murarrie 4172, Australia.
+(5)School of Pharmacy and Medical Sciences, University of South Australia,
+Adelaide 5000, Australia.
+
+Weaning is a stressful time for piglets, often leading to weight loss and is
+associated with increased morbidity and mortality. A leading cause for these
+post-weaning problems is enteric dysbiosis and methods to improve piglet health
+at this crucial developmental stage are needed. This study aimed to determine
+whether an enteric dysbiosis caused by weaning could be corrected via a faecal
+microbiota transplantation (FMT) from healthy piglets from a previous wean. Two
+or four focal piglets per litter were assigned to one of two treatments; FMT two 
+days post weaning (n = 21; FMT) or a control which received saline two days post 
+weaning (n = 21; CON). FMT consisted of homogenised donor faeces administered
+orally at 3 mL/kg. Weaning occurred at 18 days of age and weights and faecal
+samples were collected on days 18, 20, 24 and 35. 16S rRNA amplicon analysis was 
+used to assess the faecal microbiota of piglets. FMT increased Shannon's
+diversity post weaning (p < 0.001) and reduced the scratch score observed at 24
+days of age (p < 0.001). The bacterial populations significantly differed in
+composition at each taxonomic level. In FMT pigs, significant increases in
+potentially pathogenic Escherichia coli were observed. However, increases in
+beneficial bacteria Lactobacillus mucosae and genera Fibrobacteres and
+Bacteroidetes were also observed in FMT treated animals. To our knowledge, this
+is the first study to observe a significant effect on piglet faecal microbiota
+following a single FMT administered post weaning. Therefore, FMT post weaning can
+potentially alleviate enteric dysbiosis.
+
+DOI: 10.3390/life10090203 
+PMID: 32942689 
+

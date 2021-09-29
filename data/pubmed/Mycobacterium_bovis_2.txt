@@ -1,0 +1,46 @@
+
+1. BMC Infect Dis. 2020 Sep 29;20(1):711. doi: 10.1186/s12879-020-05421-9.
+
+Hemophagocytic syndrome associated with Mycobacterium bovis in a patient with
+X-SCID: a case report.
+
+Shi B(1), Chen M(2), Xia Z(1), Xiao S(1), Tang W(1), Qin C(1), Cheng Y(1), Huang 
+T(1), Huang C(1), Li Y(1), Xu H(3).
+
+Author information: 
+(1)Department of Pediatric Intensive Care Unit (PICU), Maternal and Child Health 
+Hospital of Hubei Province (Women and Children's Hospital of Hubei Province),
+NO.745 Wu LuoRoad, Hongshan District, Wuhan City, 430070, Hubei Province, China.
+(2)Department of Dermatology, Maternal and Child Health Hospital of Hubei
+Province (Women and Children's Hospital of Hubei Province), NO.745 Wu LuoRoad,
+Hongshan District, Wuhan City, 430070, Hubei Province, China.
+(3)Department of Pediatric Intensive Care Unit (PICU), Maternal and Child Health 
+Hospital of Hubei Province (Women and Children's Hospital of Hubei Province),
+NO.745 Wu LuoRoad, Hongshan District, Wuhan City, 430070, Hubei Province, China. 
+hsliu402@sina.com.
+
+BACKGROUND: Mycobacterium bovis could infect patients with immunodeficiency or
+immunosuppressive conditions via Bacillus Calmette-Guérin (BCG) vaccination.
+Tuberculosis-related hemophagocytic syndrome (HPS) is reported, but not HPS
+caused by Mycobacterium bovis in children.
+CASE PRESENTATION: A 4-month Chinese boy presented fever and cough. The initial
+laboratory investigation showed the lymphocyte count of 0.97 × 109/L, which
+decreased gradually. HPS was diagnosed based on the test results that fulfilled
+the HLH-2004 criteria. In addition, Mycobacterium tuberculosis complex was
+detected from his peripheral blood via metagenomic next-generation sequencing
+(mNGS) and M. bovis was identified by polymerase chain reaction-reverse dot blot 
+(PCR-RDB). Thus, the patient was treated with Isoniazid, Rifampin, and
+Pyrazinamide, but not improved. However, parents refused to accept further
+therapy, and was discharged on the day 12 of admission. To confirm the
+pathogenesis, genetic analysis was performed. Mutation in the interleukin-2
+receptor subunit gamma gene: Exon 6: c.854G > A; p. Arg285Gln was detected in the
+patient and the mother, which could underlie X-linked severe combined
+immunodeficiency.
+CONCLUSIONS: A boy with X-SCID was diagnosed with M. bovis-associated HPS,
+emphasizing that X-SCID should be considered when M. bovis is detected in a male 
+infant with low lymphocyte counts.
+
+DOI: 10.1186/s12879-020-05421-9 
+PMCID: PMC7525942
+PMID: 32993535 
+

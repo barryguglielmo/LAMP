@@ -1,0 +1,41 @@
+
+1. Front Plant Sci. 2020 May 27;11:662. doi: 10.3389/fpls.2020.00662. eCollection
+2020.
+
+Structure, Function, Regulation and Phylogenetic Relationship of ZIP Family
+Transporters of Plants.
+
+Ajeesh Krishna TP(1), Maharajan T(1), Victor Roch G(1), Ignacimuthu S(2), Antony 
+Ceasar S(1).
+
+Author information: 
+(1)Division of Plant Biotechnology, Entomology Research Institute, Loyola
+College, University of Madras, Chennai, India.
+(2)Xavier Research Foundation, St. Xavier's College, Palayamkottai, India.
+
+Zinc (Zn) is an essential micronutrient for plants and humans. Nearly 50% of the 
+agriculture soils of world are Zn-deficient. The low availability of Zn reduces
+the yield and quality of the crops. The zinc-regulated, iron-regulated
+transporter-like proteins (ZIP) family and iron-regulated transporters (IRTs) are
+involved in cellular uptake of Zn, its intracellular trafficking and
+detoxification in plants. In addition to Zn, ZIP family transporters also
+transport other divalent metal cations (such as Cd2+, Fe2+, and Cu2+). ZIP
+transporters play a crucial role in biofortification of grains with Zn. Only a
+very limited information is available on structural features and mechanism of Zn 
+transport of plant ZIP family transporters. In this article, we present a
+detailed account on structure, function, regulations and phylogenetic
+relationships of plant ZIP transporters. We give an insight to structure of plant
+ZIPs through homology modeling and multiple sequence alignment with Bordetella
+bronchiseptica ZIP (BbZIP) protein whose crystal structure has been solved
+recently. We also provide details on ZIP transporter genes identified and
+characterized in rice and other plants till date. Functional characterization of 
+plant ZIP transporters will help for the better crop yield and human health in
+future.
+
+Copyright © 2020 Ajeesh Krishna, Maharajan, Victor Roch, Ignacimuthu and Antony
+Ceasar.
+
+DOI: 10.3389/fpls.2020.00662 
+PMCID: PMC7267038
+PMID: 32536933 
+

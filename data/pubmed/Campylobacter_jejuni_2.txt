@@ -1,0 +1,45 @@
+
+1. Sci Rep. 2020 Oct 1;10(1):16259. doi: 10.1038/s41598-020-73316-5.
+
+Competitive reduction of poultry-borne enteric bacterial pathogens in chicken gut
+with bioactive Lactobacillus casei.
+
+Tabashsum Z(1), Peng M(2), Alvarado-Martinez Z(1), Aditya A(2), Bhatti J(1), Romo
+PB(2), Young A(2), Biswas D(3)(4)(5).
+
+Author information: 
+(1)Biological Sciences Program - Molecular and Cellular Biology, University of
+Maryland, College Park, MD, 20742, USA.
+(2)Department of Animal and Avian Sciences, University of Maryland, College Park,
+MD, 20742, USA.
+(3)Biological Sciences Program - Molecular and Cellular Biology, University of
+Maryland, College Park, MD, 20742, USA. dbiswas@umd.edu.
+(4)Department of Animal and Avian Sciences, University of Maryland, College Park,
+MD, 20742, USA. dbiswas@umd.edu.
+(5)Center for Food Safety and Security Systems, University of Maryland, College
+Park, MD, 20742, USA. dbiswas@umd.edu.
+
+In this study, the effect of sustainable probiotics on Campylobacter jejuni
+colonization and gut microbiome composition was evaluated using chicken as a
+model organism. Chickens were given Lactobacillus casei over-expressing
+myosin-cross-reactive antigen (LC+mcra). LC+mcra can generate bioactive compounds
+in larger quantity including conjugated linoleic acid. A total of 120 chickens
+were used in duplicate trials to investigate the effectiveness of LC+mcra in
+decreasing C. jejuni colonization by means of kanamycin resistant strain compared
+to the control group. We observed that LC+mcra can efficiently colonize various
+parts of the chicken gut and competitively reduce colonization of natural and
+challenged C. jejuni and natural Salmonella enterica. LC+mcra was found to reduce
+C. jejuni colonization in cecum, ileum and jejunum, by more than one log CFU/g
+when compared to the no-probiotic control group. Furthermore, 16S rRNA
+compositional analysis revealed lower abundance of Proteobacteria, higher
+abundance of Firmicutes, along with enriched bacterial genus diversity in gut of 
+LC+mcra fed chicken. Decreased contamination of drinking water by C. jejuni and
+S. enterica was also observed, suggesting a potential function of reducing
+horizontal transfer of enteric bacteria in poultry. Outcomes of this study reveal
+high potential of LC+mcra as sustainable approach to decrease colonization of C. 
+jejuni and S. enterica in poultry gut along with other beneficial attributes.
+
+DOI: 10.1038/s41598-020-73316-5 
+PMCID: PMC7530658
+PMID: 33004922 
+

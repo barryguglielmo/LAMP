@@ -1,0 +1,43 @@
+
+1. Foods. 2020 Sep 23;9(10). pii: E1342. doi: 10.3390/foods9101342.
+
+Development of Bacterial Spore Pouches as a Tool to Evaluate the Sterilization
+Efficiency-A Case Study with Microwave Sterilization Using Clostridium sporogenes
+and Geobacillus stearothermophilus.
+
+Soni A(1), Smith J(2), Archer R(2), Gardner A(1), Tong K(2), Brightwell G(1)(3).
+
+Author information: 
+(1)Food Assurance, AgResearch, Palmerston North 4410, New Zealand.
+(2)School of Food & Advanced Technology, Massey University, Palmerston North
+4410, New Zealand.
+(3)New Zealand Food Safety Science Research Centre, Palmerston North 4410, New
+Zealand.
+
+In this study, novel spore pouches were developed using mashed potato as a food
+model inoculated with either Geobacillus stearothermophilus or Clostridium
+sporogenes spores. These spore pouches were used to evaluate the sterilization
+efficiency of Coaxially induced microwave pasteurization and sterilization
+(CiMPAS) as a case study. CiMPAS technology combines microwave energy (915 MHz)
+along with hot water immersion to sterilize food in polymeric packages. The spore
+pouches were placed at pre-determined specific locations, especially cold spots
+in each food tray before being processed using two regimes (R-121 and R-65),
+which consisted of 121 °C and 65 °C at 12 and 22 kW, respectively, followed by
+recovery and enumeration of the surviving spores. To identify cold spots or the
+location for inoculation, mashed potato was spiked with Maillard precursors and
+processed through CiMPAS, followed by measurement of lightness values
+(*L-values). Inactivation equivalent to of 1-2 Log CFU/g and >6 Log CFU/g for
+Geobacillus stearothermophilus and Clostridium sporogenes spores, respectively
+was obtained on the cold spots using R-121, which comprised of a total processing
+time of 64.2 min. Whereas, inactivation of <1 and 2-3 Log CFU/g for G.
+stearothermophilus and C. sporogenes spores, respectively on the cold spots was
+obtained using R-65 (total processing time of 68.3 min), whereas inactivation of 
+1-3 Log CFU/g of C. sporogenes spores was obtained on the sides of the tray. The 
+results were reproducible across three processing replicates for each regime and 
+inactivation at the specific locations were clearly distinguishable. The study
+indicated a strong potential to use spore pouches as a tool for validation
+studies of microwave-induced sterilization.
+
+DOI: 10.3390/foods9101342 
+PMID: 32977443 
+

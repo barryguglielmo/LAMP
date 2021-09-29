@@ -1,0 +1,48 @@
+
+1. Sci Rep. 2020 Sep 22;10(1):15454. doi: 10.1038/s41598-020-72516-3.
+
+Rhizobacterial species richness improves sorghum growth and soil nutrient
+synergism in a nutrient-poor greenhouse soil.
+
+Sahib MR(1)(2), Pervaiz ZH(3), Williams MA(1), Saleem M(4), DeBolt S(5).
+
+Author information: 
+(1)Department of Horticulture, University of Kentucky, Lexington, KY, 40546-0312,
+USA.
+(2)Department of Horticulture, Al-Qasim Green University, Babylon, Iraq.
+(3)Department of Biological Sciences, Auburn University, Auburn, Al, 36101, USA.
+(4)Department of Biological Sciences, Alabama State University, Montgomery, Al,
+36101, USA. msaleem@alasu.edu.
+(5)Department of Horticulture, University of Kentucky, Lexington, KY, 40546-0312,
+USA. sdebo2@uky.edu.
+
+Although microbes influence plant growth, little is known about the impact of
+microbial diversity on plant fitness trade-offs, intraspecific-interactions, and 
+soil nutrient dynamics in the context of biodiversity-ecosystem functioning (BEF)
+research. The BEF theory states that higher species richness can enhance
+ecosystem functioning. Thus, we hypothesize that rhizobacterial species richness 
+will alter sorghum (Sorghum bicolor L.) growth, soil nutrient dynamics and
+interactions (antagonism or synergism) in a nutrient-poor greenhouse soil. Using 
+six rhizobacterial species in a BEF experiment, we tested the impact of a species
+richness gradient (0, 1, 3, 5 or 6 species per community) on plant growth,
+nutrient assimilation, and soil nutrient dynamics via seed-inoculation. Our
+experiment included, one un-inoculated control, six rhizobacterial monoculture
+(Pseudomonas poae, Pseudomonas sp., Bacillus pumilus., Pantoea agglomerance.,
+Microbacterium sp., and Serratia marcescens), and their nine mixture treatments
+in triplicate (48). Rhizobacterial species richness enhanced per pot above- or
+below-ground dry mass. However, the per plant growth and plant nutrient
+assimilation declined, most likely, due to microbial-driven competitive
+interactions among sorghum plants. But nevertheless, some rhizobacterial
+monoculture and mixture treatments improved per plant (shoot and root) growth and
+nutrient assimilation as well. Soil nutrient contents were mostly lower at higher
+plant-associated rhizobacterial diversity; among these, the soil Zn contents
+decreased significantly across the rhizobacterial diversity gradient.
+Rhizobacterial diversity promoted synergistic interactions among soil nutrients
+and improved root-soil interactions. Overall, our results suggest that a higher
+rhizobacterial diversity may enhance soil-plant interactions and total
+productivity under resource limited conditions.
+
+DOI: 10.1038/s41598-020-72516-3 
+PMCID: PMC7509789
+PMID: 32963320 
+

@@ -1,0 +1,33 @@
+
+1. Bioprocess Biosyst Eng. 2020 Nov;43(11):2027-2038. doi:
+10.1007/s00449-020-02391-9. Epub 2020 Jun 22.
+
+Enhanced volatile fatty acid production from sago hampas by Clostridium
+beijerinckii SR1 for bioelectricity generation using microbial fuel cells.
+
+Jenol MA(1), Ibrahim MF(1), Kamal Bahrin E(1), Abd-Aziz S(2).
+
+Author information: 
+(1)Department of Bioprocess Technology, Faculty of Biotechnology and Biomolecular
+Sciences, Universiti Putra Malaysia, 43400, Serdang, Selangor, Malaysia.
+(2)Department of Bioprocess Technology, Faculty of Biotechnology and Biomolecular
+Sciences, Universiti Putra Malaysia, 43400, Serdang, Selangor, Malaysia.
+suraini@upm.edu.my.
+
+Sago hampas is a starch-based biomass from sago processing industries consisted
+of 58% remaining starch. This study has demonstrated the bioconversion of sago
+hampas to volatile fatty acids (VFAs) by Clostridium beijerinckii SR1 via
+anaerobic digestion. Higher total VFAs were obtained from sago hampas (5.04 g/L
+and 0.287 g/g) as compared to commercial starch (5.94 g/L and 0.318 g/g). The
+physical factors have been investigated for the enhancement of VFAs production
+using one-factor-at-a-time (OFAT). The optimum condition; 3% substrate
+concentration, 3 g/L of yeast extract concentration and 2 g/L of ammonium nitrate
+enhanced the production of VFAs by 52.6%, resulted the total VFAs produced is
+7.69 g/L with the VFAs yield of 0.451 g/g. VFAs hydrolysate produced successfully
+generated 273.4 mV of open voltage circuit and 61.5 mW/m2 of power density in
+microbial fuel cells. It was suggested that sago hampas provide as an alternative
+carbon feedstock for bioelectricity generation.
+
+DOI: 10.1007/s00449-020-02391-9 
+PMID: 32572569 
+

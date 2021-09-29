@@ -1,0 +1,38 @@
+
+1. Microorganisms. 2020 Aug 1;8(8). pii: E1172. doi: 10.3390/microorganisms8081172.
+
+Expression of a Shiga-Like Toxin during Plastic Colonization by Two
+Multidrug-Resistant Bacteria, Aeromonas hydrophila RIT668 and Citrobacter
+freundii RIT669, Isolated from Endangered Turtles (Clemmys guttata).
+
+Thomas SG(1), Glover MA(1), Parthasarathy A(1), Wong NH(1), Shipman PA(1), Hudson
+AO(1).
+
+Author information: 
+(1)Thomas H. Gosnell School of Life Sciences, Rochester Institute of Technology, 
+Rochester, NY 14623, USA.
+
+Aeromonas hydrophila RIT668 and Citrobacter freundii RIT669 were isolated from
+endangered spotted turtles (Clemmys guttata). Whole-genome sequencing, annotation
+and phylogenetic analyses of the genomes revealed that the closest relative of
+RIT668 is A. hydrophila ATCC 7966 and Citrobacter portucalensis A60 for RIT669.
+Resistome analysis showed that A. hydrophila and C. freundii harbor six and 19
+different antibiotic resistance genes, respectively. Both bacteria colonize
+polyethylene and polypropylene, which are common plastics, found in the
+environment and are used to fabricate medical devices. The expression of six
+biofilm-related genes-biofilm peroxide resistance protein (bsmA), biofilm
+formation regulatory protein subunit R (bssR), biofilm formation regulatory
+protein subunit S (bssS), biofilm formation regulator (hmsP), toxin-antitoxin
+biofilm protein (tabA) and transcriptional activator of curli operon (csgD)-and
+two virulence factors-Vi antigen-related gene (viaB) and Shiga-like toxin
+(slt-II)-was investigated by RT-PCR. A. hydrophila displayed a >2-fold increase
+in slt-II expression in cells adhering to both polymers, C. freundii adhering on 
+polyethylene displayed a >2-fold, and on polypropylene a >6-fold upregulation of 
+slt-II. Thus, the two new isolates are potential pathogens owing to their drug
+resistance, surface colonization and upregulation of a slt-II-type diarrheal
+toxin on polymer surfaces.
+
+DOI: 10.3390/microorganisms8081172 
+PMCID: PMC7465454
+PMID: 32752245 
+

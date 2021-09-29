@@ -1,0 +1,53 @@
+
+1. J Chem Inf Model. 2020 Sep 3. doi: 10.1021/acs.jcim.0c00855. [Epub ahead of
+print]
+
+Differential Stability of Aurein 1.2 Pores in Model Membranes of Two Probiotic
+Strains.
+
+Balatti GE(1)(2), Domene C(3)(4), Martini MF(5)(6), Pickholz M(1)(2).
+
+Author information: 
+(1)Departamento de Física Facultad de Ciencias Exactas y Naturales, Universidad
+de Buenos Aires, Ciudad Universitaria, Pabellón 1, Buenos Aires 1428, Argentina.
+(2)IFIBA, CONICET-UBA, Ciudad Universitaria, Pabellón 1, Buenos Aires 1428,
+Argentina.
+(3)Department of Chemistry, University of Bath, 1 South Bldg., Claverton Down,
+Bath BA27AY, The United Kingdom.
+(4)Department of Chemistry, University of Oxford, Oxford OX1 3TA, The United
+Kingdom.
+(5)Facultad de Farmacia y Bioquímica, Departamento de Farmacología, Universidad
+de Buenos Aires, Junín 956, C1113AAD Buenos Aires, Argentina.
+(6)Instituto de Química y Metabolismo del Fármaco, Fac. de Farmacia y Bioquímica,
+(Universidad de Buenos Aires, IQUIMEFA-CONICET), Junín 956, C1113AAD Buenos
+Aires, Argentina.
+
+Aurein 1.2 is an antimicrobial peptide from the skin secretion of an Australian
+frog. In the previous experimental work, we reported a differential action of
+aurein 1.2 on two probiotic strains Lactobacillus delbrueckii subsp. bulgaricus
+(CIDCA 331) and Lactobacillus delbrueckii subsp. lactis (CIDCA 133). The
+differences found were attributed to the bilayer compositions. Cell cultures and 
+CIDCA 331-derived liposomes showed higher susceptibility than the ones derived
+from the CIDCA 133 strain, leading to content leakage and structural disruption. 
+Here, we used molecular dynamics simulations to explore these systems at the
+atomistic level. We hypothesize that if the antimicrobial peptides organized
+themselves to form a pore, it will be more stable in membranes that emulate the
+CIDCA 331 strain than in those of the CIDCA 133 strain. To test this hypothesis, 
+we simulated preassembled aurein 1.2 pores embedded into bilayer models that
+emulate the two probiotic strains. It was found that the general behavior of the 
+systems depends on the composition of the membrane rather than the preassemble
+system characteristics. Overall, it was observed that aurein 1.2 pores are more
+stable in the CIDCA 331 model membranes. This fact coincides with the high
+susceptibility of this strain against antimicrobial peptide. In contrast, in the 
+case of the CIDCA 133 model membranes, peptides migrate to the water-lipid
+interphase, the pore shrinks, and the transport of water through the pore is
+reduced. The tendency of glycolipids to make hydrogen bonds with peptides
+destabilizes the pore structures. This feature is observed to a lesser extent in 
+CIDCA 331 due to the presence of anionic lipids. Glycolipid transverse diffusion 
+(flip-flop) between monolayers occurs in the pore surface region in all the cases
+considered. These findings expand our understanding of the antimicrobial peptide 
+resistance properties of probiotic strains.
+
+DOI: 10.1021/acs.jcim.0c00855 
+PMID: 32815723 
+

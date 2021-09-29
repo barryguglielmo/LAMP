@@ -1,0 +1,49 @@
+
+1. Front Microbiol. 2020 Jul 7;11:1417. doi: 10.3389/fmicb.2020.01417. eCollection
+2020.
+
+Phylogenomic Classification and Biosynthetic Potential of the Fossil
+Fuel-Biodesulfurizing Rhodococcus Strain IGTS8.
+
+Thompson D(1), Cognat V(2), Goodfellow M(3), Koechler S(2), Heintz D(2), Carapito
+C(4), Van Dorsselaer A(4), Mahmoud H(5), Sangal V(1), Ismail W(6).
+
+Author information: 
+(1)Faculty of Health and Life Sciences, Northumbria University, Newcastle upon
+Tyne, United Kingdom.
+(2)Institut de Biologie Moléculaire des Plantes, Centre National de Recherche
+Scientifique (CNRS), Université de Strasbourg, Strasbourg, France.
+(3)School of Natural and Environmental Sciences, Newcastle University, Newcastle 
+upon Tyne, United Kingdom.
+(4)Laboratoire de Spectrométrie de Masse Bio-organique, Institut
+Pluridisciplinaire Hubert Curien, UMR 7178 CNRS, Université de Strasbourg,
+Strasbourg, France.
+(5)Department of Biological Sciences, College of Science, Kuwait University,
+Safat, Kuwait.
+(6)Environmental Biotechnology Program, Life Sciences Department, College of
+Graduate Studies, Arabian Gulf University, Manama, Bahrain.
+
+Rhodococcus strain IGTS8 is the most extensively studied model bacterium for
+biodesulfurization of fossil fuels via the non-destructive sulfur-specific 4S
+pathway. This strain was initially assigned to Rhodococcus rhodochrous and later 
+to Rhodococcus erythropolis thus making its taxonomic status debatable and
+reflecting the limited resolution of methods available at the time. In this
+study, phylogenomic analyses of the whole genome sequences of strain IGTS8 and
+closely related rhodococci showed that R. erythropolis and Rhodococcus
+qingshengii are very closely related species, that Rhodococcus strain IGTS8 is a 
+R. qingshengii strain and that several strains identified as R. erythropolis
+should be re-classified as R. qingshengii. The genomes of strains assigned to
+these species contain potentially novel biosynthetic gene clusters showing that
+members of these taxa should be given greater importance in the search for new
+antimicrobials and other industrially important biomolecules. The plasmid-borne
+dsz operon encoding fossil fuel desulfurization enzymes was present in R.
+qingshengii IGTS8 and R. erythropolis XP suggesting that it might be transferable
+between members of these species.
+
+Copyright © 2020 Thompson, Cognat, Goodfellow, Koechler, Heintz, Carapito, Van
+Dorsselaer, Mahmoud, Sangal and Ismail.
+
+DOI: 10.3389/fmicb.2020.01417 
+PMCID: PMC7358434
+PMID: 32733398 
+

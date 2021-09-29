@@ -1,0 +1,34 @@
+
+1. J Microbiol Biotechnol. 2020 Jan 28;30(1):146-154. doi: 10.4014/jmb.1907.07015.
+
+Improving Catalytic Efficiency and Changing Substrate Spectrum for Asymmetric
+Biocatalytic Reductive Amination.
+
+Jiang W(1), Wang Y(2).
+
+Author information: 
+(1)Department of Bioengineering and Biotechnology, College of Chemical
+Engineering, Huaqiao University, Xiamen, Fujian, 361021, P.R. China.
+(2)Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.
+
+With the advantages of biocatalytic method, enzymes have been excavated for the
+synthesis of chiral amino acids by the reductive amination of ketones, offering a
+promising way of producing pharmaceutical intermediates. In this work, a robust
+phenylalanine dehydrogenase (PheDH) with wide substrate spectrum and high
+catalytic efficiency was constructed through rational design and
+active-site-targeted, site-specific mutagenesis by using the parent enzyme from
+Bacillus halodurans. Active sites with bonding substrate and amino acid residues 
+surrounding the substrate binding pocket, 49L-50G-51G, 74M,77K,
+122G-123T-124D-125M, 275N, 305L and 308V of the PheDH, were identified.
+Noticeably, the new mutant PheDH (E113D-N276L) showed approximately 6.06-fold
+increment of kcat/Km in the oxidative deamination and more than 1.58-fold in the 
+reductive amination compared to that of the wide type. Meanwhile, the PheDHs
+exhibit high capacity of accepting benzylic and aliphatic ketone substrates. The 
+broad specificity, high catalytic efficiency and selectivity, along with
+excellent thermal stability, render these broad-spectrum enzymes ideal targets
+for further development with potential diagnostic reagent and pharmaceutical
+compounds applications.
+
+DOI: 10.4014/jmb.1907.07015 
+PMID: 31546300  [Indexed for MEDLINE]
+

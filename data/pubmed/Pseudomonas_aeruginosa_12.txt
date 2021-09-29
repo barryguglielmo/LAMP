@@ -1,0 +1,54 @@
+
+1. Appl Environ Microbiol. 2020 Oct 2. pii: AEM.01452-20. doi: 10.1128/AEM.01452-20.
+[Epub ahead of print]
+
+Burkholderia thailandensis methylated hydroxy-alkylquinolines: biosynthesis and
+antimicrobial activity in co-cultures.
+
+Klaus JR(1), Majerczyk C(2), Moon S(2), Eppler NA(1), Smith S(2), Tuma E(2),
+Groleau MC(3), Asfahl KL(4), Smalley NE(4), Hayden HS(4), Piochon M(3), Ball
+P(2), Dandekar AA(4), Gauthier C(3), Déziel E(3), Chandler JR(5).
+
+Author information: 
+(1)Department of Molecular Biosciences, University of Kansas, Lawrence KS 66045.
+(2)Department of Biology, Oregon State University - Cascades, Bend, OR 97702.
+(3)Centre Armand-Frappier Santé Biotechnologie, Institut national de la recherche
+scientifique (INRS), Laval (Québec), Canada H7V 1B7.
+(4)Department of Microbiology, University of Washington, Seattle WA 98195.
+(5)Department of Molecular Biosciences, University of Kansas, Lawrence KS 66045
+jrchandler@ku.edu.
+
+The bacterium Burkholderia thailandensis produces an arsenal of secondary
+metabolites that have diverse structures and roles in the ecology of this
+soil-dwelling bacterium. In co-culture experiments, B. thailandensis strain E264 
+secretes an antimicrobial that nearly eliminates another soil bacterium, Bacillus
+subtilis strain 168. To identify the antimicrobial, we used a transposon
+mutagenesis approach. This screen identified antimicrobial-defective mutants with
+insertions in the hmqA, hmqC, and hmqF genes involved in biosynthesis of a family
+of 2-alkyl-4(1H)-quinolones called 4-hydroxy-3-methyl-2-alkenylquinolines
+(HMAQs), which are closely related to the Pseudomonas aeruginosa
+4-hydroxy-2-alkylquinolines (HAQs). Insertions also occurred in the previously
+uncharacterized gene BTH_II1576 ("hmqL"). Results confirm that BTH_II1576 is
+involved in generating N-oxide derivatives of HMAQs (HMAQ-NO). Synthetic HMAQ-NO 
+is active against B. subtilis 168, showing ∼50-fold more activity than HMAQ. Both
+the methyl group and the length of the carbon side chain account for high
+activity of HMAQ-NO. The results provide new information on the biosynthesis and 
+activities of HMAQs and reveal new insight into how these molecules might be
+important for the ecology of B. thailandensis. IMPORTANCE The soil bacterium
+Burkholderia thailandensis produces 2-alkyl-4(1H)-quinolones, mostly methylated
+4-hydroxy-alkenylquinolines, a family of relatively unstudied metabolites similar
+to molecules also synthesized by Pseudomonas aeruginosa. Several of the
+methylated 4-hydroxy-alkenylquinolines have antimicrobial activity against other 
+species. We show that Bacillus subtilis strain 168 is particularly susceptible to
+N-oxidated methyl-alkenylquinolines (HMAQ-NO). We confirmed HMAQ-NO biosynthesis 
+requires the previously unstudied protein HmqL. These results provide new
+information about the biology of 2-alkyl-4(1H)-quinolones, particularly the
+methylated 4-hydroxy-alkenylquinolines, which are unique to B. thailandensis.
+This study also has importance for understanding B. thailandensis secondary
+metabolites and has implications for potential therapeutic development.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/AEM.01452-20 
+PMID: 33008823 
+

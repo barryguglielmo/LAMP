@@ -1,0 +1,49 @@
+
+1. Front Endocrinol (Lausanne). 2020 May 20;11:272. doi: 10.3389/fendo.2020.00272.
+eCollection 2020.
+
+Characteristics of the Urinary Microbiome From Patients With Gout: A Prospective 
+Study.
+
+Ning Y(1)(2), Yang G(1), Chen Y(3), Zhao X(1), Qian H(3), Liu Y(3), Chen S(3),
+Shi G(3).
+
+Author information: 
+(1)School of Medicine, Xiamen University, Xiamen, China.
+(2)Department of Intensive Care Unit, The First Affiliated Hospital of Xiamen
+University, Xiamen, China.
+(3)Department of Rheumatology and Clinical Immunology, The First Affiliated
+Hospital of Xiamen University, Xiamen, China.
+
+The role of host microbes in the pathogenesis of several diseases has been
+established, and altered microbiomes have been related to diseases. However, the 
+variability of the urinary microbiome in individuals with gout has not been
+evaluated to date. Therefore, we conducted the present prospective study to
+characterize the urinary microbiome and its potential relation to gout. Urine
+samples from 30 patients with gout and 30 healthy controls were analyzed by
+Illumina MiSeq sequencing of the 16S rRNA hypervariable regions, and the
+microbiomes were compared according to alpha-diversity indices, complexity (beta 
+diversity) with principal component analysis, and composition with linear
+discriminant analysis effect size. The most significantly different taxa at the
+phylum and genus levels were identified, and their potential as biomarkers for
+discriminating gout patients was assessed based on receiver operating
+characteristic (ROC) curve analysis. Compared with the healthy controls, there
+was a dramatic decrease in microbial richness and diversity in the urine of gout 
+patients. The phylum Firmicutes and its derivatives (Lactobacillus_iners,
+Family_XI, and Finegoldia), the phylum Actinobacteria and its derivatives
+(unidentified_Actinobacteria, Corynebacteriales, Corynebacteriale,
+Corynebacterium_1, and Corynebacterium_tuberculostearicum), and the genera
+Prevotella and Corynebacterium_1 were significantly enriched in the urine of gout
+patients. ROC analysis indicated that the top five altered microbial genera could
+be reliable markers for distinguishing gout patients from healthy individuals.
+These findings demonstrate that there are specific alterations in the microbial
+diversity of gout patients. Thus, further studies on the causal relationship
+between gout and the urinary microbiome will offer new prospects for diagnosing, 
+preventing, and treating gout.
+
+Copyright © 2020 Ning, Yang, Chen, Zhao, Qian, Liu, Chen and Shi.
+
+DOI: 10.3389/fendo.2020.00272 
+PMCID: PMC7251145
+PMID: 32508748 
+

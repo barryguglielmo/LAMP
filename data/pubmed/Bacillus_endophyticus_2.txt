@@ -1,0 +1,49 @@
+
+1. J Hazard Mater. 2020 Apr 15;388:121787. doi: 10.1016/j.jhazmat.2019.121787. Epub 
+2019 Nov 29.
+
+Ortho and para oxydehalogenation of dihalophenols catalyzed by the monooxygenase 
+TcpA and NAD(P)H:FAD reductase Fre.
+
+Fang L(1), Qin H(1), Shi T(1), Wu X(1), Li QX(2), Hua R(3).
+
+Author information: 
+(1)Key Laboratory for Agri-Food Safety, School of Resource & Environment, Anhui
+Agricultural University, Hefei, Anhui 230036, China.
+(2)Department of Molecular Biosciences and Bioengineering, University of Hawaii
+at Manoa, 1955 East-West Road, Honolulu, HI 96822, United States. Electronic
+address: qingl@hawaii.edu.
+(3)Key Laboratory for Agri-Food Safety, School of Resource & Environment, Anhui
+Agricultural University, Hefei, Anhui 230036, China. Electronic address:
+rimaohua@ahau.edu.cn.
+
+Dihalophenols such as dichlorophenols (DCPs) are important industrial chemical
+intermediates, but also persistent pollutants in the environment. Oxidative
+dehalogenation by microbes is an efficient biological method to degrade
+halophenols, but the mechanism is unclear yet. Cupriavidus nantongensis X1T was a
+type strain of genus Cupriavidus, and could degrade 2,4-dichlorophenol of 50 mg/L
+within 12 h. The degradation rate constant was approximately 84 fold greater than
+that by Bacillus endophyticus CP1R43, a well-studied 2,4-DCP-degrading bacterial 
+strain. The genes encoding 2,4,6-trichlorophenol monooxygenase (TcpA) and
+NAD(P)H:FAD reductase (Fre) from strain X1T were cloned and expressed. The
+expressed TcpA Fre were purified. The molecular docking of TcpA with DCPs and
+point mutation experiments showed that the degradation activity of TcpA was
+associated with the length of the hydrogen bond between the substrates and the
+amino acids in the active pocket. DCPs were degraded via a stepwise oxidative
+dechlorination in a positive relationship between the oxidation ability and the
+electron-withdrawing potential of the p-position group. In addition, TcpA has
+dual dehalogenation and denitration functions. The results demonstrate that
+either strain X1T or TcpA and Fre can effectively dehalogenate dihalophenols,
+which can be useful for the treatment of dihalophenols in wastewaters and
+remediation of DCP-contaminated environments.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhazmat.2019.121787 
+PMID: 31818658 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

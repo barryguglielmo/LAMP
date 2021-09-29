@@ -1,0 +1,46 @@
+
+1. FASEB J. 2020 Sep 17. doi: 10.1096/fj.202000622R. [Epub ahead of print]
+
+Metagenomic analysis of the gut microbiome in atherosclerosis patients identify
+cross-cohort microbial signatures and potential therapeutic target.
+
+Liu S(1)(2), Zhao W(1), Liu X(2), Cheng L(2).
+
+Author information: 
+(1)Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases,
+The Sixth Affiliated Hospital, School of Medicine, Sun Yat-Sen University,
+Guangzhou, China.
+(2)Department of Critical Care Medicine, Shenzhen People's Hospital, The Second
+Clinical Medicine College of Jinan University, Shenzhen, China.
+
+The gut microbiota is associated with cardiovascular diseases, including
+atherosclerosis. However, the composition, functional capacity, and metabolites
+of the gut microbiome about atherosclerosis have not been comprehensively
+studied. Here, we reanalyzed 25 metagenomic stool samples from Sweden and 385
+metagenomic stool samples from China using HUMAnN2, PanPhlAn, and MelonnPan to
+obtain more sufficient information. We found that the samples from
+atherosclerotic patients in both cohorts were depleted in Bacteroides
+xylanisolvens, Odoribacter splanchnicus, Eubacterium eligens, Roseburia
+inulinivorans, and Roseburia intestinalis. At the functional level, healthy
+metagenomes were both enriched in pathways of starch degradation V, glycolysis
+III (from glucose), CDP-diacylglycerol biosynthesis, and folate transformations. 
+R inulinivorans and R intestinalis are major contributors to starch degradation
+V, while E eligens greatly contribute to the pathway CDP-diacylglycerol
+biosynthesis, and B xylanisolvens and B uniformis contribute to folate
+transformations II. The 11 marker species selected from the Chinese cohort
+distinguish patients from controls with an area under the receiver operating
+characteristics curve (AUC) of 0.86. Strain-level microbial analysis revealed a
+geographically associated adaptation of the strains from E eligens, B uniformis, 
+and E coli. Two gut microbial metabolites, nicotinic acid and hydrocinnamic acid,
+had significantly higher predicted abundance in the control samples compared to
+the patients in the Chinese cohort, and interestinglynicotinic acid is already an
+effective lipid-lowering drug to reducing cardiovascular risk. Our results
+indicate intestinal bacteria such as B xylanisolvens, E eligens, and R
+inulinivorans could be promising probiotics and potential therapeutic target for 
+atherosclerosis.
+
+© 2020 Federation of American Societies for Experimental Biology.
+
+DOI: 10.1096/fj.202000622R 
+PMID: 32939880 
+

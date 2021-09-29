@@ -1,0 +1,44 @@
+
+1. J Med Microbiol. 2020 Apr;69(4):558-571. doi: 10.1099/jmm.0.001178.
+
+The bacterial neurometabolic signature of the gut microbiota of young children
+with autism spectrum disorders.
+
+Averina OV(1)(2), Kovtun AS(3)(2), Polyakova SI(1), Savilova AM(1), Rebrikov
+DV(1), Danilenko VN(3)(2).
+
+Author information: 
+(1)Pirogov Russian National Research Medical University, Moscow 117997, Russia.
+(2)Vavilov Institute of General Genetics, Russian Academy of Sciences, Moscow
+119991, Russia.
+(3)Moscow Institute of Physics and Technology (State University), Dolgoprudny,
+Moscow oblast 141701, Russia.
+
+Introduction. The human gut microbiota is currently seen as an important factor
+that can promote autism spectrum disorder (ASD) development in children.Aim. This
+study aimed to detect differences in the taxonomic composition and content of
+bacterial genes encoding key enzymes involved in the metabolism of neuroactive
+biomarker compounds in the metagenomes of gut microbiota of children with ASD and
+neurotypical children.Methodology. A whole metagenome sequencing approach was
+used to obtain metagenomic data on faecal specimens of 36 children with ASD and
+21 healthy neurotypical children of 3-5 years old. Taxonomic analysis was
+conducted using MetaPhlAn2. The developed bioinformatics algorithm and created
+catalogue of the orthologues were applied to identify bacterial genes of
+neuroactive compounds in the metagenomes. For the identification of metagenomic
+signatures of children with ASD, Wilcoxon's test and adjustment for multiple
+comparisons were used.Results. Statistically significant differences with
+decreases in average abundance in the microbiota of ASD children were found for
+the genera Barnesiella and Parabacteroides and species Alistipes putredinis, B.
+caccae, Bacteroides intestinihominis, Eubacterium rectale, Parabacteroides
+distasonis and Ruminococcus lactaris. Average relative abundances of the detected
+genes and neurometabolic signature approach did not reveal many significant
+differences in the metagenomes of the groups that were compared. We noted
+decreases in the abundance of genes linked to production of GABA, melatonine and 
+butyric acid in the ASD metagenomes.Conclusion. For the first time, the
+neurometabolic signature of the gut microbiota of young children with ASD is
+presented. The data can help to provide a comparative assessment of the
+transcriptional and metabolomic activity of the identified genes.
+
+DOI: 10.1099/jmm.0.001178 
+PMID: 32213246  [Indexed for MEDLINE]
+

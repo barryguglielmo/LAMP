@@ -1,0 +1,54 @@
+
+1. Front Microbiol. 2020 Aug 28;11:1926. doi: 10.3389/fmicb.2020.01926. eCollection 
+2020.
+
+Highly Sensitive and Rapid Identification of Streptococcus agalactiae Based on
+Multiple Cross Displacement Amplification Coupled With Lateral Flow Biosensor
+Assay.
+
+Cheng X(1)(2), Dou Z(3), Yang J(4), Gu Y(5), Liu D(6), Xie L(7), Ren T(1), Liu
+Y(1), Yu Z(1), Tang Y(1), Wang M(1).
+
+Author information: 
+(1)Department of Respiratory and Critical Care Medicine, Taihe Hospital, Hubei
+University of Medicine, Shiyan, China.
+(2)Hubei Key Laboratory of Embryonic Stem Cell Research, Taihe Hospital, Hubei
+University of Medicine, Shiyan, China.
+(3)Department of Gynaecology and Obstetrics, Taihe Hospital, Hubei University of 
+Medicine, Shiyan, China.
+(4)Department of Pharmacy, Wuhan General Hospital of the Chinese People's
+Liberation Army, Wuhan, China.
+(5)Department of Clinical Laboratory, Taihe Hospital, Hubei University of
+Medicine, Shiyan, China.
+(6)Department of Stomatology, Taihe Hospital, Hubei University of Medicine,
+Shiyan, China.
+(7)Department of Dermatology, Taihe Hospital, Hubei University of Medicine,
+Shiyan, China.
+
+Streptococccus agalactiae (S. agalactiae) is an important neonatal pathogen that 
+is associated with mortality and morbidity. Therefore, we developed a rapid,
+accurate, and sensitive method based on multiple cross displacement amplification
+(MCDA) for the detection of the target pathogen. Four sets of MCDA primers were
+designed for targeting the S. agalactiae-specific groEL gene, and one set of MCDA
+primers with the optimum amplification efficiency was screened for establishing
+the S. agalactiae-MCDA assay. As a result, the newly-developed assay could be
+conducted at a fixed temperature (61°C) for only 30 min, eliminating the use of
+complex instruments. A portable and user-friendly nanoparticle-based lateral flow
+biosensor (LFB) assay was employed for reporting MCDA results within 2 min. Our
+results suggested that the detection limit of the S. agalactiae-MCDA-LFB assay is
+300 fg per reaction, and no cross-reaction occurred with non-S. agalactiae
+strains. For 260 vaginal and rectal swabs, the detection rate of the MCDA-LFB
+assay was 7.7%, which was in accordance with the reference method of
+enrichment/qPCR, and higher by 4.6% than the CHROMagar culture. Moreover, the
+total procedure time of the MCDA-LFB assay was around 50 min, including sample
+collection, template preparation, MCDA reaction, and result reporting. Therefore,
+the MCDA-LFB assay is superior to enrichment/qPCR and CHROMagar culture and has
+great promise for point-of-care testing of S. agalactiae from vaginal and rectal 
+swabs of pregnant women in resource-limited settings.
+
+Copyright © 2020 Cheng, Dou, Yang, Gu, Liu, Xie, Ren, Liu, Yu, Tang and Wang.
+
+DOI: 10.3389/fmicb.2020.01926 
+PMCID: PMC7485445
+PMID: 32983004 
+

@@ -1,0 +1,44 @@
+
+1. Genomics. 2020 Sep;112(5):3783-3793. doi: 10.1016/j.ygeno.2020.04.014. Epub 2020 
+Apr 22.
+
+Pathogenic and antimicrobial resistance genes in Streptococcus oralis strains
+revealed by comparative genome analysis.
+
+Zhou J(1), Sun T(1), Kang W(1), Tang D(1), Feng Q(2).
+
+Author information: 
+(1)Department of Human Microbiome, School and Hospital of Stomatology, Shandong
+University, Shandong Provincial Key Laboratory of Oral Tissue Regeneration,
+Shandong Engineering Laboratory for Dental Materials and Oral Tissue
+Regeneration, No. 44-1 Wenhua Road West, 250012 Jinan, Shandong, China.
+(2)Department of Human Microbiome, School and Hospital of Stomatology, Shandong
+University, Shandong Provincial Key Laboratory of Oral Tissue Regeneration,
+Shandong Engineering Laboratory for Dental Materials and Oral Tissue
+Regeneration, No. 44-1 Wenhua Road West, 250012 Jinan, Shandong, China; State Key
+Laboratory of Microbial Technology, Shandong University,266237 Qingdao, Shandong,
+China; NHC Key Laboratory of Otorhinolaryngology (Shandong University), Jinan,
+Shandong, China. Electronic address: fengqiang@sdu.edu.cn.
+
+Streptococcus oralis is an early colonizer bacterium in dental plaques and is
+considered a potential pathogen of infective endocarditis (IE) disease. In this
+study, we built a complete genome map of Streptococcus oralis strain SOT,
+Streptococcus oralis strain SOD and Streptococcus infantis strain SO and
+performed comparative genomic analysis among these three strains. The results
+showed that there are five genomic islands (GIs) in strain SOT and one CRISPR in 
+strain SOD. Each genome harbors various pathogenic genes related to diseases and 
+drug resistance, while the antibiotic resistance genes in strains SOT and SOD
+were quite similar but different from those in strain SO. In addition, we
+identified 17 main virulence factors and capsule-related genes in three strains. 
+These results suggest the pathogenic potential of Streptococcus strains, which
+lay a foundation for the prevention and treatment of a Streptococcus oralis
+infection.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ygeno.2020.04.014 
+PMID: 32334114 
+
+Conflict of interest statement: Declaration of Competing Interest All authors
+declare that they have no competing interests.
+

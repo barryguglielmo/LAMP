@@ -1,0 +1,56 @@
+
+1. Sci Rep. 2020 Aug 10;10(1):13449. doi: 10.1038/s41598-020-70528-7.
+
+Cross-talk between airway and gut microbiome links to IgE responses to house dust
+mites in childhood airway allergies.
+
+Chiu CY(1), Chan YL(2)(3), Tsai MH(4), Wang CJ(5), Chiang MH(6), Chiu CC(5), Su
+SC(7)(8).
+
+Author information: 
+(1)Division of Pediatric Pulmonology, Department of Pediatrics, Chang Gung
+Memorial Hospital at Linkou, and Chang Gung University, Taoyuan, Taiwan.
+pedchestic@gmail.com.
+(2)Department of Emergency Medicine, Chang Gung Memorial Hospital at Linkou,
+Taoyuan, Taiwan.
+(3)Clinical Informatics and Medical Statistics Research Center, Chang Gung
+University, Taoyuan, Taiwan.
+(4)Department of Pediatrics, Chang Gung Memorial Hospital at Keelung, and Chang
+Gung University, Taoyuan, Taiwan.
+(5)Division of Pediatric Pulmonology, Department of Pediatrics, Chang Gung
+Memorial Hospital at Linkou, and Chang Gung University, Taoyuan, Taiwan.
+(6)Clinical Metabolomics Core Laboratory, Chang Gung Memorial Hospital at Linkou,
+College of Medicine, Chang Gung University, Taoyuan, Taiwan.
+(7)Whole-Genome Research Core Laboratory of Human Diseases, Chang Gung Memorial
+Hospital, Keelung, Taiwan. zenith5862@hotmail.com.
+(8)Central Research Laboratory, XiaMen Chang Gung Hospital, Xiamen, China.
+zenith5862@hotmail.com.
+
+A connection between airway and gut microbiota related to allergen exposure in
+childhood allergies was not well addressed. We aimed to identify the microbiota
+alterations in the airway and gut related to mite-specific IgE responses in young
+children with airway allergies. This study enrolled 60 children, including 38
+mite-sensitized children (20 rhinitis and 18 asthma), and 22 non-mite-sensitized 
+healthy controls. Microbiome composition analysis of the throat swab and stool
+samples was performed using bacterial 16S rRNA sequencing. An integrative
+analysis of the airway and stool microbial profiling associated with IgE
+reactions in childhood allergic rhinitis and asthma was examined. The Chao1 and
+Shannon indices in the airway were significantly lower than those in the stool.
+Additionally, an inverse association of the airway microbial diversity with house
+dust mite (HDM) sensitization and allergic airway diseases was noted. Fecal IgE
+levels were positively correlated with the serum Dermatophagoides pteronyssinus- 
+and Dermatophagoides farinae-specific IgE levels. Airway Leptotrichia spp.
+related to asthma were strongly correlated with fecal Dorea and Ruminococcus
+spp., which were inversely associated with fecal IgE levels and risk of allergic 
+rhinitis. Moreover, four airway genera, Campylobacter, Selenomonas, Tannerella,
+and Atopobium, were negatively correlated with both serum mite-specific and fecal
+IgE levels. Among them, the airway Selenomonas and Atopobium spp. were positively
+correlated with stool Blautia and Dorea spp. related to asthma and allergic
+rhinitis, respectively. In conclusion, airway microbial dysbiosis in response to 
+HDM and its cross-talk with the gut microbial community is related to allergic
+airway diseases in early childhood.
+
+DOI: 10.1038/s41598-020-70528-7 
+PMCID: PMC7417544
+PMID: 32778700 
+

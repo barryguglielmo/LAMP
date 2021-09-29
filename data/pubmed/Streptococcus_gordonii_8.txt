@@ -1,0 +1,41 @@
+
+1. BMC Microbiol. 2020 Sep 14;20(1):280. doi: 10.1186/s12866-020-01944-y.
+
+Intracellular Ser/Thr/Tyr phosphoproteome of the oral commensal Streptococcus
+gordonii DL1.
+
+Robertsson C(1), Svensäter G(2), Blum Z(3), Wickström C(2).
+
+Author information: 
+(1)Department of Oral Biology and Pathology, Faculty of Odontology, Malmö
+University, 20506, Malmö, Sweden. carolina.robertsson@mau.se.
+(2)Department of Oral Biology and Pathology, Faculty of Odontology, Malmö
+University, 20506, Malmö, Sweden.
+(3)Department of Biomedical Science, Malmö University, 20506, Malmö, Sweden.
+
+BACKGROUND: To respond and adapt to environmental challenges, prokaryotes
+regulate cellular processes rapidly and reversibly through protein
+phosphorylation and dephosphorylation. This study investigates the intracellular 
+proteome and Ser/Thr/Tyr phosphoproteome of the oral commensal Streptococcus
+gordonii. Intracellular proteins from planktonic cells of S. gordonii DL1 were
+extracted and subjected to 2D-gel electrophoresis. Proteins in general were
+visualized using Coomassie Brilliant Blue and T-Rex staining. Phosphorylated
+proteins were visualized with Pro-Q Diamond Phosphoprotein Gel Stain. Proteins
+were identified by LC-MS/MS and sequence analysis.
+RESULTS: In total, sixty-one intracellular proteins were identified in S.
+gordonii DL1, many of which occurred at multiple isoelectric points. Nineteen of 
+these proteins were present as one or more Ser/Thr/Tyr phosphorylated form. The
+identified phosphoproteins turned out to be involved in a variety of cellular
+processes.
+CONCLUSION: Nineteen phosphoproteins involved in various cellular functions were 
+identified in S. gordonii. This is the first time the global intracellular
+Ser/Thr/Tyr phosphorylation profile has been analysed in an oral streptococcus.
+Comparison with phosphoproteomes of other species from previous studies showed
+many similarities. Proteins that are consistently found in a phosphorylated state
+across several species and growth conditions may represent a core phosphoproteome
+profile shared by many bacteria.
+
+DOI: 10.1186/s12866-020-01944-y 
+PMCID: PMC7488673
+PMID: 32928109 
+

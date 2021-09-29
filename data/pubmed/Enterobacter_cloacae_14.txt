@@ -1,0 +1,58 @@
+
+1. Enzyme Microb Technol. 2020 Oct;140:109650. doi: 10.1016/j.enzmictec.2020.109650.
+Epub 2020 Aug 12.
+
+Production of 2,3-dihydroxyisovalerate by Enterobacter cloacae.
+
+Yang Y(1), Zhang Z(1), Lu X(2), Gu J(3), Wang Y(1), Yao Y(3), Liao X(4), Shi
+J(5), Lye G(6), Baganz F(7), Hao J(8).
+
+Author information: 
+(1)Lab of Biorefinery, Shanghai Advanced Research Institute, Chinese Academy of
+Sciences, No. 99 Haike Road, Pudong, Shanghai, 201210, PR China; School of Life
+Science, Shanghai University, Shanghai 200444, PR China.
+(2)Lab of Biorefinery, Shanghai Advanced Research Institute, Chinese Academy of
+Sciences, No. 99 Haike Road, Pudong, Shanghai, 201210, PR China.
+(3)Lab of Biorefinery, Shanghai Advanced Research Institute, Chinese Academy of
+Sciences, No. 99 Haike Road, Pudong, Shanghai, 201210, PR China; University of
+Chinese Academy of Sciences, Beijing, 100049, PR China.
+(4)School of Life Science, Shanghai University, Shanghai 200444, PR China.
+(5)Lab of Biorefinery, Shanghai Advanced Research Institute, Chinese Academy of
+Sciences, No. 99 Haike Road, Pudong, Shanghai, 201210, PR China; School of Life
+Science and Technology, ShanghaiTech University, PR China.
+(6)Department of Biochemical Engineering, University College London, Gordon
+Street, London WC1H 0AH, UK.
+(7)Department of Biochemical Engineering, University College London, Gordon
+Street, London WC1H 0AH, UK. Electronic address: f.baganz@ucl.ac.uk.
+(8)Lab of Biorefinery, Shanghai Advanced Research Institute, Chinese Academy of
+Sciences, No. 99 Haike Road, Pudong, Shanghai, 201210, PR China; Department of
+Biochemical Engineering, University College London, Gordon Street, London WC1H
+0AH, UK. Electronic address: haoj@sari.ac.cn.
+
+2,3-Dihydroxyisovalerate is an intermediate of the valine synthesis pathway.
+However, neither natural microorganisms nor valine producing engineered strains
+have been reported yet to produce this chemical. Based on the 2,3-butanediol
+synthesis pathway, a biological route of 2,3-dihydroxyisovalerate production was 
+developed using a budA and ilvD disrupted Klebsiella pneumoniae strain in our
+previous research. We hypothesised, that other 2,3-butanediol producing bacteria 
+could be used for 2,3-dihydroxyisovalerate production. Here a budA disrupted
+Enterobacter cloacae was constructed, and this strain exhibited a high
+2,3-dihydroxyisovalerate producing ability. Disruption of ilvD in E. cloacae
+ΔbudA further increased 2,3-dihydroxyisovalerate level. The disruption of budA,
+encoding an acetolactate decarboxylase, resulted in the acetolactate synthesized 
+in the 2,3-butanediol synthesis pathway to flow into the valine synthesis
+pathway. The additional disruption of ilvD, encoding a dihydroxy acid
+dehydratase, prevented the 2,3-dihydroxyisovalerate to be further metabolized in 
+the valine synthesis pathway. Thus, the disruption of both budA and ilvD in
+2,3-butanediol producing strains might be an universal strategy for
+2,3-dihydroxyisovalerate accumulation. After optimization of the medium
+components and culture parameters 31.2 g/L of 2,3-dihydroxyisovalerate was
+obtained with a productivity of 0.41 g/L h and a substrate conversion ratio of
+0.56 mol/mol glucose in a fed-batch fermentation. This approach provides an
+economic way for 2,3-dihydroxyisovalerate production.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.enzmictec.2020.109650 
+PMID: 32912674 
+

@@ -1,0 +1,51 @@
+
+1. Microb Ecol. 2020 Sep 30. doi: 10.1007/s00248-020-01609-3. [Epub ahead of print]
+
+Transcriptomic Analysis Reveals Common Adaptation Mechanisms Under Different
+Stresses for Moderately Piezophilic Bacteria.
+
+Wang H(1), Zhang Y(2)(3)(4), Bartlett DH(5), Xiao X(1)(6)(7).
+
+Author information: 
+(1)State Key Laboratory of Microbial Metabolism, School of Life Sciences and
+Biotechnology, Shanghai Jiao Tong University, Shanghai, China.
+(2)State Key Laboratory of Microbial Metabolism, School of Life Sciences and
+Biotechnology, Shanghai Jiao Tong University, Shanghai, China.
+zhang.yusjtu@sjtu.edu.cn.
+(3)School of Oceanography, Shanghai Jiao Tong University, Shanghai, China.
+zhang.yusjtu@sjtu.edu.cn.
+(4)State Key Laboratory of Ocean Engineering, School of Naval Architecture, Ocean
+and Civil Engineering, Shanghai Jiao Tong University, Shanghai, China.
+zhang.yusjtu@sjtu.edu.cn.
+(5)Center for Marine Biotechnology and Biomedicine, Scripps Institution of
+Oceanography, University of California, San Diego, La Jolla, CA, USA.
+(6)State Key Laboratory of Ocean Engineering, School of Naval Architecture, Ocean
+and Civil Engineering, Shanghai Jiao Tong University, Shanghai, China.
+(7)Laboratory for Marine Biology and Biotechnology, Pilot National Laboratory for
+Marine Science and Technology (Qingdao), Qingdao, China.
+
+Piezophiles, by the commonly accepted definition, grow faster under high
+hydrostatic pressure (HHP) than under ambient pressure and are believed to exist 
+only in pressurized environments where life has adapted to HHP during evolution. 
+However, recent findings suggest that piezophiles have developed a common
+adaptation strategy to cope with multiple types of stresses including HHP. These 
+results raise a question on the ecological niches of piezophiles: are piezophiles
+restricted to habitats with HHP? In this study, we observed that the bacterial
+strains Sporosarcina psychrophila DSM 6497 and Lysinibacillus sphaericus LMG
+22257, which were isolated from surface environments and then transferred under
+ambient pressure for half a century, possess moderately piezophilic
+characteristics with optimal growth pressures of 7 and 20 MPa, respectively.
+Their tolerance to HHP was further enhanced by MgCl2 supplementation under the
+highest tested pressure of 50 MPa. Transcriptomic analysis was performed to
+compare gene expression with and without MgCl2 supplementation under 50 MPa for
+S. psychrophila DSM 6497. Among 4390 genes or transcripts obtained, 915
+differentially expressed genes (DEGs) were identified. These DEGs are primarily
+associated with the antioxidant defense system, intracellular compatible solute
+accumulation, and membrane lipid biosynthesis, which have been reported to be
+essential for cells to cope with HHP. These findings indicate no in situ pressure
+barrier for piezophile isolation, and cells may adopt a common adaptation
+strategy to cope with different stresses.
+
+DOI: 10.1007/s00248-020-01609-3 
+PMID: 32995929 
+

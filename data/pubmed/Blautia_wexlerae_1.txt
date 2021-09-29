@@ -1,0 +1,55 @@
+
+1. mSystems. 2020 Mar 24;5(2). pii: e00857-19. doi: 10.1128/mSystems.00857-19.
+
+Depletion of Blautia Species in the Microbiota of Obese Children Relates to
+Intestinal Inflammation and Metabolic Phenotype Worsening.
+
+Benítez-Páez A(1), Gómez Del Pugar EM(2), López-Almela I(2), Moya-Pérez Á(2),
+Codoñer-Franch P(3)(4), Sanz Y(1).
+
+Author information: 
+(1)Microbial Ecology, Nutrition, and Health Research Unit, Institute of
+Agrochemistry and Food Technology, Spanish National Research Council (IATA-CSIC),
+Paterna-Valencia, Spain abenitez@iata.csic.es yolsanz@iata.csic.es.
+(2)Microbial Ecology, Nutrition, and Health Research Unit, Institute of
+Agrochemistry and Food Technology, Spanish National Research Council (IATA-CSIC),
+Paterna-Valencia, Spain.
+(3)Department of Pediatrics, Obstetrics and Gynecology, University of Valencia,
+Valencia, Spain.
+(4)Department of Pediatrics, Dr. Peset University Hospital, Valencia, Spain.
+
+Cross-sectional studies conducted with obese and control subjects have suggested 
+associations between gut microbiota alterations and obesity, but the links with
+specific disease phenotypes and proofs of causality are still scarce. The present
+study aimed to profile the gut microbiota of lean and obese children with and
+without insulin resistance to characterize associations with specific
+obesity-related complications and understand the role played in metabolic
+inflammation. Through massive sequencing of 16S rRNA gene amplicons and data
+analysis using a novel permutation approach, we have detected decreased incidence
+of Blautia species, especially Blautia luti and B. wexlerae, in the gut
+microbiota of obese children, which was even more pronounced in cases with both
+obesity and insulin resistance. There was also a parallel increase in
+proinflammatory cytokines and chemokines (gamma interferon [IFN-γ], tumor
+necrosis factor alpha [TNF-α], and monocyte chemoattractant protein 1 [MCP-1]) in
+feces of obese children compared to those of lean ones. B. luti and B. wexlerae
+were also shown to exert an anti-inflammatory effect in peripheral blood
+mononuclear cell cultures in vitro, compared to non-obesity-associated species.
+We suggest that the depletion of B. luti and B. wexlerae species in the gut
+ecosystem may occur in cases of obesity and contribute to metabolic inflammation 
+leading to insulin resistance.IMPORTANCE Child obesity constitutes a risk factor 
+for developing insulin resistance which, if sustained, could lead to more severe 
+conditions like type 2 diabetes (T2D) in adulthood. Our study identified
+previously unknown species whose depletion (Blautia luti and Blautia wexlerae) is
+associated with insulin resistance in obese individuals. Our results also
+indicate that these bacterial species might help to reduce inflammation causally 
+linked to obesity-related complications. Childhood is considered a window of
+opportunity to tackle obesity. These new findings provide, therefore, valuable
+information for the future design of microbiota-based strategies for the early
+prevention of obesity-related complications.
+
+Copyright © 2020 Benítez-Páez et al.
+
+DOI: 10.1128/mSystems.00857-19 
+PMCID: PMC7093825
+PMID: 32209719 
+

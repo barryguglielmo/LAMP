@@ -1,0 +1,38 @@
+
+1. Environ Sci Pollut Res Int. 2020 Apr;27(11):12755-12766. doi:
+10.1007/s11356-020-07853-x. Epub 2020 Feb 1.
+
+Enhancement of Aeribacillus pallidus strain VP3 lipase catalytic activity through
+optimization of medium composition using Box-Behnken design and its application
+in detergent formulations.
+
+Ktata A(1), Karray A(2), Mnif I(3), Bezzine S(1).
+
+Author information: 
+(1)Laboratoire de Biochimie et de Génie Enzymatique des Lipases, ENIS Route de
+Soukra, Université de Sfax-Tunisia, Sfax, Tunisia.
+(2)Laboratoire de Biochimie et de Génie Enzymatique des Lipases, ENIS Route de
+Soukra, Université de Sfax-Tunisia, Sfax, Tunisia. karrayaida_biotech@yahoo.fr.
+(3)Unité d'Enzymes et Bioconversion, Sfax, Tunisia.
+
+Lipases are hydrolytic enzymes owing much importance in industrial applications. 
+These enzyme-based detergents are ecofriendly and produce a wastewater with low
+level of COD (chemical oxygen demand). In the present work, a novel halophilous, 
+thermoalkaline, and detergent-tolerant lipase produced by a newly isolated
+Aeribacillus pallidus strain VP3 was studied. Considerable interest has been
+given to this lipase by the improvement of its catalytic activity through the
+optimization of the pH, the (C/N) ratio, and the inoculum size, using the
+response surface methodology based on the Box-Behnken design of experiments. A
+total of 16 experiments were conducted, and the optimized pH, (C/N) ratio, and
+inoculum size were 10, 1, and 0.3, respectively. The results of the analysis of
+variance (ANOVA) test indicated that the established model was significant (p
+value < 0.05). The optimization of the production conditions leads to 2.83-fold
+of increase in the catalytic activity calculated as the ratio of the activity
+obtained after optimization (68 U) and the initial activity before optimization
+(24 U). All in all, the lipase of Aeribacillus pallidus could be considered as a 
+potential candidate to be incorporated in detergent formulations since it shows a
+good stability towards detergents and wash performance.
+
+DOI: 10.1007/s11356-020-07853-x 
+PMID: 32006338  [Indexed for MEDLINE]
+

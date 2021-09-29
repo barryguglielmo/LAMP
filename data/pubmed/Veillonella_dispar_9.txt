@@ -1,0 +1,55 @@
+
+1. J Dent Res. 2020 Jun;99(6):703-712. doi: 10.1177/0022034520908595. Epub 2020 Feb 
+28.
+
+Sex-Based Diverse Plaque Microbiota in Children with Severe Caries.
+
+de Jesus VC(1)(2), Shikder R(2)(3)(4), Oryniak D(1)(2), Mann K(1)(2)(5), Alamri
+A(1)(2), Mittermuller B(1)(2)(5), Duan K(1)(2), Hu P(2)(3)(4), Schroth
+RJ(1)(2)(5)(6), Chelikani P(1)(2).
+
+Author information: 
+(1)Manitoba Chemosensory Biology Research Group and Department of Oral Biology,
+Dr. Gerald Niznick College of Dentistry, Rady Faculty of Health Sciences,
+University of Manitoba, Winnipeg, MB, Canada.
+(2)Children's Hospital Research Institute of Manitoba, Winnipeg, MB, Canada.
+(3)Department of Biochemistry and Medical Genetics, Max Rady College of Medicine,
+Rady Faculty of Health Sciences, University of Manitoba, Winnipeg, MB, Canada.
+(4)Department of Computer Science, Faculty of Sciences, University of Manitoba,
+Winnipeg, MB, Canada.
+(5)Department of Preventive Dental Science, Dr. Gerald Niznick College of
+Dentistry, Rady Faculty of Health Sciences, University of Manitoba, Winnipeg, MB,
+Canada.
+(6)Department of Pediatrics and Child Health, Max Rady College of Medicine, Rady 
+Faculty of Health Sciences, University of Manitoba, Winnipeg, MB, Canada.
+
+Severe early childhood caries (S-ECC) is a multifactorial disease that can lead
+to suffering and reduced oral health-related quality of life in young children.
+The bacterial and fungal composition of dental plaque and how children's sex is
+associated with S-ECC are largely unknown. In this study, V4-16S rRNA and ITS1
+rRNA gene amplicon sequencing was used to compare the plaque bacteriome and
+mycobiome of children <72 mo of age: 40 with S-ECC (15 males, 25 females) and 40 
+caries-free (19 males, 21 females). Health- and nutrition-related questionnaire
+data were also investigated. This study aimed to analyze potential sex-based
+differences in the supragingival plaque microbiota of young children with S-ECC
+and those caries-free. Behavioral and nutritional habit differences were observed
+between children with S-ECC and those caries-free and between male and female
+children. Overall, higher levels of Veillonella dispar, Streptococcus mutans, and
+other bacterial species were found in the S-ECC group as compared with
+caries-free controls (P < 0.05). A significant difference in the abundance of
+Neisseria was observed between males and females with S-ECC (P < .05). Fungal
+taxonomic analysis showed significantly higher levels of Candida dubliniensis in 
+the plaque of children with S-ECC as compared with those caries-free (P < 0.05), 
+but no differences were observed with Candida albicans (P > 0.05). Significant
+differences in the relative abundance of Mycosphaerella, Cyberlindnera, and
+Trichosporon fungal species were also observed between the caries-free and S-ECC 
+groups (P < 0.05). Machine learning analysis revealed the most important
+bacterial and fungal species for classifying S-ECC versus caries-free. Different 
+patterns of crosstalk between microbial species were observed between male and
+female children. Our work demonstrates that plaque microbiota and sex may be
+important determinants for S-ECC and could be factors to consider for inclusion
+in caries risk assessment tools.
+
+DOI: 10.1177/0022034520908595 
+PMID: 32109360 
+

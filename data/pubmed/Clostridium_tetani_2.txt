@@ -1,0 +1,46 @@
+
+1. Toxicon. 2020 Sep 1;187:75-81. doi: 10.1016/j.toxicon.2020.08.001. [Epub ahead of
+print]
+
+Evaluation of a recombinant tetanus toxin subunit vaccine.
+
+Liu FJ(1), Shi DY(2), Li ZY(1), Lu JS(2), Wang R(2), Pang XB(3), Yang ZX(4), Yu
+YZ(5).
+
+Author information: 
+(1)Beijing Institute of Biotechnology, Beijing, 100071, China; Pharmaceutical
+College, Henan University, Kaifeng, 475001, China.
+(2)Beijing Institute of Biotechnology, Beijing, 100071, China.
+(3)Pharmaceutical College, Henan University, Kaifeng, 475001, China. Electronic
+address: pxb0411@163.com.
+(4)Beijing Institute of Biotechnology, Beijing, 100071, China. Electronic
+address: yy_xiao@126.com.
+(5)Beijing Institute of Biotechnology, Beijing, 100071, China. Electronic
+address: yunzhouyu@163.com.
+
+Tetanus is an acute, fatal disease caused by exotoxin produced by Clostridium
+tetani. The current vaccine against tetanus is based on inactivated tetanus toxin
+(TeNT). To develop a recombinant TeNT vaccine suitable for replacement of
+full-length tetanus toxoid (TT) vaccine for use in humans, a recombinant
+non-tagged isoform of the Hc domain of the tetanus toxin (THc) was expressed in
+Escherichia coli and purified by sequential chromatography steps. The
+immunogenicity and protective effect of the THc antigen were explored and
+compared with those of TT in Balb/c mice. The THc-based subunit vaccine provided 
+complete protection against TeNT challenge following a high dosage as a toxoid
+vaccine. While the anti-THc and neutralising antibody titres were higher for the 
+THc-based vaccine than the TT vaccine because protective epitopes are located on 
+the THc domain. Frequency- and dose-dependent immunoprotection were also observed
+in THc-immunised mice. Mice immunised with one injection of 1 μg or 4 μg THc
+antigen were completely protected against 102 or 103 50% mouse lethal dose (LD50)
+of TeNT, respectively. Furthermore, the THc protein was found to recognise and
+bind to ganglioside GT1b in a dose-dependent manner, and anti-THc sera antibodies
+also inhibited binding between THc and GT1b. Antigen on the form of recombinant
+non-tagged THc domain expressed in E. coli achieved strong immunoprotective
+potency, suggesting that it could be developed into a candidate subunit vaccine
+against tetanus as an alternative to the current TT vaccine.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.toxicon.2020.08.001 
+PMID: 32889026 
+

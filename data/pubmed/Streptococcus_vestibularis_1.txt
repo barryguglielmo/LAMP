@@ -1,0 +1,55 @@
+
+1. BMC Microbiol. 2020 Jul 8;20(1):201. doi: 10.1186/s12866-020-01883-8.
+
+Tongue microbiome of smokeless tobacco users.
+
+Halboub E(1)(2), Al-Ak'hali MS(3)(4), Alamir AH(5), Homeida HE(5), Baraniya D(6),
+Chen T(7), Al-Hebshi NN(8).
+
+Author information: 
+(1)Department of Maxillofacial Surgery and Diagnostic Sciences, College of
+Dentistry, Jazan University, Jazan, Saudi Arabia. mhelboub@gmail.com.
+(2)Department of Oral Medicine, Oral Pathology and Oral Radiology, Faculty of
+Dentistry, Sana'a university, Sana'a, Yemen. mhelboub@gmail.com.
+(3)Department of Preventive Dental Sciences, College of Dentistry, Jazan
+University, Jazan, Saudi Arabia.
+(4)Department of Periodontology, Faculty of Dentistry, Sana'a University, Sana'a,
+Yemen.
+(5)Department of Maxillofacial Surgery and Diagnostic Sciences, College of
+Dentistry, Jazan University, Jazan, Saudi Arabia.
+(6)Oral Microbiome Research Laboratory, Department of Oral Health Sciences,
+Maurice H. Kornberg School of Dentistry, Temple University, Philadelphia, PA,
+USA.
+(7)Department of Microbiology, Forsyth Institute, Cambridge, MA, USA.
+(8)Oral Microbiome Research Laboratory, Department of Oral Health Sciences,
+Maurice H. Kornberg School of Dentistry, Temple University, Philadelphia, PA,
+USA. alhebshi@temple.edu.
+
+BACKGROUND: The possibility that smokeless tobacco may contribute to oral
+carcinogenesis by influencing the oral microbiome has not been explored. This
+preliminary cross-sectional study sought to assess the effect of using shammah, a
+form of smokeless tobacco prevalent in Arabia, on the tongue microbiome. Tongue
+scarping samples were obtained from 29 shammah users (SU; 27.34 ± 6.9 years) and 
+23 shammah non-users (SNU; 27.7 ± 7.19 years) and analyzed with 16S rRNA gene
+sequencing (V1-V3). Species-level taxonomy assignment of the high-quality, merged
+reads was obtained using a previously described BLASTn-based algorithm.
+Downstream analyses were performed with QIIME, LEfSe, and R.
+RESULTS: A total of 178 species, belonging to 62 genera and 8 phyla were
+identified. Genera Streptococcus, Leptotrichia, Actinomyces, Veillonella,
+Haemophilus, Prevotella and Neisseria accounted for more than 60% of the average 
+microbiome. There were no differences between the two groups in species richness 
+and alpha-diversity, but PCoA showed significant separation (P = 0.015, ANOSIM). 
+LEfSe analysis identified 22 species to be differentially abundant between the SU
+and SNU. However, only 7 species maintained a false discovery rate of ≤0.2 and
+could cluster the two groups separately: Rothia mucilaginosa, Streptococcus sp.
+oral taxon 66, Actinomyces meyeri, Streptococcus vestibularis Streptococcus
+sanguinis and a potentially novel Veillonella species in association with SU, and
+Oribacterium asaccharolyticum with SNU.
+CONCLUSION: These preliminary results indicate that shammah use induces tongue
+microbiome changes including enrichment of several species with high acetaldehyde
+production potential, which warrants further investigation.
+
+DOI: 10.1186/s12866-020-01883-8 
+PMCID: PMC7346439
+PMID: 32640977 
+

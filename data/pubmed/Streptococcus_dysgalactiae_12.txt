@@ -1,0 +1,49 @@
+
+1. Antibiotics (Basel). 2020 Jun 4;9(6). pii: E302. doi: 10.3390/antibiotics9060302.
+
+Proteomic Characterization of Antibiotic Resistance, and Production of
+Antimicrobial and Virulence Factors in Streptococcus Species Associated with
+Bovine Mastitis. Could Enzybiotics Represent Novel Therapeutic Agents Against
+These Pathogens?
+
+Abril AG(1), Carrera M(2), Böhme K(3), Barros-Velázquez J(4), Rama JR(1),
+Calo-Mata P(4), Sánchez-Pérez A(5), Villa TG(1).
+
+Author information: 
+(1)Departamento de Microbiología y Parasitología, Facultad de Farmacia, Campus
+Sur, Universidad de Santiago de Compostela, 15782 Santiago de Compostela, Spain.
+(2)Marine Research Institute (IIM), Spanish National Research Council (CSIC),
+Eduardo Cabello 6, 36208 Vigo, Spain.
+(3)Agroalimentary Technological Center of Lugo, Montirón 154, 27002 Lugo, Spain.
+(4)Departamento de Química Analítica, Nutrición y Bromatología, Area de
+Tecnología de los Alimentos, Facultad de Veterinaria, Campus Lugo, Universidad de
+Santiago de Compostela, 27002 Lugo, Spain.
+(5)Sydney School of Veterinary Science, Faculty of Science, University of Sydney,
+Sydney, NSW 2006, Australia.
+
+Streptococcus spp. are major mastitis pathogens present in dairy products, which 
+produce a variety of virulence factors that are involved in streptococcal
+pathogenicity. These include neuraminidase, pyrogenic exotoxin, and M protein,
+and in addition they might produce bacteriocins and antibiotic-resistance
+proteins. Unjustifiable misuse of antimicrobials has led to an increase in
+antibiotic-resistant bacteria present in foodstuffs. Identification of the
+mastitis-causing bacterial strain, as well as determining its antibiotic
+resistance and sensitivity is crucial for effective therapy. The present work
+focused on the LC-ESI-MS/MS (liquid chromatography-electrospray ionization tandem
+mass spectrometry) analysis of tryptic digestion peptides from mastitis-causing
+Streptococcus spp. isolated from milk. A total of 2706 non-redundant peptides
+belonging to 2510 proteins was identified and analyzed. Among them, 168 peptides 
+were determined, representing proteins that act as virulence factors, toxins,
+anti-toxins, provide resistance to antibiotics that are associated with the
+production of lantibiotic-related compounds, or play a role in the resistance to 
+toxic substances. Protein comparisons with the NCBI database allowed the
+identification of 134 peptides as specific to Streptococcus spp., while two
+peptides (EATGNQNISPNLTISNAQLNLEDKNK and DLWC*NM*IIAAK) were found to be
+species-specific to Streptococcus dysgalactiae. This proteomic repository might
+be useful for further studies and research work, as well as for the development
+of new therapeutics for the mastitis-causing Streptococcus strains.
+
+DOI: 10.3390/antibiotics9060302 
+PMCID: PMC7344566
+PMID: 32512932 
+

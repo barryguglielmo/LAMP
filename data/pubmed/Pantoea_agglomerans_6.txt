@@ -1,0 +1,42 @@
+
+1. Microorganisms. 2020 Sep 22;8(9). pii: E1449. doi: 10.3390/microorganisms8091449.
+
+Population Dynamics between Erwinia amylovora, Pantoea agglomerans and
+Bacteriophages: Exploiting Synergy and Competition to Improve Phage Cocktail
+Efficacy.
+
+Gayder S(1)(2), Parcey M(1)(2), Nesbitt D(2), Castle AJ(3), Svircev AM(2).
+
+Author information: 
+(1)Centre for Biotechnology, Brock University, St. Catharines, ON L2S 3A1,
+Canada.
+(2)Agriculture and Agri-Food Canada, Vineland Station, ON L0R 2E0, Canada.
+(3)Department of Biological Sciences, Brock University, St. Catharines, ON L2S
+3A1, Canada.
+
+Bacteriophages are viruses capable of recognizing with high specificity,
+propagating inside of, and destroying their bacterial hosts. The phage lytic life
+cycle makes phages attractive as tools to selectively kill pathogenic bacteria
+with minimal impact on the surrounding microbiome. To effectively harness the
+potential of phages in therapy, it is critical to understand the phage-host
+dynamics and how these interactions can change in complex populations. Our model 
+examined the interactions between the plant pathogen Erwinia amylovora, the
+antagonistic epiphyte Pantoea agglomerans, and the bacteriophages that infect and
+kill both species. P. agglomerans strains are used as a phage carrier; their role
+is to deliver and propagate the bacteriophages on the plant surface prior to the 
+arrival of the pathogen. Using liquid cultures, the populations of the pathogen, 
+carrier, and phages were tracked over time with quantitative real-time PCR. The
+jumbo Myoviridae phage ϕEa35-70 synergized with both the Myoviridae ϕEa21-4 and
+Podoviridae ϕEa46-1-A1 and was most effective in combination at reducing E.
+amylovora growth over 24 h. Phage ϕEa35-70, however, also reduced the growth of
+P. agglomerans. Phage cocktails of ϕEa21-4, ϕEa46-1-A1, and ϕEa35-70 at
+multiplicities of infections (MOIs) of 10, 1, and 0.01, respectively, no longer
+inhibited growth of P. agglomerans. When this cocktail was grown with P.
+agglomerans for 8 h prior to pathogen introduction, pathogen growth was reduced
+by over four log units over 24 h. These findings present a novel approach to
+study complex phage-host dynamics that can be exploited to create more effective 
+phage-based therapies.
+
+DOI: 10.3390/microorganisms8091449 
+PMID: 32971807 
+

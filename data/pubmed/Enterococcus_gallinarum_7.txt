@@ -1,0 +1,50 @@
+
+1. Microb Drug Resist. 2020 May;26(5):505-519. doi: 10.1089/mdr.2019.0052. Epub 2019
+Oct 30.
+
+Antibiotic Susceptibility and Virulence Genes in Enterococcus Isolates from Wild 
+Mammals Living in Tuscany, Italy.
+
+Dec M(1), Stępień-Pyśniak D(1), Gnat S(2), Fratini F(3), Urban-Chmiel R(1), Cerri
+D(3), Winiarczyk S(4), Turchi B(3).
+
+Author information: 
+(1)Department of Veterinary Prevention and Avian Diseases and Faculty of
+Veterinary Medicine, Institute of Biological Bases of Animal Diseases, University
+of Life Sciences in Lublin, Lublin, Poland.
+(2)Department of Veterinary Microbiology, Faculty of Veterinary Medicine,
+Institute of Biological Bases of Animal Diseases, University of Life Sciences in 
+Lublin, Lublin, Poland.
+(3)Department of Veterinary Science, University of Pisa, Pisa, Italy.
+(4)Department of Epizootiology and Clinic of Infectious Diseases, Faculty of
+Veterinary Medicine, University of Life Sciences in Lublin, Lublin, Poland.
+
+Drug resistance is of great importance to human and animal health, but wild
+environments are still poorly understood in terms of their function as reservoirs
+of dangerous microbes and resistance determinants. The aim of the study was to
+determine the antibiotic susceptibility and virulence factors of Enterococcus
+bacteria from wildlife in Tuscany, Italy. Of the 36 mammalian fecal samples, 52
+isolates were derived and classified as Enterococcus faecium (46% of isolates),
+Enterococcus hirae (19%), Enterococcus faecalis (13%), Enterococcus gallinarum
+(8%), Enterococcus casseliflavus (6%), Enterococcus durans (4%), Enterococcus
+mundtii (2%), and Enterococcus canintestini (2%) using both matrix-assisted laser
+desorption/ionization-time of flight mass spectrometry and methods based on
+analysis of genetic material. The isolates tested showed the most frequent
+resistance to tetracycline (36.5% isolates), ciprofloxacin (36.5%), and
+erythromycin (25%). Three isolates showed high level of resistance (minimal
+inhibitory concentration ≥1,024 μg/mL) to vancomycin and teicoplanin, and 15% of 
+the isolates demonstrated multidrug resistance. No isolate resistant to
+ampicillin, linezolid, or streptomycin was found. Among resistance genes,
+aac(6)-Ii (50% isolates), msrA/B (48%), msrC (42%), and tetM (31%) were
+identified most frequently. All E. faecium and E. faecalis isolates were positive
+for the efaAfm and efaAfs genes, respectively. Other virulence-associated genes, 
+that is, gelE, cylA, asa1, esp, ace, orf1481, ptsD, and sgrA, were found in the
+majority of E. faecalis and several E. faecium isolates. Multilocus sequence
+typing analysis performed for selected isolates revealed three new sequence
+types. The results obtained indicate that wild mammals might act as reservoirs of
+resistance and virulence determinants that could be transferred between different
+ecosystems.
+
+DOI: 10.1089/mdr.2019.0052 
+PMID: 31663834 
+

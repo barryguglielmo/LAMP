@@ -1,0 +1,48 @@
+
+1. Data Brief. 2020 Feb 5;29:105216. doi: 10.1016/j.dib.2020.105216. eCollection
+2020 Apr.
+
+Dataset of microbial community structure in alcohol sprayed banana associated
+with ripening process.
+
+Dwivany FM(1)(2)(3), Syam F(1), Nugrahapraja H(1)(2)(3), Radjasa OK(4), Moeis
+MR(1)(5), Uchiyama S(6).
+
+Author information: 
+(1)School of Life Sciences and Technology, Institut Teknologi Bandung, Bandung
+40132, Indonesia.
+(2)Biosciences and Biotechnology Research Center, Institut Teknologi Bandung,
+Bandung 40132, Indonesia.
+(3)Bali International Research Center for Banana, Badung, Bali 80361, Indonesia.
+(4)Department of Marine Science, Faculty of Fishery and Marine Science,
+Diponegoro University, Semarang 50275, Central Java, Indonesia.
+(5)INABIG Research Institute, Bandung 40135, Indonesia.
+(6)Department of Biotechnology, Graduate School of Engineering, Osaka University,
+2-1 Yamadaoka, Suita, Osaka 565-0871, Japan.
+
+Banana ripening is a complex molecular process that produces visible changes in
+the texture, aroma, taste and nutritional content. Ripening is controlled by
+genetic code, metabolic pathway and associated microbiome. We reported the
+microbial community structure during banana ripening with alcohol treatment to
+discover endophytic and epiphytic microbes. We observed the pulp and peel from
+the first and seventh days of Cavendish (Musa acuminata cv. Cavendish) from
+mature green fruit and treated with 70% alcohol or distilled water sum up to
+eight samples and applied the 16S rRNA Illumina sequencing from V3-V4 gene
+region. After quality check 144,368 sequences were obtained in the dataset
+comprising a total read length of 1,237,805 base pairs. A sum of 199 genera were 
+successfully isolated, with genera Alcaligenes was the most dominant genera at
+56.65% and followed by more than 1% were genera Acinetobacter, Enhydrobacter,
+Pseudomonas, Stenotrophomas, Thermus, and Aerococcus using mothur pipelines. The 
+highest diversity sample with 101 unique genera was belongs to distilled water
+treated raw bananas peel (NN1K) and the lowest diversity at 38 was belongs to
+distilled water treated ripe bananas pulp (NN7D). The metagenome data are
+available at NCBI Sequence Read Archive (SRA) database and Biosample under
+accession number PRJNA590572. The data contribute to discover different bacterial
+communities during post-harvest treatment.
+
+© 2020 The Author(s).
+
+DOI: 10.1016/j.dib.2020.105216 
+PMCID: PMC7031138
+PMID: 32099874 
+

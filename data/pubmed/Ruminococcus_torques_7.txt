@@ -1,0 +1,63 @@
+
+1. Br J Nutr. 2020 Jun 1:1-12. doi: 10.1017/S0007114520001853. [Epub ahead of print]
+
+Dietary inflammatory potential in relation to the gut microbiome: results from a 
+cross-sectional study.
+
+Zheng J(1), Hoffman KL(1)(2), Chen JS(1)(3), Shivappa N(4), Sood A(1)(5), Browman
+GJ(1), Dirba DD(6), Hanash S(7), Wei P(3)(8), Hebert JR(4), Petrosino JF(2),
+Schembre SM(6)(9), Daniel CR(1)(3).
+
+Author information: 
+(1)Department of Epidemiology, Division of Cancer Prevention and Population
+Sciences, The University of Texas MD Anderson Cancer Center, Houston, TX77030,
+USA.
+(2)Alkek Center for Metagenomics and Microbiome Research, Department of Molecular
+Virology and Microbiology, Baylor College of Medicine, Houston, TX77030, USA.
+(3)Quantitative Sciences Program, The University of Texas Graduate School of
+Biomedical Sciences at Houston and MD Anderson Cancer Center, Houston, TX77030,
+USA.
+(4)Department of Epidemiology and Biostatistics, Arnold School of Public Health, 
+University of South Carolina, Columbia, SC29208, USA.
+(5)Internal Medicine, University of Texas Medical Branch, Galveston, TX77555,
+USA.
+(6)Department of Behavioral Science, Division of Cancer Prevention and Population
+Sciences, The University of Texas MD Anderson Cancer Center, Houston, TX77030,
+USA.
+(7)Department of Clinical Cancer Prevention, Division of Cancer Prevention and
+Population Sciences, The University of Texas MD Anderson Cancer Center, Houston, 
+TX77030, USA.
+(8)Department of Biostatistics, The University of Texas MD Anderson Cancer
+Center, Houston, TX77030, USA.
+(9)Department of Family and Community Medicine, University of Arizona, Tucson,
+AZ85721, USA.
+
+Diet has direct and indirect effects on health through inflammation and the gut
+microbiome. We investigated total dietary inflammatory potential via the
+literature-derived index (Dietary Inflammatory Index (DII®)) with gut microbiota 
+diversity, composition and function. In cancer-free patient volunteers initially 
+approached at colonoscopy and healthy volunteers recruited from the medical
+centre community, we assessed 16S ribosomal DNA in all subjects who provided
+dietary assessments and stool samples (n 101) and the gut metagenome in a subset 
+of patients with residual fasting blood samples (n 34). Associations of
+energy-adjusted DII scores with microbial diversity and composition were examined
+using linear regression, permutational multivariate ANOVA and linear discriminant
+analysis. Spearman correlation was used to evaluate associations of species and
+pathways with DII and circulating inflammatory markers. Across DII levels, α- and
+β-diversity did not significantly differ; however, Ruminococcus torques,
+Eubacterium nodatum, Acidaminococcus intestini and Clostridium leptum were more
+abundant in the most pro-inflammatory diet group, while Akkermansia muciniphila
+was enriched in the most anti-inflammatory diet group. With adjustment for age
+and BMI, R. torques, E. nodatum and A. intestini remained significantly
+associated with a more pro-inflammatory diet. In the metagenomic and fasting
+blood subset, A. intestini was correlated with circulating plasminogen activator 
+inhibitor-1, a pro-inflammatory marker (rho = 0·40), but no associations remained
+significant upon correction for multiple testing. An index reflecting overall
+inflammatory potential of the diet was associated with specific microbes, but not
+overall diversity of the gut microbiome in our study. Findings from this
+preliminary study warrant further research in larger samples and prospective
+cohorts.
+
+DOI: 10.1017/S0007114520001853 
+PMID: 32475373 
+

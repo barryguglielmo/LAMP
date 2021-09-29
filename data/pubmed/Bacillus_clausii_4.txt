@@ -1,0 +1,52 @@
+
+1. Sci Rep. 2020 Jul 28;10(1):12636. doi: 10.1038/s41598-020-69533-7.
+
+Protective action of Bacillus clausii probiotic strains in an in vitro model of
+Rotavirus infection.
+
+Paparo L(1)(2), Tripodi L(2), Bruno C(2), Pisapia L(1)(2), Damiano C(1), Pastore 
+L(2)(3)(4), Berni Canani R(5)(6)(7)(8).
+
+Author information: 
+(1)Department of Translational Medical Science-Pediatric Section, University of
+Naples "Federico II", Via S. Pansini 5, 80131, Naples, Italy.
+(2)CEINGE-Biotecnologie Avanzate S.C.Ar.L., University of Naples Federico II,
+Naples, Italy.
+(3)Department of Molecular Medicine and Biotechnology, University of Naples
+Federico II, Naples, Italy.
+(4)Task Force on Microbiome Studies, University of Naples Federico II, Naples,
+Italy.
+(5)Department of Translational Medical Science-Pediatric Section, University of
+Naples "Federico II", Via S. Pansini 5, 80131, Naples, Italy. berni@unina.it.
+(6)CEINGE-Biotecnologie Avanzate S.C.Ar.L., University of Naples Federico II,
+Naples, Italy. berni@unina.it.
+(7)European Laboratory for the Investigation of Food-Induced Diseases, University
+of Naples Federico II, Naples, Italy. berni@unina.it.
+(8)Task Force on Microbiome Studies, University of Naples Federico II, Naples,
+Italy. berni@unina.it.
+
+Rotavirus is the most common cause of acute gastroenteritis (AGE) in young
+children. Bacillus clausii (B. clausii) is a spore-forming probiotic that is able
+to colonize the gut. A mixture of four B. clausii strains (O/C, T, SIN and N/R)
+is commonly used for the treatment of AGE, and it has been demonstrated that it
+can reduce the duration and severity of diarrhea in children with AGE. Few
+studies have sought to characterize the mechanisms responsible for such
+beneficial effects. Intestinal effects of probiotics are likely to be
+strain-specific. We conducted a series of in vitro experiments investigating the 
+activities of this mixture of B. clausii strains on biomarkers of mucosal barrier
+integrity and immune function in a cellular model of Rotavirus infection. B.
+clausii protected enterocytes against Rotavirus-induced decrease in
+trans-epithelial electrical resistance, and up-regulated expression of mucin 5AC 
+and tight junction proteins (occludin and zonula occludens-1), all of which are
+important for effective mucosal barrier function. B. clausii also inhibited
+reactive oxygen species production and release of pro-inflammatory cytokines
+(interleukin-8 and interferon-β) in Rotavirus-infected cells, and down-regulated 
+pro-inflammatory Toll-like receptor 3 pathway gene expression. Such mechanisms
+likely contributed to the observed protective effects of B. clausii against
+reduced cell proliferation and increased apoptosis in Rotavirus-infected
+enterocytes.
+
+DOI: 10.1038/s41598-020-69533-7 
+PMCID: PMC7387476
+PMID: 32724066 
+

@@ -1,0 +1,42 @@
+
+1. J Microbiol Biotechnol. 2020 Sep 15. doi: 10.4014/jmb.2007.07004. [Epub ahead of 
+print]
+
+Characterization of CYP125A13, the first steroid C-27 monooxygenase from
+Streptomyces peucetius ATCC27952.
+
+Rimal H(1), Subedi P(1), Kim KH(1), Park H(2), Lee JH(3)(4), Oh TJ(1)(5)(6).
+
+Author information: 
+(1)Department of Life Science and Biochemical Engineering, Graduate School,
+SunMoon University, Asan 31460, Korea.
+(2)Division of Biotechnology, College of Life Sciences and Biotechnology, Korea
+University, Seoul 02841, Korea.
+(3)Unit of Research for Practical Application, Korea Polar Research Institute,
+Incheon 21990, Korea.
+(4)Department of Polar Sciences, University of Science and Technology, Incheon
+21990, Korea.
+(5)Genome-based BioIT Convergence Institute, Asan 31460, Korea.
+(6)Department of Pharmaceutical Engineering and Biotechnology, SunMoon
+University, Asan 31460, Korea.
+
+The characterization of cytochrome P450 CYP125A13 from Streptomyces peucetius was
+conducted using cholesterol as the sole substrate. The in vitro enzymatic assay
+utilizing putidaredoxin and putidaredoxin reductase from Pseudomonas putida
+revealed that CYP125A13 bound cholesterol and hydroxylated it. The calculated KD 
+value, catalytic conversion rates, and Km value were 56.92 ± 11.28 μM, 1.95 nmol 
+min-1 nmol-1, and 11.3 ± 2.8 μM, respectively. Gas chromatography-mass
+spectrometry (GC-MS) analysis showed that carbon 27 of the cholesterol side-chain
+was hydroxylated, characterizing CYP125A13 as steroid C27-hydroxylase. The
+homology modeling and docking results also revealed the binding of cholesterol to
+the active site, facilitated by the hydrophobic amino acids and position of the
+C27-methyl group near heme. This orientation was favorable for the hydroxylation 
+of the C27-methyl group, supporting the in vitro analysis. This was the first
+reported case of the hydroxylation of cholesterol at the C-27 position by
+Streptomyces P450. This study also established the catalytic function of
+CYP125A13 and provides a solid basis for further studies related to the catabolic
+potential of Streptomyces species.
+
+DOI: 10.4014/jmb.2007.07004 
+PMID: 32958729 
+

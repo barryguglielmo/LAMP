@@ -1,0 +1,40 @@
+
+1. Int J Syst Evol Microbiol. 2020 Jul;70(7):4269-4279. doi: 10.1099/ijsem.0.004283.
+
+Caproicibacter fermentans gen. nov., sp. nov., a new caproate-producing bacterium
+and emended description of the genus Caproiciproducens.
+
+Flaiz M(1), Baur T(1), Brahner S(1), Poehlein A(2), Daniel R(2), Bengelsdorf
+FR(1).
+
+Author information: 
+(1)Institut für Mikrobiologie und Biotechnologie, Universität Ulm,
+Albert-Einstein-Allee 11, 89081 Ulm, Germany.
+(2)Genomic and Applied Microbiology & Göttingen Genomics Laboratory, Georg-August
+University Göttingen, Grisebachstr. 8, D-37077 Göttingen, Germany.
+
+A strictly anaerobic bacterial strain designated EA1T was isolated from an
+enrichment culture inoculated with biogas reactor content. Cells of strain EA1T
+are spore-forming rods (1-3×0.4-0.8 µm) and stain Gram-negative, albeit they
+possess a Gram-positive type of cell-wall ultrastructure. Growth of strain EA1T
+was observed at 30 and 37 °C and within a pH range of pH 5-9. The major
+components recovered in the fatty acid fraction were C14:0, C16:0, C16:0 DMA
+(dimethyl acetal) and C16:1 ω7c. Strain EA1T fermented several mono- and
+disaccharides. Metabolic end products from fructose were acetate, butyrate,
+caproate and lactate. Furthermore, ethanol, CO2 and H2 were identified as
+products. The genome consists of a chromosome (3.9 Mbp) with 3797 predicted
+protein-encoding genes and a G+C content of 51.25 mol%. Phylogenetic analysis
+based on 16S rRNA gene sequences indicated that strain EA1T represents a novel
+taxon within the family Oscillospiraceae. The most closely related type strains
+of EA1T, based on 16S rRNA gene sequence identity, are Caproiciproducens
+galactitolivorans BS-1T (94.9 %), [Clostridium] leptum DSM 753T (93.8 %),
+[Clostridium] sporosphaeroides DSM 1294T (91.7 %) and Ruminococcus bromii ATCC
+27255T (91.0 %). Further phenotypic characteristics of strain EA1T differentiate 
+it from related, validly described bacterial species. Strain EA1T represents a
+novel genus and novel species within the family Oscillospiraceae. The proposed
+name is Caproicibacter fermentans gen. nov., sp. nov. The type strain is EA1T
+(DSM 107079T=JCM 33110T).
+
+DOI: 10.1099/ijsem.0.004283 
+PMID: 32584751  [Indexed for MEDLINE]
+

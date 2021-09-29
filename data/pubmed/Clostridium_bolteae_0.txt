@@ -1,0 +1,53 @@
+
+1. Rheumatology (Oxford). 2020 Aug 13. pii: keaa316. doi:
+10.1093/rheumatology/keaa316. [Epub ahead of print]
+
+Influence of proton pump inhibitor or rebamipide use on gut microbiota of
+rheumatoid arthritis patients.
+
+Kim JW(1), Jeong Y(2)(3), Park SJ(2), Jin H(2), Lee J(4), Ju JH(4), Ji GE(2)(3), 
+Park SH(4).
+
+Author information: 
+(1)Division of Rheumatology, Department of Internal Medicine, Daegu Catholic
+University School of Medicine, Daegu.
+(2)Department of Food and Nutrition, Research Institute of Human Ecology, Seoul
+National University, Seoul.
+(3)Research Center, BIFIDO Co., Ltd, Hongcheon.
+(4)Division of Rheumatology, Department of Internal Medicine, Seoul St Mary's
+Hospital, College of Medicine, The Catholic University of Korea, Seoul, Republic 
+of Korea.
+
+OBJECTIVE: Patients with RA commonly use gastrointestinal (GI) protective drugs
+for treatment and prevention of drug-associated GI injuries. However, how these
+drugs affect the gut microbiota in RA patients remains unknown. The objective of 
+this study was to examine the gut microbiota of RA patients according to use of
+GI protective drugs such as proton pump inhibitors (PPIs), histamine 2-receptor
+antagonists and rebamipide.
+METHODS: Faecal samples were obtained from 15 healthy controls and 32 RA patients
+who were receiving PPI, histamine 2-receptor antagonist or rebamipide. Bacterial 
+DNA was extracted from the faecal samples and 16S rRNA sequencing was performed. 
+Microbial composition and function were analysed using Quantitative Insights Into
+Microbial Ecology and Phylogenetic Investigation of Communities by Reconstruction
+of Unobserved States.
+RESULTS: RA patients exhibited reduced diversity and altered composition of the
+gut microbiota compared with healthy controls. The gut microbiota of RA patients 
+receiving acid-suppressing drugs, particularly PPIs, was distinct from that of RA
+patients receiving rebamipide (PPI vs rebamipide, P = 0.005). Streptococcus was
+enriched in RA patients receiving PPI, while Clostridium bolteae was enriched in 
+RA patients receiving rebamipide. The gut microbiota of PPI users was abundant
+with microbial functional pathway involved in the production of virulence
+factors. This featured microbial function was positively correlated with relative
+abundance of Streptococcus, the differentially abundant taxa of PPI users.
+CONCLUSION: The gut microbiota of RA patients receiving PPIs was distinguishable 
+from that of those receiving rebamipide. The enriched virulent function in the
+gut microbiota of PPI users suggests that inappropriate PPI use may be harmful in
+RA patients.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the
+British Society for Rheumatology. All rights reserved. For permissions, please
+email: journals.permissions@oup.com.
+
+DOI: 10.1093/rheumatology/keaa316 
+PMID: 32789440 
+
